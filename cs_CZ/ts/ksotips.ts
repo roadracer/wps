@@ -7,7 +7,7 @@
     <message id="3DColor.title">
         <source>3-D Color</source>
         <extracomment>3DColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D barva</translation>
     </message>
     <message id="3DColor.content">
         <source>Fill the selected 3-D shape with color.
@@ -19,7 +19,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="3DColor2.title">
         <source>3-D Color</source>
         <extracomment>3DColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D barva</translation>
     </message>
     <message id="3DColor2.content">
         <source>Click the arrow to select from different 3-D colors.</source>
@@ -39,7 +39,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="3DOnOff.title">
         <source>3-D On/Off</source>
         <extracomment>3DOnOff.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D zap/vyp</translation>
     </message>
     <message id="3DOnOff.content">
         <source>Turn on or off the 3-D effect applied to the shape.</source>
@@ -59,7 +59,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="3DSurfaceMenu.title">
         <source>Surface</source>
         <extracomment>3DSurfaceMenu.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Povrch</translation>
     </message>
     <message id="3DSurfaceMenu.content">
         <source>Choose a surface effect for the selected 3-D shape in the document.</source>
@@ -129,7 +129,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="Bold.title">
         <source>Bold</source>
         <extracomment>Bold.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tučné</translation>
     </message>
     <message id="Bold.content">
         <source>Make the selected text bold.</source>
@@ -139,7 +139,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="BringForward.title">
         <source>Bring Forward</source>
         <extracomment>BringForward.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dopředu</translation>
     </message>
     <message id="BringForward.content">
         <source>Bring the selected object forward so that it is hidden by fewer objects that are in front of it.</source>
@@ -149,7 +149,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="BringForward2.title">
         <source>Bring Forward</source>
         <extracomment>BringForward2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dopředu</translation>
     </message>
     <message id="BringForward2.content">
         <source>Bring the selected object forward one level or to the front of all objects.</source>
@@ -169,7 +169,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="CTB_Property.title">
         <source>Control Properties</source>
         <extracomment>CTB_Property.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti ovl. prvku</translation>
     </message>
     <message id="CTB_Property.content">
         <source>View and modify properties for the selected control.</source>
@@ -179,7 +179,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="CTB_ViewCode.title">
         <source>View Code</source>
         <extracomment>CTB_ViewCode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit kód</translation>
     </message>
     <message id="CTB_ViewCode.content">
         <source>Launch Visual Basic Editor to edit the code of the selected controls.</source>
@@ -189,7 +189,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="ChangePicture.title">
         <source>Change Picture</source>
         <extracomment>ChangePicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit obrázek</translation>
     </message>
     <message id="ChangePicture.content">
         <source>Change to a different picture, preserving the formatting and size of the current picture.</source>
@@ -199,7 +199,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="ClearFormats.title">
         <source>Clear Formatting</source>
         <extracomment>ClearFormats.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vymazat formátování</translation>
     </message>
     <message id="ClearFormats.content">
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
@@ -209,7 +209,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="ClearTableStyle.title">
         <source>Clear Table Style</source>
         <extracomment>ClearTableStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vymazat styl tabulky</translation>
     </message>
     <message id="ClearTableStyle.content">
         <source>Clear table style of selected cells.</source>
@@ -219,7 +219,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="CloseDevelopmentTools.title">
         <source>Close</source>
         <extracomment>CloseDevelopmentTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="CloseDevelopmentTools.content">
         <source>Click here to hide Developer Tools.</source>
@@ -239,7 +239,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="CloseOtherWindow.title">
         <source>Close Other Windows</source>
         <extracomment>CloseOtherWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít ostatní okna</translation>
     </message>
     <message id="CloseOtherWindow.content">
         <source>Close all other windows except the current one.</source>
@@ -249,7 +249,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="CloseWindow.title">
         <source>Close Window</source>
         <extracomment>CloseWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít okno</translation>
     </message>
     <message id="CloseWindow.content">
         <source>Close the current window.</source>
@@ -259,7 +259,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="Copy.title">
         <source>Copy</source>
         <extracomment>Copy.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat</translation>
     </message>
     <message id="Copy.content">
         <source>Copy the selection and put it on the system Clipboard.</source>
@@ -269,7 +269,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="Cut.title">
         <source>Cut</source>
         <extracomment>Cut.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout</translation>
     </message>
     <message id="Cut.content">
         <source>Cut the selection and put it on the system Clipboard.</source>
@@ -279,7 +279,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="EditPoints.title">
         <source>Edit Points</source>
         <extracomment>EditPoints.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit body</translation>
     </message>
     <message id="EditPoints.content">
         <source>Edit the wrap points to change the shape.</source>
@@ -289,7 +289,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="EditWordArtText.title">
         <source>Edit Text</source>
         <extracomment>EditWordArtText.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit text</translation>
     </message>
     <message id="EditWordArtText.content">
         <source>Edit the text of the selected WordArt.</source>
@@ -319,7 +319,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="FontName.title">
         <source>Font</source>
         <extracomment>FontName.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message id="FontName.content">
         <source>Change the font face.</source>
@@ -329,7 +329,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="FontSize.title">
         <source>Font Size</source>
         <extracomment>FontSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost písma</translation>
     </message>
     <message id="FontSize.content">
         <source>Change the font size.</source>
@@ -339,7 +339,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="InsertPictureFromFile.title">
         <source>Insert Picture</source>
         <extracomment>InsertPictureFromFile.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message id="InsertPictureFromFile.content">
         <source>Insert a picture from local folder.</source>
@@ -349,7 +349,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="InsertSymbol.title">
         <source>Insert Symbol</source>
         <extracomment>InsertSymbol.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit symbol</translation>
     </message>
     <message id="InsertSymbol.content">
         <source>Insert symbols that are not on your keyboard, such as enclosed characters and copyright symbols.</source>
@@ -359,7 +359,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="Italic.title">
         <source>Italic</source>
         <extracomment>Italic.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zkosené</translation>
     </message>
     <message id="Italic.content">
         <source>Italicize the selected text.</source>
@@ -369,7 +369,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSCloudFeedbackTip.title">
         <source>User Feedback</source>
         <extracomment>KOSCloudFeedbackTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odezva od uživatelů</translation>
     </message>
     <message id="KOSCloudFeedbackTip.content">
         <source>Help us to improve WPS Office.</source>
@@ -379,7 +379,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSCloudInformationTip.title">
         <source>User Guide</source>
         <extracomment>KOSCloudInformationTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uživatelská příručka</translation>
     </message>
     <message id="KOSCloudInformationTip.content">
         <source>How to use Office Space.</source>
@@ -429,7 +429,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSOpenCloudFileTip.title">
         <source>Open from Cloud Docs</source>
         <extracomment>KOSOpenCloudFileTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít z dokumentů v cloudu</translation>
     </message>
     <message id="KOSOpenCloudFileTip.content">
         <source>Modifications of documents in Cloud Docs will be directly saved.</source>
@@ -439,7 +439,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSRoamingfileTip.title">
         <source>File Roaming</source>
         <extracomment>KOSRoamingfileTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Roaming souborů</translation>
     </message>
     <message id="KOSRoamingfileTip.content">
         <source>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</source>
@@ -449,7 +449,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSSaveFileTocloudTip.title">
         <source>Save to Cloud Docs</source>
         <extracomment>KOSSaveFileTocloudTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit do cloudových dokumentů</translation>
     </message>
     <message id="KOSSaveFileTocloudTip.content">
         <source>Share with others for discussing, editing, and previewing documents online.</source>
@@ -469,7 +469,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSUserLoginCloudTip.title">
         <source>Sign In</source>
         <extracomment>KOSUserLoginCloudTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message id="KOSUserLoginCloudTip.content">
         <source>Documents will be automatically saved to WPS Office Cloud and can be edited on your PC or mobile device.</source>
@@ -489,7 +489,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="MarkVersion.title">
         <source>Manual Backup</source>
         <extracomment>MarkVersion.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ruční záloha</translation>
     </message>
     <message id="MarkVersion.content">
         <source>Without closing the file, you can manually backup the current file to your File Safe, and add notes to the backup file.</source>
@@ -539,7 +539,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="PictureAdjust.title">
         <source>Adjust Picture</source>
         <extracomment>PictureAdjust.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyladit obrázek</translation>
     </message>
     <message id="PictureAdjust.content">
         <source>Increase or decrease the contrast and brightness of the selected picture.</source>
@@ -549,7 +549,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="PictureColor.title">
         <source>Color</source>
         <extracomment>PictureColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva</translation>
     </message>
     <message id="PictureColor.content">
         <source>Change the color of the selected picture to give it a black and white, washout or transparent color.</source>
@@ -559,7 +559,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="PictureCrop.title">
         <source>Crop</source>
         <extracomment>PictureCrop.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ořez</translation>
     </message>
     <message id="PictureCrop.content">
         <source>Crop the picture to remove any unwanted parts.</source>
@@ -613,7 +613,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="PictureSetTransparentColor.title">
         <source>Set Transparent Color</source>
         <extracomment>PictureSetTransparentColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavit průhlednou barvu</translation>
     </message>
     <message id="PictureSetTransparentColor.content">
         <source>Make a color in the current picture transparent.
@@ -625,7 +625,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message id="PictureSize.title">
         <source>Picture Size</source>
         <extracomment>PictureSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost obrázku</translation>
     </message>
     <message id="PictureSize.content">
         <source>Change the size, rotation degree and zoom scale of the selected shape.</source>
@@ -645,7 +645,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message id="Print.title">
         <source>Print</source>
         <extracomment>Print.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisk</translation>
     </message>
     <message id="Print.content">
         <source>Apply detailed settings to printing, such as printer, print range, print copies, pages per sheet and zoom.</source>
@@ -655,7 +655,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message id="Print2.title">
         <source>Print</source>
         <extracomment>Print2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisk</translation>
     </message>
     <message id="Print2.content">
         <source>Click here to set detailed options of printing, or print directly in default settings.</source>
@@ -665,7 +665,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message id="SendBackward.title">
         <source>Send Backward</source>
         <extracomment>SendBackward.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dozadu</translation>
     </message>
     <message id="SendBackward.content">
         <source>Send the selected object backward so that it is hidden by the objects that are in front of it.</source>
@@ -675,7 +675,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message id="SendBackward2.title">
         <source>Send Backward</source>
         <extracomment>SendBackward2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dozadu</translation>
     </message>
     <message id="SendBackward2.content">
         <source>Send the selected object back one level or to the back of all objects.</source>
@@ -685,7 +685,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message id="ShadowColor.title">
         <source>Shadow Color</source>
         <extracomment>ShadowColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínu</translation>
     </message>
     <message id="ShadowColor.content">
         <source>Set the shadow color of the selected object.
@@ -697,7 +697,7 @@ Click the arrow to select different shadow colors.</source>
     <message id="ShadowColor2.title">
         <source>Shadow Color</source>
         <extracomment>ShadowColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínu</translation>
     </message>
     <message id="ShadowColor2.content">
         <source>Click the arrow to select different shadow colors.</source>
@@ -727,7 +727,7 @@ Click the arrow to select different shadow colors.</source>
     <message id="SwitchWindow.title">
         <source>Switch Windows</source>
         <extracomment>SwitchWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepnout okna</translation>
     </message>
     <message id="SwitchWindow.content">
         <source>Switch to a different currently open window.</source>
@@ -737,7 +737,7 @@ Click the arrow to select different shadow colors.</source>
     <message id="VisualBasicEditor.title">
         <source>Visual Basic Editor</source>
         <extracomment>VisualBasicEditor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Editor Visual Basic</translation>
     </message>
     <message id="VisualBasicEditor.content">
         <source>Open Visual Basic Editor to edit macros.</source>
@@ -841,7 +841,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="WordArtVerticalText.title">
         <source>Vertical Text</source>
         <extracomment>WordArtVerticalText.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text svisle</translation>
     </message>
     <message id="WordArtVerticalText.content">
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
@@ -901,7 +901,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="DocerURLEntranceTip.title">
         <source>Docer Entrance</source>
         <extracomment>DocerURLEntranceTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vstup do Doceru</translation>
     </message>
     <message id="DocerURLEntranceTip.content">
         <source>Provide you the most professional online templates.</source>
@@ -911,7 +911,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="Protect_Eyes.title">
         <source>Eye Protection Mode</source>
         <extracomment>Protect_Eyes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim ochrany zraku</translation>
     </message>
     <message id="Protect_Eyes.content">
         <source>Enable Eye Protection Mode to relieve your eye fatigue.</source>
@@ -921,7 +921,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="Night_Mode.title">
         <source>Night Mode</source>
         <extracomment>Night_Mode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Noční režim</translation>
     </message>
     <message id="Night_Mode.content">
         <source>Switch to Night Mode to protect your eye sight.</source>
@@ -941,7 +941,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="DonateMoney.title">
         <source>Donate</source>
         <extracomment>DonateMoney.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přispět</translation>
     </message>
     <message id="DonateMoney.content">
         <source>Donate to WPS Office.</source>
@@ -961,7 +961,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="QuickBarChartStyle.title">
         <source>Chart Styles</source>
         <extracomment>QuickBarChartStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styly grafu</translation>
     </message>
     <message id="QuickBarChartStyle.content">
         <source>Set a Style and color scheme for your chart.</source>
@@ -981,7 +981,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="QuickBarFormatChartArea.title">
         <source>Format Chart Area</source>
         <extracomment>QuickBarFormatChartArea.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátovat oblast grafu</translation>
     </message>
     <message id="QuickBarFormatChartArea.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
@@ -991,7 +991,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="FormatObject.title">
         <source>Format Object</source>
         <extracomment>FormatObject.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát objektu</translation>
     </message>
     <message id="FormatObject.content">
         <source>Use&apos;Format Object‘task pane to fine tune the appearance of your shape</source>
@@ -1021,7 +1021,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShapeEffects.title">
         <source>Shape Effects</source>
         <extracomment>ShapeEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Efekty tvarů</translation>
     </message>
     <message id="ShapeEffects.content">
         <source>Apply a visual effect to to the selected shape, such as shadow, glow, reflection, or 3-D rotation.</source>
@@ -1093,7 +1093,7 @@ add a visual effect such as shadow, glow or reflection to your text.</source>
     <message id="Theme Colors.title">
         <source>Theme Colors</source>
         <extracomment>Theme Colors.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barvy z tématu</translation>
     </message>
     <message id="Theme Colors.content">
         <source>Change the colors of current theme.</source>
@@ -1133,7 +1133,7 @@ add a visual effect such as shadow, glow or reflection to your text.</source>
     <message id="ShapeFormatStyle.title">
         <source>Shape Styles</source>
         <extracomment>ShapeFormatStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styly tvarů</translation>
     </message>
     <message id="ShapeFormatStyle.content">
         <source>Apply different preset effect to the selected shape.</source>
@@ -1185,7 +1185,7 @@ Data being charted on the X axis will move to the Y axis and vice versa.</source
     <message id="ChooseDataSource.title">
         <source>Select Data</source>
         <extracomment>ChooseDataSource.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat data</translation>
     </message>
     <message id="ChooseDataSource.content">
         <source>Change the data range included in the chart.</source>
@@ -1195,7 +1195,7 @@ Data being charted on the X axis will move to the Y axis and vice versa.</source
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
         <extracomment>ChangeChartType.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit typ grafu</translation>
     </message>
     <message id="ChangeChartType.content">
         <source>Change to a different type of chart.</source>
@@ -1225,7 +1225,7 @@ Data being charted on the X axis will move to the Y axis and vice versa.</source
     <message id="ChartElementFormat.title">
         <source>Format</source>
         <extracomment>ChartElementFormat.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát</translation>
     </message>
     <message id="ChartElementFormat.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>

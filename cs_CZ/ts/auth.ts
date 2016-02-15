@@ -59,11 +59,11 @@
     </message>
     <message>
         <source>Documents&apos; Author</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Autor dokumentu</translation>
     </message>
     <message>
         <source>* Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">* Jméno:</translation>
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
@@ -75,11 +75,11 @@
     </message>
     <message>
         <source>Organization:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Organizace:</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">* Sériové číslo:</translation>
     </message>
     <message>
         <source>OK</source>
@@ -123,7 +123,7 @@
     <name>KxDlgAuthorizeExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlídač vypršení WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -139,18 +139,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>preview mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim náhledu</translation>
     </message>
     <message>
         <source>Buy/renew Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koupit / prodloužit hned</translation>
     </message>
 </context>
 <context>
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlídač vypršení WPS Office</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
@@ -204,7 +204,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
@@ -223,7 +223,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgQingWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vítejte v WPS Office</translation>
     </message>
     <message>
         <source>Trial</source>
@@ -235,7 +235,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
@@ -243,7 +243,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadat aktivační kód</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
@@ -285,7 +285,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgTrialExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlídač vypršení WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -301,18 +301,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>preview mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim náhledu</translation>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koupit teď</translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlídač zkušební doby WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -328,18 +328,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koupit teď</translation>
     </message>
     <message>
         <source>Try it out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyzkoušet</translation>
     </message>
 </context>
 <context>
     <name>KxDlgVbaBuy</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA. Macro in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -354,7 +354,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgVbaInstallation</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Macros require VBA to function correctly. </source>
@@ -373,7 +373,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgVbaReminder</name>
     <message>
         <source>Macro</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Macros require VBA to function correctly. </source>
@@ -392,11 +392,11 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vítejte v WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message>
         <source>Sign in to use WPS Office and enjoy more advanced services.</source>
@@ -404,7 +404,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadat aktivační kód</translation>
     </message>
     <message>
         <source>Activate WPS Office with existing activation code.</source>
@@ -427,7 +427,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWelcomePage</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vítejte v WPS Office</translation>
     </message>
     <message>
         <source>Get Started</source>
@@ -454,7 +454,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Track Changes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sledování změn</translation>
     </message>
     <message>
         <source>Choose revision markups and comment formatting, or to change reviewer information.</source>
@@ -466,7 +466,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Watermark</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodoznak</translation>
     </message>
     <message>
         <source>Insert ghosted text and picture behind the content on the page.</source>
@@ -474,7 +474,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zakázat úpravy</translation>
     </message>
     <message>
         <source>Restrict how people edit or format specific parts of the document.</source>
@@ -482,7 +482,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Macros</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makra</translation>
     </message>
     <message>
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -502,7 +502,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Comment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komentář</translation>
     </message>
     <message>
         <source>Package to Folder/Compressed File</source>
@@ -522,7 +522,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>PivotTable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontingenční tabulka</translation>
     </message>
     <message>
         <source>Make it easy to arrange and summarize complicated data and drill down on details.</source>
@@ -530,7 +530,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Consolidate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konsolidovat</translation>
     </message>
     <message>
         <source>Combine values from multiple ranges into one new range.</source>
@@ -546,7 +546,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Solver</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řešitel</translation>
     </message>
     <message>
         <source>Allow you to see the results of many different possible inputs at the same time.</source>
@@ -562,7 +562,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Share Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sdílet sešit</translation>
     </message>
     <message>
         <source>Allow multiple people to work in a workbook at the same time.</source>
@@ -722,7 +722,7 @@ p, li { white-space: pre-wrap; }
     <name>KxQingBuyTooltip</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulář</translation>
     </message>
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
@@ -744,7 +744,7 @@ Please purchase to continue using WPS Office.</source>
     </message>
     <message>
         <source>Buy Now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Koupit teď</translation>
     </message>
     <message>
         <source>Click here to visit the purchase page for more information. You need to sign in before you buy. </source>

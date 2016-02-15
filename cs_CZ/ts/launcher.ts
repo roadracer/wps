@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vítejte v WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -18,15 +18,15 @@
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Tabulky</translation>
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vytvořit zástupce na ploše</translation>
     </message>
 </context>
 <context>

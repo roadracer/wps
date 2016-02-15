@@ -17,7 +17,7 @@
     <message id="3DDirectionPalette.title">
         <source>Direction</source>
         <extracomment>3DDirectionPalette.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr</translation>
     </message>
     <message id="3DDirectionPalette.content">
         <source>Choose the direction effect of the selected 3-D Shape.</source>
@@ -37,77 +37,77 @@
     <message id="AcceptChangeOnTB.title">
         <source>Accept the selected change</source>
         <extracomment>AcceptChangeOnTB.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přijmout vybranou změnu</translation>
     </message>
     <message id="AcceptChangeOnTB.content">
         <source>Accept the current change in the document.</source>
         <extracomment>AcceptChangeOnTB.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přijmout aktuální změnu v dokumentu</translation>
     </message>
     <message id="AcceptChangeOnTB2.title">
         <source>Accept the selected change</source>
         <extracomment>AcceptChangeOnTB2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přijmout vybranou změnu</translation>
     </message>
     <message id="AcceptChangeOnTB2.content">
         <source>Click here to accept all changes in the document.</source>
         <extracomment>AcceptChangeOnTB2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte sem pro přijetí všech změn v dokumentu</translation>
     </message>
     <message id="AdjustTableProperties.title">
         <source>Table Properties</source>
         <extracomment>AdjustTableProperties.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti tabulky</translation>
     </message>
     <message id="AdjustTableProperties.content">
         <source>Open the Table Properties dialog box.</source>
         <extracomment>AdjustTableProperties.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít dialog Vlastnosti tabulky</translation>
     </message>
     <message id="AlignBottomCenter.title">
         <source>Align Bottom Center</source>
         <extracomment>AlignBottomCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat dolů na střed</translation>
     </message>
     <message id="AlignBottomCenter.content">
         <source>Center text and align it to the bottom of the cell.</source>
         <extracomment>AlignBottomCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředí text vodorovně a zarovná ho k dolnímu okraji buňky</translation>
     </message>
     <message id="AlignBottomJustified.title">
         <source>Align Bottom Justified</source>
         <extracomment>AlignBottomJustified.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat dolů do bloku</translation>
     </message>
     <message id="AlignBottomJustified.content">
         <source>Align text to the bottom left corner of the cell.</source>
         <extracomment>AlignBottomJustified.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovná text k levému dolnímu rohu buňky.</translation>
     </message>
     <message id="AlignBottomRight.title">
         <source>Align Bottom Right</source>
         <extracomment>AlignBottomRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vpravo dolů</translation>
     </message>
     <message id="AlignBottomRight.content">
         <source>Align text to the bottom right corner of the cell.</source>
         <extracomment>AlignBottomRight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovná text do pravého dolního rohu buňky.</translation>
     </message>
     <message id="AlignCenter.title">
         <source>Align Center</source>
         <extracomment>AlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat na střed</translation>
     </message>
     <message id="AlignCenter.content">
         <source>Center text vertically and horizontally within the cell.</source>
         <extracomment>AlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředí text v buňce svisle i vodorovně</translation>
     </message>
     <message id="AlignCenterJustified.title">
         <source>Align Center Justified</source>
         <extracomment>AlignCenterJustified.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat na střed do bloku</translation>
     </message>
     <message id="AlignCenterJustified.content">
         <source>Center text vertically and align it to the left side of the cell.</source>
@@ -117,7 +117,7 @@
     <message id="AlignCenterRight.title">
         <source>Align Center Right</source>
         <extracomment>AlignCenterRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat na sřed vpravo</translation>
     </message>
     <message id="AlignCenterRight.content">
         <source>Center text vertically and align it to the right side of the cell.</source>
@@ -127,7 +127,7 @@
     <message id="AlignStyle.title">
         <source>Alignment</source>
         <extracomment>AlignStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message id="AlignStyle.content">
         <source>Specify how content in the cell should be aligned.</source>
@@ -137,7 +137,7 @@
     <message id="AlignStyle2.title">
         <source>Alignment</source>
         <extracomment>AlignStyle2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message id="AlignStyle2.content">
         <source>Specify how content in the cell should be aligned.</source>
@@ -147,7 +147,7 @@
     <message id="AlignTopCenter.title">
         <source>Align Top Center</source>
         <extracomment>AlignTopCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat nahoru doprostřed</translation>
     </message>
     <message id="AlignTopCenter.content">
         <source>Center text and align it to the top of the cell.</source>
@@ -167,7 +167,7 @@
     <message id="AlignTopRight.title">
         <source>Align Top Right</source>
         <extracomment>AlignTopRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vpravo nahoru</translation>
     </message>
     <message id="AlignTopRight.content">
         <source>Align text to the top right corner of the cell.</source>
@@ -177,7 +177,7 @@
     <message id="ArrangeAll.title">
         <source>Arrange All</source>
         <extracomment>ArrangeAll.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozmístit všechny</translation>
     </message>
     <message id="ArrangeAll.content">
         <source>Tile all opened documents side-by-side under the same program window.</source>
@@ -219,7 +219,7 @@ This option is available when grid is defined.</source>
     <message id="BackgroundShapeFillColor.title">
         <source>Page Color</source>
         <extracomment>BackgroundShapeFillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stránky</translation>
     </message>
     <message id="BackgroundShapeFillColor.content">
         <source>Choose a color for the background of the page.</source>
@@ -241,7 +241,7 @@ All of the text will be placed in the selected text box.</source>
     <message id="Bullets.title">
         <source>Bullets</source>
         <extracomment>Bullets.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message id="Bullets.content">
         <source>Start a bulleted list.
@@ -253,7 +253,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="Bullets2.title">
         <source>Bullets</source>
         <extracomment>Bullets2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message id="Bullets2.content">
         <source>Click the arrow to select different bullet styles.</source>
@@ -263,7 +263,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="COMAddIns.title">
         <source>COM Add-Ins</source>
         <extracomment>COMAddIns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doplňky COM</translation>
     </message>
     <message id="COMAddIns.content">
         <source>Add or delete available COM Add-Ins.</source>
@@ -273,7 +273,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="TemplateAddIns.title">
         <source>Add-Ins</source>
         <extracomment>TemplateAddIns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doplňky</translation>
     </message>
     <message id="TemplateAddIns.content">
         <source>Manage the add-ins available for use with this file.</source>
@@ -283,7 +283,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="CTB_DesignMode.title">
         <source>Design Mode</source>
         <extracomment>CTB_DesignMode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim návrhu</translation>
     </message>
     <message id="CTB_DesignMode.content">
         <source>Enter design mode to edit controls&apos; names and functions.</source>
@@ -293,7 +293,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="ChangeCase.title">
         <source>Change Case</source>
         <extracomment>ChangeCase.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit velká/malá</translation>
     </message>
     <message id="ChangeCase.content">
         <source>Change all the selected text to UPPERCASE, lowercase, or other common capitalizations.
@@ -305,7 +305,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="ChangeTextDirection.title">
         <source>Text Direction</source>
         <extracomment>ChangeTextDirection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr textu</translation>
     </message>
     <message id="ChangeTextDirection.content">
         <source>Customize the text layout direction in the current section, the whole document, or the selected text box or table.</source>
@@ -325,7 +325,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CharacterShading.title">
         <source>Character Shading</source>
         <extracomment>CharacterShading.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínování znaku</translation>
     </message>
     <message id="CharacterShading.content">
         <source>Shade the selected text with gray color.</source>
@@ -335,7 +335,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CheckSpelling.title">
         <source>Spell Check</source>
         <extracomment>CheckSpelling.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrola pravopisu</translation>
     </message>
     <message id="CheckSpelling.content">
         <source>Check the spelling of the text in the current document.</source>
@@ -365,7 +365,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CloseHeaderAndFooter.title">
         <source>Close</source>
         <extracomment>CloseHeaderAndFooter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="CloseHeaderAndFooter.content">
         <source>Close Header and Footer Tools and return to editing the document.</source>
@@ -375,7 +375,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CloseMail.title">
         <source>Close</source>
         <extracomment>CloseMail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="CloseMail.content">
         <source>Click here to hide Mailings tab.</source>
@@ -385,7 +385,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CloseOutlineview.title">
         <source>Close</source>
         <extracomment>CloseOutlineview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="CloseOutlineview.content">
         <source>Close Outline View and return to editing the document.</source>
@@ -395,7 +395,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="ClosePreview.title">
         <source>Close</source>
         <extracomment>ClosePreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="ClosePreview.content">
         <source>Close Print Preview and return to editing the document.</source>
@@ -405,7 +405,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CmpSideBySide.title">
         <source>View Side by Side</source>
         <extracomment>CmpSideBySide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit vedle sebe</translation>
     </message>
     <message id="CmpSideBySide.content">
         <source>View two documents side-by-side to compare their contents.</source>
@@ -415,17 +415,17 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CollapseOnOutlining.title">
         <source>Collapse</source>
         <extracomment>CollapseOnOutlining.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sbalit</translation>
     </message>
     <message id="CollapseOnOutlining.content">
         <source>Collapse the selected item.</source>
         <extracomment>CollapseOnOutlining.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sbalit vybranou položku</translation>
     </message>
     <message id="CompressPictures.title">
         <source>Compress Pictures</source>
         <extracomment>CompressPictures.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komprimovat obrázky</translation>
     </message>
     <message id="CompressPictures.content">
         <source>Compress the selected picture or all pictures in the document to reduce size.</source>
@@ -435,7 +435,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="ConvertTabletoText.title">
         <source>Convert Table to Text</source>
         <extracomment>ConvertTabletoText.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převést tabulku na text</translation>
     </message>
     <message id="ConvertTabletoText.content">
         <source>Convert table to text paragraph using commas, space or other characters as separators.</source>
@@ -475,7 +475,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DecreaseIndent.title">
         <source>Decrease Indent</source>
         <extracomment>DecreaseIndent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit odsazení</translation>
     </message>
     <message id="DecreaseIndent.content">
         <source>Decrease the indent level of the paragraph.</source>
@@ -485,7 +485,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="Delete.title">
         <source>Delete</source>
         <extracomment>Delete.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat</translation>
     </message>
     <message id="Delete.content">
         <source>Delete rows, columns, cells, or the entire table.</source>
@@ -495,12 +495,12 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DeleteSection.title">
         <source>Delete Section</source>
         <extracomment>DeleteSection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat sekci</translation>
     </message>
     <message id="DeleteSection.content">
         <source>Delete the currently selected section.</source>
         <extracomment>DeleteSection.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat právě vybranou sekci</translation>
     </message>
     <message id="DemoteOnOutlining.title">
         <source>Demote</source>
@@ -545,7 +545,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -555,7 +555,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font, paragraph, and styles and formatting.</source>
@@ -565,7 +565,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_PageLayout.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PageLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_PageLayout.content">
         <source>Change the settings of page setup and paragraph.</source>
@@ -575,7 +575,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_Paragraph.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Paragraph.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Paragraph.content">
         <source>Change the settings of paragraph, page setup, and styles and formatting.</source>
@@ -585,7 +585,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
@@ -595,7 +595,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_Section.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Section.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Section.content">
         <source>Change the settings of page setup, and header and footer.</source>
@@ -615,7 +615,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_WordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_WordArt.content">
         <source>Change the settings of WordArt formatting.</source>
@@ -645,7 +645,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DisableLineHeightGrid.title">
         <source>Snap to Grid</source>
         <extracomment>DisableLineHeightGrid.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přichytit k mřížce</translation>
     </message>
     <message id="DisableLineHeightGrid.content">
         <source>Align the text content according to the grid.</source>
@@ -685,7 +685,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DoublePages.title">
         <source>Two Pages</source>
         <extracomment>DoublePages.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dvě stránky</translation>
     </message>
     <message id="DoublePages.content">
         <source>Zoom the document so that two pages fit in the window.</source>
@@ -695,7 +695,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DrawTable.title">
         <source>Draw Table</source>
         <extracomment>DrawTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kreslit tabulku</translation>
     </message>
     <message id="DrawTable.content">
         <source>Draw the borders of a table.</source>
@@ -759,7 +759,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <message id="ExitParagraph.title">
         <source>Close</source>
         <extracomment>ExitParagraph.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message id="ExitParagraph.content">
         <source>Close the Paragraph Layout Tools and return to editing the document.</source>
@@ -789,7 +789,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <message id="FieldFormula.title">
         <source>Formula</source>
         <extracomment>FieldFormula.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzorec</translation>
     </message>
     <message id="FieldFormula.content">
         <source>Add a formula to a cell to perform a simple calculation, such as SUM, AVERAGE or MAX.</source>
@@ -799,7 +799,7 @@ Click the arrow to choose Phonetic Guide, Change Case and Character Border optio
     <message id="FillColor.title">
         <source>Shape Fill</source>
         <extracomment>FillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message id="FillColor.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -811,7 +811,7 @@ Click the arrow to select different fill effects.</source>
     <message id="FillColor2.title">
         <source>Shape Fill</source>
         <extracomment>FillColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message id="FillColor2.content">
         <source>Click the arrow to select different fill effects.</source>
@@ -821,7 +821,7 @@ Click the arrow to select different fill effects.</source>
     <message id="Find.title">
         <source>Find</source>
         <extracomment>Find.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít</translation>
     </message>
     <message id="Find.content">
         <source>Find text in the document.
@@ -833,7 +833,7 @@ Click the arrow to choose other options, such as Go To.</source>
     <message id="Find2.title">
         <source>Find</source>
         <extracomment>Find2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít</translation>
     </message>
     <message id="Find2.content">
         <source>Click the arrow to choose other options, such as Go To.</source>
@@ -873,7 +873,7 @@ Click the arrow to choose other options, such as Go To.</source>
     <message id="FontColor.title">
         <source>Text Color</source>
         <extracomment>FontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="FontColor.content">
         <source>Change the text color.
@@ -885,7 +885,7 @@ Click the arrow to choose a different text color.</source>
     <message id="FontColor2.title">
         <source>Text Color</source>
         <extracomment>FontColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="FontColor2.content">
         <source>Click the arrow to choose a different text color.</source>
@@ -905,12 +905,12 @@ Click the arrow to choose a different text color.</source>
     <message id="FormatAlignCenter.title">
         <source>Center</source>
         <extracomment>FormatAlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message id="FormatAlignCenter.content">
         <source>Center text.</source>
         <extracomment>FormatAlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředit text.</translation>
     </message>
     <message id="FormatAlignDistributed.title">
         <source>Distributed</source>
@@ -935,7 +935,7 @@ Click the arrow to choose a different text color.</source>
     <message id="FormatAlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>FormatAlignLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vlevo</translation>
     </message>
     <message id="FormatAlignLeft.content">
         <source>Align text to the left.</source>
@@ -945,7 +945,7 @@ Click the arrow to choose a different text color.</source>
     <message id="FormatAlignRight.title">
         <source>Align Text Right</source>
         <extracomment>FormatAlignRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vpravo</translation>
     </message>
     <message id="FormatAlignRight.content">
         <source>Align text to the right.</source>
@@ -955,7 +955,7 @@ Click the arrow to choose a different text color.</source>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
         <extracomment>FormatPainter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat formát</translation>
     </message>
     <message id="FormatPainter.content">
         <source>Copy formatting from one place and apply it to another.
@@ -977,7 +977,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <message id="Gallery.title">
         <source>WPS Gallery</source>
         <extracomment>Gallery.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS galerie</translation>
     </message>
     <message id="Gallery.content">
         <source>WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
@@ -1069,7 +1069,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="Gridlines.title">
         <source>Gridlines</source>
         <extracomment>Gridlines.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Linky mřížky</translation>
     </message>
     <message id="Gridlines.content">
         <source>Turn on/off gridlines to which you can align objects in the document.</source>
@@ -1079,7 +1079,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="GrowFont.title">
         <source>Grow Font</source>
         <extracomment>GrowFont.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit písmo</translation>
     </message>
     <message id="GrowFont.content">
         <source>Increase the font size.</source>
@@ -1101,7 +1101,7 @@ This only affects tables which extend beyond a single page.</source>
     <message id="HeaderAndFooterSetting.title">
         <source>Header and Footer</source>
         <extracomment>HeaderAndFooterSetting.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička a patička</translation>
     </message>
     <message id="HeaderAndFooterSetting.content">
         <source>Show the Header and Footer dialog box.</source>
@@ -1111,7 +1111,7 @@ This only affects tables which extend beyond a single page.</source>
     <message id="HeaderFooter.title">
         <source>Header and Footer</source>
         <extracomment>HeaderFooter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička a patička</translation>
     </message>
     <message id="HeaderFooter.content">
         <source>Edit the header and footer of the document.</source>
@@ -1195,7 +1195,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <message id="IncreaseIndent.title">
         <source>Increase Indent</source>
         <extracomment>IncreaseIndent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit odsazení</translation>
     </message>
     <message id="IncreaseIndent.content">
         <source>Increase the indent level of the  paragraph.</source>
@@ -1225,7 +1225,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <message id="InsertBlankPage.title">
         <source>Blank Page</source>
         <extracomment>InsertBlankPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prázdná stránka</translation>
     </message>
     <message id="InsertBlankPage.content">
         <source>Insert a new blank page at the cursor position.</source>
@@ -1235,7 +1235,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <message id="InsertBlankPage2.title">
         <source>Blank Page</source>
         <extracomment>InsertBlankPage2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prázdná stránka</translation>
     </message>
     <message id="InsertBlankPage2.content">
         <source>Click here to insert a horizontal or vertical blank page.</source>
@@ -1265,7 +1265,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <message id="InsertCells.title">
         <source>Insert Cells</source>
         <extracomment>InsertCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit buňky</translation>
     </message>
     <message id="InsertCells.content">
         <source>Show the Insert Cells dialog box.</source>
@@ -1275,7 +1275,7 @@ This makes it easy to see what part of your form letter will be replaced by info
     <message id="InsertChart.title">
         <source>Insert Chart</source>
         <extracomment>InsertChart.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit graf</translation>
     </message>
     <message id="InsertChart.content">
         <source>The inserted chart needs to be edited in WPS Spreadsheets.
@@ -1287,7 +1287,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertClipArt.title">
         <source>Insert Clip Art</source>
         <extracomment>InsertClipArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit ClipArt</translation>
     </message>
     <message id="InsertClipArt.content">
         <source>Choose a Clip Art from the task window and insert it into the document.</source>
@@ -1297,7 +1297,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertColumnLeft.title">
         <source>Insert Columns to the Left</source>
         <extracomment>InsertColumnLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce vlevo</translation>
     </message>
     <message id="InsertColumnLeft.content">
         <source>Add a column directly to the left of the selected column.</source>
@@ -1307,7 +1307,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertColumnRight.title">
         <source>Insert Columns to the Right</source>
         <extracomment>InsertColumnRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce vpravo</translation>
     </message>
     <message id="InsertColumnRight.content">
         <source>Add a column directly to the right of the selected column.</source>
@@ -1317,7 +1317,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertComment.title">
         <source>Insert Comment</source>
         <extracomment>InsertComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit komentář</translation>
     </message>
     <message id="InsertComment.content">
         <source>Add a comment to the document about the selection.</source>
@@ -1327,7 +1327,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertDateTime.title">
         <source>Date and Time</source>
         <extracomment>InsertDateTime.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datum a čas</translation>
     </message>
     <message id="InsertDateTime.content">
         <source>Show the Date and Time dialog box to insert the current date or time into the current document.</source>
@@ -1367,7 +1367,7 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
     <message id="InsertHyperlink.title">
         <source>Insert Hyperlink</source>
         <extracomment>InsertHyperlink.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message id="InsertHyperlink.content">
         <source>Create a link to a web page, a picture, or an e-mail address.</source>
@@ -1443,7 +1443,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="InsertPageBreak.title">
         <source>Page Break</source>
         <extracomment>InsertPageBreak.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení stránky</translation>
     </message>
     <message id="InsertPageBreak.content">
         <source>Start the next page at the current cursor position, and the content after the cursor will be moved to the new page.</source>
@@ -1463,7 +1463,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="InsertPictureFromFile2.title">
         <source>Insert Picture</source>
         <extracomment>InsertPictureFromFile2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message id="InsertPictureFromFile2.content">
         <source>Click here to insert a picture in local folder or from a scanner.</source>
@@ -1473,7 +1473,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="InsertRowAbove.title">
         <source>Insert Rows Above</source>
         <extracomment>InsertRowAbove.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky nad</translation>
     </message>
     <message id="InsertRowAbove.content">
         <source>Add a new row directly above the selected row.</source>
@@ -1483,7 +1483,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="InsertRowBelow.title">
         <source>Insert Rows Below</source>
         <extracomment>InsertRowBelow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky pod</translation>
     </message>
     <message id="InsertRowBelow.content">
         <source>Add a new row directly below the selected row.</source>
@@ -1553,7 +1553,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="KingsoftEquationEditor.title">
         <source>Insert Equation</source>
         <extracomment>KingsoftEquationEditor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit matematický výraz</translation>
     </message>
     <message id="KingsoftEquationEditor.content">
         <source>Insert mathematical equations using equation editor.</source>
@@ -1583,7 +1583,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="LineColor.title">
         <source>Shape Outline</source>
         <extracomment>LineColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message id="LineColor.content">
         <source>Set the color, width, and line style for the outline of the selected shape.
@@ -1595,7 +1595,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="LineColor2.title">
         <source>Shape Outline</source>
         <extracomment>LineColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message id="LineColor2.content">
         <source>Click the arrow to select detailed settings for the outline.</source>
@@ -1605,7 +1605,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="LineSpacingShow.title">
         <source>Line Spacing</source>
         <extracomment>LineSpacingShow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádkování</translation>
     </message>
     <message id="LineSpacingShow.content">
         <source>Change the spacing between lines of text.</source>
@@ -1635,7 +1635,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="LockSideBySide.title">
         <source>Synchronous Scrolling</source>
         <extracomment>LockSideBySide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Synchronní scrollování</translation>
     </message>
     <message id="LockSideBySide.content">
         <source>Synchronize the scrolling of two documents so that they scroll together.
@@ -1657,7 +1657,7 @@ To enable this feature, turn on View Side by Side.</source>
     <message id="Macro.title">
         <source>View Macros</source>
         <extracomment>Macro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="Macro.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create or delete a macro.</source>
@@ -1667,7 +1667,7 @@ To enable this feature, turn on View Side by Side.</source>
     <message id="Macro2.title">
         <source>View Macros</source>
         <extracomment>Macro2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="Macro2.content">
         <source>View the list of macros, from which you can run, create or delete a macro.</source>
@@ -1719,7 +1719,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
     <message id="MergeCells.title">
         <source>Merge Cells</source>
         <extracomment>MergeCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message id="MergeCells.content">
         <source>Merge the selected cells into one cell.</source>
@@ -1749,7 +1749,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
     <message id="MergeToNewDoc.title">
         <source>Merge to New Document</source>
         <extracomment>MergeToNewDoc.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit do nového dokumentu</translation>
     </message>
     <message id="MergeToNewDoc.content">
         <source>Export merged content to a new document.</source>
@@ -1759,7 +1759,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
     <message id="MergeToPrinter.title">
         <source>Merge to Printer</source>
         <extracomment>MergeToPrinter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit do tiskárny</translation>
     </message>
     <message id="MergeToPrinter.content">
         <source>Print the merged content.</source>
@@ -1769,7 +1769,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
     <message id="NavigationPane.title">
         <source>Navigation Pane</source>
         <extracomment>NavigationPane.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační panel</translation>
     </message>
     <message id="NavigationPane.content">
         <source>Show or hide Navigation Pane.</source>
@@ -1779,7 +1779,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
     <message id="NewWindow.title">
         <source>New Window</source>
         <extracomment>NewWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nové okno</translation>
     </message>
     <message id="NewWindow.content">
         <source>Open a new window containing a view of the current document.</source>
@@ -1791,7 +1791,7 @@ For example, you can indicate that your custom field &quot;Zip&quot; is equivale
         <extracomment>SplitWindow.title
 ----------
 SplitWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit okno</translation>
     </message>
     <message id="SplitWindow.content">
         <source>Split the current window into two parts so that you can view different sections of the document at the same time.</source>
@@ -1803,7 +1803,7 @@ SplitWindow.content</extracomment>
     <message id="SplitWindowMenu.title">
         <source>Split Window</source>
         <extracomment>SplitWindowMenu.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit okno</translation>
     </message>
     <message id="SplitWindowMenu.content">
         <source>Click to split the current window horizontally or vertically.</source>
@@ -1823,7 +1823,7 @@ SplitWindow.content</extracomment>
     <message id="NextComment.title">
         <source>Next Comment</source>
         <extracomment>NextComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další komentář</translation>
     </message>
     <message id="NextComment.content">
         <source>Navigate to the next comment in the document.</source>
@@ -1853,7 +1853,7 @@ SplitWindow.content</extracomment>
     <message id="NextSection.title">
         <source>Next Section</source>
         <extracomment>NextSection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další sekce</translation>
     </message>
     <message id="NextSection.content">
         <source>Go to the next section.</source>
@@ -1863,7 +1863,7 @@ SplitWindow.content</extracomment>
     <message id="NextTextBox.title">
         <source>Next Text Box</source>
         <extracomment>NextTextBox.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další textové pole</translation>
     </message>
     <message id="NextTextBox.content">
         <source>Navigate to the next text box linked to the current one.</source>
@@ -1873,7 +1873,7 @@ SplitWindow.content</extracomment>
     <message id="Numbering.title">
         <source>Numbering</source>
         <extracomment>Numbering.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslování</translation>
     </message>
     <message id="Numbering.content">
         <source>Start a numbered list.
@@ -1885,7 +1885,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="Numbering2.title">
         <source>Numbering</source>
         <extracomment>Numbering2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslování</translation>
     </message>
     <message id="Numbering2.content">
         <source>Start a numbered list.
@@ -1897,7 +1897,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
         <extracomment>ObjectSelect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlý výběr</translation>
     </message>
     <message id="ObjectSelect.content">
         <source>Show the Selection Pane task window to easily find a single object or set its order and visibility.</source>
@@ -1907,7 +1907,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="OnePage.title">
         <source>One Page</source>
         <extracomment>OnePage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jedná stránka</translation>
     </message>
     <message id="OnePage.content">
         <source>Zoom the document so that an entire page fits in the window.</source>
@@ -1917,7 +1917,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="OpenDataSource.title">
         <source>Open Data Source</source>
         <extracomment>OpenDataSource.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít zdroj dat</translation>
     </message>
     <message id="OpenDataSource.content">
         <source>Open data soucres in the local folder, such as spreadsheet files, database files and text files.</source>
@@ -1927,7 +1927,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="OpenDataSource2.title">
         <source>Open Data Source</source>
         <extracomment>OpenDataSource2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít zdroj dat</translation>
     </message>
     <message id="OpenDataSource2.content">
         <source>Click here to open or close Data Source files.</source>
@@ -1937,7 +1937,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="OutLine.title">
         <source>Outline View</source>
         <extracomment>OutLine.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazení obrysů</translation>
     </message>
     <message id="OutLine.content">
         <source>View the document as an outline.</source>
@@ -1977,7 +1977,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PageNumberFormat.title">
         <source>Page Number Format</source>
         <extracomment>PageNumberFormat.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát číslování stránek</translation>
     </message>
     <message id="PageNumberFormat.content">
         <source>Select number formats for page numbers in the current document.</source>
@@ -1997,27 +1997,27 @@ Click the arrow to select different numbering formats.</source>
     <message id="PageOrientation.title">
         <source>Page Orientation</source>
         <extracomment>PageOrientation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientace stránky</translation>
     </message>
     <message id="PageOrientation.content">
         <source>Switch the pages between portrait and landscape layouts.</source>
         <extracomment>PageOrientation.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepnout svislou / vodorovnou orientaci stránek</translation>
     </message>
     <message id="PageSetup.title">
         <source>Page Setup</source>
         <extracomment>PageSetup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení stránky</translation>
     </message>
     <message id="PageSetup.content">
         <source>Show the Page Setup dialog box.</source>
         <extracomment>PageSetup.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat dialog nastavení vzhledu stránky.</translation>
     </message>
     <message id="PageWidth.title">
         <source>Page Width</source>
         <extracomment>PageWidth.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šířka stránky</translation>
     </message>
     <message id="PageWidth.content">
         <source>Zoom the document so that the width of the page matches the width of the window.</source>
@@ -2037,12 +2037,12 @@ Click the arrow to select different numbering formats.</source>
     <message id="PDFToWord.title">
         <source>Convert PDF to Word</source>
         <extracomment>PDFToWord.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převést PDF na Word</translation>
     </message>
     <message id="PDFToWord.content">
         <source>Convert PDF files to Word files.</source>
         <extracomment>PDFToWord.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převést soubory typu PDF na dokumenty Word.</translation>
     </message>
     <message id="PhoneticGuide.title">
         <source>Phonetic Guide</source>
@@ -2059,7 +2059,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PhoneticGuide2.title">
         <source>Other Options</source>
         <extracomment>PhoneticGuide2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiné možnosti</translation>
     </message>
     <message id="PhoneticGuide2.content">
         <source>Click the arrow to choose Phonetic Guide, Change Case, Enclose Characters or Character Border options.</source>
@@ -2069,27 +2069,27 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PreviousChange.title">
         <source>Previous Change</source>
         <extracomment>PreviousChange.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí změna</translation>
     </message>
     <message id="PreviousChange.content">
         <source>Navigate to the previous revision in the document so that you can accept or reject it.</source>
         <extracomment>PreviousChange.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přejít na předchozí změnu v dokumentu a ukázat možnosti přijetí / zamítnutí změny.</translation>
     </message>
     <message id="PreviousComment.title">
         <source>Previous Comment</source>
         <extracomment>PreviousComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí komentář</translation>
     </message>
     <message id="PreviousComment.content">
         <source>Navigate to the previous comment in the document.</source>
         <extracomment>PreviousComment.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přejít na předchozí komentář v dokumentu.</translation>
     </message>
     <message id="PreviousHeader.title">
         <source>Show Previous</source>
         <extracomment>PreviousHeader.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat předchozí</translation>
     </message>
     <message id="PreviousHeader.content">
         <source>Navigate to the previous section&apos;s header or footer based on the current cursor position.</source>
@@ -2099,7 +2099,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PreviousRecord.title">
         <source>Previous Record</source>
         <extracomment>PreviousRecord.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí záznam</translation>
     </message>
     <message id="PreviousRecord.content">
         <source>Preview the previous record in the recipient list.</source>
@@ -2109,17 +2109,17 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PreviousSection.title">
         <source>Previous Section</source>
         <extracomment>PreviousSection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí sekce</translation>
     </message>
     <message id="PreviousSection.content">
         <source>Go to the previous section.</source>
         <extracomment>PreviousSection.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jít na předchozí sekci.</translation>
     </message>
     <message id="PreviousTextBox.title">
         <source>Previous Text Box</source>
         <extracomment>PreviousTextBox.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí textové pole</translation>
     </message>
     <message id="PreviousTextBox.content">
         <source>Navigate to the previous text box that is linked to the selected text box.</source>
@@ -2129,17 +2129,17 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PrintDirect.title">
         <source>Print Directly</source>
         <extracomment>PrintDirect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vytisknout přímo</translation>
     </message>
     <message id="PrintDirect.content">
         <source>Send the document directly to the default printer without making changes.</source>
         <extracomment>PrintDirect.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poslat dokument přímo na výchozí tiskárnu, bez možnosti změn v nastaveí tisku.</translation>
     </message>
     <message id="PrintLayoutView.title">
         <source>Print Layout</source>
         <extracomment>PrintLayoutView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení při tisku</translation>
     </message>
     <message id="PrintLayoutView.content">
         <source>View the document as it will appear on the printed page.</source>
@@ -2149,7 +2149,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PrintPreview.title">
         <source>Print Preview</source>
         <extracomment>PrintPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Náhled před tiskem</translation>
     </message>
     <message id="PrintPreview.content">
         <source>Preview and make changes to pages before printing.</source>
@@ -2169,7 +2169,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PrintShowViewRuler.title">
         <source>Ruler</source>
         <extracomment>PrintShowViewRuler.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravítko</translation>
     </message>
     <message id="PrintShowViewRuler.content">
         <source>Show or hide the rulers, used to measure and line up objects in the document.</source>
@@ -2219,27 +2219,27 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="RB_Clipboard.title">
         <source>Clipboard</source>
         <extracomment>RB_Clipboard.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schránka</translation>
     </message>
     <message id="RB_Clipboard.content">
         <source>View items on Clipboard.</source>
         <extracomment>RB_Clipboard.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit položky ve schránce.</translation>
     </message>
     <message id="RB_Font.title">
         <source>Font</source>
         <extracomment>RB_Font.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message id="RB_Font.content">
         <source>Show the Font dialog box.</source>
         <extracomment>RB_Font.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat dialog Písma</translation>
     </message>
     <message id="RB_Paragraph.title">
         <source>Paragraph</source>
         <extracomment>RB_Paragraph.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstavec</translation>
     </message>
     <message id="RB_Paragraph.content">
         <source>Show the Paragraph dialog box.</source>
@@ -2249,7 +2249,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="RB_Style.title">
         <source>Styles and Formatting</source>
         <extracomment>RB_Style.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styly a formátování</translation>
     </message>
     <message id="RB_Style.content">
         <source>Show the Styles and Formatting task window.</source>
@@ -2259,7 +2259,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="RbTableOutsideBorder.title">
         <source>Outside Borders</source>
         <extracomment>RbTableOutsideBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vnější okraje</translation>
     </message>
     <message id="RbTableOutsideBorder.content">
         <source>Customize the borders of the selected cells or text.</source>
@@ -2269,7 +2269,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="RbTableOutsideBorder2.title">
         <source>Outside Borders</source>
         <extracomment>RbTableOutsideBorder2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vnější okraje</translation>
     </message>
     <message id="RbTableOutsideBorder2.content">
         <source>Click the arrow to select different borders.</source>
@@ -2279,7 +2279,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="RecentFastCalc.title">
         <source>Fast Calculation</source>
         <extracomment>RecentFastCalc.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlý výpočet</translation>
     </message>
     <message id="RecentFastCalc.content">
         <source>Execute sum, average, maximum or minimum value calculations for the selected row or column data.
@@ -2291,7 +2291,7 @@ Results will be displayed in a cell following the selected cells in the same row
     <message id="RecentFontColor.title">
         <source>Text Color</source>
         <extracomment>RecentFontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="RecentFontColor.content">
         <source>Change the text color.
@@ -2303,7 +2303,7 @@ Click the arrow to select a different text color.</source>
     <message id="RecentFontColor2.title">
         <source>Text Color</source>
         <extracomment>RecentFontColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="RecentFontColor2.content">
         <source>Click the arrow to select a different text color.</source>
@@ -2313,7 +2313,7 @@ Click the arrow to select a different text color.</source>
     <message id="RecentTableShadingColor.title">
         <source>Shading Color</source>
         <extracomment>RecentTableShadingColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínování</translation>
     </message>
     <message id="RecentTableShadingColor.content">
         <source>Color the background behind the selected text or paragraph.
@@ -2325,7 +2325,7 @@ Click the arrow to select different background colors.</source>
     <message id="RecentTableShadingColor2.title">
         <source>Shading Color</source>
         <extracomment>RecentTableShadingColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínování</translation>
     </message>
     <message id="RecentTableShadingColor2.content">
         <source>Click the arrow to select different background colors.</source>
@@ -2335,7 +2335,7 @@ Click the arrow to select different background colors.</source>
     <message id="RecordMacro.title">
         <source>Record Macro</source>
         <extracomment>RecordMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahrát makro</translation>
     </message>
     <message id="RecordMacro.content">
         <source>Show Record Macro dialog box and start recording macro.</source>
@@ -2355,7 +2355,7 @@ Click the arrow to select different background colors.</source>
     <message id="RejectChangeOnTB.title">
         <source>Reject the selected change</source>
         <extracomment>RejectChangeOnTB.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout vybranou  změnu</translation>
     </message>
     <message id="RejectChangeOnTB.content">
         <source>Reject the current change and delete the comment.</source>
@@ -2365,7 +2365,7 @@ Click the arrow to select different background colors.</source>
     <message id="RejectChangeOnTB2.title">
         <source>Reject the selected change</source>
         <extracomment>RejectChangeOnTB2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout vybranou  změnu</translation>
     </message>
     <message id="RejectChangeOnTB2.content">
         <source>Click the arrow to reject all changes in the document.</source>
@@ -2375,7 +2375,7 @@ Click the arrow to select different background colors.</source>
     <message id="RejectRevisionOnTB.title">
         <source>Reject Change</source>
         <extracomment>RejectRevisionOnTB.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout změnu</translation>
     </message>
     <message id="RejectRevisionOnTB.content">
         <source>Reject the selected change in the document</source>
@@ -2385,7 +2385,7 @@ Click the arrow to select different background colors.</source>
     <message id="RejectRevisionOnTB2.title">
         <source>Reject Change</source>
         <extracomment>RejectRevisionOnTB2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamítnout změnu</translation>
     </message>
     <message id="RejectRevisionOnTB2.content">
         <source>Click here to reject all changes in the document.</source>
@@ -2395,7 +2395,7 @@ Click the arrow to select different background colors.</source>
     <message id="RelocateDownOnOutlining.title">
         <source>Move Down</source>
         <extracomment>RelocateDownOnOutlining.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posunout dolů</translation>
     </message>
     <message id="RelocateDownOnOutlining.content">
         <source>Move the selected item down within the outline.</source>
@@ -2405,7 +2405,7 @@ Click the arrow to select different background colors.</source>
     <message id="RelocateUpOnOutlining.title">
         <source>Move Up</source>
         <extracomment>RelocateUpOnOutlining.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posunout nahoru</translation>
     </message>
     <message id="RelocateUpOnOutlining.content">
         <source>Move the selected item up within the outline.</source>
@@ -2415,7 +2415,7 @@ Click the arrow to select different background colors.</source>
     <message id="Replace.title">
         <source>Replace</source>
         <extracomment>Replace.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message id="Replace.content">
         <source>Replace text content in the document.</source>
@@ -2425,7 +2425,7 @@ Click the arrow to select different background colors.</source>
     <message id="ResetPicture.title">
         <source>Reset Picture</source>
         <extracomment>ResetPicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetovat obrázes</translation>
     </message>
     <message id="ResetPicture.content">
         <source>Discard all of the formatting changes you have made to this picture.</source>
@@ -2435,7 +2435,7 @@ Click the arrow to select different background colors.</source>
     <message id="RestartPageNumber.title">
         <source>Restart Page Numbering</source>
         <extracomment>RestartPageNumber.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restart číslování stránek</translation>
     </message>
     <message id="RestartPageNumber.content">
         <source>Reset the starting page number of the current document.</source>
@@ -2445,7 +2445,7 @@ Click the arrow to select different background colors.</source>
     <message id="RestrictEditing.title">
         <source>Restrict Editing</source>
         <extracomment>RestrictEditing.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zakázat úpravy</translation>
     </message>
     <message id="RestrictEditing.content">
         <source>Restrict how people edit or format specific parts of the document.
@@ -2477,7 +2477,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="Ruler.title">
         <source>Ruler</source>
         <extracomment>Ruler.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravítko</translation>
     </message>
     <message id="Ruler.content">
         <source>Show or hide the rulers, used to measure and line up objects in the document.</source>
@@ -2487,7 +2487,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="RunMacro.title">
         <source>View Macros</source>
         <extracomment>RunMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="RunMacro.content">
         <source>Show Macros dialog box and view the list of macros, from which you can run, delete, or create a macro directly.</source>
@@ -2497,7 +2497,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="SectionDetailedSettings.title">
         <source>Section Detailed Settings</source>
         <extracomment>SectionDetailedSettings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podrobné nastavení sekce</translation>
     </message>
     <message id="SectionDetailedSettings.content">
         <source>SectionDetailedSettings Content</source>
@@ -2507,17 +2507,17 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="Security.title">
         <source>Macros Security</source>
         <extracomment>Security.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabezpečení maker</translation>
     </message>
     <message id="Security.content">
         <source>Customize the macro security settings.</source>
         <extracomment>Security.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní nastavení zabezpečení makra.</translation>
     </message>
     <message id="Select.title">
         <source>Select</source>
         <extracomment>Select.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat</translation>
     </message>
     <message id="Select.content">
         <source>Select text or objects in the document.</source>
@@ -2537,7 +2537,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShapeSize.title">
         <source>Shape Size</source>
         <extracomment>ShapeSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost tvaru</translation>
     </message>
     <message id="ShapeSize.content">
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
@@ -2547,7 +2547,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="Shapes.title">
         <source>Shapes</source>
         <extracomment>Shapes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tvary</translation>
     </message>
     <message id="Shapes.content">
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
@@ -2557,7 +2557,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowDocumentMap.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa dokumentu</translation>
     </message>
     <message id="ShowDocumentMap.content">
         <source>Show or hide the Document Map pane.</source>
@@ -2567,7 +2567,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowDocumentMap2.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa dokumentu</translation>
     </message>
     <message id="ShowDocumentMap2.content">
         <source>Click here to choose which position to display the Document Map pane.</source>
@@ -2577,7 +2577,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowFirstLineOnly.title">
         <source>Show First Line Only</source>
         <extracomment>ShowFirstLineOnly.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat jen první řádek</translation>
     </message>
     <message id="ShowFirstLineOnly.content">
         <source>Show only the first line of each item in the outline.</source>
@@ -2587,7 +2587,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowFirstPageNumber.title">
         <source>Show First Page Number</source>
         <extracomment>ShowFirstPageNumber.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit číslo první stránky</translation>
     </message>
     <message id="ShowFirstPageNumber.content">
         <source>Show or hide the page number on the first page of the document.</source>
@@ -2597,7 +2597,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowFormatting.title">
         <source>Show Text Formatting</source>
         <extracomment>ShowFormatting.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit formátování textu</translation>
     </message>
     <message id="ShowFormatting.content">
         <source>Show or hide all the text formatting in the outline.</source>
@@ -2607,7 +2607,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowGridlines.title">
         <source>View Table Gridlines</source>
         <extracomment>ShowGridlines.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit mřížku tabulky</translation>
     </message>
     <message id="ShowGridlines.content">
         <source>Show or hide the gridlines within the table that has no borders.</source>
@@ -2617,7 +2617,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowHeaderOrFooter.title">
         <source>Switch between Header and Footer</source>
         <extracomment>ShowHeaderOrFooter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepnout mezi hlavičkou a patičkou</translation>
     </message>
     <message id="ShowHeaderOrFooter.content">
         <source>Switch between the header and the footer of the current page in the document.</source>
@@ -2657,7 +2657,7 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowLevelOnOutlining.title">
         <source>Show Level</source>
         <extracomment>ShowLevelOnOutlining.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat úroveň</translation>
     </message>
     <message id="ShowLevelOnOutlining.content">
         <source>Choose which levels to show in the outline.
@@ -2689,7 +2689,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitCells.title">
         <source>Split Cells</source>
         <extracomment>SplitCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit buňky</translation>
     </message>
     <message id="SplitCells.content">
         <source>Split the selected cells into multiple new cells.</source>
@@ -2699,27 +2699,27 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitSection.title">
         <source>Split Section</source>
         <extracomment>SplitSection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit sekci</translation>
     </message>
     <message id="SplitSection.content">
         <source>Insert a section break into the document.</source>
         <extracomment>SplitSection.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit zalomení sekce do dokumentu.</translation>
     </message>
     <message id="SplitSection2.title">
         <source>Split Section</source>
         <extracomment>SplitSection2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit sekci</translation>
     </message>
     <message id="SplitSection2.content">
         <source>Click here to choose section break types.</source>
         <extracomment>SplitSection2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte sem pro výběr typu zalomení.</translation>
     </message>
     <message id="SplitTable.title">
         <source>Split Table</source>
         <extracomment>SplitTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit tabulku</translation>
     </message>
     <message id="SplitTable.content">
         <source>Split the table into two tables according to rows or columns.</source>
@@ -2729,7 +2729,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitWindow2.title">
         <source>Split Window</source>
         <extracomment>SplitWindow2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit okno</translation>
     </message>
     <message id="SplitWindow2.content">
         <source>Click the button to split the window horizontally or vertically.</source>
@@ -2739,7 +2739,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="StopAutoVersion.title">
         <source>Stop Auto Backup</source>
         <extracomment>StopAutoVersion.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastavit automatické zálohování</translation>
     </message>
     <message id="StopAutoVersion.content">
         <source>Stop the auto backup of the current document.</source>
@@ -2749,7 +2749,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="StopRecordMacro.title">
         <source>Stop Recording</source>
         <extracomment>StopRecordMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastavit nahrávání</translation>
     </message>
     <message id="StopRecordMacro.content">
         <source>Stop recording the macro.</source>
@@ -2759,7 +2759,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="Strikethought.title">
         <source>Strikethrough</source>
         <extracomment>Strikethought.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeškrtnutý</translation>
     </message>
     <message id="Strikethought.content">
         <source>Draw a line through the middle of the selected text.
@@ -2771,7 +2771,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="Strikethought2.title">
         <source>Other Options</source>
         <extracomment>Strikethought2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiné možnosti</translation>
     </message>
     <message id="Strikethought2.content">
         <source>Click the arrow to add a strikethrough or an emphasis mark.</source>
@@ -2781,7 +2781,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="Subscript.title">
         <source>Subscript</source>
         <extracomment>Subscript.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní index</translation>
     </message>
     <message id="Subscript.content">
         <source>Create small letters below the text baseline.</source>
@@ -2791,7 +2791,8 @@ Click the arrow to add an emphasis mark.</source>
     <message id="Superscript.title">
         <source>Superscript</source>
         <extracomment>Superscript.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní index
+</translation>
     </message>
     <message id="Superscript.content">
         <source>Create small letters above the line of text.</source>
@@ -2801,7 +2802,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="Superscript2.title">
         <source>Other Options</source>
         <extracomment>Superscript2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiné možnosti</translation>
     </message>
     <message id="Superscript2.content">
         <source>Click the arrow to select Superscript or Subscript.</source>
@@ -2811,7 +2812,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="Table.title">
         <source>Table</source>
         <extracomment>Table.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message id="Table.content">
         <source>Insert or draw a table into the document, and convert text to table or vice versa.</source>
@@ -2821,7 +2822,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="TableAutoAdjust.title">
         <source>AutoFit</source>
         <extracomment>TableAutoAdjust.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaticky vyplnit</translation>
     </message>
     <message id="TableAutoAdjust.content">
         <source>Automatically resize the row and column widths within the table.</source>
@@ -2831,7 +2832,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="TableBorderColor.title">
         <source>Border Color</source>
         <extracomment>TableBorderColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva okraje</translation>
     </message>
     <message id="TableBorderColor.content">
         <source>Set a border color for the selected table.
@@ -2843,7 +2844,7 @@ Click the arrow to select different border colors.</source>
     <message id="TableBorderColor2.title">
         <source>Border Color</source>
         <extracomment>TableBorderColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva okraje</translation>
     </message>
     <message id="TableBorderColor2.content">
         <source>Click the arrow to select different border colors.</source>
@@ -2853,7 +2854,7 @@ Click the arrow to select different border colors.</source>
     <message id="TableBorderStyle.title">
         <source>Line Style</source>
         <extracomment>TableBorderStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl čáry</translation>
     </message>
     <message id="TableBorderStyle.content">
         <source>Change the style of the line used to draw borders.</source>
@@ -2863,7 +2864,7 @@ Click the arrow to select different border colors.</source>
     <message id="TableBorderWidth.title">
         <source>Line Weight</source>
         <extracomment>TableBorderWidth.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tloušťka čáry</translation>
     </message>
     <message id="TableBorderWidth.content">
         <source>Change the width of the line used to draw borders.</source>
@@ -2873,7 +2874,7 @@ Click the arrow to select different border colors.</source>
     <message id="TableContents.title">
         <source>Table of Contents</source>
         <extracomment>TableContents.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obsah</translation>
     </message>
     <message id="TableContents.content">
         <source>Add a Table of Contents to the document before the body text.</source>
@@ -2883,17 +2884,17 @@ Click the arrow to select different border colors.</source>
     <message id="TableEraser.title">
         <source>Table Eraser</source>
         <extracomment>TableEraser.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guma na tabulky</translation>
     </message>
     <message id="TableEraser.content">
         <source>Erase the borders of a table in the document.</source>
         <extracomment>TableEraser.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maže okraje tabulky v dokumentu.</translation>
     </message>
     <message id="TableProperties.title">
         <source>Table Properties</source>
         <extracomment>TableProperties.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti tabulky</translation>
     </message>
     <message id="TableProperties.content">
         <source>Change advanced table properties, such as wrapping style, indentations and allowing rows to break across pages.</source>
@@ -2903,7 +2904,7 @@ Click the arrow to select different border colors.</source>
     <message id="TableSelectMenu.title">
         <source>Select Table</source>
         <extracomment>TableSelectMenu.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat tabulku</translation>
     </message>
     <message id="TableSelectMenu.content">
         <source>Select the current cell, row, column, or entire table, and use dashed borders to select any table.</source>
@@ -2913,7 +2914,7 @@ Click the arrow to select different border colors.</source>
     <message id="TableShadingColor.title">
         <source>Shading</source>
         <extracomment>TableShadingColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínování</translation>
     </message>
     <message id="TableShadingColor.content">
         <source>Color the background behind the selected text or paragraph.
@@ -2925,7 +2926,7 @@ Click the arrow to select different shading colors.</source>
     <message id="TableShadingColor2.title">
         <source>Shading</source>
         <extracomment>TableShadingColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínování</translation>
     </message>
     <message id="TableShadingColor2.content">
         <source>Click the arrow to select different shading colors.</source>
@@ -2935,17 +2936,17 @@ Click the arrow to select different shading colors.</source>
     <message id="Tabs.title">
         <source>Tabs</source>
         <extracomment>Tabs.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabelátory</translation>
     </message>
     <message id="Tabs.content">
         <source>Show the Tabs dialog box, and set tab stop position of the text.</source>
         <extracomment>Tabs.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat nastavení tabelátorů a nastavení tabelátorových zarážek.</translation>
     </message>
     <message id="TaskPane.title">
         <source>Task Window</source>
         <extracomment>TaskPane.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okno úloh</translation>
     </message>
     <message id="TaskPane.content">
         <source>Show or hide task window in the document.</source>
@@ -2965,7 +2966,7 @@ Click the arrow to select different shading colors.</source>
     <message id="TextBox2.title">
         <source>Draw Text Box</source>
         <extracomment>TextBox2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kreslit textový rámeček</translation>
     </message>
     <message id="TextBox2.content">
         <source>Click here to insert horizontal, vertical or multi-line text boxes.</source>
@@ -2975,7 +2976,7 @@ Click the arrow to select different shading colors.</source>
     <message id="TextDirection.title">
         <source>Text Direction</source>
         <extracomment>TextDirection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr textu</translation>
     </message>
     <message id="TextDirection.content">
         <source>Set either horizontal or vertical text orientation to the current section, the entire document, selected text box or table.</source>
@@ -2985,22 +2986,22 @@ Click the arrow to select different shading colors.</source>
     <message id="TextSpeech.title">
         <source>Read Text</source>
         <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přečíst text</translation>
     </message>
     <message id="TextSpeech.content">
         <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převod textu na řeč. Je poskytována 2-denní zkušební lhůta této funkce.</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
         <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čtení</translation>
     </message>
     <message id="TextSpeech2.content">
         <source>Click here to stop reading.</source>
         <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte sem pro ukončení čtení.</translation>
     </message>
     <message id="TightLineSpacing.title">
         <source>Tight Line Spacing</source>
@@ -3015,7 +3016,7 @@ Click the arrow to select different shading colors.</source>
     <message id="TrackChanges.title">
         <source>Track Changes</source>
         <extracomment>TrackChanges.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sledování změn</translation>
     </message>
     <message id="TrackChanges.content">
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
@@ -3025,7 +3026,7 @@ Click the arrow to select different shading colors.</source>
     <message id="TrackChanges2.title">
         <source>Track Changes</source>
         <extracomment>TrackChanges2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sledování změn</translation>
     </message>
     <message id="TrackChanges2.content">
         <source>Click here to select revision markups or comment formatting, or to change reviewer information.</source>
@@ -3045,7 +3046,7 @@ Click the arrow to select different shading colors.</source>
     <message id="Underline.title">
         <source>Underline</source>
         <extracomment>Underline.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message id="Underline.content">
         <source>Underline the selected text.
@@ -3057,7 +3058,7 @@ Click the arrow to select different underlining styles.</source>
     <message id="Underline2.title">
         <source>Underline</source>
         <extracomment>Underline2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message id="Underline2.content">
         <source>Click the arrow to select different underlining styles.</source>
@@ -3067,7 +3068,7 @@ Click the arrow to select different underlining styles.</source>
     <message id="UpdateTocOnOutlining.title">
         <source>Update Table of Contents</source>
         <extracomment>UpdateTocOnOutlining.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktualizovat tabulku s obsahem</translation>
     </message>
     <message id="UpdateTocOnOutlining.content">
         <source>Update the Table of Contents so that all the entries refer to the correct page number.</source>
@@ -3077,7 +3078,7 @@ Click the arrow to select different underlining styles.</source>
     <message id="VerbSideBySide.title">
         <source>Reset Window Position</source>
         <extracomment>VerbSideBySide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reset pozice okna</translation>
     </message>
     <message id="VerbSideBySide.content">
         <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
@@ -3099,7 +3100,7 @@ To enable this feature, turn on View Side by Side.</source>
     <message id="ViewRuler.title">
         <source>Ruler</source>
         <extracomment>ViewRuler.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravítko</translation>
     </message>
     <message id="ViewRuler.content">
         <source>View the rulers, used to measure and line up text and objects in the document.</source>
@@ -3109,7 +3110,7 @@ To enable this feature, turn on View Side by Side.</source>
     <message id="WaterMark.title">
         <source>Watermark</source>
         <extracomment>WaterMark.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodoznak</translation>
     </message>
     <message id="WaterMark.content">
         <source>Insert ghosted text and picture behind the content on the page.
@@ -3121,7 +3122,7 @@ This is often used to indicate that the document is to be treated specially, suc
     <message id="WebLayoutView.title">
         <source>Web Layout</source>
         <extracomment>WebLayoutView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení webu</translation>
     </message>
     <message id="WebLayoutView.content">
         <source>View the document as it would look as a Web page.</source>
@@ -3141,7 +3142,7 @@ This is often used to indicate that the document is to be treated specially, suc
     <message id="WordCount.title">
         <source>Word Count</source>
         <extracomment>WordCount.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počet slov</translation>
     </message>
     <message id="WordCount.content">
         <source>Count the number of pages, words, characters and paragraphs in the document.</source>
@@ -3163,7 +3164,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="WorkSpace_Backup.title">
         <source>File Backup</source>
         <extracomment>WorkSpace_Backup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záloha souboru</translation>
     </message>
     <message id="WorkSpace_Backup.content">
         <source>Set automatic or manual backup for the current document. The backup will be saved to your File Safe.</source>
@@ -3183,7 +3184,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Align.title">
         <source>Align</source>
         <extracomment>m_Align.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat</translation>
     </message>
     <message id="m_Align.content">
         <source>Align the selected objects.</source>
@@ -3213,7 +3214,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_ColumnsPalette.title">
         <source>Columns</source>
         <extracomment>m_ColumnsPalette.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloupce</translation>
     </message>
     <message id="m_ColumnsPalette.content">
         <source>Split text into two or more columns.</source>
@@ -3223,7 +3224,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Group.title">
         <source>Group</source>
         <extracomment>m_Group.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message id="m_Group.content">
         <source>Group objects together so that they can be treated like a single object.</source>
@@ -3233,7 +3234,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_LineNumber.title">
         <source>Line Numbers</source>
         <extracomment>m_LineNumber.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čísla řádků</translation>
     </message>
     <message id="m_LineNumber.content">
         <source>Add line numbers in the margin alongside of each line of the document.</source>
@@ -3243,7 +3244,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_LineSpacing.title">
         <source>Line Spacing</source>
         <extracomment>m_LineSpacing.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádkování</translation>
     </message>
     <message id="m_LineSpacing.content">
         <source>Change the spacing between lines of text.</source>
@@ -3253,7 +3254,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Margins.title">
         <source>Margins</source>
         <extracomment>m_Margins.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje</translation>
     </message>
     <message id="m_Margins.content">
         <source>Select the margin sizes for the entire document or the current section.</source>
@@ -3263,7 +3264,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_PageBorder.title">
         <source>Page Borders</source>
         <extracomment>m_PageBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje stránky</translation>
     </message>
     <message id="m_PageBorder.content">
         <source>Add or change the border around the page of the current section or the entire document.</source>
@@ -3283,7 +3284,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Rotate.title">
         <source>Rotate</source>
         <extracomment>m_Rotate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otočit</translation>
     </message>
     <message id="m_Rotate.content">
         <source>Rotate or flip the selected object.</source>
@@ -3293,7 +3294,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_ShowReviewer.title">
         <source>Show Markup</source>
         <extracomment>m_ShowReviewer.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit značky</translation>
     </message>
     <message id="m_ShowReviewer.content">
         <source>Choose what kind of markup to show in the document.</source>
@@ -3303,7 +3304,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Style.title">
         <source>New Style</source>
         <extracomment>m_Style.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový styl</translation>
     </message>
     <message id="m_Style.content">
         <source>Show the New Style dialog box, and create a new style in the Styles and Formatting task window.</source>
@@ -3313,7 +3314,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Style2.title">
         <source>New Style</source>
         <extracomment>m_Style2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový styl</translation>
     </message>
     <message id="m_Style2.content">
         <source>Click here to apply other options, such as clear formatting.</source>
@@ -3323,7 +3324,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_Wrapping.title">
         <source>Wrap Text</source>
         <extracomment>m_Wrapping.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomit text</translation>
     </message>
     <message id="m_Wrapping.content">
         <source>Change the way text wraps around the selected object, such as square and behind text.</source>
@@ -3343,7 +3344,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="sp_DeleteComment.title">
         <source>Delete Comment</source>
         <extracomment>sp_DeleteComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat komentář</translation>
     </message>
     <message id="sp_DeleteComment.content">
         <source>Delete the selected comment.</source>
@@ -3353,7 +3354,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="sp_DeleteComment2.title">
         <source>Delete Comment</source>
         <extracomment>sp_DeleteComment2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat komentář</translation>
     </message>
     <message id="sp_DeleteComment2.content">
         <source>Click here to delete all comments in the document.</source>
@@ -3363,7 +3364,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="sp_Paste.title">
         <source>Paste</source>
         <extracomment>sp_Paste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message id="sp_Paste.content">
         <source>Paste the contents of the Clipboard.</source>
@@ -3373,7 +3374,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="sp_Paste2.title">
         <source>Paste</source>
         <extracomment>sp_Paste2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message id="sp_Paste2.content">
         <source>Click here for more options such as pasting only unformatted text.</source>
@@ -3392,7 +3393,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     </message>
     <message id="Compare.title">
         <source>Compare</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Porovnat</translation>
     </message>
     <message id="Compare.content">
         <source>Compare two documents to see the differences between them.</source>
@@ -3522,7 +3523,7 @@ When grouped, a text range cannot be edited, except in regions containing editab
     </message>
     <message id="XmlMapping.title">
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Panel mapování XML</translation>
     </message>
     <message id="XmlMapping.content">
         <source>See the XML data stored in this document and create content controls that are linked to it.</source>

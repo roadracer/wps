@@ -52,7 +52,7 @@
     <name>KTemplateDetailHeaderButton</name>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpět</translation>
     </message>
 </context>
 <context>
@@ -70,15 +70,11 @@
     <name>KTemplateDlgDetailHeader</name>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový</translation>
     </message>
 </context>
 <context>
     <name>KTemplateDlgHeader</name>
-    <message>
-        <source>New</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Standard</source>
         <translation type="unfinished"></translation>
@@ -90,6 +86,10 @@
     <message>
         <source>Classification</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished">Nový</translation>
     </message>
 </context>
 <context>
@@ -111,7 +111,7 @@
     <name>KTemplateExtendGallery</name>
     <message>
         <source>Recently Used</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy použitá</translation>
     </message>
     <message>
         <source>More templates</source>
@@ -122,15 +122,15 @@
     <name>KWppTemplateItem</name>
     <message>
         <source>Load failed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze načíst.</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít na všechny snímky</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít na vybrané snímky</translation>
     </message>
 </context>
 <context>
@@ -144,11 +144,11 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek do více snímků</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neznámý formát obrázku.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -157,7 +157,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny obrázky (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>

@@ -6,61 +6,61 @@
     <name>KxItemWebView</name>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odepnout položku ze seznamu</translation>
     </message>
     <message>
         <source>Reached the maximum number of items locked.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dosažen maximální počet připojených položek</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připnout položku k seznamu</translation>
     </message>
     <message>
         <source>Click to enlarge preview item.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro zvětšení náhledu</translation>
     </message>
     <message>
         <source>Click to show additional options.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro zobrazení dalších nastavení</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboard</name>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schránka</translation>
     </message>
     <message>
         <source>Click to Paste:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vymazat vše</translation>
     </message>
 </context>
 <context>
     <name>KxTpClipboardPanel</name>
     <message>
         <source>&amp;Paste</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Vložit</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Smazat</translation>
     </message>
     <message>
         <source>Show Clipboard &amp;Automatically When Copying</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Automaticky ukázat schránku při kopírování</translation>
     </message>
     <message>
         <source>Press Ctrl+C Twice to Show Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro zobrazení schránky stiskněte 2x Ctrl+C</translation>
     </message>
     <message>
         <source>&amp;Collect Data Without Showing Clipboard</source>
@@ -68,11 +68,11 @@
     </message>
     <message>
         <source>Unlock this item from the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odepnout položku ze seznamu</translation>
     </message>
     <message>
         <source>Lock this item to the list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připnout položku k seznamu</translation>
     </message>
 </context>
 </TS>

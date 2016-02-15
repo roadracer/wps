@@ -27,7 +27,7 @@
     <message>
         <source>Camera</source>
         <comment>AEO_SOUNDEFFECT_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message>
         <source>Cash Register</source>
@@ -102,22 +102,22 @@
     <message>
         <source>Custom Animation</source>
         <comment>AEO_CMD_CUSTOMANIMATION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní animace</translation>
     </message>
     <message>
         <source>Title</source>
         <comment>AEO_PLACEHOLDER_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>AEO_PLACEHOLDER_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>AEO_PLACEHOLDER_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
@@ -142,12 +142,12 @@
     <message>
         <source>Chart</source>
         <comment>AEO_PLACEHOLDER_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Graf</translation>
     </message>
     <message>
         <source>Object</source>
         <comment>AEO_PLACEHOLDER_OBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objekt</translation>
     </message>
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
@@ -160,7 +160,7 @@
     <message>
         <source>End of slide show, click to exit.</source>
         <comment>AEOENGINE_PLAY_END</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konec prezentace, klikněte pro ukončení.</translation>
     </message>
 </context>
 <context>
@@ -168,72 +168,72 @@
     <message>
         <source>Fill Effects</source>
         <comment>ObjTable_BordersFillEffects</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Efekty výplně</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
         <comment>ObjTable_BordersFill</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje a výplň</translation>
     </message>
     <message>
         <source>Split Cell</source>
         <comment>ObjTable_SplitCells</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit buňku</translation>
     </message>
     <message>
         <source>Merge Cells</source>
         <comment>ObjTable_MergeCells</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
         <comment>ObjTable_InsertRowsAbove</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky nad</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
         <comment>ObjTable_InsertRowsBelow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit řádky pod</translation>
     </message>
     <message>
         <source>Insert Columns to the Left</source>
         <comment>ObjTable_InsertColumnsLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce vlevo</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
         <comment>ObjTable_InsertColumnsRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit sloupce vpravo</translation>
     </message>
     <message>
         <source>Delete Columns</source>
         <comment>ObjTable_DeleteColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat sloupce</translation>
     </message>
     <message>
         <source>Delete Rows</source>
         <comment>ObjTable_DeleteRows</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat řádky</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>ObjTable_FillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message>
         <source>Align Top</source>
         <comment>ObjTable_AlignTop</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat nahoru</translation>
     </message>
     <message>
         <source>Center Vertically</source>
         <comment>ObjTable_CenterVertically</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředit svisle</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>ObjTable_AlignBottom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat dolů</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -248,12 +248,12 @@
     <message>
         <source>Change Text Direction</source>
         <comment>ObjTable_ChangeTextDirection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit směr textu</translation>
     </message>
     <message>
         <source>Edit Table</source>
         <comment>ObjTable_EditTable</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit tabulku</translation>
     </message>
 </context>
 <context>
@@ -261,7 +261,7 @@
     <message>
         <source>Slide Show Help</source>
         <comment>WpSlideShowHelp_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nápověda k přehrávání</translation>
     </message>
     <message>
         <source>During the slide show:
@@ -298,17 +298,17 @@ Esc					End of the slide show</source>
     <message>
         <source>Slide </source>
         <comment>WpPlayingSlideNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek </translation>
     </message>
     <message>
         <source>Slide %d of %d</source>
         <comment>WpPlayProcessFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek %d z %d</translation>
     </message>
     <message>
         <source>End Show</source>
         <comment>WpPlayCompleted</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konec prezentace</translation>
     </message>
     <message>
         <source>Keep ink</source>
@@ -328,7 +328,7 @@ Esc					End of the slide show</source>
     <message>
         <source>Rehearse Timings</source>
         <comment>WpRehearseNewTimings</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nacvičit časování</translation>
     </message>
     <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
@@ -357,12 +357,12 @@ Would you like to open this file?
     <message>
         <source>Typing</source>
         <comment>TXTRANS_KEY_TYPE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Psaní</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TXTRANS_KEY_DELETE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Drag-and-Drop</source>
@@ -377,42 +377,42 @@ Would you like to open this file?
     <message>
         <source>Paste</source>
         <comment>TXTRANS_PASTE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>TXTRANS_CUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout</translation>
     </message>
     <message>
         <source>Font</source>
         <comment>TXTRANS_SPAN_FONT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message>
         <source>Font Size</source>
         <comment>TXTRANS_SPAN_FONT_SIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost písma</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>TXTRANS_SPAN_FONT_BOLD</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tučné</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>TXTRANS_SPAN_FONT_ITALIC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>TXTRANS_SPAN_FONT_UNDERLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message>
         <source>Text Shadow</source>
         <comment>TXTRANS_SPAN_FONT_SHADOW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stín textu</translation>
     </message>
     <message>
         <source>Text Emboss</source>
@@ -422,7 +422,7 @@ Would you like to open this file?
     <message>
         <source>Font Color</source>
         <comment>TXTRANS_SPAN_FONT_COLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message>
         <source>Baseline Offset</source>
@@ -432,32 +432,32 @@ Would you like to open this file?
     <message>
         <source>Line Spacing</source>
         <comment>TXTRANS_PARA_LINESPACE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádkování</translation>
     </message>
     <message>
         <source>Line Break</source>
         <comment>TXTRANS_PARA_LINEBREAK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení řádku</translation>
     </message>
     <message>
         <source>Bullets and Numbering</source>
         <comment>TXTRANS_PARA_BULLETS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky a číslování</translation>
     </message>
     <message>
         <source>Align Left</source>
         <comment>TXTRANS_PARA_ALIGNMENT_LEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vlevo</translation>
     </message>
     <message>
         <source>Center</source>
         <comment>TXTRANS_PARA_ALIGNMENT_CENTER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>TXTRANS_PARA_ALIGNMENT_RIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vpravo</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -477,7 +477,7 @@ Would you like to open this file?
     <message>
         <source>Centered</source>
         <comment>TXTRANS_PARA_TEXTALIGN_CENTERED</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředěný</translation>
     </message>
     <message>
         <source>Roman</source>
@@ -492,32 +492,32 @@ Would you like to open this file?
     <message>
         <source>Format Object</source>
         <comment>TXTRANS_FORMAT_OBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát objektu</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
         <comment>TXTRANS_INSERT_SLIDENUMBER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit číslo snímku</translation>
     </message>
     <message>
         <source>Date and Time</source>
         <comment>TXTRANS_DATA_AND_TIME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datum a čas</translation>
     </message>
     <message>
         <source>Insert Symbol</source>
         <comment>TXTRANS_SYMBOL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit symbol</translation>
     </message>
     <message>
         <source>Increase Indent</source>
         <comment>TXTRANS_INCREASE_INDENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit odsazení</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
         <comment>TXTRANS_DECREASE_INDENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit odsazení</translation>
     </message>
     <message>
         <source>Demote</source>
@@ -532,37 +532,37 @@ Would you like to open this file?
     <message>
         <source>Action Settings</source>
         <comment>TXTRANS_ACTIONSETTINGS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení akce</translation>
     </message>
     <message>
         <source>Ruler</source>
         <comment>TXTRANS_RULER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravítko</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
         <comment>TXTRANS_INSERT_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
         <comment>TXTRANS_EDIT_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>TXTRANS_REMOVE_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstranit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
         <comment>TXTRANS_INCREASE_FONT_SIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit písmo</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
         <comment>TXTRANS_DECREASE_FONT_SIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit písmo</translation>
     </message>
     <message>
         <source>&lt;header&gt;</source>
@@ -617,12 +617,12 @@ Would you like to open this file?
     <message>
         <source>Left Indent</source>
         <comment>TXTRANS_PARA_TEXTINDENT_LEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odsazení vlevo</translation>
     </message>
     <message>
         <source>First Line Indent</source>
         <comment>TXTRANS_PARA_TEXTINDENT_FIRSTLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odsazení prvního řádku</translation>
     </message>
 </context>
 <context>
@@ -630,7 +630,7 @@ Would you like to open this file?
     <message>
         <source>Presentation</source>
         <comment>WP_DEFAULT_PRESNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>Click to add first slide</source>
@@ -640,22 +640,22 @@ Would you like to open this file?
     <message>
         <source>Custom Design</source>
         <comment>WP_CUSTOM_DESIGN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní návrh</translation>
     </message>
     <message>
         <source>Default Design</source>
         <comment>WP_DEFAULT_DESIGN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí návrh</translation>
     </message>
     <message>
         <source>Read-Only</source>
         <comment>WP_READONLY</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jen ke čtení</translation>
     </message>
     <message>
         <source>Slide</source>
         <comment>WP_SB_VIEW_SLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -675,7 +675,7 @@ Would you like to open this file?
     <message>
         <source>Print: Page %d of %d</source>
         <comment>WP_SB_VIEW_PRINTPREVIEW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisk: strana %d z %d</translation>
     </message>
     <message>
         <source>VBAProject</source>
@@ -690,37 +690,37 @@ Would you like to open this file?
     <message>
         <source>Macro</source>
         <comment>WP_DESC_KDE_MACRO_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Module</source>
         <comment>WP_DESC_KDE_CODEMODULE_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modul</translation>
     </message>
     <message>
         <source>Slide Transition</source>
         <comment>WP_SLIDETRANSITION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechod snímku</translation>
     </message>
     <message>
         <source>Slow</source>
         <comment>WP_SLIDETRANS_SPEEDSLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomalu</translation>
     </message>
     <message>
         <source>Medium</source>
         <comment>WP_SLIDETRANS_SPEEDMEDIUM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střední</translation>
     </message>
     <message>
         <source>Fast</source>
         <comment>WP_SLIDETRANS_SPEEDFAST</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychle</translation>
     </message>
     <message>
         <source>No Transition</source>
         <comment>WP_EFFECT_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný přechod</translation>
     </message>
     <message>
         <source>Blinds Horizontal</source>
@@ -805,7 +805,7 @@ Would you like to open this file?
     <message>
         <source>Cut</source>
         <comment>WP_EFFECT_CUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout</translation>
     </message>
     <message>
         <source>Cut Through Black</source>
@@ -1045,7 +1045,7 @@ Would you like to open this file?
     <message>
         <source>Camera</source>
         <comment>WP_SOUNDEFFECT_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message>
         <source>Cash Register</source>
@@ -1120,42 +1120,42 @@ Would you like to open this file?
     <message>
         <source>Other Sound...</source>
         <comment>WP_SOUNDEFFECT_OTHER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiný zvuk...</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
         <comment>WP_SOUNDFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvukové soubory (*.wav)|*.wav</translation>
     </message>
     <message>
         <source>Add Sound</source>
         <comment>WP_OTHERSOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat zvuk</translation>
     </message>
     <message>
         <source>Used in This Presentation</source>
         <comment>WP_TP_DESIGNCATEGORY1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použité v této prezentaci</translation>
     </message>
     <message>
         <source>Recently Used</source>
         <comment>WP_TP_DESIGNCATEGORY2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy použitá</translation>
     </message>
     <message>
         <source>Available for Use</source>
         <comment>WP_TP_DESIGNCATEGORY3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dostupné</translation>
     </message>
     <message>
         <source>Recently Used</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy použitá</translation>
     </message>
     <message>
         <source>No Animation</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez animace</translation>
     </message>
     <message>
         <source>Subtle</source>
@@ -1175,7 +1175,7 @@ Would you like to open this file?
     <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez animace</translation>
     </message>
     <message>
         <source>Appear</source>
@@ -1345,7 +1345,7 @@ Would you like to open this file?
     <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez animace</translation>
     </message>
     <message>
         <source>Body: Appear</source>
@@ -1556,7 +1556,8 @@ Body: Thread</source>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>WP_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument je uzamčen jinou aplikací. Otevřít pouze ke čtení?
+(%s)</translation>
     </message>
     <message>
         <source>Errors occur when WPS Presentation is opening this file.
@@ -1578,7 +1579,8 @@ Please try one of the following.
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>WP_OpenProvALGVerFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepodporovaný formát šifrování souboru. Kontaktujte prosím autora.
+(%s)</translation>
     </message>
     <message>
         <source>Failed to open. The file you specified does not exist.
@@ -1589,7 +1591,7 @@ Please try one of the following.
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
         <comment>WP_PrintError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze tisknout, zkontrolujte prosím jestli je vaše tiskárna správně nainstalovaná.</translation>
     </message>
     <message>
         <source>Click to edit Master title style</source>
@@ -1613,17 +1615,17 @@ Fifth level</source>
     <message>
         <source>Copy</source>
         <comment>WP_COPY</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat</translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>WP_CUTSLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>WP_PASTE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -1633,12 +1635,12 @@ Fifth level</source>
     <message>
         <source>Slide Layout</source>
         <comment>WP_SETLAYOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení snímku</translation>
     </message>
     <message>
         <source>Format Painter</source>
         <comment>WP_FORMATPAINT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat formát</translation>
     </message>
     <message>
         <source>Drag-and-Drop</source>
@@ -1648,17 +1650,17 @@ Fifth level</source>
     <message>
         <source>Custom Shows</source>
         <comment>WP_CUSTOMSHOWS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní pohledy</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
         <comment>WpFormatTable_BordersFill</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje a výplň</translation>
     </message>
     <message>
         <source>Action Settings</source>
         <comment>WP_ACTIONSETTINGS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení akce</translation>
     </message>
     <message>
         <source>*.dpt</source>
@@ -1673,17 +1675,17 @@ Fifth level</source>
     <message>
         <source>Default Design</source>
         <comment>WpDefaultDesign</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí návrh</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
         <comment>WpAnimSchema</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schémata animací</translation>
     </message>
     <message>
         <source>Start slide show...</source>
         <comment>WP_START_PLAYING</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spustit přehrávání...</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -1744,7 +1746,7 @@ Please try one of the following.
     <message>
         <source>Other Layouts</source>
         <comment>WP_LAYOUTGROUP_OTHER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiná rozložení</translation>
     </message>
     <message>
         <source>Unknown Layouts</source>
@@ -1754,7 +1756,7 @@ Please try one of the following.
     <message>
         <source>Title Slide</source>
         <comment>WP_LAYOUT_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek s nadpisem</translation>
     </message>
     <message>
         <source>Title and Text</source>
@@ -1824,12 +1826,12 @@ Please try one of the following.
     <message>
         <source>Content</source>
         <comment>WP_LAYOUT_LARGEOBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obsah</translation>
     </message>
     <message>
         <source>Title and Content</source>
         <comment>WP_LAYOUT_OBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis a obsah</translation>
     </message>
     <message>
         <source>Title, Text and Media Clip</source>
@@ -1909,12 +1911,12 @@ Please try one of the following.
     <message>
         <source>Opening the file, please wait...</source>
         <comment>WP_Document_BusyTip_Prompt_Open</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevírám soubor, čekejte prosím...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>WP_Document_BusyTip_Prompt_Save</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukládání souboru, čekejte prosím...</translation>
     </message>
     <message>
         <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
@@ -1943,17 +1945,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Hide Slide</source>
         <comment>WP_SECURITY_HiddenSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt snímek</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
         <comment>WP_SECURITY_UserNotes</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámky přednášejícího</translation>
     </message>
     <message>
         <source>OLE Object</source>
         <comment>WP_SECURITY_OLEObject</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OLE objekt</translation>
     </message>
     <message>
         <source>Custom Property</source>
@@ -1978,26 +1980,21 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Hyperlink</source>
         <comment>WP_SECURITY_HyperLink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hypertext. odkaz</translation>
     </message>
     <message>
         <source>Header</source>
         <comment>WP_SECURITY_Header</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička</translation>
     </message>
     <message>
         <source>Footer</source>
         <comment>WP_SECURITY_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patička</translation>
     </message>
     <message>
         <source>VBA Code</source>
         <comment>WP_SECURITY_VBACode</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
-        <comment>WP_CannotPlaySoundFile</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2378,17 +2375,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Light</source>
         <comment>WP_TBLSTYLEGROUP2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Světlý</translation>
     </message>
     <message>
         <source>Medium</source>
         <comment>WP_TBLSTYLEGROUP3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střední</translation>
     </message>
     <message>
         <source>Dark</source>
         <comment>WP_TBLSTYLEGROUP4</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tmavý</translation>
     </message>
     <message>
         <source>Traditional Chinese to Simplified Chinese, converting...</source>
@@ -2413,27 +2410,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>SubTitle %d</source>
         <comment>WP_SubTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podnadpis %d</translation>
     </message>
     <message>
         <source>Title %d</source>
         <comment>WP_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis %d</translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS Presentation cannot save or create this file.
-Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
-(%s)</source>
-        <comment>WP_SAVE_PPT_FAILURE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
+        <comment>WP_OpenOoxmlLostEffect</comment>
+        <translation type="unfinished">Aktuálně WPS Office podporuje pouze zobrazení dokumentů MS Office 2010. Nelze uložit.</translation>
     </message>
     <message>
         <source>Handout Master</source>
@@ -2489,12 +2476,12 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Header</source>
         <comment>WP_TEXT_OF_HEADER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička</translation>
     </message>
     <message>
         <source>Footer</source>
         <comment>WP_TEXT_OF_FOOTER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patička</translation>
     </message>
     <message>
         <source>newfile.pptx</source>
@@ -2502,8 +2489,23 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
-        <comment>WP_OpenOoxmlLostEffect</comment>
+        <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
+        <comment>WP_CannotPlaySoundFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>WP_SAVE_PPT_FAILURE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="unfinished">Prezentace</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2513,17 +2515,17 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Custom Layout</source>
         <comment>WP_CUSTOM_LAYOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní rozložení</translation>
     </message>
     <message>
         <source>Slide Layout</source>
         <comment>WP_SB_VIEW_SLIDELAYOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení snímku</translation>
     </message>
     <message>
         <source>Click to add notes</source>
         <comment>WP_ADD_NOTES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro přidání poznámky</translation>
     </message>
     <message>
         <source>No Notes</source>
@@ -2533,7 +2535,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>Title</source>
         <comment>WP_PH_SPNAME_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source>Text Placeholder</source>
@@ -2925,22 +2927,22 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Click to add title</source>
         <comment>WpPLACEHOLDER_ADD_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro změnu nadpisu</translation>
     </message>
     <message>
         <source>Click to add text</source>
         <comment>WpPLACEHOLDER_ADD_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení textu</translation>
     </message>
     <message>
         <source>Click to add subtitle</source>
         <comment>WpPLACEHOLDER_ADD_SUBTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro změnu podnadpisu</translation>
     </message>
     <message>
         <source>Click icon to add content</source>
         <comment>WpPLACEHOLDER_ADD_CONTENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení obsahu</translation>
     </message>
     <message>
         <source>Title Area for AutoLayouts</source>
@@ -2960,52 +2962,52 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Number Area</source>
         <comment>WpPLACEHOLDER_MST_NUMBER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblast čísel</translation>
     </message>
     <message>
         <source>Header Area</source>
         <comment>WpPLACEHOLDER_MST_HEADER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblast hlavičky</translation>
     </message>
     <message>
         <source>Footer Area</source>
         <comment>WpPLACEHOLDER_MST_FOOTER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblast patičky</translation>
     </message>
     <message>
         <source>Date Area</source>
         <comment>WpPLACEHOLDER_MST_DATE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblast datumu</translation>
     </message>
     <message>
         <source>Click icon to add chart</source>
         <comment>WpPLACEHOLDER_ADD_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení grafu</translation>
     </message>
     <message>
         <source>Click icon to add picture</source>
         <comment>WpPLACEHOLDER_ADD_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte na ikonu pro vložení obrázku</translation>
     </message>
     <message>
         <source>Click icon to add media clip</source>
         <comment>WpPLACEHOLDER_ADD_MEDIA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení multimed. klipu</translation>
     </message>
     <message>
         <source>Click icon to add table</source>
         <comment>WpPLACEHOLDER_ADD_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení tabulky</translation>
     </message>
     <message>
         <source>Click icon to add smartArt</source>
         <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte na ikonu pro přidání SmartArt</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>WpPLACEHOLDER_MST_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
 </context>
 <context>
@@ -3013,22 +3015,22 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Title</source>
         <comment>WP_SLIDE_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source>Bullets</source>
         <comment>WP_BULLET</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message>
         <source>Slide %d</source>
         <comment>WP_SLIDE_NAME_FORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek %d</translation>
     </message>
     <message>
         <source>Slide%d</source>
         <comment>WP_SLIDE_NAME_FORMAT_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek%d</translation>
     </message>
 </context>
 <context>
@@ -3036,32 +3038,32 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slide Design</source>
         <comment>wpp_AnimationSchemes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návrh snímku</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
         <comment>wpp_AnimationSchemes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návrh snímku - schémata animací</translation>
     </message>
     <message>
         <source>Slide Design</source>
         <comment>wpp_ColorSchemes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návrh snímku</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
         <comment>wpp_ColorSchemes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návrh snímku - Barevná schémata</translation>
     </message>
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní animace</translation>
     </message>
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní animace</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -3121,12 +3123,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Open</source>
         <comment>wpp_sActionVerbOpenText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>Play</source>
         <comment>wpp_sActionVerbPlayText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přehrát</translation>
     </message>
     <message>
         <source>Add Effect</source>
@@ -3136,12 +3138,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Add</source>
         <comment>wpp_sAddOperation</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat</translation>
     </message>
     <message>
         <source>Cannot add word“%s”.</source>
         <comment>wpp_sAddWordFailed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze přidat slovo “%s”.</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
@@ -3156,7 +3158,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>All Slides</source>
         <comment>wpp_sAllSlides</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny snímky</translation>
     </message>
     <message>
         <source>Hide After Animation</source>
@@ -3301,7 +3303,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Down</source>
         <comment>wpp_sAnimDirectionDown</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolů</translation>
     </message>
     <message>
         <source>&amp;Down</source>
@@ -3391,7 +3393,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Horizontal</source>
         <comment>wpp_sAnimDirectionHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodorovně</translation>
     </message>
     <message>
         <source>&amp;Horizontal</source>
@@ -3616,7 +3618,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Up</source>
         <comment>wpp_sAnimDirectionUp</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahoru</translation>
     </message>
     <message>
         <source>&amp;Up</source>
@@ -3626,12 +3628,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Vertical</source>
         <comment>wpp_sAnimDirectionVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Svisle</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
         <comment>wpp_sAnimDirectionVertical2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Svisle</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
@@ -3681,7 +3683,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Change Fill Color</source>
         <comment>wpp_sAnimEffectChangeFillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit barvu výplně</translation>
     </message>
     <message>
         <source>Change Font</source>
@@ -3781,7 +3783,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Play</source>
         <comment>wpp_sAnimEffectMediaPlay</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přehrát</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -3906,12 +3908,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Diamond</source>
         <comment>wpp_sAnimEffectPathDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diamant</translation>
     </message>
     <message>
         <source>Down</source>
         <comment>wpp_sAnimEffectPathDown</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolů</translation>
     </message>
     <message>
         <source>Equal Triangle</source>
@@ -3966,7 +3968,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Left</source>
         <comment>wpp_sAnimEffectPathLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlevo</translation>
     </message>
     <message>
         <source>Loop de Loop</source>
@@ -4011,7 +4013,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Right</source>
         <comment>wpp_sAnimEffectPathRight</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vpravo</translation>
     </message>
     <message>
         <source>Right Triangle</source>
@@ -4051,7 +4053,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Square</source>
         <comment>wpp_sAnimEffectPathSquare</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čtverec</translation>
     </message>
     <message>
         <source>Stairs Down</source>
@@ -4096,7 +4098,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Up</source>
         <comment>wpp_sAnimEffectPathUp</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahoru</translation>
     </message>
     <message>
         <source>Vertical Figure 8</source>
@@ -4216,7 +4218,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom</source>
         <comment>wpp_sAnimEnterEffectTextCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Descend</source>
@@ -4226,7 +4228,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Diamond</source>
         <comment>wpp_sAnimEnterEffectTextDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diamant</translation>
     </message>
     <message>
         <source>Dissolve In</source>
@@ -4266,7 +4268,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Flip</source>
         <comment>wpp_sAnimEnterEffectTextFlip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Překlopit</translation>
     </message>
     <message>
         <source>Float</source>
@@ -4331,7 +4333,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom</source>
         <comment>wpp_sAnimEnterEffectTextShimmer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Sling</source>
@@ -4351,7 +4353,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Split</source>
         <comment>wpp_sAnimEnterEffectTextSplit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit příčkou</translation>
     </message>
     <message>
         <source>Stretch</source>
@@ -4486,7 +4488,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom</source>
         <comment>wpp_sAnimExitEffectTextCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Ascend</source>
@@ -4496,7 +4498,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Diamond</source>
         <comment>wpp_sAnimExitEffectTextDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diamant</translation>
     </message>
     <message>
         <source>Dissolve Out</source>
@@ -4536,7 +4538,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Flip</source>
         <comment>wpp_sAnimExitEffectTextFlip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Překlopit</translation>
     </message>
     <message>
         <source>Float</source>
@@ -4601,7 +4603,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom</source>
         <comment>wpp_sAnimExitEffectTextShimmer</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Sling</source>
@@ -4621,12 +4623,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Split</source>
         <comment>wpp_sAnimExitEffectTextSplit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit příčkou</translation>
     </message>
     <message>
         <source>Collapse</source>
         <comment>wpp_sAnimExitEffectTextStretch</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sbalit</translation>
     </message>
     <message>
         <source>Stretchy</source>
@@ -4791,7 +4793,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>(None)</source>
         <comment>wpp_sBracketNone</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Žádný)</translation>
     </message>
     <message>
         <source>Exciting</source>
@@ -4801,27 +4803,27 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>&amp;Continue</source>
         <comment>wpp_sbtnCaptionContinue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokračovat</translation>
     </message>
     <message>
         <source>&amp;Ignore</source>
         <comment>wpp_sbtnCaptionIgnore</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ignorovat</translation>
     </message>
     <message>
         <source>&amp;Replace...</source>
         <comment>wpp_sBtnReplace</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit...</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
         <comment>wpp_sBtnReplace2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message>
         <source>Cancel</source>
         <comment>wpp_sCancel</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>The last color scheme cannot be deleted. A presentation must always contain at least one standard color scheme.</source>
@@ -4836,27 +4838,27 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>&amp;Advanced</source>
         <comment>wpp_sCaptionAdvanced</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozšířené</translation>
     </message>
     <message>
         <source>Find</source>
         <comment>wpp_sCaptionFind</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít</translation>
     </message>
     <message>
         <source>&amp;Normal</source>
         <comment>wpp_sCaptionNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální</translation>
     </message>
     <message>
         <source>Play</source>
         <comment>wpp_sCaptionPlay</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přehrát</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>wpp_sCaptionReplace</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -4871,7 +4873,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>The spelling check is complete.</source>
         <comment>wpp_sCheckSpellingOver</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrola pravopisu dokončena.</translation>
     </message>
     <message>
         <source>Chinese(PRC)</source>
@@ -4886,17 +4888,17 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Click to hide contents</source>
         <comment>wpp_sClickToHideContext</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro skrytí obsahu</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>wpp_sClose</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Close</source>
         <comment>wpp_sCloseDialog</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Copy %sof %s</source>
@@ -4921,12 +4923,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Curve</source>
         <comment>wpp_sCurve</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Křivka</translation>
     </message>
     <message>
         <source>Custom Color</source>
         <comment>wpp_sCustomColorName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní barva</translation>
     </message>
     <message>
         <source>Custom Show %d</source>
@@ -4936,7 +4938,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom Shows</source>
         <comment>wpp_sCustomSlideShow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní pohledy</translation>
     </message>
     <message>
         <source>Set up Show</source>
@@ -4951,7 +4953,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>% &amp;delay between letters</source>
         <comment>wpp_sDelayByLetterPercent</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">% &amp;prodleva mezi písmeny</translation>
     </message>
     <message>
         <source>Seconds &amp;Delayed Between Letters</source>
@@ -4971,17 +4973,17 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Are you sure to delete the default dictionary?</source>
         <comment>wpp_sDeleteDefaultDictionary</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skutečně chcete smazat výchozí slovník ?</translation>
     </message>
     <message>
         <source>Error occurs when deleting words.</source>
         <comment>wpp_sDeleteWordError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba při mazání slov.</translation>
     </message>
     <message>
         <source>Incorrect dictionary! Cannot modify!</source>
         <comment>wpp_sDictError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nesprávný slovník, nelze upravit !</translation>
     </message>
     <message>
         <source>The path or name of %s is invalid. Please check that the path and file name are correct.</source>
@@ -5001,7 +5003,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Edit</source>
         <comment>wpp_sEditToolbarCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úpravy</translation>
     </message>
     <message>
         <source>Elbow</source>
@@ -5041,7 +5043,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
         <comment>wpp_sFileExist</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor se zadaným názvem už existuje. Chcete ho nahradit ?</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation.</source>
@@ -5056,7 +5058,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Font:</source>
         <comment>wpp_sFontName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo:</translation>
     </message>
     <message>
         <source>Moderate</source>
@@ -5066,7 +5068,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Handouts</source>
         <comment>wpp_sHandouts</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letáky</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
@@ -5076,7 +5078,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>After Previous</source>
         <comment>wpp_sHintAfterPrevious</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Po předchozím</translation>
     </message>
     <message>
         <source>By letter: </source>
@@ -5116,7 +5118,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>On Click</source>
         <comment>wpp_sHintOnPageClick</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na kliknutí</translation>
     </message>
     <message>
         <source>Start: </source>
@@ -5131,7 +5133,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Input permission password.</source>
         <comment>wpp_sInputMasterPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadejte heslo pro uzamčení.</translation>
     </message>
     <message>
         <source>This font size is not available. </source>
@@ -5151,7 +5153,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slide Design</source>
         <comment>wpp_SlideDesign_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návrh snímku</translation>
     </message>
     <message>
         <source>Slide Design - Design Templates</source>
@@ -5161,22 +5163,22 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slide Layout</source>
         <comment>wpp_SlideLayout_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení snímku</translation>
     </message>
     <message>
         <source>Slide Layout</source>
         <comment>wpp_SlideLayout_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení snímku</translation>
     </message>
     <message>
         <source>Slide Transition</source>
         <comment>wpp_SlideTransition_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechod snímku</translation>
     </message>
     <message>
         <source>Slide Transition</source>
         <comment>wpp_SlideTransition_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechod snímku</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
@@ -5211,7 +5213,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Color</source>
         <comment>wpp_sMenuDescriptionColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -5221,7 +5223,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Direction</source>
         <comment>wpp_sMenuDescriptionDirection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr</translation>
     </message>
     <message>
         <source>Di&amp;rection</source>
@@ -5231,7 +5233,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Fill Color</source>
         <comment>wpp_sMenuDescriptionFillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message>
         <source>&amp;Fill Color</source>
@@ -5241,7 +5243,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Font Color</source>
         <comment>wpp_sMenuDescriptionFontColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message>
         <source>&amp;Font Color</source>
@@ -5251,7 +5253,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Font Size</source>
         <comment>wpp_sMenuDescriptionFontSize</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost písma</translation>
     </message>
     <message>
         <source>&amp;Font Size</source>
@@ -5261,7 +5263,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Font Style</source>
         <comment>wpp_sMenuDescriptionFontStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl písma</translation>
     </message>
     <message>
         <source>&amp;Font Style</source>
@@ -5271,7 +5273,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Line Color</source>
         <comment>wpp_sMenuDescriptionLineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva čáry</translation>
     </message>
     <message>
         <source>&amp;Line Color</source>
@@ -5281,7 +5283,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Size</source>
         <comment>wpp_sMenuDescriptionSize</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost</translation>
     </message>
     <message>
         <source>Si&amp;ze</source>
@@ -5326,7 +5328,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Modify selected effects</source>
         <comment>wpp_sModifySelected</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit vybrané efekty</translation>
     </message>
     <message>
         <source>Motion Paths</source>
@@ -5336,7 +5338,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Locked</source>
         <comment>wpp_sMotionPathLock</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamčeno</translation>
     </message>
     <message>
         <source>UnLocked</source>
@@ -5351,7 +5353,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>How do you want the movie to start in the slide show?</source>
         <comment>wpp_sMovieText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jak chcete spustit video v prezentaci ?</translation>
     </message>
     <message>
         <source>The name &quot;%s&quot; is already in use. Please modify the name by changing at least 1 of the first 20 characters of &quot;%s&quot;.</source>
@@ -5361,22 +5363,22 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>None</source>
         <comment>wpp_sNoneBulletNumbering</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>Normal View</source>
         <comment>wpp_sNormalHint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální zobrazení</translation>
     </message>
     <message>
         <source>(No Suggestions)</source>
         <comment>wpp_sNoSuggestion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Žádné návrhy)</translation>
     </message>
     <message>
         <source>Notes</source>
         <comment>wpp_sNotesPages</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámky</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation. The search item was not found.</source>
@@ -5386,12 +5388,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>The password confirmation does not match.</source>
         <comment>wpp_sNotMatchPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>The password confirmation does not match.</source>
         <comment>wpp_sNotMatchPermissionPassword</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potvrzení hesla neodpovídá.</translation>
     </message>
     <message>
         <source>Encountered an error when opening PDF file.</source>
@@ -5416,12 +5418,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Special</source>
         <comment>wpp_sPathSpecialEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Speciální</translation>
     </message>
     <message>
         <source>Exporting PDF file is completing...</source>
         <comment>wpp_spdfComplete</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokončuje se export PDF souboru...</translation>
     </message>
     <message>
         <source>Exporting %d page...</source>
@@ -5431,7 +5433,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>wpp_spdfFinished</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Export PDF souboru je dokončen.</translation>
     </message>
     <message>
         <source>Exporting Labels...</source>
@@ -5471,12 +5473,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Property:</source>
         <comment>wpp_sProperty</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnost:</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>wpp_sPt</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bod</translation>
     </message>
     <message>
         <source>Redo %d Action(s)</source>
@@ -5501,12 +5503,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Sample</source>
         <comment>wpp_sSample</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzorek</translation>
     </message>
     <message>
         <source>Save Adobe PDF File As</source>
         <comment>wpp_sSaveAsPDFFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit soubor Adobe PDF jako</translation>
     </message>
     <message>
         <source>Follow Background Scheme Color</source>
@@ -5636,7 +5638,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slide Show from current slide(Shift+F5)</source>
         <comment>wpp_sSlideShow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace od aktuálního snímku (Shift+F5)</translation>
     </message>
     <message>
         <source>35mm Slides</source>
@@ -5646,12 +5648,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>A3 Paper(297x420 mm)</source>
         <comment>wpp_sSlideSizeA3Paper</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A3 (297x420 mm)</translation>
     </message>
     <message>
         <source>A4 Paper(210x297 mm)</source>
         <comment>wpp_sSlideSizeA4Paper</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A4 (210x297 mm)</translation>
     </message>
     <message>
         <source>B4 (ISO) Paper(250x353 mm)</source>
@@ -5671,7 +5673,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom</source>
         <comment>wpp_sSlideSizeCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Ledger Paper(11x17 in)</source>
@@ -5701,7 +5703,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slide %d</source>
         <comment>wpp_sSlideTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek %d</translation>
     </message>
     <message>
         <source>Sound Oper&amp;ation</source>
@@ -5716,7 +5718,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Speed:</source>
         <comment>wpp_sSpeed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlost:</translation>
     </message>
     <message>
         <source>Sp&amp;eed:</source>
@@ -5726,7 +5728,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Fast</source>
         <comment>wpp_sSpeedFast</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychle</translation>
     </message>
     <message>
         <source>%d seconds(Fast)</source>
@@ -5736,7 +5738,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Medium</source>
         <comment>wpp_sSpeedNormal</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střední</translation>
     </message>
     <message>
         <source>%d seconds(Medium)</source>
@@ -5746,7 +5748,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slow</source>
         <comment>wpp_sSpeedSlow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomalu</translation>
     </message>
     <message>
         <source>%d seconds(Slow)</source>
@@ -5756,7 +5758,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Very Fast</source>
         <comment>wpp_sSpeedVeryFast</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velmi rychle</translation>
     </message>
     <message>
         <source>%.1f seconds(Very Fast)</source>
@@ -5766,7 +5768,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Very Slow</source>
         <comment>wpp_sSpeedVerySlow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velmi pomalu</translation>
     </message>
     <message>
         <source>%d seconds(Very Slow)</source>
@@ -5781,7 +5783,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Permission password and document open password must be different.</source>
         <comment>wpp_sTwoPasswordIsEqual</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hesla pro nastavení práv a pro otevření dokumentu musí být různá.</translation>
     </message>
     <message>
         <source>Undo %d Action(s)</source>
@@ -5796,12 +5798,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Until End of Slide</source>
         <comment>wpp_sUntilEndofSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Do konce snímku</translation>
     </message>
     <message>
         <source>Until Next Click</source>
         <comment>wpp_sUntilNextClick</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Do dalšího kliknutí</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -5816,7 +5818,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>All Presentations(*.dps;*.ppt;*.pps)|*.dps;*.ppt;*.pps|All Files(*.*)|*.*</source>
         <comment>wpp_sValueWppFileFilter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny prezentace (*.dps;*.ppt;*.pps)|*.dps;*.ppt;*.pps|All Files(*.*)|*.*</translation>
     </message>
     <message>
         <source>Word %s is not found in Dictionary. Do you still want to change it?</source>
@@ -5826,12 +5828,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Table Style</source>
         <comment>wpp_TableStyleCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl tabulky</translation>
     </message>
     <message>
         <source>Table Style</source>
         <comment>wpp_TableStyleDisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl tabulky</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
@@ -5841,7 +5843,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
         <comment>wpp_sExportSlideNotExisted</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek vybraný pro export neexistuje. Vyberte prosím jiný.</translation>
     </message>
     <message>
         <source>Cannot locate the path. Please input a full path.</source>
@@ -5901,12 +5903,12 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>User Feedback</source>
         <comment>wpp_sFeedbackMailTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odezva od uživatelů</translation>
     </message>
     <message>
         <source>Triggers: </source>
         <comment>wpp_sTriggerPrefix</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spouštěče:</translation>
     </message>
     <message>
         <source>Add Entrance Effect</source>
@@ -5959,11 +5961,6 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
-        <comment>wpp_sCanNotOpenFolder</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Master: %1</source>
         <comment>wpp_sMasterType_Master</comment>
         <translation type="unfinished"></translation>
@@ -5981,7 +5978,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Title</source>
         <comment>wpp_sMasterTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source>date</source>
@@ -5991,11 +5988,16 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Footer</source>
         <comment>wpp_sMasterFooter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Patička</translation>
     </message>
     <message>
         <source>Slider Number</source>
         <comment>wpp_sMasterSliderNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open the folder %s. It might be in a unavailable path, or protected by password, or the folder path does not exist or the folder path is too long.</source>
+        <comment>wpp_sCanNotOpenFolder</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6010,12 +6012,13 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <source>Slide 
 Layout</source>
         <comment>WpSLIDELAYOUT_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení
+snímku</translation>
     </message>
     <message>
         <source>Notes Layout</source>
         <comment>WpNOTESLAYOUT_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení poznámek</translation>
     </message>
     <message>
         <source>Notes Master Layout</source>
@@ -6030,17 +6033,17 @@ Layout</source>
     <message>
         <source>Slide Number</source>
         <comment>WpSLIDENUMBER_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo snímku</translation>
     </message>
     <message>
         <source>Page Number</source>
         <comment>WpPAGENUMBER_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo stránky</translation>
     </message>
     <message>
         <source>Normal</source>
         <comment>WpNORMAL_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální</translation>
     </message>
     <message>
         <source>Normal (Restore Panes)</source>
@@ -6100,7 +6103,7 @@ Layout</source>
     <message>
         <source>Fit</source>
         <comment>WpZOOM_FIT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyplnit</translation>
     </message>
     <message>
         <source>Fit, -1</source>
@@ -6110,7 +6113,7 @@ Layout</source>
     <message>
         <source>Slides</source>
         <comment>WpPrintWhat_Slides</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímky</translation>
     </message>
     <message>
         <source>Handouts (1 slide per page)</source>
@@ -6150,7 +6153,7 @@ Layout</source>
     <message>
         <source>Outline View</source>
         <comment>WpPrintWhat_OutlineView</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazení obrysů</translation>
     </message>
     <message>
         <source>Notes Pages (1 slide per page)</source>
@@ -6165,62 +6168,62 @@ Layout</source>
     <message>
         <source>Page Setup</source>
         <comment>WpPAGESETUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení stránky</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>WpCANNOTUNDO_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze Zpět</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>WpCANNOTREDO_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze Znovu</translation>
     </message>
     <message>
         <source>Undo</source>
         <comment>WpUNDO_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpět</translation>
     </message>
     <message>
         <source>Redo</source>
         <comment>WpREDO_CAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zopakovat</translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>WpCUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjmout</translation>
     </message>
     <message>
         <source>Copy</source>
         <comment>WpCOPY</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat</translation>
     </message>
     <message>
         <source>Paste</source>
         <comment>WpPaste</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>WpCLEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Replace</source>
         <comment>WpREPLEASE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahradit</translation>
     </message>
     <message>
         <source>Delete Slide</source>
         <comment>WpDELETESLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat snímek</translation>
     </message>
     <message>
         <source>Delete Master</source>
         <comment>WpDELETEMASTER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat Master</translation>
     </message>
     <message>
         <source>Preserve Master</source>
@@ -6235,32 +6238,32 @@ Layout</source>
     <message>
         <source>Grid and Guides</source>
         <comment>WpGRIDGUIDES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mřížka a vodicí čáry</translation>
     </message>
     <message>
         <source>Header and Footer</source>
         <comment>WpHEADERFOOTER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička a patička</translation>
     </message>
     <message>
         <source>Insert Slide Number</source>
         <comment>WpSLIDENUMBER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit číslo snímku</translation>
     </message>
     <message>
         <source>Date and Time</source>
         <comment>WpDATETIME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datum a čas</translation>
     </message>
     <message>
         <source>Ruler</source>
         <comment>WpRULER</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravítko</translation>
     </message>
     <message>
         <source>New Slide</source>
         <comment>WpINSERTSLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový snímek</translation>
     </message>
     <message>
         <source>Insert New Slide Master</source>
@@ -6285,32 +6288,32 @@ Layout</source>
     <message>
         <source>Font</source>
         <comment>WpFONT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo</translation>
     </message>
     <message>
         <source>Font Alignment</source>
         <comment>WpFONTALIGNMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání písma</translation>
     </message>
     <message>
         <source>Alignment</source>
         <comment>WpALIGNMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message>
         <source>Change Case</source>
         <comment>WpCHANGECASE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit velká/malá</translation>
     </message>
     <message>
         <source>Line Spacing</source>
         <comment>WpLINESPACING</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádkování</translation>
     </message>
     <message>
         <source>Line Break</source>
         <comment>WpLINEBREAK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomení řádku</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -6326,7 +6329,7 @@ Layout</source>
     <message>
         <source>Notes Layout</source>
         <comment>WpNOTESLAYOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení poznámek</translation>
     </message>
     <message>
         <source>Notes Master Layout</source>
@@ -6341,17 +6344,17 @@ Layout</source>
     <message>
         <source>Background</source>
         <comment>WpBACKGROUND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozadí</translation>
     </message>
     <message>
         <source>Format Object</source>
         <comment>WpFORMATOBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát objektu</translation>
     </message>
     <message>
         <source>Help files not found, or the help files encounter an error.</source>
         <comment>WpNoHelpFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubory nápovědy nelze najít nebo obsahují chyby.</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -6361,87 +6364,87 @@ Layout</source>
     <message>
         <source>Action Settings</source>
         <comment>WpACTIONSETTINGS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení akce</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
         <comment>WpInsertHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
         <comment>WpEditHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>WpRemoveHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstranit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Hide Slide</source>
         <comment>WpHIDESLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt snímek</translation>
     </message>
     <message>
         <source>Custom Shows</source>
         <comment>WpCUSTOMSHOWS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní pohledy</translation>
     </message>
     <message>
         <source>Font Size</source>
         <comment>WpFONTSIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost písma</translation>
     </message>
     <message>
         <source>Bold</source>
         <comment>WpFONTBOLD</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tučné</translation>
     </message>
     <message>
         <source>Italic</source>
         <comment>WpFONTITALIC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zkosené</translation>
     </message>
     <message>
         <source>Underline</source>
         <comment>WpFONTUNDERLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message>
         <source>Text Shadow</source>
         <comment>WpFONTSHADOW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stín textu</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
         <comment>WpINCREASEFONTSIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit písmo</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
         <comment>WpDECREASEFONTSIZE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit písmo</translation>
     </message>
     <message>
         <source>Font Color</source>
         <comment>WpFONTCOLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva písma</translation>
     </message>
     <message>
         <source>Numbering</source>
         <comment>WpNUMBERING</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslování</translation>
     </message>
     <message>
         <source>Bullets</source>
         <comment>WpBULLETS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odrážky</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
         <comment>WpCHANGETEXTDIRECTION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit směr textu</translation>
     </message>
     <message>
         <source>Increase Paragraph Spacing</source>
@@ -6451,27 +6454,27 @@ Layout</source>
     <message>
         <source>Decrease Paragraph Spacing</source>
         <comment>WpDECREASEPARAGRAPHSPACE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit odsazení odstavce</translation>
     </message>
     <message>
         <source>Increase Indent</source>
         <comment>WpINCREASEINDENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit odsazení</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
         <comment>WpDECREASEINDENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit odsazení</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
         <comment>WpSPEAKERNOTES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poznámky přednášejícího</translation>
     </message>
     <message>
         <source>Color Scheme</source>
         <comment>WpCOLORSCHEME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevné schéma</translation>
     </message>
     <message>
         <source>Design Template</source>
@@ -6496,7 +6499,7 @@ Layout</source>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>WpPROMPTTOSAVE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chcete uložit změny provedené v %s?</translation>
     </message>
     <message>
         <source>Failed to save. Please try one of the following: 
@@ -6509,12 +6512,12 @@ Layout</source>
     <message>
         <source>Failed to open.</source>
         <comment>WpOPENFILEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít.</translation>
     </message>
     <message>
         <source>Failed to create a new file.</source>
         <comment>WpNEWFILEFAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze vytvořit nový soubor.</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only.
@@ -6525,7 +6528,7 @@ Layout</source>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
         <comment>WpALLPICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny obrázky (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</translation>
     </message>
     <message>
         <source>Media Files(*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)|*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mp2;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
@@ -6535,57 +6538,57 @@ Layout</source>
     <message>
         <source>Insert Picture</source>
         <comment>WpBITMAP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message>
         <source>Insert Media</source>
         <comment>WpMEDIA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit média</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>WpFILLCOLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message>
         <source>Line Color</source>
         <comment>WpLINECOLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva čáry</translation>
     </message>
     <message>
         <source>Shadow Color</source>
         <comment>WpSHADOWCOLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínu</translation>
     </message>
     <message>
         <source>3-D Color</source>
         <comment>Wp3DCOLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D barva</translation>
     </message>
     <message>
         <source>Insert Sound from File</source>
         <comment>WpSOUNDFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit zvuk ze souboru</translation>
     </message>
     <message>
         <source>Insert Movie from File</source>
         <comment>WpMOVIEFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit video ze souboru</translation>
     </message>
     <message>
         <source>Insert Table</source>
         <comment>WpINSERTTABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit tabulku</translation>
     </message>
     <message>
         <source>Insert Chart</source>
         <comment>WpINSERTCHART</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit graf</translation>
     </message>
     <message>
         <source>Insert Text</source>
         <comment>WpINSERTTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit text</translation>
     </message>
     <message>
         <source>Gallery Library</source>
@@ -6595,17 +6598,17 @@ Layout</source>
     <message>
         <source>Animation Scheme</source>
         <comment>WpSELANIMATIONSCHEMES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Animační schéma</translation>
     </message>
     <message>
         <source>Typography</source>
         <comment>WpTYPOGRAPHY</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typografie</translation>
     </message>
     <message>
         <source>Edit Object</source>
         <comment>WpEDITOBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit objekt</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
@@ -6620,7 +6623,7 @@ Layout</source>
     <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>WpMessage_NoPrinter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nebyla nalezena žádná nainstalovaná tiskárna.</translation>
     </message>
     <message>
         <source>The masters you do not want to preserve are never used by any slide. Do you want to delete them?</source>
@@ -6630,12 +6633,12 @@ Layout</source>
     <message>
         <source>Save as Picture</source>
         <comment>WpSAVEASPICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit jako obrázek</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>WpPICFILENAMEBASE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif|JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp|Windows Metafile(*.wmf)|*.wmf|Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -6645,22 +6648,22 @@ Layout</source>
     <message>
         <source>Add Text</source>
         <comment>DgDesc_InsertText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat text</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>DgDesc_ClearTextBox</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Insert Movie</source>
         <comment>DgDesc_InsertMovie</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit film</translation>
     </message>
     <message>
         <source>All Files</source>
         <comment>DgDesc_AllFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny soubory</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -6670,7 +6673,7 @@ Layout</source>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
         <comment>DgDesc_MovieFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filmy (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
@@ -6720,12 +6723,12 @@ Layout</source>
     <message>
         <source>Insert Sound</source>
         <comment>DgDesc_InsertSound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit zvuk</translation>
     </message>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
         <comment>DgDesc_SoundFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvukové soubory (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
@@ -6755,7 +6758,7 @@ Layout</source>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
         <comment>DgDesc_MIDIFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">MIDI soubor (midi) (*.mid;*.midi;*.rmi)</translation>
     </message>
     <message>
         <source>*.mid;*.midi;*.rmi</source>
@@ -6765,7 +6768,7 @@ Layout</source>
     <message>
         <source>Windows Audio File(wav) (*.wav)</source>
         <comment>DgDesc_WindowsAudioFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvukový soubor Windows (wav) (*.wav)</translation>
     </message>
     <message>
         <source>*.wav</source>
@@ -6785,32 +6788,32 @@ Layout</source>
     <message>
         <source>Click to add notes</source>
         <comment>WP_NOTESPANE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro přidání poznámky</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_FIND_NOTFOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokončeno prohledávání souboru, nic nebylo nalezeno.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
         <comment>WP_FIND_FINISH</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prohledávání souboru bylo dokončeno.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_REPLACE_NOTFOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokončeno prohledávání souboru, nic nebylo nalezeno.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed.</source>
         <comment>WP_REPLACE_FINISH</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prohledávání souboru bylo dokončeno.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and no search item was found.</source>
         <comment>WP_REPLACEALL_NOTFOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokončeno prohledávání souboru, nic nebylo nalezeno.</translation>
     </message>
     <message>
         <source>Searching to the whole file is completed, and has replaced %i items.</source>
@@ -6820,32 +6823,32 @@ Layout</source>
     <message>
         <source>The font &apos;</source>
         <comment>WP_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>WP_FontNameNotExisitSecondHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos; není ve vašem systému k dispozici. Chcete toto písmo přesto pužít?</translation>
     </message>
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>WP_SaveAsPictureFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze uložit jako obrázek, protože formát souboru není podporovaný.</translation>
     </message>
     <message>
         <source>Error</source>
         <comment>WP_SaveAsPictureFailureCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
         <comment>Wp_EraseAllMarkups</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vymazat všechny značky</translation>
     </message>
     <message>
         <source>Erase All Markups on Slide</source>
         <comment>Wp_EraseMarkupsOnSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vymazat všechny značky na snímku</translation>
     </message>
     <message>
         <source>Flash Files(*.swf)</source>
@@ -6860,12 +6863,12 @@ Layout</source>
     <message>
         <source>Insert Flash Animation</source>
         <comment>WpInsertFlashFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit animaci Flash</translation>
     </message>
     <message>
         <source>Insert Background Music</source>
         <comment>WpInsertBackgroundMusic</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hudbu na pozadí</translation>
     </message>
     <message>
         <source>The first slide has no background music. Do you want to add it?</source>
@@ -6875,48 +6878,42 @@ Layout</source>
     <message>
         <source>This slide has background music already. Do you want to replace it?</source>
         <comment>WpReplaceCurrentBkMusic</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tento snímek už obsahuje hudbu na pozadí. Nahradit ?</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
         <comment>WP_NewBlankFileCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová prázdná prezentace</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
         <comment>WP_NewBlankFileHint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová prázdná prezentace</translation>
     </message>
     <message>
         <source>New from Default Template</source>
         <comment>WP_NewFileFromDefaultTemplateCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>New From Default Template</source>
         <comment>WP_NewFileFromDefaultTemplateHint</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Spell 
-Check</source>
-        <comment>WP_CheckSpelling_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový z výchozí šablony</translation>
     </message>
     <message>
         <source>[Disabled]</source>
         <comment>WP_shieldedFunction</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[Vypnuto]</translation>
     </message>
     <message>
         <source>WPS Presentation cannot insert sound from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertSound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze vložit zvuk z vybraného souboru. Prosím zkontrolujte název a cestu k souboru a zkuste to znovu.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot insert movie from the selected file. Please check the path and file name and try again.</source>
         <comment>WP_Cannot_InsertMovie</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze vložit film z vybraného souboru. Prosím zkontrolujte název a cestu k souboru a zkuste to znovu.</translation>
     </message>
     <message>
         <source>Chinese Conversion...</source>
@@ -6931,32 +6928,33 @@ Check</source>
     <message>
         <source>Formatted Text</source>
         <comment>WP_ExpandPasteFormatTextHint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátovaný text</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>WP_ExpandPasteTextHint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neformátovaný text</translation>
     </message>
     <message>
         <source>Translate</source>
         <comment>WPP_Translate_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeložit</translation>
     </message>
     <message>
         <source>Search</source>
         <comment>WPP_Search_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prohledat</translation>
     </message>
     <message>
         <source>Superscript</source>
         <comment>WpSUPERSCRIPT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní index
+</translation>
     </message>
     <message>
         <source>Subscript</source>
         <comment>WpSUBSCRIPT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní index</translation>
     </message>
     <message>
         <source>This operation will delete a slide and its note page and graphics. Do you want to continue?</source>
@@ -6966,7 +6964,7 @@ Check</source>
     <message>
         <source>Translate to Simplified Chinese</source>
         <comment>WP_TranslateToSimplifiedChinese</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeložit do zjednodušené čínštiny</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
@@ -6976,89 +6974,32 @@ Check</source>
     <message>
         <source>Print</source>
         <comment>WP_Caption_RecentPrint_Print</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisk</translation>
     </message>
     <message>
         <source>Print directly</source>
         <comment>WP_Caption_RecentPrint_PrintDirect</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přímý tisk</translation>
     </message>
     <message>
         <source>Play Animation</source>
         <comment>WpAnimationButton</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přehrát animaci</translation>
     </message>
     <message>
         <source>Play Background Music</source>
         <comment>WpBkSoundButton</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přehrát hudbu na pozadí</translation>
     </message>
     <message>
         <source>Involved Template</source>
         <comment>WpINVOLVEDTEMPLATE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
-This backup will be saved to(%s)</source>
-        <comment>WpMsgBackupToDef</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>All Files(*.*)</source>
-        <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
-        <comment>WpDescPpt</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
-        <comment>WpDescPps</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese Office Document Format(*.uof)</source>
-        <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Chinese Office Document Format 2.0(*.uop)</source>
-        <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>JPEG File Interchange Format(*.jpg)</source>
-        <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>PNG Portable Network Graphics Format(*.png)</source>
-        <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>TIFF Tag Image File Format(*.tif)</source>
-        <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Device Independent Bitmap(*.bmp)</source>
-        <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Each slide in your presentation has been saved as a separate file in the folder
-%s .</source>
-        <comment>WpSAVEIMAGEHINT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zapojená šablona</translation>
     </message>
     <message>
         <source>Paragraphs</source>
         <comment>WpPARAGRAPHS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstavce</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|PNG Portable Network Graphics Format(*.png)|*.png|TIFF Tag Image File Format(*.tif)|*.tif|Device Independent Bitmap(*.bmp)|*.bmp</source>
@@ -7084,6 +7025,11 @@ This backup will be saved to(%s)</source>
         <source>Open Web Media Video(*.webm)|*.webm</source>
         <comment>WP_SAVEFILE_VIDEO_WEBM</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>WpDescAll</comment>
+        <translation type="unfinished">Všechny soubory(*.*)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
@@ -7118,6 +7064,16 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
         <comment>WpDescMPP2003</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7166,6 +7122,36 @@ This backup will be saved to(%s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Chinese Office Document Format(*.uof)</source>
+        <comment>WpDescUOF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format 2.0(*.uop)</source>
+        <comment>WpDescUOF2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File Interchange Format(*.jpg)</source>
+        <comment>WpDescJPEG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PNG Portable Network Graphics Format(*.png)</source>
+        <comment>WpDescPNG</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TIFF Tag Image File Format(*.tif)</source>
+        <comment>WpDescTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Device Independent Bitmap(*.bmp)</source>
+        <comment>WpDescBMP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>WpDescOFD</comment>
         <translation type="unfinished"></translation>
@@ -7186,6 +7172,19 @@ This backup will be saved to(%s)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Spell 
+Check</source>
+        <comment>WP_CheckSpelling_Caption</comment>
+        <translation type="unfinished">Kontrola 
+pravopisu</translation>
+    </message>
+    <message>
+        <source>Each slide in your presentation has been saved as a separate file in the folder
+%s .</source>
+        <comment>WpSAVEIMAGEHINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Layout</source>
         <comment>WpINSERTLAYOUT</comment>
         <translation type="unfinished"></translation>
@@ -7193,11 +7192,17 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Format Text</source>
         <comment>WpFormatText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátovat text</translation>
     </message>
     <message>
         <source>Edit Table Borders</source>
         <comment>WpEditTableBorders</comment>
+        <translation type="unfinished">Upravit okraje tabulky</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>WpMsgBackupToDef</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7218,7 +7223,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>AddPlaceholder</source>
         <comment>WpAddPlaceHolder</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit zástupný znak</translation>
     </message>
     <message>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
@@ -7228,7 +7233,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Hyperlink</source>
         <comment>TX_WPP_CF_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hypertext. odkaz</translation>
     </message>
 </context>
 </TS>

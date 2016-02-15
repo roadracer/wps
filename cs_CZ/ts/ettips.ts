@@ -7,7 +7,7 @@
     <message id="AdvancedFilter.title">
         <source>Advanced Filter</source>
         <extracomment>AdvancedFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozšířený filtr</translation>
     </message>
     <message id="AdvancedFilter.content">
         <source>Specify complex criteria to limit which records are included in the result set of a query.</source>
@@ -17,7 +17,7 @@
     <message id="Align.title">
         <source>Align</source>
         <extracomment>Align.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat</translation>
     </message>
     <message id="Align.content">
         <source>Align the edges of multiple selected objects.
@@ -29,12 +29,12 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AlignCenter.title">
         <source>Center</source>
         <extracomment>AlignCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message id="AlignCenter.content">
         <source>Center text.</source>
         <extracomment>AlignCenter.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vystředit text.</translation>
     </message>
     <message id="AlignJustify.title">
         <source>Justify</source>
@@ -49,7 +49,7 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>AlignLeft.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vlevo</translation>
     </message>
     <message id="AlignLeft.content">
         <source>Align text to the left.</source>
@@ -59,7 +59,7 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AlignRight.title">
         <source>Align Text Right</source>
         <extracomment>AlignRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat text vpravo</translation>
     </message>
     <message id="AlignRight.content">
         <source>Align text to the right.</source>
@@ -89,7 +89,7 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AllBorders.title">
         <source>All Borders</source>
         <extracomment>AllBorders.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny okraje</translation>
     </message>
     <message id="AllBorders.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -99,7 +99,7 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AllFunction.title">
         <source>All Functions</source>
         <extracomment>AllFunction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny funkce</translation>
     </message>
     <message id="AllFunction.content">
         <source>Browse and select from the list that contains all of the functions.</source>
@@ -121,7 +121,7 @@ Before using this feature, first set security on the sheet by using the Protect 
     <message id="ArtisticWordAlignment.title">
         <source>Alignment</source>
         <extracomment>ArtisticWordAlignment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnání</translation>
     </message>
     <message id="ArtisticWordAlignment.content">
         <source>Specify how individual lines of a multiline WordArt should be aligned.</source>
@@ -131,7 +131,7 @@ Before using this feature, first set security on the sheet by using the Protect 
     <message id="AutoFilter.title">
         <source>AutoFilter</source>
         <extracomment>AutoFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AutoFiltr</translation>
     </message>
     <message id="AutoFilter.content">
         <source>Enable filtering of the selected cells.
@@ -143,7 +143,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="AutoSum.title">
         <source>AutoSum</source>
         <extracomment>AutoSum.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AutoSumář</translation>
     </message>
     <message id="AutoSum.content">
         <source>Display the sum of the selected cells directly after the selected cells.</source>
@@ -153,7 +153,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="Average.title">
         <source>Average</source>
         <extracomment>Average.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Průměr</translation>
     </message>
     <message id="Average.content">
         <source>Returns the average (arithmetic mean) of the arguments.</source>
@@ -163,7 +163,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="BookProtection.title">
         <source>Protect Workbook</source>
         <extracomment>BookProtection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknout sešit</translation>
     </message>
     <message id="BookProtection.content">
         <source>Prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.</source>
@@ -173,7 +173,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="BottomBorder.title">
         <source>Bottom Border</source>
         <extracomment>BottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolní okraj</translation>
     </message>
     <message id="BottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -183,7 +183,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="BottomDoubleBorder.title">
         <source>Bottom Double Border</source>
         <extracomment>BottomDoubleBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spodní okraj dvojitě</translation>
     </message>
     <message id="BottomDoubleBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -193,7 +193,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="CTB_DesignMode.title">
         <source>Design Mode</source>
         <extracomment>CTB_DesignMode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim návrhu</translation>
     </message>
     <message id="CTB_DesignMode.content">
         <source>Enter design mode to edit controls&apos; names and functions.</source>
@@ -203,7 +203,7 @@ Once filtering is turned on, click the arrow to choose a filter for the column.<
     <message id="CalculateSheet.title">
         <source>Calculate Sheet</source>
         <extracomment>CalculateSheet.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepočítat list</translation>
     </message>
     <message id="CalculateSheet.content">
         <source>Calculate the current sheet now.
@@ -214,7 +214,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Camera.title">
         <source>Camera</source>
         <extracomment>Camera.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message id="Camera.content">
         <source>Link cells or cell range to drawing objects. Changes made to data in cells of the worksheet will be automatically shown in drawing objects.</source>
@@ -264,7 +264,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="CircularReferences.title">
         <source>Circular References</source>
         <extracomment>CircularReferences.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cyklické odkazy</translation>
     </message>
     <message id="CircularReferences.content">
         <source>Show the Circular References dialog box. You can search and locate all cells that contain circular references in the workbook.
@@ -276,7 +276,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="Clear.title">
         <source>Clear</source>
         <extracomment>Clear.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message id="Clear.content">
         <source>Delete everything from the cell, or selectively remove the formatting, the contents, or the comments.</source>
@@ -286,7 +286,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="ClearFilter.title">
         <source>Show All</source>
         <extracomment>ClearFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit vše</translation>
     </message>
     <message id="ClearFilter.content">
         <source>Clear the filter and sort state for the current range of data.</source>
@@ -296,7 +296,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="ColumnsCenter.title">
         <source>Center Across</source>
         <extracomment>ColumnsCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spojit a vystředit napříč</translation>
     </message>
     <message id="ColumnsCenter.content">
         <source>Select continuous cells in one row or multiple rows, set the content of the cells to the center.</source>
@@ -306,7 +306,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="ComAddin.title">
         <source>COM Add-Ins</source>
         <extracomment>ComAddin.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doplňky COM</translation>
     </message>
     <message id="ComAddin.content">
         <source>Add or delete the available COM Add-Ins.</source>
@@ -316,7 +316,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="CommaStyle.title">
         <source>Comma Style</source>
         <extracomment>CommaStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl oddělovače</translation>
     </message>
     <message id="CommaStyle.content">
         <source>Display the value of the cell with a thousands separator.</source>
@@ -326,7 +326,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="CompressPictures.title">
         <source>Compress Pictures</source>
         <extracomment>CompressPictures.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komprimovat obrázky</translation>
     </message>
     <message id="CompressPictures.content">
         <source>Compress the selected picture or all pictures in the worksheet to reduce size.</source>
@@ -336,7 +336,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="ConditionalFormat.title">
         <source>Conditional Formatting</source>
         <extracomment>ConditionalFormat.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podmíněné formátování</translation>
     </message>
     <message id="ConditionalFormat.content">
         <source>Visually explore and analyze data, detect critical issues, and identify patterns and trends.</source>
@@ -346,7 +346,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="Consolidate.title">
         <source>Consolidate</source>
         <extracomment>Consolidate.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konsolidovat</translation>
     </message>
     <message id="Consolidate.content">
         <source>Combine values from multiple ranges into one new range.</source>
@@ -356,7 +356,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="Count.title">
         <source>Count</source>
         <extracomment>Count.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počet</translation>
     </message>
     <message id="Count.content">
         <source>Count the number of cells in a column that contain numbers.</source>
@@ -366,7 +366,7 @@ Double-click an item in the list of results to switch the corresponding cell.</s
     <message id="Currency.title">
         <source>Currency</source>
         <extracomment>Currency.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Měna</translation>
     </message>
     <message id="Currency.content">
         <source>Choose an alternate currency format for the selected cell.
@@ -388,7 +388,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DataGroup.title">
         <source>Group</source>
         <extracomment>DataGroup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message id="DataGroup.content">
         <source>Tie a range of cells together so that they can be collapsed or expanded.</source>
@@ -398,7 +398,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DataSort.title">
         <source>Sort</source>
         <extracomment>DataSort.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Třídit</translation>
     </message>
     <message id="DataSort.content">
         <source>Show the Sort dialog box to sort data based on several criteria at once.</source>
@@ -408,7 +408,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DataTable.title">
         <source>Data Table</source>
         <extracomment>DataTable.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka dat</translation>
     </message>
     <message id="DataTable.content">
         <source>Add a data table to the chart.</source>
@@ -418,7 +418,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DataUngroup.title">
         <source>Ungroup</source>
         <extracomment>DataUngroup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit</translation>
     </message>
     <message id="DataUngroup.content">
         <source>Ungroup a range of cells that were previously grouped.</source>
@@ -428,7 +428,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DataUngroup2.title">
         <source>Ungroup</source>
         <extracomment>DataUngroup2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit</translation>
     </message>
     <message id="DataUngroup2.content">
         <source>Ungroup a range of cells that were previously grouped.</source>
@@ -438,7 +438,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DecreaseDecimal.title">
         <source>Decrease Decimal</source>
         <extracomment>DecreaseDecimal.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snížit počet desetinných míst</translation>
     </message>
     <message id="DecreaseDecimal.content">
         <source>Show less precise values by showing fewer decimal places.</source>
@@ -448,7 +448,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DecreaseIndent.title">
         <source>Decrease Indent</source>
         <extracomment>DecreaseIndent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit odsazení</translation>
     </message>
     <message id="DecreaseIndent.content">
         <source>Decrease the margin between the border and the text in the cell.</source>
@@ -458,7 +458,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DeleteComment.title">
         <source>Delete</source>
         <extracomment>DeleteComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat</translation>
     </message>
     <message id="DeleteComment.content">
         <source>Delete the selected comment.</source>
@@ -488,7 +488,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_Data.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Data.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Data.content">
         <source>Change the advanced settings of outline.</source>
@@ -498,7 +498,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -508,7 +508,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of cell formatting.</source>
@@ -518,7 +518,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_Layout.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Layout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_Layout.content">
         <source>Change the settings of page setup.</source>
@@ -528,7 +528,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_PictureTool.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTool.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_PictureTool.content">
         <source>Change the settings of picture formatting.</source>
@@ -538,7 +538,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_WordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message id="DetailedSettings_WordArt.content">
         <source>Change the settings of WordArt formatting.</source>
@@ -548,7 +548,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DevelopmentTools.title">
         <source>Developer</source>
         <extracomment>DevelopmentTools.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojář</translation>
     </message>
     <message id="DevelopmentTools.content">
         <source>DevelopmentTools Content</source>
@@ -558,7 +558,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="Direction.title">
         <source>Direction</source>
         <extracomment>Direction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr</translation>
     </message>
     <message id="Direction.content">
         <source>Choose the direction effect of the selected 3-D Shape.</source>
@@ -568,7 +568,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DisplayGridlines.title">
         <source>View Gridlines</source>
         <extracomment>DisplayGridlines.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit mřížku</translation>
     </message>
     <message id="DisplayGridlines.content">
         <source>Show the lines between rows and columns in the sheet to make editing and reading easier.
@@ -580,7 +580,7 @@ These lines will not print unless Print is also checked.</source>
     <message id="DisplayHeadings.title">
         <source>View Headings</source>
         <extracomment>DisplayHeadings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit záhlaví</translation>
     </message>
     <message id="DisplayHeadings.content">
         <source>Show row and column headings. 
@@ -628,7 +628,7 @@ Press Esc on the keyboard or click here again to exit the drawing mode.</source>
     <message id="Duplicates.title">
         <source>Duplicates</source>
         <extracomment>Duplicates.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Duplicity</translation>
     </message>
     <message id="Duplicates.content">
         <source>Highlight, Reject Input or Remove duplicate rows from a sheet.
@@ -640,7 +640,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="DynamicShape.title">
         <source>Insert Shapes</source>
         <extracomment>DynamicShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit tvary</translation>
     </message>
     <message id="DynamicShape.content">
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
@@ -650,7 +650,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="EDRProperties.title">
         <source>Data Range Properties</source>
         <extracomment>EDRProperties.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti datové řady</translation>
     </message>
     <message id="EDRProperties.content">
         <source>Change the external data source names, number format and layout.</source>
@@ -660,7 +660,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="EditCloumns.title">
         <source>Formula Bar</source>
         <extracomment>EditCloumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádek vzorců</translation>
     </message>
     <message id="EditCloumns.content">
         <source>View the formula bar, in which you can enter text and formulas into cells.</source>
@@ -670,7 +670,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="EditComment.title">
         <source>Edit Comment</source>
         <extracomment>EditComment.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit komentář</translation>
     </message>
     <message id="EditComment.content">
         <source>Edit the selected comment.</source>
@@ -680,7 +680,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="EditCrossBookLinks.title">
         <source>Edit Links</source>
         <extracomment>EditCrossBookLinks.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit odkazy</translation>
     </message>
     <message id="EditCrossBookLinks.content">
         <source>In order to update data or delete links, view all the files that have been linked to this workbook.</source>
@@ -700,7 +700,7 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="EquationEditor.title">
         <source>Insert Equation</source>
         <extracomment>EquationEditor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit matematický výraz</translation>
     </message>
     <message id="EquationEditor.content">
         <source>Insert mathematical equations using equation editor.</source>
@@ -732,7 +732,7 @@ Press Esc on the keyboard or click here again to exit the erasing mode.</source>
     <message id="ExitPreview.title">
         <source>Exit</source>
         <extracomment>ExitPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Konec</translation>
     </message>
     <message id="ExitPreview.content">
         <source>Exit Print Preview and return to the document-editing mode.</source>
@@ -742,7 +742,7 @@ Press Esc on the keyboard or click here again to exit the erasing mode.</source>
     <message id="FTB_EditCode.title">
         <source>Edit Code</source>
         <extracomment>FTB_EditCode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit kód</translation>
     </message>
     <message id="FTB_EditCode.content">
         <source>Start the visual basic editor to edit the selected form code.</source>
@@ -752,7 +752,7 @@ Press Esc on the keyboard or click here again to exit the erasing mode.</source>
     <message id="FTB_Property.title">
         <source>Control Properties</source>
         <extracomment>FTB_Property.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastnosti ovl. prvku</translation>
     </message>
     <message id="FTB_Property.content">
         <source>Set the selected form object properties, such as font and size.</source>
@@ -762,7 +762,7 @@ Press Esc on the keyboard or click here again to exit the erasing mode.</source>
     <message id="Fill.title">
         <source>Fill</source>
         <extracomment>Fill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyplnit</translation>
     </message>
     <message id="Fill.content">
         <source>According to certain rules, you can fill the contents of a cell in any direction to adjacent cells.</source>
@@ -772,7 +772,7 @@ Press Esc on the keyboard or click here again to exit the erasing mode.</source>
     <message id="FillColor.title">
         <source>Fill Color</source>
         <extracomment>FillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message id="FillColor.content">
         <source>Color the background of selected cells.
@@ -784,7 +784,7 @@ Click the arrow to select a different background color.</source>
     <message id="FillColor2.title">
         <source>Fill Color</source>
         <extracomment>FillColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message id="FillColor2.content">
         <source>Click the arrow to select a different background color.</source>
@@ -794,7 +794,7 @@ Click the arrow to select a different background color.</source>
     <message id="Financial.title">
         <source>Financial</source>
         <extracomment>Financial.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Finanční</translation>
     </message>
     <message id="Financial.content">
         <source>Browse and select from a list of financial functions.</source>
@@ -804,7 +804,7 @@ Click the arrow to select a different background color.</source>
     <message id="Find.title">
         <source>Find and Replace</source>
         <extracomment>Find.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Najít a nahradit</translation>
     </message>
     <message id="Find.content">
         <source>Find text in the workbook.
@@ -816,7 +816,7 @@ Click the arrow to choose other options, such as Go To.</source>
     <message id="FontColor.title">
         <source>Text Color</source>
         <extracomment>FontColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="FontColor.content">
         <source>Change the text color.
@@ -828,7 +828,7 @@ Click the arrow to select a different text color.</source>
     <message id="FontColor2.title">
         <source>Text Color</source>
         <extracomment>FontColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="FontColor2.content">
         <source>Click the arrow to select a different text color.</source>
@@ -843,7 +843,7 @@ Click the arrow to select a different text color.</source>
     <message id="FontFormatCells.content">
         <source>Show the Font dialog box.</source>
         <extracomment>FontFormatCells.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat dialog Písma</translation>
     </message>
     <message id="FormatChartObject.title">
         <source>Format Selection</source>
@@ -858,7 +858,7 @@ Click the arrow to select a different text color.</source>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
         <extracomment>FormatPainter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat formát</translation>
     </message>
     <message id="FormatPainter.content">
         <source>Copy formatting from one place and apply it to another.
@@ -890,7 +890,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <message id="FullScreenMode.title">
         <source>Full Screen</source>
         <extracomment>FullScreenMode.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celá obrazovka</translation>
     </message>
     <message id="FullScreenMode.content">
         <source>View the workbook in full screen mode</source>
@@ -910,7 +910,7 @@ Double-click this button to apply the same formatting to multiple places in the 
     <message id="FuncCatMoreFunctions.title">
         <source>More Functions</source>
         <extracomment>FuncCatMoreFunctions.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další funkce</translation>
     </message>
     <message id="FuncCatMoreFunctions.content">
         <source>Browse and select from lists of statistical, engineering, and information functions.</source>
@@ -942,7 +942,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="Group.title">
         <source>Group</source>
         <extracomment>Group.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message id="Group.content">
         <source>Group objects together so that they can be treated like a single object.</source>
@@ -952,7 +952,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="GrowFont.title">
         <source>Increase Font Size</source>
         <extracomment>GrowFont.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit písmo</translation>
     </message>
     <message id="GrowFont.content">
         <source>Increase the font size.</source>
@@ -962,7 +962,7 @@ WPS Gallery Online Sources require Internet connection.</source>
     <message id="HeaderFooter.title">
         <source>Header and Footer</source>
         <extracomment>HeaderFooter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavička a patička</translation>
     </message>
     <message id="HeaderFooter.content">
         <source>Edit the header and footer of the document.
@@ -974,7 +974,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="HideDetail.title">
         <source>Hide Detail</source>
         <extracomment>HideDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt detail</translation>
     </message>
     <message id="HideDetail.content">
         <source>Collapse a group of cells.</source>
@@ -994,7 +994,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
         <extracomment>Hyperlink.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message id="Hyperlink.content">
         <source>Create a link to a web page, a picture, or an e-mail address.</source>
@@ -1014,7 +1014,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="IncreaseDecimal.title">
         <source>Increase Decimal</source>
         <extracomment>IncreaseDecimal.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvýšit počet desetinných míst</translation>
     </message>
     <message id="IncreaseDecimal.content">
         <source>Show more precise values by showing more decimal places.</source>
@@ -1024,7 +1024,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="IncreaseIndent.title">
         <source>Increase Indent</source>
         <extracomment>IncreaseIndent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvětšit odsazení</translation>
     </message>
     <message id="IncreaseIndent.content">
         <source>Increase the margin between the border and the text in the cell.</source>
@@ -1064,7 +1064,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="InsertFunction.title">
         <source>Insert Function</source>
         <extracomment>InsertFunction.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit funkci</translation>
     </message>
     <message id="InsertFunction.content">
         <source>Edit the formula in the current cell by choosing functions and editing the arguments.</source>
@@ -1096,7 +1096,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="InsertRange.title">
         <source>Insert Cells</source>
         <extracomment>InsertRange.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit buňky</translation>
     </message>
     <message id="InsertRange.content">
         <source>Insert cells, rows or columns into the worksheet.</source>
@@ -1106,7 +1106,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="InsertRange2.title">
         <source>Insert Cells</source>
         <extracomment>InsertRange2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit buňky</translation>
     </message>
     <message id="InsertRange2.content">
         <source>Click here to insert cells, rows or columns in the worksheet or add a whole new worksheet.</source>
@@ -1126,7 +1126,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="InsertTextboxHorizontal2.title">
         <source>Draw Text Box</source>
         <extracomment>InsertTextboxHorizontal2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kreslit textový rámeček</translation>
     </message>
     <message id="InsertTextboxHorizontal2.content">
         <source>Click here to insert either horizontal or vertical text.</source>
@@ -1136,7 +1136,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="InsertWordArt.title">
         <source>Insert WordArt</source>
         <extracomment>InsertWordArt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit WordArt</translation>
     </message>
     <message id="InsertWordArt.content">
         <source>Add Some artistic flair to your document useing a WordArt text box.</source>
@@ -1146,7 +1146,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="LeftBorder.title">
         <source>Left Border</source>
         <extracomment>LeftBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Levý okraj</translation>
     </message>
     <message id="LeftBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -1156,7 +1156,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="Legend.title">
         <source>Legend</source>
         <extracomment>Legend.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Legenda</translation>
     </message>
     <message id="Legend.content">
         <source>Show or hide the chart legend.</source>
@@ -1176,7 +1176,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="LoadMacro.title">
         <source>Add-Ins</source>
         <extracomment>LoadMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doplňky</translation>
     </message>
     <message id="LoadMacro.content">
         <source>Manage the Add-Ins available for use with this file.</source>
@@ -1186,7 +1186,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="LockCell.title">
         <source>Lock Cell</source>
         <extracomment>LockCell.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknout buňku</translation>
     </message>
     <message id="LockCell.content">
         <source>If the worksheet is protected, the Lock Cell feature can protect data from being modified.</source>
@@ -1196,7 +1196,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="Logical.title">
         <source>Logical</source>
         <extracomment>Logical.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Logické</translation>
     </message>
     <message id="Logical.content">
         <source>Browse and select from a list of logical functions.</source>
@@ -1216,7 +1216,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="Macros.title">
         <source>View Macros</source>
         <extracomment>Macros.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="Macros.content">
         <source>View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -1226,7 +1226,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="Margins.title">
         <source>Margins</source>
         <extracomment>Margins.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje</translation>
     </message>
     <message id="Margins.content">
         <source>Select the margin sizes for the entire document or the current section.</source>
@@ -1256,7 +1256,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeCenter.title">
         <source>Merge and Center</source>
         <extracomment>MergeCenter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message id="MergeCenter.content">
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.</source>
@@ -1266,7 +1266,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeCenter2.title">
         <source>Merge and Center</source>
         <extracomment>MergeCenter2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit a vystředit</translation>
     </message>
     <message id="MergeCenter2.content">
         <source>Joins the selected cells into one larger cell and centers the contents in the new cell.</source>
@@ -1276,7 +1276,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeColumns.title">
         <source>Merge Across</source>
         <extracomment>MergeColumns.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit přes</translation>
     </message>
     <message id="MergeColumns.content">
         <source>Select and merge cells across one or multiple rows.</source>
@@ -1286,7 +1286,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="MergeSelection.title">
         <source>Merge Cells</source>
         <extracomment>MergeSelection.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sloučit buňky</translation>
     </message>
     <message id="MergeSelection.content">
         <source>Merge the selected cells into one cell.</source>
@@ -1326,7 +1326,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="Morefunctions.title">
         <source>More Functions</source>
         <extracomment>Morefunctions.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další funkce</translation>
     </message>
     <message id="Morefunctions.content">
         <source>Browse and select from lists of statistical, engineering, cube, and information functions.</source>
@@ -1348,7 +1348,7 @@ Many people choose to use the text in the top row or the leftmost column of a se
     <message id="NameDefine.title">
         <source>Define Name</source>
         <extracomment>NameDefine.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Definovat název</translation>
     </message>
     <message id="NameDefine.content">
         <source>Name cells so that you can refer to them in formulas by that name.
@@ -1362,7 +1362,7 @@ Names can be used in formulas to make them easier to understand.</source>
     <message id="NameManager.title">
         <source>Name Manager</source>
         <extracomment>NameManager.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Správce názvů</translation>
     </message>
     <message id="NameManager.content">
         <source>Create, edit, delete, and find all the names used in the workbook
@@ -1376,7 +1376,7 @@ For example: </source>
     <message id="NamePaste.title">
         <source>Paste Name</source>
         <extracomment>NamePaste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit název</translation>
     </message>
     <message id="NamePaste.content">
         <source>Select a name that is being used in the current workbook and paste it into the current formula.</source>
@@ -1386,7 +1386,7 @@ For example: </source>
     <message id="NewWindow.title">
         <source>New Window</source>
         <extracomment>NewWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nové okno</translation>
     </message>
     <message id="NewWindow.content">
         <source>Open a new window containing a view of the current worksheet.</source>
@@ -1396,7 +1396,7 @@ For example: </source>
     <message id="NoBorder.title">
         <source>No Border</source>
         <extracomment>NoBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez okraje</translation>
     </message>
     <message id="NoBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -1406,7 +1406,7 @@ For example: </source>
     <message id="NormalViewEt.title">
         <source>Normal View</source>
         <extracomment>NormalViewEt.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální zobrazení</translation>
     </message>
     <message id="NormalViewEt.content">
         <source>View the worksheet in Normal view.</source>
@@ -1426,7 +1426,7 @@ For example: </source>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
         <extracomment>ObjectSelect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlý výběr</translation>
     </message>
     <message id="ObjectSelect.content">
         <source>Show the Selection Pane task window to easily find a single object or set its order and visibility.</source>
@@ -1436,7 +1436,7 @@ For example: </source>
     <message id="OtherBorders.title">
         <source>Other Borders</source>
         <extracomment>OtherBorders.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jiné okraje</translation>
     </message>
     <message id="OtherBorders.content">
         <source>You can use detailed settings to select cell borders.</source>
@@ -1456,7 +1456,7 @@ For example: </source>
     <message id="OutsideBorders.title">
         <source>Outside Borders</source>
         <extracomment>OutsideBorders.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vnější okraje</translation>
     </message>
     <message id="OutsideBorders.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -1476,7 +1476,7 @@ For example: </source>
     <message id="PTHide.title">
         <source>Hide</source>
         <extracomment>PTHide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt</translation>
     </message>
     <message id="PTHide.content">
         <source>Hide the PivotTable fields in page, row, column area or items in the fields.</source>
@@ -1486,7 +1486,7 @@ For example: </source>
     <message id="PTHideDetail.title">
         <source>Hide Detail</source>
         <extracomment>PTHideDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt detail</translation>
     </message>
     <message id="PTHideDetail.content">
         <source>Hide all items of the active field.</source>
@@ -1508,7 +1508,7 @@ The field list allows you to add and remove fields.</source>
     <message id="PTRefreshData.title">
         <source>Refresh Data</source>
         <extracomment>PTRefreshData.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obnovit data</translation>
     </message>
     <message id="PTRefreshData.content">
         <source>Update the information from the data source in the workbook.</source>
@@ -1518,7 +1518,7 @@ The field list allows you to add and remove fields.</source>
     <message id="PTShowDetail.title">
         <source>Show Detail</source>
         <extracomment>PTShowDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat detail</translation>
     </message>
     <message id="PTShowDetail.content">
         <source>Show all items of the active field.</source>
@@ -1528,7 +1528,7 @@ The field list allows you to add and remove fields.</source>
     <message id="PTSortAndTopTen.title">
         <source>Sort</source>
         <extracomment>PTSortAndTopTen.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Třídit</translation>
     </message>
     <message id="PTSortAndTopTen.content">
         <source>Set the auto sort option of the PivotTable field.</source>
@@ -1538,7 +1538,7 @@ The field list allows you to add and remove fields.</source>
     <message id="PTSubtotals.title">
         <source>Subtotals</source>
         <extracomment>PTSubtotals.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mezisoučty</translation>
     </message>
     <message id="PTSubtotals.content">
         <source>Show or hide subtotals.</source>
@@ -1558,7 +1558,7 @@ The field list allows you to add and remove fields.</source>
     <message id="PageBreakPreview.title">
         <source>Page Break Preview</source>
         <extracomment>PageBreakPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Náhled zalomení stránky</translation>
     </message>
     <message id="PageBreakPreview.content">
         <source>View a preview of where pages will break when this workbook is printed.</source>
@@ -1578,17 +1578,17 @@ The field list allows you to add and remove fields.</source>
     <message id="PageOrientation.title">
         <source>Page Orientation</source>
         <extracomment>PageOrientation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientace stránky</translation>
     </message>
     <message id="PageOrientation.content">
         <source>Switch the pages between portrait and landscape layouts.</source>
         <extracomment>PageOrientation.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepnout svislou / vodorovnou orientaci stránek</translation>
     </message>
     <message id="PageSetup.title">
         <source>Page Setup</source>
         <extracomment>PageSetup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení stránky</translation>
     </message>
     <message id="PageSetup.content">
         <source>Show the page setup dialog box.</source>
@@ -1620,7 +1620,7 @@ To apply a specific paper size to all sections in the document, click to customi
     <message id="PercentStyle.title">
         <source>Percent Style</source>
         <extracomment>PercentStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl procent</translation>
     </message>
     <message id="PercentStyle.content">
         <source>Display the value of the cell as a percentage.</source>
@@ -1642,7 +1642,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PivotTableDelete.title">
         <source>Delete PivotTable</source>
         <extracomment>PivotTableDelete.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat kontingenční tabulku</translation>
     </message>
     <message id="PivotTableDelete.content">
         <source>Delete the currently selected PivotTable.</source>
@@ -1652,7 +1652,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PivotTableOrder.title">
         <source>Order</source>
         <extracomment>PivotTableOrder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pořadí</translation>
     </message>
     <message id="PivotTableOrder.content">
         <source>Move the row or column area of a PivotTable to the top or bottom.</source>
@@ -1662,7 +1662,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrevLandscape.title">
         <source>Landscape</source>
         <extracomment>PrevLandscape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na šířku</translation>
     </message>
     <message id="PrevLandscape.content">
         <source>Set the worksheet pages to landscape.</source>
@@ -1672,7 +1672,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrevNextPage.title">
         <source>Next Page</source>
         <extracomment>PrevNextPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Další stránka</translation>
     </message>
     <message id="PrevNextPage.content">
         <source>Move to the next print page of the current worksheet.</source>
@@ -1682,7 +1682,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na výšku</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the worksheet pages to portrait.</source>
@@ -1692,7 +1692,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrevPreviousPage.title">
         <source>Previous Page</source>
         <extracomment>PrevPreviousPage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí stránka</translation>
     </message>
     <message id="PrevPreviousPage.content">
         <source>Move to the previous print page of the current worksheet.</source>
@@ -1702,7 +1702,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrintArea.title">
         <source>Print Area</source>
         <extracomment>PrintArea.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblast tisku</translation>
     </message>
     <message id="PrintArea.content">
         <source>Select a specific area of your document for printing.</source>
@@ -1712,17 +1712,17 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrintDirect.title">
         <source>Print Directly</source>
         <extracomment>PrintDirect.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vytisknout přímo</translation>
     </message>
     <message id="PrintDirect.content">
         <source>Send the document directly to the default printer without making changes.</source>
         <extracomment>PrintDirect.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poslat dokument přímo na výchozí tiskárnu, bez možnosti změn v nastaveí tisku.</translation>
     </message>
     <message id="PrintGridlines.title">
         <source>Print Gridlines</source>
         <extracomment>PrintGridlines.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisknout mřížku</translation>
     </message>
     <message id="PrintGridlines.content">
         <source>Print the gridlines between the columns and the rows in the worksheet.</source>
@@ -1732,7 +1732,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrintHeadings.title">
         <source>Print Headings</source>
         <extracomment>PrintHeadings.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tisknout záhlaví</translation>
     </message>
     <message id="PrintHeadings.content">
         <source>Print row and column headings.
@@ -1746,7 +1746,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <message id="PrintLayout.title">
         <source>Page Layout</source>
         <extracomment>PrintLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení stránky</translation>
     </message>
     <message id="PrintLayout.content">
         <source>View the workbook as it will appear on the printed page.</source>
@@ -1756,7 +1756,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <message id="PrintNormalView.title">
         <source>Normal View</source>
         <extracomment>PrintNormalView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální zobrazení</translation>
     </message>
     <message id="PrintNormalView.content">
         <source>Exit print preview and then enter the normal view.</source>
@@ -1766,7 +1766,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <message id="PrintPreview.title">
         <source>Print Preview</source>
         <extracomment>PrintPreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Náhled před tiskem</translation>
     </message>
     <message id="PrintPreview.content">
         <source>Preview and make changes to pages before printing.</source>
@@ -1776,7 +1776,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <message id="PrintPreviewMargins.title">
         <source>Margins</source>
         <extracomment>PrintPreviewMargins.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okraje</translation>
     </message>
     <message id="PrintPreviewMargins.content">
         <source>Specify the distance between the content of the worksheet and the edge of the printed page.</source>
@@ -1806,7 +1806,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
     <message id="ProtectAndShare.title">
         <source>Protect and Share Workbook</source>
         <extracomment>ProtectAndShare.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzamknout a sdílet sešit</translation>
     </message>
     <message id="ProtectAndShare.content">
         <source>Share the workbook and protect it with a password at the same time.
@@ -1818,7 +1818,7 @@ The password will prevent others from turning off change tracking.</source>
     <message id="ProtectSheet.title">
         <source>Protect Sheet</source>
         <extracomment>ProtectSheet.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zamknout list</translation>
     </message>
     <message id="ProtectSheet.content">
         <source>Prevent unwanted changes to the data in a sheet by specifying what information can be changed.
@@ -1832,7 +1832,7 @@ You can specify a password that can be entered to unprotect the sheet and allow 
     <message id="RB_Clipboard.title">
         <source>Clipboard</source>
         <extracomment>RB_Clipboard.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Schránka</translation>
     </message>
     <message id="RB_Clipboard.content">
         <source>Check for the items that are copied to the Clipboard.</source>
@@ -1842,7 +1842,7 @@ You can specify a password that can be entered to unprotect the sheet and allow 
     <message id="ReadingLayout.title">
         <source>Reading Layout</source>
         <extracomment>ReadingLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení pro čtení</translation>
     </message>
     <message id="ReadingLayout.content">
         <source>Convenient to check related data which are in the same row or column with the current cell.
@@ -1854,7 +1854,7 @@ Click the arrow to pick a different color.</source>
     <message id="ReadingLayout2.title">
         <source>Reading Layout</source>
         <extracomment>ReadingLayout2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložení pro čtení</translation>
     </message>
     <message id="ReadingLayout2.content">
         <source>Click the arrow to pick a different color.</source>
@@ -1864,7 +1864,7 @@ Click the arrow to pick a different color.</source>
     <message id="ReapplyFilter.title">
         <source>Reapply</source>
         <extracomment>ReapplyFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znovu použít</translation>
     </message>
     <message id="ReapplyFilter.content">
         <source>Reapply the filter and sort in the current range.
@@ -1876,7 +1876,7 @@ New or modified data in the column will not be filtered or sorted until you clic
     <message id="RecalculateBook.title">
         <source>Recalculate Workbook</source>
         <extracomment>RecalculateBook.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přepočítat všechny listy</translation>
     </message>
     <message id="RecalculateBook.content">
         <source>Calculate the entire workbook now.
@@ -1888,7 +1888,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RecentLineWrap.title">
         <source>Wrap Text</source>
         <extracomment>RecentLineWrap.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zalomit text</translation>
     </message>
     <message id="RecentLineWrap.content">
         <source>Make all content visible within a cell by displaying it on multiple lines.</source>
@@ -1898,7 +1898,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RecenttlyUsed.title">
         <source>Recently Used</source>
         <extracomment>RecenttlyUsed.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy použitá</translation>
     </message>
     <message id="RecenttlyUsed.content">
         <source>Browse and select from a list of recently used functions.</source>
@@ -1908,7 +1908,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RecordList.title">
         <source>Form</source>
         <extracomment>RecordList.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formulář</translation>
     </message>
     <message id="RecordList.content">
         <source>After selecting the title of the column, you can input, search, or delete data via the data form.</source>
@@ -1918,7 +1918,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RecordMacro.title">
         <source>Record Macro</source>
         <extracomment>RecordMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahrát makro</translation>
     </message>
     <message id="RecordMacro.content">
         <source>Show Record Macro dialog box and start recording macro.</source>
@@ -1928,7 +1928,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Refresh.title">
         <source>Refresh Data</source>
         <extracomment>Refresh.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obnovit data</translation>
     </message>
     <message id="Refresh.content">
         <source>Update all the information in the workbook that is coming from a data source.</source>
@@ -1938,7 +1938,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RefreshAll.title">
         <source>Refresh All</source>
         <extracomment>RefreshAll.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obnovit vše</translation>
     </message>
     <message id="RefreshAll.content">
         <source>Update all the information in the workbook that is coming from a data source.</source>
@@ -1958,7 +1958,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="ResetPicture.title">
         <source>Reset Picture</source>
         <extracomment>ResetPicture.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetovat obrázes</translation>
     </message>
     <message id="ResetPicture.content">
         <source>Discard all of the formatting changes you have made to this picture.</source>
@@ -1968,7 +1968,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RightBorder.title">
         <source>Right Border</source>
         <extracomment>RightBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravý okraj</translation>
     </message>
     <message id="RightBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -1978,7 +1978,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RotateRight.title">
         <source>Rotate</source>
         <extracomment>RotateRight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otočit</translation>
     </message>
     <message id="RotateRight.content">
         <source>Rotate or flip the selected object.</source>
@@ -1988,7 +1988,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RowsAndColumn.title">
         <source>Rows and Columns</source>
         <extracomment>RowsAndColumn.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řádky a sloupce</translation>
     </message>
     <message id="RowsAndColumn.content">
         <source>Click here to adjust the rows and columns. You can adjust the height and width, change fill or hide the rows and columns.</source>
@@ -1998,7 +1998,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RunMacro.title">
         <source>View Macros</source>
         <extracomment>RunMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="RunMacro.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -2008,7 +2008,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="RunMacro2.title">
         <source>View Macros</source>
         <extracomment>RunMacro2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat makra</translation>
     </message>
     <message id="RunMacro2.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -2038,12 +2038,12 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Security.title">
         <source>Macro Security</source>
         <extracomment>Security.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zabezpečení makra</translation>
     </message>
     <message id="Security.content">
         <source>Customize the macro security settings.</source>
         <extracomment>Security.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní nastavení zabezpečení makra.</translation>
     </message>
     <message id="SeriesInColumns.title">
         <source>Switch Column</source>
@@ -2068,7 +2068,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="ShapeFillColor.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFillColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message id="ShapeFillColor.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -2080,7 +2080,7 @@ Click the arrow to select different fill effects.</source>
     <message id="ShapeFillColor2.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFillColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výplň tvaru</translation>
     </message>
     <message id="ShapeFillColor2.content">
         <source>Click the arrow to select different fill effects.</source>
@@ -2090,7 +2090,7 @@ Click the arrow to select different fill effects.</source>
     <message id="ShapeLineColor.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLineColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message id="ShapeLineColor.content">
         <source>Set the color, width, and line style for the outline of the selected object.
@@ -2102,7 +2102,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShapeLineColor2.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLineColor2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení tvaru</translation>
     </message>
     <message id="ShapeLineColor2.content">
         <source>Click the arrow to select detailed settings for the outline.</source>
@@ -2112,7 +2112,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShapeSize.title">
         <source>Shape Size</source>
         <extracomment>ShapeSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost tvaru</translation>
     </message>
     <message id="ShapeSize.content">
         <source>Set the size, rotation degrees and zoom for the selected shape.</source>
@@ -2122,7 +2122,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="ShareWorkbook.title">
         <source>Share Workbook</source>
         <extracomment>ShareWorkbook.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sdílet sešit</translation>
     </message>
     <message id="ShareWorkbook.content">
         <source>Allow multiple people to work in a workbook at the same time.
@@ -2136,7 +2136,7 @@ Workbooks containing tables cannot be shared.</source>
     <message id="ShowDetail.title">
         <source>Show Detail</source>
         <extracomment>ShowDetail.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukázat detail</translation>
     </message>
     <message id="ShowDetail.content">
         <source>Show all items of the active field.</source>
@@ -2146,7 +2146,7 @@ Workbooks containing tables cannot be shared.</source>
     <message id="ShrinkFont.title">
         <source>Decrease Font Size</source>
         <extracomment>ShrinkFont.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zmenšit písmo</translation>
     </message>
     <message id="ShrinkFont.content">
         <source>Decrease the font size.</source>
@@ -2156,7 +2156,7 @@ Workbooks containing tables cannot be shared.</source>
     <message id="SortAndFilter.title">
         <source>Sort</source>
         <extracomment>SortAndFilter.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Třídit</translation>
     </message>
     <message id="SortAndFilter.content">
         <source>Arrange data so that it is easier to analyze.
@@ -2168,7 +2168,7 @@ You can sort the selected data in ascending or descending order.</source>
     <message id="SortAscending.title">
         <source>Ascending</source>
         <extracomment>SortAscending.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzestupně</translation>
     </message>
     <message id="SortAscending.content">
         <source>Sort the selection so that the lowest values are at the top of the column.</source>
@@ -2178,7 +2178,7 @@ You can sort the selected data in ascending or descending order.</source>
     <message id="SortDescending.title">
         <source>Descending</source>
         <extracomment>SortDescending.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sestupně</translation>
     </message>
     <message id="SortDescending.content">
         <source>Sort the selection so that the highest values are at the top of the column.</source>
@@ -2188,7 +2188,7 @@ You can sort the selected data in ascending or descending order.</source>
     <message id="SourceData.title">
         <source>Select Data</source>
         <extracomment>SourceData.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat data</translation>
     </message>
     <message id="SourceData.content">
         <source>Change the data range included in the chart.</source>
@@ -2198,7 +2198,7 @@ You can sort the selected data in ascending or descending order.</source>
     <message id="SpellCheck.title">
         <source>Spell Check</source>
         <extracomment>SpellCheck.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrola pravopisu</translation>
     </message>
     <message id="SpellCheck.content">
         <source>Check the spelling of the text in the current worksheet.</source>
@@ -2220,7 +2220,7 @@ You can use this feature to view multiple distant parts of your worksheet at onc
     <message id="StopAutoVersion.title">
         <source>Stop Auto Backup</source>
         <extracomment>StopAutoVersion.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastavit automatické zálohování</translation>
     </message>
     <message id="StopAutoVersion.content">
         <source>Stop the current workbook from auto saving.</source>
@@ -2230,7 +2230,7 @@ You can use this feature to view multiple distant parts of your worksheet at onc
     <message id="StopRecordMacro.title">
         <source>Stop Recording</source>
         <extracomment>StopRecordMacro.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastavit nahrávání</translation>
     </message>
     <message id="StopRecordMacro.content">
         <source>Stop recording the macro.</source>
@@ -2240,7 +2240,7 @@ You can use this feature to view multiple distant parts of your worksheet at onc
     <message id="Subtotals.title">
         <source>Subtotal</source>
         <extracomment>Subtotals.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mezisoučet</translation>
     </message>
     <message id="Subtotals.content">
         <source>Total several rows of related data together by automatically inserting subtotals and totals for the selected cells.</source>
@@ -2250,7 +2250,7 @@ You can use this feature to view multiple distant parts of your worksheet at onc
     <message id="TaskWindow.title">
         <source>Task Window</source>
         <extracomment>TaskWindow.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okno úloh</translation>
     </message>
     <message id="TaskWindow.content">
         <source>Show or hide the task window in the worksheet.</source>
@@ -2260,7 +2260,7 @@ You can use this feature to view multiple distant parts of your worksheet at onc
     <message id="TextFill.title">
         <source>Text Color</source>
         <extracomment>TextFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="TextFill.content">
         <source>Change the text color.
@@ -2272,7 +2272,7 @@ Click the arrow to select a different text color.</source>
     <message id="TextFill2.title">
         <source>Text Color</source>
         <extracomment>TextFill2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva textu</translation>
     </message>
     <message id="TextFill2.content">
         <source>Click the arrow to select a different text color.</source>
@@ -2282,7 +2282,7 @@ Click the arrow to select a different text color.</source>
     <message id="TextOrientation.title">
         <source>Orientation</source>
         <extracomment>TextOrientation.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Orientace</translation>
     </message>
     <message id="TextOrientation.content">
         <source>Rotate text to a diagonal angle or vertical orientation.
@@ -2296,22 +2296,22 @@ Click the currently selected text orientation again to reset the text back to no
     <message id="TextSpeech.title">
         <source>Read Text</source>
         <extracomment>TextSpeech.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přečíst text</translation>
     </message>
     <message id="TextSpeech.content">
         <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Převod textu na řeč. Je poskytována 2-denní zkušební lhůta této funkce.</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
         <extracomment>TextSpeech2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čtení</translation>
     </message>
     <message id="TextSpeech2.content">
         <source>Click here to stop reading.</source>
         <extracomment>TextSpeech2.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte sem pro ukončení čtení.</translation>
     </message>
     <message id="TextToColumns.title">
         <source>Text to Columns</source>
@@ -2350,7 +2350,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <message id="TopAndBottomBorder.title">
         <source>Top and Bottom Border</source>
         <extracomment>TopAndBottomBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní a dolní okraj</translation>
     </message>
     <message id="TopAndBottomBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -2380,7 +2380,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <message id="TopBorder.title">
         <source>Top Border</source>
         <extracomment>TopBorder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Horní okraj</translation>
     </message>
     <message id="TopBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -2390,7 +2390,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <message id="TrackChanges.title">
         <source>Track Changes</source>
         <extracomment>TrackChanges.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sledování změn</translation>
     </message>
     <message id="TrackChanges.content">
         <source>Track all changes made to the workbook, including insertions, deletions, and formatting changes.</source>
@@ -2420,7 +2420,7 @@ In Writer, use this feature to convert the selected text into a table, splitting
     <message id="Underline.title">
         <source>Underline</source>
         <extracomment>Underline.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podtržení</translation>
     </message>
     <message id="Underline.content">
         <source>Underline the selected text.</source>
@@ -2474,7 +2474,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     <message id="VerticalText.title">
         <source>WordArt Vertical Text</source>
         <extracomment>VerticalText.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WordArt text svisle</translation>
     </message>
     <message id="VerticalText.content">
         <source>Draw the text vertically, with the letters stacked on top of each other.</source>
@@ -2484,7 +2484,7 @@ You can also force input to be chosen from a dropdown list of values you specify
     <message id="What-If%20Analysis.title">
         <source>What-If Analysis</source>
         <extracomment>What-If%20Analysis.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">What-if analýza</translation>
     </message>
     <message id="What-If%20Analysis.content">
         <source>Goal Seek will find the right input when you know the result you want.
@@ -2495,7 +2495,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="WindowReset.title">
         <source>Arrange All</source>
         <extracomment>WindowReset.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozmístit všechny</translation>
     </message>
     <message id="WindowReset.content">
         <source>Tile all open worksheets to view side-by-side.</source>
@@ -2505,7 +2505,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="WorkSheet.title">
         <source>Worksheet</source>
         <extracomment>WorkSheet.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">List</translation>
     </message>
     <message id="WorkSheet.content">
         <source>Click here to modify the worksheet. You can insert or delete the worksheet, rename the worksheet, or change the color of the worksheet tab.</source>
@@ -2515,7 +2515,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="WorkSpace_Backup.title">
         <source>File Backup</source>
         <extracomment>WorkSpace_Backup.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záloha souboru</translation>
     </message>
     <message id="WorkSpace_Backup.content">
         <source>Set automatic or manual backup for the current document. The backup will be saved to your File Safe.</source>
@@ -2535,7 +2535,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="m_Format.title">
         <source>Format</source>
         <extracomment>m_Format.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát</translation>
     </message>
     <message id="m_Format.content">
         <source>Change the format of the selected cells, convert text to number or hyperlink.</source>
@@ -2555,7 +2555,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="sp_AutoSum.title">
         <source>AutoSum</source>
         <extracomment>sp_AutoSum.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AutoSumář</translation>
     </message>
     <message id="sp_AutoSum.content">
         <source>Display the sum of the selected cells directly after the selected cells.</source>
@@ -2565,7 +2565,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="sp_AutoSum2.title">
         <source>AutoSum</source>
         <extracomment>sp_AutoSum2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">AutoSumář</translation>
     </message>
     <message id="sp_AutoSum2.content">
         <source>Click here to display the result of a simple calculation, such as Average or Maximum value, after the selected cells.</source>
@@ -2575,7 +2575,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="sp_Paste.title">
         <source>Paste</source>
         <extracomment>sp_Paste.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message id="sp_Paste.content">
         <source>Paste the contents of the Clipboard.</source>
@@ -2585,7 +2585,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="sp_Paste2.title">
         <source>Paste</source>
         <extracomment>sp_Paste2.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit</translation>
     </message>
     <message id="sp_Paste2.content">
         <source>Click here for more options such as pasting only the values.</source>
@@ -2595,7 +2595,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="FormulaErrorCheck.title">
         <source>Error Checking</source>
         <extracomment>FormulaErrorCheck.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kontrola chyb</translation>
     </message>
     <message id="FormulaErrorCheck.content">
         <source>Check for common errors that occur when using formulas.</source>
@@ -2605,7 +2605,7 @@ What-If Analysis tool that finds the optimal value of a target cell by changing 
     <message id="What-If Analysis.title">
         <source>What-If Analysis</source>
         <extracomment>What-If Analysis.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">What-if analýza</translation>
     </message>
     <message id="What-If Analysis.content">
         <source>What-if analysis tool that finds the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
@@ -2708,7 +2708,7 @@ Click the arrow to see the different types of scatter and bubble charts availabl
     </message>
     <message id="Accounting.title">
         <source>Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Účetní</translation>
     </message>
     <message id="Accounting.content">
         <source>Choose an alternate Accounting format for the selected cell, and allowing the currency symbol aligned to the left.</source>
@@ -2724,7 +2724,7 @@ Click the arrow to see the different types of scatter and bubble charts availabl
     </message>
     <message id="Table.title">
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message id="Table.content">
         <source>Create a table to manage and analyze related data.
@@ -2758,7 +2758,7 @@ Tables make it easy to sort, filter, and format data within a sheet.</source>
     </message>
     <message id="RemoveDuplicates.title">
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstranit duplicitu</translation>
     </message>
     <message id="RemoveDuplicates.content">
         <source>Delete duplicate rows from a sheet.
@@ -2804,7 +2804,7 @@ A header row formats the top row of the table specially.</source>
     </message>
     <message id="FirstColumn.title">
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">První sloupec</translation>
     </message>
     <message id="FirstColumn.content">
         <source>Display special formatting for the first column of the table.</source>
@@ -2822,7 +2822,7 @@ The total row is a row at the end of the table which displays totals for each co
     </message>
     <message id="LastColumn.title">
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poslední sloupec</translation>
     </message>
     <message id="LastColumn.content">
         <source>Display special formatting for the last column of the table.</source>

@@ -14,7 +14,7 @@
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor</translation>
     </message>
     <message>
         <source>Clear backup</source>
@@ -223,19 +223,19 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What&apos;s New.lnk</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>View what&apos;s new file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Cloud.lnk</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What&apos;s New.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View what&apos;s new file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -255,12 +255,6 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>General Repair/Configuration Tools
-You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
-        <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
         <extracomment>ksomisc main dialog</extracomment>
@@ -272,14 +266,9 @@ We will do our utmost to repair the applications and restore them to the default
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
-        <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&amp;Advanced...</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozšířené...</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
@@ -299,12 +288,23 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You are not using an administrator account. Some features are not available.</source>
+        <source>General Repair/Configuration Tools
+You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
+        <extracomment>ksomisc main dialog</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
+        <extracomment>ksomisc main dialog</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>An error occurred when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are not using an administrator account. Some features are not available.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -361,19 +361,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS &amp;Writer Backup Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Click here to browse backup files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS &amp;Presentation Backup Files</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS &amp;Spreadsheets Backup Files</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -388,6 +376,18 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Please choose the type of backup files to be cleared.</source>
         <extracomment>ksomisc -&gt; Clear Backup Files -&gt; uncheck all options -&gt; Start Clearing</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS &amp;Writer Backup Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS &amp;Presentation Backup Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS &amp;Spreadsheets Backup Files</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -406,15 +406,7 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Switch to old ve&amp;rsion</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Initializing configuration...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Switch to the new ve&amp;rsion</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -433,6 +425,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <source>Tip</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Switch to old ve&amp;rsion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to the new ve&amp;rsion</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPageFileAsso</name>
@@ -447,18 +447,6 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Compatible with third-party software</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Compatible with Microsoft Office 2003</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Compatible with Microsoft Office 2007</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -491,9 +479,21 @@ These operations can be undone. </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>&amp;Compatible with third-party software</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2003</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Compatible with Microsoft Office 2007</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -696,10 +696,6 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Modern Theme</source>
         <translation type="unfinished"></translation>
     </message>
@@ -733,6 +729,10 @@ The button icon, command group and task window position of each scheme are diffe
         <extracomment>ksomisc -&gt; advanced -&gt; Change Theme -&gt; Change Scheme -&gt; failed (seeming impossible)</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPropertiesDlg</name>
@@ -749,11 +749,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Chart</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Graf</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Tabulky</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -773,7 +773,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Tisk</translation>
     </message>
     <message>
         <source>OpenAsReadOnly</source>
@@ -897,7 +897,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
@@ -905,7 +905,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>PowerPoint Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace powerPoint</translation>
     </message>
     <message>
         <source>S&amp;how</source>
@@ -913,7 +913,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Slide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Snímek</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
@@ -1009,7 +1009,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
@@ -1032,6 +1032,10 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>WPS PDF Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Edit,0,2</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1045,19 +1049,19 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Equation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mat. výraz</translation>
     </message>
     <message>
         <source>Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sešit</translation>
     </message>
     <message>
         <source>Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint Macro-Enabled Presentation</source>
@@ -1096,10 +1100,6 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>WPS PDF Document</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Microsoft Excel Backup File</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1124,11 +1124,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat</translation>
     </message>
     <message>
         <source>Serial Number</source>
@@ -1170,14 +1170,6 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Get the latest product news during updates(&amp;K)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&amp;Show information bar</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Internet Connection:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1203,6 +1195,35 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Password:</source>
+        <translation type="unfinished">Heslo:</translation>
+    </message>
+    <message>
+        <source>To improve the quality, reliability, and capability of WPS Office and its service, you are invited to participate in User Experience Improvement Activity.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IP Address is not valid!</source>
+        <extracomment>ksomisc -&gt; advance -&gt; Update Settings -&gt; custom proxy -&gt; input a invalid ip addr</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get the latest product news during updates(&amp;K)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show information bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Know more details about Experience Improvement Activity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not &amp;check for updates automatically (not recommended)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1214,28 +1235,7 @@ The button icon, command group and task window position of each scheme are diffe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>To improve the quality, reliability, and capability of WPS Office and its service, you are invited to participate in User Experience Improvement Activity.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Update Start</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Know more details about Experience Improvement Activity</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>IP Address is not valid!</source>
-        <extracomment>ksomisc -&gt; advance -&gt; Update Settings -&gt; custom proxy -&gt; input a invalid ip addr</extracomment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The port must be a number between 1 and 65535.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Do not &amp;check for updates automatically (not recommended)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

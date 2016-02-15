@@ -64,7 +64,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Chart Area</source>
         <comment>HINT_CHARTAREA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblast grafu</translation>
     </message>
     <message>
         <source>Plot Area</source>
@@ -74,17 +74,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data Table</source>
         <comment>HINT_DATATABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka dat</translation>
     </message>
     <message>
         <source>Chart Title</source>
         <comment>HINT_CHARTTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Název grafu</translation>
     </message>
     <message>
         <source>Legend</source>
         <comment>HINT_LEGEND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Legenda</translation>
     </message>
     <message>
         <source>Legend Entry</source>
@@ -94,7 +94,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Series</source>
         <comment>HINT_SERIES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řady</translation>
     </message>
     <message>
         <source>Point</source>
@@ -114,12 +114,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Trendline</source>
         <comment>HINT_TRENDLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trend</translation>
     </message>
     <message>
         <source>Equation</source>
         <comment>HINT_EQUATION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mat. výraz</translation>
     </message>
     <message>
         <source>Error Bar</source>
@@ -149,12 +149,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Vertical</source>
         <comment>HINT_VERTICAL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Svisle</translation>
     </message>
     <message>
         <source>Horizontal</source>
         <comment>HINT_HORIZONTAL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodorovně</translation>
     </message>
     <message>
         <source>Category</source>
@@ -179,7 +179,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Title</source>
         <comment>HINT_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nadpis</translation>
     </message>
     <message>
         <source>Series Lines</source>
@@ -214,7 +214,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Text</source>
         <comment>HINT_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>Gridline</source>
@@ -339,12 +339,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Chart Title</source>
         <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Název grafu</translation>
     </message>
     <message>
         <source>Axis Title</source>
         <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Název osy</translation>
     </message>
     <message>
         <source>Sales</source>
@@ -419,7 +419,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Open</source>
         <comment>CHART_DEFAULTTEXT_STOCK_OPEN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>High</source>
@@ -434,7 +434,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Close</source>
         <comment>CHART_DEFAULTTEXT_STOCK_CLOSE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Y-Values</source>
@@ -449,7 +449,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Linear</source>
         <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Lineární</translation>
     </message>
     <message>
         <source>Log</source>
@@ -499,7 +499,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>None</source>
         <comment>CHART_UNITLABEL_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>Other</source>
@@ -522,7 +522,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Unformatted Text</source>
         <comment>TX_KSO_CF_TEXT_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neformátovaný text</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
@@ -665,11 +665,6 @@ Please check your system settings and ensure that the temporary directory under 
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The contents of the clipboard will be inserted as a JPG picture.</source>
-        <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Formatted Text (RTF)</source>
         <comment>TX_KSO_CF_RTF_DISPNAME</comment>
         <translation type="unfinished"></translation>
@@ -727,6 +722,11 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Picture(PNG)</source>
         <comment>TX_KSO_MSO_CF_PIC_PNG_DISPNAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as a JPG picture.</source>
+        <comment>TX_KSO_CF_PIC_JPG_RESULTNAME</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -815,7 +815,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_DlgPictureTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message>
         <source>Insert AutoShape</source>
@@ -870,7 +870,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Paste Format</source>
         <comment>DgUil_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit formát</translation>
     </message>
     <message>
         <source>Rotate Object</source>
@@ -895,7 +895,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Clear</source>
         <comment>DgUil_Clear</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyprázdnit</translation>
     </message>
     <message>
         <source>Make Same Height</source>
@@ -915,12 +915,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Group </source>
         <comment>DgUil_KSO_Cmd_Group</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seskupit </translation>
     </message>
     <message>
         <source>Ungroup</source>
         <comment>DgUil_KSO_Cmd_UnGroup</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozdělit</translation>
     </message>
     <message>
         <source>Regroup</source>
@@ -930,22 +930,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Bring to Front</source>
         <comment>DgUil_KSO_Cmd_Order_BringToFront</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dopředu</translation>
     </message>
     <message>
         <source>Send to Back</source>
         <comment>DgUil_KSO_Cmd_Order_SendToBack</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odeslat dozadu</translation>
     </message>
     <message>
         <source>Bring Forward</source>
         <comment>DgUil_KSO_Cmd_Order_BringForward</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dopředu</translation>
     </message>
     <message>
         <source>Send Backward</source>
         <comment>DgUil_KSO_Cmd_Order_SendBackward</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenést dozadu</translation>
     </message>
     <message>
         <source>Nudge Object</source>
@@ -970,47 +970,47 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Align Left</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vlevo</translation>
     </message>
     <message>
         <source>Align Center</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat na střed</translation>
     </message>
     <message>
         <source>Align Right</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat vpravo</translation>
     </message>
     <message>
         <source>Align Top</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat nahoru</translation>
     </message>
     <message>
         <source>Align Middle</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value4</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat na střed</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>DgUil_KSO_Cmd_DrawAlign_Value5</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zarovnat dolů</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
         <comment>DgUil_KSO_Cmd_Distribute_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložit vodorovně</translation>
     </message>
     <message>
         <source>Distribute Vertically</source>
         <comment>DgUil_KSO_Cmd_Distribute_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rozložit svisle</translation>
     </message>
     <message>
         <source>Free Rotate</source>
         <comment>DgUil_KSO_Cmd_FreeRotate</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Libovolné otočení</translation>
     </message>
     <message>
         <source>Rotate Left 90º</source>
@@ -1025,12 +1025,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Flip Horizontal</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Překlopit vodorovně</translation>
     </message>
     <message>
         <source>Flip Vertical</source>
         <comment>DgUil_KSO_Cmd_RotateFlip_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Překlopit svisle</translation>
     </message>
     <message>
         <source>Reroute Connectors</source>
@@ -1055,22 +1055,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Select Objects</source>
         <comment>DgUil_KSO_Cmd_SelectObjects</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výběr objektů</translation>
     </message>
     <message>
         <source>Recent Fill Color</source>
         <comment>DgUil_KSO_Cmd_RecentFillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy použitá barva výplně</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>DgUil_KSO_Cmd_FillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva výplně</translation>
     </message>
     <message>
         <source>Fill Effects</source>
         <comment>DgUil_KSO_Cmd_FillEffects</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Efekty výplně</translation>
     </message>
     <message>
         <source>Recent Line Color</source>
@@ -1080,47 +1080,47 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Line Color</source>
         <comment>DgUil_KSO_Cmd_LineColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva čáry</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
         <comment>DgUil_KSO_Cmd_PatternedLines</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Line Style</source>
         <comment>DgUil_KSO_Cmd_LineStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Styl čáry</translation>
     </message>
     <message>
         <source>Format AutoShape</source>
         <comment>DgUil_KSO_Cmd_MoreLines</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formátovat Automatický tvar</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_DashStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát tvaru</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_ArrowStylePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát tvaru</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>DgUil_KSO_Cmd_MoreArrows</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát tvaru</translation>
     </message>
     <message>
         <source>No Shadow</source>
         <comment>DgUil_KSO_Cmd_NoShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez stínu</translation>
     </message>
     <message>
         <source>Shadow</source>
         <comment>DgUil_KSO_Cmd_ShadowPalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stín</translation>
     </message>
     <message>
         <source>Toggle Shadow</source>
@@ -1150,7 +1150,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Shadow Color</source>
         <comment>DgUil_KSO_Cmd_ShadowColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva stínu</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -1160,7 +1160,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>No 3-D</source>
         <comment>DgUil_KSO_Cmd_No3DStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne 3-D</translation>
     </message>
     <message>
         <source>3-D</source>
@@ -1285,42 +1285,42 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>3-D Color</source>
         <comment>DgUil_KSO_Cmd_3DColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D barva</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_Cmd_3DDepthUnit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bod</translation>
     </message>
     <message>
         <source>Open Path</source>
         <comment>DgUil_KSO_Cmd_OpenPath</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít trasu</translation>
     </message>
     <message>
         <source>Close Path</source>
         <comment>DgUil_KSO_Cmd_ClosePath</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzavřít trasu</translation>
     </message>
     <message>
         <source>Add Point</source>
         <comment>DgUil_KSO_Cmd_AddPoint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat bod</translation>
     </message>
     <message>
         <source>Delete Segment</source>
         <comment>DgUil_KSO_Cmd_DeleteSegment</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat segment</translation>
     </message>
     <message>
         <source>Straight Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přímý segment</translation>
     </message>
     <message>
         <source>Curved Segment</source>
         <comment>DgUil_KSO_Cmd_SegmentType_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zakřivený segment</translation>
     </message>
     <message>
         <source>Exit Change Points</source>
@@ -1330,7 +1330,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Delete Point</source>
         <comment>DgUil_KSO_Cmd_DeletePoint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat bod</translation>
     </message>
     <message>
         <source>Auto Point</source>
@@ -1350,12 +1350,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Corner Point</source>
         <comment>DgUil_KSO_Cmd_PointType_Value3</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rohový bod</translation>
     </message>
     <message>
         <source>Straight Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value0</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přímé propojení</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -1370,22 +1370,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Edit Hyperlink</source>
         <comment>DgUil_KSO_Cmd_EditHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Open Hyperlink</source>
         <comment>DgUil_KSO_Cmd_OpenHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít odkaz</translation>
     </message>
     <message>
         <source>Copy Hyperlink</source>
         <comment>DgUil_KSO_Cmd_CopyHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat odkaz</translation>
     </message>
     <message>
         <source>Remove Hyperlink</source>
         <comment>DgUil_KSO_Cmd_RemoveHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstranit hypertext. odkaz</translation>
     </message>
     <message>
         <source>Exit Rotate Mode</source>
@@ -1395,7 +1395,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert WordArt</source>
         <comment>DgUil_KSO_Cmd_InsertWordArt</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit WordArt</translation>
     </message>
     <message>
         <source>Edit Text...</source>
@@ -1415,7 +1415,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert WordArt</source>
         <comment>DgUil_KSO_Cmd_WordArtShapePalette</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit WordArt</translation>
     </message>
     <message>
         <source>WordArt Same Letter Heights</source>
@@ -1425,7 +1425,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>WordArt Vertical Text</source>
         <comment>DgUil_KSO_Cmd_WordArtVerticalText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WordArt text svisle</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -1435,7 +1435,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Center</source>
         <comment>DgUil_KSO_Cmd_WordArtAlignment_Value1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střed</translation>
     </message>
     <message>
         <source>Right Align</source>
@@ -1470,7 +1470,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Normal</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Normální</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -1485,7 +1485,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Custom</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacingCustom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Kern Character Pairs</source>
@@ -1520,7 +1520,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_InsertTextboxHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit textové pole</translation>
     </message>
     <message>
         <source>Insert Vertical Text Box</source>
@@ -1535,12 +1535,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Insert Clip Art</source>
         <comment>DgUil_KSO_Cmd_InsertClipArt</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit ClipArt</translation>
     </message>
     <message>
         <source>Insert Picture</source>
         <comment>DgUil_KSO_Cmd_InsertPictureFromFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message>
         <source>Insert OLE Object</source>
@@ -1555,17 +1555,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Edit Text</source>
         <comment>DgUil_KSO_Cmd_EditText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit text</translation>
     </message>
     <message>
         <source>Add Text</source>
         <comment>DgUil_KSO_Cmd_AddText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat text</translation>
     </message>
     <message>
         <source>Insert Text Box</source>
         <comment>DgUil_KSO_Cmd_AddTextbox</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit textové pole</translation>
     </message>
     <message>
         <source>Update Link</source>
@@ -1575,17 +1575,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Format Object</source>
         <comment>DgUil_KSO_Cmd_FormatObject</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Formát objektu</translation>
     </message>
     <message>
         <source>Relative to Page</source>
         <comment>DgUil_KSO_Cmd_AlighRelativeToPage</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Relativně ke stránce</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
         <comment>DgUil_KSO_Cmd_AlignRelativeToSlide</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Relativně ke snímku</translation>
     </message>
     <message>
         <source>The value must be between 0% and 500%.</source>
@@ -1595,7 +1595,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Format Painter</source>
         <comment>DgUil_KSO_Cmd_FormatPainter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kopírovat formát</translation>
     </message>
     <message>
         <source>The value must be between -600 pt and 9600 pt.</source>
@@ -1605,42 +1605,42 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Color</source>
         <comment>DgUil_KSO_Cmd_PictureColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barva</translation>
     </message>
     <message>
         <source>More Contrast</source>
         <comment>DgUil_KSO_Cmd_PictureMoreContrast</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více kontrastu</translation>
     </message>
     <message>
         <source>Less Contrast</source>
         <comment>DgUil_KSO_Cmd_PictureLessContrast</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Méně kontrastu</translation>
     </message>
     <message>
         <source>More Brightness</source>
         <comment>DgUil_KSO_Cmd_PictureMoreBrightness</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více jasu</translation>
     </message>
     <message>
         <source>Less Brightness</source>
         <comment>DgUil_KSO_Cmd_PictureLessBrightness</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Méně jasu</translation>
     </message>
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_PictureCrop</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ořez</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
         <comment>DgUil_KSO_Cmd_PictureSetTransparentColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavit průhlednou barvu</translation>
     </message>
     <message>
         <source>Reset Picture</source>
         <comment>DgUil_KSO_Cmd_ResetPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetovat obrázes</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -1650,22 +1650,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>WPS Spreadsheets</source>
         <comment>DgUil_KSO_ET_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Tabulky</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>pt</source>
         <comment>DgUil_KSO_POINT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bod</translation>
     </message>
     <message>
         <source>Crop</source>
         <comment>DgUil_KSO_Cmd_CropPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ořez</translation>
     </message>
     <message>
         <source>Insert Control</source>
@@ -1675,7 +1675,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Compress Pictures</source>
         <comment>DgUil_KSO_Cmd_CompressPictures</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Komprimovat obrázky</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -1691,12 +1691,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Design Mode</source>
         <comment>DgUil_OLEControl_DesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Režim návrhu</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
         <comment>DgUil_OLEControl_ExitDesignMode</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ukončit režim návrhu</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -1706,17 +1706,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Unidentifiable picture format.</source>
         <comment>DgUil_KSO_Invalid_Picture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neznámý formát obrázku.</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_KSO_Cmd_ChangePicture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit obrázek</translation>
     </message>
     <message>
         <source>Change Picture</source>
         <comment>DgUil_DlgChangePictureTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit obrázek</translation>
     </message>
     <message>
         <source>The server application, source file, or item cannot be found, or returned an unknown error. You may need to reinstall the server application</source>
@@ -1726,12 +1726,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Save as Picture</source>
         <comment>DgUil_Cmd_SaveAsPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit jako obrázek</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>DgUil_Cmd_SaveAsPictureNameBase</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)|*.jpg|Portable Network Graphics(*.png)|*.png|Tag Image File Format(*.tif)|*.tif|Windows Bitmap(*.bmp)|*.bmp</source>
@@ -1741,22 +1741,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Failed to save as a picture, because the file format is unsupported.</source>
         <comment>DgUil_Cmd_SaveAsPictureFailure</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze uložit jako obrázek, protože formát souboru není podporovaný.</translation>
     </message>
     <message>
         <source>Error</source>
         <comment>DgUil_Cmd_SaveAsPictureFailureCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba</translation>
     </message>
     <message>
         <source>Translate</source>
         <comment>DgUil_KSO_Translate_ToolTip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeložit</translation>
     </message>
     <message>
         <source>Search</source>
         <comment>DgUil_KSO_Search_ToolTip</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prohledat</translation>
     </message>
     <message>
         <source>You are about to activate an embedded object, which may contain viruses or damage your computer. Please make sure it is safe before continuing. Do you want to continue?</source>
@@ -1821,7 +1821,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Select Data</source>
         <comment>DgUil_KSO_Cmd_ChooseChartDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vybrat data</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
@@ -1849,7 +1849,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Rectangle</source>
         <comment>DRAWINGSTR_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obdélník</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
@@ -1859,12 +1859,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Oval</source>
         <comment>DRAWINGSTR_ELLIPSE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ovál</translation>
     </message>
     <message>
         <source>Diamond</source>
         <comment>DRAWINGSTR_DIAMOND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diamant</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -1944,7 +1944,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Line</source>
         <comment>DRAWINGSTR_LINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čára</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -2004,7 +2004,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Straight Connector</source>
         <comment>DRAWINGSTR_STRAIGHTCONNECTOR1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přímé propojení</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -2169,12 +2169,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Explosion 1</source>
         <comment>DRAWINGSTR_IRREGULARSEAL1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exploze 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWINGSTR_IRREGULARSEAL2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exploze 2</translation>
     </message>
     <message>
         <source>Lightning Bolt</source>
@@ -2189,7 +2189,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Picture</source>
         <comment>DRAWINGSTR_PICTUREFRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Quad Arrow</source>
@@ -2384,7 +2384,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Document</source>
         <comment>DRAWINGSTR_FLOWCHARTDOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojový diagram: dokument</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
@@ -2469,7 +2469,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Magnetic Disk</source>
         <comment>DRAWINGSTR_FLOWCHARTMAGNETICDISK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojový diagram: Magnetický disk</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
@@ -2819,17 +2819,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Text Box</source>
         <comment>DRAWINGSTR_TEXTBOX</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Textový rámeček</translation>
     </message>
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPSHAPE</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>CD Drive</source>
-        <comment>DRAWINGSTR_CDDRIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message>
         <source>Chair</source>
@@ -2904,7 +2899,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Document</source>
         <comment>DRAWINGSTR_DOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument</translation>
     </message>
     <message>
         <source>Documents</source>
@@ -2924,7 +2919,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Folder</source>
         <comment>DRAWINGSTR_FILE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Složka</translation>
     </message>
     <message>
         <source>File Cab</source>
@@ -3169,7 +3164,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Table</source>
         <comment>DRAWINGSTR_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message>
         <source>Toilet</source>
@@ -3204,7 +3199,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Equation</source>
         <comment>DRAWINGSTR_EQUATION</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mat. výraz</translation>
     </message>
     <message>
         <source>Unknown Shape</source>
@@ -3214,7 +3209,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Group</source>
         <comment>DRAWINGSTR_GROUPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message>
         <source>Mixed texture</source>
@@ -3344,7 +3339,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Insert Picture</source>
         <comment>DRAWINGSTR_INSERT_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit obrázek</translation>
     </message>
     <message>
         <source>Invalid index</source>
@@ -3362,29 +3357,24 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Object</source>
-        <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Change Picture</source>
         <comment>DRAWINGSTR_CHANGE_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změnit obrázek</translation>
     </message>
     <message>
         <source>Click to add text</source>
         <comment>DRAWINGSTR_CLICK2ADDTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Klikněte pro vložení textu</translation>
     </message>
     <message>
         <source>Default</source>
         <comment>DRAWINGSTR_DGMSTYLE_DEFAULT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výchozí</translation>
     </message>
     <message>
         <source>Outline</source>
         <comment>DRAWINGSTR_DGMSTYLE_OUTLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ohraničení</translation>
     </message>
     <message>
         <source>Double Outline</source>
@@ -3404,7 +3394,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Shaded</source>
         <comment>DRAWINGSTR_DGMSTYLE_SHADED</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stínováno</translation>
     </message>
     <message>
         <source>Fire</source>
@@ -3414,12 +3404,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>3-D Color</source>
         <comment>DRAWINGSTR_DGMSTYLE_3D_COLOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3-D barva</translation>
     </message>
     <message>
         <source>Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_GRADIENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechod</translation>
     </message>
     <message>
         <source>Brackets</source>
@@ -3459,7 +3449,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Wire Frame</source>
         <comment>DRAWINGSTR_DGMSTYLE_WIRE_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Drátěný model</translation>
     </message>
     <message>
         <source>Classic</source>
@@ -3472,13 +3462,23 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Black Gradient</source>
-        <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
+        <source>FreeForm</source>
+        <comment>DRAWINGSTR_FREEFORM</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>FreeForm</source>
-        <comment>DRAWINGSTR_FREEFORM</comment>
+        <source>CD Drive</source>
+        <comment>DRAWINGSTR_CDDRIVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object</source>
+        <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
+        <translation type="unfinished">Objekt</translation>
+    </message>
+    <message>
+        <source>Black Gradient</source>
+        <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3499,7 +3499,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Straight Connector</source>
         <comment>DRAWING2STR_STRAIGHT_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přímé propojení</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -3514,12 +3514,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Rectangle</source>
         <comment>DRAWING2STR_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obdélník</translation>
     </message>
     <message>
         <source>Diamond</source>
         <comment>DRAWING2STR_DIAMOND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diamant</translation>
     </message>
     <message>
         <source>Parallelogram</source>
@@ -3664,7 +3664,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Oval</source>
         <comment>DRAWING2STR_OVAL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ovál</translation>
     </message>
     <message>
         <source>Teardrop</source>
@@ -3869,12 +3869,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Explosion 1</source>
         <comment>DRAWING2STR_EXPLOSION_1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exploze 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWING2STR_EXPLOSION_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exploze 2</translation>
     </message>
     <message>
         <source>Folded Corner</source>
@@ -4119,7 +4119,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Document</source>
         <comment>DRAWING2STR_FLOWCHART_DOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojový diagram: dokument</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
@@ -4204,7 +4204,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Magnetic Disk</source>
         <comment>DRAWING2STR_FLOWCHART_MAGNETIC_DISK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojový diagram: Magnetický disk</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
@@ -4324,7 +4324,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Group</source>
         <comment>DRAWING2STR_GROUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupina</translation>
     </message>
     <message>
         <source>TextBox</source>
@@ -4334,17 +4334,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Table</source>
         <comment>DRAWING2STR_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tabulka</translation>
     </message>
     <message>
         <source>Picture</source>
         <comment>DRAWING2STR_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrázek</translation>
     </message>
     <message>
         <source>Chart</source>
         <comment>DRAWING2STR_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Graf</translation>
     </message>
     <message>
         <source>Ink</source>
@@ -4354,12 +4354,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Object</source>
         <comment>DRAWING2STR_OLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Objekt</translation>
     </message>
     <message>
         <source>Diagram</source>
         <comment>DRAWING2STR_DIAGRAM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diagram</translation>
     </message>
     <message>
         <source>Freeform</source>
@@ -4374,7 +4374,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Line</source>
         <comment>DRAWING2_TOOLTIP_LINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čára</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -4419,7 +4419,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curve</source>
         <comment>DRAWING2_TOOLTIP_CURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Křivka</translation>
     </message>
     <message>
         <source>Arbitrary Polygon</source>
@@ -4434,7 +4434,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Rectangle</source>
         <comment>DRAWING2_TOOLTIP_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obdélník</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
@@ -4514,7 +4514,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Diamond</source>
         <comment>DRAWING2_TOOLTIP_DIAMOND</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Diamant</translation>
     </message>
     <message>
         <source>Regular Pentagon</source>
@@ -4889,7 +4889,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Document</source>
         <comment>DRAWING2_TOOLTIP_FLOWCHART_DOCUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojový diagram: dokument</translation>
     </message>
     <message>
         <source>Flowchart: Multidocument</source>
@@ -4984,7 +4984,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Magnetic Disk</source>
         <comment>DRAWING2_TOOLTIP_FLOWCHART_MAGNETIC_DISK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vývojový diagram: Magnetický disk</translation>
     </message>
     <message>
         <source>Flowchart: Direct Access Storage</source>
@@ -4999,12 +4999,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Explosion 1</source>
         <comment>DRAWING2_TOOLTIP_EXPLOSION_1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exploze 1</translation>
     </message>
     <message>
         <source>Explosion 2</source>
         <comment>DRAWING2_TOOLTIP_EXPLOSION_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Exploze 2</translation>
     </message>
     <message>
         <source>4-Point Star</source>
@@ -5244,7 +5244,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Pink</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PINK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Růžová</translation>
     </message>
     <message>
         <source>Crimson</source>
@@ -5289,12 +5289,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Plum</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PLUM</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Švestková</translation>
     </message>
     <message>
         <source>Violet</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_VIOLET</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fialová</translation>
     </message>
     <message>
         <source>Magenta</source>
@@ -5374,7 +5374,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Blue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrá</translation>
     </message>
     <message>
         <source>MediumBlue</source>
@@ -5489,7 +5489,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Aqua</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_AQUA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voda</translation>
     </message>
     <message>
         <source>DarkTurquoise</source>
@@ -5524,7 +5524,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Turquoise</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_TURQUOISE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tyrkysová</translation>
     </message>
     <message>
         <source>Aquamarine</source>
@@ -5589,7 +5589,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Lime</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Limetková</translation>
     </message>
     <message>
         <source>ForestGreen</source>
@@ -5599,7 +5599,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Green</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zelena</translation>
     </message>
     <message>
         <source>DarkGreen</source>
@@ -5659,7 +5659,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Yellow</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žlutá</translation>
     </message>
     <message>
         <source>Olive</source>
@@ -5689,7 +5689,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Gold</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GOLD</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zlatá</translation>
     </message>
     <message>
         <source>Cornsilk</source>
@@ -5729,7 +5729,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Orange</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oranžová</translation>
     </message>
     <message>
         <source>PapayaWhip</source>
@@ -5754,7 +5754,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Tan</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_TAN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opálená</translation>
     </message>
     <message>
         <source>BurlyWood</source>
@@ -5869,12 +5869,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Red</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_RED</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Červená</translation>
     </message>
     <message>
         <source>Brown</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BROWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hnědá</translation>
     </message>
     <message>
         <source>FireBrick</source>
@@ -5894,7 +5894,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>White</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_WHITE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bílá</translation>
     </message>
     <message>
         <source>WhiteSmoke</source>
@@ -5934,17 +5934,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Black</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BLACK</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Černá</translation>
     </message>
     <message>
         <source>Gray-25%</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_25</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-25%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_Gray_50</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-50%</translation>
     </message>
     <message>
         <source>Deep Red</source>
@@ -5954,17 +5954,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Red</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_RED</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Červená</translation>
     </message>
     <message>
         <source>Orange</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_ORANGE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oranžová</translation>
     </message>
     <message>
         <source>Yellow</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_YELLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žlutá</translation>
     </message>
     <message>
         <source>Micro Green</source>
@@ -5984,7 +5984,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Blue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_BLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrá</translation>
     </message>
     <message>
         <source>Deep Blue</source>
@@ -5994,7 +5994,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Violet</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_VIOLET</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fialová</translation>
     </message>
     <message>
         <source>Top-Left To Bottom-Right</source>
@@ -6114,7 +6114,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Hyperlink</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hypertext. odkaz</translation>
     </message>
     <message>
         <source>FollowedHyperlink1</source>
@@ -6181,12 +6181,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Horizontal</source>
         <comment>wpp_sTooltipPatternHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodorovně</translation>
     </message>
     <message>
         <source>Vertical</source>
         <comment>wpp_sTooltipPatternVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Svisle</translation>
     </message>
     <message>
         <source>ForwardDiagonal</source>
@@ -6606,7 +6606,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>No Shadow</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez stínu</translation>
     </message>
     <message>
         <source>Right-Down Offset</source>
@@ -6711,7 +6711,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Down</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_DOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dolů</translation>
     </message>
     <message>
         <source>Left-Down Corner Perspective</source>
@@ -6776,7 +6776,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>None</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>Up Arc</source>
@@ -6796,7 +6796,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Button</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlačítko</translation>
     </message>
     <message>
         <source>Rectuangle</source>
@@ -6856,7 +6856,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Button</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlačítko</translation>
     </message>
     <message>
         <source>Left Horn</source>
@@ -7006,7 +7006,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Angle</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Angle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úhel</translation>
     </message>
     <message>
         <source>Soft Circle	</source>
@@ -7081,7 +7081,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Wire Frame</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WIREFRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Drátěný model</translation>
     </message>
     <message>
         <source>Powder</source>
@@ -7166,7 +7166,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Glow</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_GLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záře</translation>
     </message>
     <message>
         <source>Bright Room</source>
@@ -7176,7 +7176,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>No</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne</translation>
     </message>
     <message>
         <source>Isometric Lft-Down</source>
@@ -7306,7 +7306,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Solid</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_SOLID</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plný</translation>
     </message>
     <message>
         <source>System Dot</source>
@@ -7321,7 +7321,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Dash</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čárkovaná</translation>
     </message>
     <message>
         <source>Dash Dot</source>
@@ -7331,22 +7331,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Long Dash</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASH</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dlouhá čárka</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dlouhá čárka tečka</translation>
     </message>
     <message>
         <source>Long Dash Dot Dot</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_LONGDASHDOTDOT</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dlouhá čárka tečka tečka</translation>
     </message>
     <message>
         <source>Single</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_SINGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jednoduchý</translation>
     </message>
     <message>
         <source>Double</source>
@@ -7378,12 +7378,12 @@ Line-type: %3</source>
     <message>
         <source>Line</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čára</translation>
     </message>
     <message>
         <source>Rectangle</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obdélník</translation>
     </message>
     <message>
         <source>Base Shape</source>
@@ -7398,7 +7398,7 @@ Line-type: %3</source>
     <message>
         <source>Formula</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzorec</translation>
     </message>
     <message>
         <source>Process</source>
@@ -7608,12 +7608,12 @@ Line-type: %3</source>
     <message>
         <source>The font &apos;</source>
         <comment>DRAWING2_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Písmo &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>DRAWING2_FontNameNotExisitSecondHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&apos; není ve vašem systému k dispozici. Chcete toto písmo přesto pužít?</translation>
     </message>
     <message>
         <source>Convert OLE Object</source>
@@ -7626,7 +7626,7 @@ Line-type: %3</source>
     <message>
         <source>XML Files</source>
         <comment>_KsoDesc_Xml</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">XML soubory</translation>
     </message>
     <message>
         <source>XML File Templates</source>
@@ -7759,6 +7759,11 @@ Line-type: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Single Web Page File</source>
+        <comment>_KsoFileFormatDesc_MHT_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
         <translation type="unfinished"></translation>
@@ -7766,11 +7771,6 @@ Line-type: %3</source>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
         <comment>_KsoPrompt_FileReadOnlyRecommended</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Single Web Page File</source>
-        <comment>_KsoFileFormatDesc_MHT_File</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7787,6 +7787,11 @@ Line-type: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>You have no permission to save files. Please check your permission information.</source>
+        <comment>TxKRM_Msg_SaveFileDenied</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Restrict Permission...</source>
         <comment>TxKRM_Menu_Rights</comment>
         <translation type="unfinished"></translation>
@@ -7796,18 +7801,13 @@ Line-type: %3</source>
         <comment>TxKRM_Msg_PrintCopiesDenied</comment>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>You have no permission to save files. Please check your permission information.</source>
-        <comment>TxKRM_Msg_SaveFileDenied</comment>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>kso_kso</name>
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>Save as</source>
@@ -7820,12 +7820,12 @@ Line-type: %3</source>
     <message>
         <source>Open</source>
         <comment>_kso_OpenDiagTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveDiagTitle</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit jako</translation>
     </message>
     <message>
         <source>WPS Office</source>
@@ -7835,7 +7835,7 @@ Line-type: %3</source>
     <message>
         <source>Macro</source>
         <comment>_kso_MacroDialog_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Makro</translation>
     </message>
     <message>
         <source>Backuping the file, please wait...</source>
@@ -7855,12 +7855,12 @@ File: %s
     <message>
         <source>Warning</source>
         <comment>_kso_Addins_AVScan_Failed_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varování</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_TxDesc_AllFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny soubory(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -7965,21 +7965,16 @@ File: %s
     <message>
         <source>Cancel</source>
         <comment>_kso_ErrorRep_MainDlg_NoSendBTN_Text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Error</source>
         <comment>_kso_ErrorRep_MessageBox_NetError_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba</translation>
     </message>
     <message>
         <source>Network transfer failed! Error code: %d</source>
         <comment>_kso_ErrorRep_MessageBox_NetError_Content</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Send out successfully</source>
-        <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7998,12 +7993,6 @@ File: %s
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>The password is incorrect, please reenter.
-You can choose Read-only button to open it as read-only.</source>
-        <comment>_kso_Prompt_ModifyPassword</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>WPS Writer</source>
         <comment>_kso_SN_WPS</comment>
         <translation type="unfinished"></translation>
@@ -8011,12 +8000,12 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_SN_WPP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_SN_ET</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Tabulky</translation>
     </message>
     <message>
         <source>(Not limited)</source>
@@ -8051,12 +8040,12 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prezentace</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS Tabulky</translation>
     </message>
     <message>
         <source> Invalid</source>
@@ -8076,7 +8065,7 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source> Development</source>
         <comment>_kso_versionType_DEV</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Vývoj</translation>
     </message>
     <message>
         <source> OEM</source>
@@ -8116,17 +8105,17 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>Backup</source>
         <comment>_kso_DocumentBackup</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záloha</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>_kso_SaveToFileDialogName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit jako</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>_kso_SaveToFileAllFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny soubory(*.*)</translation>
     </message>
     <message>
         <source>(Not activated)</source>
@@ -8187,12 +8176,12 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>All Files</source>
         <comment>_kso_filesearch_AllFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Všechny soubory</translation>
     </message>
     <message>
         <source>Document</source>
         <comment>_kso_filesearch_WordDocuments</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument</translation>
     </message>
     <message>
         <source>Excel WorkBooks</source>
@@ -8217,7 +8206,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Templates</source>
         <comment>_kso_filesearch_Templates</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šablony</translation>
     </message>
     <message>
         <source>Outlook Items</source>
@@ -8275,11 +8264,6 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Document Image Files</source>
-        <comment>_kso_filesearch_DocumentImagingFiles</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Visio Files</source>
         <comment>_kso_filesearch_VisioFiles</comment>
         <translation type="unfinished"></translation>
@@ -8287,11 +8271,6 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>WebPages</source>
         <comment>_kso_filesearch_WebPages</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Name</source>
-        <comment>_kso_filesearch_FileName</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8322,11 +8301,74 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Custom</source>
         <comment>_kso_filesearch_DesignerFiles</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Your system is missing the required codec that supports this media format</source>
         <comment>_kso_WarmingRep_MediaPlay_wpp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send out successfully</source>
+        <comment>_kso_ErrorRep_MessageBox_CompleteSend_Title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The password is incorrect, please reenter.
+You can choose Read-only button to open it as read-only.</source>
+        <comment>_kso_Prompt_ModifyPassword</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Image Files</source>
+        <comment>_kso_filesearch_DocumentImagingFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <comment>_kso_filesearch_FileName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Save As...] text files（*.txt）; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
+•Please check the backup directory has write permission, or try to change the backup directory.
+•[Undo] the previous operations and [Save] it; 
+•[Copy/Paste] the contents to the new file; 
+•Give up revising the file. 
+(%s)</source>
+        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS office has identified a potential safety problems.
+This position may not be safe.</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
+        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8355,6 +8397,11 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>You cannot change your access level. If you want to change your access level, request that another user with Full Control change your access level.</source>
         <comment>_kso_krim_Error_ChangeOwnPermission</comment>
         <translation type="unfinished"></translation>
@@ -8362,7 +8409,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Everyone</source>
         <comment>_kso_krim_User_Everyone</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kdokoli</translation>
     </message>
     <message>
         <source>Read</source>
@@ -8382,12 +8429,12 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Custom</source>
         <comment>_kso_krim_Permission_Custom</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Name</source>
         <comment>_kso_krim_TableHeader_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jméno</translation>
     </message>
     <message>
         <source>Access Level</source>
@@ -8420,6 +8467,11 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Request additional permissions...</source>
+        <comment>_kso_krim_Permission_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unrestricted</source>
         <comment>_kso_krim_Permission_NoExpireDate</comment>
         <translation type="unfinished"></translation>
@@ -8427,12 +8479,12 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Yes</source>
         <comment>_kso_krim_Permission_Yes</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ano</translation>
     </message>
     <message>
         <source>No</source>
         <comment>_kso_krim_Permission_No</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne</translation>
     </message>
     <message>
         <source>Select Names</source>
@@ -8445,18 +8497,28 @@ You can click the button to recover files you work on.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>R&amp;equest permissions</source>
+        <comment>_kso_irmio_Button_RequestPermission</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&amp;Yes</source>
         <comment>_kso_irmio_Button_Yes</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ano</translation>
     </message>
     <message>
         <source>&amp;No</source>
         <comment>_kso_irmio_Button_No</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Ne</translation>
     </message>
     <message>
         <source>Unexpected error occurred. Please try again later or contact your system administrator.</source>
         <comment>_kso_irmio_Error_Unexpected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
+        <comment>_kso_irmio_Error_Configuration</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8467,6 +8529,28 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>Information Rights Management cannot operate in the presence of a debugger. Please close your debugger and try again.</source>
         <comment>_kso_irmio_Error_Debugging</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Connection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
+        <comment>_kso_irmio_Error_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use feature without credentials</source>
+        <comment>_kso_irmio_Error_Credentials</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
+1. Try changing to another user account to open the document;
+2. Request permission update from %1.</source>
+        <comment>_kso_irmio_Error_No_Permission</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8493,6 +8577,16 @@ To use IRM you need to install the Windows Rights Management client. If you have
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Restricted Access</source>
+        <comment>_kso_kirm_Policy_Name</comment>
+        <translation type="unfinished">Omezený přístup</translation>
+    </message>
+    <message>
+        <source>Permission is currently restricted. Only specified users can access this content. </source>
+        <comment>_kso_kirm_Policy_Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Permission...</source>
         <comment>_kso_krim_Permission_ChangePermission</comment>
         <translation type="unfinished"></translation>
@@ -8510,7 +8604,7 @@ To use IRM you need to install the Windows Rights Management client. If you have
     <message>
         <source>Unrestricted Access</source>
         <comment>_kso_krim_UnrestrictedAccess</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neomezený přístup</translation>
     </message>
     <message>
         <source>Restricted Access(Read)</source>
@@ -8528,100 +8622,6 @@ To use IRM you need to install the Windows Rights Management client. If you have
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>%s Errors occur when regular backup is running! Please try the following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Save As...] text files（*.txt）; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text1</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%s Errors occur when regular backup is running! Please try the  following operations: 
-•Please check the backup directory has write permission, or try to change the backup directory.
-•[Undo] the previous operations and [Save] it; 
-•[Copy/Paste] the contents to the new file; 
-•Give up revising the file. 
-(%s)</source>
-        <comment>_kso_Prompt_Doucment_AutoBackup_Failed_Text2</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Request additional permissions...</source>
-        <comment>_kso_krim_Permission_RequestPermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>R&amp;equest permissions</source>
-        <comment>_kso_irmio_Button_RequestPermission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
-        <comment>_kso_irmio_Error_Configuration</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This service is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
-        <comment>_kso_irmio_Error_Connection</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The service at %1 is temporarily unavailable. Ensure that you have connectivity to this server. This error could be caused because you are working offline, your proxy settings are preventing your connection, or you are experiencing intermittent network issues.</source>
-        <comment>_kso_irmio_Error_Location</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cannot use feature without credentials</source>
-        <comment>_kso_irmio_Error_Credentials</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission for this document is currently restricted. You do not have credentials that allow you to open this document. You can: 
-1. Try changing to another user account to open the document;
-2. Request permission update from %1.</source>
-        <comment>_kso_irmio_Error_No_Permission</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Restricted Access</source>
-        <comment>_kso_kirm_Policy_Name</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission is currently restricted. Only specified users can access this content. </source>
-        <comment>_kso_kirm_Policy_Description</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS office has identified a potential safety problems.
-This position may not be safe.</source>
-        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
-        <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PRO</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
-        <comment>_kso_krim_Error_insertOleInvalid</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Opening</source>
         <comment>_kso_io_Progress_Opening</comment>
         <translation type="unfinished"></translation>
@@ -8634,12 +8634,12 @@ This position may not be safe.</source>
     <message>
         <source>Backing up</source>
         <comment>_kso_io_Progress_AutoSaving</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zálohování</translation>
     </message>
     <message>
         <source>(Press ESC to cancel)</source>
         <comment>_kso_io_Progress_Discontinue_ByEsc</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(ESC pro ukončení)</translation>
     </message>
     <message>
         <source>Ribbon Tabs</source>
@@ -8666,7 +8666,7 @@ This position may not be safe.</source>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavní</translation>
     </message>
     <message>
         <source>0.00</source>
@@ -8716,7 +8716,7 @@ This position may not be safe.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
@@ -8741,7 +8741,7 @@ This position may not be safe.</source>
     <message>
         <source>m/d/yyyy h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy h:mm</translation>
     </message>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
@@ -8766,12 +8766,12 @@ This position may not be safe.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
@@ -8786,7 +8786,7 @@ This position may not be safe.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
@@ -8851,42 +8851,42 @@ This position may not be safe.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">d.m.yyyy</translation>
     </message>
 </context>
 <context>
@@ -8894,12 +8894,12 @@ This position may not be safe.</source>
     <message>
         <source>WPS Office has not found any installed printers.</source>
         <comment>_ksoErr_Print_NoPrinter</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nebyla nalezena žádná nainstalovaná tiskárna.</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>_kso_Print_CustomPaper</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Please remove the paper with one side printed from output tray and place it back in the input bin, then press OK to continue printing.</source>
@@ -8928,15 +8928,15 @@ If the problem still exists, you can print a test page by right-clicking the pri
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Unable to find the cups library, make sure you have installed!</source>
-        <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
 You can add the customized paper %dmm x %dmm in printer properties and print again.
 Continue printing?</source>
         <comment>_ksoErr_Print_PaperNoSupport</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to find the cups library, make sure you have installed!</source>
+        <comment>_ksoErr_Print_NoCupsLibrary</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8980,47 +8980,47 @@ Continue printing?</source>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Správa zálohování</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <comment>kso_BackupFile_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Správa zálohování</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový dokument</translation>
     </message>
     <message>
         <source>New Document</source>
         <comment>kso_NewDocment_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový dokument</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová prezentace</translation>
     </message>
     <message>
         <source>New Presentation</source>
         <comment>kso_NewPresent_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nová prezentace</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový sešit</translation>
     </message>
     <message>
         <source>New Workbook</source>
         <comment>kso_NewWorkbook_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nový sešit</translation>
     </message>
     <message>
         <source>Recent documents</source>
         <comment>kso_Recent_Document</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Naposledy otevřené</translation>
     </message>
     <message>
         <source>Recent presentations</source>
@@ -9095,7 +9095,7 @@ Continue printing?</source>
     <message>
         <source>Add</source>
         <comment>kso_SAddCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přidat</translation>
     </message>
     <message>
         <source>Failed to add Add-In</source>
@@ -9120,17 +9120,17 @@ Continue printing?</source>
     <message>
         <source>Automatic</source>
         <comment>kso_sAutomatic</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automaticky</translation>
     </message>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatické tvary</translation>
     </message>
     <message>
         <source>AutoShapes</source>
         <comment>kso_sAutoShapes_DisplayName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatické tvary</translation>
     </message>
     <message>
         <source>The name already exists. Please enter another one.</source>
@@ -9155,17 +9155,17 @@ Continue printing?</source>
     <message>
         <source>No</source>
         <comment>kso_sBoolNoStr</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ne</translation>
     </message>
     <message>
         <source>Yes or No</source>
         <comment>kso_sBoolType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ano nebo Ne</translation>
     </message>
     <message>
         <source>Yes</source>
         <comment>kso_sBoolYesStr</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ano</translation>
     </message>
     <message>
         <source>(Build %s)</source>
@@ -9210,36 +9210,16 @@ Continue printing?</source>
     <message>
         <source>About WPS Presentation</source>
         <comment>kso_sCaption_WPP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O programu WPS Prezentace</translation>
     </message>
     <message>
         <source>About WPS Writer</source>
         <comment>kso_sCaption_WPS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">O programu WPS Writer</translation>
     </message>
     <message>
         <source>Cell Reference</source>
         <comment>kso_sCellReference</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear backup files automatically before closing application.</source>
-        <comment>kso_sClearBackup</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear clipboard automatically before closing application.</source>
-        <comment>kso_sClearClipboard</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Recent File Lists automatically before closing application.</source>
-        <comment>kso_sClearRecents</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear temporary files automatically before closing application.</source>
-        <comment>kso_sClearTemp</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9255,7 +9235,7 @@ Continue printing?</source>
     <message>
         <source>Close</source>
         <comment>kso_sCloseCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>The control name cannot be blank. Type a name please.</source>
@@ -9268,11 +9248,6 @@ Continue printing?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Load on Demand (already loaded)</source>
-        <comment>kso_sConnectFirstTime</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Copy to</source>
         <comment>kso_SCopyToCaption</comment>
         <translation type="unfinished"></translation>
@@ -9280,17 +9255,17 @@ Continue printing?</source>
     <message>
         <source>&amp;Add</source>
         <comment>kso_sCustomAdd</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přid&amp;at</translation>
     </message>
     <message>
         <source>Custom</source>
         <comment>kso_sCustomColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní</translation>
     </message>
     <message>
         <source>Customize</source>
         <comment>kso_sCustomCommandbarName</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přizpůsobit</translation>
     </message>
     <message>
         <source>Checked by;Client;Date completed;Department;Destination;Disposition;Division;Document number;Editor;Forward to;Group;Language</source>
@@ -9305,12 +9280,12 @@ Continue printing?</source>
     <message>
         <source>&amp;Modify</source>
         <comment>kso_sCustomModify</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit</translation>
     </message>
     <message>
         <source>Custom Shows</source>
         <comment>kso_sCustomShows</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlastní pohledy</translation>
     </message>
     <message>
         <source>The value entered does not match the specified type. The value will be stored as text.</source>
@@ -9360,7 +9335,7 @@ Continue printing?</source>
     <message>
         <source>Date</source>
         <comment>kso_sDateType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datum</translation>
     </message>
     <message>
         <source>Tahoma</source>
@@ -9370,7 +9345,7 @@ Continue printing?</source>
     <message>
         <source>Defined Names</source>
         <comment>kso_sDefinedNames</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Definované názvy</translation>
     </message>
     <message>
         <source>Failed to unintall Add-In</source>
@@ -9400,7 +9375,7 @@ Continue printing?</source>
     <message>
         <source>Document</source>
         <comment>kso_sDocSecurity</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dokument</translation>
     </message>
     <message>
         <source>Dotted diamond</source>
@@ -9415,12 +9390,12 @@ Continue printing?</source>
     <message>
         <source>Edit Hyperlink</source>
         <comment>kso_sEditHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upravit hypertext. odkaz</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
         <comment>kso_sElseDefFontSizeItems</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">5 5,5 6,5 7,5 8 9 10 10,5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>The items with &quot;*&quot; must be inputted.</source>
@@ -9438,11 +9413,6 @@ Continue printing?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <comment>kso_sErrMsg_HideAllItems</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>The key length must be a multiple of 8 between %d and %d.</source>
         <comment>kso_sErrorKeylength</comment>
         <translation type="unfinished"></translation>
@@ -9450,23 +9420,11 @@ Continue printing?</source>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sErrorRangeNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odkaz není platný.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenCreateTable_General</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The position you chose to place the PivotTable is not valid. 
-Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
-        <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You cannot modify the PivotTable with these data.
-Please check your data and make sure that the reference is valid and the worksheet exists.</source>
-        <comment>kso_sErrorWhenModifyTable</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -9527,7 +9485,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>File</source>
         <comment>kso_sFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor</translation>
     </message>
     <message>
         <source>The file name is incorrect. Please input the file name with correct format.</source>
@@ -9547,7 +9505,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Folder</source>
         <comment>kso_sFolder</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Složka</translation>
     </message>
     <message>
         <source>GB</source>
@@ -9557,17 +9515,17 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>General</source>
         <comment>kso_sGeneralTab</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavní</translation>
     </message>
     <message>
         <source>&amp;Green:</source>
         <comment>kso_sGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Zelená:</translation>
     </message>
     <message>
         <source>Headings</source>
         <comment>kso_sHeadings</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavičky</translation>
     </message>
     <message>
         <source>Horizontal brick</source>
@@ -9585,11 +9543,6 @@ Please check your data and make sure that the reference is valid and the workshe
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>An error occurred while importing this file %s.</source>
-        <comment>kso_sImportPictureError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please input &amp;toolbar&apos;s name:</source>
         <comment>kso_SInputToolbarName</comment>
         <translation type="unfinished"></translation>
@@ -9597,7 +9550,7 @@ Please check your data and make sure that the reference is valid and the workshe
     <message>
         <source>Insert Hyperlink</source>
         <comment>kso_sInsertHyperlink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vložit hypertextový odkaz</translation>
     </message>
     <message>
         <source>Invalid</source>
@@ -9619,7 +9572,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>This is not a valid number.</source>
         <comment>kso_sInvalidNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toto není platné číslo</translation>
     </message>
     <message>
         <source>PivotTable name is not valid.</source>
@@ -9639,32 +9592,32 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Aqua</source>
         <comment>kso_sKclAqua</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Voda</translation>
     </message>
     <message>
         <source>Black</source>
         <comment>kso_sKclBlack</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Černá</translation>
     </message>
     <message>
         <source>Blue</source>
         <comment>kso_sKclBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrá</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
         <comment>kso_sKclBlueGray</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modrošedá</translation>
     </message>
     <message>
         <source>Bright Green</source>
         <comment>kso_sKclBrightGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jasně zelená</translation>
     </message>
     <message>
         <source>Brown</source>
         <comment>kso_sKclBrown</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hnědá</translation>
     </message>
     <message>
         <source>Coral</source>
@@ -9674,12 +9627,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dark Blue</source>
         <comment>kso_sKclDarkBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tmavě modrá</translation>
     </message>
     <message>
         <source>Dark Green</source>
         <comment>kso_sKclDarkGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tmavě zelená</translation>
     </message>
     <message>
         <source>Dark Purple</source>
@@ -9689,7 +9642,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dark Red</source>
         <comment>kso_sKclDarkRed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tmavě červená</translation>
     </message>
     <message>
         <source>Dark Teal</source>
@@ -9699,137 +9652,132 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dark Yellow</source>
         <comment>kso_sKclDarkYellow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tmavě žlutá</translation>
     </message>
     <message>
         <source>Gold</source>
         <comment>kso_sKclGold</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zlatá</translation>
     </message>
     <message>
         <source>Gray-10%</source>
         <comment>kso_sKclGray_10</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
         <comment>kso_sKclGray_12_5</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
         <comment>kso_sKclGray_15</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
         <comment>kso_sKclGray_20</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
         <comment>kso_sKclGray_25</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
         <comment>kso_sKclGray_30</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
         <comment>kso_sKclGray_35</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
         <comment>kso_sKclGray_37_5</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-37,5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
         <comment>kso_sKclGray_40</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
         <comment>kso_sKclGray_45</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-45%</translation>
     </message>
     <message>
         <source>Gray-5%</source>
         <comment>kso_sKclGray_5</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-5%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
         <comment>kso_sKclGray_50</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
         <comment>kso_sKclGray_55</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
         <comment>kso_sKclGray_60</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
         <comment>kso_sKclGray_62_5</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
         <comment>kso_sKclGray_65</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
         <comment>kso_sKclGray_70</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
         <comment>kso_sKclGray_75</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
         <comment>kso_sKclGray_80</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
         <comment>kso_sKclGray_85</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
         <comment>kso_sKclGray_87_5</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
         <comment>kso_sKclGray_90</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
         <comment>kso_sKclGray_95</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Šedá-95%</translation>
     </message>
     <message>
         <source>Green</source>
         <comment>kso_sKclGreen</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ice Blue</source>
-        <comment>kso_sKclIceBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zelena</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -9849,52 +9797,47 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Light Blue</source>
         <comment>kso_sKclLightBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Světle modrá</translation>
     </message>
     <message>
         <source>Light Green</source>
         <comment>kso_sKclLightGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Světle zelená</translation>
     </message>
     <message>
         <source>Light Orange</source>
         <comment>kso_sKclLightOrange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Světle oranžová</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
         <comment>kso_sKclLightTurquoise</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Světle tyrkysová</translation>
     </message>
     <message>
         <source>Light Yellow</source>
         <comment>kso_sKclLightYellow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Světle žlutá</translation>
     </message>
     <message>
         <source>Lime</source>
         <comment>kso_sKclLime</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Ocean Blue</source>
-        <comment>kso_sKclOceanBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Limetková</translation>
     </message>
     <message>
         <source>Olive Green</source>
         <comment>kso_sKclOliveGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Olivově zelená</translation>
     </message>
     <message>
         <source>Orange</source>
         <comment>kso_sKclOrange</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oranžová</translation>
     </message>
     <message>
         <source>Pale Blue</source>
         <comment>kso_sKclPaleBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bledě modrá</translation>
     </message>
     <message>
         <source>Periwinkle</source>
@@ -9904,37 +9847,37 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Pink</source>
         <comment>kso_sKclPink</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Růžová</translation>
     </message>
     <message>
         <source>Plum</source>
         <comment>kso_sKclPlum</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Švestková</translation>
     </message>
     <message>
         <source>Red</source>
         <comment>kso_sKclRed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Červená</translation>
     </message>
     <message>
         <source>Rose</source>
         <comment>kso_sKclRose</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Růžová</translation>
     </message>
     <message>
         <source>Sea Green</source>
         <comment>kso_sKclSeaGreen</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mořská zelená</translation>
     </message>
     <message>
         <source>Sky Blue</source>
         <comment>kso_sKclSkyBlue</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nebesky modrá</translation>
     </message>
     <message>
         <source>Tan</source>
         <comment>kso_sKclTan</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opálená</translation>
     </message>
     <message>
         <source>Teal</source>
@@ -9944,22 +9887,22 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Turquoise</source>
         <comment>kso_sKclTurquoise</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tyrkysová</translation>
     </message>
     <message>
         <source>Violet</source>
         <comment>kso_sKclViolet</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fialová</translation>
     </message>
     <message>
         <source>White</source>
         <comment>kso_sKclWhite</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bílá</translation>
     </message>
     <message>
         <source>Yellow</source>
         <comment>kso_sKclYellow</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žlutá</translation>
     </message>
     <message>
         <source>Large checkerboard</source>
@@ -10009,37 +9952,27 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Dash</source>
         <comment>kso_sLineDash</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čárkovaná</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
         <comment>kso_sLineFormatCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čáry se vzorem</translation>
     </message>
     <message>
         <source>Long Dash</source>
         <comment>kso_sLineLongDash</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dlouhá čárka</translation>
     </message>
     <message>
         <source>Round Dot</source>
         <comment>kso_sLineRoundDot</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kulatý bod</translation>
     </message>
     <message>
         <source>Square Dot</source>
         <comment>kso_sLineSquareDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading DLL failed</source>
-        <comment>kso_sLoadLibFailAndFatal_Caption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Loading %s failed. Application will terminate. Please check and try again.</source>
-        <comment>kso_sLoadLibFailAndFatal_Text</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čtvercový bod</translation>
     </message>
     <message>
         <source>Load on Demand</source>
@@ -10069,7 +10002,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>More Color...</source>
         <comment>kso_sMoreColor</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více barev...</translation>
     </message>
     <message>
         <source>Move to</source>
@@ -10114,12 +10047,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>No Border</source>
         <comment>kso_sNoBorder</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez okraje</translation>
     </message>
     <message>
         <source>No Fill</source>
         <comment>kso_sNoFill</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez výplně</translation>
     </message>
     <message>
         <source>&quot;%s&quot; has no icon.</source>
@@ -10129,17 +10062,17 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>No Line</source>
         <comment>kso_sNoLine</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez čáry</translation>
     </message>
     <message>
         <source>None</source>
         <comment>kso_sNone</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádný</translation>
     </message>
     <message>
         <source>(normal text)</source>
         <comment>kso_sNormalText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(normální text)</translation>
     </message>
     <message>
         <source>NUM</source>
@@ -10154,7 +10087,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Number</source>
         <comment>kso_sNumberType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Číslo</translation>
     </message>
     <message>
         <source>&amp;Next</source>
@@ -10214,7 +10147,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>pt</source>
         <comment>kso_sPound</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bod</translation>
     </message>
     <message>
         <source>%</source>
@@ -10244,7 +10177,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&amp;Red:</source>
         <comment>kso_sRed</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Če&amp;rvená:</translation>
     </message>
     <message>
         <source>Are you sure you have saved these files you need?</source>
@@ -10264,12 +10197,12 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>&amp;Sat:</source>
         <comment>kso_sSat</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Sytost:</translation>
     </message>
     <message>
         <source>Save As</source>
         <comment>kso_sSaveAS</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit jako</translation>
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
@@ -10292,18 +10225,8 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Automatically check file security troubles before closing application.</source>
-        <comment>kso_sSecurityOptionClose</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please select one &amp;folder:</source>
         <comment>kso_sSelectPathDescript</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Automatically check file security troubles before sending e-mail.</source>
-        <comment>kso_sSendMail</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10334,7 +10257,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>(Show All)</source>
         <comment>kso_sShowAll</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(Zobrazit vše)</translation>
     </message>
     <message>
         <source>Slide Titles</source>
@@ -10444,7 +10367,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Paragraph</source>
         <comment>kso_sSymbolParagraph</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odstavec</translation>
     </message>
     <message>
         <source>Registered</source>
@@ -10454,7 +10377,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Section</source>
         <comment>kso_sSymbolSection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sekce</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>
@@ -10479,12 +10402,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Task Window</source>
         <comment>kso_sTaskpane</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More Buttons</source>
-        <comment>kso_sTBChevronItemMoreButtonsHint</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okno úloh</translation>
     </message>
     <message>
         <source>Template</source>
@@ -10492,28 +10410,13 @@ If you are changing the name of a PivotTable field, you must type a new name for
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>What you entered is invalid.</source>
-        <comment>kso_sTextDeclined_FloatWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This is not a valid integer.</source>
-        <comment>kso_sTextDeclined_IntWarning</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Text</source>
         <comment>kso_sTextType</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Text</translation>
     </message>
     <message>
         <source>Select Texture</source>
         <comment>kso_sTextureOpenDialogCaption</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>3-D Style %d</source>
-        <comment>kso_sThreeDStyleFormat</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -10799,7 +10702,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Plain Text</source>
         <comment>kso_sWASPlainText</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Prostý text</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -10952,11 +10855,6 @@ For better service, please update the trial edition to standard edition by:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Zigzag</source>
-        <comment>kso_sZigZag</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>%s Properties</source>
         <comment>kso_sDlgPropertyCaption</comment>
         <translation type="unfinished"></translation>
@@ -10987,11 +10885,6 @@ For better service, please update the trial edition to standard edition by:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Please input the password of permission setting.</source>
-        <comment>kso_sNoPasswordInput</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>---Translate Selection---</source>
         <comment>kso_sTranslateSelectiveContents</comment>
         <translation type="unfinished"></translation>
@@ -10999,7 +10892,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Back</source>
         <comment>kso_Nav_Back</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpět</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -11014,17 +10907,12 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Close</source>
         <comment>kso_Nav_Close</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Open</source>
         <comment>kso_Nav_Open</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in browser</source>
-        <comment>kso_Nav_OpenBroser</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>There is no %s font on your system, the text will be shown in a substitute font. Do you want to use it anyway?</source>
@@ -11049,7 +10937,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Do you want to save the modifications to &quot;%s&quot;?</source>
         <comment>kso_SaveChangeMsg</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chcete uložit změny do &quot;%s&quot;?</translation>
     </message>
     <message>
         <source>Unknown object</source>
@@ -11094,7 +10982,7 @@ For better service, please update the trial edition to standard edition by:
     <message>
         <source>Feedback</source>
         <comment>kso_sFeedBackMenuItemCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpětná vazba</translation>
     </message>
     <message>
         <source>Organization Chart
@@ -11187,7 +11075,7 @@ Used to show steps toward a goal</source>
     <message>
         <source>Document tab</source>
         <comment>kso_sDocumentTab</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Záložka dokumentu</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
@@ -11202,11 +11090,6 @@ Used to show steps toward a goal</source>
     <message>
         <source>Verifying the serial number, please wait...</source>
         <comment>kso_sVerifyOnline</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
-        <comment>kso_sFailToSendMail</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11232,6 +11115,123 @@ Used to show steps toward a goal</source>
     <message>
         <source>Custom CommandBar %ld</source>
         <comment>kso_Custom_CommandBar_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear backup files automatically before closing application.</source>
+        <comment>kso_sClearBackup</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear clipboard automatically before closing application.</source>
+        <comment>kso_sClearClipboard</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Recent File Lists automatically before closing application.</source>
+        <comment>kso_sClearRecents</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear temporary files automatically before closing application.</source>
+        <comment>kso_sClearTemp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load on Demand (already loaded)</source>
+        <comment>kso_sConnectFirstTime</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
+        <comment>kso_sErrMsg_HideAllItems</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The position you chose to place the PivotTable is not valid. 
+Please make sure it is a valid reference range, and not a range of a hidden sheet.</source>
+        <comment>kso_sErrorWhenCreateTable_SheetPosErr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot modify the PivotTable with these data.
+Please check your data and make sure that the reference is valid and the worksheet exists.</source>
+        <comment>kso_sErrorWhenModifyTable</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred while importing this file %s.</source>
+        <comment>kso_sImportPictureError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ice Blue</source>
+        <comment>kso_sKclIceBlue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ocean Blue</source>
+        <comment>kso_sKclOceanBlue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading DLL failed</source>
+        <comment>kso_sLoadLibFailAndFatal_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading %s failed. Application will terminate. Please check and try again.</source>
+        <comment>kso_sLoadLibFailAndFatal_Text</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically check file security troubles before closing application.</source>
+        <comment>kso_sSecurityOptionClose</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically check file security troubles before sending e-mail.</source>
+        <comment>kso_sSendMail</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Buttons</source>
+        <comment>kso_sTBChevronItemMoreButtonsHint</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>What you entered is invalid.</source>
+        <comment>kso_sTextDeclined_FloatWarning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is not a valid integer.</source>
+        <comment>kso_sTextDeclined_IntWarning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D Style %d</source>
+        <comment>kso_sThreeDStyleFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zigzag</source>
+        <comment>kso_sZigZag</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the password of permission setting.</source>
+        <comment>kso_sNoPasswordInput</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open in browser</source>
+        <comment>kso_Nav_OpenBroser</comment>
+        <translation type="unfinished">Otevřít v prohlížeči</translation>
+    </message>
+    <message>
+        <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
+        <comment>kso_sFailToSendMail</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11263,14 +11263,39 @@ Used to show steps toward a goal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Help file does not exist or encounters an error.</source>
+        <comment>kso_sHelpNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <comment>kso_sLineDashDot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <comment>kso_sLineDashDotDot</comment>
+        <translation type="unfinished">Dlouhá čárka tečka tečka</translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <comment>kso_sLineLongDashDot</comment>
+        <translation type="unfinished">Dlouhá čárka tečka</translation>
+    </message>
+    <message>
         <source>Solid</source>
         <comment>kso_sLineSolid</comment>
+        <translation type="unfinished">Plný</translation>
+    </message>
+    <message>
+        <source>You have reached the maximum number of retries. Program will terminate.</source>
+        <comment>kso_sMaxStep</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
         <comment>kso_sRefIsNotValid</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odkaz není platný.</translation>
     </message>
     <message>
         <source>Insert an icon that represents the contents of the file into your document. Changes to the source file will be reflected in your document.</source>
@@ -11300,63 +11325,40 @@ Used to show steps toward a goal</source>
     <message>
         <source>Dowload XML expansion</source>
         <comment>kso_Smartdoc_DowloadXmlExpasionCaption</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Download XML expansion pack</translation>
     </message>
     <message>
         <source>Using the latest XML expansion pack from the following locations, the effect of this document will be the best:
  %1 
 Download the XML expansion pack?</source>
         <comment>kso_Smartdoc_DowloadXmlExpasion</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The effect of this document will be the best using the latest XML expansion pack from the following location(s):
+ %1 
+Download the XML expansion pack?</translation>
     </message>
     <message>
         <source>The XML expansion pack or smart document program has been lost or invalid.Please contact the system administrator or the personnel who provide this document</source>
         <comment>kso_Smartdoc_XMLExpansionLost</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The XML expansion pack or the Smart Document program is missing or invalid. Contact your system administrator or the person who provided this document.</translation>
     </message>
     <message>
         <source>You are currently viewing this document in multiple windows. If you wanna attach XML expansion, you must close all other windows first to ensure that you view this document only in one window.</source>
         <comment>kso_Smartdoc_XmlExpansionRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">You are currently viewing this document in multiple windows. To attach an XML expansion pack, you must first close all additional windows so that you are viewing the document in only one window.</translation>
     </message>
     <message>
         <source>This document has attached a XML expansion. If You wanna view this document in multiple windows, you must delete the XML expansion first.</source>
         <comment>kso_Smartdoc_NewWindowRefuse</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">This document has an XML expansion pack attached. To view this document in multiple windows, you must first remove the XML expansion pack.</translation>
     </message>
     <message>
         <source>Cannot install this file, because the security certificate has some problems. This XML expansion pack may won&apos;t run as expecte.For more information, please contact your administrator.</source>
         <comment>kso_Smartdoc_XMLCertificateError</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The file could not be installed because there was a problem with the security certificate. The XML expansion pack may not work as expected. For more information, contact your administrator.</translation>
     </message>
     <message>
         <source>Install this XML expansion pack failed.</source>
         <comment>kso_Smartdoc_installManifestError</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help file does not exist or encounters an error.</source>
-        <comment>kso_sHelpNotFound</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Dash Dot</source>
-        <comment>kso_sLineDashDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <comment>kso_sLineDashDotDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Long Dash Dot</source>
-        <comment>kso_sLineLongDashDot</comment>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You have reached the maximum number of retries. Program will terminate.</source>
-        <comment>kso_sMaxStep</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11515,7 +11517,7 @@ Download the XML expansion pack?</source>
     <message>
         <source>Grid</source>
         <comment>THEME_THEME_GRID</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mřížka</translation>
     </message>
     <message>
         <source>Hardcover</source>
@@ -11540,7 +11542,7 @@ Download the XML expansion pack?</source>
     <message>
         <source>Module</source>
         <comment>THEME_THEME_MODULE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modul</translation>
     </message>
     <message>
         <source>Newsprint</source>
@@ -11630,7 +11632,7 @@ Download the XML expansion pack?</source>
     <message>
         <source>Grayscale</source>
         <comment>THEME_THEMECOLORS_GRAYSCALE</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stupně šedi</translation>
     </message>
     <message>
         <source>Office 2</source>
@@ -11655,7 +11657,7 @@ Download the XML expansion pack?</source>
     <message>
         <source>Office Theme</source>
         <comment>THEME_NAME_OFFICE_2007_2010</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Téma Office</translation>
     </message>
     <message>
         <source>Office</source>

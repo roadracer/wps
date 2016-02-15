@@ -10,7 +10,7 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ:</translation>
     </message>
     <message>
         <source>Address:</source>
@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Test</source>
@@ -50,7 +50,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
@@ -99,7 +99,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Port:</source>
@@ -115,7 +115,7 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>

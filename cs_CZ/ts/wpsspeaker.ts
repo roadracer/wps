@@ -121,11 +121,11 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <name>KxSpeakToolbar</name>
     <message>
         <source>Reading</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čtení</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Mute</source>
@@ -137,7 +137,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přehrát</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -223,7 +223,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odpojit</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -231,7 +231,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastavení</translation>
     </message>
     <message>
         <source>About</source>
@@ -255,7 +255,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Failed to connect with speech service client.</source>
@@ -331,7 +331,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varování</translation>
     </message>
     <message>
         <source>Invalid IP Address.</source>
@@ -445,7 +445,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rychlost:</translation>
     </message>
     <message>
         <source>Voice Mode</source>
@@ -469,7 +469,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
 </context>
 <context>

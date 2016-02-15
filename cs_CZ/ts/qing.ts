@@ -49,7 +49,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;O programu</translation>
     </message>
 </context>
 <context>
@@ -60,11 +60,11 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skrýt</translation>
     </message>
     <message>
         <source>OK</source>
@@ -113,7 +113,7 @@
     <name>KErrorDetailItem</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>View directory</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Smazat</translation>
     </message>
     <message>
         <source>Upload failed. You do not have permission to save the file to this directory</source>
@@ -212,7 +212,7 @@
     <name>KFinishedDetailItem</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>View directory</source>
@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>king+5688</source>
@@ -302,7 +302,7 @@
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit</translation>
     </message>
     <message>
         <source>%1 comment(s)</source>
@@ -338,7 +338,7 @@
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detaily</translation>
     </message>
     <message>
         <source>File upload error</source>
@@ -394,7 +394,7 @@
     </message>
     <message>
         <source>Version details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detaily verze</translation>
     </message>
     <message>
         <source>This is already the latest version and do not need to be upgraded.</source>
@@ -402,11 +402,11 @@
     </message>
     <message>
         <source>Upgrading to new version...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upgraduji na novou verzi...</translation>
     </message>
     <message>
         <source>Upgrade failed. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Upgrade selhal. Zkuste to prosím později.</translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Exiting the program will terminate the tansfer.</source>
@@ -414,7 +414,7 @@
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravdu ukončit ?</translation>
     </message>
     <message>
         <source>OK</source>
@@ -422,7 +422,7 @@
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Logout will terminate the tansfer.</source>
@@ -430,7 +430,7 @@
     </message>
     <message>
         <source>Are you sure to sign out?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravdu se chcete odhlásit ?</translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
@@ -438,7 +438,7 @@
     </message>
     <message>
         <source>Are you sure to switch user?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravdu chcete přepnout uživatele ?</translation>
     </message>
     <message>
         <source>&amp;WPS Office Cloud</source>
@@ -470,27 +470,27 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;O programu</translation>
     </message>
     <message>
         <source>&amp;Switch User</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Přepnout uživatele</translation>
     </message>
     <message>
         <source>&amp;Sign Out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Odhlásit</translation>
     </message>
     <message>
         <source>&amp;Sign In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Přihlásit</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kon&amp;ec</translation>
     </message>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Před odhlášením zavřete aktuálně otevřený dokument</translation>
     </message>
     <message>
         <source>Enabling right-click upload function succeeded.</source>
@@ -514,7 +514,7 @@
     </message>
     <message>
         <source>Sign In</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přihlásit</translation>
     </message>
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
@@ -537,7 +537,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ:</translation>
     </message>
     <message>
         <source>Address:</source>
@@ -553,7 +553,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Test</source>
@@ -577,7 +577,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
@@ -620,7 +620,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vše</translation>
     </message>
     <message>
         <source>iOS</source>
@@ -762,7 +762,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušit</translation>
     </message>
     <message>
         <source>Unable to get the file list. Please check the network connection and try again.</source>
@@ -774,7 +774,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nápověda</translation>
     </message>
     <message>
         <source>Please choose a folder to upload.</source>
@@ -880,7 +880,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazit</translation>
     </message>
 </context>
 <context>
@@ -891,7 +891,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zavřít</translation>
     </message>
     <message>
         <source>Summary</source>
@@ -940,11 +940,11 @@ Time for upgrade: %1</source>
     <name>KWebOfficeView</name>
     <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Otevřít</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uložit jako</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
@@ -968,7 +968,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;O programu</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -994,7 +994,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heslo:</translation>
     </message>
     <message>
         <source>Port:</source>
@@ -1010,7 +1010,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
