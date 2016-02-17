@@ -121,7 +121,7 @@
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
-        <translation>Исключительный</translation>
+        <translation>Премиум</translation>
     </message>
     <message>
         <source>Trial</source>
