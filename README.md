@@ -40,6 +40,59 @@ Directory structure
 	|-- README.md		# this file
 
 
+Translation resources
+--------------------------------------------------------------------------------
+For all the *.ts files, starting with et, wpp and wps means for WPS Spreadsheets only,  WPS Presentation only, and WPS Writer only.
+
+	config
+	|-- hotkeylettermap.cfg        # Hotkey mapper
+	|-- localizedfuntionname.cfg   # Spreadsheets function localized name
+	data
+	|-- dgres.ini                  # For shapes (Insert -> Shapes)
+	ts
+	|-- auth.ts                    # Authentication module (Windows only)
+	|-- etcore.ts                  # Core module translations for Spreadsheets
+	|-- etresource.ts              # GUI translations for Spreadsheets
+	|-- ettablestyle.ts            # Table style translations for Spreadsheets
+	|-- ettips.ts                  # GUI tooltips translations for Spreadsheets
+	|-- et.ts                      # Spreadsheets
+	|-- highresolution.ts          # For high resolution setting dialog (Windows only)
+	|-- kaccountsdk.ts             # For officespace (Windows only)
+	|-- kcomctl.ts                 # Common controls/widgets translations
+	|-- kde.ts                     # Kingsoft development enviroment (Windows only)
+	|-- kfeedback.ts               # Feedback (Windows only)
+	|-- khomepage.ts               # Home page
+	|-- kole.ts                    # Same as kde.ts
+	|-- kscreengrab.ts             # Screen capture plugin (Windows only)
+	|-- ksomisc.ts                 # Install/uninstall module (Windows only)
+	|-- ksotips.ts                 # Common tooltips
+	|-- kso.ts                     # Common core module
+	|-- ktreasurebox.ts            # Treasure Box (Windows only)
+	|-- kwpsassist.ts              # Assist plugin (Windows only)
+	|-- kxshare.ts                 # Same as kcomctl.ts
+	|-- launcher.ts                # Launcher (Windows only)
+	|-- multiclipboard.ts          # Multi-clipboard plugin (Windows only)
+	|-- officespace.ts             # Office space plugin (Windows only)
+	|-- qing.ts                    # Same as officespace.ts
+	|-- shareplay.ts               # Share play plugin (Windows only)
+	|-- wpp2doc.ts                 # Presentaion -> Writer convert plugin (Windows only)
+	|-- wppcore.ts                 # Presentation core module
+	|-- wppencoder.ts              # Encoder (Windows only)
+	|-- wpponlinetemplate.ts       # Online templates plugin (Windows only)
+	|-- wpppresentationtool.ts     # Presentaion Tool (Windows only)
+	|-- wppresource.ts             # Presentaion GUI
+	|-- wpptips.ts                 # Presentaion tooltips
+	|-- wpp.ts                     # Presentaion
+	|-- wpscore.ts                 # Writer core module
+	|-- wpsgallery.ts              # For Writer gallery
+	|-- wpsrecommend.ts            # Software recommendation (Windows only)
+	|-- wpsresource.ts             # Writer GUI
+	|-- wpsspeaker.ts              # Speaker plugin (Windows only)
+	|-- wpstablestyle.ts           # Table style
+	|-- wpstips.ts                 # Tooltips for Writer
+	|-- wps.ts                     # Writer
+
+
 How to add a new language
 --------------------------------------------------------------------------------
 If the language you're interested in is not present in the root directory, it
