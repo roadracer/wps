@@ -1,95 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="tr_TR">
 <context>
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>galeri</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation type="unfinished"></translation>
+        <translation>şekillendir</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>From:</source>
-        <translation type="unfinished"></translation>
+        <translation>-den:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin</translation>
     </message>
     <message>
         <source>Caption:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazısı:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation type="unfinished"></translation>
+        <translation>Etiket:</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha Fazla:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>Tamam</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Dizin:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation type="unfinished"></translation>
+        <translation>Notlar:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha az:</translation>
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Galeriyi Düzenle</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>En fazla başlık sayısı 5 olabilir.</translation>
     </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha Fazla</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha az</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Desktop.ini adı.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\Desktop.ini adı.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\My Materials\Desktop.ini adı.</translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation type="unfinished"></translation>
+        <translation>WPSGaleri</translation>
     </message>
 </context>
 </TS>
