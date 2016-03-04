@@ -6,251 +6,251 @@
     <name>DlgBatchSetFont</name>
     <message>
         <source>Bulk Font Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Fontları Toplu Ayarla</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished"></translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>Replace Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Bölgeyi Değiştir</translation>
     </message>
     <message>
         <source>All Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Slayt</translation>
     </message>
     <message>
         <source>Seleted Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Seçilen Slayt</translation>
     </message>
     <message>
         <source>Assign Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Slayt Ata</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Sayfa</translation>
     </message>
     <message>
         <source>-</source>
-        <translation type="unfinished"></translation>
+        <translation>-</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished"></translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>Select Target</source>
-        <translation type="unfinished"></translation>
+        <translation>Hedef Seç</translation>
     </message>
     <message>
         <source>Title</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Content</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin Kutusu</translation>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablo</translation>
     </message>
     <message>
         <source>AutoShape</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomati Şekil</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished"></translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>Font Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Tipi Stili</translation>
     </message>
     <message>
         <source>Chinese Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Çince Yazı Tipi</translation>
     </message>
     <message>
         <source>Western Font</source>
-        <translation type="unfinished"></translation>
+        <translation>Batı Yazı Tipi</translation>
     </message>
     <message>
         <source>Font Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Büyüklüğü:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalın:</translation>
     </message>
     <message>
         <source>Don&apos;t Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştirme</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalın</translation>
     </message>
     <message>
         <source>Unbold</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalın değil</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt Çizgi:</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt Çizgi</translation>
     </message>
     <message>
         <source>Un-underline</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt çizgisiz</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğik:</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğik</translation>
     </message>
     <message>
         <source>Unitalicize</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğimsiz</translation>
     </message>
     <message>
         <source>Font Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Tipi Rengi:</translation>
     </message>
     <message>
         <source>Replace</source>
-        <translation type="unfinished"></translation>
+        <translation>Değiştir</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazgeç</translation>
     </message>
 </context>
 <context>
     <name>DlgKxCustomTextFormat</name>
     <message>
         <source>Custom Text Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Özel Metin Biçimi</translation>
     </message>
     <message>
         <source>Select textbox bellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Aşağıdaki metin kutusunu seç</translation>
     </message>
     <message>
         <source>Content Title</source>
-        <translation type="unfinished"></translation>
+        <translation>İçerik Başlığı</translation>
     </message>
     <message>
         <source>Content and textbox</source>
-        <translation type="unfinished"></translation>
+        <translation>·İçerik ve metin kutusu</translation>
     </message>
     <message>
         <source>Set text format</source>
-        <translation type="unfinished"></translation>
+        <translation>Metin biçimi ayarla</translation>
     </message>
     <message>
         <source>|</source>
-        <translation type="unfinished"></translation>
+        <translation>|</translation>
     </message>
     <message>
         <source>Apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Uygula</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Vazgeç</translation>
     </message>
 </context>
 <context>
     <name>KxDlglineSpacing</name>
     <message>
         <source>Line Spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>Satır Boşluğu</translation>
     </message>
     <message>
         <source>&amp;Line spacing</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Satır Boşluğu</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation type="unfinished"></translation>
+        <translation>Satırlar</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Noktalar</translation>
     </message>
     <message>
         <source>&amp;Before paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Satır başından önce</translation>
     </message>
     <message>
         <source>&amp;After paragraph</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Satır başından sonra</translation>
     </message>
 </context>
 <context>
     <name>LineSpacingComboBox</name>
     <message>
         <source>More...</source>
-        <translation type="unfinished"></translation>
+        <translation>Daha Fazla...</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik</translation>
     </message>
     <message>
         <source>There is no %1 font on your system. The text will be shown in a substitute font. Do you want to use it anyway?</source>
-        <translation type="unfinished"></translation>
+        <translation>Sisteminizde herhangi bir %1 font yok, metin başka bir fontla gösterilecek. Yine de kullanmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Tipi Büyüklüğünü Arttır</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
     </message>
     <message>
         <source>Font Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Yazı Tipi Rengi</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation>Kalın</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation>Eğik</translation>
     </message>
     <message>
         <source>UnderLine</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt Çizgi</translation>
     </message>
     <message>
         <source>LineSpace</source>
-        <translation type="unfinished"></translation>
+        <translation>Çizgi Boşluğu</translation>
     </message>
     <message>
         <source>All Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Tüm Yazı Tipleri</translation>
     </message>
     <message>
         <source>Recent Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Yazı Tipleri</translation>
     </message>
 </context>
 </TS>
