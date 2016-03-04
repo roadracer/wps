@@ -1,264 +1,264 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="sample">
+<TS version="2.0" language="tr_TR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>CWpsTableStyle</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı Sütunlar</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı Satırlar</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Sitil</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Sitil 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2-Vurgula 1/Vurgula 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2-Vurgula 3/Vurgula 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2-Vurgula 5/Vurgula 6</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Sütun</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Sütun</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Satır</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Parlak Stil</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta Stil</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilsiz, Izgara Yok</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Stili</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil Yok, Izgaralı</translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>1-</source>
-        <translation type="unfinished"></translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation type="unfinished"></translation>
+        <translation>2-</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı Sütunlar</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı Satırlar</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>En iyi Eşleşme</translation>
     </message>
     <message>
         <source>Built-in</source>
-        <translation type="unfinished"></translation>
+        <translation>Yerleşik</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2-Vurgula 1/Vurgula 2</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2-Vurgula 3/Vurgula 4</translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu Stil 2-Vurgula 5/Vurgula 6</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation type="unfinished"></translation>
+        <translation>Vurgula</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Sütun</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır ve İlk Sütun</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır ve Son Satır</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Sütun</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Satır</translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Parlak Stil</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta Stil</translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tema Stili</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Parlak</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Stilsiz, Izgara Yok</translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation type="unfinished"></translation>
+        <translation>Stil Yok. Izgaralı</translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı Sütunlar</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Bağlı Satırlar</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation type="unfinished"></translation>
+        <translation>En iyi Eşleşme</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Sütun</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır ve İlk Sütun</translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>İlk Satır ve Son Satır</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Sütun</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Son Satır</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Parlak</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>Orta</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Koyu</translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablo Stilini Temizle</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablo Stili Seçenekleri:</translation>
     </message>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablo Stili:</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Apply Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Tablo Stilini Uygula</translation>
     </message>
 </context>
 </TS>
