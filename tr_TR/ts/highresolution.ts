@@ -6,23 +6,23 @@
     <name>KxHrSelDialog</name>
     <message>
         <source>Ya Hei</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya Hei</translation>
     </message>
     <message>
         <source>Caption</source>
-        <translation type="unfinished"></translation>
+        <translation>Başlık</translation>
     </message>
     <message>
         <source>Choose high resolution setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Yüksek çözünürlük ayarını seç</translation>
     </message>
     <message>
         <source>Auto scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Otomatik  ölçekleme</translation>
     </message>
     <message>
         <source>Forbiden scaling</source>
-        <translation type="unfinished"></translation>
+        <translation>Yasaklı ölçekleme</translation>
     </message>
 </context>
 </TS>
