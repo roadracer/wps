@@ -31,7 +31,7 @@ set g_ui2ts_version=2
 
 @REM projects 需要产生ts文件的工程, ts文件名为工程名.ts
 set g_projs_path=%g_coding%\shell2
-set g_projs=kcomctl kxshare kole et wpp wps plugins\wpstablestyle plugins\ettablestyle plugins\khomepage plugins\ktreasurebox plugins\wpp2doc plugins\wpponlinetemplate plugins\officespace plugins\multiclipboard plugins\kscreengrab ..\support\ksomisc plugins\protecteyes plugins\kwpsassist plugins\wppencoder plugins\wpppresentationtool plugins\wpsspeaker plugins\launcher plugins\kfeedback plugins\shareplay
+set g_projs=kcomctl kxshare kole et wpp wps plugins\wpstablestyle plugins\ettablestyle plugins\khomepage plugins\ktreasurebox plugins\wpp2doc plugins\wpponlinetemplate plugins\multiclipboard plugins\kscreengrab ..\support\ksomisc plugins\kwpsassist plugins\wppencoder plugins\wpppresentationtool plugins\wpsspeaker plugins\launcher plugins\kfeedback plugins\highresolution plugins\kwpslive\kaccountsdk plugins\shareplay
 set g_core_projs_path=%g_coding%\include\kso\l10n
 set g_kde_projs_path=%g_coding%\office\kde\kde_coreapi
 set g_auth_projs_path=%g_coding%\shell2\auth
@@ -40,6 +40,8 @@ set q_qing_projs_path=%g_coding%\shell2\plugins\kwpslive\qing
 @REM tips
 set g_tips_path=%g_coding%\shell2\include\tips
 set g_tips=et wps wpp kso
+
+set g_plugin_paths=plugins\ktranslation plugins\officespace  plugins\highresolution
 
 @REM ts files
 @REM 重要：每个工程的ts文件生成qm文件的流程已经移到每个语言工程的cmakelist中，如有新加ts需要修改
