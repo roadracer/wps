@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>Text Tool</source>
-        <translation>Tekst - narzędzie</translation>
+        <translation>Narzędzia tekstu</translation>
     </message>
     <message>
         <source>Undo</source>

@@ -41,7 +41,7 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="3DOnOff.title">
         <source>3-D On/Off</source>
         <extracomment>3DOnOff.title</extracomment>
-        <translation>3-D Włącz/Wyłącz</translation>
+        <translation>Włącz/Wyłącz 3-D</translation>
     </message>
     <message id="3DOnOff.content">
         <source>Turn on or off the 3-D effect applied to the shape.</source>
@@ -296,7 +296,7 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="ExplorBackupDir.content">
         <source>View backup files and open or recover the backup files for a certain document.</source>
         <extracomment>ExplorBackupDir.content</extracomment>
-        <translation>Umożliwia wyświetlenie plików kopii zapasowej i otworcie lub odzyskanie plików kopii zapasowych dla niektórych dokumentów.</translation>
+        <translation>Umożliwia wyświetlenie plików kopii zapasowej i otwarcie lub odzyskanie plików kopii zapasowych dla niektórych dokumentów.</translation>
     </message>
     <message id="ExplorVersion.title">
         <source>View Backup History</source>
@@ -376,7 +376,7 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSCloudInformationTip.content">
         <source>How to use Office Space.</source>
         <extracomment>KOSCloudInformationTip.content</extracomment>
-        <translation>Jak korzystać z Przestrzeni biurowej.</translation>
+        <translation>Opisuje jak korzystać z pakietu Office.</translation>
     </message>
     <message id="KOSCreatecloudLinkTip.title">
         <source>It only taks seconds! You can:</source>
@@ -561,6 +561,7 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="PictureFill.title">
         <source>Picture Fill</source>
         <extracomment>PictureFill.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wypełnienie obrazem</translation>
     </message>
     <message id="PictureFill.content">
@@ -575,6 +576,7 @@ Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     <message id="PictureFill2.title">
         <source>Picture Fill</source>
         <extracomment>PictureFill2.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wypełnienie obrazem</translation>
     </message>
     <message id="PictureFill2.content">
@@ -633,12 +635,14 @@ Po kliknięciu jednego piksela w bieżącej grafice wszystkie piksele tego sameg
     <message id="PictureToolsDetailedSettings.title">
         <source>PictureToolsDetailedSettings Title</source>
         <extracomment>PictureToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi obrazów</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="PictureToolsDetailedSettings.content">
         <source>PictureToolsDetailedSettings Content</source>
         <extracomment>PictureToolsDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi obrazów</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="Print.title">
         <source>Print</source>
@@ -747,12 +751,14 @@ Kliknij strzałkę, aby wybrać inne kolory cienia.</translation>
     <message id="WordArtDetailedSettings.title">
         <source>WordArtDetailedSettings Title</source>
         <extracomment>WordArtDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe WordArt</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WordArtDetailedSettings.content">
         <source>WordArtDetailedSettings Content</source>
         <extracomment>WordArtDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień tekstu WordArt</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WordArtFill.title">
         <source>WordArt Fill</source>
@@ -895,12 +901,12 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="ExportToPDF.title">
         <source>Export to PDF</source>
         <extracomment>ExportToPDF.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message id="ExportToPDF.content">
         <source>Export the document to a PDF file.</source>
         <extracomment>ExportToPDF.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translation>Umożliwia wyeksportowanie dokumentu do pliku PDF.</translation>
     </message>
     <message id="DocerURLEntranceTip.title">
         <source></source>
@@ -910,6 +916,7 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="DocerURLEntranceTip.content">
         <source></source>
         <extracomment>DocerURLEntranceTip.content</extracomment>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Rozdziel komórki</translation>
     </message>
     <message id="Protect_Eyes.title">
@@ -953,338 +960,344 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="ClearFormats.title">
         <source>Clear Formatting</source>
         <extracomment>ClearFormats.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść formatowanie</translation>
     </message>
     <message id="ClearFormats.content">
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
         <extracomment>ClearFormats.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyczyszczenie całego formatowania w zaznaczeniu, co spowoduje pozostawienie tylko zwykłego tekstu.</translation>
     </message>
     <message id="ImagePreview.title">
         <source>Picture Preview</source>
         <extracomment>ImagePreview.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message id="ImagePreview.content">
         <source>View the selected picture in its original size or in window size.</source>
         <extracomment>ImagePreview.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyświetlenie wybranego obrazu w jego oryginalnym rozmiarze lub w obszarze rozmiaru okna.</translation>
     </message>
     <message id="DonateMoney.title">
         <source>Donate</source>
         <extracomment>DonateMoney.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Darowizna</translation>
     </message>
     <message id="DonateMoney.content">
         <source>Donate to WPS Office.</source>
         <extracomment>DonateMoney.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia przekazanie darowizny na wsparcie WPS Office.</translation>
     </message>
     <message id="QuickBarAddChartElement.title">
         <source>Chart Elements</source>
         <extracomment>QuickBarAddChartElement.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elementy wykresu</translation>
     </message>
     <message id="QuickBarAddChartElement.content">
         <source>Add,remove or change chart elements such as the title,legend,gridlines,and data labels.</source>
         <extracomment>QuickBarAddChartElement.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dodanie, usunięcie lub zmianę elementów wykresu, takich jak tytuł, legenda, linie siatki i etykiety danych.</translation>
     </message>
     <message id="QuickBarChartStyle.title">
         <source>Chart Styles</source>
         <extracomment>QuickBarChartStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Style wykresu</translation>
     </message>
     <message id="QuickBarChartStyle.content">
         <source>Set a Style and color scheme for your chart.</source>
         <extracomment>QuickBarChartStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia ustawienie stylu i schematu kolorów dla wykresu.</translation>
     </message>
     <message id="QuickBarChartFilters.title">
         <source>Chart Filters</source>
         <extracomment>QuickBarChartFilters.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Filtry wykresu</translation>
     </message>
     <message id="QuickBarChartFilters.content">
         <source>Edit what data points and names are visible on your chart.</source>
         <extracomment>QuickBarChartFilters.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia określenie, które punkty danych i nazwy będą widoczne na wykresie.</translation>
     </message>
     <message id="QuickBarFormatChartArea.title">
         <source>Format Chart Area</source>
         <extracomment>QuickBarFormatChartArea.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj obszar wykresu</translation>
     </message>
     <message id="QuickBarFormatChartArea.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
         <extracomment>QuickBarFormatChartArea.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyświetlenie okienka zadań Formatowanie w celu dostosowania formatowania wybranego elementu wykresu.</translation>
     </message>
     <message id="FormatObject.title">
         <source>Format Object</source>
         <extracomment>FormatObject.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj obiekt</translation>
     </message>
     <message id="FormatObject.content">
         <source>Use&apos;Format Object‘task pane to fine tune the appearance of your shape</source>
         <extracomment>FormatObject.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia użycie okienka zadań Formatowanie obiektu, aby dostosować wygląd kształtu</translation>
     </message>
     <message id="ShapeHeight.title">
         <source>Shape Height</source>
         <extracomment>ShapeHeight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość kształtu</translation>
     </message>
     <message id="ShapeHeight.content">
         <source>Change the height of the shape or picture.</source>
         <extracomment>ShapeHeight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę wysokości kształtu lub obrazu.</translation>
     </message>
     <message id="ShapeWidth.title">
         <source>Shape Width</source>
         <extracomment>ShapeWidth.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość kształtu</translation>
     </message>
     <message id="ShapeWidth.content">
         <source>Change the width of the shape or picture.</source>
         <extracomment>ShapeWidth.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę szerokości kształtu lub obrazu.</translation>
     </message>
     <message id="ShapeEffects.title">
         <source>Shape Effects</source>
         <extracomment>ShapeEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efekty kształtu</translation>
     </message>
     <message id="ShapeEffects.content">
         <source>Apply a visual effect to to the selected shape, such as shadow, glow, reflection, or 3-D rotation.</source>
         <extracomment>ShapeEffects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zastosowanie efektu wizualnego do klipu wideo, na przykład cienia, poświaty, odbicia lub obrotu 3-D.</translation>
     </message>
     <message id="TextFontOutline.title">
         <source>Text Outline</source>
         <extracomment>TextFontOutline.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kontury tekstu</translation>
     </message>
     <message id="TextFontOutline.content">
         <source>Customize the outline of your text by choosing the color, width and line style.</source>
         <extracomment>TextFontOutline.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dostosowanie koloru, szerokości i stylu linii dla konturów tekstu.</translation>
     </message>
     <message id="FontEffects.title">
         <source>Text Effects</source>
         <extracomment>FontEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efekty tekstowe</translation>
     </message>
     <message id="FontEffects.content">
         <source>Turn your work  into a work of art.
 
 add a visual effect such as shadow, glow or reflection to your text.</source>
         <extracomment>FontEffects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Pozwala uzyskać efektowny wygląd dokumentu.
+
+Umożliwia dodanie do tekstu efektu wizualnego, takiego jak cień, poświata lub odbicie.</translation>
     </message>
     <message id="PictureEffects.title">
         <source>Picture Effects</source>
         <extracomment>PictureEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efekty obrazu</translation>
     </message>
     <message id="PictureEffects.content">
         <source>Apply a visual effect to to the picture,such as shadow,glow, reflection, or 3-D rotation.</source>
         <extracomment>PictureEffects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zastosowanie efektu wizualnego do obrazu, np. cienia, poświaty, odbicia czy obrotu 3-D.</translation>
     </message>
     <message id="WordArtStyles.title">
         <source>Format Text Effects: Text Box</source>
         <extracomment>WordArtStyles.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj efekty tekstowe: pole tekstowe</translation>
     </message>
     <message id="WordArtStyles.content">
         <source>Show the Format Text Effects task pane to change text properties.</source>
         <extracomment>WordArtStyles.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia pokazanie okienka zadań Formatowanie efektów tekstowych w celu zmiany właściwości tekstu.</translation>
     </message>
     <message id="FormatObjectSize.title">
         <source>Size and Properties</source>
         <extracomment>FormatObjectSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar i właściwości</translation>
     </message>
     <message id="FormatObjectSize.content">
         <source>Show the Size and Properties dialog box in which you can specify the size and position of the object ans specify alternative text.</source>
         <extracomment>FormatObjectSize.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia pokazanie okna dialogowego Rozmiar i właściwości, w którym można określić rozmiar i położenie obiektu oraz tekst alternatywny.</translation>
     </message>
     <message id="Themes.title">
         <source>Themes</source>
         <extracomment>Themes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Motywy</translation>
     </message>
     <message id="Themes.content">
         <source>Change the overall design of your document by colors, fonts and effects.</source>
         <extracomment>Themes.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę ogólnego projektu całego dokumentu, w tym kolorów, czcionek i efektów.</translation>
     </message>
     <message id="Theme Colors.title">
         <source>Theme Colors</source>
         <extracomment>Theme Colors.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kolory motywu</translation>
     </message>
     <message id="Theme Colors.content">
         <source>Change the colors of current theme.</source>
         <extracomment>Theme Colors.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę kolorów bieżącego motywu.</translation>
     </message>
     <message id="Theme Fonts.title">
         <source>Theme Fonts</source>
         <extracomment>Theme Fonts.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Czcionki motywu</translation>
     </message>
     <message id="Theme Fonts.content">
         <source>Change the fonts of current theme.</source>
         <extracomment>Theme Fonts.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę czcionek bieżącego motywu.</translation>
     </message>
     <message id="Theme Effects.title">
         <source>Theme Effects</source>
         <extracomment>Theme Effects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efekty motywu</translation>
     </message>
     <message id="Theme Effects.content">
         <source>Change the effect of current Theme.</source>
         <extracomment>Theme Effects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę efektów bieżącego motywu.</translation>
     </message>
     <message id="EditShape.title">
         <source>Edit Shape</source>
         <extracomment>EditShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj kształt</translation>
     </message>
     <message id="EditShape.content">
         <source>Change the shape of this drawing, convert it to a freeform shape, or edit the wrap points to determine how text wraps around the drawing.</source>
         <extracomment>EditShape.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę kształtu tego rysunku, przekonwertowanie go na dowolny kształt lub edycję punktów zawijania określających sposób zawijania tekstu wokół rysunku.</translation>
     </message>
     <message id="ShapeFormatStyle.title">
         <source>Shape Styles</source>
         <extracomment>ShapeFormatStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Style kształtów</translation>
     </message>
     <message id="ShapeFormatStyle.content">
         <source>Apply different preset effect to the selected shape.</source>
         <extracomment>ShapeFormatStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zastosowanie do zaznaczonego kształtu różnych ustawień wstępnych efektu.</translation>
     </message>
     <message id="AddChartElements.title">
         <source>Chart Elements</source>
         <extracomment>AddChartElements.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elementy wykresu</translation>
     </message>
     <message id="AddChartElements.content">
         <source>Add chart elements such as the title,legend,gridlines,and data labels.</source>
         <extracomment>AddChartElements.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dodanie elementów wykresu, takich jak tytuł, legenda, linie siatki i etykiety danych.</translation>
     </message>
     <message id="SpeedLayout.title">
         <source>Quick Layout</source>
         <extracomment>SpeedLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szybki układ</translation>
     </message>
     <message id="SpeedLayout.content">
         <source>Change the overall layout of the chart.</source>
         <extracomment>SpeedLayout.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę ogólnego układu wykresu.</translation>
     </message>
     <message id="ChangeColor.title">
         <source>Chart Quick Colors</source>
         <extracomment>ChangeColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Szybkie kolory wykresu</translation>
     </message>
     <message id="ChangeColor.content">
         <source>Customize Color and Style</source>
         <extracomment>ChangeColor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dostosowanie koloru i stylu.</translation>
     </message>
     <message id="SwitchRowCol.title">
         <source>Switch Row/Column</source>
         <extracomment>SwitchRowCol.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Przełącz wiersz/kolumnę</translation>
     </message>
     <message id="SwitchRowCol.content">
         <source>Swap the data over the axis.
 
 Data being charted on the X axis will move to the Y axis and vice versa.</source>
         <extracomment>SwitchRowCol.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zamianę danych między osiami.
+
+Dane znajdujące się na osi X wykresu zostaną przeniesione na oś Y i odwrotnie.</translation>
     </message>
     <message id="ChooseDataSource.title">
         <source>Select Data</source>
         <extracomment>ChooseDataSource.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zaznacz dane</translation>
     </message>
     <message id="ChooseDataSource.content">
         <source>Change the data range included in the chart.</source>
         <extracomment>ChooseDataSource.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę zakresu danych zawartych w wykresie.</translation>
     </message>
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
         <extracomment>ChangeChartType.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Zmień typ wykresu</translation>
     </message>
     <message id="ChangeChartType.content">
         <source>Change to a different type of chart.</source>
         <extracomment>ChangeChartType.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę typu wykresu.</translation>
     </message>
     <message id="MoveChart.title">
         <source>Move Chart</source>
         <extracomment>MoveChart.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Przenieś wykres</translation>
     </message>
     <message id="MoveChart.content">
         <source>Move this chart to another sheet or tab in the workbook.</source>
         <extracomment>MoveChart.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia przeniesienie tego wykresu na inny arkusz lub inną kartę w skoroszycie.</translation>
     </message>
     <message id="ChartElements.title">
         <source>Chart Elements</source>
         <extracomment>ChartElements.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elementy wykresu</translation>
     </message>
     <message id="ChartElements.content">
         <source>Select a chart element so that you can format it.</source>
         <extracomment>ChartElements.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wybranie elementu wykresu w celu jego sformatowania.</translation>
     </message>
     <message id="ChartElementFormat.title">
         <source>Format</source>
         <extracomment>ChartElementFormat.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Format</translation>
     </message>
     <message id="ChartElementFormat.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
         <extracomment>ChartElementFormat.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyświetlenie okienka zadań Formatowanie w celu dostosowania formatowania wybranego elementu wykresu.</translation>
     </message>
     <message id="ResetToFitStyle.title">
         <source>Reset Style</source>
         <extracomment>ResetToFitStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj styl</translation>
     </message>
     <message id="ResetToFitStyle.content">
         <source>Clear the custom formatting of the selected chart element back to the overall visual style applied to the chart.
 
 The ensures that selected chart element matches the overall theme of the document.</source>
         <extracomment>ResetToFitStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyczyszczenie niestandardowego formatowania zaznaczonego elementu wykresu i przywrócenie ogólnego stylu graficznego, który został do niego zastosowany.
+
+Daje to pewność, że zaznaczony element wykresu będzie pasował do ogólnego motywu dokumentu.</translation>
     </message>
     <message id="ksoTextFill.title">
         <source>Text Fill</source>
         <extracomment>ksoTextFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie tekstu</translation>
     </message>
     <message id="ksoTextFill.content">
         <source>Fill the text with a solid color, gradient, picture, or texture.</source>
         <extracomment>ksoTextFill.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wypełnienie tekstu pełnym kolorem, gradientem, obrazem lub teksturą.</translation>
     </message>
 </context>
 </TS>

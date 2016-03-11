@@ -66,7 +66,7 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     </message>
     <message>
         <source>-day trial period is over.</source>
-        <translation>-dniowy okres próbny minął.</translation>
+        <translation> - dniowy okres próbny minął.</translation>
     </message>
     <message>
         <source>Become a VIP to continue using the function and enjoy more services!</source>
@@ -99,7 +99,7 @@ Czy na pewno chcesz zamknąć?</translation>
     <name>KxSpeakAbstractOutputCommand</name>
     <message>
         <source>WPS Audio</source>
-        <translation>WPS Audio</translation>
+        <translation>Audio WPS</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
@@ -439,7 +439,7 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>ustawienia głośników</translation>
+        <translation>Ustawienia głośników</translation>
     </message>
     <message>
         <source>Voice Properties</source>

@@ -41,15 +41,15 @@
     <name>KAccountSdkProxy</name>
     <message>
         <source>View On &amp;Website</source>
-        <translation type="unfinished">Wyświetl na witrynie sieci &amp;Web</translation>
+        <translation>Wyświetl na witrynie sieci &amp;Web</translation>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation type="unfinished">Szczegóły &amp;przeniesienia</translation>
+        <translation>Szczegóły &amp;przeniesienia</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished">&amp;Informacje o</translation>
+        <translation>&amp;Informacje</translation>
     </message>
 </context>
 <context>
@@ -274,7 +274,7 @@
     </message>
     <message>
         <source>Hide UI</source>
-        <translation>Ukryj IU</translation>
+        <translation>Ukryj UI</translation>
     </message>
     <message>
         <source>WebOffice</source>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>test any</source>
-        <translation>test dowolny</translation>
+        <translation>dowolny test</translation>
     </message>
     <message>
         <source>Login status:</source>
@@ -462,7 +462,7 @@
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Informacje o</translation>
+        <translation>&amp;Informacje</translation>
     </message>
     <message>
         <source>&amp;Sign Out</source>
@@ -506,19 +506,19 @@
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferowanie pliku &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Przełączenie użytkownika spowoduje przerwanie transferu.</translation>
     </message>
     <message>
         <source>Are you sure to switch user?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno chcesz przełączyć użytkownika?</translation>
     </message>
     <message>
         <source>&amp;Switch User</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przełącz użytkownika</translation>
     </message>
     <message>
         <source>Close the currently opened document before switch user</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij aktualnie otwarty dokument, przed przełączeniem użytkownika</translation>
     </message>
 </context>
 <context>
@@ -829,6 +829,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblLoginName</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>lblLoginName</translation>
     </message>
     <message>
@@ -837,6 +838,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblUploadingInfo</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>lblUploadingInfo</translation>
     </message>
     <message>
@@ -849,6 +851,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblDownloadingInfo</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>lblDownloadingInfo</translation>
     </message>
     <message>
@@ -861,6 +864,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblFinishedInfo</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>lblFinishedInfo</translation>
     </message>
     <message>
@@ -873,6 +877,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>lblErrorInfo</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>lblErrorInfo</translation>
     </message>
     <message>
@@ -969,11 +974,11 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation>&amp;Ustawienia serwera proxy</translation>
+        <translation>&amp;Ustawienie serwera proxy</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Informacje o</translation>
+        <translation>&amp;Informacje</translation>
     </message>
     <message>
         <source>A file is being uploaded on this page. Please try again later.</source>
@@ -1015,7 +1020,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation>Ustawienia serwera proxy</translation>
+        <translation>Ustawienie serwera proxy</translation>
     </message>
     <message>
         <source>PushButton</source>

@@ -20,11 +20,11 @@
     <name>KBevelModel</name>
     <message>
         <source>No Bevel</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez skosu</translation>
     </message>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"></translation>
+        <translation>Skos</translation>
     </message>
 </context>
 <context>
@@ -38,58 +38,60 @@
     <name>KCameraModel</name>
     <message>
         <source>No Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez obrotu</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>Równoległy</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspektywa</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"></translation>
+        <translation>Nachylony</translation>
     </message>
 </context>
 <context>
     <name>KColorCombobox</name>
     <message>
         <source>No Color</source>
-        <translation type="unfinished">Bez koloru</translation>
+        <translation>Bez koloru</translation>
     </message>
     <message>
         <source>&amp;Fill effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>Efekty &amp;wypełnienia...</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
-        <translation type="unfinished">Linie z &amp;deseniem...</translation>
+        <translation>Linie z &amp;deseniem...</translation>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished">Automatycznie</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Automatyczny</translation>
     </message>
     <message>
         <source>&amp;More Color...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Więcej kolorów...</translation>
     </message>
     <message>
         <source>Snapper Color(&amp;E)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - Pobranie koloru</translatorcomment>
+        <translation>&amp;Pipeta koloru</translation>
     </message>
     <message>
         <source>Recent Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnio używane kolory</translation>
     </message>
     <message>
         <source>Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolory motywu</translation>
     </message>
     <message>
         <source>Standard Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolory standardowe</translation>
     </message>
 </context>
 <context>
@@ -100,7 +102,7 @@
     </message>
     <message>
         <source>Automatic</source>
-        <translation>Automatycznie</translation>
+        <translation>Automatyczny</translation>
     </message>
     <message>
         <source>&amp;More Colors</source>
@@ -192,7 +194,7 @@
     </message>
     <message>
         <source>Lime</source>
-        <translation>Limonkowy</translation>
+        <translation>Limonowy</translation>
     </message>
     <message>
         <source>Sea Green</source>
@@ -228,7 +230,7 @@
     </message>
     <message>
         <source>Bright Green</source>
-        <translation>Jasnozielony</translation>
+        <translation>Intensywny zielony</translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -272,7 +274,7 @@
     </message>
     <message>
         <source>Lavender</source>
-        <translation>Liliowy</translation>
+        <translation>Lawendowy</translation>
     </message>
     <message>
         <source>White</source>
@@ -353,217 +355,218 @@
     <name>KFormatDoubleSpinBoxLineEdit</name>
     <message>
         <source>The Entry Must Be Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być dodatni</translation>
     </message>
     <message>
         <source>The Entry Cannot Contain Any Non-Digit Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis nie może zawierać znaków innych niż znaki numeryczne</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być mniejszy niż lub równy %1</translation>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być większy niż lub równy %1</translation>
     </message>
 </context>
 <context>
     <name>KFormatScrollBar</name>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń tutaj</translation>
     </message>
     <message>
         <source>Left edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewa krawędź</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Do góry</translation>
     </message>
     <message>
         <source>Right edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawa krawędź</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Do dołu</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona w lewo</translation>
     </message>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona w górę</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona w prawo</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona w dół</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń w lewo</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń w górę</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń w prawo</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"></translation>
+        <translation>Przewiń w dół</translation>
     </message>
 </context>
 <context>
     <name>KFormatSpinBoxLineEdit</name>
     <message>
         <source>The Entry Must Be Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być dodatni</translation>
     </message>
     <message>
         <source>The Entry Cannot Contain Any Non-Digit Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis nie może zawierać znaków innych niż znaki numeryczne</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być mniejszy niż lub równy %1</translation>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być większy niż lub równy %1</translation>
     </message>
 </context>
 <context>
     <name>KFormatStylesTitle</name>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Style kształtów</translation>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Style linii</translation>
     </message>
     <message>
         <source>Picture Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtry obrazu</translation>
     </message>
 </context>
 <context>
     <name>KFormatStylesWidget</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Styl</translation>
     </message>
 </context>
 <context>
     <name>KGalleryAbstractModel</name>
     <message>
         <source>No Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez ustawień wstępnych</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia wstępne</translation>
     </message>
     <message>
         <source>No Reflection</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez odbicia</translation>
     </message>
     <message>
         <source>Reflection Variations</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmiany odbicia</translation>
     </message>
     <message>
         <source>No Soft Edges</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez wygładzonych krawędzi</translation>
     </message>
     <message>
         <source>1 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>1 punkt</translation>
     </message>
     <message>
         <source>2.5 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>2,5 punktu</translation>
     </message>
     <message>
         <source>5 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>5 punktów</translation>
     </message>
     <message>
         <source>10 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>10 punktów</translation>
     </message>
     <message>
         <source>25 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>25 punktów</translation>
     </message>
     <message>
         <source>50 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>50 punktów</translation>
     </message>
     <message>
         <source>No Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez przekształcenia</translation>
     </message>
     <message>
         <source>Follow Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgodnie ze ścieżką</translation>
     </message>
     <message>
         <source>Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyginanie</translation>
     </message>
     <message>
         <source>No Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez poświaty</translation>
     </message>
     <message>
         <source>Glow Variations</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmiany poświaty</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez cienia</translation>
     </message>
     <message>
         <source>Outer</source>
-        <translation type="unfinished"></translation>
+        <translation>Zewnętrzny</translation>
     </message>
     <message>
         <source>Inner</source>
-        <translation type="unfinished"></translation>
+        <translation>Wewnętrzny</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Z perspektywą</translation>
     </message>
 </context>
 <context>
     <name>KLightingModel</name>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation>Neutralne</translation>
     </message>
     <message>
         <source>Warm Effect</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>dotyczy Oświetlenie</translatorcomment>
+        <translation>Ciepłe</translation>
     </message>
     <message>
         <source>Cool</source>
-        <translation type="unfinished"></translation>
+        <translation>Chłodne</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Specjalne</translation>
     </message>
 </context>
 <context>
@@ -628,15 +631,15 @@
     <name>KMaterialModel</name>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardowy</translation>
     </message>
     <message>
         <source>Special Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Efekt specjalny</translation>
     </message>
     <message>
         <source>Translucent</source>
-        <translation type="unfinished"></translation>
+        <translation>Półprzezroczysty</translation>
     </message>
 </context>
 <context>
@@ -683,31 +686,31 @@
     <name>KNoTabPageWidget</name>
     <message>
         <source>Last time encounter abnormal shutdown!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnim razem wystąpiło nieprawidłowe zamknięcie!</translation>
     </message>
     <message>
         <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
-        <translation type="unfinished"></translation>
+        <translation>Pakiet WPS będzie odzyskiwał pliki dla Ciebie, możesz odznaczyć pliki, które nie muszą być odzyskane</translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa pliku</translation>
     </message>
     <message>
         <source>Send error file to help WPS solve such issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij plik błędów, aby pomóc WPS rozwiązać takie problemy</translation>
     </message>
     <message>
         <source>Recover</source>
-        <translation type="unfinished"></translation>
+        <translation>Odzyskaj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Modified time: </source>
-        <translation type="unfinished"></translation>
+        <translation>Godzina modyfikacji: </translation>
     </message>
 </context>
 <context>
@@ -777,7 +780,7 @@
     </message>
     <message>
         <source>(Upgrading...)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Uaktualnianie...)</translation>
     </message>
 </context>
 <context>
@@ -842,7 +845,7 @@
     <name>KRbRecentFilePage</name>
     <message>
         <source>Unpinned from List</source>
-        <translation>Nieprzypięte z listy</translation>
+        <translation>Odepnij z listy</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
@@ -858,7 +861,7 @@
     </message>
     <message>
         <source>Recent Documents: </source>
-        <translation>Niedawno używane dokumenty: </translation>
+        <translation>Ostatnio używane dokumenty: </translation>
     </message>
     <message>
         <source>Open</source>
@@ -948,11 +951,11 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <name>KShapeLineGalleryItem</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez linii</translation>
     </message>
     <message>
         <source>Preset Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie linii</translation>
     </message>
 </context>
 <context>
@@ -966,29 +969,27 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <name>KTextureModel</name>
     <message>
         <source>Picture Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło zdjęcia</translation>
     </message>
     <message>
         <source>From &amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Z &amp;obrazu</translation>
     </message>
     <message>
         <source>From &amp;Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Z obrazu w trybie on&amp;line</translation>
     </message>
     <message>
         <source>Preset Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Tekstura wstępna</translation>
     </message>
 </context>
 <context>
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translation variants="yes">
-            <lengthvariant>KEtykietkaNarzędziaWidget</lengthvariant>
-            <lengthvariant>KToolTipWidget</lengthvariant>
-        </translation>
+        <translatorcomment>aaa upewnic się</translatorcomment>
+        <translation>Etykietka narzędzia widget</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -1129,7 +1130,7 @@ proszę ponownie zainstalować WPS Office!</translation>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation>Niektóre składniki nie są zainstalowane poprawnie.
+        <translation>Niektóre składniki nie zostały zainstalowane poprawnie.
 Proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
@@ -1148,34 +1149,34 @@ Proszę ponownie zainstalować WPS Office!</translation>
     <name>KxPrstFillModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez wypełnienia</translation>
     </message>
     <message>
         <source>Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolory motywu</translation>
     </message>
     <message>
         <source>Gradient Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie gradientowe</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient</translation>
     </message>
     <message>
         <source>Pattern Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie deseniem</translation>
     </message>
     <message>
         <source>texture Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie teksturą</translation>
     </message>
 </context>
 <context>
     <name>KxQtKeySequenceEdit</name>
     <message>
         <source>%1, ...</source>
-        <translation type="unfinished"></translation>
+        <translation>%1, ...</translation>
     </message>
 </context>
 <context>
@@ -1193,11 +1194,11 @@ Proszę ponownie zainstalować WPS Office!</translation>
     <name>QApplication</name>
     <message>
         <source>No Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez poświaty</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Poświata</translation>
     </message>
 </context>
 <context>
@@ -1316,39 +1317,39 @@ Proszę ponownie zainstalować WPS Office!</translation>
     <name>gradientStopsPanel</name>
     <message>
         <source>Add Gradient Aperture</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj przysłonę gradientu</translation>
     </message>
     <message>
         <source>Delete Gradient Aperture</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń przysłonę gradientu</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolor</translation>
     </message>
     <message>
         <source>P&amp;osition</source>
-        <translation type="unfinished"></translation>
+        <translation>P&amp;ołożenie</translation>
     </message>
     <message>
         <source>Enter  0% to 100% of the Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 0% do 100%</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished"></translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przezroczystość</translation>
     </message>
     <message>
         <source>&amp;Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Jasność</translation>
     </message>
     <message>
         <source>Enter -100% to 100% of the Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od -100% do 100%</translation>
     </message>
 </context>
 </TS>

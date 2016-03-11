@@ -49,27 +49,33 @@
     </message>
     <message>
         <source>ContentSlideType_Cover</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Okładka</translation>
     </message>
     <message>
         <source>ContentSlideType_Catalog</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Wykaz</translation>
     </message>
     <message>
         <source>ContentSlideType_Main</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Tekst podstawowy</translation>
     </message>
     <message>
         <source>ContentSlideType_Trans</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Przejście</translation>
     </message>
     <message>
         <source>ContentSlideType_Ending</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Kończenie</translation>
     </message>
     <message>
         <source>ContentSlideType_More</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Więcej</translation>
     </message>
 </context>
 <context>
@@ -156,15 +162,15 @@
     </message>
     <message>
         <source>apply</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj</translation>
     </message>
     <message>
         <source>template download success</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie szablonu powiodło się</translation>
     </message>
     <message>
         <source>template download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie szablonu nie powiodło się</translation>
     </message>
 </context>
 <context>
@@ -186,7 +192,7 @@
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
-        <translation>&amp;Zastosuj do wszystkich slajdów</translation>
+        <translation>Zastosuj do &amp;wszystkich slajdów</translation>
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>

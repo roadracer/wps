@@ -104,7 +104,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Zastosuj we &amp;wzorcu</translation>
+        <translation>&amp;Zastosuj we wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>&amp;Zastosuj do wybranych slajdów</translation>
+        <translation>Zastosuj do w&amp;ybranych slajdów</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation>Zamień &amp;wszystkie</translation>
+        <translation>Zamień &amp;wszystko</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation>Pokaż &amp;duże podglądy</translation>
+        <translation>&amp;Pokaż duże podglądy</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation>Zamień &amp;wszystkie</translation>
+        <translation>Zamień &amp;wszystko</translation>
     </message>
     <message>
         <source>Re&amp;place with:</source>
@@ -912,43 +912,43 @@
     </message>
     <message>
         <source>Dark1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny 1</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Jasny</translation>
+        <translation>Jasny</translation>
     </message>
     <message>
         <source>Dark2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny 2</translation>
     </message>
     <message>
         <source>Light2</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasny 2</translation>
     </message>
     <message>
         <source>Accent1</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 1</translation>
     </message>
     <message>
         <source>Accent2</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 2</translation>
     </message>
     <message>
         <source>Accent3</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 3</translation>
     </message>
     <message>
         <source>Accent4</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 4</translation>
     </message>
     <message>
         <source>Accent5</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 5</translation>
     </message>
     <message>
         <source>Accent6</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 6</translation>
     </message>
 </context>
 <context>
@@ -1212,23 +1212,23 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgCompatibilityChecker</name>
     <message>
         <source>Compatibility Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie zgodności</translation>
     </message>
     <message>
         <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniższe funkcje w tej prezentacji nie są obsługiwane przez wcześniejsze wersje programu WPS Presentation. Te funkcje mogą zostać utracone lub ograniczone w przypadku zapisania tej prezentacji we wcześniejszym formacie pliku. Kliknij przycisk Kontynuuj, aby mimo to zapisać prezentację. Aby zachować wszystkie funkcje, kliknij przycisk Anuluj, a następnie zapisz prezentację w jednym z nowych formatów plików.</translation>
     </message>
     <message>
         <source>Summary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Podsumowanie:</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished">&amp;Kontynuuj</translation>
+        <translation>&amp;Kontynuuj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1488,11 +1488,11 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translation>Ustaw jako domyślny (&amp;C)</translation>
+        <translation>Ustaw jako &amp;domyślny</translation>
     </message>
     <message>
         <source>Enter 0.1 cm to 5.079 cm of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 0,1 cm do 5,079 cm</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +1933,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
-        <translation>Pokaż menu przy kliknięciu prawym przyciskiem myszy (&amp;P)</translation>
+        <translation>&amp;Pokaż menu przy kliknięciu prawym przyciskiem myszy</translation>
     </message>
     <message>
         <source>&amp;entries</source>
@@ -1965,7 +1965,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
-        <translation>Szablony online (&amp;G)</translation>
+        <translation>Szablony &amp;online</translation>
     </message>
     <message>
         <source>&amp;Color/Grayscale:</source>
@@ -2041,7 +2041,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Pokaż minipasek narzędzi przy zaznaczaniu (&amp;M)</translation>
+        <translation>Pokaż &amp;minipasek narzędzi przy zaznaczaniu</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
@@ -2057,7 +2057,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation>Pokaż po jednym tygodniu (&amp;T)</translation>
+        <translation>Pokaż po jednym &amp;tygodniu</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
@@ -2101,15 +2101,15 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>Skróty</translation>
     </message>
     <message>
         <source>Custom Shortcuts:</source>
-        <translation type="unfinished"></translation>
+        <translation>Skróty niestandardowe:</translation>
     </message>
     <message>
         <source>&amp;Shortcuts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Skróty</translation>
     </message>
 </context>
 <context>
@@ -2263,7 +2263,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Enter 2.54 to 142.22 cm of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 2,54 do 142,22 cm</translation>
     </message>
 </context>
 <context>
@@ -2543,30 +2543,27 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgTrimMedia</name>
     <message>
         <source>Trim Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycinanie multimediów</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Etykieta tekstu</lengthvariant>
-            <lengthvariant>Etykieta tekstowa</lengthvariant>
-        </translation>
+        <translation>Etykieta tekstowa</translation>
     </message>
     <message>
         <source>&amp;Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas &amp;rozpoczęcia</translation>
     </message>
     <message>
         <source>&amp;End Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas &amp;zakończenia</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2937,31 +2934,31 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppScaleSlideMode</name>
     <message>
         <source>Scale Slide Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb skalowania slajdu</translation>
     </message>
     <message>
         <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeprowadzasz skalowanie do nowego rozmiaru slajdu. Czy chcesz zmaksymalizować rozmiar zawartości, czy przeskalować ją w celu zmniejszenia, tak aby zmieściła się na nowym slajdzie?</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalizuj</translation>
     </message>
     <message>
         <source>Ensure Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopasuj</translation>
     </message>
     <message>
         <source>&amp;Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Maksymalizuj</translation>
     </message>
     <message>
         <source>&amp;Ensure Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dopasuj</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Anuluj</translation>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3145,7 +3142,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>WPS Presentation has finished searching the document. The search item was not found.</source>
-        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu. Szukany element nie został znaleziony.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
@@ -3179,29 +3176,29 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxFormatOption_Background</name>
     <message>
         <source>BACKGROUND OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE TŁA</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty</name>
     <message>
         <source>TRANSFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>PRZEKSZTAŁCENIE</translation>
     </message>
     <message>
         <source>POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>POŁOŻENIE</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty_Background</name>
     <message>
         <source>FILL</source>
-        <translation type="unfinished"></translation>
+        <translation>WYPEŁNIENIE</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">Wypełnienie</translation>
+        <translation>Wypełnienie</translation>
     </message>
 </context>
 <context>
@@ -3248,58 +3245,58 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished">Wszystkie obrazy</translation>
+        <translation>Wszystkie obrazy</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzony Metaplik Windows</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaplik Windows</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany plików JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenośna grafika sieciowa PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa bitowa Windows</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany grafiki GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Znacznikowy format pliku obrazu TIF</translation>
     </message>
 </context>
 <context>
     <name>KxHexSpinBox</name>
     <message>
         <source>The Entry Must Be Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być dodatni</translation>
     </message>
     <message>
         <source>The Entry Cannot Contain Any Non-Digit Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis nie może zawierać znaków innych niż znaki numeryczne</translation>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być większy niż lub równy %1</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być mniejszy niż lub równy %1</translation>
     </message>
 </context>
 <context>
@@ -3366,7 +3363,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxKsoTableStyleItem</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw jako domyślną</translation>
     </message>
 </context>
 <context>
@@ -3431,7 +3428,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxNoneItem</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">Brak</translation>
+        <translation>Brak</translation>
     </message>
 </context>
 <context>
@@ -3588,11 +3585,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nazwa:</translation>
+        <translation>&amp;Nazwa:</translation>
     </message>
 </context>
 <context>
@@ -3768,7 +3765,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply a design template</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj szablon projektu</translation>
     </message>
 </context>
 <context>
@@ -3798,7 +3795,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply a design template</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj szablon projektu</translation>
     </message>
 </context>
 <context>
@@ -3869,7 +3866,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
-        <translation type="unfinished">Zastosuj do wybranych slajdów</translation>
+        <translation>Zastosuj do wybranych slajdów</translation>
     </message>
 </context>
 <context>
@@ -3902,15 +3899,15 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxTrimMediaDlg</name>
     <message>
         <source>Trim Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Przytnij film</translation>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Przytnij dźwięk</translation>
     </message>
     <message>
         <source>Duration : </source>
-        <translation type="unfinished"></translation>
+        <translation>Czas trwania : </translation>
     </message>
 </context>
 <context>
@@ -3956,7 +3953,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Wyśrodkuj</translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
@@ -4003,11 +4000,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
-        <translation>Hiperłącze do innych plików WPS Presentation</translation>
+        <translation>Hiperłącze do innych plików programu WPS Presentation</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
 </context>
 <context>
@@ -4037,50 +4034,50 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez obramowania</translation>
     </message>
 </context>
 <context>
     <name>KxWppBorderWidthItem</name>
     <message>
         <source>2.25</source>
-        <translation type="unfinished">2.25</translation>
+        <translation>2,25</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">pkt</translation>
+        <translation>pkt</translation>
     </message>
     <message>
         <source>0.25</source>
-        <translation type="unfinished">0.25</translation>
+        <translation>0,25</translation>
     </message>
     <message>
         <source>0.5</source>
-        <translation type="unfinished">0.5</translation>
+        <translation>0,5</translation>
     </message>
     <message>
         <source>0.75</source>
-        <translation type="unfinished">0.75</translation>
+        <translation>0,75</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished">1.5</translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4.5</source>
-        <translation type="unfinished">4.5</translation>
+        <translation>4,5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
 </context>
 <context>
@@ -4264,7 +4261,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppDesignItem</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Zastosuj we &amp;wzorcu</translation>
+        <translation>&amp;Zastosuj we wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
@@ -4314,21 +4311,21 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez koloru</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished">Bez wypełnienia</translation>
+        <translation>Bez wypełnienia</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontOutlineColorModel</name>
     <message>
         <source>No Outline</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez konturu</translation>
     </message>
 </context>
 <context>
@@ -4342,46 +4339,46 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppFormatGroupContent_Fill</name>
     <message>
         <source>Slide background fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie tłem slajdu</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Chart</name>
     <message>
         <source>CHART OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE WYKRESU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE TEKSTU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Shape</name>
     <message>
         <source>SHAPE OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE KSZTAŁTU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Text</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE TEKSTU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatProperty_FillAndLine</name>
     <message>
         <source>TEXT FILL</source>
-        <translation type="unfinished"></translation>
+        <translation>WYPEŁNIENIE TEKSTU</translation>
     </message>
     <message>
         <source>FILL</source>
-        <translation type="unfinished"></translation>
+        <translation>WYPEŁNIENIE</translation>
     </message>
 </context>
 <context>
@@ -4406,23 +4403,23 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppMediaBarWidget</name>
     <message>
         <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished">Przejdź do przodu o 0,25 sekundy</translation>
+        <translation>Przejdź do przodu o 0,25 sekundy</translation>
     </message>
     <message>
         <source>Move back 0.25 seconds</source>
-        <translation type="unfinished">Przejdź do tyłu o 0,25 sekundy</translation>
+        <translation>Przejdź do tyłu o 0,25 sekundy</translation>
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished">Odtwórz/Wstrzymaj</translation>
+        <translation>Odtwórz/Wstrzymaj</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">Głośność</translation>
+        <translation>Głośność</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished">Ustawienie</translation>
+        <translation>Ustawienie</translation>
     </message>
 </context>
 <context>
@@ -4476,78 +4473,79 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownik został uwierzytelniony do wyświetlania tego dokumentu jako:	</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień użytkownika...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masz następujące uprawnienia:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Widok</translation>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edytowanie</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Drukuj</translation>
+        <translation>Drukowanie</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzyskaj programowy dostęp do dokumentu</translation>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Pełna kontrola</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienie wygaśnie:</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/D)</translation>
     </message>
     <message>
         <source>Request additional permissions…</source>
-        <translation type="unfinished"></translation>
+        <translation>Zażądaj dodatkowych uprawnień...</translation>
     </message>
 </context>
 <context>
     <name>KxWppPlayerMediaBar</name>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished">Odtwórz/Wstrzymaj</translation>
+        <translation>Odtwórz/Wstrzymaj</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">Głośność</translation>
+        <translation>Głośność</translation>
     </message>
 </context>
 <context>
@@ -4601,7 +4599,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppPrstFillModel</name>
     <message>
         <source>Background Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie tła</translation>
     </message>
 </context>
 <context>
@@ -4655,39 +4653,40 @@ Czy na pewno zamknąć?</translation>
     <name>KxWppTpFormatting</name>
     <message>
         <source>Format Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj kształt</translation>
     </message>
     <message>
         <source>Format Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj obraz</translation>
     </message>
     <message>
         <source>Format Media</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>lub Formatuj nośnik</translatorcomment>
+        <translation>Formatuj multimedia</translation>
     </message>
     <message>
         <source>Format OleObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj obiekt OLE</translation>
     </message>
     <message>
         <source>Format ControlObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj sterowanie obiektu</translation>
     </message>
     <message>
         <source>Format Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj tło</translation>
     </message>
     <message>
         <source>Format Ink</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj pismo odręczne</translation>
     </message>
     <message>
         <source>Apply to all</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj do wszystkich</translation>
     </message>
     <message>
         <source>Reset Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj tło</translation>
     </message>
 </context>
 <context>
@@ -5337,17 +5336,15 @@ Czy na pewno zamknąć?</translation>
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation variants="yes">
-            <lengthvariant>Dialogitest</lengthvariant>
-            <lengthvariant>Dialogstest</lengthvariant>
-        </translation>
+        <translation>Dialogstest</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translatorcomment>Nazwa zakładki w oknie dialogowym &quot;Eksportuj do pliku PDF w programach Spreadsheet i Presentation. Nazwa &quot;Normal&quot; jest tutaj nieporawnie użyta przez producenta.</translatorcomment>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -5585,6 +5582,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>cmbBorderColor</translation>
     </message>
     <message>
@@ -5593,6 +5591,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>cmbBorderWidth</translation>
     </message>
     <message>
@@ -5601,14 +5600,17 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderUp</translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderMidHor</translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderUnder</translation>
     </message>
     <message>
@@ -5617,22 +5619,27 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderSlash</translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderLeft</translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderMidVer</translation>
     </message>
     <message>
         <source>btnBorderRight</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderRight</translation>
     </message>
     <message>
         <source>btnBorderBackSlash</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderBackSlash</translation>
     </message>
     <message>
@@ -5669,6 +5676,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>cbTextAlign</translation>
     </message>
     <message>
@@ -5705,7 +5713,8 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation>cbOrientation</translation>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
+        <translation>Orientacja</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
@@ -5729,103 +5738,103 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>&amp;Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wypełnienie</translation>
     </message>
     <message>
         <source>Solid fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie pełne</translation>
     </message>
     <message>
         <source>Gradient fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie gradientowe</translation>
     </message>
     <message>
         <source>Picture or texture fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie obrazem lub teksturą</translation>
     </message>
     <message>
         <source>Pattern fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie deseniem</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolor</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przezroczystość</translation>
     </message>
     <message>
         <source>Enter 0%  to 100% of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 0% do 100%</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Styl</translation>
     </message>
     <message>
         <source>Gradient Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient liniowy</translation>
     </message>
     <message>
         <source>Gradient Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient promieniowy</translation>
     </message>
     <message>
         <source>Gradient Rect</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient prostokątny</translation>
     </message>
     <message>
         <source>Gradient Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient ścieżki</translation>
     </message>
     <message>
         <source>&amp;Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ką&amp;t</translation>
     </message>
     <message>
         <source>Enter 0  to 359 Degrees of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 0 do 359 stopni</translation>
     </message>
     <message>
         <source>°</source>
-        <translation type="unfinished"></translation>
+        <translation>°</translation>
     </message>
     <message>
         <source>Gra&amp;dient stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopnie &amp;gradientu</translation>
     </message>
     <message>
         <source>Source From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło danych z pliku</translation>
     </message>
     <message>
         <source>&amp;File...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Plik...</translation>
     </message>
     <message>
         <source>Source From &amp;Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło danych z &amp;tekstury</translation>
     </message>
     <message>
         <source>&amp;Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deseń</translation>
     </message>
     <message>
         <source>Fore&amp;ground</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pierwszy plan</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tło</translation>
     </message>
     <message>
         <source>Enter 0cm to 55.88cm of the Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 0cm do 55,88cm</translation>
     </message>
 </context>
 <context>
@@ -5852,23 +5861,23 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>&amp;Current word:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Bieżący wyraz:</translation>
     </message>
     <message>
         <source>&amp;Language</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Język</translation>
     </message>
     <message>
         <source>&amp;Alternatives:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Alternatywy:</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="unfinished">&amp;Zamień</translation>
+        <translation>&amp;Zamień</translation>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -5913,35 +5922,36 @@ Czy na pewno zamknąć?</translation>
     <name>wppContentPosition</name>
     <message>
         <source>&amp;Horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie w &amp;poziomie</translation>
     </message>
     <message>
         <source>Enter -5963.92  to 5963.92 cm of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od -5963,92 do 5963,92cm</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;From</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Od</translation>
     </message>
     <message>
         <source>Top Left Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewy górny róg</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Wyśrodkuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Środek</translation>
     </message>
     <message>
         <source>&amp;Vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie w p&amp;ionie</translation>
     </message>
     <message>
         <source>F&amp;rom</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;d</translation>
     </message>
 </context>
 </TS>

@@ -177,7 +177,7 @@
     <message id="ArrangeAll.title">
         <source>Arrange All</source>
         <extracomment>ArrangeAll.title</extracomment>
-        <translation>Rozmieść wszystkie</translation>
+        <translation>Rozmieść wszystko</translation>
     </message>
     <message id="ArrangeAll.content">
         <source>Tile all opened documents side-by-side under the same program window.</source>
@@ -259,7 +259,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="Bullets2.title">
         <source>Bullets</source>
         <extracomment>Bullets2.title</extracomment>
-        <translation type="unfinished">Punktory</translation>
+        <translation>Punktory</translation>
     </message>
     <message id="Bullets2.content">
         <source>Click the arrow to select different bullet styles.</source>
@@ -623,12 +623,14 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_TableTools.title">
         <source>Table Tools Detailed Settings</source>
         <extracomment>DetailedSettings_TableTools.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi tabel</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DetailedSettings_TableTools.content">
         <source>DetailedSettings TableTools Content</source>
         <extracomment>DetailedSettings_TableTools.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi tabel</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
@@ -723,12 +725,14 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi do rysowania</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi do rysowania</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DropCap.title">
         <source>Drop Cap</source>
@@ -933,7 +937,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignCenter.title">
         <source>Center</source>
         <extracomment>FormatAlignCenter.title</extracomment>
-        <translation>Wyśrodkuj</translation>
+        <translation>Do środka</translation>
     </message>
     <message id="FormatAlignCenter.content">
         <source>Center text.</source>
@@ -1233,12 +1237,14 @@ Ta funkcja ułatwia sprawdzenie, czy część listu seryjnego zastała zastąpio
     <message id="HomeDetailedSettings.title">
         <source>Home Detailed Settings</source>
         <extracomment>HomeDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi głównych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi głównych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="IncreaseIndent.title">
         <source>Increase Indent</source>
@@ -1427,6 +1433,7 @@ Po zamknieciu programu WPS Spreadsheets, wykres w dokumencie można nadal normal
     <message id="InsertIndexTables.title">
         <source>Insert Table of Contents</source>
         <extracomment>InsertIndexTables.title</extracomment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Wstaw spis treści</translation>
     </message>
     <message id="InsertIndexTables.content">
@@ -1950,7 +1957,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
         <source>Numbering</source>
         <oldsource>Bullets</oldsource>
         <extracomment>Numbering2.title</extracomment>
-        <translation type="unfinished">Punktory</translation>
+        <translation>Numerowanie</translation>
     </message>
     <message id="Numbering2.content">
         <source>Start a numbered list.
@@ -1958,7 +1965,9 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
 Click the arrow to select different numbering formats.</source>
         <oldsource>Click the arrow to select different numbering formats.</oldsource>
         <extracomment>Numbering2.content</extracomment>
-        <translation type="unfinished">Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
+        <translation>Umożliwia rozpoczęcie listy numerowanej.
+
+Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
@@ -2023,12 +2032,14 @@ Click the arrow to select different numbering formats.</source>
     <message id="PageLayoutDetailedSettings.title">
         <source>Page Layout Detailed Settings</source>
         <extracomment>PageLayoutDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Układu strony</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="PageLayoutDetailedSettings.content">
         <source>PageLayoutDetailedSettings Content</source>
         <extracomment>PageLayoutDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Układu strony</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="PageNumber.title">
         <source>Insert Page Number</source>
@@ -2093,12 +2104,14 @@ Click the arrow to select different numbering formats.</source>
     <message id="ParagraphDetailedSettings.title">
         <source>Paragraph Detailed Settings</source>
         <extracomment>ParagraphDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Akapitu</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="ParagraphDetailedSettings.content">
         <source>ParagraphDetailedSettings Content</source>
         <extracomment>ParagraphDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Akapitu</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="PDFToWord.title">
         <source>Convert PDF to Word</source>
@@ -2429,7 +2442,7 @@ Kliknij strzałkę, aby wybrać inne kolory tła.</translation>
     <message id="RejectChangeOnTB.title">
         <source>Reject the selected change</source>
         <extracomment>RejectChangeOnTB.title</extracomment>
-        <translation>Odrzucić wybraną zmianę</translation>
+        <translation>Odrzuć wybraną zmianę</translation>
     </message>
     <message id="RejectChangeOnTB.content">
         <source>Reject the current change and delete the comment.</source>
@@ -2439,7 +2452,7 @@ Kliknij strzałkę, aby wybrać inne kolory tła.</translation>
     <message id="RejectChangeOnTB2.title">
         <source>Reject the selected change</source>
         <extracomment>RejectChangeOnTB2.title</extracomment>
-        <translation>Odrzucić wybraną zmianę</translation>
+        <translation>Odrzuć wybraną zmianę</translation>
     </message>
     <message id="RejectChangeOnTB2.content">
         <source>Click the arrow to reject all changes in the document.</source>
@@ -2454,7 +2467,7 @@ Kliknij strzałkę, aby wybrać inne kolory tła.</translation>
     <message id="RejectRevisionOnTB.content">
         <source>Reject the selected change in the document</source>
         <extracomment>RejectRevisionOnTB.content</extracomment>
-        <translation>Odrzucić wybraną zmianę w dokumencie</translation>
+        <translation>Umożliwia odrzucenie wybranej zmiany w dokumencie</translation>
     </message>
     <message id="RejectRevisionOnTB2.title">
         <source>Reject Change</source>
@@ -2573,12 +2586,14 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="SectionDetailedSettings.title">
         <source>Section Detailed Settings</source>
         <extracomment>SectionDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Sekcji</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="SectionDetailedSettings.content">
         <source>SectionDetailedSettings Content</source>
         <extracomment>SectionDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Sekcji</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="Security.title">
         <source>Macros Security</source>
@@ -2975,7 +2990,7 @@ Kliknij strzałkę, aby wybrać inne kolory obramowania.</translation>
     <message id="TableSelectMenu.title">
         <source>Select Table</source>
         <extracomment>TableSelectMenu.title</extracomment>
-        <translation>Wybierz tabelę</translation>
+        <translation>Zaznacz tabelę</translation>
     </message>
     <message id="TableSelectMenu.content">
         <source>Select the current cell, row, column, or entire table, and use dashed borders to select any table.</source>
@@ -3345,6 +3360,7 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="m_PageBorder.title">
         <source>Page Borders</source>
         <extracomment>m_PageBorder.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Obramowania stron</translation>
     </message>
     <message id="m_PageBorder.content">
@@ -3507,32 +3523,33 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="Thesaurus.title">
         <source>Thesaurus</source>
         <extracomment>Thesaurus.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message id="Thesaurus.content">
         <source>Open Thesaurus.</source>
         <extracomment>Thesaurus.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message id="InsertEnvelopes.title">
         <source>Create Envelopes</source>
         <extracomment>InsertEnvelopes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Utwórz koperty</translation>
     </message>
     <message id="InsertEnvelopes.content">
         <source>Create and print envelopes.</source>
         <extracomment>InsertEnvelopes.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia tworzenie i drukowanie kopert.</translation>
     </message>
     <message id="ShowHideEditMark.title">
         <source>Show/Hide Editing Marks</source>
         <extracomment>ShowHideEditMark.title</extracomment>
-        <translation type="unfinished">Pokaż/Ukryj znaczniki edycji</translation>
+        <translation>Pokaż/Ukryj znaczniki edycji</translation>
     </message>
     <message id="ShowHideEditMark.content">
         <source>Show or hide format marks and paragraph layout buttons in the document.</source>
         <extracomment>ShowHideEditMark.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia pokazanie lub ukrycie znaczników formatów i przycisków układu akapitu w dokumencie.</translation>
     </message>
     <message id="WrapText.title">
         <source></source>
@@ -3540,105 +3557,108 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     </message>
     <message id="WrapText.content">
         <source></source>
-        <translation type="unfinished">Rozdziel komórki</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message id="ContentControlRichText.title">
         <source>Rich Text Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie tekstu sformatowanego</translation>
     </message>
     <message id="ContentControlRichText.content">
         <source>Insert a rich text content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu tekst sformatowany.</translation>
     </message>
     <message id="ContentControlText.title">
         <source>Plain Text Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie tekstu zwykłego</translation>
     </message>
     <message id="ContentControlText.content">
         <source>Insert a plain text content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu zwykły tekst.</translation>
     </message>
     <message id="ContentControlPicture.title">
         <source>Picture Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie obrazu</translation>
     </message>
     <message id="ContentControlPicture.content">
         <source>Insert a picture content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości w formie obrazu.</translation>
     </message>
     <message id="ContentControlBuildingBlockGallery.title">
         <source>Building Block Gallery Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie galerii bloków konstrukcyjnych</translation>
     </message>
     <message id="ContentControlBuildingBlockGallery.content">
         <source>Insert a building block gallery content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości galerii bloków konstrukcyjnych.</translation>
     </message>
     <message id="ContentControlCheckBox.title">
         <source>Check Box Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości pola wyboru</translation>
     </message>
     <message id="ContentControlCheckBox.content">
         <source>Insert a check box content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu pole wyboru.</translation>
     </message>
     <message id="ContentControlComboBox.title">
         <source>Combo Box Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie pola kombi</translation>
     </message>
     <message id="ContentControlComboBox.content">
         <source>Insert a combo box content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu pole kombi.</translation>
     </message>
     <message id="ContentControlDropDownList.title">
         <source>Drop-Down List Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie listy rozwijanej</translation>
     </message>
     <message id="ContentControlDropDownList.content">
         <source>Insert a drop-down list content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu lista rozwijana.</translation>
     </message>
     <message id="ContentControlData.title">
         <source>Date Picker Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie selektora dat</translation>
     </message>
     <message id="ContentControlData.content">
         <source>Insert a date content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu zawartości typu data.</translation>
     </message>
     <message id="ContentControlRepeating.title">
         <source>Repeating Section Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Formant zawartości w formie sekcji powtarzającej się</translation>
     </message>
     <message id="ContentControlRepeating.content">
         <source>Insert a content control that contains other controls and repeats the contents of the control as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie kontrolki zawartości zawierającej inne kontrolki i w razie potrzeby powtórzenie zawartości kontrolki.</translation>
     </message>
     <message id="ControlsGalleryClassic.title">
         <source>Legacy Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Starsze narzędzia</translation>
     </message>
     <message id="ControlsGalleryClassic.content">
         <source>Insert an ActiveX control or form control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wstawienie formantu ActiveX lub formantu formularza.</translation>
     </message>
     <message id="ContentControlsGroupMenu.title">
         <source>Group or Ungroup Text Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Grupuj lub rozgrupuj zakres tekstu</translation>
     </message>
     <message id="ContentControlsGroupMenu.content">
         <source>Group or ungroup a selected range of text.
 
 When grouped, a text range cannot be edited, except in regions containing editable content controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia grupowanie lub rozgrupowanie zaznaczonego zakresu tekstu.
+
+Zgrupowanego zakresu tekstu nie można edytować, za wyjątkiem regionów zawierających formanty edytowalnej zawartości.</translation>
     </message>
     <message id="XmlMapping.title">
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Okienko mapowania XML</translation>
     </message>
     <message id="XmlMapping.content">
         <source>See the XML data stored in this document and create content controls that are linked to it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyświetlenie danych XML przechowywanych w tym dokumencie i utworzenie połączonych z nimi kontrolek zawartości.</translation>
     </message>
 </context>
 </TS>

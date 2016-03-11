@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>Show All</source>
-        <translation>Pokaż wszystkie</translation>
+        <translation>Pokaż wszystko</translation>
     </message>
     <message>
         <source>Preferences...</source>
@@ -85,7 +85,7 @@
     </message>
     <message>
         <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which just became available and has higher preference.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;Przełączanie do urządzenia odtwarzania audio &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;które właśnie stało się dostępne i ma wyższy priorytet.&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;Przełączanie do urządzenia odtwarzania audio &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;, które właśnie stało się dostępne i ma wyższy priorytet.&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Revert back to device &apos;%1&apos;</source>
@@ -93,7 +93,7 @@
     </message>
     <message>
         <source>&lt;html&gt;Switching to the audio playback device &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;which has higher preference or is specifically configured for this stream.&lt;/html&gt;</source>
-        <translation>&lt;html&gt;Przełączanie do urządzenia audio &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;które ma wyższy priorytet lub jest specjalnie skonfigurowane dla tego strumienia.&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;Przełączanie do urządzenia audio &lt;b&gt;%1&lt;/b&gt;&lt;br/&gt;, które ma wyższy priorytet lub jest specjalnie skonfigurowane dla tego strumienia.&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -2381,7 +2381,7 @@ na
     </message>
     <message>
         <source>Save All</source>
-        <translation>Zapisz wszystkie</translation>
+        <translation>Zapisz wszystko</translation>
     </message>
     <message>
         <source>&amp;Yes</source>
@@ -7634,7 +7634,7 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Wyśrodkuj</translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>Justify</source>

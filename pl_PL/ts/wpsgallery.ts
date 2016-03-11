@@ -5,11 +5,11 @@
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation>galeria</translation>
+        <translation>Galeria</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation>kształt</translation>
+        <translation>Kształt</translation>
     </message>
 </context>
 <context>
@@ -60,7 +60,7 @@
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation>Edytuj galerię</translation>
+        <translation>Edytowanie galerii</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>

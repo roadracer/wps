@@ -35,7 +35,7 @@
     <message>
         <source>Prompt</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation>Monituj</translation>
+        <translation>Podpowiedź</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
@@ -114,7 +114,8 @@ developer -&gt; Macros -&gt; delete
 Theoretically, will not displayed any where.
 ----------
 developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&gt; Create</extracomment>
-        <translation>Monituj</translation>
+        <translatorcomment>Monit</translatorcomment>
+        <translation>Podpowiedź</translation>
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
@@ -147,7 +148,7 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>&quot;%1&quot; contains macros.</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation>&quot;%1&quot; zawiera makra.</translation>
+        <translation>Plik &quot;%1&quot; zawiera makra.</translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>

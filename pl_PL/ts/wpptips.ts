@@ -97,7 +97,7 @@
     <message id="ArrangeAll.title">
         <source>Arrange All</source>
         <extracomment>ArrangeAll.title</extracomment>
-        <translation>Rozmieść wszystkie</translation>
+        <translation>Rozmieść wszystko</translation>
     </message>
     <message id="ArrangeAll.content">
         <source>Tile all open documents side-by-side under the same program window.</source>
@@ -445,12 +445,14 @@ Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi do rysowania</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi do rysowania</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DuplicateSlide.title">
         <source>New copy of slide</source>
@@ -465,7 +467,7 @@ Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     <message id="DynamicShape.title">
         <source>Insert Shapes</source>
         <extracomment>DynamicShape.title</extracomment>
-        <translation>Wstawianie kształtów</translation>
+        <translation>Wstaw kształty</translation>
     </message>
     <message id="DynamicShape.content">
         <source>Insert ready-made shapes, such as rectangles and circles, arrows, lines, flowchart symbols and callouts.</source>
@@ -667,12 +669,14 @@ Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     <message id="HomeDetailedSettings.title">
         <source>Home Detailed Settings</source>
         <extracomment>HomeDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi głównych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi głównych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
@@ -1033,7 +1037,9 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
 Click the arrow to select different numbering formats.</source>
         <oldsource>Click the arrow to select different numbering formats.</oldsource>
         <extracomment>Numbering2.content</extracomment>
-        <translation type="unfinished">Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
+        <translation>Umożliwia numerowanie zaznaczonych akapitów.
+
+Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
@@ -1158,7 +1164,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevLandscape.title">
         <source>Landscape</source>
         <extracomment>PrevLandscape.title</extracomment>
-        <translation>Pozioma</translation>
+        <translation>Poziomo</translation>
     </message>
     <message id="PrevLandscape.content">
         <source>Set the page layout to landscape in the printing of handouts, notes pages and outline.</source>
@@ -1178,7 +1184,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation>Pionowa</translation>
+        <translation>Pionowo</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the page layout to portrait in the printing of handouts, notes pages and outline.</source>
@@ -1758,7 +1764,7 @@ Jeśli chcesz robić notatki bez wychodzenia z pokazu slajdów, kliknij prawym p
     <message id="TableCenter.title">
         <source>Center</source>
         <extracomment>TableCenter.title</extracomment>
-        <translation>Wyśrodkuj</translation>
+        <translation>Do środka</translation>
     </message>
     <message id="TableCenter.content">
         <source>Center text.</source>
@@ -1867,7 +1873,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="TextMargin.content">
         <source>Specify the margins for the selected cells.</source>
         <extracomment>TextMargin.content</extracomment>
-        <translation>ożliwia określenie marginesów dla zaznaczonych komórek.</translation>
+        <translation>Umożliwia określenie marginesów dla zaznaczonych komórek.</translation>
     </message>
     <message id="TraditionalChinese.title">
         <source>Traditional</source>
@@ -2127,7 +2133,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="cellphoneControl.content">
         <source>Cellphone Control</source>
         <extracomment>cellphoneControl.content</extracomment>
-        <translation>Kontrola telefonu komórkowego</translation>
+        <translation>Umożliwia kontrolę telefonu komórkowego.</translation>
     </message>
     <message id="SlideSize.title">
         <source></source>
@@ -2192,12 +2198,12 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="presentationTool.title">
         <source>Presentation Tool</source>
         <extracomment>presentationTool.title</extracomment>
-        <translation>Narzędzie prezentacji</translation>
+        <translation>Narzędzia prezentacji</translation>
     </message>
     <message id="presentationTool.content">
         <source>Convenient and quick helper for your presentation</source>
         <extracomment>presentationTool.content</extracomment>
-        <translation>Umożliwia wygodne i szybkie uzyskanie pomocy dla prezentacji</translation>
+        <translation>Umożliwia wyświetlenie wygodnego i szybkiego pomocnika dla prezentacji.</translation>
     </message>
     <message id="Export to Video">
         <source>Export to Video</source>
@@ -2252,87 +2258,90 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="Thesaurus.title">
         <source>Thesaurus</source>
         <extracomment>Thesaurus.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message id="Thesaurus.content">
         <source>Open Thesaurus.</source>
         <extracomment>Thesaurus.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message id="ResetSlide.title">
         <source>Reset Slide</source>
         <extracomment>ResetSlide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj slajd</translation>
     </message>
     <message id="ResetSlide.content">
         <source>Reset the size, position and format of the presentation&apos;s placeholders to defaults.</source>
         <extracomment>ResetSlide.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia resetowanie rozmiaru, położenia i formatu symboli zastępczych prezentacji do ustawień domyślnych.</translation>
     </message>
     <message id="ThemeColors.title">
         <source>Color Scheme</source>
         <extracomment>ThemeColors.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>aaa</translatorcomment>
+        <translation>Schemat kolorów</translation>
     </message>
     <message id="ThemeColors.content">
         <source>Change the color scheme of the presentation.</source>
         <extracomment>ThemeColors.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę schematu kolorów prezentacji.</translation>
     </message>
     <message id="ExportToVideo.title">
         <source>Export to Video</source>
         <extracomment>ExportToVideo.title</extracomment>
-        <translation type="unfinished">Eksportuj do wideo</translation>
+        <translation>Eksportuj do wideo</translation>
     </message>
     <message id="SlideLayouts.title">
         <source>Slide Layout.</source>
         <extracomment>SlideLayouts.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Układ slajdu</translation>
     </message>
     <message id="SlideLayouts.content">
         <source>Seting up various layouts for selected slides.</source>
         <extracomment>SlideLayouts.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia konfigurowanie różnych układów dla wybranych slajdów.</translation>
     </message>
     <message id="ReadingView.title">
         <source>ReadingView View</source>
         <extracomment>ReadingView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Widok do czytania</translation>
     </message>
     <message id="ReadingView.content">
         <source>Play a slide show in the Powerpoint window to view the animation and switch effect, and no need to switch to full screen slide show.</source>
         <extracomment>ReadingView.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia odtworzenie pokazu slajdów w oknie programu Presentation w celu wyświetlenia animacji i efektu przejścia bez przełączania się do pełnoekranowego pokazu slajdów.</translation>
     </message>
     <message id="NotesPageView.title">
         <source>NotesPage View</source>
         <extracomment>NotesPageView.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Widok strony notatek</translation>
     </message>
     <message id="NotesPageView.content">
         <source>Check the appearance of your presentation and the notes page. Each page will include a slide and speaker notes, you can edit in this view.</source>
         <extracomment>NotesPageView.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia sprawdzenie wyglądu prezentacji i strony notatek. Każda strona będzie zawierała slajd i notatki prelegenta, które można edytować w tym widoku.</translation>
     </message>
     <message id="NotesMaster.title">
         <source>NotesMaster View</source>
         <extracomment>NotesMaster.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Widok wzorca notatek</translation>
     </message>
     <message id="NotesMaster.content">
         <source>The appearance of a custom presentation for the printed notes. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
         <extracomment>NotesMaster.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dostosowanie wyglądu prezentacji w razie drukowania jej z notatkami. Możesz wybrać projekt i układ strony notatek, taki jak formatowanie tła i miejsca, w których będą się pojawiać nagłówki/stopki. Możesz także wybrać opcje ustawień strony.</translation>
     </message>
     <message id="HandoutMaster.title">
         <source>HandoutMaster View</source>
         <extracomment>HandoutMaster.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Widok wzorca materiałów informacyjnych</translation>
     </message>
     <message id="HandoutMaster.content">
         <source>Customize the appearance of the presentation and notes together with the print. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
         <extracomment>HandoutMaster.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dostosowanie wyglądu prezentacji i notatek w razie drukowania ich razem. Możesz wybrać projekt i układ strony notatek, taki jak formatowanie tła i miejsca, w których będą się pojawiać nagłówki/stopki. Możesz także wybrać opcje ustawień strony.</translation>
     </message>
     <message id="HeaderPlaceHolder.title">
         <source></source>
@@ -2342,7 +2351,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="HeaderPlaceHolder.content">
         <source>Include the header in the printed handouts or notes.</source>
         <extracomment>HeaderPlaceHolder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dołączenie nagłówka do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message id="DataPlaceHolder.title">
         <source></source>
@@ -2352,7 +2361,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="DataPlaceHolder.content">
         <source>Include the date in the printed handouts or notes.</source>
         <extracomment>DataPlaceHolder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dołączenie daty do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message id="FooterPlaceHolder.title">
         <source></source>
@@ -2362,37 +2371,38 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FooterPlaceHolder.content">
         <source>Include the footer in the printed handouts or notes.</source>
         <extracomment>FooterPlaceHolder.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dołączenie stopki do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message id="PageNumber.title">
         <source></source>
         <extracomment>PageNumber.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Rozdziel komórki</translation>
     </message>
     <message id="PageNumber.content">
         <source>Include the page number in the printed handouts or notes.</source>
         <extracomment>PageNumber.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dołączenie numeru strony do drukowanych materiałów informacyjnych lub notatek.</translation>
     </message>
     <message id="SlideImage.title">
         <source>NotesPage View</source>
         <extracomment>SlideImage.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Widok strony notatek</translation>
     </message>
     <message id="SlideImage.content">
         <source>Include a picture of the slide on the notes page.</source>
         <extracomment>SlideImage.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dołączenie obrazu slajdu do strony notatek.</translation>
     </message>
     <message id="BodyContent.title">
         <source>NotesPage View</source>
         <extracomment>BodyContent.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Widok strony notatek</translation>
     </message>
     <message id="BodyContent.content">
         <source>Include a separate box with the slide text on the notes page.</source>
         <extracomment>BodyContent.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia dołączenie oddzielnego pola z tekstem slajdu do strony notatek.</translation>
     </message>
 </context>
 </TS>

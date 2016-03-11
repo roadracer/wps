@@ -121,11 +121,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Pin to tas&amp;kbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przypnij do paska zadań</translation>
     </message>
     <message>
         <source>Unpin from tas&amp;kbar</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Odepnij od paska zadań</translation>
     </message>
 </context>
 <context>
@@ -204,7 +204,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Link to network to update WPS Office</source>
-        <translation>Połącz z siecią, aby aktualizować WPS Office</translation>
+        <translation>Połącz z siecią, aby zaktualizować WPS Office</translation>
     </message>
     <message>
         <source>Repair.lnk</source>
@@ -332,11 +332,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Repair WPS Update Service</source>
-        <translation type="unfinished"></translation>
+        <translation>Naprawa Usługi WPS Update</translation>
     </message>
     <message>
         <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Do naprawy &quot;Usługi WPS Update&quot; są wymagane uprawnienia administratora. Proszę użyj konta administratora do ponownego uruchomienia &quot;Narzędzia konfiguracji&quot;.</translation>
     </message>
 </context>
 <context>
@@ -570,19 +570,19 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>Portable Document &amp;Format(*.pdf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Portable Document &amp;Format (*.pdf)</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Writer zapisze nowe dokumenty w domyślnym formacie *.&amp;docx</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Spreadsheets zapisze nowe dokumenty w domyślnym formacie *.&amp;xlsx</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Program WPS Presentation zapisze nowe dokumenty w domyślnym formacie *.pp&amp;tx</translation>
     </message>
 </context>
 <context>
@@ -597,7 +597,7 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     </message>
     <message>
         <source>Unlock the website navigation page(&amp;R)</source>
-        <translation>Odblokuj stronę nawigacji witryny sieci Web (&amp;R)</translation>
+        <translation>&amp;Odblokuj stronę nawigacji witryny sieci Web</translation>
     </message>
     <message>
         <source>Unlock completed</source>
@@ -614,7 +614,7 @@ Zauważ, że w ten sposób narażasz się na ryzyko zainfekowania wirusem i wła
     </message>
     <message>
         <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
-        <translation>WPS Office jest darmowym oprogramowaniem. Twoje wsparcie jest niezbędne do jego poprawy.</translation>
+        <translation>WPS Office jest darmowym oprogramowaniem. Twoje wsparcie jest niezbędne do jego ulepszenia.</translation>
     </message>
 </context>
 <context>
@@ -1242,7 +1242,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>WPS PDF Document</source>
-        <translation type="unfinished"></translation>
+        <translation>Dokument PDF</translation>
     </message>
 </context>
 <context>
@@ -1308,7 +1308,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
-        <translation>Uzyskaj najnowsze informacje o produkcie podczas aktualizacji (&amp;K)</translation>
+        <translation>Uzyskaj najnowsze &amp;informacje o produkcie podczas aktualizacji</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>

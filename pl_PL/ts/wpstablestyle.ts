@@ -83,7 +83,7 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation>Brak stylu, bez siatki</translation>
+        <translation>Bez stylu, bez siatki</translation>
     </message>
     <message>
         <source>Theme Style</source>
@@ -199,7 +199,7 @@
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation>Brak stylu, bez siatki</translation>
+        <translation>Bez stylu, bez siatki</translation>
     </message>
     <message>
         <source>Theme Style</source>

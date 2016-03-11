@@ -6,6 +6,7 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>KLauncherWidget</translation>
     </message>
     <message>

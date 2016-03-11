@@ -31,7 +31,7 @@ Można też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.</
     <message id="AlignCenter.title">
         <source>Center</source>
         <extracomment>AlignCenter.title</extracomment>
-        <translation>Wyśrodkuj</translation>
+        <translation>Do środka</translation>
     </message>
     <message id="AlignCenter.content">
         <source>Center text.</source>
@@ -285,7 +285,7 @@ Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią k
     <message id="ClearFilter.title">
         <source>Show All</source>
         <extracomment>ClearFilter.title</extracomment>
-        <translation>Pokaż wszystkie</translation>
+        <translation>Pokaż wszystko</translation>
     </message>
     <message id="ClearFilter.content">
         <source>Clear the filter and sort state for the current range of data.</source>
@@ -300,7 +300,7 @@ Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią k
     <message id="ColumnsCenter.content">
         <source>Select continuous cells in one row or multiple rows, set the content of the cells to the center.</source>
         <extracomment>ColumnsCenter.content</extracomment>
-        <translation>Wybierz ciągłe komórki w jednym wierszu lub wiele wierszy i ustaw zawartość komórek do środka.</translation>
+        <translation>Umożliwia wybranie ciągłych komórek w jednym wierszu lub wiele wierszy i ustawić zawartość komórek do środka.</translation>
     </message>
     <message id="ComAddin.title">
         <source>COM Add-Ins</source>
@@ -310,7 +310,7 @@ Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią k
     <message id="ComAddin.content">
         <source>Add or delete the available COM Add-Ins.</source>
         <extracomment>ComAddin.content</extracomment>
-        <translation>Dodaj lub usuń dostępne Dodatki COM.</translation>
+        <translation>Umożliwia dodanie lub usunięcie dostępnych dodatków COM.</translation>
     </message>
     <message id="CommaStyle.title">
         <source>Comma Style</source>
@@ -345,7 +345,7 @@ Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią k
     <message id="Consolidate.title">
         <source>Consolidate</source>
         <extracomment>Consolidate.title</extracomment>
-        <translation>Konsolidowanie</translation>
+        <translation>Konsoliduj</translation>
     </message>
     <message id="Consolidate.content">
         <source>Combine values from multiple ranges into one new range.</source>
@@ -360,7 +360,7 @@ Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią k
     <message id="Count.content">
         <source>Count the number of cells in a column that contain numbers.</source>
         <extracomment>Count.content</extracomment>
-        <translation>Zlicza liczbę komórek w kolumnie, które zawierają liczby.</translation>
+        <translation>Umożliwia zliczanie komórek w kolumnie, które zawierają liczby.</translation>
     </message>
     <message id="Currency.title">
         <source>Currency</source>
@@ -379,12 +379,14 @@ Przykładowo można wybrać euro zamiast dolarów.</translation>
     <message id="DataDetailedSettings.title">
         <source>Data Detailed Settings</source>
         <extracomment>DataDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Danych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DataDetailedSettings.content">
         <source>DataDetailedSettings Content</source>
         <extracomment>DataDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Danych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DataGroup.title">
         <source>Group</source>
@@ -554,7 +556,7 @@ Przykładowo można wybrać euro zamiast dolarów.</translation>
     <message id="DevelopmentTools.content">
         <source>DevelopmentTools Content</source>
         <extracomment>DevelopmentTools.content</extracomment>
-        <translation>Zawartość Narzędzi programistycznych</translation>
+        <translation>Umożliwia wyświetlenie Narzędzi programistycznych</translation>
     </message>
     <message id="Direction.title">
         <source>Direction</source>
@@ -629,12 +631,14 @@ Naciśnij klawisz Esc na klawiaturze lub kliknij tutaj ponownie, aby wyjść z t
     <message id="DrawingToolsDetailedSettings.title">
         <source>Drawing Tools Detailed Settings</source>
         <extracomment>DrawingToolsDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi do rysowania</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DrawingToolsDetailedSettings.content">
         <source>DrawingToolsDetailedSettings Content</source>
         <extracomment>DrawingToolsDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi do rysowania</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="Duplicates.title">
         <source>Duplicates</source>
@@ -653,7 +657,7 @@ Można określić, w których kolumnach mają być wyszukiwane zduplikowane info
     <message id="DynamicShape.title">
         <source>Insert Shapes</source>
         <extracomment>DynamicShape.title</extracomment>
-        <translation>Wstawianie kształtów</translation>
+        <translation>Wstaw kształty</translation>
     </message>
     <message id="DynamicShape.content">
         <source>Insert ready-made shapes, such as lines, rectangles, flowchart symbols and callouts.</source>
@@ -860,13 +864,13 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <source>Font Settings</source>
         <oldsource>Format Cells: Font</oldsource>
         <extracomment>FontFormatCells.title</extracomment>
-        <translation type="unfinished">Formatuj komórki: czcionka</translation>
+        <translation>Ustawienia czcionek</translation>
     </message>
     <message id="FontFormatCells.content">
         <source>Show the Font dialog box.</source>
         <oldsource>Show the Font tab of the Format Cells dialog box.</oldsource>
         <extracomment>FontFormatCells.content</extracomment>
-        <translation type="unfinished">Umożliwia pokazanie karty Czcionka w oknie dialogowym Formatowanie komórek.</translation>
+        <translation>Umożliwia pokazanie okna dialogowego Czcionka.</translation>
     </message>
     <message id="FormatChartObject.title">
         <source>Format Selection</source>
@@ -1023,12 +1027,14 @@ Informacje z nagłówka lub stopki będą widoczne odpowiednio na górze i na do
     <message id="HomeDetailedSettings.title">
         <source>Home Detailed Settings</source>
         <extracomment>HomeDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Narzędzi głównych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="HomeDetailedSettings.content">
         <source>HomeDetailedSettings Content</source>
         <extracomment>HomeDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Narzędzi głównych</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="Hyperlink.title">
         <source>Insert Hyperlink</source>
@@ -1183,7 +1189,7 @@ Podziały stron są wstawiane powyżej zaznaczenia i po jego lewej stronie.</tra
         <source>Add Some artistic flair to your document useing a WordArt text box.</source>
         <oldsource>Show the WordArt Gallery dialog box to select a WordArt style and edit content.</oldsource>
         <extracomment>InsertWordArt.content</extracomment>
-        <translation type="unfinished">Umożliwia wyświetlenie okna dialogowego Galeria WordArt, aby wybrać styl WordArt i edytować zawartość.</translation>
+        <translation>Umożliwia nadanie dokumentowi artystycznego efektu przy użyciu pola tekstowego WordArt.</translation>
     </message>
     <message id="LeftBorder.title">
         <source>Left Border</source>
@@ -1338,11 +1344,13 @@ Podziały stron są wstawiane powyżej zaznaczenia i po jego lewej stronie.</tra
     <message id="MergeCancel.title">
         <source></source>
         <extracomment>MergeCancel.title</extracomment>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Rozdziel komórki</translation>
     </message>
     <message id="MergeCancel.content">
         <source></source>
         <extracomment>MergeCancel.content</extracomment>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Umożliwia podzielenie bieżącej komórki na wiele komórek.</translation>
     </message>
     <message id="Min.title">
@@ -1622,12 +1630,14 @@ Lista pól umożliwia dodawanie i usuwanie pól.</translation>
     <message id="PageLayoutDetailedSettings.title">
         <source>Page Layout Detailed Settings</source>
         <extracomment>PageLayoutDetailedSettings.title</extracomment>
-        <translation>Ustawienia szczegółowe Układu strony</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="PageLayoutDetailedSettings.content">
         <source>PageLayoutDetailedSettings Content</source>
         <extracomment>PageLayoutDetailedSettings.content</extracomment>
-        <translation>Umożliwia dokonanie szczegółowych ustawień Układu strony</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
+        <translation></translation>
     </message>
     <message id="PageOrientation.title">
         <source>Page Orientation</source>
@@ -1720,7 +1730,7 @@ Tabele przestawne ułatwiają rozmieszczanie i podsumowywanie skomplikowanych da
     <message id="PrevLandscape.title">
         <source>Landscape</source>
         <extracomment>PrevLandscape.title</extracomment>
-        <translation>Pozioma</translation>
+        <translation>Poziomo</translation>
     </message>
     <message id="PrevLandscape.content">
         <source>Set the worksheet pages to landscape.</source>
@@ -1740,7 +1750,7 @@ Tabele przestawne ułatwiają rozmieszczanie i podsumowywanie skomplikowanych da
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation>Pionowa</translation>
+        <translation>Pionowo</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the worksheet pages to portrait.</source>
@@ -1972,7 +1982,7 @@ Jest to konieczne tylko w przypadku wyłączenia obliczania automatycznego.</tra
     <message id="RecenttlyUsed.title">
         <source>Recently Used</source>
         <extracomment>RecenttlyUsed.title</extracomment>
-        <translation>Ostatnio używane</translation>
+        <translation>Niedawno używane</translation>
     </message>
     <message id="RecenttlyUsed.content">
         <source>Browse and select from a list of recently used functions.</source>
@@ -2262,7 +2272,7 @@ Można sortować zaznaczone dane w kolejności rosnącej lub malejącej.</transl
     <message id="SourceData.title">
         <source>Select Data</source>
         <extracomment>SourceData.title</extracomment>
-        <translation>Wybierz dane</translation>
+        <translation>Zaznacz dane</translation>
     </message>
     <message id="SourceData.content">
         <source>Change the data range included in the chart.</source>
@@ -2566,7 +2576,7 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="WindowReset.title">
         <source>Arrange All</source>
         <extracomment>WindowReset.title</extracomment>
-        <translation>Rozmieść wszystkie</translation>
+        <translation>Rozmieść wszystko</translation>
     </message>
     <message id="WindowReset.content">
         <source>Tile all open worksheets to view side-by-side.</source>
@@ -2616,11 +2626,13 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="sp_ConditionHighlight.title">
         <source></source>
         <extracomment>sp_ConditionHighlight.title</extracomment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Wyróżnienie warunkowe</translation>
     </message>
     <message id="sp_ConditionHighlight.content">
         <source></source>
         <extracomment>sp_ConditionHighlight.content</extracomment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Umożliwia łatwo dostrzec komórki, które spełniają podany zestaw kryteriów.</translation>
     </message>
     <message id="sp_AutoSum.title">
@@ -2722,262 +2734,291 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="AlignJustify.title">
         <source>Justify</source>
         <extracomment>AlignJustify.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Wyjustuj</translation>
     </message>
     <message id="AlignJustify.content">
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
         <extracomment>AlignJustify.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyrównanie tekstu jednocześnie do lewego i prawego marginesu. W razie konieczności są dodawane odstępy między wyrazami.</translation>
     </message>
     <message id="AlignDistributed.title">
         <source>Distributed</source>
         <extracomment>AlignDistributed.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rozłożone</translation>
     </message>
     <message id="AlignDistributed.content">
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
         <extracomment>AlignDistributed.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyrównanie akapitu do prawego i lewego marginesu przez dodanie w razie potrzeby dodatkowych odstępów między znakami.</translation>
     </message>
     <message id="Scientific.title">
         <source>Scientific Style</source>
         <extracomment>Scientific.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Styl naukowy</translation>
     </message>
     <message id="Scientific.content">
         <source>Format as a number in scientific notation, with 2 decimal places.</source>
         <extracomment>Scientific.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zastosowanie formatu liczby w notacji naukowej, z 2 miejscami dziesiętnymi.</translation>
     </message>
     <message id="Thesaurus.title">
         <source>Thesaurus</source>
         <extracomment>Thesaurus.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tezaurus</translation>
     </message>
     <message id="Thesaurus.content">
         <source>Open Thesaurus.</source>
         <extracomment>Thesaurus.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message id="ChartColumn.title">
         <source>Insert Column Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres kolumnowy</translation>
     </message>
     <message id="ChartColumn.content">
         <source>Use this chart type to visually compare values across a few categories.
 
 Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten typ wykresu służy do porównywania wartości w kilku kategoriach.
+
+Kliknięcie strzałki pozwala wyświetlić inne typy dostępnych wykresów kolumnowych, a umieszczenie wskaźnika nad ikonami pozwala wyświetlić podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="ChartBar.title">
         <source>Insert Bar Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres słupkowy</translation>
     </message>
     <message id="ChartBar.content">
         <source>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
 
 Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten typ wykresu służy do wizualnego porównania wartości w kilku kategoriach, gdy na wykresie jest pokazany czas trwania lub tekst kategorii jest długi.
+
+Kliknięcie strzałki pozwala wyświetlić inne dostępne typy wykresów słupkowych, a umieszczenie wskaźnika nad ikonami pozwala wyświetlić podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="ChartLine.title">
         <source>Insert Line Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres liniowy</translation>
     </message>
     <message id="ChartLine.content">
         <source>Use this chart type to show trends over time (years, months, and days) or categories.
 
 Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten typ wykresu służy do pokazywania trendów w czasie (lata, miesiące i dni) lub w kategoriach.
+
+Kliknięcie strzałki pozwala wyświetlić inne typy dostępnych wykresów liniowych, a umieszczenie wskaźnika nad ikonami pozwala wyświetlić podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="ChartRadar.title">
         <source>Insert Stock or Radar Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres giełdowy lub radarowy</translation>
     </message>
     <message id="ChartRadar.content">
         <source>Click the arrow to see the different types of stock or radar charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij strzałkę, aby wyświetlić dostępne typy wykresów giełdowych i radarowych. Umieszczając wskaźnik myszy na ikonie, możesz zobaczyć podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="ChartArea.title">
         <source>Insert Area Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres warstwowy</translation>
     </message>
     <message id="ChartArea.content">
         <source>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
 
 Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten typ wykresu służy do pokazywania trendów w czasie (lata, miesiące i dni) lub w kategoriach. Użyj go w celu uwypuklenia tempa zmian w czasie.
+
+Kliknięcie strzałki pozwala wyświetlić inne dostępne typy wykresów warstwowych, a umieszczenie wskaźnika nad ikonami pozwala wyświetlić podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="ChartCombination.title">
         <source>Insert Combo Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres kombi</translation>
     </message>
     <message id="ChartCombination.content">
         <source>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
 
 Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tego typu wykresu do wyróżnienia różnych typów informacji. Skorzystaj z tego typu, gdy zakres wartości na wykresie znacznie się zmienia lub w przypadku mieszanych typów danych.
+
+Kliknij strzałkę, aby wyświetlić wstępnie ustawione wykresy kombi. Zatrzymaj kursor nad ikonami w celu wyświetlenia podglądu w dokumencie. Kliknij przycisk Utwórz niestandardowy wykres kombi, aby wybrać różne typy wykresów do połączenia.</translation>
     </message>
     <message id="ChartPie.title">
         <source>Insert Pie or Doughnut Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres kołowy lub pierścieniowy</translation>
     </message>
     <message id="ChartPie.content">
         <source>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
 
 Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten typ wykresu służy do wyświetlania proporcji całości. Użyj go, jeśli wartości sumują się do 100%.
+
+Kliknięcie strzałki pozwala wyświetlić inne dostępne typy wykresów kołowych i pierścieniowych, a umieszczenie wskaźnika nad ikonami pozwala wyświetlić podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="ChartScatter.title">
         <source>Insert Scatter (X, Y) or Bubble Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw wykres punktowy (X, Y) lub bąbelkowy</translation>
     </message>
     <message id="ChartScatter.content">
         <source>Use this chart type to show the relationship between sets of values.
 
 Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten typ wykresu służy do pokazania relacji między zestawami wartości.
+
+Kliknięcie strzałki pozwala wyświetlić inne dostępne typy wykresów punktowych i bąbelkowych, a umieszczenie wskaźnika nad ikonami pozwala wyświetlić podgląd wykresu w dokumencie.</translation>
     </message>
     <message id="Accounting.title">
         <source>Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Księgowe</translation>
     </message>
     <message id="Accounting.content">
         <source>Choose an alternate Accounting format for the selected cell, and allowing the currency symbol aligned to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wybranie alternatywnego formatu księgowego dla zaznaczonej komórki i zezwolenie symbolowi waluty na wyrównanie do lewej.</translation>
     </message>
     <message id="CellStyleGallery.title">
         <source>Cell Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Style komórki</translation>
     </message>
     <message id="CellStyleGallery.content">
         <source>Selecting a predefined style or fast setting cell types. You can also customize styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wybieranie wstępnie zdefiniowanego stylu lub szybkie ustawienie typów komórek. Można również dostosować style.</translation>
     </message>
     <message id="Table.title">
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tabela</translation>
     </message>
     <message id="Table.content">
         <source>Create a table to manage and analyze related data.
 
 Tables make it easy to sort, filter, and format data within a sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia utworzenie tabeli w celu organizowania i analizowania powiązanych danych.
+
+Tabele ułatwiają sortowanie, filtrowanie i formatowanie danych w arkuszu.</translation>
     </message>
     <message id="FormatAsTable.title">
         <source>Format As Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj jako tabelę</translation>
     </message>
     <message id="FormatAsTable.content">
         <source>Quickly convert a range of cells to a table with its own style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia szybkie przekonwertowanie zakresu komórek na tabelę przy użyciu stylu tabeli.</translation>
     </message>
     <message id="TableName.title">
         <source>Table Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa tabeli</translation>
     </message>
     <message id="TableName.content">
         <source>Edit the name of this table used to refer to it in formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia edytowanie nazwy tej tabeli, która jest używana przy odwoływaniu się do niej w formułach.</translation>
     </message>
     <message id="ResizeTable.title">
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień rozmiar tabeli</translation>
     </message>
     <message id="ResizeTable.content">
         <source>Resize this table by adding or removing rows and columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia zmianę rozmiaru tej tabeli przez dodanie lub usunięcie wierszy i kolumn.</translation>
     </message>
     <message id="RemoveDuplicates.title">
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń duplikaty</translation>
     </message>
     <message id="RemoveDuplicates.content">
         <source>Delete duplicate rows from a sheet.
 
 You can pick which columns should be checked for duplicate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia usunięcie zduplikowanych wierszy z arkusza.
+
+Można określić, w których kolumnach mają być wyszukiwane zduplikowane informacje.</translation>
     </message>
     <message id="ConvertToRange.title">
         <source>Convert to Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Konwertuj na zakres</translation>
     </message>
     <message id="ConvertToRange.content">
         <source>Convert this table into a normal range of cells.
 
 All of the data is preserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia konwersję tej tabeli na normalny zakres komórek.
+
+Wszystkie dane są zachowywane.</translation>
     </message>
     <message id="TableMenuRefresh.title">
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Odśwież</translation>
     </message>
     <message id="TableMenuRefresh.content">
         <source>Get the latest data from the source connected to the active cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia uzyskanie najnowszych danych ze źródła połączonego z aktywną komórką.</translation>
     </message>
     <message id="PublishToSharePoint.title">
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj tabelę do listy programu SharePoint</translation>
     </message>
     <message id="PublishToSharePoint.content">
         <source>Export the data in this table to a SharePoint list or Visio diagram.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyeksportowanie danych z tej tabeli do listy programu SharePoint lub diagramu programu Visio.</translation>
     </message>
     <message id="HeaderRow.title">
         <source>Header Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiersz nagłówka</translation>
     </message>
     <message id="HeaderRow.content">
         <source>Turn on or off the header row the table.
 
 A header row formats the top row of the table specially.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia włączenie lub wyłączenie wiersza nagłówka tabeli.
+
+Wiersz nagłówka służy do specjalnego formatowania górnego wiersza tabeli.</translation>
     </message>
     <message id="FirstColumn.title">
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierwsza kolumna</translation>
     </message>
     <message id="FirstColumn.content">
         <source>Display special formatting for the first column of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyświetlenie specjalnego formatowania dla pierwszej kolumny tabeli.</translation>
     </message>
     <message id="TotalRow.title">
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiersz sumy</translation>
     </message>
     <message id="TotalRow.content">
         <source>Trun on or off the total row of the table.
 
 The total row is a row at the end of the table which displays totals for each column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia włączenie lub wyłączenie wiersza sumy tabeli.
+
+Wiersz sumy znajduje się na końcu tabeli i zawiera sumy dla każdej kolumny.</translation>
     </message>
     <message id="LastColumn.title">
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia kolumna</translation>
     </message>
     <message id="LastColumn.content">
         <source>Display special formatting for the last column of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia wyświetlenie specjalnego formatowania dla ostatniej kolumny tabeli.</translation>
     </message>
     <message id="BandedRows.title">
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Wiersze naprzemienne</translation>
     </message>
     <message id="BandedRows.content">
         <source>Display banded rows, in which even rows are formatted differently from odd rows.
 
 This banding can make tables easier to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia odmienne formatowanie wierszy parzystych i nieparzystych.
+
+Formatowanie naprzemienne zwiększa czytelność tabeli.</translation>
     </message>
     <message id="BandedColumns.title">
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumny naprzemienne</translation>
     </message>
     <message id="BandedColumns.content">
         <source>Display banded columns, in which even columns are formatted differently from odd columns.
 
 This banding can make tables easier to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Umożliwia odmienne formatowanie kolumn parzystych i nieparzystych.
+
+Formatowanie naprzemienne zwiększa czytelność tabeli.</translation>
     </message>
 </context>
 </TS>

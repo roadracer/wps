@@ -6,7 +6,7 @@
     <name>KsSlideWindowShowMsgHandler</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation>Skanowanie kodu QR dla wersji mobilnej wps.</translation>
+        <translation>Skanowanie kodu QR dla wersji mobilnej WPS.</translation>
     </message>
     <message>
         <source>Disconnected.</source>
@@ -17,7 +17,7 @@
     <name>KxCellPhoneControlBubble</name>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation>Skanowanie kodu QR dla wersji mobilnej wps.</translation>
+        <translation>Skanowanie kodu QR dla wersji mobilnej WPS.</translation>
     </message>
     <message>
         <source>Disconnect</source>
@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Scan the QR Code with wps mobile version.</source>
-        <translation>Skanowanie kodu QR dla wersji mobilnej wps.</translation>
+        <translation>Skanowanie kodu QR dla wersji mobilnej WPS.</translation>
     </message>
     <message>
         <source>Disconnect</source>
