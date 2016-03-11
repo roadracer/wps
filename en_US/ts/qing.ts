@@ -25,15 +25,26 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Copyright©1988-2015 Zhuhai Kingsoft Office Software Co., Ltd</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;a href=&quot;wpshome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office  Online&lt;/a&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&quot;qinghome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office Cloud&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KAccountSdkProxy</name>
+    <message>
+        <source>View On &amp;Website</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Transfer Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;About</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -487,6 +498,22 @@
     </message>
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure to switch user?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Switch User</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before switch user</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

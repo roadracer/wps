@@ -127,6 +127,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Office.lnk</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -342,6 +350,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>An error occurred when repairing, please retry.</source>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repair WPS Update Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -578,19 +594,35 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>WPS Presentation 新增立檔案預設儲存為*.ppt格式(&amp;T)</translation>
+        <translation type="obsolete">WPS Presentation 新增立檔案預設儲存為*.ppt格式(&amp;T)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>WPS Spreadsheets 新增立檔案預設儲存為*.xls格式(&amp;X)</translation>
+        <translation type="obsolete">WPS Spreadsheets 新增立檔案預設儲存為*.xls格式(&amp;X)</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>WPS Writer 新增立檔案預設儲存為*.doc格式(&amp;D)</translation>
+        <translation type="obsolete">WPS Writer 新增立檔案預設儲存為*.doc格式(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
         <translation type="unfinished">與 Microsoft Office 2010 兼容(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1260,6 +1292,10 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

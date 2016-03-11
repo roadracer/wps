@@ -286,5 +286,9 @@ Zum Beispiel, 1,3,5-9.</translation>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>Existiert bereits. Sie können die Datei nicht unter gleichem Namen speichern, solange eine Datei mit dem selben Namen geöffnet ist. Wählen Sie einen anderen Namen oder schließen die geöffnete Datei.</translation>
     </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

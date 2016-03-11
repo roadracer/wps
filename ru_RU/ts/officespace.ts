@@ -398,7 +398,7 @@ This may because:
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation>Загрузка мастера восстановления данных. Пожалуйста, подождите...</translation>
+        <translation type="obsolete">Загрузка мастера восстановления данных. Пожалуйста, подождите...</translation>
     </message>
 </context>
 <context>
@@ -957,35 +957,35 @@ Are you sure to change?</source>
     </message>
     <message>
         <source>From %1</source>
-        <translation>С %1</translation>
+        <translation type="obsolete">С %1</translation>
     </message>
     <message>
         <source>%1
 size:%2
 path:%3</source>
-        <translation>%1
+        <translation type="obsolete">%1
 размер:%2
 путь:%3</translation>
     </message>
     <message>
         <source>Roaming your document...</source>
-        <translation>Перемещение документа в роуминге...</translation>
+        <translation type="obsolete">Перемещение документа в роуминге...</translation>
     </message>
     <message>
         <source>Remove star</source>
-        <translation>Убрать метку</translation>
+        <translation type="obsolete">Убрать метку</translation>
     </message>
     <message>
         <source>Remove all starred records</source>
-        <translation>Удалить все помеченные записи</translation>
+        <translation type="obsolete">Удалить все помеченные записи</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation>Добавить метку</translation>
+        <translation type="obsolete">Добавить метку</translation>
     </message>
     <message>
         <source>Remove all non-starred records</source>
-        <translation>Удалить все не помеченные записи</translation>
+        <translation type="obsolete">Удалить все не помеченные записи</translation>
     </message>
     <message>
         <source>Open</source>
@@ -997,7 +997,7 @@ path:%3</source>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Очистить все</translation>
+        <translation type="obsolete">Очистить все</translation>
     </message>
     <message>
         <source>Open File Location</source>
@@ -1009,7 +1009,7 @@ path:%3</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Роуминг файлов</translation>
+        <translation type="obsolete">Роуминг файлов</translation>
     </message>
     <message>
         <source>Delete from the List</source>
@@ -1021,6 +1021,22 @@ path:%3</source>
     </message>
     <message>
         <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all native recent record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Lately use: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1028,18 +1044,18 @@ path:%3</source>
     <name>KRoamingFilePageFixedButton</name>
     <message>
         <source>Remove star</source>
-        <translation>Убрать метку</translation>
+        <translation type="obsolete">Убрать метку</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation>Добавить метку</translation>
+        <translation type="obsolete">Добавить метку</translation>
     </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
     <message>
         <source>document be deleted</source>
-        <translation>документ для удаления</translation>
+        <translation type="obsolete">документ для удаления</translation>
     </message>
     <message>
         <source>Cacel</source>
@@ -1047,42 +1063,42 @@ path:%3</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation type="obsolete">Отмена</translation>
     </message>
 </context>
 <context>
     <name>KRoamingGuidFilePage</name>
     <message>
         <source>All</source>
-        <translation>Все</translation>
+        <translation type="obsolete">Все</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation>Метка</translation>
+        <translation type="obsolete">Метка</translation>
     </message>
     <message>
         <source>Roam to mobile</source>
-        <translation>Переместить на мобильное утройство</translation>
+        <translation type="obsolete">Переместить на мобильное утройство</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Последние документы</translation>
+        <translation type="obsolete">Последние документы</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Роуминг файлов</translation>
+        <translation type="obsolete">Роуминг файлов</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Справка</translation>
+        <translation type="obsolete">Справка</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>Отключить роуминг файлов</translation>
+        <translation type="obsolete">Отключить роуминг файлов</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Открыть</translation>
+        <translation type="obsolete">Открыть</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1090,7 +1106,7 @@ path:%3</source>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Очистить все</translation>
+        <translation type="obsolete">Очистить все</translation>
     </message>
     <message>
         <source>Open File Location</source>
@@ -1101,15 +1117,14 @@ path:%3</source>
         <translation type="obsolete">Удалить неверные записи</translation>
     </message>
     <message>
-        <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Открыть папку</translation>
+        <translation type="obsolete">Открыть папку</translation>
     </message>
+</context>
+<context>
+    <name>KRoamingGuideButton</name>
     <message>
-        <source>Clear Invalid File</source>
+        <source>Document Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1124,46 +1139,46 @@ path:%3</source>
     <name>KRoamingItemDelagate</name>
     <message>
         <source>More</source>
-        <translation>Другие</translation>
+        <translation type="obsolete">Другие</translation>
     </message>
     <message>
         <source>From %1</source>
-        <translation>С %1</translation>
+        <translation type="obsolete">С %1</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation>Удаление</translation>
+        <translation type="obsolete">Удаление</translation>
     </message>
     <message>
         <source>Adding star</source>
-        <translation>Добавление метки</translation>
+        <translation type="obsolete">Добавление метки</translation>
     </message>
     <message>
         <source>Operating</source>
-        <translation>Рабочая</translation>
+        <translation type="obsolete">Рабочая</translation>
     </message>
 </context>
 <context>
     <name>KRoamingRecentTailPanel</name>
     <message>
         <source>All file types:</source>
-        <translation>Все типы файлов:</translation>
+        <translation type="obsolete">Все типы файлов:</translation>
     </message>
     <message>
         <source>On</source>
-        <translation>Включено</translation>
+        <translation type="obsolete">Включено</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Выключено</translation>
+        <translation type="obsolete">Выключено</translation>
     </message>
     <message>
         <source>More roaming documents</source>
-        <translation>Другие файлы роуминга</translation>
+        <translation type="obsolete">Другие файлы роуминга</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>Отключить роуминг файлов</translation>
+        <translation type="obsolete">Отключить роуминг файлов</translation>
     </message>
 </context>
 <context>
@@ -1185,7 +1200,7 @@ path:%3</source>
     <name>KRoamingTabHeader</name>
     <message>
         <source>File Roaming</source>
-        <translation>Роуминг файлов</translation>
+        <translation type="obsolete">Роуминг файлов</translation>
     </message>
 </context>
 <context>
@@ -1245,7 +1260,7 @@ path:%3</source>
         <translation>Поиск в роуминге файлов</translation>
     </message>
     <message>
-        <source>You have enabled File Roaming:</source>
+        <source>Recent cloud documents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1334,6 +1349,13 @@ path:%3</source>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDataRecoverCommand</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
+        <translation type="unfinished">Загрузка мастера восстановления данных. Пожалуйста, подождите...</translation>
     </message>
 </context>
 <context>
@@ -2366,6 +2388,37 @@ please sign in to use WPS Office.</source>
     <message>
         <source>VIP soon to be expired</source>
         <translation>Истекает срок действия членства VIP</translation>
+    </message>
+</context>
+<context>
+    <name>roaming::filepage::Header</name>
+    <message id="0">
+        <source>Recent documents</source>
+        <translation type="unfinished">Последние документы</translation>
+    </message>
+    <message>
+        <source>cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>all file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished">обновить</translation>
+    </message>
+    <message>
+        <source>Login to show Cloud files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show cloud file, please </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>login</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

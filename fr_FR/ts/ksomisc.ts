@@ -136,6 +136,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Office.lnk</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -405,6 +413,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Repair WPS Update Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KOther</name>
@@ -603,15 +619,15 @@ Ces opérations peuvent être annulées. </translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>WPS Writer Nouveaux documents enregistrés au format *.&amp;doc par défaut</translation>
+        <translation type="obsolete">WPS Writer Nouveaux documents enregistrés au format *.&amp;doc par défaut</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>WPS Spreadsheets Nouveaux documents enregistrés au format *.&amp;xls par défaut</translation>
+        <translation type="obsolete">WPS Spreadsheets Nouveaux documents enregistrés au format *.&amp;xls par défaut</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>WPS Presentation Nouveaux documents enregistrés au format *.pp&amp;t par défaut</translation>
+        <translation type="obsolete">WPS Presentation Nouveaux documents enregistrés au format *.pp&amp;t par défaut</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -655,6 +671,22 @@ needs restarting Windows to take effect.</source>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
         <translation type="unfinished">Compatible avec Microsoft Office 2010(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1433,6 +1465,10 @@ Chaque modèle a son style unique . Si vous voulez une interface innovante, vous
     </message>
     <message>
         <source>WPS Presentation Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

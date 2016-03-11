@@ -119,6 +119,37 @@ Color</translation>
     </message>
 </context>
 <context>
+    <name>classics.chart</name>
+    <message>
+        <source>By Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>By Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>classics.control_toolbox</name>
     <message>
         <source>Check Box</source>
@@ -891,12 +922,16 @@ Color</translation>
         <translation>Fondo</translation>
     </message>
     <message>
+        <source>Bold Square-Hollow Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bullets</source>
         <translation>Viñetas</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation>Cambiar dirección de texto</translation>
+        <translation type="obsolete">Cambiar dirección de texto</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
@@ -923,6 +958,10 @@ Color</translation>
         <translation>Tamaño de fuente</translation>
     </message>
     <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Spacing</source>
         <translation>Aumentar espaciado</translation>
     </message>
@@ -935,8 +974,28 @@ Color</translation>
         <translation>Más colores de fuente</translation>
     </message>
     <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide</source>
         <translation>Nueva diapositiva</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sagittate Bullet </source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -951,8 +1010,40 @@ Color</translation>
         <translation>Diseño de diapositiva</translation>
     </message>
     <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table Style</source>
         <translation>Estilo de tabla</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Check Mark-shaped Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Diamond-Shaped Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Round-Shaped Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Large Square-Shaped Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With Filling Effect Of Round-Shaped Bullets</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -964,6 +1055,10 @@ Color</translation>
     <message>
         <source>1</source>
         <translation>1</translation>
+    </message>
+    <message>
+        <source>1.2.3.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2</source>
@@ -986,12 +1081,40 @@ Color</translation>
         <translation>9</translation>
     </message>
     <message>
+        <source>A.B.C.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Numbering</source>
         <translation>Más numeración</translation>
     </message>
     <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Numbering</source>
         <translation>Numeración</translation>
+    </message>
+    <message>
+        <source>Pictographic Number, Wide End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>With The Circle Number.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a).b).c).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a.b.c.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ⅰ.Ⅱ.Ⅲ.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1131,6 +1254,10 @@ Color</translation>
         <translation>Escala de grises</translation>
     </message>
     <message>
+        <source>Image Previewer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Picture</source>
         <translation>Insertar imagen</translation>
     </message>
@@ -1157,6 +1284,10 @@ Color</translation>
     <message>
         <source>Reset Picture</source>
         <translation>Reestablecer imagen</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -1347,12 +1478,16 @@ Master</source>
 diapositivas</translation>
     </message>
     <message>
+        <source>New Slide Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
         <translation>Nuevo patrón de diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation type="obsolete">Nuevo patrón de título</translation>
     </message>
     <message>
         <source>Preserve Master</source>
@@ -1521,6 +1656,10 @@ diapositivas</translation>
         <translation>Alinear en la parte superior</translation>
     </message>
     <message>
+        <source>Border Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Borders and Fill</source>
         <translation>Bordes y relleno</translation>
     </message>
@@ -1530,7 +1669,7 @@ diapositivas</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation>Cambiar dirección de texto</translation>
+        <translation type="obsolete">Cambiar dirección de texto</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -1561,6 +1700,10 @@ diapositivas</translation>
         <translation>Efectos de relleno</translation>
     </message>
     <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Above</source>
         <translation>Insertar por encima</translation>
     </message>
@@ -1581,12 +1724,32 @@ diapositivas</translation>
         <translation>Insertar tabla</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Merge Cells</source>
         <translation>Combinar celdas</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
         <translation>Más colores de relleno</translation>
+    </message>
+    <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Column</source>
@@ -1605,8 +1768,20 @@ diapositivas</translation>
         <translation>Dividir celdas</translation>
     </message>
     <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabla</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1626,6 +1801,10 @@ diapositivas</translation>
     <message>
         <source>Arch Up (Pour)</source>
         <translation>Arco hacia arriba (grueso)</translation>
+    </message>
+    <message>
+        <source>Art Word Gallery</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bottom (Curve)</source>
@@ -1712,6 +1891,10 @@ diapositivas</translation>
         <translation>Desinflar parte superior</translation>
     </message>
     <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Double Wave 1</source>
         <translation>Doble onda 1</translation>
     </message>
@@ -1760,16 +1943,28 @@ diapositivas</translation>
         <translation>Insertar WordArt</translation>
     </message>
     <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left Align</source>
-        <translation>Alinear a la izquierda</translation>
+        <translation type="obsolete">Alinear a la izquierda</translation>
     </message>
     <message>
         <source>Letter Justify</source>
-        <translation>Justificar letras</translation>
+        <translation type="obsolete">Justificar letras</translation>
     </message>
     <message>
         <source>Loose</source>
         <translation>Separado</translation>
+    </message>
+    <message>
+        <source>MoreFontEffects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Normal</source>
@@ -1780,8 +1975,12 @@ diapositivas</translation>
         <translation>Texto sin formato</translation>
     </message>
     <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Right Align</source>
-        <translation>Alinear a la derecha</translation>
+        <translation type="obsolete">Alinear a la derecha</translation>
     </message>
     <message>
         <source>Ring Inside</source>
@@ -1805,11 +2004,15 @@ diapositivas</translation>
     </message>
     <message>
         <source>Stretch Justify</source>
-        <translation>Justificar estiramiento</translation>
+        <translation type="obsolete">Justificar estiramiento</translation>
     </message>
     <message>
         <source>Tight</source>
         <translation>Estrecho</translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Triangle Down</source>
@@ -1837,7 +2040,7 @@ diapositivas</translation>
     </message>
     <message>
         <source>Word Justify</source>
-        <translation>Justificar palabras</translation>
+        <translation type="obsolete">Justificar palabras</translation>
     </message>
     <message>
         <source>WordArt Alignment</source>
@@ -1880,7 +2083,7 @@ diapositivas</translation>
     <message>
         <source>Animation
 Schemes</source>
-        <translation type="unfinished">Combinaciones
+        <translation type="obsolete">Combinaciones
 de animación</translation>
     </message>
     <message>
@@ -1921,6 +2124,274 @@ transición</translation>
         <source>Transition Effect</source>
         <translation type="obsolete">Transition
 Effects</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_charttools</name>
+    <message>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1981,14 +2452,18 @@ Template</source>
         <translation>Horizontal</translation>
     </message>
     <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Page
 Setup</source>
-        <translation type="unfinished">Configuración
+        <translation type="obsolete">Configuración
 de página</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation type="obsolete">Page
+        <translation type="unfinished">Page
 Setup</translation>
     </message>
     <message>
@@ -2000,18 +2475,22 @@ Setup</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Reset Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save Background Picture</source>
         <translation>Guardar como imagen de fondo</translation>
     </message>
     <message>
         <source>Slide
 Layout</source>
-        <translation type="unfinished">Diseño de la diapositiva</translation>
+        <translation type="obsolete">Diseño de la diapositiva</translation>
     </message>
     <message>
         <source>Slide
 Orientation</source>
-        <translation type="unfinished">Dirección de
+        <translation type="obsolete">Dirección de
 diapositiva</translation>
     </message>
     <message>
@@ -2021,7 +2500,7 @@ Layout</translation>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation type="obsolete">Slide
+        <translation type="unfinished">Slide
 Orientation</translation>
     </message>
     <message>
@@ -2032,8 +2511,12 @@ Orientation</translation>
 <context>
     <name>ongmani.ct_designtable</name>
     <message>
+        <source>Border Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Borders</source>
-        <translation>Bordes</translation>
+        <translation type="obsolete">Bordes</translation>
     </message>
     <message>
         <source>Clear
@@ -2055,8 +2538,20 @@ Table Style</translation>
         <translation>Degradado</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation>Más colores de relleno</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -2065,6 +2560,10 @@ Table Style</translation>
     <message>
         <source>Shading</source>
         <translation>Sombreado</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2206,19 +2705,19 @@ Editor</translation>
     <name>ongmani.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pto</translation>
+        <translation type="obsolete">0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0.5 pto</translation>
+        <translation type="obsolete">0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pto</translation>
+        <translation type="obsolete">0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>1 pto</translation>
+        <translation type="obsolete">1 pto</translation>
     </message>
     <message>
         <source>1.0</source>
@@ -2230,23 +2729,23 @@ Editor</translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pto</translation>
+        <translation type="obsolete">1.5 pto</translation>
     </message>
     <message>
         <source>108</source>
-        <translation>108</translation>
+        <translation type="obsolete">108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation>110</translation>
+        <translation type="obsolete">110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation>117</translation>
+        <translation type="obsolete">117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation>118</translation>
+        <translation type="obsolete">118</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -2254,7 +2753,7 @@ Editor</translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pto</translation>
+        <translation type="obsolete">2.25 pto</translation>
     </message>
     <message>
         <source>2.5</source>
@@ -2262,25 +2761,29 @@ Editor</translation>
     </message>
     <message>
         <source>216</source>
-        <translation>216</translation>
+        <translation type="obsolete">216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation>252</translation>
+        <translation type="obsolete">252</translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>3 pto</translation>
+        <translation type="obsolete">3 pto</translation>
     </message>
     <message>
         <source>3-D
 On</source>
-        <translation type="unfinished">3-D
+        <translation type="obsolete">3-D
 activado</translation>
     </message>
     <message>
         <source>3-D On</source>
-        <translation>3-D activado</translation>
+        <translation type="obsolete">3-D activado</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3.0</source>
@@ -2288,15 +2791,15 @@ activado</translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pto</translation>
+        <translation type="obsolete">4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>6 pto</translation>
+        <translation type="obsolete">6 pto</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation>8226</translation>
+        <translation type="obsolete">8226</translation>
     </message>
     <message>
         <source>Align</source>
@@ -2340,51 +2843,51 @@ activado</translation>
     </message>
     <message>
         <source>Arrow Style</source>
-        <translation>Estilo de flecha</translation>
+        <translation type="obsolete">Estilo de flecha</translation>
     </message>
     <message>
         <source>Arrow Style 1</source>
-        <translation>Estilo de flecha 1</translation>
+        <translation type="obsolete">Estilo de flecha 1</translation>
     </message>
     <message>
         <source>Arrow Style 10</source>
-        <translation>Estilo de flecha 10</translation>
+        <translation type="obsolete">Estilo de flecha 10</translation>
     </message>
     <message>
         <source>Arrow Style 11</source>
-        <translation>Estilo de flecha 11</translation>
+        <translation type="obsolete">Estilo de flecha 11</translation>
     </message>
     <message>
         <source>Arrow Style 2</source>
-        <translation>Estilo de flecha 2</translation>
+        <translation type="obsolete">Estilo de flecha 2</translation>
     </message>
     <message>
         <source>Arrow Style 3</source>
-        <translation>Estilo de flecha 3</translation>
+        <translation type="obsolete">Estilo de flecha 3</translation>
     </message>
     <message>
         <source>Arrow Style 4</source>
-        <translation>Estilo de flecha 4</translation>
+        <translation type="obsolete">Estilo de flecha 4</translation>
     </message>
     <message>
         <source>Arrow Style 5</source>
-        <translation>Estilo de flecha 5</translation>
+        <translation type="obsolete">Estilo de flecha 5</translation>
     </message>
     <message>
         <source>Arrow Style 6</source>
-        <translation>Estilo de flecha 6</translation>
+        <translation type="obsolete">Estilo de flecha 6</translation>
     </message>
     <message>
         <source>Arrow Style 7</source>
-        <translation>Estilo de flecha 7</translation>
+        <translation type="obsolete">Estilo de flecha 7</translation>
     </message>
     <message>
         <source>Arrow Style 8</source>
-        <translation>Estilo de flecha 8</translation>
+        <translation type="obsolete">Estilo de flecha 8</translation>
     </message>
     <message>
         <source>Arrow Style 9</source>
-        <translation>Estilo de flecha 9</translation>
+        <translation type="obsolete">Estilo de flecha 9</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2416,15 +2919,15 @@ activado</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation>Cambiar dirección de texto</translation>
+        <translation type="obsolete">Cambiar dirección de texto</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Guion</translation>
+        <translation type="obsolete">Guion</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>Guion punto</translation>
+        <translation type="obsolete">Guion punto</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
@@ -2432,7 +2935,7 @@ activado</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guion</translation>
+        <translation type="obsolete">Estilo de guion</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -2475,6 +2978,10 @@ activado</translation>
         <translation>Editar puntos</translation>
     </message>
     <message>
+        <source>Edit Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Equal Height</source>
         <translation>Alto igual</translation>
     </message>
@@ -2488,7 +2995,7 @@ activado</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Relleno</translation>
+        <translation type="obsolete">Relleno</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -2515,8 +3022,16 @@ activado</translation>
         <translation>Formato de objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Girar libremente</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -2524,7 +3039,7 @@ activado</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -2543,12 +3058,20 @@ activado</translation>
         <translation>Francesa</translation>
     </message>
     <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Horizontal</source>
         <translation type="obsolete">Text Box</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
         <translation>Cuadro de texto horizontal</translation>
+    </message>
+    <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2583,20 +3106,20 @@ activado</translation>
         <translation type="obsolete">Salto de línea</translation>
     </message>
     <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Spacing</source>
         <translation>Espaciado interlineal</translation>
     </message>
     <message>
         <source>Long Dash</source>
-        <translation>Guion largo</translation>
+        <translation type="obsolete">Guion largo</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>Guion largo, punto</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Guion largo, punto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
@@ -2608,7 +3131,7 @@ activado</translation>
     </message>
     <message>
         <source>More Arrows</source>
-        <translation>Más flechas</translation>
+        <translation type="obsolete">Más flechas</translation>
     </message>
     <message>
         <source>More Bullets</source>
@@ -2628,11 +3151,19 @@ activado</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>Más líneas</translation>
+        <translation type="obsolete">Más líneas</translation>
+    </message>
+    <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Esquema</translation>
+        <translation type="obsolete">Esquema</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -2640,11 +3171,15 @@ activado</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Trama</translation>
+        <translation type="obsolete">Trama</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Líneas de entramado</translation>
+        <translation type="obsolete">Líneas de entramado</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -2671,8 +3206,16 @@ activado</translation>
         <translation>Girar 90° a la derecha</translation>
     </message>
     <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Round Dot</source>
-        <translation>Punto redondo</translation>
+        <translation type="obsolete">Punto redondo</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -2688,27 +3231,51 @@ activado</translation>
     </message>
     <message>
         <source>Shadow On</source>
-        <translation>Sombra activada</translation>
+        <translation type="obsolete">Sombra activada</translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation type="obsolete">Fill</translation>
+        <translation type="unfinished">Fill</translation>
+    </message>
+    <message>
+        <source>Shape Line</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>Tamaño de sombra</translation>
+        <translation type="obsolete">Tamaño de sombra</translation>
     </message>
     <message>
         <source>Shape Styles</source>
         <translation>Estilos de forma</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
-        <translation>Solido</translation>
+        <translation type="obsolete">Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Punto cuadrado</translation>
+        <translation type="obsolete">Punto cuadrado</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -2727,8 +3294,12 @@ activado</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -2739,7 +3310,7 @@ activado</translation>
         <translation>Desagrupar</translation>
     </message>
     <message>
-        <source>Upholding Fixed</source>
+        <source>Unholding Fixed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2747,46 +3318,54 @@ activado</translation>
         <translation>Vertical</translation>
     </message>
     <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Weight</source>
-        <translation>Peso</translation>
+        <translation type="obsolete">Peso</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtool.Num</name>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation type="obsolete">0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="obsolete">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="obsolete">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>7</translation>
+        <translation type="obsolete">7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="obsolete">9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -2795,6 +3374,535 @@ activado</translation>
     <message>
         <source>Number</source>
         <translation>Número</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_drawingtool_vml</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid and Guides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OjbectSelect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Patterned Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unholding Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_drawingtool_vml.Fill</name>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_drawingtool_vml.Num</name>
+    <message>
+        <source>More Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2844,6 +3952,10 @@ activado</translation>
         <translation>meter codigo de Activacion</translation>
     </message>
     <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Export to PDF</source>
         <translation>Exportar a PDF</translation>
     </message>
@@ -2872,6 +3984,10 @@ activado</translation>
         <translation>Ayuda</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>Microsoft PowerPoint 97-2003 Presentación</translation>
     </message>
@@ -2882,6 +3998,10 @@ activado</translation>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
         <translation>Microsoft PowerPoint 97-2003 Presentación</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New</source>
@@ -2920,6 +4040,10 @@ activado</translation>
         <translation>Abrir</translation>
     </message>
     <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Other Formats</source>
         <translation>Otros formatos</translation>
     </message>
@@ -2956,6 +4080,14 @@ activado</translation>
         <translation>Número de serie de compra</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Guardar</translation>
     </message>
@@ -2980,8 +4112,24 @@ activado</translation>
         <translation>Estudio en línea</translation>
     </message>
     <message>
+        <source>Support WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transfer to WPS Writer Document</source>
         <translation>Transferir a documento de WPS Writer</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS BBS</source>
@@ -3036,6 +4184,113 @@ activado</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_handoutmaster</name>
+    <message>
+        <source>BackGround</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count of Slide Per Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Four Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Handout Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header PlaceHolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nine Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PlasceHolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Six Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Number PlaceHolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stand Screen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Three Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Two Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Screen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>data PlaceHolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>footer PlaceHolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_home</name>
     <message>
         <source>0.25 pt</source>
@@ -3067,19 +4322,19 @@ activado</translation>
     </message>
     <message>
         <source>108</source>
-        <translation>108</translation>
+        <translation type="obsolete">108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation>110</translation>
+        <translation type="obsolete">110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation>117</translation>
+        <translation type="obsolete">117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation>118</translation>
+        <translation type="obsolete">118</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -3095,11 +4350,11 @@ activado</translation>
     </message>
     <message>
         <source>216</source>
-        <translation>216</translation>
+        <translation type="obsolete">216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation>252</translation>
+        <translation type="obsolete">252</translation>
     </message>
     <message>
         <source>3 pt</source>
@@ -3129,7 +4384,7 @@ Effects</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation>8226</translation>
+        <translation type="obsolete">8226</translation>
     </message>
     <message>
         <source>Align</source>
@@ -3254,7 +4509,11 @@ Effects</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation>Cambiar dirección de texto</translation>
+        <translation type="obsolete">Cambiar dirección de texto</translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -3369,22 +4628,17 @@ Effects</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Format 
-Painter</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Format Object</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation type="obsolete">Format
+        <translation type="unfinished">Format
 Painter</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>Formatted Text</translation>
+        <translation type="obsolete">Formatted Text</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -3417,7 +4671,7 @@ Slide</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -3446,6 +4700,10 @@ Slide</translation>
     <message>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -3480,11 +4738,31 @@ Slide</translation>
         <translation>Jistificado</translation>
     </message>
     <message>
+        <source>Keep Source Formattin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Text Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Left</source>
         <translation>Izquierda</translation>
     </message>
     <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Style Palette</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3540,6 +4818,10 @@ Slide</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3572,15 +4854,11 @@ Slide</translation>
         <translation>Pegar</translation>
     </message>
     <message>
+        <source>Paste Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste Special</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3597,6 +4875,10 @@ Slide</translation>
     </message>
     <message>
         <source>Replace Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Slide</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3626,6 +4908,14 @@ Slide</translation>
     <message>
         <source>Rotate Right 90掳</source>
         <translation type="obsolete">Rotate Right 90°</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -3684,11 +4974,19 @@ Effects</translation>
 Beginning</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3712,8 +5010,12 @@ Beginning</translation>
         <translation>Color del texto</translation>
     </message>
     <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -3721,10 +5023,14 @@ Beginning</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Texto sin formato</translation>
+        <translation type="obsolete">Texto sin formato</translation>
     </message>
     <message>
         <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Destination Theme</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3732,7 +5038,7 @@ Beginning</translation>
         <translation>Vertical</translation>
     </message>
     <message>
-        <source>Weight</source>
+        <source>Vertical direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3744,38 +5050,38 @@ Beginning</translation>
     <name>ongmani.ct_home.Fill</name>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
     </message>
 </context>
 <context>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation type="obsolete">0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="obsolete">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="obsolete">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>7</translation>
+        <translation type="obsolete">7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="obsolete">9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -3790,11 +5096,11 @@ Beginning</translation>
     <name>ongmani.ct_insert</name>
     <message>
         <source>Action</source>
-        <translation>Acción</translation>
+        <translation type="obsolete">Acción</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="obsolete">Action</translation>
+        <translation type="unfinished">Action</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
@@ -3812,23 +5118,19 @@ Music</translation>
 Music</translation>
     </message>
     <message>
-        <source>Body</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Catalog</source>
+        <source>Catalog Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Chart</source>
-        <translation>Gráfico</translation>
+        <translation type="obsolete">Gráfico</translation>
     </message>
     <message>
         <source>Clip Art</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Cover</source>
+        <source>Cover Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3845,7 +5147,7 @@ Music</translation>
 Time</translation>
     </message>
     <message>
-        <source>Ending</source>
+        <source>Ending Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3868,7 +5170,7 @@ pie de página</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="obsolete">Header and 
+        <translation type="unfinished">Header and 
 Footer</translation>
     </message>
     <message>
@@ -3889,7 +5191,7 @@ Footer</translation>
     </message>
     <message>
         <source>Insert Chart</source>
-        <translation>Insertar gráfico</translation>
+        <translation type="obsolete">Insertar gráfico</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -3909,7 +5211,7 @@ Footer</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
-        <translation>Insertar organigrama</translation>
+        <translation type="obsolete">Insertar organigrama</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -3932,8 +5234,16 @@ Footer</translation>
         <translation type="obsolete">Insertar imagen en línea</translation>
     </message>
     <message>
+        <source>InsertNewChart2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>Vínculos</translation>
+    </message>
+    <message>
+        <source>MainText Slides</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Media</source>
@@ -3962,12 +5272,16 @@ Footer</translation>
     <message>
         <source>Organization
 Chart</source>
-        <translation type="unfinished">Organigrama</translation>
+        <translation type="obsolete">Organigrama</translation>
     </message>
     <message>
         <source>Organization Chart</source>
         <translation type="obsolete">Organization
 Chart</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package File</source>
@@ -4000,8 +5314,12 @@ Number</source>
 diapositiva</translation>
     </message>
     <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Slide Number</source>
-        <translation type="obsolete">Slide
+        <translation type="unfinished">Slide
 Number</translation>
     </message>
     <message>
@@ -4038,7 +5356,7 @@ diapositiva</translation>
         <translation>Cuadro de texto</translation>
     </message>
     <message>
-        <source>Transition</source>
+        <source>Transition Slides</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4051,78 +5369,125 @@ diapositiva</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_notesmaster</name>
+    <message>
+        <source>BackGround</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Body Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Landscape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes Orientation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PlasceHolder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portrait</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Image Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Number Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stand Screen(4:3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Screen(16:9)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>data Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>footer Placeholder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_orgchart</name>
     <message>
-        <source>0.25 pt</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>0.25 pt.</source>
-        <translation type="obsolete">0.25 pto. </translation>
-    </message>
-    <message>
-        <source>0.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.25 pto. </translation>
     </message>
     <message>
         <source>0.5 pt.</source>
-        <translation type="obsolete">0.5 pto. </translation>
-    </message>
-    <message>
-        <source>0.75 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.5 pto. </translation>
     </message>
     <message>
         <source>0.75 pt.</source>
-        <translation type="obsolete">0.75 pto. </translation>
-    </message>
-    <message>
-        <source>1 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">0.75 pto. </translation>
     </message>
     <message>
         <source>1 pt.</source>
-        <translation type="obsolete">1 pto. </translation>
-    </message>
-    <message>
-        <source>1.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1 pto. </translation>
     </message>
     <message>
         <source>1.5 pt.</source>
-        <translation type="obsolete">1.5 pto. </translation>
-    </message>
-    <message>
-        <source>2.25 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1.5 pto. </translation>
     </message>
     <message>
         <source>2.25 pt.</source>
-        <translation type="obsolete">2.25 pto. </translation>
-    </message>
-    <message>
-        <source>3 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2.25 pto. </translation>
     </message>
     <message>
         <source>3 pt.</source>
-        <translation type="obsolete">3 pto. </translation>
-    </message>
-    <message>
-        <source>4.5 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3 pto. </translation>
     </message>
     <message>
         <source>4.5 pt.</source>
-        <translation type="obsolete">4.5 pto. </translation>
-    </message>
-    <message>
-        <source>6 pt</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4.5 pto. </translation>
     </message>
     <message>
         <source>6 pt.</source>
-        <translation type="obsolete">6 pto.</translation>
+        <translation type="unfinished">6 pto.</translation>
     </message>
     <message>
         <source>Adjust Structure</source>
@@ -4218,19 +5583,15 @@ diapositiva</translation>
     </message>
     <message>
         <source>Line Effects</source>
-        <translation type="obsolete">Efectos de línea</translation>
+        <translation type="unfinished">Efectos de línea</translation>
     </message>
     <message>
         <source>Line Style</source>
         <translation>Estilo de línea</translation>
     </message>
     <message>
-        <source>Line Style Palette</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Line Sytle Palette</source>
-        <translation type="obsolete">Paleta de estilo de línea</translation>
+        <translation type="unfinished">Paleta de estilo de línea</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -4281,10 +5642,6 @@ diapositiva</translation>
         <translation>Trama</translation>
     </message>
     <message>
-        <source>Patterned Lines</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Round Dot</source>
         <translation>Punto redondo</translation>
     </message>
@@ -4299,6 +5656,10 @@ diapositiva</translation>
     <message>
         <source>Smart Choice</source>
         <translation>Opción inteligente</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4528,11 +5889,11 @@ diapositiva</translation>
     <message>
         <source>Change
 Picture</source>
-        <translation type="unfinished">Cambiar imagen</translation>
+        <translation type="obsolete">Cambiar imagen</translation>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation type="obsolete">Change
+        <translation type="unfinished">Change
 Picture</translation>
     </message>
     <message>
@@ -4546,11 +5907,11 @@ Picture</translation>
     <message>
         <source>Compress
 Pictures</source>
-        <translation type="unfinished">Comprimir imágenes</translation>
+        <translation type="obsolete">Comprimir imágenes</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">Compress
+        <translation type="unfinished">Compress
 Pictures</translation>
     </message>
     <message>
@@ -4630,12 +5991,16 @@ Pictures</translation>
         <translation>Girar libremente</translation>
     </message>
     <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Gradiant</source>
         <translation type="obsolete">Gradient</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -4652,6 +6017,14 @@ Pictures</translation>
     <message>
         <source>Group</source>
         <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert</source>
@@ -4751,11 +6124,11 @@ Pictures</translation>
     </message>
     <message>
         <source>Outline</source>
-        <translation>Esquema</translation>
+        <translation type="obsolete">Esquema</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Trama</translation>
+        <translation type="obsolete">Trama</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -4772,12 +6145,20 @@ Size</source>
 de imagen</translation>
     </message>
     <message>
+        <source>Picture Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture Fill</source>
         <translation type="obsolete">Fill</translation>
     </message>
     <message>
         <source>Picture Line</source>
         <translation type="obsolete">Outline</translation>
+    </message>
+    <message>
+        <source>Picture OutLine</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -4789,19 +6170,27 @@ Size</translation>
         <translation>Estilos de imagen</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Relative to Slide</source>
         <translation>Con relación a la diapositiva</translation>
     </message>
     <message>
         <source>Reset
 Picture</source>
-        <translation type="unfinished">Restablecer
+        <translation type="obsolete">Restablecer
 imagen</translation>
     </message>
     <message>
         <source>Reset Picture</source>
-        <translation type="obsolete">Reset
+        <translation type="unfinished">Reset
 Picture</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -4840,6 +6229,10 @@ Picture</translation>
         <translation>Configuración</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow
 On/Off</source>
         <translation type="unfinished">Sombra
@@ -4863,6 +6256,18 @@ On/Off</translation>
         <translation type="obsolete">Shadow Effects</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -4872,7 +6277,11 @@ On/Off</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -4886,12 +6295,16 @@ On/Off</translation>
         <source>Weight</source>
         <translation>Peso</translation>
     </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
     </message>
 </context>
 <context>
@@ -4960,7 +6373,7 @@ Page</source>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation>Páginas de notas (2 diapositivas por página)</translation>
+        <translation type="obsolete">Páginas de notas (2 diapositivas por página)</translation>
     </message>
     <message>
         <source>Outline View</source>
@@ -5379,31 +6792,31 @@ Effects</translation>
     <name>ongmani.ct_slidemaster</name>
     <message>
         <source>108</source>
-        <translation>108</translation>
+        <translation type="obsolete">108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation>110</translation>
+        <translation type="obsolete">110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation>117</translation>
+        <translation type="obsolete">117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation>118</translation>
+        <translation type="obsolete">118</translation>
     </message>
     <message>
         <source>216</source>
-        <translation>216</translation>
+        <translation type="obsolete">216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation>252</translation>
+        <translation type="obsolete">252</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation>8226</translation>
+        <translation type="obsolete">8226</translation>
     </message>
     <message>
         <source>Backdrop</source>
@@ -5432,19 +6845,35 @@ Master View</source>
 vista Patrón</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete 
 Master</source>
-        <translation type="unfinished">Eliminar 
+        <translation type="obsolete">Eliminar 
 patrón</translation>
     </message>
     <message>
         <source>Delete Master</source>
-        <translation type="obsolete">Delete 
+        <translation type="unfinished">Delete 
 Master</translation>
     </message>
     <message>
         <source>Edit Master</source>
         <translation>Editar patrón</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Font</source>
@@ -5459,18 +6888,22 @@ Master</translation>
         <translation>Tamaño de fuente</translation>
     </message>
     <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation>Cursiva</translation>
     </message>
     <message>
         <source>Master 
 Layout</source>
-        <translation type="unfinished">Diseño del 
+        <translation type="obsolete">Diseño del 
 patrón</translation>
     </message>
     <message>
         <source>Master Layout</source>
-        <translation type="obsolete">Master 
+        <translation type="unfinished">Master 
 Layout</translation>
     </message>
     <message>
@@ -5484,7 +6917,7 @@ Layout</translation>
     <message>
         <source>New Slide
 Master</source>
-        <translation type="obsolete">New Slide 
+        <translation type="unfinished">New Slide 
 Master</translation>
     </message>
     <message>
@@ -5494,14 +6927,18 @@ Master</source>
 diapositivas</translation>
     </message>
     <message>
+        <source>New Slide Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
-        <translation type="obsolete">New Slide 
+        <translation type="unfinished">New Slide 
 Master</translation>
     </message>
     <message>
         <source>New Title 
 Master</source>
-        <translation type="unfinished">Nuevo patrón 
+        <translation type="obsolete">Nuevo patrón 
 de título</translation>
     </message>
     <message>
@@ -5512,8 +6949,12 @@ patrón</translation>
     </message>
     <message>
         <source>Preserve Master</source>
-        <translation type="obsolete">Preserve 
+        <translation type="unfinished">Preserve 
 Master</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rename 
@@ -5542,6 +6983,14 @@ Background Picture</translation>
         <translation>Sombra</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Underline</source>
         <translation>Subrayado</translation>
     </message>
@@ -5550,31 +6999,31 @@ Background Picture</translation>
     <name>ongmani.ct_slidemaster.Num</name>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation type="obsolete">0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="obsolete">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="obsolete">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>7</translation>
+        <translation type="obsolete">7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="obsolete">9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -5813,6 +7262,10 @@ Notes</translation>
         <translation>Líneas de división</translation>
     </message>
     <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Increase Font Size</source>
         <translation>Aumentar tamaño de fuente</translation>
     </message>
@@ -5867,6 +7320,10 @@ Cells</translation>
         <translation>Más colores de fuente</translation>
     </message>
     <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Narrow</source>
         <translation>Estrecho</translation>
     </message>
@@ -5885,6 +7342,14 @@ Cells</translation>
     <message>
         <source>Right</source>
         <translation>Derecha</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -5923,6 +7388,10 @@ Cells</translation>
         <translation>Sombra</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Split
 Cells</source>
         <translation type="unfinished">Dividir
@@ -5932,6 +7401,10 @@ celdas</translation>
         <source>Split Cells</source>
         <translation type="obsolete">Split
 Cells</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -5948,12 +7421,12 @@ Cells</translation>
     <message>
         <source>Text
 Direction</source>
-        <translation type="unfinished">Dirección
+        <translation type="obsolete">Dirección
 de texto</translation>
     </message>
     <message>
         <source>Text Direction</source>
-        <translation type="obsolete">Text
+        <translation type="unfinished">Text
 Direction</translation>
     </message>
     <message>
@@ -5985,8 +7458,363 @@ Direction</translation>
         <translation>Subrayado</translation>
     </message>
     <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wide</source>
         <translation>Wide</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <comment>Font Alignment</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Fill Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Outline Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_texttool.Num</name>
+    <message>
+        <source>More Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6020,16 +7848,16 @@ Add-Ins</translation>
     <message>
         <source>Close
 Other Window</source>
-        <translation type="unfinished">Cerrar
+        <translation type="obsolete">Cerrar
 otras ventanas</translation>
     </message>
     <message>
         <source>Close Other Windows</source>
-        <translation>Cerrar otras ventanas</translation>
+        <translation type="obsolete">Cerrar otras ventanas</translation>
     </message>
     <message>
         <source>Close Window</source>
-        <translation>Cerrar ventana</translation>
+        <translation type="obsolete">Cerrar ventana</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -6060,6 +7888,10 @@ y guías</translation>
         <source>Grid and Guides</source>
         <translation type="obsolete">Grid and
 Guides</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Horizontal Tile</source>
@@ -6093,8 +7925,20 @@ Window</translation>
         <translation>Normal</translation>
     </message>
     <message>
+        <source>Notes Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Presentation View</source>
         <translation>Nueva presentación</translation>
+    </message>
+    <message>
+        <source>Reading View</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -6110,7 +7954,7 @@ Window</translation>
     </message>
     <message>
         <source>Show More Windows</source>
-        <translation>Más ventanas</translation>
+        <translation type="obsolete">Más ventanas</translation>
     </message>
     <message>
         <source>Slide 
@@ -6137,7 +7981,7 @@ Sorter</translation>
     <message>
         <source>Switch
 Window</source>
-        <translation type="unfinished">Cambiar
+        <translation type="obsolete">Cambiar
 ventana</translation>
     </message>
     <message>
@@ -6732,6 +8576,10 @@ Spacing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6773,10 +8621,6 @@ Spacing</source>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Patterned Lines</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6841,6 +8685,10 @@ Spacing</source>
     </message>
     <message>
         <source>Slant Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7008,6 +8856,10 @@ Size</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Iniciar copia de seguridad automática</translation>
     </message>
@@ -7018,6 +8870,10 @@ Size</translation>
     <message>
         <source>Export to PDF</source>
         <translation>Exportar a PDF</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -7117,19 +8973,11 @@ Size</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>Lboratorio de diapositiva</translation>
-    </message>
-    <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Lboratorio de diapositiva</translation>
     </message>
     <message>
         <source>Special tool</source>
-        <translation type="obsolete">Herramientas especiales</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Herramientas especiales</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -7137,7 +8985,7 @@ Size</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Comentario de usuario</translation>
+        <translation type="obsolete">Comentario de usuario</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -7191,47 +9039,55 @@ Size</translation>
     <name>popupmenu</name>
     <message>
         <source>0 More Histories</source>
-        <translation type="obsolete">More Histories</translation>
+        <translation type="unfinished">More Histories</translation>
     </message>
     <message>
-        <source>0.25 pt</source>
+        <source>0.25 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.5 pt</source>
+        <source>0.5 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>0.75 pt</source>
+        <source>0.75 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1 pt</source>
+        <source>1 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>1.5 pt</source>
+        <source>1.5 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>2.25 pt</source>
+        <source>2.25 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>3 pt</source>
+        <source>3 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>4.5 pt</source>
+        <source>4.5 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>6 pt</source>
+        <source>6 pt.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About WPS Presentation</source>
         <translation>Sobre WPS Presentación</translation>
+    </message>
+    <message>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Above Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Action Buttons</source>
@@ -7246,12 +9102,36 @@ Size</translation>
         <translation>Activar WPS Office</translation>
     </message>
     <message>
+        <source>Add Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add DataLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add MajorGridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add MinorGridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Add Point</source>
         <translation>Agrgar punta</translation>
     </message>
     <message>
         <source>Add Text</source>
         <translation>Agregar texto</translation>
+    </message>
+    <message>
+        <source>Add Trendline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align</source>
@@ -7367,6 +9247,14 @@ Size</translation>
         <translation>Automático</translation>
     </message>
     <message>
+        <source>Axes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Axis Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Background</source>
         <translation>Fondo</translation>
     </message>
@@ -7383,6 +9271,14 @@ Size</translation>
         <translation>Bolígrafo</translation>
     </message>
     <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Black Screen</source>
         <translation>Pantalla negra</translation>
     </message>
@@ -7391,12 +9287,12 @@ Size</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Border</source>
-        <translation type="unfinished"></translation>
+        <source>Borders and Fill</source>
+        <translation type="obsolete">Bordes y relleno</translation>
     </message>
     <message>
-        <source>Borders and Fill</source>
-        <translation>Bordes y relleno</translation>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -7437,8 +9333,20 @@ de COM</translation>
         <translation>Centrado</translation>
     </message>
     <message>
+        <source>Centered Overlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Cambiar cuenta</translation>
+    </message>
+    <message>
+        <source>Change Chart Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change DataLabel Geometry</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Picture</source>
@@ -7447,6 +9355,10 @@ de COM</translation>
     <message>
         <source>Change Points</source>
         <translation type="obsolete">Edit Points</translation>
+    </message>
+    <message>
+        <source>Change Series Chart Type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -7458,11 +9370,31 @@ de COM</translation>
     </message>
     <message>
         <source>Change to</source>
-        <translation>Cambiar a</translation>
+        <translation type="obsolete">Cambiar a</translation>
     </message>
     <message>
         <source>Chart</source>
         <translation>Gráfico</translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Title</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -7515,6 +9447,10 @@ de COM</translation>
     <message>
         <source>Convert Path to AutoShape</source>
         <translation>Convertir ruta en autoforma</translation>
+    </message>
+    <message>
+        <source>Convert...</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy</source>
@@ -7581,12 +9517,20 @@ de COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Data Callout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data Chart</source>
         <translation type="obsolete">Chart</translation>
     </message>
     <message>
+        <source>Data Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data Table</source>
-        <translation type="obsolete">Table</translation>
+        <translation type="unfinished">Table</translation>
     </message>
     <message>
         <source>Date and Time</source>
@@ -7621,6 +9565,10 @@ de COM</translation>
         <translation>Eliminar comentario actual</translation>
     </message>
     <message>
+        <source>Delete Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Master</source>
         <translation>Eliminar patrón</translation>
     </message>
@@ -7637,6 +9585,10 @@ de COM</translation>
         <translation>Eliminar segmento</translation>
     </message>
     <message>
+        <source>Delete Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Slide</source>
         <translation>Eliminar diapositiva</translation>
     </message>
@@ -7646,7 +9598,7 @@ de COM</translation>
     </message>
     <message>
         <source>Diagram</source>
-        <translation>Diagrama</translation>
+        <translation type="obsolete">Diagrama</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -7665,6 +9617,10 @@ de COM</translation>
         <translation>Distribuido</translation>
     </message>
     <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Draw Shapes</source>
         <translation>Dibujar formas</translation>
     </message>
@@ -7677,12 +9633,20 @@ de COM</translation>
         <translation>Tabulador decimal</translation>
     </message>
     <message>
+        <source>Duplicate Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Duplicate Slide Master</source>
         <translation>Duplicar patrón de diapositivas</translation>
     </message>
     <message>
         <source>Edit Comment</source>
         <translation>Editar comentario</translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Edit Hyperlink</source>
@@ -7714,11 +9678,11 @@ de COM</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation type="obsolete">Encryption</translation>
+        <translation type="unfinished">Encryption</translation>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>Cifrado</translation>
+        <translation type="obsolete">Cifrado</translation>
     </message>
     <message>
         <source>End Show</source>
@@ -7761,6 +9725,14 @@ de COM</translation>
         <translation>Borrar marcas en la diapositiva</translation>
     </message>
     <message>
+        <source>Error Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Exit Edit Point</source>
         <translation>Salir de editar punto</translation>
     </message>
@@ -7771,6 +9743,10 @@ de COM</translation>
     <message>
         <source>Exit Rotate Mode</source>
         <translation>Salir de modo de girar</translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -7837,11 +9813,115 @@ de COM</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Format Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Axis Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Category Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Chart Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Chart Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Data Point</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Data Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Data Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format DataLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Down Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Drop Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format ErrorBars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Gridlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format High-Low Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Leader Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Legend Entry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format MajorGridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format MinorGridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Object</source>
         <translation>Formato de objecto</translation>
     </message>
     <message>
         <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Plot Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Series Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format TrendLine Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Trendline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format UnitLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Up Bars</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7865,10 +9945,6 @@ de COM</translation>
         <translation type="obsolete">Agarrar pantalla</translation>
     </message>
     <message>
-        <source>Gradient</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Graphics</source>
         <translation type="obsolete">Picture</translation>
     </message>
@@ -7877,12 +9953,20 @@ de COM</translation>
         <translation>Cuadrícula y guías</translation>
     </message>
     <message>
+        <source>Gridlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Group</source>
         <translation>Grupo</translation>
     </message>
     <message>
         <source>Grouping</source>
         <translation>Agrupación</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -7985,6 +10069,18 @@ de COM</translation>
         <translation type="obsolete">Insertar imagen en línea</translation>
     </message>
     <message>
+        <source>InsertNewChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Base</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Invisible</source>
         <translation>Invisible</translation>
     </message>
@@ -7998,6 +10094,14 @@ Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Keep Source Formattin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Text Only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Last Slide</source>
         <translation>Última diapositiva</translation>
     </message>
@@ -8007,7 +10111,7 @@ Template</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Diseño</translation>
+        <translation type="obsolete">Diseño</translation>
     </message>
     <message>
         <source>Left</source>
@@ -8016,6 +10120,10 @@ Template</source>
     <message>
         <source>Left Tab</source>
         <translation>Tabulador izquierdo</translation>
+    </message>
+    <message>
+        <source>Legend</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Line</source>
@@ -8034,6 +10142,18 @@ Template</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Links...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8048,6 +10168,10 @@ Template</source>
     <message>
         <source>Macro</source>
         <translation>Macro</translation>
+    </message>
+    <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -8095,7 +10219,7 @@ Template</source>
     </message>
     <message>
         <source>More Historical Records</source>
-        <translation>Más registros históricos</translation>
+        <translation type="obsolete">Más registros históricos</translation>
     </message>
     <message>
         <source>More Line Colors</source>
@@ -8103,6 +10227,10 @@ Template</source>
     </message>
     <message>
         <source>More Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Option...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8136,6 +10264,10 @@ diapositivas</translation>
         <translation type="obsolete">Nueva diapositiva en línea</translation>
     </message>
     <message>
+        <source>New Slide Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
         <translation>Nuevo patrón de diapositivas</translation>
     </message>
@@ -8145,7 +10277,7 @@ diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation type="obsolete">Nuevo patrón de título</translation>
     </message>
     <message>
         <source>New Window</source>
@@ -8161,12 +10293,24 @@ ventana</translation>
         <translation>Siguiente</translation>
     </message>
     <message>
+        <source>No Legend Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
         <source>Notes</source>
         <translation type="obsolete">Speaker Notes</translation>
+    </message>
+    <message>
+        <source>Notes Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notes Page</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Object</source>
@@ -8230,7 +10374,11 @@ ventana</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Organigrama</translation>
+        <translation type="obsolete">Organigrama</translation>
+    </message>
+    <message>
+        <source>Outside End</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Package into Compressed File</source>
@@ -8257,10 +10405,6 @@ ventana</translation>
         <translation>Pegado especial</translation>
     </message>
     <message>
-        <source>Pattern</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Patterned Lines</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8271,6 +10415,10 @@ ventana</translation>
     <message>
         <source>Pause Background Music</source>
         <translation>Detener música de fondo</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -8309,6 +10457,30 @@ ventana</translation>
         <translation>Anterior</translation>
     </message>
     <message>
+        <source>Primary Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Major Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Major Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Minor Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Minor Vertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Primary Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Product Management Center</source>
         <translation>Centro de organización de producto</translation>
     </message>
@@ -8319,6 +10491,10 @@ ventana</translation>
     <message>
         <source>Purchase Serial Number</source>
         <translation>Número de serie de compra</translation>
+    </message>
+    <message>
+        <source>Reading View</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -8345,12 +10521,32 @@ ventana</translation>
         <translation>Quitar hipervínculo</translation>
     </message>
     <message>
+        <source>Rename Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename Master</source>
         <translation>Cambiar nombre de patrón</translation>
     </message>
     <message>
         <source>Replace Font</source>
         <translation>Reemplazar fuente</translation>
+    </message>
+    <message>
+        <source>Reset Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset To Fit Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Resume</source>
@@ -8429,12 +10625,40 @@ ventana</translation>
         <translation>A mano alzada</translation>
     </message>
     <message>
+        <source>Secondary Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Major Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Major Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Minor Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Minor Vertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Security</source>
         <translation>Seguridad</translation>
     </message>
     <message>
         <source>Select</source>
-        <translation>Selecionar</translation>
+        <translation type="obsolete">Selecionar</translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select Table</source>
@@ -8479,6 +10703,10 @@ ventana</translation>
     <message>
         <source>Share to Microblog Webpage</source>
         <translation>Compartir a página web de Microblog</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show / Hide Grid</source>
@@ -8546,6 +10774,10 @@ de diapositiva</translation>
         <translation>Punto suave</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8570,6 +10802,18 @@ de diapositiva</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Stacking Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Deviation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Straight Connector</source>
         <translation>Conector recto</translation>
     </message>
@@ -8587,6 +10831,10 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support WPS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8610,12 +10858,28 @@ de diapositiva</translation>
         <translation>Cuadro de texto</translation>
     </message>
     <message>
-        <source>Texture</source>
+        <source>Top</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
         <translation>Transferir a documento de WPS Writer</translation>
+    </message>
+    <message>
+        <source>TrendLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Two Period Moving Average</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Typography</source>
@@ -8634,8 +10898,24 @@ de diapositiva</translation>
         <translation>Desagrupar</translation>
     </message>
     <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up/Down Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Update Online</source>
         <translation type="obsolete">Check for Updates</translation>
+    </message>
+    <message>
+        <source>Use Destination Theme</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Use Magnifier</source>
@@ -8660,6 +10940,10 @@ de diapositiva</translation>
     <message>
         <source>View Historical Backup</source>
         <translation>Ver copia de seguro histórica</translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Visible</source>
@@ -8710,8 +10994,12 @@ de diapositiva</translation>
         <translation>Pantalla blanca</translation>
     </message>
     <message>
+        <source>With Legend Keys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>WordArt</source>
-        <translation>WordArt</translation>
+        <translation type="obsolete">WordArt</translation>
     </message>
     <message>
         <source>Zoom</source>
@@ -8728,10 +11016,6 @@ de diapositiva</translation>
 </context>
 <context>
     <name>popupmenu.Fill</name>
-    <message>
-        <source>Picture</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -8925,7 +11209,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
-        <translation>Combinaciones
+        <translation type="obsolete">Combinaciones
 de animación</translation>
     </message>
     <message>
@@ -8948,6 +11232,274 @@ transición</translation>
     </message>
 </context>
 <context>
+    <name>rainbow.ct_charttools</name>
+    <message>
+        <source>Above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AboveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddAxisTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartElements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddChartTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataLabels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddDataTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddErrorBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddGridLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddLegend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddTrendLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AddUpDownBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BestFit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CenteredOverlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChangeChartType</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Elements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ChartStyle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataCallout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DataSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DropLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DropLinesAndHighLowLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exponential</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <comment>Chart Element Format</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HighLowLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideBase</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear Forecast</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Moving Average</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NoLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OutsideEnd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PrimaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryHorizontalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMajorVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryMinorVertial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SecondaryVerticalAxis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SeriesLines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StandardDeviation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StandardError</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TypeSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WithLegendKeys</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>changeColor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>layoutSection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>speedLayout</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>rainbow.ct_design</name>
     <message>
         <source>Background</source>
@@ -8958,9 +11510,18 @@ transición</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Color
+Schemes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Color Schemes</source>
-        <translation>Combinaciones
+        <translation type="obsolete">Combinaciones
 de colores</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -8971,9 +11532,26 @@ de colores</translation>
         <translation>Diseñar plantillas</translation>
     </message>
     <message>
+        <source>Edit
+Slide Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit Slide Master</source>
-        <translation>Editar patrón
+        <translation type="obsolete">Editar patrón
 de diapositiva</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Import Templates</source>
@@ -9019,6 +11597,10 @@ de página</translation>
 diapositiva</translation>
     </message>
     <message>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>import templates</source>
         <translation type="obsolete">importar plantillas</translation>
     </message>
@@ -9026,13 +11608,21 @@ diapositiva</translation>
 <context>
     <name>rainbow.ct_designtable</name>
     <message>
+        <source>Border Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Borders</source>
-        <translation>Bordes</translation>
+        <translation type="obsolete">Bordes</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
         <translation>Borrar estilo
 de tabla</translation>
+    </message>
+    <message>
+        <source>Draw Borders</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -9043,8 +11633,20 @@ de tabla</translation>
         <translation>Degradado</translation>
     </message>
     <message>
+        <source>Line Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation>Más colores de relleno</translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -9053,6 +11655,10 @@ de tabla</translation>
     <message>
         <source>Shading</source>
         <translation>Sombreado</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -9179,39 +11785,63 @@ del control</translation>
     <name>rainbow.ct_drawingtool</name>
     <message>
         <source>0.25 pt</source>
-        <translation>0.25 pto</translation>
+        <translation type="obsolete">0.25 pto</translation>
     </message>
     <message>
         <source>0.5 pt</source>
-        <translation>0.5 pto</translation>
+        <translation type="obsolete">0.5 pto</translation>
     </message>
     <message>
         <source>0.75 pt</source>
-        <translation>0.75 pto</translation>
+        <translation type="obsolete">0.75 pto</translation>
     </message>
     <message>
         <source>1 pt</source>
-        <translation>1 pto</translation>
+        <translation type="obsolete">1 pto</translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.5 pt</source>
-        <translation>1.5 pto</translation>
+        <translation type="obsolete">1.5 pto</translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>2.25 pt</source>
-        <translation>2.25 pto</translation>
+        <translation type="obsolete">2.25 pto</translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>3 pt</source>
-        <translation>3 pto</translation>
+        <translation type="obsolete">3 pto</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt</source>
-        <translation>4.5 pto</translation>
+        <translation type="obsolete">4.5 pto</translation>
     </message>
     <message>
         <source>6 pt</source>
-        <translation>6 pto</translation>
+        <translation type="obsolete">6 pto</translation>
     </message>
     <message>
         <source>Align</source>
@@ -9226,6 +11856,10 @@ del control</translation>
         <translation>Alinear verticalmente</translation>
     </message>
     <message>
+        <source>Align Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Align Left</source>
         <translation>Alinear a la izquierda</translation>
     </message>
@@ -9236,6 +11870,10 @@ del control</translation>
     <message>
         <source>Align Right</source>
         <translation>Alinear a la derecha</translation>
+    </message>
+    <message>
+        <source>Align Text</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -9294,12 +11932,32 @@ del control</translation>
         <translation>Estilo de flecha 9</translation>
     </message>
     <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Bring Forward</source>
         <translation>Traer adelante</translation>
     </message>
     <message>
         <source>Bring to Front</source>
-        <translation>Traer al frente</translation>
+        <translation type="obsolete">Traer al frente</translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Change Shapes</source>
@@ -9307,11 +11965,11 @@ del control</translation>
     </message>
     <message>
         <source>Dash</source>
-        <translation>Guion</translation>
+        <translation type="obsolete">Guion</translation>
     </message>
     <message>
         <source>Dash Dot</source>
-        <translation>Guion punto</translation>
+        <translation type="obsolete">Guion punto</translation>
     </message>
     <message>
         <source>Dash Dot Dot</source>
@@ -9319,7 +11977,7 @@ del control</translation>
     </message>
     <message>
         <source>Dash Style</source>
-        <translation>Estilo de guion</translation>
+        <translation type="obsolete">Estilo de guion</translation>
     </message>
     <message>
         <source>Dash-Dot</source>
@@ -9328,6 +11986,18 @@ del control</translation>
     <message>
         <source>Dash-Dot-Dot</source>
         <translation type="obsolete">Dash Dot Dot</translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Spacing</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Detailed Settings</source>
@@ -9342,8 +12012,16 @@ del control</translation>
         <translation>Distribuir verticalmente</translation>
     </message>
     <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Edit Points</source>
         <translation>Editar puntos</translation>
+    </message>
+    <message>
+        <source>Edit Shapes</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -9366,12 +12044,32 @@ del control</translation>
         <translation>Voltear verticalmente</translation>
     </message>
     <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Format Object</source>
         <translation>Formato de objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Girar libremente</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -9379,7 +12077,7 @@ del control</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -9394,28 +12092,84 @@ del control</translation>
         <translation>Grupo</translation>
     </message>
     <message>
+        <source>Hanging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Shapes</source>
         <translation>Insertar formas</translation>
     </message>
     <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Break</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Long Dash</source>
-        <translation>Guion largo</translation>
+        <translation type="obsolete">Guion largo</translation>
     </message>
     <message>
         <source>Long Dash Dot</source>
-        <translation>Guion largo, punto</translation>
-    </message>
-    <message>
-        <source>Long Dash Dot Dot</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Guion largo, punto</translation>
     </message>
     <message>
         <source>Long Dash-Dot</source>
         <translation type="obsolete">Long Dash Dot</translation>
     </message>
     <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>More Arrows</source>
         <translation>Más flechas</translation>
+    </message>
+    <message>
+        <source>More Bullets</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -9431,19 +12185,43 @@ del control</translation>
     </message>
     <message>
         <source>More Lines</source>
-        <translation>Más líneas</translation>
+        <translation type="obsolete">Más líneas</translation>
+    </message>
+    <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Trama</translation>
+        <translation type="obsolete">Trama</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
-        <translation>Líneas de entramado</translation>
+        <translation type="obsolete">Líneas de entramado</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Relative to Slide</source>
         <translation>Con relación a la diapositiva</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roman</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -9458,12 +12236,20 @@ del control</translation>
         <translation>Girar 90° a la derecha</translation>
     </message>
     <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Round Dot</source>
-        <translation>Punto redondo</translation>
+        <translation type="obsolete">Punto redondo</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Panel de selección</translation>
+        <translation type="obsolete">Panel de selección</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -9471,35 +12257,71 @@ del control</translation>
     </message>
     <message>
         <source>Send to Back</source>
-        <translation>Enviar al fondo</translation>
+        <translation type="obsolete">Enviar al fondo</translation>
     </message>
     <message>
         <source>Settings</source>
         <translation>Configuración</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shape Fill</source>
         <translation>Relleno de forma</translation>
     </message>
     <message>
+        <source>Shape Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shape Outline</source>
-        <translation>Esquema de forma</translation>
+        <translation type="obsolete">Esquema de forma</translation>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>Tamaño de sombra</translation>
+        <translation type="obsolete">Tamaño de sombra</translation>
     </message>
     <message>
         <source>Shape Styles</source>
         <translation>Estilos de forma</translation>
     </message>
     <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
-        <translation>Solido</translation>
+        <translation type="obsolete">Solido</translation>
     </message>
     <message>
         <source>Square Dot</source>
-        <translation>Punto cuadrado</translation>
+        <translation type="obsolete">Punto cuadrado</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -9507,30 +12329,419 @@ del control</translation>
     </message>
     <message>
         <source>Text Color</source>
-        <translation>Color del texto</translation>
+        <translation type="obsolete">Color del texto</translation>
+    </message>
+    <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ungroup</source>
         <translation>Desagrupar</translation>
     </message>
     <message>
+        <source>Unholding Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
     <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Weight</source>
-        <translation>Peso</translation>
+        <translation type="obsolete">Peso</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtool.Num</name>
+    <message>
+        <source>More Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtool_vml</name>
+    <message>
+        <source>0.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 10</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 11</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Style 9</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BringForward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Points</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detailed Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradiant</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid and Guides</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Sytle Palette</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Object Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative to Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SendBackward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show / Hide Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Texture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_drawingtool_vml.Fill</name>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9612,6 +12823,10 @@ del control</translation>
         <translation>Ayuda</translation>
     </message>
     <message>
+        <source>Manage Credentials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Microsoft PowerPoint 97-2003 Presentation</source>
         <translation>Microsoft PowerPoint 97-2003 Presentación</translation>
     </message>
@@ -9622,6 +12837,10 @@ del control</translation>
     <message>
         <source>Microsoft PowerPoint 97-2003 Show</source>
         <translation>Presentaciones de Microsoft PowerPoint 97-2003</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>New</source>
@@ -9688,6 +12907,14 @@ del control</translation>
         <translation>Número de serie de compra</translation>
     </message>
     <message>
+        <source>Restrict Permission by People</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Save</source>
         <translation>Guardar</translation>
     </message>
@@ -9712,8 +12939,24 @@ del control</translation>
         <translation>Estudio en línea</translation>
     </message>
     <message>
+        <source>Support WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Transfer to WPS Writer Document</source>
         <translation>Transferir a documento de WPS Writer</translation>
+    </message>
+    <message>
+        <source>Unrestricted Access</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -9799,19 +13042,19 @@ del control</translation>
     </message>
     <message>
         <source>108</source>
-        <translation type="unfinished">108</translation>
+        <translation type="obsolete">108</translation>
     </message>
     <message>
         <source>110</source>
-        <translation type="unfinished">110</translation>
+        <translation type="obsolete">110</translation>
     </message>
     <message>
         <source>117</source>
-        <translation type="unfinished">117</translation>
+        <translation type="obsolete">117</translation>
     </message>
     <message>
         <source>118</source>
-        <translation type="unfinished">118</translation>
+        <translation type="obsolete">118</translation>
     </message>
     <message>
         <source>2.0</source>
@@ -9827,11 +13070,11 @@ del control</translation>
     </message>
     <message>
         <source>216</source>
-        <translation type="unfinished">216</translation>
+        <translation type="obsolete">216</translation>
     </message>
     <message>
         <source>252</source>
-        <translation type="unfinished">252</translation>
+        <translation type="obsolete">252</translation>
     </message>
     <message>
         <source>3 pt</source>
@@ -9855,7 +13098,7 @@ del control</translation>
     </message>
     <message>
         <source>8226</source>
-        <translation type="unfinished">8226</translation>
+        <translation type="obsolete">8226</translation>
     </message>
     <message>
         <source>Align</source>
@@ -9984,7 +13227,11 @@ del control</translation>
     </message>
     <message>
         <source>Change Text Orientation</source>
-        <translation type="unfinished">Cambiar dirección de texto</translation>
+        <translation type="obsolete">Cambiar dirección de texto</translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clipboard</source>
@@ -10108,7 +13355,7 @@ del control</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>Texto con formato</translation>
+        <translation type="obsolete">Texto con formato</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -10134,7 +13381,7 @@ actual</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -10155,6 +13402,10 @@ actual</translation>
     <message>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
+    </message>
+    <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -10191,6 +13442,14 @@ actual</translation>
     <message>
         <source>Justify</source>
         <translation>Jistificado</translation>
+    </message>
+    <message>
+        <source>Keep Only Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formattin</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
@@ -10253,6 +13512,10 @@ actual</translation>
         <translation type="unfinished">Más líneas</translation>
     </message>
     <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Movie</source>
         <translation type="unfinished">Película</translation>
     </message>
@@ -10297,12 +13560,16 @@ actual</translation>
         <translation>Pegar</translation>
     </message>
     <message>
+        <source>Paste Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Paste Special</source>
         <translation>Pegado especial</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation type="unfinished">Trama</translation>
+        <translation type="obsolete">Trama</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -10343,6 +13610,14 @@ actual</translation>
     <message>
         <source>Rotate Right 90°</source>
         <translation type="unfinished">Girar 90° a la derecha</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Round Dot</source>
@@ -10386,7 +13661,7 @@ actual</translation>
     </message>
     <message>
         <source>Shape Effects</source>
-        <translation type="unfinished">Efectos de sombra</translation>
+        <translation type="obsolete">Efectos de sombra</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -10405,6 +13680,10 @@ actual</translation>
         <translation type="unfinished">Diapositivas</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -10415,6 +13694,10 @@ actual</translation>
     <message>
         <source>Square Dot</source>
         <translation type="unfinished">Punto cuadrado</translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscript</source>
@@ -10437,8 +13720,12 @@ actual</translation>
         <translation>Color del texto</translation>
     </message>
     <message>
+        <source>Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -10446,15 +13733,23 @@ actual</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Texto sin formato</translation>
+        <translation type="obsolete">Texto sin formato</translation>
     </message>
     <message>
         <source>Ungroup</source>
         <translation type="unfinished">Desagrupar</translation>
     </message>
     <message>
+        <source>Use Destination Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translation>Vertical</translation>
+    </message>
+    <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Weight</source>
@@ -10469,38 +13764,38 @@ actual</translation>
     <name>rainbow.ct_home.Fill</name>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
     </message>
 </context>
 <context>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>0</source>
-        <translation>0</translation>
+        <translation type="obsolete">0</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="obsolete">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="obsolete">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation type="obsolete">3</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation>7</translation>
+        <translation type="obsolete">7</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="obsolete">9</translation>
     </message>
     <message>
         <source>More Numbering</source>
@@ -10515,19 +13810,24 @@ actual</translation>
     <name>rainbow.ct_insert</name>
     <message>
         <source>Action</source>
-        <translation>Acción</translation>
+        <translation type="obsolete">Acción</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation type="obsolete">Action</translation>
+        <translation type="unfinished">Action</translation>
     </message>
     <message>
         <source>Atristic Clip</source>
         <translation type="obsolete">Clip artístico</translation>
     </message>
     <message>
+        <source>Background
+Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Background Music</source>
-        <translation>Música de fondo</translation>
+        <translation type="obsolete">Música de fondo</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -10552,6 +13852,11 @@ actual</translation>
     <message>
         <source>Flash</source>
         <translation>Flash</translation>
+    </message>
+    <message>
+        <source>Header and 
+Footer</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -10590,6 +13895,10 @@ actual</translation>
         <translation type="obsolete">Insert Chart</translation>
     </message>
     <message>
+        <source>Insert File Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Hyperlink</source>
         <translation>Insertar hipervínculo</translation>
     </message>
@@ -10622,6 +13931,10 @@ actual</translation>
         <translation type="obsolete">Insertar imagen en línea</translation>
     </message>
     <message>
+        <source>InsertNewChart2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Links</source>
         <translation>Vínculos</translation>
     </message>
@@ -10650,6 +13963,10 @@ actual</translation>
         <translation>Organigrama</translation>
     </message>
     <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Package File</source>
         <translation>Empaquetar archivo</translation>
     </message>
@@ -10668,6 +13985,15 @@ actual</translation>
     <message>
         <source>Shapes</source>
         <translation>Formas</translation>
+    </message>
+    <message>
+        <source>Slide
+Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -10927,6 +14253,10 @@ diapositiva</translation>
         <translation>Opción inteligente</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -11068,6 +14398,10 @@ subordinado</translation>
     <message>
         <source>3 pt</source>
         <translation>3 pto</translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -11218,8 +14552,16 @@ subordinado</translation>
         <translation>Formato de objecto</translation>
     </message>
     <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Free Rotate</source>
         <translation>Girar libremente</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -11227,7 +14569,7 @@ subordinado</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation>Degradado</translation>
+        <translation type="obsolete">Degradado</translation>
     </message>
     <message>
         <source>Grayscale</source>
@@ -11244,6 +14586,10 @@ subordinado</translation>
     <message>
         <source>Group</source>
         <translation>Grupo</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert</source>
@@ -11351,7 +14697,7 @@ subordinado</translation>
     </message>
     <message>
         <source>Pattern</source>
-        <translation>Trama</translation>
+        <translation type="obsolete">Trama</translation>
     </message>
     <message>
         <source>Patterned Lines</source>
@@ -11370,12 +14716,20 @@ subordinado</translation>
         <translation>Estilos de imagen</translation>
     </message>
     <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Relative to Slide</source>
         <translation>Con relación a la diapositiva</translation>
     </message>
     <message>
         <source>Reset Picture</source>
         <translation>Restablecer imagen</translation>
+    </message>
+    <message>
+        <source>Reset Picture and Size</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -11418,6 +14772,10 @@ subordinado</translation>
         <translation>Configuración</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Shadow Color</source>
         <translation>Color de sombra</translation>
     </message>
@@ -11434,6 +14792,22 @@ subordinado</translation>
         <translation type="obsolete">Shadow Effects</translation>
     </message>
     <message>
+        <source>Shape Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -11443,7 +14817,7 @@ subordinado</translation>
     </message>
     <message>
         <source>Texture</source>
-        <translation>Textura</translation>
+        <translation type="obsolete">Textura</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -11457,12 +14831,16 @@ subordinado</translation>
         <source>Weight</source>
         <translation>Peso</translation>
     </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.Fill</name>
     <message>
         <source>Picture</source>
-        <translation>Imagen</translation>
+        <translation type="obsolete">Imagen</translation>
     </message>
 </context>
 <context>
@@ -11528,7 +14906,7 @@ subordinado</translation>
     </message>
     <message>
         <source>Notes pages (3 slides per page)</source>
-        <translation>Páginas de notas (3 diapositivas por página)</translation>
+        <translation type="obsolete">Páginas de notas (3 diapositivas por página)</translation>
     </message>
     <message>
         <source>Outline View</source>
@@ -11712,6 +15090,10 @@ Color</translation>
         <translation>Brillo</translation>
     </message>
     <message>
+        <source>ChooseChartDataSource</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Custom</source>
         <translation>Personalizar</translation>
     </message>
@@ -11726,6 +15108,10 @@ Color</translation>
     <message>
         <source>Direction</source>
         <translation>Dirección</translation>
+    </message>
+    <message>
+        <source>EditChartDataSource</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -11851,12 +15237,32 @@ Color</translation>
         <translation>Cerrar</translation>
     </message>
     <message>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Delete Master</source>
-        <translation>Eliminar patrón</translation>
+        <translation type="obsolete">Eliminar patrón</translation>
     </message>
     <message>
         <source>Edit Master</source>
         <translation>Editar patrón</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -11869,20 +15275,32 @@ Master</source>
 diapositivas</translation>
     </message>
     <message>
+        <source>New Slide Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide Master</source>
         <translation>Nuevo patrón de diapositivas</translation>
     </message>
     <message>
         <source>New Title Master</source>
-        <translation>Nuevo patrón de título</translation>
+        <translation type="obsolete">Nuevo patrón de título</translation>
     </message>
     <message>
         <source>Preserve Master</source>
         <translation>Conservar patrón</translation>
     </message>
     <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Rename Master</source>
-        <translation>Cambiar nombre de patrón</translation>
+        <translation type="obsolete">Cambiar nombre de patrón</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12017,6 +15435,10 @@ de diapositivas</translation>
         <translation>Distribuir filas uniformemente</translation>
     </message>
     <message>
+        <source>Horizontal direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Insert Above</source>
         <translation>Insertar por encima</translation>
     </message>
@@ -12049,6 +15471,10 @@ de diapositivas</translation>
         <translation>Combinar celdas</translation>
     </message>
     <message>
+        <source>More Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Narrow</source>
         <translation>Estrecho</translation>
     </message>
@@ -12063,6 +15489,14 @@ de diapositivas</translation>
     <message>
         <source>Right</source>
         <translation>Derecha</translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rows and Columns</source>
@@ -12097,6 +15531,10 @@ de diapositivas</translation>
         <translation>Dividir celdas</translation>
     </message>
     <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Table</source>
         <translation>Tabla</translation>
     </message>
@@ -12109,8 +15547,282 @@ de diapositivas</translation>
         <translation type="obsolete">Margins</translation>
     </message>
     <message>
+        <source>Vertical direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Wide</source>
         <translation>Wide</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_texttool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Textbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Bullets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Outline Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ThreeDRotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_texttool.Num</name>
+    <message>
+        <source>More Numbering</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12839,6 +16551,10 @@ Effects</translation>
         <translation>Diagonal hacia arriba</translation>
     </message>
     <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Solid</source>
         <translation>Solido</translation>
     </message>
@@ -12983,6 +16699,10 @@ WordArt</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enable AutoBackup</source>
         <translation>Iniciar copia de seguridad automática</translation>
     </message>
@@ -12993,6 +16713,10 @@ WordArt</translation>
     <message>
         <source>Export to PDF</source>
         <translation>Exportar a PDF</translation>
+    </message>
+    <message>
+        <source>Feedback and Support</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Backup</source>
@@ -13095,16 +16819,8 @@ WordArt</translation>
         <translation>Bibliteca de diapositiva</translation>
     </message>
     <message>
-        <source>Special Features</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Special tool</source>
-        <translation type="obsolete">Herramientas especiales</translation>
-    </message>
-    <message>
-        <source>Text Speech</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Herramientas especiales</translation>
     </message>
     <message>
         <source>Translate to Document</source>
@@ -13112,7 +16828,7 @@ WordArt</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Comentario de usuario</translation>
+        <translation type="obsolete">Comentario de usuario</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -13587,7 +17303,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>Comentario de usuario</translation>
+        <translation type="obsolete">Comentario de usuario</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -13618,6 +17334,10 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message>
         <source>3-D Settings</source>
         <translation>Configuración de 3-D</translation>
+    </message>
+    <message>
+        <source>Chart</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Control Toolbox</source>
@@ -13688,11 +17408,11 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation>Diagrama</translation>
+        <translation type="obsolete">Diagrama</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Organigrama</translation>
+        <translation type="obsolete">Organigrama</translation>
     </message>
 </context>
 <context>
@@ -13714,8 +17434,16 @@ When you click a pixel in the current graphic, all pixels of that specific color
         <translation>Alinear a la derecha</translation>
     </message>
     <message>
+        <source>All Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Animation</source>
         <translation>Animación</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arrow Options</source>
@@ -13727,7 +17455,11 @@ When you click a pixel in the current graphic, all pixels of that specific color
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>Autoformas</translation>
+        <translation type="obsolete">Autoformas</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Backup</source>
@@ -13740,6 +17472,18 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message>
         <source>Bold</source>
         <translation>Negrita</translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CellphoneControl</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Center</source>
@@ -13795,7 +17539,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Vínculo en nube</translation>
+        <translation type="obsolete">Vínculo en nube</translation>
     </message>
     <message>
         <source>Color Schemes</source>
@@ -13828,10 +17572,6 @@ When you click a pixel in the current graphic, all pixels of that specific color
     <message>
         <source>Creat Cloud Link</source>
         <translation type="obsolete">Crear vínculo en nube</translation>
-    </message>
-    <message>
-        <source>Create Cloud Link</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Curve</source>
@@ -13878,6 +17618,14 @@ When you click a pixel in the current graphic, all pixels of that specific color
         <translation>Reducir sangría</translation>
     </message>
     <message>
+        <source>Diagonal Down Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Up Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Docer Entrance</source>
         <translation type="unfinished"></translation>
     </message>
@@ -13903,7 +17651,7 @@ When you click a pixel in the current graphic, all pixels of that specific color
     </message>
     <message>
         <source>Effects</source>
-        <translation>Efectos</translation>
+        <translation type="obsolete">Efectos</translation>
     </message>
     <message>
         <source>Eraser</source>
@@ -13938,6 +17686,10 @@ When you click a pixel in the current graphic, all pixels of that specific color
         <translation>Formato</translation>
     </message>
     <message>
+        <source>Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>From Current
 Slide</source>
         <translation type="unfinished">De diapositiva
@@ -13955,8 +17707,24 @@ actual</translation>
 Slide</translation>
     </message>
     <message>
+        <source>Google Docs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GoogleDocs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Grab Screen</source>
         <translation type="obsolete">Agarrar pantalla</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
@@ -13967,11 +17735,19 @@ Slide</translation>
         <translation type="obsolete">Ocultar al agarrar pantalla</translation>
     </message>
     <message>
+        <source>High Resolution Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Hyperlink</source>
         <translation>Hipervínculo</translation>
     </message>
     <message>
         <source>Image Exporting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13995,6 +17771,18 @@ Slide</translation>
         <translation>Insertar</translation>
     </message>
     <message>
+        <source>Inside Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Horizontal Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Vertical Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation>Cursiva</translation>
     </message>
@@ -14004,11 +17792,19 @@ Slide</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>Diseño</translation>
+        <translation type="obsolete">Diseño</translation>
+    </message>
+    <message>
+        <source>Layout Miniature Popup Menu</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Left</source>
         <translation type="obsolete">Align Left</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Macros</source>
@@ -14032,7 +17828,31 @@ Slide</translation>
     </message>
     <message>
         <source>Materials</source>
-        <translation>Materiales</translation>
+        <translation type="obsolete">Materiales</translation>
+    </message>
+    <message>
+        <source>MoreEffects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontEffects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreFontOutline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreOutline</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Motion Path</source>
@@ -14091,6 +17911,10 @@ Slide</translation>
         <translation>Nueva presentación</translation>
     </message>
     <message>
+        <source>New Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>New Slide From Library</source>
         <translation type="obsolete">Nueva diapositiva de biblioteca</translation>
     </message>
@@ -14105,6 +17929,94 @@ Slide</translation>
     <message>
         <source>New from Other Templates</source>
         <translation>Nuevo de otras plantillas</translation>
+    </message>
+    <message>
+        <source>NewChart Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart AxisTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart ChartArea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart ChartTitle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DataLabels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DataTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Datapoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DownBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart DropLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart ErrorBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Gridline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart HighLowLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart LeadLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Legend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart LegendEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart PlotArea</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart SeriesLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart TrendLine Label</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart UnitLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewChart UpBar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -14148,8 +18060,16 @@ Slide</translation>
         <translation type="obsolete">OLE Object</translation>
     </message>
     <message>
+        <source>Object Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Espacio de oficina</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
@@ -14157,6 +18077,10 @@ Slide</translation>
     </message>
     <message>
         <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14176,12 +18100,24 @@ Slide</translation>
         <translation>Pegar</translation>
     </message>
     <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>Imagen</translation>
     </message>
     <message>
         <source>Picture Popup Menu</source>
         <translation type="obsolete">Picture</translation>
+    </message>
+    <message>
+        <source>Play Back</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print</source>
@@ -14214,6 +18150,10 @@ Slide</translation>
     <message>
         <source>Right</source>
         <translation type="obsolete">Align Right</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Rotate Mode</source>
@@ -14270,11 +18210,19 @@ Slide</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
-        <translation type="obsolete">Shpaes</translation>
+        <translation type="unfinished">Shpaes</translation>
+    </message>
+    <message>
+        <source>Share</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show / Hide Grid</source>
         <translation type="obsolete">Show/Hide Grid</translation>
+    </message>
+    <message>
+        <source>Show / Hide Ink Markup</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide Grid</source>
@@ -14298,7 +18246,7 @@ Slide</translation>
     </message>
     <message>
         <source>Slide Design - Animation Schemes</source>
-        <translation>Diseño de diapositiva - Combinaciones de animación</translation>
+        <translation type="obsolete">Diseño de diapositiva - Combinaciones de animación</translation>
     </message>
     <message>
         <source>Slide Design - Color Schemes</source>
@@ -14310,7 +18258,7 @@ Slide</translation>
     </message>
     <message>
         <source>Slide Layout</source>
-        <translation>Diseño de diapositiva</translation>
+        <translation type="obsolete">Diseño de diapositiva</translation>
     </message>
     <message>
         <source>Slide Miniature</source>
@@ -14364,6 +18312,14 @@ de diapositiva</translation>
     <message>
         <source>Switch</source>
         <translation>Cambiar</translation>
+    </message>
+    <message>
+        <source>Switch to next window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to previous window</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -14422,6 +18378,10 @@ de diapositiva</translation>
         <translation>Herramientas</translation>
     </message>
     <message>
+        <source>Top Border</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Underline</source>
         <translation>Subrayado</translation>
     </message>
@@ -14452,6 +18412,10 @@ de diapositiva</translation>
     <message>
         <source>WPS Online Template</source>
         <translation>Plantillas en línea de WPS</translation>
+    </message>
+    <message>
+        <source>Watercolor Pen</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Window</source>
@@ -14502,7 +18466,7 @@ de diapositiva</translation>
     <name>wppcommon.mainwindow.commands.OrgChartAndDiagram</name>
     <message>
         <source>Diagram</source>
-        <translation>Diagrama</translation>
+        <translation type="obsolete">Diagrama</translation>
     </message>
     <message>
         <source>OrgChart</source>
@@ -14510,7 +18474,14 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Organization Chart</translation>
+        <translation type="obsolete">Organization Chart</translation>
+    </message>
+</context>
+<context>
+    <name>wppcommon.mainwindow.commands.Show</name>
+    <message>
+        <source>Erase</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14523,8 +18494,24 @@ de diapositiva</translation>
 <context>
     <name>wppcommon.mainwindow.commands.status bar</name>
     <message>
+        <source>Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Normal</source>
         <translation>Normal</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading View</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide Show From Current</source>
@@ -14561,8 +18548,20 @@ de diapositiva</translation>
         <translation>Animación</translation>
     </message>
     <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BringForward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Cambiar cuenta</translation>
+    </message>
+    <message>
+        <source>Chart Tools</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close Window</source>
@@ -14586,7 +18585,11 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Drawing Tool</source>
-        <translation type="obsolete">Drawing Tools</translation>
+        <translation type="unfinished">Drawing Tools</translation>
+    </message>
+    <message>
+        <source>Drawing Tool - Compatibility Mode</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -14603,6 +18606,10 @@ de diapositiva</translation>
     <message>
         <source>Formats</source>
         <translation>Formato</translation>
+    </message>
+    <message>
+        <source>Handout Master</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
@@ -14649,6 +18656,10 @@ de diapositiva</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Notes Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Office Space</source>
         <translation type="obsolete">Espacio de oficina</translation>
     </message>
@@ -14666,7 +18677,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Gráfico de organización</translation>
+        <translation type="obsolete">Gráfico de organización</translation>
     </message>
     <message>
         <source>Output Shape Thumbnail</source>
@@ -14721,6 +18732,18 @@ de diapositiva</translation>
         <translation>Vista previa</translation>
     </message>
     <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SendBackward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Show the Toolbar</source>
         <translation>Mostrar barra de herramientas</translation>
     </message>
@@ -14755,6 +18778,14 @@ de diapositiva</translation>
     <message>
         <source>Table Tools</source>
         <translation>Herramientas de tabla</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Touch Mode</source>
@@ -14805,12 +18836,20 @@ de diapositiva</translation>
         <translation>WordArt</translation>
     </message>
     <message>
+        <source>WordArt Formats</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Work Space</source>
         <translation type="obsolete">Work Space</translation>
     </message>
     <message>
         <source>Work space</source>
         <translation type="obsolete">Work Space</translation>
+    </message>
+    <message>
+        <source>formats</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>setting</source>
@@ -14857,7 +18896,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Organigrama</translation>
+        <translation type="obsolete">Organigrama</translation>
     </message>
 </context>
 <context>
@@ -14886,6 +18925,10 @@ de diapositiva</translation>
         <translation type="obsolete">Cambiar cuenta</translation>
     </message>
     <message>
+        <source>Chart Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Close Window</source>
         <translation>Cerrar ventana</translation>
     </message>
@@ -14896,6 +18939,10 @@ de diapositiva</translation>
     <message>
         <source>Developer</source>
         <translation>Desarrollador</translation>
+    </message>
+    <message>
+        <source>Drawing Tool</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Drawing Tools</source>
@@ -14979,7 +19026,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Organigrama</translation>
+        <translation type="obsolete">Organigrama</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -15062,6 +19109,14 @@ de diapositiva</translation>
         <translation>Herramientas de tabla</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>User Sign In</source>
         <translation>Iniciar sesión de de usuario</translation>
     </message>
@@ -15084,6 +19139,10 @@ de diapositiva</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>formats</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -15133,7 +19192,7 @@ de diapositiva</translation>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation>Organigrama</translation>
+        <translation type="obsolete">Organigrama</translation>
     </message>
 </context>
 </TS>

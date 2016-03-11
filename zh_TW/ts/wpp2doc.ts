@@ -375,5 +375,9 @@ For example, 1,3,5-9.</source>
         <source>save file</source>
         <translation type="obsolete">儲存</translation>
     </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

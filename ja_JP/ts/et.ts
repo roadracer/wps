@@ -134,7 +134,7 @@
     </message>
     <message>
         <source>You can choose from three different ways to connect to your chosen data source.</source>
-        <translation>3つのデータソースへのリンク方式から1つを選択してデータソースへのリンクが実現できます。</translation>
+        <translation type="obsolete">3つのデータソースへのリンク方式から1つを選択してデータソースへのリンクが実現できます。</translation>
     </message>
     <message>
         <source>&amp;Open data file directly</source>
@@ -149,7 +149,15 @@
         <translation>連続文の入力(&amp;C)</translation>
     </message>
     <message>
-        <source>Use ODBC data source connection guide (&amp;W)</source>
+        <source>O&amp;DBC DSN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other/Advanced(&amp;W)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can choose from four different ways to connect to your chosen data source.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -964,11 +972,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation type="unfinished">昇順(S)</translation>
+        <translation type="obsolete">昇順(S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation type="unfinished">降順(O)</translation>
+        <translation type="obsolete">降順(O)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -1293,6 +1301,300 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxCellFormatCombobox</name>
+    <message>
+        <source>No Cell Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">自動</translation>
+    </message>
+    <message>
+        <source>Gradient</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCellStyleDlg</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">スタイル</translation>
+    </message>
+    <message>
+        <source>&amp;Style name:</source>
+        <translation type="unfinished">スタイル名(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Style includes</source>
+        <translation type="unfinished">スタイルに設定された書式</translation>
+    </message>
+    <message>
+        <source>Number:</source>
+        <translation type="unfinished">数字:</translation>
+    </message>
+    <message>
+        <source>Alignment:</source>
+        <translation type="unfinished">配置:</translation>
+    </message>
+    <message>
+        <source>Font:</source>
+        <translation type="unfinished">フォント:</translation>
+    </message>
+    <message>
+        <source>Border:</source>
+        <translation type="unfinished">罫線:</translation>
+    </message>
+    <message>
+        <source>Patterns:</source>
+        <translation type="unfinished">パターン:</translation>
+    </message>
+    <message>
+        <source>Protection:</source>
+        <translation type="unfinished">保護:</translation>
+    </message>
+    <message>
+        <source>&amp;Format...</source>
+        <translation type="unfinished">書式(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Number Format</source>
+        <translation type="unfinished">数字の書式なし</translation>
+    </message>
+    <message>
+        <source>You are not allowed to add the default style name.</source>
+        <translation type="unfinished">既定のスタイル名を追加する権限がありません</translation>
+    </message>
+    <message>
+        <source>Style Name Not Valid</source>
+        <translation type="unfinished">スタイル名が無効です</translation>
+    </message>
+    <message>
+        <source>No Alignment</source>
+        <translation type="unfinished">配置なし</translation>
+    </message>
+    <message>
+        <source>Shrink To fit</source>
+        <translation type="unfinished">フォントを縮小して全体表示</translation>
+    </message>
+    <message>
+        <source>Right-to-Left Reading Order</source>
+        <translation type="unfinished">右から左へ</translation>
+    </message>
+    <message>
+        <source>Left-to-Right Reading Order</source>
+        <translation type="unfinished">左から右へ</translation>
+    </message>
+    <message>
+        <source>Context Reading Order</source>
+        <translation type="unfinished">内容による</translation>
+    </message>
+    <message>
+        <source>ReadingOrder</source>
+        <translation type="unfinished">文字の方向</translation>
+    </message>
+    <message>
+        <source>Rotated down %1 Degrees</source>
+        <translation type="unfinished">%1 度下に回転</translation>
+    </message>
+    <message>
+        <source>Degrees</source>
+        <translation type="unfinished">Degrees</translation>
+    </message>
+    <message>
+        <source>Rotated up %1 Degrees</source>
+        <translation type="unfinished">%1 度上に回転</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">垂直方向の配置</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">水平方向の配置</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation type="unfinished">方向</translation>
+    </message>
+    <message>
+        <source>Wrap</source>
+        <translation type="unfinished">折り返し</translation>
+    </message>
+    <message>
+        <source>Indents</source>
+        <translation type="unfinished">インデント</translation>
+    </message>
+    <message>
+        <source>Top Aligned</source>
+        <translation type="unfinished">上揃え</translation>
+    </message>
+    <message>
+        <source>Vertical Justify Aligned</source>
+        <translation type="unfinished">垂直均等割り付け</translation>
+    </message>
+    <message>
+        <source>Vertical Distributed Aligned</source>
+        <translation type="unfinished">垂直分散配置</translation>
+    </message>
+    <message>
+        <source>Vertical Center Aligned</source>
+        <translation type="unfinished">垂直方向中央寄せ</translation>
+    </message>
+    <message>
+        <source>Bottom Aligned</source>
+        <translation type="unfinished">下揃え</translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill</source>
+        <translation type="unfinished">フィル</translation>
+    </message>
+    <message>
+        <source>Horizontal Distributed</source>
+        <translation type="unfinished">水平分散</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation type="unfinished">上下中央揃え</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Font</source>
+        <translation type="unfinished">フォントなし</translation>
+    </message>
+    <message>
+        <source>Color</source>
+        <translation type="unfinished">色</translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished">下付き</translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished">上付き</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished">取り消し線</translation>
+    </message>
+    <message>
+        <source>Single Accounting</source>
+        <translation type="unfinished">単一会計</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Accounting</source>
+        <translation type="unfinished">複式会計</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">下線</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">斜体</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">太字</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">サイズ</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">フォント</translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation type="unfinished">枠なし</translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <translation type="unfinished">罫線</translation>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation type="unfinished">影付き</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation type="unfinished">網掛けなし</translation>
+    </message>
+    <message>
+        <source>No Protection</source>
+        <translation type="unfinished">未保護</translation>
+    </message>
+    <message>
+        <source>Locked</source>
+        <translation type="unfinished">ロック</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DiagonalDown</source>
+        <translation type="unfinished">右回りに回転</translation>
+    </message>
+    <message>
+        <source>DiagonalUp</source>
+        <translation type="unfinished">左回りに回転</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">停止</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MarjorFont</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextFont</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This format name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxChangeFileAccessDlg</name>
     <message>
         <source>file have benn changed.</source>
@@ -1308,6 +1610,460 @@ condition is true:</source>
     <message>
         <source>Confirmation password is not identical.</source>
         <translation>入力したパスワードが間違っています</translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryCommand</name>
+    <message>
+        <source>To create this stock chart, arrange the data on your sheet in this order: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Use dates or stock names as labels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>volume traded, high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>volume traded, opening price, high price, low price, closing price. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To create a combination chart, select at least two series of data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some chart types cannot be combined with other chart types. Select a different chart type.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeGalleryModel</name>
+    <message>
+        <source>2-D Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stock</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2-D Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>X Y (Scatter)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">線</translation>
+    </message>
+    <message>
+        <source>Stacked Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Line with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Line with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open-High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume-High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume-Open-High-Low-Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radar with Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filled Radar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100% Stacked Area</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Column Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clustered Column - Line on Secondary Axis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Area - Clustered Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie Of Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar Of Pie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Doughnut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines and Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Smooth Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines and Markers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scatter with Straight Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxChartTypeItem</name>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The order of categories is not important.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole.
+• Show how parts of a whole change over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentages that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare values across a few categories.
+
+Use it when:
+• The chart shows duration.
+• The category text is long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare parts of a whole across categories.
+• Show how parts of a whole change over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare the percentage that each value contributes to a total.
+• Show how the percentage that each value contributes changes over time.
+
+Use it when:
+• The category text is long.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are many data points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show how parts of a whole change over time.
+
+Consider using a stacked area chart instead as stacked line charts can be hard to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Show the change to the percentage that each value contributes over time.
+
+Consider using a 100% stacked area chart because stacked line charts can be hard to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• The order of categories is important.
+• There are few data points.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have three series of price values: High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have four series of price values: Open, High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have four series of values: Volume, High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the trend of a stock&apos;s performance over time.
+
+Use it when:
+• You have five series of values: Volume, Open, High, Low, Close.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show values relative to a center point.
+
+Use it when:
+• Categories are not directly comparable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show trends over time (years, months, and days) or categories.
+
+Use it when:
+• Category order is important.
+• To highlight the magnitude of change over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the relationship of parts to a whole over time or categories.
+• Highlight the magnitude of change over time.
+• Draw attention to the total value across a trend.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show the percentage contribution to a whole over time or categories.
+• Highlight the magnitude of change to the percentage that each value contributes over time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• You have mixed types of data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Highlight different types of information.
+
+Use it when:
+• The range of values in the chart varies widely.
+• You have mixed types of data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it when:
+• Numbers equal 100%.
+• The chart contains only a few pie slices (many slices make the angles hard to estimate).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a second pie to make small percentages more readable or highlight the values in the second pie.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+• Take some values from the first pie and combine them in a stacked bar to make small percentages more readable or highlight the values in the stacked bar.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Show proportions of a whole.
+
+Use it instead of a pie chart when there are multiple series that relate to a larger sum.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• The data represents separate measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents a set of x,y pairs based on a formula.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are few data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least two sets of values or pairs of data.
+
+Use it when:
+• There are many data points.
+• The data represents separate measurements.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this chart type to:
+• Compare at least three sets of values or pairs of data.
+• Show relationships between sets of values
+
+Use it when:
+• You have a third value that can be used to determine the relative size of the bubble.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1446,10 +2202,6 @@ condition is true:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>% Items</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Average</source>
         <translation type="unfinished">平均値</translation>
     </message>
@@ -1571,6 +2323,14 @@ condition is true:</source>
     </message>
     <message>
         <source>Highlight - Special Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Max Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Min Items</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1708,6 +2468,22 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxConvertToRangeDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to convert the table to a normal range?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This will permanently remove the query definition from the select sheet and convert the table to a normal range.Continue?</source>
+        <comment>TX_TableConver2Range_DelQuery</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>Data fields have been retrieved.</source>
@@ -1760,6 +2536,29 @@ condition is true:</source>
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCreateTableDlg</name>
+    <message>
+        <source>Where is the data for your table?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My table has headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format As Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Table</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2740,6 +3539,139 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
 </context>
 <context>
+    <name>KxDlgEditAxisLable</name>
+    <message>
+        <source>Axis Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Axis label range:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDataSeries</name>
+    <message>
+        <source>Edit Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;X values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series bubble &amp;size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDataSource</name>
+    <message>
+        <source>编辑数据源</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart &amp;Data Range:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data range is too complex to be displayed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;eries Creation Direction:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each row of data as a series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Each col of data as a series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legend Entries(Series)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Series</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Axis Labels(Category)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Category</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show data in &amp;hidden rows and columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show empty cells as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gaps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Zero</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Connect data points with line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgEditOLEDBQuery</name>
     <message>
         <source>&amp;Connection:</source>
@@ -3121,135 +4053,135 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgFont</name>
     <message>
         <source>&amp;Font:</source>
-        <translation>フォント(&amp;F):</translation>
+        <translation type="obsolete">フォント(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
-        <translation>サイズ(&amp;S):</translation>
+        <translation type="obsolete">サイズ(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation>下線(&amp;U):</translation>
+        <translation type="obsolete">下線(&amp;U):</translation>
     </message>
     <message>
         <source>10</source>
-        <translation>10</translation>
+        <translation type="obsolete">10</translation>
     </message>
     <message>
         <source>11</source>
-        <translation>11</translation>
+        <translation type="obsolete">11</translation>
     </message>
     <message>
         <source>12</source>
-        <translation>12</translation>
+        <translation type="obsolete">12</translation>
     </message>
     <message>
         <source>14</source>
-        <translation>14</translation>
+        <translation type="obsolete">14</translation>
     </message>
     <message>
         <source>16</source>
-        <translation>16</translation>
+        <translation type="obsolete">16</translation>
     </message>
     <message>
         <source>18</source>
-        <translation>18</translation>
+        <translation type="obsolete">18</translation>
     </message>
     <message>
         <source>20</source>
-        <translation>20</translation>
+        <translation type="obsolete">20</translation>
     </message>
     <message>
         <source>22</source>
-        <translation>22</translation>
+        <translation type="obsolete">22</translation>
     </message>
     <message>
         <source>24</source>
-        <translation>24</translation>
+        <translation type="obsolete">24</translation>
     </message>
     <message>
         <source>26</source>
-        <translation>26</translation>
+        <translation type="obsolete">26</translation>
     </message>
     <message>
         <source>28</source>
-        <translation>28</translation>
+        <translation type="obsolete">28</translation>
     </message>
     <message>
         <source>36</source>
-        <translation>36</translation>
+        <translation type="obsolete">36</translation>
     </message>
     <message>
         <source>48</source>
-        <translation>48</translation>
+        <translation type="obsolete">48</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="obsolete">6</translation>
     </message>
     <message>
         <source>72</source>
-        <translation>72</translation>
+        <translation type="obsolete">72</translation>
     </message>
     <message>
         <source>8</source>
-        <translation>8</translation>
+        <translation type="obsolete">8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="obsolete">9</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation>太字</translation>
+        <translation type="obsolete">太字</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation>太字斜体</translation>
+        <translation type="obsolete">太字斜体</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation>効果</translation>
+        <translation type="obsolete">効果</translation>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation>スタイル(&amp;O)</translation>
+        <translation type="obsolete">スタイル(&amp;O)</translation>
     </message>
     <message>
         <source>Font</source>
-        <translation>フォント</translation>
+        <translation type="obsolete">フォント</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>斜体</translation>
+        <translation type="obsolete">斜体</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>なし</translation>
+        <translation type="obsolete">なし</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>プレビュー</translation>
+        <translation type="obsolete">プレビュー</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation>標準</translation>
+        <translation type="obsolete">標準</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation>下線</translation>
+        <translation type="obsolete">下線</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation>一重取り消し線(&amp;K)</translation>
+        <translation type="obsolete">一重取り消し線(&amp;K)</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation>下付き(&amp;B)</translation>
+        <translation type="obsolete">下付き(&amp;B)</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation>上付き(&amp;E)</translation>
+        <translation type="obsolete">上付き(&amp;E)</translation>
     </message>
     <message>
         <source>This is a TrueType font. The same font will be used on both your 
@@ -3258,7 +4190,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation>これはTrue Typeフォントです。同じフォントが印刷と画面表示の両方で使用されます。</translation>
+        <translation type="obsolete">これはTrue Typeフォントです。同じフォントが印刷と画面表示の両方で使用されます。</translation>
     </message>
 </context>
 <context>
@@ -3266,6 +4198,13 @@ printer and your screen.</source>
     <message>
         <source>Format Cells</source>
         <translation>セルの書式設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFormatFormControlText</name>
+    <message>
+        <source>Format Form Control Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3469,6 +4408,85 @@ printer and your screen.</source>
     <message>
         <source>&amp;Left:</source>
         <translation>左(&amp;L):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGradientFill</name>
+    <message>
+        <source>Fill Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V&amp;ariants</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;ne color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Two colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pre&amp;set</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color &amp;1:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dar&amp;k</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color &amp;2:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pres&amp;et colors:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shading styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hori&amp;zontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal &amp;up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal &amp;down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;From corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fro&amp;m center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3786,6 +4804,25 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgMoveChart</name>
+    <message>
+        <source>Move Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose where you want the chart to be placed:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;Sheet:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Object In:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgMoveOrCopySheet</name>
     <message>
         <source>&amp;Before sheet:</source>
@@ -3888,6 +4925,133 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Refer to cells:</source>
         <translation>セルの参照(&amp;R):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgNewTableStyle</name>
+    <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation type="unfinished">名前(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Table Element:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whole Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second Column Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second Row Stripe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Header Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Header Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Total Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Total Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Format</source>
+        <translation type="unfinished">設定(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">プレビュー</translation>
+    </message>
+    <message>
+        <source>StripeSize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="unfinished">1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="unfinished">2</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation type="unfinished">3</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation type="unfinished">4</translation>
+    </message>
+    <message>
+        <source>5</source>
+        <translation type="unfinished">5</translation>
+    </message>
+    <message>
+        <source>6</source>
+        <translation type="unfinished">6</translation>
+    </message>
+    <message>
+        <source>7</source>
+        <translation type="unfinished">7</translation>
+    </message>
+    <message>
+        <source>8</source>
+        <translation type="unfinished">8</translation>
+    </message>
+    <message>
+        <source>9</source>
+        <translation type="unfinished">9</translation>
+    </message>
+    <message>
+        <source>Element Formatting:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set as default table style for this document</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4786,6 +5950,26 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use 1904 date s&amp;ystem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sh&amp;ortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an earlier version of the spreadsheet can color</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5964,11 +7148,11 @@ the same time allows workbook merging</source>
     <name>KxDlgSort</name>
     <message>
         <source>&amp;Ascending</source>
-        <translation>昇順(&amp;A)</translation>
+        <translation type="obsolete">昇順(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation>降順(&amp;D)</translation>
+        <translation type="obsolete">降順(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -5976,31 +7160,31 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>As&amp;cending</source>
-        <translation>昇順(&amp;C)</translation>
+        <translation type="obsolete">昇順(&amp;C)</translation>
     </message>
     <message>
         <source>Ascend&amp;ing</source>
-        <translation>昇順(&amp;I)</translation>
+        <translation type="obsolete">昇順(&amp;I)</translation>
     </message>
     <message>
         <source>Desce&amp;nding</source>
-        <translation>降順(&amp;N)</translation>
+        <translation type="obsolete">降順(&amp;N)</translation>
     </message>
     <message>
         <source>Descendin&amp;g</source>
-        <translation>降順(&amp;G)</translation>
+        <translation type="obsolete">降順(&amp;G)</translation>
     </message>
     <message>
         <source>Header &amp;row</source>
-        <translation>タイトル行(&amp;R)</translation>
+        <translation type="obsolete">タイトル行(&amp;R)</translation>
     </message>
     <message>
         <source>My data range has</source>
-        <translation>データ範囲の先頭行</translation>
+        <translation type="obsolete">データ範囲の先頭行</translation>
     </message>
     <message>
         <source>No header ro&amp;w</source>
-        <translation>データ(&amp;W)</translation>
+        <translation type="obsolete">データ(&amp;W)</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -6008,15 +7192,78 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>Sort by</source>
-        <translation>最優先のキーワード</translation>
+        <translation type="obsolete">最優先のキーワード</translation>
     </message>
     <message>
         <source>Then by</source>
-        <translation>2番目のキーワード</translation>
+        <translation type="obsolete">2番目のキーワード</translation>
     </message>
     <message>
         <source>Then by </source>
-        <translation>3番目のキーワード</translation>
+        <translation type="obsolete">3番目のキーワード</translation>
+    </message>
+    <message>
+        <source>&amp;Add Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Copy Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Up(Ctrl+Up Arrow)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Down(Ctrl+Down Arrow)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ctrl+Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My data has &amp;header</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSortCustomlist</name>
+    <message>
+        <source>Custom lists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Lists</source>
+        <translation type="unfinished">ユーザー設定リスト</translation>
+    </message>
+    <message>
+        <source>Custom &amp;lists:</source>
+        <translation type="unfinished">ユーザー設定リスト(&amp;L):</translation>
+    </message>
+    <message>
+        <source>List &amp;entries:</source>
+        <translation type="unfinished">リストの入力(&amp;E):</translation>
+    </message>
+    <message>
+        <source>I&amp;mport</source>
+        <translation type="unfinished">インポート(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished">追加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">削除(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -6031,7 +7278,7 @@ the same time allows workbook merging</source>
     </message>
     <message>
         <source>C&amp;ustom sort order</source>
-        <translation>並べ替え順序の指定(&amp;U)</translation>
+        <translation type="obsolete">並べ替え順序の指定(&amp;U)</translation>
     </message>
     <message>
         <source>Method</source>
@@ -6862,6 +8109,17 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEditAxisLableDlg</name>
+    <message>
+        <source>#ERROR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEditCrossBookLinksDlg</name>
     <message>
         <source>Error: Source not found</source>
@@ -6906,6 +8164,68 @@ protected.</source>
     <message>
         <source>Warning: Values not updated</source>
         <translation>警告：値は更新されていません</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDataSeriesDlg</name>
+    <message>
+        <source>Series &amp;Y values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series &amp;values:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#ERROR!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDataSourceDlg</name>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation type="unfinished">連続データ</translation>
+    </message>
+    <message>
+        <source>&lt;blank series&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &lt;&lt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Advanced Setting &gt;&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>#ERROR!</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7279,6 +8599,33 @@ protected.</source>
     </message>
 </context>
 <context>
+    <name>KxEtCellStyleModel</name>
+    <message>
+        <source>User Define</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Good bad And moderate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data and Model</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished">タイトル</translation>
+    </message>
+    <message>
+        <source>Theme Cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtCfCalendarWidget</name>
     <message>
         <source>&amp;Today</source>
@@ -7294,6 +8641,13 @@ protected.</source>
     <message>
         <source>This is not a valid integer.</source>
         <translation>無効な値です</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtColorCtrl</name>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">自動</translation>
     </message>
 </context>
 <context>
@@ -7463,6 +8817,13 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtFillThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">塗りつぶしなし</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFontColorModel</name>
     <message>
         <source>Automatic</source>
@@ -7471,6 +8832,92 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>auto</source>
         <translation type="obsolete">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7764,6 +9211,27 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
 </context>
 <context>
+    <name>KxEtShapeFontOutlineThemeModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeFontThemeModel</name>
+    <message>
+        <source>No Fill</source>
+        <translation type="unfinished">塗りつぶしなし</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtShapeLineThemeModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxEtSheetTabBar</name>
     <message>
         <source>More Sheets...</source>
@@ -7881,6 +9349,14 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source> *</source>
         <translation>*</translation>
     </message>
+    <message>
+        <source>Chart%1 in WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart%1 in WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEtTabControlPane</name>
@@ -7899,6 +9375,67 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>To Start</source>
         <translation type="obsolete">最初の</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableStyleCommand</name>
+    <message>
+        <source>More
+
+Choose a visual
+style for the table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTableStyleModel</name>
+    <message>
+        <source>Light</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row And First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">ユーザー設定</translation>
     </message>
 </context>
 <context>
@@ -7926,6 +9463,21 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>The number must be between 1 and 500.</source>
         <translation>1から500までの数値を指定してください</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtTpTableStyle</name>
+    <message>
+        <source>Table Style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style Options:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8356,7 +9908,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <name>KxFontDlg</name>
     <message>
         <source>Font size must be between %1 and %2 points.</source>
-        <translation>フォントサイズは %1 から %2 までの数値を指定して下さい</translation>
+        <translation type="obsolete">フォントサイズは %1 から %2 までの数値を指定して下さい</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets</source>
@@ -8382,27 +9934,27 @@ printer and your screen.</source>
     </message>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
-        <translation>入力された内容は正しくありません。整数または小数を入力して下さい。</translation>
+        <translation type="obsolete">入力された内容は正しくありません。整数または小数を入力して下さい。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>キングソフト</translation>
+        <translation type="obsolete">キングソフト</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
-        <translation>システムにインストールされていないフォントです。類似の利用可能なフォントが印刷に使用されます</translation>
+        <translation type="obsolete">システムにインストールされていないフォントです。類似の利用可能なフォントが印刷に使用されます</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both printer and screen.</source>
-        <translation>これはTrue Typeフォントです。同じフォントが印刷と画面表示の両方で使用されます。</translation>
+        <translation type="obsolete">これはTrue Typeフォントです。同じフォントが印刷と画面表示の両方で使用されます。</translation>
     </message>
     <message>
         <source>The font is designed for plotter.</source>
-        <translation>プロッターで使用するためにデザインされたフォントです</translation>
+        <translation type="obsolete">プロッターで使用するためにデザインされたフォントです</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation>フォント名が存在しません</translation>
+        <translation type="obsolete">フォント名が存在しません</translation>
     </message>
     <message>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
@@ -8413,7 +9965,7 @@ printer and your screen.</source>
     <name>KxFontWidget</name>
     <message>
         <source>Automatic</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -8580,6 +10132,21 @@ printer and your screen.</source>
     <message>
         <source>This font style is imitated for the display. The closest matching style will be used for printing.</source>
         <translation type="obsolete">表示用に再現されたフォントです。類似の適合するフォントで印刷されます</translation>
+    </message>
+    <message>
+        <source> (title)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatFormControlTextDlg</name>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished">フォント</translation>
     </message>
 </context>
 <context>
@@ -8994,6 +10561,21 @@ To keep existing picture, press Cancel.</source>
     </message>
 </context>
 <context>
+    <name>KxMoveChartDlg</name>
+    <message>
+        <source>This Sheet exists and your chart is embedded in it. Specify a different sheet name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Sheet already exists.Do you want to place the chart embedded in hte existing sheet?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred during the operation of chart move, Please try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxMoveOrCopySheetDlg</name>
     <message>
         <source>(Move to end)</source>
@@ -9079,6 +10661,108 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>To enter a reference using the mouse, click in the edit box, and then click the cell in the sheet you want to refer to, or drag through the range you want to select.</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg</name>
+    <message>
+        <source>New Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">太字</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">太字斜体</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished">下線</translation>
+    </message>
+    <message>
+        <source>Double Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StrikeThrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation type="unfinished">枠なし</translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideVertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsideHorizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shaded</source>
+        <translation type="unfinished">影付き</translation>
+    </message>
+    <message>
+        <source>No Shading</source>
+        <translation type="unfinished">網掛けなし</translation>
+    </message>
+    <message>
+        <source>Enter a table style name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This style name already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxNewTableStyleDlg::KxNewTableStyleDlg</name>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">斜体</translation>
     </message>
 </context>
 <context>
@@ -9912,10 +11596,53 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
 </context>
 <context>
+    <name>KxPublishTableDlg</name>
+    <message>
+        <source>Export Table to SharePoint List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Where do you want to publish your table?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>http://</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Creat a read-only connection to the new SharePoint list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Provide a name and description for your table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Na&amp;me:</source>
+        <translation type="unfinished">名前(&amp;M):</translation>
+    </message>
+    <message>
+        <source>&amp;Description:</source>
+        <translation type="unfinished">説明(&amp;D):</translation>
+    </message>
+</context>
+<context>
     <name>KxReadOnlyFileDlg</name>
     <message>
         <source>File in use</source>
         <translation>ファイルを使用中</translation>
+    </message>
+    <message>
+        <source>other user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> is editing.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10043,6 +11770,27 @@ system will remind checking the correctness of the contents.
 system will remind you to check the correctness of the contents.
 
 (Note: The function only supports single range)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxResizeTableDlg</name>
+    <message>
+        <source>Table Resize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select the new data range for your table:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note: The headers must remain in the same row,
+      and the resulting table tange must overlap 
+      the original table range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10347,6 +12095,17 @@ system will remind you to check the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxSortCustomlistDlg</name>
+    <message>
+        <source>NEW LIST</source>
+        <translation type="unfinished">新しいリスト</translation>
+    </message>
+    <message>
+        <source>List will be permanently deleted.</source>
+        <translation type="unfinished">リストは永久に削除されます</translation>
+    </message>
+</context>
+<context>
     <name>KxSortDlg</name>
     <message>
         <source>(%1) %2</source>
@@ -10371,6 +12130,81 @@ system will remind you to check the correctness of the contents.
 %2 There are two same sort references. 
 %3 The sort reference you entered is not within the current selection.</source>
         <translation>下記いずれかの理由により、参照の並べ替えが無効です。 %1 並べ替えボックスが未入力であるため %2 2つの同じ参照の並べ替えがあるため %3 入力した参照の並べ替えが現在のセクション内ではないため</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation type="unfinished">統合印刷の順序</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation type="unfinished">値</translation>
+    </message>
+    <message>
+        <source>Cell Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>On Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smallest to Largest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Largest to Smallest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A to Z</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Z to A</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom List...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSortKeyWidget</name>
+    <message>
+        <source>Sort by</source>
+        <translation type="unfinished">最優先のキーワード</translation>
+    </message>
+    <message>
+        <source>Then by</source>
+        <translation type="unfinished">2番目のキーワード</translation>
     </message>
 </context>
 <context>
@@ -10404,6 +12238,38 @@ system will remind you to check the correctness of the contents.
     </message>
 </context>
 <context>
+    <name>KxStyleAddLegacyTriggerCommand</name>
+    <message>
+        <source>add new style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">スタイル</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleApplyLegacyTriggerCommand</name>
+    <message>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleCopyLegacyTriggerCommand</name>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleDeleteLegacyTriggerCommand</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">削除</translation>
+    </message>
+</context>
+<context>
     <name>KxStyleDlg</name>
     <message>
         <source> </source>
@@ -10412,6 +12278,20 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>, </source>
         <translation>,</translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleMergeLegacyTriggerCommand</name>
+    <message>
+        <source>Merge Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxStyleModifyLegacyTriggerCommand</name>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10426,6 +12306,315 @@ system will remind you to check the correctness of the contents.
     <message>
         <source>column </source>
         <translation>列</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableColorStyle</name>
+    <message>
+        <source>Black</source>
+        <translation type="unfinished">黒</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <translation type="unfinished">白</translation>
+    </message>
+    <message>
+        <source>Red</source>
+        <translation type="unfinished">赤</translation>
+    </message>
+    <message>
+        <source>Bright Green</source>
+        <translation type="unfinished">明るい黄</translation>
+    </message>
+    <message>
+        <source>Blue</source>
+        <translation type="unfinished">青</translation>
+    </message>
+    <message>
+        <source>Yellow</source>
+        <translation type="unfinished">黄色</translation>
+    </message>
+    <message>
+        <source>Pink</source>
+        <translation type="unfinished">ピンク</translation>
+    </message>
+    <message>
+        <source>Turquoise</source>
+        <translation type="unfinished">ターコイズ</translation>
+    </message>
+    <message>
+        <source>Dark Red</source>
+        <translation type="unfinished">濃い赤</translation>
+    </message>
+    <message>
+        <source>Green</source>
+        <translation type="unfinished">緑</translation>
+    </message>
+    <message>
+        <source>Dark Blue</source>
+        <translation type="unfinished">濃い青</translation>
+    </message>
+    <message>
+        <source>Dark Yellow</source>
+        <translation type="unfinished">濃い黄</translation>
+    </message>
+    <message>
+        <source>Violet</source>
+        <translation type="unfinished">バイオレット</translation>
+    </message>
+    <message>
+        <source>Teal</source>
+        <translation type="unfinished">ティールブルー</translation>
+    </message>
+    <message>
+        <source>Gray-25%</source>
+        <translation type="unfinished">25% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-50%</source>
+        <translation type="unfinished">50% 灰色</translation>
+    </message>
+    <message>
+        <source>Periwinkle</source>
+        <translation type="unfinished">ペリウィンクル</translation>
+    </message>
+    <message>
+        <source>Plum</source>
+        <translation type="unfinished">プラム</translation>
+    </message>
+    <message>
+        <source>vIvory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Light Turquoise</source>
+        <translation type="unfinished">薄いターコイズ</translation>
+    </message>
+    <message>
+        <source>Dark Purple</source>
+        <translation type="unfinished">濃い紫</translation>
+    </message>
+    <message>
+        <source>Coral</source>
+        <translation type="unfinished">コーラル</translation>
+    </message>
+    <message>
+        <source>OceanBlue</source>
+        <translation type="unfinished">オーシャン・ブルー</translation>
+    </message>
+    <message>
+        <source>IceBlue</source>
+        <translation type="unfinished">アイスブルー</translation>
+    </message>
+    <message>
+        <source>Sky Blue</source>
+        <translation type="unfinished">スカイブルー</translation>
+    </message>
+    <message>
+        <source>Light Green</source>
+        <translation type="unfinished">薄い緑</translation>
+    </message>
+    <message>
+        <source>Light Yellow</source>
+        <translation type="unfinished">薄い黄</translation>
+    </message>
+    <message>
+        <source>Pale Blue</source>
+        <translation type="unfinished">ペールブルー</translation>
+    </message>
+    <message>
+        <source>Rose</source>
+        <translation type="unfinished">ローズ</translation>
+    </message>
+    <message>
+        <source>Lavender</source>
+        <translation type="unfinished">ラベンダー</translation>
+    </message>
+    <message>
+        <source>Tan</source>
+        <translation type="unfinished">黄褐色</translation>
+    </message>
+    <message>
+        <source>Light Blue</source>
+        <translation type="unfinished">薄い青</translation>
+    </message>
+    <message>
+        <source>Aqua</source>
+        <translation type="unfinished">アクア</translation>
+    </message>
+    <message>
+        <source>Lime</source>
+        <translation type="unfinished">ライム</translation>
+    </message>
+    <message>
+        <source>Gold</source>
+        <translation type="unfinished">ゴールド</translation>
+    </message>
+    <message>
+        <source>Light Orange</source>
+        <translation type="unfinished">薄いオレンジ</translation>
+    </message>
+    <message>
+        <source>Orange</source>
+        <translation type="unfinished">オレンジ</translation>
+    </message>
+    <message>
+        <source>Blue-Gray</source>
+        <translation type="unfinished">ブルーグレー</translation>
+    </message>
+    <message>
+        <source>Gray-40%</source>
+        <translation type="unfinished">40% 灰色</translation>
+    </message>
+    <message>
+        <source>Dark Teal</source>
+        <translation type="unfinished">濃いティールブルー</translation>
+    </message>
+    <message>
+        <source>Sea Green</source>
+        <translation type="unfinished">シーグリーン</translation>
+    </message>
+    <message>
+        <source>Dark Green</source>
+        <translation type="unfinished">濃い緑</translation>
+    </message>
+    <message>
+        <source>Olive Green</source>
+        <translation type="unfinished">オリーブグリーン</translation>
+    </message>
+    <message>
+        <source>Brown</source>
+        <translation type="unfinished">茶</translation>
+    </message>
+    <message>
+        <source>Indigo</source>
+        <translation type="unfinished">インディゴ</translation>
+    </message>
+    <message>
+        <source>Gray-80%</source>
+        <translation type="unfinished">80% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-5%</source>
+        <translation type="unfinished">5% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-10%</source>
+        <translation type="unfinished">10% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-12.5%</source>
+        <translation type="unfinished">12.5% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-15%</source>
+        <translation type="unfinished">15% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-20%</source>
+        <translation type="unfinished">205 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-30%</source>
+        <translation type="unfinished">30% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-35%</source>
+        <translation type="unfinished">35% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-37.5%</source>
+        <translation type="unfinished">37.5% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-45%</source>
+        <translation type="unfinished">45% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-55%</source>
+        <translation type="unfinished">55% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-60%</source>
+        <translation type="unfinished">60% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-62.5%</source>
+        <translation type="unfinished">62.5% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-65%</source>
+        <translation type="unfinished">65% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-70%</source>
+        <translation type="unfinished">70% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-75%</source>
+        <translation type="unfinished">75% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-85%</source>
+        <translation type="unfinished">85% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-87.5%</source>
+        <translation type="unfinished">87.5% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-90%</source>
+        <translation type="unfinished">90% 灰色</translation>
+    </message>
+    <message>
+        <source>Gray-95%</source>
+        <translation type="unfinished">95% 灰色</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleApplyClearFmtTriggerCommand</name>
+    <message>
+        <source>Apply and Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleApplyMaintainFmtTriggerCommand</name>
+    <message>
+        <source>Apply (and Maintain Formatting)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleDeleteTriggerCommand</name>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">削除</translation>
+    </message>
+    <message>
+        <source>Do you want to delete style %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleDuplicateTriggerCommand</name>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleModifyTriggerCommand</name>
+    <message>
+        <source>Modify</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTableStyleSetDefaultTriggerCommand</name>
+    <message>
+        <source>Set As Default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10484,6 +12673,49 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Data preview:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTotalsList</name>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">なし</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation type="unfinished">平均値</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation type="unfinished">データの個数</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <translation type="unfinished">数値の個数</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation type="unfinished">最大値</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation type="unfinished">最小値</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation type="unfinished">合計</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <translation type="unfinished">標本標準偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <translation type="unfinished">標本分散</translation>
+    </message>
+    <message>
+        <source>More Functions...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11084,6 +13316,69 @@ t</source>
     </message>
 </context>
 <context>
+    <name>KxWidgetCellsFont</name>
+    <message>
+        <source>Format Cells</source>
+        <translation type="unfinished">セルの書式設定</translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation type="unfinished">フォント(&amp;F):</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation type="unfinished">サイズ(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Underline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">なし</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished">効果</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation type="unfinished">一重取り消し線(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Sup&amp;erscript</source>
+        <translation type="unfinished">上付き(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation type="unfinished">下付き(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">プレビュー</translation>
+    </message>
+    <message>
+        <source>Clea&amp;r</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWidgetFont</name>
     <message>
         <source>&amp;Color:</source>
@@ -11144,6 +13439,65 @@ t</source>
     <message>
         <source>Sup&amp;erscript</source>
         <translation>上付き(&amp;E)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetHeaderFont</name>
+    <message>
+        <source>Format Cells</source>
+        <translation type="unfinished">セルの書式設定</translation>
+    </message>
+    <message>
+        <source>&amp;Font:</source>
+        <translation type="unfinished">フォント(&amp;F):</translation>
+    </message>
+    <message>
+        <source>F&amp;ont style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Size:</source>
+        <translation type="unfinished">サイズ(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Underline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">なし</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation type="unfinished">効果</translation>
+    </message>
+    <message>
+        <source>Stri&amp;kethrough</source>
+        <translation type="unfinished">一重取り消し線(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Sup&amp;erscript</source>
+        <translation type="unfinished">上付き(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Su&amp;bscript</source>
+        <translation type="unfinished">下付き(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">プレビュー</translation>
     </message>
 </context>
 <context>
@@ -11295,6 +13649,14 @@ t</source>
         <source>Sample</source>
         <translation>サンプル</translation>
     </message>
+    <message>
+        <source>gradientFill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>moreColor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetProtection</name>
@@ -11348,6 +13710,17 @@ t</source>
     <message>
         <source>Your entry cannot be used. An integer or decimal number may be required.</source>
         <translation>入力された内容は正しくありません。整数または小数を入力して下さい。</translation>
+    </message>
+</context>
+<context>
+    <name>KxetDlgCheckCompatibility</name>
+    <message>
+        <source>Compatibility Checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;heck compatibility when saving this workbook.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11427,7 +13800,7 @@ t</source>
     </message>
     <message>
         <source>@ET_Style?</source>
-        <translation>ETスタイル</translation>
+        <translation type="obsolete">ETスタイル</translation>
     </message>
     <message>
         <source>Add Constraint</source>
@@ -11439,7 +13812,7 @@ t</source>
     </message>
     <message>
         <source>Aqua</source>
-        <translation>アクア</translation>
+        <translation type="obsolete">アクア</translation>
     </message>
     <message>
         <source>Backward</source>
@@ -11447,15 +13820,15 @@ t</source>
     </message>
     <message>
         <source>Black</source>
-        <translation>黒</translation>
+        <translation type="obsolete">黒</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation>青</translation>
+        <translation type="obsolete">青</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation>ブルーグレー</translation>
+        <translation type="obsolete">ブルーグレー</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -11475,11 +13848,11 @@ t</source>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation>明るい黄</translation>
+        <translation type="obsolete">明るい黄</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation>茶</translation>
+        <translation type="obsolete">茶</translation>
     </message>
     <message>
         <source>Center</source>
@@ -11515,7 +13888,7 @@ t</source>
     </message>
     <message>
         <source>Coral</source>
-        <translation>コーラル</translation>
+        <translation type="obsolete">コーラル</translation>
     </message>
     <message>
         <source>Create a linearity report to see where the problem is.</source>
@@ -11535,27 +13908,27 @@ t</source>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation>濃い青</translation>
+        <translation type="obsolete">濃い青</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation>濃い緑</translation>
+        <translation type="obsolete">濃い緑</translation>
     </message>
     <message>
         <source>Dark Purple</source>
-        <translation>濃い紫</translation>
+        <translation type="obsolete">濃い紫</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation>濃い赤</translation>
+        <translation type="obsolete">濃い赤</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation>濃いティールブルー</translation>
+        <translation type="obsolete">濃いティールブルー</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation>濃い黄</translation>
+        <translation type="obsolete">濃い黄</translation>
     </message>
     <message>
         <source>Degrees</source>
@@ -11612,103 +13985,103 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Gold</source>
-        <translation>ゴールド</translation>
+        <translation type="obsolete">ゴールド</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation>10% 灰色</translation>
+        <translation type="obsolete">10% 灰色</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation>12.5% 灰色</translation>
+        <translation type="obsolete">12.5% 灰色</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation>15% 灰色</translation>
+        <translation type="obsolete">15% 灰色</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation>205 灰色</translation>
+        <translation type="obsolete">205 灰色</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation>25% 灰色</translation>
+        <translation type="obsolete">25% 灰色</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation>30% 灰色</translation>
+        <translation type="obsolete">30% 灰色</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation>35% 灰色</translation>
+        <translation type="obsolete">35% 灰色</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation>37.5% 灰色</translation>
+        <translation type="obsolete">37.5% 灰色</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation>40% 灰色</translation>
+        <translation type="obsolete">40% 灰色</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation>45% 灰色</translation>
+        <translation type="obsolete">45% 灰色</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation>5% 灰色</translation>
+        <translation type="obsolete">5% 灰色</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation>50% 灰色</translation>
+        <translation type="obsolete">50% 灰色</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation>55% 灰色</translation>
+        <translation type="obsolete">55% 灰色</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation>60% 灰色</translation>
+        <translation type="obsolete">60% 灰色</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation>62.5% 灰色</translation>
+        <translation type="obsolete">62.5% 灰色</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation>65% 灰色</translation>
+        <translation type="obsolete">65% 灰色</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation>70% 灰色</translation>
+        <translation type="obsolete">70% 灰色</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation>75% 灰色</translation>
+        <translation type="obsolete">75% 灰色</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation>80% 灰色</translation>
+        <translation type="obsolete">80% 灰色</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation>85% 灰色</translation>
+        <translation type="obsolete">85% 灰色</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation>87.5% 灰色</translation>
+        <translation type="obsolete">87.5% 灰色</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation>90% 灰色</translation>
+        <translation type="obsolete">90% 灰色</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation>95% 灰色</translation>
+        <translation type="obsolete">95% 灰色</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation>緑</translation>
+        <translation type="obsolete">緑</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -11732,7 +14105,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Indigo</source>
-        <translation>インディゴ</translation>
+        <translation type="obsolete">インディゴ</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -11740,7 +14113,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Ivory</source>
-        <translation>アイボリー</translation>
+        <translation type="obsolete">アイボリー</translation>
     </message>
     <message>
         <source>Justify</source>
@@ -11752,7 +14125,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Lavender</source>
-        <translation>ラベンダー</translation>
+        <translation type="obsolete">ラベンダー</translation>
     </message>
     <message>
         <source>Left</source>
@@ -11764,27 +14137,27 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation>薄い青</translation>
+        <translation type="obsolete">薄い青</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation>薄い緑</translation>
+        <translation type="obsolete">薄い緑</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation>薄いオレンジ</translation>
+        <translation type="obsolete">薄いオレンジ</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation>薄いターコイズ</translation>
+        <translation type="obsolete">薄いターコイズ</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation>薄い黄</translation>
+        <translation type="obsolete">薄い黄</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation>ライム</translation>
+        <translation type="obsolete">ライム</translation>
     </message>
     <message>
         <source>Limits</source>
@@ -11840,7 +14213,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation>オリーブグリーン</translation>
+        <translation type="obsolete">オリーブグリーン</translation>
     </message>
     <message>
         <source>One of the cells in the worksheet became an error value when Solver tried certain values for the Variable Cells.</source>
@@ -11848,7 +14221,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Orange</source>
-        <translation>オレンジ</translation>
+        <translation type="obsolete">オレンジ</translation>
     </message>
     <message>
         <source>Orientation</source>
@@ -11856,7 +14229,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation>ペールブルー</translation>
+        <translation type="obsolete">ペールブルー</translation>
     </message>
     <message>
         <source>Percent</source>
@@ -11868,15 +14241,15 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation>ペリウィンクル</translation>
+        <translation type="obsolete">ペリウィンクル</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation>ピンク</translation>
+        <translation type="obsolete">ピンク</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation>プラム</translation>
+        <translation type="obsolete">プラム</translation>
     </message>
     <message>
         <source>ReadingOrder</source>
@@ -11884,7 +14257,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Red</source>
-        <translation>赤</translation>
+        <translation type="obsolete">赤</translation>
     </message>
     <message>
         <source>Reports</source>
@@ -11904,7 +14277,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Rose</source>
-        <translation>ローズ</translation>
+        <translation type="obsolete">ローズ</translation>
     </message>
     <message>
         <source>Rotated down %1 Degrees</source>
@@ -11916,7 +14289,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation>シーグリーン</translation>
+        <translation type="obsolete">シーグリーン</translation>
     </message>
     <message>
         <source>Sensitivity</source>
@@ -11944,7 +14317,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation>スカイブルー</translation>
+        <translation type="obsolete">スカイブルー</translation>
     </message>
     <message>
         <source>Solver can make the Objective Cell as large (or small when minimizing) as it wants.</source>
@@ -12016,11 +14389,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Tan</source>
-        <translation>黄褐色</translation>
+        <translation type="obsolete">黄褐色</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation>ティールブルー</translation>
+        <translation type="obsolete">ティールブルー</translation>
     </message>
     <message>
         <source>The Objective Cell values do not converge.</source>
@@ -12064,7 +14437,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation>ターコイズ</translation>
+        <translation type="obsolete">ターコイズ</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -12088,7 +14461,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Violet</source>
-        <translation>バイオレット</translation>
+        <translation type="obsolete">バイオレット</translation>
     </message>
     <message>
         <source>When Simplex LP is used, this means Solver has found a global optimal solution.</source>
@@ -12096,7 +14469,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>White</source>
-        <translation>白</translation>
+        <translation type="obsolete">白</translation>
     </message>
     <message>
         <source>Wrap</source>
@@ -12104,7 +14477,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Yellow</source>
-        <translation>黄色</translation>
+        <translation type="obsolete">黄色</translation>
     </message>
     <message>
         <source>You are not allowed to add the default style name.</source>
@@ -12208,11 +14581,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Sea</source>
-        <translation>オーシャン・ブルー</translation>
+        <translation type="obsolete">オーシャン・ブルー</translation>
     </message>
     <message>
         <source>Ice Blue</source>
-        <translation>アイスブルー</translation>
+        <translation type="obsolete">アイスブルー</translation>
     </message>
     <message>
         <source>Click to accept the solution and place the resulting values in the adjustable cells.</source>
@@ -12287,7 +14660,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>&quot;Another user&quot; is editing.</source>
-        <translation>別のユーザーが編集中です。</translation>
+        <translation type="obsolete">別のユーザーが編集中です。</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
@@ -12296,6 +14669,30 @@ on iteration #%2.</source>
     <message>
         <source>&amp;Read-Only</source>
         <translation>読み取り専用(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>SelectODBCDSNUi</name>
+    <message>
+        <source>Data Connection Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;Connect to ODBC Data Source&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:11pt; font-weight:600;&quot;&gt;  &lt;/span&gt;Choose the ODBC data source you want to connect to.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ODBC data sources:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12343,6 +14740,10 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Please select the target table to be imported from the combo box. All fields will be listed in the left list box. Select the fields needed to be imported there, and the selected fields will be listed in the right list box.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Catalog name:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12773,6 +15174,171 @@ on iteration #%2.</source>
     </message>
 </context>
 <context>
+    <name>etContentPosition</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move and &amp;size with cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Move but don&apos;t &amp;size with cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Don&apos;t move or size with cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print object</source>
+        <translation type="unfinished">オブジェクトを印刷する(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Lock</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">水平方向の配置</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">垂直方向の配置</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order of lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-to-right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished">ユーザー設定フィルター</translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overflow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Columns...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>etTableStyle</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Table Style:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;Table Style Options:&lt;/b&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>evaluateFormula</name>
     <message>
         <source>&amp;Close</source>
@@ -13146,20 +15712,87 @@ or Web Page</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current word:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Replace</source>
-        <translation type="unfinished">置換</translation>
+        <translation type="obsolete">置換</translation>
     </message>
     <message>
-        <source>Cancel</source>
+        <source>&amp;Current word:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="unfinished">置換(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kxEtHeadFontDlg</name>
+    <message>
+        <source> (title)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Regular</source>
+        <translation type="unfinished">標準</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished">斜体</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished">太字</translation>
+    </message>
+    <message>
+        <source>Bold Italic</source>
+        <translation type="unfinished">太字斜体</translation>
+    </message>
+    <message>
+        <source>This font style is imitated for the display. The most similar matching style will be used for printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <translation type="unfinished">これはTrue Typeフォントです。同じフォントが印刷と画面表示の両方で使用されます。</translation>
+    </message>
+    <message>
+        <source>The font is designed for plotter.</source>
+        <translation type="unfinished">プロッターで使用するためにデザインされたフォントです</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">自動</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This font style is not available.</source>
+        <translation type="unfinished">フォント名が存在しません</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font size must be between %1 and %2 points.</source>
+        <translation type="unfinished">フォントサイズは %1 から %2 までの数値を指定して下さい</translation>
     </message>
 </context>
 <context>
@@ -13343,7 +15976,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Move but do not re&amp;size cells</source>
-        <translation>セルに合わせて移動するがサイズ変更はしない(&amp;M)</translation>
+        <translation type="obsolete">セルに合わせて移動するがサイズ変更はしない(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
@@ -13360,6 +15993,10 @@ or Web Page</source>
     <message>
         <source>Object positioning</source>
         <translation>オブジェクトの配置</translation>
+    </message>
+    <message>
+        <source>&amp;Move but do not resize cells</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13466,7 +16103,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Kingsoft Spreadsheets found data next to your selection. Since you have not selected this data, it will not be sorted.</source>
-        <translation type="obsolete">選択した範囲外にはまた別のデータガあります。それらのデータは並べ替えできません。</translation>
+        <translation type="unfinished">選択した範囲外にはまた別のデータガあります。それらのデータは並べ替えできません。</translation>
     </message>
     <message>
         <source>Sort Warning</source>

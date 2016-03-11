@@ -119,6 +119,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Office.lnk</source>
         <translation type="unfinished">WPS Office.lnk</translation>
     </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -322,6 +330,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Repair WPS Update Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KOther</name>
@@ -513,15 +529,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>Documentele noi WPS Writer salvate ca implicit în format *.&amp;doc</translation>
+        <translation type="obsolete">Documentele noi WPS Writer salvate ca implicit în format *.&amp;doc</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>Documentele noi WPS Spreadsheets salvate ca implicit în format *.&amp;xls</translation>
+        <translation type="obsolete">Documentele noi WPS Spreadsheets salvate ca implicit în format *.&amp;xls</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>Documentele noi WPS Presentation salvate ca implicit în format *.pp&amp;t</translation>
+        <translation type="obsolete">Documentele noi WPS Presentation salvate ca implicit în format *.pp&amp;t</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -542,6 +558,22 @@ are nevoie să reporniți Windows pentru a avea efect.</translation>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
         <translation type="unfinished">&amp;Compatibil cu Microsoft Office 2010</translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1199,6 +1231,10 @@ Pictograma butonului, comanda grupează și poziția ferestrei de sarcini ale fi
     </message>
     <message>
         <source>WPS Presentation Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -336,13 +336,6 @@ This may because:
     </message>
 </context>
 <context>
-    <name>KDataRecoverDownloadTip</name>
-    <message>
-        <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>KDownloadingTip</name>
     <message>
         <source>Continue opening the updated version of your document.</source>
@@ -969,45 +962,7 @@ This may because:
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1
-size:%2
-path:%3</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Roaming your document...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove star</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove all starred records</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Add star</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove all non-starred records</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1022,77 +977,34 @@ path:%3</source>
         <source>Clear Invalid File</source>
         <translation type="unfinished"></translation>
     </message>
-</context>
-<context>
-    <name>KRoamingFilePageFixedButton</name>
     <message>
-        <source>Remove star</source>
+        <source>Clear all native recent record</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Add star</source>
+        <source>
+
+Lately use: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
     <message>
-        <source>document be deleted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation type="obsolete">Prekliči</translation>
     </message>
 </context>
 <context>
-    <name>KRoamingGuidFilePage</name>
+    <name>KRoamingGuideButton</name>
     <message>
-        <source>All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Star</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Roam to mobile</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Recent documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>File Roaming</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Help</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable File Roaming</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Invalid File</source>
+        <source>Document Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1100,52 +1012,6 @@ path:%3</source>
     <name>KRoamingHomepage</name>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KRoamingItemDelagate</name>
-    <message>
-        <source>More</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deleting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Adding star</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Operating</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KRoamingRecentTailPanel</name>
-    <message>
-        <source>All file types:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>On</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Off</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>More roaming documents</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Disable File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1161,13 +1027,6 @@ path:%3</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>KRoamingTabHeader</name>
-    <message>
-        <source>File Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1224,7 +1083,7 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have enabled File Roaming:</source>
+        <source>Recent cloud documents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1304,6 +1163,13 @@ path:%3</source>
     </message>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDataRecoverCommand</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1796,6 +1662,37 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>roaming::filepage::Header</name>
+    <message id="0">
+        <source>Recent documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>all file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login to show Cloud files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show cloud file, please </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>login</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

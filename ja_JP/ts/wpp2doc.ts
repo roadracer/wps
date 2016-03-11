@@ -354,5 +354,9 @@ For example, 1,3,5-9.</source>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
         <translation>開こうファイルを利用しているため、名前を変更するか開かれたファイルを閉じてください。</translation>
     </message>
+    <message>
+        <source>No Select Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

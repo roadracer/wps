@@ -360,250 +360,250 @@
     <message>
         <source>&amp;Alignment</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Alignement</translation>
+        <translation type="obsolete">Alignement</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Derrière le texte</translation>
+        <translation type="obsolete">Derrière le texte</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Aligné sur le texte</translation>
+        <translation type="obsolete">Aligné sur le texte</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Seulement à gauche</translation>
+        <translation type="obsolete">Seulement à gauche</translation>
     </message>
     <message>
         <source>&amp;Lock anchor</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Ancrer</translation>
+        <translation type="obsolete">Ancrer</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Déplacer avec le texte</translation>
+        <translation type="obsolete">Déplacer avec le texte</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Seulement à droite</translation>
+        <translation type="obsolete">Seulement à droite</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture PositionText wrapping</translatorcomment>
-        <translation>Rapproché</translation>
+        <translation type="obsolete">Rapproché</translation>
     </message>
     <message>
         <source>&amp;relative to</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Horizonal</translatorcomment>
-        <translation>Par rapport à :</translation>
+        <translation type="obsolete">Par rapport à :</translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>à droite de</translation>
+        <translation type="obsolete">à droite de</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Position absolue</translation>
+        <translation type="obsolete">Position absolue</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Position absolue</translation>
+        <translation type="obsolete">Position absolue</translation>
     </message>
     <message>
         <source>Advanced Layout</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...</translatorcomment>
-        <translation>Mise en page avancée</translation>
+        <translation type="obsolete">Mise en page avancée</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Alignement</translation>
+        <translation type="obsolete">Alignement</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Autoriser le chevauchement de texte</translation>
+        <translation type="obsolete">Autoriser le chevauchement de texte</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Des deux côtés</translation>
+        <translation type="obsolete">Des deux côtés</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Bas</translation>
+        <translation type="obsolete">Bas</translation>
     </message>
     <message>
         <source>Bottom</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Vertical-&gt;Alignment</translatorcomment>
-        <translation>Bas</translation>
+        <translation type="obsolete">Bas</translation>
     </message>
     <message>
         <source>Centered</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Centré</translation>
+        <translation type="obsolete">Centré</translation>
     </message>
     <message>
         <source>Character</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Horizonal-&gt;relative to</translatorcomment>
-        <translation>Caractère</translation>
+        <translation type="obsolete">Caractère</translation>
     </message>
     <message>
         <source>Column</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Horizonal-&gt;relative to</translatorcomment>
-        <translation>Colonne</translation>
+        <translation type="obsolete">Colonne</translation>
     </message>
     <message>
         <source>Distance from text</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Distance du texte</translation>
+        <translation type="obsolete">Distance du texte</translation>
     </message>
     <message>
         <source>Horizontal</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Horizontal</translation>
+        <translation type="obsolete">Horizontal</translation>
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Devant le texte</translation>
+        <translation type="obsolete">Devant le texte</translation>
     </message>
     <message>
         <source>Inside</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Vertical-&gt;Absolute position</translatorcomment>
-        <translation>Intérieur</translation>
+        <translation type="obsolete">Intérieur</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
         <translatorcomment>Insert a picture, Format AutoShape Dialog-&gt;Layout-&gt;Advanced-&gt;Text wrapping tab</translatorcomment>
-        <translation>Seulement le plus grand</translation>
+        <translation type="obsolete">Seulement le plus grand</translation>
     </message>
     <message>
         <source>L&amp;eft</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Gauche</translation>
+        <translation type="obsolete">Gauche</translation>
     </message>
     <message>
         <source>Left</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture position-&gt;Horizonal-&gt;Alignment</translatorcomment>
-        <translation>Gauche</translation>
+        <translation type="obsolete">Gauche</translation>
     </message>
     <message>
         <source>Line</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Vertical-&gt;relative to</translatorcomment>
-        <translation>Ligne</translation>
+        <translation type="obsolete">Ligne</translation>
     </message>
     <message>
         <source>Margin</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Horizonal-&gt;relative to</translatorcomment>
-        <translation>Marge</translation>
+        <translation type="obsolete">Marge</translation>
     </message>
     <message>
         <source>Options</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Options</translation>
+        <translation type="obsolete">Options</translation>
     </message>
     <message>
         <source>Outside</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Vertical-&gt;Outside</translatorcomment>
-        <translation>Extérieure</translation>
+        <translation type="obsolete">Extérieure</translation>
     </message>
     <message>
         <source>Page</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Horizonal-&gt;relative to</translatorcomment>
-        <translation>Page</translation>
+        <translation type="obsolete">Page</translation>
     </message>
     <message>
         <source>Paragraph</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Horizonal-&gt;relative to</translatorcomment>
-        <translation>Paragraphe</translation>
+        <translation type="obsolete">Paragraphe</translation>
     </message>
     <message>
         <source>Picture Position</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...</translatorcomment>
-        <translation>Positionnement de l&apos;image</translation>
+        <translation type="obsolete">Positionnement de l&apos;image</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Droite</translation>
+        <translation type="obsolete">Droite</translation>
     </message>
     <message>
         <source>Right</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture position-&gt;Horizonal-&gt;Alignment</translatorcomment>
-        <translation>Droite</translation>
+        <translation type="obsolete">Droite</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Carré</translation>
+        <translation type="obsolete">Carré</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Au travers</translation>
+        <translation type="obsolete">Au travers</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Haut et bas</translation>
+        <translation type="obsolete">Haut et bas</translation>
     </message>
     <message>
         <source>Text wrapping</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...</translatorcomment>
-        <translation>Habillage du texte</translation>
+        <translation type="obsolete">Habillage du texte</translation>
     </message>
     <message>
         <source>To&amp;p</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Haut</translation>
+        <translation type="obsolete">Haut</translation>
     </message>
     <message>
         <source>Top</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture position-&gt;Vertical-&gt;Alignment</translatorcomment>
-        <translation>Haut</translation>
+        <translation type="obsolete">Haut</translation>
     </message>
     <message>
         <source>Vertical</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>Verticale</translation>
+        <translation type="obsolete">Verticale</translation>
     </message>
     <message>
         <source>Wrap text</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Habiller le texte</translation>
+        <translation type="obsolete">Habiller le texte</translation>
     </message>
     <message>
         <source>Wrapping style</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Text wrapping</translatorcomment>
-        <translation>Style d&apos;habillage</translation>
+        <translation type="obsolete">Style d&apos;habillage</translation>
     </message>
     <message>
         <source>belo&amp;w</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position</translatorcomment>
-        <translation>au dessous</translation>
+        <translation type="obsolete">au dessous</translation>
     </message>
     <message>
         <source>pt, 2, -1596, 1596, 1</source>
-        <translation>pt, 2, -1596, 1596, 1</translation>
+        <translation type="obsolete">pt, 2, -1596, 1596, 1</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation>pt, 2, 0, 1584, 1</translation>
+        <translation type="obsolete">pt, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
         <translatorcomment>Insert tab-&gt;Picture-&gt;From File-&gt;insert a picture-&gt;right click the picture-&gt;Format Object-&gt;Layout-&gt;Advanced...-&gt;Picture Position-&gt;Vertical</translatorcomment>
-        <translation>Par rapport à</translation>
+        <translation type="obsolete">Par rapport à</translation>
     </message>
 </context>
 <context>
@@ -899,6 +899,13 @@
     </message>
 </context>
 <context>
+    <name>KWpsStylesGalleryModel</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">Style</translation>
+    </message>
+</context>
+<context>
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
@@ -1099,6 +1106,100 @@
         <source>What you entered is invalid.</source>
         <translatorcomment>Home tab-&gt;Character Scaling-&gt;Combine Charactes-&gt;Size,type:[</translatorcomment>
         <translation>La valeur saisie est non valide.</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentControlDlg</name>
+    <message>
+        <source>Group Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounding Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start/End Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">Aucun</translation>
+    </message>
+    <message>
+        <source>(All Categories)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (same as display)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date (xsd:date)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and Time (xsd:dateTime)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation type="unfinished">Chinois (Taïwan)</translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished">Anglais (États-Unis)</translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation type="unfinished">Japonais (Japon)</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished">Vietnamien</translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation type="unfinished">Chinois (RPC)</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentListEntriesDlg</name>
+    <message>
+        <source>Add Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display &amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display name cannot be blank.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1747,7 +1848,7 @@ utilisez les boutons pour appliquer les bordures</translation>
     <message>
         <source>M&amp;ore Colors...</source>
         <translatorcomment>Home tab-&gt;Outside Borders&apos; drop-down menu-&gt;Bordersand Shadings-&gt;Shading tab-&gt;Fill</translatorcomment>
-        <translation>Plus de couleurs...</translation>
+        <translation type="obsolete">Plus de couleurs...</translation>
     </message>
     <message>
         <source>Patterns</source>
@@ -2323,6 +2424,165 @@ utilisez les boutons pour appliquer les bordures</translation>
         <source>Combine Characters</source>
         <translatorcomment>Home tab-&gt;Character Scaling&apos;s drop-down menu-&gt;Combine Characters</translatorcomment>
         <translation>Combiner les caractères</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgContentControl</name>
+    <message>
+        <source>Content Control Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">Général</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ag:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished">Couleur :</translation>
+    </message>
+    <message>
+        <source>&amp;Use a style to format text typed into the empty control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New Style...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove content control when contents are edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content control cannot be &amp;deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents cannot be &amp;edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow &amp;carriage returns (multiple paragraphs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Building Block Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Category:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gallery:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Box Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Change...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cha&amp;nge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop-Down &amp;List Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished">Ajouter...</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">Modifier...</translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move U&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Do&amp;wn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date Picker Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displa&amp;y the date like this:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Locale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Calendar type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store &amp;XML contents in the following format when mapped:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeating Section Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow users to add and remove &amp;sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section tit&amp;le:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3316,24 +3576,12 @@ Si cela n&apos;est pas nécessaire, cliquez sur Annuler.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Envelope size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delivery address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From top:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From left:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto</source>
-        <translation type="unfinished">Automatique</translation>
+        <translation type="obsolete">Automatique</translation>
     </message>
     <message>
         <source>Return address</source>
@@ -3344,10 +3592,6 @@ Si cela n&apos;est pas nécessaire, cliquez sur Annuler.</translation>
         <translation type="unfinished">Aperçu</translation>
     </message>
     <message>
-        <source>Printing Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Printer:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3356,50 +3600,62 @@ Si cela n&apos;est pas nécessaire, cliquez sur Annuler.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Face up</source>
+        <source>&amp;Envelope Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Face down</source>
+        <source>Envelope &amp;size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clockwise rotation</source>
+        <source>From &amp;top:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feed from:</source>
+        <source>From &amp;left:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reset</source>
+        <source>Fro&amp;m left:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;rom top:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Printing Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face &amp;up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face &amp;down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clockwise rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Feed from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation type="unfinished">Réinitialiser</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEnvelopesAndLabels</name>
     <message>
-        <source>Envelopes and Labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Envelopes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delivery address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add electronic postage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Return address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Omit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3411,36 +3667,56 @@ Si cela n&apos;est pas nécessaire, cliquez sur Annuler.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Verify that an envelopes is loaded before printing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Print</source>
-        <translation type="unfinished">Imprimer</translation>
-    </message>
-    <message>
-        <source>Add Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Imprimer</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">Options</translation>
-    </message>
-    <message>
-        <source>E-postage Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Options</translation>
     </message>
     <message>
         <source>Close</source>
         <translation type="unfinished">Fermer</translation>
+    </message>
+    <message>
+        <source>&amp;Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delivery address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Return address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;mit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished">Options</translation>
+    </message>
+    <message>
+        <source>E-pos&amp;tage Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4221,6 +4497,10 @@ Exemple : +4 vous avance de 4 unités :</translation>
         <source>Cha&amp;racter Spacing</source>
         <translatorcomment>New document-&gt;right click the document-&gt;Font...-&gt;Character Spacing tab</translatorcomment>
         <translation>Espacement des caractères</translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6830,10 +7110,6 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&amp;Font Preview Label</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6907,6 +7183,26 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
     </message>
     <message>
         <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;onts Preview Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace &amp;text as you type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8710,6 +9006,17 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
     </message>
 </context>
 <context>
+    <name>KxDlgTextEffects</name>
+    <message>
+        <source>Format Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgTextFormField</name>
     <message>
         <source>&amp;Bookmark:</source>
@@ -8865,6 +9172,24 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
     </message>
 </context>
 <context>
+    <name>KxDlgWpsConvertPrompt</name>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to newest file format.
+
+While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again about converting documents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>(None)</source>
@@ -9008,6 +9333,25 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
     </message>
     <message>
         <source>&amp;Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you&apos;ll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9167,6 +9511,22 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
         <translatorcomment>type a-&gt;Insert tab-&gt;Drop Cap-&gt;Position-&gt;Dropped-&gt;Distance from text:</translatorcomment>
         <translation>pt</translation>
     </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDropDownFormFieldDlg</name>
@@ -9231,11 +9591,27 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
         <source>Use printer setting</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Personnalisé</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">Automatique</translation>
+    </message>
+    <message>
+        <source>You have changed WPS Writer&apos;s default envelope handling method for this printer. These changes could be incorrect. Choose Reset to return to WPS Writer defaults.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEnvelopesAndLabelsDlg</name>
     <message>
-        <source>Change Document</source>
+        <source>Ch&amp;ange Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9662,6 +10038,22 @@ Le bouton Avancé vous permet de choisir parmi différents types de chiffrement.
     </message>
     <message>
         <source>DBCHAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file path of this document is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert part of a file by using OLE</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10208,6 +10600,22 @@ Cette modification affectera tous les nouveaux documents basés sur le modèle %
         <source>This font has not been installed. The most similar available font will be printed.</source>
         <translation>Cette police n&apos;a pas été installée. La police la plus similaire sera utilisée.</translation>
     </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFootAndEndnoteDlg</name>
@@ -10281,6 +10689,20 @@ Cette modification affectera tous les nouveaux documents basés sur le modèle %
     </message>
 </context>
 <context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxFormatRestrictionsDlg</name>
     <message>
         <source>All styles</source>
@@ -10310,6 +10732,17 @@ Cette modification affectera tous les nouveaux documents basés sur le modèle %
         <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
         <translatorcomment>Review tab-&gt;Restrict Editing-&gt;Task window-&gt;tick Limit formatting to a slection of styles-&gt;Settings...Limit all-&gt;OK</translatorcomment>
         <translation>Ce document contient peut-être des éléments de mise en forme ou des styles non autorisés. Voulez-vous les supprimer ?</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormattingTp</name>
+    <message>
+        <source>Format Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11076,6 +11509,26 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
         <source>Chinese Bahao</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxNewLabelDlg</name>
@@ -11416,6 +11869,26 @@ Annuler : 	Retour à la boîte de dialogue.</translation>
     </message>
     <message>
         <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12327,6 +12800,89 @@ Sélectionnez les parties du document et les utilisateurs autorisés à les modi
     </message>
 </context>
 <context>
+    <name>KxTpWpsXMLMappingWidget</name>
+    <message>
+        <source>(add customXmlparts...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Repeat</source>
+        <translation type="unfinished">Répéter</translation>
+    </message>
+    <message>
+        <source>&amp;Rich Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain &amp;Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comno &amp;Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Dropdown List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Pic&amp;ker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Map to Selected Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation type="unfinished">Fichiers XML</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished">Tous les fichiers</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Ouvrir</translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped to built-in document properties.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped when they are nested within other mapped rich text content controls.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a plain text Content control, so it can&apos;t be mapped to a rich text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a rich text Content control, so it can&apos;t be mapped to a plain text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(empty namespaceURI)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpXMLStructureWidget</name>
     <message>
         <source>Templates And AddIns...</source>
@@ -12412,7 +12968,7 @@ Sélectionnez les parties du document et les utilisateurs autorisés à les modi
     </message>
     <message>
         <source>Drawing Grid</source>
-        <translation>Grille de dessin</translation>
+        <translation type="obsolete">Grille de dessin</translation>
     </message>
     <message>
         <source>Horizontal alignment</source>
@@ -12428,7 +12984,7 @@ Sélectionnez les parties du document et les utilisateurs autorisés à les modi
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation>Haut et bas</translation>
+        <translation type="obsolete">Haut et bas</translation>
     </message>
     <message>
         <source>Wrapping style</source>
@@ -12449,6 +13005,17 @@ Sélectionnez les parties du document et les utilisateurs autorisés à les modi
     <message>
         <source>rbHorizontalRight</source>
         <translation type="obsolete">rbHorizontalRight</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLMapping</name>
+    <message>
+        <source>XmlMapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>custom xmlparts:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12563,7 +13130,7 @@ to a Word XML document.</source>
     <message>
         <source>Automatic</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;Choose a shape to insert-&gt;Formats tab-&gt;3D Color</translatorcomment>
-        <translation>Automatique</translation>
+        <translation type="obsolete">Automatique</translation>
     </message>
 </context>
 <context>
@@ -12826,6 +13393,20 @@ to a Word XML document.</source>
     <message>
         <source>Column</source>
         <translation>Colonne</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCompatibilityModeCommand</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsContentButtonMgr</name>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13390,6 +13971,20 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsDlgHorizontalLine</name>
+    <message>
+        <source>Format Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgShapeLayout</name>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">Habillage</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDlgTemplateAndAddin</name>
     <message>
         <source> Full path: </source>
@@ -13610,6 +14205,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsDropDownButton</name>
+    <message>
+        <source>(No entry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>The field delimiter cannot be the same as the record delimiter.</source>
@@ -13621,7 +14223,11 @@ to a Word XML document.</source>
     <message>
         <source>No Fill</source>
         <translatorcomment>Home tab-&gt;Shading&apos;s drop-down menu</translatorcomment>
-        <translation>Aucun remplissage</translation>
+        <translation type="obsolete">Aucun remplissage</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished">Aucune couleur</translation>
     </message>
 </context>
 <context>
@@ -13629,7 +14235,14 @@ to a Word XML document.</source>
     <message>
         <source>No Fill</source>
         <translatorcomment>Insert tab-&gt;Shapes-&gt;insert a shape-&gt;Fill&apos;s drop-down menu</translatorcomment>
-        <translation>Aucun remplissage</translation>
+        <translation type="obsolete">Aucun remplissage</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFillColorRainbowModel</name>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished">Aucune couleur</translation>
     </message>
 </context>
 <context>
@@ -13637,7 +14250,127 @@ to a Word XML document.</source>
     <message>
         <source>Automatic</source>
         <translatorcomment>Home tab-&gt;Font Color drop down menu</translatorcomment>
-        <translation>Automatique</translation>
+        <translation type="obsolete">Automatique</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Haut</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished">Milieu</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Bas</translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Droite</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Centre</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Gauche</translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GLOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXT OUTLINE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LINE</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13692,6 +14425,17 @@ to a Word XML document.</source>
     <message>
         <source>Show Header Line Color</source>
         <translation>Afficher la couleur de la ligne de l&apos;en-tête</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHorizontalLineDlg</name>
+    <message>
+        <source>Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14166,6 +14910,13 @@ de page</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsPictureButton</name>
+    <message>
+        <source>Click here to insert pictures.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>Behind Text</source>
@@ -14293,6 +15044,21 @@ de page</translation>
         <source>Table of Contents (None)</source>
         <translatorcomment>View tab-&gt;Navigation Pane（in the pane）</translatorcomment>
         <translation>Table des matières (aucune)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShapeLayoutDlg</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Position</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">Taille</translation>
     </message>
 </context>
 <context>
@@ -14513,6 +15279,13 @@ de page</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStatusColumnInfoCommand</name>
     <message>
         <source>Column: %1</source>
@@ -14610,11 +15383,18 @@ de page</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsSubWindow</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;Border Color&apos;s dorp-down menu</translatorcomment>
-        <translation>Automatique</translation>
+        <translation type="obsolete">Automatique</translation>
     </message>
 </context>
 <context>
@@ -14622,7 +15402,11 @@ de page</translation>
     <message>
         <source>No Fill</source>
         <translatorcomment>Insert tab-&gt;Table-&gt;insert a table-&gt;Table Style tab-&gt;Shading&apos;s dorp-down menu</translatorcomment>
-        <translation>Aucun remplissage</translation>
+        <translation type="obsolete">Aucun remplissage</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished">Aucune couleur</translation>
     </message>
 </context>
 <context>
@@ -14669,7 +15453,7 @@ de page</translation>
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation>Modèles Word (*.wpt) ;; Compléments Word (*.wll) ;; Tous les fichiers (*.*)</translation>
+        <translation type="obsolete">Modèles Word (*.wpt) ;; Compléments Word (*.wll) ;; Tous les fichiers (*.*)</translation>
     </message>
     <message>
         <source>XML Files</source>
@@ -14677,7 +15461,7 @@ de page</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
-        <translation>Le modèle commun Normal.WPT est ouvert.</translation>
+        <translation type="obsolete">Le modèle commun Normal.WPT est ouvert.</translation>
     </message>
     <message>
         <source>Load the template or add-ins may cause an application exception, you sure you want to enable?</source>
@@ -14723,6 +15507,14 @@ de page</translation>
         <source> [disabled] </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Word Templates(*.dotx; *.dotm; *.dot; *.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Template Normal.dotm has opened to load.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -14765,11 +15557,22 @@ de page</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsTpFormatting</name>
+    <message>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Automatic</source>
         <translatorcomment>Home tab-&gt;Underline&apos;s dorp-down menu-&gt;Underline Color</translatorcomment>
-        <translation>Automatique</translation>
+        <translation type="obsolete">Automatique</translation>
     </message>
 </context>
 <context>
@@ -14801,6 +15604,480 @@ de page</translation>
         <source>Edit Watermark</source>
         <translatorcomment>Insert tab-&gt;Watermark&apos;s drop-down menu-&gt;right click a watermark model</translatorcomment>
         <translation>Modifier le filigrane</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetChildShapePosition</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">Position</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation type="unfinished">Horizontal :</translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished">pt, 2, -1584, 1584, 1</translation>
+    </message>
+    <message>
+        <source>&amp;From:</source>
+        <translation type="unfinished">De :</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">Centre</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation type="unfinished">Vertical :</translation>
+    </message>
+    <message>
+        <source>F&amp;rom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetHorizontalLine</name>
+    <message>
+        <source>%, 1, 1, 100, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0,05, 1584, 1</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished">Alignement</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation type="unfinished">Gauche</translation>
+    </message>
+    <message>
+        <source>C&amp;enter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation type="unfinished">Droite</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Measure in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use solid color(no shade)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetPosition</name>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">Gauche</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished">Centré</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">Droite</translation>
+    </message>
+    <message>
+        <source>&amp;Book layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation type="unfinished">Intérieur</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation type="unfinished">Extérieure</translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished">Par rapport à</translation>
+    </message>
+    <message>
+        <source>&amp;Relative position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Marge</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished">Paragraphe</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">Ligne</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished">pt, 2, -1584, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">Options</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished">Verticale</translation>
+    </message>
+    <message>
+        <source>relative t&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Absolute po&amp;sition</source>
+        <translation type="unfinished">Position absolue</translation>
+    </message>
+    <message>
+        <source>belo&amp;w</source>
+        <translation type="unfinished">au dessous</translation>
+    </message>
+    <message>
+        <source>Absolute &amp;position</source>
+        <translation type="unfinished">Position absolue</translation>
+    </message>
+    <message>
+        <source>&amp;to the right of</source>
+        <translation type="unfinished">à droite de</translation>
+    </message>
+    <message>
+        <source>o&amp;f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;relative to</source>
+        <translation type="unfinished">Par rapport à :</translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="unfinished">Colonne</translation>
+    </message>
+    <message>
+        <source>Character</source>
+        <translation type="unfinished">Caractère</translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Haut</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Bas</translation>
+    </message>
+    <message>
+        <source>&amp;Alignment</source>
+        <translation type="unfinished">Alignement</translation>
+    </message>
+    <message>
+        <source>Allow o&amp;verlap</source>
+        <translation type="unfinished">Autoriser le chevauchement de texte</translation>
+    </message>
+    <message>
+        <source>Layout in table &amp;cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, -1000, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Move object with text</source>
+        <translation type="unfinished">Déplacer avec le texte</translation>
+    </message>
+    <message>
+        <source>&amp;Lock anchor</source>
+        <translation type="unfinished">Ancrer</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetSize</name>
+    <message>
+        <source>Absolut&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;lative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>degree, 0, -3600, 3600, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 0, 0, 10675, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Lock &amp;aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 168480, 1</source>
+        <translation type="unfinished">pt, 2, 0, 168480, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation type="unfinished">Largeur :</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;bsolute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>relative &amp;to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished">Par rapport à</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">Marge</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished">Page</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, 1, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished">Échelle</translation>
+    </message>
+    <message>
+        <source>Original size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetTextWrapping</name>
+    <message>
+        <source>Wrapping style</source>
+        <translation type="unfinished">Style d&apos;habillage</translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation type="unfinished">Carré</translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation type="unfinished">Rapproché</translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation type="unfinished">Au travers</translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation type="unfinished">Haut et bas</translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation type="unfinished">Derrière le texte</translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation type="unfinished">Devant le texte</translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation type="unfinished">Aligné sur le texte</translation>
+    </message>
+    <message>
+        <source>Wrap text</source>
+        <translation type="unfinished">Habiller le texte</translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation type="unfinished">Des deux côtés</translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation type="unfinished">Seulement à gauche</translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation type="unfinished">Seulement à droite</translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation type="unfinished">Seulement le plus grand</translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation type="unfinished">Distance du texte</translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation type="unfinished">Haut</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation type="unfinished">Gauche</translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation type="unfinished">Bas</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation type="unfinished">Droite</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWordArtInsertCommand</name>
+    <message>
+        <source>Your text here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14925,14 +16202,6 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -14970,6 +16239,125 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Unlimited</source>
         <translation>Illimitée</translation>
+    </message>
+</context>
+<context>
+    <name>WpsContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished">Haut</translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished">Milieu</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished">Bas</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished">Horizontal</translation>
+    </message>
+    <message>
+        <source>Vertical from Right to Left</source>
+        <translation type="unfinished">Vertical de droite à gauche</translation>
+    </message>
+    <message>
+        <source>Vertical from Left to Right</source>
+        <translation type="unfinished">Vertical de gauche à droite</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Asian Charaters 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not rotate text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15195,20 +16583,28 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current word:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation type="obsolete">Annuler</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="unfinished">Remplacer</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

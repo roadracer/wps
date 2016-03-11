@@ -119,6 +119,14 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>WPS Office.lnk</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Pin to tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpin from tas&amp;kbar</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KHomePage</name>
@@ -322,6 +330,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Repair WPS Update Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KOther</name>
@@ -514,15 +530,15 @@ These operations can be undone. </source>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
-        <translation>Новые документы WPS Writer, сохраненныe в формате *.&amp;doc по умолчанию</translation>
+        <translation type="obsolete">Новые документы WPS Writer, сохраненныe в формате *.&amp;doc по умолчанию</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xls format by default</source>
-        <translation>Новые документы WPS Spreadsheets, сохраненныe в формате *.х&amp;ls по умолчанию</translation>
+        <translation type="obsolete">Новые документы WPS Spreadsheets, сохраненныe в формате *.х&amp;ls по умолчанию</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;t format by default</source>
-        <translation>Новые документы WPS Presentation, сохраненныe в формате *.p&amp;pt по умолчанию</translation>
+        <translation type="obsolete">Новые документы WPS Presentation, сохраненныe в формате *.p&amp;pt по умолчанию</translation>
     </message>
     <message>
         <source>File Associations</source>
@@ -543,6 +559,22 @@ needs restarting Windows to take effect.</source>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
         <translation type="unfinished">Со&amp;вместимо с Microsoft Office 2010</translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1194,6 +1226,10 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation Preview Handler</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS PDF Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

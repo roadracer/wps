@@ -109,10 +109,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bold</source>
         <translation type="unfinished"></translation>
     </message>
@@ -141,7 +137,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Color</source>
+        <source>Font Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -307,12 +319,16 @@ Rețineți că dacă veți comprima pozele se poate reduce calitatea pozelor. Do
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Underline</source>
+        <source>Line Spacing</source>
+        <translation type="obsolete">Distanța dintre linii</translation>
+    </message>
+    <message>
+        <source>UnderLine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Spacing</source>
-        <translation type="unfinished">Distanța dintre linii</translation>
+        <source>LineSpace</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

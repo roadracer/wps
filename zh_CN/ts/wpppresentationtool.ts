@@ -105,10 +105,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Bold</source>
         <translation type="unfinished"></translation>
     </message>
@@ -137,7 +133,23 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Font Color</source>
+        <source>Font Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -327,12 +339,16 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Underline</source>
+        <source>Line Spacing</source>
+        <translation type="obsolete">行距</translation>
+    </message>
+    <message>
+        <source>UnderLine</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Line Spacing</source>
-        <translation type="unfinished">行距</translation>
+        <source>LineSpace</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

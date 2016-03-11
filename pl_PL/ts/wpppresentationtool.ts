@@ -110,7 +110,7 @@
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Rozmiar czcionki</translation>
+        <translation type="obsolete">Rozmiar czcionki</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -142,7 +142,27 @@
     </message>
     <message>
         <source>Font Color</source>
-        <translation>Kolor czcionki</translation>
+        <translation type="obsolete">Kolor czcionki</translation>
+    </message>
+    <message>
+        <source>Font Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Color:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -314,11 +334,19 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     </message>
     <message>
         <source>Underline</source>
-        <translation>Podkreślenie</translation>
+        <translation type="obsolete">Podkreślenie</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Interlinia</translation>
+        <translation type="obsolete">Interlinia</translation>
+    </message>
+    <message>
+        <source>UnderLine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LineSpace</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

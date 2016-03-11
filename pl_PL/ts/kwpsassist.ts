@@ -25,27 +25,51 @@
     <name>KSlideLibraryLogic</name>
     <message>
         <source>Cover</source>
-        <translation>Okładka</translation>
+        <translation type="obsolete">Okładka</translation>
     </message>
     <message>
         <source>Catalog</source>
-        <translation>Wykaz</translation>
+        <translation type="obsolete">Wykaz</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation>Tekst podstawowy</translation>
+        <translation type="obsolete">Tekst podstawowy</translation>
     </message>
     <message>
         <source>Transition</source>
-        <translation>Przejście</translation>
+        <translation type="obsolete">Przejście</translation>
     </message>
     <message>
         <source>Ending</source>
-        <translation>Zakończenie</translation>
+        <translation type="obsolete">Zakończenie</translation>
     </message>
     <message>
         <source>More</source>
-        <translation>Więcej</translation>
+        <translation type="obsolete">Więcej</translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Cover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Catalog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Main</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Trans</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_Ending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ContentSlideType_More</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -120,15 +144,27 @@
     <name>KTemplateDownloadFinishTip</name>
     <message>
         <source>Apply</source>
-        <translation>Zastosuj</translation>
+        <translation type="obsolete">Zastosuj</translation>
     </message>
     <message>
         <source>Template download succeeded</source>
-        <translation>Pobieranie szablonu powiodło się</translation>
+        <translation type="obsolete">Pobieranie szablonu powiodło się</translation>
     </message>
     <message>
         <source>Template download failed</source>
-        <translation>Pobieranie szablonu nie powiodło się</translation>
+        <translation type="obsolete">Pobieranie szablonu nie powiodło się</translation>
+    </message>
+    <message>
+        <source>apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>template download success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>template download failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

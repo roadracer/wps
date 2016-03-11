@@ -382,7 +382,7 @@ This may because:
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation>Se încarcă Recuperare date Master. Așteptați...</translation>
+        <translation type="obsolete">Se încarcă Recuperare date Master. Așteptați...</translation>
     </message>
 </context>
 <context>
@@ -940,39 +940,39 @@ This may because:
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Curăță tot</translation>
+        <translation type="obsolete">Curăță tot</translation>
     </message>
     <message>
         <source>From %1</source>
-        <translation>De la %1</translation>
+        <translation type="obsolete">De la %1</translation>
     </message>
     <message>
         <source>%1
 size:%2
 path:%3</source>
-        <translation>%1
+        <translation type="obsolete">%1
 dimensiune:%2
 cale:%3</translation>
     </message>
     <message>
         <source>Roaming your document...</source>
-        <translation>Document în roaming...</translation>
+        <translation type="obsolete">Document în roaming...</translation>
     </message>
     <message>
         <source>Remove star</source>
-        <translation>Elimină steaua</translation>
+        <translation type="obsolete">Elimină steaua</translation>
     </message>
     <message>
         <source>Remove all starred records</source>
-        <translation>Elimină toate înregistrările cu stea</translation>
+        <translation type="obsolete">Elimină toate înregistrările cu stea</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation>Adaugă stea</translation>
+        <translation type="obsolete">Adaugă stea</translation>
     </message>
     <message>
         <source>Remove all non-starred records</source>
-        <translation>Elimină toate înregistrările fără stea</translation>
+        <translation type="obsolete">Elimină toate înregistrările fără stea</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -988,7 +988,7 @@ cale:%3</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Roaming fișier</translation>
+        <translation type="obsolete">Roaming fișier</translation>
     </message>
     <message>
         <source>Delete from the List</source>
@@ -1000,6 +1000,22 @@ cale:%3</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all native recent record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Lately use: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1007,18 +1023,18 @@ cale:%3</translation>
     <name>KRoamingFilePageFixedButton</name>
     <message>
         <source>Remove star</source>
-        <translation>Elimină stea</translation>
+        <translation type="obsolete">Elimină stea</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation>Adaugă stea</translation>
+        <translation type="obsolete">Adaugă stea</translation>
     </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
     <message>
         <source>document be deleted</source>
-        <translation>documentul va fi șters</translation>
+        <translation type="obsolete">documentul va fi șters</translation>
     </message>
     <message>
         <source>Cacel</source>
@@ -1026,46 +1042,46 @@ cale:%3</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation type="obsolete">Anulează</translation>
     </message>
 </context>
 <context>
     <name>KRoamingGuidFilePage</name>
     <message>
         <source>All</source>
-        <translation>Tot</translation>
+        <translation type="obsolete">Tot</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation>Stea</translation>
+        <translation type="obsolete">Stea</translation>
     </message>
     <message>
         <source>Roam to mobile</source>
-        <translation>Roaming la mobil</translation>
+        <translation type="obsolete">Roaming la mobil</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>Documente recente</translation>
+        <translation type="obsolete">Documente recente</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>Roaming fișier</translation>
+        <translation type="obsolete">Roaming fișier</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Deschide</translation>
+        <translation type="obsolete">Deschide</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation>Curăță tot</translation>
+        <translation type="obsolete">Curăță tot</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Ajutor</translation>
+        <translation type="obsolete">Ajutor</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>Dezactivează roaming fișier</translation>
+        <translation type="obsolete">Dezactivează roaming fișier</translation>
     </message>
     <message>
         <source>Remove From List</source>
@@ -1079,16 +1095,11 @@ cale:%3</translation>
         <source>Clear Invalid Records</source>
         <translation type="obsolete">Curăță înregistrările nevalide</translation>
     </message>
+</context>
+<context>
+    <name>KRoamingGuideButton</name>
     <message>
-        <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Invalid File</source>
+        <source>Document Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1103,46 +1114,46 @@ cale:%3</translation>
     <name>KRoamingItemDelagate</name>
     <message>
         <source>More</source>
-        <translation>Mai mult</translation>
+        <translation type="obsolete">Mai mult</translation>
     </message>
     <message>
         <source>From %1</source>
-        <translation>De la %1</translation>
+        <translation type="obsolete">De la %1</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation>Se șterge</translation>
+        <translation type="obsolete">Se șterge</translation>
     </message>
     <message>
         <source>Adding star</source>
-        <translation>Se adaugă stea</translation>
+        <translation type="obsolete">Se adaugă stea</translation>
     </message>
     <message>
         <source>Operating</source>
-        <translation>Se operează</translation>
+        <translation type="obsolete">Se operează</translation>
     </message>
 </context>
 <context>
     <name>KRoamingRecentTailPanel</name>
     <message>
         <source>All file types:</source>
-        <translation>Toate tipurile de fișiere:</translation>
+        <translation type="obsolete">Toate tipurile de fișiere:</translation>
     </message>
     <message>
         <source>On</source>
-        <translation>Pornit</translation>
+        <translation type="obsolete">Pornit</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>Oprit</translation>
+        <translation type="obsolete">Oprit</translation>
     </message>
     <message>
         <source>More roaming documents</source>
-        <translation>Mai multe documente în roaming</translation>
+        <translation type="obsolete">Mai multe documente în roaming</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>Dezactivează roaming fișiere</translation>
+        <translation type="obsolete">Dezactivează roaming fișiere</translation>
     </message>
 </context>
 <context>
@@ -1164,7 +1175,7 @@ cale:%3</translation>
     <name>KRoamingTabHeader</name>
     <message>
         <source>File Roaming</source>
-        <translation>Roaming fișiere</translation>
+        <translation type="obsolete">Roaming fișiere</translation>
     </message>
 </context>
 <context>
@@ -1228,7 +1239,7 @@ cale:%3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You have enabled File Roaming:</source>
+        <source>Recent cloud documents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1317,6 +1328,13 @@ cale:%3</translation>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDataRecoverCommand</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
+        <translation type="unfinished">Se încarcă Recuperare date Master. Așteptați...</translation>
     </message>
 </context>
 <context>
@@ -2175,6 +2193,37 @@ please sign in to use WPS Office.</source>
     <message>
         <source>VIP soon to be expired</source>
         <translation>VIP va expira în curând</translation>
+    </message>
+</context>
+<context>
+    <name>roaming::filepage::Header</name>
+    <message id="0">
+        <source>Recent documents</source>
+        <translation type="unfinished">Documente recente</translation>
+    </message>
+    <message>
+        <source>cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>all file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished">reâmprospătează</translation>
+    </message>
+    <message>
+        <source>Login to show Cloud files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show cloud file, please </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>login</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

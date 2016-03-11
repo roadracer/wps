@@ -373,12 +373,12 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="ClearFormats.title">
         <source>Clear Formatting</source>
         <extracomment>ClearFormats.title</extracomment>
-        <translation>Wyczyść formatowanie</translation>
+        <translation type="obsolete">Wyczyść formatowanie</translation>
     </message>
     <message id="ClearFormats.content">
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
         <extracomment>ClearFormats.content</extracomment>
-        <translation>Umożliwia wyczyszczenie całego formatowania w zaznaczeniu, co spowoduje pozostawienie tylko zwykłego tekstu.</translation>
+        <translation type="obsolete">Umożliwia wyczyszczenie całego formatowania w zaznaczeniu, co spowoduje pozostawienie tylko zwykłego tekstu.</translation>
     </message>
     <message id="CloseHeaderAndFooter.title">
         <source>Close</source>
@@ -983,12 +983,12 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatObject.title">
         <source>Format Object</source>
         <extracomment>FormatObject.title</extracomment>
-        <translation>Formatuj obiekt</translation>
+        <translation type="obsolete">Formatuj obiekt</translation>
     </message>
     <message id="FormatObject.content">
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
-        <translation>Umożliwia pokazanie okna dialogowego Formatuj obiekt.</translation>
+        <translation type="obsolete">Umożliwia pokazanie okna dialogowego Formatuj obiekt.</translation>
     </message>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
@@ -1947,14 +1947,18 @@ Click the arrow to select different numbering formats.</source>
 Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message id="Numbering2.title">
-        <source>Bullets</source>
+        <source>Numbering</source>
+        <oldsource>Bullets</oldsource>
         <extracomment>Numbering2.title</extracomment>
-        <translation>Punktory</translation>
+        <translation type="unfinished">Punktory</translation>
     </message>
     <message id="Numbering2.content">
-        <source>Click the arrow to select different numbering formats.</source>
+        <source>Start a numbered list.
+
+Click the arrow to select different numbering formats.</source>
+        <oldsource>Click the arrow to select different numbering formats.</oldsource>
         <extracomment>Numbering2.content</extracomment>
-        <translation>Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
+        <translation type="unfinished">Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
@@ -3499,6 +3503,142 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="XmlExpansionPacksWord.content">
         <source>Manage the XML expansion packs attached to this document, or attach a new expansion pack.</source>
         <translation>Umożliwia zarządzanie pakietami rozszerzeń XML dołączonymi do tego dokumentu lub dołączenie nowego pakietu rozszerzenia.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertEnvelopes.title">
+        <source>Create Envelopes</source>
+        <extracomment>InsertEnvelopes.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertEnvelopes.content">
+        <source>Create and print envelopes.</source>
+        <extracomment>InsertEnvelopes.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowHideEditMark.title">
+        <source>Show/Hide Editing Marks</source>
+        <extracomment>ShowHideEditMark.title</extracomment>
+        <translation type="unfinished">Pokaż/Ukryj znaczniki edycji</translation>
+    </message>
+    <message id="ShowHideEditMark.content">
+        <source>Show or hide format marks and paragraph layout buttons in the document.</source>
+        <extracomment>ShowHideEditMark.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WrapText.title">
+        <source></source>
+        <translation type="unfinished">Rozdziel komórki</translation>
+    </message>
+    <message id="WrapText.content">
+        <source></source>
+        <translation type="unfinished">Rozdziel komórki</translation>
+    </message>
+    <message id="ContentControlRichText.title">
+        <source>Rich Text Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlRichText.content">
+        <source>Insert a rich text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlText.title">
+        <source>Plain Text Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlText.content">
+        <source>Insert a plain text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlPicture.title">
+        <source>Picture Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlPicture.content">
+        <source>Insert a picture content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlBuildingBlockGallery.title">
+        <source>Building Block Gallery Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlBuildingBlockGallery.content">
+        <source>Insert a building block gallery content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlCheckBox.title">
+        <source>Check Box Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlCheckBox.content">
+        <source>Insert a check box content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlComboBox.title">
+        <source>Combo Box Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlComboBox.content">
+        <source>Insert a combo box content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlDropDownList.title">
+        <source>Drop-Down List Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlDropDownList.content">
+        <source>Insert a drop-down list content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlData.title">
+        <source>Date Picker Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlData.content">
+        <source>Insert a date content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlRepeating.title">
+        <source>Repeating Section Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlRepeating.content">
+        <source>Insert a content control that contains other controls and repeats the contents of the control as needed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ControlsGalleryClassic.title">
+        <source>Legacy Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ControlsGalleryClassic.content">
+        <source>Insert an ActiveX control or form control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlsGroupMenu.title">
+        <source>Group or Ungroup Text Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContentControlsGroupMenu.content">
+        <source>Group or ungroup a selected range of text.
+
+When grouped, a text range cannot be edited, except in regions containing editable content controls.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlMapping.title">
+        <source>XML Mapping Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XmlMapping.content">
+        <source>See the XML data stored in this document and create content controls that are linked to it.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

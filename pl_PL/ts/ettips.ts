@@ -211,12 +211,12 @@ Jest to konieczne tylko w przypadku wyłączenia obliczania automatycznego.</tra
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
         <extracomment>ChangeChartType.title</extracomment>
-        <translation>Zmień typ wykresu</translation>
+        <translation type="obsolete">Zmień typ wykresu</translation>
     </message>
     <message id="ChangeChartType.content">
         <source>Change the current chart type.</source>
         <extracomment>ChangeChartType.content</extracomment>
-        <translation>Umożliwia zmianę bieżącego typu wykresu.</translation>
+        <translation type="obsolete">Umożliwia zmianę bieżącego typu wykresu.</translation>
     </message>
     <message id="CharacterSpacing.title">
         <source>WordArt Character Spacing</source>
@@ -857,14 +857,16 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <translation>Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     </message>
     <message id="FontFormatCells.title">
-        <source>Format Cells: Font</source>
+        <source>Font Settings</source>
+        <oldsource>Format Cells: Font</oldsource>
         <extracomment>FontFormatCells.title</extracomment>
-        <translation>Formatuj komórki: czcionka</translation>
+        <translation type="unfinished">Formatuj komórki: czcionka</translation>
     </message>
     <message id="FontFormatCells.content">
-        <source>Show the Font tab of the Format Cells dialog box.</source>
+        <source>Show the Font dialog box.</source>
+        <oldsource>Show the Font tab of the Format Cells dialog box.</oldsource>
         <extracomment>FontFormatCells.content</extracomment>
-        <translation>Umożliwia pokazanie karty Czcionka w oknie dialogowym Formatowanie komórek.</translation>
+        <translation type="unfinished">Umożliwia pokazanie karty Czcionka w oknie dialogowym Formatowanie komórek.</translation>
     </message>
     <message id="FormatChartObject.title">
         <source>Format Selection</source>
@@ -879,12 +881,12 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatObject.title">
         <source>Format Object</source>
         <extracomment>FormatObject.title</extracomment>
-        <translation>Formatuj obiekt</translation>
+        <translation type="obsolete">Formatuj obiekt</translation>
     </message>
     <message id="FormatObject.content">
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
-        <translation>Umożliwia pokazanie okna dialogowego Formatuj obiekt.</translation>
+        <translation type="obsolete">Umożliwia pokazanie okna dialogowego Formatuj obiekt.</translation>
     </message>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
@@ -1178,9 +1180,10 @@ Podziały stron są wstawiane powyżej zaznaczenia i po jego lewej stronie.</tra
         <translation>Wstaw WordArt</translation>
     </message>
     <message id="InsertWordArt.content">
-        <source>Show the WordArt Gallery dialog box to select a WordArt style and edit content.</source>
+        <source>Add Some artistic flair to your document useing a WordArt text box.</source>
+        <oldsource>Show the WordArt Gallery dialog box to select a WordArt style and edit content.</oldsource>
         <extracomment>InsertWordArt.content</extracomment>
-        <translation>Umożliwia wyświetlenie okna dialogowego Galeria WordArt, aby wybrać styl WordArt i edytować zawartość.</translation>
+        <translation type="unfinished">Umożliwia wyświetlenie okna dialogowego Galeria WordArt, aby wybrać styl WordArt i edytować zawartość.</translation>
     </message>
     <message id="LeftBorder.title">
         <source>Left Border</source>
@@ -2715,6 +2718,266 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="PTNotRepeatLabels.content">
         <source>Show only one of the duplicate parent item labels.</source>
         <translation>Pokaż tylko jedną ze zduplikowanych etykiet elementu nadrzędnego.</translation>
+    </message>
+    <message id="AlignJustify.title">
+        <source>Justify</source>
+        <extracomment>AlignJustify.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AlignJustify.content">
+        <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
+        <extracomment>AlignJustify.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AlignDistributed.title">
+        <source>Distributed</source>
+        <extracomment>AlignDistributed.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AlignDistributed.content">
+        <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
+        <extracomment>AlignDistributed.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Scientific.title">
+        <source>Scientific Style</source>
+        <extracomment>Scientific.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Scientific.content">
+        <source>Format as a number in scientific notation, with 2 decimal places.</source>
+        <extracomment>Scientific.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartColumn.title">
+        <source>Insert Column Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartColumn.content">
+        <source>Use this chart type to visually compare values across a few categories.
+
+Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartBar.title">
+        <source>Insert Bar Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartBar.content">
+        <source>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
+
+Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartLine.title">
+        <source>Insert Line Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartLine.content">
+        <source>Use this chart type to show trends over time (years, months, and days) or categories.
+
+Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartRadar.title">
+        <source>Insert Stock or Radar Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartRadar.content">
+        <source>Click the arrow to see the different types of stock or radar charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartArea.title">
+        <source>Insert Area Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartArea.content">
+        <source>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
+
+Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartCombination.title">
+        <source>Insert Combo Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartCombination.content">
+        <source>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
+
+Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartPie.title">
+        <source>Insert Pie or Doughnut Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartPie.content">
+        <source>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
+
+Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartScatter.title">
+        <source>Insert Scatter (X, Y) or Bubble Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartScatter.content">
+        <source>Use this chart type to show the relationship between sets of values.
+
+Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Accounting.title">
+        <source>Accounting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Accounting.content">
+        <source>Choose an alternate Accounting format for the selected cell, and allowing the currency symbol aligned to the left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellStyleGallery.title">
+        <source>Cell Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellStyleGallery.content">
+        <source>Selecting a predefined style or fast setting cell types. You can also customize styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Table.title">
+        <source>Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Table.content">
+        <source>Create a table to manage and analyze related data.
+
+Tables make it easy to sort, filter, and format data within a sheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FormatAsTable.title">
+        <source>Format As Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FormatAsTable.content">
+        <source>Quickly convert a range of cells to a table with its own style.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TableName.title">
+        <source>Table Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TableName.content">
+        <source>Edit the name of this table used to refer to it in formulas.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ResizeTable.title">
+        <source>Resize Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ResizeTable.content">
+        <source>Resize this table by adding or removing rows and columns.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RemoveDuplicates.title">
+        <source>Remove Duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RemoveDuplicates.content">
+        <source>Delete duplicate rows from a sheet.
+
+You can pick which columns should be checked for duplicate information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ConvertToRange.title">
+        <source>Convert to Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ConvertToRange.content">
+        <source>Convert this table into a normal range of cells.
+
+All of the data is preserved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TableMenuRefresh.title">
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TableMenuRefresh.content">
+        <source>Get the latest data from the source connected to the active cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PublishToSharePoint.title">
+        <source>Export Table to SharePoint List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PublishToSharePoint.content">
+        <source>Export the data in this table to a SharePoint list or Visio diagram.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderRow.title">
+        <source>Header Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderRow.content">
+        <source>Turn on or off the header row the table.
+
+A header row formats the top row of the table specially.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FirstColumn.title">
+        <source>First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FirstColumn.content">
+        <source>Display special formatting for the first column of the table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TotalRow.title">
+        <source>Total Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TotalRow.content">
+        <source>Trun on or off the total row of the table.
+
+The total row is a row at the end of the table which displays totals for each column.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LastColumn.title">
+        <source>Last Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LastColumn.content">
+        <source>Display special formatting for the last column of the table.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BandedRows.title">
+        <source>Banded Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BandedRows.content">
+        <source>Display banded rows, in which even rows are formatted differently from odd rows.
+
+This banding can make tables easier to read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BandedColumns.title">
+        <source>Banded Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BandedColumns.content">
+        <source>Display banded columns, in which even columns are formatted differently from odd columns.
+
+This banding can make tables easier to read.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -464,95 +464,95 @@
     <name>DlgKxAdvancedLayout</name>
     <message>
         <source>&amp;Alignment</source>
-        <translation>对齐方式(&amp;A)</translation>
+        <translation type="obsolete">对齐方式(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Behind text</source>
-        <translation>衬于文字下方(&amp;B)</translation>
+        <translation type="obsolete">衬于文字下方(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;In line with text</source>
-        <translation>嵌入型(&amp;I)</translation>
+        <translation type="obsolete">嵌入型(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation>只在左侧(&amp;L)</translation>
+        <translation type="obsolete">只在左侧(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Lock anchor</source>
-        <translation>锁定标记(&amp;L)</translation>
+        <translation type="obsolete">锁定标记(&amp;L)</translation>
     </message>
     <message>
         <source>&amp;Move object with text</source>
-        <translation>对象随文字移动(&amp;M)</translation>
+        <translation type="obsolete">对象随文字移动(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation>只在右侧(&amp;R)</translation>
+        <translation type="obsolete">只在右侧(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Tight</source>
-        <translation>紧密型(&amp;T)</translation>
+        <translation type="obsolete">紧密型(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;relative to</source>
-        <translation>相对于(&amp;R)</translation>
+        <translation type="obsolete">相对于(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation>右侧(&amp;T)</translation>
+        <translation type="obsolete">右侧(&amp;T)</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
-        <translation>绝对位置(&amp;P)</translation>
+        <translation type="obsolete">绝对位置(&amp;P)</translation>
     </message>
     <message>
         <source>Absolute po&amp;sition</source>
-        <translation>绝对位置(&amp;S)</translation>
+        <translation type="obsolete">绝对位置(&amp;S)</translation>
     </message>
     <message>
         <source>Advanced Layout</source>
-        <translation>高级版式</translation>
+        <translation type="obsolete">高级版式</translation>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation>对齐方式(&amp;I)</translation>
+        <translation type="obsolete">对齐方式(&amp;I)</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
-        <translation>允许重叠(&amp;V)</translation>
+        <translation type="obsolete">允许重叠(&amp;V)</translation>
     </message>
     <message>
         <source>Both &amp;sides</source>
-        <translation>两边(&amp;S)</translation>
+        <translation type="obsolete">两边(&amp;S)</translation>
     </message>
     <message>
         <source>Botto&amp;m</source>
-        <translation>下(&amp;M)</translation>
+        <translation type="obsolete">下(&amp;M)</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>下对齐</translation>
+        <translation type="obsolete">下对齐</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation>居中</translation>
+        <translation type="obsolete">居中</translation>
     </message>
     <message>
         <source>Character</source>
-        <translation>字符</translation>
+        <translation type="obsolete">字符</translation>
     </message>
     <message>
         <source>Column</source>
-        <translation>栏</translation>
+        <translation type="obsolete">栏</translation>
     </message>
     <message>
         <source>Distance from text</source>
-        <translation>距正文</translation>
+        <translation type="obsolete">距正文</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>水平对齐</translation>
+        <translation type="obsolete">水平对齐</translation>
     </message>
     <message>
         <source>In &amp;front of text</source>
@@ -560,67 +560,67 @@
     </message>
     <message>
         <source>Inside</source>
-        <translation>内部</translation>
+        <translation type="obsolete">内部</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
-        <translation>只在最宽一侧(&amp;A)</translation>
+        <translation type="obsolete">只在最宽一侧(&amp;A)</translation>
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translation>左(&amp;E):</translation>
+        <translation type="obsolete">左(&amp;E):</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>左对齐</translation>
+        <translation type="obsolete">左对齐</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation>行</translation>
+        <translation type="obsolete">行</translation>
     </message>
     <message>
         <source>Margin</source>
-        <translation>页边距</translation>
+        <translation type="obsolete">页边距</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>选项</translation>
+        <translation type="obsolete">选项</translation>
     </message>
     <message>
         <source>Outside</source>
-        <translation>外部</translation>
+        <translation type="obsolete">外部</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation>页面</translation>
+        <translation type="obsolete">页面</translation>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>段落</translation>
+        <translation type="obsolete">段落</translation>
     </message>
     <message>
         <source>Picture Position</source>
-        <translation>图片位置</translation>
+        <translation type="obsolete">图片位置</translation>
     </message>
     <message>
         <source>Ri&amp;ght</source>
-        <translation>右(&amp;G)</translation>
+        <translation type="obsolete">右(&amp;G)</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>右对齐</translation>
+        <translation type="obsolete">右对齐</translation>
     </message>
     <message>
         <source>S&amp;quare</source>
-        <translation>四周型(&amp;Q)</translation>
+        <translation type="obsolete">四周型(&amp;Q)</translation>
     </message>
     <message>
         <source>T&amp;hrough</source>
-        <translation>穿越型(&amp;H)</translation>
+        <translation type="obsolete">穿越型(&amp;H)</translation>
     </message>
     <message>
         <source>T&amp;op and bottom</source>
-        <translation>上下型(&amp;O)</translation>
+        <translation type="obsolete">上下型(&amp;O)</translation>
     </message>
     <message>
         <source>Text Wrapping</source>
@@ -628,31 +628,27 @@
     </message>
     <message>
         <source>To&amp;p</source>
-        <translation>上(&amp;P)</translation>
+        <translation type="obsolete">上(&amp;P)</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>顶端对齐</translation>
+        <translation type="obsolete">顶端对齐</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>垂直对齐</translation>
+        <translation type="obsolete">垂直对齐</translation>
     </message>
     <message>
         <source>Wrap text</source>
-        <translation>环绕文字</translation>
+        <translation type="obsolete">环绕文字</translation>
     </message>
     <message>
         <source>Wrapping style</source>
-        <translation>环绕方式</translation>
+        <translation type="obsolete">环绕方式</translation>
     </message>
     <message>
         <source>belo&amp;w</source>
-        <translation>下侧(&amp;W)</translation>
-    </message>
-    <message>
-        <source>pt, 2, -1596, 1596, 1</source>
-        <translation></translation>
+        <translation type="obsolete">下侧(&amp;W)</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1584</source>
@@ -660,19 +656,19 @@
     </message>
     <message>
         <source>pt, 2, 0, 1584, 1</source>
-        <translation>pt, 2, 0, 1584, 1</translation>
+        <translation type="obsolete">pt, 2, 0, 1584, 1</translation>
     </message>
     <message>
         <source>r&amp;elative to</source>
-        <translation>相对于(&amp;E)</translation>
+        <translation type="obsolete">相对于(&amp;E)</translation>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation>文字环绕</translation>
+        <translation type="obsolete">文字环绕</translation>
     </message>
     <message>
         <source>In fro&amp;nt of text</source>
-        <translation>浮于文字上方(&amp;F)</translation>
+        <translation type="obsolete">浮于文字上方(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -982,6 +978,13 @@
     </message>
 </context>
 <context>
+    <name>KWpsStylesGalleryModel</name>
+    <message>
+        <source>Style</source>
+        <translation type="unfinished">样式</translation>
+    </message>
+</context>
+<context>
     <name>KxAddUsersDlg</name>
     <message>
         <source>Some of the users you have entered could not be added to the list because their names could not be verified.</source>
@@ -1206,6 +1209,100 @@
     <message>
         <source>Value must be between 1 and 16838.</source>
         <translation>度量值必须介于 1 与 16383 之间。</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentControlDlg</name>
+    <message>
+        <source>Group Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bounding Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start/End Tag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="unfinished">无</translation>
+    </message>
+    <message>
+        <source>(All Categories)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (same as display)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date (xsd:date)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date and Time (xsd:dateTime)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation type="unfinished">中文(台湾)</translation>
+    </message>
+    <message>
+        <source>English (United States)</source>
+        <translation type="unfinished">英语(美国)</translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation type="unfinished">日语</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation type="unfinished">越南语</translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation type="unfinished">中文(中国)</translation>
+    </message>
+</context>
+<context>
+    <name>KxContentListEntriesDlg</name>
+    <message>
+        <source>Add Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Choice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display &amp;Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display name cannot be blank.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same value already exists - each entry must spacify a unique value.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An entry with the same display name already exists - each entry must spacify a display name.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2015,7 +2112,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>M&amp;ore Colors...</source>
-        <translation>其他颜色(&amp;O)...</translation>
+        <translation type="obsolete">其他颜色(&amp;O)...</translation>
     </message>
     <message>
         <source>Options...</source>
@@ -2555,6 +2652,165 @@ use buttons to apply borders</source>
     <message>
         <source>OK</source>
         <translation type="obsolete">确定</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgContentControl</name>
+    <message>
+        <source>Content Control Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">常规</translation>
+    </message>
+    <message>
+        <source>&amp;Title:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>T&amp;ag:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use a style to format text typed into the empty control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Style:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New Style...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove content control when contents are edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content control cannot be &amp;deleted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents cannot be &amp;edited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain Text Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow &amp;carriage returns (multiple paragraphs)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Building Block Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Category:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Gallery:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Box Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Change...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unchecked symbol:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cha&amp;nge...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Drop-Down &amp;List Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished">添加(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">修改(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Rem&amp;ove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move U&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Do&amp;wn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date Picker Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displa&amp;y the date like this:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Locale:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Calendar type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Store &amp;XML contents in the following format when mapped:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeating Section Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allow users to add and remove &amp;sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section tit&amp;le:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3648,24 +3904,12 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Envelope size:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Delivery address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>From top:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>From left:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Auto</source>
-        <translation type="unfinished">自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>Return address</source>
@@ -3676,10 +3920,6 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished">预览</translation>
     </message>
     <message>
-        <source>Printing Options</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Printer:</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3688,50 +3928,62 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Face up</source>
+        <source>&amp;Envelope Options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Face down</source>
+        <source>Envelope &amp;size:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clockwise rotation</source>
+        <source>From &amp;top:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feed from:</source>
+        <source>From &amp;left:</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Reset</source>
+        <source>Fro&amp;m left:</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;rom top:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Printing Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face &amp;up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Face &amp;down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clockwise rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Feed from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation type="unfinished">重新设置(&amp;R)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEnvelopesAndLabels</name>
     <message>
-        <source>Envelopes and Labels</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Envelopes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Delivery address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add electronic postage</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Return address:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Omit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3743,36 +3995,56 @@ If unnecessary, please click Cancel.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Verify that an envelopes is loaded before printing:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Use printer setting</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Print</source>
-        <translation type="unfinished">打印</translation>
-    </message>
-    <message>
-        <source>Add Document</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">打印</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished">选项</translation>
-    </message>
-    <message>
-        <source>E-postage Properties</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Labels</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">选项</translation>
     </message>
     <message>
         <source>Close</source>
         <translation type="unfinished">关闭</translation>
+    </message>
+    <message>
+        <source>&amp;Envelopes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delivery address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Return address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>O&amp;mit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished">选项(&amp;O)</translation>
+    </message>
+    <message>
+        <source>E-pos&amp;tage Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Labels</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4575,6 +4847,10 @@ Example: +4 will move forward four items:</source>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
         <translation type="obsolete">这是一种TureType字体，同时适用于屏幕和打印机。</translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7263,7 +7539,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation type="obsolete">字体预览框(&amp;O)</translation>
+        <translation type="unfinished">字体预览框(&amp;O)</translation>
     </message>
     <message>
         <source>AutoNumber</source>
@@ -7300,10 +7576,6 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>&amp;Browse...</source>
         <translation>浏览(&amp;B)...</translation>
-    </message>
-    <message>
-        <source>&amp;Font Preview Label</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
@@ -7375,6 +7647,22 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Choose...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Replace &amp;text as you type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9046,6 +9334,17 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
 </context>
 <context>
+    <name>KxDlgTextEffects</name>
+    <message>
+        <source>Format Text Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished">确定</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgTextFormField</name>
     <message>
         <source>&amp;Bookmarks:</source>
@@ -9199,6 +9498,24 @@ Do you want to:</source>
     <message>
         <source>View Footnotes</source>
         <translation>查看脚注</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsConvertPrompt</name>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to newest file format.
+
+While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
+Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again about converting documents.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9361,6 +9678,25 @@ Do you want to:</source>
     </message>
     <message>
         <source>&amp;Field delimiter:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsMaintainCmptPrompt</name>
+    <message>
+        <source>MaintainCompatibilityPrompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your document will be upgraded to the newest file format.
+
+While you&apos;ll get to use all the new features in Word, some minor layout
+changes are possible. If you prefer not to upgrade, press cancel an
+check the maintain compatibility checkbox.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not ask me again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9530,6 +9866,22 @@ Do you want to:</source>
         <source>pt</source>
         <translation>磅</translation>
     </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDropDownFormFieldDlg</name>
@@ -9598,11 +9950,27 @@ Do you want to:</source>
         <source>Use printer setting</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">自动</translation>
+    </message>
+    <message>
+        <source>You have changed WPS Writer&apos;s default envelope handling method for this printer. These changes could be incorrect. Choose Reset to return to WPS Writer defaults.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEnvelopesAndLabelsDlg</name>
     <message>
-        <source>Change Document</source>
+        <source>Ch&amp;ange Document</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10078,6 +10446,22 @@ Do you want to:</source>
     </message>
     <message>
         <source>DBCHAR</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presume the file path of this document is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field code:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert part of a file by using OLE</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10853,6 +11237,22 @@ This change will affect all new documents based on the %1 template.</source>
         <source>This font has not been installed. The closest available font will be printed.</source>
         <translation type="obsolete">尚未安装此字体，打印时将采用最相近的有效字体。</translation>
     </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFootAndEndnoteDlg</name>
@@ -10922,6 +11322,20 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
 </context>
 <context>
+    <name>KxFormatProperty</name>
+    <message>
+        <source>TRANSFORM</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatProperty_SizePro</name>
+    <message>
+        <source>PROPERTY</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxFormatRestrictionsDlg</name>
     <message>
         <source>The All Styles</source>
@@ -10962,6 +11376,17 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>This document may contain formatting or styles that are not allowed. Do you want to remove them?</source>
         <translation>该文档可能包含不允许的格式或样式。您是否希望将其删除？</translation>
+    </message>
+</context>
+<context>
+    <name>KxFormattingTp</name>
+    <message>
+        <source>Format Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Shape</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11741,6 +12166,26 @@ Cancel:	Return to the dialog.</source>
         <source>Chinese Bahao</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxMultidiagonalCellDlg</name>
@@ -12066,6 +12511,26 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Chinese Bahao</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body Asian</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Heading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+Body</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text &amp;Effects...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13164,6 +13629,89 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
 </context>
 <context>
+    <name>KxTpWpsXMLMappingWidget</name>
+    <message>
+        <source>(add customXmlparts...)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Insert Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Repeat</source>
+        <translation type="unfinished">重复(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Rich Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plain &amp;Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Checkbox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comno &amp;Box</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Dropdown List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data Pic&amp;ker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Map to Selected Content Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation type="unfinished">XML 文件</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished">所有文件</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped to built-in document properties.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rich text content controls cannot be mapped when they are nested within other mapped rich text content controls.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a plain text Content control, so it can&apos;t be mapped to a rich text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The custom XML node is already mapped to a rich text Content control, so it can&apos;t be mapped to a plain text content control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(empty namespaceURI)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxTpXMLStructureWidget</name>
     <message>
         <source>Templates And AddIns...</source>
@@ -13248,7 +13796,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Drawing Grid</source>
-        <translation>绘图网格</translation>
+        <translation type="obsolete">绘图网格</translation>
     </message>
     <message>
         <source>Horizontal alignment</source>
@@ -13264,11 +13812,22 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>To&amp;p and bottom</source>
-        <translation>上下型(&amp;P)</translation>
+        <translation type="obsolete">上下型(&amp;P)</translation>
     </message>
     <message>
         <source>Wrapping style</source>
         <translation>环绕方式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpXMLMapping</name>
+    <message>
+        <source>XmlMapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>custom xmlparts:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13378,7 +13937,7 @@ to a Word XML document.</source>
     <name>KxWps3DColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>More 3-D Colors...</source>
@@ -13710,6 +14269,20 @@ to a Word XML document.</source>
     <message>
         <source>No Color</source>
         <translation type="obsolete">无</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCompatibilityModeCommand</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsContentButtonMgr</name>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">图</translation>
     </message>
 </context>
 <context>
@@ -14279,6 +14852,20 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsDlgHorizontalLine</name>
+    <message>
+        <source>Format Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgShapeLayout</name>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished">版式</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDlgTemplateAndAddin</name>
     <message>
         <source> Full path: </source>
@@ -14511,6 +15098,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsDropDownButton</name>
+    <message>
+        <source>(No entry)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsFieldNameDelimiterDlg</name>
     <message>
         <source>Field delimiter and record delimiter cannot be same.</source>
@@ -14549,11 +15143,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">无填充颜色</translation>
+        <translation type="unfinished">无填充颜色</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation>无填充颜色</translation>
+        <translation type="obsolete">无填充颜色</translation>
     </message>
 </context>
 <context>
@@ -14564,7 +15158,14 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>No Fill</source>
-        <translation>无填充颜色</translation>
+        <translation type="obsolete">无填充颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFillColorRainbowModel</name>
+    <message>
+        <source>No Color</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14575,7 +15176,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -14588,6 +15189,126 @@ to a Word XML document.</source>
     <message>
         <source>More Font Color</source>
         <translation type="obsolete">其他颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFontOutlineColorModel</name>
+    <message>
+        <source>No Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatGroupContent_TextBox</name>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished">居中</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Chart</name>
+    <message>
+        <source>CHART OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_ChartText</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Shape</name>
+    <message>
+        <source>SHAPE OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatOption_Text</name>
+    <message>
+        <source>TEXT OPTIONS</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GLOW</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsFormatProperty_FillAndLine</name>
+    <message>
+        <source>TEXT FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXT OUTLINE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>LINE</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14642,6 +15363,17 @@ to a Word XML document.</source>
     <message>
         <source>Show Header Line Color</source>
         <translation>页眉横线颜色</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsHorizontalLineDlg</name>
+    <message>
+        <source>Horizontal Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <translation type="unfinished">图</translation>
     </message>
 </context>
 <context>
@@ -15265,6 +15997,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsPictureButton</name>
+    <message>
+        <source>Click here to insert pictures.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPictureWrapTypeComboBox</name>
     <message>
         <source>Behind Text</source>
@@ -15465,6 +16204,21 @@ to a Word XML document.</source>
     <message>
         <source>Shadow Effects</source>
         <translation type="obsolete">阴影效果</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsShapeLayoutDlg</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">位置</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="unfinished">文字环绕</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15766,6 +16520,13 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">厘米</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsStatusBar</name>
     <message>
         <source>Caps Lock</source>
@@ -15931,10 +16692,17 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsSubWindow</name>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsTableBorderColorModel</name>
     <message>
         <source>Automatic</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>More Line Color</source>
@@ -15961,11 +16729,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">无填充颜色</translation>
+        <translation type="unfinished">无填充颜色</translation>
     </message>
     <message>
         <source>No Fill</source>
-        <translation>无填充颜色</translation>
+        <translation type="obsolete">无填充颜色</translation>
     </message>
 </context>
 <context>
@@ -16024,11 +16792,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Word Templates(*.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation>文档模板(*.wpt);;Word 加载项(*.wll);;所有文件(*.*)</translation>
+        <translation type="obsolete">文档模板(*.wpt);;Word 加载项(*.wll);;所有文件(*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.WPT has opened to load.</source>
-        <translation>共用模板 NORMAL.WPT 已经以加载项方式打开。</translation>
+        <translation type="obsolete">共用模板 NORMAL.WPT 已经以加载项方式打开。</translation>
     </message>
     <message>
         <source>Full path:</source>
@@ -16078,6 +16846,14 @@ to a Word XML document.</source>
         <source> [disabled] </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Word Templates(*.dotx; *.dotm; *.dot; *.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Template Normal.dotm has opened to load.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsTextDirectionCommand</name>
@@ -16118,6 +16894,17 @@ to a Word XML document.</source>
     </message>
 </context>
 <context>
+    <name>KxWpsTpFormatting</name>
+    <message>
+        <source>Format Ink</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxWpsUnderlineColorModel</name>
     <message>
         <source>Auto Color</source>
@@ -16125,7 +16912,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -16168,6 +16955,480 @@ to a Word XML document.</source>
     <message>
         <source>Edit Watermark</source>
         <translation>编辑水印</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetChildShapePosition</name>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished">位置</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation type="unfinished">水平对齐 (&amp;H):</translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished">pt, 1, -1538, 1584, 1 {2,?} {2,?} {1584, 1584, 1?}</translation>
+    </message>
+    <message>
+        <source>&amp;From:</source>
+        <translation type="unfinished">从(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Top Left Corner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation type="unfinished">垂直对齐 (&amp;V):</translation>
+    </message>
+    <message>
+        <source>F&amp;rom:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetHorizontalLine</name>
+    <message>
+        <source>%, 1, 1, 100, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0.05, 1584, 1</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Width</source>
+        <translation type="unfinished">宽度(&amp;W):</translation>
+    </message>
+    <message>
+        <source>&amp;Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation type="unfinished">颜色(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished">对齐方式</translation>
+    </message>
+    <message>
+        <source>&amp;Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C&amp;enter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Measure in:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use solid color(no shade)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetPosition</name>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Book layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished">相对于(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Relative position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ali&amp;gnment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">页边距</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation type="unfinished">段落</translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished">行</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, -1584, 1584, 1</source>
+        <translation type="unfinished">pt, 1, -1538, 1584, 1 {2,?} {2,?} {1584, 1584, 1?}</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished">选项</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>relative t&amp;o</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Absolute po&amp;sition</source>
+        <translation type="unfinished">绝对位置(&amp;S)</translation>
+    </message>
+    <message>
+        <source>belo&amp;w</source>
+        <translation type="unfinished">下侧(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Absolute &amp;position</source>
+        <translation type="unfinished">绝对位置(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;to the right of</source>
+        <translation type="unfinished">右侧(&amp;T)</translation>
+    </message>
+    <message>
+        <source>o&amp;f</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;relative to</source>
+        <translation type="unfinished">相对于(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Character</source>
+        <translation type="unfinished">字符</translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alignment</source>
+        <translation type="unfinished">对齐方式(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Allow o&amp;verlap</source>
+        <translation type="unfinished">允许重叠(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Layout in table &amp;cell</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, -1000, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Move object with text</source>
+        <translation type="unfinished">对象随文字移动(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Lock anchor</source>
+        <translation type="unfinished">锁定标记(&amp;L)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetSize</name>
+    <message>
+        <source>Absolut&amp;e</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;lative</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>degree, 0, -3600, 3600, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 0, 0, 10675, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Lock &amp;aspect ratio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Relative to original picture size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 168480, 1</source>
+        <translation type="unfinished">pt, 2, 0, 168480, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation type="unfinished">宽度(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Ro&amp;tation:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relat&amp;ive</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A&amp;bsolute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>relative &amp;to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>r&amp;elative to</source>
+        <translation type="unfinished">相对于(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation type="unfinished">页边距</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%, 1, 1, 1000, 1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scale</source>
+        <translation type="unfinished">缩放</translation>
+    </message>
+    <message>
+        <source>Original size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Re&amp;set</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWidgetTextWrapping</name>
+    <message>
+        <source>Wrapping style</source>
+        <translation type="unfinished">环绕方式</translation>
+    </message>
+    <message>
+        <source>S&amp;quare</source>
+        <translation type="unfinished">四周型(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>&amp;Tight</source>
+        <translation type="unfinished">紧密型(&amp;T)</translation>
+    </message>
+    <message>
+        <source>T&amp;hrough</source>
+        <translation type="unfinished">穿越型(&amp;H)</translation>
+    </message>
+    <message>
+        <source>T&amp;op and bottom</source>
+        <translation type="unfinished">上下型(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Behind text</source>
+        <translation type="unfinished">衬于文字下方(&amp;B)</translation>
+    </message>
+    <message>
+        <source>In fro&amp;nt of text</source>
+        <translation type="unfinished">浮于文字上方(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;In line with text</source>
+        <translation type="unfinished">嵌入型(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Wrap text</source>
+        <translation type="unfinished">环绕文字</translation>
+    </message>
+    <message>
+        <source>Both &amp;sides</source>
+        <translation type="unfinished">两边(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Left only</source>
+        <translation type="unfinished">只在左侧(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Right only</source>
+        <translation type="unfinished">只在右侧(&amp;R)</translation>
+    </message>
+    <message>
+        <source>L&amp;argest only</source>
+        <translation type="unfinished">只在最宽一侧(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Distance from text</source>
+        <translation type="unfinished">距正文</translation>
+    </message>
+    <message>
+        <source>To&amp;p</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>L&amp;eft</source>
+        <translation type="unfinished">左(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Botto&amp;m</source>
+        <translation type="unfinished">下(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght</source>
+        <translation type="unfinished">右(&amp;G)</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWordArtInsertCommand</name>
+    <message>
+        <source>Your text here</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16331,14 +17592,6 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -16391,6 +17644,125 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Unlimited</source>
         <translation>无限制</translation>
+    </message>
+</context>
+<context>
+    <name>WpsContentTextbox</name>
+    <message>
+        <source>&amp;Vertical alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Middle</source>
+        <translation type="unfinished">居中</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical from Right to Left</source>
+        <translation type="unfinished">垂直方向从右往左</translation>
+    </message>
+    <message>
+        <source>Vertical from Left to Right</source>
+        <translation type="unfinished">垂直方向从左往右</translation>
+    </message>
+    <message>
+        <source>Rotate all text 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate all text 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Asian Charaters 270°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Borderless</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Narrow Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wide Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Widening Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter 0 to 55.88 cm of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">厘米</translation>
+    </message>
+    <message>
+        <source>&amp;Right margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom margin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not rotate text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resize shape to fit text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Wrap text in shape</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16735,20 +18107,28 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Current word:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Alternatives:</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Replace</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation type="unfinished">替换(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

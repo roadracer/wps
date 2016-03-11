@@ -599,12 +599,12 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatObject.title">
         <source>Format Object</source>
         <extracomment>FormatObject.title</extracomment>
-        <translation>Formatuj obiekt</translation>
+        <translation type="obsolete">Formatuj obiekt</translation>
     </message>
     <message id="FormatObject.content">
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
-        <translation>Umożliwia pokazanie okna dialogowego Formatuj obiekt.</translation>
+        <translation type="obsolete">Umożliwia pokazanie okna dialogowego Formatuj obiekt.</translation>
     </message>
     <message id="FormatPainter.title">
         <source>Format Painter</source>
@@ -1028,9 +1028,12 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
         <translation>Numerowanie</translation>
     </message>
     <message id="Numbering2.content">
-        <source>Click the arrow to select different numbering formats.</source>
+        <source>Number the selected paragraph.
+
+Click the arrow to select different numbering formats.</source>
+        <oldsource>Click the arrow to select different numbering formats.</oldsource>
         <extracomment>Numbering2.content</extracomment>
-        <translation>Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
+        <translation type="unfinished">Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
@@ -2199,7 +2202,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="Export to Video">
         <source>Export to Video</source>
         <extracomment>ExportToVideo.title</extracomment>
-        <translation>Eksportuj do wideo</translation>
+        <translation type="obsolete">Eksportuj do wideo</translation>
     </message>
     <message id="ExportToVideo.content">
         <source>Export the document to a video.</source>
@@ -2245,6 +2248,151 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <source>Click here to stop reading.</source>
         <extracomment>TextSpeech2.content</extracomment>
         <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ResetSlide.title">
+        <source>Reset Slide</source>
+        <extracomment>ResetSlide.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ResetSlide.content">
+        <source>Reset the size, position and format of the presentation&apos;s placeholders to defaults.</source>
+        <extracomment>ResetSlide.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ThemeColors.title">
+        <source>Color Scheme</source>
+        <extracomment>ThemeColors.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ThemeColors.content">
+        <source>Change the color scheme of the presentation.</source>
+        <extracomment>ThemeColors.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExportToVideo.title">
+        <source>Export to Video</source>
+        <extracomment>ExportToVideo.title</extracomment>
+        <translation type="unfinished">Eksportuj do wideo</translation>
+    </message>
+    <message id="SlideLayouts.title">
+        <source>Slide Layout.</source>
+        <extracomment>SlideLayouts.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlideLayouts.content">
+        <source>Seting up various layouts for selected slides.</source>
+        <extracomment>SlideLayouts.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingView.title">
+        <source>ReadingView View</source>
+        <extracomment>ReadingView.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingView.content">
+        <source>Play a slide show in the Powerpoint window to view the animation and switch effect, and no need to switch to full screen slide show.</source>
+        <extracomment>ReadingView.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesPageView.title">
+        <source>NotesPage View</source>
+        <extracomment>NotesPageView.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesPageView.content">
+        <source>Check the appearance of your presentation and the notes page. Each page will include a slide and speaker notes, you can edit in this view.</source>
+        <extracomment>NotesPageView.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesMaster.title">
+        <source>NotesMaster View</source>
+        <extracomment>NotesMaster.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NotesMaster.content">
+        <source>The appearance of a custom presentation for the printed notes. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
+        <extracomment>NotesMaster.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HandoutMaster.title">
+        <source>HandoutMaster View</source>
+        <extracomment>HandoutMaster.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HandoutMaster.content">
+        <source>Customize the appearance of the presentation and notes together with the print. You can choose the design and layout of the notes, such as the background and format header / footer position. You can also choose the options that fit your page.</source>
+        <extracomment>HandoutMaster.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderPlaceHolder.title">
+        <source></source>
+        <extracomment>HeaderPlaceHolder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderPlaceHolder.content">
+        <source>Include the header in the printed handouts or notes.</source>
+        <extracomment>HeaderPlaceHolder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DataPlaceHolder.title">
+        <source></source>
+        <extracomment>DataPlaceHolder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DataPlaceHolder.content">
+        <source>Include the date in the printed handouts or notes.</source>
+        <extracomment>DataPlaceHolder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FooterPlaceHolder.title">
+        <source></source>
+        <extracomment>FooterPlaceHolder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FooterPlaceHolder.content">
+        <source>Include the footer in the printed handouts or notes.</source>
+        <extracomment>FooterPlaceHolder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PageNumber.title">
+        <source></source>
+        <extracomment>PageNumber.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PageNumber.content">
+        <source>Include the page number in the printed handouts or notes.</source>
+        <extracomment>PageNumber.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlideImage.title">
+        <source>NotesPage View</source>
+        <extracomment>SlideImage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlideImage.content">
+        <source>Include a picture of the slide on the notes page.</source>
+        <extracomment>SlideImage.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BodyContent.title">
+        <source>NotesPage View</source>
+        <extracomment>BodyContent.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="BodyContent.content">
+        <source>Include a separate box with the slide text on the notes page.</source>
+        <extracomment>BodyContent.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -24,27 +24,27 @@
 <context>
     <name>KSlideLibraryLogic</name>
     <message>
-        <source>Cover</source>
+        <source>ContentSlideType_Cover</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Catalog</source>
+        <source>ContentSlideType_Catalog</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Body</source>
+        <source>ContentSlideType_Main</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Transition</source>
+        <source>ContentSlideType_Trans</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Ending</source>
+        <source>ContentSlideType_Ending</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>More</source>
+        <source>ContentSlideType_More</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -127,15 +127,15 @@
 <context>
     <name>KTemplateDownloadFinishTip</name>
     <message>
-        <source>Apply</source>
+        <source>apply</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template download succeeded</source>
+        <source>template download success</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Template download failed</source>
+        <source>template download failed</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

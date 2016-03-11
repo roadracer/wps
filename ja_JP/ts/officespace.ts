@@ -359,7 +359,7 @@ This may because:
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation>Kingsoft Data Recoveryをロードしています。しばらくお待ちください...</translation>
+        <translation type="obsolete">Kingsoft Data Recoveryをロードしています。しばらくお待ちください...</translation>
     </message>
 </context>
 <context>
@@ -1085,7 +1085,7 @@ This may because:
         <source>%1
 size:%2
 path:%3</source>
-        <translation>%1
+        <translation type="obsolete">%1
 大小：%2
 路径：%3</translation>
     </message>
@@ -1098,36 +1098,32 @@ path:%3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>From %1</source>
-        <translation>%1から</translation>
+        <translation type="obsolete">%1から</translation>
     </message>
     <message>
         <source>Roaming your document...</source>
-        <translation>ファイルをローミングしています...</translation>
+        <translation type="obsolete">ファイルをローミングしています...</translation>
     </message>
     <message>
         <source>Remove star</source>
-        <translation>スターを削除</translation>
+        <translation type="obsolete">スターを削除</translation>
     </message>
     <message>
         <source>Remove all starred records</source>
-        <translation>すべてのスター付きの記録をクリアします</translation>
+        <translation type="obsolete">すべてのスター付きの記録をクリアします</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation>スターを付く</translation>
+        <translation type="obsolete">スターを付く</translation>
     </message>
     <message>
         <source>Remove all non-starred records</source>
-        <translation>すべてのスター付かない記録をクリアします</translation>
+        <translation type="obsolete">すべてのスター付かない記録をクリアします</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished">ローミング</translation>
+        <translation type="obsolete">ローミング</translation>
     </message>
     <message>
         <source>Delete from the List</source>
@@ -1139,6 +1135,22 @@ path:%3</source>
     </message>
     <message>
         <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all native recent record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Lately use: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1146,72 +1158,48 @@ path:%3</source>
     <name>KRoamingFilePageFixedButton</name>
     <message>
         <source>Remove star</source>
-        <translation type="unfinished">スターを削除</translation>
+        <translation type="obsolete">スターを削除</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation type="unfinished">スターを付く</translation>
-    </message>
-</context>
-<context>
-    <name>KRoamingFloatingWidget</name>
-    <message>
-        <source>document be deleted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">スターを付く</translation>
     </message>
 </context>
 <context>
     <name>KRoamingGuidFilePage</name>
     <message>
         <source>Help</source>
-        <translation>ヘルプ</translation>
+        <translation type="obsolete">ヘルプ</translation>
     </message>
     <message>
         <source>All</source>
-        <translation>すべて</translation>
+        <translation type="obsolete">すべて</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation>星付き</translation>
+        <translation type="obsolete">星付き</translation>
     </message>
     <message>
         <source>Roam to mobile</source>
-        <translation>スマートフォンにローミング</translation>
+        <translation type="obsolete">スマートフォンにローミング</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation>最近使ったファイル</translation>
+        <translation type="obsolete">最近使ったファイル</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>ローミング</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear All</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">ローミング</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>ローミングを閉じる</translation>
+        <translation type="obsolete">ローミングを閉じる</translation>
     </message>
+</context>
+<context>
+    <name>KRoamingGuideButton</name>
     <message>
-        <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Folder</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Invalid File</source>
+        <source>Document Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1230,46 +1218,46 @@ path:%3</source>
     </message>
     <message>
         <source>More</source>
-        <translation>もっと</translation>
+        <translation type="obsolete">もっと</translation>
     </message>
     <message>
         <source>From %1</source>
-        <translation> %1 から</translation>
+        <translation type="obsolete"> %1 から</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation>削除しています</translation>
+        <translation type="obsolete">削除しています</translation>
     </message>
     <message>
         <source>Adding star</source>
-        <translation>星を付けています</translation>
+        <translation type="obsolete">星を付けています</translation>
     </message>
     <message>
         <source>Operating</source>
-        <translation>星を外しています</translation>
+        <translation type="obsolete">星を外しています</translation>
     </message>
 </context>
 <context>
     <name>KRoamingRecentTailPanel</name>
     <message>
         <source>All file types:</source>
-        <translation>すべてのファイル：</translation>
+        <translation type="obsolete">すべてのファイル：</translation>
     </message>
     <message>
         <source>On</source>
-        <translation>オン</translation>
+        <translation type="obsolete">オン</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation>オフ</translation>
+        <translation type="obsolete">オフ</translation>
     </message>
     <message>
         <source>More roaming documents</source>
-        <translation>その他のローミングファイル</translation>
+        <translation type="obsolete">その他のローミングファイル</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation>ローミングを閉じる</translation>
+        <translation type="obsolete">ローミングを閉じる</translation>
     </message>
 </context>
 <context>
@@ -1291,7 +1279,7 @@ path:%3</source>
     <name>KRoamingTabHeader</name>
     <message>
         <source>File Roaming</source>
-        <translation>ファイルローミング</translation>
+        <translation type="obsolete">ファイルローミング</translation>
     </message>
 </context>
 <context>
@@ -1357,7 +1345,7 @@ path:%3</source>
         <translation>マイローミングファイルを表示</translation>
     </message>
     <message>
-        <source>You have enabled File Roaming:</source>
+        <source>Recent cloud documents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1438,6 +1426,13 @@ path:%3</source>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDataRecoverCommand</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
+        <translation type="unfinished">Kingsoft Data Recoveryをロードしています。しばらくお待ちください...</translation>
     </message>
 </context>
 <context>
@@ -2058,6 +2053,37 @@ please sign in to use WPS Office.</source>
     <message>
         <source>kosLoginWin</source>
         <translation type="obsolete">kosLoginWin</translation>
+    </message>
+</context>
+<context>
+    <name>roaming::filepage::Header</name>
+    <message id="0">
+        <source>Recent documents</source>
+        <translation type="unfinished">最近使ったファイル</translation>
+    </message>
+    <message>
+        <source>cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>all file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished">更新</translation>
+    </message>
+    <message>
+        <source>Login to show Cloud files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show cloud file, please </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>login</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

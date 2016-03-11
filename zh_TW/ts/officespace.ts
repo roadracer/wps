@@ -331,7 +331,7 @@ This may because:
     <name>KDataRecoverDownloadTip</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation type="unfinished">正在加載資料修復大師，請稍候...</translation>
+        <translation type="obsolete">正在加載資料修復大師，請稍候...</translation>
     </message>
 </context>
 <context>
@@ -888,7 +888,7 @@ Are you sure to change?</source>
         <source>%1
 size:%2
 path:%3</source>
-        <translation type="unfinished">%1
+        <translation type="obsolete">%1
 大小:%2
 路徑:%3</translation>
     </message>
@@ -902,7 +902,7 @@ path:%3</source>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished">清除全部</translation>
+        <translation type="obsolete">清除全部</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -910,35 +910,31 @@ path:%3</source>
     </message>
     <message>
         <source>From %1</source>
-        <translation type="unfinished">來自 %1</translation>
+        <translation type="obsolete">來自 %1</translation>
     </message>
     <message>
         <source>Roaming your document...</source>
-        <translation type="unfinished">正在漫遊您的文件...</translation>
+        <translation type="obsolete">正在漫遊您的文件...</translation>
     </message>
     <message>
         <source>Remove star</source>
-        <translation type="unfinished">取消星標</translation>
+        <translation type="obsolete">取消星標</translation>
     </message>
     <message>
         <source>Remove all starred records</source>
-        <translation type="unfinished">清除所有加星標的記錄</translation>
+        <translation type="obsolete">清除所有加星標的記錄</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation type="unfinished">加上星標</translation>
+        <translation type="obsolete">加上星標</translation>
     </message>
     <message>
         <source>Remove all non-starred records</source>
-        <translation type="unfinished">清除所有未加星標的記錄</translation>
+        <translation type="obsolete">清除所有未加星標的記錄</translation>
     </message>
     <message>
         <source>Open File Location</source>
         <translation type="obsolete">開啟資料夾</translation>
-    </message>
-    <message>
-        <source>File Roaming</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete from the List</source>
@@ -946,6 +942,22 @@ path:%3</source>
     </message>
     <message>
         <source>Clear Invalid File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all native recent record</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Lately use: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+
+Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -953,76 +965,71 @@ path:%3</source>
     <name>KRoamingFilePageFixedButton</name>
     <message>
         <source>Remove star</source>
-        <translation type="unfinished">取消星標</translation>
+        <translation type="obsolete">取消星標</translation>
     </message>
     <message>
         <source>Add star</source>
-        <translation type="unfinished">加上星標</translation>
+        <translation type="obsolete">加上星標</translation>
     </message>
 </context>
 <context>
     <name>KRoamingFloatingWidget</name>
     <message>
-        <source>document be deleted</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
 </context>
 <context>
     <name>KRoamingGuidFilePage</name>
     <message>
         <source>Help</source>
-        <translation>說明</translation>
+        <translation type="obsolete">說明</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">所有</translation>
+        <translation type="obsolete">所有</translation>
     </message>
     <message>
         <source>Star</source>
-        <translation type="unfinished">星標</translation>
+        <translation type="obsolete">星標</translation>
     </message>
     <message>
         <source>Roam to mobile</source>
-        <translation type="unfinished">漫遊到行動電話</translation>
+        <translation type="obsolete">漫遊到行動電話</translation>
     </message>
     <message>
         <source>Recent documents</source>
-        <translation type="unfinished">最近使用的文件</translation>
+        <translation type="obsolete">最近使用的文件</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished">檔案漫遊</translation>
+        <translation type="obsolete">檔案漫遊</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">開啟</translation>
+        <translation type="obsolete">開啟</translation>
     </message>
     <message>
         <source>Clear All</source>
-        <translation type="unfinished">清除全部</translation>
+        <translation type="obsolete">清除全部</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">開啟資料夾</translation>
+        <translation type="obsolete">開啟資料夾</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation type="unfinished">關閉檔案漫遊</translation>
+        <translation type="obsolete">關閉檔案漫遊</translation>
     </message>
     <message>
         <source>Open File Location</source>
         <translation type="obsolete">開啟資料夾</translation>
     </message>
+</context>
+<context>
+    <name>KRoamingGuideButton</name>
     <message>
-        <source>Delete from the List</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear Invalid File</source>
+        <source>Document Roaming</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1037,46 +1044,46 @@ path:%3</source>
     <name>KRoamingItemDelagate</name>
     <message>
         <source>More</source>
-        <translation type="unfinished">其他</translation>
+        <translation type="obsolete">其他</translation>
     </message>
     <message>
         <source>From %1</source>
-        <translation type="unfinished">來自 %1</translation>
+        <translation type="obsolete">來自 %1</translation>
     </message>
     <message>
         <source>Deleting</source>
-        <translation type="unfinished">刪除中</translation>
+        <translation type="obsolete">刪除中</translation>
     </message>
     <message>
         <source>Adding star</source>
-        <translation type="unfinished">加星中</translation>
+        <translation type="obsolete">加星中</translation>
     </message>
     <message>
         <source>Operating</source>
-        <translation type="unfinished">操作中</translation>
+        <translation type="obsolete">操作中</translation>
     </message>
 </context>
 <context>
     <name>KRoamingRecentTailPanel</name>
     <message>
         <source>All file types:</source>
-        <translation type="unfinished">所有檔案類型：</translation>
+        <translation type="obsolete">所有檔案類型：</translation>
     </message>
     <message>
         <source>On</source>
-        <translation type="unfinished">開</translation>
+        <translation type="obsolete">開</translation>
     </message>
     <message>
         <source>Off</source>
-        <translation type="unfinished">關</translation>
+        <translation type="obsolete">關</translation>
     </message>
     <message>
         <source>More roaming documents</source>
-        <translation type="unfinished">其他漫遊文件</translation>
+        <translation type="obsolete">其他漫遊文件</translation>
     </message>
     <message>
         <source>Disable File Roaming</source>
-        <translation type="unfinished">關閉檔案漫遊</translation>
+        <translation type="obsolete">關閉檔案漫遊</translation>
     </message>
 </context>
 <context>
@@ -1098,7 +1105,7 @@ path:%3</source>
     <name>KRoamingTabHeader</name>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished">檔案漫遊</translation>
+        <translation type="obsolete">檔案漫遊</translation>
     </message>
 </context>
 <context>
@@ -1164,7 +1171,7 @@ path:%3</source>
         <translation type="unfinished">查看我的檔案漫遊</translation>
     </message>
     <message>
-        <source>You have enabled File Roaming:</source>
+        <source>Recent cloud documents</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1249,6 +1256,13 @@ path:%3</source>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
         <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDataRecoverCommand</name>
+    <message>
+        <source>Loading the Data Recovery Master. Please wait...</source>
+        <translation type="unfinished">正在加載資料修復大師，請稍候...</translation>
     </message>
 </context>
 <context>
@@ -1701,6 +1715,37 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>VIP soon to be expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>roaming::filepage::Header</name>
+    <message id="0">
+        <source>Recent documents</source>
+        <translation type="unfinished">最近使用的文件</translation>
+    </message>
+    <message>
+        <source>cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>all file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>refresh</source>
+        <translation type="unfinished">更新</translation>
+    </message>
+    <message>
+        <source>Login to show Cloud files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>show cloud file, please </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>login</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

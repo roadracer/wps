@@ -18,6 +18,33 @@
     </message>
 </context>
 <context>
+    <name>KBubbleTipManager</name>
+    <message>
+        <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The probation period is about to expire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now &gt;&gt;</source>
+        <translation type="unfinished">Kup teraz &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Authorize period is about to expire</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew Now &gt;&gt;</source>
+        <translation type="unfinished">Odnów teraz &gt;&gt;</translation>
+    </message>
+</context>
+<context>
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
@@ -93,6 +120,33 @@
     </message>
 </context>
 <context>
+    <name>KxDlgAuthorizeExpireReminder</name>
+    <message>
+        <source>WPS Office Expiration Reminder</source>
+        <translation type="unfinished">Przypomnienie wygaśnięcia WPS Office</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Authorize Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The original license has expired,please renew.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>preview mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy/renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
@@ -152,6 +206,41 @@
         <source>Print With Watermark</source>
         <translation>Drukuj ze znakiem wodnym</translation>
     </message>
+    <message>
+        <source>Feature for Paid Users</source>
+        <translation type="unfinished">Funkcja dla użytkowników płatnych</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgQingWelcome</name>
+    <message>
+        <source>Welcome to WPS Office</source>
+        <translation type="unfinished">Zapraszamy do WPS Office</translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start your free %1-day trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in</source>
+        <translation type="unfinished">Zaloguj</translation>
+    </message>
+    <message>
+        <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished">Wprowadź kod aktywacji</translation>
+    </message>
+    <message>
+        <source>If you already have an activation code, use it to activate WPS Office.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgRestriction</name>
@@ -205,6 +294,60 @@
     <message>
         <source>Enter Viewer Mode</source>
         <translation>Przejdź w tryb przeglądarki</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrialExpireReminder</name>
+    <message>
+        <source>WPS Office Expiration Reminder</source>
+        <translation type="unfinished">Przypomnienie wygaśnięcia WPS Office</translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Trial Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>preview mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished">Kup teraz</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrialReminder</name>
+    <message>
+        <source>WPS Office Trial Reminder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;You can try the WPS Office for 30 days&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Now</source>
+        <translation type="unfinished">Kup teraz</translation>
+    </message>
+    <message>
+        <source>Try it out</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -285,6 +428,18 @@
     <message>
         <source>Activate WPS Office with existing activation code.</source>
         <translation>Aktywuj WPS Office z istniejącego kodu aktywacyjnego.</translation>
+    </message>
+    <message>
+        <source>Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get a 30-day trial.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter Serial Number/Activation Code</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -577,6 +732,38 @@
         <source>LIFETIME LICENSE</source>
         <translation>LICENCJA DOŻYWOTNIA</translation>
     </message>
+    <message>
+        <source>WPS Office Serial Number/Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your serial number or activation code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid serial number or activation code.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The serial number or activation code has exceeded the maximum number of activations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The serial number has expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The serial number is invalid. Please confirm it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The serial number you entered already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
@@ -674,6 +861,14 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>Cannot connect to the server, thus activation fails. Please check your network connection and try again.</source>
         <translation>Nie można połączyć się z serwerem, dlatego aktywacja kończy się niepowodzeniem. Sprawdź połączenie z siecią i spróbuj ponownie później.</translation>
+    </message>
+    <message>
+        <source>Upgrade to WPS Office Business Edition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
