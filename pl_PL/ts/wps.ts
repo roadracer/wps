@@ -12147,7 +12147,8 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>(No picture)</source>
-        <translation>(Bez obrazu)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(Brak obrazu)</translation>
     </message>
     <message>
         <source>Existing picture</source>
@@ -12180,14 +12181,17 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>dotyczy okna dialogowego Znaku wodnego - tak jest jak w Word</translatorcomment>
+        <translation>Poziomy</translation>
     </message>
     <message>
         <source>Diagonal</source>
-        <translation>Ukośnie</translation>
+        <translatorcomment>dotyczy okna dialogowego Znaku wodnego - tak jest jak w Word</translatorcomment>
+        <translation>Ukośny</translation>
     </message>
     <message>
         <source>Left</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Do lewej</translation>
     </message>
     <message>
@@ -12197,18 +12201,22 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Right</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Do prawej</translation>
     </message>
     <message>
         <source>Custom</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Top</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Do góry</translation>
     </message>
     <message>
         <source>Bottom</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Do dołu</translation>
     </message>
     <message>
@@ -12309,8 +12317,8 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Select Picture</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Wybierz obraz</translation>
+        <translatorcomment>nazwa okna dialogowego po uprzednim wybraniu opcji Wybierz obraz - tak jest ok</translatorcomment>
+        <translation>Wybieranie obrazu</translation>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
@@ -15293,6 +15301,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>waterMarkDlg</name>
     <message>
         <source>Watermark</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Znak wodny</translation>
     </message>
     <message>
@@ -15309,34 +15318,42 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>P&amp;icture watermark</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>O&amp;brazkowy znak wodny</translation>
     </message>
     <message>
         <source>Select &amp;Picture</source>
+        <translatorcomment>dotyczy opisu przycisku w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>Wybierz &amp;obraz</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>Po&amp;ziomo:</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>&amp;Pionowo:</translation>
     </message>
     <message>
         <source>F&amp;ormat:</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>F&amp;ormat:</translation>
     </message>
     <message>
         <source>&amp;Zoom:</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>&amp;Powiększenie:</translation>
     </message>
     <message>
         <source>&amp;Washout</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>&amp;Rozmycie</translation>
     </message>
     <message>
         <source>Te&amp;xt watermark</source>
+        <translatorcomment>dotyczy opisu opcji w oknie dialogowym Znak wodny - tak jest ok</translatorcomment>
         <translation>T&amp;ekstowy znak wodny</translation>
     </message>
     <message>

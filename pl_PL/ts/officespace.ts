@@ -966,7 +966,7 @@ Może to być spowodowane tym, że:
     <name>KRoamingFilePage</name>
     <message>
         <source>Recent documents</source>
-        <translation>Niedawno używane dokumenty</translation>
+        <translation>Ostatnio używane dokumenty</translation>
     </message>
     <message>
         <source>From %1</source>
@@ -1030,27 +1030,35 @@ rozmiar:%2
     </message>
     <message>
         <source>Open Folder</source>
-        <translation>Otwórz folder</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Otwórz folder pliku</translation>
     </message>
     <message>
         <source>Clear Invalid File</source>
-        <translation>Wyczyść nieprawidłowy plik</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyczyść nieprawidłowe pliki</translation>
     </message>
     <message>
         <source>Clear all native recent record</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyczyść wszystkie rekordy</translation>
     </message>
     <message>
         <source>
 
 Lately use: </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>
+
+Ostatnie użycie: </translation>
     </message>
     <message>
         <source>
 
 Invalid record. This file may have been renamed, deleted or moved.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+
+Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
@@ -1146,7 +1154,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KRoamingGuideButton</name>
     <message>
         <source>Document Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation>Roaming dokumentu</translation>
     </message>
 </context>
 <context>
@@ -1290,7 +1298,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Recent cloud documents</source>
-        <translation type="unfinished"></translation>
+        <translation>Niedawno używane dokumenty usługi Cloud</translation>
     </message>
 </context>
 <context>
@@ -1387,7 +1395,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxDataRecoverCommand</name>
     <message>
         <source>Loading the Data Recovery Master. Please wait...</source>
-        <translation type="unfinished">Ładowanie wzorca odzyskiwania danych. Proszę czekać...</translation>
+        <translation>Ładowanie wzorca odzyskiwania danych. Proszę czekać...</translation>
     </message>
 </context>
 <context>
@@ -1872,7 +1880,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>If you have purchased subscription, please sign in to use WPS Office.</source>
-        <translation>Jeżeli zakupiłeś subskrypcję, proszę zaloguj się, aby korzystać z WPS Office.</translation>
+        <translation>Jeżeli zakupiłeś subskrypcję, proszę Zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2403,7 +2411,7 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
         <source>If you have purchased subscription, 
 please sign in to use WPS Office.</source>
         <translation>Jeżeli zakupiłeś subskrypcję, 
-proszę zaloguj się, aby korzystać z WPS Office.</translation>
+proszę Zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -2432,31 +2440,34 @@ proszę zaloguj się, aby korzystać z WPS Office.</translation>
     <name>roaming::filepage::Header</name>
     <message id="0">
         <source>Recent documents</source>
-        <translation type="unfinished">Niedawno używane dokumenty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ostatnio używane dokumenty</translation>
     </message>
     <message>
         <source>cloud file</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki usługi Cloud</translation>
     </message>
     <message>
         <source>all file format</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie formaty plików</translation>
     </message>
     <message>
         <source>refresh</source>
-        <translation type="unfinished">odśwież</translation>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>Login to show Cloud files</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się, aby zobaczyć pliki usługi Cloud</translation>
     </message>
     <message>
         <source>show cloud file, please </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok, ale nazwa jest zbyt długa przez co nie jest wyświetlana w oknie Ostatnio używanych dokumentów</translatorcomment>
+        <translation>Aby pokazać pliki usługi Cloud,  </translation>
     </message>
     <message>
         <source>login</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaloguj</translation>
     </message>
 </context>
 <context>

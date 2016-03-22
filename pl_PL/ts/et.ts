@@ -9766,7 +9766,8 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Recommend</source>
-        <translation>Zalecanie</translation>
+        <translatorcomment>Spreadsheet-&gt;Okno dialogowe Wstawianie funkcji - opcja pojawiająca się po wpisania w polu Wyszukaj funkcję dowolnego tekstu, tak jest ok jak w Excel</translatorcomment>
+        <translation>Zalecane</translation>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>

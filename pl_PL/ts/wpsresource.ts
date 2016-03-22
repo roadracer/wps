@@ -22293,6 +22293,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Developer</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Deweloper</translation>
     </message>
     <message>
@@ -22329,10 +22330,12 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Home</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Narzędzia główne</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Wstaw</translation>
     </message>
     <message>
@@ -22401,6 +22404,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Page Layout</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Układ strony</translation>
     </message>
     <message>
@@ -22437,6 +22441,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>References</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Odwołania</translation>
     </message>
     <message>
@@ -22445,10 +22450,12 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Review</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Recenzja</translation>
     </message>
     <message>
         <source>Section</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Sekcja</translation>
     </message>
     <message>
@@ -22473,6 +22480,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Special Features</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Funkcje specjalne</translation>
     </message>
     <message>
@@ -22514,6 +22522,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>View</source>
+        <translatorcomment>Writer- nazwa karty wstążki</translatorcomment>
         <translation>Widok</translation>
     </message>
     <message>

@@ -17480,7 +17480,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Animation</source>
-        <translatorcomment>wstążka-&gt;karta Animacje</translatorcomment>
+        <translatorcomment>Presentation- nazwa karty wstążki, tak jest ok jak w Powerpoint</translatorcomment>
         <translation>Animacje</translation>
     </message>
     <message>
@@ -17509,10 +17509,12 @@ slajdu</translation>
     </message>
     <message>
         <source>Design</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Projekt</translation>
     </message>
     <message>
         <source>Developer</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Deweloper</translation>
     </message>
     <message>
@@ -17545,10 +17547,12 @@ slajdu</translation>
     </message>
     <message>
         <source>Home</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Narzędzia główne</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Wstaw</translation>
     </message>
     <message>
@@ -17625,6 +17629,7 @@ slajdu</translation>
     </message>
     <message>
         <source>Review</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Recenzja</translation>
     </message>
     <message>
@@ -17662,10 +17667,12 @@ slajdu</translation>
     </message>
     <message>
         <source>Slide Show</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Pokaz slajdów</translation>
     </message>
     <message>
         <source>Special Features</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Funkcje specjalne</translation>
     </message>
     <message>
@@ -17699,6 +17706,7 @@ slajdu</translation>
     </message>
     <message>
         <source>View</source>
+        <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Widok</translation>
     </message>
     <message>

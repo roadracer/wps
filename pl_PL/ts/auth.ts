@@ -235,7 +235,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, zaloguj się, aby korzystać z WPS Office.</translation>
+        <translation>Jeżeli zakupiłeś subskrypcję dla osób fizycznych, Zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>

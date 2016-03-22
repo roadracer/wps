@@ -3305,10 +3305,12 @@ zadań</translation>
     </message>
     <message>
         <source>Data</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Dane</translation>
     </message>
     <message>
         <source>Developer</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Deweloper</translation>
     </message>
     <message>
@@ -3333,6 +3335,7 @@ zadań</translation>
     </message>
     <message>
         <source>Formulas</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Formuły</translation>
     </message>
     <message>
@@ -3341,10 +3344,12 @@ zadań</translation>
     </message>
     <message>
         <source>Home</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Narzędzia główne</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Wstaw</translation>
     </message>
     <message>
@@ -3377,6 +3382,7 @@ zadań</translation>
     </message>
     <message>
         <source>Page Layout</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Układ strony</translation>
     </message>
     <message>
@@ -3429,6 +3435,7 @@ zadań</translation>
     </message>
     <message>
         <source>Review</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Recenzja</translation>
     </message>
     <message>
@@ -3453,6 +3460,7 @@ zadań</translation>
     </message>
     <message>
         <source>Special Features</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Funkcje specjalne</translation>
     </message>
     <message>
@@ -3482,6 +3490,7 @@ zadań</translation>
     </message>
     <message>
         <source>View</source>
+        <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Widok</translation>
     </message>
     <message>

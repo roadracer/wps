@@ -17583,7 +17583,8 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Recommend</source>
         <comment>et_sCommend</comment>
-        <translation>Zalecanie</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zalecane</translation>
     </message>
     <message>
         <source>Enter the name or description of the function you want to look for.</source>
