@@ -169,7 +169,7 @@
     </message>
     <message>
         <source>Co&amp;nstraint:</source>
-        <translation>Kı&amp;sıt:</translation>
+        <translation>Kı&amp;sıtlama:</translation>
     </message>
     <message>
         <source>Constraint</source>
@@ -1424,7 +1424,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation>Satır İşaretleriyle</translation>
+        <translation>Satır İmleriyle</translation>
     </message>
     <message>
         <source>Stacked Line with Markers</source>
@@ -1452,7 +1452,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"/>
+        <translation>Radar İmleriyle</translation>
     </message>
     <message>
         <source>Filled Radar</source>
@@ -2822,11 +2822,11 @@ Use it when:
     </message>
     <message>
         <source>Shift cells &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri &amp;sol</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri &amp;yukarı</translation>
     </message>
 </context>
 <context>
@@ -3013,7 +3013,7 @@ Use it when:
     </message>
     <message>
         <source>&amp;Gaps</source>
-        <translation>&amp;Büyük Harfler</translation>
+        <translation>&amp;Aralıklar</translation>
     </message>
     <message>
         <source>&amp;Zero</source>
@@ -3291,11 +3291,11 @@ Use it when:
     </message>
     <message>
         <source>Match &amp;byte</source>
-        <translation type="unfinished"/>
+        <translation>Bayt Eşleştir</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation>Büyük &amp;küçük</translation>
+        <translation>&amp;Büyük/küçük harf eşle</translation>
     </message>
     <message>
         <source>Match entire cell c&amp;ontents</source>
@@ -3735,15 +3735,15 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>&amp;Left section:</source>
-        <translation>&amp;Sol seçim:</translation>
+        <translation>&amp;Sol bölüm:</translation>
     </message>
     <message>
         <source>&amp;Center section:</source>
-        <translation>&amp;Ortala seçim:</translation>
+        <translation>&amp;Ortala bölüm:</translation>
     </message>
     <message>
         <source>&amp;Right section:</source>
-        <translation>&amp;Sağ seçim:</translation>
+        <translation>&amp;Sağ bölüm:</translation>
     </message>
 </context>
 <context>
@@ -3808,11 +3808,11 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Shift cells &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri &amp;aşağı</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri s&amp;ağ</translation>
     </message>
 </context>
 <context>
@@ -4546,7 +4546,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltilmiş sek&amp;me genişliği:</translation>
     </message>
     <message>
         <source>Formulas inco&amp;nsistent with other formulas in the region</source>
@@ -4582,7 +4582,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük harfli kelimeleri yoksay</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
@@ -5125,7 +5125,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Por&amp;trait</source>
-        <translation type="unfinished"/>
+        <translation>Dik&amp;ey</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5149,7 +5149,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Scaling</source>
-        <translation type="unfinished"/>
+        <translation>Ölçekleme</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -5303,7 +5303,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Source field:</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak alanı:</translation>
     </message>
     <message>
         <source>Subtotals</source>
@@ -6037,7 +6037,7 @@ This also allows workbook merging.</source>
     <name>KxDlgSortOptions</name>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük/küçük harf hassasiyeti</translation>
     </message>
     <message>
         <source>&amp;Sort by alphabet</source>
@@ -7240,7 +7240,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Right Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Orta</translation>
     </message>
     <message>
         <source>Center Middle</source>
@@ -7248,7 +7248,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Left Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sol Orta</translation>
     </message>
 </context>
 <context>
@@ -7392,7 +7392,7 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
 </context>
 <context>
@@ -8410,11 +8410,11 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Gelişmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
@@ -8422,7 +8422,7 @@ on iteration #%2.</source>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -8491,7 +8491,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Up one folder</source>
-        <translation type="unfinished"/>
+        <translation>Bir klasör yukarı</translation>
     </message>
     <message>
         <source>Browse File</source>
@@ -8589,7 +8589,7 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>The name already exists.</source>
-        <translation type="unfinished"/>
+        <translation>Bu isimde zaten var</translation>
     </message>
     <message>
         <source>The name that you entered is not valid.</source>
@@ -8662,11 +8662,11 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Double Underline</source>
-        <translation type="unfinished"/>
+        <translation>Çift Alt Çizgi</translation>
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"/>
+        <translation>Üstü Çizili</translation>
     </message>
     <message>
         <source>No Borders</source>
@@ -8798,7 +8798,7 @@ To keep existing picture, press Cancel.</source>
     <name>KxOptionsDlg</name>
     <message>
         <source>Add Dictionary File</source>
-        <translation type="unfinished"/>
+        <translation>Sözlük Dosyası Ekle</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
@@ -8910,11 +8910,11 @@ To keep existing picture, press Cancel.</source>
     </message>
     <message>
         <source>Delete from &amp;List</source>
-        <translation type="unfinished"/>
+        <translation>Listeden Sil</translation>
     </message>
     <message>
         <source>Delete from &amp;Disk</source>
-        <translation type="unfinished"/>
+        <translation>Diskden Sil</translation>
     </message>
     <message>
         <source>The encryption algorithm you selected requires the password within 15 characters.</source>
@@ -9424,7 +9424,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     </message>
     <message>
         <source>&amp;Criteria</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ölçüt</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -9838,11 +9838,11 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Column %1</source>
-        <translation type="unfinished"/>
+        <translation>Sütun %1</translation>
     </message>
     <message>
         <source>Row %1</source>
-        <translation type="unfinished"/>
+        <translation>Satır %1</translation>
     </message>
     <message>
         <source>The sort reference is invalid due to one of the possible reasons below: 
@@ -9947,7 +9947,7 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük harfli kelimeleri yoksay</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
@@ -10492,7 +10492,7 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Move &amp;Up</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yukarı Taşı</translation>
     </message>
     <message>
         <source>Move to &amp;Column Area</source>
@@ -10999,7 +10999,7 @@ t</source>
     </message>
     <message>
         <source>F&amp;ont style:</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;azı tipi stili:</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -11007,7 +11007,7 @@ t</source>
     </message>
     <message>
         <source>&amp;Underline:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alt Çizgi:</translation>
     </message>
     <message>
         <source>None</source>
@@ -11031,11 +11031,11 @@ t</source>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"/>
+        <translation>Üst&amp;ü Çizgili</translation>
     </message>
     <message>
         <source>Sup&amp;erscript</source>
-        <translation type="unfinished"/>
+        <translation>Üst&amp;teki</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
@@ -11872,7 +11872,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ODBC data sources:</source>
-        <translation type="unfinished"/>
+        <translation>ODBC bilgi kaynakları:</translation>
     </message>
 </context>
 <context>
@@ -12207,14 +12207,14 @@ p, li { white-space: pre-wrap; }
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation type="unfinished"/>
+        <translation>dialogstest</translation>
     </message>
 </context>
 <context>
     <name>editCrossBookLinksDlg</name>
     <message>
         <source>&amp;Break Link</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kırık Bağlantı</translation>
     </message>
     <message>
         <source>&amp;Check Status</source>
@@ -12226,7 +12226,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Open Source</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kaynağı Aç</translation>
     </message>
     <message>
         <source>&amp;Startup Prompt...</source>
@@ -12242,7 +12242,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Cha&amp;nge Source...</source>
-        <translation type="unfinished"/>
+        <translation>Kaynağı Değ&amp;iştir...</translation>
     </message>
     <message>
         <source>Do not display the alert and update lin&amp;ks</source>
@@ -12312,7 +12312,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Te&amp;xt direction</source>
-        <translation type="unfinished"/>
+        <translation>Me&amp;tin yönü</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -12599,15 +12599,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zenlemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished"/>
+        <translation>Kop&amp;yalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar &amp;eklemeye izin ver</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
@@ -12741,15 +12741,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar &amp;eklemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished"/>
+        <translation>Kop&amp;yalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zenlemeye izin ver</translation>
     </message>
     <message>
         <source>Printing Permission</source>
@@ -12803,11 +12803,11 @@ p, li { white-space: pre-wrap; }
     <name>kxDlgHyperlink</name>
     <message>
         <source>&amp;E-mail address:</source>
-        <translation type="unfinished"/>
+        <translation>E-posta adresi:</translation>
     </message>
     <message>
         <source>&amp;Remove Link</source>
-        <translation type="unfinished"/>
+        <translation>Bağlantıyı &amp;Kaldır</translation>
     </message>
     <message>
         <source>&amp;Text to display:</source>
@@ -12815,7 +12815,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Addr&amp;ess:</source>
-        <translation type="unfinished"/>
+        <translation>Adres:</translation>
     </message>
     <message>
         <source>Browse for File</source>
@@ -12828,7 +12828,7 @@ or Web Page</source>
     </message>
     <message>
         <source>E-&amp;mail Address</source>
-        <translation type="unfinished"/>
+        <translation>E-posta Adresi</translation>
     </message>
     <message>
         <source>Home Page</source>
@@ -12840,7 +12840,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Link to:</source>
-        <translation type="unfinished"/>
+        <translation>-e bağlantı:</translation>
     </message>
     <message>
         <source>Pl&amp;ace in this
@@ -12853,11 +12853,11 @@ Document</source>
     </message>
     <message>
         <source>S&amp;ubject:</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;onu:</translation>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation type="unfinished"/>
+        <translation>Ekran &amp;İpucu...</translation>
     </message>
     <message>
         <source>Up One Folder</source>
@@ -12865,7 +12865,7 @@ Document</source>
     </message>
     <message>
         <source>Email Button</source>
-        <translation type="unfinished"/>
+        <translation>E-posta Düğmesi</translation>
     </message>
 </context>
 <context>
@@ -12970,11 +12970,11 @@ Document</source>
     </message>
     <message>
         <source>&amp;Input range:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Giriş serisi:</translation>
     </message>
     <message>
         <source>&amp;Minimum value:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;En düşük değer:</translation>
     </message>
     <message>
         <source>&amp;Mixed</source>
@@ -12982,7 +12982,7 @@ Document</source>
     </message>
     <message>
         <source>&amp;Multi select</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Çoklu seçim</translation>
     </message>
     <message>
         <source>&amp;Single</source>
@@ -13002,11 +13002,11 @@ Document</source>
     </message>
     <message>
         <source>Ma&amp;ximum value:</source>
-        <translation type="unfinished"/>
+        <translation>En&amp; yüksek değer:</translation>
     </message>
     <message>
         <source>Select type</source>
-        <translation type="unfinished"/>
+        <translation>Tür seç</translation>
     </message>
     <message>
         <source>Values</source>
@@ -13014,11 +13014,11 @@ Document</source>
     </message>
     <message>
         <source>&amp;Unchecked</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Denetimsiz</translation>
     </message>
     <message>
         <source>By (&amp;I):</source>
-        <translation type="unfinished"/>
+        <translation>-e göre (&amp;I):</translation>
     </message>
     <message>
         <source>&amp;Page change:</source>
@@ -13198,7 +13198,7 @@ Document</source>
     <name>switchCalcMode</name>
     <message>
         <source>Automatic(Recommend)</source>
-        <translation type="unfinished"/>
+        <translation>Otomatik(Önerilir)</translation>
     </message>
     <message>
         <source>Manual</source>
