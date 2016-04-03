@@ -77,7 +77,7 @@
     </message>
     <message>
         <source>Snapper Color(&amp;E)</source>
-        <translation>Balık Rengi(&amp;E)</translation>
+        <translation>Yakalayıcı Rengi(&amp;E)</translation>
     </message>
     <message>
         <source>Recent Colors</source>
@@ -327,11 +327,11 @@
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation>listeden onarılmamış</translation>
+        <translation>listeden düzeltilmemiş</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation>listeyi onar</translation>
+        <translation>düzeltilmiş liste</translation>
     </message>
 </context>
 <context>
@@ -684,7 +684,7 @@
     </message>
     <message>
         <source>Recover</source>
-        <translation>Kurtarma</translation>
+        <translation>Kurtar</translation>
     </message>
     <message>
         <source>Cancel</source>
