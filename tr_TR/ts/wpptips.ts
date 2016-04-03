@@ -3,7 +3,7 @@
 <TS version="2.0" language="tr_TR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
-    <name/>
+    <name></name>
     <message id="ActionSetting.title">
         <source>Action Settings</source>
         <extracomment>ActionSetting.title</extracomment>
@@ -184,7 +184,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="CheckSpelling.content">
         <source>Check the spelling of the text in the current document.</source>
         <extracomment>CheckSpelling.content</extracomment>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgedeki metin yazımını denetleyin.</translation>
     </message>
     <message id="ChineseTranslation.title">
         <source>Simplified to Traditional Chinese</source>
@@ -259,7 +259,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DecreaseIndent.title">
         <source>Decrease List Level</source>
         <extracomment>DecreaseIndent.title</extracomment>
-        <translation type="unfinished"/>
+        <translation>Lİste Düzeyini Azalt</translation>
     </message>
     <message id="DecreaseIndent.content">
         <source>Decrease the indent level.</source>
@@ -1153,7 +1153,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the page layout to portrait in the printing of handouts, notes pages and outline.</source>
