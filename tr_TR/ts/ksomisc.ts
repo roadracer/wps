@@ -1208,7 +1208,7 @@ Düğme simgesi, komut grubu ve her şemanın görev penceresi konumu farklıdı
     </message>
     <message>
         <source>User name:</source>
-        <translation>Kullanıcı adı:</translation>
+        <translation>Kullanıcı ismi:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -1253,7 +1253,7 @@ Düğme simgesi, komut grubu ve her şemanın görev penceresi konumu farklıdı
     </message>
     <message>
         <source>The port must be a number between 1 and 65535.</source>
-        <translation>Bağlantı 1 ve 65535 arasında bir sayı olmalıdır.</translation>
+        <translation>Bağlantı 1 ve 65535 arasında bir numara olmalıdır.</translation>
     </message>
 </context>
 <context>
