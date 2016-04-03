@@ -79,7 +79,7 @@ Masaüstü sağ alt köşesindeki boynuz simgesini kontrol ediniz.</translation>
     </message>
     <message>
         <source>Exporting Audio </source>
-        <translation>Sesi aktarıyor</translation>
+        <translation>Sesi Dışa Aktarıyor</translation>
     </message>
     <message>
         <source>A sound file of this document is currently being exported. 
@@ -290,7 +290,7 @@ Masaüstü sağ alt köşesindeki boynuz simgesini kontrol ediniz.</translation>
     </message>
     <message>
         <source>File export is interrupted: </source>
-        <translation>Dosya aktarımı kesildi:</translation>
+        <translation>Dosya dışa aktarımı kesildi:</translation>
     </message>
     <message>
         <source>TCP Client Connected.</source>
@@ -393,7 +393,7 @@ Masaüstü sağ alt köşesindeki boynuz simgesini kontrol ediniz.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare file export.</source>
-        <translation>IVTTS - dosya aktarma hazırlığı başarısız.</translation>
+        <translation>IVTTS - dosya dışa aktarma hazırlığı başarısız.</translation>
     </message>
     <message>
         <source>IVTTS - failed to destroy TTS session.</source>
@@ -409,7 +409,7 @@ Masaüstü sağ alt köşesindeki boynuz simgesini kontrol ediniz.</translation>
     </message>
     <message>
         <source>IVTTS - failed to add text to the export file.</source>
-        <translation>IVTTS - aktarma dosyasına metin ekleme başarısız.</translation>
+        <translation>IVTTS - dışa aktarma dosyasına metin ekleme başarısız.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice volume: </source>
