@@ -1275,7 +1275,7 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>Objective</source>
         <comment>TX_SOLVER_OBJECTIVE</comment>
-        <translation>Hedef</translation>
+        <translation>Mesleki Hedef</translation>
     </message>
     <message>
         <source>Max Time</source>
@@ -1350,17 +1350,17 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>Objective Cell Section</source>
         <comment>TX_SOLVER_OBJECTIVE_CELL_SECTION</comment>
-        <translation>Hedef Hücre Seçimi</translation>
+        <translation>Hedef Hücre Bölümü</translation>
     </message>
     <message>
         <source>Variable Cells Section</source>
         <comment>TX_SOLVER_VARIABLE_CELLS_SECTION</comment>
-        <translation>Değişken Hücrelerİ Seçimi</translation>
+        <translation>Değişken Hücrelerİ Bölümü</translation>
     </message>
     <message>
         <source>Constraints Section</source>
         <comment>TX_SOLVER_CONSTRAINTS_SECTION</comment>
-        <translation>Sabitler Seçimi</translation>
+        <translation>Sabitler Bölümü</translation>
     </message>
     <message>
         <source>Limit</source>
@@ -3398,7 +3398,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation>Gönderim</translation>
+        <translation>Eşlemek</translation>
     </message>
     <message>
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
@@ -6166,7 +6166,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>LEFTB(text,num_bytes)</source>
         <comment>LEFTB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>LEFTB(text,num_bytes)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the leftmost appointed location of a text string. Use with double-byte character set(DBCS).</source>
@@ -6176,7 +6176,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
         <comment>MIDB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>MIDB(text,start_num,num_bytes)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the appointed location of a text string. Use with double-byte character set(DBCS).</source>
@@ -6186,7 +6186,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
         <comment>REPLACEB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>REPLACEB(old_text,start_num,num_bytes,new_text)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
@@ -6196,7 +6196,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>RIGHTB(text,num_bytes)</source>
         <comment>RIGHTB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>RIGHTB(text,num_bytes)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the last character of a text string. Use with double-byte character set(DBCS).</source>
@@ -6816,7 +6816,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>FIXED(number,decimals,no_commas)</source>
         <comment>FIXED_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DÜZELTİLMİŞ(number,decimals,no_commas)</translation>
     </message>
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
@@ -7240,7 +7240,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</source>
         <comment>FORMULAFIND_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>FORMULA.FIND(text, in_num, at_num, by_num, dir_num, match_case)</translation>
     </message>
     <message>
         <source>CALCULATION(type_num, iter, max_num, max_change, update, precision, date_1904, calc_save, save_values, alt_exp, alt_form)</source>
@@ -7275,7 +7275,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Options.Lists.Get(list_num)</source>
         <comment>OPTIONSLISTSGET_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>Options.Lists.Get(list_num)</translation>
     </message>
     <message>
         <source>DEREF(reference)</source>
@@ -7295,7 +7295,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
         <comment>SPELLINGCHECK_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
     </message>
 </context>
 <context>
@@ -9645,32 +9645,32 @@ Devam edilsin mi ?</translation>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTHEADER</comment>
-        <translation>Sol seçim</translation>
+        <translation>Sol bölüm</translation>
     </message>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERHEADER</comment>
-        <translation>Ortala seçim</translation>
+        <translation>Ortala bölüm</translation>
     </message>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTHEADER</comment>
-        <translation>Sağ seçim</translation>
+        <translation>Sağ bölüm</translation>
     </message>
     <message>
         <source>Left section </source>
         <comment>TX_CHECKSPELLING_FROMLEFTFOOTER</comment>
-        <translation>Sağ seçim</translation>
+        <translation>Sağ bölüm</translation>
     </message>
     <message>
         <source>Center section </source>
         <comment>TX_CHECKSPELLING_FROMCENTERFOOTER</comment>
-        <translation>Ortala seçim</translation>
+        <translation>Ortala bölüm</translation>
     </message>
     <message>
         <source>Right section </source>
         <comment>TX_CHECKSPELLING_FROMRIGHTFOOTER</comment>
-        <translation>Sağ seçim</translation>
+        <translation>Sağ bölüm</translation>
     </message>
     <message>
         <source>The comment of </source>
