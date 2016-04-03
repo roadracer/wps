@@ -134,7 +134,7 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>The project item name is not valid.</source>
         <extracomment>Theoretically, will not displayed any where.</extracomment>
-        <translation>Proje öğesi adı geçersiz.</translation>
+        <translation>Proje öğesi ismi geçersiz.</translation>
     </message>
 </context>
 <context>
