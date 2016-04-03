@@ -62,7 +62,7 @@
     </message>
     <message>
         <source>AutoShape</source>
-        <translation>Otomati Şekil</translation>
+        <translation>Otomatik Şekil</translation>
     </message>
     <message>
         <source>3</source>
@@ -82,7 +82,7 @@
     </message>
     <message>
         <source>Font Size:</source>
-        <translation>Yazı Büyüklüğü:</translation>
+        <translation>Yazı Boyutu:</translation>
     </message>
     <message>
         <source>Bold:</source>
@@ -114,15 +114,15 @@
     </message>
     <message>
         <source>Italic:</source>
-        <translation>Eğik:</translation>
+        <translation>Eğik Yazı:</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation>Eğik</translation>
+        <translation>Eğik Yazı</translation>
     </message>
     <message>
         <source>Unitalicize</source>
-        <translation>Eğimsiz</translation>
+        <translation>Eğik Yazı Yok</translation>
     </message>
     <message>
         <source>Font Color:</source>
@@ -218,11 +218,11 @@
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Arttır</translation>
+        <translation>Yazı Tipi Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -234,7 +234,7 @@
     </message>
     <message>
         <source>Italic</source>
-        <translation>Eğik</translation>
+        <translation>Eğik Yazı</translation>
     </message>
     <message>
         <source>UnderLine</source>
