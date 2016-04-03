@@ -182,7 +182,7 @@
     </message>
     <message>
         <source>Match &amp;case</source>
-        <translation>Büyük &amp;küçük</translation>
+        <translation>Büyük &amp;küçük eşle</translation>
     </message>
     <message>
         <source>Match half/full width for&amp;ms</source>
@@ -838,7 +838,7 @@
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük harfli kelimeleri yoksay</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
@@ -1316,7 +1316,7 @@ biz belgede bu yazı tiplerini kaydetmenizi öneririz. Belgedeki Cloud yazı tip
     </message>
     <message>
         <source>Snap to</source>
-        <translation>Yasla</translation>
+        <translation>Yakala</translation>
     </message>
     <message>
         <source>cm</source>
@@ -1622,7 +1622,7 @@ biz belgede bu yazı tiplerini kaydetmenizi öneririz. Belgedeki Cloud yazı tip
     </message>
     <message>
         <source>Default print setting for this document</source>
-        <translation type="unfinished"/>
+        <translation>Bu belge için varsayılan yazdırma ayarı</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -1670,7 +1670,7 @@ biz belgede bu yazı tiplerini kaydetmenizi öneririz. Belgedeki Cloud yazı tip
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük harfli kelimeleri yoksay</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
@@ -1996,7 +1996,7 @@ biz belgede bu yazı tiplerini kaydetmenizi öneririz. Belgedeki Cloud yazı tip
     </message>
     <message>
         <source>Letter Paper(8.5x11 Inch)</source>
-        <translation>Büyük Kağıt(8.5x11 inç)</translation>
+        <translation>Harf Kağıdı(8.5x11 inç)</translation>
     </message>
     <message>
         <source>Notes, handouts and outline</source>
@@ -3030,11 +3030,11 @@ biz belgede bu yazı tiplerini kaydetmenizi öneririz. Belgedeki Cloud yazı tip
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Gelişmiş Meta Dosyası</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"/>
+        <translation>Windows Meta Dosyası</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
@@ -3042,7 +3042,7 @@ biz belgede bu yazı tiplerini kaydetmenizi öneririz. Belgedeki Cloud yazı tip
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"/>
+        <translation>Taşınabilir Ağ Grafikleri</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
@@ -4052,7 +4052,7 @@ gibi ilgili ortam öğelerini kopyalayın.</translation>
     <name>KxWppFormatProperty_FillAndLine</name>
     <message>
         <source>TEXT FILL</source>
-        <translation type="unfinished"/>
+        <translation>METNİ DOLDUR</translation>
     </message>
     <message>
         <source>FILL</source>
@@ -4810,7 +4810,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Re-order</source>
-        <translation type="unfinished"/>
+        <translation>Yeniden-Sırala</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5020,15 +5020,15 @@ Sure to close?</source>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished"/>
+        <translation>Düzenlemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar eklemeye izin ver</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -5230,15 +5230,15 @@ Sure to close?</source>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar eklemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation type="unfinished"/>
+        <translation>Kopyalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation type="unfinished"/>
+        <translation>Düzenlemeye izin ver</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
