@@ -67,7 +67,7 @@
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation>(&quot;İsim&quot; belgenin yazarı ve yorumcusunun adıdır)</translation>
+        <translation>(&quot;İsim&quot; belgenin yazarı ve yorumcusunun ismidir)</translation>
     </message>
     <message>
         <source>Initials:</source>
@@ -734,7 +734,7 @@ p, li { white-space: pre-wrap; }
     <name>KxQingBuyTooltip</name>
     <message>
         <source>Form</source>
-        <translation>Şekillendir</translation>
+        <translation>Oluştur</translation>
     </message>
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 

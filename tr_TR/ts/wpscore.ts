@@ -401,12 +401,12 @@ Try one or more of the following:
     <message>
         <source> - Section %d - </source>
         <comment>TxPropmpt_Section_Index</comment>
-        <translation> - Seçim %d - </translation>
+        <translation> - Bölüm %d - </translation>
     </message>
     <message>
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
-        <translation>Önceki seçim gibi</translation>
+        <translation>Önceki bölüm gibi</translation>
     </message>
 </context>
 <context>
@@ -442,7 +442,7 @@ Try one or more of the following:
     <message>
         <source>Section Break (Continuous)</source>
         <comment>_TxSectionBreakContinous</comment>
-        <translation>Bolüm Sonu (Devamlı)</translation>
+        <translation>Bölüm Sonu (Devamlı)</translation>
     </message>
     <message>
         <source>Section Break (Even Page)</source>
@@ -1037,12 +1037,12 @@ Do you want to replace it?</source>
     <message>
         <source>Pause mark</source>
         <comment>TxRevision_Chp_PauseMark</comment>
-        <translation>İşareti durdur</translation>
+        <translation>İmi durdur</translation>
     </message>
     <message>
         <source>No emphasis mark</source>
         <comment>TxRevision_Chp_NoEmphasisMark</comment>
-        <translation>Vurgu işareti Yok</translation>
+        <translation>Vurgu imi yok</translation>
     </message>
     <message>
         <source>Strikethrough</source>
@@ -1547,7 +1547,7 @@ Do you want to replace it?</source>
     <message>
         <source>New page</source>
         <comment>TxRevision_Sep_NewPage</comment>
-        <translation>Yaeni sayfa</translation>
+        <translation>Yeni sayfa</translation>
     </message>
     <message>
         <source>Even page</source>
@@ -1637,12 +1637,12 @@ Do you want to replace it?</source>
     <message>
         <source>Dashed (small gap)</source>
         <comment>TxRevision_Bop_DashedSmallGap</comment>
-        <translation>Tireli (küçük boşluk)</translation>
+        <translation>Tireli (küçük aralık)</translation>
     </message>
     <message>
         <source>Dashed (large gap)</source>
         <comment>TxRevision_Bop_DashedLargeGap</comment>
-        <translation>Tireli (büyük boşluk)</translation>
+        <translation>Tireli (büyük aralık)</translation>
     </message>
     <message>
         <source>Dash dot</source>
@@ -1667,47 +1667,47 @@ Do you want to replace it?</source>
     <message>
         <source>Thin-thick small gap</source>
         <comment>TxRevision_Bop_ThinThickSmallGap</comment>
-        <translation type="unfinished"/>
+        <translation>İnce-kalın küçük aralık</translation>
     </message>
     <message>
         <source>Thick-thin small gap</source>
         <comment>TxRevision_Bop_ThickThinSmallGap</comment>
-        <translation type="unfinished"/>
+        <translation>Kalın-ince küçük aralık</translation>
     </message>
     <message>
         <source>Thin-thick-thin small gap</source>
         <comment>TxRevision_Bop_ThinThickThinSmallGap</comment>
-        <translation type="unfinished"/>
+        <translation>İnce-kalın-ince küçük aralık</translation>
     </message>
     <message>
         <source>Thin-thick medium gap</source>
         <comment>TxRevision_Bop_ThinThickMediumGap</comment>
-        <translation type="unfinished"/>
+        <translation>İnce-kalın orta aralık</translation>
     </message>
     <message>
         <source>Thick-thin medium gap</source>
         <comment>TxRevision_Bop_ThickThinMediumGap</comment>
-        <translation type="unfinished"/>
+        <translation>Kalın-ince orta aralık</translation>
     </message>
     <message>
         <source>Thin-thick-thin medium gap</source>
         <comment>TxRevision_Bop_ThinThickThinMediumGap</comment>
-        <translation type="unfinished"/>
+        <translation>İnce-kalın-ince orta aralık</translation>
     </message>
     <message>
         <source>Thin-thick large gap</source>
         <comment>TxRevision_Bop_ThinThickLargeGap</comment>
-        <translation type="unfinished"/>
+        <translation>İnce-kalın büyük aralık</translation>
     </message>
     <message>
         <source>Thick-thin large gap</source>
         <comment>TxRevision_Bop_ThickThinLargeGap</comment>
-        <translation type="unfinished"/>
+        <translation>Kalın-ince büyük aralık</translation>
     </message>
     <message>
         <source>Thin-thick-thin large gap</source>
         <comment>TxRevision_Bop_ThinThickThinLargeGap</comment>
-        <translation type="unfinished"/>
+        <translation>İnce-kalın-ince büyük aralık</translation>
     </message>
     <message>
         <source>Single wavy</source>
@@ -3121,7 +3121,7 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>This section</source>
         <comment>wps_sApplyThisSection</comment>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -3632,7 +3632,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Match Case</source>
         <comment>wps_sMatchCase</comment>
-        <translation>Büyük/Küçük</translation>
+        <translation>Büyük/Küçük Harf Eşle</translation>
     </message>
     <message>
         <source>Sounds Like(Japanese)</source>
@@ -3717,7 +3717,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Next Section</source>
         <comment>wps_sNextSection</comment>
-        <translation>Sonraki Seçim</translation>
+        <translation>Sonraki Bölüm</translation>
     </message>
     <message>
         <source>Nickname</source>
@@ -3752,7 +3752,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>(no spelling suggestions)</source>
         <comment>wps_sNoSpellingSuggestion</comment>
-        <translation type="unfinished"/>
+        <translation>(yazım denetim önerileri yok)</translation>
     </message>
     <message>
         <source>(no style)</source>
@@ -4012,7 +4012,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Previous Section</source>
         <comment>wps_sPreviousSection</comment>
-        <translation>Önceki Seçim</translation>
+        <translation>Önceki Bölüm</translation>
     </message>
     <message>
         <source>Document protec&amp;tion...</source>
@@ -4102,7 +4102,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>The spelling check is complete.</source>
         <comment>wps_sSpellingCheckComplete</comment>
-        <translation type="unfinished"/>
+        <translation>Yazım denetim kontrolü tamam.</translation>
     </message>
     <message>
         <source>S&amp;plit</source>
@@ -4177,7 +4177,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This section</source>
         <comment>wps_sThisSection</comment>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>This section - All except first page</source>
@@ -4187,7 +4187,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>This section - First page only</source>
         <comment>wps_sThisSectionOnlyFirst</comment>
-        <translation>Bu Seçim - Sadece ilk sayfa</translation>
+        <translation>Bu Bölüm - Sadece ilk sayfa</translation>
     </message>
     <message>
         <source>There are too many characters in the selection.</source>
@@ -4222,7 +4222,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Unique Identifier</source>
         <comment>wps_sUniqueIdentifier</comment>
-        <translation type="unfinished"/>
+        <translation>Tek Tanıtıcı</translation>
     </message>
     <message>
         <source>(Use Asian text font)</source>
@@ -4302,7 +4302,7 @@ This change will affect all new documents based on the %s template.</source>
     <message>
         <source>Section %d</source>
         <comment>wps_sSectionFmt</comment>
-        <translation>Seçim %d</translation>
+        <translation>Bölüm %d</translation>
     </message>
     <message>
         <source>Unlimited</source>
@@ -4408,7 +4408,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>SectionPages</source>
         <comment>wps_sFieldSectionPages</comment>
-        <translation>Seçim Sayfaları</translation>
+        <translation>Bölüm Sayfaları</translation>
     </message>
     <message>
         <source>Seq</source>
@@ -5013,7 +5013,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Select Data Source</source>
         <comment>TxDataSource_Select</comment>
-        <translation type="unfinished"/>
+        <translation>Bilgi Kaynağını Seç</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -5283,7 +5283,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Show/Hide Formatting Marks</source>
         <comment>TxVersion_ShowHide</comment>
-        <translation type="unfinished"/>
+        <translation>Göster/Gizle Biçimlendirme İmlerini</translation>
     </message>
     <message>
         <source>Select Font Size</source>
@@ -5563,7 +5563,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Fixed Column Width</source>
         <comment>TxVersion_FixedColumnWidth</comment>
-        <translation type="unfinished"/>
+        <translation>Düzeltilmiş Sütun Genişliği</translation>
     </message>
     <message>
         <source>Table Properties</source>
@@ -6087,7 +6087,7 @@ Changes</source>
     <message>
         <source>Form Field Options</source>
         <comment>TxVersion_FormFieldOption</comment>
-        <translation>Alan Oluşturma Seçenekleri</translation>
+        <translation>Alan Seçenekleri Oluştur</translation>
     </message>
     <message>
         <source>Help</source>
@@ -6157,7 +6157,7 @@ Changes</source>
     <message>
         <source>(no spelling suggestions)</source>
         <comment>TxCaption_NoSpellingSuggestions</comment>
-        <translation type="unfinished"/>
+        <translation>(yazım denetim önerileri yok)</translation>
     </message>
     <message>
         <source>Replace Full Width Period With a Point</source>
@@ -7220,7 +7220,7 @@ Denetimi</translation>
     <message>
         <source>Set as Default Text Box</source>
         <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
-        <translation type="unfinished"/>
+        <translation>Varsayılan Metin Kutusu Olarak Ayarla</translation>
     </message>
     <message>
         <source>InsertBefore</source>

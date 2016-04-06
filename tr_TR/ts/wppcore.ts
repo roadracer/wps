@@ -4881,7 +4881,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>The spelling check is complete.</source>
         <comment>wpp_sCheckSpellingOver</comment>
-        <translation type="unfinished"/>
+        <translation>Yazım denetim kontrolü tamam.</translation>
     </message>
     <message>
         <source>Chinese(PRC)</source>
@@ -5091,7 +5091,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>By letter: </source>
         <comment>wpp_sHintByLetter</comment>
-        <translation>Harfge göre: </translation>
+        <translation>Harfe göre: </translation>
     </message>
     <message>
         <source>By word: </source>

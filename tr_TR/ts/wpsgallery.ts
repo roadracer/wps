@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>shape</source>
-        <translation>şekillendir</translation>
+        <translation>şekil</translation>
     </message>
 </context>
 <context>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation>En fazla başlık sayısı 5 olabilir.</translation>
+        <translation>En fazla başlık numarası 5 olabilir.</translation>
     </message>
 </context>
 <context>
@@ -74,15 +74,15 @@
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation>\WPS Office\Desktop.ini adı.</translation>
+        <translation>\WPS Office\Desktop.ini ismi.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation>\WPS Office\AppData\Desktop.ini adı.</translation>
+        <translation>\WPS Office\AppData\Desktop.ini ismi.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation>\WPS Office\AppData\My Materials\Desktop.ini adı.</translation>
+        <translation>\WPS Office\AppData\My Materials\Desktop.ini ismi.</translation>
     </message>
 </context>
 <context>

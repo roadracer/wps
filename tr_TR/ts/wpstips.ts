@@ -3,7 +3,7 @@
 <TS version="2.0" language="tr_TR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
-    <name/>
+    <name></name>
     <message id="100%25.title">
         <source>100%</source>
         <extracomment>100%25.title</extracomment>
@@ -340,7 +340,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="CheckSpelling.content">
         <source>Check the spelling of the text in the current document.</source>
         <extracomment>CheckSpelling.content</extracomment>
-        <translation type="unfinished"/>
+        <translation>Geçerli belgedeki metin yazımını denetleyin.</translation>
     </message>
     <message id="Chinese%20Translation.title">
         <source>Simplified to Traditional Chinese</source>
@@ -495,7 +495,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DeleteSection.title">
         <source>Delete Section</source>
         <extracomment>DeleteSection.title</extracomment>
-        <translation>Seçimi Sil</translation>
+        <translation>Bölümü Sil</translation>
     </message>
     <message id="DeleteSection.content">
         <source>Delete the currently selected section.</source>
@@ -725,7 +725,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="EmphasisMark.title">
         <source>Emphasis Mark</source>
         <extracomment>EmphasisMark.title</extracomment>
-        <translation>Vurgu İşareti</translation>
+        <translation>Vurgu İmi</translation>
     </message>
     <message id="EmphasisMark.content">
         <source>Add black dots under selected content to show emphasis.
@@ -737,7 +737,7 @@ Click the arrow to add a strikethrough.</source>
     <message id="EncloseCharacters.title">
         <source>Enclose Characters</source>
         <extracomment>EncloseCharacters.title</extracomment>
-        <translation>Karaktereleri Kapsa</translation>
+        <translation>Karakterleri Kapsa</translation>
     </message>
     <message id="EncloseCharacters.content">
         <source>Add a circle or other border around a character.
@@ -863,7 +863,7 @@ Click the arrow to choose other options, such as Go To.</source>
     <message id="FirstSection.title">
         <source>First Section</source>
         <extracomment>FirstSection.title</extracomment>
-        <translation>İlk Seçim</translation>
+        <translation>İlk Bölüm</translation>
     </message>
     <message id="FirstSection.content">
         <source>Go to the first section of the document.</source>
@@ -1493,7 +1493,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="InsertSectionAfter.title">
         <source>Insert Section After</source>
         <extracomment>InsertSectionAfter.title</extracomment>
-        <translation>Seçim Sonrası Ekle</translation>
+        <translation>Bölüm Sonrası Ekle</translation>
     </message>
     <message id="InsertSectionAfter.content">
         <source>Insert a new section after the current section.</source>
@@ -1503,7 +1503,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="InsertSectionBefore.title">
         <source>Insert Section Before</source>
         <extracomment>InsertSectionBefore.title</extracomment>
-        <translation>Seçim Öncesi Ekle</translation>
+        <translation>Bölüm Öncesi Ekle</translation>
     </message>
     <message id="InsertSectionBefore.content">
         <source>Insert a section before the current section.</source>
@@ -1573,7 +1573,7 @@ Click the arrow to insert file content into the document.</source>
     <message id="LastSection.title">
         <source>Last Section</source>
         <extracomment>LastSection.title</extracomment>
-        <translation>Son Seçim</translation>
+        <translation>Son Bölüm</translation>
     </message>
     <message id="LastSection.content">
         <source>Go to the last section of the document.</source>
@@ -1626,7 +1626,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="LocateToSection.title">
         <source>Locate to Section</source>
         <extracomment>LocateToSection.title</extracomment>
-        <translation>Seçimi Konumlandır</translation>
+        <translation>Bölümü Konumlandır</translation>
     </message>
     <message id="LocateToSection.content">
         <source>Relocate to another section.</source>
@@ -1854,7 +1854,7 @@ SplitWindow.content</extracomment>
     <message id="NextSection.title">
         <source>Next Section</source>
         <extracomment>NextSection.title</extracomment>
-        <translation>Sonraki Seçim</translation>
+        <translation>Sonraki Bölüm</translation>
     </message>
     <message id="NextSection.content">
         <source>Go to the next section.</source>
@@ -2110,7 +2110,7 @@ Click the arrow to choose Change Case, Enclose Characters, or Character Border o
     <message id="PreviousSection.title">
         <source>Previous Section</source>
         <extracomment>PreviousSection.title</extracomment>
-        <translation>Önceki Seçim</translation>
+        <translation>Önceki Bölüm</translation>
     </message>
     <message id="PreviousSection.content">
         <source>Go to the previous section.</source>
@@ -2700,7 +2700,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitSection.title">
         <source>Split Section</source>
         <extracomment>SplitSection.title</extracomment>
-        <translation>Seçimi Böl</translation>
+        <translation>Bölümü Böl</translation>
     </message>
     <message id="SplitSection.content">
         <source>Insert a section break into the document.</source>
@@ -2710,7 +2710,7 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitSection2.title">
         <source>Split Section</source>
         <extracomment>SplitSection2.title</extracomment>
-        <translation>Seçimi Böl</translation>
+        <translation>Bölümü Böl</translation>
     </message>
     <message id="SplitSection2.content">
         <source>Click here to choose section break types.</source>
@@ -3294,7 +3294,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="m_ShowReviewer.title">
         <source>Show Markup</source>
         <extracomment>m_ShowReviewer.title</extracomment>
-        <translation>İşareti Göster</translation>
+        <translation>Biçimlendirmeyi Göster</translation>
     </message>
     <message id="m_ShowReviewer.content">
         <source>Choose what kind of markup to show in the document.</source>
@@ -3349,7 +3349,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     <message id="sp_DeleteComment.content">
         <source>Delete the selected comment.</source>
         <extracomment>sp_DeleteComment.content</extracomment>
-        <translation type="unfinished"/>
+        <translation>Seçili yorumu sil</translation>
     </message>
     <message id="sp_DeleteComment2.title">
         <source>Delete Comment</source>
@@ -3493,7 +3493,7 @@ Apply smart formatting, such as &quot;Delete spaces&quot;, &quot;Indent the firs
     </message>
     <message id="ContentControlData.content">
         <source>Insert a date content control.</source>
-        <translation type="unfinished"/>
+        <translation>Bir içerik kontrol tarihi ekle.</translation>
     </message>
     <message id="ContentControlRepeating.title">
         <source>Repeating Section Content Control</source>

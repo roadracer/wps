@@ -22,7 +22,7 @@
     </message>
     <message>
         <source>User name:</source>
-        <translation>Kullanıcı adı:</translation>
+        <translation>Kullanıcı ismi:</translation>
     </message>
     <message>
         <source>Password:</source>
@@ -111,7 +111,7 @@
     </message>
     <message>
         <source>User Name:</source>
-        <translation>Kullanıcı Adı:</translation>
+        <translation>Kullanıcı İsmi:</translation>
     </message>
     <message>
         <source>Type:</source>

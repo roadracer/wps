@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="tr_TR">
 <defaultcodec>UTF-8</defaultcodec>
@@ -230,7 +230,7 @@
     </message>
     <message>
         <source>Insert Shapes</source>
-        <translation>Şekil Ekle</translation>
+        <translation>Şekiller Ekle</translation>
     </message>
     <message>
         <source>Move Shape Backward</source>
@@ -389,7 +389,7 @@
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -409,7 +409,7 @@
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Align or Distribute</source>
@@ -521,7 +521,7 @@
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -886,7 +886,7 @@
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
@@ -1017,7 +1017,7 @@
     </message>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>None</source>
@@ -1025,15 +1025,15 @@
     </message>
     <message>
         <source>Numbering</source>
-        <translation>Numarala</translation>
+        <translation>Numaralandırma</translation>
     </message>
     <message>
         <source>Pictographic Number, Wide End</source>
-        <translation>Resim Yazı Sayısı, Geniş Son</translation>
+        <translation>Resim Yazı Numarası, Geniş Son</translation>
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation>Döngü Sayısıyla</translation>
+        <translation>Dönge Numarasıyla</translation>
     </message>
     <message>
         <source>a).b).c).</source>
@@ -1214,7 +1214,7 @@
     </message>
     <message>
         <source>Reset Picture and Size</source>
-        <translation>Resim ve Büyüklüğü Sıfıra</translation>
+        <translation>Resim ve Boyutu Sıfıra</translation>
     </message>
     <message>
         <source>Rotate Left 90°</source>
@@ -1265,7 +1265,7 @@
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -1277,7 +1277,7 @@
     </message>
     <message>
         <source>Print What</source>
-        <translation>Ne yazdır</translation>
+        <translation>Ne Yazdır</translation>
     </message>
     <message>
         <source>Printing Order</source>
@@ -1318,7 +1318,7 @@
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation>Geçerli Slaytdaki Tüm İşareti Sil</translation>
+        <translation>Geçerli Slaytdaki Tüm İmi Sil</translation>
     </message>
     <message>
         <source>Edit Comment</source>
@@ -1338,7 +1338,7 @@
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation>İşareti Göster/Gizle</translation>
+        <translation>İmi Göster/Gizle</translation>
     </message>
 </context>
 <context>
@@ -1456,7 +1456,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -1540,11 +1540,11 @@ Uzmanı</translation>
     <name>classics.tables_and_borders</name>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Border Color</source>
@@ -1556,7 +1556,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Delete Columns</source>
@@ -1767,7 +1767,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>Yukarı Sön</translation>
+        <translation>Üst Sön</translation>
     </message>
     <message>
         <source>Distributed</source>
@@ -1815,7 +1815,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>Yukarı Şişme</translation>
+        <translation>Üst Şişme</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
@@ -1843,7 +1843,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Plan Metin</translation>
+        <translation>Düz Metin</translation>
     </message>
     <message>
         <source>Right</source>
@@ -2016,7 +2016,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation>Yukarı Aşağı Sekme Ekle</translation>
+        <translation>Yukarı Aşağı Çubuk Ekle</translation>
     </message>
     <message>
         <source>Below</source>
@@ -2028,7 +2028,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alta</translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Center</source>
@@ -2060,7 +2060,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation>Bilgi Seçimi</translation>
+        <translation>Bilgi Bölümü</translation>
     </message>
     <message>
         <source>DropLines</source>
@@ -2205,11 +2205,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Üste</translation>
+        <translation>Üst</translation>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>Tür Seçimi</translation>
+        <translation>Tür Bölümü</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -2221,7 +2221,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation>Düzen Seçimi </translation>
+        <translation>Düzen Bölümü </translation>
     </message>
     <message>
         <source>speedLayout</source>
@@ -2242,7 +2242,7 @@ Efektleri</translation>
         <source>Color
 Schemes</source>
         <translation>Renkler
-Şeması</translation>
+Düzeni</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -2286,7 +2286,7 @@ Template</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -2347,7 +2347,7 @@ Tablo Stilini </translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2498,7 +2498,7 @@ Editor</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -2526,7 +2526,7 @@ Editor</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -2550,7 +2550,7 @@ Editor</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -2562,7 +2562,7 @@ Editor</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -2598,7 +2598,7 @@ Editor</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -2618,7 +2618,7 @@ Editor</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -2642,7 +2642,7 @@ Editor</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -2666,7 +2666,7 @@ Editor</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -2722,7 +2722,7 @@ Editor</translation>
     </message>
     <message>
         <source>More Options...</source>
-        <translation>Daha Fazla Seçenekler...</translation>
+        <translation>Daha Fazla Seçenek...</translation>
     </message>
     <message>
         <source>Object Select</source>
@@ -2798,11 +2798,11 @@ Editor</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Büyüklük</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -2864,11 +2864,11 @@ Editor</translation>
     <name>ongmani.ct_drawingtool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Sayı</translation>
+        <translation>Numara</translation>
     </message>
 </context>
 <context>
@@ -2935,7 +2935,7 @@ Editor</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -2963,7 +2963,7 @@ Editor</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -3031,7 +3031,7 @@ Editor</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -3063,7 +3063,7 @@ Editor</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -3075,7 +3075,7 @@ Editor</translation>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ayrıntılanmış Ayarlar</translation>
+        <translation>Detaylı Ayarlar</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -3099,7 +3099,7 @@ Editor</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -3123,7 +3123,7 @@ Editor</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -3163,7 +3163,7 @@ Editor</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -3315,11 +3315,11 @@ Editor</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Büyüklük</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -3393,11 +3393,11 @@ Editor</translation>
     <name>ongmani.ct_drawingtool_vml.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Sayı</translation>
+        <translation>Numara</translation>
     </message>
 </context>
 <context>
@@ -3448,11 +3448,11 @@ Editor</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>OFD 2ye Dönüştür</translation>
+        <translation>OFD&apos;yi Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -3540,7 +3540,7 @@ Editor</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Baskı Önizleme</translation>
+        <translation>Önizlemeyi Yazdır</translation>
     </message>
     <message>
         <source>Product Management Center</source>
@@ -3670,7 +3670,7 @@ Editor</translation>
     </message>
     <message>
         <source>Custom Size</source>
-        <translation>Özel Büyüklük</translation>
+        <translation>Özel Boyut</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -3718,7 +3718,7 @@ Editor</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Six Slide</source>
@@ -3726,11 +3726,11 @@ Editor</translation>
     </message>
     <message>
         <source>Slide Number PlaceHolder</source>
-        <translation>Slayt Sayısı Yer Tutucu</translation>
+        <translation>Slayt Numarası Yer Tutucu</translation>
     </message>
     <message>
         <source>Slide Size</source>
-        <translation>Slayt Büyüklüğü</translation>
+        <translation>Slayt Boyutu</translation>
     </message>
     <message>
         <source>Stand Screen(4:3)</source>
@@ -3827,12 +3827,12 @@ Efekleri</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -3860,7 +3860,7 @@ Efekleri</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -3936,7 +3936,7 @@ Efekleri</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -3968,7 +3968,7 @@ Efekleri</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -4008,7 +4008,7 @@ Efekleri</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -4036,7 +4036,7 @@ Efekleri</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -4072,7 +4072,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4092,7 +4092,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -4339,7 +4339,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -4401,11 +4401,11 @@ Efektleri</translation>
     <name>ongmani.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>Numarala</translation>
+        <translation>Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -4562,7 +4562,7 @@ Altbilgi</translation>
         <source>Slide
 Number</source>
         <translation>Slayt
-Sayısı</translation>
+Numarası</translation>
     </message>
     <message>
         <source>Slide Library</source>
@@ -4570,7 +4570,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation>Slayt Sayısı</translation>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -4637,7 +4637,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Custom Size</source>
-        <translation>Özel Büyüklük</translation>
+        <translation>Özel Boyut</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -4669,7 +4669,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Slide Image Placeholder</source>
@@ -4677,11 +4677,11 @@ Sayısı</translation>
     </message>
     <message>
         <source>Slide Number Placeholder</source>
-        <translation>Slayt Sayısı Yer Tutucu</translation>
+        <translation>Slayt Numarası Yer Tutucu</translation>
     </message>
     <message>
         <source>Slide Size</source>
-        <translation>Slayt Büyüklüğü</translation>
+        <translation>Slayt Boyutu</translation>
     </message>
     <message>
         <source>Stand Screen(4:3)</source>
@@ -4880,7 +4880,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -5033,7 +5033,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -5053,7 +5053,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -5117,7 +5117,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -5161,7 +5161,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -5267,7 +5267,7 @@ Sayısı</translation>
         <source>Picture
 Size</source>
         <translation>Resim
-Büyüklüğü</translation>
+Boyutu</translation>
     </message>
     <message>
         <source>Picture Effects</source>
@@ -5295,7 +5295,7 @@ Büyüklüğü</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
-        <translation>Resim ve Büyüklüğü Sıfıra</translation>
+        <translation>Resim ve Boyutu Sıfıra</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5353,11 +5353,11 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Büyüklük</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -5461,7 +5461,7 @@ Sayfa </translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Previous
@@ -5555,7 +5555,7 @@ Yorumu</translation>
     </message>
     <message>
         <source>Delete All Mark on the Current Slide</source>
-        <translation>Geçerli Slaytdaki Tüm İşareti Sil</translation>
+        <translation>Geçerli Slaytdaki Tüm İmi Sil</translation>
     </message>
     <message>
         <source>Edit
@@ -5597,7 +5597,7 @@ Yorum</translation>
         <source>Show/Hide
 Mark</source>
         <translation>Göster/Gizle
-İşareti</translation>
+İmi</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -5849,7 +5849,7 @@ Uzman Görünüm </translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Fonts</source>
@@ -5921,7 +5921,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Themes</source>
@@ -5936,11 +5936,11 @@ Uzmanı</translation>
     <name>ongmani.ct_slidemaster.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>Numarala</translation>
+        <translation>Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -6018,7 +6018,7 @@ Notları</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -6038,7 +6038,7 @@ Notları</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -6066,7 +6066,7 @@ Notları</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -6074,7 +6074,7 @@ Notları</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Spacing</source>
@@ -6114,7 +6114,7 @@ Notları</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -6130,7 +6130,7 @@ Notları</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Grid and Guides</source>
@@ -6138,7 +6138,7 @@ Notları</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
@@ -6146,7 +6146,7 @@ Notları</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Spacing</source>
@@ -6256,7 +6256,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Split
@@ -6357,12 +6357,12 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Font</source>
@@ -6374,7 +6374,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -6390,7 +6390,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -6418,7 +6418,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -6442,7 +6442,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -6466,7 +6466,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -6534,7 +6534,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Resim veya Metin</translation>
+        <translation>Resim veya Doku</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -6566,7 +6566,7 @@ Hücreleri</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -6641,11 +6641,11 @@ Hücreleri</translation>
     <name>ongmani.ct_texttool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Sayı</translation>
+        <translation>Numara</translation>
     </message>
 </context>
 <context>
@@ -6758,7 +6758,7 @@ Sırası</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Izgara Çizgilerini Görüntüle</translation>
+        <translation>Kılavuz Çizgilerini Görüntüle</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7010,7 +7010,7 @@ Açık</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -7030,7 +7030,7 @@ Açık</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -7152,7 +7152,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>Yukarı Sön</translation>
+        <translation>Üst Sön</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -7180,7 +7180,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -7232,7 +7232,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -7248,7 +7248,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>Yukarı Şişme</translation>
+        <translation>Üst Şişme</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -7304,7 +7304,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Plan Metin</translation>
+        <translation>Düz Metin</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -7368,7 +7368,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -7483,7 +7483,7 @@ Shape</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantı</translation>
+        <translation>Cloud Bağlantı</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -7507,11 +7507,11 @@ Shape</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Resim Olarak Dönüştür</translation>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -7539,7 +7539,7 @@ Shape</source>
     </message>
     <message>
         <source>Image Exporting</source>
-        <translation>G</translation>
+        <translation>Görüntüyü Dışa Aktar</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
@@ -7563,7 +7563,7 @@ Shape</source>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Bulut Belgelerinden Aç</translation>
+        <translation>Cloud Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -7571,7 +7571,7 @@ Shape</source>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Bulut Belgelerine Kaydet</translation>
+        <translation>Cloud Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -7595,7 +7595,7 @@ Shape</source>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation>Film Dönütür</translation>
+        <translation>Video Dışa Aktarımı</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -7741,12 +7741,12 @@ Shape</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -7770,7 +7770,7 @@ Shape</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -7886,7 +7886,7 @@ Shape</source>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alta</translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -8024,7 +8024,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Convert Markup to Object</source>
-        <translation>Nesne İçin İşareti Dönüştür</translation>
+        <translation>Nesne İçin İmi Dönüştür</translation>
     </message>
     <message>
         <source>Convert Path to AutoShape</source>
@@ -8052,7 +8052,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>Bulut Bağlantısı Oluştur</translation>
+        <translation>Cloud Bağlantısı Oluştur</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -8120,7 +8120,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -8264,7 +8264,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -8316,19 +8316,19 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Resim Olarak Dönüştür</translation>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>OFD 2ye Dönüştür</translation>
+        <translation>OFD&apos;yi Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Export to Package</source>
-        <translation>Paketi Aktar</translation>
+        <translation>Paketi Dışa Aktar</translation>
     </message>
     <message>
         <source>Eyedropper</source>
@@ -8376,7 +8376,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Format Axis</source>
@@ -8428,7 +8428,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Format Gridlines</source>
-        <translation>Izgara Çizgiler Biçimi</translation>
+        <translation>Kılavuz Çizgiler Biçimi</translation>
     </message>
     <message>
         <source>Format High-Low Lines</source>
@@ -8512,7 +8512,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -8560,7 +8560,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Tipi Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -8726,7 +8726,7 @@ Template</source>
     </message>
     <message>
         <source>Markup</source>
-        <translation>İşaretle</translation>
+        <translation>Biçinlendirme</translation>
     </message>
     <message>
         <source>Master</source>
@@ -8868,7 +8868,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Bulut Belgelerinden Aç</translation>
+        <translation>Cloud Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Options</source>
@@ -9104,7 +9104,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Bulut Belgelerine Kaydet</translation>
+        <translation>Cloud Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -9208,7 +9208,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation>Mürekkep İşareti Göster/Gizle</translation>
+        <translation>Mürekkep İmi Göster/Gizle</translation>
     </message>
     <message>
         <source>Show More Windows</source>
@@ -9232,7 +9232,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation>Slayt Sayısı</translation>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>Slide Show</source>
@@ -9260,7 +9260,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -9336,7 +9336,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Üste</translation>
+        <translation>Üst</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
@@ -9706,7 +9706,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>AddUpDownBar</source>
-        <translation>Yukarı Aşağı Sekme Ekle</translation>
+        <translation>Yukarı Aşağı Çubuk Ekle</translation>
     </message>
     <message>
         <source>Below</source>
@@ -9718,7 +9718,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Alta</translation>
+        <translation>Alt</translation>
     </message>
     <message>
         <source>Center</source>
@@ -9750,7 +9750,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>DataSection</source>
-        <translation>Bilgi Seçimi</translation>
+        <translation>Bilgi Bölümü</translation>
     </message>
     <message>
         <source>DropLines</source>
@@ -9895,11 +9895,11 @@ Uzmanı</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Üste</translation>
+        <translation>Üst</translation>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>Tür Seçimi</translation>
+        <translation>Tür Bölümü</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -9911,7 +9911,7 @@ Uzmanı</translation>
     </message>
     <message>
         <source>layoutSection</source>
-        <translation>Düzen Seçimi </translation>
+        <translation>Düzen Bölümü </translation>
     </message>
     <message>
         <source>speedLayout</source>
@@ -9932,7 +9932,7 @@ Uzmanı</translation>
         <source>Color
 Schemes</source>
         <translation>Renkler
-Şeması</translation>
+Düzeni</translation>
     </message>
     <message>
         <source>Colors</source>
@@ -9988,7 +9988,7 @@ Template</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -10055,7 +10055,7 @@ Template</source>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -10200,7 +10200,7 @@ Template</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -10228,7 +10228,7 @@ Template</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -10300,7 +10300,7 @@ Template</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -10312,7 +10312,7 @@ Template</source>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -10348,7 +10348,7 @@ Template</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -10372,7 +10372,7 @@ Template</source>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -10396,7 +10396,7 @@ Template</source>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -10420,7 +10420,7 @@ Template</source>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -10560,11 +10560,11 @@ Template</source>
     </message>
     <message>
         <source>Size</source>
-        <translation>Büyüklük</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -10622,11 +10622,11 @@ Template</source>
     <name>rainbow.ct_drawingtool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Sayı</translation>
+        <translation>Numara</translation>
     </message>
 </context>
 <context>
@@ -10673,7 +10673,7 @@ Template</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -10693,7 +10693,7 @@ Template</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -10781,7 +10781,7 @@ Template</source>
     </message>
     <message>
         <source>Detailed Settings</source>
-        <translation>Ayrıntılanmış Ayarlar</translation>
+        <translation>Detaylı Ayarlar</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -10801,7 +10801,7 @@ Template</source>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -10929,7 +10929,7 @@ Template</source>
     </message>
     <message>
         <source>Shape Size</source>
-        <translation>Şekil Büyüklüğü</translation>
+        <translation>Şekil Boyutu</translation>
     </message>
     <message>
         <source>Shape Styles</source>
@@ -10941,11 +10941,11 @@ Template</source>
     </message>
     <message>
         <source>Size</source>
-        <translation>Büyüklük</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11031,11 +11031,11 @@ Template</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation>OFD 2ye Dönüştür</translation>
+        <translation>OFD&apos;yi Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -11301,12 +11301,12 @@ Template</source>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>Font Alignment</comment>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -11334,7 +11334,7 @@ Template</source>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -11415,7 +11415,7 @@ Müziği</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Clear Formatting</source>
@@ -11447,7 +11447,7 @@ Müziği</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -11487,7 +11487,7 @@ Müziği</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -11515,7 +11515,7 @@ Müziği</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Format Object</source>
@@ -11549,7 +11549,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -11569,7 +11569,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -11818,7 +11818,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -11888,11 +11888,11 @@ Slayt</translation>
     <name>rainbow.ct_home.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Numbering</source>
-        <translation>Numarala</translation>
+        <translation>Numaralandırma</translation>
     </message>
 </context>
 <context>
@@ -12057,7 +12057,7 @@ Altbilgi</translation>
         <source>Slide
 Number</source>
         <translation>Slayt
-Sayısı</translation>
+Numarası</translation>
     </message>
     <message>
         <source>Slide Library</source>
@@ -12065,7 +12065,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Slide Number</source>
-        <translation>Slayt Sayısı</translation>
+        <translation>Slayt Numarası</translation>
     </message>
     <message>
         <source>SlideLibrary</source>
@@ -12284,7 +12284,7 @@ Sayısı</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -12447,7 +12447,7 @@ Ast</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -12467,7 +12467,7 @@ Ast</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arrange</source>
@@ -12535,7 +12535,7 @@ Ast</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -12579,7 +12579,7 @@ Ast</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -12687,7 +12687,7 @@ Ast</translation>
     </message>
     <message>
         <source>Picture Size</source>
-        <translation>Resim Büyüklüğü</translation>
+        <translation>Resim Boyutu</translation>
     </message>
     <message>
         <source>Picture Styles</source>
@@ -12707,7 +12707,7 @@ Ast</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
-        <translation>Resim ve Büyüklüğü Sıfıra</translation>
+        <translation>Resim ve Boyutu Sıfıra</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -12771,11 +12771,11 @@ Ast</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Büyüklük</translation>
+        <translation>Boyut</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Soft Edges</source>
@@ -12876,7 +12876,7 @@ Ast</translation>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -12953,7 +12953,7 @@ Ast</translation>
     </message>
     <message>
         <source>Delete All Markup on the Current Slide</source>
-        <translation>Geçerli Slaytdaki Tüm İşareti Sil</translation>
+        <translation>Geçerli Slaytdaki Tüm İmi Sil</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -12993,7 +12993,7 @@ Ast</translation>
     </message>
     <message>
         <source>Show/Hide Markup</source>
-        <translation>İşareti Göster/Gizle</translation>
+        <translation>İmi Göster/Gizle</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -13303,11 +13303,11 @@ Ayarlar</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Alignment</source>
@@ -13331,7 +13331,7 @@ Ayarlar</translation>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Merkez Dikey</translation>
+        <translation>Ortala Dikey</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -13574,7 +13574,7 @@ Ayarlar</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -13594,7 +13594,7 @@ Ayarlar</translation>
     </message>
     <message>
         <source>Font Size</source>
-        <translation>Yazı Tipi Büyüklüğü</translation>
+        <translation>Yazı Tipi Boyutu</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -13606,7 +13606,7 @@ Ayarlar</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -13678,7 +13678,7 @@ Ayarlar</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -13737,11 +13737,11 @@ Ayarlar</translation>
     <name>rainbow.ct_texttool.Num</name>
     <message>
         <source>More Numbering</source>
-        <translation>Daha Fazla Sayı</translation>
+        <translation>Daha Fazla Numaralandırma</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Sayı</translation>
+        <translation>Numara</translation>
     </message>
 </context>
 <context>
@@ -13848,7 +13848,7 @@ Diğer Pencereleri </translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Izgara Çizgilerini Görüntüle</translation>
+        <translation>Kılavuz Çizgilerini Görüntüle</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -14084,7 +14084,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Align Bottom</source>
-        <translation>Alta Hizala</translation>
+        <translation>Alt Hizala</translation>
     </message>
     <message>
         <source>Align Center</source>
@@ -14104,7 +14104,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Align Top</source>
-        <translation>Üste Hizala</translation>
+        <translation>Üst Hizala</translation>
     </message>
     <message>
         <source>Arch Down (Curve)</source>
@@ -14128,7 +14128,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Bottom (Pour)</source>
-        <translation>Alta (Yay)</translation>
+        <translation>Alt (Yay)</translation>
     </message>
     <message>
         <source>Button (Curve)</source>
@@ -14216,7 +14216,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Deflate Top</source>
-        <translation>Yukarı Sön</translation>
+        <translation>Üst Sön</translation>
     </message>
     <message>
         <source>Distribute Horizontally</source>
@@ -14244,7 +14244,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Equal Size</source>
-        <translation>Eşit Büyüklük</translation>
+        <translation>Eşit Boyut</translation>
     </message>
     <message>
         <source>Equal Width</source>
@@ -14292,7 +14292,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Gridlines</source>
-        <translation>Izgara Çizgileri</translation>
+        <translation>Kılavuz Çizgileri</translation>
     </message>
     <message>
         <source>Group</source>
@@ -14308,7 +14308,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Inflate Top</source>
-        <translation>Yukarı Şişme</translation>
+        <translation>Üst Şişme</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -14360,7 +14360,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Plain Text</source>
-        <translation>Plan Metin</translation>
+        <translation>Düz Metin</translation>
     </message>
     <message>
         <source>Relative to Slide</source>
@@ -14416,7 +14416,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Snapper</source>
-        <translation>Kapan</translation>
+        <translation>Yakalayıcı</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -14509,7 +14509,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>WordArt Size</source>
-        <translation>WordArt Büyükllüğü</translation>
+        <translation>WordArt Boyutu</translation>
     </message>
     <message>
         <source>WordArt Styles</source>
@@ -14539,7 +14539,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantı</translation>
+        <translation>Cloud Bağlantı</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -14563,11 +14563,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Resim Olarak Dönüştür</translation>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -14595,7 +14595,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Image Exporting</source>
-        <translation>G</translation>
+        <translation>Görüntüyü Dışa Aktar</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
@@ -14619,7 +14619,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Bulut Belgelerinden Aç</translation>
+        <translation>Cloud Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -14627,7 +14627,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Bulut Belgelerine Kaydet</translation>
+        <translation>Cloud Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -14655,7 +14655,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation>Film Dönütür</translation>
+        <translation>Video Dışa Aktarımı</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -14701,7 +14701,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation>Bulut Bağlantı</translation>
+        <translation>Cloud Bağlantı</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -14713,11 +14713,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>Export as Images</source>
-        <translation>Resim Olarak Dönüştür</translation>
+        <translation>Resim Olarak Dışa Aktar</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>File Roaming</source>
@@ -14733,7 +14733,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Bulut Belgelerinden Aç</translation>
+        <translation>Cloud Belgelerinden Aç</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -14745,7 +14745,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Bulut Belgelerine Kaydet</translation>
+        <translation>Cloud Belgelerine Kaydet</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14819,7 +14819,7 @@ Efektleri</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Baskı Önizleme</translation>
+        <translation>Önizlemeyi Yazdır</translation>
     </message>
     <message>
         <source>Review</source>
@@ -14997,11 +14997,11 @@ Efektleri</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>Bilgi Kurtarma</translation>
+        <translation>Bilgi Kurtar</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
-        <translation>Yazı Tipi Büyüklüğünü Azalt</translation>
+        <translation>Yazı Tipi Boyutunu Azalt</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -15105,7 +15105,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Image Exporting</source>
-        <translation>G</translation>
+        <translation>Görüntüyü Dışa Aktar</translation>
     </message>
     <message>
         <source>Image Previewer</source>
@@ -15113,7 +15113,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
-        <translation>Yazı Büyüklüğünü Arttır</translation>
+        <translation>Yazı Boyutunu Arttır</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -15398,7 +15398,7 @@ Slayt</translation>
     </message>
     <message>
         <source>PicOrTexture</source>
-        <translation>Resim veya Metin</translation>
+        <translation>Resim veya Doku</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -15418,7 +15418,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Baskı Önizleme</translation>
+        <translation>Önizlemeyi Yazdır</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -15487,7 +15487,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Show / Hide Ink Markup</source>
-        <translation>Mürekkep İşareti Göster/Gizle</translation>
+        <translation>Mürekkep İmi Göster/Gizle</translation>
     </message>
     <message>
         <source>Show/Hide Grid</source>
@@ -15587,7 +15587,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>Yukarı Kenarlık</translation>
+        <translation>Üst Kenarlık</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -15603,7 +15603,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation>Film Dönütür</translation>
+        <translation>Video Dışa Aktarımı</translation>
     </message>
     <message>
         <source>View</source>
@@ -15760,7 +15760,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -15828,7 +15828,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Baskı Önizleme</translation>
+        <translation>Önizlemeyi Yazdır</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>
@@ -16001,7 +16001,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>PDF olarak dışarı aktar</translation>
+        <translation>PDF olarak dışa aktar</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -16069,7 +16069,7 @@ Slayt</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Baskı Önizleme</translation>
+        <translation>Önizlemeyi Yazdır</translation>
     </message>
     <message>
         <source>Quick Access Menu</source>

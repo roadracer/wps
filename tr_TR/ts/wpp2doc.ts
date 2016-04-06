@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation>Belgedeki slaytların sayısı</translation>
+        <translation>Belgedeki slaytların numarası</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
@@ -208,11 +208,11 @@
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation>Sayı 1 veya 2 olmalı.</translation>
+        <translation>Numara 1 veya 2 olmalı.</translation>
     </message>
     <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation>Sayı 1,2,3 veya 4 olmalı.</translation>
+        <translation>Numara 1,2,3 veya 4 olmalı.</translation>
     </message>
     <message>
         <source>This is a valid number.
@@ -232,7 +232,7 @@ Slayt sayısını veya slayt aralığını girin Lütfen.
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation>İsim zaten var. Başka bir açık dosyayla aynı adı taşıyan dosyayı kaydedemezsiniz. Farklı bir isim seçin veya kaydetmeden önce açık dosyayı kapatın.</translation>
+        <translation>İsim zaten var. Başka bir açık dosyayla aynı ismi taşıyan dosyayı kaydedemezsiniz. Farklı bir isim seçin veya kaydetmeden önce açık dosyayı kapatın.</translation>
     </message>
     <message>
         <source>No Select Slide</source>

@@ -397,7 +397,7 @@
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik ve Boşluk</translation>
     </message>
 </context>
 <context>
@@ -424,7 +424,7 @@
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
-        <translation type="unfinished"/>
+        <translation>Numaralama sonrası &amp;yeniden başlat:</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
@@ -440,15 +440,15 @@
     </message>
     <message>
         <source>Customize Outline Numbered List</source>
-        <translation type="unfinished"/>
+        <translation>Anahattı Numaralandırılmış Listeyi Özelleştir</translation>
     </message>
     <message>
         <source>Follo&amp;w number with:</source>
-        <translation type="unfinished"/>
+        <translation>Numarayı -ile izl&amp;e:</translation>
     </message>
     <message>
         <source>Le&amp;gal style numbering</source>
-        <translation type="unfinished"/>
+        <translation>Ya&amp;sal stil numaralndırma</translation>
     </message>
     <message>
         <source>Le&amp;vel:</source>
@@ -460,7 +460,7 @@
     </message>
     <message>
         <source>Lin&amp;k level to style:</source>
-        <translation type="unfinished"/>
+        <translation>Bağ&amp;lantı stil düzeyi</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -492,7 +492,7 @@
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kme boşluk sonrası:</translation>
     </message>
     <message>
         <source>Tab character</source>
@@ -693,7 +693,7 @@
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük harfli kelimeleri yoksay</translation>
     </message>
     <message>
         <source>Ignore words that contain num&amp;bers</source>
@@ -701,7 +701,7 @@
     </message>
     <message>
         <source>No Spelling Suggestions</source>
-        <translation type="unfinished"/>
+        <translation>Yazım Denetim Önerileri Yok</translation>
     </message>
     <message>
         <source>No default custom dictionary is found. Please select a custom dictionary in the list and proceed again.</source>
@@ -755,7 +755,7 @@
     </message>
     <message>
         <source>This section</source>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -770,7 +770,7 @@
     </message>
     <message>
         <source>What you entered is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Girdiğiniz geçersiz.</translation>
     </message>
 </context>
 <context>
@@ -785,7 +785,7 @@
     </message>
     <message>
         <source>Start/End Tag</source>
-        <translation type="unfinished"/>
+        <translation>Başlat/Son Etiket</translation>
     </message>
     <message>
         <source>None</source>
@@ -809,7 +809,7 @@
     </message>
     <message>
         <source>Date and Time (xsd:dateTime)</source>
-        <translation type="unfinished"/>
+        <translation>Tarih ve Süre (xsd:dateTime)</translation>
     </message>
     <message>
         <source>Chinese (Taiwan)</source>
@@ -1389,7 +1389,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Deep scope down line</source>
-        <translation type="unfinished"/>
+        <translation>Derin kapsam yukarı satır</translation>
     </message>
     <message>
         <source>Deep scope up Line</source>
@@ -1463,7 +1463,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>This section</source>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>This section - All except first page</source>
@@ -1471,7 +1471,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>This section - First page only</source>
-        <translation>Bu seçim - Sadece ilk sayfa</translation>
+        <translation>Bu bölüm - Sadece ilk sayfa</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -1627,7 +1627,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Same as the whole table</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tüm tablo olarak aynı</translation>
     </message>
     <message>
         <source>&amp;Top:</source>
@@ -1729,7 +1729,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Check Box Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Kontrol Kutusu Oluşturma Seçenekleri</translation>
     </message>
     <message>
         <source>Check box e&amp;nabled</source>
@@ -1967,7 +1967,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Unchecked symbol:</source>
-        <translation>Kontrol edilmemiş simgeler</translation>
+        <translation>Denetimsiz simgeler</translation>
     </message>
     <message>
         <source>Cha&amp;nge...</source>
@@ -2035,7 +2035,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Section tit&amp;le:</source>
-        <translation>Seçim baş&amp;lığı:</translation>
+        <translation>Bölüm baş&amp;lığı:</translation>
     </message>
 </context>
 <context>
@@ -2387,7 +2387,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
-        <translation type="unfinished"/>
+        <translation>Se&amp;kme boşluğu sonra:</translation>
     </message>
     <message>
         <source>Text position</source>
@@ -2505,11 +2505,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Shift cells &amp;left</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri &amp;sol</translation>
     </message>
     <message>
         <source>Shift cells &amp;up</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri &amp;yukarı</translation>
     </message>
 </context>
 <context>
@@ -2540,7 +2540,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation>Sadece &amp;İşaretle</translation>
+        <translation>Sadece &amp;İmler</translation>
     </message>
     <message>
         <source>Sort by:</source>
@@ -2631,7 +2631,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Object snapping</source>
-        <translation type="unfinished"/>
+        <translation>Nesne yakalama</translation>
     </message>
     <message>
         <source>S&amp;nap objects to other objects</source>
@@ -2686,7 +2686,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Distance from te&amp;xt:</source>
-        <translation type="unfinished"/>
+        <translation>Mat&amp;inden uzaklık:</translation>
     </message>
     <message>
         <source>Drop Cap</source>
@@ -2733,7 +2733,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Drop-Down Form Field Options</source>
-        <translation type="unfinished"/>
+        <translation>Aşağı Bırakma Alan Seçenekleri</translation>
     </message>
     <message>
         <source>Drop-down e&amp;nabled</source>
@@ -2875,7 +2875,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Enclose Characters</source>
-        <translation>Karaktereleri Kapsa</translation>
+        <translation>Karakterleri Kapsa</translation>
     </message>
     <message>
         <source>Enclosure</source>
@@ -3199,7 +3199,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Find &amp;In</source>
-        <translation type="unfinished"/>
+        <translation>Bul &amp;İçeri</translation>
     </message>
     <message>
         <source>Find Previous(&amp;B)</source>
@@ -3251,15 +3251,15 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Ma&amp;tch suffix</source>
-        <translation type="unfinished"/>
+        <translation>Sonek Eş&amp;leştir</translation>
     </message>
     <message>
         <source>Matc&amp;h case</source>
-        <translation>Büyü&amp;k Küçük</translation>
+        <translation>&amp;Büyük/küçük harf eşl&amp;e</translation>
     </message>
     <message>
         <source>Match Case</source>
-        <translation>Büyük/Küçük</translation>
+        <translation>Büyük/Küçük Harf Eşle</translation>
     </message>
     <message>
         <source>Match half/full for&amp;ms</source>
@@ -3267,7 +3267,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Match prefi&amp;x</source>
-        <translation type="unfinished"/>
+        <translation>Önek Eşleşti&amp;r</translation>
     </message>
     <message>
         <source>Nex&amp;t</source>
@@ -3307,11 +3307,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Section</source>
-        <translation>Seçim</translation>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>Sounds Like(&amp;Japanese)</source>
-        <translation type="unfinished"/>
+        <translation>Sesler Benzer(&amp;Japonca)</translation>
     </message>
     <message>
         <source>Sp&amp;ecial</source>
@@ -3336,7 +3336,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Replace options</source>
-        <translation>değiştirme seçenekleri</translation>
+        <translation>Değiştirme seçenekleri</translation>
     </message>
 </context>
 <context>
@@ -3418,7 +3418,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Complex scripts</source>
-        <translation type="unfinished"/>
+        <translation>Karışık kodlar</translation>
     </message>
     <message>
         <source>Condensed</source>
@@ -3434,7 +3434,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Emphasis mark&amp;:</source>
-        <translation type="unfinished"/>
+        <translation>Vurgu imi&amp;:</translation>
     </message>
     <message>
         <source>Engra&amp;ve</source>
@@ -3466,7 +3466,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished"/>
+        <translation>Latince metin &amp;yazı tipi:</translation>
     </message>
     <message>
         <source>Lowered</source>
@@ -3490,7 +3490,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>S&amp;mall caps</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;üçük aralıklar</translation>
     </message>
     <message>
         <source>Shado&amp;w</source>
@@ -3506,15 +3506,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
-        <translation type="unfinished"/>
+        <translation>Üst&amp;ü Çizgili</translation>
     </message>
     <message>
         <source>Su&amp;bscript</source>
-        <translation type="unfinished"/>
+        <translation>Al&amp;tsimge</translation>
     </message>
     <message>
         <source>Su&amp;perscript</source>
-        <translation type="unfinished"/>
+        <translation>Üs&amp;tteki</translation>
     </message>
     <message>
         <source>Underl&amp;ine color:</source>
@@ -3522,7 +3522,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>p&amp;oints and above</source>
-        <translation type="unfinished"/>
+        <translation>n&amp;oktalar ve üzerine</translation>
     </message>
     <message>
         <source>This is a TrueType font. This same font will be used on both your printer and your screen.</source>
@@ -3530,7 +3530,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cha&amp;racter Spacing</source>
-        <translation type="unfinished"/>
+        <translation>Kar&amp;akter Boşluğu</translation>
     </message>
     <message>
         <source>Text &amp;Effects...</source>
@@ -3581,7 +3581,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>C&amp;ustom mark:</source>
-        <translation>Özel İşaret</translation>
+        <translation>Özel İm</translation>
     </message>
     <message>
         <source>Continuous</source>
@@ -3593,7 +3593,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>End of section</source>
-        <translation>Seçim sonu</translation>
+        <translation>Bölüm sonu</translation>
     </message>
     <message>
         <source>Footnote and Endnote</source>
@@ -3617,11 +3617,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Restart each section</source>
-        <translation>Her seçimi yeniden başlat</translation>
+        <translation>Her bölümü yeniden başlat</translation>
     </message>
     <message>
         <source>S&amp;quare Bracket Format:</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;are Köşeli Ayraç Biçimi:</translation>
     </message>
     <message>
         <source>S&amp;ymbol...</source>
@@ -3755,7 +3755,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Por&amp;trait</source>
-        <translation type="unfinished"/>
+        <translation>Dik&amp;ey</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -3833,11 +3833,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Surround &amp;footer</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Altbilgi etrafını sar</translation>
     </message>
     <message>
         <source>Surround &amp;header</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlık etrafını sar</translation>
     </message>
     <message>
         <source>T&amp;op:</source>
@@ -3856,19 +3856,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Insert entire &amp;column</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sütun girişi ekle</translation>
     </message>
     <message>
         <source>Insert entire &amp;row</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Satır girişi ekle</translation>
     </message>
     <message>
         <source>Shift cells &amp;down</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri &amp;aşağı</translation>
     </message>
     <message>
         <source>Shift cells r&amp;ight</source>
-        <translation type="unfinished"/>
+        <translation>Üst karakter hücreleri s&amp;ağ</translation>
     </message>
 </context>
 <context>
@@ -3964,7 +3964,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Fixed column &amp;width:</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltilmiş sütun &amp;genişliği:</translation>
     </message>
     <message>
         <source>Insert Table</source>
@@ -3999,11 +3999,11 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgInsertTableRows</name>
     <message>
         <source>&amp;Above selection Row</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen satır &amp;üstüne</translation>
     </message>
     <message>
         <source>&amp;Below selection Row</source>
-        <translation type="unfinished"/>
+        <translation>Seçilen satır &amp;altına</translation>
     </message>
     <message>
         <source>&amp;Number of rows:</source>
@@ -4050,7 +4050,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Restart each &amp;section</source>
-        <translation type="unfinished"/>
+        <translation>Her &amp;bölümü yeniden başlat</translation>
     </message>
     <message>
         <source>Start &amp;at:</source>
@@ -4147,7 +4147,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Courtesy title</source>
-        <translation type="unfinished"/>
+        <translation>Nezaket başlığı</translation>
     </message>
     <message>
         <source>Department</source>
@@ -4195,11 +4195,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Phonetic guide for first name</source>
-        <translation type="unfinished"/>
+        <translation>İlk isim için fonetik rehber </translation>
     </message>
     <message>
         <source>Phonetic guide for last name</source>
-        <translation type="unfinished"/>
+        <translation>Son isim için fonetik rehber </translation>
     </message>
     <message>
         <source>Postal code</source>
@@ -4211,7 +4211,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Spouse courtesy title</source>
-        <translation type="unfinished"/>
+        <translation>Nezaket Başlığı</translation>
     </message>
     <message>
         <source>Spouse first name</source>
@@ -4239,7 +4239,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Unique identifier</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tanıtıcı</translation>
     </message>
     <message>
         <source>Use the drop-down lists to choose the field from your database that corresponds to the address information Mail Merge expects (listed on the left.)</source>
@@ -4254,7 +4254,7 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMergeCompare</name>
     <message>
         <source>&amp;Original document</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Özgün belge</translation>
     </message>
     <message>
         <source>&amp;Revised document</source>
@@ -4270,23 +4270,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Comparison settings</source>
-        <translation type="unfinished"/>
+        <translation>Kıyaslama ayarları</translation>
     </message>
     <message>
         <source>Insertions and Deletions</source>
-        <translation type="unfinished"/>
+        <translation>Silinenler ve Eklenenler</translation>
     </message>
     <message>
         <source>T&amp;ables</source>
-        <translation type="unfinished"/>
+        <translation>T&amp;ablolar</translation>
     </message>
     <message>
         <source>Comme&amp;nts</source>
-        <translation type="unfinished"/>
+        <translation>Yoruml&amp;ar</translation>
     </message>
     <message>
         <source>Footnotes and en&amp;dnotes</source>
-        <translation type="unfinished"/>
+        <translation>Altbilgiler ve di&amp;pnotlar</translation>
     </message>
     <message>
         <source>Te&amp;xtboxes</source>
@@ -4294,7 +4294,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Case chan&amp;ges</source>
-        <translation type="unfinished"/>
+        <translation>Büyük/Küçük harf değişiklik&amp;leri</translation>
     </message>
     <message>
         <source>Field&amp;s</source>
@@ -4302,7 +4302,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>White s&amp;pace</source>
-        <translation type="unfinished"/>
+        <translation>Beyaz b&amp;oşluğu</translation>
     </message>
     <message>
         <source>Show changes</source>
@@ -4310,23 +4310,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show changes at:</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri göster:</translation>
     </message>
     <message>
         <source>Show changes in:</source>
-        <translation type="unfinished"/>
+        <translation>Değişiklikleri göster:</translation>
     </message>
     <message>
         <source>&amp;Character level</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Karakter düzeyi</translation>
     </message>
     <message>
         <source>Original documen&amp;t</source>
-        <translation type="unfinished"/>
+        <translation>Özgün belg&amp;e</translation>
     </message>
     <message>
         <source>&amp;Word level</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kelime düzey</translation>
     </message>
     <message>
         <source>Rev&amp;ised document</source>
@@ -4365,7 +4365,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>File location&amp;s:</source>
-        <translation type="unfinished"/>
+        <translation>Dosya konum&amp;u:</translation>
     </message>
     <message>
         <source>Merge options</source>
@@ -4381,11 +4381,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Save as ty&amp;pe:</source>
-        <translation type="unfinished"/>
+        <translation>Tü&amp;r olarak kaydet:</translation>
     </message>
     <message>
         <source>Use field &amp;name:</source>
-        <translation type="unfinished"/>
+        <translation>Alan &amp;ismi kullan:</translation>
     </message>
     <message>
         <source>&amp;Open folder after merge</source>
@@ -4412,7 +4412,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;To:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;-e:</translation>
     </message>
     <message>
         <source>Attachment</source>
@@ -4428,7 +4428,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Message options</source>
-        <translation>Mesaj Seçenkeleri</translation>
+        <translation>Mesaj Seçenekleri</translation>
     </message>
     <message>
         <source>Pure text</source>
@@ -4440,7 +4440,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>T&amp;o:</source>
-        <translation type="unfinished"/>
+        <translation>-&amp;e:</translation>
     </message>
     <message>
         <source>cbxMailFormat</source>
@@ -4514,7 +4514,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>(All scripts)</source>
-        <translation type="unfinished"/>
+        <translation>(Tüm kodlar)</translation>
     </message>
     <message>
         <source>Asian</source>
@@ -4561,11 +4561,11 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgMultidiagonalCell</name>
     <message>
         <source>&amp;Merge selected cells</source>
-        <translation type="unfinished"/>
+        <translation>Seçilmiş hücreleri &amp;birleştir</translation>
     </message>
     <message>
         <source>Multidiagonal Cell Style</source>
-        <translation type="unfinished"/>
+        <translation>Çoklu Çapraz Hücre Stili</translation>
     </message>
 </context>
 <context>
@@ -4595,7 +4595,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>(All scripts)</source>
-        <translation type="unfinished"/>
+        <translation>(Tüm kodlar)</translation>
     </message>
     <message>
         <source>Asian</source>
@@ -4750,11 +4750,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Default paste format:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Varsayılan yapıştırma biçimi:</translation>
     </message>
     <message>
         <source>&amp;Deletions:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Silme:</translation>
     </message>
     <message>
         <source>&amp;Do not compress</source>
@@ -4794,7 +4794,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Insertions:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eklenenler:</translation>
     </message>
     <message>
         <source>&amp;Just embed characters used in the document (best for reducing file size)</source>
@@ -4802,11 +4802,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Latin text only</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sadece latince metin</translation>
     </message>
     <message>
         <source>&amp;Mailing address:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Posta adresi:</translation>
     </message>
     <message>
         <source>&amp;Margin:</source>
@@ -4830,7 +4830,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Paper orientation:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kağıt yönü:</translation>
     </message>
     <message>
         <source>&amp;Print only the data from a form</source>
@@ -4874,7 +4874,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Update fields</source>
-        <translation type="unfinished"/>
+        <translation>Alanları &amp;güncelleştir</translation>
     </message>
     <message>
         <source>&amp;Warn me when closing all tabs</source>
@@ -4882,7 +4882,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Web page encoding:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;İnternet sayfa kodlama:</translation>
     </message>
     <message>
         <source>&amp;Whitespace characters</source>
@@ -4958,7 +4958,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Bl&amp;ue background, white text</source>
-        <translation type="unfinished"/>
+        <translation>Ma&amp;vi artalan, beyaz metin</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -4970,7 +4970,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>C&amp;annot start line:</source>
-        <translation type="unfinished"/>
+        <translation>Satır b&amp;aşlatılamaz:</translation>
     </message>
     <message>
         <source>C&amp;olor:</source>
@@ -4978,7 +4978,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cann&amp;ot end line:</source>
-        <translation type="unfinished"/>
+        <translation>Satı s&amp;onlanamaz:</translation>
     </message>
     <message>
         <source>Capitalize first letter of &amp;sentences</source>
@@ -4994,7 +4994,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Ch&amp;anged lines:</source>
-        <translation type="unfinished"/>
+        <translation>De&amp;ğiştirilmişi satırlar:</translation>
     </message>
     <message>
         <source>Character spacing control</source>
@@ -5046,7 +5046,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Cut and paste options</source>
-        <translation type="unfinished"/>
+        <translation>Kes ve yapıştır seçenekleri</translation>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
@@ -5054,7 +5054,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan &amp;satır başı stili:</translation>
     </message>
     <message>
         <source>Display the &amp;Close button in the active tab</source>
@@ -5074,15 +5074,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Do not show</source>
-        <translation type="unfinished"/>
+        <translation>Gösterme</translation>
     </message>
     <message>
         <source>Document Tabs</source>
-        <translation type="unfinished"/>
+        <translation>Belge Sekmeleri</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation type="unfinished"/>
+        <translation>Belge eşleme&amp;k:</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -5098,7 +5098,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Drawing &amp;objects</source>
-        <translation type="unfinished"/>
+        <translation>Çizim &amp;nesneleri</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -5134,7 +5134,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>File Locations</source>
-        <translation type="unfinished"/>
+        <translation>Dosya Konumları</translation>
     </message>
     <message>
         <source>First and last characters</source>
@@ -5142,15 +5142,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Fixed ta&amp;b width</source>
-        <translation type="unfinished"/>
+        <translation>Düzeltilmiş sek&amp;me genişliği</translation>
     </message>
     <message>
         <source>Formatted text</source>
-        <translation type="unfinished"/>
+        <translation>Biçimlenmiş metin</translation>
     </message>
     <message>
         <source>Formatting marks</source>
-        <translation type="unfinished"/>
+        <translation>Biçimleme imleri</translation>
     </message>
     <message>
         <source>Free printing</source>
@@ -5170,11 +5170,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>H&amp;idden text</source>
-        <translation type="unfinished"/>
+        <translation>G&amp;izlenmiş metin</translation>
     </message>
     <message>
         <source>H&amp;idden text:</source>
-        <translation type="unfinished"/>
+        <translation>G&amp;izlenmiş metin:</translation>
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
@@ -5186,7 +5186,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Hide &amp;blank</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Boşluğu gizle</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
@@ -5194,7 +5194,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Hyper&amp;link</source>
-        <translation type="unfinished"/>
+        <translation>Bağl&amp;antı</translation>
     </message>
     <message>
         <source>Ignore</source>
@@ -5206,7 +5206,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Büyük harfli kelimeleri yoksay</translation>
     </message>
     <message>
         <source>Ignore words with num&amp;bers</source>
@@ -5234,11 +5234,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Japanese Find</source>
-        <translation type="unfinished"/>
+        <translation>japonca Bul</translation>
     </message>
     <message>
         <source>Kerning</source>
-        <translation type="unfinished"/>
+        <translation>Aralık Ayarı</translation>
     </message>
     <message>
         <source>Latin text and &amp;punctuation</source>
@@ -5250,7 +5250,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Left border</source>
-        <translation type="unfinished"/>
+        <translation>Sol kenar</translation>
     </message>
     <message>
         <source>Link of &amp;footnotes and endnotes</source>
@@ -5266,11 +5266,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Macro security</source>
-        <translation type="unfinished"/>
+        <translation>Makro güvenliği</translation>
     </message>
     <message>
         <source>Macros &amp;Security...</source>
-        <translation type="unfinished"/>
+        <translation>Makrolar &amp;Güvenliği...</translation>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
@@ -5282,7 +5282,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Match &amp;ba/va, ha/fa</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ba/va, ha/fa eşleştir</translation>
     </message>
     <message>
         <source>Match &amp;case</source>
@@ -5294,15 +5294,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Match &amp;hiragana/katakana</source>
-        <translation type="unfinished"/>
+        <translation>&amp;hiragana/katakana eşleştir</translation>
     </message>
     <message>
         <source>Match &amp;ki/ku (tekisuto/tekusuto)</source>
-        <translation type="unfinished"/>
+        <translation>&amp;ki/ku (tekisuto/tekusuto) eşleştir</translation>
     </message>
     <message>
         <source>Match &amp;minus/dash/cho-on</source>
-        <translation type="unfinished"/>
+        <translation>&amp;minus/dash/cho-on eşleştir</translation>
     </message>
     <message>
         <source>Match &apos;&amp;repeat character&apos; marks</source>
@@ -5318,23 +5318,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Match di/&amp;zi, du/zu</source>
-        <translation type="unfinished"/>
+        <translation>di/&amp;zi, du/zu eşleştir</translation>
     </message>
     <message>
         <source>Match h&amp;yu/iyu, byu/vyu</source>
-        <translation type="unfinished"/>
+        <translation>h&amp;yu/iyu, byu/vyu eşleştir</translation>
     </message>
     <message>
         <source>Match i&amp;a/iya (piano/piyano)</source>
-        <translation type="unfinished"/>
+        <translation>i&amp;a/iya (piano/piyano) eşleştir</translation>
     </message>
     <message>
         <source>Match se/she, ze/&amp;je</source>
-        <translation type="unfinished"/>
+        <translation>se/she, ze/&amp;je eşleştir</translation>
     </message>
     <message>
         <source>Match t&amp;si/thi/chi, dhi/zi</source>
-        <translation type="unfinished"/>
+        <translation>t&amp;si/thi/chi, dhi/zi eşleştir</translation>
     </message>
     <message>
         <source>Matching the current format</source>
@@ -5350,15 +5350,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>N&amp;umbering color:</source>
-        <translation type="unfinished"/>
+        <translation>N&amp;umaralandırma rengi:</translation>
     </message>
     <message>
         <source>Never</source>
-        <translation type="unfinished"/>
+        <translation>Asla</translation>
     </message>
     <message>
         <source>Ob&amp;ject anchors</source>
-        <translation type="unfinished"/>
+        <translation>Ne&amp;sne sabitleyicileri</translation>
     </message>
     <message>
         <source>Options</source>
@@ -5378,7 +5378,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Outside border</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı kenarlık</translation>
     </message>
     <message>
         <source>P&amp;rinting permission</source>
@@ -5386,7 +5386,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Paragraph &amp;marks</source>
-        <translation type="unfinished"/>
+        <translation>Satır başı &amp;imleri</translation>
     </message>
     <message>
         <source>Password to &amp;modify:</source>
@@ -5394,19 +5394,19 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Permission settings</source>
-        <translation type="unfinished"/>
+        <translation>İzin ayarları</translation>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
-        <translation type="unfinished"/>
+        <translation>Yo&amp;rumlar eklemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished"/>
+        <translation>Kop&amp;yalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zenlemeye izin ver</translation>
     </message>
     <message>
         <source>Points</source>
@@ -5422,7 +5422,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Preserve</source>
-        <translation type="unfinished"/>
+        <translation>Ters Çevir</translation>
     </message>
     <message>
         <source>Print</source>
@@ -5454,7 +5454,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Privacy options</source>
-        <translation type="unfinished"/>
+        <translation>Geçmiş seçenekleri</translation>
     </message>
     <message>
         <source>Recover options</source>
@@ -5474,7 +5474,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Right border</source>
-        <translation type="unfinished"/>
+        <translation>Sağ kenarlık</translation>
     </message>
     <message>
         <source>Save</source>
@@ -5490,7 +5490,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Scree&amp;nTips</source>
-        <translation type="unfinished"/>
+        <translation>Ekra&amp;n İpuçları</translation>
     </message>
     <message>
         <source>Security</source>
@@ -5510,7 +5510,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show au&amp;thor:</source>
-        <translation type="unfinished"/>
+        <translation>Ya&amp;zarı Göster:</translation>
     </message>
     <message>
         <source>Show full name</source>
@@ -5518,11 +5518,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show initials</source>
-        <translation type="unfinished"/>
+        <translation>İlk harfleri göster</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
-        <translation type="unfinished"/>
+        <translation>Yap&amp;ıştırma seçenekleri düğmelerini göster</translation>
     </message>
     <message>
         <source>Show revisions in balloons</source>
@@ -5590,7 +5590,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Use &amp;balloons:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Balonlar kullan:</translation>
     </message>
     <message>
         <source>Use c&amp;haracter units</source>
@@ -5610,7 +5610,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Verti&amp;cal ruler</source>
-        <translation type="unfinished"/>
+        <translation>Dike&amp;y cetvel</translation>
     </message>
     <message>
         <source>View</source>
@@ -5682,7 +5682,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation type="unfinished"/>
+        <translation>Y&amp;azı Tipleri Önizleme Kutusu</translation>
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
@@ -5694,7 +5694,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished"/>
+        <translation>B&amp;elge alanları</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
@@ -5944,7 +5944,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Portrait</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dikey</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -6096,7 +6096,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Headers and footers</source>
-        <translation type="unfinished"/>
+        <translation>Başlıklar ve altbilgiler</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
@@ -6156,7 +6156,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>P&amp;er line:</source>
-        <translation type="unfinished"/>
+        <translation>Satır b&amp;aşına:</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -6180,7 +6180,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Pe&amp;r page:</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa b&amp;aşına:</translation>
     </message>
     <message>
         <source>Points</source>
@@ -6204,11 +6204,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Section</source>
-        <translation>Seçim</translation>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>Section sta&amp;rt:</source>
-        <translation type="unfinished"/>
+        <translation>Bölümü baş&amp;lat:</translation>
     </message>
     <message>
         <source>Set &amp;Font....</source>
@@ -6248,7 +6248,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Width and spacing</source>
-        <translation type="unfinished"/>
+        <translation>Genişlik ve boşluk</translation>
     </message>
     <message>
         <source>&amp;Multiple pages:</source>
@@ -6375,7 +6375,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Character spacing</source>
-        <translation type="unfinished"/>
+        <translation>Karakter boşluğu</translation>
     </message>
     <message>
         <source>Direction:</source>
@@ -6407,7 +6407,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Indentation</source>
-        <translation type="unfinished"/>
+        <translation>Girintili Yazma</translation>
     </message>
     <message>
         <source>Justified</source>
@@ -6415,11 +6415,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Keep with ne&amp;xt</source>
-        <translation type="unfinished"/>
+        <translation>Sonrakiyle tu&amp;t</translation>
     </message>
     <message>
         <source>L&amp;ine spacing:</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;atır boşluğu:</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6483,7 +6483,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Pagination</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalandırma</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -6551,22 +6551,22 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Right-to-le&amp;ft</source>
-        <translation type="unfinished"/>
+        <translation>Sağ-so&amp;la</translation>
     </message>
     <message>
         <source>&amp;Left-to-right</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sol-Sağ</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPhoneticGuide</name>
     <message>
         <source>&amp;Base text:  </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Temel metin:</translation>
     </message>
     <message>
         <source>&amp;Default Readings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Varsayılan Okumalar</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -6578,7 +6578,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Mono</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tekli</translation>
     </message>
     <message>
         <source>&amp;Offset:</source>
@@ -6586,7 +6586,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Ruby text:   </source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yakut metin:   </translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -6594,11 +6594,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Tone</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ton</translation>
     </message>
     <message>
         <source>A&amp;lignment:</source>
-        <translation type="unfinished"/>
+        <translation>H&amp;izala:</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -6622,7 +6622,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Remo&amp;ve All </source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Kaldır</translation>
     </message>
     <message>
         <source>Right</source>
@@ -6733,11 +6733,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Pa&amp;ges:</source>
-        <translation type="unfinished"/>
+        <translation>Sa&amp;yfalar:</translation>
     </message>
     <message>
         <source>Page range</source>
-        <translation type="unfinished"/>
+        <translation>Sayfa serisi</translation>
     </message>
     <message>
         <source>Pages per s&amp;heet:</source>
@@ -6745,7 +6745,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Pri&amp;nt:</source>
-        <translation type="unfinished"/>
+        <translation>Ya&amp;zdır:</translation>
     </message>
     <message>
         <source>Print</source>
@@ -6753,7 +6753,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>S&amp;election</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;eçim</translation>
     </message>
     <message>
         <source>Scale to paper si&amp;ze:</source>
@@ -6841,15 +6841,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Press key</source>
-        <translation type="unfinished"/>
+        <translation>Tuşa basınız</translation>
     </message>
     <message>
         <source>ShortCut Key</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol tuşu</translation>
     </message>
     <message>
         <source>ShortCut key:</source>
-        <translation type="unfinished"/>
+        <translation>Kısayol tuşu:</translation>
     </message>
 </context>
 <context>
@@ -6880,7 +6880,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Default cell spacing</source>
-        <translation type="unfinished"/>
+        <translation>Varsayılan hücre  boşluğu</translation>
     </message>
     <message>
         <source>Table Options</source>
@@ -6907,7 +6907,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Move with text</source>
-        <translation type="unfinished"/>
+        <translation>Metinle &amp;taşı</translation>
     </message>
     <message>
         <source>&amp;Right:</source>
@@ -6927,7 +6927,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Al&amp;ignment</source>
-        <translation type="unfinished"/>
+        <translation>Hi&amp;zala</translation>
     </message>
     <message>
         <source>Allow &amp;overlap</source>
@@ -7058,7 +7058,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Positioning...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kanumlandırılıyor...</translation>
     </message>
     <message>
         <source>&amp;Previous Column</source>
@@ -7147,7 +7147,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Text wrapping</source>
-        <translation type="unfinished"/>
+        <translation>Metin kaydırma</translation>
     </message>
     <message>
         <source>To&amp;p</source>
@@ -7311,7 +7311,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Maximum length:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;En Yüksek genişlik:</translation>
     </message>
     <message>
         <source>&amp;Show text input tip:</source>
@@ -7319,7 +7319,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;edValue</source>
-        <translation type="unfinished"/>
+        <translation>&amp;edValue</translation>
     </message>
     <message>
         <source>Add Help &amp;Text...</source>
@@ -7339,7 +7339,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Fill-in e&amp;nabled</source>
-        <translation type="unfinished"/>
+        <translation>İçeri doldurma e&amp;tkin</translation>
     </message>
     <message>
         <source>Run macro on</source>
@@ -7362,11 +7362,11 @@ Example: +4 will move forward four items:</source>
     <name>KxDlgTwoLinesInOne</name>
     <message>
         <source>&amp;Bracket style:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Köşeli ayraçlar stili:</translation>
     </message>
     <message>
         <source>&amp;Enclose in brackets:</source>
-        <translation type="unfinished"/>
+        <translation>Karakterleriyle &amp;Kapsa:</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -7419,11 +7419,11 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>View &amp;endnote area</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dipnot alanını görüntüle</translation>
     </message>
     <message>
         <source>View &amp;footnote area</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Altbilgi alanını görüntüle</translation>
     </message>
     <message>
         <source>View Footnotes</source>
@@ -7452,7 +7452,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     <name>KxDlgWpsFieldNameDelimiter</name>
     <message>
         <source>Header Record Delimiters</source>
-        <translation type="unfinished"/>
+        <translation>Başlık Kaydı Sınırlayıcıları</translation>
     </message>
     <message>
         <source>Data fields must be separated from each other by a character called a field delimiter. Similarly, data records must be separated by a record delimiter. Use the lists below to select the appropriate delimiter.</source>
@@ -7460,7 +7460,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
     <message>
         <source>&amp;Field delimiter:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Alan sınırlayıcısı:</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -7468,7 +7468,7 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
     <message>
         <source>(Paragraph mark)</source>
-        <translation>(Satır Başı İşareti)</translation>
+        <translation>(Satır Başı İmi)</translation>
     </message>
     <message>
         <source>(Tabs)</source>
@@ -7592,14 +7592,14 @@ Converting allows you to use all the new features of Word and reduces the size o
     </message>
     <message>
         <source>&amp;Record delimiter:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kayır sınırlayıcı:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWpsMaintainCmptPrompt</name>
     <message>
         <source>MaintainCompatibilityPrompt</source>
-        <translation type="unfinished"/>
+        <translation>MaintainCompatibilityPrompt</translation>
     </message>
     <message>
         <source>Your document will be upgraded to the newest file format.
@@ -7971,7 +7971,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Save PDF File As</source>
-        <translation type="unfinished"/>
+        <translation>PDF dosyası olarak kaydet</translation>
     </message>
     <message>
         <source>This is not a valid page range.</source>
@@ -8029,11 +8029,11 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Create a table of contents</source>
-        <translation type="unfinished"/>
+        <translation>İçerikler tablosu oluştur</translation>
     </message>
     <message>
         <source>DocProperty</source>
-        <translation type="unfinished"/>
+        <translation>DocProperty</translation>
     </message>
     <message>
         <source>DocVariable</source>
@@ -8099,11 +8099,11 @@ check the maintain compatibility checkbox.</source>
     <message>
         <source>MergeField</source>
         <comment>wps-&gt; insert field</comment>
-        <translation type="unfinished"/>
+        <translation>Alanı Birleştir</translation>
     </message>
     <message>
         <source>NumPages</source>
-        <translation type="unfinished"/>
+        <translation>Sayfalar Numarası</translation>
     </message>
     <message>
         <source>Open and jump to the specified file</source>
@@ -8160,7 +8160,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>SectionPages</source>
-        <translation>Seçim Sayfaları</translation>
+        <translation>Bölüm Sayfaları</translation>
     </message>
     <message>
         <source>Seq</source>
@@ -8168,7 +8168,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>StyleRef</source>
-        <translation type="unfinished"/>
+        <translation>StyleRef</translation>
     </message>
     <message>
         <source>TC</source>
@@ -8220,7 +8220,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished"/>
+        <translation>kök yöneticisi</translation>
     </message>
     <message>
         <source>D:\\</source>
@@ -8256,7 +8256,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Insert text from file</source>
-        <translation type="unfinished"/>
+        <translation>Dosyadan metin ekle</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
@@ -8276,7 +8276,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Field code:</source>
-        <translation type="unfinished"/>
+        <translation>Alan kodu:</translation>
     </message>
     <message>
         <source>Link</source>
@@ -8308,11 +8308,11 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>FirstCap</source>
-        <translation type="unfinished"/>
+        <translation>İlk Büyük</translation>
     </message>
     <message>
         <source>Caps</source>
-        <translation type="unfinished"/>
+        <translation>İlk harf büyük</translation>
     </message>
     <message>
         <source>SBCHAR</source>
@@ -8335,7 +8335,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Clear Highlighting</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağlantıyı Temizle</translation>
     </message>
     <message>
         <source>&amp;Comments</source>
@@ -8343,15 +8343,15 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Endnote</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dipnot</translation>
     </message>
     <message>
         <source>&amp;Endnote Mark</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dipnot İmi</translation>
     </message>
     <message>
         <source>&amp;Find What</source>
-        <translation type="unfinished"/>
+        <translation>Ne &amp;Bulsun</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
@@ -8363,11 +8363,11 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Footnote Mark</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dipnot İşareti</translation>
     </message>
     <message>
         <source>&amp;Headers and Footers</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Başlıklar ve Altbilgiler</translation>
     </message>
     <message>
         <source>&amp;Highlight</source>
@@ -8375,7 +8375,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Highlight All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bağlantı Tümü</translation>
     </message>
     <message>
         <source>&amp;Less</source>
@@ -8383,7 +8383,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Main Document</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ana Belge</translation>
     </message>
     <message>
         <source>&amp;More</source>
@@ -8391,7 +8391,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Paragraph Mark</source>
-        <translation type="unfinished"/>
+        <translation>Satır Başı İmi</translation>
     </message>
     <message>
         <source>&amp;Paragraph...</source>
@@ -8399,7 +8399,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>&amp;Tab Character</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sekme Karakteri</translation>
     </message>
     <message>
         <source>&amp;Tabs...</source>
@@ -8419,23 +8419,23 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>, Match Case</source>
-        <translation type="unfinished"/>
+        <translation>, Büyük/Küçük Harf Eşle</translation>
     </message>
     <message>
         <source>, Match Prefix</source>
-        <translation type="unfinished"/>
+        <translation>, Önek Eşleştir</translation>
     </message>
     <message>
         <source>, Match Suffix</source>
-        <translation type="unfinished"/>
+        <translation>, Sonek Eşleştir</translation>
     </message>
     <message>
         <source>, Sounds like(Japanese)</source>
-        <translation type="unfinished"/>
+        <translation>, Sesler Benzer(&amp;Japonca)</translation>
     </message>
     <message>
         <source>, Use Wildcards</source>
-        <translation type="unfinished"/>
+        <translation>, Jokerler kullan</translation>
     </message>
     <message>
         <source>, Whole Words</source>
@@ -8451,7 +8451,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>An&amp;y Letter</source>
-        <translation type="unfinished"/>
+        <translation>He&amp;rhangi Harf</translation>
     </message>
     <message>
         <source>Any Di&amp;git</source>
@@ -8471,7 +8471,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Col&amp;umn Break</source>
-        <translation type="unfinished"/>
+        <translation>Süt&amp;un Sonu</translation>
     </message>
     <message>
         <source>Comments</source>
@@ -8479,7 +8479,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Current &amp;Selection</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli &amp;Seçim</translation>
     </message>
     <message>
         <source>Current Selection</source>
@@ -8555,15 +8555,15 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Match Case</source>
-        <translation>Büyük/Küçük</translation>
+        <translation>Büyük/Küçük Harf Eşle</translation>
     </message>
     <message>
         <source>Match Prefix</source>
-        <translation type="unfinished"/>
+        <translation>Önek Eşleştir</translation>
     </message>
     <message>
         <source>Match Suffix</source>
-        <translation type="unfinished"/>
+        <translation>Sonek Eşleştir</translation>
     </message>
     <message>
         <source>Match half/full width forms</source>
@@ -8579,7 +8579,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>P&amp;aragraph Character</source>
-        <translation type="unfinished"/>
+        <translation>S&amp;atır Başı Karakter</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -8603,11 +8603,11 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Section &amp;Break</source>
-        <translation type="unfinished"/>
+        <translation>Bolüm &amp;Sonu</translation>
     </message>
     <message>
         <source>Sounds like(Japanese)</source>
-        <translation type="unfinished"/>
+        <translation>Sesler benzer(Japonca)</translation>
     </message>
     <message>
         <source>Style:%1</source>
@@ -8631,7 +8631,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Arama öğesi bulunmadı.</translation>
     </message>
     <message>
         <source>Use wildcards</source>
@@ -8671,7 +8671,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>, Match Byte</source>
-        <translation type="unfinished"/>
+        <translation>, Bayt Eşleştir</translation>
     </message>
     <message>
         <source>Down</source>
@@ -8683,7 +8683,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Any &amp;Character</source>
-        <translation type="unfinished"/>
+        <translation>Herhangi &amp;Karakter</translation>
     </message>
     <message>
         <source>&amp;Style...</source>
@@ -8732,7 +8732,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Restart each section</source>
-        <translation>Her seçimi yeniden başlat</translation>
+        <translation>Her bölümü yeniden başlat</translation>
     </message>
     <message>
         <source>Selected text</source>
@@ -8760,7 +8760,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>The selected section</source>
-        <translation type="unfinished"/>
+        <translation>Seçimiş bölüm</translation>
     </message>
     <message>
         <source>WPS Writer</source>
@@ -8922,7 +8922,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Courtesy title</source>
-        <translation type="unfinished"/>
+        <translation>Nezaket başlığı</translation>
     </message>
     <message>
         <source>Department</source>
@@ -8974,7 +8974,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Spouse courtesy title</source>
-        <translation type="unfinished"/>
+        <translation>Nezaket Başlığı</translation>
     </message>
     <message>
         <source>Spouse first name</source>
@@ -9002,7 +9002,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Unique identifier</source>
-        <translation type="unfinished"/>
+        <translation>Tek Tanıtıcı</translation>
     </message>
     <message>
         <source>Web page</source>
@@ -9021,7 +9021,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Use Default Numbering</source>
-        <translation>Varsayıla Numaralandırmayı kullan</translation>
+        <translation>Varsayılan Numaralandırmayı kullan</translation>
     </message>
 </context>
 <context>
@@ -9085,7 +9085,7 @@ check the maintain compatibility checkbox.</source>
     <name>KxMatchFieldsDlg</name>
     <message>
         <source>(Not matched)</source>
-        <translation type="unfinished"/>
+        <translation>(Eşleşme yok)</translation>
     </message>
 </context>
 <context>
@@ -9096,11 +9096,11 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Lab&amp;el changes with</source>
-        <translation type="unfinished"/>
+        <translation>Eti&amp;keti -ile değiştir</translation>
     </message>
     <message>
         <source>La&amp;bel changes with</source>
-        <translation type="unfinished"/>
+        <translation>Eti&amp;keti -ile değiştir</translation>
     </message>
     <message>
         <source>Merge Documents</source>
@@ -9201,7 +9201,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>The value must not be blank.</source>
-        <translation type="unfinished"/>
+        <translation>Değer boş olmamalı.</translation>
     </message>
 </context>
 <context>
@@ -9240,7 +9240,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>1.5 line spacing</source>
-        <translation type="unfinished"/>
+        <translation>1.5 satır boşluğu</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -9256,7 +9256,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Decrease paragraph space</source>
-        <translation type="unfinished"/>
+        <translation>Satı başı boşluğu azalt</translation>
     </message>
     <message>
         <source>Default Paragraph Font</source>
@@ -9273,15 +9273,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Double line spacing</source>
-        <translation type="unfinished"/>
+        <translation>Çift satır boşluğu</translation>
     </message>
     <message>
         <source>Increase indent</source>
-        <translation type="unfinished"/>
+        <translation>Girintiyi arttır</translation>
     </message>
     <message>
         <source>Increase paragraph space</source>
-        <translation type="unfinished"/>
+        <translation>Satır başı boşluğunu arttır</translation>
     </message>
     <message>
         <source>Justify alignment</source>
@@ -9317,7 +9317,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Single line spacing</source>
-        <translation type="unfinished"/>
+        <translation>Tek satır boşluğu</translation>
     </message>
     <message>
         <source>Space Before: %1 pt, after %2 pt, </source>
@@ -9471,11 +9471,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>(underlying properties)</source>
-        <translation type="unfinished"/>
+        <translation>(alt çizgi özellikleri)</translation>
     </message>
     <message>
         <source>1.5 line spacing</source>
-        <translation type="unfinished"/>
+        <translation>1.5 satır boşluğu</translation>
     </message>
     <message>
         <source>Bold, </source>
@@ -9495,11 +9495,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Decrease paragraph space</source>
-        <translation type="unfinished"/>
+        <translation>Satı başı boşluğu azalt</translation>
     </message>
     <message>
         <source>Dispersion</source>
-        <translation type="unfinished"/>
+        <translation>Ayırma</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for style?
@@ -9512,15 +9512,15 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Double line spacing</source>
-        <translation type="unfinished"/>
+        <translation>Çift satır boşluğu</translation>
     </message>
     <message>
         <source>Increase indent</source>
-        <translation type="unfinished"/>
+        <translation>Girintiyi arttır</translation>
     </message>
     <message>
         <source>Increase paragraph space</source>
-        <translation type="unfinished"/>
+        <translation>Satır başı boşluğunu arttır</translation>
     </message>
     <message>
         <source>Justify alignment</source>
@@ -9564,7 +9564,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Single line spacing</source>
-        <translation type="unfinished"/>
+        <translation>Tek satır boşluğu</translation>
     </message>
     <message>
         <source>Space Before: %1 pt, after %2 pt, </source>
@@ -9612,7 +9612,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Left and Right</source>
-        <translation type="unfinished"/>
+        <translation>Sol ve Sağ</translation>
     </message>
     <message>
         <source>Chinese Chuhao</source>
@@ -9687,7 +9687,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>By author</source>
-        <translation type="unfinished"/>
+        <translation>Yazara göre</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -9711,7 +9711,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>User templates</source>
-        <translation type="unfinished"/>
+        <translation>Şablonlar kullan</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
@@ -9719,11 +9719,11 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Document path</source>
-        <translation type="unfinished"/>
+        <translation>Belge dizini</translation>
     </message>
     <message>
         <source>No Documents Open</source>
-        <translation type="unfinished"/>
+        <translation>Belgeler açma yok</translation>
     </message>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
@@ -9766,7 +9766,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Level %1</source>
-        <translation type="unfinished"/>
+        <translation>Düzel %1</translation>
     </message>
     <message>
         <source>New Bullet...</source>
@@ -9953,7 +9953,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This section</source>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>Using the printer setup</source>
@@ -10041,30 +10041,30 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxRulerBtn</name>
     <message>
         <source>Show Ruler</source>
-        <translation type="unfinished"/>
+        <translation>Cetveli Göster</translation>
     </message>
 </context>
 <context>
     <name>KxSectionToolboxItemTitle</name>
     <message>
         <source>Delete Section</source>
-        <translation>Seçimi Sil</translation>
+        <translation>Bölümü Sil</translation>
     </message>
     <message>
         <source>Edit Section Name</source>
-        <translation>Seçim İsmini Düzenle</translation>
+        <translation>Bölüm İsmini Düzenle</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation>Seçim Sonrası Ekle</translation>
+        <translation>Bölüm Sonrası Ekle</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
-        <translation>Seçim Öncesi Ekle</translation>
+        <translation>Bölüm Öncesi Ekle</translation>
     </message>
     <message>
         <source>Merge to Previous</source>
-        <translation type="unfinished"/>
+        <translation>Öncekini Birleştir</translation>
     </message>
 </context>
 <context>
@@ -10075,11 +10075,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Enter Section Name</source>
-        <translation>Seçim İsmini Giriniz</translation>
+        <translation>Bölüm İsmini Giriniz</translation>
     </message>
     <message>
         <source>Section %1: </source>
-        <translation type="unfinished"/>
+        <translation>Bölüm %1: </translation>
     </message>
     <message>
         <source>Unnamed</source>
@@ -10161,11 +10161,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxTablePropertiesDialog</name>
     <message>
         <source>Column %1</source>
-        <translation type="unfinished"/>
+        <translation>Sütun %1</translation>
     </message>
     <message>
         <source>Row %1</source>
-        <translation type="unfinished"/>
+        <translation>Satır %1</translation>
     </message>
 </context>
 <context>
@@ -10192,7 +10192,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>This section</source>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -10215,7 +10215,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>D&amp;efault text:</source>
-        <translation type="unfinished"/>
+        <translation>V&amp;arsayılan metin:</translation>
     </message>
     <message>
         <source>Date &amp;Format:</source>
@@ -10282,7 +10282,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Individuals:</source>
-        <translation type="unfinished"/>
+        <translation>Bireyler:</translation>
     </message>
     <message>
         <source>Limit formatting to a selection of styles</source>
@@ -10290,7 +10290,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Read-only</source>
-        <translation type="unfinished"/>
+        <translation>Sadece-oku</translation>
     </message>
     <message>
         <source>Set the protection way in the document</source>
@@ -10298,7 +10298,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Settings...</source>
-        <translation type="unfinished"/>
+        <translation>Ayarlar:</translation>
     </message>
     <message>
         <source>Show All Regions I Can Edit</source>
@@ -10337,7 +10337,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Current user</source>
-        <translation type="unfinished"/>
+        <translation>Geçerli kullanıcı</translation>
     </message>
     <message>
         <source>Everyone</source>
@@ -10351,15 +10351,15 @@ Do you want to remove the ignored exceptions?</source>
     </message>
     <message>
         <source>More users...</source>
-        <translation type="unfinished"/>
+        <translation>Daha fazla kullanıcı...</translation>
     </message>
     <message>
         <source>Section </source>
-        <translation type="unfinished"/>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>Select sections...</source>
-        <translation type="unfinished"/>
+        <translation>Bölümler seçimi...</translation>
     </message>
     <message>
         <source>Users with full control</source>
@@ -10434,7 +10434,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>New Style...</source>
-        <translation type="unfinished"/>
+        <translation>Yeni Stil...</translation>
     </message>
     <message>
         <source>Pick formatting to apply</source>
@@ -10442,7 +10442,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Show:</source>
-        <translation type="unfinished"/>
+        <translation>Göster:</translation>
     </message>
 </context>
 <context>
@@ -10453,14 +10453,14 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Valid styles</source>
-        <translation type="unfinished"/>
+        <translation>Geçersi stiller</translation>
     </message>
 </context>
 <context>
     <name>KxTpWpsXMLMappingWidget</name>
     <message>
         <source>(add customXmlparts...)</source>
-        <translation type="unfinished"/>
+        <translation>(ekle özel Xmlparts...)</translation>
     </message>
     <message>
         <source>This XML file could not be used to create a new part in the document because it&apos;s not valid XML.</source>
@@ -10468,7 +10468,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Insert Content Control</source>
-        <translation type="unfinished"/>
+        <translation>İçerik Kontrolü &amp;Ekle</translation>
     </message>
     <message>
         <source>&amp;Repeat</source>
@@ -10476,7 +10476,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Rich Text</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zengin Metin</translation>
     </message>
     <message>
         <source>Plain &amp;Text</source>
@@ -10484,15 +10484,15 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Picture</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Resim</translation>
     </message>
     <message>
         <source>&amp;Checkbox</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Kontrol Kutusu</translation>
     </message>
     <message>
         <source>Comno &amp;Box</source>
-        <translation type="unfinished"/>
+        <translation>Karma &amp;Kutu</translation>
     </message>
     <message>
         <source>&amp;Dropdown List</source>
@@ -10559,7 +10559,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>Cancel(&amp;C)</source>
-        <translation type="unfinished"/>
+        <translation>Vazgeç(&amp;C)</translation>
     </message>
     <message>
         <source>Cann&apos;t add XML elements in multi areas.</source>
@@ -10585,7 +10585,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     <name>KxUnProtectDocumentDlg</name>
     <message>
         <source>The password is incorrect!</source>
-        <translation type="unfinished"/>
+        <translation>Parola doğru değil!</translation>
     </message>
 </context>
 <context>
@@ -10612,7 +10612,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>&amp;Other</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Diğer</translation>
     </message>
     <message>
         <source>&amp;Right</source>
@@ -10663,7 +10663,7 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>custom xmlparts:</source>
-        <translation type="unfinished"/>
+        <translation>özel xmlparts:</translation>
     </message>
 </context>
 <context>
@@ -10718,15 +10718,15 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Asian characters</source>
-        <translation type="unfinished"/>
+        <translation>Asyalı karakterler</translation>
     </message>
     <message>
         <source>Characters (no spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Karakterler (boşluklar yok)</translation>
     </message>
     <message>
         <source>Characters (with spaces)</source>
-        <translation type="unfinished"/>
+        <translation>Karakterler (boşluklarla)</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10750,7 +10750,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Statistics:</source>
-        <translation type="unfinished"/>
+        <translation>İstatikler:</translation>
     </message>
     <message>
         <source>Word Count</source>
@@ -10758,7 +10758,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Words</source>
-        <translation type="unfinished"/>
+        <translation>Kelimeler</translation>
     </message>
 </context>
 <context>
@@ -10783,7 +10783,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>&amp;Go to Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Yer İmlerine Git</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
@@ -10791,7 +10791,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Delete All</source>
-        <translation type="unfinished"/>
+        <translation>Tümünü Sil</translation>
     </message>
     <message>
         <source>Do you want to delete all bookmarks?</source>
@@ -10799,19 +10799,19 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Document Bookmark:</source>
-        <translation type="unfinished"/>
+        <translation>Belge Yer İmleri:</translation>
     </message>
     <message>
         <source>Hide Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer İmini Sakla</translation>
     </message>
     <message>
         <source>Show Bookmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer İmini Göster</translation>
     </message>
     <message>
         <source>Sort by &amp;Location</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konuma Göre Sırala</translation>
     </message>
     <message>
         <source>Sort by &amp;Name</source>
@@ -10819,7 +10819,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Sort by Location</source>
-        <translation type="unfinished"/>
+        <translation>Konuma Göre Sırala</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -10907,7 +10907,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Next Field</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Alan</translation>
     </message>
     <message>
         <source>Next Find/Goto</source>
@@ -10919,11 +10919,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Next Graphic</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Grafik</translation>
     </message>
     <message>
         <source>Next Heading</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Başlık</translation>
     </message>
     <message>
         <source>Next Page</source>
@@ -10931,11 +10931,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Next Section</source>
-        <translation>Sonraki Seçim</translation>
+        <translation>Sonraki Bölüm</translation>
     </message>
     <message>
         <source>Next Table</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Tablo</translation>
     </message>
     <message>
         <source>Previous Bookmark</source>
@@ -10951,7 +10951,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Previous Field</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Alan</translation>
     </message>
     <message>
         <source>Previous Find/Goto</source>
@@ -10963,11 +10963,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Previous Graphic</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Grafik</translation>
     </message>
     <message>
         <source>Previous Heading</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Başlık</translation>
     </message>
     <message>
         <source>Previous Page</source>
@@ -10975,11 +10975,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Previous Section</source>
-        <translation>Önceki Seçim</translation>
+        <translation>Önceki Bölüm</translation>
     </message>
     <message>
         <source>Previous Table</source>
-        <translation type="unfinished"/>
+        <translation>Önceki Tablo</translation>
     </message>
     <message>
         <source>The Find What text contains an invalid Pattern Matching expression.</source>
@@ -10987,14 +10987,14 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>The search item was not found.</source>
-        <translation type="unfinished"/>
+        <translation>Arama öğesi bulunmadı.</translation>
     </message>
 </context>
 <context>
     <name>KxWpsCloumnGalleryModel</name>
     <message>
         <source>%1 Columns</source>
-        <translation type="unfinished"/>
+        <translation>%1 Sütunlar</translation>
     </message>
     <message>
         <source>Column</source>
@@ -11023,7 +11023,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Insert Contents</source>
-        <translation type="unfinished"/>
+        <translation>İçerikler Ekle</translation>
     </message>
     <message>
         <source>Insert Contents Page...</source>
@@ -11039,7 +11039,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Table of Content</source>
-        <translation type="unfinished"/>
+        <translation>Tablonun İçeriği</translation>
     </message>
 </context>
 <context>
@@ -11062,7 +11062,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Distinctive</source>
-        <translation type="unfinished"/>
+        <translation>Kendine Özgü</translation>
     </message>
     <message>
         <source>Fancy</source>
@@ -11082,7 +11082,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Simple</source>
-        <translation type="unfinished"/>
+        <translation>Basit</translation>
     </message>
 </context>
 <context>
@@ -11180,7 +11180,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>All Pictures(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</source>
-        <translation type="unfinished"/>
+        <translation>Tüm Resimler(*.emf *.wmf *.jpg *.jpeg *.jpe *.png *.bmp *.gif *.tif *.tiff)</translation>
     </message>
     <message>
         <source>Auto</source>
@@ -11216,7 +11216,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Diagonal</source>
-        <translation type="unfinished"/>
+        <translation>Köşegen</translation>
     </message>
     <message>
         <source>Existing picture</source>
@@ -11232,11 +11232,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>ORIGINAL</source>
-        <translation type="unfinished"/>
+        <translation>ÖZGÜN</translation>
     </message>
     <message>
         <source>Picture Tooltip</source>
-        <translation type="unfinished"/>
+        <translation>Resim Araç İpucu</translation>
     </message>
     <message>
         <source>Please change a watermark name!</source>
@@ -11248,7 +11248,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Please select a picture.</source>
-        <translation type="unfinished"/>
+        <translation>Lütfen resim seçiniz.</translation>
     </message>
     <message>
         <source>Right</source>
@@ -11256,11 +11256,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>SAMPLE</source>
-        <translation type="unfinished"/>
+        <translation>ÖRNEK</translation>
     </message>
     <message>
         <source>Scale Tooltip</source>
-        <translation type="unfinished"/>
+        <translation>Ölçek Araç İpucu</translation>
     </message>
     <message>
         <source>Select Picture</source>
@@ -11276,7 +11276,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Text Tooltip</source>
-        <translation type="unfinished"/>
+        <translation>Sonraki Araç İpucu</translation>
     </message>
     <message>
         <source>The current watermark name already exists. Please replace it with another name.</source>
@@ -11292,11 +11292,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>This section</source>
-        <translation>Bu seçim</translation>
+        <translation>Bu bölüm</translation>
     </message>
     <message>
         <source>Tooltip </source>
-        <translation type="unfinished"/>
+        <translation>Araç İpucu</translation>
     </message>
     <message>
         <source>Top</source>
@@ -11304,7 +11304,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>URGENT</source>
-        <translation type="unfinished"/>
+        <translation>Acil</translation>
     </message>
     <message>
         <source>Whole document</source>
@@ -11335,7 +11335,7 @@ to a Word XML document.</source>
     <name>KxWpsDeleteSectionCommand</name>
     <message>
         <source>Delete Section</source>
-        <translation>Seçimi Sil</translation>
+        <translation>Bölümü Sil</translation>
     </message>
 </context>
 <context>
@@ -11386,23 +11386,23 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Footer inside</source>
-        <translation type="unfinished"/>
+        <translation>İçeri altbilgi </translation>
     </message>
     <message>
         <source>Footer left</source>
-        <translation type="unfinished"/>
+        <translation>Sol altbilgi</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta altbilgi </translation>
     </message>
     <message>
         <source>Footer outside</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı altbilgi</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ altbilgi</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -11410,15 +11410,15 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Header inside</source>
-        <translation type="unfinished"/>
+        <translation>İçeri başlık</translation>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"/>
+        <translation>Sol başlık</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta başlık</translation>
     </message>
     <message>
         <source>Header or footer link to previous</source>
@@ -11426,11 +11426,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı başlık</translation>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ başlık</translation>
     </message>
     <message>
         <source>None</source>
@@ -11446,7 +11446,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Show header line</source>
-        <translation type="unfinished"/>
+        <translation>Başlık satırını göster</translation>
     </message>
     <message>
         <source>Surround &amp;footer</source>
@@ -11615,7 +11615,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Source URL:</source>
-        <translation type="unfinished"/>
+        <translation>Kaynak URL:</translation>
     </message>
     <message>
         <source>Delete(&amp;R)</source>
@@ -11724,7 +11724,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Level %1</source>
-        <translation type="unfinished"/>
+        <translation>Düzel %1</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -11910,7 +11910,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Right Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sağ Orta</translation>
     </message>
     <message>
         <source>Center Middle</source>
@@ -11918,7 +11918,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Left Middle</source>
-        <translation type="unfinished"/>
+        <translation>Sol Orta</translation>
     </message>
 </context>
 <context>
@@ -11957,18 +11957,18 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>REFLECTION</source>
-        <translation type="unfinished"/>
+        <translation>YANSIMA</translation>
     </message>
     <message>
         <source>GLOW</source>
-        <translation type="unfinished"/>
+        <translation>IŞILTI</translation>
     </message>
 </context>
 <context>
     <name>KxWpsFormatProperty_FillAndLine</name>
     <message>
         <source>TEXT FILL</source>
-        <translation type="unfinished"/>
+        <translation>METNİ DOLDUR</translation>
     </message>
     <message>
         <source>FILL</source>
@@ -12059,11 +12059,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsInsertSectionCommand</name>
     <message>
         <source>Insert Section After</source>
-        <translation>Seçim Sonrası Ekle</translation>
+        <translation>Bölüm Sonrası Ekle</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
-        <translation>Seçim Öncesi Ekle</translation>
+        <translation>Bölüm Öncesi Ekle</translation>
     </message>
 </context>
 <context>
@@ -12266,23 +12266,23 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Footer inside</source>
-        <translation type="unfinished"/>
+        <translation>İçeri Altbilgi </translation>
     </message>
     <message>
         <source>Footer left</source>
-        <translation type="unfinished"/>
+        <translation>Altbilgi sol</translation>
     </message>
     <message>
         <source>Footer middle</source>
-        <translation type="unfinished"/>
+        <translation>Altbilgi orta</translation>
     </message>
     <message>
         <source>Footer outside</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı altbilgi</translation>
     </message>
     <message>
         <source>Footer right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ altbilgi</translation>
     </message>
     <message>
         <source>Header</source>
@@ -12290,23 +12290,23 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Header inside</source>
-        <translation type="unfinished"/>
+        <translation>İçeri başlık</translation>
     </message>
     <message>
         <source>Header left</source>
-        <translation type="unfinished"/>
+        <translation>Sol Başlık</translation>
     </message>
     <message>
         <source>Header middle</source>
-        <translation type="unfinished"/>
+        <translation>Orta başlık</translation>
     </message>
     <message>
         <source>Header outside</source>
-        <translation type="unfinished"/>
+        <translation>Dışarı başlık</translation>
     </message>
     <message>
         <source>Header right</source>
-        <translation type="unfinished"/>
+        <translation>Sağ başlık</translation>
     </message>
     <message>
         <source>No Page Number</source>
@@ -12339,7 +12339,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
 </context>
 <context>
@@ -12389,7 +12389,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Letter_CN</source>
-        <translation type="unfinished"/>
+        <translation>Letter_CN</translation>
     </message>
     <message>
         <source>Tabloid</source>
@@ -13107,11 +13107,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Delete Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Sil</translation>
     </message>
     <message>
         <source>Edit Watermark</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı Düzenle</translation>
     </message>
 </context>
 <context>
@@ -13546,11 +13546,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sol sadece</translation>
     </message>
     <message>
         <source>&amp;Right only</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sağ sadece</translation>
     </message>
     <message>
         <source>L&amp;argest only</source>
@@ -13585,7 +13585,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsWordArtInsertCommand</name>
     <message>
         <source>Your text here</source>
-        <translation type="unfinished"/>
+        <translation>Metnin buraya</translation>
     </message>
 </context>
 <context>
@@ -13759,7 +13759,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Te&amp;xt direction</source>
-        <translation type="unfinished"/>
+        <translation>Me&amp;tin yönü</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -13862,7 +13862,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>dialogstestClass</name>
     <message>
         <source>dialogstest</source>
-        <translation type="unfinished"/>
+        <translation>dialogstest</translation>
     </message>
 </context>
 <context>
@@ -13937,7 +13937,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished"/>
+        <translation>Yer &amp;İmi</translation>
     </message>
     <message>
         <source>&amp;Revision</source>
@@ -13989,15 +13989,15 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zenlemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished"/>
+        <translation>Kop&amp;yalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar &amp;eklemeye izin ver</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
@@ -14067,7 +14067,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished"/>
+        <translation>Ye&amp;r İmi</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
@@ -14131,15 +14131,15 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished"/>
+        <translation>Yorumlar &amp;eklemeye izin ver</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished"/>
+        <translation>Kop&amp;yalamaya izin ver</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished"/>
+        <translation>Dü&amp;zenlemeye izin ver</translation>
     </message>
     <message>
         <source>Printing Permission</source>
@@ -14272,7 +14272,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>P&amp;icture watermark</source>
-        <translation type="unfinished"/>
+        <translation>Re&amp;sim Filigran</translation>
     </message>
     <message>
         <source>Preview</source>
@@ -14288,7 +14288,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Te&amp;xt watermark</source>
-        <translation type="unfinished"/>
+        <translation>Me&amp;tin filigran</translation>
     </message>
     <message>
         <source>Watermark</source>
@@ -14296,7 +14296,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Watermark setup</source>
-        <translation type="unfinished"/>
+        <translation>Filigranı ayarla</translation>
     </message>
 </context>
 </TS>

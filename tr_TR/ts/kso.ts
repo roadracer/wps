@@ -5477,7 +5477,7 @@ Unutmayın sıkıştırılan resimlerin resim kalitesi azaltabilir. Sıkıştır
     <message>
         <source>LightCyan</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCYAN</comment>
-        <translation type="unfinished"/>
+        <translation>Açık Cam Göbeği</translation>
     </message>
     <message>
         <source>PaleTurquoise</source>
@@ -5507,7 +5507,7 @@ Unutmayın sıkıştırılan resimlerin resim kalitesi azaltabilir. Sıkıştır
     <message>
         <source>DarkCyan</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKCYAN</comment>
-        <translation type="unfinished"/>
+        <translation>Koyu Cam Göbeği</translation>
     </message>
     <message>
         <source>Teal</source>
@@ -10255,7 +10255,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Shingle</source>
         <comment>kso_sShingle</comment>
-        <translation type="unfinished"/>
+        <translation>Kiremit</translation>
     </message>
     <message>
         <source>(Show All)</source>
@@ -10275,7 +10275,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Small confetti</source>
         <comment>kso_sSmallConfetti</comment>
-        <translation type="unfinished"/>
+        <translation>Küçük konfeti</translation>
     </message>
     <message>
         <source>Small grid</source>
@@ -10290,7 +10290,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Sphere</source>
         <comment>kso_sSphere</comment>
-        <translation type="unfinished"/>
+        <translation>Küre</translation>
     </message>
     <message>
         <source>Busy</source>
@@ -10380,7 +10380,7 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>Section</source>
         <comment>kso_sSymbolSection</comment>
-        <translation>Seçim</translation>
+        <translation>Bölüm</translation>
     </message>
     <message>
         <source>Single Closing Quote</source>

@@ -3,7 +3,7 @@
 <TS version="2.0" language="tr_TR">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
-    <name/>
+    <name></name>
     <message id="AdvancedFilter.title">
         <source>Advanced Filter</source>
         <extracomment>AdvancedFilter.title</extracomment>
@@ -463,7 +463,7 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DeleteComment.content">
         <source>Delete the selected comment.</source>
         <extracomment>DeleteComment.content</extracomment>
-        <translation type="unfinished"/>
+        <translation>Seçili yorumu sil</translation>
     </message>
     <message id="DeleteRange.title">
         <source>Delete cells</source>
@@ -1682,7 +1682,7 @@ PivotTable make it easy to arrange and summarize complicated data and drill down
     <message id="PrevPortrait.title">
         <source>Portrait</source>
         <extracomment>PrevPortrait.title</extracomment>
-        <translation>Düşey</translation>
+        <translation>Dikey</translation>
     </message>
     <message id="PrevPortrait.content">
         <source>Set the worksheet pages to portrait.</source>

@@ -261,11 +261,11 @@
     </message>
     <message>
         <source>failed to create storage for video exporting.</source>
-        <translation>video aktarma için bellek oluşturma başarısız.</translation>
+        <translation>video dışa aktarma için bellek oluşturma başarısız.</translation>
     </message>
     <message>
         <source>failed to preprocess media for video exporting.</source>
-        <translation>video aktarma için medya önişleme başarısız.</translation>
+        <translation>video dışa aktarma için medya önizleme başarısız.</translation>
     </message>
     <message>
         <source>Some media cannot be included.Sure to continue?</source>
@@ -282,7 +282,7 @@ Lütfen ilk boş bellek alanı açınız.</translation>
     <name>KxWppEncodeStation</name>
     <message>
         <source>Exporting Video </source>
-        <translation>Video Aktarılıyor</translation>
+        <translation>Video Dışa Aktarılıyor</translation>
     </message>
     <message>
         <source>(Embedding Video Source)</source>
@@ -290,7 +290,7 @@ Lütfen ilk boş bellek alanı açınız.</translation>
     </message>
     <message>
         <source>Current output size : </source>
-        <translation>Geçerli çıkış büyüklüğü : </translation>
+        <translation>Geçerli çıkış boyutu : </translation>
     </message>
     <message>
         <source>Width of MediaSource alignment is wrong.</source>
