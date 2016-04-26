@@ -6,203 +6,203 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Žiadna výplň</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Biela</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-5%</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-10%</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-12,5%</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-15%</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-20%</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-25%</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-30%</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-35%</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-37,5%</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-40%</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-45%</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-50%</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-55%</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-60%</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-62,5%</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-65%</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-70%</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-75%</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-80%</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-85%</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-87,5%</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-90%</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished"></translation>
+        <translation>Sivá-95%</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrá</translation>
     </message>
     <message>
         <source>Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Azúrová</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished"></translation>
+        <translation>Voda</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished"></translation>
+        <translation>Ružová</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Tyrkysová</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished"></translation>
+        <translation>Fialová</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Žltá</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Červen</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Zelená</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished"></translation>
+        <translation>Bledozelená</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Oranžová</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished"></translation>
+        <translation>Hnedá</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Čierna</translation>
     </message>
     <message>
         <source>Dark Cyan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tmavoazúrová</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Tmavomodrá</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished"></translation>
+        <translation>Atramentová</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlomodrá</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Modrosivá</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished"></translation>
+        <translation>Levanduľová</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebeská modrá</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlotyrkysová</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruža</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Morská zelená</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlozelená</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetložltá</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -210,35 +210,35 @@
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Tmavozelená</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasnozelená</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished"></translation>
+        <translation>Zlatá</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished"></translation>
+        <translation>Svetlooranžová</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished"></translation>
+        <translation>Slivková</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished"></translation>
+        <translation>Tmavožltá</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished"></translation>
+        <translation>Olivovozelená</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished"></translation>
+        <translation>Tmavočervená</translation>
     </message>
 </context>
 <context>
@@ -322,7 +322,7 @@
     <name>DlgColumnsManager</name>
     <message>
         <source>W&amp;idth:</source>
-        <translation type="unfinished"></translation>
+        <translation>Šírka(&amp;I):</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -330,38 +330,38 @@
     </message>
     <message>
         <source>1:</source>
-        <translation type="unfinished"></translation>
+        <translation>1:</translation>
     </message>
     <message>
         <source>Columns Management</source>
-        <translation type="unfinished"></translation>
+        <translation>Správa stĺpcov</translation>
     </message>
     <message>
         <source>Col #:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺ. č.:</translation>
     </message>
 </context>
 <context>
     <name>DlgKxColumns</name>
     <message>
         <source>Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Stĺpce</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Prednastavenia</translation>
     </message>
     <message>
         <source>&amp;One</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeden(&amp;O)</translation>
     </message>
     <message>
         <source>T&amp;wo</source>
-        <translation type="unfinished"></translation>
+        <translation>Dva(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Three</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tri</translation>
     </message>
     <message>
         <source>&amp;Left</source>
@@ -373,7 +373,7 @@
     </message>
     <message>
         <source>&amp;Number of columns:</source>
-        <translation type="unfinished"></translation>
+        <translation>Počet stĺpcov(&amp;N):</translation>
     </message>
     <message>
         <source>Line &amp;between</source>
@@ -385,11 +385,11 @@
     </message>
     <message>
         <source>&amp;Equal column width</source>
-        <translation type="unfinished"></translation>
+        <translation>Rovnaká šírka stĺpcov(&amp;E)</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhľad</translation>
     </message>
     <message>
         <source>&amp;Apply to:</source>
@@ -397,7 +397,7 @@
     </message>
     <message>
         <source>Start new col&amp;umn</source>
-        <translation type="unfinished"></translation>
+        <translation>Začať nový stĺpec(&amp;U)</translation>
     </message>
 </context>
 <context>
@@ -408,23 +408,23 @@
     </message>
     <message>
         <source>Number format </source>
-        <translation type="unfinished"></translation>
+        <translation>Formát čísla </translation>
     </message>
     <message>
         <source>Le&amp;vel:</source>
-        <translation type="unfinished"></translation>
+        <translation>Úroveň(&amp;V):</translation>
     </message>
     <message>
         <source>Number f&amp;ormat:</source>
-        <translation type="unfinished"></translation>
+        <translation>F&amp;ormát čísla:</translation>
     </message>
     <message>
         <source>&amp;Number style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Štýl čísla(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Začať na(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Previous level number:</source>
@@ -432,39 +432,39 @@
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished"></translation>
+        <translation>Písmo(&amp;F)</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Náhľad</translation>
     </message>
     <message>
         <source>Advanced(&amp;M)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokročilé(&amp;M)</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Umiestnenie písma</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>Naľavo</translation>
     </message>
     <message>
         <source>Centered</source>
-        <translation type="unfinished"></translation>
+        <translation>Na stred</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>Napravo</translation>
     </message>
     <message>
         <source>&amp;Aligned at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Z&amp;arovnané na:</translation>
     </message>
     <message>
         <source>Text position</source>
-        <translation type="unfinished"></translation>
+        <translation>Umiestnenie textu</translation>
     </message>
     <message>
         <source>Ta&amp;b space after:</source>
@@ -472,19 +472,19 @@
     </message>
     <message>
         <source>&amp;Indent at:</source>
-        <translation type="unfinished"></translation>
+        <translation>Odsadené na(&amp;I):</translation>
     </message>
     <message>
         <source>Le&amp;gal style numbering</source>
-        <translation type="unfinished"></translation>
+        <translation>Právny štýl číslovania(&amp;G)</translation>
     </message>
     <message>
         <source>Lin&amp;k level to style:</source>
-        <translation type="unfinished"></translation>
+        <translation>Previazať úroveň so štýlom(&amp;K):</translation>
     </message>
     <message>
         <source>Follo&amp;w number with:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasledovať číslo s(&amp;W):</translation>
     </message>
     <message>
         <source>Tab character</source>
@@ -492,22 +492,22 @@
     </message>
     <message>
         <source>Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Medzera</translation>
     </message>
     <message>
         <source>Nothing</source>
-        <translation type="unfinished"></translation>
+        <translation>Nič</translation>
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
-        <translation type="unfinished"></translation>
+        <translation>Začať číslovať znova po(&amp;R):</translation>
     </message>
 </context>
 <context>
     <name>FootAndEndnoteSpinBox</name>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -522,27 +522,27 @@
     <message>
         <source>Size</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Scale</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mierka</translation>
     </message>
     <message>
         <source>De&amp;fault for new objects</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Predvolené pre nové objekty(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Style:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Štýl(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Dashed:</source>
         <comment>formatshape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Čiarkované(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Begin style:</source>
@@ -580,14 +580,14 @@
     </message>
     <message>
         <source>Words only</source>
-        <translation type="unfinished"></translation>
+        <translation>Len slová</translation>
     </message>
 </context>
 <context>
     <name>KWpsStylesGalleryModel</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Štýl</translation>
     </message>
 </context>
 <context>
