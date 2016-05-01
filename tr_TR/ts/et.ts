@@ -2482,7 +2482,7 @@ Use it when:
     </message>
     <message>
         <source>Validatio&amp;n</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulama</translation>
     </message>
 </context>
 <context>
@@ -6631,7 +6631,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>Data Validation</source>
-        <translation>Bilgi Doğrulama</translation>
+        <translation>Veri Doğrulama</translation>
     </message>
     <message>
         <source>Date</source>
@@ -6687,7 +6687,7 @@ If this is correct, choose Next. If not, choose the data type that best describe
     </message>
     <message>
         <source>Validation criteria</source>
-        <translation type="unfinished"/>
+        <translation>Doğrulama kriterleri</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -12162,7 +12162,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Çizelgelari</translation>
+        <translation>Hesap Çizelgeleri</translation>
     </message>
 </context>
 <context>
@@ -13130,7 +13130,7 @@ Document</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Çizelgelari</translation>
+        <translation>Hesap Çizelgeleri</translation>
     </message>
 </context>
 <context>
@@ -13206,7 +13206,7 @@ Document</source>
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Çizelgelari</translation>
+        <translation>Hesap Çizelgeleri</translation>
     </message>
     <message>
         <source>The file you are opening changes the option of Automatic to Manual, which will prevent the current file and other files from getting the correct results in time during the editing process.

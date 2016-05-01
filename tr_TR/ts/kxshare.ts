@@ -7627,7 +7627,7 @@ but the included system package is reserved.</source>
     <name>KxSystemIssueReportWidget</name>
     <message>
         <source>Checking completed!</source>
-        <translation>Kontrol tamamalandı!</translation>
+        <translation>Kontrol tamamlandı!</translation>
     </message>
     <message>
         <source>Checking...</source>

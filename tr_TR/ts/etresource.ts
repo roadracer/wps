@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="tr_TR">
 <defaultcodec>UTF-8</defaultcodec>
@@ -458,7 +458,7 @@
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -534,7 +534,7 @@
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Yatayu Metin Kutusu</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -650,7 +650,7 @@
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -827,7 +827,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veri Yenile</translation>
     </message>
 </context>
 <context>
@@ -1028,7 +1028,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation>Harici Bilgi</translation>
+        <translation>Harici Veri</translation>
     </message>
     <message>
         <source>List</source>
@@ -1040,7 +1040,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veri Yenile</translation>
     </message>
     <message>
         <source>Resize Table</source>
@@ -1245,7 +1245,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veri Yenile</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -1314,7 +1314,7 @@ OLE DB Sorgu</translation>
     <name>classics.protection</name>
     <message>
         <source>Allow User to Edit Ranges</source>
-        <translation>Serileri Düzenlemek İçin Kullanıcılara İzin Ver </translation>
+        <translation>Kullanıcıların Aralıkları Düzenlemesine İzin Ver</translation>
     </message>
     <message>
         <source>Lock Cell</source>
@@ -1326,13 +1326,11 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation>Çalışma Kitabını Koru
-</translation>
+        <translation>Çalışma Kitabını Koru</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>Çalışma Kitabını Paylaş ve Koru
-</translation>
+        <translation>Çalışma Kitabını Paylaş ve Koru</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
@@ -1493,7 +1491,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>Formülller</translation>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>Greater than</source>
@@ -1790,7 +1788,7 @@ OLE DB Sorgu</translation>
     <name>etclassics.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Çizelgelari</translation>
+        <translation>Hesap Çizelgeleri</translation>
     </message>
 </context>
 <context>
@@ -1825,7 +1823,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation>Bilgi Al</translation>
+        <translation>Veri Al</translation>
     </message>
     <message>
         <source>List</source>
@@ -1992,11 +1990,11 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Bilgi</translation>
+        <translation>Veri</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>Bilgi Kurtar</translation>
+        <translation>Veri Kurtarma</translation>
     </message>
     <message>
         <source>Decrease Font Size</source>
@@ -2012,7 +2010,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Çoğalttılanlar</translation>
+        <translation>Çoğaltılanlar</translation>
     </message>
     <message>
         <source>Edit</source>
@@ -2120,7 +2118,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Yatayu Metin Kutusu</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -2196,7 +2194,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>Yeni Boş Çalışma Sayfası.</translation>
+        <translation>Boş Çalışma Sayfası</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
@@ -2220,7 +2218,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>New from More Templates</source>
-        <translation>Yeni Daha Fazla Şablonlarddan</translation>
+        <translation>Daha Fazla Şablon</translation>
     </message>
     <message>
         <source>New from Online Templates</source>
@@ -2403,7 +2401,7 @@ Doğrudan</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Önizlemeyi Yazdır</translation>
+        <translation>Yazdırma Önizleme</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -2441,8 +2439,8 @@ Yönetimi</translation>
     <message>
         <source>Refresh
 Data</source>
-        <translation>Yenile
-Bilgiyi </translation>
+        <translation>Veri
+Yenile </translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -2590,7 +2588,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Göster</translation>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -2598,7 +2596,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>WPS Bilgi Kurtarma Uzmanı</translation>
+        <translation>WPS Veri Kurtarma Uzmanı</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -2650,7 +2648,7 @@ Penceresi</translation>
     <name>etongmani.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Çizelgelari</translation>
+        <translation>Hesap Çizelgeleri</translation>
     </message>
 </context>
 <context>
@@ -2673,7 +2671,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Bilgi</translation>
+        <translation>Veri</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2693,7 +2691,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>Formülller</translation>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
@@ -2701,7 +2699,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Ev</translation>
+        <translation>Giriş</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -2757,7 +2755,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Print Preview</source>
-        <translation>Önizlemeyi Yazdır</translation>
+        <translation>Yazdırma Önizleme</translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -2789,7 +2787,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
-        <translation>Göster/Gizle Araç Çubuğu</translation>
+        <translation>Araç Çubuğunu Göster/Gizle </translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -2817,7 +2815,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Göster</translation>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -2868,7 +2866,7 @@ Penceresi</translation>
     <name>etrainbow.mainwindow</name>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Çizelgelari</translation>
+        <translation>Hesap Çizelgeleri</translation>
     </message>
 </context>
 <context>
@@ -2887,7 +2885,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Bilgi</translation>
+        <translation>Veri</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -2907,7 +2905,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>Formülller</translation>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
@@ -2915,7 +2913,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Home</source>
-        <translation>Ev</translation>
+        <translation>Giriş</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -3027,7 +3025,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Göster</translation>
+        <translation>Görünüm</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -3314,7 +3312,7 @@ Penceresi</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>Bilgiyi Seç</translation>
+        <translation>Veriyi Seç</translation>
     </message>
     <message>
         <source>SeriesLines</source>
@@ -3369,7 +3367,8 @@ Penceresi</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>Otomatik Süz</translation>
+        <translation>Otomatik
+Süz</translation>
     </message>
     <message>
         <source>Clear Highlight Duplicates</source>
@@ -3389,17 +3388,17 @@ Penceresi</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation>Bilgi Araçları</translation>
+        <translation>Veri Araçları</translation>
     </message>
     <message>
         <source>Duplicates</source>
-        <translation>Çoğalttılanlar</translation>
+        <translation>Çoğaltılanlar</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation>Düzenle
-OLE DB Sorgu</translation>
+        <translation>OLE DB Sorgusunu 
+Düzenle</translation>
     </message>
     <message>
         <source>Edit Query</source>
@@ -3411,7 +3410,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation>Harici Bilgiyi Al</translation>
+        <translation>Harici Veriyi Al</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -3419,12 +3418,13 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation>Bağlantı Çoğalt</translation>
+        <translation>Bağlantı
+Çoğalt</translation>
     </message>
     <message>
         <source>Import 
 Data</source>
-        <translation>Bilgi
+        <translation>Veri
 Al</translation>
     </message>
     <message>
@@ -3433,7 +3433,8 @@ Al</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Özet Tablo</translation>
+        <translation>Özet
+Tablo</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -3451,7 +3452,7 @@ Tümünü</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veriyi Yenile</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -3567,8 +3568,8 @@ Properties</source>
     <message>
         <source>Exit
 Design Mode</source>
-        <translation>Çıkış
-Tasarım Modu</translation>
+        <translation>Tasarım Modundan
+Çık</translation>
     </message>
     <message>
         <source>Image</source>
@@ -3630,7 +3631,7 @@ Tasarım Modu</translation>
         <source>Visual Basic
 Editor</source>
         <translation>Visual Basic 
-Editor</translation>
+Düzenleyici</translation>
     </message>
 </context>
 <context>
@@ -3769,7 +3770,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -3777,7 +3778,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekillleri Değiştir</translation>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -3805,7 +3806,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Edit Shape</source>
-        <translation>Şekillleri Düzenle</translation>
+        <translation>Şekilleri Düzenle</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -3921,7 +3922,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -4132,7 +4133,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -4144,7 +4145,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekillleri Değiştir</translation>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -4192,7 +4193,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Edit Shape</source>
-        <translation>Şekillleri Düzenle</translation>
+        <translation>Şekilleri Düzenle</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -4240,7 +4241,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Yatayu Metin Kutusu</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -4316,7 +4317,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -4411,7 +4412,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>Bilgi Kurtarma</translation>
+        <translation>Veri Kurtarma</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
@@ -4479,7 +4480,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>Yeni Boş Çalışma Sayfası.</translation>
+        <translation>Boş Çalışma Sayfası</translation>
     </message>
     <message>
         <source>New Excel 2007-2010 Workbook</source>
@@ -4637,7 +4638,8 @@ Eklentiler</translation>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>Otomatik Toplam</translation>
+        <translation>Otomatik
+Toplam</translation>
     </message>
     <message>
         <source>Average</source>
@@ -4645,7 +4647,8 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation>Çalışma Sayfasını Hesapla</translation>
+        <translation>Çalışma Sayfasını
+Hesapla</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -4670,7 +4673,8 @@ Eklentiler</translation>
     <message>
         <source>Date and
 Time</source>
-        <translation>Tarih ve Süre</translation>
+        <translation>Tarih ve
+Saat</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -4682,7 +4686,8 @@ Time</source>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation>Bağlantıları düzenle</translation>
+        <translation>Bağlantıları
+Düzenle</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -4690,7 +4695,7 @@ Time</source>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Hata kontrol ediliyor</translation>
+        <translation>Hata Denetimi</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -4715,12 +4720,12 @@ Time</source>
     <message>
         <source>Insert
 Function</source>
-        <translation>Ekle
-İşlev</translation>
+        <translation>İşlev
+Ekle</translation>
     </message>
     <message>
         <source>Logical</source>
-        <translation>Mantıklı</translation>
+        <translation>Mantıksal</translation>
     </message>
     <message>
         <source>Lookup and
@@ -4751,7 +4756,7 @@ Functions</source>
     <message>
         <source>Name
 Manager</source>
-        <translation>İsim
+        <translation>Ad
 Yöneticisi</translation>
     </message>
     <message>
@@ -4761,14 +4766,14 @@ Yöneticisi</translation>
     <message>
         <source>Recalculate
 Workbook</source>
-        <translation>Yeniden Hesapla
-Çalışma Kitabı</translation>
+        <translation>Çalışma Kitabını
+Yeniden Hesapla</translation>
     </message>
     <message>
         <source>Recently 
 Used</source>
-        <translation>Son
-Kullanılanlar</translation>
+        <translation>En Son
+Kullanılan</translation>
     </message>
     <message>
         <source>Statistical</source>
@@ -4847,7 +4852,8 @@ Kullanılanlar</translation>
     </message>
     <message>
         <source>AutoFilter</source>
-        <translation>Otomatik Süz</translation>
+        <translation>Otomatik
+Süz</translation>
     </message>
     <message>
         <source>AutoFit Column Width</source>
@@ -4947,7 +4953,7 @@ Kullanılanlar</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation>Bağlantıyı Metne dönüştür</translation>
+        <translation>Bağlantıyı Metne Dönüştür</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
@@ -5027,7 +5033,7 @@ Kullanılanlar</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
-        <translation>Kenar IzgaralaRI Çiz</translation>
+        <translation>Kenar Izgaraları Çiz</translation>
     </message>
     <message>
         <source>Editing</source>
@@ -5071,7 +5077,8 @@ Kullanılanlar</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>Bul ve Değiştir</translation>
+        <translation>Bul ve
+Değiştir</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5097,7 +5104,8 @@ Painter</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation>Tablo Olrak Biçim</translation>
+        <translation>Tablo Olarak 
+Biçimlendir</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -5105,7 +5113,7 @@ Painter</source>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>Formülller</translation>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>Freeze</source>
@@ -5609,8 +5617,8 @@ Properties</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Başlık ve 
-Altbilgi</translation>
+        <translation>Üstbilgi 
+ve Altbilgi</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5634,7 +5642,8 @@ Altbilgi</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
-        <translation>Yeni Grafik Ekle</translation>
+        <translation>Yeni Grafik
+Ekle</translation>
     </message>
     <message>
         <source>Label</source>
@@ -5670,7 +5679,8 @@ Altbilgi</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Özet Tablo</translation>
+        <translation>Özet
+Tablo</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -5696,7 +5706,7 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>Şekilller</translation>
+        <translation>Şekiller</translation>
     </message>
     <message>
         <source>Spinner</source>
@@ -5712,7 +5722,8 @@ Bölmesi</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Metin Kutusu</translation>
+        <translation>Metin
+Kutusu</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -5768,8 +5779,7 @@ Bölmesi</translation>
     <message>
         <source>Bring 
 Forward</source>
-        <translation>Sürmek
-İleri</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -5857,7 +5867,8 @@ Forward</source>
     </message>
     <message>
         <source>Margins</source>
-        <translation>Kenar Boşlukları</translation>
+        <translation>Kenar
+Boşlukları</translation>
     </message>
     <message>
         <source>No Zoom</source>
@@ -5865,7 +5876,7 @@ Forward</source>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Yönlendir</translation>
+        <translation>Yönlendirme</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -5878,14 +5889,14 @@ Forward</source>
     <message>
         <source>Print
 Area</source>
-        <translation>Yazdır
+        <translation>Yazdırma
 Alanı</translation>
     </message>
     <message>
         <source>Print
 Titles</source>
-        <translation>Yazdır
-Başlıkları</translation>
+        <translation>Başlıkları
+Yazdır</translation>
     </message>
     <message>
         <source>Reset All Page Breaks</source>
@@ -5905,13 +5916,13 @@ Başlıkları</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Seçim Bölmesi</translation>
+        <translation>Seçim
+Bölmesi</translation>
     </message>
     <message>
         <source>Send 
 Backward</source>
-        <translation>Geriye
-Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -5919,7 +5930,7 @@ Gönder</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation>Yazdırma Alanı Ayarla</translation>
+        <translation>Yazdırma Alanını Ayarla</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -6030,7 +6041,7 @@ Gönder</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -6242,7 +6253,7 @@ Resim</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -6392,7 +6403,7 @@ Resim</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -6600,7 +6611,7 @@ Resim</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -6704,7 +6715,7 @@ Açık/Kapalı</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Bilgi</translation>
+        <translation>Veri</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -6745,8 +6756,8 @@ Alan Listesini </translation>
     <message>
         <source>Modify
 PivotTable</source>
-        <translation>Düzenle
-Özet Tabloyu</translation>
+        <translation>Özet Tabloyu
+Düzenle</translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -6791,14 +6802,14 @@ Item Labels</source>
     <message>
         <source>Show
 Detail</source>
-        <translation>Göster
-Detayları</translation>
+        <translation>Detayları
+Göster</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
-        <translation>Göster
-Alan Listesini</translation>
+        <translation>Alan Listesini
+Göster</translation>
     </message>
     <message>
         <source>Sort</source>
@@ -6834,8 +6845,8 @@ Alan Listesini</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Başlık ve 
-Altbilgi</translation>
+        <translation>Üstbilgi 
+ve Altbilgi</translation>
     </message>
     <message>
         <source>Landscape</source>
@@ -6908,7 +6919,7 @@ Sayfa</translation>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation>Serileri Düzenlemek İçin Kullanıcılara İzin Ver </translation>
+        <translation>Kullanıcıların Aralıkları Düzenlemesine İzin Ver</translation>
     </message>
     <message>
         <source>Changes</source>
@@ -6925,14 +6936,14 @@ Sayfa</translation>
     <message>
         <source>Delete 
 Comment</source>
-        <translation>Sil
-Yorumu</translation>
+        <translation>Yorumu
+Sil</translation>
     </message>
     <message>
         <source>Edit
 Comment</source>
-        <translation>Düzenle
-Yorumu</translation>
+        <translation>Yorumu
+Düzenle</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -6940,13 +6951,14 @@ Yorumu</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>Hücreyi kitle</translation>
+        <translation>Hücreyi
+Kilitle</translation>
     </message>
     <message>
         <source>New 
 Comment</source>
         <translation>Yeni
-Yorum</translation>
+Açıklama</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -6955,19 +6967,18 @@ Yorum</translation>
     <message>
         <source>Protect
 Workbook</source>
-        <translation>Koruma
-Çalışma Kitabı</translation>
+        <translation>Çalışma Kitabını
+Koru</translation>
     </message>
     <message>
         <source>Protect 
 Sheet</source>
-        <translation>Koru 
-Sayfa</translation>
+        <translation>Sayfayı
+Koru</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>Çalışma Kitabını Paylaş ve Koru
-</translation>
+        <translation>Çalışma Kitabını Paylaş ve Koru</translation>
     </message>
     <message>
         <source>Reject Changes</source>
@@ -6976,8 +6987,8 @@ Sayfa</translation>
     <message>
         <source>Share
 Workbook</source>
-        <translation>Paylaş
-Çalışma Kitabını </translation>
+        <translation>Çalışma Kitabını
+Paylaş</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -6986,8 +6997,8 @@ Workbook</source>
     <message>
         <source>Track
 Changes</source>
-        <translation>Parça 
-Değişiklikler</translation>
+        <translation>Değişiklikleri
+İzle</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
@@ -7380,7 +7391,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation>Harici Bilgi</translation>
+        <translation>Harici Veri</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -7392,7 +7403,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veriyi Yenile</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -7687,8 +7698,8 @@ OLE DB Sorgu</translation>
     <message>
         <source>Arrange
 All</source>
-        <translation>Yerleştir
-Tümünü</translation>
+        <translation>Tümünü
+Yerleştir</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -7802,7 +7813,7 @@ Düzeni</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Kılavuz Çizgilerini Görüntüle</translation>
+        <translation>Kılavuz Çizgilerini Göster</translation>
     </message>
     <message>
         <source>View Headings</source>
@@ -7846,7 +7857,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Bölme</translation>
+        <translation>Böl</translation>
     </message>
 </context>
 <context>
@@ -8122,7 +8133,7 @@ Açık</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -8392,7 +8403,7 @@ Boşluğu</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -8817,7 +8828,7 @@ Shape</source>
     </message>
     <message>
         <source>Allow User to Edit Ranges</source>
-        <translation>Serileri Düzenlemek İçin Kullanıcılara İzin Ver </translation>
+        <translation>Kullanıcıların Aralıkları Düzenlemesine İzin Ver</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -8925,7 +8936,7 @@ Shape</source>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -8983,7 +8994,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekillleri Değiştir</translation>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -9099,11 +9110,11 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation>Bağlantıyı Metne dönüştür</translation>
+        <translation>Bağlantıyı Metne Dönüştür</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation>Numarayı metne dönüştür</translation>
+        <translation>Numarayı Metne Dönüştür</translation>
     </message>
     <message>
         <source>Convert To Range</source>
@@ -9251,7 +9262,8 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation>Bağlantıları düzenle</translation>
+        <translation>Bağlantıları
+Düzenle</translation>
     </message>
     <message>
         <source>Edit Points</source>
@@ -9311,11 +9323,11 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Hata kontrol ediliyor</translation>
+        <translation>Hata Denetimi</translation>
     </message>
     <message>
         <source>Error Checking Options</source>
-        <translation>Hata Kontrolü  Seçenekler</translation>
+        <translation>Hata Denetim  Seçenekleri</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -9580,7 +9592,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>Formülller</translation>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -9652,11 +9664,11 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation>Bilgi Al</translation>
+        <translation>Veri Al</translation>
     </message>
     <message>
         <source>Import External Data</source>
-        <translation>Harici Bilgi Al</translation>
+        <translation>Harici Veri Al</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -10013,13 +10025,11 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation>Çalışma Kitabını Koru
-</translation>
+        <translation>Çalışma Kitabını Koru</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>Çalışma Kitabını Paylaş ve Koru
-</translation>
+        <translation>Çalışma Kitabını Paylaş ve Koru</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -10171,11 +10181,11 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>Bilgiyi Seç</translation>
+        <translation>Veriyi Seç</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -10208,7 +10218,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation>Yazdırma Alanı Ayarla</translation>
+        <translation>Yazdırma Alanını Ayarla</translation>
     </message>
     <message>
         <source>Set Timing Backup</source>
@@ -10292,7 +10302,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Bölme</translation>
+        <translation>Böl</translation>
     </message>
     <message>
         <source>Square Dot</source>
@@ -10845,7 +10855,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation>Bilgiyi Seç</translation>
+        <translation>Veriyi Seç</translation>
     </message>
     <message>
         <source>SeriesLines</source>
@@ -10920,7 +10930,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Data Tools</source>
-        <translation>Bilgi Araçları</translation>
+        <translation>Veri Araçları</translation>
     </message>
     <message>
         <source>Descending</source>
@@ -10942,7 +10952,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Get External Data</source>
-        <translation>Harici Bilgiyi Al</translation>
+        <translation>Harici Veriyi Al</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -10950,7 +10960,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Import Data</source>
-        <translation>Bilgi Al</translation>
+        <translation>Veri Al</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -10970,7 +10980,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veriyi Yenile</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -11274,7 +11284,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -11282,7 +11292,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekillleri Değiştir</translation>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -11310,7 +11320,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Edit Shape</source>
-        <translation>Şekillleri Düzenle</translation>
+        <translation>Şekilleri Düzenle</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -11426,7 +11436,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -11641,7 +11651,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -11653,7 +11663,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Change Shapes</source>
-        <translation>Şekillleri Değiştir</translation>
+        <translation>Şekilleri Değiştir</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -11701,7 +11711,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Edit Shape</source>
-        <translation>Şekillleri Düzenle</translation>
+        <translation>Şekilleri Düzenle</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -11749,7 +11759,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Yatayu Metin Kutusu</translation>
+        <translation>Yatay Metin Kutusu</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -11825,7 +11835,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -11924,7 +11934,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>Data Recovery</source>
-        <translation>Bilgi Kurtarma</translation>
+        <translation>Veri Kurtarma</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
@@ -11988,7 +11998,7 @@ Eklentiler</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
-        <translation>Yeni Boş Çalışma Sayfası.</translation>
+        <translation>Boş Çalışma Sayfası</translation>
     </message>
     <message>
         <source>New Excel 2007-2010 Workbook</source>
@@ -12179,7 +12189,8 @@ Eklentiler</translation>
     <message>
         <source>Date and
 Time</source>
-        <translation>Tarih ve Süre</translation>
+        <translation>Tarih ve
+Saat</translation>
     </message>
     <message>
         <source>Define Name</source>
@@ -12191,7 +12202,8 @@ Time</source>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation>Bağlantıları düzenle</translation>
+        <translation>Bağlantıları
+Düzenle</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -12199,7 +12211,7 @@ Time</source>
     </message>
     <message>
         <source>Error Checking</source>
-        <translation>Hata kontrol ediliyor</translation>
+        <translation>Hata Denetimi</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
@@ -12227,7 +12239,7 @@ Time</source>
     </message>
     <message>
         <source>Logical</source>
-        <translation>Mantıklı</translation>
+        <translation>Mantıksal</translation>
     </message>
     <message>
         <source>Lookup and
@@ -12255,7 +12267,7 @@ Trig</translation>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation>İsim Yöneticisi</translation>
+        <translation>Ad Yöneticisi</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -12267,7 +12279,7 @@ Trig</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation>Son Kullanılanlar</translation>
+        <translation>En Son Kullanılan</translation>
     </message>
     <message>
         <source>Statistical</source>
@@ -12434,11 +12446,11 @@ Trig</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
-        <translation>Bağlantıyı Metne dönüştür</translation>
+        <translation>Bağlantıyı Metne Dönüştür</translation>
     </message>
     <message>
         <source>Convert Text to Number</source>
-        <translation>Numarayı metne dönüştür</translation>
+        <translation>Numarayı Metne Dönüştür</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -12582,7 +12594,7 @@ Trig</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation>Tablo Olrak Biçim</translation>
+        <translation>Tablo Olarak Biçimlendir</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -12590,7 +12602,7 @@ Trig</translation>
     </message>
     <message>
         <source>Formulas</source>
-        <translation>Formülller</translation>
+        <translation>Formüller</translation>
     </message>
     <message>
         <source>Go to</source>
@@ -13117,7 +13129,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Shapes</source>
-        <translation>Şekilller</translation>
+        <translation>Şekiller</translation>
     </message>
     <message>
         <source>Spinner</source>
@@ -13192,7 +13204,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -13292,7 +13304,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Orientation</source>
-        <translation>Yönlendir</translation>
+        <translation>Yönlendirme</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -13332,7 +13344,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -13340,7 +13352,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Set Print Area</source>
-        <translation>Yazdırma Alanı Ayarla</translation>
+        <translation>Yazdırma Alanını Ayarla</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -13451,7 +13463,7 @@ Ortala</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -13661,7 +13673,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -13811,7 +13823,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -14019,7 +14031,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>
@@ -14117,7 +14129,7 @@ Boyutu</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Bilgi</translation>
+        <translation>Veri</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -14299,7 +14311,7 @@ Item Labels</source>
     </message>
     <message>
         <source>Allow Users to Edit Ranges</source>
-        <translation>Serileri Düzenlemek İçin Kullanıcılara İzin Ver </translation>
+        <translation>Kullanıcıların Aralıkları Düzenlemesine İzin Ver</translation>
     </message>
     <message>
         <source>Changes</source>
@@ -14331,7 +14343,7 @@ Item Labels</source>
     </message>
     <message>
         <source>New Comment</source>
-        <translation>Yeni Yorum</translation>
+        <translation>Yeni Açıklama</translation>
     </message>
     <message>
         <source>Proofing</source>
@@ -14343,13 +14355,11 @@ Item Labels</source>
     </message>
     <message>
         <source>Protect Workbook</source>
-        <translation>Çalışma Kitabını Koru
-</translation>
+        <translation>Çalışma Kitabını Koru</translation>
     </message>
     <message>
         <source>Protect and Share Workbook</source>
-        <translation>Çalışma Kitabını Paylaş ve Koru
-</translation>
+        <translation>Çalışma Kitabını Paylaş ve Koru</translation>
     </message>
     <message>
         <source>Reject Changes</source>
@@ -14788,7 +14798,7 @@ OLE DB Sorgu</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Bilgiyi Yenile</translation>
+        <translation>Veriyi Yenile</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -15156,7 +15166,7 @@ Diğer Pencereleri </translation>
     </message>
     <message>
         <source>Split</source>
-        <translation>Bölme</translation>
+        <translation>Böl</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -15176,7 +15186,7 @@ Diğer Pencereleri </translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Kılavuz Çizgilerini Görüntüle</translation>
+        <translation>Kılavuz Çizgilerini Göster</translation>
     </message>
     <message>
         <source>View Headings</source>
@@ -15458,7 +15468,7 @@ Diğer Pencereleri </translation>
     </message>
     <message>
         <source>Bring Forward</source>
-        <translation>İleri Sürmek</translation>
+        <translation>Öne Getir</translation>
     </message>
     <message>
         <source>Bring to Front</source>
@@ -15722,7 +15732,7 @@ Diğer Pencereleri </translation>
     </message>
     <message>
         <source>Send Backward</source>
-        <translation>Geriye Gönder</translation>
+        <translation>Alta Gönder</translation>
     </message>
     <message>
         <source>Send to Back</source>

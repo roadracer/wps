@@ -6,7 +6,7 @@
     <name>KBubbleLocalTip</name>
     <message>
         <source>Some features will not work properly. &lt;br/&gt;Please renew now.</source>
-        <translation>Bazı özellikler düzgün çalışmayabilir. &lt;br/&gt; Lütfen yenileyin.</translation>
+        <translation>Bazı özellikler düzgün çalışmayabilir. &lt;br/&gt; Lütfen şimdi yenileyin.</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
@@ -21,7 +21,7 @@
     <name>KBubbleTipManager</name>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation>%1 gün deneyebilirsiniz ve %2 gün kaldı. &lt;br/&gt; Deneme döneminden sonra, ürünün normal kullanımı mümkün olmayacaktır. &lt;br/&gt; Etkilenmemek için, WPS Office &apos;i satın alın.</translation>
+        <translation>%1 gün deneyebilirsiniz ve %2 günüz kaldı. &lt;br/&gt; Deneme döneminden sonra, ürünün normal kullanımı mümkün olmayacaktır. &lt;br/&gt; Etkilenmemek için, WPS Office &apos;i satın alın.</translation>
     </message>
     <message>
         <source>The probation period is about to expire</source>
@@ -109,7 +109,7 @@
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
-        <translation>Paralı</translation>
+        <translation>Premium</translation>
     </message>
 </context>
 <context>
@@ -123,13 +123,13 @@
     <name>KxDlgAuthorizeExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation>WPS Office Süre Reminder</translation>
+        <translation>WPS Office Süre Hatırlatıcı</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Authorize Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -143,7 +143,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>preview mode</source>
-        <translation>Önizleme Kipi</translation>
+        <translation>önizleme kipi</translation>
     </message>
     <message>
         <source>Buy/renew Now</source>
@@ -154,7 +154,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgExpirationReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation>WPS Office Süre Reminder</translation>
+        <translation>WPS Office Süre Hatırlatıcı</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
@@ -162,7 +162,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The program will switch to a free version. Some features will not work properly. We recommend you purchase WPS Office or renew now.</source>
-        <translation>Program ücretsiz bir sürümü geçecektir. Bazı özellikler düzgün çalışmayacak. Biz hemen WPS Office &apos;i satın almanızı veya yenilemenizi öneririz.</translation>
+        <translation>Program ücretsiz bir sürümüne geçecektir. Bazı özellikler düzgün çalışmayabilir. WPS Office&apos; i satın almanız veya yenilemeniz önerilir.</translation>
     </message>
     <message>
         <source>List of limited features in free version</source>
@@ -278,7 +278,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update Now</source>
-        <translation>Şimdi Güncelleştir</translation>
+        <translation>Şimdi Güncelle</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
@@ -289,13 +289,13 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgTrialExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation>WPS Office Süre Reminder</translation>
+        <translation>WPS Office Süre Hatırlatıcı</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Trial Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -326,7 +326,7 @@ p, li { white-space: pre-wrap; }
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'SimSun'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;You can try the WPS Office for 30 days&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
@@ -374,7 +374,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
-        <translation>tüm makroların çalışmasına izin vermek için VBA &apos;yı indirin ve kurun. Eğer VBA kurduysanız, WPS Office&apos;i yeniden başlatın.</translation>
+        <translation>Tüm makroların çalışmasına izin vermek için VBA&apos;yı indirin ve kurun. Eğer VBA kurduysanız, WPS Office&apos;i yeniden başlatın.</translation>
     </message>
     <message>
         <source>&amp;Download</source>
@@ -613,7 +613,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Enter Viewer</source>
-        <translation>Görüntüleyici Girin</translation>
+        <translation>Görüntüleyiciye Giriş</translation>
     </message>
     <message>
         <source>Disable Print</source>
@@ -656,7 +656,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;u&gt;Use other activation codes&lt;/u&gt;</source>
-        <translation>&lt;u&gt;Diğer etkinleştirme kodlarını kullan&lt;/u&gt;</translation>
+        <translation>&lt;u&gt;Diğer etkinleştirme kodlarını kullanın&lt;/u&gt;</translation>
     </message>
     <message>
         <source>WPS Office Serial Number/Activation Code</source>
