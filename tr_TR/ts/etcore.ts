@@ -12,7 +12,7 @@
     <message>
         <source>ThisWorkbook</source>
         <comment>TX_DESC_KDE_THISBOOK</comment>
-        <translation>Bu Çalışma Kitabı</translation>
+        <translation>ThisWorkbook</translation>
     </message>
     <message>
         <source>Macro</source>
@@ -28,7 +28,7 @@
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
         <comment>TX_Workbook_SaveConvertToDefault</comment>
-        <translation>Belge &quot;%s&quot; formatında kaydedilecek devam etmek istiyor musunuz?
+        <translation>Belge &quot;%s&quot; formatında kaydedilecek, devam etmek istiyor musunuz?
 (%s)</translation>
     </message>
     <message>
@@ -77,7 +77,7 @@ Aşağıdakilerden birini deneyin.
         <source>Unsupported encrypted file format. Please contact with the creator.
 (%s)</source>
         <comment>TX_Workbook_OpenProvALGVerFailure</comment>
-        <translation>Desteklenmeyen şifrelenmiş dosya biçimi. oluşturan ile irtibata geçiniz.
+        <translation>Desteklenmeyen şifrelenmiş dosya biçimi. Oluşturan kişi ile irtibata geçiniz.
 (%s)</translation>
     </message>
     <message>
@@ -98,14 +98,14 @@ Aşağıdakilerden birini deneyin.
         <source>Try to save again?
 (%s)</source>
         <comment>TX_Workbook_SaveRetry</comment>
-        <translation>Tekrar kaydetme denensin mi?
+        <translation>Kaydetme tekrar denensin mi?
 (%s)</translation>
     </message>
     <message>
         <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
 (%s)</source>
         <comment>TX_Workbook_SaveReadOnlyAgain</comment>
-        <translation>Bu dosya daha önce salt okunur açılmışdı. Hala salt okunur açmak istiyor musunuz?
+        <translation>Bu dosya daha önce salt okunur açılmışdı. Hala salt okunur olarak açmak istiyor musunuz?
 (%s)</translation>
     </message>
     <message>
@@ -164,7 +164,7 @@ Aşağıdakilerden birini deneyin.
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
         <comment>TX_SaveAs_Cannot_Save_With_Same_Name</comment>
-        <translation>Kaydedilecek dosya &quot;% s&quot; açık bir dosya ile aynı ada sahip. Farklı bir isim seçin veya ilk önce aynı ada sahip açık çalışma kitabını kapatın lütfen.</translation>
+        <translation>Kaydedilecek &quot;% s&quot; dosyası açık bir dosya ile aynı ada sahip. Farklı bir isim seçin veya ilk önce aynı ada sahip açık çalışma kitabını kapatın.</translation>
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
@@ -179,12 +179,12 @@ Aşağıdakilerden birini deneyin.
     <message>
         <source>Opening the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Open</comment>
-        <translation>Dosya açılıyor, Lütfen bekleyin...</translation>
+        <translation>Dosya açılıyor, lütfen bekleyin...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Save</comment>
-        <translation>Dosya kaydediliyor, Lütfen bekleyin...</translation>
+        <translation>Dosya kaydediliyor, lütfen bekleyin...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -242,17 +242,17 @@ Veya, boş olmayan hücreleri yeni bir konuma taşıyabilir ve tekrar deneyebili
     <message>
         <source>Courier</source>
         <comment>TX_ApplicationOptions_LinuxStandardFont</comment>
-        <translation>Kurye</translation>
+        <translation>Courier</translation>
     </message>
     <message>
         <source>Cannot insert, because there are merged cells.</source>
         <comment>TX_InsertRange_MergeCells_Forbidden</comment>
-        <translation>Eklenemiyor çünkü birleştirilmiş hücreler var.</translation>
+        <translation>Eklenemiyor, çünkü birleştirilmiş hücreler var.</translation>
     </message>
     <message>
         <source>Cannot delete, because there are merged cells.</source>
         <comment>TX_DeleteRange_MergeCells_Forbidden</comment>
-        <translation>Silinemiyor çünkü birleştirilmiş hücreler var.</translation>
+        <translation>Silinemiyor, çünkü birleştirilmiş hücreler var.</translation>
     </message>
     <message>
         <source>The selection contains multiple data values. Only the data in the upper-left corner will be kept when merging into one cell.</source>
@@ -393,7 +393,7 @@ Aynı isimde ikinci belgeyi açmak için, şu anda açık olan belgeyi kapatabil
     <message>
         <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box is not the same and not blank.</source>
         <comment>TX_ERROR_SortKey</comment>
-        <translation>Sıralama kaynağı geçerli değil. Sıralamak istediğiniz verileri barındırdığına ve ilk Şuna Göre Sırala kurusuyla aynı ve boş olmadığına emin olun.</translation>
+        <translation>Sıralama kaynağı geçerli değil. Sıralamak istediğiniz verileri barındırdığına ve ilk Şuna Göre Sırala kutusuyla aynı ve boş olmadığına emin olun.</translation>
     </message>
     <message>
         <source>General errors occur during formula compiling.</source>
@@ -463,7 +463,7 @@ Bunun birçok olası nedeni vardır:
     <message>
         <source>The selections must be on the active sheet.</source>
         <comment>TX_ERROR_PAGESETUPRANGE</comment>
-        <translation>Seçimler etkin sayfa üzerinde olmalıdır.</translation>
+        <translation>Seçimler aktif sayfa üzerinde olmalıdır.</translation>
     </message>
     <message>
         <source>Cannot use this command while the selections contain entire rows or columns, and also other cells. Try selecting only entire rows, entire columns, or just groups of cells.</source>
@@ -513,14 +513,14 @@ Bunun birçok olası nedeni vardır:
     <message>
         <source>Formula or value in conditional formatting is invalid.</source>
         <comment>TX_CONDFMT_INPUT_ERR</comment>
-        <translation>koşullu biçimlendirmedeki formül veya değer geçersiz.</translation>
+        <translation>Koşullu biçimlendirmedeki formül veya değer geçersiz.</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. 
 Select a single region and then perform this command again.</source>
         <comment>TX_DESC_Sort_MultiRange_ET</comment>
         <translation>Bu komut birden fazla seçim üzerinde kullanılamaz.
-Tek bir bölge seçin ve sonra tekrar bu komutu çalıştırın.</translation>
+Tek bir bölge seçin ve bu komutu tekrar çalıştırın.</translation>
     </message>
     <message>
         <source>Average=</source>
@@ -610,7 +610,7 @@ Tek bir bölge seçin ve sonra tekrar bu komutu çalıştırın.</translation>
     <message>
         <source>Grand Total</source>
         <comment>TX_SUBTOTAL_SUM2</comment>
-        <translation>Büyük Toplam</translation>
+        <translation>Genel Toplam</translation>
     </message>
     <message>
         <source>Total </source>
@@ -681,23 +681,23 @@ Tek bir bölge seçin ve sonra tekrar bu komutu çalıştırın.</translation>
     <message>
         <source>Cannot delete the last legend.</source>
         <comment>TX_ERROR_Chart_Cannot_Delete_Last_Entry_In_Legend</comment>
-        <translation>son geçmiş silinemiyor.</translation>
+        <translation>Son gösterge silinemiyor.</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
-        <translation>Ortak Dosyalar(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</translation>
+        <translation>Ortak Dosyalar(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Dosyaları(*.et)|*.et|Microsoft Excel Dosyaları(*.xls)|*.xls|Microsoft Excel 2007/2010 Dosyaları(*.xlsx)|*.xlsx|Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
-        <translation>Ortak Dosyalar(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</translation>
+        <translation>Ortak Dosyalar(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Dosyaları(*.et)|*.et|WPS Spreadsheets Dosyaları(*.etx)|*.etx|Microsoft Excel Dosyaları(*.xls)|*.xls|Microsoft Excel 2007/2010 Dosyaları(*.xlsx)|*.xlsx|Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Cannot find workbooks &quot;%s&quot; that referenced by formulas.
 Please specify the right files.</source>
         <comment>TX_SUPBOOK_FILE_USER_ASSIGN</comment>
-        <translation>Formüller tarafından başvurulan çalışma kitaplarını &quot;% s&quot; bulamıyor.
+        <translation>Formüller tarafından başvurulan &quot;% s&quot; çalışma kitaplarını bulamıyor.
 Doğru dosyaları belirtiniz.</translation>
     </message>
     <message>
@@ -710,7 +710,7 @@ Doğru dosyaları belirtiniz.</translation>
  You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
         <translation>[%s]%s:
-Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için Araçlar menüsünden Koruma alt menüsünde Sayfa Korumasını Kaldır komutunu seçin. Bir parola istenebilir.</translation>
+Korunan bir sayfada bu komutu kullanamazsınız. Korumayı kaldırmak için Araçlar menüsünden Koruma alt menüsünde Sayfa Korumasını Kaldır komutunu seçin. Parola istenebilir.</translation>
     </message>
     <message>
         <source>Worksheet &quot;%s&quot; is protected. Please remove protection before using this command.</source>
@@ -730,7 +730,7 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
     <message>
         <source>%s of %d records found</source>
         <comment>TX_AUTOFILTER_RESULT</comment>
-        <translation>%s/%d kayıt bulundu</translation>
+        <translation>%s de %d kayıt bulundu</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
@@ -760,7 +760,7 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
     <message>
         <source>Part of an array cannot be changed.</source>
         <comment>TX_TextToColumns_Tip3</comment>
-        <translation>Bir dizinin parçası değiştirilemiyor.</translation>
+        <translation>Dizinin bir parçası değiştirilemiyor.</translation>
     </message>
     <message>
         <source>The destination region is invalid for reference.</source>
@@ -786,8 +786,8 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
         <comment>TX_SAVE_MSO_WARNING_PROMPT</comment>
         <translation>Bu dosya aşağıda özellikleri içerebilir ve diğer formatlarda kaydederseniz bu özellikler kaybolabilir.
 
-• Genişletilmiş biçimlendirme kuralı ve stil.
-• Genişletilmiş sayı biçimini.
+• Genişletilmiş biçimlendirme kuralı ve stili.
+• Genişletilmiş sayı biçimi.
 • Genişletilmiş iç içe formül.</translation>
     </message>
     <message>
@@ -848,7 +848,7 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted formats.</source>
         <comment>TX_TOOMUCH_XFS_TOREAD</comment>
-        <translation>Azami izin verilen biçimlerin sayısını aştığından dosyasında bazı metin biçimleri düzenlenebilir.</translation>
+        <translation>Azami izin verilen biçimlerin sayısını aşıldığından, dosyada bazı metin biçimleri değişmiş olabilir.</translation>
     </message>
     <message>
         <source>This workbook cannot use any other format of cells.</source>
@@ -858,7 +858,7 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
     <message>
         <source>Some text formats in the file may be modified, because it exceeds the number of utmost permitted fonts.</source>
         <comment>TX_TOOMUCH_FONTS_TOREAD</comment>
-        <translation>Azami izin verilen yazı tiplerinin sayısını aştığından dosyasında bazı metin biçimleri düzenlenebilir.</translation>
+        <translation>Azami izin verilen biçimlerin sayısını aşıldığından, dosyada bazı metin biçimleri değişmiş olabilir.</translation>
     </message>
     <message>
         <source>This workboot cannot use any other fonts.</source>
@@ -868,12 +868,12 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>TX_ShareWorkbook_MsgInvalidRef</comment>
-        <translation>Girdiğiniz metin geçerli kaynak veya tanımlama ismidir.</translation>
+        <translation>Girdiğiniz metin geçersiz kaynak veya tanımlama ismidir.</translation>
     </message>
     <message>
         <source>This command is not available in a shared workbook.</source>
         <comment>TX_ShareWorkbook_MsgCmdNotAvailable</comment>
-        <translation>Bu komut, bir paylaşımlı çalışma kitabı ile kullanılamaz.</translation>
+        <translation>Bu komut, paylaşılan bir çalışma kitabı ile kullanılamaz.</translation>
     </message>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
@@ -893,7 +893,7 @@ Bir korunan sayfadaki bu komutu kullanamazsınız. Korumasıyı kaldırmak için
     <message>
         <source>Document is not saved.</source>
         <comment>TX_ShareWorkbook_MsgDocumentNotSaved</comment>
-        <translation>Belge kaydedilmedi.</translation>
+        <translation>Belge kaydedilemedi.</translation>
     </message>
     <message>
         <source>This file is no longer shared.</source>
@@ -932,12 +932,12 @@ Remove the workbook from shared use?
     <message>
         <source>The file %s cannot be found.</source>
         <comment>TX_ShareWorkbook_MsgFileNotFound</comment>
-        <translation>%s dosya bulunabilir değil.</translation>
+        <translation>%s dosya bulunamıyor.</translation>
     </message>
     <message>
         <source>This file is locked. Try it again later.</source>
         <comment>TX_ShareWorkbook_MsgFileLocked</comment>
-        <translation>Dosya kilitli. Sonra tekrar dene.</translation>
+        <translation>Dosya kilitli. Daha sonra tekrar deneyin.</translation>
     </message>
     <message>
         <source>(Exclusive)</source>
@@ -986,7 +986,7 @@ Tüm değişiklikleri vurgulamak için Ne Zaman, Kim ve Neredenin işaretini kal
     <message>
         <source>Your modifications cannot be saved to “%s” owing to the share conflict. Please try to save it as another file.</source>
         <comment>TX_ShareWorkbook_ShareConflict</comment>
-        <translation>Değişiklikleriniz paylaşım çatışması nedeniyle &quot;%s&quot; olarak kaydedilemez. Başka bir dosya olarak kaydetmeyi için deneyin.</translation>
+        <translation>Değişiklikleriniz paylaşım çatışması nedeniyle &quot;%s&quot; olarak kaydedilemez. Başka bir dosya olarak kaydetmeyi deneyin.</translation>
     </message>
     <message>
         <source>You are opening a shared Excel workbook that updates at intervals. WPS Spreadsheets does not support this format.
@@ -1013,7 +1013,7 @@ ilk olarak Microsoft Excel ile açın ve daha sonra &quot;Kaydet&quot; e tıklay
     <message>
         <source>This file has been locked by %s. Try again later.</source>
         <comment>TX_ShareWorkbook_MsgCustomFileLockWhileSaving</comment>
-        <translation>Bu dosya %s tarafından kilitlenmiş. Sonra tekrar deneyin.</translation>
+        <translation>Bu dosya %s tarafından kilitlenmiş. Daha sonra tekrar deneyin.</translation>
     </message>
     <message>
         <source>hundred millions</source>
@@ -1078,17 +1078,17 @@ ilk olarak Microsoft Excel ile açın ve daha sonra &quot;Kaydet&quot; e tıklay
     <message>
         <source>Cannot enter a formula in a data form.</source>
         <comment>TX_ETDataForm_SetFormula</comment>
-        <translation>Bir veri formunda formül giremezsiniz.</translation>
+        <translation>Veri formunda formül giremezsiniz.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataForm_ArraryFormula</comment>
-        <translation>Bir dizinin bir bölümünü değiştiremezsiniz.</translation>
+        <translation>Dizinin bir bölümünü değiştiremezsiniz.</translation>
     </message>
     <message>
         <source>You cannot change part of an array.</source>
         <comment>TX_ETDataFrom_ArraryFormula</comment>
-        <translation>Bir dizinin bir bölümünü değiştiremezsiniz.</translation>
+        <translation>Dizinin bir bölümünü değiştiremezsiniz.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
@@ -1097,7 +1097,7 @@ ilk olarak Microsoft Excel ile açın ve daha sonra &quot;Kaydet&quot; e tıklay
 ·If you selected a subset of cells in error, select a single cell, and try the command again.
 ·To create column labels, click Cancel, and enter a text label at the top of each column of data.</source>
         <comment>TX_ETDataForm_RemindUser</comment>
-        <translation>WPS Spreadsheets listenizde bu komut için gerekli olan satır veya sütun etiketlerini içerin seçimi belirleyemiyor.
+        <translation>WPS Spreadsheets listenizde bu komut için gerekli olan satır veya sütun etiketlerini içeren seçimi belirleyemiyor.
 
 · Seçimin ya da listenin etiket olarak kullanılan ve veri olmayan ilk satırını istiyorsanız Tamam&apos;a tıklayın.
 · Yanlışlıkla hücrelerin bir alt kümesini seçerseniz, tek bir hücreyi seçin ve komutu yeniden deneyin.
@@ -1111,7 +1111,7 @@ ilk olarak Microsoft Excel ile açın ve daha sonra &quot;Kaydet&quot; e tıklay
     <message>
         <source>Calculating</source>
         <comment>TX_ETCalculateInfo_Calculating</comment>
-        <translation>Hesaplıyor</translation>
+        <translation>Hesaplanıyor</translation>
     </message>
     <message>
         <source>Processor(s)</source>
@@ -1134,13 +1134,13 @@ This workbook was also last saved with multiple sheets selected, and links canno
 To fix the links, select a single sheet and click Edit Links.</source>
         <comment>TX_UpdateExternalDataLinkFailCannotEdit</comment>
         <translation>Bu çalışma kitabı güncellenemez bir veya daha fazla bağlantı içeriyor.
-Bu çalışma kitabı, ayrıca son seferinde birden fazla yaprak ile kaydedilmiş ve bağlantılar bu durumda sabit kalamaz.
-Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&apos;ye tıklayın.</translation>
+Bu çalışma kitabı, ayrıca son seferinde birden fazla sayfa ile kaydedilmiş ve bağlantılar bu durumda sabit kalamaz.
+Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&apos;yi tıklayın.</translation>
     </message>
     <message>
         <source>A file named &apos;%s&apos; already exists in this location. Do you want to replace it?</source>
         <comment>TX_SaveAs_PromptOverwrite</comment>
-        <translation>Bu konumda &apos;%s&apos; adlı bir dosya zaten bulunmakta. Değiştirmek istiyor musun?</translation>
+        <translation>Bu konumda &apos;%s&apos; adlı bir dosya zaten bulunmakta. Değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>[Compatibility Mode]</source>
@@ -1150,7 +1150,7 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>WPS Spreadsheets can not insert the worksheet into the destination workbook, because the rows or columns of the destination workbook is less than the workbook. if you want to move or copy the data to the destination workbook, please select the source data, and then use the Copy and Paste commands to insert the data into the other worksheets of the workbook.</source>
         <comment>TX_SheetCopyRemoveInvalid</comment>
-        <translation>Hedef çalışma kitabının satır veya sütunları kaynak çalışma kitabından daha az olduğu için WPS Spreadsheets hedef çalışma kitabına çalışma sayfasını ekleyemez. Hedef çalışma kitabına veri taşımak veya kopyalamak istiyorsanız, kaynak verileri seçin ve ardından Kopyala ve Yapıştır komutlarını kullanarak çalışma kitabındaki başka bir çalışma sayfasına veri ekleyebilirsiniz.</translation>
+        <translation>Hedef çalışma kitabının satır veya sütunları kaynak çalışma kitabından daha az olduğu için WPS Spreadsheets hedef çalışma kitabına çalışma sayfasına ekleyemez. Hedef çalışma kitabına veri taşımak veya kopyalamak istiyorsanız, kaynak verileri seçin ve ardından Kopyala ve Yapıştır komutlarını kullanarak çalışma kitabındaki başka bir çalışma sayfasına veri ekleyebilirsiniz.</translation>
     </message>
     <message>
         <source>The operation will effect a large number of cells and it may take several minutes to complete. Do you want to continue?</source>
@@ -1195,7 +1195,7 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>Original Value</source>
         <comment>TX_SOLVER_ORIGINALVALUE</comment>
-        <translation>Özgün değer</translation>
+        <translation>Özgün Değer</translation>
     </message>
     <message>
         <source>Final Value</source>
@@ -1265,17 +1265,17 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>Forming Limits Report...</source>
         <comment>TX_SOLVER_FORMING_LIMITS_REPORT</comment>
-        <translation>Sınırlar Raporu Oluşturuluyor...</translation>
+        <translation>Sınır Raporu Oluşturuluyor...</translation>
     </message>
     <message>
         <source>Limits Report</source>
         <comment>TX_SOLVER_LIMITS_REPORT</comment>
-        <translation>Sınırlar Raporu</translation>
+        <translation>Sınır Raporu</translation>
     </message>
     <message>
         <source>Objective</source>
         <comment>TX_SOLVER_OBJECTIVE</comment>
-        <translation>Mesleki Hedef</translation>
+        <translation>Hedef</translation>
     </message>
     <message>
         <source>Max Time</source>
@@ -1315,7 +1315,7 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>Integer Tolerance</source>
         <comment>TX_SOLVER_INTEGER_TOLERANCE</comment>
-        <translation>Tam sayı Hata Payı</translation>
+        <translation>Tam Sayı Hata Payı</translation>
     </message>
     <message>
         <source>Solve Without Integer Constraints</source>
@@ -1580,7 +1580,7 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>Cannot run the macro &quot;%s&quot;. The macro may not be available in this workbook or all macros may be disabled.</source>
         <comment>TX_FindMacro_Failure</comment>
-        <translation>&quot;%s&quot; makro çalıştıramazsınız. Makro Bu çalışma kitabında mevcut olmayabilir veya tüm makrolar devre dışı bırakılabilir.</translation>
+        <translation>&quot;%s&quot; makro çalıştıramazsınız. Makro bu çalışma kitabında mevcut olmayabilir veya tüm makrolar devre dışı kalabilir.</translation>
     </message>
     <message>
         <source>Backing up</source>
@@ -1590,7 +1590,7 @@ Bağlantıları düzeltmek için bir sayfa seçin ve Bağlantıları Düzenle&ap
     <message>
         <source>(Press ESC to cancel)</source>
         <comment>TX_PROGRESS_DISCONTINUE_BYESC</comment>
-        <translation>(Vazgeçmek için ESC basın.)</translation>
+        <translation>(Vazgeçmek için ESC&apos;ye basın.)</translation>
     </message>
     <message>
         <source>Row</source>
@@ -1634,7 +1634,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>Selection is too large</source>
         <comment>TX_ERROR_SELECTION_RANGE_TOO_LARGE</comment>
-        <translation>Seçim çok büyük.</translation>
+        <translation>Seçim çok büyük</translation>
     </message>
     <message>
         <source>Invalid reference. This file version cannot contain formulas that reference cells beyond a worksheet size of 256 columns (column IW or higher) or 65536 rows.</source>
@@ -1648,7 +1648,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Hesap Tabloları</translation>
+        <translation>Hesap Çizelgesi</translation>
     </message>
     <message>
         <source>Null Error</source>
@@ -1658,7 +1658,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>Divide by Zero Error</source>
         <comment>TX_ERRORCHECK_ERR_DIV</comment>
-        <translation>Sıfır Hatayla Böl</translation>
+        <translation>Sıfıra Bölme Hatası</translation>
     </message>
     <message>
         <source>Error in Value</source>
@@ -1713,12 +1713,12 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>The formula or function used is dividing by zero or empty cells.</source>
         <comment>TX_ERRORCHECK_ERRDESC_DIV</comment>
-        <translation>kullanılan formül veya işlev sıfır veya boş hücreler tarafından bölünüyor.</translation>
+        <translation>Kullanılan formül veya işlev sıfır veya boş hücreler tarafından bölünüyor.</translation>
     </message>
     <message>
         <source>A value used in the formula is of the wrong data type.</source>
         <comment>TX_ERRORCHECK_ERRDESC_VALUE</comment>
-        <translation>formülde kullanılan bir değer, yanlış veri türünde.</translation>
+        <translation>Formülde kullanılan bir değer, yanlış veri türünde.</translation>
     </message>
     <message>
         <source>Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
@@ -1743,7 +1743,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>This cell contains a date string represented with only 2 digits for the year.</source>
         <comment>TX_ERRORCHECK_ERRDESC_TextDate</comment>
-        <translation>Bu hücre yıl için sadece 2 hane ile temsil edilen bir tarih dizesi içerir.</translation>
+        <translation>Bu hücre yıl için sadece 2 basamak ile temsil edilen bir tarih dizesi içerir.</translation>
     </message>
     <message>
         <source>The number in this cells is formatted as text or preceded by an apostrophe.</source>
@@ -1753,12 +1753,12 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
         <comment>TX_ERRORCHECK_ERRDESC_OmittedCells</comment>
-        <translation>bu hücredeki formül, ona bitişik ek numaraları olan bir dizi anlamına gelir.</translation>
+        <translation>Bu hücredeki formül, ona bitişik ek numaraları olan bir dizi anlamına gelir.</translation>
     </message>
     <message>
         <source>This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
         <comment>TX_ERRORCHECK_ERRDESC_UnlockedFormulaCells</comment>
-        <translation>Bu hücre bir formül içerir ve yanlışlıkla değiştirilmesini engellemek için kilitlenmemiş.</translation>
+        <translation>Bu hücre bir formül içeriyor ve yanlışlıkla değiştirilmesini engellemek için kilitlenmemiş.</translation>
     </message>
     <message>
         <source>The formula in this cell refers to cells that are currently empty.</source>
@@ -1793,7 +1793,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>&amp;Convert XX to 19XX</source>
         <comment>TX_ERRORCHECK_REPAIR_ConvertTo19xx</comment>
-        <translation>&amp;Dönüştür XX / 19XX</translation>
+        <translation>Dön&amp;üştür XX / 19XX</translation>
     </message>
     <message>
         <source>Con&amp;vert XX to 20XX</source>
@@ -1818,7 +1818,7 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
     <message>
         <source>&amp;Lock Cell</source>
         <comment>TX_ERRORCHECK_REPAIR_LockCell</comment>
-        <translation>&amp;Hücreyi Kitle</translation>
+        <translation>&amp;Hücreyi Kilitle</translation>
     </message>
     <message>
         <source>&amp;Trace Empty Cell</source>
@@ -1830,14 +1830,14 @@ Veritabanı sunucusunu denetleyin ya da veritabanı yöneticinize başvurun. Dı
 
 To hide, delete, or move the selected sheet(s), you must first insert a new sheet or unhide a sheet that is already hidden.</source>
         <comment>TX_Sheet_DEL_OneSheet_ET</comment>
-        <translation>Bir çalışma kitabı en az bir görünür çalışma sayfası içermelidir.
+        <translation>Çalışma kitabı en az bir görünür çalışma sayfası içermelidir.
 
 Gizlemek, silmek veya sayfayı(ları) taşımak için, önce yeni bir sayfa eklemeniz veya gizli bir sayfayı görünür yapmanız gerekir.</translation>
     </message>
     <message>
         <source>Cannot rename a sheet to the same name as another sheet, a referenced object library or a workbook referenced by Visual Basic.</source>
         <comment>TX_RenameSheet_Error2</comment>
-        <translation>Başka bir sayfa, başvurulan bir nesne kitaplığı veya Visual Basic tarafından başvurulan bir çalışma kitabı ile aynı ada sahip bir sayfa oluşturulamaz.</translation>
+        <translation>Başvurulan bir nesne kitaplığı veya Visual Basic tarafından başvurulan bir çalışma kitabı ile aynı ada sahip başka bir sayfa oluşturulamaz.</translation>
     </message>
     <message>
         <source>Cannot find &quot;%s&quot;. Please check the file name's spelling, and make sure the file location is correct.
@@ -1865,7 +1865,7 @@ Geri Al devam edilsin mi?</translation>
     <message>
         <source>Text date with 2 digit years</source>
         <comment>TX_ERRORCHECK_ERR_TextDate</comment>
-        <translation>Metin tarihi 2 &apos;li yıllar</translation>
+        <translation>Metin tarihi 2 haneli yıllar</translation>
     </message>
     <message>
         <source>Copy Formul&amp;a from Left</source>
@@ -1898,7 +1898,7 @@ Aşağıdakilerden birini deneyin.
     <message>
         <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
         <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
-        <translation>Bir sayfan veya grafik için geçersiz bir isim yazdınız. Şunlardan emin olun:</translation>
+        <translation>Sayfa veya grafik için geçersiz bir isim yazdınız. Şunlardan emin olun:</translation>
     </message>
     <message>
         <source>• Make sure the name does not contain any of the following characters: \ * / : ? &quot; &lt; &gt; [ ] |.</source>
@@ -1947,7 +1947,7 @@ Aşağıdakilerden birini deneyin.
         <comment>TX_WARNING_Large_Clipboard</comment>
         <translation>Panoda çok büyük miktarda bilgi var. Daha sonra başka bir programa bu bilgileri yapıştırmak istiyor musunuz?
 • Sonra yapıştırılmak için panoyu kaydetmek istiyorsanız Evet&apos;e tıklayın.
-• Pano ve boş bellekten silmek için Hayır&apos;ı tıklayın.</translation>
+• Pano ve belleği boşaltmak için Hayır&apos;ı tıklayın.</translation>
     </message>
     <message>
         <source>Dialog Title</source>
@@ -2094,7 +2094,7 @@ Sorguyu iptal etmek için İptal&apos;i tıklayın.</translation>
     </message>
     <message>
         <source>Enter your credentials:</source>
-        <translation>Tanıtımları giriniz.</translation>
+        <translation>Kimlik bilgilerinizi girin:</translation>
     </message>
     <message>
         <source>Connecting to %s</source>
@@ -2143,7 +2143,7 @@ Sorguyu iptal etmek için İptal&apos;i tıklayın.</translation>
     <message>
         <source>It&apos;s not a valid Integer.</source>
         <comment>TX_XlfDialogBox_InvalidInteger</comment>
-        <translation>Tam sayı geçersiz değil</translation>
+        <translation>Bu, geçerli bir tamsayı değil.</translation>
     </message>
     <message>
         <source>Input invalid! Please input a integer or a decimal.</source>
@@ -2731,7 +2731,7 @@ Bu çalışma kitabı açıldığında WPS Spreadsheets&apos;in tüm formülleri
     <message>
         <source>Missing an END.IF function.</source>
         <comment>TX_MSF_RUN_ERR_MISS_ENDIF</comment>
-        <translation>Kayıp bir SON. IF işlevi</translation>
+        <translation>Bir END. IF işlevi eksik.</translation>
     </message>
     <message>
         <source>No RETURN() or HALT() function found on macro sheet!</source>
@@ -2889,7 +2889,7 @@ Bu çalışma kitabı açıldığında WPS Spreadsheets&apos;in tüm formülleri
     <message>
         <source>Total</source>
         <comment>TX_DAP_Total</comment>
-        <translation>Tolam</translation>
+        <translation>Toplam</translation>
     </message>
     <message>
         <source>(All)</source>
@@ -3262,12 +3262,12 @@ Oluşturulan sorgu başarısız.</translation>
     <message>
         <source>Query failed!</source>
         <comment>TX_ETDBE_STR_ERRCAPTION_QUERY</comment>
-        <translation>Sorgu Başarısı!</translation>
+        <translation>Sorgu başarısız!</translation>
     </message>
     <message>
         <source>Link failed!</source>
         <comment>TX_ETDBE_STR_ERRCAPTION_LINK</comment>
-        <translation>Bağlantı Başarısız!</translation>
+        <translation>Bağlantı başarısız!</translation>
     </message>
     <message>
         <source>Link failed, please check connect strings!</source>
@@ -3307,7 +3307,7 @@ Oluşturulan sorgu başarısız.</translation>
     <message>
         <source>Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Text Files(*.txt)|*.txt|All Files(*.*)|*.*||</source>
         <comment>TX_ETDBE_STR_SUPPORTTYPE</comment>
-        <translation>Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Text Files(*.txt)|*.txt|All Files(*.*)|*.*||</translation>
+        <translation>Access Veritabanları(*.mdb)|*.mdb|DBase Dosyaları(*.dbf)|*.dbf|Yazı Dosyaları(*.txt)|*.txt|Tüm Dosyalar(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Fail to open file.There may be one of the following problems:
@@ -3348,47 +3348,47 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>The range you deleted is associated with a query that retrieves data from an external source. Do you want to delete the query in addition to the range? If you click No, the query will retrieve new data to the worksheet the next time the query is refreshed.</source>
         <comment>TX_ETDBE_STR_DELETEQT</comment>
-        <translation type="unfinished"/>
+        <translation>Sildiğiniz aralık harici bir kaynaktan gelen verileri içeren bir sorgu ile ilişkilidir. Eklenen aralıktaki sorguyu silmek istiyor musunuz? Hayır&apos;ı tıklarsanız, çalışma sayfasının sorgusu alınır bir dahaki sefere sorgu yenilenir.</translation>
     </message>
     <message>
         <source>Could not obtain parameter from reference(Bad name or workbook not open). Proceed to prompt for value?</source>
         <comment>TX_ETDBE_STR_RANGENOTVALID</comment>
-        <translation type="unfinished"/>
+        <translation>Referanstan parametre alınamıyor(Yanlış isim veya dosya açık değil).  Proceed to prompt for value?</translation>
     </message>
     <message>
         <source>This Web query returned no data.</source>
         <comment>TX_ETDBE_STR_WEBQUERY_EMPTY</comment>
-        <translation type="unfinished"/>
+        <translation>Bu Web sorgusu veri döndürmüyor.</translation>
     </message>
     <message>
         <source>The process cannot access the file because it is being used by another process.</source>
         <comment>TX_ETDBE_STR_XMLFILEINUSE</comment>
-        <translation type="unfinished"/>
+        <translation>Başka bir işlem tarafından kullanıldığından dosyaya erişemiyor.</translation>
     </message>
     <message>
         <source>The following data range failed to refresh:</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_1</comment>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki veri aralığında yenileme için başarısız oldu:</translation>
     </message>
     <message>
         <source>Continue to refresh all?</source>
         <comment>TX_ETDBE_STR_REFRESHFAIL_2</comment>
-        <translation>Tümünü yenilemek için devam edilsin mi ?</translation>
+        <translation>Tümünü yenilemek için devam edilsin mi?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Spreadsheets sorgu dosyasını açamadı veya okuyamadı. Dosya zarar görmüş ya da geçerli değil. </translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation>Tüm Dosyalar(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</translation>
+        <translation>Tüm Dosyalar(*.*)|*.*|Tüm Kaynak Dosyaları(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Veritabanları(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Veritabanları(*.dbc)|*.dbc|DBase Dosyaları(*.dbf)|*.dbf|Excel Dosyaları(*.xls)|*.xls|WPS Spreadsheets Dosyaları(*.et)|*.et|CSV Yazı Dosyaları(*.csv)|*.csv|PRN Yazı Dosyaları(*.prn)|*.prn|Yazı Dosyaları(*.txt)|*.txt|Ofis Veritabanı Bağlantıları(*.odc)|*.odc|Microsoft Veri linkleri(*.udl)|*.udl|ODBC dosya DSNleri(*.dsn)|*.dsn|Sorgu Dosyası(*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>You cannot perform next operation due to one of the following reasons: You have not selected a valid data source. The connection string is blank. The string you typed is not correct. The generated connection failed.</source>
         <comment>TX_ETDBE_ERR_CONNECTFAIL</comment>
-        <translation type="unfinished"/>
+        <translation>Aşağıdakilerden birisi nedeniyle bir sonraki işlem gerçekleştirilemiyor: Geçerli veri kaynağı seçmediniz. Bağlantı dizesi boş. Yazdığınız dize doğru değil. Oluşturulan bağlantı başarısız oldu.</translation>
     </message>
     <message>
         <source>Connection</source>
@@ -3403,7 +3403,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
-        <translation type="unfinished"/>
+        <translation>XML dosyası açılamıyor. Dosya yok veya XML sözdizimi hatası mevcut.</translation>
     </message>
     <message>
         <source>Parameter</source>
@@ -3413,22 +3413,22 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Unable to open %s. Cannot download the information you requested.</source>
         <comment>TX_ETDBE_STR_WEBDOWNLOADERROR</comment>
-        <translation type="unfinished"/>
+        <translation>%s açılamadı. İstediğiniz bilgi indirilemiyor.</translation>
     </message>
     <message>
         <source>Cannot open the file because the specified file path is too long. Rename the file with less than 256 characters.</source>
         <comment>TX_ETDBE_STR_FILENAME_LENLIMIT</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen dosya yolu çok uzun olduğu için dosya açılamıyor. 256&apos;dan daha az karakter kullanarak dosyayı yeniden adlandırın.</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
         <comment>TX_ETDBE_STR_BACKGROUND_QUERY</comment>
-        <translation type="unfinished"/>
+        <translation>Arka plan sorgusu çalışıyor...(İptal etmek için buraya tıklayın) </translation>
     </message>
     <message>
         <source>This will cancel a pending data refresh. Continue?</source>
         <comment>TX_ETDBE_STR_BACKGROUND_TTIP</comment>
-        <translation type="unfinished"/>
+        <translation>Bu bekleyen bir veri yenileme işlemini iptal eder. Devam edilsin mi?</translation>
     </message>
     <message>
         <source>:Getting Data ...</source>
@@ -3476,7 +3476,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Database</source>
         <comment>FuncCatName08</comment>
-        <translation>Veri Tabanı</translation>
+        <translation>Veritabanı</translation>
     </message>
     <message>
         <source>Text</source>
@@ -3511,62 +3511,62 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the number that represents the date in WPS Spreadsheets date-time code.</source>
         <comment>DATE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tarih işlevi belirli bir tarihi temsil eden sıralı seri numarasını verir.</translation>
     </message>
     <message>
         <source>DATEVALUE(date_text)</source>
         <comment>DATEVALUE_GRAMMER</comment>
-        <translation>DATEVALUE(date_text)</translation>
+        <translation>TARİHSAYISI(tarih_metni)</translation>
     </message>
     <message>
         <source>Converts a date in the form of text to a number that represents the date in WPS Spreadsheets date-time code.</source>
         <comment>DATEVALUE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Metin olarak depolanan tarihi WPS Spreadsheets&apos;in tarih olarak tanıyacağı bir seri numarasına dönüştürür. </translation>
     </message>
     <message>
         <source>Returns the day of the month, a number from 1 to 31.</source>
         <comment>DAY_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>1 ile 31 aralığında ayın gününü verir.</translation>
     </message>
     <message>
         <source>HOUR(serial_number)</source>
         <comment>HOUR_GRAMMER</comment>
-        <translation>HOUR(serial_number)</translation>
+        <translation>SAAT(seri_numarası)</translation>
     </message>
     <message>
         <source>Returns the hour as a number from 0(12:00 A.M.) to 23(11:00 P.M.).</source>
         <comment>HOUR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Zaman değerini saat biriminde verir. Saat, 00:00 ile 23:00 arasındaki bir tamsayıdır.</translation>
     </message>
     <message>
         <source>MINUTE(serial_number)</source>
         <comment>MINUTE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DAKİKA(seri_numarası)</translation>
     </message>
     <message>
         <source>Returns the minute, a number from 0 to 59.</source>
         <comment>MINUTE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dakikayı 0 - 59 arasında bir tamsayı olarak verir.</translation>
     </message>
     <message>
         <source>MONTH(serial_number)</source>
         <comment>MONTH_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>AY(seri_no)</translation>
     </message>
     <message>
         <source>Returns the month, a number from 1(January) to 12(December).</source>
         <comment>MONTH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Seri_no tarafından gösterilen ayı verir. Ay, 1 (Ocak) ile 12 (Aralık) arasında bir tamsayıdır.</translation>
     </message>
     <message>
         <source>NETWORKDAYS(start_date,end_date,holidays)</source>
         <comment>NETWORKDAYS_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TAMİŞGÜNÜ(başlangıç_tarihi;bitiş_tarihi;tatiller)</translation>
     </message>
     <message>
         <source>Returns the number of whole workdays between two dates.(Workdays don&apos;t include weekends and legal holidays.)</source>
         <comment>NETWORKDAYS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Başlangıç_tarihi ve bitiş_tarihi arasındaki tüm çalışma günlerinin sayısını verir. (Çalışma günleri hafta sonlarını ve tatil olarak tanımlanmış günleri içermez.)</translation>
     </message>
     <message>
         <source>NOW()</source>
@@ -3576,37 +3576,37 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the current date and time formatted as a date and time.</source>
         <comment>NOW_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Geçerli tarih ve saatin seri numarasını verir.</translation>
     </message>
     <message>
         <source>SECOND(serial_number)</source>
         <comment>SECOND_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANİYE(seri_numarası)</translation>
     </message>
     <message>
         <source>Returns the second, a number from 0 to 59.</source>
         <comment>SECOND_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Saniyeyi, 0 ile 59 arası bir rakam olarak verir.</translation>
     </message>
     <message>
         <source>TIME(hour,minute,second)</source>
         <comment>TIME_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ZAMAN(saat,dakika,saniye)</translation>
     </message>
     <message>
         <source>Converts hours, minutes, and seconds given as numbers to a WPS Spreadsheets serial number, formatted with a time format.</source>
         <comment>TIME_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirli bir zamanın ondalık sayısını verir. Hücre biçimi fonksiyon girilmeden önce Genel ise, sonuç tarih olarak biçimlendirilir.</translation>
     </message>
     <message>
         <source>TIMEVALUE(time_text)</source>
         <comment>TIMEVALUE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ZAMANSAYISI(saat_metni)</translation>
     </message>
     <message>
         <source>Converts a text time to an WPS Spreadsheets serial number for a time.</source>
         <comment>TIMEVALUE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesiyle gösterilen zamanı ondalık sayı halinde verir.</translation>
     </message>
     <message>
         <source>TODAY()</source>
@@ -3616,132 +3616,132 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the current date formatted as a date.</source>
         <comment>TODAY_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Geçerli tarihin seri sayısını verir.</translation>
     </message>
     <message>
         <source>WEEKDAY(serial_number,return_type)</source>
         <comment>WEEKDAY_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>HAFTANINGÜNÜ(seri_no,döndür_tür)</translation>
     </message>
     <message>
         <source>Returns a number from 1 to 7 identifying the day of the week of a date.</source>
         <comment>WEEKDAY_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir tarihe karşılık gelen haftanın gününü, 1 ile 7 arasında sayı biçiminde verir.</translation>
     </message>
     <message>
         <source>WEEKNUM(serial_num,return_type)</source>
         <comment>WEEKNUM_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>HAFTASAY(seri_no,döndür_tür)</translation>
     </message>
     <message>
         <source>Returns the number identifying the order of the week of a year.</source>
         <comment>WEEKNUM_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirli bir tarihin rast geldiği hafta numarasını verir.</translation>
     </message>
     <message>
         <source>YEAR(serial_number)</source>
         <comment>YEAR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YIL(seri_numarası)</translation>
     </message>
     <message>
         <source>Returns the year of a date, an integer in the range 1900-9999.</source>
         <comment>YEAR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tarihe karşılık gelen yılı verir. Yıl, 1900-9999 aralığında bir tamsayı olarak verilir.</translation>
     </message>
     <message>
         <source>ABS(number)</source>
         <comment>ABS_GRAMMER</comment>
-        <translation>ABS(numara)</translation>
+        <translation>MUTLAK(sayı)</translation>
     </message>
     <message>
         <source>Returns the absolute value of a number, a number without its sign.</source>
         <comment>ABS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının mutlak değerini, onun işaretsiz sayısını verir.</translation>
     </message>
     <message>
         <source>ACOS(number)</source>
         <comment>ACOS_GRAMMER</comment>
-        <translation>ACOS(numara)</translation>
+        <translation>ACOS(sayı)</translation>
     </message>
     <message>
         <source>Returns the arccosine of a number, in radians in the range 0 to Pi. The arccosine is the angle whose cosine is Number.</source>
         <comment>ACOS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının 0 ile Pi aralığında radyan cinsinden ark kosinüsünü verir. Ark kosinüs, kosinüsü sayı olan açıdır.</translation>
     </message>
     <message>
         <source>ASIN(number)</source>
         <comment>ASIN_GRAMMER</comment>
-        <translation>ASIN(numara)</translation>
+        <translation>ASİN(sayı)</translation>
     </message>
     <message>
         <source>Returns the arcsine of a number within radians from -Pi/2 to Pi/2.</source>
         <comment>ASIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının ark sinüsünü -Pi/2 ile Pi/2 aralığında, radyan cinsinden verir.</translation>
     </message>
     <message>
         <source>ATAN (number)</source>
         <comment>ATAN_GRAMMER</comment>
-        <translation>ATAN (numara)</translation>
+        <translation>ATAN(sayı)</translation>
     </message>
     <message>
         <source>Returns the arctangent of a number in radians, in the range -Pi/2 to Pi/2.</source>
         <comment>ATAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının ark tanjantını -Pi/2 ile Pi/2 aralığında, radyan cinsinden verir.</translation>
     </message>
     <message>
         <source>ATAN2(x_num,y_num)</source>
         <comment>ATAN2_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ATAN2(x_sayı,y_sayı)</translation>
     </message>
     <message>
         <source>Returns the arctangent of the specified x- and y- coordinates, in radians between -Pi and Pi, excluding -Pi.</source>
         <comment>ATAN2_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirlenen x ve y koordinatlarının arktanjantını -Pi hariç olmak üzere, -Pi ve Pi arasında radyan cinsinden verir.</translation>
     </message>
     <message>
         <source>CEILING(number,significance)</source>
         <comment>CEILING_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TAVANAYUVARLA(sayı,anlam)</translation>
     </message>
     <message>
         <source>Rounds a number up, to the nearest integer or to the nearest multiple of significance.</source>
         <comment>CEILING_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sıfırdan uzağa, anlamın en yakın katına yuvarlanmış sayıyı verir. </translation>
     </message>
     <message>
         <source>COS(number)</source>
         <comment>COS_GRAMMER</comment>
-        <translation>COS(numara)</translation>
+        <translation>COS(sayı)</translation>
     </message>
     <message>
         <source>Returns the cosine of a given angle.</source>
         <comment>COS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen açının kosinüsünü verir.</translation>
     </message>
     <message>
         <source>COSH(number)</source>
         <comment>COSH_GRAMMER</comment>
-        <translation>COSH(numara)</translation>
+        <translation>COSH(sayı)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic cosine of a number.</source>
         <comment>COSH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının hiperbolik kosinüsünü verir.</translation>
     </message>
     <message>
         <source>DEGREES(angle)</source>
         <comment>DEGREES_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DERECE(açı)</translation>
     </message>
     <message>
         <source>Converts radians to degrees.</source>
         <comment>DEGREES_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Radyanı dereceye dönüştürür.</translation>
     </message>
     <message>
         <source>DIV(dividend,divisor)</source>
         <comment>DIV_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DIV(bölünen, bölen)</translation>
     </message>
     <message>
         <source>Div.</source>
@@ -3751,687 +3751,687 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>EVEN(number)</source>
         <comment>EVEN_GRAMMER</comment>
-        <translation>EVEN(numara)</translation>
+        <translation>ÇİFT(sayı)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest even integer.</source>
         <comment>EVEN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Pozitif sayıyı yukarı, negatif sayıyı aşağı en yakın çift tam sayıya yuvarlar.</translation>
     </message>
     <message>
         <source>EXP(number)</source>
         <comment>EXP_GRAMMER</comment>
-        <translation>EXP(numara)</translation>
+        <translation>ÜS(sayı)</translation>
     </message>
     <message>
         <source>Returns e raised to the power of a given number.</source>
         <comment>EXP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>e&apos; yi, verilen bir sayının üssüne yükseltilmiş olarak verir.</translation>
     </message>
     <message>
         <source>FACT(number)</source>
         <comment>FACT_GRAMMER</comment>
-        <translation>FACT(numara)</translation>
+        <translation>ÇARPINIM(sayı)</translation>
     </message>
     <message>
         <source>Returns the factorial of a number, equal to 1*2*3*...* Number.</source>
         <comment>FACT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının 1*2*3*...*Sayı şeklinde çarpınımını döndürür.</translation>
     </message>
     <message>
         <source>GCD(number1,number2,...)</source>
         <comment>GCD_SYNTAX</comment>
-        <translation>GCD(sayı1,sayı2,...)</translation>
+        <translation>OBEB(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the greatest common divisors of two or more integers.</source>
         <comment>GCD_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>İki ya da daha fazla tam sayının en büyük ortan bölenini verir.</translation>
     </message>
     <message>
         <source>FLOOR(number,significance)</source>
         <comment>FLOOR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TABANAYUVARLA(sayı,anlam)</translation>
     </message>
     <message>
         <source>Rounds a number down, toward zero, to the nearest multiple of significance.</source>
         <comment>FLOOR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayı aşağı, sıfıra doğru, anlamlı en yakın katına yuvarlar.</translation>
     </message>
     <message>
         <source>INT(number)</source>
         <comment>INT_GRAMMER</comment>
-        <translation>INT(numara)</translation>
+        <translation>TAMSAYI(sayı)</translation>
     </message>
     <message>
         <source>Rounds a number down to the nearest integer.</source>
         <comment>INT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayıyı aşağıya doğru en yakın tam sayıya yuvarlar.</translation>
     </message>
     <message>
         <source>LCM(number1,number2,...)</source>
         <comment>LCM_SYNTAX</comment>
-        <translation>LCM(sayı1,sayı2,...)</translation>
+        <translation>OKEK(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the lease common multiples of two or more integers.</source>
         <comment>LCM_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Tam sayıların en küçük ortak katını verir.</translation>
     </message>
     <message>
         <source>LN(number)</source>
         <comment>LN_GRAMMER</comment>
-        <translation>LN(numara)</translation>
+        <translation>LN(sayı)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a number.</source>
         <comment>LN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının doğal logaritmasını bulur.</translation>
     </message>
     <message>
         <source>LOG(number,base)</source>
         <comment>LOG_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>LOG(sayı,temel)</translation>
     </message>
     <message>
         <source>Returns the logarithm of a number to the base you specify.</source>
         <comment>LOG_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının belirlediğiniz tabandaki logaritmasını verir.</translation>
     </message>
     <message>
         <source>LOG10(number)</source>
         <comment>LOG10_GRAMMER</comment>
-        <translation>LOG10(numara)</translation>
+        <translation>LOG10(sayı)</translation>
     </message>
     <message>
         <source>Returns the base-10 logarithm of a number.</source>
         <comment>LOG10_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının 10 tabanındaki logaritmasını verir.</translation>
     </message>
     <message>
         <source>MOD(number,divisor)</source>
         <comment>MOD_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>MOD(sayı,bölen)</translation>
     </message>
     <message>
         <source>Returns the remainder after a number is divided by a divisor.</source>
         <comment>MOD_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının, bir bölen tarafından bölünmesinden sonra kalanını verir.</translation>
     </message>
     <message>
         <source>ODD(number)</source>
         <comment>ODD_GRAMMER</comment>
-        <translation>ODD(numara)</translation>
+        <translation>TEK(sayı)</translation>
     </message>
     <message>
         <source>Rounds a positive number up and negative number down to the nearest odd integer.</source>
         <comment>ODD_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Pozitif sayıyı yukarı, negatif sayıyı aşağı en yakın tek tam sayıya yuvarlar.</translation>
     </message>
     <message>
         <source>PI()</source>
         <comment>PI_GRAMMER</comment>
-        <translation>PI()</translation>
+        <translation>Pİ()</translation>
     </message>
     <message>
         <source>Returns the value of Pi, 3.14159265358979, accurate to 15 digits.</source>
         <comment>PI_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Pi sayısının değerini (3,14159265358979), 15 basamağa kadar verir.</translation>
     </message>
     <message>
         <source>POWER(number,power)</source>
         <comment>POWER_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KUVVET(sayı,kuvvet)</translation>
     </message>
     <message>
         <source>Returns the result of a number raised to a power.</source>
         <comment>POWER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Üssü alınmış bir sayının sonucunu verir.</translation>
     </message>
     <message>
         <source>PRODUCT(number1,number2,...)</source>
         <comment>PRODUCT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ÇARPIM(sayı1;sayı2;...)</translation>
     </message>
     <message>
         <source>Multiplies all the numbers given as arguments.</source>
         <comment>PRODUCT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişken olarak verilen tüm sayıları çarpar.</translation>
     </message>
     <message>
         <source>QUARTILE(array,quart)</source>
         <comment>QUARTILE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DÖRTTEBİRLİK(dizi,dörttebir)</translation>
     </message>
     <message>
         <source>Returns the quartile of a data set.</source>
         <comment>QUARTILE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Veri kümesinin dörtte birini verir.</translation>
     </message>
     <message>
         <source>RADIANS(angle)</source>
         <comment>RADIANS_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>RADYAN(açı)</translation>
     </message>
     <message>
         <source>Converts degrees to radians.</source>
         <comment>RADIANS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dereceyi radyana çevirir.</translation>
     </message>
     <message>
         <source>RAND()</source>
         <comment>RAND_GRAMMER</comment>
-        <translation>RAND()</translation>
+        <translation>S_SAYI_ÜRET()</translation>
     </message>
     <message>
         <source>Returns a random number greater than or equal to 0 and less than 1, evenly distributed (changes on recalculation).</source>
         <comment>RAND_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>0 ya da 0&apos;dan büyük ve 1&apos;den küçük bir sayıyı eşit dağılımla rastgele verir. (yeniden hesaplama sonucu değiştirir). </translation>
     </message>
     <message>
         <source>RANDBETWEEN(bottom,top)</source>
         <comment>RANDBETWEEN_GRAMMER</comment>
-        <translation>RANDBETWEEN(bottom,top)</translation>
+        <translation>RASTGELEARADA(alt, üst)</translation>
     </message>
     <message>
         <source>ROMAN(number,form)</source>
         <comment>ROMAN_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ROMEN(sayı,form)</translation>
     </message>
     <message>
         <source>Converts an Arabic numeral to Roman, as text.</source>
         <comment>ROMAN_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Arap rakamlarını metin biçimiyle Romen rakamlarına çevirir.</translation>
     </message>
     <message>
         <source>Returns a random integer between the two numbers you specified.</source>
         <comment>RANDBETWEEN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen iki sayı arasında rastgele bir tamsayı döndürür.</translation>
     </message>
     <message>
         <source>ROUND(number,num_digits)</source>
         <comment>ROUND_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YUVARLA(sayı,sayı_basamaklar)</translation>
     </message>
     <message>
         <source>Rounds a number to a specified number of digits.</source>
         <comment>ROUND_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayıyı belirtilen basamak sayısına yuvarlar.</translation>
     </message>
     <message>
         <source>SIGN(number)</source>
         <comment>SIGN_GRAMMER</comment>
-        <translation>SIGN(numara)</translation>
+        <translation>İŞARET(sayı)</translation>
     </message>
     <message>
         <source>Returns the sign of a number: 1 if the number is positive, zero if the number is zero, or -1 if the number is negative.</source>
         <comment>SIGN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının işaretini belirler. Sayı pozitifse 1, sayı 0 ise 0, sayı negatifse -1 verir.</translation>
     </message>
     <message>
         <source>SIN(number)</source>
         <comment>SIN_GRAMMER</comment>
-        <translation>SIN(numara)</translation>
+        <translation>SİN(sayı)</translation>
     </message>
     <message>
         <source>Returns the sine of a given angle.</source>
         <comment>SIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen açının sinüsünü verir.</translation>
     </message>
     <message>
         <source>SINH(number)</source>
         <comment>SINH_GRAMMER</comment>
-        <translation>SINH(numara)</translation>
+        <translation>SİNH(sayı)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic sine of a number.</source>
         <comment>SINH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının hiperbolik sinüsünü verir.</translation>
     </message>
     <message>
         <source>SKEW(number1,number2,...)</source>
         <comment>SKEW_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ÇARPIKLIK(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the skewness of a distribution: a characterization of the degree of asymmetry of a distribution around its mean.</source>
         <comment>SKEW_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Dağılım çarpıklığını verir. Çarpıklık, bir dağılımın ortalaması etrafındaki asimetri derecesini belirtir.</translation>
     </message>
     <message>
         <source>SQRT(number)</source>
         <comment>SQRT_GRAMMER</comment>
-        <translation>SQRT(numara)</translation>
+        <translation>KAREKÖK(sayı)</translation>
     </message>
     <message>
         <source>Returns the square root of a number.</source>
         <comment>SQRT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının karekökünü verir.</translation>
     </message>
     <message>
         <source>SQRTPI(number)</source>
         <comment>SQRTPI_GRAMMER</comment>
-        <translation>SQRTPI(numara)</translation>
+        <translation>KAREKÖKPİ(sayı)</translation>
     </message>
     <message>
         <source>Returns the square root of a number which has been multiplied by Pi.</source>
         <comment>SQRTPI_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının Pi sayısıyla çarpımının karekökünü verir.</translation>
     </message>
     <message>
         <source>STEYX(known_y&apos;s,known_x&apos;s)</source>
         <comment>STEYX_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>STHYX(bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>Returns the standard deviation of the predicted y-value for each x in the linear regression.</source>
         <comment>STEYX_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Regresyondaki her x için tahmini y değerinin standart hatasını verir.</translation>
     </message>
     <message>
         <source>SUBTOTAL(function_num,ref1,ref2,...)</source>
         <comment>SUBTOTAL_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ALTTOPLAM(işlev_sayısı,başv1,başv2,...)</translation>
     </message>
     <message>
         <source>Returns a subtotal in list or database.</source>
         <comment>SUBTOTAL_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir listede veya veritabanında bir alt toplam verir.</translation>
     </message>
     <message>
         <source>SUM(number1,number2, ...)</source>
         <comment>SUM_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TOPLA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the sum of all the numbers in a range of cells.</source>
         <comment>SUM_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir hücre aralığındaki tüm sayıların toplamını verir.</translation>
     </message>
     <message>
         <source>SUMIF(range,criteria,sum_range)</source>
         <comment>SUMIF_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ETOPLA(aralık,ölçüt,toplam_aralığı)</translation>
     </message>
     <message>
         <source>Sums the cells that meet the given criteria.</source>
         <comment>SUMIF_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen kriterlere uygun hücreleri toplar.</translation>
     </message>
     <message>
         <source>SUMPRODUCT(array1,array2,array3, ...)</source>
         <comment>SUMPRODUCT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TOPLA.ÇARPIM(dizi1,dizi2,dizi3,...)</translation>
     </message>
     <message>
         <source>Multiplies the corresponding data in the given arrays and then returns the sum of the products.</source>
         <comment>SUMPRODUCT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen dizilerde karşılık gelen bileşenleri çarpar ve bu çarpımların toplamını verir.</translation>
     </message>
     <message>
         <source>TAN(number)</source>
         <comment>TAN_GRAMMER</comment>
-        <translation>TAN(numara)</translation>
+        <translation>TAN(sayı)</translation>
     </message>
     <message>
         <source>Returns the tangent of a given angle.</source>
         <comment>TAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen açının tanjantını verir.</translation>
     </message>
     <message>
         <source>TANH(number)</source>
         <comment>TANH_GRAMMER</comment>
-        <translation>TANH(numara)</translation>
+        <translation>TANH(sayı)</translation>
     </message>
     <message>
         <source>Returns the hyperbolic tangent of a number.</source>
         <comment>TANH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının ters hiperbolik tanjantını döndürür.</translation>
     </message>
     <message>
         <source>ACOSH(number)</source>
         <comment>ACOSH_GRAMMER</comment>
-        <translation>ACOSH(numara)</translation>
+        <translation>ACOSH(sayı)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic cosine of a number.</source>
         <comment>ACOSH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının ters hiperbolik kosinüsünü verir.</translation>
     </message>
     <message>
         <source>ASINH(number)</source>
         <comment>ASINH_GRAMMER</comment>
-        <translation>ASINH(numara)</translation>
+        <translation>ASİNH(sayı)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.</source>
         <comment>ASINH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının ters hiperbolik sinüsünü verir. Ters hiperbolik sinüs, hiperbolik sinüsü sayı olan değerdir, dolayısıyla ASİNH(SİNH(sayı)) eşittir sayı.</translation>
     </message>
     <message>
         <source>ATANH(number)</source>
         <comment>ATANH_GRAMMER</comment>
-        <translation>ATANH(numara)</translation>
+        <translation>ATANH(sayı)</translation>
     </message>
     <message>
         <source>Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.</source>
         <comment>ATANH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının ters hiperbolik tanjantını verir. Sayılar -1 ile 1 arasında (-1 ve 1 hariç) olmalıdır. Ters hiperbolik tanjant, hiperbolik tanjantı sayı olan değerdir, dolayısıyla ATANH(TANH(sayı)) eşittir sayı.</translation>
     </message>
     <message>
         <source>TRUNC(number,num_digits)</source>
         <comment>TRUNC_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>NSAT(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>Returns an integer by removing the decimal part of the number.</source>
         <comment>TRUNC_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayının kesirli kısmını atarak bir sayıyı tamsayıya çevirir.</translation>
     </message>
     <message>
         <source>SUMSQ(number1,number2, ...)</source>
         <comment>SUMSQ_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TOPKARE(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>KOMBİNASYON(sayı,sayı_seçilen)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
         <comment>COMBIN_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Belli sayıda nesne için kombinasyon sayısını verir.</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KOMBİNASYON(sayı,sayı_seçilen)</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belli sayıda eleman için kombinasyon sayısını verir.</translation>
     </message>
     <message>
         <source>COVAR(array1,array2)</source>
         <comment>COVAR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KOVARYANS(dizi1,dizi2)</translation>
     </message>
     <message>
         <source>Returns covariance, the average of the products of deviations for each data point pair. Use covariance to determine the relationship between two data sets.</source>
         <comment>COVAR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Kovaryans iki veri kümesindeki her veri noktası için sapma çarpımlarının ortalamasını verir. İki veri kümesi arasındaki ilişkili belirlemek için kovaryans kullanın.</translation>
     </message>
     <message>
         <source>ROUNDDOWN(number,num_digits)</source>
         <comment>ROUNDDOWN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>AŞAĞIYUVARLA(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>Rounds a number down, towards zero.</source>
         <comment>ROUNDDOWN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayıyı sıfır yönünde aşağı yuvarlar.</translation>
     </message>
     <message>
         <source>ROUNDUP(number,num_digits)</source>
         <comment>ROUNDUP_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YUKARIYUVARLA(sayı,sayı_rakamlar)</translation>
     </message>
     <message>
         <source>Rounds a number up, away from zero.</source>
         <comment>ROUNDUP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayıyı sıfırdan uzaklaşarak yukarı yuvarlar.</translation>
     </message>
     <message>
         <source>SERIESSUM(x,n,m,coefficients)</source>
         <comment>SERIESSUM_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>SERİTOPLA(x,n,m,katsayıları)</translation>
     </message>
     <message>
         <source>Returns the sum of a power series.</source>
         <comment>SERIESSUM_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir üs serisinin toplamını verir.</translation>
     </message>
     <message>
         <source>SUMX2MY2(array_x,array_y)</source>
         <comment>SUMX2MY2_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TOPX2EY2(dizi_x,dizi_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the differences of squares of corresponding values in two arrays.</source>
         <comment>SUMX2MY2_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki dizide karşılık gelen değerlerin karelerinin farkının toplamını verir.</translation>
     </message>
     <message>
         <source>SUMX2PY2(array_x,array_y)</source>
         <comment>SUMX2PY2_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TOPX2AY2(dizi_x,dizi_y)</translation>
     </message>
     <message>
         <source>Returns the sum of the sum squares of corresponding values in two arrays.</source>
         <comment>SUMX2PY2_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki dizide, karşılık gelen değerlerin karelerin toplamının toplamını verir.</translation>
     </message>
     <message>
         <source>SUMXMY2(array_x,array_y)</source>
         <comment>SUMXMY2_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TOPXEY2(dizi_x,dizi_y)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of differences of corresponding values in two arrays.</source>
         <comment>SUMXMY2_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki dizide karşılık gelen değer farkı karelerinin toplamını verir.</translation>
     </message>
     <message>
         <source>AVERAGE(number1,number2,...)</source>
         <comment>AVERAGE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ORTALAMA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of its arguments, which can be numbers, names, arrays or references that contain numbers.</source>
         <comment>AVERAGE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişkenlerin ortalamasını (aritmetik ortalama) döndürür, sayı, isim, dizi veya sayı içeren referanslar olabilir.</translation>
     </message>
     <message>
         <source>AVERAGEA(number1,number2,...)</source>
         <comment>AVERAGEA_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ORTALAMAA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Returns the average (arithmetic mean) of the given arguments. Evaluates text and FALSE in arguments as 0, TRUE as 1. Arguments can be numbers, names, arrays or references.</source>
         <comment>AVERAGEA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişkenler listesindeki değerlerin ortalamasını (aritmetik ortalaması) hesaplar. DOĞRU içeren bağımsız değişkenler 1 olarak, YANLIŞ içeren bağımsız değişkenler 0 olarak değerlendirilir. Argümanlar sayı, isim, dizi veya sayı içeren referanslar olabilir.</translation>
     </message>
     <message>
         <source>AVEDEV(number1,number2,...)</source>
         <comment>AVEDEV_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ORTSAP(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the average of the absolute deviations of data points from their mean. AVEDEV is a measure of the variability in a data set.</source>
         <comment>AVEDEV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Veri noktalarının ortalamalarından mutlak sapmalarının ortalamasını verir. ORTSAP bir veri kümesindeki değişkenliğin bir ölçümüdür.</translation>
     </message>
     <message>
         <source>BINOMDIST(number_s,trials,probability_s,cumulative)</source>
         <comment>BINOMDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>BİNOMDAĞ(başarı_sayısı,denemeler,başarı_olasılığı,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the individual term binomial distribution probability.</source>
         <comment>BINOMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Tek terimli binom dağılımı olasılığını verir.</translation>
     </message>
     <message>
         <source>CHIDIST(x,degrees_freedom)</source>
         <comment>CHIDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>KİKAREDAĞ(x,serb_derecesi)</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
         <comment>CHIDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kikare dağılımın tek kuyruklu olasılığını verir.  c2 dağılımı, bir c2 sınamasıyla ilişkilendirilmiştir. Gözlemlenen ve beklenen değerleri karşılaştırmak için c2 sınamasını kullanın.</translation>
     </message>
     <message>
         <source>CHIINV(probability,degrees_freedom)</source>
         <comment>CHIINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>KİKARETERS(olasılık,serb_derecesi)</translation>
     </message>
     <message>
         <source>Returns the inverse of the one-tailed probability of the chi-squared distribution.</source>
         <comment>CHIINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kikare dağılımın tek kuyruklu olasılığının tersini verir.</translation>
     </message>
     <message>
         <source>CHITEST(actual_range,expected_range)</source>
         <comment>CHITEST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>KİKARETEST(etkin_erim,beklenen_erim)</translation>
     </message>
     <message>
         <source>Returns the test for independence. </source>
         <comment>CHITEST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bağımsızlık sınamasını verir.</translation>
     </message>
     <message>
         <source>CONFIDENCE(alpha,standard_dev,size)</source>
         <comment>CONFIDENCE_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GÜVENİRLİK(alfa,standart_sapma,boyut)</translation>
     </message>
     <message>
         <source>Returns the confidence interval for a population mean, using a normal distribution.</source>
         <comment>CONFIDENCE_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Normal dağılım kullanarak bir nüfus ortalamasının güvenirlik aralığını verir.</translation>
     </message>
     <message>
         <source>CORREL(array1,array2)</source>
         <comment>CORREL_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KORELASYON(dizi1,dizi2)</translation>
     </message>
     <message>
         <source>Returns the correlation coefficient between two data sets.</source>
         <comment>CORREL_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki veri kümesi arasındaki korelasyon katsayısını verir.</translation>
     </message>
     <message>
         <source>COUNT(value1,value2,...)</source>
         <comment>COUNT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BAĞ_DEĞ_SAY(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Returns the number of cells containing numbers and of numbers in the list of arguments.</source>
         <comment>COUNT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı içeren hücre sayısını ve bağımsız değişkenler listesindeki sayıları verir.</translation>
     </message>
     <message>
         <source>COUNTA(value1,value2,...)</source>
         <comment>COUNTA_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BAĞ_DEĞ_DOLU_SAY(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Counts the number of cells that are not empty.</source>
         <comment>COUNTA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Boş olmayan hücreleri sayar.</translation>
     </message>
     <message>
         <source>COUNTBLANK(range)</source>
         <comment>COUNTBLANK_GRAMMER</comment>
-        <translation>COUNTBLANK(seri)</translation>
+        <translation>BOŞLUKSAY(aralık)</translation>
     </message>
     <message>
         <source>Counts the number of empty cells in a specified range of cells.</source>
         <comment>COUNTBLANK_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen aralıktaki boş hücreleri sayar.</translation>
     </message>
     <message>
         <source>COUNTIF(range,criteria)</source>
         <comment>COUNTIF_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>EĞERSAY(aralık,ölçüt)</translation>
     </message>
     <message>
         <source>Counts the number of cells within a range that meet the given condition.</source>
         <comment>COUNTIF_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen şartı yerine aralığında hücreleri sayar.</translation>
     </message>
     <message>
         <source>CRITBINOM(trials,probability_s,alpha)</source>
         <comment>CRITBINOM_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>KRİTİKBİNOM(denemeler,başarı_olasılığı,alfa)</translation>
     </message>
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
         <comment>CRITBINOM_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kümülatif binom dağılımın bir ölçüt değerinden büyük veya ölçüt değerine eşit olduğu en küçük değeri verir.</translation>
     </message>
     <message>
         <source>DEVSQ(number1,number2,...)</source>
         <comment>DEVSQ_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SAPKARE(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the sum of squares of deviations of a data set from their sample mean.</source>
         <comment>DEVSQ_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Veri noktalarındaki sapmaların karelerinin toplamını örnek ortalamalarından verir.</translation>
     </message>
     <message>
         <source>EXPONDIST(x,lambda,cumulative)</source>
         <comment>EXPONDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ÜSTELDAĞ(x,lambda,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the exponential distribution.</source>
         <comment>EXPONDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Üstel dağılımı verir.</translation>
     </message>
     <message>
         <source>FDIST(x,degrees_freedom1,degrees_freedom2)</source>
         <comment>FDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>FDAĞ(x,serb_derecesi1,serb_derecesi2)</translation>
     </message>
     <message>
         <source>Returns the F probability distribution. You can use this function to determine whether two data sets have different degrees of diversity.</source>
         <comment>FDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>F olasılık dağılımını verir. İki veri kümesinin farklı basıklık derecelerine sahip olup olmadığını belirlemek için kullanabilirsiniz.</translation>
     </message>
     <message>
         <source>FREQUENCY(data_array,bins_array)</source>
         <comment>FREQUENCY_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>SIKLIK(veri_dizisi,ara_dizi)</translation>
     </message>
     <message>
         <source>Calculates how often values occur within a range of values and then returns a vertical array of numbers having one more element than Bins_array.</source>
         <comment>FREQUENCY_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Değerlerin bir değer aralığında kaç kez yinelendiğini hesaplar ve dikey bir sayı dizisi verir.</translation>
     </message>
     <message>
         <source>FTEST(array1,array2)</source>
         <comment>FTEST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>FTEST(dizi1,dizi2)</translation>
     </message>
     <message>
         <source>Returns the result of an F-test, the one-tailed probability that the variances in Array1 and Array2 are not significantly different.</source>
         <comment>FTEST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>F-testi, dizi1 ve dizi2 sapmaların önemli ölçüde farklı olmadığını tek kuyruklu olasılık sonucunu verir.</translation>
     </message>
     <message>
         <source>GAMMADIST(x,alpha,beta,cumulative)</source>
         <comment>GAMMADIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GAMADAĞ(x,alfa,beta,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the gamma distribution.</source>
         <comment>GAMMADIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Gama dağılımını verir.</translation>
     </message>
     <message>
         <source>GAMMAINV(probability,alpha,beta)</source>
         <comment>GAMMAINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GAMATERS(olasılık,alfa,beta)</translation>
     </message>
     <message>
         <source>Returns the inverse of the gamma cumulative distribution.</source>
         <comment>GAMMAINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Gama kümülatif dağılımının tersini verir.</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -4441,387 +4441,387 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the natural logarithm of the gamma function,Γ(x).</source>
         <comment>GAMMALN_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Gama işlevinin doğal logaritmasını, Γ(x), verir.</translation>
     </message>
     <message>
         <source>GROWTH(known_y&apos;s,known_x&apos;s,new_x&apos;s,stats)</source>
         <comment>GROWTH_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BÜYÜME(bilinen_y&apos;ler,bilinen_x&apos;ler,yeni_x&apos;ler,sabit)</translation>
     </message>
     <message>
         <source>Predicts the exponential growth by using existing data.</source>
         <comment>GROWTH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Varolan verileri kullanarak tahmin edilen üstel büyümeyi hesaplar.</translation>
     </message>
     <message>
         <source>GEOMEAN(number1,number2,...)</source>
         <comment>GEOMEAN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>GEOORT(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the geometric mean of an array or range of positive numeric data.</source>
         <comment>GEOMEAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Pozitif bir dizi ya da veri aralığının geometrik ortalamasını verir.</translation>
     </message>
     <message>
         <source>HARMEAN(number1,number2,...)</source>
         <comment>HARMEAN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>HARORT(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the harmonic mean of a data set. The harmonic mean is the reciprocal of the arithmetic mean of reciprocals.</source>
         <comment>HARMEAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesinin harmonik ortalamasını verir. Harmonik ortalama devrik değerlerin aritmetik ortalamasının devrik değeridir.</translation>
     </message>
     <message>
         <source>HYPGEOMDIST(sample_s,number_sample,population_s,number_population)</source>
         <comment>HYPGEOMDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>HİPERGEOMDAĞ(başarı_örnekleme,sayı_örnek,b_popülasyon,sayı_pop)</translation>
     </message>
     <message>
         <source>Returns the hypergeometric distribution. HYPGEOMDIST returns the probability of a given number of sample successes, given the sample size, population successes, and population size. </source>
         <comment>HYPGEOMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Hipergeometrik dağılımı verir. HİPERGEOMDAĞ örnek büyüklüğü, popülasyon başarısı ve popülasyon büyüklüğü göz önüne alındığında, örnek başarıların belirli sayıda olasılığını verir.</translation>
     </message>
     <message>
         <source>INTERCEPT(known_y&apos;s,known_x&apos;s)</source>
         <comment>INTERCEPT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KESMENOKTASI(bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>Calculates the point at which a line will intersect the y-axis by using the existing x-values and y-values.</source>
         <comment>INTERCEPT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Varolan x-değerleri ve y-değerlerini kullanarak y-eksenini kesecek çizgi üzerindeki noktayı hesaplar.</translation>
     </message>
     <message>
         <source>KURT(number1,number2,...)</source>
         <comment>KURT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>BASIKLIK(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the kurtosis of a data set. Kurtosis characterizes the relative peakedness or flatness of a distribution compared with the normal distribution.</source>
         <comment>KURT_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesinin basıklığını verir. Basıklık, normal dağılımla karşılaştırıldığında, bir dağılımın göreceli dikliğini ya da düzlüğünü verir.</translation>
     </message>
     <message>
         <source>LARGE(array,k)</source>
         <comment>LARGE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BÜYÜK(dizi,k)</translation>
     </message>
     <message>
         <source>Returns the k-th largest value in a data set. For example, it indicates the fourth largest number if k equals 4.</source>
         <comment>LARGE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesinde k. en büyük değeri verir. Örneğin, dördüncü en büyük sayı ise k 4&apos;e eşittir .</translation>
     </message>
     <message>
         <source>LINEST(known_y&apos;s,known_x&apos;s,const,stats)</source>
         <comment>LINEST_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DOT(Bilinen_y&apos;ler,bilinen_x&apos;ler,sabit,konum)</translation>
     </message>
     <message>
         <source>Returns statistics that describe a linear trend matching known data points, by fitting a straight line using the least squares method.</source>
         <comment>LINEST_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilerinize en iyi uyan doğruyu hesaplamak için &quot;en küçük kareler&quot; yöntemini kullanarak doğrunun istatistiğini hesaplar ve ardından doğruyu tanımlayan bir diziyi verir.</translation>
     </message>
     <message>
         <source>LOGINV(probability,mean,standard_dev)</source>
         <comment>LOGINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>LOGTERS(olasılık,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>Returns the inverse of the lognormal cumulative distribution function of x, where ln(x) is the normal distribution of parameters Mean and Standard_dev.</source>
         <comment>LOGINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>x&apos;in logaritmik normal kümülatif dağılım işlevinin tersini verir, burada ln(x) ortalama ve standart_sapma parametreleriyle normal olarak dağıtılmıştır.</translation>
     </message>
     <message>
         <source>LOGNORMDIST(x,mean,standard_dev)</source>
         <comment>LOGNORMDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>LOGNORMDAĞ(x,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>Returns the lognormal cumulative distribution of x, where ln(x) is normally distributed with parameters Mean and Standard_dev.</source>
         <comment>LOGNORMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>x&apos;in logaritmik normal kümülatif dağılımını verir, burada ln(x) ortalama ve standart_sapma parametreleri arasında normal olarak dağılmıştır. </translation>
     </message>
     <message>
         <source>MAX(number1,number2,...)</source>
         <comment>MAX_GRAMMER</comment>
-        <translation>MAX(sayı1,sayı2,...)</translation>
+        <translation>MAK(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MAX_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir değer kümesindeki en büyük değerleri verir. Mantıksal değerler ve metin göz ardı edilir.</translation>
     </message>
     <message>
         <source>MAXA(number1,number2,...)</source>
         <comment>MAXA_GRAMMER</comment>
-        <translation>MAXA(sayı1,sayı2,...)</translation>
+        <translation>MAKA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the maximum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MAXA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir bağımsız değişkenler listesindeki en büyük değeri verir. Mantıksal değerler ve metin göz ardı edilmez.</translation>
     </message>
     <message>
         <source>MEDIAN(number1,number2,...)</source>
         <comment>MEDIAN_GRAMMER</comment>
-        <translation>MEDIAN(sayı1,sayı2,...)</translation>
+        <translation>ORTANCA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the median of the given numbers.</source>
         <comment>MEDIAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen sayıların orta değerini verir.</translation>
     </message>
     <message>
         <source>MIN(number1,number2,...)</source>
         <comment>MIN_GRAMMER</comment>
-        <translation>MIN(sayı1,sayı2,...)</translation>
+        <translation>MİN(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Ignores logical values and text.</source>
         <comment>MIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değer kümesindeki en küçük sayıyı verir. Mantıksal değerler ve metin göz ardı edilir.</translation>
     </message>
     <message>
         <source>MINA(number1,number2,...)</source>
         <comment>MINA_GRAMMER</comment>
-        <translation>MINA(sayı1,sayı2,...)</translation>
+        <translation>MİNA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the minimum value in a list of arguments. Does not ignore logical values and text.</source>
         <comment>MINA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişken listesindeki en küçük değeri verir. Mantıksal değerler ve metin göz ardı edilmez.</translation>
     </message>
     <message>
         <source>MODE(number1,number2,...)</source>
         <comment>MODE_GRAMMER</comment>
-        <translation>MODE(sayı1,sayı2,...)</translation>
+        <translation>ENÇOK_OLAN(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the most common number (most frequently occurring) in an array or range of data.</source>
         <comment>MODE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir dizi veya aralıkta en çok olan (en sık tekrarlanan) değeri verir.</translation>
     </message>
     <message>
         <source>NEGBINOMDIST(number_f,number_s,probability_s)</source>
         <comment>NEGBINOMDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>NEGBİNOMDAĞ(başarısızlık_s,başarı_sayısı,başarı_olasılığı)</translation>
     </message>
     <message>
         <source>Returns the negative binomial distribution, the probability that there will be Number_f failures before the Number_s-th success, with Probability_s probability of a success.</source>
         <comment>NEGBINOMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Negatif binom dağılımı verir. NEGBİNOMDAĞ, başarı olasılığı başarı_olasılığı sabit değeri kadar olduğunda başarı_sayısı değerine eşit sayıda başarıdan önce başarısızlık_sayısı kadar başarısızlık olma olasılığını verir.</translation>
     </message>
     <message>
         <source>NORMDIST(x,mean,standard_dev,cumulative)</source>
         <comment>NORMDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>NORMDAĞ(x,ortalama,standart_sapma,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the normal cumulative distribution for the specified mean and standard deviation</source>
         <comment>NORMDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen ortalama ve standart sapma için normal dağılımı verir.</translation>
     </message>
     <message>
         <source>NORMINV(probability,mean,standard_dev)</source>
         <comment>NORMINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>NORMTERS(olasılık,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>Returns the inverse of the normal cumulative distribution for the specified mean and standard deviation.</source>
         <comment>NORMINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen ortalama ve standart sapma için normal kümülatif dağılımın tersini verir.</translation>
     </message>
     <message>
         <source>NORMSDIST(z)</source>
         <comment>NORMSDIST_SYNTAX</comment>
-        <translation>NORMSDIST(z)</translation>
+        <translation>NORMSDAĞ(z)</translation>
     </message>
     <message>
         <source>Returns the standard normal cumulative distribution function with a mean of zero and a standard deviation of one.</source>
         <comment>NORMSDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Standart normal kümülatif dağılım işlevini verir. Dağılımın ortalaması sıfır, standart sapması birdir.</translation>
     </message>
     <message>
         <source>NORMSINV(probability)</source>
         <comment>NORMSINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>NORMSTERS(olasılık)</translation>
     </message>
     <message>
         <source>PERCENTRANK(array,x,significance)</source>
         <comment>PERCENTRANK_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>YÜZDERANK(dizi,x,anlam)</translation>
     </message>
     <message>
         <source>Returns the percentage rank of a value in a data set.</source>
         <comment>PERCENTRANK_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesi içerisinde bir değerin yüzdelik sırasını verir.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>PERMÜTASYON(sayı,sayı_seçilen)</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Toplam nesnelerden seçili nesnelerin belirli bir sayıda permütasyon sayısını döndürür.</translation>
     </message>
     <message>
         <source>PEARSON(array1,array2)</source>
         <comment>PEARSON_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>PEARSON(dizi1,dizi2)</translation>
     </message>
     <message>
         <source>Returns the Pearson product moment correlation coefficient, r, a dimensionless index that ranges from -1.0 to 1.0 inclusive.</source>
         <comment>PEARSON_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Pearson çarpım moment korelasyon katsayısını verir, -1.0 ile 1.0 (dahil) arasında değişen boyutsuz bir dizindir.</translation>
     </message>
     <message>
         <source>PERCENTILE(array,k)</source>
         <comment>PERCENTILE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YÜZDEBİRLİK(dizi,k)</translation>
     </message>
     <message>
         <source>Returns the k-th percentile of values in a range.</source>
         <comment>PERCENTILE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir aralık içerisinde bulunan değerlerin k. yüzdebirliğini verir.</translation>
     </message>
     <message>
         <source>RANK(number,ref,order)</source>
         <comment>RANK_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>RANK(sayı,başv,sıra)</translation>
     </message>
     <message>
         <source>PROB(x_range,prob_range,lower_limit,upper_limit)</source>
         <comment>PROB_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>OLASILIK(X_aralığı,olasılık_aralığı, Alt_sınır,üst_sınır)</translation>
     </message>
     <message>
         <source>Returns the probability that values in a range which are between two limits.</source>
         <comment>PROB_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir aralıktaki değerlerin iki sınır arasında olma olasılığını verir.</translation>
     </message>
     <message>
         <source>RSQ(known_y&apos;s,known_x&apos;s)</source>
         <comment>RSQ_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>RKARE(bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>RSQ(Returns the square of the Pearson product moment correlation coefficient through data points in known_y&apos;s and known_x&apos;s.)</source>
         <comment>RSQ_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bilinen_y&apos;ler ve bilinen_x&apos;lerdeki veri noktaları aracılığıyla, Pearson çarpım moment korelasyon katsayısının karesini verir.</translation>
     </message>
     <message>
         <source>SLOPE(known_y&apos;s,known_x&apos;s)</source>
         <comment>SLOPE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>EĞİM(bilinen_y&apos;ler,bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>Returns the slope of the linear regression line through data points in known_y&apos;s and known_x&apos;s.</source>
         <comment>SLOPE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bilinen_y&apos;ler ve bilinen_x&apos;lerdeki veri noktaları aracılığıyla, doğrusal regresyon çizgisinin eğimini verir.</translation>
     </message>
     <message>
         <source>SMALL(array,k)</source>
         <comment>SMALL_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KÜÇÜK(dizi,k)</translation>
     </message>
     <message>
         <source>Returns the k-th smallest value in a data set. For example, the fourth smallest number if k equals four.</source>
         <comment>SMALL_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesinde k. en küçük değeri verir. Örneğin, dördüncü en küçük sayı ise, k 4&apos;e eşittir.</translation>
     </message>
     <message>
         <source>STANDARDIZE(x,mean,standard_dev)</source>
         <comment>STANDARDIZE_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>STANDARTLAŞTIRMA(x,ortalama,standart_sapma)</translation>
     </message>
     <message>
         <source>Returns a normalized value from a distribution characterized by mean and standard_dev.</source>
         <comment>STANDARDIZE_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Ortalama ve standart_sapmayla nitelenen bir dağılımdan normalleştirilmiş bir değer verir.</translation>
     </message>
     <message>
         <source>STDEV(number1,number2,...)</source>
         <comment>STDEV_GRAMMER</comment>
-        <translation>STDEV(sayı1,sayı2,...)</translation>
+        <translation>STDSAPMA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample(ignores logical values and text in the sample).</source>
         <comment>STDEV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir örneği temel alan standart sapmayı hesaplar (örnekte mantıksal değerleri ve metni yok sayar).</translation>
     </message>
     <message>
         <source>STDEVA(number1,number2,...)</source>
         <comment>STDEVA_GRAMMER</comment>
-        <translation>STDEVA(sayı1,sayı2,...)</translation>
+        <translation>STDSAPMAA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on a sample. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir örneğe dayalı standart sapmayı hesaplar. Mantıksal değerleri ve metini göz ardı etmez.</translation>
     </message>
     <message>
         <source>STDEVP(number1,number2,...)</source>
         <comment>STDEVP_GRAMMER</comment>
-        <translation>STDEVP(sayı1,sayı2,...)</translation>
+        <translation>STDSAPMAS(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population (ignores logical values and text).</source>
         <comment>STDEVP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tüm popülasyona bağlı olarak standart sapmayı hesaplar (mantıksal değerler ve metni yok sayar).</translation>
     </message>
     <message>
         <source>STDEVPA(number1,number2,...)</source>
         <comment>STDEVPA_GRAMMER</comment>
-        <translation>STDEVPA(sayı1,sayı2,...)</translation>
+        <translation>STDSAPMASA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Calculates standard deviation based on the entire population. Doesn&apos;t ignore logical values and text.</source>
         <comment>STDEVPA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tüm popülasyona bağlı olarak standart sapmayı hesaplar. Mantıksal değerleri ve metini göz ardı etmez.</translation>
     </message>
     <message>
         <source>TDIST(x,degrees_freedom,tails)</source>
         <comment>TDIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>TDAĞ(x,serbestlik_der,yazı_say)</translation>
     </message>
     <message>
         <source>Returns the percentile (probability) for the Student t-distribution, which is used in the hypothesis testing of small sample data sets.</source>
         <comment>TDIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Yüzdelik noktaları hesaplanan t&apos;nin hesaplanmış değeri sayısal değer (x) olduğunda Student t-dağılımına ilişkin yüzdelik noktaları (olasılık) verir.</translation>
     </message>
     <message>
         <source>TINV(probability,degrees_freedom)</source>
         <comment>TINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>TTERS(olasılık,serb_derecesi)</translation>
     </message>
     <message>
         <source>Returns the t-value of the Student&apos;s t-distribution as a function of the probability and the degrees of freedom.</source>
         <comment>TINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Olasılık fonksiyonu ve serbestlik derecesi olarak Student t-dağılımının, t-değerini döndürür.</translation>
     </message>
     <message>
         <source>TTEST(array1,array2,tails,type)</source>
         <comment>TTEST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>TTEST(dizi1,diz2,yazı_say,tür)</translation>
     </message>
     <message>
         <source>Returns the probability associated with a Student&apos;s t-Test. Use TTEST to determine whether two samples are likely to have come from the same two underlying populations that have the same mean.</source>
         <comment>TTEST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Student t-testi ile ilişkili olasılığı verir. Aynı ortalamaya sahip iki önemli popülasyondan, iki örneğin alınma olasılığını belirlemek için TTEST işlevini kullanın.</translation>
     </message>
     <message>
         <source>TRIMMEAN(array,percent)</source>
         <comment>TRIMMEAN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KIRPORTALAMA(dizi,yüzde)</translation>
     </message>
     <message>
         <source>Returns the mean of the interior of a data set. </source>
         <comment>TRIMMEAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir veri kümesinin içinin ortalamasını verir.</translation>
     </message>
     <message>
         <source>VAR(number1,number2,...)</source>
@@ -4831,37 +4831,37 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Calculates variance based on a sample(ignores logical values and text in the sample).</source>
         <comment>VAR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir örneğe dayanarak varyansı tahmin eder (örnekte mantıksal değerleri ve metni yok sayar).</translation>
     </message>
     <message>
         <source>VARA(number1,number2,...)</source>
         <comment>VARA_GRAMMER</comment>
-        <translation>VARA(sayı1,sayı2,...)</translation>
+        <translation>VARA(değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on a sample(doesn&apos;t ignore logical values and text in the sample).</source>
         <comment>VARA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir örneğe dayanarak varyansı tahmin eder (örnekte mantıksal değerleri ve metni yok saymaz).</translation>
     </message>
     <message>
         <source>VARP(number1,number2,...)</source>
         <comment>VARP_GRAMMER</comment>
-        <translation>VARP(sayı1,sayı2,...)</translation>
+        <translation>VARS(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(ignores logical values and text in the population).</source>
         <comment>VARP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tüm popülasyona dayanarak varyans hesaplar (mantıksal değerler ve metni yok sayar).</translation>
     </message>
     <message>
         <source>VARPA(number1,number2,...)</source>
         <comment>VARPA_GRAMMER</comment>
-        <translation>VARPA(sayı1,sayı2,...)</translation>
+        <translation>VARSA(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Calculates variance based on the entire population(includes logical values and text in the population).</source>
         <comment>VARPA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tüm popülasyona dayanarak varyans hesaplar (mantıksal değerler ve metni yok sayar).</translation>
     </message>
     <message>
         <source>GAMMALN(x)</source>
@@ -4871,47 +4871,47 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the natural logarithm of the gamma function.</source>
         <comment>GAMMALN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Gama işlevinin doğal logaritmasını verir.</translation>
     </message>
     <message>
         <source>FINV(probability,degrees_freedom1,degrees_freedom2)</source>
         <comment>FINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>FTERS(olasılık,serb_derecesi1,serb_derecesi2)</translation>
     </message>
     <message>
         <source>Returns the inverse of the F probability distribution.</source>
         <comment>FINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>F olasılık dağılımının tersini verir.</translation>
     </message>
     <message>
         <source>FORECAST(x,known_y&apos;s,known_x&apos;s)</source>
         <comment>FORECAST_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TAHMİN(x, bilinen_y&apos;ler, bilinen_x&apos;ler)</translation>
     </message>
     <message>
         <source>Calculates or predicts a future value by using the existing values.</source>
         <comment>FORECAST_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Varolan değerleri kullanarak gelecek bir değeri hesaplar veya tahmin eder.</translation>
     </message>
     <message>
         <source>BETADIST(x,alpha,beta,A,B)</source>
         <comment>BETADIST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>BETADAĞ(x,alfa,beta,A,B)</translation>
     </message>
     <message>
         <source>Returns the cumulative beta probability density function.</source>
         <comment>BETADIST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kümülatif beta olasılık yoğunluğu işlevini verir. </translation>
     </message>
     <message>
         <source>BETAINV(probability,alpha,beta,A,B)</source>
         <comment>BETAINV_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>BETATERS(olasılık,alfa,beta,A,B)</translation>
     </message>
     <message>
         <source>Returns the inverse of the cumulative beta probability density function (BETADIST).</source>
         <comment>BETAINV_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Kümülatif beta olasılık yoğunluğunun tersini verir (BETADAĞ).</translation>
     </message>
     <message>
         <source>FISHER(x)</source>
@@ -4921,197 +4921,197 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the Fisher transformation.</source>
         <comment>FISHER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Fisher dönüşümünü verir.</translation>
     </message>
     <message>
         <source>FISHERINV(y)</source>
         <comment>FISHERINV_GRAMMER</comment>
-        <translation>FISHERINV(y)</translation>
+        <translation>FISHERTERS(y)</translation>
     </message>
     <message>
         <source>Returns the inverse of the Fisher transformation. If y = FISHER(x), then FISHRINV(y) = x.</source>
         <comment>FISHERINV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Fisher dönüşümünün tersini verir. y = FISHER(x) ise, FISHERTERS(y) = x sonucu verir.</translation>
     </message>
     <message>
         <source>PERMUT(number,number_chosen)</source>
         <comment>PERMUT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>PERMÜTASYON(sayı,sayı_seçilen)</translation>
     </message>
     <message>
         <source>Returns the number of permutations for a given number of objects selected from the total objects.</source>
         <comment>PERMUT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Toplam nesnelerden seçili nesnelerin belirli bir sayıda permütasyon sayısını döndürür.</translation>
     </message>
     <message>
         <source>POISSON(x,mean,cumulative)</source>
         <comment>POISSON_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>POISSON(x,ortalama,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the Poisson distribution. Poisson distribution is commonly used to predict the number of events over a specific time.</source>
         <comment>POISSON_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Poisson dağılımını verir. Poisson dağılımı genellikle belirli bir zamandaki olayların sayısını tahmin etmek için kullanılır.</translation>
     </message>
     <message>
         <source>WEIBULL(x,alpha,beta,cumulative)</source>
         <comment>WEIBULL_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>WEIBULL(x,alfa,beta,kümülatif)</translation>
     </message>
     <message>
         <source>Returns the Weibull distribution. Use this function in reliability analysis, such as calculating a device&apos;s mean time to failure.</source>
         <comment>WEIBULL_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Weibull dağılımını verir. Bir aygıtın ortalama başarısızlık zamanını hesaplamak gibi, güvenirlik analizlerinde bu dağılımı kullanın.</translation>
     </message>
     <message>
         <source>ZTEST(array,μ0,sigma)</source>
         <comment>ZTEST_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ZTEST(dizi,x,sigma)</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
         <comment>ZTEST_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir z-testinin tek kuyruklu olasılık değerini verir.</translation>
     </message>
     <message>
         <source>ADDRESS(row_num,column_num,abs_num,a1,sheet_text)</source>
         <comment>ADDRESS_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ADRES(satır_num,sütun_num,mutlak_sayı,a1,sayfa_metni)</translation>
     </message>
     <message>
         <source>Creates a cell reference as text according to the specified row and column numbers.</source>
         <comment>ADDRESS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir hücrenin satır ve sütun numaralarıyla belirtilen adresini verir.</translation>
     </message>
     <message>
         <source>AREAS(reference)</source>
         <comment>AREAS_GRAMMER</comment>
-        <translation>AREAS(özellik)</translation>
+        <translation>ALANSAY(başvuru)</translation>
     </message>
     <message>
         <source>Returns the number of areas in a reference. An area is a range of contiguous cells or a single cell.</source>
         <comment>AREAS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir başvurudaki alanların sayısını verir. Alan, bir bitişik hücreler aralığı ya da tek bir hücredir.</translation>
     </message>
     <message>
         <source>CHOOSE(index_num,value1,value2,...)</source>
         <comment>CHOOSE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ELEMAN(dizin_sayısı,değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Returns a value from the list of arguments based on the given index number.</source>
         <comment>CHOOSE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen dizin_sayısı&apos;nı esas alarak bağımsız değişkenler listesinden bir değer verir.</translation>
     </message>
     <message>
         <source>COLUMN(reference)</source>
         <comment>COLUMN_GRAMMER</comment>
-        <translation>COLUMN(özellik)</translation>
+        <translation>SÜTUN(başvuru)</translation>
     </message>
     <message>
         <source>Returns the column number of a reference.</source>
         <comment>COLUMN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen hücre başvurusu sütun numarasını verir.</translation>
     </message>
     <message>
         <source>COLUMNS(array)</source>
         <comment>COLUMNS_GRAMMER</comment>
-        <translation>COLUMNS(dizilim)</translation>
+        <translation>SÜTUNSAY(dizi)</translation>
     </message>
     <message>
         <source>Returns the number of columns in an array or reference.</source>
         <comment>COLUMNS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir dizi ya da başvurudaki sütunların sayısını verir.</translation>
     </message>
     <message>
         <source>HLOOKUP(lookup_value,table_array,row_index_num,range_lookup)</source>
         <comment>HLOOKUP_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YATAYARA(aranan_değer,tablo_dizisi,satır_indis_sayısı,aralık_bak)</translation>
     </message>
     <message>
         <source>Looks for a value in the top row of a table or array of values and returns a value in the same column from a row you specify in the table or array (The table is ascending by default) .</source>
         <comment>HLOOKUP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirli bir değer için tablonun en üst satırını veya bir dizi üst satırını arar ve belirlediğiniz tablo veya dizideki satır ile aynı sütundaki değeri verir (tablo varsayılan olarak artandır).</translation>
     </message>
     <message>
         <source>INDEX(array,row_num,column_num)</source>
         <comment>INDEX_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>İNDİS(dizi,satır_sayısı,sütun_sayısı)</translation>
     </message>
     <message>
         <source>Returns the value of an element in a table or an array, selected by the row and column number indexes.</source>
         <comment>INDEX_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tabloda veya dizi bulunan öğenin değerini, satır ve sütun numarası indisleriyle seçerek verir.</translation>
     </message>
     <message>
         <source>INDIRECT(ref_text,a1)</source>
         <comment>INDIRECT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DOLAYLI(başv_metni, a1)</translation>
     </message>
     <message>
         <source>Returns the reference specified by a text string.</source>
         <comment>INDIRECT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Metin dizesiyle belirlenen başvuruyu verir.</translation>
     </message>
     <message>
         <source>LOOKUP(lookup_value,lookup_vector,result_vector);LOOKUP(lookup_value,array)</source>
         <comment>LOOKUP_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ARA(aranan_değer, aranan_vektör,sonuç_vektör);ARA(aranan_değer, dizi)</translation>
     </message>
     <message>
         <source>Looks up a value either from a one-row or one-column range or from an array.</source>
         <comment>LOOKUP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tek-satırlı ya da tek-sütunlu bir aralıktan ya da bir diziden bir değer verir.</translation>
     </message>
     <message>
         <source>MATCH(lookup_value,lookup_array,match_type)</source>
         <comment>MATCH_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KAÇINCI(aranan_değer,aranan_dizi,eşleştir_tür)</translation>
     </message>
     <message>
         <source>Returns the relative position of an item in an array that matches a specified value in a specified order.</source>
         <comment>MATCH_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirli bir sırada belirtilen değerle eşleşen bir öğenin bir dizi içerisindeki göreceli konumunu verir.</translation>
     </message>
     <message>
         <source>OFFSET(reference,rows,cols,height,width)</source>
         <comment>OFFSET_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KAYDIR(başv,satırlar,sütunlar,yükseklik,genişlik)</translation>
     </message>
     <message>
         <source>Returns a reference to a range that is a given number of rows and columns from a given reference.</source>
         <comment>OFFSET_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir hücre veya hücre aralığındaki belirtilen sütun ve satır sayısında bir aralığın başvurusunu verir.</translation>
     </message>
     <message>
         <source>ROW(reference)</source>
         <comment>ROW_GRAMMER</comment>
-        <translation>ROW(özellik)</translation>
+        <translation>SATIR(başvuru)</translation>
     </message>
     <message>
         <source>Returns the internal row number of a specified reference.</source>
         <comment>ROW_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Başvurunun satır sayısını verir.</translation>
     </message>
     <message>
         <source>ROWS(array)</source>
         <comment>ROWS_GRAMMER</comment>
-        <translation>ROWS(dizilim)</translation>
+        <translation>SATIRSAY(dizi)</translation>
     </message>
     <message>
         <source>Returns the number of rows in a reference or array.</source>
         <comment>ROWS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dizi veya başvurudaki satır sayısını verir.</translation>
     </message>
     <message>
         <source>VLOOKUP(lookup_value,table_array,col_index_num,range_lookup)</source>
         <comment>VLOOKUP_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DÜŞEYARA(aranan_değer,tablo_dizisi,sütun_indis_sayısı,aralık_bak)</translation>
     </message>
     <message>
         <source>Searches a specified value in the leftmost column of a table and returns a value in the current row from a column you specify.</source>
         <comment>VLOOKUP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir tablonun en sol sütununda belirtilen değeri arar ve geçerli satırda belirttiğiniz sütundaki değeri verir.</translation>
     </message>
     <message>
         <source>ASC(text)</source>
@@ -5121,232 +5121,232 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Converts full-width (double-byte) characters to half-width (single-byte) characters. Use with double-byte character sets (DBCS).</source>
         <comment>ASC_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Çift bayt karakter kümeli (DBCS) dillerde, işlev tam genişlikli (çift bayt) karakterleri yarı genişlikli (tek bayt) karakterlere dönüştürür.</translation>
     </message>
     <message>
         <source>CHAR(number)</source>
         <comment>CHAR_GRAMMER</comment>
-        <translation>CHAR(numara)</translation>
+        <translation>DAMGA(sayı)</translation>
     </message>
     <message>
         <source>Returns the character specified by the code number from the character set for your computer.</source>
         <comment>CHAR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bilgisayarınızın karakter kümesindeki kod numarasıyla belirtilen karakteri verir.</translation>
     </message>
     <message>
         <source>CODE(text)</source>
         <comment>CODE_GRAMMER</comment>
-        <translation>KOD(Metin)</translation>
+        <translation>KOD(metin)</translation>
     </message>
     <message>
         <source>Returns a numeric code for the first character in a text string, in the character set used by your computer.</source>
         <comment>CODE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizisindeki ilk karakter için bilgisayarınız tarafından kullanılan, karakter kümesine karşılık gelen sayısal bir kod verir.</translation>
     </message>
     <message>
         <source>CONCATENATE (text1,text2,...)</source>
         <comment>CONCATENATE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BİRLEŞTİR(metin1,metin2,...)</translation>
     </message>
     <message>
         <source>Joins several text strings into one text string.</source>
         <comment>CONCATENATE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki veya daha çok metin dizesini tek bir dizede birleştirir.</translation>
     </message>
     <message>
         <source>EXACT(text1,text2)</source>
         <comment>EXACT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ÖZDEŞ(metin1,metin2)</translation>
     </message>
     <message>
         <source>Returns TRUE if one string is exactly equal to another string (EXACTLY means case-sensitive); returns FALSE otherwise.</source>
         <comment>EXACT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki metin dizesini karşılaştırır ve ikisi de tam olarak birbirinin aynıysa DOĞRU (ÖZDEŞ büyük-küçük harf duyarlıdır); değilse YANLIŞ değerini verir.</translation>
     </message>
     <message>
         <source>FIND(find_text,within_text,start_num)</source>
         <comment>FIND_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BUL(bul_metin,metin_içinde,başlangıç_sayısı)</translation>
     </message>
     <message>
         <source>Returns the starting position of one text string within another(case-sensitive and wildcard characters are not allowed).</source>
         <comment>FIND_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Başka bir metin dizesinin içinde metin dizesinin başlangıç konumunu verir (küçük/büyük harfe duyarlıdır ve joker karakterlere izin verilmez).</translation>
     </message>
     <message>
         <source>LEFT(text,num_chars)</source>
         <comment>LEFT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SOLDAN(metin,sayı_karakterler)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified number from the first character of a text string.</source>
         <comment>LEFT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirteceğiniz karakter sayısına göre, bir metin dizesindeki ilk karakteri veya karakterleri verir.</translation>
     </message>
     <message>
         <source>LEN(text)</source>
         <comment>LEN_GRAMMER</comment>
-        <translation>LEN(metin)</translation>
+        <translation>UZUNLUK(metin)</translation>
     </message>
     <message>
         <source>Returns the length of a text string.</source>
         <comment>LEN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesinin uzunluğunu verir.</translation>
     </message>
     <message>
         <source>LOWER(text)</source>
         <comment>LOWER_GRAMMER</comment>
-        <translation>LOWER(metin)</translation>
+        <translation>KÜÇÜKHARF(metin)</translation>
     </message>
     <message>
         <source>Returns the lower-case version of a text string.</source>
         <comment>LOWER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Metni küçük harfe çevirir.</translation>
     </message>
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation>LTRIM(metin)</translation>
+        <translation>LTrim(dize)</translation>
     </message>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sözcükler arasındaki tek boşluklar dışında metinden tüm boşlukları kaldırır.</translation>
     </message>
     <message>
         <source>MID(text,start_num,num_chars)</source>
         <comment>MID_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>PARÇAAL(metin,başlangıç_sayısı,sayı_karakterler)</translation>
     </message>
     <message>
         <source>Returns the characters with a specified length from a given starting position in a text string.</source>
         <comment>MID_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesinden, belirttiğiniz yerden başlayarak, belirttiğiniz karakter sayısına göre belirli sayıda karakteri verir.</translation>
     </message>
     <message>
         <source>REPLACE(old_text,start_num,num_chars,new_text)</source>
         <comment>REPLACE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DEĞİŞTİR(eski_metin,başlangıç_sayısı,sayı_karakterler,yeni_metin)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
         <comment>REPLACE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesinin bir kısmını farklı bir metin dizesi ile değiştirir.</translation>
     </message>
     <message>
         <source>REPT(text,number_times)</source>
         <comment>REPT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YİNELE(metin, sayı_kere)</translation>
     </message>
     <message>
         <source>Returns the repetitions of string for specified times. You can use REPT to fill a cell with a text string repeatedly.</source>
         <comment>REPT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Metni belirtilen sayıda yineler. Bir hücreyi bir metni yineleyerek doldurmak için YİNELE fonksiyonunu kullanın.</translation>
     </message>
     <message>
         <source>RIGHT(text,num_chars)</source>
         <comment>RIGHT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SAĞDAN(metin,sayı_karakterler)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the end of a text string.</source>
         <comment>RIGHT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirteceğiniz karakter sayısına göre, bir metin dizesindeki son karakterleri verir.</translation>
     </message>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation>RTRIM(metin)</translation>
+        <translation>RTrim(dize)</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen metin dizesinin sağındaki boşlukları kaldırır.</translation>
     </message>
     <message>
         <source>SEARCH(find_text,within_text,start_num)</source>
         <comment>SEARCH_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>MBUL(bul_metin,metin_içinde,başlangıç_sayısı)</translation>
     </message>
     <message>
         <source>SUBSTITUTE(text,old_text,new_text,instance_num)</source>
         <comment>SUBSTITUTE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YERİNEKOY(metin, eski_metin, yeni_metin,yineleme_sayısı)</translation>
     </message>
     <message>
         <source>Replaces part of the old text with new text in a string.</source>
         <comment>SUBSTITUTE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Metin dizesinde, eski_metin yerine yeni_metin koyar.</translation>
     </message>
     <message>
         <source>TEXT(value,format_text)</source>
         <comment>TEXT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>METNEÇEVİR(değer,biçim_metni)</translation>
     </message>
     <message>
         <source>Returns value as a string with the specified format.</source>
         <comment>TEXT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dize değerini belirtilen formata döndürür.</translation>
     </message>
     <message>
         <source>TRIM(text)</source>
         <comment>TRIM_GRAMMER</comment>
-        <translation>TRIM(metin)</translation>
+        <translation>KIRP(metin)</translation>
     </message>
     <message>
         <source>Returns text with only single spaces between words.</source>
         <comment>TRIM_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sözcükler arasındaki tek boşluklar dışında metinden tüm boşlukları kaldırır.</translation>
     </message>
     <message>
         <source>UPPER(text)</source>
         <comment>UPPER_GRAMMER</comment>
-        <translation>UPPER(metin)</translation>
+        <translation>BÜYÜKHARF(metin)</translation>
     </message>
     <message>
         <source>Returns the upper-case version of a text string.</source>
         <comment>UPPER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Metni büyük harfe çevirir.</translation>
     </message>
     <message>
         <source>VALUE(text)</source>
         <comment>VALUE_GRAMMER</comment>
-        <translation>VALUE(metin)</translation>
+        <translation>SAYIYAÇEVİR(metin)</translation>
     </message>
     <message>
         <source>Returns the numeric value of a text string.</source>
         <comment>VALUE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metni sayıya çevirir.</translation>
     </message>
     <message>
         <source>PROPER(text)</source>
         <comment>PROPER_GRAMMER</comment>
-        <translation>PROPER(metin)</translation>
+        <translation>YAZIM.DÜZENİ(metin)</translation>
     </message>
     <message>
         <source>Capitalizes the initials of all the words.</source>
         <comment>PROPER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tüm kelimelerin baş harflerini büyük harfe çevirir.</translation>
     </message>
     <message>
         <source>DOLLAR(number,decimals)</source>
         <comment>DOLLAR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>LİRA(sayı,ondalık)</translation>
     </message>
     <message>
         <source>Converts a number to text, using currency format and the specified digits.</source>
         <comment>DOLLAR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation> Sayıyı metin biçimine dönüştürür ve para birimi simgesi uygular.</translation>
     </message>
     <message>
         <source>AND(logical1,logical2, ...)</source>
         <comment>AND_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>VE(mantıksal1,mantıksal2,...)</translation>
     </message>
     <message>
         <source>Returns FASLE if any of the arguments are FALSE; returns TRUE only if all arguments are TRUE.</source>
         <comment>AND_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Herhangi bir bağımsız değişken YANLIŞ olarak değerlendirilirse YANLIŞ&apos;ı verir; tüm bağımsız değişkenler DOĞRU olarak değerlendirilirse DOĞRU&apos;yu verir.</translation>
     </message>
     <message>
         <source>FALSE()</source>
@@ -5356,37 +5356,37 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the logical value FALSE.</source>
         <comment>FALSE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>YANLIŞ mantıksal değerini verir.</translation>
     </message>
     <message>
         <source>IF(logical_test,value_if_true,value_if_false)</source>
         <comment>IF_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>EĞER(mantıksal_sınama,eğer_doğruysa_değer,eğer_yanlışsa_değer) </translation>
     </message>
     <message>
         <source>Checks whether a condition is met, and returns one value if TRUE, and another value if FALSE.</source>
         <comment>IF_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirttiğiniz koşul DOĞRU olarak değerlendiriliyorsa bir değer, YANLIŞ olarak değerlendiriliyorsa başka bir değer verir.</translation>
     </message>
     <message>
         <source>NOT(logical)</source>
         <comment>NOT_GRAMMER</comment>
-        <translation>NOT(mantıklı)</translation>
+        <translation>DEĞİL(mantıksal)</translation>
     </message>
     <message>
         <source>Reverses the logical value of the argument.</source>
         <comment>NOT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bağımsız değişkeninin mantığını tersine çevirir.</translation>
     </message>
     <message>
         <source>OR(logical1,logical2,...)</source>
         <comment>OR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YADA(mantıksal1,mantıksal2,...)</translation>
     </message>
     <message>
         <source>Returns TRUE if any of the arguments are TRUE; returns FALSE only if all arguments are FALSE.</source>
         <comment>OR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Herhangi bir bağımsız değişken DOĞRU olarak değerlendirilirse DOĞRU&apos;yu verir; tüm bağımsız değişkenler YANLIŞ olarak değerlendirilirse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>TRUE()</source>
@@ -5396,367 +5396,367 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the logical value TRUE.</source>
         <comment>TRUE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>DOĞRU mantıksal değerini verir.</translation>
     </message>
     <message>
         <source>ERROR.TYPE(error_val)</source>
         <comment>ERRORTYPE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>HATA.TİPİ(hata_değer)</translation>
     </message>
     <message>
         <source>Returns a number corresponding to the given error value; returns #N/A if no error exists.</source>
         <comment>ERRORTYPE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Hata değerlerine karşılık gelen bir sayı verir; hata yoksa #YOK hatasını verir.</translation>
     </message>
     <message>
         <source>FORMULA(Ref)</source>
         <comment>FORMULA_GRAMMER</comment>
-        <translation>FORMÜL(Ref)</translation>
+        <translation>FORMÜL(Başvuru)</translation>
     </message>
     <message>
         <source>Returns the formula in a cell.</source>
         <comment>FORMULA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Hücredeki formülü verir.</translation>
     </message>
     <message>
         <source>ISBLANK(value)</source>
         <comment>ISBLANK_GRAMMER</comment>
-        <translation>ISBLANK(değer)</translation>
+        <translation>EBOŞSA(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value refers to an empty cell and FALSE otherwise.</source>
         <comment>ISBLANK_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Başvurulan hücre boşsa DOĞRU, değilse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>ISERR(value)</source>
         <comment>ISERR_GRAMMER</comment>
-        <translation>ISERR(değer)</translation>
+        <translation>EHATA(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL) excluding #N/A; returns FALSE otherwise.</source>
         <comment>ISERR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation> Hata #YOK dışında bir değer ise (#DEĞER!, #BAŞV!, #SAYI/0!, #SAYI!, #AD?, veya #BOŞ!) DOĞRU; aksi halde YANLIŞ değeri verir.</translation>
     </message>
     <message>
         <source>ISERROR(value)</source>
         <comment>ISERROR_GRAMMER</comment>
-        <translation>ISERROR(değer)</translation>
+        <translation>EHATALIYSA(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is an error (#N/A, #VALUE!, #REF!, #DIV/0!, #NUM!, #NAME?, or #NULL); returns FALSE otherwise.</source>
         <comment>ISERROR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Hata değeri (#YOK, #DEĞER!, #BAŞV!, #SAYI/0!, #SAYI!, #AD?, veya #BOŞ!) ise DOĞRU; aksi halde YANLIŞ değeri verir.</translation>
     </message>
     <message>
         <source>ISEVEN(value)</source>
         <comment>ISEVEN_GRAMMER</comment>
-        <translation>ISEVEN(değer)</translation>
+        <translation>ÇİFTMİ(sayı)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is even and FALSE otherwise.</source>
         <comment>ISEVEN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı çiftse DOĞRU, sayı tekse YANLIŞ verir.</translation>
     </message>
     <message>
         <source>ISLOGICAL(value)</source>
         <comment>ISLOGICAL_GRAMMER</comment>
-        <translation>ISLOGICAL(değer)</translation>
+        <translation>EMANTIKSALSA(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a logical value and FALSE otherwise.</source>
         <comment>ISLOGICAL_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değer, mantıksal bir değerse DOĞRU, değilse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>ISNA(value)</source>
         <comment>ISNA_GRAMMER</comment>
-        <translation>ISNA(değer)</translation>
+        <translation>EYOKSA(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is #N/A and FALSE otherwise.</source>
         <comment>ISNA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değer #YOK hata değerine başvuruyorsa DOĞRU, değilse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>ISNONTEXT(value)</source>
         <comment>ISNONTEXT_GRAMMER</comment>
-        <translation>ISNONTEXT(değer)</translation>
+        <translation>EMETİNDEĞİLSE(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is not text (blank cells are not text) and FALSE otherwise.</source>
         <comment>ISNONTEXT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değer metin değilse (boş hücreler metin değildir) DOĞRU, aksi halde YANLIŞ değeri verir.</translation>
     </message>
     <message>
         <source>ISNUMBER(value)</source>
         <comment>ISNUMBER_GRAMMER</comment>
-        <translation>ISNUMBER(değer)</translation>
+        <translation>ESAYIYSA(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if a value is a number and FALSE otherwise.</source>
         <comment>ISNUMBER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değer sayı ise DOĞRU, değilse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>ISODD(value)</source>
         <comment>ISODD_GRAMMER</comment>
-        <translation>ISODD(değer)</translation>
+        <translation>TEKMİ(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if the number is odd and FALSE otherwise.</source>
         <comment>ISODD_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı tekse DOĞRU, sayı çiftse YANLIŞ verir.</translation>
     </message>
     <message>
         <source>ISREF(value)</source>
         <comment>ISREF_GRAMMER</comment>
-        <translation>ISREF(değer)</translation>
+        <translation>EREFSE(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if the value is a reference and FALSE otherwise.</source>
         <comment>ISREF_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Eğer değişken bir referans ise DOĞRU, değilse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>ISTEXT(value)</source>
         <comment>ISTEXT_GRAMMER</comment>
-        <translation>ISTEXT(değer)</translation>
+        <translation>EMETİNSE(değer)</translation>
     </message>
     <message>
         <source>Returns TRUE if the value is text and FALSE otherwise.</source>
         <comment>ISTEXT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Hücre içeriği metin ise DOĞRU, değilse YANLIŞ&apos;ı verir.</translation>
     </message>
     <message>
         <source>N(value)</source>
         <comment>N_GRAMMER</comment>
-        <translation>N(değer)</translation>
+        <translation>S(değer)</translation>
     </message>
     <message>
         <source>Returns a value that has been converted to a number.</source>
         <comment>N_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayıya çevrilmiş değer verir.</translation>
     </message>
     <message>
         <source>NA()</source>
         <comment>NA_GRAMMER</comment>
-        <translation>NA()</translation>
+        <translation>YOKSAY()</translation>
     </message>
     <message>
         <source>Returns the error value #N/A, the abbreviation of &quot;value not available&quot;.</source>
         <comment>NA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Hücrede #YOK hatası değerini verir.</translation>
     </message>
     <message>
         <source>TYPE(value)</source>
         <comment>TYPE_GRAMMER</comment>
-        <translation>TYPE(değer)</translation>
+        <translation>TÜR(değer)</translation>
     </message>
     <message>
         <source>Returns a number representing the data type of a value.</source>
         <comment>TYPE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değerin veri türünü temsil eden sayıyı verir.</translation>
     </message>
     <message>
         <source>DB(cost,salvage,life,period,month)</source>
         <comment>DB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>AZALANBAKİYE(maliyet,hurda,ömür,dönem,ay)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the fixed-declining balance method.</source>
         <comment>DB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirli bir dönem için bir malın yıpranmasını sabit azalan bakiye yöntemini kullanarak verir.</translation>
     </message>
     <message>
         <source>DDB(cost,salvage,life,period,factor)</source>
         <comment>DDB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ÇİFTAZALANBAKİYE(maliyet,hurda,ömür,dönem,faktör)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.</source>
         <comment>DDB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir malın belirlenen dönem içindeki yıpranmasını çift azalan bakiye yöntemini veya sizin belirttiğiniz başka bir yöntemi kullanarak verir.</translation>
     </message>
     <message>
         <source>FV(rate,nper,pmt,pv,type)</source>
         <comment>FV_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>GD(oran,dönem_sayısı,devresel_ödeme,bd,tür)</translation>
     </message>
     <message>
         <source>Returns the future value of an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>FV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dönemsel sabit ödemeler ve sabit bir faiz oranı temelinde bir yatırımın gelecekteki değerini verir.</translation>
     </message>
     <message>
         <source>IPMT(rate,per,nper,pv,fv,type)</source>
         <comment>IPMT_GRAMMER</comment>
-        <translation>IPMT(oran,per,nper,pv,fv,tür)</translation>
+        <translation>FAİZTUTARI(oran,dönem,taksit_sayısı,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Returns the amount of interest payment for an investment within a given period, based on periodic, constant payments and a constant interest rate.</source>
         <comment>IPMT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dönemsel, sabit ödemeler ve sabit bir faiz oranı temelinde bir yatırım için belirli bir dönemdeki faiz ödemesini verir.</translation>
     </message>
     <message>
         <source>IRR(values,guess)</source>
         <comment>IRR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>İÇ_VERİM_ORANI(değerler,tahmin)</translation>
     </message>
     <message>
         <source>Returns the internal rate of return that is represented by numbers for a series of cash flows. </source>
         <comment>IRR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Değerlerdeki sayılarla temsil edilen bir nakit akışları serisinin iç verim oranını verir.</translation>
     </message>
     <message>
         <source>ISPMT(rate,per,nper,pv)</source>
         <comment>ISPMT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ISPMT(oran, dönem, taksit_sayısı, bd)</translation>
     </message>
     <message>
         <source>Calculates the interest that should be paid within a specific investment period.</source>
         <comment>ISPMT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Yatırımın belirli bir dönemi süresince ödenen faizi hesaplar.</translation>
     </message>
     <message>
         <source>MIRR(values,finance_rate,reinvest_rate)</source>
         <comment>MIRR_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>D_İÇ_VERİM_ORANI(değerler, finansman_faiz_oranı, tekraryatırım_oranı)</translation>
     </message>
     <message>
         <source>Returns the modified internal rate of return for the given periodic cash flows. MIRR takes both the cost of the investment and the interest received on reinvestment of cash into account.</source>
         <comment>MIRR_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dönemsel nakit akışı serisi için değiştirilmiş iç verim oranını verir. D_İÇ_VERİM_ORANI işlevi hem yatırım maliyetini, hem de nakit paranın yeniden yatırımı üzerinden alınan faizi dikkate alır.</translation>
     </message>
     <message>
         <source>NPER(rate, pmt, pv, fv, type)</source>
         <comment>NPER_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>TAKSİT_SAYISI(oran,devresel_ödeme,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Returns the number of payment periods for an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>NPER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dönemsel, sabit ödeme ve sabit bir faiz oranı temelinde yatırımın dönem sayısını verir.</translation>
     </message>
     <message>
         <source>NPV(rate,value1,value2, ...)</source>
         <comment>NPV_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>NBD(oran,değer1,değer2,...)</translation>
     </message>
     <message>
         <source>Returns the net present value of an investment, using a discount rate and a series of future periodic payments and income.</source>
         <comment>NPV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir yatırımın bugünkü net değerini, indirim oranını, gelecekteki bir dizi ödemeyi ve geliri kullanarak hesaplar.</translation>
     </message>
     <message>
         <source>PMT(rate,nper,pv,fv,type)</source>
         <comment>PMT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DEVRESEL_ÖDEME(oran,taksit_sayısı,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Returns the amount of payment for a loan based on constant payments and a constant interest rate.</source>
         <comment>PMT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sabit ödemeler ve sabit bir faiz oranı temelinde bir borcun ödemesini hesaplar.</translation>
     </message>
     <message>
         <source>PPMT(rate,per,nper,pv,fv,type)</source>
         <comment>PPMT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>ANA_PARA_ÖDEMESİ(oran,dönem,taksit_sayısı,bd,gd,tür)</translation>
     </message>
     <message>
         <source>Returns for a given period the payment on the principal for an investment based on periodic, constant payments and a constant interest rate.</source>
         <comment>PPMT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Dönemsel, sabit ödemeler ve sabit faiz oranı temelinde bir yatırım için belirli bir dönemde yapılan ana para ödemesini verir.</translation>
     </message>
     <message>
         <source>PV(rate,nper,pmt,fv,type)</source>
         <comment>PV_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BD(oran,taksit_sayısı,devresel_ödeme,gd,tür)</translation>
     </message>
     <message>
         <source>Returns the present value of an investment, calculating from a series of future payments.</source>
         <comment>PV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir borcun veya yatırımın güncel değerini sabit bir faiz oranına göre hesaplar.</translation>
     </message>
     <message>
         <source>RATE(nper,pmt,pv,fv,type,guess)</source>
         <comment>RATE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>FAİZ_ORANI(dönem_sayısı,devresel_ödeme,bd,gd,tür,tahmin)</translation>
     </message>
     <message>
         <source>Returns the interest rate per period of an annuity.</source>
         <comment>RATE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir yatırımın dönem başına faiz oranını verir.</translation>
     </message>
     <message>
         <source>SLN(cost,salvage,life)</source>
         <comment>SLN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DA(maliyet,hurda,ömür)</translation>
     </message>
     <message>
         <source>Returns the linear depreciation of an asset per period.</source>
         <comment>SLN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Varlığın belirli bir dönem için doğrusal amortismanını verir.</translation>
     </message>
     <message>
         <source>SYD(cost,salvage,life,per)</source>
         <comment>SYD_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>YAT(maliyet,hurda,ömür,dönem)</translation>
     </message>
     <message>
         <source>Returns the sum-of-years&apos; digits depreciation of an asset for a specified period, which is based on its cost, salvage value and anticipated life.</source>
         <comment>SYD_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Varlığın maliyet, hurda değeri ve beklenen ömrüne dayalı belirtilen dönem için toplam amortismanını verir.</translation>
     </message>
     <message>
         <source>VDB(cost,salvage,life,start_period,end_period,factor,no_switch)</source>
         <comment>VDB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>VDB(maliyet,hurda,ömür,başlangıç_dönemi,son_dönem,faktör,değiştirme)</translation>
     </message>
     <message>
         <source>Returns the depreciation of an asset for a given period or partial period using the double-declining balance method or some other method you specify.</source>
         <comment>VDB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Çift azalan bakiye yöntemini veya belirlediğiniz başka bir yöntemi kullanarak, kısmi dönemler de dahil olmak üzere belirlediğiniz herhangi bir dönem için bir malın amortismanını verir.</translation>
     </message>
     <message>
         <source>FACTDOUBLE(number)</source>
         <comment>FACTDOUBLE_SYNTAX</comment>
-        <translation>FACTDOUBLE(numara)</translation>
+        <translation>ÇİFTFAKTÖR(sayı)</translation>
     </message>
     <message>
         <source>Returns the double factorial of a number.</source>
         <comment>FACTDOUBLE_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayının çift faktöriyelini verir.</translation>
     </message>
     <message>
         <source>MROUND(number,multiple)</source>
         <comment>MROUND_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>KYUVARLA(sayı, katsayı)</translation>
     </message>
     <message>
         <source>Returns a given number rounded to a special multiple.</source>
         <comment>MROUND_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>İstenen katsayıya yuvarlanan sayıyı verir.</translation>
     </message>
     <message>
         <source>MULTINOMIAL(number1,number2, ...)</source>
         <comment>MULTINOMIAL_SYNTAX</comment>
-        <translation>MULTINOMIAL(sayı1,sayı2, ...)</translation>
+        <translation>ÇOKTERİMLİ(sayı1,sayı2,...)</translation>
     </message>
     <message>
         <source>Returns the ratio of the factorial of a sum of values to the product of the factorials.</source>
         <comment>MULTINOMIAL_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bir değerler toplamının çarpınımının (faktoriyellerinin), çarpanların çarpımına (faktoriyellerine) oranını verir.</translation>
     </message>
     <message>
         <source>QUOTIENT(numerator,denominator)</source>
         <comment>QUOTIENT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>Bölüm(pay, payda)</translation>
     </message>
     <message>
         <source>Returns the integer portion of a division. When using this function, you can discard the remainder of a division.</source>
         <comment>QUOTIENT_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Bölmenin tamsayı kısmını verir. Bir bölmenin kalanını atmak istediğinizde bu fonksiyonu kullanın.</translation>
     </message>
     <message>
         <source>BESSELI(x,n)</source>
@@ -5766,7 +5766,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel function evaluated for purely imaginary arguments.</source>
         <comment>BESSELI_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tamamen sanal bağımsız değişkenler için değerlendirilen Bessel işlevinin eşdeğeri olan, değiştirilmiş Bessel işlevini verir.</translation>
     </message>
     <message>
         <source>BESSELJ(x,n)</source>
@@ -5776,7 +5776,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the Bessel function.</source>
         <comment>BESSELJ_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bessel işlevini verir.</translation>
     </message>
     <message>
         <source>BESSELK(x,n)</source>
@@ -5786,7 +5786,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the modified Bessel function, which equals the Bessel functions evaluated for purely imaginary arguments.</source>
         <comment>BESSELK_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Tamamen sanal bağımsız değişkenler için değerlendirilen Bessel işlevlerinin eşdeğeri olan, değiştirilmiş Bessel işlevini verir.</translation>
     </message>
     <message>
         <source>BESSELY(x,n)</source>
@@ -5796,87 +5796,87 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Returns the Bessel function(also called the Weber function or the Neumann function).</source>
         <comment>BESSELY_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bessel işlevini verir. (Weber işlevi ya da Neumann işlevi de denilir).</translation>
     </message>
     <message>
         <source>BIN2DEC(number)</source>
         <comment>BIN2DEC_GRAMMER</comment>
-        <translation>BIN2DEC(numara)</translation>
+        <translation>BIN2DEC(sayı)</translation>
     </message>
     <message>
         <source>Converts a binary number to decimal.</source>
         <comment>BIN2DEC_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İkilik tabandaki bir sayıyı onluk tabana dönüştürür.</translation>
     </message>
     <message>
         <source>BIN2HEX(number,places)</source>
         <comment>BIN2HEX_GRAMMER</comment>
-        <translation>BIN2HEX(numara,yerler)</translation>
+        <translation>BIN2HEX(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a binary number to hexadecimal.</source>
         <comment>BIN2HEX_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İkilik tabandaki bir sayıyı onaltılık tabana dönüştürür.</translation>
     </message>
     <message>
         <source>BIN2OCT(number,places)</source>
         <comment>BIN2OCT_GRAMMER</comment>
-        <translation>BIN2OCT(numara,yerler)</translation>
+        <translation>BIN2OCT(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a binary number to octal.</source>
         <comment>BIN2OCT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İkilik tabandaki bir sayıyı sekizlik tabana dönüştürür.</translation>
     </message>
     <message>
         <source>COMPLEX(real_num,i_num,suffix)</source>
         <comment>COMPLEX_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>KARMAŞIK(gerçek_sayı,s_sayı,sonek)</translation>
     </message>
     <message>
         <source>Converts real and imaginary coefficients to a complex number with the form of x + yi or x + yj.</source>
         <comment>COMPLEX_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Gerçek ve sanal katsayıları x + yi or x + yj biçiminde karmaşık bir sayıya dönüştürür.</translation>
     </message>
     <message>
         <source>CONVERT(number,from_unit,to_unit)</source>
         <comment>CONVERT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>DÖNÜŞTÜR(sayı, ilk_birim, son_birim)</translation>
     </message>
     <message>
         <source>Converts a number from one measurement system to another.</source>
         <comment>CONVERT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayıyı bir ölçü sisteminden diğerine dönüştürür.</translation>
     </message>
     <message>
         <source>DEC2BIN(number,places)</source>
         <comment>DEC2BIN_GRAMMER</comment>
-        <translation>DEC2BIN(numara,yerler)</translation>
+        <translation>DEC2BIN(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a decimal number to binary.</source>
         <comment>DEC2BIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Ondalık sayıyı ikiliye dönüştürür.</translation>
     </message>
     <message>
         <source>DEC2HEX(number,places)</source>
         <comment>DEC2HEX_GRAMMER</comment>
-        <translation>DEC2HEX(numara,yerler)</translation>
+        <translation>DEC2HEX(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a decimal number to hexadecimal.</source>
         <comment>DEC2HEX_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Ondalık sayıyı onaltılığa dönüştürür.</translation>
     </message>
     <message>
         <source>DEC2OCT(number,places)</source>
         <comment>DEC2OCT_GRAMMER</comment>
-        <translation>DEC2OCT(numara,yerler)</translation>
+        <translation>DEC2OCT(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a decimal number to octal.</source>
         <comment>DEC2OCT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Ondalık sayıyı sekizliye dönüştürür.</translation>
     </message>
     <message>
         <source>DELTA(number1,number2)</source>
@@ -5886,322 +5886,322 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Tests if two values are equal. </source>
         <comment>DELTA_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İki değerin eşit olup olmadığını sınar.</translation>
     </message>
     <message>
         <source>ERF(lower_limit,upper_limit)</source>
         <comment>ERF_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>HATAİŞLEV(alt_limit,üst_limit)</translation>
     </message>
     <message>
         <source>Returns the error function whose integral is between lower_limit and upper_limit.</source>
         <comment>ERF_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Alt_limit ve üst_limit arasında tamamlanan hata işlevini verir.</translation>
     </message>
     <message>
         <source>ERFC(x)</source>
         <comment>ERFC_GRAMMER</comment>
-        <translation>ERFC(x)</translation>
+        <translation>TÜMHATAİŞLEV(x)</translation>
     </message>
     <message>
         <source>Returns the complementary ERF function whose integral is between x and infinity.</source>
         <comment>ERFC_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>X ile sonsuzluk arasında tamamlanan, tamamlayıcı HATAİŞLEV işlevini verir.</translation>
     </message>
     <message>
         <source>GESTEP(number,step)</source>
         <comment>GESTEP_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BESINIR(sayı,adım)</translation>
     </message>
     <message>
         <source>Returns 1 if number ≥ step and 0 (zero) otherwise. </source>
         <comment>GESTEP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sayı ≥ adım ise 1&apos;i, aksi halde 0&apos;ı verir.</translation>
     </message>
     <message>
         <source>HEX2BIN(number,places)</source>
         <comment>HEX2BIN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>HEX2BIN(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to binary.</source>
         <comment>HEX2BIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Onaltılı sayıyı ikiliye dönüştürür.</translation>
     </message>
     <message>
         <source>HEX2DEC(number)</source>
         <comment>HEX2DEC_GRAMMER</comment>
-        <translation>HEX2DEC(numara)</translation>
+        <translation>HEX2DEC(sayı)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to decimal.</source>
         <comment>HEX2DEC_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Onaltılı sayıyı onluya dönüştürür.</translation>
     </message>
     <message>
         <source>HEX2OCT(number,places)</source>
         <comment>HEX2OCT_GRAMMER</comment>
-        <translation>HEX2OCT(number,places)</translation>
+        <translation>HEX2OCT(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts a hexadecimal number to octal.</source>
         <comment>HEX2OCT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Onaltılı sayıyı sekizliğe dönüştürür.</translation>
     </message>
     <message>
         <source>IMAGINARY(inumber)</source>
         <comment>IMAGINARY_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANAL(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.</source>
         <comment>IMAGINARY_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık sayının sanal katsayısını verir.</translation>
     </message>
     <message>
         <source>IMARGUMENT(inumber)</source>
         <comment>IMARGUMENT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANBAĞ_DEĞİŞKEN(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the argument θ(theta), which is an angle expressed in radians.</source>
         <comment>IMARGUMENT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Radyan cinsinden ifade edilen bir açı olan θ(teta) bağımsız değişkenini verir.</translation>
     </message>
     <message>
         <source>IMCONJUGATE(inumber)</source>
         <comment>IMCONJUGATE_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANEŞLENEK(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the complex conjugate of a complex number in x + yi or x + yj text format.</source>
         <comment>IMCONJUGATE_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi veya x + yj metin biçimindeki karmaşık sayının karmaşık eşleniğini verir.</translation>
     </message>
     <message>
         <source>IMCOS(inumber)</source>
         <comment>IMCOS_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANCOS(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the cosine of a complex number in x + yi or x + yj text format.</source>
         <comment>IMCOS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçiminde karmaşık sayının kosinüsünü verir.</translation>
     </message>
     <message>
         <source>IMDIV(inumber1,inumber2)</source>
         <comment>IMDIV_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANBÖL(karmsayı1,karmsayı2)</translation>
     </message>
     <message>
         <source>Calculates the quotient of two complex numbers in x + yi or x + yj text format.</source>
         <comment>IMDIV_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki iki karmaşık sayının bölümünü verir.</translation>
     </message>
     <message>
         <source>IMEXP(inumber)</source>
         <comment>IMEXP_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANÜS(karmsayı)</translation>
     </message>
     <message>
         <source>Calculates the exponential of a complex number in x + yi or x + yj text format.</source>
         <comment>IMEXP_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık sayının üssünü verir.</translation>
     </message>
     <message>
         <source>IMLN(inumber)</source>
         <comment>IMLN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANLN(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the natural logarithm of a complex number in x + yi or x + yj text format</source>
         <comment>IMLN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık bir sayının doğal logaritmasını verir.</translation>
     </message>
     <message>
         <source>IMLOG10(inumber)</source>
         <comment>IMLOG10_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANLOG10(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the common logarithm (base 10) of a complex number in x + yi or x + yj text format.</source>
         <comment>IMLOG10_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi veya x + yj metin biçimindeki karmaşık bir sayının ortak (10 tabanındaki) logaritmasını verir.</translation>
     </message>
     <message>
         <source>IMLOG2(inumber)</source>
         <comment>IMLOG2_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANLOG2(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the base-2 logarithm of a complex number in x + yi or x + yj text format.</source>
         <comment>IMLOG2_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık bir sayının 2 tabanındaki logaritmasını verir.</translation>
     </message>
     <message>
         <source>IMPOWER(inumber,number)</source>
         <comment>IMPOWER_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANKUVVET(karmsayı,sayı)</translation>
     </message>
     <message>
         <source>Calculates a complex number in x + yi or x + yj text format raised to a power.</source>
         <comment>IMPOWER_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık bir sayıyı üssü alınmış olarak verir.</translation>
     </message>
     <message>
         <source>IMPRODUCT(inumber1,inumber2,...)</source>
         <comment>IMPRODUCT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANÇARP(karmsayı1,karmsayı2,...)</translation>
     </message>
     <message>
         <source>Calculates the product of complex numbers in x + yi or x + yj text format.</source>
         <comment>IMPRODUCT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki 1 ile 255 karmaşık sayının çarpımını verir.</translation>
     </message>
     <message>
         <source>IMREAL(inumber)</source>
         <comment>IMREAL_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANGERÇEK(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the real coefficient of a complex number in x + yi or x + yj text format.</source>
         <comment>IMREAL_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık bir sayının gerçek katsayısını verir.</translation>
     </message>
     <message>
         <source>IMSIN(inumber)</source>
         <comment>IMSIN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANSIN(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the sine of a complex number in x + yi or x + yj text format</source>
         <comment>IMSIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık sayının sinüsünü verir.</translation>
     </message>
     <message>
         <source>IMSQRT(inumber)</source>
         <comment>IMSQRT_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANKAREKÖK(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the square root of a complex number in x + yi or x + yj text format.</source>
         <comment>IMSQRT_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki karmaşık sayının kare kökünü verir.</translation>
     </message>
     <message>
         <source>Returns the difference of two complex numbers in x + yi or x + yj text format.</source>
         <comment>IMSUB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki iki karmaşık sayının farkını verir.</translation>
     </message>
     <message>
         <source>IMSUM(inumber1,inumber2,...)</source>
         <comment>IMSUM_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANTOPLA(karmsayı1,karmsayı2)</translation>
     </message>
     <message>
         <source>Returns the sum of two or more complex numbers in x + yi or x + yj text format.</source>
         <comment>IMSUM_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>x + yi ya da x + yj metin biçimindeki iki karmaşık sayının toplamını verir.</translation>
     </message>
     <message>
         <source>OCT2BIN(number,places)</source>
         <comment>OCT2BIN_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>OCT2BIN(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts an octal number to binary.</source>
         <comment>OCT2BIN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sekizli sayıyı ikiliye dönüştürür.</translation>
     </message>
     <message>
         <source>OCT2DEC(number)</source>
         <comment>OCT2DEC_GRAMMER</comment>
-        <translation>OCT2DEC(numara)</translation>
+        <translation>OCT2DEC(sayı)</translation>
     </message>
     <message>
         <source>Converts an octal number to decimal.</source>
         <comment>OCT2DEC_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sekizli sayıyı onluğa çevirir.</translation>
     </message>
     <message>
         <source>OCT2HEX(number,places)</source>
         <comment>OCT2HEX_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>OCT2HEX(sayı,basamak)</translation>
     </message>
     <message>
         <source>Converts an octal number to hexadecimal.</source>
         <comment>OCT2HEX_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Sekizli bir sayıyı onaltılı bir sayıya çevirir.</translation>
     </message>
     <message>
         <source>IMABS(inumber)</source>
         <comment>IMABS_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANMUTLAK(karmsayı)</translation>
     </message>
     <message>
         <source>Returns the absolute value (modulus) of a complex number.</source>
         <comment>IMABS_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Karmaşık bir sayının mutlak değerini (modül) verir.</translation>
     </message>
     <message>
         <source>Rounds a number to the specified number of decimals in decimal format and returns the result as text with or without commas.</source>
         <comment>FIXED_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir sayıyı belirtilen sayıda ondalığa yuvarlar, virgül ve nokta kullanarak sayıyı ondalık olarak biçimler ve sonucu metin olarak verir.</translation>
     </message>
     <message>
         <source>LENB(text)</source>
         <comment>LENB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>UZUNLUKB(metin)</translation>
     </message>
     <message>
         <source>FINDB(find_text,within_text,start_num)</source>
         <comment>FINDB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>BULB(bul_metin,metin_içinde,başlangıç_sayısı)</translation>
     </message>
     <message>
         <source>Searches another text string&apos;s starting location in one text string. FINDB is case-sensitive and doesn&apos;t allow to use wildcard. Use with double-byte characters(DBCS).</source>
         <comment>FINDB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>İkinci bir metin dizesi içinde bir metin dizesinin  başlangıç konumunu arar. BULB büyük/küçük harf duyarlıdır ve joker karakterlere izin vermez. Çift baytlık karakter kümesi (DBCS) kullanan dillerle kullanım için tasarlanmıştır.</translation>
     </message>
     <message>
         <source>LEFTB(text,num_bytes)</source>
         <comment>LEFTB_GRAMMER</comment>
-        <translation>LEFTB(text,num_bytes)</translation>
+        <translation>SOLB(metin,sayı_bayt’lar)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the leftmost appointed location of a text string. Use with double-byte character set(DBCS).</source>
         <comment>LEFTB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirteceğiniz bayt sayısına göre bir metin dizesindeki ilk karakteri veya karakterleri verir. Çift bayt karakter kümesi (DBCS) ile kullanılır.</translation>
     </message>
     <message>
         <source>MIDB(text,start_num,num_bytes)</source>
         <comment>MIDB_GRAMMER</comment>
-        <translation>MIDB(text,start_num,num_bytes)</translation>
+        <translation>ORTAB(metin,başlangıç_sayısı,sayı_bayt&apos;lar)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the appointed location of a text string. Use with double-byte character set(DBCS).</source>
         <comment>MIDB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Bir metin dizesinden, belirttiğiniz yerden başlayarak, belirttiğiniz bayt sayısına göre belirli sayıda karakteri verir. Çift bayt karakter kümesi (DBCS) ile kullanılır.</translation>
     </message>
     <message>
         <source>REPLACEB(old_text,start_num,num_bytes,new_text)</source>
         <comment>REPLACEB_GRAMMER</comment>
-        <translation>REPLACEB(old_text,start_num,num_bytes,new_text)</translation>
+        <translation>DEĞİŞTİRB(eski_metin,başlangıç_sayısı,sayı_bayt&apos;lar,yeni_metin)</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string. Use with double-byte character set(DBCS).</source>
         <comment>REPLACEB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirteceğiniz bayt sayısına göre, bir metin dizesinin bir kısmını farklı bir metin dizesi ile değiştirir. Çift bayt karakter kümesi (DBCS) ile kullanılır.</translation>
     </message>
     <message>
         <source>RIGHTB(text,num_bytes)</source>
         <comment>RIGHTB_GRAMMER</comment>
-        <translation>RIGHTB(text,num_bytes)</translation>
+        <translation>SAĞB(metin,sayı_bayt’lar)</translation>
     </message>
     <message>
         <source>Returns the specified number of characters from the last character of a text string. Use with double-byte character set(DBCS).</source>
         <comment>RIGHTB_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Belirteceğiniz bayt sayısına göre, bir metin dizesindeki son karakteri veya karakterleri verir. Çift bayt karakter kümesi (DBCS) ile kullanılır.</translation>
     </message>
     <message>
         <source>SEARCHB(find_text,within_text,start_num)</source>
@@ -6226,7 +6226,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>Removes all nonprintable characters from text.</source>
         <comment>CLEAN_REMARK</comment>
-        <translation type="unfinished"/>
+        <translation>Yazdırılamayan tüm karakterleri metinden çıkarır.</translation>
     </message>
     <message>
         <source>T(value)</source>
@@ -6471,7 +6471,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>ACCRINTM(issue,settlement,rate,par,basis)</source>
         <comment>ACCRINTM_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GERÇEKFAİZV(çıkış,düzenleme,oran,par,temel)</translation>
     </message>
     <message>
         <source>Returns the interests of the securities whose interests should be paid off once the time is due.</source>
@@ -6501,7 +6501,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>ACCRINT(issue,first_interest,settlement,rate,par,frequency,basis)</source>
         <comment>ACCRINT_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>GERÇEKFAİZ(sorun,ilk_faiz,düzenleme,oran,par,sıklık,taban)</translation>
     </message>
     <message>
         <source>Returns the accrued interest for a security that pays periodic interest.</source>
@@ -6551,22 +6551,22 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>AVERAGEIF(range,criteria,average_range)</source>
         <comment>AVERAGEIF_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>EĞERORTALAMA(aralık,ölçüt,ortalama_aralık)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given condition or criteria.</source>
         <comment>AVERAGEIF_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Verilen ölçütü karşılayan bir aralıktaki bütün hücrelerin ortalamasını (aritmetik ortalama) hesaplar.</translation>
     </message>
     <message>
         <source>AVERAGEIFS(average_range,criteria_range1,criteria1,criteria_range2,criteria2,…)</source>
         <comment>AVERAGEIFS_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>ÇOKEĞERORTALAMA(ortalama_aralık,ölçüt_aralığı1,ölçüt1,ölçüt_aralığı2,ölçüt2,...)</translation>
     </message>
     <message>
         <source>Finds average (arithmetic mean) for the cells specified by a given set of conditions or criteria.</source>
         <comment>AVERAGEIFS_DESCRIPTION</comment>
-        <translation type="unfinished"/>
+        <translation>Birden çok ölçüte uyan tüm hücrelerin ortalamasını (aritmetik ortalama) hesaplar.</translation>
     </message>
     <message>
         <source>IFERROR(value,value_if_error)</source>
@@ -6581,7 +6581,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>DAY(serial_number)</source>
         <comment>DAY_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>GÜN(seri_numarası)</translation>
     </message>
     <message>
         <source>PRICE(settlement,maturity,rate,yld,redemption,frequency,[basis])</source>
@@ -6636,7 +6636,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>AMORLINC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
         <comment>AMORLINC_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>AMORLINC(maliyet,satın_alma_tarihi,ilk_dönem,kurtarılan,dönem,oran,[temel])</translation>
     </message>
     <message>
         <source>Returns the prorated linear depreciation of an asset for each accounting period.</source>
@@ -6646,7 +6646,7 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>AMORDEGRC(cost, date_purchased, first_period, salvage, period, rate, [basis])</source>
         <comment>AMORDEGRC_SYNTAX</comment>
-        <translation type="unfinished"/>
+        <translation>AMORDEGRC(maliyet,satın_alma_tarihi,ilk_dönem,kurtarılan,dönem,oran, [temel])</translation>
     </message>
     <message>
         <source>Returns the depreciation for each settlement period.</source>
@@ -6811,12 +6811,12 @@ Uyarı: İkinci işlenen sorgular metin şeklinde sayı ise hem başına ve hem 
     <message>
         <source>IMSUB(inumber1,inumber2)</source>
         <comment>IMSUB_GRAMMER</comment>
-        <translation type="unfinished"/>
+        <translation>SANÇIKAR(karmsayı1,karmsayı2,...)</translation>
     </message>
     <message>
         <source>FIXED(number,decimals,no_commas)</source>
         <comment>FIXED_GRAMMER</comment>
-        <translation>DÜZELTİLMİŞ(number,decimals,no_commas)</translation>
+        <translation>SAYIDÜZENLE(sayı,ondalıklar,virgül_yok)</translation>
     </message>
     <message>
         <source>Returns the number of characters in the text. Use with double-byte characters(DBCS).</source>
@@ -8034,17 +8034,17 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>20% - Accent1</source>
         <comment>STR_STYLE_20P_ACCENT_1</comment>
-        <translation>%20 - Vurgu1</translation>
+        <translation>20% - Vurgu1</translation>
     </message>
     <message>
         <source>40% - Accent1</source>
         <comment>STR_STYLE_40P_ACCENT_1</comment>
-        <translation>%40 - Vurgu1</translation>
+        <translation>40% - Vurgu1</translation>
     </message>
     <message>
         <source>60% - Accent1</source>
         <comment>STR_STYLE_60P_ACCENT_1</comment>
-        <translation>%60 - Vurgu1</translation>
+        <translation>60% - Vurgu1</translation>
     </message>
     <message>
         <source>Accent2</source>
@@ -8054,17 +8054,17 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>20% - Accent2</source>
         <comment>STR_STYLE_20P_ACCENT_2</comment>
-        <translation>%20 - Vurgu2</translation>
+        <translation>20% - Vurgu2</translation>
     </message>
     <message>
         <source>40% - Accent2</source>
         <comment>STR_STYLE_40P_ACCENT_2</comment>
-        <translation>%40 - Vurgu2</translation>
+        <translation>40% - Vurgu2</translation>
     </message>
     <message>
         <source>60% - Accent2</source>
         <comment>STR_STYLE_60P_ACCENT_2</comment>
-        <translation>%60 - Vurgu2</translation>
+        <translation>60% - Vurgu2</translation>
     </message>
     <message>
         <source>Accent3</source>
@@ -8074,17 +8074,17 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>20% - Accent3</source>
         <comment>STR_STYLE_20P_ACCENT_3</comment>
-        <translation>%20 - Vurgu3</translation>
+        <translation>20% - Vurgu3</translation>
     </message>
     <message>
         <source>40% - Accent3</source>
         <comment>STR_STYLE_40P_ACCENT_3</comment>
-        <translation>%40 - Vurgu3</translation>
+        <translation>40% - Vurgu3</translation>
     </message>
     <message>
         <source>60% - Accent3</source>
         <comment>STR_STYLE_60P_ACCENT_3</comment>
-        <translation>%60 - Vurgu3</translation>
+        <translation>60% - Vurgu3</translation>
     </message>
     <message>
         <source>Accent4</source>
@@ -8094,17 +8094,17 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>20% - Accent4</source>
         <comment>STR_STYLE_20P_ACCENT_4</comment>
-        <translation>%20 - Vurgu4</translation>
+        <translation>20% - Vurgu4</translation>
     </message>
     <message>
         <source>40% - Accent4</source>
         <comment>STR_STYLE_40P_ACCENT_4</comment>
-        <translation>%40 - Vurgu4</translation>
+        <translation>40% - Vurgu4</translation>
     </message>
     <message>
         <source>60% - Accent4</source>
         <comment>STR_STYLE_60P_ACCENT_4</comment>
-        <translation>%60 - Vurgu4</translation>
+        <translation>60% - Vurgu4</translation>
     </message>
     <message>
         <source>Accent5</source>
@@ -8114,17 +8114,17 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>20% - Accent5</source>
         <comment>STR_STYLE_20P_ACCENT_5</comment>
-        <translation>%20 - Vurgu5</translation>
+        <translation>20% - Vurgu5</translation>
     </message>
     <message>
         <source>40% - Accent5</source>
         <comment>STR_STYLE_40P_ACCENT_5</comment>
-        <translation>%40 - Vurgu5</translation>
+        <translation>40% - Vurgu5</translation>
     </message>
     <message>
         <source>60% - Accent5</source>
         <comment>STR_STYLE_60P_ACCENT_5</comment>
-        <translation>%60 - Vurgu5</translation>
+        <translation>60% - Vurgu5</translation>
     </message>
     <message>
         <source>Accent6</source>
@@ -8134,17 +8134,17 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>20% - Accent6</source>
         <comment>STR_STYLE_20P_ACCENT_6</comment>
-        <translation>%20 - Vurgu6</translation>
+        <translation>20% - Vurgu6</translation>
     </message>
     <message>
         <source>40% - Accent6</source>
         <comment>STR_STYLE_40P_ACCENT_6</comment>
-        <translation>%40 - Vurgu6</translation>
+        <translation>40% - Vurgu6</translation>
     </message>
     <message>
         <source>60% - Accent6</source>
         <comment>STR_STYLE_60P_ACCENT_6</comment>
-        <translation>%40 - Vurgu6</translation>
+        <translation>60% - Vurgu6</translation>
     </message>
     <message>
         <source>CExplanatory Text</source>
@@ -8197,7 +8197,7 @@ Yedek şuraya kaydedilecek (%s)</translation>
     <message>
         <source>Number format is too long.</source>
         <comment>TX_IncreaseDecimal_NumberFormat_Too_Long_ET</comment>
-        <translation>Numara Biçimi çok uzun.</translation>
+        <translation>Numara biçimi çok uzun.</translation>
     </message>
     <message>
         <source>The number must be between 10 and 400. Please enter a number within this range and try again.</source>
@@ -8213,7 +8213,7 @@ If you do not wish to use a formula, insert a single quotation mark before your 
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
         <comment>TX_ERROR_CutPasteRange</comment>
-        <translation type="unfinished"/>
+        <translation>Hedef hücre içeriğini değiştirmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>Please exit editing cell or formula first before closing the window.</source>
@@ -8259,7 +8259,7 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>Click to follow the link.</source>
         <comment>TX_Hyperlink_Tip</comment>
-        <translation>Bağlantı takibi için tıkla</translation>
+        <translation>Bağlantıyı takip etmek için tıklayın.</translation>
     </message>
     <message>
         <source>Width</source>
@@ -8370,7 +8370,7 @@ Devam edilsin mi ?</translation>
     <message>
         <source>Parameter error in Data Validation.</source>
         <comment>TX_DV_Set</comment>
-        <translation type="unfinished"/>
+        <translation>Veri Doğrulama parametre hatası.</translation>
     </message>
     <message>
         <source>The Value contains an error now. Do you want to continue?</source>
@@ -8545,7 +8545,7 @@ Devam edilsin mi ?</translation>
     <message>
         <source>You must enter a Text length.</source>
         <comment>TX_DV_EmptyTextLength</comment>
-        <translation>Metin yüksekliği girmelisiniz</translation>
+        <translation>Metin uzunluğunu girmelisiniz.</translation>
     </message>
     <message>
         <source>You must enter a formula.</source>
@@ -8610,7 +8610,7 @@ Devam edilsin mi ?</translation>
     <message>
         <source>Abs_num</source>
         <comment>TX_ParaInfo_002</comment>
-        <translation>Abs_say</translation>
+        <translation>Mutlak_sayı</translation>
     </message>
     <message>
         <source>Angle</source>
@@ -11752,7 +11752,7 @@ Al</translation>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_439</comment>
-        <translation>sınav değeri</translation>
+        <translation>deneme değeridir.</translation>
     </message>
     <message>
         <source>is the population (know) standard deviation. If omitted, the sample standard deviation is used.</source>
@@ -11987,12 +11987,12 @@ Al</translation>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_474</comment>
-        <translation>sınav değeri</translation>
+        <translation>deneme değeridir.</translation>
     </message>
     <message>
         <source>is the value to test.</source>
         <comment>TX_ParaDesc_475</comment>
-        <translation>sınav değeri</translation>
+        <translation>deneme değeridir.</translation>
     </message>
     <message>
         <source>is the smallest integer RANDBETWEEN will return.</source>
@@ -12077,7 +12077,7 @@ Al</translation>
     <message>
         <source>Average_range</source>
         <comment>TX_ParaInfo_200</comment>
-        <translation>Ortalama_seri</translation>
+        <translation>Ortalama_aralık</translation>
     </message>
     <message>
         <source>is the input value to the power series.</source>
@@ -14950,17 +14950,17 @@ There are several possible reasons:
     <message>
         <source>Condition &amp;1</source>
         <comment>et_sCondition1</comment>
-        <translation>Durum 1&amp;</translation>
+        <translation>Koşul &amp;1</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
         <comment>et_sCondition2</comment>
-        <translation>Durum 2&amp;</translation>
+        <translation>Koşul &amp;2</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
         <comment>et_sCondition3</comment>
-        <translation>Durum 3&amp;</translation>
+        <translation>Koşul &amp;3</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
@@ -15435,7 +15435,7 @@ There are several possible reasons:
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sInvalidName</comment>
-        <translation>Girdiğiniz metin geçerli kaynak veya tanımlama ismidir.</translation>
+        <translation>Girdiğiniz metin geçersiz kaynak veya tanımlama ismidir.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot use the number format you entered.
@@ -15687,7 +15687,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Confirmation password does not match.</source>
         <comment>et_sNotMatchPassword</comment>
-        <translation>Parola doğrulama eşleşmiyor</translation>
+        <translation>Onay parolası eşleşmiyor.</translation>
     </message>
     <message>
         <source>Number is not valid.</source>
@@ -15782,7 +15782,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>et_spdfCompleted</comment>
-        <translation>PDF dosyası aktarımı Tamamlandı</translation>
+        <translation>PDF dışa aktarımı tamamlandı.</translation>
     </message>
     <message>
         <source>Exporting page %d...</source>
@@ -16191,7 +16191,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The text you entered is not a valid reference or defined name.</source>
         <comment>et_sIllegalInput</comment>
-        <translation>Girdiğiniz metin geçerli kaynak veya tanımlama ismidir.</translation>
+        <translation>Girdiğiniz metin geçersiz kaynak veya tanımlama ismidir.</translation>
     </message>
     <message>
         <source>Data range is not valid.</source>
@@ -16421,7 +16421,7 @@ tically, only keep one row.
     <message>
         <source>Error occurred when deleting the items.</source>
         <comment>et_sDeleteNameError</comment>
-        <translation type="unfinished"/>
+        <translation> Öğeler silinirken hata oluştu.</translation>
     </message>
     <message>
         <source>Vertically Distributed</source>
@@ -16436,7 +16436,7 @@ tically, only keep one row.
     <message>
         <source>Type the number format code, using one of the existing codes as a starting point.</source>
         <comment>et_sNH_Custom</comment>
-        <translation type="unfinished"/>
+        <translation>Başlangıçta, mevcut kodlardan birini kullanıp, sayı biçimi kodunu yazın.</translation>
     </message>
     <message>
         <source>Number is used for general display of numbers. Currency and Accounting offer specialized formatting for monetary value.</source>
@@ -16446,7 +16446,7 @@ tically, only keep one row.
     <message>
         <source>Incorrect input.The value must be a Number.</source>
         <comment>et_sNumberRequest</comment>
-        <translation type="unfinished"/>
+        <translation>Yanlış giriş. Değer bir Sayı olmalıdır.</translation>
     </message>
     <message>
         <source>Shrink to Fit</source>
@@ -16460,17 +16460,17 @@ tically, only keep one row.
     </message>
     <message>
         <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
-        <translation type="unfinished"/>
+        <translation>Beklenmeyen bir hata oluştu, Veri değişiklikleri kaydedilemiyor.</translation>
     </message>
     <message>
         <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
         <comment>et_sListObjectPublishSuccessed</comment>
-        <translation type="unfinished"/>
+        <translation>Tablo başarıyla yayımlandı, site: &lt;a href=&quot;%s&quot;&gt;%s</translation>
     </message>
     <message>
         <source>Cannot connect to the server at this time. Your table cannot be published.</source>
         <comment>et_sListobjectPublishHostNotFound</comment>
-        <translation type="unfinished"/>
+        <translation>Şu anda sunucuya bağlanamıyor. Tablo yayımlanamaz.</translation>
     </message>
 </context>
 </TS>
