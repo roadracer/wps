@@ -7,7 +7,7 @@
     <message>
         <source>Applause</source>
         <comment>AEO_SOUNDEFFECT_Applause</comment>
-        <translation>Applause</translation>
+        <translation>Alkış</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -82,7 +82,7 @@
     <message>
         <source>Typewriter</source>
         <comment>AEO_SOUNDEFFECT_Typewriter</comment>
-        <translation>Yazı Makinesi</translation>
+        <translation>Daktilo</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -102,7 +102,7 @@
     <message>
         <source>Custom Animation</source>
         <comment>AEO_CMD_CUSTOMANIMATION</comment>
-        <translation>Geçerli Canlandırma</translation>
+        <translation>Özel Animasyon</translation>
     </message>
     <message>
         <source>Title</source>
@@ -152,7 +152,7 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"/>
+        <translation>Bu fonksiyon WPS Office 2009 Professional&apos;da sunulmaktadır.</translation>
     </message>
 </context>
 <context>
@@ -188,12 +188,12 @@
     <message>
         <source>Insert Rows Above</source>
         <comment>ObjTable_InsertRowsAbove</comment>
-        <translation>Satırlar Üstüne Ekle</translation>
+        <translation>Üste Satırlar Ekle</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
         <comment>ObjTable_InsertRowsBelow</comment>
-        <translation>Satırlar Altına Ekle</translation>
+        <translation>Alta Satırlar Ekle</translation>
     </message>
     <message>
         <source>Insert Columns to the Left</source>
@@ -208,7 +208,7 @@
     <message>
         <source>Delete Columns</source>
         <comment>ObjTable_DeleteColumns</comment>
-        <translation>Satırları Sİl</translation>
+        <translation>Sütunları Sil</translation>
     </message>
     <message>
         <source>Delete Rows</source>
@@ -278,12 +278,12 @@ Esc					End of the slide show</source>
     <message>
         <source>The file you specified cannot be open.</source>
         <comment>WpHyperlink_InvalidateAddress</comment>
-        <translation type="unfinished"/>
+        <translation>Belirtilen dosya açılmadı.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum bulunamadı veya çalıştırılamadı %s.</translation>
     </message>
     <message>
         <source>Custom Shows“</source>
@@ -303,7 +303,7 @@ Esc					End of the slide show</source>
     <message>
         <source>Slide %d of %d</source>
         <comment>WpPlayProcessFormat</comment>
-        <translation>Slay %d / %d</translation>
+        <translation>Slayt %d / %d</translation>
     </message>
     <message>
         <source>End Show</source>
@@ -323,7 +323,7 @@ Esc					End of the slide show</source>
     <message>
         <source>The total time for the slide show is %s. Do you want to keep the new slide timings? </source>
         <comment>WpPlaySaveRehearseTiming</comment>
-        <translation type="unfinished"/>
+        <translation>Slayt gösterisi için toplam süre %s. Yeni slayt zamanlamalarını tutmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
@@ -372,7 +372,7 @@ Would you like to open this file?
     <message>
         <source>Duplicate</source>
         <comment>TXTRANS_DUPLICATE</comment>
-        <translation>Çoğalt</translation>
+        <translation>Kopyala</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -402,7 +402,7 @@ Would you like to open this file?
     <message>
         <source>Italic</source>
         <comment>TXTRANS_SPAN_FONT_ITALIC</comment>
-        <translation>Eğik Yazı</translation>
+        <translation>Eğik</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -655,8 +655,7 @@ Would you like to open this file?
     <message>
         <source>Slide</source>
         <comment>WP_SB_VIEW_SLIDE</comment>
-        <translation>Slayt
-</translation>
+        <translation>Slayt</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
@@ -701,7 +700,7 @@ Would you like to open this file?
     <message>
         <source>Slide Transition</source>
         <comment>WP_SLIDETRANSITION</comment>
-        <translation>Slayt Geçisi</translation>
+        <translation>Slayt Geçişi</translation>
     </message>
     <message>
         <source>Slow</source>
@@ -1026,7 +1025,7 @@ Would you like to open this file?
     <message>
         <source>Applause</source>
         <comment>WP_SOUNDEFFECT_Applause</comment>
-        <translation>Applause</translation>
+        <translation>Alkış</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -1101,7 +1100,7 @@ Would you like to open this file?
     <message>
         <source>Typewriter</source>
         <comment>WP_SOUNDEFFECT_Typewriter</comment>
-        <translation>Yazı Makinesi</translation>
+        <translation>Daktilo</translation>
     </message>
     <message>
         <source>Voltage</source>
@@ -1126,7 +1125,7 @@ Would you like to open this file?
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
         <comment>WP_SOUNDFILE</comment>
-        <translation>Ses Dosyası(*.wav)|*.wav</translation>
+        <translation>Ses Dosyaları(*.wav)|*.wav</translation>
     </message>
     <message>
         <source>Add Sound</source>
@@ -1156,12 +1155,12 @@ Would you like to open this file?
     <message>
         <source>No Animation</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY2</comment>
-        <translation>Canlandırma Yok</translation>
+        <translation>Animasyonsuz</translation>
     </message>
     <message>
         <source>Subtle</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY3</comment>
-        <translation>Güç Algılanan</translation>
+        <translation>Belirsiz</translation>
     </message>
     <message>
         <source>Moderate</source>
@@ -1176,12 +1175,12 @@ Would you like to open this file?
     <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE</comment>
-        <translation>Canlandırma Yok</translation>
+        <translation>Animasyonsuz</translation>
     </message>
     <message>
         <source>Appear</source>
         <comment>WP_ANIMATIONTYPE_APPEAR</comment>
-        <translation>Belir</translation>
+        <translation>Görünür</translation>
     </message>
     <message>
         <source>Appear And Dim</source>
@@ -1346,7 +1345,7 @@ Would you like to open this file?
     <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE_TIP</comment>
-        <translation>Canlandırma Yok</translation>
+        <translation>Animasyonsuz</translation>
     </message>
     <message>
         <source>Body: Appear</source>
@@ -1363,7 +1362,9 @@ Would you like to open this file?
 Title: Fade
 Body: Fade</source>
         <comment>WP_ANIMATIONTYPE_FADEINALL_TIP</comment>
-        <translation type="unfinished"/>
+        <translation>Slayt Geçişi: Geçiş Yok
+Başlık: Soldur
+Gövde: Soldur</translation>
     </message>
     <message>
         <source>Title: Fade
@@ -1593,7 +1594,8 @@ Please try one of the following.
         <source>Failed to open. The file you specified does not exist.
 (%s)</source>
         <comment>WP_OpenNotExistFailure</comment>
-        <translation type="unfinished"/>
+        <translation>Dosya açılamadı. Belirtilen dosya yok.
+(%s)</translation>
     </message>
     <message>
         <source>Cannot print, please make sure your printer has been properly installed.</source>
@@ -1603,7 +1605,7 @@ Please try one of the following.
     <message>
         <source>Click to edit Master title style</source>
         <comment>WP_TEXT_OF_TITLE_IN_MASTER</comment>
-        <translation>Uzman Başlık Stili düzenlemek için tıklayınız</translation>
+        <translation>Ana başlık stilini düzenlemek için tıklayınız</translation>
     </message>
     <message>
         <source>Click to edit Master text styles
@@ -1612,12 +1614,16 @@ Third level
 Fourth level
 Fifth level</source>
         <comment>WP_TEXT_OF_BODY_IN_MASTER</comment>
-        <translation type="unfinished"/>
+        <translation>Anabaşlık stilini düzenlemek için tıklayın
+İkinci seviye
+Üçüncü seviye
+Dördüncü seviye
+Beşinci seviye</translation>
     </message>
     <message>
         <source>Click to edit Master title style</source>
         <comment>WP_TEXT_OF_CENTERTITLE_IN_MASTER</comment>
-        <translation>Uzman Başlık Stili düzenlemek için tıklayınız</translation>
+        <translation>Ana başlık stili düzenlemek için tıklayınız</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -1687,12 +1693,12 @@ Fifth level</source>
     <message>
         <source>Animation Schemes</source>
         <comment>WpAnimSchema</comment>
-        <translation>Canlandırma Düzenleri</translation>
+        <translation>Animasyon Düzenleri</translation>
     </message>
     <message>
         <source>Start slide show...</source>
         <comment>WP_START_PLAYING</comment>
-        <translation>Slayt gösterisini başlat</translation>
+        <translation>Slayt gösterisini başlat...</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file (Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -1709,12 +1715,12 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>WPS Presentation Slide Show - </source>
         <comment>WPPlayerCation</comment>
-        <translation>WPS Presentation Slayt Gösterisi - </translation>
+        <translation>WPS Sunum Slayt Gösterisi - </translation>
     </message>
     <message>
         <source>The contents you pasted contains tabs. Do you want to paste tabs as a table?</source>
         <comment>WPPFindCsv</comment>
-        <translation type="unfinished"/>
+        <translation>Yapıştırılan içeriği sekmeler içeriyor. Tabloya sekmeleri yapıştırmak istiyor musunuz?</translation>
     </message>
     <message>
         <source>Paste Tips</source>
@@ -1724,7 +1730,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>WPPKRMSAVEPROMPT</comment>
-        <translation type="unfinished"/>
+        <translation>Bu dosya için yetkileriniz kısıtlı. Sadece WPS Sunum dosyası biçimi ile bu ayarları saklayabilirsiniz. Eğer mevcut dosya türü olarak kaydederseniz, tüm izin ayarlarınız kaybolacaktır. Devam etmek istiyor musunuz?</translation>
     </message>
     <message>
         <source>WPS Presentation cannot open this file, because the current user does not have enough permission to access.
@@ -1733,7 +1739,11 @@ Please try one of the following.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation type="unfinished"/>
+        <translation>WPS Sunum dosyayı açamıyor, kullanıcını erişim izinleri yeterli değil.
+Aşağıdakileri deneyebilirsiniz.
+•Kullanıcı değiştirin.
+•Dosyayı oluşturan kişiden yetki seviyesini değiştirmesini isteyin.
+(%s)</translation>
     </message>
     <message>
         <source>Text Layouts</source>
@@ -1743,12 +1753,12 @@ Please try one of the following.
     <message>
         <source>Content Layouts</source>
         <comment>WP_LAYOUTGROUP_OBJECT</comment>
-        <translation>İçerik Düzenleri</translation>
+        <translation>İçerik Düzeni</translation>
     </message>
     <message>
         <source>Text and Content Layouts</source>
         <comment>WP_LAYOUTGROUP_TEXTANDOBJECT</comment>
-        <translation>Metin ve İçerik Düzenleri</translation>
+        <translation>Metin ve İçerik Düzeni</translation>
     </message>
     <message>
         <source>Other Layouts</source>
@@ -2493,12 +2503,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>newfile.pptx</source>
         <comment>WpStartandFile</comment>
-        <translation>newfile.pptx</translation>
+        <translation>YeniDosya.pptx</translation>
     </message>
     <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
         <comment>WP_CannotPlaySoundFile</comment>
-        <translation type="unfinished"/>
+        <translation>% ses dosyasını çalınamıyor “%s. Ses dosyasının .wav formatında olduğundan ve bilgisayarınızda normal bir ses sistemi olduğundan  emin olun.</translation>
     </message>
     <message>
         <source>WPS Presentation cannot save or create this file.
@@ -2671,7 +2681,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>3d map</source>
         <comment>wpp_sLoaclTemplate_3d_map</comment>
-        <translation>3b harita</translation>
+        <translation>3d harita</translation>
     </message>
     <message>
         <source>art_mountaineering</source>
@@ -2681,7 +2691,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>blue background</source>
         <comment>wpp_sLoaclTemplate_blue_background</comment>
-        <translation>Mavi Artalan</translation>
+        <translation>mavi artalan</translation>
     </message>
     <message>
         <source>blue crystal lattice</source>
@@ -2706,22 +2716,22 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>business calculation</source>
         <comment>wpp_sLoaclTemplate_business_calculation</comment>
-        <translation>iş Hesaplama</translation>
+        <translation>iş hesaplama</translation>
     </message>
     <message>
         <source>business cooperate</source>
         <comment>wpp_sLoaclTemplate_business_cooperate</comment>
-        <translation>İşbirliği Yapmak</translation>
+        <translation>işbirliği</translation>
     </message>
     <message>
         <source>business index</source>
         <comment>wpp_sLoaclTemplate_business_index</comment>
-        <translation>İş İndeksi</translation>
+        <translation>iş indeksi</translation>
     </message>
     <message>
         <source>business technology</source>
         <comment>wpp_sLoaclTemplate_business_technolog_</comment>
-        <translation>iş teknoloji</translation>
+        <translation>iş teknolojisi</translation>
     </message>
     <message>
         <source>business_business affair</source>
@@ -2751,7 +2761,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>communications and dialogues</source>
         <comment>wpp_sLoaclTemplate_communications_and_dialogues</comment>
-        <translation type="unfinished"/>
+        <translation>iletişim ve diyaloglar</translation>
     </message>
     <message>
         <source>curtain background</source>
@@ -2831,12 +2841,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>interpersonal relation</source>
         <comment>wpp_sLoaclTemplate_interpersonal_relation</comment>
-        <translation type="unfinished"/>
+        <translation>kişiler arası ilişki</translation>
     </message>
     <message>
         <source>landscape painting</source>
         <comment>wpp_sLoaclTemplate_landscape_painting</comment>
-        <translation type="unfinished"/>
+        <translation>manzara resmi</translation>
     </message>
     <message>
         <source>mythic curve</source>
@@ -2866,7 +2876,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>pleasant garden</source>
         <comment>wpp_sLoaclTemplate_pleasant_garden</comment>
-        <translation type="unfinished"/>
+        <translation>hoş bir bahçe</translation>
     </message>
     <message>
         <source>red background</source>
@@ -2881,7 +2891,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>science and technology preach</source>
         <comment>wpp_sLoaclTemplate_science_and_technology_preach</comment>
-        <translation type="unfinished"/>
+        <translation>bilim ve teknoloji söylevi</translation>
     </message>
     <message>
         <source>sea widen sky</source>
@@ -3050,7 +3060,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Slide Design - Animation Schemes</source>
         <comment>wpp_AnimationSchemes_DisplayName</comment>
-        <translation>Slayt Tasarımı - Canlandırma </translation>
+        <translation>Slayt Tasarımı - Animasyon </translation>
     </message>
     <message>
         <source>Slide Design</source>
@@ -3065,12 +3075,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_Caption</comment>
-        <translation>Geçerli Canlandırma</translation>
+        <translation>Geçerli Animasyon</translation>
     </message>
     <message>
         <source>Custom Animation</source>
         <comment>wpp_CustomAnimation_DisplayName</comment>
-        <translation>Geçerli Canlandırma</translation>
+        <translation>Geçerli Animasyon</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -3150,7 +3160,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Cannot add word“%s”.</source>
         <comment>wpp_sAddWordFailed</comment>
-        <translation type="unfinished"/>
+        <translation>“%s” kelimesi eklenemiyor.</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*</source>
@@ -3160,7 +3170,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>All slides in current presentation are marked as hidden.</source>
         <comment>wpp_sAllSlideHided</comment>
-        <translation type="unfinished"/>
+        <translation>Mevcut sunumdaki tüm slaytlarda gizli olarak işaretlenmiş.</translation>
     </message>
     <message>
         <source>All Slides</source>
@@ -3855,17 +3865,17 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Buzz Saw</source>
         <comment>wpp_sAnimEffectPathBuzzsaw</comment>
-        <translation type="unfinished"/>
+        <translation>Testere</translation>
     </message>
     <message>
         <source>Circle</source>
         <comment>wpp_sAnimEffectPathCircle</comment>
-        <translation>Dönge</translation>
+        <translation>Daire</translation>
     </message>
     <message>
         <source>Crescent Moon</source>
         <comment>wpp_sAnimEffectPathCrescentMoon</comment>
-        <translation type="unfinished"/>
+        <translation>Hilal</translation>
     </message>
     <message>
         <source>Curved Square</source>
@@ -3895,22 +3905,22 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Draw Custom Path</source>
         <comment>wpp_sAnimEffectPathCustom</comment>
-        <translation type="unfinished"/>
+        <translation>Özel Yol Çiz</translation>
     </message>
     <message>
         <source>Decaying Wave</source>
         <comment>wpp_sAnimEffectPathDecayingWave</comment>
-        <translation type="unfinished"/>
+        <translation>Azalan Dalga</translation>
     </message>
     <message>
         <source>Diagonal Down Right</source>
         <comment>wpp_sAnimEffectPathDiagonalDownRight</comment>
-        <translation type="unfinished"/>
+        <translation>Köşeden Aşağıya Doğru</translation>
     </message>
     <message>
         <source>Diagonal Up Right</source>
         <comment>wpp_sAnimEffectPathDiagonalUpRight</comment>
-        <translation>Sağ Yukarı Köşegen</translation>
+        <translation>Köşeden Yukarıya Doğru</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -3995,8 +4005,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Parallelogram</source>
         <comment>wpp_sAnimEffectPathParallelogram</comment>
-        <translation>Paralelkenar
-</translation>
+        <translation>Paralelkenar</translation>
     </message>
     <message>
         <source>Peanut</source>
@@ -4041,7 +4050,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Sine Wave</source>
         <comment>wpp_sAnimEffectPathSineWave</comment>
-        <translation type="unfinished"/>
+        <translation> Sinüs Dalgası</translation>
     </message>
     <message>
         <source>Spiral Left</source>
@@ -4066,7 +4075,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Stairs Down</source>
         <comment>wpp_sAnimEffectPathStairsDown</comment>
-        <translation>Yıldızlar Aşağı</translation>
+        <translation>Merdivenlerden Aşağı</translation>
     </message>
     <message>
         <source>Swoosh</source>
@@ -4131,7 +4140,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Style Emphasis</source>
         <comment>wpp_sAnimEffectStyleEmphasis</comment>
-        <translation type="unfinished"/>
+        <translation>Vurgu Stili</translation>
     </message>
     <message>
         <source>Teeter</source>
@@ -4216,7 +4225,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Crawl In</source>
         <comment>wpp_sAnimEnterEffectTextCrawl</comment>
-        <translation type="unfinished"/>
+        <translation>Karıncalanma</translation>
     </message>
     <message>
         <source>Credits</source>
@@ -4246,7 +4255,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Ease In</source>
         <comment>wpp_sAnimEnterEffectTextEaseIn</comment>
-        <translation type="unfinished"/>
+        <translation>Kolaylık</translation>
     </message>
     <message>
         <source>Expand</source>
@@ -4261,7 +4270,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Faded Swivel</source>
         <comment>wpp_sAnimEnterEffectTextFadedSwivel</comment>
-        <translation type="unfinished"/>
+        <translation>Soluk Dönüş</translation>
     </message>
     <message>
         <source>Faded Zoom</source>
@@ -4286,7 +4295,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Fly In</source>
         <comment>wpp_sAnimEnterEffectTextFly</comment>
-        <translation type="unfinished"/>
+        <translation>Uçarak</translation>
     </message>
     <message>
         <source>Fold</source>
@@ -4311,7 +4320,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Peek In</source>
         <comment>wpp_sAnimEnterEffectTextPeek</comment>
-        <translation type="unfinished"/>
+        <translation>Gözetleme</translation>
     </message>
     <message>
         <source>Pinwheel</source>
@@ -4356,7 +4365,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Spiral In</source>
         <comment>wpp_sAnimEnterEffectTextSpiral</comment>
-        <translation type="unfinished"/>
+        <translation>Sarmal</translation>
     </message>
     <message>
         <source>Split</source>
@@ -4376,7 +4385,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Strips</source>
         <comment>wpp_sAnimEnterEffectTextStrips</comment>
-        <translation>Şeritler 4</translation>
+        <translation>Şeritler</translation>
     </message>
     <message>
         <source>Swish</source>
@@ -4791,7 +4800,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Select an element of the slide, then click Add Effect to add animation.</source>
         <comment>wpp_sBackground</comment>
-        <translation type="unfinished"/>
+        <translation>Slayt için bir öğe seçin, ardından animasyonu eklemek için Efekt Ekle&apos;yi tıklayın.</translation>
     </message>
     <message>
         <source>Basic</source>
@@ -4891,7 +4900,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Click to expand contents</source>
         <comment>wpp_sClickToExpandContext</comment>
-        <translation type="unfinished"/>
+        <translation>İçeriği genişletmek için tıklayınız</translation>
     </message>
     <message>
         <source>Click to hide contents</source>
@@ -4926,7 +4935,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>The current slide is marked as hidden.</source>
         <comment>wpp_sCurrentSlideHided</comment>
-        <translation type="unfinished"/>
+        <translation>Geçerli slayt gizli olarak işaretlendi.</translation>
     </message>
     <message>
         <source>Curve</source>
@@ -4991,7 +5000,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Incorrect dictionary! Cannot modify!</source>
         <comment>wpp_sDictError</comment>
-        <translation type="unfinished"/>
+        <translation>Yanlış sözlük! Değiştiremezsiniz!</translation>
     </message>
     <message>
         <source>The path or name of %s is invalid. Please check that the path and file name are correct.</source>
@@ -5191,12 +5200,12 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Hyperlink to Other File</source>
         <comment>wpp_sLinkToAllFileCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Diğer Dosyaya Bağla</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
         <comment>wpp_sLinkToWppFileCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Diğer WPS Sunum Dosyasına Bağla</translation>
     </message>
     <message>
         <source>Lock</source>
@@ -5381,7 +5390,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>(No Suggestions)</source>
         <comment>wpp_sNoSuggestion</comment>
-        <translation>(Önerilenler Yok)</translation>
+        <translation>(Öneri Yok)</translation>
     </message>
     <message>
         <source>Notes</source>
@@ -5441,7 +5450,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Exporting PDF file is completed.</source>
         <comment>wpp_spdfFinished</comment>
-        <translation>PDF dosyası aktarımı Tamamlandı</translation>
+        <translation>PDF dosyası aktarımı tamamlandı</translation>
     </message>
     <message>
         <source>Exporting Labels...</source>
@@ -5496,7 +5505,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>Subtle</source>
         <comment>wpp_sRemotenessEffect</comment>
-        <translation>Güç Algılanan</translation>
+        <translation>Belirsiz</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the presentation. %d replacements were made.</source>
@@ -7177,7 +7186,7 @@ Düzeni</translation>
     <message>
         <source>Update Link</source>
         <comment>WpUPDATELINK</comment>
-        <translation>Bağlantıyı Güncelleştir</translation>
+        <translation>Bağlantıyı Güncelle</translation>
     </message>
     <message>
         <source>Spell 
@@ -7200,7 +7209,7 @@ Denetimi</translation>
     <message>
         <source>Format Text</source>
         <comment>WpFormatText</comment>
-        <translation>Mtin Biçimi</translation>
+        <translation>Metin Biçimi</translation>
     </message>
     <message>
         <source>Edit Table Borders</source>
