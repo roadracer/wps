@@ -7,34 +7,34 @@
     <message>
         <source>VBAProject</source>
         <comment>TX_DESC_KDE_PROJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Проект VBA</translation>
     </message>
     <message>
         <source>ThisWorkbook</source>
         <comment>TX_DESC_KDE_THISBOOK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ця робоча книга</translation>
     </message>
     <message>
         <source>Macro</source>
         <comment>TX_DESC_KDE_MACRO_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Макро</translation>
     </message>
     <message>
         <source>Module</source>
         <comment>TX_DESC_KDE_CODEMODULE_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Модуль</translation>
     </message>
     <message>
         <source>The document will be saved as &quot;%s&quot; format, do you want to continue?
 (%s)</source>
         <comment>TX_Workbook_SaveConvertToDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation>Цей документ буде збережено у форматі &quot;%s&quot;, бажаєте продовжити</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>TX_Workbook_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation>Документ заблоковано іншим застосунком. Бажаєте відкрити тільки для читання?</translation>
     </message>
     <message>
         <source>Errors occur when WPS Spreadsheets opening this file.
