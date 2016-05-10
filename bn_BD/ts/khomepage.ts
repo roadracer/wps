@@ -6,49 +6,49 @@
     <name>KHomepage</name>
     <message>
         <source>Failed in downloading &quot;%1&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%1&quot; ডাউনলোড করতে ব্যার্থ হয়েছে</translation>
     </message>
 </context>
 <context>
     <name>KHomepageMainWindow</name>
     <message>
         <source>Create a blank document at startup</source>
-        <translation type="unfinished"></translation>
+        <translation>একটি নতুন দস্তাবেজ তৈরী </translation>
     </message>
     <message>
         <source>Current version:</source>
-        <translation type="unfinished"></translation>
+        <translation>বর্তমান </translation>
     </message>
     <message>
         <source>This is the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>সর্বশেষ সংস্করণ</translation>
     </message>
     <message>
         <source>Version is too old.</source>
-        <translation type="unfinished"></translation>
+        <translation>অনেক পুরাতন সংস্করণ</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;Use new version&lt;/a&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;online&quot; style=&quot;text-decoration:none&quot;&gt;নতুন সংস্করণ গ্রহন করুন&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Restart to use newer version.</source>
-        <translation type="unfinished"></translation>
+        <translation>নতুন সংস্করণ ব্যবহার করতে পুনরায় চালু করুন</translation>
     </message>
     <message>
         <source>Check Online Templates</source>
         <comment>tooltip</comment>
-        <translation type="unfinished"></translation>
+        <translation>অনলাইনে দস্তাবেজ কাঠামো (টেমপ্লেট) খতিয়ে দেখুন</translation>
     </message>
     <message>
         <source>Online Templates</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>দস্তাবেজ কাঠামো (টেমপ্লেট)</translation>
     </message>
     <message>
         <source>Online Templates Pro</source>
         <comment>title</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রো-দস্তাবেজ কাঠামো</translation>
     </message>
 </context>
 </TS>
