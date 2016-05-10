@@ -54,7 +54,7 @@
     <message>
         <source>Author</source>
         <comment>IO_String_Author</comment>
-        <translation type="unfinished"></translation>
+        <translation>রচয়িতা</translation>
     </message>
 </context>
 <context>
@@ -62,7 +62,7 @@
     <message>
         <source>Comment</source>
         <comment>TX_COMMENT_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>মন্তব্য</translation>
     </message>
 </context>
 <context>
@@ -70,22 +70,22 @@
     <message>
         <source>Insert Picture</source>
         <comment>TxVersion_InsertPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation>ছবি যুক্ত করুন</translation>
     </message>
     <message>
         <source>Insert WordArt</source>
         <comment>TxVersion_InsertTextEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>ওয়ার্ড-আর্ট যুক্ত করুন</translation>
     </message>
     <message>
         <source>Clear</source>
         <comment>TxVersion_Clear</comment>
-        <translation type="unfinished"></translation>
+        <translation>মুছে ফেলুন</translation>
     </message>
     <message>
         <source>Text Box</source>
         <comment>TxTextBox</comment>
-        <translation type="unfinished"></translation>
+        <translation>লেখার বাক্স</translation>
     </message>
 </context>
 <context>
@@ -93,7 +93,7 @@
     <message>
         <source>Error! Too many picture switches defined.</source>
         <comment>TX_FIELD_ERR_TOO_MANY_PICTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! অনেক বেশী ছবি পরিবর্তন দেয়া হয়েছে।</translation>
     </message>
     <message>
         <source>Error! Picture switch must be the first formatting switch.</source>
@@ -103,32 +103,32 @@
     <message>
         <source>Error! The style name is not specified.</source>
         <comment>TX_FIELD_ERR_STYLEREF_NO_STYLENAME_GIVEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! স্টাইলের নাম দেয়া নেই।</translation>
     </message>
     <message>
         <source>Error! The style is not specified.</source>
         <comment>TX_FIELD_ERR_STYLE_NOT_DEFINED</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! স্টাইল দেয়া নেই।</translation>
     </message>
     <message>
         <source>Error!</source>
         <comment>TX_FIELD_ERR_EQ_PARSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা!</translation>
     </message>
     <message>
         <source>Error! Unknown switch argument.</source>
         <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! অজানা পরিবর্তনের সিদ্ধান্ত দেয়া।</translation>
     </message>
     <message>
         <source>Error! Switch argument not specified.</source>
         <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! পরিবর্তনের সিদ্ধান্ত দেয়া নেই।</translation>
     </message>
     <message>
         <source>Error! Picture string contains unmatched quotes.</source>
         <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! ছবির স্ট্রিংয়ে মিলহীন কোটেশন চিহ্ন দেয়া।</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error when trying to update source file.
@@ -143,12 +143,12 @@ Try one or more of the following:
     <message>
         <source>Error! Number cannot be represented in specified format.</source>
         <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! সংখ্যা প্রদত্ত ফরমেট অনুযায়ী প্রদর্শনযোগ্য নয়।</translation>
     </message>
     <message>
         <source>Error! The style has no specified text.</source>
         <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! স্টাইলের নির্দিষ্ট লেখা নেই।</translation>
     </message>
 </context>
 <context>
@@ -156,52 +156,52 @@ Try one or more of the following:
     <message>
         <source>Title</source>
         <comment>TX_STYLE_NAME_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>শিরোনাম</translation>
     </message>
     <message>
         <source> </source>
         <comment>TX_SPACE</comment>
-        <translation type="unfinished"></translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Error! Bookmark not defined.</source>
         <comment>TX_FIELD_ERR_BOOKMARK_NOT_DEFINED</comment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্যা! বুকমার্ক দেয়া নেই।</translation>
     </message>
     <message>
         <source>Normal text</source>
         <comment>TX_FIELD_REGULARTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>সাধারন লেখা</translation>
     </message>
     <message>
         <source>Number</source>
         <comment>TX_FIELD_NUMBER</comment>
-        <translation type="unfinished"></translation>
+        <translation>সংখ্যা</translation>
     </message>
     <message>
         <source>Date</source>
         <comment>TX_FIELD_DATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>তারিখ</translation>
     </message>
     <message>
         <source>Current date</source>
         <comment>TX_FILED_CURDATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>আজকের তারিখ</translation>
     </message>
     <message>
         <source>Current time</source>
         <comment>TX_FILED_CURTIME</comment>
-        <translation type="unfinished"></translation>
+        <translation>এখনকার সময়</translation>
     </message>
     <message>
         <source>_Top</source>
         <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>_উপর</translation>
     </message>
     <message>
         <source>Main Document Only.</source>
         <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>শুধুমাত্র প্রধান দস্তাবেজ।</translation>
     </message>
     <message>
         <source>Error. Missing test condition.</source>
@@ -376,37 +376,37 @@ Try one or more of the following:
     <message>
         <source>First Page</source>
         <comment>TxPropmpt_First_Page</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রথম পৃষ্ঠা</translation>
     </message>
     <message>
         <source>Odd Page</source>
         <comment>TxPropmpt_Odd_Page</comment>
-        <translation type="unfinished"></translation>
+        <translation>বেজোড় পৃষ্ঠা</translation>
     </message>
     <message>
         <source>Even Page</source>
         <comment>TxPropmpt_Even_Page</comment>
-        <translation type="unfinished"></translation>
+        <translation>জোড় পৃষ্ঠা</translation>
     </message>
     <message>
         <source> Header </source>
         <comment>TxPropmpt_Header</comment>
-        <translation type="unfinished"></translation>
+        <translation>পৃষ্ঠা শুরুর অংশ (হেডার)</translation>
     </message>
     <message>
         <source> Footer </source>
         <comment>TxPropmpt_Footer</comment>
-        <translation type="unfinished"></translation>
+        <translation>পৃষ্ঠা শেষের অংশ (ফুটার)</translation>
     </message>
     <message>
         <source> - Section %d - </source>
         <comment>TxPropmpt_Section_Index</comment>
-        <translation type="unfinished"></translation>
+        <translation> - অংশ %d - </translation>
     </message>
     <message>
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
-        <translation type="unfinished"></translation>
+        <translation>পূর্বের অংশের অনুরূপ</translation>
     </message>
 </context>
 <context>
@@ -414,12 +414,12 @@ Try one or more of the following:
     <message>
         <source>Comment</source>
         <comment>TX_PDF_COMMENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মন্তব্য</translation>
     </message>
     <message>
         <source>Revision</source>
         <comment>TX_PDF_REVISION</comment>
-        <translation type="unfinished"></translation>
+        <translation>পুনঃপাঠ</translation>
     </message>
 </context>
 <context>
@@ -427,47 +427,47 @@ Try one or more of the following:
     <message>
         <source>Page Break</source>
         <comment>_TxPageBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>পৃষ্ঠা বিচ্ছিন্নকারী</translation>
     </message>
     <message>
         <source>Column Break</source>
         <comment>_TxColumnBreak</comment>
-        <translation type="unfinished"></translation>
+        <translation>কলাম বিচ্ছিন্নকারী</translation>
     </message>
     <message>
         <source>Section Break (Next Page)</source>
         <comment>_TxSectionBreakNextPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>অংশ বিচ্ছিন্নকারী (পরের পৃষ্ঠা)</translation>
     </message>
     <message>
         <source>Section Break (Continuous)</source>
         <comment>_TxSectionBreakContinous</comment>
-        <translation type="unfinished"></translation>
+        <translation>অংশ বিচ্ছিন্নকারী (চলন্ত)</translation>
     </message>
     <message>
         <source>Section Break (Even Page)</source>
         <comment>_TxSectionBreakEvenPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>অংশ বিচ্ছিন্নকারী (জোড় পৃষ্ঠা)</translation>
     </message>
     <message>
         <source>Section Break (Odd Page)</source>
         <comment>_TxSectionBreakOddPage</comment>
-        <translation type="unfinished"></translation>
+        <translation>অংশ বিচ্ছিন্নকারী (বিজোড় পৃষ্ঠা)</translation>
     </message>
     <message>
         <source>End of Section</source>
         <comment>_TxSectionBreakNewColumn</comment>
-        <translation type="unfinished"></translation>
+        <translation>অংশের শেষ</translation>
     </message>
     <message>
         <source>Section Break</source>
         <comment>_TxSectionBreakDefault</comment>
-        <translation type="unfinished"></translation>
+        <translation>অংশ বিচ্ছিন্নকারী</translation>
     </message>
     <message>
         <source>The end of the protected section</source>
         <comment>_TxSectionBreakProtected</comment>
-        <translation type="unfinished"></translation>
+        <translation>সংরক্ষিত অংশের শেষ</translation>
     </message>
 </context>
 <context>
@@ -475,7 +475,7 @@ Try one or more of the following:
     <message>
         <source>Page Setup</source>
         <comment>TxVersion_Page_Setup</comment>
-        <translation type="unfinished"></translation>
+        <translation>পৃষ্ঠা সন্নিবেশ</translation>
     </message>
     <message>
         <source>Paragraph Formatting Setup</source>
