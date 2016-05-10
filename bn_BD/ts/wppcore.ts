@@ -7,32 +7,32 @@
     <message>
         <source>Applause</source>
         <comment>AEO_SOUNDEFFECT_Applause</comment>
-        <translation type="unfinished"></translation>
+        <translation>হাততালি</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>AEO_SOUNDEFFECT_Arrow</comment>
-        <translation type="unfinished"></translation>
+        <translation>তীর</translation>
     </message>
     <message>
         <source>Bomb</source>
         <comment>AEO_SOUNDEFFECT_Bomb</comment>
-        <translation type="unfinished"></translation>
+        <translation>বোম্ব</translation>
     </message>
     <message>
         <source>Breeze</source>
         <comment>AEO_SOUNDEFFECT_Breeze</comment>
-        <translation type="unfinished"></translation>
+        <translation>মৃদু হাওয়া</translation>
     </message>
     <message>
         <source>Camera</source>
         <comment>AEO_SOUNDEFFECT_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation>ক্যামেরা</translation>
     </message>
     <message>
         <source>Cash Register</source>
         <comment>AEO_SOUNDEFFECT_CashRegister</comment>
-        <translation type="unfinished"></translation>
+        <translation>ক্যাশ রেজিস্টার</translation>
     </message>
     <message>
         <source>Chime</source>
@@ -42,117 +42,117 @@
     <message>
         <source>Click</source>
         <comment>AEO_SOUNDEFFECT_Click</comment>
-        <translation type="unfinished"></translation>
+        <translation>ক্লিক</translation>
     </message>
     <message>
         <source>Coin</source>
         <comment>AEO_SOUNDEFFECT_Coin</comment>
-        <translation type="unfinished"></translation>
+        <translation>পয়সা</translation>
     </message>
     <message>
         <source>Drum Roll</source>
         <comment>AEO_SOUNDEFFECT_DrumRool</comment>
-        <translation type="unfinished"></translation>
+        <translation>ড্রাম বাজনা</translation>
     </message>
     <message>
         <source>Explosion</source>
         <comment>AEO_SOUNDEFFECT_Explosion</comment>
-        <translation type="unfinished"></translation>
+        <translation>বোমাবাজি</translation>
     </message>
     <message>
         <source>Hammer</source>
         <comment>AEO_SOUNDEFFECT_Hammer</comment>
-        <translation type="unfinished"></translation>
+        <translation>হাতুড়ি</translation>
     </message>
     <message>
         <source>Laser</source>
         <comment>AEO_SOUNDEFFECT_Laser</comment>
-        <translation type="unfinished"></translation>
+        <translation>লেজার</translation>
     </message>
     <message>
         <source>Push</source>
         <comment>AEO_SOUNDEFFECT_Push</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধাক্কা</translation>
     </message>
     <message>
         <source>Suction</source>
         <comment>AEO_SOUNDEFFECT_Suction</comment>
-        <translation type="unfinished"></translation>
+        <translation>শূষে নেয়া</translation>
     </message>
     <message>
         <source>Typewriter</source>
         <comment>AEO_SOUNDEFFECT_Typewriter</comment>
-        <translation type="unfinished"></translation>
+        <translation>টাইপ-রাইটার</translation>
     </message>
     <message>
         <source>Voltage</source>
         <comment>AEO_SOUNDEFFECT_Voltage</comment>
-        <translation type="unfinished"></translation>
+        <translation>বিদ্যুত</translation>
     </message>
     <message>
         <source>Whoosh</source>
         <comment>AEO_SOUNDEFFECT_Whoosh</comment>
-        <translation type="unfinished"></translation>
+        <translation>ওওশশশ্‌</translation>
     </message>
     <message>
         <source>Wind</source>
         <comment>AEO_SOUNDEFFECT_Wind</comment>
-        <translation type="unfinished"></translation>
+        <translation>বাতাস</translation>
     </message>
     <message>
         <source>Custom Animation</source>
         <comment>AEO_CMD_CUSTOMANIMATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>নিজস্ব এনিমেশন</translation>
     </message>
     <message>
         <source>Title</source>
         <comment>AEO_PLACEHOLDER_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>শিরোনাম</translation>
     </message>
     <message>
         <source>Text</source>
         <comment>AEO_PLACEHOLDER_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>লেখা</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>AEO_PLACEHOLDER_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>টেবিল</translation>
     </message>
     <message>
         <source>Text&lt;Date and Time&gt;</source>
         <comment>AEO_PLACEHOLDER_DATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>লেখা&lt;তারিখ ও সময়&gt;</translation>
     </message>
     <message>
         <source>Unknown Placeholder</source>
         <comment>AEO_PLACEHOLDER_UNKNOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>অজানা সামগ্রী</translation>
     </message>
     <message>
         <source>Freeform</source>
         <comment>AEO_PLACEHOLDER_ANY</comment>
-        <translation type="unfinished"></translation>
+        <translation>মুক্তহস্ত</translation>
     </message>
     <message>
         <source>: Shape </source>
         <comment>AEO_PLACEHOLDER_SHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>আঁকা-জোকা</translation>
     </message>
     <message>
         <source>Chart</source>
         <comment>AEO_PLACEHOLDER_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation>চার্ট</translation>
     </message>
     <message>
         <source>Object</source>
         <comment>AEO_PLACEHOLDER_OBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>সামগ্রী</translation>
     </message>
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation type="unfinished"></translation>
+        <translation>এই সুবিধাটি ডাব্লিউ পি এস অফিস ২০০৯ প্রফেশনাল সংস্করণে দেয়া হয়</translation>
     </message>
 </context>
 <context>
@@ -160,7 +160,7 @@
     <message>
         <source>End of slide show, click to exit.</source>
         <comment>AEOENGINE_PLAY_END</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রদর্শনী শেষ, বের হয়ে যেতে ক্লিক করুন</translation>
     </message>
 </context>
 <context>
@@ -168,92 +168,92 @@
     <message>
         <source>Fill Effects</source>
         <comment>ObjTable_BordersFillEffects</comment>
-        <translation type="unfinished"></translation>
+        <translation>ভরাট করার ইফেক্টসমূহ</translation>
     </message>
     <message>
         <source>Borders and Fill</source>
         <comment>ObjTable_BordersFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>বেড়া এবং ভরাট</translation>
     </message>
     <message>
         <source>Split Cell</source>
         <comment>ObjTable_SplitCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>সেল ভাগ করুন</translation>
     </message>
     <message>
         <source>Merge Cells</source>
         <comment>ObjTable_MergeCells</comment>
-        <translation type="unfinished"></translation>
+        <translation>সেল একসাথে করুন</translation>
     </message>
     <message>
         <source>Insert Rows Above</source>
         <comment>ObjTable_InsertRowsAbove</comment>
-        <translation type="unfinished"></translation>
+        <translation>উপরে সারি যোগ করুন</translation>
     </message>
     <message>
         <source>Insert Rows Below</source>
         <comment>ObjTable_InsertRowsBelow</comment>
-        <translation type="unfinished"></translation>
+        <translation>নিচে সারি যোগ করুন</translation>
     </message>
     <message>
         <source>Insert Columns to the Left</source>
         <comment>ObjTable_InsertColumnsLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>বামে উলম্ব সারি যোগ করুন</translation>
     </message>
     <message>
         <source>Insert Columns to the Right</source>
         <comment>ObjTable_InsertColumnsRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>ডানে উলম্ব সারি যোগ করুন</translation>
     </message>
     <message>
         <source>Delete Columns</source>
         <comment>ObjTable_DeleteColumns</comment>
-        <translation type="unfinished"></translation>
+        <translation>উলম্ব সারি মুছে ফেলুন</translation>
     </message>
     <message>
         <source>Delete Rows</source>
         <comment>ObjTable_DeleteRows</comment>
-        <translation type="unfinished"></translation>
+        <translation>সারি মুছে ফেলুন</translation>
     </message>
     <message>
         <source>Fill Color</source>
         <comment>ObjTable_FillColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>ভরাট করার রং</translation>
     </message>
     <message>
         <source>Align Top</source>
         <comment>ObjTable_AlignTop</comment>
-        <translation type="unfinished"></translation>
+        <translation>উপরের সাথে মিলিয়ে রাখুন</translation>
     </message>
     <message>
         <source>Center Vertically</source>
         <comment>ObjTable_CenterVertically</comment>
-        <translation type="unfinished"></translation>
+        <translation>মাঝ বরাবর মিলিয়ে রাখুন</translation>
     </message>
     <message>
         <source>Align Bottom</source>
         <comment>ObjTable_AlignBottom</comment>
-        <translation type="unfinished"></translation>
+        <translation>নিচের সাথে মিলিয়ে রাখুন</translation>
     </message>
     <message>
         <source>Distribute Rows Evenly</source>
         <comment>ObjTable_DistributeRowsEvenly</comment>
-        <translation type="unfinished"></translation>
+        <translation>সারিগুলো সমভাবে সাজান</translation>
     </message>
     <message>
         <source>Distribute Columns Evenly</source>
         <comment>ObjTable_DistributeColumnsEvenly</comment>
-        <translation type="unfinished"></translation>
+        <translation>উলম্ব সারিগুলো সমভাবে সাজান</translation>
     </message>
     <message>
         <source>Change Text Direction</source>
         <comment>ObjTable_ChangeTextDirection</comment>
-        <translation type="unfinished"></translation>
+        <translation>লেখার দিক পরিবর্তন করুন</translation>
     </message>
     <message>
         <source>Edit Table</source>
         <comment>ObjTable_EditTable</comment>
-        <translation type="unfinished"></translation>
+        <translation>টেবিল সম্পাদনা করুন</translation>
     </message>
 </context>
 <context>
@@ -261,7 +261,7 @@
     <message>
         <source>Slide Show Help</source>
         <comment>WpSlideShowHelp_Caption</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রদর্শনী সাহায্য</translation>
     </message>
     <message>
         <source>During the slide show:
@@ -278,12 +278,12 @@ Esc					End of the slide show</source>
     <message>
         <source>The file you specified cannot be open.</source>
         <comment>WpHyperlink_InvalidateAddress</comment>
-        <translation type="unfinished"></translation>
+        <translation>আপনার দেখানো ফাইলটি খোলা সম্ভব হচ্ছেনা</translation>
     </message>
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation type="unfinished"></translation>
+        <translation>ডাব্লিউ পি এস্‌ প্রেজেন্টশন %s এ খুঁজে পাওয়া অথবা শুরু করা যাচ্ছেনা</translation>
     </message>
     <message>
         <source>Custom Shows“</source>
@@ -293,42 +293,42 @@ Esc					End of the slide show</source>
     <message>
         <source>”does not exist.</source>
         <comment>WpInvalidateNameSlideShowEnd</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos;&apos;অস্তিত্ব নেই</translation>
     </message>
     <message>
         <source>Slide </source>
         <comment>WpPlayingSlideNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্য নাম্বার</translation>
     </message>
     <message>
         <source>Slide %d of %d</source>
         <comment>WpPlayProcessFormat</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্য নাম্বার %d ,মোট %d</translation>
     </message>
     <message>
         <source>End Show</source>
         <comment>WpPlayCompleted</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রদর্শনী শেষ করুন</translation>
     </message>
     <message>
         <source>Keep ink</source>
         <comment>WpSaveInks</comment>
-        <translation type="unfinished"></translation>
+        <translation>আঁকা-জোকা সংরক্ষন করুন</translation>
     </message>
     <message>
         <source>The time to cost: </source>
         <comment>WpPlayCostTime</comment>
-        <translation type="unfinished"></translation>
+        <translation>সময় নিতে যাচ্ছেঃ</translation>
     </message>
     <message>
         <source>The total time for the slide show is %s. Do you want to keep the new slide timings? </source>
         <comment>WpPlaySaveRehearseTiming</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">প্রদর্শনীর সর্বমোট ব্যাপ্তী %s। আপনি কি দৃশ্যগুলোর নতুন ব্যাপ্তীকাল সংরক্ষন করতে চান?</translation>
     </message>
     <message>
         <source>Rehearse Timings</source>
         <comment>WpRehearseNewTimings</comment>
-        <translation type="unfinished"></translation>
+        <translation>ব্যাপ্তী অনুশীলন করুন</translation>
     </message>
     <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
@@ -349,7 +349,11 @@ It is important to be certain that this file is from a trustworthy source.
 Would you like to open this file?
 </source>
         <comment>WpActionRunProgramMessage</comment>
-        <translation type="unfinished"></translation>
+        <translation>খোলা হচ্ছে %s
+
+কোন কোন ফাইল ভাইরাস ধারণ করতে পারে অথবা আপনার কম্পিউটারের ক্ষতির কারন হতে পারে। ফাইলটি বিশ্বস্ত সূত্র থেকে লব্ধ কিনা তা যাচাই করা গুরুত্বপূর্ণ।
+
+আপনি কি সত্যিই ফাইলটি খুলতে চান?</translation>
     </message>
 </context>
 <context>
@@ -630,52 +634,52 @@ Would you like to open this file?
     <message>
         <source>Presentation</source>
         <comment>WP_DEFAULT_PRESNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রদর্শনী</translation>
     </message>
     <message>
         <source>Click to add first slide</source>
         <comment>WP_ADD_FIRST_SLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রথম দৃশ্যটি যুক্ত করতে ক্লিক করুন</translation>
     </message>
     <message>
         <source>Custom Design</source>
         <comment>WP_CUSTOM_DESIGN</comment>
-        <translation type="unfinished"></translation>
+        <translation>নিজস্ব ডিজাইন</translation>
     </message>
     <message>
         <source>Default Design</source>
         <comment>WP_DEFAULT_DESIGN</comment>
-        <translation type="unfinished"></translation>
+        <translation>পূর্ব-প্রদত্ত ডিজাইন</translation>
     </message>
     <message>
         <source>Read-Only</source>
         <comment>WP_READONLY</comment>
-        <translation type="unfinished"></translation>
+        <translation>শুধুমাত্র পড়ার উপযোগী</translation>
     </message>
     <message>
         <source>Slide</source>
         <comment>WP_SB_VIEW_SLIDE</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্য</translation>
     </message>
     <message>
         <source>Slide Sorter</source>
         <comment>WP_SB_VIEW_SLIDESORTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্য সাজানোর জায়গা</translation>
     </message>
     <message>
         <source>Slide Master</source>
         <comment>WP_SB_VIEW_SLIDEMASTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রধান দৃশ্য</translation>
     </message>
     <message>
         <source>Title Master</source>
         <comment>WP_SB_VIEW_TITLEMASTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রধান শিরোনাম দৃশ্য</translation>
     </message>
     <message>
         <source>Print: Page %d of %d</source>
         <comment>WP_SB_VIEW_PRINTPREVIEW</comment>
-        <translation type="unfinished"></translation>
+        <translation>প্রিন্টঃ পৃষ্ঠা %d, মোট %d</translation>
     </message>
     <message>
         <source>VBAProject</source>
@@ -690,272 +694,272 @@ Would you like to open this file?
     <message>
         <source>Macro</source>
         <comment>WP_DESC_KDE_MACRO_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>ম্যাক্রো</translation>
     </message>
     <message>
         <source>Module</source>
         <comment>WP_DESC_KDE_CODEMODULE_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>মডিউল</translation>
     </message>
     <message>
         <source>Slide Transition</source>
         <comment>WP_SLIDETRANSITION</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্য পরিবর্তনের এনিমেশন/ট্রানজিশন</translation>
     </message>
     <message>
         <source>Slow</source>
         <comment>WP_SLIDETRANS_SPEEDSLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধীরে</translation>
     </message>
     <message>
         <source>Medium</source>
         <comment>WP_SLIDETRANS_SPEEDMEDIUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>মাঝামাঝি</translation>
     </message>
     <message>
         <source>Fast</source>
         <comment>WP_SLIDETRANS_SPEEDFAST</comment>
-        <translation type="unfinished"></translation>
+        <translation>দ্রুত</translation>
     </message>
     <message>
         <source>No Transition</source>
         <comment>WP_EFFECT_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation>কোন ট্রানজিশন নয়</translation>
     </message>
     <message>
         <source>Blinds Horizontal</source>
         <comment>WP_EFFECT_BLINDSHORIZONTAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>আনুভূমিক ফালি ফালি</translation>
     </message>
     <message>
         <source>Blinds Vertical</source>
         <comment>WP_EFFECT_BLINDSVERTICAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>উলম্ব ফালি ফালি</translation>
     </message>
     <message>
         <source>Box In</source>
         <comment>WP_EFFECT_BOXIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>বাক্সবন্দী</translation>
     </message>
     <message>
         <source>Box Out</source>
         <comment>WP_EFFECT_BOXOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>বাক্স-বাহির</translation>
     </message>
     <message>
         <source>Checkerboard Across</source>
         <comment>WP_EFFECT_CHECKERBOARDACROSS</comment>
-        <translation type="unfinished"></translation>
+        <translation>দাবাবোর্ড কোনাকুনি</translation>
     </message>
     <message>
         <source>Checkerboard Down</source>
         <comment>WP_EFFECT_CHECKERBOARDDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>দাবাবোর্ড নিচে নিচে</translation>
     </message>
     <message>
         <source>Comb Horizontal</source>
         <comment>WP_EFFECT_COMBHORIZONTAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>আনুভূমিক চিরুণী</translation>
     </message>
     <message>
         <source>Comb Vertical</source>
         <comment>WP_EFFECT_COMBVERTICAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>উলম্ব চিরুণী</translation>
     </message>
     <message>
         <source>Cover Down</source>
         <comment>WP_EFFECT_COVERDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট নিচে</translation>
     </message>
     <message>
         <source>Cover Left</source>
         <comment>WP_EFFECT_COVERLEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট বামে</translation>
     </message>
     <message>
         <source>Cover Right</source>
         <comment>WP_EFFECT_COVERRIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট ডানে</translation>
     </message>
     <message>
         <source>Cover Up</source>
         <comment>WP_EFFECT_COVERUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট উপরে</translation>
     </message>
     <message>
         <source>Cover Left-Down</source>
         <comment>WP_EFFECT_COVERLEFTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট বামে-নিচে</translation>
     </message>
     <message>
         <source>Cover Left-Up</source>
         <comment>WP_EFFECT_COVERLEFTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট বামে-উপরে</translation>
     </message>
     <message>
         <source>Cover Right-Down</source>
         <comment>WP_EFFECT_COVERRIGHTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট ডানে-নিচে</translation>
     </message>
     <message>
         <source>Cover Right-Up</source>
         <comment>WP_EFFECT_COVERRIGHTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মলাট ডানে-উপরে</translation>
     </message>
     <message>
         <source>Cut</source>
         <comment>WP_EFFECT_CUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>কাটা</translation>
     </message>
     <message>
         <source>Cut Through Black</source>
         <comment>WP_EFFECT_CUTTHROUGHBLACK</comment>
-        <translation type="unfinished"></translation>
+        <translation>কালো রং থেকে কাটা</translation>
     </message>
     <message>
         <source>Dissolve</source>
         <comment>WP_EFFECT_DISSOLVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>ঝিরঝিরে মিলিয়ে যাওয়া</translation>
     </message>
     <message>
         <source>Fade Smoothly</source>
         <comment>WP_EFFECT_FADESMOOTHLY</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোলায়েমভাবে মিলিয়ে যাওয়া</translation>
     </message>
     <message>
         <source>Fade Through Black</source>
         <comment>WP_EFFECT_FADE</comment>
-        <translation type="unfinished"></translation>
+        <translation>কালো রংয়ের মধ্য দিয়ে মিলিয়ে যাওয়া</translation>
     </message>
     <message>
         <source>Newsflash</source>
         <comment>WP_EFFECT_NEWSFLASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>সংবাদ ফ্লাশ</translation>
     </message>
     <message>
         <source>Push Down</source>
         <comment>WP_EFFECT_PUSHDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধাক্কা নিচে</translation>
     </message>
     <message>
         <source>Push Left</source>
         <comment>WP_EFFECT_PUSHLEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধাক্কা বামে</translation>
     </message>
     <message>
         <source>Push Right</source>
         <comment>WP_EFFECT_PUSHRIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধাক্কা ডানে</translation>
     </message>
     <message>
         <source>Push Up</source>
         <comment>WP_EFFECT_PUSHUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধাক্কা উপরে</translation>
     </message>
     <message>
         <source>Random Bars Horizontal</source>
         <comment>WP_EFFECT_RANDOMBARSHORIZONT</comment>
-        <translation type="unfinished"></translation>
+        <translation>উল্টাপাল্টা রেখা আনুভূমিক</translation>
     </message>
     <message>
         <source>Random Bars Vertical</source>
         <comment>WP_EFFECT_RANDOMBARSVERTICAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>উল্টাপাল্টা রেখা উলম্ব</translation>
     </message>
     <message>
         <source>Shape Circle</source>
         <comment>WP_EFFECT_CIRCLEOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>বৃত্তাকার আকৃতি</translation>
     </message>
     <message>
         <source>Shape Diamond</source>
         <comment>WP_EFFECT_DIAMONDOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>হীরক আকৃতি</translation>
     </message>
     <message>
         <source>Shape Plus</source>
         <comment>WP_EFFECT_PLUSOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>যোগ আকৃতি</translation>
     </message>
     <message>
         <source>Split Horizontal In</source>
         <comment>WP_EFFECT_SPLITHORIZONTALIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>আনুভূমিক ভাগ করে আগমন</translation>
     </message>
     <message>
         <source>Split Horizontal Out</source>
         <comment>WP_EFFECT_SPLITHORIZONTALOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>আনুভূমিক ভাগ করে বহির্গমন</translation>
     </message>
     <message>
         <source>Split Vertical In</source>
         <comment>WP_EFFECT_SPLITVERTICALIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>লম্বভাবে ভাগ করে আগমন</translation>
     </message>
     <message>
         <source>Split Vertical Out</source>
         <comment>WP_EFFECT_SPLITVERTICALOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>লম্বভাবে ভাগ করে বহির্গমন</translation>
     </message>
     <message>
         <source>Strips Left-Down</source>
         <comment>WP_EFFECT_STRIPSLEFTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>রেখা রেখা বামে নিচে</translation>
     </message>
     <message>
         <source>Strips Left-Up</source>
         <comment>WP_EFFECT_STRIPSLEFTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>রেখা রেখা বামে উপরে</translation>
     </message>
     <message>
         <source>Strips Right-Down</source>
         <comment>WP_EFFECT_STRIPSRIGHTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>রেখা রেখা ডানে নিচে</translation>
     </message>
     <message>
         <source>Strips Right-Up</source>
         <comment>WP_EFFECT_STRIPSRIGHTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>রেখা রেখা ডানে উপরে</translation>
     </message>
     <message>
         <source>Uncover Down</source>
         <comment>WP_EFFECT_UNCOVERDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা নিচে</translation>
     </message>
     <message>
         <source>Uncover Left</source>
         <comment>WP_EFFECT_UNCOVERLEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা বামে</translation>
     </message>
     <message>
         <source>Uncover Right</source>
         <comment>WP_EFFECT_UNCOVERRIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা ডানে</translation>
     </message>
     <message>
         <source>Uncover Up</source>
         <comment>WP_EFFECT_UNCOVERUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা উপরে</translation>
     </message>
     <message>
         <source>Uncover Left-Down</source>
         <comment>WP_EFFECT_UNCOVERLEFTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা বামে-নিচে</translation>
     </message>
     <message>
         <source>Uncover Left-Up</source>
         <comment>WP_EFFECT_UNCOVERLEFTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা বামে-উপরে</translation>
     </message>
     <message>
         <source>Uncover Right-Down</source>
         <comment>WP_EFFECT_UNCOVERRIGHTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা ডানে-নিচে</translation>
     </message>
     <message>
         <source>Uncover Right-Up</source>
         <comment>WP_EFFECT_UNCOVERRIGHTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোড়ক খোলা ডানে-উপরে</translation>
     </message>
     <message>
         <source>Wedge</source>
@@ -965,242 +969,242 @@ Would you like to open this file?
     <message>
         <source>Wheel Clockwise, 1 Spoke</source>
         <comment>WP_EFFECT_WHEEL1SPOKE</comment>
-        <translation type="unfinished"></translation>
+        <translation>চাকা ঘড়ির কাঁটার দিকে, ১টি শিক</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 2 Spokes</source>
         <comment>WP_EFFECT_WHEEL2SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>চাকা ঘড়ির কাঁটার দিকে, ২টি শিক</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 3 Spokes</source>
         <comment>WP_EFFECT_WHEEL3SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>চাকা ঘড়ির কাঁটার দিকে,৩টি শিক</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 4 Spokes</source>
         <comment>WP_EFFECT_WHEEL4SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>চাকা ঘড়ির কাঁটার দিকে,৪টি শিক</translation>
     </message>
     <message>
         <source>Wheel Clockwise, 8 Spokes</source>
         <comment>WP_EFFECT_WHEEL8SPOKES</comment>
-        <translation type="unfinished"></translation>
+        <translation>চাকা ঘড়ির কাঁটার দিকে,৮টি শিক</translation>
     </message>
     <message>
         <source>Wipe Down</source>
         <comment>WP_EFFECT_WIPEDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোছা নিচের দিকে</translation>
     </message>
     <message>
         <source>Wipe Left</source>
         <comment>WP_EFFECT_WIPELEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোছা বামে</translation>
     </message>
     <message>
         <source>Wipe Right</source>
         <comment>WP_EFFECT_WIPERIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোছা ডানে</translation>
     </message>
     <message>
         <source>Wipe Up</source>
         <comment>WP_EFFECT_WIPEUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>মোছা উপরের দিকে</translation>
     </message>
     <message>
         <source>Random Transition</source>
         <comment>WP_EFFECT_RANDOM</comment>
-        <translation type="unfinished"></translation>
+        <translation>উল্টাপাল্টা ট্রানজিশন</translation>
     </message>
     <message>
         <source>[No Sound]</source>
         <comment>WP_SOUNDEFFECT_NOSOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>[নিঃশব্দ]</translation>
     </message>
     <message>
         <source>[Stop Previous Sound]</source>
         <comment>WP_SOUNDEFFECT_STOP</comment>
-        <translation type="unfinished"></translation>
+        <translation>[পূর্বের শব্দটি বন্ধ করুন]</translation>
     </message>
     <message>
         <source>Applause</source>
         <comment>WP_SOUNDEFFECT_Applause</comment>
-        <translation type="unfinished"></translation>
+        <translation>হাততালি</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>WP_SOUNDEFFECT_Arrow</comment>
-        <translation type="unfinished"></translation>
+        <translation>তীর</translation>
     </message>
     <message>
         <source>Bomb</source>
         <comment>WP_SOUNDEFFECT_Bomb</comment>
-        <translation type="unfinished"></translation>
+        <translation>বোম্ব</translation>
     </message>
     <message>
         <source>Breeze</source>
         <comment>WP_SOUNDEFFECT_Breeze</comment>
-        <translation type="unfinished"></translation>
+        <translation>মৃদু হাওয়া</translation>
     </message>
     <message>
         <source>Camera</source>
         <comment>WP_SOUNDEFFECT_Camera</comment>
-        <translation type="unfinished"></translation>
+        <translation>ক্যামেরা</translation>
     </message>
     <message>
         <source>Cash Register</source>
         <comment>WP_SOUNDEFFECT_CashRegister</comment>
-        <translation type="unfinished"></translation>
+        <translation>ক্যাশ রেজিস্টার</translation>
     </message>
     <message>
         <source>Chime</source>
         <comment>WP_SOUNDEFFECT_Chime</comment>
-        <translation type="unfinished"></translation>
+        <translation>মৃদু আওয়াজ</translation>
     </message>
     <message>
         <source>Click</source>
         <comment>WP_SOUNDEFFECT_Click</comment>
-        <translation type="unfinished"></translation>
+        <translation>ক্লিক</translation>
     </message>
     <message>
         <source>Coin</source>
         <comment>WP_SOUNDEFFECT_Coin</comment>
-        <translation type="unfinished"></translation>
+        <translation>পয়সা</translation>
     </message>
     <message>
         <source>Drum Roll</source>
         <comment>WP_SOUNDEFFECT_DrumRool</comment>
-        <translation type="unfinished"></translation>
+        <translation>ড্রাম বাজনা</translation>
     </message>
     <message>
         <source>Explosion</source>
         <comment>WP_SOUNDEFFECT_Explosion</comment>
-        <translation type="unfinished"></translation>
+        <translation>বোমাবাজি</translation>
     </message>
     <message>
         <source>Hammer</source>
         <comment>WP_SOUNDEFFECT_Hammer</comment>
-        <translation type="unfinished"></translation>
+        <translation>হাতুড়ি</translation>
     </message>
     <message>
         <source>Laser</source>
         <comment>WP_SOUNDEFFECT_Laser</comment>
-        <translation type="unfinished"></translation>
+        <translation>লেজার</translation>
     </message>
     <message>
         <source>Push</source>
         <comment>WP_SOUNDEFFECT_Push</comment>
-        <translation type="unfinished"></translation>
+        <translation>ধাক্কা</translation>
     </message>
     <message>
         <source>Suction</source>
         <comment>WP_SOUNDEFFECT_Suction</comment>
-        <translation type="unfinished"></translation>
+        <translation>শূষে নেয়া</translation>
     </message>
     <message>
         <source>Typewriter</source>
         <comment>WP_SOUNDEFFECT_Typewriter</comment>
-        <translation type="unfinished"></translation>
+        <translation>টাইপ-রাইটার</translation>
     </message>
     <message>
         <source>Voltage</source>
         <comment>WP_SOUNDEFFECT_Voltage</comment>
-        <translation type="unfinished"></translation>
+        <translation>বিদ্যুত</translation>
     </message>
     <message>
         <source>Whoosh</source>
         <comment>WP_SOUNDEFFECT_Whoosh</comment>
-        <translation type="unfinished"></translation>
+        <translation>হুশ্‌শ্‌</translation>
     </message>
     <message>
         <source>Wind</source>
         <comment>WP_SOUNDEFFECT_Wind</comment>
-        <translation type="unfinished"></translation>
+        <translation>হাওয়া</translation>
     </message>
     <message>
         <source>Other Sound...</source>
         <comment>WP_SOUNDEFFECT_OTHER</comment>
-        <translation type="unfinished"></translation>
+        <translation>অন্যান্য আওয়াজ</translation>
     </message>
     <message>
         <source>Sound Files(*.wav)|*.wav</source>
         <comment>WP_SOUNDFILE</comment>
-        <translation type="unfinished"></translation>
+        <translation>আওয়াজের ফাইল(*wav)|*.wav</translation>
     </message>
     <message>
         <source>Add Sound</source>
         <comment>WP_OTHERSOUND</comment>
-        <translation type="unfinished"></translation>
+        <translation>আওয়াজ যোগ করুন</translation>
     </message>
     <message>
         <source>Used in This Presentation</source>
         <comment>WP_TP_DESIGNCATEGORY1</comment>
-        <translation type="unfinished"></translation>
+        <translation>এই প্রদর্শনীতে ব্যবহৃত</translation>
     </message>
     <message>
         <source>Recently Used</source>
         <comment>WP_TP_DESIGNCATEGORY2</comment>
-        <translation type="unfinished"></translation>
+        <translation>সম্প্রতি ব্যবহৃত</translation>
     </message>
     <message>
         <source>Available for Use</source>
         <comment>WP_TP_DESIGNCATEGORY3</comment>
-        <translation type="unfinished"></translation>
+        <translation>ব্যবহার করার জন্য প্রস্তুত</translation>
     </message>
     <message>
         <source>Recently Used</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY1</comment>
-        <translation type="unfinished"></translation>
+        <translation>সম্প্রতি ব্যবহৃত</translation>
     </message>
     <message>
         <source>No Animation</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY2</comment>
-        <translation type="unfinished"></translation>
+        <translation>নিশ্চল (কোন এনিমেশন নয়)</translation>
     </message>
     <message>
         <source>Subtle</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY3</comment>
-        <translation type="unfinished"></translation>
+        <translation>সূক্ষ</translation>
     </message>
     <message>
         <source>Moderate</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY4</comment>
-        <translation type="unfinished"></translation>
+        <translation>মাঝামাঝি</translation>
     </message>
     <message>
         <source>Exciting</source>
         <comment>WP_TP_ANIMATIONSCHEMECATEGORY5</comment>
-        <translation type="unfinished"></translation>
+        <translation>উত্তেজনাময়</translation>
     </message>
     <message>
         <source>No Animation</source>
         <comment>WP_ANIMATIONTYPE_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation>নিশ্চল (কোন এনিমেশন নয়)</translation>
     </message>
     <message>
         <source>Appear</source>
         <comment>WP_ANIMATIONTYPE_APPEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্যমান হয়</translation>
     </message>
     <message>
         <source>Appear And Dim</source>
         <comment>WP_ANIMATIONTYPE_APPEARANDDIM</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্যমান হয় এবং নিভে যায়</translation>
     </message>
     <message>
         <source>Fade In All</source>
         <comment>WP_ANIMATIONTYPE_FADEINALL</comment>
-        <translation type="unfinished"></translation>
+        <translation>সবগুলো অদৃশ্য থেকে দৃশ্যমান হয়</translation>
     </message>
     <message>
         <source>Fade In One By One</source>
         <comment>WP_ANIMATIONTYPE_FADEINONEBYONE</comment>
-        <translation type="unfinished"></translation>
+        <translation>একে একে অদৃশ্য থেকে দৃশ্যমান হয়</translation>
     </message>
     <message>
         <source>Fade In And Dim</source>
         <comment>WP_ANIMATIONTYPE_FADEINANDDIM</comment>
-        <translation type="unfinished"></translation>
+        <translation>দৃশ্যমান হয় এবং নিভে যায়</translation>
     </message>
     <message>
         <source>Faded Wipe</source>

@@ -7,7 +7,7 @@
     <message>
         <source>All Reference Files</source>
         <extracomment>Unknown position</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>সমস্ত সম্পর্কিত </translation>
     </message>
 </context>
 <context>
@@ -15,17 +15,17 @@
     <message>
         <source>&amp;Description:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>বিস্তারিত</translation>
     </message>
     <message>
         <source>Macro Options</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ম্যাক্রো অপশনসমূহ</translation>
     </message>
     <message>
         <source>Macro name:</source>
         <extracomment>et -&gt; Developer -&gt; Macros -&gt; Options</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ম্যাক্রোর নাম</translation>
     </message>
     <message>
         <source>Prompt</source>
