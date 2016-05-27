@@ -6662,7 +6662,7 @@ Footer</source>
     </message>
     <message>
         <source>InsertNewChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstaw nowy wykres</translation>
     </message>
     <message>
         <source>Label</source>
@@ -6817,7 +6817,7 @@ do przodu</translation>
     </message>
     <message>
         <source>Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolory</translation>
     </message>
     <message>
         <source>Custom Zoom</source>
@@ -6837,11 +6837,11 @@ do przodu</translation>
     </message>
     <message>
         <source>Edit Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj motyw</translation>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="unfinished"></translation>
+        <translation>Efekty</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -6877,7 +6877,7 @@ do przodu</translation>
     </message>
     <message>
         <source>Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Czcionki</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -6975,7 +6975,7 @@ do tyłu</translation>
     </message>
     <message>
         <source>Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>Motywy</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -9156,7 +9156,7 @@ cienia</translation>
     </message>
     <message>
         <source>Shadow Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor cienia</translation>
     </message>
     <message>
         <source>Snapper</source>
@@ -11124,7 +11124,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Legend</source>
-        <translation type="unfinished"></translation>
+        <translation>Legenda</translation>
     </message>
     <message>
         <source>Line Pattern</source>

@@ -1202,7 +1202,7 @@ the presentation file directly.You can put it with the presentation file in the 
     <name>KxDlgCompatibilityChecker</name>
     <message>
         <source>Compatibility Checker</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprawdzanie zgodności</translation>
     </message>
     <message>
         <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
@@ -1210,15 +1210,15 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>Summary:</source>
-        <translation type="unfinished"></translation>
+        <translation>Podsumowanie:</translation>
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished">&amp;Kontynuuj</translation>
+        <translation>&amp;Kontynuuj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3694,7 +3694,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -4008,15 +4008,15 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxTrimMediaDlg</name>
     <message>
         <source>Trim Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Przytnij film</translation>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Przytnij dźwięk</translation>
     </message>
     <message>
         <source>Duration : </source>
-        <translation type="unfinished"></translation>
+        <translation>Czas trwania: </translation>
     </message>
 </context>
 <context>
@@ -4143,7 +4143,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez obramowania</translation>
     </message>
 </context>
 <context>
@@ -4420,7 +4420,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez koloru</translation>
     </message>
 </context>
 <context>
@@ -6088,7 +6088,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Kolor</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
@@ -6096,7 +6096,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Enter 0%  to 100% of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz wartość od 0 do 100%</translation>
     </message>
     <message>
         <source>%</source>
@@ -6164,7 +6164,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Enter 0cm to 55.88cm of the Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz wartość od 0 do 55.88cm</translation>
     </message>
 </context>
 <context>

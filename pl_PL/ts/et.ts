@@ -1520,7 +1520,7 @@ condition is true:</source>
     <name>KxChartTypeGalleryModel</name>
     <message>
         <source>2-D Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumnowy 2-W</translation>
     </message>
     <message>
         <source>2-D Bar</source>
@@ -1536,11 +1536,11 @@ condition is true:</source>
     </message>
     <message>
         <source>Radar</source>
-        <translation type="unfinished"></translation>
+        <translation>Radarowy</translation>
     </message>
     <message>
         <source>2-D Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Warstwowy 2-W</translation>
     </message>
     <message>
         <source>Combo</source>
@@ -1548,7 +1548,7 @@ condition is true:</source>
     </message>
     <message>
         <source>2-D Pie</source>
-        <translation type="unfinished"></translation>
+        <translation>Kołowy 2-W</translation>
     </message>
     <message>
         <source>X Y (Scatter)</source>
@@ -1560,51 +1560,51 @@ condition is true:</source>
     </message>
     <message>
         <source>Clustered Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolumnowy grupowany</translation>
     </message>
     <message>
         <source>Stacked Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Skumulowany kolumnowy</translation>
     </message>
     <message>
         <source>100% Stacked Column</source>
-        <translation type="unfinished"></translation>
+        <translation>100% skumulowany kolumnowy</translation>
     </message>
     <message>
         <source>Clustered Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Słupkowy grupowany</translation>
     </message>
     <message>
         <source>Stacked Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Skumulowany słupkowy</translation>
     </message>
     <message>
         <source>100% Stacked Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>100% skumulowany słupkowy</translation>
     </message>
     <message>
         <source>Line</source>
-        <translation type="unfinished">Linia</translation>
+        <translation>Liniowy</translation>
     </message>
     <message>
         <source>Stacked Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Skumulowany liniowy</translation>
     </message>
     <message>
         <source>100% Stacked Line</source>
-        <translation type="unfinished"></translation>
+        <translation>100% skumulowany liniowy</translation>
     </message>
     <message>
         <source>Line with Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Liniowy z znacznikami</translation>
     </message>
     <message>
         <source>Stacked Line with Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Skumulowany liniowy z znacznikami</translation>
     </message>
     <message>
         <source>100% Stacked Line with Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>100% skumulowany liniowy z znacznikami</translation>
     </message>
     <message>
         <source>High-Low-Close</source>
@@ -1624,23 +1624,23 @@ condition is true:</source>
     </message>
     <message>
         <source>Radar with Markers</source>
-        <translation type="unfinished"></translation>
+        <translation>Radarowy z znacznikami</translation>
     </message>
     <message>
         <source>Filled Radar</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełniony radarowy</translation>
     </message>
     <message>
         <source>Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Warstwowy</translation>
     </message>
     <message>
         <source>Stacked Area</source>
-        <translation type="unfinished"></translation>
+        <translation>Skumulowany warstwowy</translation>
     </message>
     <message>
         <source>100% Stacked Area</source>
-        <translation type="unfinished"></translation>
+        <translation>100% skumulowany warstwowy</translation>
     </message>
     <message>
         <source>Clustered Column Line</source>
@@ -1656,7 +1656,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Pie</source>
-        <translation type="unfinished"></translation>
+        <translation>Kołowy</translation>
     </message>
     <message>
         <source>Pie Of Pie</source>
@@ -1668,7 +1668,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Doughnut</source>
-        <translation type="unfinished"></translation>
+        <translation>Pierścieniowy</translation>
     </message>
     <message>
         <source>Scatter</source>
