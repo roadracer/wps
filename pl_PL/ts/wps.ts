@@ -2135,7 +2135,7 @@ lub użyj odpowiedniego przycisku</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tytuł:</translation>
     </message>
     <message>
         <source>T&amp;ag:</source>
@@ -4057,7 +4057,7 @@ Przykład: +4 przenosi do przodu o cztery elementy:</translation>
     </message>
     <message>
         <source>Text &amp;Effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>Efekty tekstowe</translation>
     </message>
 </context>
 <context>
@@ -11981,7 +11981,7 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsContentButtonMgr</name>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Obrazek</translation>
     </message>
 </context>
 <context>
@@ -13037,7 +13037,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obrazek</translation>
     </message>
 </context>
 <context>
@@ -13690,7 +13690,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Text Wrapping</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawijanie tekstu</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14120,7 +14120,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Word Templates(*.dotx; *.dotm; *.dot; *.wpt);;Word Add-Ins(*.wll);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Szablony Worda(*.dotx; *.dotm; *.dot; *.wpt);;Dodatki do Worda(*.wll);;Wszystkie pliki(*.*)</translation>
     </message>
     <message>
         <source>Common Template Normal.dotm has opened to load.</source>
@@ -14284,7 +14284,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Percent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Procent</translation>
     </message>
     <message>
         <source>&amp;Measure in:</source>
@@ -14558,11 +14558,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Left Margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do lewej</translation>
     </message>
     <message>
         <source>Right Margin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wyrównaj do prawej</translation>
     </message>
     <message>
         <source>%, 1, 1, 1000, 1</source>
@@ -14570,15 +14570,15 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Szerokość</translation>
     </message>
     <message>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Długość</translation>
     </message>
     <message>
         <source>Rotate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Obróć</translation>
     </message>
     <message>
         <source>Scale</source>
@@ -14586,11 +14586,11 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Original size</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oryginalny rozmiar</translation>
     </message>
     <message>
         <source>Re&amp;set</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Resetuj</translation>
     </message>
 </context>
 <context>
