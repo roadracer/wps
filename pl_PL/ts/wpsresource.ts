@@ -4343,7 +4343,7 @@ On</source>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Forum</source>
@@ -11761,6 +11761,7 @@ formatów</translation>
     </message>
     <message>
         <source>Formats</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Formaty</translation>
     </message>
     <message>
@@ -12696,6 +12697,10 @@ formatów</translation>
     <message>
         <source>Set Default Paste</source>
         <translation>Ustaw wklejanie domyślne</translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Shading Color</source>
@@ -14175,7 +14180,8 @@ On</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>Narzędzia do rysowania-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -14434,7 +14440,8 @@ tekstu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translatorcomment>Narzędzia do rysowania-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -15119,7 +15126,7 @@ tekstu</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -22160,7 +22167,7 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -22314,11 +22321,13 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>wstaw dowolny kształ i zapisz plik jako doc - po kliknięciu na kształcie pojawi się we wstążce zakładka o nazwie Formatowanie</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Formats - Compatibility Mode</source>
-        <translation>Formaty - Tryb zgodności</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie - Tryb zgodności</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -22631,7 +22640,8 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Header and Footer</source>

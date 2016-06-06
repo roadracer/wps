@@ -2111,6 +2111,30 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
         <source>&amp;Shortcuts</source>
         <translation>&amp;Skróty</translation>
     </message>
+    <message>
+        <source>&amp;Measurement units:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="unfinished">Punkty</translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation 97-2003</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -2644,23 +2668,28 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppActionSettings</name>
     <message>
         <source>Action Settings</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa okna dialogowego - tak jest ok jak w PowePoint</translatorcomment>
         <translation>Ustawienia akcji</translation>
     </message>
     <message>
         <source>Mouse Click</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa zakładki okna dialogowego Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
         <translation>Kliknięcie myszą</translation>
     </message>
     <message>
         <source>Action on click</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
         <translation>Akcja przy kliknięciu</translation>
     </message>
     <message>
         <source>&amp;None</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
         <translation>&amp;Brak</translation>
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translation>&amp;Hiperłącze z:</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
+        <translation>&amp;Hiperłącze do:</translation>
     </message>
     <message>
         <source>Next slide</source>
@@ -2688,7 +2717,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Custom show ...</source>
-        <translation>Pokaz niestandardowy ...</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaz niestandardowy...</translation>
     </message>
     <message>
         <source>Slide...</source>
@@ -2700,7 +2730,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Run program</source>
-        <translation>&amp;Uruchom program</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Uruchom program:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -2712,23 +2743,28 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Object &amp;action</source>
-        <translation>&amp;Akcja obiektu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Akcja &amp;obiektu:</translation>
     </message>
     <message>
         <source>&amp;Play sound:</source>
-        <translation>&amp;Odtwórz dźwięk:</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odt&amp;wórz dźwięk:</translation>
     </message>
     <message>
         <source>Mouse Over</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa zakładki okna dialogowego Ustawienia akcji - tak jest ok</translatorcomment>
         <translation>Wskazanie myszą</translation>
     </message>
     <message>
         <source>Action on mouse over</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok</translatorcomment>
         <translation>Akcja przy wskazaniu myszą</translation>
     </message>
     <message>
         <source>Other WPS Presentation file...</source>
-        <translation>Inne pliki WPS Presentation...</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Inna prezentacja programu WPS Presentation...</translation>
     </message>
 </context>
 <context>
@@ -2797,15 +2833,18 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppLinkToCustomShows</name>
     <message>
         <source>Link To Custom Show</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Łącze do pokazu niestandardowego</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translatorcomment>tak jest ok, jak w PowerPoint</translatorcomment>
+        <translation>&amp;Pokazy niestandardowe:</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
-        <translation>&amp;Pokaż i powróć</translation>
+        <translatorcomment>tak jest ok, jak w PowerPoint</translatorcomment>
+        <translation>P&amp;okaż i powróć</translation>
     </message>
 </context>
 <context>
@@ -3984,10 +4023,12 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
-        <translation>Hiperłącze do innych plików</translation>
+        <translatorcomment>nazwa okna dialogowego, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Hiperłącze do innego pliku</translation>
     </message>
     <message>
         <source>Hyperlink To URL</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Hiperłącze do adresu URL</translation>
     </message>
     <message>
@@ -3996,11 +4037,13 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Please Choose a Program to Launch</source>
-        <translation>Proszę wybrać program do uruchomienia</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji - niestandardowy-&gt;Uruchom program-&gt;Przeglądaj, nazwa okna dialogowego, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wybieranie programu do uruchomienia</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
-        <translation>Hiperłącze do innych plików programu WPS Presentation</translation>
+        <translatorcomment>nazwa okna dialogowego, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Hiperłącze do innej prezentacji programu WPS Presentation</translation>
     </message>
     <message>
         <source>Open</source>

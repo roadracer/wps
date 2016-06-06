@@ -6978,6 +6978,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>TRANSPOSE(array)</source>
         <comment>TRANSPOSE_SYNTAX</comment>
+        <translatorcomment>składnia funkcji, tak jest ok</translatorcomment>
         <translation>TRANSPONUJ(tablica)</translation>
     </message>
     <message>
@@ -7777,6 +7778,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>PASTE.SPECIAL(paste_num, operation_num, skip_blanks, transpose)</source>
         <comment>PASTESPECIAL_SYNTAX</comment>
+        <translatorcomment>składnia funkcji, tak jest ok</translatorcomment>
         <translation>WKLEJ.SPECJALNIE(wklej_liczba; operacja_nr; pomiń_puste; transponuj)</translation>
     </message>
     <message>
@@ -14153,6 +14155,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Transpose</source>
         <comment>TX_ParaInfo_302</comment>
+        <translatorcomment>tak jest ok - dotyczy ostatniego składnika funkcji WKLEJ.SPECJALNIE(wklej_liczba; operacja_nr; pomiń_puste; transponuj)</translatorcomment>
         <translation>Transponuj</translation>
     </message>
     <message>

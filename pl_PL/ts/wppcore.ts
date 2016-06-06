@@ -1034,111 +1034,133 @@ Czy chcesz otworzyć ten plik?</translation>
     <message>
         <source>[No Sound]</source>
         <comment>WP_SOUNDEFFECT_NOSOUND</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>[Bez dźwięku]</translation>
     </message>
     <message>
         <source>[Stop Previous Sound]</source>
         <comment>WP_SOUNDEFFECT_STOP</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>[Zatrzymaj poprzedni dźwięk]</translation>
     </message>
     <message>
         <source>Applause</source>
         <comment>WP_SOUNDEFFECT_Applause</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Aplauz</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>WP_SOUNDEFFECT_Arrow</comment>
-        <translation>Strzałka</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Strzała</translation>
     </message>
     <message>
         <source>Bomb</source>
         <comment>WP_SOUNDEFFECT_Bomb</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Bomba</translation>
     </message>
     <message>
         <source>Breeze</source>
         <comment>WP_SOUNDEFFECT_Breeze</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Bryza</translation>
     </message>
     <message>
         <source>Camera</source>
         <comment>WP_SOUNDEFFECT_Camera</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Aparat fotograficzny</translation>
     </message>
     <message>
         <source>Cash Register</source>
         <comment>WP_SOUNDEFFECT_CashRegister</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kasa rejestrująca</translation>
     </message>
     <message>
         <source>Chime</source>
         <comment>WP_SOUNDEFFECT_Chime</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Dzwonki</translation>
     </message>
     <message>
         <source>Click</source>
         <comment>WP_SOUNDEFFECT_Click</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kliknięcie</translation>
     </message>
     <message>
         <source>Coin</source>
         <comment>WP_SOUNDEFFECT_Coin</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Moneta</translation>
     </message>
     <message>
         <source>Drum Roll</source>
         <comment>WP_SOUNDEFFECT_DrumRool</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Werbel</translation>
     </message>
     <message>
         <source>Explosion</source>
         <comment>WP_SOUNDEFFECT_Explosion</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wybuch</translation>
     </message>
     <message>
         <source>Hammer</source>
         <comment>WP_SOUNDEFFECT_Hammer</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Młotek</translation>
     </message>
     <message>
         <source>Laser</source>
         <comment>WP_SOUNDEFFECT_Laser</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Laser</translation>
     </message>
     <message>
         <source>Push</source>
         <comment>WP_SOUNDEFFECT_Push</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pchnięcie</translation>
     </message>
     <message>
         <source>Suction</source>
         <comment>WP_SOUNDEFFECT_Suction</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ssanie</translation>
     </message>
     <message>
         <source>Typewriter</source>
         <comment>WP_SOUNDEFFECT_Typewriter</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Maszyna do pisania</translation>
     </message>
     <message>
         <source>Voltage</source>
         <comment>WP_SOUNDEFFECT_Voltage</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Napięcie</translation>
     </message>
     <message>
         <source>Whoosh</source>
         <comment>WP_SOUNDEFFECT_Whoosh</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Świst</translation>
     </message>
     <message>
         <source>Wind</source>
         <comment>WP_SOUNDEFFECT_Wind</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wiatr</translation>
     </message>
     <message>
         <source>Other Sound...</source>
         <comment>WP_SOUNDEFFECT_OTHER</comment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-niestandardowy-&gt;Odtwórz dźwięk, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Inny dźwięk...</translation>
     </message>
     <message>

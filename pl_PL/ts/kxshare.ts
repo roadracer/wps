@@ -2376,6 +2376,65 @@ ruchoma</translation>
     </message>
 </context>
 <context>
+    <name>KProxySettingDlg</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished">Typ:</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished">Hasło:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not use proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HTTP proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Internet Explorer Proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
+    </message>
+    <message>
+        <source>Connected to proxy server correctly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to connect to proxy server</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KRegisterDlg</name>
     <message>
         <source>Documents&apos; Author</source>
@@ -8321,7 +8380,7 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
 </context>
 <context>
@@ -9065,6 +9124,10 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
         <source>Reset all shortcuts?</source>
         <translation>Zresetować wszystkie skróty?</translation>
     </message>
+    <message>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetColorAndLines</name>
@@ -9611,6 +9674,41 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
+    <name>ProxySetting</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished">Hasło:</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation type="unfinished">Typ:</translation>
+    </message>
+    <message>
+        <source>Proxy Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>QFileSystemModel</name>
     <message>
         <source>%1 TB</source>
@@ -9997,6 +10095,14 @@ Zawsze wykonuj tą akcję.</translation>
     <message>
         <source>Theme Fonts</source>
         <translation>Czcionki motywu</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">cm</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pkt</translation>
     </message>
 </context>
 <context>
@@ -11776,19 +11882,23 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Text</source>
+        <translatorcomment>Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Właściwości-&gt;Zakładka Niestandardowe, menu Typ:</translatorcomment>
         <translation>Tekst</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Właściwości-&gt;Zakładka Niestandardowe, menu Typ:</translatorcomment>
         <translation>Data</translation>
     </message>
     <message>
         <source>Number</source>
-        <translation>Numer</translation>
+        <translatorcomment>Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Właściwości-&gt;Zakładka Niestandardowe, menu Typ:</translatorcomment>
+        <translation>Liczba</translation>
     </message>
     <message>
         <source>Whether or not</source>
-        <translation>Tak lub nie</translation>
+        <translatorcomment>Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Właściwości-&gt;Zakładka Niestandardowe, menu Typ:</translatorcomment>
+        <translation>Tak lub Nie</translation>
     </message>
     <message>
         <source>&amp;Value:</source>

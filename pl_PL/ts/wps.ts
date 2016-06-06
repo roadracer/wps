@@ -825,6 +825,17 @@
     </message>
 </context>
 <context>
+    <name>KxAutoCorrectOptionsDlg</name>
+    <message>
+        <source>Kingsoft WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An AutoCorrect entry for &apos;%1&apos; already exists. Do you want to redefine it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>KxBookmarksDlg</name>
     <message>
         <source>Cancel</source>
@@ -1428,6 +1439,57 @@
     <message>
         <source>Enter user names, separated by semicolons:</source>
         <translation>Wprowadź nazwy użytkowników oddzielone średnikami:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAutoCorrectOptions</name>
+    <message>
+        <source>AutoCorrect</source>
+        <translation type="unfinished">Autokorekta</translation>
+    </message>
+    <message>
+        <source>Replace &amp;text as you type</source>
+        <translation type="unfinished">Za&amp;mień tekst podczas pisania</translation>
+    </message>
+    <message>
+        <source>&amp;Replace:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;With:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Formatted text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repl&amp;ace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>Automatically use su&amp;ggestions from the spelling checker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab 2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3327,6 +3389,14 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     <message>
         <source>&amp;Reset</source>
         <translation>&amp;Resetuj</translation>
+    </message>
+    <message>
+        <source>&amp;Font...</source>
+        <translation type="unfinished">&amp;Czcionka...</translation>
+    </message>
+    <message>
+        <source>F&amp;ont...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6451,7 +6521,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Replace &amp;text as you type</source>
-        <translation>Za&amp;mień tekst podczas pisania</translation>
+        <translation type="obsolete">Za&amp;mień tekst podczas pisania</translation>
     </message>
     <message>
         <source>Shortcuts</source>
@@ -6464,6 +6534,14 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <message>
         <source>&amp;Shortcuts</source>
         <translation>&amp;Skróty</translation>
+    </message>
+    <message>
+        <source>Replace text as you type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Option</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8147,6 +8225,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     <name>KxDlgWpsConvertPrompt</name>
     <message>
         <source>Convert</source>
+        <translatorcomment>Writer-&gt;Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Konwertuj; nazwa ona dialogowego</translatorcomment>
         <translation>Konwertowanie</translation>
     </message>
     <message>
@@ -8154,6 +8233,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
 
 While you&apos;ll get to use all the new features in Word, this may cause minor layout changes. If you prefer not to upgrade, press cancel.
 Converting allows you to use all the new features of Word and reduces the size of your file. This document will be replaced by the converted version.</source>
+        <translatorcomment>Writer-&gt;Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Konwertuj; komunikat</translatorcomment>
         <translation>Dokument zostanie uaktualniony do najnowszego formatu pliku.
 
 Uzyskasz dostęp do wszystkich nowych funkcji programu Word, ale może to spowodować niewielkie zmiany układu. Jeśli nie chcesz wykonywać uaktualnienia, naciśnij przycisk Anuluj.
@@ -8161,6 +8241,7 @@ Przekonwertowanie umożliwi korzystanie ze wszystkich nowych funkcji programu Wo
     </message>
     <message>
         <source>Do not ask me again about converting documents.</source>
+        <translatorcomment>Writer-&gt;Główny przycisk wstążki-&gt;Informacje o pliku-&gt;Konwertuj; komunikat</translatorcomment>
         <translation>Nie pytaj ponownie o konwertowanie dokumentów.</translation>
     </message>
 </context>
@@ -8596,6 +8677,14 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
         <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
         <translation>Program WPS Writer zaleca sposób podawania kopert pokazany wyżej. Jeżeli ta metoda okaże się niewłaściwa, wybierz inną, odpowiednią dla drukarki.</translation>
     </message>
+    <message>
+        <source>Envelope Address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Envelope Return Address</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEnvelopesAndLabelsDlg</name>
@@ -8606,6 +8695,10 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     <message>
         <source>Ch&amp;ange Document</source>
         <translation>Zmień dokument</translation>
+    </message>
+    <message>
+        <source>Do you want to save the new return address as the default return address?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13900,7 +13993,7 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
 </context>
 <context>

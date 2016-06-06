@@ -1890,7 +1890,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>Transponuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Transpozycja</translation>
     </message>
     <message>
         <source>Value</source>
@@ -3222,7 +3223,7 @@ zadań</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -3327,11 +3328,13 @@ zadań</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Formats - Compatibility Mode</source>
-        <translation>Formaty - Tryb zgodności</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie - Tryb zgodności</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -3584,7 +3587,8 @@ zadań</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -5487,7 +5491,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -6191,8 +6195,8 @@ formatów</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translatorcomment>Narzędzia główne-&gt;Wyczyść</translatorcomment>
-        <translation>Formaty</translation>
+        <translatorcomment>Narzędzia główne-&gt;Wyczyść, tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -6600,7 +6604,8 @@ kolumny</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>Transponuj</translation>
+        <translatorcomment>Spreadsheet-&gt;Narzędzia główne-&gt;Wklej, tak jest ok</translatorcomment>
+        <translation>Transpozycja</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -8834,7 +8839,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Glow</source>
@@ -8846,7 +8852,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>Narzędzia tekstu-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -8961,7 +8968,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translatorcomment>Narzędzia tekstu-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Vertical Center</source>
@@ -11129,6 +11137,7 @@ COM</translation>
     </message>
     <message>
         <source>Formats</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Formaty</translation>
     </message>
     <message>
@@ -11893,6 +11902,10 @@ wyśrodkuj</translation>
         <translation>Ustaw obszar wydruku</translation>
     </message>
     <message>
+        <source>Set Proxy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Set Reject Insert Repeat Items</source>
         <translation type="obsolete">Ustaw odrzucone wstawienia powtarzanych elementów</translation>
     </message>
@@ -12156,7 +12169,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>Transponuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Transpozycja</translation>
     </message>
     <message>
         <source>TrendLine</source>
@@ -13201,7 +13215,8 @@ COM</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>Narzędzia do rysowania-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>Insert Shapes</source>
@@ -13363,7 +13378,8 @@ COM</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translatorcomment>Narzędzia do rysowania-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Weight</source>
@@ -13963,7 +13979,7 @@ COM</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -14632,7 +14648,8 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -14975,7 +14992,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Transpose</source>
-        <translation>Transponuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Transpozycja</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -17115,7 +17133,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Glow</source>

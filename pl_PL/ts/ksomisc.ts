@@ -164,7 +164,8 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>
-        <translation>Użyj WPS Writer do pisania raportów i tworzenia artykułów.</translation>
+        <translatorcomment>podpowiedź pojawiajaca się po najechaniu myszką na ikonę programu zlokalizowaną na pulpicie</translatorcomment>
+        <translation>Użyj programu WPS Writer do pisania raportów i tworzenia artykułów.</translation>
     </message>
     <message>
         <source>WPS Presentation.lnk</source>
@@ -172,7 +173,8 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Presentation to edit and play presentations.</source>
-        <translation>Użyj WPS Presentation do edycji i odtwarzania prezentacji.</translation>
+        <translatorcomment>podpowiedź pojawiajaca się po najechaniu myszką na ikonę programu zlokalizowaną na pulpicie</translatorcomment>
+        <translation>Użyj programu WPS Presentation do edycji i odtwarzania prezentacji.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets.lnk</source>
@@ -180,7 +182,8 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Use WPS Spreadsheets to analyze and manage data.</source>
-        <translation>Użyj WPS Spreadsheets do analizy i zarządzania danymi.</translation>
+        <translatorcomment>podpowiedź pojawiajaca się po najechaniu myszką na ikonę programu zlokalizowaną na pulpicie</translatorcomment>
+        <translation>Użyj programu WPS Spreadsheets do analizy i zarządzania danymi.</translation>
     </message>
     <message>
         <source>Configuration Tools.lnk</source>
@@ -332,11 +335,11 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Repair WPS Update Service</source>
-        <translation>Naprawa Usługi WPS Update</translation>
+        <translation type="obsolete">Naprawa Usługi WPS Update</translation>
     </message>
     <message>
         <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
-        <translation>Do naprawy &quot;Usługi WPS Update&quot; są wymagane uprawnienia administratora. Proszę użyj konta administratora do ponownego uruchomienia &quot;Narzędzia konfiguracji&quot;.</translation>
+        <translation type="obsolete">Do naprawy &quot;Usługi WPS Update&quot; są wymagane uprawnienia administratora. Proszę użyj konta administratora do ponownego uruchomienia &quot;Narzędzia konfiguracji&quot;.</translation>
     </message>
 </context>
 <context>
@@ -1395,6 +1398,10 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
         <source>Check for update, but let me choose whether to &amp;download and install them</source>
         <translation>Wyszukaj aktualizacje, ale pozwól mi wybrać, czy je &amp;pobrać i zainstalować</translation>
     </message>
+    <message>
+        <source>Use a &amp;background service to install updates</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Ksomisc_Funcs</name>
@@ -1409,6 +1416,20 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
         <translation>WPS Office jest uruchomiony, proszę ponownie otworzyć narzędzia konfiguracji po zamknięciu programu.</translation>
+    </message>
+    <message>
+        <source>WPS Office Configuration Tools</source>
+        <translation type="unfinished">Narzędzia konfiguracji WPS Office</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Do you want to relaunch &quot;Configuration Tools&quot; in Administrator mode?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -4038,7 +4038,7 @@ Włącz</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -7304,7 +7304,8 @@ tekstu</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>Narzędzia tekstu-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
@@ -7472,7 +7473,8 @@ tekstu</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translatorcomment>Narzędzia tekstu-&gt;Pole tekstowe, tak jest ok</translatorcomment>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>Vertical direction</source>
@@ -9279,7 +9281,8 @@ COM</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translation>Wymaż wszystkie pisma odręczne na slajdzie</translation>
+        <translatorcomment>Presentation-&gt;F5-&gt;Prawy przycisk myszki-&gt;Opcje wskaźnika, tak jest ok jak w PowePoint</translatorcomment>
+        <translation>Wymaż całe pismo odręczne na slajdzie</translation>
     </message>
     <message>
         <source>Erase All Markups</source>
@@ -10245,6 +10248,10 @@ slajdów</translation>
     <message>
         <source>Set AutoShape Defaults</source>
         <translation>Ustawienia domyślne Autokształtu</translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -12484,7 +12491,7 @@ powiązany</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Office Community</source>
@@ -17355,7 +17362,7 @@ slajdu</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
-        <translation>Wzorzec do odzyskiwania danych WPS</translation>
+        <translation type="obsolete">Wzorzec do odzyskiwania danych WPS</translation>
     </message>
     <message>
         <source>WPS Online Template</source>
@@ -17424,7 +17431,8 @@ slajdu</translation>
     <name>wppcommon.mainwindow.commands.Show</name>
     <message>
         <source>Erase</source>
-        <translation>Wymaż</translation>
+        <translatorcomment>Presentation-&gt;Uruchmomić prezentację (F5)-&gt;Prawy przycisk myszki-&gt;Opcje wskaźnika, tak jest ok jak w PowePoint</translatorcomment>
+        <translation>Gumka</translation>
     </message>
 </context>
 <context>
@@ -17535,7 +17543,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Handout Master</source>
@@ -17833,7 +17842,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Formaty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>

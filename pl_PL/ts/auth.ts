@@ -192,27 +192,27 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPrintRestrict</name>
     <message>
         <source>You are using a free version. </source>
-        <translation>Używasz wersji darmowej. </translation>
+        <translation type="obsolete">Używasz wersji darmowej. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. As the free trial of WPS Office Business Edition has ended, you need to upgrade to remove watermarks. %1Learn More%2</source>
-        <translation>Podczas drukowania do dokumentu zostanie dodany znak wodny. Po zakończeniu bezpłatnej wersji próbnej edycji WPS Office Business wymagane będzie uaktualnienie, aby usunąć znaki wodne. %1Dowiedz się więcej%2</translation>
+        <translation type="obsolete">Podczas drukowania do dokumentu zostanie dodany znak wodny. Po zakończeniu bezpłatnej wersji próbnej edycji WPS Office Business wymagane będzie uaktualnienie, aby usunąć znaki wodne. %1Dowiedz się więcej%2</translation>
     </message>
     <message>
         <source>Upgrade Now</source>
-        <translation>Uaktualnij teraz</translation>
+        <translation type="obsolete">Uaktualnij teraz</translation>
     </message>
     <message>
         <source>Try It</source>
-        <translation>Wypróbuj to</translation>
+        <translation type="obsolete">Wypróbuj to</translation>
     </message>
     <message>
         <source>Print With Watermark</source>
-        <translation>Drukuj ze znakiem wodnym</translation>
+        <translation type="obsolete">Drukuj ze znakiem wodnym</translation>
     </message>
     <message>
         <source>Feature for Paid Users</source>
-        <translation>Funkcja dla użytkowników płatnych</translation>
+        <translation type="obsolete">Funkcja dla użytkowników płatnych</translation>
     </message>
 </context>
 <context>
@@ -250,23 +250,23 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgRestriction</name>
     <message>
         <source>Feature for Paid Users</source>
-        <translation>Funkcja dla użytkowników płatnych</translation>
+        <translation type="obsolete">Funkcja dla użytkowników płatnych</translation>
     </message>
     <message>
         <source>This is a premium feature.As the free trial of WPS Office Business Edition has ended, you need to upgrade to use it. %1Click here%2 to learn more about the premium features and benefits.</source>
-        <translation>Jest to funkcja premium. Po zakończeniu bezpłatnej wersji próbnej edycji WPS Office Business wymagane będzie uaktualnienie, aby jej używać. %1Kliknij tutaj%2, aby dowiedzieć się więcej o funkcjach premium oraz korzyściach.</translation>
+        <translation type="obsolete">Jest to funkcja premium. Po zakończeniu bezpłatnej wersji próbnej edycji WPS Office Business wymagane będzie uaktualnienie, aby jej używać. %1Kliknij tutaj%2, aby dowiedzieć się więcej o funkcjach premium oraz korzyściach.</translation>
     </message>
     <message>
         <source>Upgrade Now</source>
-        <translation>Uaktualnij teraz</translation>
+        <translation type="obsolete">Uaktualnij teraz</translation>
     </message>
     <message>
         <source>Do you want to try this feature for a few more times and get your work done? No problem. We&apos;re happy to provide you with 3 times additional accesses to this premium feature.</source>
-        <translation>Czy chcesz wypróbować tą funkcję jeszcze kilka razy i wykonać swoją pracę? Nie ma problemu. Cieszymy się, że możemy zapewnić Państwu jeszcze 3 razy dodatkowy dostęp do tej funkcji premium.</translation>
+        <translation type="obsolete">Czy chcesz wypróbować tą funkcję jeszcze kilka razy i wykonać swoją pracę? Nie ma problemu. Cieszymy się, że możemy zapewnić Państwu jeszcze 3 razy dodatkowy dostęp do tej funkcji premium.</translation>
     </message>
     <message>
         <source>Try It!</source>
-        <translation>Wypróbuj to!</translation>
+        <translation type="obsolete">Wypróbuj to!</translation>
     </message>
 </context>
 <context>
@@ -671,11 +671,11 @@ p, li { white-space: pre-wrap; }
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>We are also happy to provide you with %1 times additional accesses to remove watermarks.</source>
-        <translation>Cieszymy się, że możemy zapewnić Państwu jeszcze %1 razy dodatkowy dostęp, aby usunąć znaki wodne.</translation>
+        <translation type="obsolete">Cieszymy się, że możemy zapewnić Państwu jeszcze %1 razy dodatkowy dostęp, aby usunąć znaki wodne.</translation>
     </message>
     <message>
         <source>We are also happy to provide you with one time additional accesses to remove watermarks.</source>
-        <translation>Cieszymy się, że możemy zapewnić Państwu jeszcze jeden raz dodatkowy dostęp, aby usunąć znaki wodne.</translation>
+        <translation type="obsolete">Cieszymy się, że możemy zapewnić Państwu jeszcze jeden raz dodatkowy dostęp, aby usunąć znaki wodne.</translation>
     </message>
 </context>
 <context>
@@ -882,16 +882,24 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
         <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
         <translation>Aby korzystać z funkcji premium, takich jak VBA, można uaktualnić do edycji WPS Office Business. Kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji.</translation>
     </message>
+    <message>
+        <source>Buy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxRestrictionDlg</name>
     <message>
         <source>%1 times left</source>
-        <translation>%1 pozostały czas</translation>
+        <translation type="obsolete">%1 pozostały czas</translation>
     </message>
     <message>
         <source>%1 time left</source>
-        <translation>%1 pozostały czas</translation>
+        <translation type="obsolete">%1 pozostały czas</translation>
     </message>
 </context>
 <context>

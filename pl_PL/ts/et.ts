@@ -3124,82 +3124,102 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <name>KxDlgCellPasteSpecial</name>
     <message>
         <source>Paste Special</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną formułę, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa okna dialogowego, tak jest ok jak w Excel</translatorcomment>
         <translation>Wklejanie specjalnie</translation>
     </message>
     <message>
         <source>Paste</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Wklej</translation>
     </message>
     <message>
         <source>&amp;All</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Wszystko</translation>
     </message>
     <message>
         <source>All e&amp;xcept borders</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Wszystko poz&amp;a obramowaniem</translation>
     </message>
     <message>
         <source>&amp;Formulas</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Formuły</translation>
     </message>
     <message>
         <source>Column &amp;widths</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Szerokości kolumn</translation>
     </message>
     <message>
         <source>&amp;Values</source>
-        <translation>&amp;Wartości</translation>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
+        <translation>Wa&amp;rtości</translation>
     </message>
     <message>
         <source>Fo&amp;rmulas and number formats</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Formuły i formaty li&amp;czb</translation>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation>Forma&amp;ty</translation>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
+        <translation>For&amp;maty</translation>
     </message>
     <message>
         <source>Val&amp;ues and number formats</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Wartośc&amp;i i formaty liczb</translation>
     </message>
     <message>
         <source>Operation</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Operacja</translation>
     </message>
     <message>
         <source>N&amp;one</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Brak</translation>
     </message>
     <message>
         <source>&amp;Multiply</source>
-        <translation>Po&amp;mnóż</translation>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Przemnóż</translation>
     </message>
     <message>
         <source>A&amp;dd</source>
-        <translation>D&amp;odaj</translation>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>D&amp;ivide</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Pod&amp;ziel</translation>
     </message>
     <message>
         <source>&amp;Subtract</source>
-        <translation>O&amp;dejmij</translation>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Odejmij</translation>
     </message>
     <message>
         <source>Skip &amp;blanks</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Pomijaj p&amp;uste</translation>
     </message>
     <message>
         <source>Transpos&amp;e</source>
-        <translation>&amp;Transponuj</translation>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Transpozycja</translation>
     </message>
     <message>
         <source>&amp;Comment</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Komentarze</translation>
     </message>
     <message>
         <source>Validatio&amp;n</source>
+        <translatorcomment>Spreadsheet - skopiuj dowolną zawartość komórki, a następnie Narzędzia główne-&gt;Wklej-&gt;Wklej specjalnie - nazwa opcji w oknie dialogowym Wklejanie specjalne, tak jest ok jak w Excel</translatorcomment>
         <translation>Sprawdza&amp;nie poprawności</translation>
     </message>
 </context>
@@ -4017,7 +4037,8 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Forma&amp;ts</source>
-        <translation>Forma&amp;ty</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Forma&amp;towanie</translation>
     </message>
 </context>
 <context>
@@ -6010,6 +6031,26 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Select an earlier version of the spreadsheet can color</source>
         <translation>Wybierz wcześniejszą wersję koloru arkusza kalkulacyjnego</translation>
+    </message>
+    <message>
+        <source>&amp;Measurement units:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9235,6 +9276,7 @@ stylu graficznego tabeli</translation>
     </message>
     <message>
         <source>All Formats(&amp;C)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Wszystkie formaty</translation>
     </message>
     <message>
@@ -10214,6 +10256,22 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
     </message>
+    <message>
+        <source>Inches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -10316,6 +10374,26 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <message>
         <source>The number must be between %1 and %2. Try again by entering a number in this range.</source>
         <translation>Liczba musi się zawierać w przedziale między %1 i %2. Spróbuj ponownie podać liczbę w tym zakresie.</translation>
+    </message>
+    <message>
+        <source>Unit: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14061,11 +14139,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translation type="unfinished">Poziome</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translation type="unfinished">Pionowe</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
