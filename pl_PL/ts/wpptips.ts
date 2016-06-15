@@ -1119,6 +1119,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="Paste2.content">
         <source>Click here for more options such as pasting only unformatted text.</source>
         <extracomment>Paste2.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kliknij tutaj, aby uzyskać więcej opcji takich jak wklejanie tylko tekstu niesformatowanego.</translation>
     </message>
     <message id="PreComment.title">
@@ -2279,7 +2280,6 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="ThemeColors.title">
         <source>Color Scheme</source>
         <extracomment>ThemeColors.title</extracomment>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Schemat kolorów</translation>
     </message>
     <message id="ThemeColors.content">

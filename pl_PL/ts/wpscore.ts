@@ -6812,12 +6812,14 @@ pisowni</translation>
     <message>
         <source>Unformatted Text</source>
         <comment>TxCaption_PasteText</comment>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>TxHint_PasteText</comment>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>Text With Format</source>

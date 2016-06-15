@@ -988,7 +988,6 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <name>KToolTipWidget</name>
     <message>
         <source>KToolTipWidget</source>
-        <translatorcomment>aaa upewnic się</translatorcomment>
         <translation>Etykietka narzędzia widget</translation>
     </message>
     <message>

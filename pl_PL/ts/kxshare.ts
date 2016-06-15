@@ -2379,59 +2379,60 @@ ruchoma</translation>
     <name>KProxySettingDlg</name>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia serwera proxy</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Hasło:</translation>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie używaj serwera proxy</translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Serwer proxy dla protokołu HTTP</translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Serwer proxy programu Internet Explorer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation type="unfinished"></translation>
+        <translation>Podłączono prawidłowo do serwera proxy</translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączenie do serwera proxy nie powiodło się</translation>
     </message>
 </context>
 <context>
@@ -3536,7 +3537,6 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Cann&apos;t support this data source transform to a combination chart.</source>
-        <translatorcomment>aaa-upewnić się</translatorcomment>
         <translation>Nie można obsługiwać tego źródła danych przekształconego na wykres złożony.</translation>
     </message>
     <message>
@@ -3669,7 +3669,6 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Conn&apos;t support this data source transform to a combination chart.</source>
-        <translatorcomment>aaa-upewnić się</translatorcomment>
         <translation>Nie można obsługiwać tego źródła danych przekształconego na wykres złożony.</translation>
     </message>
     <message>
@@ -8228,8 +8227,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <name>KxRnPopSubTaskpaneCommand</name>
     <message>
         <source>popSub</source>
-        <translatorcomment>aaa-zapytać</translatorcomment>
-        <translation>Okno podręczne sumy częściowej</translation>
+        <translation>Suma częściowa</translation>
     </message>
 </context>
 <context>
@@ -9118,6 +9116,7 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>Warning</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Ostrzeżenie</translation>
     </message>
     <message>
@@ -9126,7 +9125,8 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Inne</translation>
     </message>
 </context>
 <context>
@@ -9677,35 +9677,35 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     <name>ProxySetting</name>
     <message>
         <source>Proxy settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia serwera proxy</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished">Hasło:</translation>
+        <translation>Hasło:</translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation type="unfinished"></translation>
+        <translation>Port:</translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>Adres:</translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika:</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished">Typ:</translation>
+        <translation>Typ:</translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie serwera proxy</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test</translation>
     </message>
 </context>
 <context>
@@ -11509,7 +11509,8 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Spell Check engine will use the chosen language for checking automatically.</source>
-        <translation>Aparat Sprawdzania pisowni będzie używać wybranego języka do automatycznego sprawdzania.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moduł Sprawdzania pisowni będzie używał wybranego języka do automatycznego sprawdzania.</translation>
     </message>
     <message>
         <source>Uninstall</source>

@@ -1795,6 +1795,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
@@ -6436,6 +6437,7 @@ Center</source>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
@@ -11581,6 +11583,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
@@ -11860,7 +11863,6 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translatorcomment>aaa</translatorcomment>
         <translation>Wyślij wiadomość e-mail</translation>
     </message>
     <message>
@@ -11903,7 +11905,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Set Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw serwer proxy</translation>
     </message>
     <message>
         <source>Set Reject Insert Repeat Items</source>
@@ -14847,6 +14849,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Paste as Unformatted Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>

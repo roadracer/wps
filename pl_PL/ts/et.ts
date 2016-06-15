@@ -6034,23 +6034,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Measurement units:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednostki &amp;miary:</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Centymetry</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Milimetry</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkty</translation>
     </message>
 </context>
 <context>
@@ -10258,19 +10258,19 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Centymetry</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Milimetry</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkty</translation>
     </message>
 </context>
 <context>
@@ -10377,23 +10377,24 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Unit: %1</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jednostka: %1</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Centymetry</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Milimetry</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkty</translation>
     </message>
 </context>
 <context>
@@ -14139,11 +14140,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Horizontal</source>
-        <translation type="unfinished">Poziome</translation>
+        <translatorcomment>Spreadsheet-&gt;Wstaw-&gt;Pole tekstowe-&gt;PPM-&gt;Formatuj obiekt-&gt;Zakładka pole tekstowe-&gt;Kierunek tekstu- tak jest ok jak w Excel</translatorcomment>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation type="unfinished">Pionowe</translation>
+        <translatorcomment>Spreadsheet-&gt;Wstaw-&gt;Pole tekstowe-&gt;PPM-&gt;Formatuj obiekt-&gt;Zakładka pole tekstowe-&gt;Kierunek tekstu- tak jest ok jak w Excel</translatorcomment>
+        <translation>Pionowo</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>

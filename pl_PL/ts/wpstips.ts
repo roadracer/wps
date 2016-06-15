@@ -3476,6 +3476,7 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="sp_Paste2.content">
         <source>Click here for more options such as pasting only unformatted text.</source>
         <extracomment>sp_Paste2.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kliknij tutaj, aby uzyskać więcej opcji takich jak wklejanie tylko tekstu niesformatowanego.</translation>
     </message>
     <message id="weibotool.title">

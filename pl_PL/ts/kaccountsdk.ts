@@ -45,6 +45,7 @@
     </message>
     <message>
         <source>HTTP proxy</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Serwer proxy dla protokołu HTTP</translation>
     </message>
     <message>
