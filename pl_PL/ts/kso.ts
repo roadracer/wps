@@ -855,7 +855,8 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Unformatted Text</source>
         <comment>TX_KSO_CF_TEXT_DISPNAME</comment>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as text without any formatting.</source>
@@ -1005,6 +1006,7 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
     <message>
         <source>Formatted Text (RTF)</source>
         <comment>TX_KSO_CF_RTF_DISPNAME</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Tekst sformatowany (RTF)</translation>
     </message>
     <message>
@@ -5719,7 +5721,6 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
-        <translatorcomment>aaa - ok wysłać im</translatorcomment>
         <translation>Średniołupkowoniebieski</translation>
     </message>
     <message>

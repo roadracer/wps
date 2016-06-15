@@ -1529,7 +1529,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>Tekst sformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sformatowany tekst</translation>
     </message>
     <message>
         <source>Insert Chart</source>
@@ -1573,7 +1574,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>WPS After-sale Microblog</source>
@@ -9503,7 +9505,8 @@ COM</translation>
     </message>
     <message>
         <source>Formatted Text</source>
-        <translation>Tekst sformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sformatowany tekst</translation>
     </message>
     <message>
         <source>Free Rotate</source>
@@ -10251,7 +10254,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Set Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw serwer proxy</translation>
     </message>
     <message>
         <source>Set Up Show</source>
@@ -10462,7 +10465,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>Ungroup</source>

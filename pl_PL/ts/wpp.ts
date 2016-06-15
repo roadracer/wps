@@ -2113,27 +2113,28 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Measurement units:</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednostki &amp;miary:</translation>
     </message>
     <message>
         <source>Inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Cale</translation>
     </message>
     <message>
         <source>Centimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Centymetry</translation>
     </message>
     <message>
         <source>Millimeters</source>
-        <translation type="unfinished"></translation>
+        <translation>Milimetry</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation type="unfinished">Punkty</translation>
+        <translation>Punkty</translation>
     </message>
     <message>
         <source>PowerPoint Presentation 97-2003</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Prezentacja programu PowerPoint 97–2003</translation>
     </message>
 </context>
 <context>

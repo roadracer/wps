@@ -1400,36 +1400,45 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Use a &amp;background service to install updates</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Użyj usługi instalowania aktualizacji w &amp;tle</translation>
     </message>
 </context>
 <context>
     <name>Ksomisc_Funcs</name>
     <message>
         <source>Configuration Tool Information</source>
-        <translation>Informacje narzędzi konfiguracji</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Informacje o narzędziach konfiguracji</translation>
     </message>
     <message>
         <source>Failed to scan procedure. </source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Niepowodzenie procedury skanowania. </translation>
     </message>
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
-        <translation>WPS Office jest uruchomiony, proszę ponownie otworzyć narzędzia konfiguracji po zamknięciu programu.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>WPS Office jest uruchomiony, proszę ponownie otworzyć &quot;Narzędzia konfiguracji&quot; po zamknięciu programu.</translation>
     </message>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation type="unfinished">Narzędzia konfiguracji WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Narzędzia konfiguracji WPS Office</translation>
     </message>
     <message>
         <source>Administrator privileges are required.
 Do you want to relaunch &quot;Configuration Tools&quot; in Administrator mode?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wymagane są uprawnienia administratora.
+Czy chcesz ponownie uruchomić &quot;Narzędzia konfiguracji&quot; w trybie administratora?</translation>
     </message>
     <message>
         <source>Administrator privileges are required.
 Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wymagane są uprawnienia administratora.
+Proszę użyj konta administratora do ponownego uruchomienia &quot;Narzędzia konfiguracji&quot;.</translation>
     </message>
 </context>
 </TS>

@@ -219,7 +219,8 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgQingWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Zapraszamy do WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Witamy w WPS Office</translation>
     </message>
     <message>
         <source>Trial</source>
@@ -423,7 +424,8 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Zapraszamy do WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Witamy w WPS Office</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -458,7 +460,8 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgWelcomePage</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Zapraszamy do WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Witamy w WPS Office</translation>
     </message>
     <message>
         <source>Personal Edition(Free)</source>
@@ -884,11 +887,13 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Buy</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup</translation>
     </message>
     <message>
         <source>Activate</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uaktywnij</translation>
     </message>
 </context>
 <context>

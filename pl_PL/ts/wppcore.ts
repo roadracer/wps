@@ -7151,12 +7151,14 @@ pisowni</translation>
     <message>
         <source>Formatted Text</source>
         <comment>WP_ExpandPasteFormatTextHint</comment>
-        <translation>Tekst sformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sformatowany tekst</translation>
     </message>
     <message>
         <source>Unformatted Text</source>
         <comment>WP_ExpandPasteTextHint</comment>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>Translate</source>

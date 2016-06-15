@@ -828,11 +828,13 @@
     <name>KxAutoCorrectOptionsDlg</name>
     <message>
         <source>Kingsoft WPS</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>dotyczy nazwa okna dialogowego-tak jest ok jak w Word</translatorcomment>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>An AutoCorrect entry for &apos;%1&apos; already exists. Do you want to redefine it?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Pozycja Autokorekty odpowiadająca elementowi &apos;%1&apos; już istnieje. Czy zdefiniować ją ponownie?</translation>
     </message>
 </context>
 <context>
@@ -1445,51 +1447,59 @@
     <name>KxDlgAutoCorrectOptions</name>
     <message>
         <source>AutoCorrect</source>
-        <translation type="unfinished">Autokorekta</translation>
+        <translation>Autokorekta</translation>
     </message>
     <message>
         <source>Replace &amp;text as you type</source>
-        <translation type="unfinished">Za&amp;mień tekst podczas pisania</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Za&amp;mień tekst podczas pisania</translation>
     </message>
     <message>
         <source>&amp;Replace:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Zamień:</translation>
     </message>
     <message>
         <source>&amp;With:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Na:</translation>
     </message>
     <message>
         <source>&amp;Plain text</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Zwykły &amp;tekst</translation>
     </message>
     <message>
         <source>&amp;Formatted text</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>S&amp;formatowany tekst</translation>
     </message>
     <message>
         <source>Repl&amp;ace</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Za&amp;mień</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">&amp;Usuń</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Automatically use su&amp;ggestions from the spelling checker</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Automatycznie użyj sugestii z modułu &amp;sprawdzania pisowni</translation>
     </message>
     <message>
         <source>Tab 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Tab 2</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -3279,6 +3289,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     <name>KxDlgEnvelopeOption</name>
     <message>
         <source>Envelope Options</source>
+        <translatorcomment>karta Wstaw-&gt;Koperty - nazwa okna dialogowego Opcje kopert-tak jest ok jak w Word</translatorcomment>
         <translation>Opcje kopert</translation>
     </message>
     <message>
@@ -3287,6 +3298,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Delivery address</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Adres odbiorcy</translation>
     </message>
     <message>
@@ -3303,6 +3315,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Return address</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Adres zwrotny</translation>
     </message>
     <message>
@@ -3319,6 +3332,7 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Feed method</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Metoda podawania</translation>
     </message>
     <message>
@@ -3343,47 +3357,57 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>&amp;Envelope Options</source>
-        <translation>Opcje kopert</translation>
+        <translatorcomment>nazwa zakładki okna dialogowego Opcje kopert-tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Opcje kopert</translation>
     </message>
     <message>
         <source>Envelope &amp;size:</source>
-        <translation>Rozmiar koperty:</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Roz&amp;miar koperty:</translation>
     </message>
     <message>
         <source>From &amp;top:</source>
-        <translation>Od góry:</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Od &amp;góry:</translation>
     </message>
     <message>
         <source>From &amp;left:</source>
-        <translation>Od lewej:</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Od &amp;lewej:</translation>
     </message>
     <message>
         <source>Fro&amp;m left:</source>
-        <translation>Od lewej:</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Od le&amp;wej:</translation>
     </message>
     <message>
         <source>F&amp;rom top:</source>
-        <translation>Od góry:</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Od gó&amp;ry:</translation>
     </message>
     <message>
         <source>&amp;Printing Options</source>
-        <translation>Opcje drukowania</translation>
+        <translatorcomment>nazwa zakładki okna dialogowego Opcje kopert-tak jest ok jak w Word</translatorcomment>
+        <translation>Opcje &amp;drukowania</translation>
     </message>
     <message>
         <source>Face &amp;up</source>
-        <translation>Wierzchem do góry</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Wierzchem do góry</translation>
     </message>
     <message>
         <source>Face &amp;down</source>
-        <translation>Wierzchem do dołu</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Wi&amp;erzchem do dołu</translation>
     </message>
     <message>
         <source>&amp;Clockwise rotation</source>
-        <translation>Obrót zgodny z ruchem wskazówek zegara</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Obrót zgod&amp;ny z ruchem wskazówek zegara</translation>
     </message>
     <message>
         <source>&amp;Feed from:</source>
-        <translatorcomment>tak jest ok</translatorcomment>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>&amp;Podawaj z:</translation>
     </message>
     <message>
@@ -3392,11 +3416,13 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
-        <translation type="unfinished">&amp;Czcionka...</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Czcionka...</translation>
     </message>
     <message>
         <source>F&amp;ont...</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Czc&amp;ionka...</translation>
     </message>
 </context>
 <context>
@@ -6207,7 +6233,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Steps(Need restart program)</source>
-        <translation>Kroki (Wymagany restart programu)</translation>
+        <translation>Kroków (Wymagany restart programu)</translation>
     </message>
     <message>
         <source>&amp;Auto numbered lists</source>
@@ -6227,7 +6253,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Correct accidental usage of Caps &amp;Lock key</source>
-        <translation>Poprawiaj błędy przypadkowego użycia klawisza Caps &amp;Lock</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Popraw błędy przypadkowego użycia klawisza cAPS &amp;LOCK</translation>
     </message>
     <message>
         <source>&amp;Beginning of paragraph applies first line indent</source>
@@ -6247,11 +6274,13 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Formatted text</source>
-        <translation>Tekst sformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sformatowany tekst</translation>
     </message>
     <message>
         <source>Unformatted text</source>
-        <translation>Tekst niesformatowany</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niesformatowany tekst</translation>
     </message>
     <message>
         <source>Insert/paste pictures as(&amp;Z):</source>
@@ -6537,11 +6566,13 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Replace text as you type:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Zamień tekst podczas pisania:</translation>
     </message>
     <message>
         <source>&amp;Option</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Opcje</translation>
     </message>
 </context>
 <context>
@@ -8679,11 +8710,13 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     </message>
     <message>
         <source>Envelope Address</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>to samo co Adres odbiorcy - tak jest ok jak w Word</translatorcomment>
+        <translation>Adres na kopercie</translation>
     </message>
     <message>
         <source>Envelope Return Address</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Adres zwrotny na kopercie</translation>
     </message>
 </context>
 <context>
@@ -8694,11 +8727,13 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     </message>
     <message>
         <source>Ch&amp;ange Document</source>
-        <translation>Zmień dokument</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Zmień &amp;dokument</translation>
     </message>
     <message>
         <source>Do you want to save the new return address as the default return address?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Czy zapisać nowy adres zwrotny jako domyślny adres zwrotny?</translation>
     </message>
 </context>
 <context>

@@ -11,7 +11,8 @@
     </message>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Zapraszamy do WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Witamy w WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
