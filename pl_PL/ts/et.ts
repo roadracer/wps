@@ -328,39 +328,48 @@
     </message>
     <message>
         <source>between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>między</translation>
     </message>
     <message>
         <source>not between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>nie między</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation>równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>równa się</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation>nierówna</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>nie równa się</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation>większa niż</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>większe niż</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation>mniejsza niż</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>mniejsze niż</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation>większa lub równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>większe niż lub równe</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation>mniejsza lub równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>and</source>
-        <translation>oraz</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>i</translation>
     </message>
     <message>
         <source>Preview of format to use when
@@ -541,71 +550,88 @@ condition is true:</source>
     </message>
     <message>
         <source>Above Average</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Powyżej średniej</translation>
     </message>
     <message>
         <source>Below Average</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Today</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Yesterday</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wczoraj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Jutro</translation>
     </message>
     <message>
         <source>This Week</source>
-        <translation>Ten tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym tygodniu</translation>
     </message>
     <message>
         <source>Last Week</source>
-        <translation>Ubiegły tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
     </message>
     <message>
         <source>Next Week</source>
-        <translation>Następny tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
     </message>
     <message>
         <source>This Month</source>
-        <translation>Ten miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym miesiącu</translation>
     </message>
     <message>
         <source>Last Month</source>
-        <translation>Ubiegły miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
     </message>
     <message>
         <source>Next Month</source>
-        <translation>Następny miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
     </message>
     <message>
         <source>This Quarter</source>
-        <translation>Ten kwartał</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym kwartale</translation>
     </message>
     <message>
         <source>Last Quarter</source>
-        <translation>Ostatni kwartał</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym kwartale</translation>
     </message>
     <message>
         <source>Next Quarter</source>
-        <translation>Następny kwartał</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym kwartale</translation>
     </message>
     <message>
         <source>This Year</source>
-        <translation>Ten rok</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym roku</translation>
     </message>
     <message>
         <source>Last Year</source>
-        <translation>Ubiegły rok</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym roku</translation>
     </message>
     <message>
         <source>Next Year</source>
-        <translation>Następny rok</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym roku</translation>
     </message>
     <message>
         <source>More</source>
@@ -649,15 +675,18 @@ condition is true:</source>
     </message>
     <message>
         <source>(Showing all)</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>(Wszystkie widoczne)</translation>
     </message>
     <message>
         <source>And</source>
-        <translation>Oraz</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>I</translation>
     </message>
     <message>
         <source>Or</source>
-        <translation>Lub</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>LUB</translation>
     </message>
     <message>
         <source>Top %1 Items</source>
@@ -677,6 +706,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Equals</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb - tak jest ok jak w Excel</translatorcomment>
         <translation>Równa się</translation>
     </message>
     <message>
@@ -693,7 +723,8 @@ condition is true:</source>
     </message>
     <message>
         <source>Greater than or equal to &quot;%1&quot;</source>
-        <translation>Większa lub równa &quot;%1&quot;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Większe niż lub równe &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Is before &quot;%1&quot;</source>
@@ -701,7 +732,8 @@ condition is true:</source>
     </message>
     <message>
         <source>Less than or equal to &quot;%1&quot;</source>
-        <translation>Mniejsza lub równa &quot;%1&quot;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mniejsze niż lub równe &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Begins with &quot;%1&quot;</source>
@@ -729,11 +761,12 @@ condition is true:</source>
     </message>
     <message>
         <source>Greater than &quot;%1&quot;</source>
-        <translation>Większa niż &quot;%1&quot;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Większe niż &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Less than &quot;%1&quot;</source>
-        <translation>Mniejsza niż &quot;%1&quot;</translation>
+        <translation>Mniejsze niż &quot;%1&quot;</translation>
     </message>
     <message>
         <source>(Blanks)</source>
@@ -761,6 +794,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Between</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb - tak jest ok jak w Excel</translatorcomment>
         <translation>Między</translation>
     </message>
     <message>
@@ -773,6 +807,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Contains</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Zawiera</translation>
     </message>
     <message>
@@ -793,6 +828,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Number Filter</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Filtr liczb</translation>
     </message>
     <message>
@@ -801,6 +837,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Date Filter</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Filtr daty</translation>
     </message>
     <message>
@@ -809,6 +846,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Text Filter</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Filtr tekstu</translation>
     </message>
     <message>
@@ -817,38 +855,47 @@ condition is true:</source>
     </message>
     <message>
         <source>Not Equal To</source>
-        <translation>Nierówna</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nie równa się</translation>
     </message>
     <message>
         <source>Greater Than</source>
-        <translation>Większa niż</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Greater Than Or Equal To</source>
-        <translation>Większa lub równa</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż lub równe</translation>
     </message>
     <message>
         <source>Less Than</source>
-        <translation>Mniejsza niż</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Less Than Or Equal To</source>
-        <translation>Mniejsza lub równa</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>Begin With</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>End With</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Kończy się na</translation>
     </message>
     <message>
         <source>Does Not Contain</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Nie zawiera</translation>
     </message>
     <message>
         <source>Custom Filter</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>Filtr niestandardowy</translation>
     </message>
     <message>
@@ -869,7 +916,8 @@ condition is true:</source>
     </message>
     <message>
         <source>Not equal to &quot;%1&quot;</source>
-        <translation>Nierówna &quot;%1&quot;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie równa się &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Filter by Color</source>
@@ -877,6 +925,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Top 10</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr - tak jest ok jak w Excel</translatorcomment>
         <translation>10 pierwszych</translation>
     </message>
     <message>
@@ -913,14 +962,17 @@ condition is true:</source>
     </message>
     <message>
         <source>Not Begin With</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nie zaczyna się od</translation>
     </message>
     <message>
         <source>Not End With</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nie kończy się na</translation>
     </message>
     <message>
         <source>Not Between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nie między</translation>
     </message>
 </context>
@@ -2394,15 +2446,18 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Equal to</source>
-        <translation>Równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Równa się</translation>
     </message>
     <message>
         <source>Not equal to</source>
-        <translation>Nierówna</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Nie równa się</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>Większa niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Greater than or equal</source>
@@ -2410,7 +2465,8 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Less than</source>
-        <translation>Mniejsza niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Less than or equal</source>
@@ -2418,14 +2474,17 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>and</source>
-        <translation>oraz</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>i</translation>
     </message>
     <message>
         <source>Between</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Między</translation>
     </message>
     <message>
         <source>Not between</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Nie między</translation>
     </message>
     <message>
@@ -2482,6 +2541,7 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>A Date Occurring</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Data występująca</translation>
     </message>
     <message>
@@ -2498,34 +2558,42 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>In the last 7 days</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>Ubiegły tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Ten tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym tygodniu</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>Następny tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Ubiegły miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Ten miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym miesiącu</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation>Następny miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
     </message>
     <message>
         <source>Weekend</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Weekend</translation>
     </message>
     <message>
@@ -2534,11 +2602,13 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Empty Cell</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>Error value </source>
-        <translation>Wartość błędu </translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Wartość błędu</translation>
     </message>
     <message>
         <source>Lack input value</source>
@@ -2554,11 +2624,13 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Greater than or equal to</source>
-        <translation>Większa lub równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż lub równe</translation>
     </message>
     <message>
         <source>Less than or equal to</source>
-        <translation>Mniejsza lub równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>Highlight - Text</source>
@@ -2566,14 +2638,17 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Contains</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Zawiera</translation>
     </message>
     <message>
         <source>Begins with</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>Ends with</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Kończy się na</translation>
     </message>
     <message>
@@ -7815,118 +7890,147 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <name>KxDlgValidation</name>
     <message>
         <source>Data Validation</source>
+        <translatorcomment>nazwa okna dialogowego - tak jest ok jak w Excel</translatorcomment>
         <translation>Sprawdzanie poprawności danych</translation>
     </message>
     <message>
         <source>Settings</source>
+        <translatorcomment>nazwa zakładki w oknie dialogowym Sprawdzanie poprawności danych - tak jest ok jak w Excel</translatorcomment>
         <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Validation criteria</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Kryteria poprawności</translation>
     </message>
     <message>
         <source>&amp;Allow:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Dozwolone:</translation>
     </message>
     <message>
         <source>Any value</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Dowolna wartość</translation>
     </message>
     <message>
         <source>Whole number</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Pełna liczba</translation>
     </message>
     <message>
         <source>Decimal</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Dziesiętne</translation>
     </message>
     <message>
         <source>List</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Lista</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Data</translation>
     </message>
     <message>
         <source>Time</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Godzina</translation>
     </message>
     <message>
         <source>Text length</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Długość tekstu</translation>
     </message>
     <message>
         <source>Ignore &amp;blank</source>
-        <translation>Ignoruj &amp;puste</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Ignor&amp;uj puste</translation>
     </message>
     <message>
         <source>&amp;Data:</source>
-        <translation>Wartość &amp;danych:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wartości danych:</translation>
     </message>
     <message>
         <source>between</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>między</translation>
     </message>
     <message>
         <source>not between</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>nie między</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation>równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>równa się</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation>nierówna</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>nie równa się</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation>większa niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>większe niż</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation>mniejsza niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>mniejsze niż</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation>większa lub równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>większe niż lub równe</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation>mniejsza lub równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>&amp;In-cell dropdown</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Rozwinięcia w komórce</translation>
     </message>
     <message>
         <source>&amp;Minimum:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Minimum:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation>Ma&amp;ksimum:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Mak&amp;simum:</translation>
     </message>
     <message>
         <source>Ap&amp;ply these changes to all other cells with the same settings</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Zastosuj te zmiany we wszystkich komórkach z tymi samymi ustawieniami</translation>
     </message>
     <message>
         <source>Input Message</source>
+        <translatorcomment>nazwa zakładki w oknie dialogowym Sprawdzanie poprawności danych - tak jest ok jak w Excel</translatorcomment>
         <translation>Komunikat wejściowy</translation>
     </message>
     <message>
         <source>&amp;Show input message when cell is selected</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Pokazuj komunikat wejściowy przy wyborze komórki</translation>
     </message>
     <message>
         <source>When cell is selected, show this input message:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Gdy komórka jest zaznaczona, pokaż ten komunikat wejściowy:</translation>
     </message>
     <message>
         <source>&amp;Title:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Tytuł:</translation>
     </message>
     <message>
@@ -7939,47 +8043,58 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Error Alert</source>
+        <translatorcomment>nazwa zakładki w oknie dialogowym Sprawdzanie poprawności danych - tak jest ok jak w Excel</translatorcomment>
         <translation>Alert o błędzie</translation>
     </message>
     <message>
         <source>&amp;Show error alert after invalid data is entered</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Pokazuj alerty po wprowadzeniu nieprawidłowych danych</translation>
     </message>
     <message>
         <source>When user enters invalid data, show this error alert:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Gdy użytkownik wprowadza nieprawidłowe dane, pokaż ten alert:</translation>
     </message>
     <message>
         <source>St&amp;yle:</source>
-        <translation>S&amp;tyl:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Styl:</translation>
     </message>
     <message>
         <source>Stop</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Warning</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>Information</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Informacje</translation>
     </message>
     <message>
         <source>&amp;Error message:</source>
-        <translation>Komunikat o &amp;błędzie:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Komunikat o błędzie:</translation>
     </message>
     <message>
         <source>&amp;Clear All</source>
-        <translation>&amp;Wyczyść wszystko</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Wy&amp;czyść wszystko</translation>
     </message>
     <message>
         <source>Custom</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>&amp;Input:</source>
-        <translation>Dane &amp;wejściowe:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Komunikat wejściowy:</translation>
     </message>
 </context>
 <context>
@@ -7990,6 +8105,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Magnification</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Powiększenie</translation>
     </message>
     <message>
@@ -8288,67 +8404,83 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <name>KxEtCustomFilter</name>
     <message>
         <source>equals</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>równa się</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation>nierówna</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>nie równa się</translation>
     </message>
     <message>
         <source>is greater than</source>
-        <translation>jest większa niż</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>jest większe niż</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
-        <translation>jest większa lub równa</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>jest większe niż lub równe</translation>
     </message>
     <message>
         <source>is less than</source>
-        <translation>jest mniejsza niż</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>jest mniejsze niż</translation>
     </message>
     <message>
         <source>is less than or equal to</source>
-        <translation>jest mniejsza lub równa</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>jest mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>begins with</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>zaczyna się od</translation>
     </message>
     <message>
         <source>does not begin with</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>nie zaczyna się od</translation>
     </message>
     <message>
         <source>ends with</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>kończy się na</translation>
     </message>
     <message>
         <source>does not end with</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>nie kończy się na</translation>
     </message>
     <message>
         <source>contains</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>zawiera</translation>
     </message>
     <message>
         <source>does not contain</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>nie zawiera</translation>
     </message>
     <message>
         <source>is after</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>jest po</translation>
     </message>
     <message>
         <source>is after or equal to</source>
-        <translation>jest po lub równa</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>jest po lub równa się</translation>
     </message>
     <message>
         <source>is before</source>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
         <translation>jest przed</translation>
     </message>
     <message>
         <source>is before or equal to</source>
-        <translation>jest przed lub równa</translation>
+        <translatorcomment>Styl wstążki-&gt;Narzędzia główne-&gt;Autofiltr-&gt;Filtr liczb-&gt;Filtr niestandardowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>jest przed lub równa się</translation>
     </message>
     <message>
         <source>Error in filter conditions.</source>
@@ -12027,67 +12159,83 @@ Wciąż może być wymagana ręczna aktualizacja odwołań do tej nazwy używany
     <name>KxValidationDlg</name>
     <message>
         <source>&amp;Minimum:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Minimum:</translation>
     </message>
     <message>
         <source>Ma&amp;ximum:</source>
-        <translation>Ma&amp;ksimum:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Mak&amp;simum:</translation>
     </message>
     <message>
         <source>&amp;Source:</source>
-        <translation>&amp;Źródło:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Źród&amp;ło:</translation>
     </message>
     <message>
         <source>&amp;Start date:</source>
-        <translation>Data &amp;rozpoczęcia:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>D&amp;ata początkowa:</translation>
     </message>
     <message>
         <source>E&amp;nd date:</source>
-        <translation>Data zakończe&amp;nia:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Data k&amp;ońcowa:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
-        <translation>Godzina &amp;rozpoczęcia:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Godzina rozpoczęcia:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
-        <translation>Godzina zakończe&amp;nia:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Godzi&amp;na zakończenia:</translation>
     </message>
     <message>
         <source>&amp;Formula:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Formuła:</translation>
     </message>
     <message>
         <source>&amp;Value:</source>
-        <translation>&amp;Wartość:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W&amp;artość:</translation>
     </message>
     <message>
         <source>&amp;Time:</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Godzina:</translation>
     </message>
     <message>
         <source>Da&amp;te:</source>
-        <translation>Da&amp;ta:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>D&amp;ata:</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
-        <translation>Należy wprowadzić Minimum i Maksimum.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz podać zarówno Maksimum jak i Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
-        <translation>Należy wprowadzić Wartość.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Wartość.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
-        <translation>Należy wprowadzić Minimum.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
-        <translation>Należy wprowadzić Maksimum.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Maksimum.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
-        <translation>Musisz podać Źródło.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Źródło.</translation>
     </message>
     <message>
         <source>The Formula cannot be longer than 255 characters.</source>
@@ -12095,39 +12243,48 @@ Wciąż może być wymagana ręczna aktualizacja odwołań do tej nazwy używany
     </message>
     <message>
         <source>You must enter a Date.</source>
-        <translation>Należy wprowadzić Datę.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Data.</translation>
     </message>
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
-        <translation>Należy wprowadzić Datę zakończenia i Datę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz podać zarówno Data końcowa jak i Data początkowa.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
-        <translation>Należy wprowadzić Datę zakończenia.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Data końcowa.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
-        <translation>Należy wprowadzić Datę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Data początkowa.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
-        <translation>Należy wprowadzić Godzinę zakończenia i Godzinę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz podać zarówno Godzina zakończenia jak i Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
-        <translation>Należy wprowadzić Godzinę.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Godzina.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
-        <translation>Należy wprowadzić Godzinę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
-        <translation>Należy wprowadzić Godzinę zakończenia.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Godzina zakończenia.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
-        <translation>Należy wprowadzić Formułę.</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Musisz wpisać Formuła.</translation>
     </message>
 </context>
 <context>
@@ -14012,11 +14169,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;And</source>
-        <translation>&amp;Oraz</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;I</translation>
     </message>
     <message>
         <source>&amp;Or</source>
-        <translation>&amp;Lub</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;LUB</translation>
     </message>
     <message>
         <source>Use ? to represent any single character</source>

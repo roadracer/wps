@@ -1340,7 +1340,7 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
     <message>
         <source>If you want to use macros, please upgrade to professional or commercial version</source>
-        <translation>Jeżeli chcesz użyć makr, uaktualnij do wersji Professional lub Business</translation>
+        <translation>Jeżeli chcesz użyć makr, uaktualnij do edycji Professional lub Business</translation>
     </message>
 </context>
 <context>
@@ -1848,11 +1848,13 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>Opcja w prawym górnym rogu na pasku głównym okna programu Writer, Spreadsheet i Presentation - tak jest ok jak w Office</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>Opcja w prawym górnym rogu na pasku głównym okna programu Writer, Spreadsheet i Presentation - tak jest ok jak w Office</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>You have logged in to the WPS Office account: &lt;br/&gt;%1&lt;br/&gt; You can %2 change your login account or sign out.</source>
@@ -2467,7 +2469,8 @@ proszę Zaloguj się, aby korzystać z WPS Office.</translation>
     </message>
     <message>
         <source>login</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
 </context>
 <context>

@@ -58,7 +58,8 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne-&gt;Konwertowanie do Word/WPs Writer - tak jest ok</translatorcomment>
+        <translation>Konwertowanie do dokumentu programu Word oraz WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
@@ -153,7 +154,8 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
+        <translatorcomment>Presentation-&gt;Funkcje specjalne-&gt;Konwertuj do Word/WPS Writer - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Konwertowanie do dokumentu programu Word oraz WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>

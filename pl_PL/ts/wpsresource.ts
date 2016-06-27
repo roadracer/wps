@@ -628,7 +628,8 @@
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -700,7 +701,8 @@
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1264,70 +1266,87 @@
     <name>classics.mail_merge</name>
     <message>
         <source>Close Data Source</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Zamknij źródło danych</translation>
     </message>
     <message>
         <source>First Record</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Pierwszy rekord</translation>
     </message>
     <message>
         <source>Go to Record</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Przejdź do rekordu</translation>
     </message>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>Wyróżnij pola korespondencji seryjnej</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
+        <translation>Wyróżnij pola koresp. seryjnej</translation>
     </message>
     <message>
         <source>Insert Merge Fields</source>
-        <translation>Wstaw pola korespondencji seryjnej</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
+        <translation>Wstaw pola koresp. seryjnej</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Wstaw następne pola</translation>
     </message>
     <message>
         <source>Last Record</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Ostatni rekord</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Adresaci korespondencji seryjnej</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
+        <translation>Adresaci koresp. seryjnej</translation>
     </message>
     <message>
         <source>Match Fields</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Dopasuj pola</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Scal z innym nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Email</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Scal do poczty e-mail</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Scal z nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Scal na drukarkę</translation>
     </message>
     <message>
         <source>Next Record</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Następny rekord</translation>
     </message>
     <message>
         <source>Open Data Source</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Otwórz źródło danych</translation>
     </message>
     <message>
         <source>Previous Record</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Poprzedni rekord</translation>
     </message>
     <message>
         <source>View Merged Data</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Pasek korespondencji seryjnej - tak jest ok</translatorcomment>
         <translation>Wyświetl scalone dane</translation>
     </message>
 </context>
@@ -1451,7 +1470,8 @@
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -1573,6 +1593,7 @@
     </message>
     <message>
         <source>All Reviewers</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Wszyscy recenzenci</translation>
     </message>
     <message>
@@ -1585,11 +1606,13 @@
     </message>
     <message>
         <source>Final</source>
-        <translation>Wersja końcowa</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Śledź zmiany-&gt;Pokaż - tak jest ok jak w Word, natomiast tekst źródłowy jest niepoprawny</translatorcomment>
+        <translation>Prosta adiustacja</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Wersja końcowa: pokaż adiustację;Wersja końcowa;Oryginał: pokaż adiustację;Oryginał</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Śledź zmiany - tak jest ok jak w Word</translatorcomment>
+        <translation>Prosta adiustacja;Bez adiustacji;Cała adiustacja;Oryginał</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -1601,15 +1624,18 @@
     </message>
     <message>
         <source>Next</source>
-        <translation>Następny</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Śledź zmiany - tak jest ok jak w Word</translatorcomment>
+        <translation>Następna</translation>
     </message>
     <message>
         <source>Original</source>
-        <translation>Oryginał</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Śledź zmiany-&gt;Pokaż - tak jest ok jak w Word, natomiast tekst źródłowy jest niepoprawny</translatorcomment>
+        <translation>Cała adiustacja</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Poprzedni</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Śledź zmiany - tak jest ok jak w Word</translatorcomment>
+        <translation>Poprzednia</translation>
     </message>
     <message>
         <source>Reject All Changes in Document</source>
@@ -1632,7 +1658,8 @@
     </message>
     <message>
         <source>Reviewers</source>
-        <translation>Recenzenci</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Śledź zmiany - tak jest ok jak w Word</translatorcomment>
+        <translation>Konkretne osoby</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
@@ -1759,6 +1786,7 @@
     </message>
     <message>
         <source>Blank Page</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw - tak jest ok</translatorcomment>
         <translation>Pusta strona</translation>
     </message>
     <message>
@@ -1783,6 +1811,7 @@
     </message>
     <message>
         <source>Export to PDF</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
         <translation>Eksportuj do PDF</translation>
     </message>
     <message>
@@ -1816,7 +1845,8 @@
     </message>
     <message>
         <source>Insert Horizontal Blank Page</source>
-        <translation>Wstaw pustą stronę w poziomie</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw-&gt;Pusta strona - tak jest ok</translatorcomment>
+        <translation>Pozioma</translation>
     </message>
     <message>
         <source>Insert Hyperlink</source>
@@ -1828,7 +1858,8 @@
     </message>
     <message>
         <source>Insert Vertical Blank Page</source>
-        <translation>Wstaw pustą stronę w pionie</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw-&gt;Pusta strona - tak jest ok</translatorcomment>
+        <translation>Pionowa</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
@@ -2796,7 +2827,9 @@ styl tabeli</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translation>Dodatki COM</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
+        <translation>Dodatki
+COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2858,6 +2891,7 @@ formantu</translation>
     </message>
     <message>
         <source>Design Mode</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok - musi być w jednym wierszu, bo inaczej błędnie będzie wyświetlać &quot;Zakończ tryb projektowania&quot;</translatorcomment>
         <translation>Tryb projektowania</translation>
     </message>
     <message>
@@ -2904,7 +2938,9 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Zarejestruj makro</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>Repeating Section Content Control</source>
@@ -2920,7 +2956,9 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
+        <translation>Bezpieczeństwo
+makr</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -2936,6 +2974,7 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>View Code</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
         <translation>Wyświetl kod</translation>
     </message>
     <message>
@@ -2950,7 +2989,9 @@ Visual Basic</translation>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translation>Okienko mapowania XML</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
+        <translation>Okienko
+mapowania XML</translation>
     </message>
     <message>
         <source>XmlExpansionPacksWord</source>
@@ -3430,7 +3471,9 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -3569,7 +3612,9 @@ tekstu</translation>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translation>Zawijaj tekst</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
+        <translation>Zawijaj
+tekst</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
@@ -4165,6 +4210,7 @@ On</source>
     </message>
     <message>
         <source>Convert</source>
+        <translatorcomment>Styl wstążki - Otwórz dowolny plik w Główny przycisk programu-&gt;Informacje o pliku - tak jest ok jak w Word</translatorcomment>
         <translation>Konwertuj</translation>
     </message>
     <message>
@@ -4754,6 +4800,7 @@ formatów</translation>
     </message>
     <message>
         <source>Highlight</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyróżnienie</translation>
     </message>
     <message>
@@ -4902,6 +4949,7 @@ styl</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Ustaw wklejanie domyślne</translation>
     </message>
     <message>
@@ -5180,7 +5228,8 @@ styl</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -5234,7 +5283,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -5286,7 +5336,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Page
@@ -5362,7 +5413,9 @@ strony</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Znak wodny</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Znak
+wodny</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -5377,7 +5430,9 @@ strony</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translation>Pusta strona</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Pusta
+strona</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -5385,7 +5440,9 @@ strony</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translation>Znaki podziału</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Znaki
+podziału</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -5461,7 +5518,8 @@ strony</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -5491,7 +5549,7 @@ i stopka</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translatorcomment>Writer-&gt;Wstaw-&gt;Pole tekstowe; tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Pole tekstowe; tak jest ok</translatorcomment>
         <translation>Poziome</translation>
     </message>
     <message>
@@ -5512,7 +5570,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -5560,7 +5619,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Page
@@ -5580,7 +5640,8 @@ strony</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>Protect Form</source>
@@ -5612,7 +5673,9 @@ strony</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -5624,7 +5687,7 @@ strony</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translatorcomment>Writer-&gt;Wstaw-&gt;Pole tekstowe; tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Pole tekstowe; tak jest ok</translatorcomment>
         <translation>Pionowe</translation>
     </message>
     <message>
@@ -5640,87 +5703,118 @@ strony</translation>
     <name>ongmani.ct_mailings</name>
     <message>
         <source>Close</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Zamknij</translation>
     </message>
     <message>
         <source>Close Data Source</source>
-        <translation>Zamknij źródło danych</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (w rozwijanym menu) nie zlewały się wyrazy</translatorcomment>
+        <translation>Zamknij 
+źródło danych</translation>
     </message>
     <message>
         <source>Finish</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Zakończ</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translation>Pierwszy rekord</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Pierwszy
+rekord</translation>
     </message>
     <message>
         <source>Go to Record</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Przejdź do rekordu</translation>
     </message>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>Wyróżnij pola korespondencji seryjnej</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Wyróżnij pola koresp. seryjnej</translation>
     </message>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Wstaw pole korespondencji seryjnej</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Wstaw pola koresp. seryjnej</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Wstaw następne pola</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>Ostatni rekord</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Ostatni
+rekord</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Adresaci korespondencji seryjnej</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Adresaci
+koresp. seryjnej</translation>
     </message>
     <message>
         <source>Match Fields</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Dopasuj pola</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Scal z innym nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Email</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Scal do poczty e-mail</translation>
     </message>
     <message>
         <source>Merge to New Document</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Scal z nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Printer</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
         <translation>Scal na drukarkę</translation>
     </message>
     <message>
         <source>Next Record</source>
-        <translation>Następny rekord</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Następny
+rekord</translation>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Otwórz źródło danych</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (w rozwijanym menu) nie zlewały się wyrazy</translatorcomment>
+        <translation>Otwórz 
+źródło danych</translation>
     </message>
     <message>
         <source>Preview Results</source>
-        <translation>Podgląd wyników</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Podgląd
+wyników</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Poprzedni rekord</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Poprzedni
+rekord</translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
-        <translation>Rozpocznij korespondencję seryjną</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Rozpocznij
+koresp. seryjną</translation>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translation>Wyświetl scalone dane</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translation>Wyświetl
+scalone dane</translation>
     </message>
     <message>
         <source>Write &amp; Insert Fields</source>
@@ -5755,7 +5849,9 @@ strony</translation>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translation>Przejdź do spisu treści</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok</translatorcomment>
+        <translation>Przejdź do
+spisu treści</translation>
     </message>
     <message>
         <source>Level 1;Level 2;Level 3;Level 4;Level 5;Level 6;Level 7;Level 8;Level 9;Body Text</source>
@@ -5783,7 +5879,8 @@ strony</translation>
     </message>
     <message>
         <source>Show Formatting</source>
-        <translation>Pokaż formatowanie</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok jak w Word</translatorcomment>
+        <translation>Pokaż formatowanie tekstu</translation>
     </message>
     <message>
         <source>Show Level</source>
@@ -5799,7 +5896,9 @@ strony</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Aktualizuj spis treści</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok</translatorcomment>
+        <translation>Aktualizuj
+spis treści</translation>
     </message>
 </context>
 <context>
@@ -5942,7 +6041,9 @@ strony</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translation>Ustawienie Genko</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
+        <translation>Ustawienia
+Genko</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -6036,7 +6137,9 @@ strony</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translation>Kolor strony</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
+        <translation>Kolor
+strony</translation>
     </message>
     <message>
         <source>Page Setup</source>
@@ -6163,7 +6266,9 @@ tekstu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Zawijaj tekst</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
+        <translation>Zawijaj
+tekst</translation>
     </message>
 </context>
 <context>
@@ -6595,7 +6700,9 @@ obrazy</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Kompresuj obrazy</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Kompresuj
+obrazy</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -6711,7 +6818,8 @@ obrazy</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -6745,11 +6853,14 @@ obraz</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Wstaw obraz</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Wstaw
+obraz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -6817,7 +6928,8 @@ obraz</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Online Pictures</source>
@@ -6912,7 +7024,9 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -7117,7 +7231,9 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translation>Styl otaczania</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Styl
+otaczania</translation>
     </message>
 </context>
 <context>
@@ -7330,7 +7446,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>In Front of Text</source>
@@ -7354,7 +7471,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -7426,7 +7544,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -7491,7 +7610,9 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -7511,7 +7632,9 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Ustaw kolor przezroczysty</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Ustaw kolor
+przezroczysty</translation>
     </message>
     <message>
         <source>Shadow Color</source>
@@ -7695,14 +7818,17 @@ Włącz/Wyłącz</translation>
     <name>ongmani.ct_references</name>
     <message>
         <source>Body Text</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Tekst podstawowy</translation>
     </message>
     <message>
         <source>Caption</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
         <translation>Podpis</translation>
     </message>
     <message>
         <source>Cross-reference</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
         <translation>Odsyłacz</translation>
     </message>
     <message>
@@ -7721,7 +7847,9 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Footnote/Endnote Separator</source>
-        <translation>Separator Przypisu dolnego/Przypisu końcowego</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Separator przypisów
+dolnych i końcowych</translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
@@ -7729,75 +7857,99 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translation>Wstaw przypis końcowy</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Wstaw
+przypis końcowy</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translation>Wstaw przypis dolny</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok jak w Word</translatorcomment>
+        <translation>Wstaw
+przypis dolny</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translation>Wstaw spis treści</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok jak w Word</translatorcomment>
+        <translation>Wstaw
+spis treści</translation>
     </message>
     <message>
         <source>Level 1</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 1</translation>
     </message>
     <message>
         <source>Level 2</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 2</translation>
     </message>
     <message>
         <source>Level 3</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 3</translation>
     </message>
     <message>
         <source>Level 4</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 4</translation>
     </message>
     <message>
         <source>Level 5</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 5</translation>
     </message>
     <message>
         <source>Level 6</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 6</translation>
     </message>
     <message>
         <source>Level 7</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 7</translation>
     </message>
     <message>
         <source>Level 8</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 8</translation>
     </message>
     <message>
         <source>Level 9</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Poziom spisu treści - tak jest ok</translatorcomment>
         <translation>Poziom 9</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translation>Korespondencja seryjna</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Korespondencja
+seryjna</translation>
     </message>
     <message>
         <source>Mailings</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
         <translation>Korespondencja</translation>
     </message>
     <message>
         <source>Next Endnote</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
         <translation>Następny przypis końcowy</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translation>Następny przypis dolny</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Następny
+przypis dolny</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
         <translation>Poprzedni przypis końcowy</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translation>Poprzedni przypis dolny</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Poprzedni
+przypis dolny</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7805,11 +7957,14 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>Pokaż lub ukryj separator Przypisu dolnego/Przypisu końcowego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż lub ukryj separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translation>Poziom spisu treści</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Poziom
+spisu treści</translation>
     </message>
     <message>
         <source>Table of Contents</source>
@@ -7817,7 +7972,9 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translation>Aktualizuj spis treści</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translation>Aktualizuj
+spis treści</translation>
     </message>
 </context>
 <context>
@@ -7840,6 +7997,7 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>All Reviewers</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Wszyscy recenzenci</translation>
     </message>
     <message>
@@ -7890,7 +8048,8 @@ komentarz</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Wersja końcowa: pokaż adiustację;Wersja końcowa;Oryginał: pokaż adiustację;Oryginał</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
+        <translation>Prosta adiustacja;Bez adiustacji;Cała adiustacja;Oryginał</translation>
     </message>
     <message>
         <source>Language</source>
@@ -7904,7 +8063,8 @@ komentarz</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation>Następny</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
+        <translation>Następna</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -7912,7 +8072,8 @@ komentarz</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation>Poprzedni</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
+        <translation>Poprzednia</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -7940,7 +8101,9 @@ komentarz</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translation>Ogranicz edytowanie</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
+        <translation>Ogranicz
+edytowanie</translation>
     </message>
     <message>
         <source>ReviewPane</source>
@@ -7951,11 +8114,14 @@ komentarz</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation>Recenzenci</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja-&gt;Pokaż adiustację - tak jest ok jak w Word</translatorcomment>
+        <translation>Konkretne osoby</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translation>Okienko recenzowania</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok</translatorcomment>
+        <translation>Okienko
+recenzowania</translation>
     </message>
     <message>
         <source>Reviewing Pane Horizontal</source>
@@ -8003,7 +8169,8 @@ komentarz</translation>
     </message>
     <message>
         <source>Show Reviewers</source>
-        <translation>Pokaż recenzentów</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
+        <translation>Pokaż adiustację</translation>
     </message>
     <message>
         <source>Show Revisions in Balloons</source>
@@ -8086,8 +8253,9 @@ treści</translation>
     <message>
         <source>Cover
 Pages</source>
-        <translation>Strony
-tytułowe</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Sekcja - tak jest ok jak w Word</translatorcomment>
+        <translation>Strona
+tytułowa</translation>
     </message>
     <message>
         <source>Cover and TOC</source>
@@ -8236,8 +8404,8 @@ sekcji</translation>
         <source>Show
 Header Line</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Pokaż
-linię nagłówka</translation>
+        <translation>Pokaż linię
+nagłówka</translation>
     </message>
     <message>
         <source>Show First Page Number</source>
@@ -9262,7 +9430,9 @@ tekstu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -9322,6 +9492,7 @@ tekstu</translation>
     <message>
         <source>Arrange
 All</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word</translatorcomment>
         <translation>Rozmieść
 wszystko</translation>
     </message>
@@ -9333,6 +9504,7 @@ COM</translation>
     </message>
     <message>
         <source>Cascade</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Rozmieść wszystko - tak jest ok jak w Word</translatorcomment>
         <translation>Kaskadowo</translation>
     </message>
     <message>
@@ -9373,6 +9545,7 @@ ekran</translation>
     </message>
     <message>
         <source>Horizontal</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Rozmieść wszystkie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Poziomo</translation>
     </message>
     <message>
@@ -9381,6 +9554,7 @@ ekran</translation>
     </message>
     <message>
         <source>Macros</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok oraz Writer-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Makra</translation>
     </message>
     <message>
@@ -9394,7 +9568,8 @@ ekran</translation>
     <message>
         <source>New
 Window</source>
-        <translation>Nowe
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu  nie zlewały się wyrazy</translatorcomment>
+        <translation>Nowe 
 okno</translation>
     </message>
     <message>
@@ -9444,7 +9619,8 @@ wydruku</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Show</source>
@@ -9482,6 +9658,7 @@ okno</translation>
     </message>
     <message>
         <source>Vertical</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Rozmieść wszystko - tak jest ok jak w Word</translatorcomment>
         <translation>Pionowo</translation>
     </message>
     <message>
@@ -9492,7 +9669,8 @@ obok siebie</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Wyświetl linie siatki</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word</translatorcomment>
+        <translation>Linie siatki</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -9508,7 +9686,8 @@ obok siebie</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Powiększenie</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
 </context>
 <context>
@@ -10480,7 +10659,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do PDF</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translation>Eksportuj
+do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -11213,6 +11394,7 @@ COM</translation>
     </message>
     <message>
         <source>Convert</source>
+        <translatorcomment>Styl klasyczny - Otwórz dowolny plik w Writer-&gt;Plik - tak jest ok jak w Word</translatorcomment>
         <translation>Konwertuj</translation>
     </message>
     <message>
@@ -11556,7 +11738,8 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>First Line Indent</source>
@@ -11968,7 +12151,8 @@ formatów</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Right</source>
@@ -12028,7 +12212,7 @@ formatów</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -12105,6 +12289,7 @@ formatów</translation>
     </message>
     <message>
         <source>Macros</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia - tak jest ok</translatorcomment>
         <translation>Makra</translation>
     </message>
     <message>
@@ -12262,7 +12447,8 @@ formatów</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -12657,7 +12843,8 @@ formatów</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12701,7 +12888,8 @@ formatów</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>Ustaw wklejanie domyślne</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Ustaw wklejenie domyślne</translation>
     </message>
     <message>
         <source>Set Proxy</source>
@@ -12741,7 +12929,8 @@ formatów</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>Pokaż separator Przypisów dolnych/Przypisów końcowych</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>Show Ignored Words</source>
@@ -12757,7 +12946,8 @@ formatów</translation>
     </message>
     <message>
         <source>Show or Hide Footnote/Endnote Separator</source>
-        <translation>Pokaż lub ukryj separator Przypisu dolnego/Przypisu końcowego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż lub ukryj separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>Shrink Font</source>
@@ -13817,7 +14007,8 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Zarejestruj makro</translation>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -15629,7 +15820,8 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
-        <translation>Ustaw wklejanie domyślne</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Ustaw wklejenie domyślne</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -15895,7 +16087,8 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -15939,7 +16132,8 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -16002,7 +16196,8 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Page 
@@ -16197,7 +16392,8 @@ strony</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Form Field Options</source>
@@ -16237,7 +16433,8 @@ strony</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -16293,7 +16490,8 @@ strony</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Page 
@@ -16311,7 +16509,8 @@ strony</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>Protect Form</source>
@@ -16405,7 +16604,9 @@ strony</translation>
     </message>
     <message>
         <source>Close Data Source</source>
-        <translation>Zamknij źródło danych</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zamknij 
+źródło danych</translation>
     </message>
     <message>
         <source>Finish</source>
@@ -16413,7 +16614,9 @@ strony</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translation>Pierwszy rekord</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pierwszy
+rekord</translation>
     </message>
     <message>
         <source>Go to Record</source>
@@ -16421,11 +16624,13 @@ strony</translation>
     </message>
     <message>
         <source>Highlight Merge Fields</source>
-        <translation>Wyróżnij pola korespondencji seryjnej</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyróżnij pola koresp. seryjnej</translation>
     </message>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Wstaw pole korespondencji seryjnej</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw pola koresp. seryjnej</translation>
     </message>
     <message>
         <source>Insert Next Fields</source>
@@ -16433,11 +16638,15 @@ strony</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translation>Ostatni rekord</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ostatni
+rekord</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translation>Adresaci korespondencji seryjnej</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Adresaci
+koresp. seryjnej</translation>
     </message>
     <message>
         <source>Match Fields</source>
@@ -16446,14 +16655,15 @@ strony</translation>
     <message>
         <source>Merge
 to Email</source>
-        <translation>Scal z
+        <translation>Scal z 
 pocztą e-mail</translation>
     </message>
     <message>
         <source>Merge to
 Different New Document</source>
-        <translation>Scal z
-innym nowym dokumentem</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Scal z innym
+nowym dokumentem</translation>
     </message>
     <message>
         <source>Merge to Different New Document</source>
@@ -16473,27 +16683,38 @@ innym nowym dokumentem</translation>
     </message>
     <message>
         <source>Next Record</source>
-        <translation>Następny rekord</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Następny
+rekord</translation>
     </message>
     <message>
         <source>Open Data Source</source>
-        <translation>Otwórz źródło danych</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Otwórz 
+źródło danych</translation>
     </message>
     <message>
         <source>Preview Results</source>
-        <translation>Podgląd wyników</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd
+wyników</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translation>Poprzedni rekord</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Poprzedni
+rekord</translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
-        <translation>Rozpocznij korespondencję seryjną</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Rozpocznij
+koresp. seryjną</translation>
     </message>
     <message>
         <source>View
 Merged Data</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyświetl
 scalone dane</translation>
     </message>
@@ -17293,7 +17514,8 @@ tekst</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -17365,7 +17587,8 @@ tekst</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -17893,7 +18116,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -17965,7 +18189,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -18323,11 +18548,13 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Show Footnote/Endnote Separator</source>
-        <translation>Pokaż separator Przypisów dolnych/Przypisów końcowych</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>Show Or Hide Footnote/Endnote Separator</source>
-        <translation>Pokaż lub ukryj separator Przypisu dolnego/Przypisu końcowego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż lub ukryj separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
         <source>TOC Level</source>
@@ -18370,6 +18597,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>All Reviewers</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Wszyscy recenzenci</translation>
     </message>
     <message>
@@ -18423,7 +18651,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
-        <translation>Wersja końcowa: pokaż adiustację;Wersja końcowa;Oryginał: pokaż adiustację;Oryginał</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Prosta adiustacja;Bez adiustacji;Cała adiustacja;Oryginał</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -18491,7 +18720,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Reviewers</source>
-        <translation>Recenzenci</translation>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Konkretne osoby</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
@@ -21535,7 +21765,8 @@ cienia</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Ukryj bieżące okno, podczas wykonywania zrzutu ekranu</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok</translatorcomment>
+        <translation>Ukryj bieżące okno, podczas wykonania wycinka ekranu</translation>
     </message>
     <message>
         <source>High Resolution Setting</source>
@@ -21547,7 +21778,8 @@ cienia</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw-&gt;Pole tekstowe - tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -21559,7 +21791,9 @@ cienia</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>Styl wstązki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów oraz Styl klasyczny - Writer-&gt;Wstaw-&gt;Obraz-&gt;Z pliku - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Podgląd 
+obrazu</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -21595,7 +21829,8 @@ cienia</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Makra</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Mail FeedBack</source>
@@ -21926,12 +22161,15 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Zrzut ekranu</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok jak w Word</translatorcomment>
+        <translation>Wycinek ekranu</translation>
     </message>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Zrzut ekranu</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Zrzut
+ekranu</translation>
     </message>
     <message>
         <source>Select</source>
@@ -22159,7 +22397,8 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw-&gt;Pole tekstowe - tak jest ok</translatorcomment>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>View</source>
@@ -22183,7 +22422,9 @@ bezpośrednio</translation>
     </message>
     <message>
         <source>Web Layout</source>
-        <translation>Układ sieci Web</translation>
+        <translatorcomment>Writer-&gt;Widok - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Układ 
+sieci Web</translation>
     </message>
     <message>
         <source>Whole Table</source>

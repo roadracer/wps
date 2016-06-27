@@ -31,7 +31,8 @@ Można też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.</
     <message id="AlignCenter.title">
         <source>Center</source>
         <extracomment>AlignCenter.title</extracomment>
-        <translation>Do środka</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message id="AlignCenter.content">
         <source>Center text.</source>
@@ -41,7 +42,8 @@ Można też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.</
     <message id="AlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>AlignLeft.title</extracomment>
-        <translation>Wyrównaj tekst do lewej</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message id="AlignLeft.content">
         <source>Align text to the left.</source>
@@ -51,7 +53,8 @@ Można też wyśrodkować obiekty lub rozłożyć je równomiernie na stronie.</
     <message id="AlignRight.title">
         <source>Align Text Right</source>
         <extracomment>AlignRight.title</extracomment>
-        <translation>Wyrównaj tekst do prawej</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message id="AlignRight.content">
         <source>Align text to the right.</source>
@@ -741,7 +744,8 @@ Naciśnij klawisz Esc na klawiaturze lub kliknij tutaj ponownie, aby wyjść z t
     <message id="EvaluateFormula.title">
         <source>Evaluate Formula</source>
         <extracomment>EvaluateFormula.title</extracomment>
-        <translation>Szacowanie formuły</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Szacuj formułę</translation>
     </message>
     <message id="EvaluateFormula.content">
         <source>Show the Evaluate Formula dialog box to debug a formula by evaluating each part of the formula individually.</source>
@@ -1099,6 +1103,7 @@ Informacje z nagłówka lub stopki będą widoczne odpowiednio na górze i na do
     <message id="InsertFileObject.title">
         <source>Insert Object from File</source>
         <extracomment>InsertFileObject.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wstaw obiekt z pliku</translation>
     </message>
     <message id="InsertFileObject.content">
@@ -2506,6 +2511,7 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="VAlignBottom.title">
         <source>Bottom Align</source>
         <extracomment>VAlignBottom.title</extracomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyrównaj do dołu</translation>
     </message>
     <message id="VAlignBottom.content">
@@ -2516,6 +2522,7 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="VAlignCenter.title">
         <source>Middle Align</source>
         <extracomment>VAlignCenter.title</extracomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyrównaj do środka</translation>
     </message>
     <message id="VAlignCenter.content">
@@ -2526,6 +2533,7 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="VAlignTop.title">
         <source>Top Align</source>
         <extracomment>VAlignTop.title</extracomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyrównaj do góry</translation>
     </message>
     <message id="VAlignTop.content">
@@ -2536,7 +2544,8 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="Validation.title">
         <source>Data Validation</source>
         <extracomment>Validation.title</extracomment>
-        <translation>Sprawdzanie poprawności danych</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność danych</translation>
     </message>
     <message id="Validation.content">
         <source>Prevent invalid data from being entered into a cell
@@ -2606,7 +2615,8 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="Zoom.title">
         <source>Zoom</source>
         <extracomment>Zoom.title</extracomment>
-        <translation>Powiększenie</translation>
+        <translatorcomment>tak jest ok jak w Excel - podpowiedź po najechaniu myszką na ikonę Powiększ w Spreadsheet-&gt;Widok</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message id="Zoom.content">
         <source>Show the Zoom dialog box to specify the zoom level of the document.</source>
@@ -2616,7 +2626,8 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="m_Format.title">
         <source>Format</source>
         <extracomment>m_Format.title</extracomment>
-        <translation>Format</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj</translation>
     </message>
     <message id="m_Format.content">
         <source>Change the format of the selected cells, convert text to number or hyperlink.</source>
@@ -2626,13 +2637,13 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="sp_ConditionHighlight.title">
         <source></source>
         <extracomment>sp_ConditionHighlight.title</extracomment>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Wyróżnienie warunkowe</translation>
     </message>
     <message id="sp_ConditionHighlight.content">
         <source></source>
         <extracomment>sp_ConditionHighlight.content</extracomment>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Umożliwia łatwo dostrzec komórki, które spełniają podany zestaw kryteriów.</translation>
     </message>
     <message id="sp_AutoSum.title">
@@ -2734,6 +2745,7 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="AlignJustify.title">
         <source>Justify</source>
         <extracomment>AlignJustify.title</extracomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
         <translation>Wyjustuj</translation>
     </message>
     <message id="AlignJustify.content">
@@ -2744,7 +2756,8 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     <message id="AlignDistributed.title">
         <source>Distributed</source>
         <extracomment>AlignDistributed.title</extracomment>
-        <translation>Rozłożone</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Rozłożony</translation>
     </message>
     <message id="AlignDistributed.content">
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>

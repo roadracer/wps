@@ -588,7 +588,8 @@
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -652,7 +653,8 @@
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1235,7 +1237,8 @@
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1521,6 +1524,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Export to PDF</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
         <translation>Eksportuj do PDF</translation>
     </message>
     <message>
@@ -2343,6 +2347,7 @@ przejścia</translation>
     <name>ongmani.ct_design</name>
     <message>
         <source>Background</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt oraz Presenattion-&gt;Projekt-&gt;Tło - tak jest ok</translatorcomment>
         <translation>Tło</translation>
     </message>
     <message>
@@ -2356,6 +2361,7 @@ przejścia</translation>
     <message>
         <source>Color
 Schemes</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
         <translation>Schematy
 kolorów</translation>
     </message>
@@ -2370,11 +2376,13 @@ kolorów</translation>
     <message>
         <source>Edit
 Slide Master</source>
-        <translation>Edytuj
-wzorzec slajdów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translation>Edytuj wzorzec
+slajdów</translation>
     </message>
     <message>
         <source>Import Templates</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
         <translation>Importuj szablony</translation>
     </message>
     <message>
@@ -2384,15 +2392,18 @@ wzorzec slajdów</translation>
     <message>
         <source>Involved
 Template</source>
-        <translation>Szablon
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu  nie zlewały się wyrazy</translatorcomment>
+        <translation>Szablon 
 powiązany</translation>
     </message>
     <message>
         <source>Landscape</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Orientacja slajdu - tak jest ok</translatorcomment>
         <translation>Pozioma</translation>
     </message>
     <message>
         <source>Layout</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
         <translation>Układ</translation>
     </message>
     <message>
@@ -2403,23 +2414,30 @@ strony</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translation>Ustawienia strony</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translation>Ustawienia
+strony</translation>
     </message>
     <message>
         <source>Portrait</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Orientacja slajdu - tak jest ok</translatorcomment>
         <translation>Pionowa</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation>Narzędzia prezentacji</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translation>Narzędzia
+prezentacji</translation>
     </message>
     <message>
         <source>Reset Slide</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
         <translation>Resetuj slajd</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tła</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Tło - tak jest ok</translatorcomment>
+        <translation>Zapisz tło</translation>
     </message>
     <message>
         <source>Slide
@@ -2439,7 +2457,9 @@ orientacja</lengthvariant>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation>Orientacja slajdu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translation>Orientacja
+slajdu</translation>
     </message>
     <message>
         <source>import templates</source>
@@ -2591,7 +2611,9 @@ formantu</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper - tak jest ok jak w PowerPaint</translatorcomment>
+        <translation>Bezpieczeństwo
+makr</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -2607,7 +2629,9 @@ formantu</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper - tak jest ok jak w PowerPaint</translatorcomment>
+        <translation>Wyświetl 
+kod</translation>
     </message>
     <message>
         <source>Visual Basic
@@ -3055,7 +3079,9 @@ Włącz</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Zaznacz obiekt</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
+        <translation>Zaznacz
+obiekt</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -4541,6 +4567,7 @@ formatów</translation>
     </message>
     <message>
         <source>From Beginning</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne-&gt;Od bieżącego slajdu - tak jest ok</translatorcomment>
         <translation>Od początku</translation>
     </message>
     <message>
@@ -4552,6 +4579,7 @@ slajdu</translation>
     <message>
         <source>From Current 
 Slide</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne-&gt;Od bieżącego slajdu - tak jest ok</translatorcomment>
         <translation>Od bieżącego 
 slajdu</translation>
     </message>
@@ -4598,7 +4626,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -4725,7 +4754,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -4821,7 +4851,9 @@ slajdu</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -4882,7 +4914,9 @@ cienia</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -4981,7 +5015,8 @@ cienia</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation>Ustawienia akcji</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Akcja</translation>
     </message>
     <message>
         <source>Artistic Clip</source>
@@ -5039,7 +5074,8 @@ w tle</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -5053,7 +5089,9 @@ i stopka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>Nagłówek i stopka</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Nagłówek
+ i stopka</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5085,7 +5123,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -5138,7 +5177,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Organization
@@ -5164,7 +5204,8 @@ organizacyjny</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw oraz Presentation-&gt;Wstaw-&gt;Obrazy - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -5214,7 +5255,9 @@ slajdu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Transition</source>
@@ -5778,7 +5821,9 @@ obrazy</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation>Kompresuj obrazy</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Kompresuj
+obrazy</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -5875,7 +5920,8 @@ obrazy</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -5891,11 +5937,14 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Wstaw obraz</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Wstaw
+obraz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -5970,7 +6019,8 @@ obrazy</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -6046,7 +6096,9 @@ obraz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -6058,7 +6110,9 @@ obraz</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Ustaw kolor przezroczysty</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Ustaw kolor
+przezroczysty</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -6297,11 +6351,13 @@ komentarz</translation>
     </message>
     <message>
         <source>Delete All Mark in this Presentation</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja-Usuń komentarz - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Usuń wszystkie komentarze w tej prezentacji</translation>
     </message>
     <message>
         <source>Delete All Mark on the Current Slide</source>
-        <translation>Usuń wszystkie komentarze na bieżącym slajdzie</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja-Usuń komentarz - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Usuń wszystkie komentarze z tego slajdu</translation>
     </message>
     <message>
         <source>Edit
@@ -6329,10 +6385,12 @@ komentarz</translation>
     </message>
     <message>
         <source>Next</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja - tak jest ok</translatorcomment>
         <translation>Następny</translation>
     </message>
     <message>
         <source>Previous</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja - tak jest ok</translatorcomment>
         <translation>Poprzedni</translation>
     </message>
     <message>
@@ -6342,8 +6400,9 @@ komentarz</translation>
     <message>
         <source>Show/Hide
 Mark</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaż/Ukryj
-Komentarze</translation>
+komentarze</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -6674,12 +6733,15 @@ slajdów</translation>
     <message>
         <source>New Slide 
 Master</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok</translatorcomment>
         <translation>Nowy wzorzec 
 slajdów</translation>
     </message>
     <message>
         <source>New Slide Layout</source>
-        <translation>Nowy układ slajdu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok</translatorcomment>
+        <translation>Nowy układ
+slajdu</translation>
     </message>
     <message>
         <source>New Slide Master</source>
@@ -6713,7 +6775,9 @@ wzorca</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tła</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok</translatorcomment>
+        <translation>Zapisz
+tło</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -6788,8 +6852,9 @@ wzorca</translation>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translation>Niestandardowe 
-pokazy slajdów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Niestandardowy 
+pokaz slajdów</translation>
     </message>
     <message>
         <source>From
@@ -6799,11 +6864,15 @@ początku</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translation>Od początku</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Od
+początku</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translation>Ukryj slajd</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ukryj
+slajd</translation>
     </message>
     <message>
         <source>Rehearse 
@@ -6817,7 +6886,9 @@ tempa</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przygotuj
+pokaz slajdów</translation>
     </message>
     <message>
         <source>Slide
@@ -7443,7 +7514,9 @@ tekstu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Text Direction</source>
@@ -7507,8 +7580,9 @@ tekstu</translation>
     <message>
         <source>Arrange
 All</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Rozmieść
-wszystko</translation>
+wszystkie</translation>
     </message>
     <message>
         <source>COM
@@ -7518,6 +7592,7 @@ COM</translation>
     </message>
     <message>
         <source>Cascade</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Rozmieść wszystkie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kaskadowo</translation>
     </message>
     <message>
@@ -7541,21 +7616,25 @@ inne okna</translation>
     <message>
         <source>Fit to
 Window</source>
-        <translation>Dopasuj do
-okna</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Dopasuj 
+do okna</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Siatka i
 prowadnice</translation>
     </message>
     <message>
         <source>Handout Master</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Wzorzec materiałów informacyjnych</translation>
     </message>
     <message>
         <source>Macros</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok oraz Presentation-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Makra</translation>
     </message>
     <message>
@@ -7565,6 +7644,7 @@ prowadnice</translation>
     <message>
         <source>New
 Window</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Nowe
 okno</translation>
     </message>
@@ -7574,11 +7654,14 @@ okno</translation>
     </message>
     <message>
         <source>Notes Master</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Wzorzec notatek</translation>
     </message>
     <message>
         <source>Notes Page</source>
-        <translation>Strona notatek</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
+        <translation>Strona
+notatek</translation>
     </message>
     <message>
         <source>Presentation View</source>
@@ -7586,7 +7669,9 @@ okno</translation>
     </message>
     <message>
         <source>Reading View</source>
-        <translation>Widok do czytania</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Widok do
+czytania</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -7594,7 +7679,8 @@ okno</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Show</source>
@@ -7607,12 +7693,14 @@ okno</translation>
     <message>
         <source>Slide 
 Master</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Wzorzec 
 slajdów</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Sortowanie 
 slajdów</translation>
     </message>
@@ -7628,15 +7716,18 @@ okno</translation>
     </message>
     <message>
         <source>Tile Horizontal</source>
-        <translation>Rozmieść sąsiadująco w poziomie</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Rozmieść wszystkie - tak jest ok</translatorcomment>
+        <translation>Poziomo</translation>
     </message>
     <message>
         <source>Vertical</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Rozmieść wszystkie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pionowo</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Wyświetl linie siatki</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Linie siatki</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -7648,7 +7739,8 @@ okno</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Powiększenie</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
 </context>
 <context>
@@ -8418,7 +8510,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do PDF</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translation>Eksportuj
+do PDF</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -8474,7 +8568,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation>Narzędzia prezentacji</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translation>Narzędzia
+prezentacji</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -8507,7 +8603,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation>Tłumaczenie do dokumentu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tekst ikonki i podpowiedź - tak jest poprawnie - wyjaśnione z producentem</translatorcomment>
+        <translation>Konwertuj do
+Word/WPS Writer</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -8658,7 +8756,8 @@ WordArt</translation>
     </message>
     <message>
         <source>Action Settings</source>
-        <translation>Ustawienia akcji</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Akcja</translation>
     </message>
     <message>
         <source>Activate WPS Office</source>
@@ -9066,7 +9165,8 @@ COM</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -9283,7 +9383,7 @@ COM</translation>
     </message>
     <message>
         <source>Erase All Inks on Slide</source>
-        <translatorcomment>Presentation-&gt;F5-&gt;Prawy przycisk myszki-&gt;Opcje wskaźnika, tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;F5-&gt;Prawy przycisk myszki-&gt;Opcje wskaźnika, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wymaż całe pismo odręczne na slajdzie</translation>
     </message>
     <message>
@@ -9345,7 +9445,8 @@ COM</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>File Package</source>
@@ -9570,7 +9671,8 @@ COM</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Poziomo</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Wstaw-&gt;Pole tekstowe - tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -9626,7 +9728,8 @@ COM</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Row Above</source>
@@ -9693,7 +9796,7 @@ powiązany</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Left Tab</source>
@@ -9758,7 +9861,8 @@ powiązany</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation>Makro</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Narzędzia - tak jest ok</translatorcomment>
+        <translation>Makra</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
@@ -9900,7 +10004,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -10169,7 +10274,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tła</translation>
+        <translatorcomment>tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Zapisz tło</translation>
     </message>
     <message>
         <source>Save as Picture</source>
@@ -10222,7 +10328,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Select</source>
@@ -10258,7 +10365,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Pokaz slajdów - tak jest ok</translatorcomment>
+        <translation>Przygotuj pokaz slajdów</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -10498,7 +10606,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Vertical</source>
-        <translation>Pionowo</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Wstaw-&gt;Pole tekstowe - tak jest ok</translatorcomment>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <source>View Code</source>
@@ -11137,11 +11246,14 @@ powiązany</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation>Narzędzia prezentacji</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Narzędzia
+prezentacji</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translation>Zapisz obraz tła</translation>
+        <translatorcomment>tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Zapisz tło</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -12943,7 +13055,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -13058,7 +13171,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -13361,7 +13475,8 @@ w tle</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Flash</source>
@@ -13407,6 +13522,7 @@ i stopka</translation>
     </message>
     <message>
         <source>Insert File Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wstaw obiekt pliku</translation>
     </message>
     <message>
@@ -13415,7 +13531,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -13471,7 +13588,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -14082,7 +14200,8 @@ podwładnego</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -14154,7 +14273,8 @@ podwładnego</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -14776,7 +14896,7 @@ slajdów</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>From Beginning</source>
@@ -14796,7 +14916,8 @@ slajdów</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przygotuj pokaz slajdów</translation>
     </message>
     <message>
         <source>Slide
@@ -14807,8 +14928,8 @@ slajdu</translation>
     <message>
         <source>Slide Show
 Settings</source>
-        <translation>Ustawienia pokazu
-slajdów</translation>
+        <translation>Ustawienia 
+pokazu slajdów</translation>
     </message>
     <message>
         <source>Slide Transition</source>
@@ -16180,7 +16301,9 @@ cienia</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation>Narzędzia prezentacji</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Narzędzia
+prezentacji</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -16213,7 +16336,9 @@ cienia</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation>Tłumaczenie do dokumentu</translation>
+        <translatorcomment>tak jest poprawnie - wyjaśnione z producentem</translatorcomment>
+        <translation>Konwertuj do
+Word/WPS Writer</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16399,7 +16524,8 @@ cienia</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translation>Tłumaczenie do dokumentu</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Funkcje specjalne - tak jest poprawnie - wyjaśnione z producentem</translatorcomment>
+        <translation>Konwertuj do Word/WPS Writer</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -16752,6 +16878,7 @@ slajdu</translation>
     <message>
         <source>From Current 
 Slide</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów oraz Narzędzia główne - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Od bieżącego 
 slajdu</translation>
     </message>
@@ -16774,7 +16901,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Ukryj bieżące okno, podczas wykonywania zrzutu ekranu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok</translatorcomment>
+        <translation>Ukryj bieżące okno, podczas wykonania wycinka ekranu</translation>
     </message>
     <message>
         <source>High Resolution Setting</source>
@@ -16790,7 +16918,9 @@ slajdu</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>Styl wstązki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów oraz Styl klasyczny - Presentation-&gt;Wstaw-&gt;Obraz-&gt;Z pliku - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Podgląd 
+obrazu</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -16842,7 +16972,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Makra</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>Magic</source>
@@ -17096,7 +17227,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Open</source>
@@ -17189,12 +17321,15 @@ slajdu</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Zrzut ekranu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok jak PowerPoint</translatorcomment>
+        <translation>Wycinek ekranu</translation>
     </message>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Zrzut ekranu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak PowerPoint</translatorcomment>
+        <translation>Zrzut
+ekranu</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -17435,7 +17570,7 @@ slajdu</translation>
     <name>wppcommon.mainwindow.commands.Show</name>
     <message>
         <source>Erase</source>
-        <translatorcomment>Presentation-&gt;Uruchmomić prezentację (F5)-&gt;Prawy przycisk myszki-&gt;Opcje wskaźnika, tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;Uruchmomić prezentację (F5)-&gt;Prawy przycisk myszki-&gt;Opcje wskaźnika, tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Gumka</translation>
     </message>
 </context>

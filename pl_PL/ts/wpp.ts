@@ -213,11 +213,11 @@
     <name>DlgKxCustomShows</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translation>N&amp;iestandardowy pokaz slajdów:</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
@@ -302,18 +302,22 @@
     <name>DlgKxSetupShow</name>
     <message>
         <source>Show type</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Typ pokazu</translation>
     </message>
     <message>
         <source>&amp;Presented by a speaker(Full screen)</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Prezentowany przez prelegenta (pełny ekran)</translation>
     </message>
     <message>
         <source>Browsed at a &amp;kiosk(Full screen)</source>
-        <translation>Przeglądany jako &amp;kiosk (pełny ekran)</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Prz&amp;eglądany jako kiosk (pełny ekran)</translation>
     </message>
     <message>
         <source>&amp;Browsed by an individual(window)</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pr&amp;zeglądany indywidualnie (okno)</translation>
     </message>
     <message>
@@ -326,71 +330,88 @@
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation>W pętli &amp;ciągłej do naciśnięcia klawisza &apos;Esc&apos;</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>W pętli &amp;ciągłej do naciśnięcia klawisza Esc</translation>
     </message>
     <message>
         <source>P&amp;en color:</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Kolor pióra:</translation>
     </message>
     <message>
         <source>&amp;Show Without Animation</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pok&amp;aż bez animacji</translation>
     </message>
     <message>
         <source>Show Without &amp;Narration</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaż &amp;bez narracji</translation>
     </message>
     <message>
         <source>Show slides</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Slajdy pokazu</translation>
     </message>
     <message>
         <source>&amp;All</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Wszystkie</translation>
     </message>
     <message>
         <source>&amp;From:</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Od:</translation>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation>&amp;do:</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Do:</translation>
     </message>
     <message>
         <source>&amp;Custom show:</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaz &amp;niestandardowy:</translation>
     </message>
     <message>
         <source>Advance slides</source>
-        <translation>Przełącz slajd</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przełączanie slajdów</translation>
     </message>
     <message>
         <source>&amp;Manually</source>
-        <translation>&amp;Ręcznie</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ręczn&amp;ie</translation>
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Zgodnie z c&amp;hronometrażem prezentacji</translation>
     </message>
     <message>
         <source>Multiple monitors</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wiele monitorów</translation>
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
-        <translation>Wyświetl pokaz slajdów &amp;na:</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Monitor pokazu slajdów:</translation>
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation>Pok&amp;aż widok prezentera</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Użyj widoku prezentera</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przygotowywanie pokazu</translation>
     </message>
     <message>
         <source>Double-&amp;Screen Extend Mode Wizard</source>
-        <translation>Kreator trybu rozszerzonego podwójny &amp;ekran</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok</translatorcomment>
+        <translation>Kreator trybu rozszerzonego podwójnego &amp;ekranu</translation>
     </message>
 </context>
 <context>
@@ -823,7 +844,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>Slide %1</source>
@@ -2669,27 +2690,27 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppActionSettings</name>
     <message>
         <source>Action Settings</source>
-        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa okna dialogowego - tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ustawienia akcji</translation>
     </message>
     <message>
         <source>Mouse Click</source>
-        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa zakładki okna dialogowego Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa zakładki okna dialogowego Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kliknięcie myszą</translation>
     </message>
     <message>
         <source>Action on click</source>
-        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Akcja przy kliknięciu</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Brak</translation>
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowePoint</translatorcomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Hiperłącze do:</translation>
     </message>
     <message>
@@ -2811,23 +2832,28 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppExtendModeGuide</name>
     <message>
         <source>Double-Screen Extended Mode Wizard</source>
-        <translation>Kreator trybu rozszerzonego podwójny ekran</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Kreator trybu rozszerzonego podwójnego ekranu</translation>
     </message>
     <message>
         <source>&amp;Setting</source>
-        <translation>&amp;Ustawienie</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>&amp;Ustawienia</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
-        <translation>   Użyj trybu rozszerz, aby pokazać widok prelegenta i odtwarzania na różnych monitorach. Publiczność może zobaczyć tylko proces pokazu slajdów i operacji rysowania znaków. Prezenter może uruchamiać inne programy lub wykonywać inne operacje niezauważalnie dla publiczności</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>   Użyj trybu rozszerzonego, aby pokazać widok prelegenta i odtwarzania na różnych monitorach. Publiczność może zobaczyć tylko proces pokazu slajdów i operacji rysowania znaków. Prezenter może uruchamiać inne programy lub wykonywać inne operacje niezauważalnie dla publiczności</translation>
     </message>
     <message>
         <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
-        <translation>   Ten kreator pomoże Ci zrozumieć różne ustawienia trybu rozszerzonego podwójny ekran. Proszę korzystać z poniższych łączy, aby wyświetlić pliki pomocy:</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>   Ten kreator pomoże Ci zrozumieć różne ustawienia trybu rozszerzonego podwójnego ekranu. Użyj poniższych łączy, aby wyświetlić pliki pomocy:</translation>
     </message>
 </context>
 <context>
@@ -4332,18 +4358,22 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppExtendModeGuideDlg</name>
     <message>
         <source>Set up monitors</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>Ustaw monitory</translation>
     </message>
     <message>
         <source>Set screen resolution and color quality</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>Ustaw rozdzielczość ekranu i jakość kolorów</translation>
     </message>
     <message>
         <source>Use the current monitor as the primary monitor</source>
-        <translation>Użyj bieżącego monitora jako monitor główny</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>Użyj bieżącego monitora jako monitora głównego</translation>
     </message>
     <message>
         <source>Extend Windows desktop to the selected monitor</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>Rozszerz pulpit systemu Windows do wybranego monitora</translation>
     </message>
 </context>
@@ -5528,7 +5558,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translation>N&amp;iestandardowy pokaz slajdów:</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>

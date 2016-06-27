@@ -314,7 +314,8 @@ Wartość:</translation>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>TX_Workbook_SaveFailureLocked</comment>
-        <translation>Dokument został zablokowany przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został zablokowany do edycji przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -581,7 +582,8 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
         <source>Document has been locked by another application, do you want to open it as read-only?
 (%s)</source>
         <comment>TX_OpenFile_ReadOnly</comment>
-        <translation>Dokument został zablokowany przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został zablokowany do edycji przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -3119,12 +3121,14 @@ Modify the source data</source>
     <message>
         <source>Or</source>
         <comment>TX_AutoFilter_Or</comment>
-        <translation>Lub</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>LUB</translation>
     </message>
     <message>
         <source>And</source>
         <comment>TX_AutoFilter_And</comment>
-        <translation>Oraz</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>I</translation>
     </message>
     <message>
         <source>（Blank）</source>
@@ -3727,32 +3731,38 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>greater than</source>
         <comment>TX_ETDBE_OPR_LARGER</comment>
-        <translation>większa niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>większe niż</translation>
     </message>
     <message>
         <source>less than</source>
         <comment>TX_ETDBE_OPR_SMALLER</comment>
-        <translation>mniejsza niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>mniejsze niż</translation>
     </message>
     <message>
         <source>equal to</source>
         <comment>TX_ETDBE_OPR_EQUAL</comment>
-        <translation>równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>równa się</translation>
     </message>
     <message>
         <source>not equal to</source>
         <comment>TX_ETDBE_OPR_NOTEQUAL</comment>
-        <translation>nierówna</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>nie równa się</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
         <comment>TX_ETDBE_OPR_LARGEREQUAL</comment>
-        <translation>większa lub równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>większe niż lub równe</translation>
     </message>
     <message>
         <source>less than or equal to</source>
         <comment>TX_ETDBE_OPR_SMALLEREQUAL</comment>
-        <translation>mniejsza lub równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>like</source>
@@ -3772,12 +3782,14 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source>And</source>
         <comment>TX_ETDBE_RELATION_AND</comment>
-        <translation>Oraz</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>I</translation>
     </message>
     <message>
         <source>Or</source>
         <comment>TX_ETDBE_RELATION_OR</comment>
-        <translation>Lub</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>LUB</translation>
     </message>
     <message>
         <source>Connect string:</source>
@@ -3879,11 +3891,13 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
     <message>
         <source> AND,</source>
         <comment>TX_ETDBE_STR_RELATION_AND</comment>
-        <translation> ORAZ,</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation> I,</translation>
     </message>
     <message>
         <source> OR,</source>
         <comment>TX_ETDBE_STR_RELATION_OR</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation> LUB,</translation>
     </message>
     <message>
@@ -9275,27 +9289,31 @@ Czy kontynuować?</translation>
     <message>
         <source>You must enter a Value.</source>
         <comment>TX_DV_EmptyWholeNumber</comment>
-        <translation>Należy wprowadzić Wartość.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Wartość.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
         <comment>TX_DV_EmptyWholeNumber1</comment>
-        <translation>Należy wprowadzić Minimum.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
         <comment>TX_DV_EmptyWholeNumber2</comment>
-        <translation>Należy wprowadzić Maksimum.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Maksimum.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
         <comment>TX_DV_EmptyWholeNumberBoth</comment>
-        <translation>Należy wprowadzić Minimum i Maksimum.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz podać zarówno Maksimum jak i Minimum.</translation>
     </message>
     <message>
         <source>The Maximum must be greater than or equal to the Minimum.</source>
         <comment>TX_DV_WholeNumberValueErr</comment>
-        <translation>Maksimum musi być większe lub równe Minimum.</translation>
+        <translation>Maksimum musi być większe niż lub równe Minimum.</translation>
     </message>
     <message>
         <source>Cannot find the named range you specified.</source>
@@ -9310,7 +9328,8 @@ Czy kontynuować?</translation>
     <message>
         <source>You must enter a Source.</source>
         <comment>TX_DV_EmptyList</comment>
-        <translation>Musisz podać Źródło.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Źródło.</translation>
     </message>
     <message>
         <source>The Date contains an error now. Do you want to continue?</source>
@@ -9320,12 +9339,14 @@ Czy kontynuować?</translation>
     <message>
         <source>The Start Date contains an error now. Do you want to continue?</source>
         <comment>TX_DV_DateErr1</comment>
-        <translation>Data rozpoczęcia zawiera błąd. Czy chcesz kontynuować?</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data początkowa zawiera błąd. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>The End Date contains an error now. Do you want to continue?</source>
         <comment>TX_DV_DateErr2</comment>
-        <translation>Data zakończenia zawiera błąd. Czy chcesz kontynuować?</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data końcowa zawiera błąd. Czy chcesz kontynuować?</translation>
     </message>
     <message>
         <source>The date you specified in Date is invalid.</source>
@@ -9335,37 +9356,44 @@ Czy kontynuować?</translation>
     <message>
         <source>The date you specified in Start Date is invalid.</source>
         <comment>TX_DV_Date1</comment>
-        <translation>Data określona w polu Data rozpoczęcia jest nieprawidłowa.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data określona w polu Data początkowa jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>The date you specified in End Date is invalid.</source>
         <comment>TX_DV_Date2</comment>
-        <translation>Data określona w polu Data zakończenia jest nieprawidłowa.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data określona w polu Data końcowa jest nieprawidłowa.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
         <comment>TX_DV_EmptyDate</comment>
-        <translation>Należy wprowadzić Datę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Data.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
         <comment>TX_DV_EmptyDate1</comment>
-        <translation>Należy wprowadzić Datę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Data początkowa.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
         <comment>TX_DV_EmptyDate2</comment>
-        <translation>Należy wprowadzić Datę zakończenia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Data końcowa.</translation>
     </message>
     <message>
         <source>You must enter both a Start Date and an End Date.</source>
         <comment>TX_DV_EmptyDateBoth</comment>
-        <translation>Musisz podać Datę rozpoczęcia oraz Datę zakończenia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz podać Datę początkową oraz Datę końcową.</translation>
     </message>
     <message>
         <source>The End Date must be greater than or equal to the Start Date.</source>
         <comment>TX_DV_DateValueErr</comment>
-        <translation>Data zakończenia musi być większa lub równa od Daty rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data końcowa musi być większa lub równa od Daty początkowej.</translation>
     </message>
     <message>
         <source>The Time contains an error now. Do you want to continue?</source>
@@ -9400,27 +9428,31 @@ Czy kontynuować?</translation>
     <message>
         <source>You must enter a Time.</source>
         <comment>TX_DV_EmptyTime</comment>
-        <translation>Należy wprowadzić Godzinę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Godzina.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
         <comment>TX_DV_EmptyTime1</comment>
-        <translation>Należy wprowadzić Godzinę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
         <comment>TX_DV_EmptyTime2</comment>
-        <translation>Należy wprowadzić Godzinę zakończenia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Godzina zakończenia.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
         <comment>TX_DV_EmptyTimeBoth</comment>
-        <translation>Należy wprowadzić Godzinę zakończenia i Godzinę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz podać zarówno Godzina zakończenia jak i Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>The End Time must be greater than or equal to the Start Time.</source>
         <comment>TX_DV_TimeValueErr</comment>
-        <translation>Godzina zakończenia musi być większa lub równa Godzinie rozpoczęcia.</translation>
+        <translation>Godzina zakończenia musi być większa niż lub równa Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>The Text length contains an error now. Do you want to continue?</source>
@@ -9445,7 +9477,8 @@ Czy kontynuować?</translation>
     <message>
         <source>You must enter a formula.</source>
         <comment>TX_DV_EmptyFormula</comment>
-        <translation>Należy wprowadzić Formułę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Formuła.</translation>
     </message>
     <message>
         <source>The Formula contains an error now. Do you want to continue?</source>
@@ -10708,7 +10741,8 @@ dane</translation>
     <message>
         <source>Validation</source>
         <comment>TXShell_Validation_Caption</comment>
-        <translation>Sprawdzanie poprawności</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność danych</translation>
     </message>
     <message>
         <source>Assign Macro</source>
@@ -13040,11 +13074,13 @@ pisowni</translation>
     <message>
         <source>is a serial date number that represents the start date.</source>
         <comment>TX_ParaDesc_456</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>liczba seryjna reprezentująca datę początkową.</translation>
     </message>
     <message>
         <source>is a serial date number that represents the end date.</source>
         <comment>TX_ParaDesc_457</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>liczba seryjna reprezentująca datę końcową.</translation>
     </message>
     <message>
@@ -13712,12 +13748,16 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Stop Recording</source>
         <comment>TX_RecordMacro_Stop</comment>
-        <translation>Zatrzymaj rejestrowanie</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - Styl klasyczny-&gt;Narzędzia-&gt;Makra tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Zatrzymaj 
+rejestrowanie</translation>
     </message>
     <message>
         <source>Record Macro</source>
         <comment>TX_RecordMacro_Start</comment>
-        <translation>Zarejestruj makro</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - Styl klasyczny-&gt;Narzędzia-&gt;Makra tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
@@ -15140,7 +15180,9 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>Spell Check</source>
         <comment>TX_SpellCheck_Caption</comment>
-        <translation>Sprawdzanie pisowni</translation>
+        <translatorcomment>Styl wstążki- Spreadsheet-&gt;Recenzja - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny - Narzędzia) nie zlewały się wyrazy</translatorcomment>
+        <translation>Sprawdzanie 
+pisowni</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
@@ -15968,7 +16010,8 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>Validation</source>
         <comment>TX_Undo_Validation</comment>
-        <translation>Sprawdzanie poprawności</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność danych</translation>
     </message>
     <message>
         <source>Recalculate</source>
@@ -16458,62 +16501,74 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>begins with</source>
         <comment>et_sDlgCustomAutoFilter_BeginsWith</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>zaczyna się od</translation>
     </message>
     <message>
         <source>contains</source>
         <comment>et_sDlgCustomAutoFilter_Contains</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>zawiera</translation>
     </message>
     <message>
         <source>does not begin with</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotBeginWith</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>nie zaczyna się od</translation>
     </message>
     <message>
         <source>does not contain</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotContain</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>nie zawiera</translation>
     </message>
     <message>
         <source>does not end with</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotEndWith</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>nie kończy się na</translation>
     </message>
     <message>
         <source>not equal to</source>
         <comment>et_sDlgCustomAutoFilter_DoesNotEqual</comment>
-        <translation>nierówna</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>nie równa się</translation>
     </message>
     <message>
         <source>ends with</source>
         <comment>et_sDlgCustomAutoFilter_EndsWith</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>kończy się na</translation>
     </message>
     <message>
         <source>equals</source>
         <comment>et_sDlgCustomAutoFilter_Equals</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>równa się</translation>
     </message>
     <message>
         <source>is greater than</source>
         <comment>et_sDlgCustomAutoFilter_IsGreaterThan</comment>
-        <translation>jest większa niż</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>jest większe niż</translation>
     </message>
     <message>
         <source>is greater than or equal to</source>
         <comment>et_sDlgCustomAutoFilter_IsGreaterThanOrEqualTo</comment>
-        <translation>jest większa lub równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>jest większe niż lub równe</translation>
     </message>
     <message>
         <source>is less than</source>
         <comment>et_sDlgCustomAutoFilter_IsLessThan</comment>
-        <translation>jest mniejsza niż</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>jest mniejsze niż</translation>
     </message>
     <message>
         <source>is less than or equal to</source>
         <comment>et_sDlgCustomAutoFilter_IsLessThanOrEqualTo</comment>
-        <translation>jest mniejsza lub równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>jest mniejsze niż lub równe</translation>
     </message>
     <message>
         <source>Double</source>
@@ -16543,7 +16598,8 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>E&amp;nd date:</source>
         <comment>et_sEndDate</comment>
-        <translation>Data zakończe&amp;nia:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Data k&amp;ońcowa:</translation>
     </message>
     <message>
         <source>E&amp;nd time:</source>
@@ -16553,77 +16609,92 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>You must enter both an End Date and a Start Date.</source>
         <comment>et_sEnterDate</comment>
-        <translation>Należy wprowadzić Datę zakończenia i Datę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz podać zarówno Data końcowa jak i Data początkowa.</translation>
     </message>
     <message>
         <source>You must enter a Date.</source>
         <comment>et_sEnterDateS</comment>
-        <translation>Należy wprowadzić Datę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Data.</translation>
     </message>
     <message>
         <source>You must enter an End Date.</source>
         <comment>et_sEnterEDate</comment>
-        <translation>Należy wprowadzić Datę zakończenia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Data końcowa.</translation>
     </message>
     <message>
         <source>You must enter an End Time.</source>
         <comment>et_sEnterETime</comment>
-        <translation>Należy wprowadzić Godzinę zakończenia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Godzina zakończenia.</translation>
     </message>
     <message>
         <source>You must enter a Formula.</source>
         <comment>et_sEnterFor</comment>
-        <translation>Należy wprowadzić Formułę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Formuła.</translation>
     </message>
     <message>
         <source>You must enter a Maximum.</source>
         <comment>et_sEnterMax</comment>
-        <translation>Należy wprowadzić Maksimum.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Maksimum.</translation>
     </message>
     <message>
         <source>You must enter a Minimum.</source>
         <comment>et_sEnterMin</comment>
-        <translation>Należy wprowadzić Minimum.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Minimum.</translation>
     </message>
     <message>
         <source>You must enter both a Maximum and a Minimum.</source>
         <comment>et_sEnterNum</comment>
-        <translation>Należy wprowadzić Minimum i Maksimum.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz podać zarówno Maksimum jak i Minimum.</translation>
     </message>
     <message>
         <source>You must enter a Start Date.</source>
         <comment>et_sEnterSDate</comment>
-        <translation>Należy wprowadzić Datę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Data początkowa.</translation>
     </message>
     <message>
         <source>You must enter a Source.</source>
         <comment>et_sEnterSrs</comment>
-        <translation>Musisz podać Źródło.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Źródło.</translation>
     </message>
     <message>
         <source>You must enter a Start Time.</source>
         <comment>et_sEnterSTime</comment>
-        <translation>Należy wprowadzić Godzinę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter both an End Time and a Start Time.</source>
         <comment>et_sEnterTime</comment>
-        <translation>Należy wprowadzić Godzinę zakończenia i Godzinę rozpoczęcia.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz podać zarówno Godzina zakończenia jak i Godzina rozpoczęcia.</translation>
     </message>
     <message>
         <source>You must enter a Time.</source>
         <comment>et_sEnterTimeS</comment>
-        <translation>Należy wprowadzić Godzinę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Godzina.</translation>
     </message>
     <message>
         <source>You must enter a Value.</source>
         <comment>et_sEnterValue</comment>
-        <translation>Należy wprowadzić Wartość.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Musisz wpisać Wartość.</translation>
     </message>
     <message>
         <source>equal to</source>
         <comment>et_sEqualTo</comment>
-        <translation>równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>równa się</translation>
     </message>
     <message>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
@@ -16768,12 +16839,14 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>greater than or equal to</source>
         <comment>et_sGorE</comment>
-        <translation>większa lub równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>większe niż lub równe</translation>
     </message>
     <message>
         <source>greater than</source>
         <comment>et_sGreater</comment>
-        <translation>większa niż</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>większe niż</translation>
     </message>
     <message>
         <source>Header</source>
@@ -16872,7 +16945,8 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>less than</source>
         <comment>et_sLess</comment>
-        <translation>mniejsza niż</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>mniejsze niż</translation>
     </message>
     <message>
         <source>List</source>
@@ -16902,7 +16976,8 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>less than or equal to</source>
         <comment>et_sLorE</comment>
-        <translation>mniejsza lub równa</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>mniejsze lub równe</translation>
     </message>
     <message>
         <source>The measurement must be between %d cm and %f cm.</source>
@@ -17077,12 +17152,14 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>not between</source>
         <comment>et_sNotBetween</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>nie między</translation>
     </message>
     <message>
         <source>not equal to</source>
         <comment>et_sNotEqual</comment>
-        <translation>nierówna</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>nie równa się</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -17416,7 +17493,8 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>&amp;Start date:</source>
         <comment>et_sStartDate</comment>
-        <translation>Data &amp;rozpoczęcia:</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>D&amp;ata początkowa:</translation>
     </message>
     <message>
         <source>&amp;Start time:</source>
