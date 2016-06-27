@@ -4204,98 +4204,122 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     <name>KxDlgFootAndEndnote</name>
     <message>
         <source>Footnote and Endnote</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - nazwa okna dialogowego - tak jest ok jak w Word</translatorcomment>
         <translation>Przypis dolny i przypis końcowy</translation>
     </message>
     <message>
         <source>Whole document</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Cały dokument</translation>
     </message>
     <message>
         <source>A&amp;pply changes to:</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Z&amp;astosuj zmiany do:</translation>
     </message>
     <message>
         <source>Apply changes</source>
-        <translation>Zastosuj zmiany</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>Stosowanie zmian</translation>
     </message>
     <message>
         <source>Continuous</source>
-        <translation>Ciągły</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym (dotyczy opcji Numerowanie) - tak jest ok jak w Word</translatorcomment>
+        <translation>Ciągłe</translation>
     </message>
     <message>
         <source>Restart each section</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym (dotyczy opcji Numerowanie) - tak jest ok jak w Word</translatorcomment>
         <translation>Rozpocznij nową sekcję</translation>
     </message>
     <message>
         <source>Restart each page</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym (dotyczy opcji Numerowanie) - tak jest ok jak w Word</translatorcomment>
         <translation>Rozpocznij nową stronę</translation>
     </message>
     <message>
         <source>Location</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Lokalizacja</translation>
     </message>
     <message>
         <source>&amp;Footnotes:</source>
-        <translation>&amp;Przypisy dolne:</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>Przypisy &amp;dolne:</translation>
     </message>
     <message>
         <source>Bottom of page</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Dół strony</translation>
     </message>
     <message>
         <source>Below text</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Pod tekstem</translation>
     </message>
     <message>
         <source>&amp;Endnotes:</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;Przypisy końcowe:</translation>
     </message>
     <message>
         <source>End of section</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Koniec sekcji</translation>
     </message>
     <message>
         <source>End of document</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Koniec dokumentu</translation>
     </message>
     <message>
         <source>&amp;Convert...</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;Konwertuj...</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Format</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>Układ przypisu dolnego</translation>
     </message>
     <message>
         <source>&amp;Number format:</source>
-        <translation>Format &amp;liczby:</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>For&amp;mat numeracji:</translation>
     </message>
     <message>
         <source>C&amp;ustom mark:</source>
-        <translation>Znacznik n&amp;iestandardowy:</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>Znacznik &amp;niestandardowy:</translation>
     </message>
     <message>
         <source>S&amp;ymbol...</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>S&amp;ymbol...</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
-        <translation>&amp;Rozpocznij od:</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>Rozpo&amp;cznij od:</translation>
     </message>
     <message>
         <source>Nu&amp;mbering:</source>
-        <translation>Nu&amp;merowanie:</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
+        <translation>Num&amp;erowanie:</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;Wstaw</translation>
     </message>
     <message>
         <source>S&amp;quare Bracket Format:</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>Format &amp;nawiasu kwadratowego:</translation>
     </message>
     <message>
         <source>[1],[2],[3],...</source>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Wstaw przypis dolny - opcje w oknie dialogowym - tak jest ok jak w Word</translatorcomment>
         <translation>[1],[2],[3],...</translation>
     </message>
 </context>
@@ -4571,7 +4595,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     <name>KxDlgInsertMergeField</name>
     <message>
         <source>Insert Merge Field</source>
-        <translation>Wstaw pola korespondencji seryjnej</translation>
+        <translatorcomment>Writer-&gt;Odwołania-&gt;Korespondencja seryjna-&gt;Wstaw pola koresp. seryjnej - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Wstawianie pola korespondencji seryjnej</translation>
     </message>
     <message>
         <source>Insert:</source>
@@ -4740,6 +4765,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     <name>KxDlgMailMergeRecipients</name>
     <message>
         <source>Mail Merge Recipients</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Adresaci korespondencji seryjnej</translation>
     </message>
     <message>
@@ -14712,7 +14738,7 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Page</source>
-        <translation></translation>
+        <translation>Strona</translation>
     </message>
     <message>
         <source>Top Margin</source>

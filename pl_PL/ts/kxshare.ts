@@ -6563,7 +6563,8 @@ właściwości</translation>
     <name>KxInsertFileObjectCommand</name>
     <message>
         <source>Insert File Object</source>
-        <translation>Wstaw obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obiekt z pliku</translation>
     </message>
 </context>
 <context>
@@ -9623,7 +9624,7 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>&amp;Left only</source>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Tylko z lewej</translation>
     </message>
     <message>
@@ -9652,7 +9653,7 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>L&amp;eft</source>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Z &amp;lewej</translation>
     </message>
     <message>

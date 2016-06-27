@@ -977,7 +977,8 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
     <message>
         <source>From &amp;Online Picture</source>
-        <translation>Z obrazu w trybie on&amp;line</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Z obrazu on&amp;line</translation>
     </message>
     <message>
         <source>Preset Texture</source>

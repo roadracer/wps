@@ -554,7 +554,8 @@
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -622,7 +623,8 @@
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Order</source>
@@ -1163,7 +1165,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -1445,6 +1448,7 @@ kwerendy bazy danych OLE</translation>
     <name>classics.standard</name>
     <message>
         <source>Above Average</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Powyżej średniej</translation>
     </message>
     <message>
@@ -1461,22 +1465,27 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Begin with</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>Below Average</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Between</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Między</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation>Ostatnie 10</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>10 ostatnich</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Ostatnie 10%</translation>
     </message>
     <message>
@@ -1659,6 +1668,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Contain</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Zawiera</translation>
     </message>
     <message>
@@ -1667,14 +1677,17 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Custom</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Data</translation>
     </message>
     <message>
         <source>Does not contain</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Nie zawiera</translation>
     </message>
     <message>
@@ -1683,15 +1696,18 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Empty Cell</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>End with</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Kończy się na</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation>Równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Równe</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -1699,10 +1715,12 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Error Value </source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość błędu </translation>
     </message>
     <message>
         <source>Export to PDF</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
         <translation>Eksportuj do PDF</translation>
     </message>
     <message>
@@ -1719,7 +1737,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>Większa niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>HighLight</source>
@@ -1727,6 +1746,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Highlight</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wyróżnienie</translation>
     </message>
     <message>
@@ -1735,6 +1755,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
@@ -1743,15 +1764,18 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Ubiegły miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>Ubiegły tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation>Mniejsza niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Max</source>
@@ -1771,11 +1795,13 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation>Następny miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>Następny tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -1843,6 +1869,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Special Value</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość specjalna</translation>
     </message>
     <message>
@@ -1859,26 +1886,32 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Ten miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym miesiącu</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Ten tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym tygodniu</translation>
     </message>
     <message>
         <source>Today</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Jutro</translation>
     </message>
     <message>
         <source>Top 10</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>10 pierwszych</translation>
     </message>
     <message>
         <source>Top 10 %</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Pierwsze 10%</translation>
     </message>
     <message>
@@ -1896,10 +1929,12 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Value</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość</translation>
     </message>
     <message>
         <source>Values</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartości</translation>
     </message>
     <message>
@@ -1908,10 +1943,12 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Weekend</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Weekend</translation>
     </message>
     <message>
         <source>Yesterday</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wczoraj</translation>
     </message>
     <message>
@@ -2635,7 +2672,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
-        <translation>Ukryj bieżące okno, podczas wykonywania zrzutu ekranu</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok</translatorcomment>
+        <translation>Ukryj bieżące okno, podczas wykonania wycinka ekranu</translation>
     </message>
     <message>
         <source>High Resolution Setting</source>
@@ -2664,7 +2702,9 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>Styl wstązki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów oraz Styl klasyczny - Spreadsheet-&gt;Wstaw-&gt;Obraz-&gt;Z pliku - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Podgląd 
+obrazu</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2708,7 +2748,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Macros</source>
-        <translation>Makra</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Makro</translation>
     </message>
     <message>
         <source>MailFeedBack</source>
@@ -3066,12 +3107,15 @@ dane</translation>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation>Zrzut ekranu</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok</translatorcomment>
+        <translation>Wycinek ekranu</translation>
     </message>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translation>Zrzut ekranu</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok</translatorcomment>
+        <translation>Zrzut
+ekranu</translation>
     </message>
     <message>
         <source>Select Shape</source>
@@ -4225,7 +4269,9 @@ dane</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Tabela przestawna</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
+        <translation>Tabela
+przestawna</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -4305,7 +4351,8 @@ kolumny</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>Sprawdzanie poprawności</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność danych</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -4374,6 +4421,7 @@ formantu</translation>
     </message>
     <message>
         <source>Design Mode</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok - musi być w jednym wierszu, bo inaczej błędnie będzie wyświetlać &quot;Zakończ tryb projektowania&quot;</translatorcomment>
         <translation>Tryb projektowania</translation>
     </message>
     <message>
@@ -4408,11 +4456,15 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Zarejestruj makro</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>Odwołania względne</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel</translatorcomment>
+        <translation>Użyj odwołań
+względnych</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -4420,7 +4472,9 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel</translatorcomment>
+        <translation>Bezpieczeństwo
+makr</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -4436,7 +4490,9 @@ tryb projektowania</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation>Wyświetl kod</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyświetl 
+kod</translation>
     </message>
     <message>
         <source>Visual Basic
@@ -4783,7 +4839,9 @@ Włącz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -5600,7 +5658,8 @@ godzina</translation>
     </message>
     <message>
         <source>Evaluate Formula</source>
-        <translation>Szacowanie formuły</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Formuły - tak jest ok jak w Excel</translatorcomment>
+        <translation>Szacuj formułę</translation>
     </message>
     <message>
         <source>Financial</source>
@@ -5621,7 +5680,8 @@ godzina</translation>
     <message>
         <source>Insert
 Function</source>
-        <translation>Wstaw
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Formuły oraz menu na końcu każdej grupy funkcji - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (na dole każdej grupy funkcji) nie zlewały się wyrazy</translatorcomment>
+        <translation>Wstaw 
 funkcję</translation>
     </message>
     <message>
@@ -5693,6 +5753,7 @@ używane</translation>
     <name>ongmani.ct_home</name>
     <message>
         <source>Above Average</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Powyżej średniej</translation>
     </message>
     <message>
@@ -5774,22 +5835,27 @@ używane</translation>
     </message>
     <message>
         <source>AutoSum</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
         <translation>Autosumowanie</translation>
     </message>
     <message>
         <source>Average</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Średnia</translation>
     </message>
     <message>
         <source>Begin with</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Tekst - tak jest ok jak w Excel</translatorcomment>
         <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>Below Average</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Between</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Między</translation>
     </message>
     <message>
@@ -5798,10 +5864,12 @@ używane</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation>Ostatnie 10</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
+        <translation>10 ostatnich</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Ostatnie 10%</translation>
     </message>
     <message>
@@ -6013,6 +6081,7 @@ używane</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj - tak jest ok jak w Excel</translatorcomment>
         <translation>Formatowanie warunkowe</translation>
     </message>
     <message>
@@ -6025,6 +6094,7 @@ używane</translation>
     </message>
     <message>
         <source>Contain</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Tekst - tak jest ok jak w Excel</translatorcomment>
         <translation>Zawiera</translation>
     </message>
     <message>
@@ -6046,6 +6116,7 @@ używane</translation>
     </message>
     <message>
         <source>Count</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Zliczanie</translation>
     </message>
     <message>
@@ -6054,6 +6125,7 @@ używane</translation>
     </message>
     <message>
         <source>Custom</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie - tak jest ok jak w Excel</translatorcomment>
         <translation>Niestandardowe</translation>
     </message>
     <message>
@@ -6066,6 +6138,7 @@ używane</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie - tak jest ok jak w Excel</translatorcomment>
         <translation>Data</translation>
     </message>
     <message>
@@ -6102,6 +6175,7 @@ używane</translation>
     </message>
     <message>
         <source>Does not contain</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Tekst - tak jest ok jak w Excel</translatorcomment>
         <translation>Nie zawiera</translation>
     </message>
     <message>
@@ -6123,15 +6197,18 @@ używane</translation>
     </message>
     <message>
         <source>Empty Cell</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość specjalna - tak jest ok jak w Excel</translatorcomment>
         <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>End with</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Tekst - tak jest ok jak w Excel</translatorcomment>
         <translation>Kończy się na</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation>Równa</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
+        <translation>Równe</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -6139,7 +6216,8 @@ używane</translation>
     </message>
     <message>
         <source>Error Value </source>
-        <translation>Wartość błędu </translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość specjalna - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wartość błędu</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -6182,7 +6260,8 @@ zamień</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Format</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj</translation>
     </message>
     <message>
         <source>Format 
@@ -6192,12 +6271,14 @@ formatów</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation>Formatuj jako tabelę</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj jako
+tabelę</translation>
     </message>
     <message>
         <source>Formats</source>
         <translatorcomment>Narzędzia główne-&gt;Wyczyść, tak jest ok</translatorcomment>
-        <translation>Formatowanie</translation>
+        <translation>Formaty</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -6213,7 +6294,8 @@ formatów</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>Większa niż</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -6237,10 +6319,12 @@ formatów</translation>
     </message>
     <message>
         <source>Highlight</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyróżnienie</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
@@ -6319,11 +6403,13 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Ubiegły miesiąc</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>Ubiegły tydzień</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6336,7 +6422,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation>Mniejsza niż</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -6352,6 +6439,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Max</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Maksimum</translation>
     </message>
     <message>
@@ -6373,6 +6461,7 @@ Center</source>
     </message>
     <message>
         <source>Min</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Minimum</translation>
     </message>
     <message>
@@ -6409,11 +6498,13 @@ Center</source>
     </message>
     <message>
         <source>Next month</source>
-        <translation>Następny miesiąc</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>Następny tydzień</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -6421,6 +6512,7 @@ Center</source>
     </message>
     <message>
         <source>Number</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Liczba</translation>
     </message>
     <message>
@@ -6505,6 +6597,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Series</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Seria</translation>
     </message>
     <message>
@@ -6522,10 +6615,12 @@ kolumny</translation>
     </message>
     <message>
         <source>Sort</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
         <translation>Sortuj</translation>
     </message>
     <message>
         <source>Special Value</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie - tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość specjalna</translation>
     </message>
     <message>
@@ -6538,10 +6633,12 @@ kolumny</translation>
     </message>
     <message>
         <source>Sum</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Suma</translation>
     </message>
     <message>
         <source>Symbol</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
         <translation>Symbol</translation>
     </message>
     <message>
@@ -6550,6 +6647,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Text</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie - tak jest ok jak w Excel</translatorcomment>
         <translation>Tekst</translation>
     </message>
     <message>
@@ -6566,26 +6664,32 @@ kolumny</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Ten miesiąc</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym miesiącu</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Ten tydzień</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym tygodniu</translation>
     </message>
     <message>
         <source>Today</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
         <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
         <translation>Jutro</translation>
     </message>
     <message>
         <source>Top 10</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>10 pierwszych</translation>
     </message>
     <message>
         <source>Top 10 %</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Pierwsze 10%</translation>
     </message>
     <message>
@@ -6644,10 +6748,12 @@ kolumny</translation>
     </message>
     <message>
         <source>Value</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie - tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość</translation>
     </message>
     <message>
         <source>Values</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wartości</translation>
     </message>
     <message>
@@ -6660,6 +6766,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Weekend</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
         <translation>Weekend</translation>
     </message>
     <message>
@@ -6672,6 +6779,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Yesterday</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Data - tak jest ok jak w Excel</translatorcomment>
         <translation>Wczoraj</translation>
     </message>
 </context>
@@ -6735,7 +6843,8 @@ formantu</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Flip Horizontal</source>
@@ -6789,7 +6898,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -6818,7 +6928,8 @@ i stopka</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -6826,11 +6937,14 @@ i stopka</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok jak w Excel</translatorcomment>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Tabela przestawna</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok jak w Excel</translatorcomment>
+        <translation>Tabela
+przestawna</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -6880,7 +6994,9 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -7073,7 +7189,9 @@ wydruku</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Układ strony - tak jest ok jak w Excel</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Send 
@@ -7207,7 +7325,8 @@ do tyłu</translation>
     <message>
         <source>Change
 Picture</source>
-        <translation>Zmień
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu nie zlewały się wyrazy</translatorcomment>
+        <translation>Zmień 
 obraz</translation>
     </message>
     <message>
@@ -7217,6 +7336,7 @@ obraz</translation>
     <message>
         <source>Compress
 Pictures</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
         <translation>Kompresuj
 obrazy</translation>
     </message>
@@ -7298,7 +7418,8 @@ obrazy</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -7314,11 +7435,14 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation>Wstaw obraz</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Wstaw
+obraz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -7401,7 +7525,8 @@ obrazy</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -7478,7 +7603,9 @@ obraz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Okienko
+zaznaczenia</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -7494,7 +7621,9 @@ obraz</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Ustaw kolor przezroczysty</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Ustaw kolor
+przezroczysty</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7756,7 +7885,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Podgląd obrazów</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd obrazu</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -8225,7 +8355,9 @@ komentarz</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translation>Zablokuj komórkę</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Recenzja - tak jest ok</translatorcomment>
+        <translation>Zablokuj
+komórkę</translation>
     </message>
     <message>
         <source>New 
@@ -8946,7 +9078,9 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok</translatorcomment>
+        <translation>Pole
+tekstowe</translation>
     </message>
     <message>
         <source>Text Effects</source>
@@ -8991,11 +9125,13 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>Arrange
 All</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
         <translation>Rozmieść
 wszystko</translation>
     </message>
     <message>
         <source>Cascade</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok-&gt;Rozmieść wszystko - tak jest ok jak w Excel</translatorcomment>
         <translation>Kaskadowo</translation>
     </message>
     <message>
@@ -9032,10 +9168,12 @@ ekran</translation>
     </message>
     <message>
         <source>Horizontal</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok-&gt;Rozmieść wszystko - tak jest ok jak w Excel</translatorcomment>
         <translation>Poziomo</translation>
     </message>
     <message>
         <source>Macros</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok oraz Spreadsheet-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Makra</translation>
     </message>
     <message>
@@ -9049,6 +9187,7 @@ ekran</translation>
     <message>
         <source>New
 Window</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
         <translation>Nowe
 okno</translation>
     </message>
@@ -9063,15 +9202,18 @@ okno</translation>
     <message>
         <source>Page Break 
 Preview</source>
-        <translation>Podgląd podziału 
-stron</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Podgląd 
+podziału stron</translation>
     </message>
     <message>
         <source>Print Gridlines</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Drukuj linie siatki</translation>
     </message>
     <message>
         <source>Print Headings</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok</translatorcomment>
         <translation>Drukuj nagłówki</translation>
     </message>
     <message>
@@ -9093,7 +9235,8 @@ do czytania</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Switch Windows</source>
@@ -9113,15 +9256,18 @@ do czytania</translation>
     </message>
     <message>
         <source>Vertical</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok-&gt;Rozmieść wszystko - tak jest ok jak w Excel</translatorcomment>
         <translation>Pionowo</translation>
     </message>
     <message>
         <source>View Gridlines</source>
-        <translation>Wyświetl linie siatki</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Linie siatki</translation>
     </message>
     <message>
         <source>View Headings</source>
-        <translation>Wyświetl nagłówki</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nagłówki</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -9141,7 +9287,8 @@ do czytania</translation>
     </message>
     <message>
         <source>Zoom</source>
-        <translation>Powiększenie</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
 </context>
 <context>
@@ -9925,7 +10072,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do PDF</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translation>Eksportuj
+do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -9992,7 +10141,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation>Układ do czytania</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok</translatorcomment>
+        <translation>Układ do
+czytania</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -10071,7 +10222,9 @@ WordArt</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translation>Analiza warunkowa</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
+        <translation>Analiza
+warunkowa</translation>
     </message>
 </context>
 <context>
@@ -10906,7 +11059,8 @@ COM</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -11296,7 +11450,8 @@ COM</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Insert Page Break</source>
@@ -11334,7 +11489,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>Z lewej</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Edycja-&gt;Wypełnienie - tak jest ok jak w Excel</translatorcomment>
+        <translation>W lewo</translation>
     </message>
     <message>
         <source>Left Border</source>
@@ -11390,7 +11546,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Macro</source>
-        <translation>Makro</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Narzędzia - tak jest ok</translatorcomment>
+        <translation>Makra</translation>
     </message>
     <message>
         <source>Manage Credential</source>
@@ -11515,7 +11672,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -11843,7 +12001,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Security</source>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>Select</source>
@@ -12031,10 +12190,12 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
-        <translation>Rozpocznij układ do czytania</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Widok/Funkcje specjalne-&gt;Układ do czytania - tak jest ok</translatorcomment>
+        <translation>Uruchom układ do czytania</translation>
     </message>
     <message>
         <source>Stop Reading Layout</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Widok/Funkcje specjalne-&gt;Układ do czytania - tak jest ok</translatorcomment>
         <translation>Zatrzymaj układ do czytania</translation>
     </message>
     <message>
@@ -12239,7 +12400,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>Sprawdzanie poprawności</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność danych</translation>
     </message>
     <message>
         <source>Values</source>
@@ -12777,7 +12939,9 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Tabela przestawna</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok</translatorcomment>
+        <translation>Tabela
+przestawna</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -12849,10 +13013,12 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translation>Sprawdzanie poprawności</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność danych</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Analiza warunkowa</translation>
     </message>
 </context>
@@ -12946,11 +13112,13 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation>Zarejestruj makro</translation>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>Odwołania względne</translation>
+        <translation>Użyj odwołań 
+względnych</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -14180,10 +14348,12 @@ trygonometryczne</translation>
     <name>rainbow.ct_home</name>
     <message>
         <source>Above Average</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Powyżej średniej</translation>
     </message>
     <message>
         <source>Accounting</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Księgowe</translation>
     </message>
     <message>
@@ -14256,14 +14426,17 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Begin with</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Zaczyna się od</translation>
     </message>
     <message>
         <source>Below Average</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Poniżej średniej</translation>
     </message>
     <message>
         <source>Between</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Między</translation>
     </message>
     <message>
@@ -14272,10 +14445,12 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation>Ostatnie 10</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>10 ostatnich</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Ostatnie 10%</translation>
     </message>
     <message>
@@ -14494,6 +14669,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Contain</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Zawiera</translation>
     </message>
     <message>
@@ -14514,10 +14690,12 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Currency</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Walutowy</translation>
     </message>
     <message>
         <source>Custom</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Niestandardowe</translation>
     </message>
     <message>
@@ -14530,6 +14708,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Date</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Data</translation>
     </message>
     <message>
@@ -14566,6 +14745,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Does not contain</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Nie zawiera</translation>
     </message>
     <message>
@@ -14586,15 +14766,18 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Empty Cell</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Pusta komórka</translation>
     </message>
     <message>
         <source>End with</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Kończy się na</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation>Równa</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Równe</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -14602,6 +14785,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Error Value </source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość błędu </translation>
     </message>
     <message>
@@ -14638,7 +14822,8 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation>Format</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -14663,7 +14848,8 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>Większa niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -14691,6 +14877,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>W ciągu ostatnich 7 dni</translation>
     </message>
     <message>
@@ -14735,11 +14922,13 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>Ubiegły miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>Ubiegły tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
     </message>
     <message>
         <source>Left</source>
@@ -14751,7 +14940,8 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation>Mniejsza niż</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -14821,11 +15011,13 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation>Następny miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>Następny tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -14833,6 +15025,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Number</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Liczba</translation>
     </message>
     <message>
@@ -14898,6 +15091,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Series</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Seria</translation>
     </message>
     <message>
@@ -14919,6 +15113,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Special Value</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wartość specjalna</translation>
     </message>
     <message>
@@ -14955,26 +15150,32 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>Ten miesiąc</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym miesiącu</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>Ten tydzień</translation>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym tygodniu</translation>
     </message>
     <message>
         <source>Today</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Jutro</translation>
     </message>
     <message>
         <source>Top 10</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>10 pierwszych</translation>
     </message>
     <message>
         <source>Top 10 %</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Pierwsze 10%</translation>
     </message>
     <message>
@@ -15028,10 +15229,12 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Value</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartość</translation>
     </message>
     <message>
         <source>Values</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wartości</translation>
     </message>
     <message>
@@ -15044,6 +15247,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Weekend</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Weekend</translation>
     </message>
     <message>
@@ -15056,6 +15260,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Yesterday</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Wczoraj</translation>
     </message>
 </context>
@@ -15121,7 +15326,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>File Object</source>
-        <translation>Obiekt pliku</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obiekt z pliku</translation>
     </message>
     <message>
         <source>Forms</source>
@@ -15157,7 +15363,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
-        <translation>Wstaw obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz online</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -15192,7 +15399,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>Obraz w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz online</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -15204,7 +15412,9 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Tabela przestawna</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok</translatorcomment>
+        <translation>Tabela
+przestawna</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -15658,7 +15868,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Wstaw obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy online</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -15734,7 +15945,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Obrazy w trybie online</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -18422,10 +18634,12 @@ cienia</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
-        <translation>Rozpocznij układ do czytania</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uruchom układ do czytania</translation>
     </message>
     <message>
         <source>Stop Reading Layout</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zatrzymaj układ do czytania</translation>
     </message>
     <message>

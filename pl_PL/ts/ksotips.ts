@@ -221,12 +221,14 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="DescriptionDevelopmentTools.title">
         <source></source>
         <extracomment>DescriptionDevelopmentTools.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DescriptionDevelopmentTools.content">
         <source></source>
         <extracomment>DescriptionDevelopmentTools.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="CloseOtherWindow.title">
         <source>Close Other Windows</source>
@@ -331,7 +333,8 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="InsertPictureFromFile.title">
         <source>Insert Picture</source>
         <extracomment>InsertPictureFromFile.title</extracomment>
-        <translation>Wstaw obraz</translation>
+        <translatorcomment>Styl wstążki - Writer, Spreadsheet oraz Presentation-&gt;Wstaw - podpowiedź po najechaniu myszką na ikonkę Obrazy - tak jest ok</translatorcomment>
+        <translation>Wstaw obrazy</translation>
     </message>
     <message id="InsertPictureFromFile.content">
         <source>Insert a picture from local folder.</source>
@@ -451,12 +454,14 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSUserLoginCloudTextBtnTip.title">
         <source></source>
         <extracomment>KOSUserLoginCloudTextBtnTip.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="KOSUserLoginCloudTextBtnTip.content">
         <source></source>
         <extracomment>KOSUserLoginCloudTextBtnTip.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="KOSUserLoginCloudTip.title">
         <source>Sign In</source>
@@ -861,42 +866,50 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="InsertOnlinePictureFromFile.title">
         <source></source>
         <extracomment>InsertOnlinePictureFromFile.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Obrazy online</translation>
     </message>
     <message id="InsertOnlinePictureFromFile.content">
         <source></source>
         <extracomment>InsertOnlinePictureFromFile.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Umożliwia znalezienie i wstawienie obrazów z różnych źródeł online.</translation>
     </message>
     <message id="ChangeAutoShape.title">
         <source></source>
         <extracomment>ChangeAutoShape.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Zmień kształty</translation>
     </message>
     <message id="ChangeAutoShape.content">
         <source></source>
         <extracomment>ChangeAutoShape.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Umożliwia zmianę kształtu tego rysunku, przekonwertowanie go na dowolny kształt lub edycję punktów zawijania określających sposób zawijania tekstu wokół rysunku.</translation>
     </message>
     <message id="DataRecover.title">
         <source></source>
         <extracomment>DataRecover.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="DataRecover.content">
         <source></source>
         <extracomment>DataRecover.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="ScreenGrab.title">
         <source></source>
         <extracomment>ScreenGrab.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Zrzut ekranu</translation>
     </message>
     <message id="ScreenGrab.content">
         <source></source>
         <extracomment>ScreenGrab.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Umożliwia szybkie wstawienie do dokumentu obrazu dowolnego okna, które jest otwarte na pulpicie.</translation>
     </message>
     <message id="ExportToPDF.title">
         <source>Export to PDF</source>
@@ -911,13 +924,14 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="DocerURLEntranceTip.title">
         <source></source>
         <extracomment>DocerURLEntranceTip.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Docer</translation>
     </message>
     <message id="DocerURLEntranceTip.content">
         <source></source>
         <extracomment>DocerURLEntranceTip.content</extracomment>
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Rozdziel komórki</translation>
+        <translation>Umożliwia odwiedzenie zasobu szablonów dostępnych w sieci Web w celu uzyskania profesjonalnych szablonów prezentacji.</translation>
     </message>
     <message id="Protect_Eyes.title">
         <source>Eye Protection Mode</source>
@@ -1268,7 +1282,8 @@ Dane znajdujące się na osi X wykresu zostaną przeniesione na oś Y i odwrotni
     <message id="ChartElementFormat.title">
         <source>Format</source>
         <extracomment>ChartElementFormat.title</extracomment>
-        <translation>Format</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj</translation>
     </message>
     <message id="ChartElementFormat.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>

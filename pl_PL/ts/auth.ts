@@ -465,7 +465,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Personal Edition(Free)</source>
-        <translation>Personal Edition (Free)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Edycja dla użytkowników domowych Personal (Bezpłatna)</translation>
     </message>
     <message>
         <source>Includes 30-Day FREE Trial of WPS Office Business Edition. %1Get started &gt;&gt;%2.</source>
@@ -473,11 +474,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Did you purchase WPS Office?</source>
-        <translation>Zakupiłeś WPS Office?</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zakupiłeś już WPS Office?</translation>
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
-        <translation>Kliknij tutaj, aby %1Zaloguj%2 lub %3Wprowadź kod aktywacji%4.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kliknij tutaj, aby %1Zalogować się%2 lub %3Wprowadzić kod aktywacji%4.</translation>
     </message>
     <message>
         <source>Need Help?</source>
@@ -485,6 +488,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zawiera %1-dniowy darmowy okres próbny edycji WPS Office Business. %2Rozpocznij &gt;&gt;%3.</translation>
     </message>
 </context>
@@ -667,7 +671,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation>Aktualizuj do Personal</translation>
+        <translation>Uaktualnij do edycji Personal</translation>
     </message>
 </context>
 <context>
@@ -879,11 +883,13 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Upgrade to WPS Office Business Edition</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Uaktualnij do edycji WPS Office Business</translation>
     </message>
     <message>
         <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
-        <translation>Aby korzystać z funkcji premium, takich jak VBA, można uaktualnić do edycji WPS Office Business. Kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Aby korzystać z funkcji Premium, takich jak VBA, można uaktualnić do edycji WPS Office Business. Kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji.</translation>
     </message>
     <message>
         <source>Buy</source>

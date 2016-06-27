@@ -127,7 +127,7 @@
     <message id="AlignStyle.title">
         <source>Alignment</source>
         <extracomment>AlignStyle.title</extracomment>
-        <translation type="unfinished">Wyrównanie</translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message id="AlignStyle.content">
         <source>Specify how content in the cell should be aligned.</source>
@@ -245,7 +245,7 @@ Cały tekst zostanie umieszczony w wybranym polu tekstowym.</translation>
     <message id="Bullets.title">
         <source>Bullets</source>
         <extracomment>Bullets.title</extracomment>
-        <translation type="unfinished">Punktory</translation>
+        <translation>Punktory</translation>
     </message>
     <message id="Bullets.content">
         <source>Start a bulleted list.
@@ -313,7 +313,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="ChangeTextDirection.title">
         <source>Text Direction</source>
         <extracomment>ChangeTextDirection.title</extracomment>
-        <translation type="unfinished">Kierunek tekstu</translation>
+        <translation>Kierunek tekstu</translation>
     </message>
     <message id="ChangeTextDirection.content">
         <source>Customize the text layout direction in the current section, the whole document, or the selected text box or table.</source>
@@ -383,7 +383,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="CloseHeaderAndFooter.title">
         <source>Close</source>
         <extracomment>CloseHeaderAndFooter.title</extracomment>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message id="CloseHeaderAndFooter.content">
         <source>Close Header and Footer Tools and return to editing the document.</source>
@@ -393,7 +393,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="CloseMail.title">
         <source>Close</source>
         <extracomment>CloseMail.title</extracomment>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message id="CloseMail.content">
         <source>Click here to hide Mailings tab.</source>
@@ -403,7 +403,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="CloseOutlineview.title">
         <source>Close</source>
         <extracomment>CloseOutlineview.title</extracomment>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message id="CloseOutlineview.content">
         <source>Close Outline View and return to editing the document.</source>
@@ -413,7 +413,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="ClosePreview.title">
         <source>Close</source>
         <extracomment>ClosePreview.title</extracomment>
-        <translation type="unfinished">Zamknij</translation>
+        <translation>Zamknij</translation>
     </message>
     <message id="ClosePreview.content">
         <source>Close Print Preview and return to editing the document.</source>
@@ -563,7 +563,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -573,7 +573,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font, paragraph, and styles and formatting.</source>
@@ -583,7 +583,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_PageLayout.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PageLayout.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_PageLayout.content">
         <source>Change the settings of page setup and paragraph.</source>
@@ -593,7 +593,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_Paragraph.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Paragraph.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_Paragraph.content">
         <source>Change the settings of paragraph, page setup, and styles and formatting.</source>
@@ -603,7 +603,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
@@ -613,7 +613,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="DetailedSettings_Section.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Section.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_Section.content">
         <source>Change the settings of page setup, and header and footer.</source>
@@ -825,7 +825,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Zmieniania wielk
     <message id="FillColor.title">
         <source>Shape Fill</source>
         <extracomment>FillColor.title</extracomment>
-        <translation type="unfinished">Wypełnienie kształtu</translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message id="FillColor.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -849,7 +849,7 @@ Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     <message id="Find.title">
         <source>Find</source>
         <extracomment>Find.title</extracomment>
-        <translation type="unfinished">Znajdź</translation>
+        <translation>Znajdź</translation>
     </message>
     <message id="Find.content">
         <source>Find text in the document.
@@ -903,7 +903,7 @@ Kliknij strzałkę, aby wybrać inne opcje, takie jak Przejdź do.</translation>
     <message id="FontColor.title">
         <source>Text Color</source>
         <extracomment>FontColor.title</extracomment>
-        <translation type="unfinished">Kolor tekstu</translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message id="FontColor.content">
         <source>Change the text color.
@@ -917,7 +917,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FontColor2.title">
         <source>Text Color</source>
         <extracomment>FontColor2.title</extracomment>
-        <translation type="unfinished">Kolor tekstu</translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message id="FontColor2.content">
         <source>Click the arrow to choose a different text color.</source>
@@ -937,7 +937,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignCenter.title">
         <source>Center</source>
         <extracomment>FormatAlignCenter.title</extracomment>
-        <translation>Do środka</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Word</translatorcomment>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message id="FormatAlignCenter.content">
         <source>Center text.</source>
@@ -947,7 +948,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignDistributed.title">
         <source>Distributed</source>
         <extracomment>FormatAlignDistributed.title</extracomment>
-        <translation>Rozłożone</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Rozłożony</translation>
     </message>
     <message id="FormatAlignDistributed.content">
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
@@ -967,7 +969,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>FormatAlignLeft.title</extracomment>
-        <translation>Wyrównaj tekst do lewej</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Word</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message id="FormatAlignLeft.content">
         <source>Align text to the left.</source>
@@ -977,7 +980,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignRight.title">
         <source>Align Text Right</source>
         <extracomment>FormatAlignRight.title</extracomment>
-        <translation>Wyrównaj tekst do prawej</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w Word</translatorcomment>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message id="FormatAlignRight.content">
         <source>Align text to the right.</source>
@@ -1035,7 +1039,8 @@ Galeria WPS źródeł Online wymaga połączenia internetowego.</translation>
     <message id="GenkoSetting.title">
         <source>Genko Setting</source>
         <extracomment>GenkoSetting.title</extracomment>
-        <translation>Ustawienie Genko</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia Genko</translation>
     </message>
     <message id="GenkoSetting.content">
         <source>Apply Genko settings to the current document.</source>
@@ -1149,7 +1154,7 @@ Wpływa to tylko na tabele wykraczające poza pojedynczą stronę.</translation>
     <message id="HeaderAndFooterSetting.title">
         <source>Header and Footer</source>
         <extracomment>HeaderAndFooterSetting.title</extracomment>
-        <translation type="unfinished">Nagłówek i stopka</translation>
+        <translation>Nagłówek i stopka</translation>
     </message>
     <message id="HeaderAndFooterSetting.content">
         <source>Show the Header and Footer dialog box.</source>
@@ -1403,6 +1408,7 @@ Po zamknieciu programu WPS Spreadsheets, wykres w dokumencie można nadal normal
     <message id="InsertFileObject.title">
         <source>Insert Object from File</source>
         <extracomment>InsertFileObject.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wstaw obiekt z pliku</translation>
     </message>
     <message id="InsertFileObject.content">
@@ -1448,7 +1454,8 @@ Ustaw poziom spisu treści dla zaznaczonego akapitu i dodaj spis treści.</trans
     <message id="InsertMergeFields.title">
         <source>Insert Merge Field</source>
         <extracomment>InsertMergeFields.title</extracomment>
-        <translation>Wstaw pole korespondencji seryjnej</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw pola korespondencji seryjnej</translation>
     </message>
     <message id="InsertMergeFields.content">
         <source>Insert any field from your recipient list to the document, such as &quot;Last Name&quot;, &quot;Nick Name&quot;, &quot;Company Name&quot;, &quot;Department Name&quot; or &quot;Position&quot;.</source>
@@ -1482,7 +1489,7 @@ Ukośne linie w nagłówkach tabeli mogą być przenoszone.</translation>
     <message id="InsertObject.title">
         <source>Insert Object</source>
         <extracomment>InsertObject.title</extracomment>
-        <translation type="unfinished">Wstaw obiekt</translation>
+        <translation>Wstaw obiekt</translation>
     </message>
     <message id="InsertObject.content">
         <source>Insert an embedded object into the document.
@@ -1526,7 +1533,7 @@ Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     <message id="InsertPictureFromFile2.title">
         <source>Insert Picture</source>
         <extracomment>InsertPictureFromFile2.title</extracomment>
-        <translation>Wstaw obraz</translation>
+        <translation>Wstaw obrazy</translation>
     </message>
     <message id="InsertPictureFromFile2.content">
         <source>Click here to insert a picture in local folder or from a scanner.</source>
@@ -1646,7 +1653,7 @@ Kliknij strzałkę, aby wstawić zawartość pliku do dokumentu.</translation>
     <message id="LineColor.title">
         <source>Shape Outline</source>
         <extracomment>LineColor.title</extracomment>
-        <translation type="unfinished">Kontur kształtu</translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message id="LineColor.content">
         <source>Set the color, width, and line style for the outline of the selected shape.
@@ -1670,12 +1677,12 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="LineSpacingShow.title">
         <source>Line Spacing</source>
         <extracomment>LineSpacingShow.title</extracomment>
-        <translation type="unfinished">Interlinia</translation>
+        <translation>Interlinia</translation>
     </message>
     <message id="LineSpacingShow.content">
         <source>Change the spacing between lines of text.</source>
         <extracomment>LineSpacingShow.content</extracomment>
-        <translation type="unfinished">Umożliwia zmianę odstępów między wierszami tekstu.</translation>
+        <translation>Umożliwia zmianę odstępów między wierszami tekstu.</translation>
     </message>
     <message id="LinktoPreviousHeader.title">
         <source>Link to Previous</source>
@@ -1724,7 +1731,8 @@ Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     <message id="Macro.title">
         <source>View Macros</source>
         <extracomment>Macro.title</extracomment>
-        <translation type="unfinished">Wyświetl makra</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyświetl makra</translation>
     </message>
     <message id="Macro.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create or delete a macro.</source>
@@ -1734,7 +1742,8 @@ Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     <message id="Macro2.title">
         <source>View Macros</source>
         <extracomment>Macro2.title</extracomment>
-        <translation type="unfinished">Wyświetl makra</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyświetl makra</translation>
     </message>
     <message id="Macro2.content">
         <source>View the list of macros, from which you can run, create or delete a macro.</source>
@@ -2140,7 +2149,7 @@ Kliknij strzałkę, aby wybrać opcje Zmieniania wielkości liter, Załączania 
     <message id="PhoneticGuide2.title">
         <source>Other Options</source>
         <extracomment>PhoneticGuide2.title</extracomment>
-        <translation type="unfinished">Inne opcje</translation>
+        <translation>Inne opcje</translation>
     </message>
     <message id="PhoneticGuide2.content">
         <source>Click the arrow to choose Phonetic Guide, Change Case, Enclose Characters or Character Border options.</source>
@@ -2240,7 +2249,8 @@ Kliknij strzałkę, aby wybrać opcje Zmieniania wielkości liter, Załączania 
     <message id="PrintPreviewZoomCombo.title">
         <source>Zoom</source>
         <extracomment>PrintPreviewZoomCombo.title</extracomment>
-        <translation type="unfinished">Powiększenie</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message id="PrintPreviewZoomCombo.content">
         <source>Select the zoom size of the current document.</source>
@@ -2250,12 +2260,12 @@ Kliknij strzałkę, aby wybrać opcje Zmieniania wielkości liter, Załączania 
     <message id="PrintShowViewRuler.title">
         <source>Ruler</source>
         <extracomment>PrintShowViewRuler.title</extracomment>
-        <translation type="unfinished">Linijka</translation>
+        <translation>Linijka</translation>
     </message>
     <message id="PrintShowViewRuler.content">
         <source>Show or hide the rulers, used to measure and line up objects in the document.</source>
         <extracomment>PrintShowViewRuler.content</extracomment>
-        <translation type="unfinished">Umożliwia wyświetlenie lub ukrycie linijek służących do mierzenia i wyrównywania obiektów w dokumencie.</translation>
+        <translation>Umożliwia wyświetlenie lub ukrycie linijek służących do mierzenia i wyrównywania obiektów w dokumencie.</translation>
     </message>
     <message id="PromoteOnOutlining.title">
         <source>Promote</source>
@@ -2340,7 +2350,7 @@ Kliknij strzałkę, aby wybrać opcje Zmieniania wielkości liter, Załączania 
     <message id="RbTableOutsideBorder.title">
         <source>Outside Borders</source>
         <extracomment>RbTableOutsideBorder.title</extracomment>
-        <translation type="unfinished">Krawędzie zewnętrzne</translation>
+        <translation>Krawędzie zewnętrzne</translation>
     </message>
     <message id="RbTableOutsideBorder.content">
         <source>Customize the borders of the selected cells or text.</source>
@@ -2374,7 +2384,7 @@ Wyniki zostaną wyświetlone w następnej komórce po zaznaczonych komórach w t
     <message id="RecentFontColor.title">
         <source>Text Color</source>
         <extracomment>RecentFontColor.title</extracomment>
-        <translation type="unfinished">Kolor tekstu</translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message id="RecentFontColor.content">
         <source>Change the text color.
@@ -2546,27 +2556,31 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="ReviewPaneTip.title">
         <source></source>
         <extracomment>ReviewPaneTip.title</extracomment>
-        <translation type="unfinished">Rozdziel komórki</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message id="ReviewPaneTip.content">
         <source></source>
         <extracomment>ReviewPaneTip.content</extracomment>
-        <translation type="unfinished">Rozdziel komórki</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Umożliwia pokazanie listy wszystkich zmian w dokumencie.</translation>
     </message>
     <message id="ReviewPaneTip2.title">
         <source></source>
         <extracomment>ReviewPaneTip2.title</extracomment>
-        <translation type="unfinished">Rozdziel komórki</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Okienko recenzowania</translation>
     </message>
     <message id="ReviewPaneTip2.content">
         <source></source>
         <extracomment>ReviewPaneTip2.content</extracomment>
-        <translation>Rozdziel komórki</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Kliknij strzałkę, aby określić, czy zmiany będą pokazywane poniżej dokumentu, czy obok niego.</translation>
     </message>
     <message id="Ruler.title">
         <source>Ruler</source>
         <extracomment>Ruler.title</extracomment>
-        <translation type="unfinished">Linijka</translation>
+        <translation>Linijka</translation>
     </message>
     <message id="Ruler.content">
         <source>Show or hide the rulers, used to measure and line up objects in the document.</source>
@@ -2598,7 +2612,8 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="Security.title">
         <source>Macros Security</source>
         <extracomment>Security.title</extracomment>
-        <translation>Zabezpieczenia makr</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper-&gt;Bezpieczeństwo makr - podpowiedź po najechaniu myszką - tak jest ok jak w Word</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message id="Security.content">
         <source>Customize the macro security settings.</source>
@@ -2618,7 +2633,8 @@ Można zapobiec wprowadzaniu zmian formatowania, wymusić śledzenie wszystkich 
     <message id="Separator.title">
         <source>Show Footnote/Endnote Separator</source>
         <extracomment>Separator.title</extracomment>
-        <translation>Pokaż separator Przypisów dolnych/Przypisów końcowych</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż separator przypisów dolnych i końcowych</translation>
     </message>
     <message id="Separator.content">
         <source>Show or hide the footnote/endnote separator at the bottom of the document with footnote/endnote inserted.</source>
@@ -2856,7 +2872,7 @@ Kliknij strzałkę, aby dodać znacznik wyróżnienia.</translation>
     <message id="Strikethought2.title">
         <source>Other Options</source>
         <extracomment>Strikethought2.title</extracomment>
-        <translation type="unfinished">Inne opcje</translation>
+        <translation>Inne opcje</translation>
     </message>
     <message id="Strikethought2.content">
         <source>Click the arrow to add a strikethrough or an emphasis mark.</source>
@@ -3000,7 +3016,7 @@ Kliknij strzałkę, aby wybrać inne kolory obramowania.</translation>
     <message id="TableShadingColor.title">
         <source>Shading</source>
         <extracomment>TableShadingColor.title</extracomment>
-        <translation type="unfinished">Cieniowanie</translation>
+        <translation>Cieniowanie</translation>
     </message>
     <message id="TableShadingColor.content">
         <source>Color the background behind the selected text or paragraph.
@@ -3104,7 +3120,7 @@ Kliknij strzałkę, aby wybrać inne kolory cieniowania.</translation>
     <message id="TrackChanges.title">
         <source>Track Changes</source>
         <extracomment>TrackChanges.title</extracomment>
-        <translation type="unfinished">Śledź zmiany</translation>
+        <translation>Śledź zmiany</translation>
     </message>
     <message id="TrackChanges.content">
         <source>Track all changes made to the document, including insertions, deletions and formatting changes.</source>
@@ -3134,7 +3150,7 @@ Kliknij strzałkę, aby wybrać inne kolory cieniowania.</translation>
     <message id="Underline.title">
         <source>Underline</source>
         <extracomment>Underline.title</extracomment>
-        <translation type="unfinished">Podkreślenie</translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message id="Underline.content">
         <source>Underline the selected text.
@@ -3270,7 +3286,8 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="Zoom.title">
         <source>Zoom</source>
         <extracomment>Zoom.title</extracomment>
-        <translation>Powiększenie</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Powiększ - podpowiedź po najechaniu myszką - tak jest ok jak w Word</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message id="Zoom.content">
         <source>Show the Zoom dialog box to specify the zoom level of the document.</source>
@@ -3441,7 +3458,7 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="sp_DeleteComment.title">
         <source>Delete Comment</source>
         <extracomment>sp_DeleteComment.title</extracomment>
-        <translation type="unfinished">Usuń komentarz</translation>
+        <translation>Usuń komentarz</translation>
     </message>
     <message id="sp_DeleteComment.content">
         <source>Delete the selected comment.</source>
@@ -3461,7 +3478,7 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     <message id="sp_Paste.title">
         <source>Paste</source>
         <extracomment>sp_Paste.title</extracomment>
-        <translation type="unfinished">Wklej</translation>
+        <translation>Wklej</translation>
     </message>
     <message id="sp_Paste.content">
         <source>Paste the contents of the Clipboard.</source>
@@ -3499,7 +3516,8 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     </message>
     <message id="XmlStructure.title">
         <source>Structure</source>
-        <translation>Struktura</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Struktura XML</translation>
     </message>
     <message id="XmlStructure.content">
         <source>Open the XML Structure task pane.</source>
@@ -3507,7 +3525,8 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     </message>
     <message id="XmlSchema.title">
         <source>Schema</source>
-        <translation>Schemat</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Schemat XML</translation>
     </message>
     <message id="XmlSchema.content">
         <source>Manage the XML schema attached to this document or add a new schema.</source>
@@ -3515,7 +3534,8 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     </message>
     <message id="XmlExpansionPacksWord.title">
         <source>Expansion Pack</source>
-        <translation>Pakiet rozszerzenia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pakiety rozszerzeń XML</translation>
     </message>
     <message id="XmlExpansionPacksWord.content">
         <source>Manage the XML expansion packs attached to this document, or attach a new expansion pack.</source>
@@ -3554,12 +3574,12 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
     </message>
     <message id="WrapText.title">
         <source></source>
-        <translation type="unfinished">Rozdziel komórki</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WrapText.content">
         <source></source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Rozdziel komórki</translation>
+        <translation>pozostawić puste - tak jest ok - wyjaśnione z producentem</translation>
     </message>
     <message id="ContentControlRichText.title">
         <source>Rich Text Content Control</source>

@@ -1637,7 +1637,8 @@ Tekst podstawowy: Wątek</translation>
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>WP_SaveFailureLocked</comment>
-        <translation>Dokument został zablokowany przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został zablokowany do edycji przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -2598,7 +2599,8 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
         <source>Document has been locked by %s, Do you want to open it as read-only?
 (%s)</source>
         <comment>WP_SaveFailureLockedByUser</comment>
-        <translation>Dokument został zablokowany przez %s. Czy chcesz go otworzyć w trybie tylko do odczytu?
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został zablokowany do edycji przez użytkownika &quot;%s&quot;. Czy chcesz go otworzyć w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -5123,7 +5125,8 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
     <message>
         <source>Set up Show</source>
         <comment>wpp_sCustomSlideShowAndKey</comment>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przygotuj pokaz slajdów</translation>
     </message>
     <message>
         <source> (Default)</source>
@@ -6561,7 +6564,8 @@ slajdu</translation>
     <message>
         <source>Set Up Show</source>
         <comment>WpSETUPSHOW</comment>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przygotuj pokaz slajdów</translation>
     </message>
     <message>
         <source>Action Settings</source>

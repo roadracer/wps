@@ -7,7 +7,8 @@
     <message id="ActionSetting.title">
         <source>Action Settings</source>
         <extracomment>ActionSetting.title</extracomment>
-        <translation>Ustawienia akcji</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Akcja - podpowiedź po najechaniu myszką - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Akcja</translation>
     </message>
     <message id="ActionSetting.content">
         <source>Add an action to the selected object to specify what should happen when you click on it or hover over it with your mouse.</source>
@@ -97,7 +98,8 @@
     <message id="ArrangeAll.title">
         <source>Arrange All</source>
         <extracomment>ArrangeAll.title</extracomment>
-        <translation>Rozmieść wszystko</translation>
+        <translatorcomment>tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Rozmieść wszystkie</translation>
     </message>
     <message id="ArrangeAll.content">
         <source>Tile all open documents side-by-side under the same program window.</source>
@@ -241,7 +243,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="CustomShows.title">
         <source>Custom Slide Shows</source>
         <extracomment>CustomShows.title</extracomment>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message id="CustomShows.content">
         <source>A custom slide show displays only the slides you select.</source>
@@ -321,7 +323,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -331,7 +333,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font.</source>
@@ -341,7 +343,7 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
@@ -401,7 +403,8 @@ Kliknij strzałkę, aby wybrać inne style punktorów.</translation>
     <message id="Distributed.title">
         <source>Distributed</source>
         <extracomment>Distributed.title</extracomment>
-        <translation>Rozłożone</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Rozłożony</translation>
     </message>
     <message id="Distributed.content">
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
@@ -571,32 +574,35 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FormatAlignCenter.title">
         <source>Center</source>
         <extracomment>FormatAlignCenter.title</extracomment>
-        <translation type="unfinished">Wyśrodkuj</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyśrodkowany</translation>
     </message>
     <message id="FormatAlignCenter.content">
         <source>Center text.</source>
         <extracomment>FormatAlignCenter.content</extracomment>
-        <translation type="unfinished">Umożliwia wyśrodkowywanie tekstu.</translation>
+        <translation>Umożliwia wyśrodkowywanie tekstu.</translation>
     </message>
     <message id="FormatAlignLeft.title">
         <source>Align Text Left</source>
         <extracomment>FormatAlignLeft.title</extracomment>
-        <translation type="unfinished">Wyrównaj tekst do lewej</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
     </message>
     <message id="FormatAlignLeft.content">
         <source>Align text to the left.</source>
         <extracomment>FormatAlignLeft.content</extracomment>
-        <translation type="unfinished">Umożliwia wyrównanie tekstu do lewej.</translation>
+        <translation>Umożliwia wyrównanie tekstu do lewej.</translation>
     </message>
     <message id="FormatAlignRight.title">
         <source>Align Text Right</source>
         <extracomment>FormatAlignRight.title</extracomment>
-        <translation type="unfinished">Wyrównaj tekst do prawej</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - podpowiedź po najechaniu myszką - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyrównaj do prawej</translation>
     </message>
     <message id="FormatAlignRight.content">
         <source>Align text to the right.</source>
         <extracomment>FormatAlignRight.content</extracomment>
-        <translation type="unfinished">Umożliwia wyrównanie tekstu do prawej.</translation>
+        <translation>Umożliwia wyrównanie tekstu do prawej.</translation>
     </message>
     <message id="FormatObject.title">
         <source>Format Object</source>
@@ -775,6 +781,7 @@ Po zamknieciu programu WPS Spreadsheets, wykres w dokumencie można nadal normal
     <message id="InsertFileObject.title">
         <source>Insert Object from File</source>
         <extracomment>InsertFileObject.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wstaw obiekt z pliku</translation>
     </message>
     <message id="InsertFileObject.content">
@@ -1084,7 +1091,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="Paragraph1.title">
         <source>Alignment</source>
         <extracomment>Paragraph1.title</extracomment>
-        <translation type="unfinished">Wyrównanie</translation>
+        <translation>Wyrównanie</translation>
     </message>
     <message id="Paragraph1.content">
         <source>Click the arrow to select a different alignment.</source>
@@ -1104,7 +1111,7 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="Paste.title">
         <source>Paste</source>
         <extracomment>Paste.title</extracomment>
-        <translation type="unfinished">Wklej</translation>
+        <translation>Wklej</translation>
     </message>
     <message id="Paste.content">
         <source>Paste the contents of the Clipboard.</source>
@@ -1383,7 +1390,7 @@ Czas wyświetlania każdego slajdu jest rejestrowany. Można zapisać te chronom
     <message id="RunMacro.title">
         <source>View Macros</source>
         <extracomment>RunMacro.title</extracomment>
-        <translation type="unfinished">Wyświetl makra</translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message id="RunMacro.content">
         <source>Show the Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -1393,7 +1400,8 @@ Czas wyświetlania każdego slajdu jest rejestrowany. Można zapisać te chronom
     <message id="SaveBackgroundPicture.title">
         <source>Save Background Picture</source>
         <extracomment>SaveBackgroundPicture.title</extracomment>
-        <translation>Zapisz obraz tła</translation>
+        <translatorcomment>tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Zapisz tło</translation>
     </message>
     <message id="SaveBackgroundPicture.content">
         <source>Save slide&apos;s background as picture.</source>
@@ -1433,6 +1441,7 @@ Czas wyświetlania każdego slajdu jest rejestrowany. Można zapisać te chronom
     <message id="SetUpShow.title">
         <source>Set Up Slide Show</source>
         <extracomment>SetUpShow.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przygotuj pokaz slajdów</translation>
     </message>
     <message id="SetUpShow.content">
@@ -1463,7 +1472,7 @@ Czas wyświetlania każdego slajdu jest rejestrowany. Można zapisać te chronom
     <message id="ShapeFill.title">
         <source>Shape Fill</source>
         <extracomment>ShapeFill.title</extracomment>
-        <translation type="unfinished">Wypełnienie kształtu</translation>
+        <translation>Wypełnienie kształtu</translation>
     </message>
     <message id="ShapeFill.content">
         <source>Fill the selected shape with a solid color, gradient, picture, or texture.
@@ -1487,7 +1496,7 @@ Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
     <message id="ShapeLine.title">
         <source>Shape Outline</source>
         <extracomment>ShapeLine.title</extracomment>
-        <translation type="unfinished">Kontur kształtu</translation>
+        <translation>Kontur kształtu</translation>
     </message>
     <message id="ShapeLine.content">
         <source>Set the color, width and line style for the outline of the selected object.
@@ -1845,7 +1854,7 @@ Jeśli chcesz robić notatki bez wychodzenia z pokazu slajdów, kliknij prawym p
     <message id="TextFontColor.title">
         <source>Text Color</source>
         <extracomment>TextFontColor.title</extracomment>
-        <translation type="unfinished">Kolor tekstu</translation>
+        <translation>Kolor tekstu</translation>
     </message>
     <message id="TextFontColor.content">
         <source>Set the text color.
@@ -2049,11 +2058,13 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="Zoom.title">
         <source>Zoom</source>
         <extracomment>Zoom.title</extracomment>
-        <translation type="unfinished">Powiększenie</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Powiększ - podpowiedź po najechaniu myszką - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message id="Zoom.content">
         <source>Show the Zoom dialog box to specify the zoom level of the document.</source>
         <extracomment>Zoom.content</extracomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok-&gt;Powiększ - podpowiedź po najechaniu myszką</translatorcomment>
         <translation>Umożliwia wyświetlenie okna dialogowego Powiększenie w celu określenia poziomu powiększenia dokumentu.</translation>
     </message>
     <message id="ZoomCombo.title">
@@ -2079,7 +2090,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="sp_Macros.title">
         <source>View Macros</source>
         <extracomment>sp_Macros.title</extracomment>
-        <translation type="unfinished">Wyświetl makra</translation>
+        <translation>Wyświetl makra</translation>
     </message>
     <message id="sp_Macros.content">
         <source>Show Macros dialog box. View the list of macros, from which you can run, create, or delete a macro.</source>
@@ -2109,22 +2120,26 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="SlideLibrary.title">
         <source></source>
         <extracomment>SlideLibrary.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="SlideLibrary.content">
         <source></source>
         <extracomment>SlideLibrary.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="InsertOnlinePicture.title">
         <source></source>
         <extracomment>InsertOnlinePicture.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="InsertOnlinePicture.content">
         <source></source>
         <extracomment>InsertOnlinePicture.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="cellphoneControl.title">
         <source>Cellphone Control</source>
@@ -2139,66 +2154,79 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="SlideSize.title">
         <source></source>
         <extracomment>SlideSize.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="SlideSize.content">
         <source></source>
         <extracomment>SlideSize.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WpsAssistOnlineTemplate.title">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WpsAssistOnlineTemplate.content">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WpsAssistMagic.title">
         <source></source>
         <extracomment>WpsAssistMagic.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="WpsAssistMagic.content">
         <source></source>
         <extracomment>WpsAssistMagic.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="importtemplates.title">
         <source></source>
         <extracomment>importtemplates.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Importuj szablony</translation>
     </message>
     <message id="importtemplates.content">
         <source></source>
         <extracomment>importtemplates.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Umożliwia zaimportowanie szablonów lokalnych.</translation>
     </message>
     <message id="InvolvedTemplate.title">
         <source></source>
         <extracomment>InvolvedTemplate.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="InvolvedTemplate.content">
         <source></source>
         <extracomment>InvolvedTemplate.content</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>pozostawić puste - tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation></translation>
     </message>
     <message id="wpp2doc.title">
         <source></source>
         <extracomment>wpp2doc.title</extracomment>
-        <translation type="unfinished">Anuluj scalanie.tytuł</translation>
+        <translatorcomment>tak jest ok - wyjasnione z producentem</translatorcomment>
+        <translation>Konwertuj do Word/WPS Writer</translation>
     </message>
     <message id="wpp2doc.content">
         <source></source>
         <extracomment>wpp2doc.content</extracomment>
-        <translation>Rozdziel komórki</translation>
+        <translatorcomment>tak jest ok - wyjasnione z producentem</translatorcomment>
+        <translation>Umożliwia konwersję pliku prezentacji do dokumentu programu Word oraz WPS Writer.</translation>
     </message>
     <message id="presentationTool.title">
         <source>Presentation Tool</source>
         <extracomment>presentationTool.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Narzędzia prezentacji</translation>
     </message>
     <message id="presentationTool.content">
@@ -2346,7 +2374,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="HeaderPlaceHolder.title">
         <source></source>
         <extracomment>HeaderPlaceHolder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Nagłówek</translation>
     </message>
     <message id="HeaderPlaceHolder.content">
         <source>Include the header in the printed handouts or notes.</source>
@@ -2356,7 +2385,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="DataPlaceHolder.title">
         <source></source>
         <extracomment>DataPlaceHolder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Data</translation>
     </message>
     <message id="DataPlaceHolder.content">
         <source>Include the date in the printed handouts or notes.</source>
@@ -2366,7 +2396,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FooterPlaceHolder.title">
         <source></source>
         <extracomment>FooterPlaceHolder.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
+        <translation>Stopka</translation>
     </message>
     <message id="FooterPlaceHolder.content">
         <source>Include the footer in the printed handouts or notes.</source>
@@ -2377,7 +2408,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <source></source>
         <extracomment>PageNumber.title</extracomment>
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Rozdziel komórki</translation>
+        <translation>Strona</translation>
     </message>
     <message id="PageNumber.content">
         <source>Include the page number in the printed handouts or notes.</source>

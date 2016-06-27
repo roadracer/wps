@@ -373,7 +373,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS Office provides you with a platform to install plug-ins, so that you can easily install and use kinds of extended plug-ins. If this platform caused inconvenience to your work, you can choose whether to enable it.</source>
-        <translation>WPS Office udostępnia platformę do instalacji dodatków typu plug-in, dzięki czemu można łatwo zainstalować i używać rodzaje rozszerzonych dodatków typu plug-in. Jeśli ta platforma spowodowałaby niedogodności dla twojej pracy, możesz wybrać czy chcesz ją włączyć.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>WPS Office udostępnia platformę do instalacji dodatków typu plug-in, dzięki czemu można łatwo zainstalować i używać  wszelkiego rodzaju rozszerzonych dodatków typu plug-in. Jeśli ta platforma spowodowałaby niedogodności podczas pracy, możesz wybrać czy chcesz ją włączyć.</translation>
     </message>
     <message>
         <source>&amp;Enable plug-in platform</source>

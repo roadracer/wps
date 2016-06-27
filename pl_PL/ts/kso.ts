@@ -8970,7 +8970,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>WPS Office Business Version</source>
         <comment>_kso_ksoProductName_TRADE_CHN</comment>
-        <translation>Wersja WPS Office Business</translation>
+        <translation>Edycja WPS Office Business</translation>
     </message>
     <message>
         <source>Office Files</source>

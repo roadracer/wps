@@ -3423,7 +3423,8 @@ Please make sure the file is not locked by another user, or the target disk is n
         <source>Document has been locked by another application. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation>Dokument został zablokowany przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został zablokowany do edycji przez inną aplikację. Czy chcesz go otworzyć w trybie tylko do odczytu?
 (%s)</translation>
     </message>
     <message>
@@ -3665,7 +3666,8 @@ Ta kopia zapasowa zostanie zapisana do (%s)</translation>
         <source>Document has been locked by %s. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation>Dokument został zablokowany przez %s. Czy chcesz go otworzyć w trybie tylko do odczytu?
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został zablokowany do edycji przez użytkownika &quot;%s&quot;. Czy chcesz go otworzyć w trybie tylko do odczytu?
 (%s)</translation>
     </message>
 </context>
@@ -7103,12 +7105,16 @@ pisowni</translation>
     <message>
         <source>Stop Recording</source>
         <comment>TXWps_RecordMacro_Stop</comment>
-        <translation>Zatrzymaj rejestrowanie</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - Styl klasyczny-&gt;Narzędzia-&gt;Makra tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Zatrzymaj 
+rejestrowanie</translation>
     </message>
     <message>
         <source>Record Macro</source>
         <comment>TXWps_RecordMacro_Start</comment>
-        <translation>Zarejestruj makro</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - Styl klasyczny-&gt;Narzędzia-&gt;Makra tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
+        <translation>Zarejestruj 
+makro</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
