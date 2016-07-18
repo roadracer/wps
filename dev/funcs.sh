@@ -30,7 +30,7 @@ function root_install_path()
 	for path in ${_PAHTS} ; do
 		if [ -e "${path}/mui" ] ; then
 			echo "${path}/mui"
-			break
+			return
 		fi
 	done
 
