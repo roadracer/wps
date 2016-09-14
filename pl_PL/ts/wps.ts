@@ -4335,6 +4335,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>By restricting formatting to the styles you select,you prevent the ability to modify styles and the ability to apply direct formatting to the document.Select the styles you want to allow to be used in this document.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Ograniczenie formatowania do zaznaczonych stylów powoduje, że nie można modyfikować stylów ani stosować bezpośredniego formatowania do dokumentu. Zaznacz style, których użycie w tym dokumencie będzie dozwolone.</translation>
     </message>
     <message>
@@ -4534,10 +4535,12 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Surround &amp;header</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Otaczanie &amp;nagłówka</translation>
     </message>
     <message>
         <source>Surround &amp;footer</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Otaczanie &amp;stopki</translation>
     </message>
 </context>
@@ -5603,7 +5606,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Matching the current format</source>
-        <translation>Dopasowanie do bieżącego formatu</translation>
+        <translatorcomment>Writer-&gt;Opcje-&gt;Edytuj-&gt;Domyślne wklejanie formatu - tak jest ok</translatorcomment>
+        <translation>Dopasuj do bieżącego formatu</translation>
     </message>
     <message>
         <source>General and Save</source>
@@ -11957,7 +11961,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsBookFormatDlg</name>
     <message>
         <source>Header and Footer Settings</source>
-        <translation>Ustawienia nagłówka i stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia nagłówków i stopek</translation>
     </message>
 </context>
 <context>
@@ -12709,10 +12714,12 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Surround &amp;header</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Otaczanie &amp;nagłówka</translation>
     </message>
     <message>
         <source>Surround &amp;footer</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Otaczanie &amp;stopki</translation>
     </message>
 </context>

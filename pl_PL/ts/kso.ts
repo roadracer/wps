@@ -8970,7 +8970,7 @@ Możesz kliknąć przycisk, aby odzyskać pliki, nad którymi pracujesz.</transl
     <message>
         <source>WPS Office Business Version</source>
         <comment>_kso_ksoProductName_TRADE_CHN</comment>
-        <translation>Edycja WPS Office Business</translation>
+        <translation>Wersja Business pakietu WPS Office</translation>
     </message>
     <message>
         <source>Office Files</source>
@@ -9498,9 +9498,10 @@ Aby korzystać z tej funkcji, musisz najpierw zainstalować klienta usług zarz�
 1. Try changing to another user account to open the document;
 2. Request permission update from %1.</source>
         <comment>_kso_irmio_Error_No_Permission</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Uprawnienia do tego dokumentu są obecnie ograniczone. Nie masz poświadczeń umożliwiających otwarcie tego dokumentu. Możesz: 
-1. Spróbuj zmienić konto użytkownika na inne, aby otworzyć dokument;
-2. Zażądaj aktualizacji uprawnienia od %1.</translation>
+1. Spróbować zmienić konto użytkownika na inne, aby otworzyć dokument.
+2. Zażądać aktualizacji uprawnienia od %1.</translation>
     </message>
     <message>
         <source>%s Errors occur when regular backup is running! Please try the following operations: 
@@ -9845,8 +9846,9 @@ Ta pozycja może nie być bezpieczna.</translation>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation>WPS Office nie może drukować. Proszę sprawdzić, czy drukarka jest włączona i podłączona.
-Jeśli problem nadal występuje, można wydrukować stronę testową, klikając prawym przyciskiem myszy ikonę drukarki w systemie Windows, a następnie wybierając polecenie Właściwości z menu skrótów, aby sprawdzić, czy drukarka została prawidłowo zainstalowana.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>WPS Office nie może drukować. Proszę sprawdź, czy drukarka jest włączona i podłączona.
+Jeśli problem nadal występuje, możesz wydrukować stronę testową, klikając prawym przyciskiem myszy ikonę drukarki w systemie Windows, a następnie wybierając polecenie Właściwości z menu skrótów, aby sprawdzić, czy drukarka została prawidłowo zainstalowana.</translation>
     </message>
     <message>
         <source>Save Print Output As</source>
@@ -10426,8 +10428,9 @@ Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się
         <source>You cannot modify the PivotTable with these data.
 Please check your data and make sure that the reference is valid and the worksheet exists.</source>
         <comment>kso_sErrorWhenModifyTable</comment>
-        <translation>Nie można modyfikować tabeli przestawnej z tych danych.
-Proszę sprawdź swoje dane i upewnij się, że odwołanie jest prawidłowe oraz istnieje określony arkusz.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można zmodyfikować tych danych tabeli przestawnej.
+Proszę sprawdź, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
     </message>
     <message>
         <source>Unkown Format Source.</source>
@@ -11541,9 +11544,9 @@ For better service, please update the trial edition to standard edition by:
         <comment>kso_sTrialNotification</comment>
         <translation>Dziękujemy za wybranie produktu z serii WPS Office.
 
-Zainstalowano wersję próbną edycji WPS Office Personal.
-Dla lepszej obsługi proszę zaktualizować wersję próbną do edycji Standard korzystając z następujących sposobów:
-1. Kliknij przycisk &quot;Sprawdź poprawność klucza WPS&quot;. Jeśli nie zarejestrowałeś klucza WPS, proszę kliknąć najpierw  &quot;Zarejestruj klucz WPS&quot;;
+Zainstalowano wersję próbną pakietu WPS Office Personal.
+Dla lepszej obsługi, proszę zaktualizować wersję próbną do edycji Standard korzystając z następujących sposobów:
+1. Kliknij przycisk &quot;Sprawdź poprawność klucza WPS&quot;. Jeśli nie zarejestrowałeś klucza WPS, proszę kliknąć najpierw  &quot;Zarejestruj klucz WPS&quot;.
 2. Kliknij przycisk &quot;Klucz WPS&quot; w menu &quot;Pomoc&quot;.</translation>
     </message>
     <message>
@@ -12283,6 +12286,7 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>%1 is running into problems with the %2 add-in. If this keeps happening, disable this add-in and check for available updates. Do you want to disable it now?</source>
         <comment>kso_COM_Addins_Crash_Alerts</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>W programie %1 wystąpił problem z dodatkiem %2. Jeśli ten komunikat występuje wiele razy, wyłącz ten dodatek i sprawdź, czy jest dostępna jego aktualizacja. Czy chcesz wyłączyć ten dodatek?</translation>
     </message>
     <message>
@@ -12301,10 +12305,11 @@ Służy do pokazywania kroków zmierzających do celu</translation>
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range does not contain any empty cells, error value, and each cell contains no more than 255 characters.</source>
         <comment>kso_sErrorWhenCreateTable_SrcErr</comment>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
-1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
-2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
-3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdź, czy dane, które chcesz analizować spełniają następujące warunki:
+1. Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem.
+2. Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze.
+3. Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
     </message>
     <message>
         <source>Unknown Format Source.</source>

@@ -1225,90 +1225,112 @@ kwerendy bazy danych OLE</translation>
     <name>classics.pivot_table</name>
     <message>
         <source>Always Display Items</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zawsze wyświetlaj elementy</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Rozwijane menu w pasku Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Usuń tabelę przestawną</translation>
     </message>
     <message>
         <source>Field Settings</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Ustawienia pola</translation>
     </message>
     <message>
         <source>Format Report</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Formatuj raport</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Rozwijane menu w pasku Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Grupuj i pokaż szczegóły</translation>
     </message>
     <message>
         <source>Hide</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Rozwijane menu w pasku Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Ukryj</translation>
     </message>
     <message>
         <source>Hide Detail</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Ukryj szczegóły</translation>
     </message>
     <message>
         <source>Hide Field List</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Ukryj listę pól</translation>
     </message>
     <message>
         <source>Include Hidden Items in Totals</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Uwzględnij elementy ukryte w sumach</translation>
     </message>
     <message>
         <source>Move Down</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Przenieś w dół</translation>
     </message>
     <message>
         <source>Move Left</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Przenieś w lewo</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Przesuń w prawo</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
+        <translation>Przenieś w prawo</translation>
     </message>
     <message>
         <source>Move Up</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Przenieś w górę</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Przenieś na początek</translation>
     </message>
     <message>
         <source>Move to End</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Przenieś na koniec</translation>
     </message>
     <message>
         <source>PivotTable</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Tabela przestawna</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Opcje tabeli przestawnej</translation>
     </message>
     <message>
         <source>Refresh Data</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Odśwież dane</translation>
     </message>
     <message>
         <source>Show Detail</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Pokaż szczegóły</translation>
     </message>
     <message>
         <source>Show Field List</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Pokaż listę pól</translation>
     </message>
     <message>
         <source>Sort and Top 10</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna - tak jest ok jak w Excel</translatorcomment>
         <translation>Sortuj i pokaż listę 10 pierwszych</translation>
     </message>
     <message>
         <source>Subtotals</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Dane-&gt;Tabela przestawna-&gt;Pasek zadań Tabela przestawna - tak jest ok</translatorcomment>
         <translation>Sumy częściowe</translation>
     </message>
 </context>
@@ -2504,6 +2526,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Data</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Dane&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Dane</translation>
     </message>
     <message>
@@ -2560,7 +2583,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Edycja&quot; - tak jest ok jak w Excel</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Enter</source>
@@ -2596,6 +2620,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>File</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Plik&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Plik</translation>
     </message>
     <message>
@@ -2624,6 +2649,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Format</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Format&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Format</translation>
     </message>
     <message>
@@ -2668,6 +2694,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Help</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Pomoc&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Pomoc</translation>
     </message>
     <message>
@@ -2712,6 +2739,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Wstaw&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Wstaw</translation>
     </message>
     <message>
@@ -3227,6 +3255,7 @@ zadań</translation>
     </message>
     <message>
         <source>Tools</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Narzędzia&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Narzędzia</translation>
     </message>
     <message>
@@ -3260,6 +3289,7 @@ zadań</translation>
     </message>
     <message>
         <source>View</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Widok&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Widok</translation>
     </message>
     <message>
@@ -3276,6 +3306,7 @@ zadań</translation>
     </message>
     <message>
         <source>Window</source>
+        <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Okno&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Okno</translation>
     </message>
     <message>
@@ -3288,15 +3319,18 @@ zadań</translation>
     </message>
     <message>
         <source>Zoom</source>
+        <translatorcomment>Spreadsheet - Główne okno - podpowiedź po najechaniu ikony suwaka w prawym dolnym rogu - tak jest ok jak w Excel</translatorcomment>
         <translation>Powiększenie</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Powiększanie</translation>
+        <translatorcomment>Spreadsheet - Główne okno - podpowiedź po najechaniu ikony plus w prawym dolnym rogu - tak jest ok jak w Excel</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Pomniejszanie</translation>
+        <translatorcomment>Spreadsheet - Główne okno - podpowiedź po najechaniu ikony minus w prawym dolnym rogu - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pomniejsz</translation>
     </message>
 </context>
 <context>
@@ -6221,8 +6255,8 @@ używane</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translatorcomment>Narzędzia główne-&gt;Wiersze i kolumny-&gt;Wypełnienie</translatorcomment>
-        <translation>Wypełnienie</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Wiersze i kolumny-&gt;Wypełnij - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -6244,7 +6278,9 @@ zamień</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation>Znajdź i zamień</translation>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
+        <translation>Znajdź i
+zamień</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6603,7 +6639,8 @@ kolumny</translation>
     <message>
         <source>Series</source>
         <comment>Fill</comment>
-        <translation>Wypełnij serią</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Wiersze i kolumny-&gt;Wypełnij; Styl klasyczny-&gt;Edytuj-&gt;Wypełnij - tak jest ok jak w Excel</translatorcomment>
+        <translation>Seria danych</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -8109,87 +8146,105 @@ Włącz/Wyłącz</translation>
     <name>ongmani.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Aktywne pole</translation>
     </message>
     <message>
         <source>Data</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dane</translation>
     </message>
     <message>
         <source>Delete</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Usuń</translation>
     </message>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
         <translation>Nie powtarzaj 
-etykiety elementów</translation>
+etykiet elementów</translation>
     </message>
     <message>
         <source>Field
 Settings</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Ustawienia
 pola</translation>
     </message>
     <message>
         <source>Hide</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Ukryj</translation>
     </message>
     <message>
         <source>Hide
 Detail</source>
-        <translation>Ukryj
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - musi być spacja zamiast entera, aby nie zlewał się tekst</translatorcomment>
+        <translation>Ukryj 
 szczegóły</translation>
     </message>
     <message>
         <source>Hide 
 Field List</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Ukryj 
 listę pól</translation>
     </message>
     <message>
         <source>Layout</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Układ</translation>
     </message>
     <message>
         <source>Modify
 PivotTable</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Modyfikuj
 tabelę przestawną</translation>
     </message>
     <message>
         <source>Move Down</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych-&gt;Kolejność - tak jest ok</translatorcomment>
         <translation>Przenieś w dół</translation>
     </message>
     <message>
         <source>Move Left</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych-&gt;Kolejność - tak jest ok</translatorcomment>
         <translation>Przenieś w lewo</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Przesuń w prawo</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych-&gt;Kolejność - tak jest ok</translatorcomment>
+        <translation>Przenieś w prawo</translation>
     </message>
     <message>
         <source>Move Up</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych-&gt;Kolejność - tak jest ok</translatorcomment>
         <translation>Przenieś w górę</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych-&gt;Kolejność - tak jest ok</translatorcomment>
         <translation>Przenieś na początek</translation>
     </message>
     <message>
         <source>Move to End</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych-&gt;Kolejność - tak jest ok</translatorcomment>
         <translation>Przenieś na koniec</translation>
     </message>
     <message>
         <source>Order</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Kolejność</translation>
     </message>
     <message>
         <source>PivotTable
 Options</source>
-        <translation>Opcje
-tabeli przestawnej</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
+        <translation>Opcje tabeli
+ przestawnej</translation>
     </message>
     <message>
         <source>Refresh
@@ -8200,27 +8255,32 @@ dane</translation>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation>Powtarzaj wszystkie 
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
+        <translation>Powtórz wszystkie 
 etykiety elementów</translation>
     </message>
     <message>
         <source>Show
 Detail</source>
-        <translation>Pokaż
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - musi być spacja zamiast entera, aby nie zlewał się tekst</translatorcomment>
+        <translation>Pokaż 
 szczegóły</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Pokaż 
 listę pól</translation>
     </message>
     <message>
         <source>Sort</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Sortuj</translation>
     </message>
     <message>
         <source>Subtotals</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
         <translation>Sumy częściowe</translation>
     </message>
 </context>
@@ -11064,7 +11124,8 @@ COM</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Wypełnienie</translation>
+        <translatorcomment>Styl klasyczny - SpreadSheet-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>Fill Color</source>
@@ -16519,8 +16580,9 @@ obrazu</translation>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
         <translation>Nie powtarzaj 
-etykiety elementów</translation>
+etykiet elementów</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -16544,26 +16606,32 @@ etykiety elementów</translation>
     </message>
     <message>
         <source>Move Down</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przenieś w dół</translation>
     </message>
     <message>
         <source>Move Left</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przenieś w lewo</translation>
     </message>
     <message>
         <source>Move Right</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przenieś w prawo</translation>
     </message>
     <message>
         <source>Move Up</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przenieś w górę</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przenieś na początek</translation>
     </message>
     <message>
         <source>Move to End</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przenieś na koniec</translation>
     </message>
     <message>
@@ -16585,7 +16653,8 @@ etykiety elementów</translation>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation>Powtarzaj wszystkie 
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
+        <translation>Powtórz wszystkie 
 etykiety elementów</translation>
     </message>
     <message>

@@ -4722,11 +4722,13 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Zoom in</source>
-        <translation>Powiększanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation>Pomniejszanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pomniejsz</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -5845,11 +5847,13 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Powiększanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Pomniejszanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pomniejsz</translation>
     </message>
     <message>
         <source>Away</source>

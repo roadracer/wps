@@ -1340,7 +1340,8 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
     <message>
         <source>If you want to use macros, please upgrade to professional or commercial version</source>
-        <translation>Jeżeli chcesz użyć makr, uaktualnij do edycji Professional lub Business</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jeżeli chcesz korzystać z makr, uaktualnij do wersji Professional lub Business</translation>
     </message>
 </context>
 <context>

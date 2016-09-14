@@ -4859,6 +4859,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&lt;a href=&apos;urlonline&apos;&gt; Sklep internetowy WPS &lt;/a&gt;.</translation>
     </message>
 </context>
@@ -10149,8 +10150,9 @@ Zawsze wykonuj tą akcję.</translation>
     <message>
         <source>WPS Office Free only supports classic style interface.
 You can download WPS Office Professional to enjoy the 2012 style interface.</source>
-        <translation>WPS Office Free obsługuje tylko klasyczny styl interfejsu.
-Możesz pobrać WPS Office Professional, aby korzystać ze stylu interfejsu 2012.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pakiet WPS Office Free obsługuje tylko klasyczny styl interfejsu.
+Możesz pobrać wersję WPS Office Professional, aby korzystać ze stylu interfejsu 2012.</translation>
     </message>
     <message>
         <source>

@@ -800,7 +800,8 @@
     <message id="0">
         <source>Fit slide to current window</source>
         <oldsource>Slide Zoom Fit</oldsource>
-        <translation>Dopasuj slajd do obecnego slajdu</translation>
+        <translatorcomment>Presentation - Główne okno - podpowiedź po najechaniu myszką na ikonkę w prawym dolnym rogu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Dopasuj slajd do bieżącego okna</translation>
     </message>
 </context>
 <context>
@@ -4316,11 +4317,13 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation>Pow&amp;iększanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pow&amp;iększ</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation>P&amp;omniejszanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>P&amp;omniejsz</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>

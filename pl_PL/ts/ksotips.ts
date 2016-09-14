@@ -384,7 +384,7 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSCreatecloudLinkTip.title">
         <source>It only taks seconds! You can:</source>
         <extracomment>KOSCreatecloudLinkTip.title</extracomment>
-        <translation>To zajmuje tylko kilka sekund! Możesz:</translation>
+        <translation>To zajmuje zaledwie kilka sekund! Możesz:</translation>
     </message>
     <message id="KOSCreatecloudLinkTip.content">
         <source>Scan the QR code and share your document to cellphone, to WeChat or MiChat for editing by others.</source>

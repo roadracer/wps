@@ -2728,19 +2728,23 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
     </message>
     <message id="PTRepeatLabels.title">
         <source>Repeat All Item Labels</source>
-        <translation>Powtarzaj wszystkie etykiety elementów</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Powtórz wszystkie etykiety elementów</translation>
     </message>
     <message id="PTRepeatLabels.content">
         <source>Show all parent item labels.</source>
-        <translation>Pokaż wszystkie etykiety elementu nadrzędnego.</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Umożliwia pokazanie wszystkich etykiet elementu nadrzędnego.</translation>
     </message>
     <message id="PTNotRepeatLabels.title">
         <source>Do Not Repeat Item Labels</source>
-        <translation>Nie powtarzaj etykiety elementów</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Nie powtarzaj etykiet elementów</translation>
     </message>
     <message id="PTNotRepeatLabels.content">
         <source>Show only one of the duplicate parent item labels.</source>
-        <translation>Pokaż tylko jedną ze zduplikowanych etykiet elementu nadrzędnego.</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - podpowiedź po najechaniu myszką - tak jest ok</translatorcomment>
+        <translation>Umożliwia pokazanie tylko jednej ze zduplikowanych etykiet elementu nadrzędnego.</translation>
     </message>
     <message id="AlignJustify.title">
         <source>Justify</source>

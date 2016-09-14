@@ -2847,7 +2847,8 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>Nie można modyfikować tabeli przestawnej z tych danych. Proszę sprawdzić, czy zakres odwołania jest prawidłowy i istnieje określony arkusza.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można zmodyfikować danych tabeli przestawnej. Proszę sprawdź, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
@@ -2862,10 +2863,11 @@ Użyj tego wykresu, gdy:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy dane, które chcesz analizować spełniają następujące warunki:
-1.Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem;
-2.Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze;
-3.Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można utworzyć tabeli przestawnej ze wskazanych danych. Proszę sprawdź, czy dane, które chcesz analizować spełniają następujące warunki:
+1. Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem.
+2. Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze.
+3. Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
     </message>
 </context>
 <context>
@@ -6160,15 +6162,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>% normal size</source>
-        <translation>% normalnej wielkości</translation>
+        <translatorcomment>Spreadsheet - Okno dialogowe &quot;Ustawienia strony&quot;-&gt;Zakładka &quot;Strona&quot; - pozycja Skalowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>% rzeczywistej wielkości</translation>
     </message>
     <message>
         <source>&amp;Fit to:</source>
-        <translation>D&amp;opasuj do:</translation>
+        <translatorcomment>Spreadsheet - Okno dialogowe &quot;Ustawienia strony&quot;-&gt;Zakładka &quot;Strona&quot; - pozycja Skalowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wpasuj w strony:</translation>
     </message>
     <message>
         <source>tall</source>
-        <translation>wysokości</translation>
+        <translatorcomment>Spreadsheet - Okno dialogowe &quot;Ustawienia strony&quot;-&gt;Zakładka &quot;Strona&quot; - pozycja Skalowanie-&gt;Wpasuj w strony-&gt;Inne - tak jest ok jak w Excel</translatorcomment>
+        <translation>V</translation>
     </message>
     <message>
         <source>Paper si&amp;ze:</source>
@@ -6384,7 +6389,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>page(s) wide by </source>
-        <translation>stron szerokości </translation>
+        <translatorcomment>Spreadsheet - Okno dialogowe &quot;Ustawienia strony&quot;-&gt;Zakładka &quot;Strona&quot; - pozycja Skalowanie-&gt;Wpasuj w strony-&gt;Inne - tak jest ok jak w Excel</translatorcomment>
+        <translation>H</translation>
     </message>
     <message>
         <source>Header and Footer</source>
@@ -10874,7 +10880,8 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <name>KxReadOnlyFileDlg</name>
     <message>
         <source>File in use</source>
-        <translation>Plik jest w użyciu</translation>
+        <translatorcomment>nazwa okna dialogowego tak jest ok jak w Excel</translatorcomment>
+        <translation>Plik w użyciu</translation>
     </message>
     <message>
         <source>other user</source>
@@ -10882,7 +10889,8 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     </message>
     <message>
         <source> is editing.</source>
-        <translation>edytuje go.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation> edytuje go.</translation>
     </message>
 </context>
 <context>
@@ -11269,7 +11277,8 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Select the IPOPT Nonlinear engine for Solver Problems that are smooth nonlinear.</source>
-        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT.</translation>
+        <translatorcomment>Spreadsheet - Dane-&gt;Analiza warunkowa-&gt;Solver - komentarz w oknie dialogowym &quot;Paramtery dodatku Solver - ta spacja na końcu musi być, aby nie zlewał się tekstz następnym zdaniem - tak jest ok</translatorcomment>
+        <translation>W przypadku gładkich nieliniowych problemów dodatku Solver wybierz aparat nieliniowy IPOPT. </translation>
     </message>
 </context>
 <context>
@@ -12291,6 +12300,7 @@ Wciąż może być wymagana ręczna aktualizacja odwołań do tej nazwy używany
     <name>KxWidgetAlign</name>
     <message>
         <source>Orientation</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok</translatorcomment>
         <translation>Orientacja</translation>
     </message>
     <message>
@@ -12298,6 +12308,7 @@ Wciąż może być wymagana ręczna aktualizacja odwołań do tej nazwy używany
 e
 x
 t</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>T
 e
 k
@@ -12306,7 +12317,8 @@ t</translation>
     </message>
     <message>
         <source>&amp;Degrees</source>
-        <translation>&amp;Stopnie</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;stopni(e)</translation>
     </message>
     <message>
         <source>Vertica&amp;l text</source>
@@ -12314,74 +12326,92 @@ t</translation>
     </message>
     <message>
         <source>Text control</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Sterowanie tekstem</translation>
     </message>
     <message>
         <source>&amp;Wrap text</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Zawijaj tekst</translation>
     </message>
     <message>
         <source>Shrin&amp;k to fit</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Z&amp;mniejszaj, aby dopasować</translation>
     </message>
     <message>
         <source>&amp;Merge cells</source>
-        <translation>&amp;Scalaj komórki</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Sc&amp;alaj komórki</translation>
     </message>
     <message>
         <source>Text alignment</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyrównanie tekstu</translation>
     </message>
     <message>
         <source>&amp;Horizontal:</source>
-        <translation>&amp;Poziomo:</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>P&amp;oziomo:</translation>
     </message>
     <message>
         <source>General</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Ogólne</translation>
     </message>
     <message>
         <source>Left(Indent)</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Lewa (Wcięcie)</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Środek</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>Right(Indent)</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Prawa (Wcięcie)</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Wypełnienie</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>Justify</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyjustuj</translation>
     </message>
     <message>
         <source>Distributed(Indent)</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Rozłożone (Wcięcie)</translation>
     </message>
     <message>
         <source>&amp;Indent:</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Wcięcie:</translation>
     </message>
     <message>
         <source>&amp;Vertical:</source>
-        <translation>P&amp;ionowo:</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Pionowo:</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>Górne</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Do góry</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>Dolne</translation>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Do dołu</translation>
     </message>
     <message>
         <source>Distributed</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Rozłożone</translation>
     </message>
     <message>
@@ -12390,6 +12420,7 @@ t</translation>
     </message>
     <message>
         <source>Center across selection</source>
+        <translatorcomment>Spreadsheet-&gt;PPM-&gt;Formatuj komórki - zakładka Wyrównanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyrównaj zaznaczenie do środka</translation>
     </message>
 </context>
@@ -13796,6 +13827,7 @@ t</translation>
     <name>ReadOnlyFile</name>
     <message>
         <source>%s is locked for editing.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Plik %s jest zablokowany do edycji.</translation>
     </message>
     <message>
@@ -13804,14 +13836,17 @@ t</translation>
     </message>
     <message>
         <source>Click Notify to open a read-only copy of the document and receive notification when the document is no longer in use.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kliknij przycisk Powiadom, aby otworzyć kopię dokumentu tylko do odczytu i otrzymać powiadomienie, gdy dokument przestanie być używany.</translation>
     </message>
     <message>
         <source>&amp;Read-Only</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Tylko do &amp;odczytu</translation>
     </message>
     <message>
         <source>&amp;Notify</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Powiadom</translation>
     </message>
     <message>
@@ -13820,7 +13855,8 @@ t</translation>
     </message>
     <message>
         <source>&quot;%s&quot;</source>
-        <translation>&quot;%s&quot;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Użytkownik &quot;%s&quot;</translation>
     </message>
 </context>
 <context>
