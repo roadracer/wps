@@ -1244,6 +1244,7 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>Cannot modify or delete array formulas in shared workbooks.</source>
         <comment>TX_ShareWorkbook_MsgModifyArrays</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nie można modyfikować lub usuwać formuł tablicowych w udostępnionych skoroszytach.</translation>
     </message>
     <message>
@@ -14961,7 +14962,8 @@ Istnieje kilka możliwych przyczyn:
     <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
-        <translation>Nie można modyfikować komórek tylko do odczytu w chronionym arkuszu.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można modyfikować komórek, które są w arkuszu chronionym, a więc dostępne tylko do odczytu.</translation>
     </message>
     <message>
         <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>

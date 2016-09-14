@@ -158,7 +158,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
-        <translation>Twoja subskrypcja dla WPS Office lub %1-dniowego okresu próbnego wygasa teraz.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Twoja subskrypcja WPS Office lub %1-dniowy okres próbny wygasa dzisiaj.</translation>
     </message>
     <message>
         <source>The program will switch to a free version. Some features will not work properly. We recommend you purchase WPS Office or renew now.</source>
@@ -286,11 +287,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
-        <translation>Wygasł okres próbny WPS Office Beta. Możesz przejść w tryb przeglądarki, w którym wprowadzanie z klawiatury zostanie wyłączone, aby kontynuować lub zaktualizować do najnowszej wersji WPS Office Personal.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wygasł okres próbny pakietu WPS Office Beta. Możesz przejść w tryb przeglądarki, w którym zostanie wyłączona możliwość wprowadzania danych. Możesz kontynuować lub zaktualizować pakiet WPS Office do najnowszej wersji Personal.</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;a href=&apos;urlonline&apos;&gt; Sklep internetowy WPS &lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Update Now</source>
@@ -321,7 +324,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Okres próbny zakończył się. Możesz wejść w tryb podglądu, który oferuje nienormalne funkcjonowanie WPS Office. Jeżeli potrzebujesz, aby kontynuować użytkowanie, proszę kup WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Okres próbny zakończył się. Możesz przejść w tryb podglądu, który oferuje nietypowe funkcjonowanie pakietu WPS Office. Jeżeli potrzebujesz kontynuować użytkowanie, proszę zakup pakiet WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>preview mode</source>
@@ -336,7 +340,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation>Przypomnienie wersji próbnej WPS Office</translation>
+        <translation>Przypomnienie wersji próbnej pakietu WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -348,11 +352,12 @@ p, li { white-space: pre-wrap; }
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Możesz wypróbować WPS Office przez 30 dni&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Możesz wypróbować pakiet WPS Office przez 30 dni&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Aby kupić WPS Office, można kontynuować normalne użytkowanie po upływie okresu próbnego&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Zakupienie pakietu WPS Office umożliwia kontynuowanie normalnego użytkowania po upływie okresu próbnego&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Buy Now</source>
@@ -466,7 +471,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Personal Edition(Free)</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Edycja dla użytkowników domowych Personal (Bezpłatna)</translation>
+        <translation>Wersja dla użytkowników domowych Personal (Bezpłatna)</translation>
     </message>
     <message>
         <source>Includes 30-Day FREE Trial of WPS Office Business Edition. %1Get started &gt;&gt;%2.</source>
@@ -475,7 +480,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Did you purchase WPS Office?</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Zakupiłeś już WPS Office?</translation>
+        <translation>Zakupiłeś już pakiet WPS Office?</translation>
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
@@ -489,7 +494,7 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Zawiera %1-dniowy darmowy okres próbny edycji WPS Office Business. %2Rozpocznij &gt;&gt;%3.</translation>
+        <translation>Zawiera %1-dniowy darmowy okres próbny pakietu WPS Office w wersji Business. %2Rozpocznij &gt;&gt;%3.</translation>
     </message>
 </context>
 <context>
@@ -631,11 +636,11 @@ p, li { white-space: pre-wrap; }
     <name>KxOverdueDlg</name>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>Twój okres próbny WPS Office wygasł i masz zamiar przejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
+        <translation>Twój okres próbny pakietu WPS Office wygasł i masz zamiar przejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation>Twój okres próbny WPS Office wygasł i drukowanie zostanie wyłączone. Proszę wprowadzić prawidłowy numer seryjny, aby uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
+        <translation>Twój okres próbny pakietu WPS Office wygasł i drukowanie zostanie wyłączone. Proszę wprowadzić prawidłowy numer seryjny, aby go uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -651,7 +656,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation>WPS Online Store.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sklep internetowy WPS.</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
@@ -671,7 +677,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Update to Personal</source>
-        <translation>Uaktualnij do edycji Personal</translation>
+        <translation>Uaktualnij do wersji Personal</translation>
     </message>
 </context>
 <context>
@@ -804,11 +810,13 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>To purchase WPS Office, click here to visit the purchase page for more information. 
 You need to sign in before you buy. </source>
-        <translation>Aby zakupić WPS Office, kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji. 
-Musisz się zalogować przed zakupem. </translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W celu zakupienia pakietu WPS Office, kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji. 
+Musisz się zalogować przed dokonaniem zakupu. </translation>
     </message>
     <message>
         <source>Your %1-day trial expires after %2 days</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Twój %1-dniowy okres próbny wygasa za %2 dni</translation>
     </message>
     <message>
@@ -884,12 +892,12 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     <message>
         <source>Upgrade to WPS Office Business Edition</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Uaktualnij do edycji WPS Office Business</translation>
+        <translation>Uaktualnij pakiet WPS Office do wersji Business</translation>
     </message>
     <message>
         <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Aby korzystać z funkcji Premium, takich jak VBA, można uaktualnić do edycji WPS Office Business. Kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji.</translation>
+        <translation>Aby korzystać z funkcji Premium, takich jak VBA, można uaktualnić pakiet WPS Office do wersji Business. Kliknij tutaj, aby odwiedzić stronę zakupu i uzyskać więcej informacji.</translation>
     </message>
     <message>
         <source>Buy</source>
@@ -936,7 +944,8 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>WPS Office Free cannot support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation>Program WPS Office Free nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić program WPS Office, aby włączyć makro w razie potrzeby.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pakiet WPS Office Free nie obsługuje języka VBA, dlatego makra w dokumencie nie mogą działać poprawnie. Proszę zakupić pakiet WPS Office, aby włączyć makro w razie potrzeby.</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA, thus macros in the document cannot work properly. Please purchase separately to enable macro if needed.</source>

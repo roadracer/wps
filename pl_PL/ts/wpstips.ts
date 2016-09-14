@@ -1174,7 +1174,8 @@ Wpływa to tylko na tabele wykraczające poza pojedynczą stronę.</translation>
     <message id="HeaderFooterOptions.title">
         <source>Header and Footer Options</source>
         <extracomment>HeaderFooterOptions.title</extracomment>
-        <translation>Opcje nagłówka i stopki</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Opcje nagłówków i stopek</translation>
     </message>
     <message id="HeaderFooterOptions.content">
         <source>Apply Header and Footer settings to the current section or document, such as different first page, different odd &amp; even pages, and margin to the border.</source>

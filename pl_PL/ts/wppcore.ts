@@ -330,7 +330,8 @@ Esc					Zakończ bieżący pokaz slajdów</translation>
     <message>
         <source>The time to cost: </source>
         <comment>WpPlayCostTime</comment>
-        <translation>Koszt czasu: </translation>
+        <translatorcomment>WPS Presentation - licznik czasu wyświetlany na podglądzie - tak jest ok</translatorcomment>
+        <translation>Licznik czasu: </translation>
     </message>
     <message>
         <source>The total time for the slide show is %s. Do you want to keep the new slide timings? </source>
@@ -5166,7 +5167,8 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
     <message>
         <source>Incorrect dictionary! Cannot modify!</source>
         <comment>wpp_sDictError</comment>
-        <translation>Nieprawidłowy słownik! Nie można modyfikować!</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nieprawidłowy słownik! Nie można zmodyfikować!</translation>
     </message>
     <message>
         <source>The path or name of %s is invalid. Please check that the path and file name are correct.</source>

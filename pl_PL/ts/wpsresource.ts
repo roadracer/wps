@@ -4445,6 +4445,7 @@ On</source>
     </message>
     <message>
         <source>AutoText</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
         <translation>Autotekst</translation>
     </message>
     <message>
@@ -4463,6 +4464,7 @@ godzina</translation>
     </message>
     <message>
         <source>Fields</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
         <translation>Pola</translation>
     </message>
     <message>
@@ -4484,12 +4486,15 @@ godzina</translation>
     <message>
         <source>Header and Footer
 Options</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Opcje
-nagłówka i stopki</translation>
+nagłówków i stopek</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation>Opcje nagłówka i stopki</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok jak w MSO</translatorcomment>
+        <translation>Opcje
+nagłówków i stopek</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -4506,6 +4511,7 @@ nagłówka i stopki</translation>
     <message>
         <source>Link to
 Previous</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
         <translation>Łącze do
 poprzedniego</translation>
     </message>
@@ -4520,6 +4526,7 @@ poprzedniego</translation>
     <message>
         <source>Next
 Header</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
         <translation>Następny
 nagłówek</translation>
     </message>
@@ -4544,16 +4551,20 @@ strony</translation>
     <message>
         <source>Previous
 Header</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
         <translation>Poprzedni
 nagłówek</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translation>Pokaż linię nagłówka</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
+        <translation>Pokaż
+linię nagłówka</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
         <translation>Przełącz między
 nagłówkiem i stopką</translation>
     </message>
@@ -5188,6 +5199,7 @@ styl</translation>
     </message>
     <message>
         <source>Date and Time</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok</translatorcomment>
         <translation>Data i godzina</translation>
     </message>
     <message>
@@ -5692,7 +5704,9 @@ tekstowe</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translation>Znak wodny</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - pojawia się dopiero po zapisaniu pliku jako &quot;.doc&quot; lub &quot;.wps&quot; i nie jest to tożsame z tłumaczeniem opcji &quot;Znak wodny&quot;, która jest dostępna w karcie Wstaw bezpośrednio po utworzeniu nowego dokumentu, aż do momentu zapisania go z podanymi wcześniej rozszerzeniami - tak jest ok</translatorcomment>
+        <translation>Znak
+wodny</translation>
     </message>
     <message>
         <source>WordArt</source>
@@ -11503,6 +11517,7 @@ COM</translation>
     </message>
     <message>
         <source>Date and Time</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw - tak jest ok</translatorcomment>
         <translation>Data i godzina</translation>
     </message>
     <message>
@@ -15410,12 +15425,14 @@ tekstu</translation>
     <message>
         <source>Header and Footer
 Options</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Opcje
-nagłówka i stopki</translation>
+nagłówków i stopek</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translation>Opcje nagłówka i stopki</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Opcje nagłówków i stopek</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -21669,7 +21686,8 @@ cienia</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Edycja&quot; - tak jest ok jak w Word</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Endnote</source>
@@ -21705,6 +21723,7 @@ cienia</translation>
     </message>
     <message>
         <source>File</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Plik&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Plik</translation>
     </message>
     <message>
@@ -21725,6 +21744,7 @@ cienia</translation>
     </message>
     <message>
         <source>Format</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Format&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Format</translation>
     </message>
     <message>
@@ -21761,6 +21781,7 @@ cienia</translation>
     </message>
     <message>
         <source>Help</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Pomoc&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Pomoc</translation>
     </message>
     <message>
@@ -21805,6 +21826,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Wstaw&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Wstaw</translation>
     </message>
     <message>
@@ -22213,6 +22235,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Show Header Line</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw oraz podpowiedź po najechaniu na ikonę w pasku narzędziowym - tak jest ok</translatorcomment>
         <translation>Pokaż linię nagłówka</translation>
     </message>
     <message>
@@ -22337,7 +22360,8 @@ ekranu</translation>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Tabele</translation>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Tabela&quot; - tak jest ok jak w Word</translatorcomment>
+        <translation>Tabela</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -22365,6 +22389,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Tools</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Narzędzia&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Narzędzia</translation>
     </message>
     <message>
@@ -22402,6 +22427,7 @@ ekranu</translation>
     </message>
     <message>
         <source>View</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Widok&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Widok</translation>
     </message>
     <message>
@@ -22432,6 +22458,7 @@ sieci Web</translation>
     </message>
     <message>
         <source>Window</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Okno&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Okno</translation>
     </message>
     <message>
@@ -22452,15 +22479,18 @@ sieci Web</translation>
     </message>
     <message>
         <source>Zoom</source>
+        <translatorcomment>Writer - Główne okno - podpowiedź po najechaniu ikony suwaka w prawym dolnym rogu - tak jest ok jak w Word</translatorcomment>
         <translation>Powiększenie</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Powiększanie</translation>
+        <translatorcomment>Writer - Główne okno - podpowiedź po najechaniu ikony plus w prawym dolnym rogu - tak jest ok jak w Word</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Pomniejszanie</translation>
+        <translatorcomment>Writer - Główne okno - podpowiedź po najechaniu ikony minus w prawym dolnym rogu - tak jest ok jak w Word</translatorcomment>
+        <translation>Pomniejsz</translation>
     </message>
     <message>
         <source>structure</source>

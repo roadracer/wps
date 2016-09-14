@@ -4521,7 +4521,8 @@ Effects</source>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Wypełnienie</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne-&gt;Wypełnij - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>Find</source>
@@ -4555,7 +4556,9 @@ formatów</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translation>Malarz formatów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok</translatorcomment>
+        <translation>Malarz
+formatów</translation>
     </message>
     <message>
         <source>Formatted Text</source>
@@ -5058,6 +5061,7 @@ w tle</translation>
     </message>
     <message>
         <source>Date and Time</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok</translatorcomment>
         <translation>Data i godzina</translation>
     </message>
     <message>
@@ -9206,6 +9210,7 @@ COM</translation>
     </message>
     <message>
         <source>Date and Time</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Wstaw - tak jest ok</translatorcomment>
         <translation>Data i godzina</translation>
     </message>
     <message>
@@ -9454,7 +9459,8 @@ COM</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation>Wypełnienie</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wypełnij</translation>
     </message>
     <message>
         <source>First Slide</source>
@@ -16831,7 +16837,8 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Edycja&quot; - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Effects</source>
@@ -16855,6 +16862,7 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>File</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Plik&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Plik</translation>
     </message>
     <message>
@@ -16863,6 +16871,7 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Format</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Format&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Format</translation>
     </message>
     <message>
@@ -16936,6 +16945,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Insert</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Wstaw&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wstaw</translation>
     </message>
     <message>
@@ -17393,6 +17403,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Slide Show</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Pokaz slajdów&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaz slajdów</translation>
     </message>
     <message>
@@ -17469,6 +17480,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Tools</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Narzędzia&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Narzędzia</translation>
     </message>
     <message>
@@ -17493,6 +17505,7 @@ ekranu</translation>
     </message>
     <message>
         <source>View</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Widok&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Widok</translation>
     </message>
     <message>
@@ -17514,6 +17527,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Window</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Okno&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Okno</translation>
     </message>
     <message>
@@ -17522,15 +17536,18 @@ ekranu</translation>
     </message>
     <message>
         <source>Zoom</source>
+        <translatorcomment>Presentation - Główne okno - podpowiedź po najechaniu ikony suwaka w prawym dolnym rogu - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Powiększenie</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation>Powiększanie</translation>
+        <translatorcomment>Presentation - Główne okno - podpowiedź po najechaniu ikony plus w prawym dolnym rogu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Powiększ</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation>Pomniejszanie</translation>
+        <translatorcomment>Presentation - Główne okno - podpowiedź po najechaniu ikony minus w prawym dolnym rogu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pomniejsz</translation>
     </message>
     <message>
         <source>change template</source>
@@ -17578,6 +17595,7 @@ ekranu</translation>
     <name>wppcommon.mainwindow.commands.helpmenu</name>
     <message>
         <source>Help</source>
+        <translatorcomment>Styl klasyczny - Presentation-&gt;Nazwa zakładki &quot;Pomoc&quot; - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pomoc</translation>
     </message>
 </context>
