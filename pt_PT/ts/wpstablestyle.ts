@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.0" language="pt_PT">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>CWpsTableStyle</name>
     <message>
         <source>Styless, no grid</source>
-        <translation type="obsolete">Bez styli, bez siatki</translation>
+        <translation type="obsolete">Sem formatação ou grelha</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="obsolete">Styl z motywem</translation>
+        <translation type="obsolete">Estilo Padrão</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Wyróżnienie</translation>
+        <translation>Realce</translation>
     </message>
     <message>
         <source>1-</source>
@@ -22,123 +22,122 @@
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="obsolete">Bez styli, rasteryzacji</translation>
+        <translation type="obsolete">Sem formatação, com grelha</translation>
     </message>
     <message>
         <source>2-</source>
-        <translation>2-</translation>
+        <translation>1-</translation>
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="obsolete">Jasny kolor stylu</translation>
+        <translation type="obsolete">Estilo de cores claras</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translation type="obsolete">Średni kolor stylu</translation>
+        <translation type="obsolete">Estilo de cores médias</translation>
     </message>
     <message>
         <source>Deep Color Style</source>
-        <translation type="obsolete">Głęboki kolor stylu</translation>
+        <translation type="obsolete">Estilo de cores escuras</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="obsolete">Ciemny kolor stylu 2</translation>
+        <translation type="obsolete">Estilo de cores fortes 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translatorcomment>Podkreślenie, uwydatnienie</translatorcomment>
-        <translation type="obsolete">Ciemny kolor stylu 2 - Wyróżnienie 1/Wyróżnienie 2</translation>
+        <translation type="obsolete">Estilo de cores escuras 2 - Realce 1/Realce 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="obsolete">Ciemny kolor stylu 2 - Wyróżnienie 3/Wyróżnienie 4</translation>
+        <translation type="obsolete">Estilo de cores escuras 2 - Realce 3/Realce 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="obsolete">Ciemny kolor stylu 2 - Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation type="obsolete">Estilo de cores escuras 2 - Realce 5/Realce 6</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation>Pierwszy wiersz</translation>
+        <translation>Primeira linha</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation>Ostatni wiersz</translation>
+        <translation>Última linha</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation>Wiersze naprzemienne</translation>
+        <translation>Linhas alternadas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>Kolumny naprzemienne</translation>
+        <translation>Colunas alternadas</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation>Pierwsza kolumna</translation>
+        <translation>Primeira coluna</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation>Ostatnia kolumna</translation>
+        <translation>Última coluna</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation>Bez stylu, bez siatki</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Styl motywu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation>Brak stylu, z siatką</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Styl jasny</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Styl pośredni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>Styl ciemny</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>Styl ciemny 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxKsoTableStyleModel</name>
     <message>
         <source>Built-in</source>
-        <translation>Wbudowane</translation>
+        <translation>Incorporado</translation>
     </message>
     <message>
         <source>Styless, no grid</source>
-        <translation type="obsolete">Bez styli, bez siatki</translation>
+        <translation type="obsolete">Sem formatação ou grelha</translation>
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="obsolete">Styl z motywem</translation>
+        <translation type="obsolete">Estilo Padrão</translation>
     </message>
     <message>
         <source>Emphasize</source>
-        <translation>Wyróżnienie</translation>
+        <translation>Realce</translation>
     </message>
     <message>
         <source>1-</source>
@@ -146,7 +145,7 @@
     </message>
     <message>
         <source>Styless, gridded</source>
-        <translation type="obsolete">Bez styli, rasteryzacji</translation>
+        <translation type="obsolete">Sem formatação, com grelha</translation>
     </message>
     <message>
         <source>2-</source>
@@ -154,217 +153,216 @@
     </message>
     <message>
         <source>Light Color Style</source>
-        <translation type="obsolete">Jasny kolor stylu</translation>
+        <translation type="obsolete">Estilo de cores claras</translation>
     </message>
     <message>
         <source>Medium Color Style</source>
-        <translatorcomment>Pośredni kolor stylu</translatorcomment>
-        <translation type="obsolete">Średni kolor stylu</translation>
+        <translation type="obsolete">Estilo de cores médias</translation>
     </message>
     <message>
         <source>Dark Color Style</source>
-        <translation type="obsolete">Ciemny kolor stylu</translation>
+        <translation type="obsolete">Estilo de cores escuras 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2</source>
-        <translation type="obsolete">Ciemny kolor stylu 2</translation>
+        <translation type="obsolete">Estilo de cores escuras 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 1/Emphasize 2</source>
-        <translation type="obsolete">Ciemny kolor stylu 2 - Wyróżnienie 1/Wyróżnienie 2</translation>
+        <translation type="obsolete">Estilo de cores escuras 2 - Realçe 1/Realçe 2</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 3/Emphasize 4</source>
-        <translation type="obsolete">Ciemny kolor stylu 2 - Wyróżnienie 3/Wyróżnienie 4</translation>
+        <translation type="obsolete">Estilo de cores escuras 2 - Realçe 3/Realçe 4</translation>
     </message>
     <message>
         <source>Dark Color Style 2 - Emphasize 5/Emphasize 6</source>
-        <translation type="obsolete">Ciemny kolor stylu 2 - Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation type="obsolete">Estilo de cores escuras 2 - Realçe 5/Realçe 6</translation>
     </message>
     <message>
         <source>Best Match</source>
-        <translation>Najlepsze dopasowanie</translation>
+        <translation>Melhor correspondência</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="obsolete">Rozmyty</translation>
+        <translation type="obsolete">Esbatido</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="obsolete">Średni</translation>
+        <translation type="obsolete">Meio-tom</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="obsolete">Głęboki</translation>
+        <translation type="obsolete">Colorido</translation>
     </message>
     <message>
         <source>Styless, No grid</source>
-        <translation>Bez stylu, bez siatki</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Theme Style</source>
-        <translation>Styl motywu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Style, Gridded</source>
-        <translation>Brak stylu, z siatką</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light Style</source>
-        <translation>Styl jasny</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation>Styl pośredni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation>Styl ciemny</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation>Styl ciemny 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 1/Emphasize 2</source>
-        <translation>Styl ciemny 2-Wyróżnienie 1/Wyróżnienie 2</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 3/Emphasize 4</source>
-        <translation>Styl ciemny 2-Wyróżnienie 3/Wyróżnienie 4</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark Style 2-Emphasize 5/Emphasize 6</source>
-        <translation>Styl ciemny 2-Wyróżnienie 5/Wyróżnienie 6</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation>Pierwszy wiersz</translation>
+        <translation type="unfinished">Primeira linha</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation>Pierwsza kolumna</translation>
+        <translation type="unfinished">Primeira coluna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation>Ostatni wiersz</translation>
+        <translation type="unfinished">Última linha</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation>Ostatnia kolumna</translation>
+        <translation type="unfinished">Última coluna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation>Wiersze naprzemienne</translation>
+        <translation type="unfinished">Linhas alternadas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>Kolumny naprzemienne</translation>
+        <translation type="unfinished">Colunas alternadas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation>Pierwszy wiersz i pierwsza kolumna</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation>Pierwszy wiersz i ostatni wiersz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Jasny</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Pośredni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation>Ciemny</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxStylesPanel</name>
     <message>
         <source>Best Match</source>
-        <translation>Najlepsze dopasowanie</translation>
+        <translation>Melhor correspondência</translation>
     </message>
     <message>
         <source>Washy</source>
-        <translation type="obsolete">Rozmyty</translation>
+        <translation type="obsolete">Esbatido</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation type="obsolete">Średni</translation>
+        <translation type="obsolete">Meio-tom</translation>
     </message>
     <message>
         <source>Deep</source>
-        <translation type="obsolete">Głęboki</translation>
+        <translation type="obsolete">Colorido</translation>
     </message>
     <message>
         <source>First Row</source>
-        <translation>Pierwszy wiersz</translation>
+        <translation type="unfinished">Primeira linha</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation>Pierwsza kolumna</translation>
+        <translation type="unfinished">Primeira coluna</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation>Ostatni wiersz</translation>
+        <translation type="unfinished">Última linha</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation>Ostatnia kolumna</translation>
+        <translation type="unfinished">Última coluna</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation>Wiersze naprzemienne</translation>
+        <translation type="unfinished">Linhas alternadas</translation>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation>Kolumny naprzemienne</translation>
+        <translation type="unfinished">Colunas alternadas</translation>
     </message>
     <message>
         <source>First Row And First Column</source>
-        <translation>Pierwszy wiersz i pierwsza kolumna</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>First Row And Last Row</source>
-        <translation>Pierwszy wiersz i ostatni wiersz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Jasny</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation>Pośredni</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation>Ciemny</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation>Styl tabeli:</translation>
+        <translation>Estilo da Tabela</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation>Opcje stylu tabeli:</translation>
+        <translation>Opções do Estilo da Tabela</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation>Wyczyść styl tabeli</translation>
+        <translation>Limpar Estilo da Tabela</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Apply Table Style</source>
-        <translation>Zastosuj styl tabeli</translation>
+        <translation>Aplicar Estilo da Tabela&quot;</translation>
     </message>
 </context>
 </TS>

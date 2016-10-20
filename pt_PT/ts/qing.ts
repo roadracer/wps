@@ -1,537 +1,520 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.0" language="pt_PT">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KAboutDlg</name>
     <message>
         <source>About WPS Office Cloud</source>
-        <translation>Informacje o usłudze WPS Office Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Office Cloud is an office platform designed to accommodate teamwork across multiple people, files and platforms. It provides various office services, such as document storage, coordination, discussions, tracking, cross-platform preview and editing.</source>
-        <translation>WPS Office Cloud jest platformą biurową zaprojektowaną do pracy zespołowej dla wielu osób, plików i platform. Zapewnia różne usługi biurowe, takie jak przechowywanie dokumentów, koordynację, dyskusje, śledzenie oraz międzyplatformowy podgląd i edycję.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation>Wersja:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>1.0.0.0</source>
-        <translation>1.0.0.0</translation>
-    </message>
-    <message>
-        <source>Copyright©1988-2015 Zhuhai Kingsoft Office Software Co., Ltd</source>
-        <translation type="obsolete">Prawa autorskie©1988-2015 Zhuhai Kingsoft Office Software Co., Ltd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&quot;wpshome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office  Online&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;wpshome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office Online&lt;/a&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;a href=&quot;qinghome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office Cloud&lt;/a&gt;</source>
-        <translation>&lt;a href=&quot;qinghome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office Cloud&lt;/a&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KAccountSdkProxy</name>
     <message>
         <source>View On &amp;Website</source>
-        <translation>Wyświetl na witrynie sieci &amp;Web</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation>Szczegóły &amp;przeniesienia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Informacje</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KBatchuploadDlg</name>
     <message>
         <source>Checking...</source>
-        <translation>Sprawdzanie...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Ukryj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 files you selected exceed the maximum capacity of this group. Please select files again.</source>
-        <translation>%1 wybranych plików przekracza maksymalną pojemność tej grupy. Proszę wybierz pliki ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 files you selected exceed the maximum capacity for this group (%2 files left). Please select files again.</source>
-        <translation>%1 wybranych plików przekracza maksymalną pojemność tej grupy (%2 plików z lewej). Proszę wybierz pliki ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to check if the file can be uploaded!</source>
-        <translation>Nie udało się sprawdzić, czy plik może być przesłany!</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KDetailGroupItem</name>
     <message>
         <source>Transfer details</source>
-        <translation>Szczegóły przeniesienia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete failed. Please close the opened file and try again.</source>
-        <translation>Usuwanie nie powiodło się. Proszę zamknij otwarty plik i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete failed. Close the opened file and try again.</source>
-        <translation>Usuwanie nie powiodło się. Zamknij otwarty plik i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KDownloadingDetailItem</name>
     <message>
         <source>Stop</source>
-        <translation>Zatrzymaj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Wyświetl katalog</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KErrorDetailItem</name>
     <message>
         <source>Open</source>
-        <translation>Otwórz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Wyświetl katalog</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Kontynuuj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Usuń</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. You do not have permission to save the file to this directory</source>
-        <translation>Przekazywanie nie powiodło się. Nie masz uprawnień, aby zapisać plik do tego katalogu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Operation refused. Please make sure you have permission to perform this operation.</source>
-        <translation>Odmówiono wykonania operacji. Proszę upewnić się, że masz uprawnienia do wykonania tej operacji.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. Insufficient disk space. Please increase capacity and try again.</source>
-        <translation>Przekazywanie nie powiodło się. Za mało miejsca na dysku. Proszę zwiększ pojemność i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. File name or path is too long. Please rename or save to another location.</source>
-        <translation>Przekazywanie nie powiodło się. Nazwa pliku lub ścieżki jest zbyt długa. Proszę zmień nazwę lub zapisz w innej lokalizacji.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. The directory does not exist. Please save the file to another directory.</source>
-        <translation>Przekazywanie nie powiodło się. Katalog nie istnieje. Proszę zapisz plik w innym katalogu.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. The directory has been deleted. Please save the file to another directory.</source>
-        <translation>Przekazywanie nie powiodło się. Katalog został usunięty. Proszę zapisz plik w innym katalogu.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The group has been closed.</source>
-        <translation>Grupa została zamknięta.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Task canceled. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation>Zadanie anulowane. Proszę kliknij &apos;Kontynuuj&apos;, aby przesłać plik ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. Uploading files larger than 30M is currently not supported.</source>
-        <translation>Przekazywanie nie powiodło się. Przekazywanie plików większych niż 30M nie jest obecnie obsługiwane.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation>Przekazywanie nie powiodło się. Proszę kliknij &apos;Kontynuuj&apos;, aby przesłać plik ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. You are no longer a member of the group.</source>
-        <translation>Przekazywanie nie powiodło się. Nie jesteś już członkiem grupy.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. The number of files in the group has reached its maximum limit.</source>
-        <translation>Przekazywanie nie powiodło się. Liczba plików w grupie osiągnęła limit maksymalny.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. The number of files in the group has reached its maximum limit. Please contact the group creator to upgrade the group.</source>
-        <translation>Przekazywanie nie powiodło się. Liczba plików w grupie osiągnęła limit maksymalny. Proszę skontaktować się z twórcą grupy, aby uaktualnić grupę.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. This group no longer exists.</source>
-        <translation>Przekazywanie nie powiodło się. Ta grupa już nie istnieje.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed. The number of your share links has reached its maximum limit.</source>
-        <translation>Przekazywanie nie powiodło się. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Przekazywanie nie powiodło się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed. The file properties are incomplete.</source>
-        <translation>Pobieranie nie powiodło się. Właściwości pliku są niekompletne.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download canceled</source>
-        <translation>Pobieranie anulowane</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
-        <translation>Pobieranie nie powiodło się. Pobieranie plików większych niż 30M nie jest obecnie obsługiwane.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation>Pobieranie nie powiodło się</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KFinishedDetailItem</name>
     <message>
         <source>Open</source>
-        <translation>Otwórz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Wyświetl katalog</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KGuideWidget</name>
     <message>
         <source>Cloud Docs Guide</source>
-        <translation>Przewodnik Dokumentów usługi Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KLiveMainWindow</name>
     <message>
         <source>livecenter debug window</source>
-        <translation>Centrum na żywo okna debugowania</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Usename:</source>
-        <translation>Nazwa użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>test@kingsoft.com</source>
-        <translation>test@kingsoft.com</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Hasło:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>king+5688</source>
-        <translation>king+5688</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server Address:</source>
-        <translation>Adres serwera:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>app.wps.cn</source>
-        <translation>app.wps.cn</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Init</source>
-        <translation>Inicjowanie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation>Zaloguj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Wyloguj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>UnInit</source>
-        <translation>Cofnij inicjowanie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Hide UI</source>
-        <translation>Ukryj UI</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WebOffice</source>
-        <translation>WebOffice</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear log</source>
-        <translation>Wyczyść dziennik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show Log</source>
-        <translation>Pokaż dziennik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>test any</source>
-        <translation>dowolny test</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login status:</source>
-        <translation>Stan logowania:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 messages @me</source>
-        <translation>%1 wiadomości @mnie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Widok</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>%1 comment(s)</source>
-        <translation>%1 komentarz(e)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File upload completed</source>
-        <translation>Ukończono przekazywanie plików</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View failed tasks</source>
-        <translation>Wyświetl nieudane zadania</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Uploading files</source>
-        <translation>Przekazywanie plików</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Detail</source>
-        <translation>Szczegóły</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Uploaded file version conflict</source>
-        <translation>Konflikt wersji przekazywanego pliku</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Browse historical versions</source>
-        <translation>Przeglądaj wersje historyczne</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File upload succeeded</source>
-        <translation>Przekazanie plików powiodło się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Details</source>
-        <translation>Szczegóły</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File upload error</source>
-        <translation>Błąd przekazywania plików</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File download succeeded</source>
-        <translation>Pobieranie plików powiodło się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File download error</source>
-        <translation>Błąd pobierania plików</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed. The file does not exist.</source>
-        <translation>Pobieranie nie powiodło się. Plik nie istnieje.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed. The file does not belong to the current user.</source>
-        <translation>Pobieranie nie powiodło się. Plik nie należy do bieżącego użytkownika.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed. This group no longer exists.</source>
-        <translation>Pobieranie nie powiodło się. Ta grupa już nie istnieje.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Download failed. You do not have the necessary permission.</source>
-        <translation>Pobieranie nie powiodło się. Nie masz wymaganych uprawnień.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File ID:%1</source>
-        <translation>Identyfikator pliku: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Getting file from Cloud...</source>
-        <translation>Pobieranie pliku z chmury...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preparation for cloud editing completed. Opening file.</source>
-        <translation>Przygotowanie do edycji chmury ukończone. Otwieranie pliku.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Office Cloud upgrade completed. It will take effect after you restart the client.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Ukończono uaktualnianie usługi WPS Office Cloud. Zacznie ono obowiązywać po ponownym uruchomieniu klienta.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation>Uruchom ponownie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Office Cloud Update</source>
-        <translation>Aktualizacja WPS Office Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Version details</source>
-        <translation>Szczegóły wersji</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>This is already the latest version and do not need to be upgraded.</source>
-        <translation>To jest już najnowsza wersja i nie musi zostać uaktualniona.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upgrading to new version...</source>
-        <translation>Uaktualnianie do nowej wersji...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upgrade failed. Please try again later.</source>
-        <translation>Uaktualnienie nie powiodło się. Proszę spróbuj ponownie później.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Exiting the program will terminate the tansfer.</source>
-        <translation>Transferowanie pliku &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Zakończenie programu zakończy tansfer.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure to exit?</source>
-        <translation>Czy na pewno chcesz zakończyć?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Logout will terminate the tansfer.</source>
-        <translation>Transferowanie pliku &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Wylogowanie zakończy tansfer.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure to sign out?</source>
-        <translation>Czy na pewno chcesz się wylogować?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;WPS Office Cloud</source>
-        <translation>&amp;WPS Office Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;View On Website</source>
-        <translation>&amp;Wyświetl na witrynie sieci Web</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Transmission Details</source>
-        <translation>Szczegóły &amp;transmisji</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Upload to Cloud Docs</source>
-        <translation>&amp;Przekaż do Dokumentów usługi Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disable &amp;Right-click Upload</source>
-        <translation>Wyłącz Przekazywanie klikając p&amp;rawym przyciskiem myszy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable &amp;Right-click Upload</source>
-        <translation>Włącz Przekazywanie klikając p&amp;rawym przyciskiem myszy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy &amp;Settings</source>
-        <translation>&amp;Ustawienia serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Informacje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Sign Out</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>&amp;Wyloguj się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Sign In</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>&amp;Zaloguj się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Exit</source>
-        <translation>&amp;Zakończ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Zamknij aktualnie otwarty dokument przed wylogowaniem się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enabling right-click upload function succeeded.</source>
-        <translation>Włączanie funkcji Przekazywania klikając prawym przyciskiem myszy powiodło się.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabling right-click upload function succeeded.</source>
-        <translation>Wyłączanie funkcji Przekazywania klikając prawym przyciskiem myszy powiodło się.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enabling right-click upload function failed. Please try again.</source>
-        <translation>Włączanie funkcji Przekazywania klikając prawym przyciskiem myszy nie powiodło się. Proszę spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Disabling right-click upload function failed. Please try again.</source>
-        <translation>Wyłączanie funkcji Przekazywania klikając prawym przyciskiem myszy nie powiodło się. Proszę spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sign In</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Zaloguj się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
-        <translation>Uaktualnij WPS Office Cloud, aby doświadczyć najnowszej wersji.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
-        <translation>Transferowanie pliku &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Przełączenie użytkownika spowoduje przerwanie transferu.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Are you sure to switch user?</source>
-        <translation>Czy na pewno chcesz przełączyć użytkownika?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Switch User</source>
-        <translation>&amp;Przełącz użytkownika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close the currently opened document before switch user</source>
-        <translation>Zamknij aktualnie otwarty dokument, przed przełączeniem użytkownika</translation>
-    </message>
-    <message>
-        <source>Your Permission Denied</source>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Please ensure your account is consistent with the Web page to log on locally, and have file permissions</source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -539,708 +522,681 @@
     <message>
         <source>WPS Office Cloud| Dear user, please save your cloud documents as soon as possible. There will be a system upgrade to WPS Office Cloud soon. 
 Time for upgrade: %1</source>
-        <translation>WPS Office Cloud| Drogi użytkowniku, prosimy zapisać dokumenty chmury, tak szybko jak to możliwe. Wkrótce będzie uaktualnienie systemu WPS Office Cloud. 
-Czas do uaktualnienia: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KProxySettingDlg</name>
     <message>
         <source>Proxy settings</source>
-        <translation>Ustawienia serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Nazwa użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Hasło:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation>Nie używaj serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Serwer proxy dla protokołu HTTP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation>Serwer proxy programu Internet Explorer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation>Podłączono prawidłowo do serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation>Połączenie do serwera proxy nie powiodło się</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KPushDebugDlg</name>
     <message>
         <source>Push Debug Dialog</source>
-        <translation>Wypchnij (Push) okno dialogowe debugowania</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tags subscribed: </source>
-        <translation>Tagi subskrybowane: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscribe</source>
-        <translation>Subskrybuj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Delete tags</source>
-        <translation>Usuń tagi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear all tags</source>
-        <translation>Wyczyść wszystkie tagi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Users</source>
-        <translation>Użytkownicy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tags</source>
-        <translation>Tagi</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>All</source>
-        <translation>Wszystko</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>iOS</source>
-        <translation>iOS</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Android</source>
-        <translation>Android</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PC</source>
-        <translation>PC</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message type:</source>
-        <translation>Typ wiadomości:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message</source>
-        <translation>Wiadomość</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Notification</source>
-        <translation>Powiadomienie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do you want to filter your messages?</source>
-        <translation>Czy chcesz filtrować wiadomości?</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Send</source>
-        <translation>Wyślij</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Batch Send</source>
-        <translation>Wyślij partię</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Push messages received:</source>
-        <translation>Wypchnij (Push) wiadomości odebrane:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Device type:</source>
-        <translation>Typ urządzenia:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Message:</source>
-        <translation>Wiadomość:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Push message type:</source>
-        <translation>Wypchnij (Push) wiadomości typu:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User IDs (separated by semi-colons):</source>
-        <translation>Identyfikatory użytkowników (oddzielone średnikami):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show heartbeat</source>
-        <translation>Pokaż kardiogram</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Rozpocznij</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation>Oczyść</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop Batch Send</source>
-        <translation>Zatrzymaj wysyłanie partii</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Getting subscribed tags.</source>
-        <translation>Pobieranie subskrybowanych tagów.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tags (separated by semi-colons):</source>
-        <translation>Tagi (oddzielone średnikami):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unconnected</source>
-        <translation>Brak połączenia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connecting</source>
-        <translation>Łączenie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Zatrzymaj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Listening</source>
-        <translation>Nasłuchiwanie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encrypted message</source>
-        <translation>Wiadomość zaszyfrowana</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unencrypted message</source>
-        <translation>Wiadomość niezaszyfrowana</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Subscribe tag failed.</source>
-        <translation>Subskrybuj tag nie powiodło się.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KQingIpcSvr</name>
     <message>
         <source>Share link transfer failed. The number of your share links has reached the maximum limit.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transfer failed. The share link has been changed or you do not have permission to edit.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Udostępniane łącze zostało zmienione lub nie masz uprawnień do edycji.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transfer failed. Please check your network connection and try again.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please close all opened documents of current user.</source>
-        <translation>Proszę zamknij wszystkie otwarte dokumenty bieżącego użytkownika.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KSelectRemotePathDlg</name>
     <message>
         <source>Upload to:</source>
-        <translation>Przekaż do:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unable to get the file list. Please check the network connection and try again.</source>
-        <translation>Nie można pobrać listy plików. Proszę sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation>Odśwież</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Pomoc</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Please choose a folder to upload.</source>
-        <translation>Wybierz folder do przesłania.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KSyncingTaskManager</name>
     <message>
         <source>Network error.</source>
-        <translation>Błąd sieciowy.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The file does not exist.</source>
-        <translation>Plik nie istnieje.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You don&apos;t have the necessary permission.</source>
-        <translation>Nie masz wymaganych uprawnień.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Nieznany błąd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transfer failed. The number of your share links has reached the maximum limit.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transfer failed. The file size exceeds the 30 MB limit. Please compress the file and try again.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Rozmiar pliku przekracza limit 30 MB. Skompresuj plik i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transfer failed. The share link has been changed or you do not have permission to edit.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Udostępniane łącze zostało zmienione lub nie masz uprawnień do edycji.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transfer failed. Please check your network connection and try again.</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można przeprowadzić transferu udostępniania łącza. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KTotalDetailItem</name>
     <message>
         <source>Tray</source>
-        <translation>Zasobnik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login name:</source>
-        <translation>Nazwa logowania:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>lblLoginName</source>
-        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
-        <translation>lblLoginName</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Uploading:</source>
-        <translation>Przekazywanie:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>lblUploadingInfo</source>
-        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
-        <translation>lblUploadingInfo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Uploading Files</source>
-        <translation>Wyświetl przekazywanie plików</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Downloading:</source>
-        <translation>Pobieranie:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>lblDownloadingInfo</source>
-        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
-        <translation>lblDownloadingInfo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Downloading Files</source>
-        <translation>Wyświetl pobieranie plików</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Completed tasks:</source>
-        <translation>Zadania ukończone:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>lblFinishedInfo</source>
-        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
-        <translation>lblFinishedInfo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Finished Files</source>
-        <translation>Wyświetl zakończone pliki</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed tasks:</source>
-        <translation>Nieudane zadania:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>lblErrorInfo</source>
-        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
-        <translation>lblErrorInfo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Error</source>
-        <translation>Wyświetl błąd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Wyświetl</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KTransDetailsDlg</name>
     <message>
         <source>Transfer Details</source>
-        <translation>Szczegóły przeniesienia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zamknij</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation>Podsumowanie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation>Przekazywanie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation>Pobieranie</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Completed tasks</source>
-        <translation>Zadania ukończone</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed tasks</source>
-        <translation>Nieudane zadania</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KUploadingDetailItem</name>
     <message>
         <source>Stop</source>
-        <translation>Zatrzymaj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Wyświetl katalog</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation>Zasobnik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KWebOfficeView</name>
     <message>
         <source>Open</source>
-        <translation>Otwórz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Zapisz jako</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Login</source>
-        <translation>Logowanie użytkownika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
-        <translation>WPS Office Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View On &amp;Website</source>
-        <translation>Wyświetl na witrynie sieci &amp;Web</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation>Szczegóły &amp;przeniesienia</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Odśwież</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation>&amp;Ustawienie serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Informacje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A file is being uploaded on this page. Please try again later.</source>
-        <translation>Plik jest przesłany do tej strony. Proszę spróbuj ponownie później.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxTrayBubble</name>
     <message>
         <source>Tray</source>
-        <translation>Zasobnik</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProxySetting</name>
     <message>
         <source>Proxy settings</source>
-        <translation>Ustawienia serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Hasło:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation>Nazwa użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation>Ustawienie serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Przycisk polecenia</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>unknow qiniu error</source>
-        <translation>nieznany błąd qiniu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>part_success</source>
-        <translation>część_sukcesu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>request_data_format_error</source>
-        <translation>błąd_żądania_formatu_danych</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Authorization failed</source>
-        <translation>Autoryzacja nie powiodła się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>resource_not_exist</source>
-        <translation>zasób_nie_istnieje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>request_method_error</source>
-        <translation>błąd_żądania_metody</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>crc32_fail</source>
-        <translation>niepowodzenie_crc32</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid user.</source>
-        <translation>Nieprawidłowy użytkownik.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server unusable</source>
-        <translation>Niemożliwy do użycia serwer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server timeout</source>
-        <translation>Przekroczono limit czasu serwera</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server callback fail</source>
-        <translation>Niepowodzenie wywołania zwrotnego serwera</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Server operation failed</source>
-        <translation>Operacja serwera nie powiodła się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>resource_modified</source>
-        <translation>zmodyfikowany_zasób</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>resource_deleted</source>
-        <translation>usunięty_zasób</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>resource_existed</source>
-        <translation>istniejący_zasób</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>space_limit</source>
-        <translation>limit_miejsca</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>space_not_exist</source>
-        <translation>miejsce_nie_istnieje</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Check data failed</source>
-        <translation>Sprawdzanie danych nie powiodło się</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share Link</source>
-        <translation>Udostępnij łącze</translation>
-    </message>
-    <message>
-        <source>Old Private Space</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Poprzednia przestrzeń prywatna</translation>
-    </message>
-    <message>
-        <source>My Cloud Files</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Moje pliki usługi Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>batchuploaddlg</name>
     <message>
         <source>Upload to Cloud Docs</source>
-        <translation>Przekaż do Dokumentów usługi Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Przycisk polecenia</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>selectremotepath_dlg</name>
     <message>
         <source>Upload to Cloud Docs</source>
-        <translation>Przekaż do Dokumentów usługi Cloud</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Przycisk polecenia</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>syncenter::KFilesModel</name>
     <message>
         <source>Share Link</source>
-        <translation>Udostępnij łącze</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link received</source>
-        <translation>Odebrano udostępniony link</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Share link transferred</source>
-        <translation>Przeniesiono udostępniony link</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>My groups</source>
-        <translation>Moje grupy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Your personal cloud document storage center</source>
-        <translation>Twoje osobiste centrum przechowywania dokumentów chmury</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>A powerful tool for rapid document sharing and coordination</source>
-        <translation>Zaawansowane narzędzie do szybkiego udostępnienia dokumentu i koordynacji</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Make your teamwork more efficient in Groups.</source>
-        <translation>Uczyń swoją pracę zespołową bardziej wydajną w Grupie.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Advanced team group</source>
-        <translation>Zaawansowana grupa zespołu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Team group</source>
-        <translation>Grupa zespołu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Free group</source>
-        <translation>Dowolna grupa</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Super team group</source>
-        <translation>Super grupa zespołu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Common group</source>
-        <translation>Wspólna grupa</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wdgFinishedDetailItem</name>
     <message>
         <source>Tray</source>
-        <translation>Zasobnik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>wdgSyncingDetailItem</name>
     <message>
         <source>Tray</source>
-        <translation>Zasobnik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
