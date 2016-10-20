@@ -132,7 +132,13 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <name>KHomePage</name>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Odblokowana strona główna IE może zawierać stronę złośliwie zmodyfikowaną przez trojany. Czy na pewno chcesz to odblokować?</translation>
+    </message>
+    <message>
+        <source>Unlock the browser homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odblokowana strona główna przeglądarki może zawierać stronę złośliwie zmodyfikowaną przez trojany. Czy na pewno chcesz to odblokować?</translation>
     </message>
 </context>
 <context>
@@ -265,36 +271,51 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>Uninstall WPS Office.lnk</source>
         <translation>Odinstaluj WPS Office.lnk</translation>
     </message>
+    <message>
+        <source>WPS Xiutang.lnk</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>WPS Xiutang.lnk</translation>
+    </message>
+    <message>
+        <source>Make polished HTML5 pages with WPS Xiutang and share to WeChat Moments.</source>
+        <translatorcomment>WPS Xiutang i WeChat Moments - nazwy własne - tak jest ok</translatorcomment>
+        <translation>Utwórz doskonałe strony HTML5 korzystając z WPS Xiutang i udostępnij je do WeChat Moments.</translation>
+    </message>
 </context>
 <context>
     <name>KMainDlg</name>
     <message>
         <source>WPS Office General Repair/Configuration Tools</source>
         <extracomment>ksomisc main dialog</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Naprawa ogólna/Narzędzia konfiguracji WPS Office</translation>
     </message>
     <message>
         <source>General Repair/Configuration Tools
 You can fix the errors encountered when using WPS Office or make advanced settings here.</source>
         <extracomment>ksomisc main dialog</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Naprawa ogólna/Narzędzia konfiguracji
-Można tutaj naprawić błędy występujące podczas korzystania z WPS Office lub dokonać zaawansowanych ustawień.</translation>
+Można tutaj naprawić błędy występujące podczas korzystania z pakietu WPS Office lub dokonać zaawansowanych ustawień.</translation>
     </message>
     <message>
         <source>If you encounter any errors when using WPS Office, such as program running or toolbar errors, please close all WPS Office applications and click the Start Repairing button below.
 We will do our utmost to repair the applications and restore them to the default state.</source>
         <extracomment>ksomisc main dialog</extracomment>
-        <translation>Jeśli wystąpią błędy podczas korzystania z WPS Office, takie jak uruchomienie programu lub błędy paska narzędzi, proszę zamknij wszystkie aplikacje WPS Office i kliknij poniżej przycisk Rozpocznij naprawianie.
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jeśli wystąpią błędy podczas korzystania z pakietu WPS Office, takie jak uruchomienie programu lub błędy paska narzędzi, zamknij wszystkie aplikacje pakietu WPS Office i kliknij poniżej przycisk Rozpocznij naprawianie.
 Dołożymy wszelkich starań, aby naprawić aplikacje i przywrócić je do stanu domyślnego.</translation>
     </message>
     <message>
         <source>Start &amp;Repairing</source>
         <extracomment>ksomisc main dialog</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Rozpocznij &amp;naprawianie</translation>
     </message>
     <message>
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
         <extracomment>ksomisc main dialog</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Jeżeli nie można naprawić błędów za pomocą przycisku Rozpocznij naprawianie lub trzeba skonfigurować inne ustawienia zaawansowane, proszę kliknij poniżej przycisk Zaawansowane, a następnie skonfiguruj ustawienia w odpowiednich zakładkach.</translation>
     </message>
     <message>
@@ -362,7 +383,33 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
-        <translation>Włącz &quot;Przekazywanie do usługi WPS Office Cloud&quot; w Menu kontekstowym.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Włącz w menu kontekstowym opcję &quot;Przekazywanie do usługi WPS Office Cloud&quot;.</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zalecane oprogramowanie:</translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zalecane &amp;oprogramowanie po ukończeniu uaktualniania.</translation>
+    </message>
+    <message>
+        <source>WPS Today and push message:</source>
+        <translatorcomment>WPS Today - nazwa własna - tak jest ok</translatorcomment>
+        <translation>Usługa WPS Today i wiadomości typu push:</translation>
+    </message>
+    <message>
+        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
+        <translatorcomment>WPS Today - nazwa własna - tak jest ok</translatorcomment>
+        <translation>&amp;Subskrybuj usługę &quot;WPS Today&quot;</translation>
+    </message>
+    <message>
+        <source>&amp;Receive push messages</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Otrzymywanie wiadomości typu push</translation>
     </message>
 </context>
 <context>
@@ -412,7 +459,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>To protect document security, WPS Office has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
-        <translation>Aby chronić bezpieczeństwo dokumentów, WPS Office stworzył wystarczające pliki kopii zapasowych dla oryginalnych plików. Możesz tutaj usunąć pliki kopii zapasowej, aby zaoszczędzić miejsce na dysku.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Aby chronić zabezpieczenia dokumentów, pakiet WPS Office stworzył dla oryginalnych plików, wystarczające pliki kopii zapasowych. Możesz tutaj usunąć pliki kopii zapasowej, aby zaoszczędzić miejsce na dysku.</translation>
     </message>
     <message>
         <source>The clearing operation may not affect your original files. But please make sure there are no files need to be recovered before clearing them. Please check the check boxes that you need to clear separately and then click Start Clearing button.</source>
@@ -501,44 +549,54 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translation>Tutaj możesz ustawić aplikacje WPS Office jako domyślne do otwierania wspólnych plików lub przywrócić oryginalne skojarzenia plików, albo ustawić standardowy format zapisywania plików. Po ustawieniu, kliknij przycisk OK, aby potwierdzić skojarzenie pliku. 
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tutaj możesz ustawić aplikacje pakietu WPS Office jako domyślne do otwierania wspólnych plików lub przywrócić oryginalne skojarzenia plików, albo ustawić standardowy format zapisywania plików. Po ustawieniu, kliknij przycisk OK, aby potwierdzić skojarzenie pliku. 
 Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>If you choose the options below, document objects embedded will be opened by WPS Office which can also be embedded into the third-part software or system like IE browser and OA.</source>
-        <translation>Jeśli wybierzesz opcje poniżej, obiekty osadzone w dokumencie zostaną otwarte przez WPS Office, który również może być osadzony w oprogramowaniu firm trzecich lub systemie, takim jak przeglądarka IE i OA.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jeśli wybierzesz opcje poniżej, obiekty osadzone w dokumencie, które również mogą być osadzone w oprogramowaniu firm trzecich lub systemie, takim jak przeglądarka IE i OA, zostaną otwarte przez pakiet WPS Office.</translation>
     </message>
     <message>
         <source>&amp;Compatible with third-party software</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Zgodny z oprogramowaniem firm trzecich</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2003</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Zgodny z pakietem Microsoft Office 2003</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2007</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Zgodny z pakietem Microsoft Office 2007</translation>
     </message>
     <message>
         <source>Check the check boxes below, the specified files will be opened by WPS Office Applications. Otherwise, the specified files will be opened by the original associated applications.</source>
-        <translation>Zaznacz pola wyboru poniżej, aby określone pliki były otwierane przez aplikacje WPS Office. W przeciwnym razie określone pliki będą otwarte przez oryginalnie skojarzone aplikacje.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaznacz pola wyboru poniżej, aby określone pliki były otwierane przez aplikacje pakietu WPS Office. W przeciwnym razie określone pliki będą otwarte przez oryginalnie skojarzone aplikacje.</translation>
     </message>
     <message>
         <source>Microsoft &amp;Word Documents (*.doc, *.dot, *.docx files) and RTF Documents</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dokumenty programu Microsoft &amp;Word (pliki *.doc, *.dot, *.docx) i dokumenty RTF</translation>
     </message>
     <message>
         <source>Microsoft &amp;Excel Workbooks (*.xls, *.xlt, *.xlsx files)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Skoroszyty programu Microsoft &amp;Excel (pliki *.xls, *.xlt, *.xlsx)</translation>
     </message>
     <message>
         <source>Microsoft &amp;PowerPoint Presentations (*.ppt, *.pot, *.pps, *.pptx files)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Prezentacje programu Microsoft &amp;PowerPoint (pliki *.ppt, *.pot, *.pps, *.pptx)</translation>
     </message>
     <message>
         <source>WPS Office will save related documents in the following selected formats. Other documents will be saved in WPS Office formats.</source>
-        <translation>WPS Office będzie zapisywał powiązane dokumenty w wybranych formatach. Inne dokumenty zostaną zapisane w formatach WPS Office.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pakiet WPS Office będzie zapisywał powiązane dokumenty w wybranych formatach. Inne dokumenty zostaną zapisane w formatach pakietu WPS Office.</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;doc format by default</source>
@@ -554,39 +612,47 @@ Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
         <source>File Associations</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Skojarzenia plików</translation>
     </message>
     <message>
         <source>Tip</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Porada</translation>
     </message>
     <message>
         <source>The option &quot;Compatible with third-party software&quot;
 needs restarting Windows to take effect.</source>
         <extracomment>ksomisc -&gt; Advanced -&gt; File Asso -&gt; Check/Uncheck compat with mso.</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Opcja &quot;Zgodny z oprogramowaniem firm trzecich&quot;
 wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</translation>
     </message>
     <message>
         <source>&amp;Compatible with Microsoft Office 2010</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Zgodny z pakietem Microsoft Office 2010</translation>
     </message>
     <message>
-        <source>Portable Document &amp;Format(*.pdf)</source>
-        <translation>Portable Document &amp;Format (*.pdf)</translation>
-    </message>
-    <message>
         <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Program WPS Writer zapisze nowe dokumenty w domyślnym formacie *.&amp;docx</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Program WPS Spreadsheets zapisze nowe dokumenty w domyślnym formacie *.&amp;xlsx</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Program WPS Presentation zapisze nowe dokumenty w domyślnym formacie *.pp&amp;tx</translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Portable Document &amp;Format (*.pdf)</translation>
     </message>
 </context>
 <context>
@@ -613,34 +679,47 @@ wymaga ponownego uruchomienia systemu Windows, aby została uwzględniona.</tran
     <message>
         <source>You can change the IE homepage anytime.
 Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Możesz w każdej chwili zmienić stronę główną IE.
-Zauważ, że w ten sposób narażasz się na ryzyko zainfekowania wirusem i włamania.</translation>
+Zauważ, że postępując w ten sposób narażasz się na ryzyko włamania i zainfekowania wirusem.</translation>
     </message>
     <message>
         <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
         <translation>WPS Office jest darmowym oprogramowaniem. Twoje wsparcie jest niezbędne do jego ulepszenia.</translation>
+    </message>
+    <message>
+        <source>You can change the browser homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Możesz w każdej chwili zmienić stronę główną przeglądarki.
+Zauważ, że postępując w ten sposób narażasz się na ryzyko włamania i zainfekowania wirusem.</translation>
     </message>
 </context>
 <context>
     <name>KPageRebuild</name>
     <message>
         <source>Reset Repair</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Resetuj naprawę</translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using WPS Office, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
-        <translation>Utrata składników w rejestrze systemowym może powodować błędy występujące podczas używania WPS Office, takie jak brak możliwości uruchamiania innych aplikacji, itp. Proszę kliknąć przycisk poniżej, aby spróbować naprawiania, które zostanie wprowadzone po ponownym uruchomieniu.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Utrata składników w rejestrze systemowym może powodować błędy występujące podczas używania pakietu WPS Office, takie jak brak możliwości uruchamiania innych aplikacji, itp. Kliknij przycisk poniżej, aby spróbować naprawiania, które zacznie obowiązywać po ponownym uruchomieniu.</translation>
     </message>
     <message>
         <source>&amp;Register Components Again</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Ponowne &amp;rejestrowanie składników</translation>
     </message>
     <message>
         <source>If toolbar buttons are mixed up, please close all WPS Office applications and click the button below to restore toolbars to their original states. Repairs will take effect after you restart your computer.</source>
-        <translation>Jeżeli przyciski paska narzędzi są pomieszane, proszę zamknąć wszystkie aplikacje WPS Office i kliknąć przycisk poniżej, aby przywrócić paski narzędzi do ich pierwotnych stanów. Naprawy zostaną wprowadzone po ponownym uruchomieniu komputera.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jeżeli przyciski paska narzędzi są pomieszane, proszę zamknąć wszystkie aplikacje pakietu WPS Office i kliknąć przycisk poniżej, aby przywrócić paski narzędzi do ich pierwotnych stanów. Naprawy zaczną obowiązywać po ponownym uruchomieniu komputera.</translation>
     </message>
     <message>
         <source>Reset &amp;Toolbars</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Resetuj &amp;paski narzędzi</translation>
     </message>
     <message>
@@ -648,11 +727,13 @@ Zauważ, że w ten sposób narażasz się na ryzyko zainfekowania wirusem i wła
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Repair -&gt; Register Components Again
 ----------
 ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Rejestrowanie składników</translation>
     </message>
     <message>
         <source>Components successfully registered.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Repair -&gt; Register Components Again</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Składniki zostały pomyślnie zarejestrowane.</translation>
     </message>
     <message>
@@ -660,22 +741,26 @@ ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; f
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; succeed
 ----------
 ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is locked)</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Resetuj paski narzędzi</translation>
     </message>
     <message>
         <source>Resetting toolbars completed.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; succeed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Ukończono resetowanie pasków narzędzi.</translation>
     </message>
     <message>
         <source>Failed to reset toolbars, please reinstall WPS Office.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is locked)</extracomment>
-        <translation>Nie można zresetować pasków narzędzi, proszę ponownie zainstalować WPS Office.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można zresetować pasków narzędzi, proszę ponownie zainstalować pakiet WPS Office.</translation>
     </message>
     <message>
         <source>Errors occur when registering components: 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Występują błędy podczas rejestrowania składników: </translation>
     </message>
     <message>
@@ -730,54 +815,63 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <source>To solve the above problems, you need to reinstall WPS Office. 
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
-        <translation>Aby rozwiązać powyższe problemy, należy ponownie zainstalować WPS Office. </translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Aby rozwiązać powyższe problemy, należy ponownie zainstalować pakiet WPS Office. </translation>
     </message>
     <message>
         <source> Registering kso.dll failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Rejestrowanie kso.dll nie powiodło się</translation>
     </message>
     <message>
         <source> Failed to register WPS Writer
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Nie można zarejestrować programu WPS Writer</translation>
     </message>
     <message>
         <source> Failed to register WPS Presentation
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Nie można zarejestrować programu WPS Presentation</translation>
     </message>
     <message>
         <source> Failed to register WPS Spreadsheets
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Nie można zarejestrować programu WPS Spreadsheets</translation>
     </message>
     <message>
         <source> Registering WPS Equation Editor failed
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Rejestrowanie Edytora równań WPS nie powiodło się</translation>
     </message>
     <message>
         <source> WPS Writer not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Nie odnaleziono programu WPS Writer</translation>
     </message>
     <message>
         <source> WPS Presentation not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Nie odnaleziono programu WPS Presentation</translation>
     </message>
     <message>
         <source> WPS Spreadsheets not found
 </source>
         <extracomment>ksomisc -&gt; advance -&gt; Reset Repair -&gt; register components again -&gt; failed</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation> Nie odnaleziono programu WPS Spreadsheets</translation>
     </message>
 </context>
@@ -830,7 +924,8 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Caution:After clicking the Change Scheme button, changes may take effect after restarting WPS Office.</source>
-        <translation>Uwaga: Po kliknięciu przycisku Zmień schemat, zmiany zostaną wprowadzone po ponownym uruchomieniu WPS Office.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uwaga: Po kliknięciu przycisku Zmień schemat, zmiany zaczną obowiązywać po ponownym uruchomieniu pakietu WPS Office.</translation>
     </message>
     <message>
         <source>Modern Theme</source>
@@ -1348,15 +1443,17 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Software recommend：</source>
+        <translatorcomment>ok</translatorcomment>
         <translation>Zalecane oprogramowanie:</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translatorcomment>ok</translatorcomment>
         <translation>Zalecane &amp;oprogramowanie po ukończeniu uaktualniania.</translation>
     </message>
     <message>
         <source>To improve the quality, reliability, and capability of WPS Office and its service, you are invited to participate in User Experience Improvement Activity.</source>
-        <translation>Aby poprawić jakość, niezawodność i możliwości WPS Office oraz jego obsługę, zapraszamy do wzięcia udziału w naszym programie Poprawy jakości obsługi użytkownika.</translation>
+        <translation>Aby poprawić jakość, niezawodność i możliwości pakietu WPS Office oraz jego obsługę, zapraszamy do wzięcia udziału w naszym programie poprawy jakości obsługi użytkownika.</translation>
     </message>
     <message>
         <source>Update Start</source>
@@ -1364,7 +1461,7 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     </message>
     <message>
         <source>Know more details about Experience Improvement Activity</source>
-        <translation>Dowiedz się więcej o naszym programie Poprawy jakości obsługi użytkownika</translation>
+        <translation>Dowiedz się więcej o naszym programie poprawy jakości obsługi użytkownika</translation>
     </message>
     <message>
         <source>IP Address is not valid!</source>
@@ -1398,6 +1495,10 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <message>
         <source>Check for update, but let me choose whether to &amp;download and install them</source>
         <translation>Wyszukaj aktualizacje, ale pozwól mi wybrać, czy je &amp;pobrać i zainstalować</translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation type="obsolete">Inne</translation>
     </message>
     <message>
         <source>Use a &amp;background service to install updates</source>

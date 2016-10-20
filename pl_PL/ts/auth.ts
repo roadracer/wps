@@ -21,7 +21,7 @@
     <name>KBubbleTipManager</name>
     <message>
         <source>You try %1 days, and %2 days left. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation>Korzystasz %1 dni i pozostało %2 dni. &lt;br/&gt;Po upływie okresu próbnego nie będzie można normalnie korzystać z produktu. &lt;br/&gt; Aby nie miało to wpływu na użytkowanie, proszę kup WPS Office.</translation>
+        <translation>Korzystasz %1 dni i pozostało %2 dni. &lt;br/&gt;Po upływie okresu próbnego nie będzie można normalnie korzystać z produktu. &lt;br/&gt; Aby nie miało to wpływu na użytkowanie, kup WPS Office.</translation>
     </message>
     <message>
         <source>The probation period is about to expire</source>
@@ -33,7 +33,7 @@
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation>Pozostało Ci %1 dni Autoryzacji. &lt;br/&gt;Po upływie okresu próbnego nie będzie można normalnie korzystać z produktu. &lt;br/&gt; Aby nie miało to wpływu na użytkowanie, proszę kup WPS Office.</translation>
+        <translation>Pozostało Ci %1 dni Autoryzacji. &lt;br/&gt;Po upływie okresu próbnego nie będzie można normalnie korzystać z produktu. &lt;br/&gt; Aby nie miało to wpływu na użytkowanie, kup WPS Office.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
@@ -87,7 +87,7 @@
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation>Nie można zapisać numeru seryjnego. Proszę sprawdź, czy masz uprawnienia administratora.</translation>
+        <translation>Nie można zapisać numeru seryjnego. Sprawdź, czy masz uprawnienia administratora.</translation>
     </message>
     <message>
         <source>The serial number you entered is invalid. Please check the input format, its supported version and the valid date.</source>
@@ -233,7 +233,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
@@ -434,7 +435,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign in to use WPS Office and enjoy more advanced services.</source>
@@ -636,11 +638,11 @@ p, li { white-space: pre-wrap; }
     <name>KxOverdueDlg</name>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>Twój okres próbny pakietu WPS Office wygasł i masz zamiar przejść w Tryb przeglądarki. Proszę wprowadzić prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
+        <translation>Twój okres próbny pakietu WPS Office wygasł i masz zamiar przejść w Tryb przeglądarki. Wprowadź prawidłowy numer seryjny, aby dalej korzystać z aplikacji. Jeśli nie masz prawidłowego numeru seryjnego, proszę zakupić jeden w</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation>Twój okres próbny pakietu WPS Office wygasł i drukowanie zostanie wyłączone. Proszę wprowadzić prawidłowy numer seryjny, aby go uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
+        <translation>Twój okres próbny pakietu WPS Office wygasł i drukowanie zostanie wyłączone. Wprowadź prawidłowy numer seryjny, aby go uaktywnić. Jeśli nie masz prawidłowego numeru seryjnego, możesz zakupić jeden w</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -695,7 +697,8 @@ p, li { white-space: pre-wrap; }
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>WPS Office Activation Code</source>
-        <translation>Kod aktywacji WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kod aktywacji pakietu WPS Office</translation>
     </message>
     <message>
         <source>Please enter your activation code</source>
@@ -723,11 +726,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>The server is busy. Please try again later.</source>
-        <translation>Serwer jest zajęty. Proszę spróbuj ponownie później.</translation>
+        <translation>Serwer jest zajęty. Spróbuj ponownie później.</translation>
     </message>
     <message>
         <source>Please check your network connection and try again.</source>
-        <translation>Sprawdź połączenie z siecią i spróbuj ponownie później.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Activated</source>
@@ -751,6 +755,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activation code expires on: %1</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Kod aktywacji wygaśnie: %1</translation>
     </message>
     <message>
@@ -788,6 +793,11 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
         <translation>Aby aktywować WPS Office potrzeba zezwolenia system UAC (kontrola konta użytkownika), proszę spróbować ponownie.</translation>
+    </message>
+    <message>
+        <source>Please check your network connection or %1configure proxy%2 and try again.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź połączenie sieciowe lub %1 skonfiguruj serwer proxy %2 i spróbuj ponownie.</translation>
     </message>
 </context>
 <context>
@@ -887,7 +897,8 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
     </message>
     <message>
         <source>Cannot connect to the server, thus activation fails. Please check your network connection and try again.</source>
-        <translation>Nie można połączyć się z serwerem, dlatego aktywacja kończy się niepowodzeniem. Sprawdź połączenie z siecią i spróbuj ponownie później.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można połączyć się z serwerem, dlatego aktywacja zakończyła się niepowodzeniem. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Upgrade to WPS Office Business Edition</source>
@@ -908,6 +919,14 @@ Po wygaśnieciu, niektóre funkcje nie będą działać prawidłowo. Proszę odn
         <source>Activate</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>Uaktywnij</translation>
+    </message>
+    <message>
+        <source>Purchase License</source>
+        <translation>Kup licencję</translation>
+    </message>
+    <message>
+        <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
+        <translation>Aby przestać widzieć reklamy i korzystać z dodatkowych usług, możesz kupić licencję.</translation>
     </message>
 </context>
 <context>

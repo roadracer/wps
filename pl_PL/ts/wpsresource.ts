@@ -1195,8 +1195,34 @@
 <context>
     <name>classics.full_screen</name>
     <message>
+        <source>Click to adjust Zoom level</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kliknij, aby dostosować Poziom powiększenia</translation>
+    </message>
+    <message>
         <source>Close Full Screen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zamknij pełny ekran</translation>
+    </message>
+    <message>
+        <source>Page Fit And Hide Empty</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dopasowanie strony i Ukryj puste</translation>
+    </message>
+    <message>
+        <source>Quit Full Screen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zakończ pełny ekran</translation>
+    </message>
+    <message>
+        <source>Zoom In</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Powiększ</translation>
+    </message>
+    <message>
+        <source>Zoom Out</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pomniejsz</translation>
     </message>
 </context>
 <context>
@@ -1231,7 +1257,8 @@
     </message>
     <message>
         <source>Link to Previous</source>
-        <translation>Łącze do poprzedniego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim</translation>
     </message>
     <message>
         <source>Next Header</source>
@@ -1511,6 +1538,7 @@
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -1559,6 +1587,11 @@
     <message>
         <source>Close Preview</source>
         <translation>Zamknij podgląd</translation>
+    </message>
+    <message>
+        <source>Multiple Pages</source>
+        <translatorcomment>Styl klasyczny - Writer-&gt;Podgląd wydruku - podpowiedź po najechaniu myszką na ikonę - tak jest ok jak w MSO</translatorcomment>
+        <translation>Kilka stron</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -1860,6 +1893,11 @@
         <source>Insert Vertical Blank Page</source>
         <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw-&gt;Pusta strona - tak jest ok</translatorcomment>
         <translation>Pionowa</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Matching Current Format</source>
@@ -2783,7 +2821,8 @@ styl tabeli</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -2827,9 +2866,9 @@ styl tabeli</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Dodatki
-COM</translation>
+ COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2956,9 +2995,9 @@ makro</translation>
     </message>
     <message>
         <source>Security</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Bezpieczeństwo
-makr</translation>
+ makr</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -2974,8 +3013,9 @@ makr</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
-        <translation>Wyświetl kod</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Wyświetl
+ kod</translation>
     </message>
     <message>
         <source>Visual Basic
@@ -2989,8 +3029,8 @@ Visual Basic</translation>
     </message>
     <message>
         <source>XML Mapping Pane</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - tak jest ok jak w Word</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Writer-&gt;Deweloper oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Okienko 
 mapowania XML</translation>
     </message>
     <message>
@@ -3471,8 +3511,8 @@ On</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -3612,9 +3652,9 @@ tekstu</translation>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Zawijaj
-tekst</translation>
+ tekst</translation>
     </message>
     <message>
         <source>Wrap Text@rainbow</source>
@@ -4201,6 +4241,11 @@ On</source>
         <translation>Kopia zapasowa i odzyskiwanie</translation>
     </message>
     <message>
+        <source>Backup and Recovery</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kopie zapasowe i odzyskiwanie</translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation type="obsolete">Zmień wersję</translation>
     </message>
@@ -4220,6 +4265,16 @@ On</source>
     <message>
         <source>Docer Entrance</source>
         <translation>Wejście Docer</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -4486,19 +4541,24 @@ godzina</translation>
     <message>
         <source>Header and Footer
 Options</source>
-        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
-        <translation>Opcje
+        <translatorcomment>tak jest ok jak w MSO - ta spacja musi być, aby nie zlewały się wyrazy, gdy są w jednym wierszu</translatorcomment>
+        <translation>Opcje 
 nagłówków i stopek</translation>
     </message>
     <message>
         <source>Header and Footer Options</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok jak w MSO</translatorcomment>
-        <translation>Opcje
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok jak w MSO - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Opcje 
 nagłówków i stopek</translation>
     </message>
     <message>
         <source>Insert</source>
         <translation>Wstaw</translation>
+    </message>
+    <message>
+        <source>Insert Alignment Tab</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wstaw tabulator wyrównania</translation>
     </message>
     <message>
         <source>Insert Clip Art</source>
@@ -4511,9 +4571,9 @@ nagłówków i stopek</translation>
     <message>
         <source>Link to
 Previous</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
-        <translation>Łącze do
-poprzedniego</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Połącz z 
+poprzednim</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -4526,15 +4586,20 @@ poprzedniego</translation>
     <message>
         <source>Next
 Header</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Następny
-nagłówek</translation>
+ nagłówek</translation>
     </message>
     <message>
         <source>Page
 Number</source>
         <translation>Numer
 strony</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki-&gt;Ustawienia - tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia strony</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -4546,26 +4611,32 @@ strony</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok jak w Word</translatorcomment>
+        <translation>Obrazy</translation>
     </message>
     <message>
         <source>Previous
 Header</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Poprzedni
-nagłówek</translation>
+ nagłówek</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <source>Show Header Line</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
-        <translation>Pokaż
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pokaż 
 linię nagłówka</translation>
     </message>
     <message>
         <source>Switch between
 Header and Footer</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok</translatorcomment>
-        <translation>Przełącz między
+        <translatorcomment>Styl wstążki - Writer-&gt;karta Nagłówek i stopka po kliknięciu w dokumencie w pole nagłówka lub stopki - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Przełącz między 
 nagłówkiem i stopką</translation>
     </message>
     <message>
@@ -4887,7 +4958,8 @@ styl</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Word</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>None</source>
@@ -4956,7 +5028,9 @@ styl</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
+zaznaczenia</translation>
     </message>
     <message>
         <source>Set Default Paste</source>
@@ -5369,7 +5443,13 @@ strony</translation>
     </message>
     <message>
         <source>Picture</source>
-        <translation>Obraz</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
+        <translation>Obrazy</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Protect Form</source>
@@ -5409,7 +5489,9 @@ strony</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translation>Pole tekstowe</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
+tekstowe</translation>
     </message>
     <message>
         <source>Text Form Field</source>
@@ -5425,8 +5507,8 @@ strony</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
-        <translation>Znak
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Znak 
 wodny</translation>
     </message>
     <message>
@@ -5442,8 +5524,8 @@ wodny</translation>
     </message>
     <message>
         <source>Blank Page</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
-        <translation>Pusta
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pusta 
 strona</translation>
     </message>
     <message>
@@ -5452,8 +5534,8 @@ strona</translation>
     </message>
     <message>
         <source>Breaks</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
-        <translation>Znaki
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Znaki 
 podziału</translation>
     </message>
     <message>
@@ -5656,6 +5738,11 @@ strony</translation>
         <translation>Obrazy</translation>
     </message>
     <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
+    </message>
+    <message>
         <source>Protect Form</source>
         <translation>Chroń formularz</translation>
     </message>
@@ -5685,8 +5772,8 @@ strony</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -5704,8 +5791,8 @@ tekstowe</translation>
     </message>
     <message>
         <source>Watermark</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - pojawia się dopiero po zapisaniu pliku jako &quot;.doc&quot; lub &quot;.wps&quot; i nie jest to tożsame z tłumaczeniem opcji &quot;Znak wodny&quot;, która jest dostępna w karcie Wstaw bezpośrednio po utworzeniu nowego dokumentu, aż do momentu zapisania go z podanymi wcześniej rozszerzeniami - tak jest ok</translatorcomment>
-        <translation>Znak
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - pojawia się dopiero po zapisaniu pliku jako &quot;.doc&quot; lub &quot;.wps&quot; i nie jest to tożsame z tłumaczeniem opcji &quot;Znak wodny&quot;, która jest dostępna w karcie Wstaw bezpośrednio po utworzeniu nowego dokumentu, aż do momentu zapisania go z podanymi wcześniej rozszerzeniami - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Znak 
 wodny</translation>
     </message>
     <message>
@@ -5733,9 +5820,9 @@ wodny</translation>
     </message>
     <message>
         <source>First Record</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Pierwszy
-rekord</translation>
+ rekord</translation>
     </message>
     <message>
         <source>Go to Record</source>
@@ -5759,14 +5846,14 @@ rekord</translation>
     </message>
     <message>
         <source>Last Record</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Ostatni
-rekord</translation>
+ rekord</translation>
     </message>
     <message>
         <source>Mail Merge Recipients</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
-        <translation>Adresaci
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Adresaci 
 koresp. seryjnej</translation>
     </message>
     <message>
@@ -5796,9 +5883,9 @@ koresp. seryjnej</translation>
     </message>
     <message>
         <source>Next Record</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Następny
-rekord</translation>
+ rekord</translation>
     </message>
     <message>
         <source>Open Data Source</source>
@@ -5814,20 +5901,20 @@ wyników</translation>
     </message>
     <message>
         <source>Previous Record</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Poprzedni
-rekord</translation>
+ rekord</translation>
     </message>
     <message>
         <source>Start Mail Merge</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
-        <translation>Rozpocznij
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Rozpocznij 
 koresp. seryjną</translation>
     </message>
     <message>
         <source>View Merged Data</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok</translatorcomment>
-        <translation>Wyświetl
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania-&gt;Korespondencja seryjna - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Wyświetl 
 scalone dane</translation>
     </message>
     <message>
@@ -5863,8 +5950,8 @@ scalone dane</translation>
     </message>
     <message>
         <source>Go to TOC</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok</translatorcomment>
-        <translation>Przejdź do
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Przejdź do 
 spisu treści</translation>
     </message>
     <message>
@@ -5910,8 +5997,8 @@ spisu treści</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok</translatorcomment>
-        <translation>Aktualizuj
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok-&gt;Konspekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Aktualizuj 
 spis treści</translation>
     </message>
 </context>
@@ -6055,9 +6142,9 @@ spis treści</translation>
     </message>
     <message>
         <source>Genko Setting</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Układ strony - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Ustawienia
-Genko</translation>
+ Genko</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -6130,8 +6217,9 @@ Genko</translation>
     <message>
         <source>Page
 Borders</source>
+        <translatorcomment>Writer-&gt;Układ strony oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Układ strony - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Obramowania
-stron</translation>
+ stron</translation>
     </message>
     <message>
         <source>Page
@@ -6151,8 +6239,8 @@ strony</translation>
     </message>
     <message>
         <source>Page Color</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
-        <translation>Kolor
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Kolor 
 strony</translation>
     </message>
     <message>
@@ -6197,7 +6285,9 @@ strony</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w stylu klasycznym</translatorcomment>
+        <translation>Okienko 
+zaznaczenia</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -6280,9 +6370,9 @@ tekstu</translation>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Zawijaj
-tekst</translation>
+ tekst</translation>
     </message>
 </context>
 <context>
@@ -6714,13 +6804,23 @@ obrazy</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Kompresuj
-obrazy</translation>
+ obrazy</translation>
     </message>
     <message>
         <source>Crop</source>
         <translation>Przytnij</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów-&gt;Przytnij - tak jest ok</translatorcomment>
+        <translation>Przytnij do skali</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów-&gt;Przytnij - tak jest ok jak w Word</translatorcomment>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -6867,9 +6967,9 @@ obraz</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Wstaw
-obraz</translation>
+ obraz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -6883,6 +6983,11 @@ obraz</translation>
     <message>
         <source>Less Contrast</source>
         <translation>Zmniejsz kontrast</translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Zablokuj współczynnik proporcji</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -7012,7 +7117,13 @@ obraz</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Resetuj rozmiar</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -7038,8 +7149,8 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -7060,7 +7171,9 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translation>Ustaw kolor przezroczysty</translation>
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Ustaw kolor 
+przezroczysty</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7245,8 +7358,8 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Wrapping Style</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Styl
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Styl 
 otaczania</translation>
     </message>
 </context>
@@ -7604,6 +7717,7 @@ otaczania</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -7624,8 +7738,8 @@ otaczania</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Writer-&gt;Układ strony - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -7646,8 +7760,8 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Ustaw kolor
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Ustaw kolor 
 przezroczysty</translation>
     </message>
     <message>
@@ -7804,6 +7918,11 @@ przezroczysty</translation>
         <translation>Zamknij</translation>
     </message>
     <message>
+        <source>Multiple Pages</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Podgląd wydruku - tak jest ok jak w MSO</translatorcomment>
+        <translation>Kilka stron</translation>
+    </message>
+    <message>
         <source>One Page</source>
         <translation>Jedna strona</translation>
     </message>
@@ -7854,6 +7973,11 @@ przezroczysty</translation>
         <translation>Przypis dolny</translation>
     </message>
     <message>
+        <source>Footnote/Endnote</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przypis dolny/Przypis końcowy</translation>
+    </message>
+    <message>
         <source>Footnote/Endnote
 Separator</source>
         <translation type="obsolete">Separator
@@ -7861,9 +7985,9 @@ Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Footnote/Endnote Separator</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Separator przypisów
-dolnych i końcowych</translation>
+ dolnych i końcowych</translation>
     </message>
     <message>
         <source>Footnotes and Endnotes</source>
@@ -7871,20 +7995,20 @@ dolnych i końcowych</translation>
     </message>
     <message>
         <source>Insert Endnote</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
-        <translation>Wstaw
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Wstaw 
 przypis końcowy</translation>
     </message>
     <message>
         <source>Insert Footnote</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok jak w Word</translatorcomment>
-        <translation>Wstaw
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Wstaw 
 przypis dolny</translation>
     </message>
     <message>
         <source>Insert TOC</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok jak w Word</translatorcomment>
-        <translation>Wstaw
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Wstaw 
 spis treści</translation>
     </message>
     <message>
@@ -7934,9 +8058,9 @@ spis treści</translation>
     </message>
     <message>
         <source>Mail Merge</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Korespondencja
-seryjna</translation>
+ seryjna</translation>
     </message>
     <message>
         <source>Mailings</source>
@@ -7950,8 +8074,8 @@ seryjna</translation>
     </message>
     <message>
         <source>Next Footnote</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
-        <translation>Następny
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Następny 
 przypis dolny</translation>
     </message>
     <message>
@@ -7961,8 +8085,8 @@ przypis dolny</translation>
     </message>
     <message>
         <source>Previous Footnote</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
-        <translation>Poprzedni
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Poprzedni 
 przypis dolny</translation>
     </message>
     <message>
@@ -7976,8 +8100,8 @@ przypis dolny</translation>
     </message>
     <message>
         <source>TOC Level</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
-        <translation>Poziom
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Poziom 
 spisu treści</translation>
     </message>
     <message>
@@ -7986,8 +8110,8 @@ spisu treści</translation>
     </message>
     <message>
         <source>Update TOC</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok</translatorcomment>
-        <translation>Aktualizuj
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Aktualizuj 
 spis treści</translation>
     </message>
 </context>
@@ -8021,6 +8145,16 @@ spis treści</translation>
     <message>
         <source>Change User Name...</source>
         <translation>Zmień nazwę użytkownika...</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Chinese Translation</source>
@@ -8061,6 +8195,16 @@ komentarz</translation>
         <translation>Wyświetl do przeglądu</translation>
     </message>
     <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zabezpieczenia dokumentu</translation>
+    </message>
+    <message>
         <source>Final Show Markup;Final;Original Show Markup;Original</source>
         <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
         <translation>Prosta adiustacja;Bez adiustacji;Cała adiustacja;Oryginał</translation>
@@ -8072,13 +8216,14 @@ komentarz</translation>
     <message>
         <source>New
 Comment</source>
-        <translation>Nowy
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Recenzja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Nowy 
 komentarz</translation>
     </message>
     <message>
         <source>Next</source>
         <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
-        <translation>Następna</translation>
+        <translation>Następny</translation>
     </message>
     <message>
         <source>Next Change</source>
@@ -8087,7 +8232,7 @@ komentarz</translation>
     <message>
         <source>Previous</source>
         <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
-        <translation>Poprzednia</translation>
+        <translation>Poprzedni</translation>
     </message>
     <message>
         <source>Previous Change</source>
@@ -8115,8 +8260,8 @@ komentarz</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok jak w Word</translatorcomment>
-        <translation>Ogranicz
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Ogranicz 
 edytowanie</translation>
     </message>
     <message>
@@ -8133,8 +8278,8 @@ edytowanie</translation>
     </message>
     <message>
         <source>Reviewing Pane</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 recenzowania</translation>
     </message>
     <message>
@@ -8205,7 +8350,8 @@ recenzowania</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Śledź
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Śledź 
 zmiany</translation>
     </message>
     <message>
@@ -8227,8 +8373,9 @@ zmiany</translation>
     <message>
         <source>Word
 Count</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Statystyka
-wyrazów</translation>
+ wyrazów</translation>
     </message>
     <message>
         <source>horzReviewPane</source>
@@ -8267,8 +8414,8 @@ treści</translation>
     <message>
         <source>Cover
 Pages</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Sekcja - tak jest ok jak w Word</translatorcomment>
-        <translation>Strona
+        <translatorcomment>Styl wstążki - Writer-&gt;Sekcja - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Strona 
 tytułowa</translation>
     </message>
     <message>
@@ -8278,7 +8425,8 @@ tytułowa</translation>
     <message>
         <source>Delete
 Section</source>
-        <translation>Usuń
+        <translatorcomment>Styl wstążki - Writer-&gt;Sekcja oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Sekcja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Usuń 
 sekcję</translation>
     </message>
     <message>
@@ -8321,11 +8469,13 @@ i stopka</translation>
     </message>
     <message>
         <source>Link to Previous Footer</source>
-        <translation>Łącze do poprzedniej stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednią stopką</translation>
     </message>
     <message>
         <source>Link to Previous Header</source>
-        <translation>Łącze do poprzedniego nagłówka</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim nagłówkiem</translation>
     </message>
     <message>
         <source>Locate Section</source>
@@ -8403,8 +8553,9 @@ strony</translation>
     <message>
         <source>Section
 Navigation</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Sekcja oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Sekcja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Nawigacja
-sekcji</translation>
+ sekcji</translation>
     </message>
     <message>
         <source>Section Management</source>
@@ -8444,6 +8595,44 @@ sekcję</translation>
         <source>Two</source>
         <translatorcomment>dotyczy liczby kolumn na stronie</translatorcomment>
         <translation>Dwie</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zabezpieczenia dokumentu</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Oczekujące na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zastosuj moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzanie szablonem praw użytkownika</translation>
     </message>
 </context>
 <context>
@@ -9033,6 +9222,11 @@ cienia</translation>
         <translation>Zaznacz tabelę z kreskowanym obramowaniem</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translatorcomment>Writer-&gt;Wstaw tabelę-&gt;karta Narzędzia tabeli - tak jest ok</translatorcomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
         <source>Snapper</source>
         <translatorcomment>tak jest ok - Pobranie koloru</translatorcomment>
         <translation>Pipeta</translation>
@@ -9301,6 +9495,11 @@ tekstu</translation>
         <translation>Rozmiar czcionki</translation>
     </message>
     <message>
+        <source>Format Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj obiekt</translation>
+    </message>
+    <message>
         <source>Glow</source>
         <translation>Poświata</translation>
     </message>
@@ -9417,6 +9616,10 @@ tekstu</translation>
         <translation>Okrągła kropka</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>Cień</translation>
     </message>
@@ -9444,8 +9647,8 @@ tekstu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -9506,9 +9709,9 @@ tekstowe</translation>
     <message>
         <source>Arrange
 All</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Rozmieść
-wszystko</translation>
+ wszystko</translation>
     </message>
     <message>
         <source>COM
@@ -9582,7 +9785,7 @@ ekran</translation>
     <message>
         <source>New
 Window</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu  nie zlewały się wyrazy</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Widok - tak jest ok jak w Word - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu nie zlewały się wyrazy</translatorcomment>
         <translation>Nowe 
 okno</translation>
     </message>
@@ -9625,6 +9828,7 @@ wydruku</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Widok - tak jest ok jak w Word</translatorcomment>
         <translation>Resetuj położenie okna</translation>
     </message>
     <message>
@@ -9656,6 +9860,7 @@ okno</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Widok - tak jest ok jak w Word</translatorcomment>
         <translation>Przewijanie synchroniczne</translation>
     </message>
     <message>
@@ -9678,7 +9883,8 @@ okno</translation>
     <message>
         <source>View
 Side by Side</source>
-        <translation>Wyświet
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Widok oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Widok - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Wyświet 
 obok siebie</translation>
     </message>
     <message>
@@ -10673,9 +10879,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translatorcomment>Styl wstążki - Writer-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Writer-&gt;Funkcje specjalne oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Eksportuj
-do PDF</translation>
+ do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -10691,11 +10897,29 @@ do PDF</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>personal</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
         <source>Guide</source>
         <translation>Przewodnik</translation>
+    </message>
+    <message>
+        <source>H5 link Manager</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menedżer łącza H5</translation>
     </message>
     <message>
         <source>Help</source>
@@ -10704,6 +10928,11 @@ do PDF</translation>
     <message>
         <source>Help us to improve WPS Office</source>
         <translation>Pomóż nam ulepszyć WPS Office</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -10718,12 +10947,19 @@ do PDF</translation>
         <translation>Więcej z Microblog</translation>
     </message>
     <message>
+        <source>My WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>Dokumenty online</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -10738,7 +10974,9 @@ do PDF</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -10766,6 +11004,11 @@ do PDF</translation>
         <translation>Narzędzia tekstu</translation>
     </message>
     <message>
+        <source>Translate selected text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przetłumacz zaznaczony tekst</translation>
+    </message>
+    <message>
         <source>User Feedback</source>
         <translation type="obsolete">Opinie użytkowników</translation>
     </message>
@@ -10785,12 +11028,32 @@ do PDF</translation>
         <source>WPS Permit</source>
         <translation type="obsolete">Licencja WPS</translation>
     </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>XiuTang</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>XiuTang H5</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Full-Text Speech</source>
-        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa pełnotekstowa</translatorcomment>
         <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
@@ -10799,7 +11062,18 @@ do PDF</translation>
     </message>
     <message>
         <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>PDF do Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -10812,8 +11086,13 @@ do PDF</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przetłumacz zaznaczony tekst</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -11011,6 +11290,11 @@ do PDF</translation>
         <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
+        <source>Align Middle and Center</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Align Middle Center&quot; - tak jest ok</translatorcomment>
+        <translation>Wyrównaj do środka w pionie</translation>
+    </message>
+    <message>
         <source>Align Right</source>
         <translation>Wyrównaj do prawej</translation>
     </message>
@@ -11043,6 +11327,11 @@ do PDF</translation>
     <message>
         <source>All Borders</source>
         <translation>Wszystkie krawędzie</translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienia</translation>
     </message>
     <message>
         <source>Arrow Style</source>
@@ -11202,6 +11491,11 @@ do PDF</translation>
         <translation>Wypunktowanie i numeracja</translation>
     </message>
     <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
         <source>COM 
 Add-Ins</source>
         <translation>Dodatki 
@@ -11315,8 +11609,18 @@ COM</translation>
         <translation>Tytuł wykresu</translation>
     </message>
     <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
         <source>Check Spelling As You Type</source>
         <translation>Sprawdź pisownię w trakcie pisania</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -11392,6 +11696,7 @@ COM</translation>
     </message>
     <message>
         <source>Continue Numbering</source>
+        <translatorcomment>Writer-&gt;Prawy przycisk myszki na Numerowaniu - tak jest ok jak w MSO</translatorcomment>
         <translation>Kontynuuj numerowanie</translation>
     </message>
     <message>
@@ -11461,11 +11766,13 @@ COM</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Przytnij według skali</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij do skali</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Przytnij według kształtu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Cross Border</source>
@@ -11547,6 +11854,11 @@ COM</translation>
     <message>
         <source>Delete Item</source>
         <translation>Usuń element</translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Usuń obiekt</translation>
     </message>
     <message>
         <source>Delete Page Numbers</source>
@@ -11838,6 +12150,11 @@ przekątną w komórce</translation>
     <message>
         <source>Footnote</source>
         <translation>Przypis dolny</translation>
+    </message>
+    <message>
+        <source>Footnote/Endnote</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przypis dolny/Przypis końcowy</translation>
     </message>
     <message>
         <source>Footnotes</source>
@@ -12214,6 +12531,11 @@ formatów</translation>
         <translation>Wewnętrzna krawędź pionowa</translation>
     </message>
     <message>
+        <source>IntranetVersion Online Templates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
+    </message>
+    <message>
         <source>Invisible</source>
         <translation>Niewidoczny</translation>
     </message>
@@ -12413,6 +12735,21 @@ formatów</translation>
         <translation>Przenieś z tekstem</translation>
     </message>
     <message>
+        <source>My Pending Approval</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Oczekujące na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zastosuj moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
         <source>New Window</source>
         <translation>Nowe okno</translation>
     </message>
@@ -12430,7 +12767,8 @@ formatów</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>No Legend Keys</source>
@@ -12487,7 +12825,9 @@ formatów</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Writer-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Option</source>
@@ -12520,6 +12860,7 @@ formatów</translation>
     </message>
     <message>
         <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>PDF do Word</translation>
     </message>
     <message>
@@ -12722,7 +13063,8 @@ formatów</translation>
     </message>
     <message>
         <source>Restart Numbering</source>
-        <translation>Ponownie uruchom numerowanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Rozpocznij ponownie numerowanie</translation>
     </message>
     <message>
         <source>Restrict Editing</source>
@@ -12818,7 +13160,9 @@ formatów</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Writer-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -12965,16 +13309,28 @@ formatów</translation>
         <translation>Pokaż lub ukryj separator przypisów dolnych i końcowych</translation>
     </message>
     <message>
+        <source>Show/Hide Crop Panel</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pokaż/Ukryj panel przycięcia</translation>
+    </message>
+    <message>
         <source>Shrink Font</source>
         <translation>Zmniejsz czcionkę</translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -13194,6 +13550,11 @@ formatów</translation>
         <translation>Opinie użytkowników</translation>
     </message>
     <message>
+        <source>UserRight Template Management</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzanie szablonem praw użytkownika</translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translation>Pionowo</translation>
     </message>
@@ -13267,6 +13628,11 @@ formatów</translation>
     <message>
         <source>Watermark</source>
         <translation>Znak wodny</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
     </message>
     <message>
         <source>With Filling Effect Of Diamond-Shaped Bullets</source>
@@ -13898,7 +14264,8 @@ przekątną w komórce</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -15444,7 +15811,8 @@ nagłówków i stopek</translation>
     </message>
     <message>
         <source>Link to Previous</source>
-        <translation>Łącze do poprzedniego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim</translation>
     </message>
     <message>
         <source>Navigation</source>
@@ -15768,7 +16136,8 @@ nagłówkiem i stopką</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>None</source>
@@ -17664,6 +18033,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -18252,6 +18622,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -18439,6 +18810,11 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Close</source>
         <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Multiple Pages</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Kilka stron</translation>
     </message>
     <message>
         <source>One Page</source>
@@ -18685,6 +19061,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Next</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Następny</translation>
     </message>
     <message>
@@ -18697,6 +19074,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Previous</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Poprzedni</translation>
     </message>
     <message>
@@ -18899,11 +19277,13 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Link to Previous Footer</source>
-        <translation>Łącze do poprzedniej stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednią stopką</translation>
     </message>
     <message>
         <source>Link to Previous Header</source>
-        <translation>Łącze do poprzedniego nagłówka</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim nagłówkiem</translation>
     </message>
     <message>
         <source>Locate Section</source>
@@ -19969,6 +20349,11 @@ inne okna</translation>
     <message>
         <source>Markup</source>
         <translation>Adiustacja</translation>
+    </message>
+    <message>
+        <source>Multiple Pages</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Kilka stron</translation>
     </message>
     <message>
         <source>Navigation Pane</source>
@@ -21037,6 +21422,7 @@ cienia</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
@@ -21065,7 +21451,9 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>PDF To Word</source>
@@ -21080,7 +21468,9 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -21136,7 +21526,7 @@ cienia</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Full-Text Speech</source>
-        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa pełnotekstowa</translatorcomment>
         <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
@@ -21145,6 +21535,7 @@ cienia</translation>
     </message>
     <message>
         <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>PDF do Word</translation>
     </message>
     <message>
@@ -21158,7 +21549,7 @@ cienia</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -21216,6 +21607,11 @@ cienia</translation>
 <context>
     <name>workspacemenu</name>
     <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Zmień konto</translation>
     </message>
@@ -21230,6 +21626,11 @@ cienia</translation>
     <message>
         <source>Docer Entrance</source>
         <translation>Wejście Docer</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
     </message>
     <message>
         <source>Enable AutoBackup</source>
@@ -21249,11 +21650,27 @@ cienia</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>H5 link Manager</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menedżer łącza H5</translation>
     </message>
     <message>
         <source>Manual Backup</source>
         <translation>Ręczna kopia zapasowa</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -21287,12 +21704,19 @@ cienia</translation>
         <translation>Udostępnij na stronie internetowej Microblog</translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Text Tools</source>
@@ -21325,6 +21749,11 @@ cienia</translation>
         <source>WPS Microblog Layout</source>
         <translation>Układ Microblog WPS</translation>
     </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
+    </message>
 </context>
 <context>
     <name>wpsclassics.mainwindow</name>
@@ -21350,6 +21779,11 @@ cienia</translation>
     <message>
         <source>Control Toolbox</source>
         <translation>Przybornik formantów</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
     </message>
     <message>
         <source>Drawing</source>
@@ -21388,8 +21822,18 @@ cienia</translation>
         <translation>Tworzenie konspektu</translation>
     </message>
     <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>Obraz</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -21424,6 +21868,11 @@ cienia</translation>
         <translation>Pole tekstowe</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
+    </message>
+    <message>
         <source>View Side by Side</source>
         <translation>Wyświetl obok siebie</translation>
     </message>
@@ -21445,6 +21894,11 @@ cienia</translation>
     <message>
         <source>ActiveX Control</source>
         <translation>Formant ActiveX</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj ramkę obrazu</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -21487,6 +21941,11 @@ cienia</translation>
     <message>
         <source>Backup Management</source>
         <translation>Zarządzanie kopią zapasową</translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia kopii zapasowych</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -21554,6 +22013,7 @@ cienia</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kliknij, aby dopasować Poziom powiększenia</translation>
     </message>
     <message>
@@ -21661,6 +22121,11 @@ cienia</translation>
         <translation>Zmniejsz wcięcie</translation>
     </message>
     <message>
+        <source>Delete Cells</source>
+        <translatorcomment>Writer-&gt;Prawy przycisk myszki w tabeli - tak jest ok jak w Word</translatorcomment>
+        <translation>Usuń komórki</translation>
+    </message>
+    <message>
         <source>Demote</source>
         <translation>Obniż poziom</translation>
     </message>
@@ -21674,11 +22139,17 @@ cienia</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
+        <translatorcomment>Writer-&gt;Główne okno - podpowiedź po najechaniu kursorem na ikonę szablonów online, która jest z prawej strony paska otwartych kart programu - Docer to nazwa własna galerii szablonów online</translatorcomment>
         <translation>Wejście Docer</translation>
     </message>
     <message>
         <source>Document Collaboration</source>
         <translation>Dokument współpracy</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
     </message>
     <message>
         <source>DocumentField</source>
@@ -21700,6 +22171,11 @@ cienia</translation>
     <message>
         <source>Expand</source>
         <translation>Rozwiń</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -21776,6 +22252,11 @@ cienia</translation>
         <translation>Zwiększ czcionkę</translation>
     </message>
     <message>
+        <source>Hardware Encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message>
         <source>Header Line Color</source>
         <translation>Kolor linii nagłówka</translation>
     </message>
@@ -21783,6 +22264,11 @@ cienia</translation>
         <source>Help</source>
         <translatorcomment>Styl klasyczny - Writer-&gt;Nazwa zakładki &quot;Pomoc&quot; - tak jest ok jak w Word</translatorcomment>
         <translation>Pomoc</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pomoc oraz pytania i odpowiedzi</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
@@ -21813,8 +22299,8 @@ cienia</translation>
     <message>
         <source>Image Previewer</source>
         <translatorcomment>Styl wstązki - Writer-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów oraz Styl klasyczny - Writer-&gt;Wstaw-&gt;Obraz-&gt;Z pliku - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
-        <translation>Podgląd 
-obrazu</translation>
+        <translation>Podgląd
+ obrazu</translation>
     </message>
     <message>
         <source>Increase Indent</source>
@@ -21832,6 +22318,11 @@ obrazu</translation>
     <message>
         <source>Insert Blank Field</source>
         <translation>Wstaw puste pole</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -21861,6 +22352,26 @@ obrazu</translation>
     <message>
         <source>Measurement unit. Click to open &quot;Options&quot; dialog.</source>
         <translation>Jednostka miary. Kliknij, aby otworzyć okno dialogowe &quot;Opcje&quot;.</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translatorcomment>Writer-&gt;Prawy przycisk myszki w tabeli - tak jest ok jak w Word</translatorcomment>
+        <translation>Scal komórki</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 2007-2010 Document</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Dokument programu Microsoft Word 2007–2010</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Dokument programu Microsoft Word 97–2003</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Template</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szablon programu Microsoft Word 97–2003</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -22077,6 +22588,11 @@ obrazu</translation>
         <translation>Opcje</translation>
     </message>
     <message>
+        <source>Other Formats</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Inne formaty</translation>
+    </message>
+    <message>
         <source>Outline</source>
         <translation>Konspekt</translation>
     </message>
@@ -22109,6 +22625,11 @@ strony</translation>
     <message>
         <source>Paste Special</source>
         <translation>Wklej specjalnie</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Print</source>
@@ -22161,6 +22682,11 @@ bezpośrednio</translation>
         <translation>Resetuj format znaku</translation>
     </message>
     <message>
+        <source>Restart Numbering</source>
+        <translatorcomment>Writer-&gt;Prawy przycisk myszki na numerowaniu - tak jest ok jak w Word</translatorcomment>
+        <translation>Rozpocznij ponownie numerowanie</translation>
+    </message>
+    <message>
         <source>Restrict</source>
         <translation>Ogranicz</translation>
     </message>
@@ -22182,6 +22708,11 @@ bezpośrednio</translation>
         <translation>Zapisz jako</translation>
     </message>
     <message>
+        <source>Save a Copy of the Document</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Zapisz kopię dokumentu</translation>
+    </message>
+    <message>
         <source>Screen Grab</source>
         <translatorcomment>Styl wstążki - Writer-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok jak w Word</translatorcomment>
         <translation>Wycinek ekranu</translation>
@@ -22189,9 +22720,13 @@ bezpośrednio</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word</translatorcomment>
-        <translation>Zrzut
+        <translatorcomment>Styl wstążki - Writer-&gt;Wstaw - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Zrzut 
 ekranu</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Zabezpieczenia</translation>
     </message>
     <message>
         <source>Select</source>
@@ -22421,6 +22956,12 @@ ekranu</translation>
         <translation>Aktualizuj pole</translation>
     </message>
     <message>
+        <source>Update TOC</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Odwołania oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Odwołania - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Aktualizuj 
+spis treści</translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translatorcomment>Styl klasyczny - Writer-&gt;Wstaw-&gt;Pole tekstowe - tak jest ok</translatorcomment>
         <translation>Pionowe</translation>
@@ -22447,10 +22988,30 @@ ekranu</translation>
         <translation>Szablon online WPS</translation>
     </message>
     <message>
+        <source>WPS Writer 2007-2010 Document</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Dokument programu WPS Writer 2007–2010</translation>
+    </message>
+    <message>
+        <source>WPS Writer Document</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Dokument programu WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Writer Template</source>
+        <translatorcomment>Writer-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szablon programu WPS Writer</translation>
+    </message>
+    <message>
         <source>Web Layout</source>
         <translatorcomment>Writer-&gt;Widok - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (styl klasyczny) nie zlewały się wyrazy</translatorcomment>
         <translation>Układ 
 sieci Web</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
     </message>
     <message>
         <source>Whole Table</source>
@@ -22534,6 +23095,11 @@ sieci Web</translation>
         <translation>50%</translation>
     </message>
     <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>5;5,5;6,5;7,5;8;9;10;10,5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
         <source>66%</source>
         <translation>66%</translation>
     </message>
@@ -22552,6 +23118,11 @@ sieci Web</translation>
     <message>
         <source>Asian Layout</source>
         <translation>Układ azjatycki</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
     </message>
     <message>
         <source>Change Account</source>
@@ -22583,6 +23154,11 @@ sieci Web</translation>
         <translation>Deweloper</translation>
     </message>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Drawing Tools</source>
         <translation>Narzędzia do rysowania</translation>
     </message>
@@ -22599,6 +23175,24 @@ sieci Web</translation>
         <translation type="obsolete">Plik</translation>
     </message>
     <message>
+        <source>Font Size</source>
+        <translation>Rozmiar czcionki</translation>
+    </message>
+    <message>
+        <source>Format
+Painter</source>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Malarz 
+formatów</translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Narzędzia główne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Malarz 
+formatów</translation>
+    </message>
+    <message>
         <source>Formats</source>
         <translatorcomment>wstaw dowolny kształ i zapisz plik jako doc - po kliknięciu na kształcie pojawi się we wstążce zakładka o nazwie Formatowanie</translatorcomment>
         <translation>Formatowanie</translation>
@@ -22609,12 +23203,20 @@ sieci Web</translation>
         <translation>Formatowanie - Tryb zgodności</translation>
     </message>
     <message>
+        <source>Grow Font</source>
+        <translation>Zwiększ czcionkę</translation>
+    </message>
+    <message>
         <source>Header and Footer</source>
         <translation>Nagłówek i stopka</translation>
     </message>
     <message>
         <source>Hide the Toolbar</source>
         <translation>Ukryj pasek narzędzi</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>Wyróżnienie</translation>
     </message>
     <message>
         <source>Home</source>
@@ -22651,8 +23253,25 @@ sieci Web</translation>
         <translation>Więcej</translation>
     </message>
     <message>
+        <source>More Font Colors</source>
+        <translatorcomment>Writer-&gt;Główne okno programu - tak jest ok</translatorcomment>
+        <translation>Więcej kolorów czcionki</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
         <source>Navigation Pane</source>
         <translation>Okienko nawigacji</translation>
+    </message>
+    <message>
+        <source>New
+Comment</source>
+        <translatorcomment>Styl wstążki - Writer-&gt;Recenzja oraz Writer-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok jak w Word - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Nowy 
+komentarz</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -22688,6 +23307,12 @@ sieci Web</translation>
     </message>
     <message>
         <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>PDF do Word</translation>
     </message>
     <message>
@@ -22710,6 +23335,11 @@ sieci Web</translation>
     <message>
         <source>Picture Tools - Compatibility Mode</source>
         <translation>Narzędzia obrazów - Tryb zgodności</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -22751,6 +23381,10 @@ sieci Web</translation>
         <translation>Nawigacja sekcji</translation>
     </message>
     <message>
+        <source>Security</source>
+        <translation>Zabezpieczenia</translation>
+    </message>
+    <message>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
@@ -22759,12 +23393,28 @@ sieci Web</translation>
         <translation>Pokaż pasek narzędzi</translation>
     </message>
     <message>
+        <source>Shrink Font</source>
+        <translation>Zmniejsz czcionkę</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -22788,8 +23438,12 @@ sieci Web</translation>
         <translation>Narzędzia tabel</translation>
     </message>
     <message>
+        <source>Text Color</source>
+        <translation>Kolor tekstu</translation>
+    </message>
+    <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -22799,6 +23453,13 @@ sieci Web</translation>
     <message>
         <source>Touch Mode</source>
         <translation>Tryb dotyku</translation>
+    </message>
+    <message>
+        <source>Track
+Changes</source>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Śledź 
+zmiany</translation>
     </message>
     <message>
         <source>Two Lines in One</source>
@@ -22831,6 +23492,11 @@ sieci Web</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plugin pakietu WPS</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>
@@ -22980,6 +23646,12 @@ sieci Web</translation>
     </message>
     <message>
         <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>PDF do Word</translation>
     </message>
     <message>
@@ -23048,7 +23720,8 @@ sieci Web</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -23072,7 +23745,7 @@ sieci Web</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -23105,6 +23778,11 @@ sieci Web</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plugin pakietu WPS</translation>
     </message>
     <message>
         <source>testRbTabWidget</source>

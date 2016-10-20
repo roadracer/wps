@@ -6319,6 +6319,7 @@ Proszę wybierz inną nazwę pliku.</translation>
     </message>
     <message>
         <source>Print Screen</source>
+        <translatorcomment>ok - chyba chodzi o klawisz</translatorcomment>
         <translation>Print Screen</translation>
     </message>
     <message>

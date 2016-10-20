@@ -932,6 +932,11 @@
         <translation>Więcej punktorów</translation>
     </message>
     <message>
+        <source>More DesignTemplates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Więcej szablonów projektów</translation>
+    </message>
+    <message>
         <source>More Font Colors</source>
         <translation>Więcej kolorów czcionki</translation>
     </message>
@@ -941,6 +946,7 @@
     </message>
     <message>
         <source>New Slide</source>
+        <translatorcomment>Styl klasyczny-&gt;Wstaw oraz podpowiedź po najechaniu myszką na ikonę w pasku narzędziowym okna głównego programu- tak jest ok</translatorcomment>
         <translation>Nowy slajd</translation>
     </message>
     <message>
@@ -1270,6 +1276,7 @@
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -1547,6 +1554,11 @@ slajdów</translation>
     <message>
         <source>Insert Table</source>
         <translation>Wstaw tabelę</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Minisite</source>
@@ -2056,7 +2068,8 @@ animacji</translation>
     <message>
         <source>Custom
 Animation</source>
-        <translation>Animacja
+        <translatorcomment>Styl wstążki - Presentation-&gt;Animacje oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Animacje - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Animacja 
 niestandardowa</translation>
     </message>
     <message>
@@ -2070,7 +2083,8 @@ niestandardowa</translation>
     <message>
         <source>Transition
 Effects</source>
-        <translation>Efekty
+        <translatorcomment>Styl wstążki - Presentation-&gt;Animacje oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Animacje - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Efekty 
 przejścia</translation>
     </message>
 </context>
@@ -2361,9 +2375,19 @@ przejścia</translation>
     <message>
         <source>Color
 Schemes</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Schematy
-kolorów</translation>
+ kolorów</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kolory</translation>
+    </message>
+    <message>
+        <source>Custom Size</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Rozmiar slajdu - tak jest ok</translatorcomment>
+        <translation>Rozmiar niestandardowy</translation>
     </message>
     <message>
         <source>Custom Text Format</source>
@@ -2376,9 +2400,22 @@ kolorów</translation>
     <message>
         <source>Edit
 Slide Master</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Projekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Edytuj wzorzec
-slajdów</translation>
+ slajdów</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Edytuj motyw</translation>
+    </message>
+    <message>
+        <source>Effects</source>
+        <translation>Efekty</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>Czcionki</translation>
     </message>
     <message>
         <source>Import Templates</source>
@@ -2392,7 +2429,7 @@ slajdów</translation>
     <message>
         <source>Involved
 Template</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu  nie zlewały się wyrazy</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu nie zlewały się wyrazy</translatorcomment>
         <translation>Szablon 
 powiązany</translation>
     </message>
@@ -2414,9 +2451,14 @@ strony</translation>
     </message>
     <message>
         <source>Page Setup</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Projekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Ustawienia
-strony</translation>
+ strony</translation>
+    </message>
+    <message>
+        <source>Phone Screen(9:16)</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Rozmiar slajdu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Telefoniczny (9:16)</translation>
     </message>
     <message>
         <source>Portrait</source>
@@ -2425,8 +2467,8 @@ strony</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
-        <translation>Narzędzia
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Narzędzia 
 prezentacji</translation>
     </message>
     <message>
@@ -2457,9 +2499,30 @@ orientacja</lengthvariant>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Orientacja
-slajdu</translation>
+ slajdu</translation>
+    </message>
+    <message>
+        <source>Slide Size</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Rozmiar
+ slajdu</translation>
+    </message>
+    <message>
+        <source>Stand Screen(4:3)</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Rozmiar slajdu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Standardowy (4:3)</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Motywy</translation>
+    </message>
+    <message>
+        <source>Wide Screen(16:9)</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Rozmiar slajdu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Panoramiczny (16:9)</translation>
     </message>
     <message>
         <source>import templates</source>
@@ -2468,6 +2531,47 @@ slajdu</translation>
 </context>
 <context>
     <name>ongmani.ct_designtable</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 pkt</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 pkt</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 pkt</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 pkt</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 pkt</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 pkt</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 pkt</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 pkt</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 pkt</translation>
+    </message>
+    <message>
+        <source>Apply To :</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zastosuj do:</translation>
+    </message>
     <message>
         <source>Border Color</source>
         <translation>Kolor obramowania</translation>
@@ -2483,6 +2587,35 @@ Table Style</source>
 styl tabeli</translation>
     </message>
     <message>
+        <source>Clear WordArt</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyczyść tekst WordArt</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Kreska</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Styl kreskowany</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Kreska-kropka</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Kreska-kropka-kropka</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Poświata</translation>
+    </message>
+    <message>
         <source>Gradient</source>
         <translation>Gradient</translation>
     </message>
@@ -2495,6 +2628,16 @@ styl tabeli</translation>
         <translation>Grubość linii</translation>
     </message>
     <message>
+        <source>Long Dash</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Długa kreska</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Długa kreska-kropka-kreska</translation>
+    </message>
+    <message>
         <source>More Fill Colors</source>
         <translation>Więcej kolorów wypełnienia</translation>
     </message>
@@ -2503,17 +2646,57 @@ styl tabeli</translation>
         <translation>Więcej kolorów linii</translation>
     </message>
     <message>
+        <source>More Outline Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Więcej kolorów konturów</translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation>Deseń</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tekstura</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Odbicie</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Okrągła kropka</translation>
     </message>
     <message>
         <source>Shading</source>
         <translation>Cieniowanie</translation>
     </message>
     <message>
+        <source>Shadow</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Cień</translation>
+    </message>
+    <message>
         <source>Snapper</source>
         <translatorcomment>tak jest ok - Pobranie koloru</translatorcomment>
         <translation>Pipeta</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pełny</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kwadratowa kropka</translation>
+    </message>
+    <message>
+        <source>Table Effects</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Efekty tabeli</translation>
     </message>
     <message>
         <source>Table Style Options</source>
@@ -2524,8 +2707,29 @@ styl tabeli</translation>
         <translation>Style tabeli</translation>
     </message>
     <message>
+        <source>Text Effects</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Efekty tekstowe</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wypełnienie tekstu</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Kontury tekstu</translation>
+    </message>
+    <message>
         <source>Texture</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Tekstura</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Grubość</translation>
     </message>
 </context>
 <context>
@@ -2544,8 +2748,9 @@ styl tabeli</translation>
     <message>
         <source>COM
 Add-Ins</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Dodatki
-COM</translation>
+ COM</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -2611,9 +2816,9 @@ formantu</translation>
     </message>
     <message>
         <source>Security</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper - tak jest ok jak w PowerPaint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Bezpieczeństwo
-makr</translation>
+ makr</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -2629,9 +2834,9 @@ makr</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper - tak jest ok jak w PowerPaint</translatorcomment>
-        <translation>Wyświetl 
-kod</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Deweloper - tak jest ok jak w PowerPaint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Wyświetl
+ kod</translation>
     </message>
     <message>
         <source>Visual Basic
@@ -3079,9 +3284,9 @@ Włącz</translation>
     </message>
     <message>
         <source>Object Select</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Zaznacz
-obiekt</translation>
+ obiekt</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -3856,6 +4061,11 @@ obiekt</translation>
         <translation>Kopia zapasowa i odzyskiwanie</translation>
     </message>
     <message>
+        <source>Backup and Recovery</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kopie zapasowe i odzyskiwanie</translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation type="obsolete">Zmień wersję</translation>
     </message>
@@ -3870,6 +4080,16 @@ obiekt</translation>
     <message>
         <source>Docer Entrance</source>
         <translation>Wejście Docer</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -3914,6 +4134,11 @@ obiekt</translation>
     <message>
         <source>Help</source>
         <translation>Pomoc</translation>
+    </message>
+    <message>
+        <source>Interactive PPT on WeChat</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Interaktywne PPT na WeChat</translation>
     </message>
     <message>
         <source>Manage Credentials</source>
@@ -4172,6 +4397,11 @@ obiekt</translation>
         <translation>Ustawienia strony</translation>
     </message>
     <message>
+        <source>Phone Screen(9:16)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Telefoniczny (9:16)</translation>
+    </message>
+    <message>
         <source>PlasceHolder</source>
         <translation>Symbol zastępczy</translation>
     </message>
@@ -4195,7 +4425,7 @@ obiekt</translation>
     <message>
         <source>Stand Screen(4:3)</source>
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Standardowy ekran (4:3)</translation>
+        <translation>Standardowy (4:3)</translation>
     </message>
     <message>
         <source>Three Slide</source>
@@ -4207,7 +4437,8 @@ obiekt</translation>
     </message>
     <message>
         <source>Wide Screen(16:9)</source>
-        <translation>Szeroki ekran (16:9)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Panoramiczny (16:9)</translation>
     </message>
     <message>
         <source>data PlaceHolder</source>
@@ -4310,6 +4541,11 @@ Effects</source>
     <message>
         <source>8226</source>
         <translation type="obsolete">8226</translation>
+    </message>
+    <message>
+        <source>Add Section</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Sekcja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Dodaj sekcję</translation>
     </message>
     <message>
         <source>Align</source>
@@ -4448,6 +4684,11 @@ Effects</source>
         <translation>Schowek</translation>
     </message>
     <message>
+        <source>Collapse All</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Sekcja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Zwiń wszystkie</translation>
+    </message>
+    <message>
         <source>Copy</source>
         <translation>Kopiuj</translation>
     </message>
@@ -4520,6 +4761,11 @@ Effects</source>
         <translation>Jednakowa szerokość</translation>
     </message>
     <message>
+        <source>Expand All</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Sekcja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Rozwiń wszystkie</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne-&gt;Wypełnij - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wypełnij</translation>
@@ -4556,8 +4802,8 @@ formatów</translation>
     </message>
     <message>
         <source>Format Painter</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok</translatorcomment>
-        <translation>Malarz
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Narzędzia główne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Malarz 
 formatów</translation>
     </message>
     <message>
@@ -4582,9 +4828,9 @@ slajdu</translation>
     <message>
         <source>From Current 
 Slide</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne-&gt;Od bieżącego slajdu - tak jest ok</translatorcomment>
-        <translation>Od bieżącego 
-slajdu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne-&gt;Od bieżącego slajdu - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Od bieżącego
+ slajdu</translation>
     </message>
     <message>
         <source>Gradient</source>
@@ -4741,7 +4987,9 @@ slajdu</translation>
     </message>
     <message>
         <source>New Slide</source>
-        <translation>Nowy slajd</translation>
+        <translatorcomment>Presentation-&gt;Narzędzia główne - tak jest ok jak w PowerPoint - ta spacja jest potrzebna, aby nie zlewały się wyrazy gdy są umieszczone w jednym wierszu</translatorcomment>
+        <translation>Nowy
+ slajd</translation>
     </message>
     <message>
         <source>New Slide Online</source>
@@ -4801,6 +5049,21 @@ slajdu</translation>
         <translation>Względem slajdu</translation>
     </message>
     <message>
+        <source>Remove All Sections</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Sekcja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Usuń wszystkie sekcje</translation>
+    </message>
+    <message>
+        <source>Remove Section</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Sekcja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Usuń sekcję</translation>
+    </message>
+    <message>
+        <source>Rename Section</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Sekcja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Zmień nazwę sekcji</translation>
+    </message>
+    <message>
         <source>Replace</source>
         <translation>Zamień</translation>
     </message>
@@ -4845,6 +5108,11 @@ slajdu</translation>
         <translation>Okrągła kropka</translation>
     </message>
     <message>
+        <source>Section</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Sekcja</translation>
+    </message>
+    <message>
         <source>Select</source>
         <translation>Zaznacz</translation>
     </message>
@@ -4854,8 +5122,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Narzędzia główne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -4917,8 +5185,8 @@ cienia</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Presentation-&gt;Narzędzia główne - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -5028,8 +5296,9 @@ tekstowe</translation>
     <message>
         <source>Background
 Music</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Wstaw - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Muzyka
-w tle</translation>
+ w tle</translation>
     </message>
     <message>
         <source>Body</source>
@@ -5093,7 +5362,7 @@ i stopka</translation>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Nagłówek
  i stopka</translation>
     </message>
@@ -5176,6 +5445,12 @@ i stopka</translation>
         <translation>Film</translation>
     </message>
     <message>
+        <source>New Slide</source>
+        <translatorcomment>Presentation-&gt;Wstaw- tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy, gdy są w jednym wierszu</translatorcomment>
+        <translation>Nowy
+ slajd</translation>
+    </message>
+    <message>
         <source>Object</source>
         <translation>Obiekt</translation>
     </message>
@@ -5210,6 +5485,11 @@ organizacyjny</translation>
         <source>Picture</source>
         <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw oraz Presentation-&gt;Wstaw-&gt;Obrazy - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Obrazy</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Shapes</source>
@@ -5259,8 +5539,8 @@ slajdu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -5327,6 +5607,11 @@ tekstowe</translation>
         <translation>Ustawienia strony</translation>
     </message>
     <message>
+        <source>Phone Screen(9:16)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Telefoniczny (9:16)</translation>
+    </message>
+    <message>
         <source>PlasceHolder</source>
         <translation>Symbol zastępczy</translation>
     </message>
@@ -5349,11 +5634,12 @@ tekstowe</translation>
     <message>
         <source>Stand Screen(4:3)</source>
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Standardowy ekran (4:3)</translation>
+        <translation>Standardowy (4:3)</translation>
     </message>
     <message>
         <source>Wide Screen(16:9)</source>
-        <translation>Szeroki ekran (16:9)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Panoramiczny (16:9)</translation>
     </message>
     <message>
         <source>data Placeholder</source>
@@ -5698,6 +5984,7 @@ tekstowe</translation>
     </message>
     <message>
         <source>Resize shape to fit text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dopasuj rozmiar kształtu do tekstu</translation>
     </message>
     <message>
@@ -5825,13 +6112,23 @@ obrazy</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Kompresuj
-obrazy</translation>
+ obrazy</translation>
     </message>
     <message>
         <source>Crop</source>
         <translation>Przytnij</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów-&gt;Przytnij - tak jest ok</translatorcomment>
+        <translation>Przytnij do skali</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów-&gt;Przytnij - tak jest ok</translatorcomment>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -5946,9 +6243,9 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Wstaw
-obraz</translation>
+ obraz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -5964,6 +6261,11 @@ obraz</translation>
     <message>
         <source>Less Contrast</source>
         <translation>Zmniejsz kontrast</translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Zablokuj współczynnik proporcji</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -6080,7 +6382,13 @@ obraz</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Resetuj rozmiar</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -6100,8 +6408,8 @@ obraz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -6114,8 +6422,8 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Ustaw kolor
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Ustaw kolor 
 przezroczysty</translation>
     </message>
     <message>
@@ -6332,6 +6640,16 @@ drukowania</translation>
 <context>
     <name>ongmani.ct_review</name>
     <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
+    </message>
+    <message>
         <source>Chinese Conversion</source>
         <translation>Konwersja języka chińskiego</translation>
     </message>
@@ -6364,9 +6682,20 @@ komentarz</translation>
         <translation>Usuń wszystkie komentarze z tego slajdu</translation>
     </message>
     <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zabezpieczenia dokumentu</translation>
+    </message>
+    <message>
         <source>Edit
 Comment</source>
-        <translation>Edytuj
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Edytuj 
 komentarz</translation>
     </message>
     <message>
@@ -6404,13 +6733,51 @@ komentarz</translation>
     <message>
         <source>Show/Hide
 Mark</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja - tak jest ok jak w PowerPoint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Recenzja oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Pokaż/Ukryj
-komentarze</translation>
+ komentarze</translation>
     </message>
     <message>
         <source>Spell Check</source>
         <translation>Sprawdzanie pisowni</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zabezpieczenia dokumentu</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Oczekujące na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zastosuj moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzanie szablonem praw użytkownika</translation>
     </message>
 </context>
 <context>
@@ -6737,15 +7104,15 @@ slajdów</translation>
     <message>
         <source>New Slide 
 Master</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok</translatorcomment>
-        <translation>Nowy wzorzec 
-slajdów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Nowy wzorzec
+ slajdów</translation>
     </message>
     <message>
         <source>New Slide Layout</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok - ta spacja jest potrzebn, aby nie zlewały się wyrazy gdy są umieszczone w jednym wierszu</translatorcomment>
         <translation>Nowy układ
-slajdu</translation>
+ slajdu</translation>
     </message>
     <message>
         <source>New Slide Master</source>
@@ -6779,9 +7146,9 @@ wzorca</translation>
     </message>
     <message>
         <source>Save Background Picture</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Projekt-&gt;Edytuj wzorzec slajdów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Zapisz
-tło</translation>
+ tło</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -6856,9 +7223,9 @@ tło</translation>
     <message>
         <source>Custom 
 Slide Shows</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Niestandardowy 
-pokaz slajdów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Niestandardowy
+ pokaz slajdów</translation>
     </message>
     <message>
         <source>From
@@ -6868,15 +7235,15 @@ początku</translation>
     </message>
     <message>
         <source>From Beginning</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Od
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Od 
 początku</translation>
     </message>
     <message>
         <source>Hide Slide</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Ukryj
-slajd</translation>
+ slajd</translation>
     </message>
     <message>
         <source>Rehearse 
@@ -6890,15 +7257,16 @@ tempa</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Przygotuj
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Przygotuj 
 pokaz slajdów</translation>
     </message>
     <message>
         <source>Slide
 Transition</source>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Pokaz slajdów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Przejście
-slajdu</translation>
+ slajdu</translation>
     </message>
     <message>
         <source>Slide Show
@@ -6909,7 +7277,8 @@ pokazu slajdów</translation>
     <message>
         <source>Speaker
 Notes</source>
-        <translation>Notatki
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Pokaz slajdów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Notatki 
 prelegenta</translation>
     </message>
     <message>
@@ -7166,6 +7535,10 @@ komórki</translation>
         <translation>Przesuń na spód</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>Cień</translation>
     </message>
@@ -7368,6 +7741,11 @@ tekstu</translation>
         <translation>Rozmiar czcionki</translation>
     </message>
     <message>
+        <source>Format Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj obiekt</translation>
+    </message>
+    <message>
         <source>Glow</source>
         <translation>Poświata</translation>
     </message>
@@ -7486,6 +7864,10 @@ tekstu</translation>
         <translation>Okrągła kropka</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>Cień</translation>
     </message>
@@ -7518,8 +7900,8 @@ tekstu</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -7580,13 +7962,143 @@ tekstowe</translation>
     </message>
 </context>
 <context>
+    <name>ongmani.ct_videotool</name>
+    <message>
+        <source>Auto</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Automatycznie</translation>
+    </message>
+    <message>
+        <source>Hide While Not Playing</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ukryj, gdy nieodtwarzany</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo-&gt;Głośność - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Duża</translation>
+    </message>
+    <message>
+        <source>Loop until Stopped</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>W pętli do zatrzymania</translation>
+    </message>
+    <message>
+        <source>Loop until stopped</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>W pętli do zatrzymania</translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo-&gt;Głośność - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Mała</translation>
+    </message>
+    <message>
+        <source>Media Play</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Multimedia - odtwarzanie/wstrzymanie</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo-&gt;Głośność - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Średnia</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo-&gt;Głośność - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wycisz</translation>
+    </message>
+    <message>
+        <source>Play Full Screen</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Odtwórz w trybie pełnoekranowym</translation>
+    </message>
+    <message>
+        <source>Rewind after Playing</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przewiń do tyłu po odtworzeniu</translation>
+    </message>
+    <message>
+        <source>Rewind movie when done playing</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przewiń film do tyłu po zakończeniu odtwarzania</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Rozmiar</translation>
+    </message>
+    <message>
+        <source>Start:</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Początek:</translation>
+    </message>
+    <message>
+        <source>Trim
+Video</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przytnij
+wideo</translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Głośność</translation>
+    </message>
+    <message>
+        <source>full screen paly</source>
+        <translatorcomment>tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Odtwórz w trybie pełnoekranowym</translation>
+    </message>
+    <message>
+        <source>hidden when stop</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ukryj, gdy zatrzymany</translation>
+    </message>
+    <message>
+        <source>hight</source>
+        <translatorcomment>dotyczy głośności - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Duża</translation>
+    </message>
+    <message>
+        <source>low</source>
+        <translatorcomment>dotyczy głośności - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Mała</translation>
+    </message>
+    <message>
+        <source>media play</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Multimedia - odtwarzanie/wstrzymanie</translation>
+    </message>
+    <message>
+        <source>media trim</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij media</translation>
+    </message>
+    <message>
+        <source>media vol</source>
+        <translatorcomment>dotyczy głośności - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Głośność</translation>
+    </message>
+    <message>
+        <source>mid</source>
+        <translatorcomment>dotyczy głośności - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Średnia</translation>
+    </message>
+    <message>
+        <source>mute</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wycisz</translation>
+    </message>
+</context>
+<context>
     <name>ongmani.ct_view</name>
     <message>
         <source>Arrange
 All</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Rozmieść
-wszystkie</translation>
+ wszystkie</translation>
     </message>
     <message>
         <source>COM
@@ -7620,15 +8132,15 @@ inne okna</translation>
     <message>
         <source>Fit to
 Window</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Dopasuj 
 do okna</translation>
     </message>
     <message>
         <source>Grid and
 Guides</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
-        <translation>Siatka i
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Widok - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Siatka i 
 prowadnice</translation>
     </message>
     <message>
@@ -7648,8 +8160,8 @@ prowadnice</translation>
     <message>
         <source>New
 Window</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Nowe
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Widok - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Nowe 
 okno</translation>
     </message>
     <message>
@@ -7663,8 +8175,8 @@ okno</translation>
     </message>
     <message>
         <source>Notes Page</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
-        <translation>Strona
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Strona 
 notatek</translation>
     </message>
     <message>
@@ -7673,9 +8185,9 @@ notatek</translation>
     </message>
     <message>
         <source>Reading View</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Widok do
-czytania</translation>
+ czytania</translation>
     </message>
     <message>
         <source>Ruler</source>
@@ -7697,16 +8209,16 @@ czytania</translation>
     <message>
         <source>Slide 
 Master</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
-        <translation>Wzorzec 
-slajdów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Wzorzec
+ slajdów</translation>
     </message>
     <message>
         <source>Slide 
 Sorter</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok</translatorcomment>
-        <translation>Sortowanie 
-slajdów</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Widok - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Sortowanie
+ slajdów</translation>
     </message>
     <message>
         <source>Switch
@@ -8514,9 +9026,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Eksportuj
-do PDF</translation>
+ do PDF</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -8528,11 +9040,29 @@ do PDF</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>personal</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
         <source>Guide</source>
         <translation>Przewodnik</translation>
+    </message>
+    <message>
+        <source>H5 link Manager</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menedżer łącza H5</translation>
     </message>
     <message>
         <source>Help</source>
@@ -8544,11 +9074,18 @@ do PDF</translation>
     </message>
     <message>
         <source>Image Exporting</source>
-        <translation>Eksportowanie obrazu</translation>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewały się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Eksportuj 
+do obrazu</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
         <translation>Wstaw obraz do wielu slajdów</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Laboratory</source>
@@ -8563,22 +9100,31 @@ do PDF</translation>
         <translation>Model eseju</translation>
     </message>
     <message>
+        <source>My WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>Dokumenty online</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
-        <translation>Narzędzia
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Narzędzia 
 prezentacji</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -8607,8 +9153,8 @@ prezentacji</translation>
     </message>
     <message>
         <source>Translate to Document</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne - tekst ikonki i podpowiedź - tak jest poprawnie - wyjaśnione z producentem</translatorcomment>
-        <translation>Konwertuj do
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot; - wyjaśnione z producentem</translatorcomment>
+        <translation>Konwertuj do 
 Word/WPS Writer</translation>
     </message>
     <message>
@@ -8617,7 +9163,9 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation>Eksportowanie wideo</translation>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Fukncje specjalne - tak jest ok - ta spacja jest potrzebna, aby nie zlewały się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Eksportuj
+ do wideo</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -8626,6 +9174,21 @@ Word/WPS Writer</translation>
     <message>
         <source>View Historical Backup</source>
         <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>XiuTang</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>XiuTang H5</translation>
     </message>
     <message>
         <source>true</source>
@@ -8644,9 +9207,24 @@ Word/WPS Writer</translation>
         <translation>Bieżący slajd na mowę</translation>
     </message>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Full-Text Speech</source>
-        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa pełnotekstowa</translatorcomment>
         <translation>Pełny tekst na mowę</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Selection Speech</source>
@@ -8659,7 +9237,7 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
 </context>
@@ -8788,6 +9366,10 @@ Word/WPS Writer</translation>
         <translation>Dodaj punkt</translation>
     </message>
     <message>
+        <source>Add Section</source>
+        <translation>Dodaj sekcję</translation>
+    </message>
+    <message>
         <source>Add Text</source>
         <translation>Dodaj tekst</translation>
     </message>
@@ -8829,6 +9411,11 @@ Word/WPS Writer</translation>
         <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
+        <source>Align Middle and Center</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Align Middle Center&quot; - tak jest ok</translatorcomment>
+        <translation>Wyrównaj do środka w pionie</translation>
+    </message>
+    <message>
         <source>Align Right</source>
         <translation>Wyrównaj do prawej</translation>
     </message>
@@ -8837,12 +9424,32 @@ Word/WPS Writer</translation>
         <translation>Wyrównaj do góry</translation>
     </message>
     <message>
+        <source>AlignCenter</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyrównaj do środka w poziomie</translation>
+    </message>
+    <message>
+        <source>AlignLeft</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
+    </message>
+    <message>
+        <source>AlignRight</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyrównaj do prawej</translation>
+    </message>
+    <message>
         <source>All Slides</source>
         <translation>Wszystkie slajdy</translation>
     </message>
     <message>
         <source>Animation Schemes</source>
         <translation>Schematy animacji</translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienia</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -8982,6 +9589,11 @@ Word/WPS Writer</translation>
         <translation>Wypunktowanie i numeracja</translation>
     </message>
     <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
         <source>By Title</source>
         <translation>Według tytułu</translation>
     </message>
@@ -9068,6 +9680,16 @@ COM</translation>
         <translation>Tytuł wykresu</translation>
     </message>
     <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
+    </message>
+    <message>
         <source>Check for Updates</source>
         <translation>Sprawdź aktualizacje</translation>
     </message>
@@ -9102,6 +9724,11 @@ COM</translation>
     <message>
         <source>Close Window</source>
         <translation>Zamknij okno</translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zwiń wszystkie</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -9149,11 +9776,13 @@ COM</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Przytnij według skali</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij do skali</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Przytnij według kształtu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -9248,6 +9877,11 @@ COM</translation>
     <message>
         <source>Delete Master</source>
         <translation>Usuń wzorzec</translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Usuń obiekt</translation>
     </message>
     <message>
         <source>Delete Point</source>
@@ -9418,6 +10052,11 @@ COM</translation>
     <message>
         <source>Exit Rotate Mode</source>
         <translation>Zakończ tryb obracania</translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Rozwiń wszystkie</translation>
     </message>
     <message>
         <source>Exponential</source>
@@ -9767,6 +10406,11 @@ COM</translation>
         <translation>Koniec wewnętrzny</translation>
     </message>
     <message>
+        <source>IntranetVersion Online Templates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
+    </message>
+    <message>
         <source>Invisible</source>
         <translation>Niewidoczny</translation>
     </message>
@@ -9899,8 +10543,18 @@ powiązany</translation>
         <translation>Mini-strona</translation>
     </message>
     <message>
+        <source>Modify Movie Object</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Modyfikuj obiekt filmowy</translation>
+    </message>
+    <message>
         <source>More Arrows</source>
         <translation>Więcej strzałek</translation>
+    </message>
+    <message>
+        <source>More DesignTemplates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Więcej szablonów projektów</translation>
     </message>
     <message>
         <source>More Fill Colors</source>
@@ -9927,12 +10581,37 @@ powiązany</translation>
         <translation>Więcej opcji...</translation>
     </message>
     <message>
+        <source>Move Section Down</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przenieś sekcję w dół</translation>
+    </message>
+    <message>
+        <source>Move Section Up</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przenieś sekcję w górę</translation>
+    </message>
+    <message>
         <source>Movie from File</source>
         <translation>Film z pliku</translation>
     </message>
     <message>
         <source>Movies and Sounds</source>
         <translation>Filmy i dźwięki</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Oczekujące na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zastosuj moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
     </message>
     <message>
         <source>New Comment</source>
@@ -10035,7 +10714,9 @@ slajdów</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Options</source>
@@ -10198,8 +10879,23 @@ slajdów</translation>
         <translation>Względem slajdu</translation>
     </message>
     <message>
+        <source>Remove All Sections</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Usuń wszystkie sekcje</translation>
+    </message>
+    <message>
         <source>Remove Hyperlink</source>
         <translation>Usuń hiperłącze</translation>
+    </message>
+    <message>
+        <source>Remove Section</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Usuń sekcję</translation>
+    </message>
+    <message>
+        <source>Remove Section And Slides</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Usuń sekcję i slajdy</translation>
     </message>
     <message>
         <source>Rename Layout</source>
@@ -10208,6 +10904,11 @@ slajdów</translation>
     <message>
         <source>Rename Master</source>
         <translation>Zmień nazwę wzorca</translation>
+    </message>
+    <message>
+        <source>Rename Section</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zmień nazwę sekcji</translation>
     </message>
     <message>
         <source>Replace Font</source>
@@ -10289,7 +10990,9 @@ slajdów</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -10416,12 +11119,24 @@ slajdów</translation>
         <translation>Pokaż więcej okien</translation>
     </message>
     <message>
+        <source>Show/Hide Crop Panel</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pokaż/Ukryj panel przycięcia</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -10611,6 +11326,11 @@ slajdów</translation>
         <translation>Opinie użytkowników</translation>
     </message>
     <message>
+        <source>UserRight Template Management</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzanie szablonem praw użytkownika</translation>
+    </message>
+    <message>
         <source>Vertical</source>
         <translatorcomment>Styl klasyczny - Presentation-&gt;Wstaw-&gt;Pole tekstowe - tak jest ok</translatorcomment>
         <translation>Pionowe</translation>
@@ -10681,6 +11401,11 @@ slajdów</translation>
         <source>Wave</source>
         <translatorcomment>uruchomić prezentację (opcje w lewym dolnym rogu) i PP myszki-&gt;Opcje wskaźnika-&gt;Rysuj kształty</translatorcomment>
         <translation>Fala</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
     </message>
     <message>
         <source>White Screen</source>
@@ -13456,8 +14181,9 @@ slajdu</translation>
     <message>
         <source>Background
 Music</source>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Muzyka
-w tle</translation>
+ w tle</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -14320,6 +15046,7 @@ podwładnego</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -14608,10 +15335,12 @@ podwładnego</translation>
     </message>
     <message>
         <source>Next</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Następny</translation>
     </message>
     <message>
         <source>Previous</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Poprzedni</translation>
     </message>
     <message>
@@ -16263,6 +16992,7 @@ cienia</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
@@ -16279,7 +17009,7 @@ cienia</translation>
     </message>
     <message>
         <source>Image Exporting</source>
-        <translation>Eksportowanie obrazu</translation>
+        <translation>Eksportuj do obrazu</translation>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
@@ -16303,7 +17033,9 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -16313,7 +17045,9 @@ prezentacji</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -16343,7 +17077,7 @@ prezentacji</translation>
     <message>
         <source>Translate to Document</source>
         <translatorcomment>tak jest poprawnie - wyjaśnione z producentem</translatorcomment>
-        <translation>Konwertuj do
+        <translation>Konwertuj do 
 Word/WPS Writer</translation>
     </message>
     <message>
@@ -16352,7 +17086,7 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation>Eksportowanie wideo</translation>
+        <translation>Eksportuj do wideo</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -16376,7 +17110,7 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Full-Text Speech</source>
-        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa pełnotekstowa</translatorcomment>
         <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
@@ -16390,7 +17124,7 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
 </context>
@@ -16461,6 +17195,11 @@ Word/WPS Writer</translation>
         <translation>Automatyczna kopia zapasowa</translation>
     </message>
     <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Zmień konto</translation>
     </message>
@@ -16477,6 +17216,11 @@ Word/WPS Writer</translation>
         <translation>Wejście Docer</translation>
     </message>
     <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
+    </message>
+    <message>
         <source>Export as Images</source>
         <translation>Eksportuj jako obraz</translation>
     </message>
@@ -16486,7 +17230,13 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>H5 link Manager</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menedżer łącza H5</translation>
     </message>
     <message>
         <source>Manual Backup</source>
@@ -16495,6 +17245,16 @@ Word/WPS Writer</translation>
     <message>
         <source>Model Essay</source>
         <translation>Model eseju</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
@@ -16513,12 +17273,19 @@ Word/WPS Writer</translation>
         <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Slide Library</source>
@@ -16554,6 +17321,11 @@ Word/WPS Writer</translation>
         </translation>
     </message>
     <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
+    </message>
+    <message>
         <source>true</source>
         <translation>prawda</translation>
     </message>
@@ -16580,6 +17352,11 @@ Word/WPS Writer</translation>
         <translation>Przybornik formantów</translation>
     </message>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Drawing</source>
         <translation>Rysowanie</translation>
     </message>
@@ -16596,8 +17373,18 @@ Word/WPS Writer</translation>
         <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
     <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>Obraz</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Print Preview</source>
@@ -16636,6 +17423,11 @@ Word/WPS Writer</translation>
         <translation>Tabele i krawędzie</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -16656,6 +17448,11 @@ Word/WPS Writer</translation>
     <message>
         <source>ActiveX Control</source>
         <translation>Formant ActiveX</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj ramkę obrazu</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -16692,12 +17489,22 @@ Word/WPS Writer</translation>
         <translation>Automatycznie</translation>
     </message>
     <message>
+        <source>Background</source>
+        <translatorcomment>Presentation - Styl klasyczny-&gt;Format; Styl wstążki-&gt;Projekt-&gt;Tło - tak jest ok</translatorcomment>
+        <translation>Tło</translation>
+    </message>
+    <message>
         <source>Backup</source>
         <translation>Kopia zapasowa</translation>
     </message>
     <message>
         <source>Backup Management</source>
         <translation>Zarządzanie kopią zapasową</translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia kopii zapasowych</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -16724,11 +17531,32 @@ Word/WPS Writer</translation>
         <translation>Zmień Autokształt</translation>
     </message>
     <message>
+        <source>Change Count</source>
+        <translation>Liczba zmian</translation>
+    </message>
+    <message>
+        <source>Change Diagram</source>
+        <translation>Zmień diagram</translation>
+    </message>
+    <message>
+        <source>Change Layout</source>
+        <translation>Zmień układ</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Zmień obraz</translation>
+    </message>
+    <message>
+        <source>Change Style</source>
+        <translation>Zmień styl</translation>
+    </message>
+    <message>
         <source>Check Spelling</source>
         <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kliknij, aby dopasować Poziom powiększenia</translation>
     </message>
     <message>
@@ -16784,6 +17612,10 @@ Word/WPS Writer</translation>
         <translation type="obsolete">Utwórz łącze usługi Cloud</translation>
     </message>
     <message>
+        <source>Crop</source>
+        <translation>Przytnij</translation>
+    </message>
+    <message>
         <source>Curve</source>
         <translation>Krzywa</translation>
     </message>
@@ -16816,6 +17648,11 @@ Word/WPS Writer</translation>
         <translation>Zmniejsz wcięcie</translation>
     </message>
     <message>
+        <source>Delete Slide</source>
+        <translatorcomment>Presentation - Styl klasyczny-&gt;Edycja - tak jest ok</translatorcomment>
+        <translation>Usuń slajd</translation>
+    </message>
+    <message>
         <source>Diagonal Down Border</source>
         <translation>Krawędź ukośna w dół</translation>
     </message>
@@ -16825,7 +17662,13 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
+        <translatorcomment>Presentation-&gt;Główne okno - podpowiedź po najechaniu kursorem na ikonę szablonów online, która jest z prawej strony paska otwartych kart programu - Docer to nazwa własna galerii szablonów online</translatorcomment>
         <translation>Wejście Docer</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
     </message>
     <message>
         <source>Draw Shapes</source>
@@ -16851,6 +17694,11 @@ Word/WPS Writer</translation>
     <message>
         <source>Exit</source>
         <translation>Zakończ</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Eksportuj do PDF</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -16887,9 +17735,9 @@ slajdu</translation>
     <message>
         <source>From Current 
 Slide</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów oraz Narzędzia główne - tak jest ok jak w PowerPoint</translatorcomment>
-        <translation>Od bieżącego 
-slajdu</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Pokaz slajdów oraz Narzędzia główne - tak jest ok jak w PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Od bieżącego
+ slajdu</translation>
     </message>
     <message>
         <source>Google Docs</source>
@@ -16902,6 +17750,15 @@ slajdu</translation>
     <message>
         <source>Gradient</source>
         <translation>Gradient</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Pomoc</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pomoc oraz pytania i odpowiedzi</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -16923,13 +17780,19 @@ slajdu</translation>
     </message>
     <message>
         <source>Image Exporting</source>
-        <translation>Eksportowanie obrazu</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Eksportuj do obrazu</translation>
     </message>
     <message>
         <source>Image Previewer</source>
         <translatorcomment>Styl wstązki - Presentation-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów oraz Styl klasyczny - Presentation-&gt;Wstaw-&gt;Obraz-&gt;Z pliku - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
-        <translation>Podgląd 
-obrazu</translation>
+        <translation>Podgląd
+ obrazu</translation>
+    </message>
+    <message>
+        <source>Import Templates</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Importuj szablony</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -16949,6 +17812,15 @@ obrazu</translation>
         <translation>Wstaw</translation>
     </message>
     <message>
+        <source>Insert Picture</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz</translation>
+    </message>
+    <message>
+        <source>Insert Picture To Multiple Slides</source>
+        <translation>Wstaw obraz do wielu slajdów</translation>
+    </message>
+    <message>
         <source>Inside Border</source>
         <translation>Krawędzie wewnętrzne</translation>
     </message>
@@ -16959,6 +17831,16 @@ obrazu</translation>
     <message>
         <source>Inside Vertical Border</source>
         <translation>Wewnętrzna krawędź pionowa</translation>
+    </message>
+    <message>
+        <source>Interactive PPT on WeChat</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Interaktywne PPT na WeChat</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -17000,6 +17882,31 @@ obrazu</translation>
     <message>
         <source>Materials</source>
         <translation type="obsolete">Materiały</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Prezentacja programu Microsoft PowerPoint 97–2003</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szablon prezentacji programu Microsoft PowerPoint 97–2003</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Show</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Pokaz programu Microsoft PowerPoint 97–2003</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Prezentacja programu Microsoft PowerPoint</translation>
+    </message>
+    <message>
+        <source>More Templates</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Więcej szablonów</translation>
     </message>
     <message>
         <source>MoreEffects</source>
@@ -17196,7 +18103,8 @@ obrazu</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -17249,6 +18157,11 @@ obrazu</translation>
         <translation>Opcje</translation>
     </message>
     <message>
+        <source>Other Formats</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Inne formaty</translation>
+    </message>
+    <message>
         <source>Outside Borders</source>
         <translation>Krawędzie zewnętrzne</translation>
     </message>
@@ -17276,6 +18189,11 @@ obrazu</translation>
     <message>
         <source>Picture</source>
         <translation>Obraz</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Play Back</source>
@@ -17330,6 +18248,16 @@ obrazu</translation>
         <translation>Zapisz jako</translation>
     </message>
     <message>
+        <source>Save a Copy of the Document</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Zapisz kopię dokumentu</translation>
+    </message>
+    <message>
+        <source>Save as Picture</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zapisz jako obraz</translation>
+    </message>
+    <message>
         <source>Screen Grab</source>
         <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok jak PowerPoint</translatorcomment>
         <translation>Wycinek ekranu</translation>
@@ -17337,9 +18265,18 @@ obrazu</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak PowerPoint</translatorcomment>
-        <translation>Zrzut
+        <translatorcomment>Styl wstążki - Presentation-&gt;Wstaw - tak jest ok jak PowerPoint - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Zrzut 
 ekranu</translation>
+    </message>
+    <message>
+        <source>Section Miniature</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Miniatura sekcji</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Zabezpieczenia</translation>
     </message>
     <message>
         <source>Select All</source>
@@ -17488,6 +18425,10 @@ ekranu</translation>
         <translation>Krawędź górna</translation>
     </message>
     <message>
+        <source>Transfer to WPS Writer Document</source>
+        <translation>Transferuj do dokumentu programu WPS Writer</translation>
+    </message>
+    <message>
         <source>Underline</source>
         <translation>Podkreślenie</translation>
     </message>
@@ -17501,7 +18442,8 @@ ekranu</translation>
     </message>
     <message>
         <source>Video Exporting</source>
-        <translation>Eksportowanie wideo</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Eksportuj do wideo</translation>
     </message>
     <message>
         <source>View</source>
@@ -17521,9 +18463,24 @@ ekranu</translation>
         <translation>Szablon online WPS</translation>
     </message>
     <message>
+        <source>WPS Presentation File</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Plik programu WPS Presentation</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szablon programu WPS Presentation</translation>
+    </message>
+    <message>
         <source>Watercolor Pen</source>
         <translatorcomment>uruchomić prezentację (opcje w lewym dolnym rogu) i PP myszki-&gt;Opcje wskaźnika; tak jest w PowerPoint</translatorcomment>
         <translation>Pióro</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podgląd sieci Web</translation>
     </message>
     <message>
         <source>Window</source>
@@ -17563,6 +18520,10 @@ ekranu</translation>
     <message>
         <source>statusbar</source>
         <translation type="obsolete">pasek stanu</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>ustal</translation>
     </message>
 </context>
 <context>
@@ -17657,8 +18618,21 @@ ekranu</translation>
         <translation>Przesuń do przodu</translation>
     </message>
     <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
+        <source>Cellphone Control</source>
+        <translation>Kontrola telefonu komórkowego</translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Zmień konto</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Zmień obraz</translation>
     </message>
     <message>
         <source>Chart Tools</source>
@@ -17683,6 +18657,11 @@ ekranu</translation>
         <translation>Deweloper</translation>
     </message>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Drawing Tool</source>
         <translation>Narzędzia do rysowania</translation>
     </message>
@@ -17699,9 +18678,29 @@ ekranu</translation>
         <translation>Eksportuj do PDF</translation>
     </message>
     <message>
+        <source>Font</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Czcionka</translation>
+    </message>
+    <message>
+        <source>Font Fill Color</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kolor wypełnienia czcionki</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Malarz formatów</translation>
+    </message>
+    <message>
         <source>Formats</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>Formatowanie</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Rzmieść - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Grupuj</translation>
     </message>
     <message>
         <source>Handout Master</source>
@@ -17715,6 +18714,15 @@ ekranu</translation>
         <source>Home</source>
         <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Narzędzia główne</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Pole tekstowe - tak jest ok</translatorcomment>
+        <translation>Poziome</translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation>Zwiększ odstępy</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -17732,6 +18740,21 @@ ekranu</translation>
     <message>
         <source>Minisite</source>
         <translation>Mini-strona</translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Więcej kolorów czcionki</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
+        <source>New Slide</source>
+        <translatorcomment>Presentation-&gt;Narzędzia główne-&gt;Nowy slajd oraz Wstaw-&gt;Nowy slajd- tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Nowy slajd</translation>
     </message>
     <message>
         <source>News</source>
@@ -17762,12 +18785,22 @@ ekranu</translation>
         <translation>Miniatura kształtu wyjściowego</translation>
     </message>
     <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
         <source>Personal Center</source>
         <translation>Centrum osobiste</translation>
     </message>
     <message>
         <source>Picture Tools</source>
         <translation>Narzędzia obrazów</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Pin the ToolBar</source>
@@ -17799,6 +18832,10 @@ ekranu</translation>
         <translation>Recenzja</translation>
     </message>
     <message>
+        <source>Security</source>
+        <translation>Zabezpieczenia</translation>
+    </message>
+    <message>
         <source>Send to Back</source>
         <translation>Przesuń na spód</translation>
     </message>
@@ -17821,7 +18858,8 @@ ekranu</translation>
     </message>
     <message>
         <source>Sign Out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17835,6 +18873,11 @@ ekranu</translation>
         <source>Slide Show</source>
         <translatorcomment>Presentation- nazwa karty wstążki</translatorcomment>
         <translation>Pokaz slajdów</translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pipeta</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -17851,7 +18894,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -17869,6 +18912,11 @@ ekranu</translation>
     <message>
         <source>User Sign in</source>
         <translation type="obsolete">Logowanie użytkownika</translation>
+    </message>
+    <message>
+        <source>Video Tools</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;nazwa karty Narzędzia wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Narzędzia wideo</translation>
     </message>
     <message>
         <source>View</source>
@@ -17898,6 +18946,11 @@ ekranu</translation>
         <source>WordArt Formats</source>
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Formatuj obiekt WordArt</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plugin pakietu WPS</translation>
     </message>
     <message>
         <source>formats</source>
@@ -18104,7 +19157,8 @@ ekranu</translation>
     </message>
     <message>
         <source>Sign Out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -18136,7 +19190,7 @@ ekranu</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -18169,6 +19223,11 @@ ekranu</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plugin pakietu WPS</translation>
     </message>
     <message>
         <source>formats</source>

@@ -428,6 +428,7 @@ Kliknij strzałkę, aby wybrać opcje Przewodnika fonetycznego, Załączania zna
     <message id="CmpSideBySide.content">
         <source>View two documents side-by-side to compare their contents.</source>
         <extracomment>CmpSideBySide.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Umożliwia wyświetlenie dwóch dokumentów obok siebie, aby można było porównać ich zawartość.</translation>
     </message>
     <message id="CollapseOnOutlining.title">
@@ -927,7 +928,8 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="FooterLinkToPrevious.title">
         <source>Link to Previous Footer</source>
         <extracomment>FooterLinkToPrevious.title</extracomment>
-        <translation>Łącze do poprzedniej stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednią stopką</translation>
     </message>
     <message id="FooterLinkToPrevious.content">
         <source>Link the current footer to the previous section.</source>
@@ -1195,7 +1197,8 @@ Wpływa to tylko na tabele wykraczające poza pojedynczą stronę.</translation>
     <message id="HeaderLinkToPrevious.title">
         <source>Link to Previous Header</source>
         <extracomment>HeaderLinkToPrevious.title</extracomment>
-        <translation>Łącze do poprzedniego nagłówka</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim nagłówkiem</translation>
     </message>
     <message id="HeaderLinkToPrevious.content">
         <source>Link the current header to the previous section.</source>
@@ -1688,7 +1691,8 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="LinktoPreviousHeader.title">
         <source>Link to Previous</source>
         <extracomment>LinktoPreviousHeader.title</extracomment>
-        <translation>Łącze do poprzedniego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim</translation>
     </message>
     <message id="LinktoPreviousHeader.content">
         <source>Link to the previous section so that the header and footer in the current section contain the same content as in the previous section.</source>
@@ -1907,6 +1911,7 @@ SplitWindow.content</extracomment>
     <message id="NextComment.content">
         <source>Navigate to the next comment in the document.</source>
         <extracomment>NextComment.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Umożliwia przejście do następnego komentarza w dokumencie.</translation>
     </message>
     <message id="NextHeader.title">
@@ -2126,11 +2131,13 @@ Kliknij strzałkę, aby wybrać inne formaty numeracji.</translation>
     <message id="PDFToWord.title">
         <source>Convert PDF to Word</source>
         <extracomment>PDFToWord.title</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę - tak jest ok</translatorcomment>
         <translation>Konwertuj PDF do Word</translation>
     </message>
     <message id="PDFToWord.content">
         <source>Convert PDF files to Word files.</source>
         <extracomment>PDFToWord.content</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Writer-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę - tak jest ok</translatorcomment>
         <translation>Umożliwia konwertowanie plików PDF do plików programu Word.</translation>
     </message>
     <message id="PhoneticGuide.title">
@@ -3542,27 +3549,6 @@ Zastosuj inteligentne formatowanie takie jak &quot;Usuń spacje&quot;, &quot;Wci
         <source>Manage the XML expansion packs attached to this document, or attach a new expansion pack.</source>
         <translation>Umożliwia zarządzanie pakietami rozszerzeń XML dołączonymi do tego dokumentu lub dołączenie nowego pakietu rozszerzenia.</translation>
     </message>
-    <message id="Thesaurus.title">
-        <source>Thesaurus</source>
-        <extracomment>Thesaurus.title</extracomment>
-        <translation>Tezaurus</translation>
-    </message>
-    <message id="Thesaurus.content">
-        <source>Open Thesaurus.</source>
-        <extracomment>Thesaurus.content</extracomment>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
-    </message>
-    <message id="InsertEnvelopes.title">
-        <source>Create Envelopes</source>
-        <extracomment>InsertEnvelopes.title</extracomment>
-        <translation>Utwórz koperty</translation>
-    </message>
-    <message id="InsertEnvelopes.content">
-        <source>Create and print envelopes.</source>
-        <extracomment>InsertEnvelopes.content</extracomment>
-        <translation>Umożliwia tworzenie i drukowanie kopert.</translation>
-    </message>
     <message id="ShowHideEditMark.title">
         <source>Show/Hide Editing Marks</source>
         <extracomment>ShowHideEditMark.title</extracomment>
@@ -3681,6 +3667,198 @@ Zgrupowanego zakresu tekstu nie można edytować, za wyjątkiem regionów zawier
     <message id="XmlMapping.content">
         <source>See the XML data stored in this document and create content controls that are linked to it.</source>
         <translation>Umożliwia wyświetlenie danych XML przechowywanych w tym dokumencie i utworzenie połączonych z nimi kontrolek zawartości.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>Tezaurus</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
+    </message>
+    <message id="InsertEnvelopes.title">
+        <source>Create Envelopes</source>
+        <extracomment>InsertEnvelopes.title</extracomment>
+        <translation>Utwórz koperty</translation>
+    </message>
+    <message id="InsertEnvelopes.content">
+        <source>Create and print envelopes.</source>
+        <extracomment>InsertEnvelopes.content</extracomment>
+        <translation>Umożliwia tworzenie i drukowanie kopert.</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.content">
+        <source>Change the settings of shape and shape&apos;s font formatting.</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień kształtu i formatowania czcionki kształtów.</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_wps_PictureTools.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.content">
+        <source>Change the settings of object size and picture formatting.</source>
+        <extracomment>DetailedSettings_wps_PictureTools.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień rozmiaru obiektu i formatowania obrazu.</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia konwersję obrazu na format tekstu.</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_HFTools.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.content">
+        <source>Change the settings of page setup.</source>
+        <extracomment>DetailedSettings_HFTools.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień strony.</translation>
+    </message>
+    <message id="DetailedSettings_References.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_References.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_References.content">
+        <source>Change the settings of Footnotes and Endnotes.</source>
+        <extracomment>DetailedSettings_References.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień przypisów dolnych i przypisów końcowych.</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania tabeli.</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_vml.title</extracomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_vml.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Utwórz łącze i udostępnij</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia utworzenie łącza i kodu QR oraz udostępnienie go do Wechat, QQ, Weibo, Qzone.</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzaj udostępnionym łączem</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kliknij, aby zarządzać, usunąć lub wysłać łącza.</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia szybkie naprawienie dokumentów, które są zniekształcone lub nie mogą być otwarte z innych powodów.</translation>
+    </message>
+    <message id="MultiplePages.title">
+        <source>Multiple Pages</source>
+        <extracomment>MultiplePages.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Kilka stron</translation>
+    </message>
+    <message id="MultiplePages.content">
+        <source>Zoom the document so you can see multiple pages in the window.</source>
+        <extracomment>MultiplePages.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia zmianę powiększenia dokumentu, tak aby w oknie było widocznych kilka stron.</translation>
+    </message>
+    <message id="InsertPTab.title">
+        <source>Insert Alignment Tab</source>
+        <extracomment>InsertPTab.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wstaw tabulator wyrównania</translation>
+    </message>
+    <message id="InsertPTab.content">
+        <source>Insert a tab stop to help align content within the header or footer.</source>
+        <extracomment>InsertPTab.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia wstawienie pozycji tabulatora pomagającej wyrównać zawartość w nagłówku lub stopce.</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zablokowanie współczynnika proporcji podczas dopasowywania obrazu.</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zresetowanie wszystkich zmian do rozmiaru zaznaczonego obrazu.</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zablokuj współczynnik proporcji</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj rozmiar</translation>
     </message>
 </context>
 </TS>

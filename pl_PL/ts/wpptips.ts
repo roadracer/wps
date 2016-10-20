@@ -500,11 +500,13 @@ Kliknij strzałkę, aby wybrać inne wyrównanie.</translation>
     <message id="ExportWeiboImageCmd.title">
         <source>Export to Image</source>
         <extracomment>ExportWeiboImageCmd.title</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - podpowiedź po najechaniu kursoren na ikonę Eksportuj do obrazu</translatorcomment>
         <translation>Eksportuj do obrazu</translation>
     </message>
     <message id="ExportWeiboImageCmd.content">
         <source>Export the document to an image.</source>
         <extracomment>ExportWeiboImageCmd.content</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - podpowiedź po najechaniu kursoren na ikonę Eksportuj do obrazu</translatorcomment>
         <translation>Umożliwia wyeksportowanie dokumentu do obrazu.</translation>
     </message>
     <message id="Find.title">
@@ -1540,6 +1542,7 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="ShowHideMark.title">
         <source>Show/Hide Comments</source>
         <extracomment>ShowHideMark.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Pokaż/Ukryj komentarze</translation>
     </message>
     <message id="ShowHideMark.content">
@@ -2284,17 +2287,6 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <extracomment>TextSpeech2.content</extracomment>
         <translation>Kliknij tutaj, aby zatrzymać czytanie.</translation>
     </message>
-    <message id="Thesaurus.title">
-        <source>Thesaurus</source>
-        <extracomment>Thesaurus.title</extracomment>
-        <translation>Tezaurus</translation>
-    </message>
-    <message id="Thesaurus.content">
-        <source>Open Thesaurus.</source>
-        <extracomment>Thesaurus.content</extracomment>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
-    </message>
     <message id="ResetSlide.title">
         <source>Reset Slide</source>
         <extracomment>ResetSlide.title</extracomment>
@@ -2318,6 +2310,7 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
     <message id="ExportToVideo.title">
         <source>Export to Video</source>
         <extracomment>ExportToVideo.title</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - podpowiedź po najechaniu kursoren na ikonę Eksportuj do wideo</translatorcomment>
         <translation>Eksportuj do wideo</translation>
     </message>
     <message id="SlideLayouts.title">
@@ -2434,6 +2427,268 @@ Kliknij strzałkę, aby wybrać inny kolor tekstu.</translation>
         <source>Include a separate box with the slide text on the notes page.</source>
         <extracomment>BodyContent.content</extracomment>
         <translation>Umożliwia dołączenie oddzielnego pola z tekstem slajdu do strony notatek.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>Tezaurus</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania tabeli.</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_WPP_TextTools.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_WPP_TextTools.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania tekstu.</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Utwórz łącze i udostępnij</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia utworzenie łącza i kodu QR oraz udostępnienie go do Wechat, QQ, Weibo, Qzone.</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzaj udostępnionym łączem</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kliknij, aby zarządzać, usunąć lub wysłać łącza.</translation>
+    </message>
+    <message id="Section.title">
+        <source>Section</source>
+        <extracomment>Section.title</extracomment>
+        <translation>Sekcja</translation>
+    </message>
+    <message id="Section.content">
+        <source>Organize your slides into Sections.</source>
+        <extracomment>Section.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia zorganizowanie slajdów w sekcjach.</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia szybkie naprawienie dokumentów, które są zniekształcone lub nie mogą być otwarte z innych powodów.</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia konwersję obrazu na format tekstu.</translation>
+    </message>
+    <message id="TableEffects.title">
+        <source>TableEffects</source>
+        <extracomment>TableEffects.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Efekty tabeli</translation>
+    </message>
+    <message id="TableEffects.content">
+        <source>Add visual effects to the table, such as a shadow or reflection.</source>
+        <extracomment>TableEffects.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia dodawanie do tabeli efektów graficznych, takich jak cień lub odbicie.</translation>
+    </message>
+    <message id="TableFontEffects.title">
+        <source>TableFontEffects</source>
+        <extracomment>TableFontEffects.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Efekty czcionki tabeli</translation>
+    </message>
+    <message id="TableFontEffects.content">
+        <source>Add a visual effect such as shadow, glow or reflection to your text.</source>
+        <extracomment>TableFontEffects.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia dodanie do tekstu efektu wizualnego, takiego jak cień, poświata lub odbicie.</translation>
+    </message>
+    <message id="MediaPlay.title">
+        <source>Play</source>
+        <extracomment>MediaPlay.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Odtwórz - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Podgląd multimediów</translation>
+    </message>
+    <message id="MediaPlay.content">
+        <source>Play Video</source>
+        <extracomment>MediaPlay.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Odtwórz - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia podgląd klipu audio lub wideo ze wszystkimi wprowadzonymi zmianami formatowania.</translation>
+    </message>
+    <message id="MediaPause.title">
+        <source>Pause</source>
+        <extracomment>MediaPause.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Wstrzymaj - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wstrzymaj</translation>
+    </message>
+    <message id="MediaPause.content">
+        <source>Pause Video</source>
+        <extracomment>MediaPause.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Wstrzymaj - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia wstrzymanie podglądu klipu audio lub wideo ze wszystkimi wprowadzonymi zmianami formatowania.</translation>
+    </message>
+    <message id="MediaVol.title">
+        <source>Volumn</source>
+        <oldsource>volumn</oldsource>
+        <extracomment>MediaVol.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Głośność - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Głośność</translation>
+    </message>
+    <message id="MediaVol.content">
+        <source>Media volumn</source>
+        <oldsource>Meida volumn</oldsource>
+        <extracomment>MediaVol.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Głośność - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia zmianę głośności klipu wideo.</translation>
+    </message>
+    <message id="MediaTrim.title">
+        <source>Trim Media</source>
+        <oldsource>Rrim Media</oldsource>
+        <extracomment>MediaTrim.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Przytnij wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przytnij wideo</translation>
+    </message>
+    <message id="MediaTrim.content">
+        <source>Trim media with begin and start</source>
+        <oldsource>trim media with begin and start</oldsource>
+        <extracomment>MediaTrim.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na przycisk Przytnij wideo - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia przycięcie klipu wideo przez określenie czasu rozpoczęcia i zakończenia.</translation>
+    </message>
+    <message id="MediaBegin.title">
+        <source>Media Begin</source>
+        <oldsource>media begin</oldsource>
+        <extracomment>MediaBegin.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Początek - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Uruchom</translation>
+    </message>
+    <message id="MediaBegin.content">
+        <source>Auto start or when click</source>
+        <oldsource>auto start or when click</oldsource>
+        <extracomment>MediaBegin.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Początek - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia odtwarzanie klipu wideo automatyczne lub po kliknięciu.</translation>
+    </message>
+    <message id="FullScreenPlay.title">
+        <source>Play Full Screen</source>
+        <oldsource>Fullscene Play</oldsource>
+        <extracomment>FullScreenPlay.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Odtwórz w trybie pełnoekranowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Odtwórz w trybie pełnoekranowym</translation>
+    </message>
+    <message id="FullScreenPlay.content">
+        <source>Play the video full screen</source>
+        <oldsource>Full screen play</oldsource>
+        <extracomment>FullScreenPlay.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Odtwórz w trybie pełnoekranowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia odtwarzanie klipu wideo na pełnym ekranie.</translation>
+    </message>
+    <message id="HideMedia.title">
+        <source>Hide While Not Playing</source>
+        <oldsource>Hide Media</oldsource>
+        <extracomment>HideMedia.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Ukryj, gdy nieodtwarzany - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ukryj, gdy nieodtwarzany</translation>
+    </message>
+    <message id="HideMedia.content">
+        <source>Hide the video clip when it is not playing</source>
+        <oldsource>Hide when stop</oldsource>
+        <extracomment>HideMedia.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Ukryj, gdy nieodtwarzany - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia ukrycie klipu wideo, gdy nie jest odtwarzany.</translation>
+    </message>
+    <message id="LoopMedia.title">
+        <source>Loop Media</source>
+        <oldsource>loop media</oldsource>
+        <extracomment>LoopMedia.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję W pętli do zatrzymania - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>W pętli do zatrzymania</translation>
+    </message>
+    <message id="LoopMedia.content">
+        <source>Loop play media</source>
+        <oldsource>loop play media</oldsource>
+        <extracomment>LoopMedia.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję W pętli do zatrzymania - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia powtarzanie klipu audio lub wideo, aż zostanie zatrzymany.</translation>
+    </message>
+    <message id="RewindMedia.title">
+        <source>Rewind Media</source>
+        <oldsource>rewind media</oldsource>
+        <extracomment>RewindMedia.title</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Przewiń do tyłu po odtworzeniu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przewiń do tyłu po odtworzeniu</translation>
+    </message>
+    <message id="RewindMedia.content">
+        <source>Rewind while stop</source>
+        <oldsource>Rewin while stop</oldsource>
+        <extracomment>RewindMedia.content</extracomment>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;karta Narzędzia wideo - podpowiedź po najechaniu kursorem na opcję Przewiń do tyłu po odtworzeniu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Umożliwia przewinięcie klipu audio lub wideo po zakończeniu odtwarzania.</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zablokowanie współczynnika proporcji podczas dopasowywania obrazu.</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zresetowanie wszystkich zmian do rozmiaru zaznaczonego obrazu.</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zablokuj współczynnik proporcji</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj rozmiar</translation>
     </message>
 </context>
 </TS>

@@ -382,7 +382,8 @@
     </message>
     <message>
         <source>WPS Office Cloud upgrade completed. It will take effect after you restart the client.</source>
-        <translation>Ukończono uaktualnianie WPS Office Cloud. Zostanie ono wprowadzone po ponownym uruchomieniu klienta.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ukończono uaktualnianie usługi WPS Office Cloud. Zacznie ono obowiązywać po ponownym uruchomieniu klienta.</translation>
     </message>
     <message>
         <source>Restart</source>
@@ -466,11 +467,13 @@
     </message>
     <message>
         <source>&amp;Sign Out</source>
-        <translation>&amp;Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyloguj się</translation>
     </message>
     <message>
         <source>&amp;Sign In</source>
-        <translation>&amp;Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Zaloguj się</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -478,7 +481,8 @@
     </message>
     <message>
         <source>Close the currently opened document before sign out</source>
-        <translation>Zamknij aktualnie otwarty dokument przed wylogowaniem</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zamknij aktualnie otwarty dokument przed wylogowaniem się</translation>
     </message>
     <message>
         <source>Enabling right-click upload function succeeded.</source>
@@ -498,7 +502,8 @@
     </message>
     <message>
         <source>Sign In</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
@@ -519,6 +524,14 @@
     <message>
         <source>Close the currently opened document before switch user</source>
         <translation>Zamknij aktualnie otwarty dokument, przed przełączeniem użytkownika</translation>
+    </message>
+    <message>
+        <source>Your Permission Denied</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please ensure your account is consistent with the Web page to log on locally, and have file permissions</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -737,15 +750,18 @@ Czas do uaktualnienia: %1</translation>
     <name>KQingIpcSvr</name>
     <message>
         <source>Share link transfer failed. The number of your share links has reached the maximum limit.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
     </message>
     <message>
         <source>Share link transfer failed. The share link has been changed or you do not have permission to edit.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Udostępniane łącze zostało zmienione lub nie masz uprawnień do edycji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Udostępniane łącze zostało zmienione lub nie masz uprawnień do edycji.</translation>
     </message>
     <message>
         <source>Share link transfer failed. Please check your network connection and try again.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Sprawdź połączenie z siecią i spróbuj ponownie później.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Please close all opened documents of current user.</source>
@@ -803,19 +819,23 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Share link transfer failed. The number of your share links has reached the maximum limit.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Liczba udostępnionych łącz osiągnęła limit maksymalny.</translation>
     </message>
     <message>
         <source>Share link transfer failed. The file size exceeds the 30 MB limit. Please compress the file and try again.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Rozmiar pliku przekracza limit 30 MB. Skompresuj plik i spróbuj ponownie.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Rozmiar pliku przekracza limit 30 MB. Skompresuj plik i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Share link transfer failed. The share link has been changed or you do not have permission to edit.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Udostępniane łącze zostało zmienione lub nie masz uprawnień do edycji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Udostępniane łącze zostało zmienione lub nie masz uprawnień do edycji.</translation>
     </message>
     <message>
         <source>Share link transfer failed. Please check your network connection and try again.</source>
-        <translation>Niepowodzenie transferu Udostępniania łącza. Sprawdź połączenie z siecią i spróbuj ponownie później.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można przeprowadzić transferu udostępniania łącza. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
 </context>
 <context>
@@ -1025,7 +1045,8 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>
@@ -1106,6 +1127,16 @@ Czas do uaktualnienia: %1</translation>
         <source>Share Link</source>
         <translation>Udostępnij łącze</translation>
     </message>
+    <message>
+        <source>Old Private Space</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Poprzednia przestrzeń prywatna</translation>
+    </message>
+    <message>
+        <source>My Cloud Files</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Moje pliki usługi Cloud</translation>
+    </message>
 </context>
 <context>
     <name>batchuploaddlg</name>
@@ -1119,7 +1150,8 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>
@@ -1134,7 +1166,8 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>

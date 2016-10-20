@@ -849,6 +849,12 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <comment>CHART_CanNotWriteChartLinkPath</comment>
         <translation>Aby wstawić wykres, musisz najpierw zamknąć wszelkie otwarte okna dialogowe lub anulować tryb edycji w programie WPS Spreadsheets.</translation>
     </message>
+    <message>
+        <source>Size</source>
+        <comment>HINT_SIZE</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Rozmiar</translation>
+    </message>
 </context>
 <context>
     <name>kso_copypaste</name>
@@ -1090,6 +1096,16 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <translation>Zawartość schowka zostanie wstawiona jako dane slajdu programu WPS Presentation.</translation>
     </message>
     <message>
+        <source>ET Drag Drawing</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
+        <translation>Rysunek ET</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
+        <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
+        <translation>Zawartość schowka zostanie wstawiona jako dane rysunkowe WPS.</translation>
+    </message>
+    <message>
         <source>WPS Office Graphic Object</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
         <translation>Obiekt graficzny pakietu WPS Office</translation>
@@ -1108,16 +1124,6 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
         <translation>Zawartość schowka zostanie wstawiona jako obiekt graficzny pakietu WPS Office.</translation>
-    </message>
-    <message>
-        <source>ET Drag Drawing</source>
-        <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
-        <translation>Rysunek ET</translation>
-    </message>
-    <message>
-        <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
-        <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
-        <translation>Zawartość schowka zostanie wstawiona jako dane rysunkowe WPS.</translation>
     </message>
 </context>
 <context>
@@ -2041,8 +2047,9 @@ Proszę sprawdź swoje ustawienia systemowe i zapewnienie dostępności tymczaso
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>DgUil_PromptCompressPicture</comment>
-        <translation>Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
-Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz kompresować go(je)?</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Skompresuj go, aby zaoszczędzić miejsce na dysku.
+Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dokonać kompresji?</translation>
     </message>
     <message>
         <source>Your Text Here</source>
@@ -2172,6 +2179,7 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <message>
         <source>Reset Picture And Size</source>
         <comment>DgUil_KSO_Cmd_ResetPictureAndSize</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -2203,6 +2211,36 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
         <source>There is not enough memory, Create Object Failed!</source>
         <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
         <translation>Nie ma wystarczającej ilości pamięci, tworzenie obiektu nie powiodło się!</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_AddPictureFrame</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj ramkę obrazu</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetSize</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Resetuj obraz i rozmiar</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <comment>DgUil_KSO_Cmd_FormatComment</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj komentarz</translation>
+    </message>
+    <message>
+        <source>Diagram Conversion</source>
+        <comment>DgUil_PromptDiagramConversionTitle</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Konwersja diagramu</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to Shapes.</source>
+        <comment>DgUil_PromptDiagramConversion</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Aby edytować ten diagram, musisz go przekonwertować na kształty.</translation>
     </message>
 </context>
 <context>
@@ -6529,16 +6567,6 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
  Kolor: %4</translation>
     </message>
     <message>
-        <source> Light Color %1</source>
-        <comment>wpp_sTooltipGradientLightColour</comment>
-        <translation> Jasny kolor %1</translation>
-    </message>
-    <message>
-        <source> Dark Color %1</source>
-        <comment>wpp_sTooltipGradientDarkColour</comment>
-        <translation> Ciemny kolor %1</translation>
-    </message>
-    <message>
         <source> Fill-</source>
         <comment>wpp_sTooltipArtWordSolidFill</comment>
         <translation> Wypełnienie-</translation>
@@ -8072,6 +8100,22 @@ Typ linii: %3</translation>
         <comment>DRAWING2_CONVERTOLEOBJECT</comment>
         <translation>Konwertuj obiekt OLE</translation>
     </message>
+    <message>
+        <source> Light Color %1</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation> Jasny kolor %1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation> Ciemny kolor %1</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>DRAWING2STR_COMMENT</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Komentarz</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -8235,6 +8279,38 @@ Typ linii: %3</translation>
         <comment>_KsoDesc_07Xml</comment>
         <translation>Dokument XML programu Word</translation>
     </message>
+    <message>
+        <source>Public Custom Document Format</source>
+        <comment>_KsoFileFormatDesc_CustomFile</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format niestandardowego dokumentu publicznego</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <comment>_KsoFileFormatDesc_OnlineSecurtyDocument</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format dokumentu z zabezpieczeniami WPS Online</translation>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read this documnet!
+(%s)</source>
+        <comment>_KsoPrompt_NoFileReadPermission</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niestety, nie masz uprawnień do odczytu tego dokumentu!
+(%s)</translation>
+    </message>
+    <message>
+        <source>Failed to communicate with security document server!</source>
+        <comment>_KsoPrompt_SecurityDocumentServerFailed</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Skomunikowanie się z zabezpieczeniami serwera dokumentu nie powiodło się!</translation>
+    </message>
+    <message>
+        <source>Saving the non-security document format will erase all permission settings, Continue?</source>
+        <comment>_KsoPrompt_LostDocumentSecurityInfo</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisywanie dokumentu w formacie bez zabezpieczeń spowoduje usunięcie wszystkich ustawień uprawnień. Czy chcesz kontynuować?</translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -8271,6 +8347,30 @@ Typ linii: %3</translation>
         <comment>_kso_SaveDiagTitle</comment>
         <translation>Zapisz jako</translation>
     </message>
+    <message>
+        <source>Copy</source>
+        <comment>_kso_DocOperationCopy</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kopiuj</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>_kso_DocOperationPrint</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Drukuj</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <comment>_kso_DocOperationSaveAs</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisz jako</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <comment>_kso_DocOperationAuth</comment>
+        <translatorcomment>Autoryzacja - tak jest ok jak w MSO</translatorcomment>
+        <translation>Aut.</translation>
+    </message>
 </context>
 <context>
     <name>kso_ksocomm</name>
@@ -8297,7 +8397,8 @@ Typ linii: %3</translation>
     <message>
         <source>Backuping the file, please wait...</source>
         <comment>_kso_BusyTip_Prompt_Doucment_AutoBackup</comment>
-        <translation>Tworzenie kopii zapasowej pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa tworzenie kopii zapasowej pliku...</translation>
     </message>
     <message>
         <source>The following addin has not passed the antivirus examination. To assure security, %s will refuse to load it. 
@@ -8386,7 +8487,8 @@ Plik: %s</translation>
     <message>
         <source>The file is loading, please wait.</source>
         <comment>_kso_ErrorRep_ContentDlg_LoadFile</comment>
-        <translation>Plik jest ładowany, proszę czekać.</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa ładowanie pliku.</translation>
     </message>
     <message>
         <source>File loaded</source>
@@ -9563,11 +9665,6 @@ Ta pozycja może nie być bezpieczna.</translation>
         <translation>Hiperłącza mogą uszkodzić komputer oraz dane. Dla ochrony komputera, proszę kliknąć łącze tylko z zaufanych źródeł. Czy chcesz kontynuować?</translation>
     </message>
     <message>
-        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
-        <comment>_kso_ksoThanksTo_PER</comment>
-        <translation>To oprogramowanie może być użyte tylko przez indywidualnego użytkownika do celów osobistych i nie może być używane do celów komercyjnych, takich jak produkcja, biznes oraz innych. ||Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
-    </message>
-    <message>
         <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
         <comment>_kso_krim_Error_insertOleInvalid</comment>
         <translation>Uprawnienie %1 jest aktualnie ograniczone. Nie można wstawiać plików z ograniczonymi uprawnieniami do tej prezentacji.</translation>
@@ -9590,6 +9687,17 @@ Ta pozycja może nie być bezpieczna.</translation>
         <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
         <comment>_kso_kirm_PermissionIndividualToPolicy</comment>
         <translation>Wybranie zasad uprawnienia spowoduje zamianę istniejących uprawnień ustawionych dla tego dokumentu. Czy chcesz kontynuować?</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation>To oprogramowanie może być użyte tylko przez indywidualnego użytkownika do celów osobistych i nie może być używane do celów komercyjnych, takich jak produkcja, biznes oraz innych. ||Oprogramowanie to zawiera: Projekt FreeType oraz otrzymało swoją bezpłatną autoryzację zgodnie z klauzulami licencji FreeType; chiński segment słowa, chińskie adnotacje fonetyczne i technologię konwersji między chińskim uproszczonym i tradycyjnym świadczoną przez Centrum Wyszukiwania Informacji, Harbin Institute of Technology; Hunspell Spell Checker, kod źródłowy w Hunspell jest stosowany do kodu źródłowego w umowie licencji Open Source MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienia do pliku %1 są obecnie ograniczone. Do tego dokumentu nie można wstawiać plików z ograniczeniami uprawnień.</translation>
     </message>
 </context>
 <context>
@@ -11117,12 +11225,14 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>No Border</source>
         <comment>kso_sNoBorder</comment>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>No Fill</source>
         <comment>kso_sNoFill</comment>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
     <message>
         <source>&quot;%s&quot; has no icon.</source>
@@ -11132,7 +11242,8 @@ Jeśli zmieniasz nazwę pola tabeli przestawnej, musisz wpisać nową nazwę pol
     <message>
         <source>No Line</source>
         <comment>kso_sNoLine</comment>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
     <message>
         <source>None</source>
@@ -12240,7 +12351,8 @@ Służy do pokazywania kroków zmierzających do celu</translation>
     <message>
         <source>Verifying the serial number, please wait...</source>
         <comment>kso_sVerifyOnline</comment>
-        <translation>Weryfikowanie numeru seryjnego, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa weryfikowanie numeru seryjnego...</translation>
     </message>
     <message>
         <source>Failed to open email client automatically, please send email to %s to feed back information.</source>
@@ -12460,6 +12572,14 @@ Czy pobrać pakiet rozszerzenia XML?</translation>
         <source>As hundredths (%s)</source>
         <comment>kso_sNnumberFormatter_style_09</comment>
         <translation>Jako setne (%s)</translation>
+    </message>
+    <message>
+        <source>The file is modified
+Please save the file and create share link</source>
+        <comment>kso_h5_SaveFileTip</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plik został zmodyfikowany
+Zapisz plik i utwórz łącze udostępniania</translation>
     </message>
 </context>
 <context>

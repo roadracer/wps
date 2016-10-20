@@ -118,6 +118,7 @@ Przed użyciem tej funkcji należy ustawić zabezpieczenia arkusza przy użyciu 
     <message id="AutoFilter.title">
         <source>AutoFilter</source>
         <extracomment>AutoFilter.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message id="AutoFilter.content">
@@ -338,6 +339,7 @@ Kliknij dwukrotnie element na liście wyników, aby przełączyć odpowiednią k
     <message id="ConditionalFormat.title">
         <source>Conditional Formatting</source>
         <extracomment>ConditionalFormat.title</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - podpowiedź po najechaniu kursorem na ikonę Formatowanie warunkowe</translatorcomment>
         <translation>Formatowanie warunkowe</translation>
     </message>
     <message id="ConditionalFormat.content">
@@ -494,6 +496,7 @@ Przykładowo można wybrać euro zamiast dolarów.</translation>
     <message id="DetailedSettings_Data.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Data.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Ustawienia</translation>
     </message>
     <message id="DetailedSettings_Data.content">
@@ -670,6 +673,7 @@ Można określić, w których kolumnach mają być wyszukiwane zduplikowane info
     <message id="EDRProperties.title">
         <source>Data Range Properties</source>
         <extracomment>EDRProperties.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message id="EDRProperties.content">
@@ -1423,6 +1427,7 @@ Nazwy służą do ułatwienia zrozumienia formuł.</translation>
     <message id="NameManager.title">
         <source>Name Manager</source>
         <extracomment>NameManager.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Menedżer nazw</translation>
     </message>
     <message id="NameManager.content">
@@ -1461,7 +1466,8 @@ Na przykład: =SUMA(MojaSprzedaż) zamiast =SUMA(A1:A10).</translation>
     <message id="NoBorder.title">
         <source>No Border</source>
         <extracomment>NoBorder.title</extracomment>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - podpowiedź po najechaniu myszką na ikonę Brak krawędzi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message id="NoBorder.content">
         <source>Apply borders to the currently selected cells.</source>
@@ -1561,6 +1567,7 @@ Na przykład: =SUMA(MojaSprzedaż) zamiast =SUMA(A1:A10).</translation>
     <message id="PTHideFieldList.title">
         <source>Hide Field List</source>
         <extracomment>PTHideFieldList.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Ukryj listę pól</translation>
     </message>
     <message id="PTHideFieldList.content">
@@ -2544,7 +2551,7 @@ W programie Writer funkcja ta umożliwia przekonwertowanie zaznaczonego tekstu n
     <message id="Validation.title">
         <source>Data Validation</source>
         <extracomment>Validation.title</extracomment>
-        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Spreadsheets-&gt;Dane - podpowiedź po najechaniu kursorem na ikonę Poprawność danych - tak jest ok jak w Excel</translatorcomment>
         <translation>Poprawność danych</translation>
     </message>
     <message id="Validation.content">
@@ -2777,17 +2784,6 @@ Narzędzie analizy warunkowej, które znajduje optymalną wartość komórki cel
         <source>Format as a number in scientific notation, with 2 decimal places.</source>
         <extracomment>Scientific.content</extracomment>
         <translation>Umożliwia zastosowanie formatu liczby w notacji naukowej, z 2 miejscami dziesiętnymi.</translation>
-    </message>
-    <message id="Thesaurus.title">
-        <source>Thesaurus</source>
-        <extracomment>Thesaurus.title</extracomment>
-        <translation>Tezaurus</translation>
-    </message>
-    <message id="Thesaurus.content">
-        <source>Open Thesaurus.</source>
-        <extracomment>Thesaurus.content</extracomment>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
     </message>
     <message id="ChartColumn.title">
         <source>Insert Column Chart</source>
@@ -3036,6 +3032,186 @@ This banding can make tables easier to read.</source>
         <translation>Umożliwia odmienne formatowanie kolumn parzystych i nieparzystych.
 
 Formatowanie naprzemienne zwiększa czytelność tabeli.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>Tezaurus</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia otwarcie okienka słownika Tezaurus.</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia szybkie naprawienie dokumentów, które są zniekształcone lub nie mogą być otwarte z innych powodów.</translation>
+    </message>
+    <message id="PTRefreshAllData.title">
+        <source>Refresh All</source>
+        <extracomment>PTRefreshAllData.title</extracomment>
+        <translation>Odśwież wszystko</translation>
+    </message>
+    <message id="PTRefreshAllData.content">
+        <source>Get the latest data by refreshing all sources in the workbook.</source>
+        <extracomment>PTRefreshAllData.content</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia pobranie najnowszych danych przez odświeżenie wszystkich źródeł w skoroszycie.</translation>
+    </message>
+    <message id="DocumentSlimming.title">
+        <source>File Slimming</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę Odchudzanie dokumentu</translatorcomment>
+        <translation>Odchudzanie pliku</translation>
+    </message>
+    <message id="DocumentSlimming.content">
+        <source>&quot;file slimming&quot; feature can help you reduce the file size.</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę Odchudzanie dokumentu</translatorcomment>
+        <translation>Funkcja &quot;odchudzania pliku&quot; umożliwia zmiejszenie rozmiaru pliku.</translation>
+    </message>
+    <message id="ConditionalFormatting.title">
+        <source>Conditional Formatting</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatowanie warunkowe</translation>
+    </message>
+    <message id="ConditionalFormatting.content">
+        <source>Easily spot trends and patterns in your data using bars, colors, and icons to visually highlight important values.</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - podpowiedź po najechaniu kursorem na ikonę Formatowanie warunkowe - tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia łatwe przedstawienie trendów danych i wyróżnienie ważnych wartości przy użyciu pasków, kolorów i ikon.</translation>
+    </message>
+    <message id="ResetCommentAnchor.title">
+        <source>Reset current comment.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj bieżący komentarz</translation>
+    </message>
+    <message id="ResetCommentAnchor.content">
+        <source>Reset current comment&apos;s anchor and size.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zresetowanie rozmiaru i zakotwiczenia bieżących komentarzy.</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.title">
+        <source>Reset all comments of current sheet.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj wszystkie komentarze bieżącego arkusza</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.content">
+        <source>Reset all comments&apos;s anchor and size of current sheet.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zresetowanie rozmiaru i zakotwiczenia wszystkich komentarzy bieżącego arkusza.</translation>
+    </message>
+    <message id="PreviousComment.title">
+        <source>Previous.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprzedni</translation>
+    </message>
+    <message id="PreviousComment.content">
+        <source>Select the previous comment in the sheet.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia przejście do poprzedniego komentarza w arkuszu.</translation>
+    </message>
+    <message id="NextComment.title">
+        <source>Next.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Następny</translation>
+    </message>
+    <message id="NextComment.content">
+        <source>Navigate to the next comment in the document.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia przejście do następnego komentarza w arkuszu.</translation>
+    </message>
+    <message id="ShowOrHideComment.title">
+        <source>Show/Hide Comment.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Pokaż/Ukryj komentarz</translation>
+    </message>
+    <message id="ShowOrHideComment.content">
+        <source>Show or hide the comment attached to the selected cell.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia pokazanie lub ukrycie komentarzy dołączonych do zaznaczonej komórki.</translation>
+    </message>
+    <message id="ShowAllComments.title">
+        <source>Show All Comments.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Pokaż wszystkie komentarze</translation>
+    </message>
+    <message id="ShowAllComments.content">
+        <source>Display all comments in the sheet.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia wyświetlenie wszystkich komentarzy w arkuszu.</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zablokowanie współczynnika proporcji podczas dopasowywania obrazu.</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zresetowanie wszystkich zmian do rozmiaru zaznaczonego obrazu.</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zablokuj współczynnik proporcji</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj rozmiar</translation>
+    </message>
+    <message id="NumberFormatGallery.title">
+        <source>Number Format.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Format liczb</translation>
+    </message>
+    <message id="NumberFormatGallery.content">
+        <source>Select the number format of cells, such as Percentage, Currency, date or time..</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia wybranie formatu liczby, np. Procenty, Waluta, Data lub godzina.</translation>
+    </message>
+    <message id="CmpSideBySide.title">
+        <source>View Side by Side.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyświetl obok siebie</translation>
+    </message>
+    <message id="CmpSideBySide.content">
+        <source>View two documents side-by-side to compare their contents.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia wyświetlenie dwóch dokumentów obok siebie, aby można było porównać ich zawartość.</translation>
+    </message>
+    <message id="LockSideBySide.title">
+        <source>Synchronous Scrolling.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przewijanie synchroniczne</translation>
+    </message>
+    <message id="LockSideBySide.content">
+        <source>Synchronize the scrolling of two documents so that they scroll together. To enable this feature, turn on View Side by Side.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia zsynchronizowanie przewijania dwóch dokumentów, tak aby były przewijane razem. Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
+    </message>
+    <message id="VerbSideBySide.title">
+        <source>Reset Window Position.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj położenie okna</translation>
+    </message>
+    <message id="VerbSideBySide.content">
+        <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally. To enable this feature, turn on View Side by Side.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Umożliwia zresetowanie położenia, jakie zajmują w oknie dokumenty porównywane obok siebie, tak aby na każdy z tych dokumentów przypadała taka sama część ekranu. Aby włączyć tę funkcję, włącz opcję Wyświetl obok siebie.</translation>
     </message>
 </context>
 </TS>

@@ -37,6 +37,26 @@
     </message>
 </context>
 <context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Become a VIP to continue using the function and enjoy more services!&quot; - tak jest ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP, aby nadal korzystać z funkcji i cieszyć się większą ilością usług!</translation>
+    </message>
+</context>
+<context>
     <name>KxSpeakAbstractListCommand</name>
     <message>
         <source>Is PC&apos;s speaker on?
@@ -70,7 +90,8 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     </message>
     <message>
         <source>Become a VIP to continue using the function and enjoy more services!</source>
-        <translation>Zostań VIP, aby kontunuować korzystanie z funkcji i cieszyć się większą ilością usług!</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP, aby nadal korzystać z funkcji i cieszyć się większą ilością usług!</translation>
     </message>
     <message>
         <source>More about VIP</source>
@@ -82,7 +103,8 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     </message>
     <message>
         <source>Become a VIP</source>
-        <translation>Zostań VIP</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP</translation>
     </message>
     <message>
         <source>Exporting Audio </source>
@@ -93,6 +115,30 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
 Are you sure to close?</source>
         <translation>Plik dźwiękowy tego dokumentu jest obecnie eksportowany. 
 Czy na pewno chcesz zamknąć?</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej kończy się wkrótce. 
+Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej zakończył się. 
+Zostań użytkownikiem VIP, aby nadal korzystać z pakietu WPS Office.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tylko użytkownicy VIP mogą bez ograniczeń korzystać z funkcji Tekst na mowę.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP, aby otrzymać 14 ekskluzywnych funkcji, w tym funkcję Tekst na mowę!</translation>
     </message>
 </context>
 <context>
@@ -125,6 +171,20 @@ Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>Wybrana zawartość nie może zostać przeniesiona do mowy. Proszę wybierz ponownie.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej kończy się wkrótce. 
+Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej zakończył się. 
+Zostań użytkownikiem VIP, aby nadal korzystać z pakietu WPS Office.</translation>
     </message>
 </context>
 <context>

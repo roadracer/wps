@@ -10,6 +10,38 @@
     </message>
 </context>
 <context>
+    <name>KMessageBox</name>
+    <message>
+        <source>Close this window, WPS Office will exit.
+ We suggest you login and use WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zamknij to okno, pakiet WPS Office zakończy działanie.
+ Sugerujemy Ci zalogować się i korzystać z pakietu WPS Office</translation>
+    </message>
+    <message>
+        <source>Login tip</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wskazówka logowania</translation>
+    </message>
+</context>
+<context>
+    <name>KMessageboxWidget</name>
+    <message>
+        <source>Widget</source>
+        <translatorcomment>ok - nie tłumaczymy</translatorcomment>
+        <translation>Widget</translation>
+    </message>
+    <message>
+        <source>Go login</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Przejdź do logowania</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation>Zakończ</translation>
+    </message>
+</context>
+<context>
     <name>KProxySettingDlg</name>
     <message>
         <source>Proxy settings</source>
@@ -70,6 +102,32 @@
     </message>
 </context>
 <context>
+    <name>KTitleMenuBar</name>
+    <message>
+        <source>Return</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Powrót</translation>
+    </message>
+    <message>
+        <source>Welcome to use WPS Office</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zapraszamy do korzystania z WPS Office</translation>
+    </message>
+</context>
+<context>
+    <name>KWaitMask</name>
+    <message>
+        <source>loading...</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ładowanie...</translation>
+    </message>
+    <message>
+        <source>syncing login info...</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Synchronizowanie informacji logowania...</translation>
+    </message>
+</context>
+<context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
@@ -78,6 +136,11 @@
     <message>
         <source>TextLabel</source>
         <translation>Etykieta tekstowa</translation>
+    </message>
+    <message>
+        <source>loading...</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ładowanie...</translation>
     </message>
 </context>
 <context>

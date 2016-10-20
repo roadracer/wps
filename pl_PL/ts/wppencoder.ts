@@ -282,7 +282,7 @@ Proszę najpierw uruchomić oczyszczanie dysku.</translation>
     <name>KxWppEncodeStation</name>
     <message>
         <source>Exporting Video </source>
-        <translation>Eksportowanie wideo </translation>
+        <translation>Eksportuj do wideo </translation>
     </message>
     <message>
         <source>(Embedding Video Source)</source>
