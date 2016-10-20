@@ -1,115 +1,115 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_PT">
+<TS version="2.0" language="pl_PL">
 <context>
     <name>KGalleryClient</name>
     <message>
         <source>gallery</source>
-        <translation>galeria&gt;</translation>
+        <translation>Galeria</translation>
     </message>
     <message>
         <source>shape</source>
-        <translation>forma&gt;</translation>
+        <translation>Kształt</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEditGallery</name>
     <message>
         <source>EditGallery</source>
-        <translation type="obsolete">Editar Galeria&gt;</translation>
+        <translation type="obsolete">Edycja galerii</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation>De:&gt;</translation>
+        <translation>Od:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>Texto</translation>
+        <translation>Tekst</translation>
     </message>
     <message>
         <source>Caption:</source>
-        <translation>Sentença:&gt;</translation>
+        <translation>Podpis:</translation>
     </message>
     <message>
         <source>Label:</source>
-        <translation>Legenda:&gt;</translation>
+        <translation>Etykieta:</translation>
     </message>
     <message>
         <source>The Most Number Of Caption Is 5.</source>
-        <translation type="obsolete">O maior número de sentenças é 5&gt;</translation>
+        <translation type="obsolete">Największą liczbą tytułów jest 5.</translation>
     </message>
     <message>
         <source>More:</source>
-        <translation>Mais:&gt;</translation>
+        <translation>Więcej:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK&gt;</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Directory:</source>
-        <translation>Directoria:&gt;</translation>
+        <translation>Katalog:</translation>
     </message>
     <message>
         <source>Notes:</source>
-        <translation>Notas:&gt;</translation>
+        <translation>Notatki:</translation>
     </message>
     <message>
         <source>Less:</source>
-        <translation>Menos:&gt;</translation>
+        <translation>Mniej:</translation>
     </message>
     <message>
         <source>Edit Gallery</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytowanie galerii</translation>
     </message>
     <message>
         <source>The most number of caption is 5.</source>
-        <translation type="unfinished"></translation>
+        <translation>Największa liczba podpisów wynosi 5.</translation>
     </message>
 </context>
 <context>
     <name>KxEditGalleryDlg</name>
     <message>
         <source>More</source>
-        <translation>Mais</translation>
+        <translation>Więcej</translation>
     </message>
     <message>
         <source>Less</source>
-        <translation>Menos&gt;</translation>
+        <translation>Mniej</translation>
     </message>
 </context>
 <context>
     <name>QApplication</name>
     <message>
         <source>\Kingsoft Office\Desktop.ini name.</source>
-        <translation type="obsolete">\Kingsoft Office\Desktop.ini nome.&gt;</translation>
+        <translation type="obsolete">\Kingsoft Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\Desktop.ini name.</source>
-        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini nome.&gt;</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\Kingsoft Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="obsolete">\Kingsoft Office\AppData\My Materials\Desktop.ini nome.&gt;</translation>
+        <translation type="obsolete">\Kingsoft Office\AppData\My Materials\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\AppData\My Materials\Desktop.ini name.</source>
-        <translation type="unfinished"></translation>
+        <translation>\WPS Office\AppData\My Materials\Desktop.ini name.</translation>
     </message>
 </context>
 <context>
     <name>WPSGalleryClass</name>
     <message>
         <source>WPSGallery</source>
-        <translation>Galeria WPS&gt;</translation>
+        <translation>Galeria WPS</translation>
     </message>
 </context>
 </TS>
