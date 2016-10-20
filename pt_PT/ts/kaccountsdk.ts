@@ -1,268 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.0" language="pt_PT">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KAccountDemoMainWindow</name>
     <message>
         <source>Configure File(*.xml)</source>
-        <translation>Plik konfiguracji (*.xml)</translation>
-    </message>
-</context>
-<context>
-    <name>KMessageBox</name>
-    <message>
-        <source>Close this window, WPS Office will exit.
- We suggest you login and use WPS</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Zamknij to okno, pakiet WPS Office zakończy działanie.
- Sugerujemy Ci zalogować się i korzystać z pakietu WPS Office</translation>
-    </message>
-    <message>
-        <source>Login tip</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Wskazówka logowania</translation>
-    </message>
-</context>
-<context>
-    <name>KMessageboxWidget</name>
-    <message>
-        <source>Widget</source>
-        <translatorcomment>ok - nie tłumaczymy</translatorcomment>
-        <translation>Widget</translation>
-    </message>
-    <message>
-        <source>Go login</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Przejdź do logowania</translation>
-    </message>
-    <message>
-        <source>Exit</source>
-        <translation>Zakończ</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KProxySettingDlg</name>
     <message>
         <source>Proxy settings</source>
-        <translation>Ustawienia serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User name:</source>
-        <translation>Nazwa użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Hasło:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Do not use proxy</source>
-        <translation>Nie używaj serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>HTTP proxy</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Serwer proxy dla protokołu HTTP</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Internet Explorer Proxy</source>
-        <translation>Serwer proxy programu Internet Explorer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connected to proxy server correctly</source>
-        <translation>Podłączono prawidłowo do serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed to connect to proxy server</source>
-        <translation>Połączenie do serwera proxy nie powiodło się</translation>
-    </message>
-</context>
-<context>
-    <name>KTitleMenuBar</name>
-    <message>
-        <source>Return</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Powrót</translation>
-    </message>
-    <message>
-        <source>Welcome to use WPS Office</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Zapraszamy do korzystania z WPS Office</translation>
-    </message>
-</context>
-<context>
-    <name>KWaitMask</name>
-    <message>
-        <source>loading...</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Ładowanie...</translation>
-    </message>
-    <message>
-        <source>syncing login info...</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Synchronizowanie informacji logowania...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KWaitMaskWidget</name>
     <message>
         <source>Tray</source>
-        <translation>Zasobnik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>Etykieta tekstowa</translation>
-    </message>
-    <message>
-        <source>loading...</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Ładowanie...</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KWebViewControl</name>
     <message>
         <source>User Login</source>
-        <translation>Logowanie użytkownika</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation>&amp;Odśwież</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
-        <translation>Ctrl+F5</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy &amp;Setting</source>
-        <translation>&amp;Ustawienie serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>MenuItemView</name>
     <message>
         <source>Id:</source>
-        <translation>Identyfikator:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text:</source>
-        <translation>Tekst:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ShortCut:</source>
-        <translation>Skrót:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProxySetting</name>
     <message>
         <source>Proxy settings</source>
-        <translation>Ustawienia serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Hasło:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User Name:</source>
-        <translation>Nazwa użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Proxy Setting</source>
-        <translation>Ustawienie serwera proxy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Test</source>
-        <translation>Test</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>accountdemoClass</name>
     <message>
         <source>accountdemo</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>accountdemo</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SDK:</source>
-        <translation>SDK:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>checkWpsSid</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>checkWpsSid</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>checkToken</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>checkToken</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>appid:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>appid:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>437442496</source>
-        <translation>437442496</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>409256738</source>
-        <translation>409256738</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>439256738</source>
-        <translation>439256738</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>InterfaceList:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>InterfaceList:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>LogView:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>LogView:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>Wyczyść</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -270,397 +200,344 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
-p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Status:</source>
-        <translation>Stan:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Otwórz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Zakończ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View encrypted file</source>
-        <translation>Wyświetl zaszyfrowany plik</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>demo_ts</name>
     <message>
         <source>_initUI...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>_initUI...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File</source>
-        <translation>Plik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>Otwórz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Zapisz</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation>Zakończ</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Help</source>
-        <translation>Pomoc</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View encrypted file</source>
-        <translation>Wyświetl zaszyfrowany plik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>load Config file : </source>
-        <translation>Załaduj plik konfiguracyjny: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>user cancel...</source>
-        <translation>Zatrzymane przez użytkownika...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>load succeed...</source>
-        <translation>Ładowanie powiodło się...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>load failed...</source>
-        <translation>Ładowanie nie powiodło się...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>save config file : </source>
-        <translation>Zapisz plik konfiguracyjny: </translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>save succeed...</source>
-        <translation>Zapisywanie powiodło się...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>save failed...</source>
-        <translation>Zapisywanie nie powiodło się...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>K3rdAccountSDK</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>K3rdAccountSDK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KWpsAccountSDk</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>KWpsAccountSDk</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>KQingAccountSDK</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>KQingAccountSDK</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>sdk Changed......%1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>sdk Changed......%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Init...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Init...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>UnInit...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>UnInit...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Login...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logout...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Logout...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SetProxy...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SetProxy...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SetMenu...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SetMenu...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GetMenu...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>GetMenu...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>no menu item</source>
-        <translation>Brak elementu menu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GetVersion...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>GetVersion...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SyncMenu...start...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SyncMenu...start...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Receive A Message: KAcResultType=%1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Receive A Message: KAcResultType=%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error : load failed...
 %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Error : load failed...
-%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Error : dll not exists...
 %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Error : dll not exists...
-%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Init return  RESULT : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Init return  RESULT : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>UnInit return  RESULT : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>UnInit return  RESULT : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Login return  ActionId : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Login return  ActionId : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Logout return  ActionId : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Logout return  ActionId : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The DLL Version: %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>The DLL Version: %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Userid : %1 login...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Userid : %1 login...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Userid : %1 has been log off...</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Userid : %1 has been log off...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Userid : %1 not login</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Userid : %1 not login</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exception : MessageType is %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Exception : MessageType is %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SyncLogin</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SyncLogin</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SyncLogout</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SyncLogout</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SyncRemove</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SyncRemove</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unknown SyncEvent</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Unknown SyncEvent</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SyncType : %1
   BeforeUserID : %2
   AfterUserID : %3</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SyncType : %1
-  BeforeUserID : %2
-  AfterUserID : %3</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SetProxy return  RESULT : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SetProxy return  RESULT : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>SetMenu return  RESULT : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>SetMenu return  RESULT : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>GetMenu return  RESULT : %1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>GetMenu return  RESULT : %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MenuItem Clicked: ID=%1</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>MenuItem Clicked: ID=%1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>ProxySettingParamType Message</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>ProxySettingParamType Message</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Exec</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>Exec</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>encryptfiledialog</name>
     <message>
         <source>ViewEncrptFile</source>
-        <translation>Wyświetl zaszyfrowany plik</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TokenTable:</source>
-        <translation>Tabela tokenów:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AccountTable:</source>
-        <translation>Tabela konta:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AccountSyncInfo:</source>
-        <translation>Informacje o synchronizacji konta:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>interface_init</name>
     <message>
         <source>bHasCallBackFunc:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>bHasCallBackFunc:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CheckBox</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Pole wyboru</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AppId:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Identyfikator aplikacji:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AppKey:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Klucz aplikacji:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>AppName:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Nazwa aplikacji:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>InitFlags:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>InitFlags:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>CustomUrl:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
-        <translation>Niestandardowy adres URL:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>StyleFlags:</source>
-        <translatorcomment>tak jest ok - wyjaśnione z producentem - nie wymaga tłumaczenia</translatorcomment>
-        <translation>StyleFlags:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>interface_login</name>
     <message>
         <source>LoginFlags:</source>
-        <translation>Flagi logowania:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>interface_logout</name>
     <message>
         <source>UserId:</source>
-        <translation>Identyfikator użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>interface_setmenu</name>
     <message>
         <source>Add</source>
-        <translation>Dodaj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cut</source>
-        <translation>Wytnij</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sync</source>
-        <translation>Synchronizuj</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>MenuCount:</source>
-        <translation>Liczba menu:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>interface_setproxy</name>
     <message>
         <source>ProxyType:</source>
-        <translation>Typ serwera proxy:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>UserName:</source>
-        <translation>Nazwa użytkownika:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation>Hasło:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Address:</source>
-        <translation>Adres:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Port:</source>
-        <translation>Port:</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -1,120 +1,147 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pl_PL">
+<TS version="2.0" language="pt_PT">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KTranslator</name>
     <message>
         <source>Slide %1
 </source>
-        <translation>Slajd %1</translation>
+        <translation>&quot;unfinished&quot;</translation>
+    </message>
+    <message>
+        <source>Notes Page:</source>
+        <translation type="obsolete">Página de Notas</translation>
     </message>
     <message>
         <source>Being converted</source>
-        <translation>Przekonwertowany</translation>
+        <translation>A converter</translation>
     </message>
     <message>
         <source>Still Need:</source>
-        <translation>Wciąż potrzeba:</translation>
+        <translation>Acção necessária:</translation>
     </message>
     <message>
-        <source> Minute</source>
-        <translation>Minut</translation>
+        <source>Minute</source>
+        <translation type="obsolete">Minuto</translation>
     </message>
     <message>
         <source>Second</source>
-        <translation>Sekund</translation>
+        <translation>Segundo</translation>
     </message>
     <message>
         <source>Ready to convert, please wait</source>
-        <translation>Gotowe do konwersji, proszę czekać</translation>
+        <translation>Pronto a coverter, por favor espere</translation>
     </message>
     <message>
         <source>Being calculated</source>
-        <translation>Przeliczanie</translation>
+        <translation>A calcular</translation>
     </message>
     <message>
         <source>Start converting</source>
-        <translation>Rozpocznij konwersję</translation>
+        <translation>A iniciar a conversão</translation>
     </message>
     <message>
         <source>Note;</source>
-        <translation>Notatka;</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Minute</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>ProcessDialog</name>
     <message>
+        <source>Translate to Document</source>
+        <translation type="obsolete">Traduzir para Documento</translation>
+    </message>
+    <message>
         <source>Ready to convert</source>
-        <translation>Gotowe do konwersji</translation>
+        <translation>Pronto a converter</translation>
+    </message>
+    <message>
+        <source>Still Need:Being calculated</source>
+        <translation type="obsolete">Acção necessária: a calcular</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation>Otwórz plik</translation>
+        <translation>Abrir Ficheiro</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne-&gt;Konwertowanie do Word/WPs Writer - tak jest ok</translatorcomment>
-        <translation>Konwertowanie do dokumentu programu Word oraz WPS Writer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
-        <translation>Wciąż potrzeba: przeliczania</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>changeAsWpsDialog</name>
     <message>
+        <source>Translate to Document</source>
+        <translation type="obsolete">Traduzir para Documento</translation>
+    </message>
+    <message>
         <source>Select Slide</source>
-        <translation>Wybierz slajd</translation>
+        <translation>Escolha o diapositivo</translation>
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation>&amp;Wszystkie</translation>
+        <translation>Todos(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Current Slide(&amp;C)</source>
+        <translation type="obsolete">Diapositivo Actual(&amp;A)</translation>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
-        <translation>&amp;Zaznaczenie</translation>
+        <translation>Diapositivos seleccionados(&amp;S)</translation>
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation>&amp;Slajdy:</translation>
+        <translation>Diapositivos(&amp;D)</translation>
     </message>
     <message>
         <source>Converted Layout</source>
-        <translation>Przekonwertowany układ</translation>
+        <translation>Esquema de conversão</translation>
     </message>
     <message>
         <source>According to original layout(&amp;O)</source>
-        <translation>Zgodnie z &amp;oryginalnym układem</translation>
+        <translation>De acordo com o original</translation>
     </message>
     <message>
         <source>Add notes to slide:</source>
-        <translation>Dodaj notatki do slajdu:</translation>
+        <translation>Adicione as notas ao diapositivo</translation>
     </message>
     <message>
         <source>Right(&amp;R)</source>
-        <translation>Po &amp;prawej</translation>
+        <translation>Direita (&amp;R)</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
-        <translation>Po&amp;niżej</translation>
+        <translation>Abaixo(&amp;B)</translation>
     </message>
     <message>
         <source>Below(&amp;N)</source>
-        <translation>Pon&amp;iżej</translation>
+        <translation>Abaixo(&amp;N)</translation>
     </message>
     <message>
         <source>Right(&amp;H)</source>
-        <translation>Po p&amp;rawej</translation>
+        <translation>Abaixo(&amp;H)</translation>
     </message>
     <message>
         <source>Add blank line to slide:</source>
-        <translation>Dodaj pusty wiersz do slajdu:</translation>
+        <translation>Adicionar uma linha vazia ao diapositivo:</translation>
+    </message>
+    <message>
+        <source>Slide per page(&amp;E):</source>
+        <translation type="obsolete">Diapositivos por página(&amp;E):</translation>
     </message>
     <message>
         <source>1</source>
@@ -134,110 +161,135 @@
     </message>
     <message>
         <source>Number slides in the document</source>
-        <translation>Numeruj slajdy w dokumencie</translation>
+        <translation>Número de diapositivos no documento</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation>Podgląd</translation>
+        <translation>Pré-visualizar</translation>
+    </message>
+    <message>
+        <source>Conversion Includes</source>
+        <translation type="obsolete">A conversão inclui</translation>
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation>&amp;Tekst</translation>
+        <translation>&quot;unfinished&quot;</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
-        <translation>Tabe&amp;la</translation>
+        <translation>Texto(&amp;T)</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
-        <translation>&amp;Obraz</translation>
+        <translation>Imagens(&amp;I)&quot;</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translatorcomment>Presentation-&gt;Funkcje specjalne-&gt;Konwertuj do Word/WPS Writer - nazwa okna dialogowego - tak jest ok</translatorcomment>
-        <translation>Konwertowanie do dokumentu programu Word oraz WPS Writer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
-        <translation>&amp;Bieżący slajd</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Slide per page</source>
-        <translation>Slajd na stronę</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Converted Content</source>
-        <translation>Przekonwertowana zawartość</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kxProgressdlg</name>
     <message>
         <source>The conversion is completed.</source>
-        <translation>Konwersja jest zakończona.</translation>
+        <translation>A conversão foi concluída.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zamknij</translation>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Converting to Kingsoft Writer document encountered an error.</source>
+        <translation type="obsolete">Ocorreu um erro na conversão para o formato de documento Kingsoft Writer.</translation>
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Napotkano błąd podczas konwersji do dokumentu programu WPS Writer.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>kxwpptodocdlg</name>
     <message>
         <source>Input slide number or slide range. For example, 1,3,5-9</source>
-        <translation>Wprowadź numer slajdu lub zakres slajdów. Na przykład, 1,3,5-9</translation>
+        <translation>Introduza o(s) diapositivo(s). Por exemplo, 1,3,5-9</translation>
     </message>
     <message>
-        <source>This is a valid number.
-Please input slide number or slide range. 
-For example, 1,3,5-9.</source>
-        <translation>To jest prawidłowa liczba.
-Proszę wprowadź numer slajdu lub zakres slajdów. 
-Na przykład, 1,3,5-9.</translation>
+        <source>The number must be 1, 2, 3, or 4.</source>
+        <translation type="obsolete">O número deverá ser 1, 2, 3 ou 4.</translation>
+    </message>
+    <message>
+        <source>This is a valid number. Please input slide number or slide range. For example, 1,3,5-9.</source>
+        <translation type="obsolete">Este número é válido. Introduza o(s) diapositivo(s). Por exemplo, 1, 3, 5-9.</translation>
+    </message>
+    <message>
+        <source>Kingsoft Presentation</source>
+        <translation type="obsolete">Apresentação do Kingsoft</translation>
     </message>
     <message>
         <source>The number must be 1 or 2.</source>
-        <translation>Liczba musi być 1 lub 2.</translation>
+        <translation>O número deve ser 1 ou 2.</translation>
+    </message>
+    <message>
+        <source>Kingsoft Writer Document(*.wps)</source>
+        <translation type="obsolete">Documento do Kingsoft Writer (*.wps)</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document(*.doc)</source>
-        <translation>Dokument programu Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
+        <translation>Documento do Microsoft Word 97/2000/XP/2003 (*.doc)</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Zapisz jako</translation>
+        <translation>Gravar Como</translation>
     </message>
     <message>
         <source>The file &quot;</source>
-        <translation>Plik &quot;</translation>
+        <translation>O ficheiro &quot;</translation>
     </message>
     <message>
         <source>&quot;</source>
         <translation>&quot;</translation>
     </message>
     <message>
+        <source>already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
+        <translation type="obsolete">já existe. Não é possível salvar com o mesmo nome de um ficheiro aberto. Escolha um nome diferente ou feche o ficheiro aberto antes de guardar.</translation>
+    </message>
+    <message>
         <source>The number must be 1, 2, 3,or 4.</source>
-        <translation>Liczba musi być 1, 2, 3 lub 4.</translation>
+        <translation type="unfinished">O número deve ser 1 ou 2. {1, 2, 3,?} {4.?}</translation>
+    </message>
+    <message>
+        <source>This is a valid number.
+Please input slide number or slide range. 
+For example, 1,3,5-9.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS Presentation</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation>Dokument programu WPS Writer (*.wps)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>
-        <translation>Nazwa już istnieje. Nie możesz zapisać pliku z taką samą nazwą jak inny otwarty plik. Wybierz inną nazwę lub zamknij otwarty plik przed zapisaniem.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Select Slide</source>
-        <translation>Nie wybano slajdu</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
