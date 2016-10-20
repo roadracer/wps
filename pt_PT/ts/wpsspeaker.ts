@@ -1,32 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.0" language="pt_PT">
+<TS version="2.0" language="pl_PL">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>AsyncCommunicator</name>
     <message>
         <source>Cannot Listen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można nasłuchiwać.</translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation type="unfinished"></translation>
+        <translation>Port: </translation>
     </message>
     <message>
         <source>Start TCP Listening.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpocznij nasłuchiwanie TCP.</translation>
     </message>
     <message>
         <source>Stop TCP Listening.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymaj nasłuchiwanie TCP.</translation>
     </message>
     <message>
         <source>New Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podłączono nowego klienta.</translation>
     </message>
     <message>
         <source>Client Closed the Connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient zamknął połączenie.</translation>
+    </message>
+</context>
+<context>
+    <name>AsyncConmunicator</name>
+    <message>
+        <source>Port: </source>
+        <translation type="obsolete">Port: </translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Become a VIP to continue using the function and enjoy more services!&quot; - tak jest ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP, aby nadal korzystać z funkcji i cieszyć się większą ilością usług!</translation>
     </message>
 </context>
 <context>
@@ -34,67 +61,95 @@
     <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Głośnik PC jest włączony?
+Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak zawartości do odczytania.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zadawaj więcej tego pytania</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrana zawartość nie może zostać przeniesiona do mowy. Proszę wybierz ponownie.</translation>
     </message>
     <message>
         <source>Click here to open the Text Reading tool box.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij tutaj, aby otworzyć przybornik narzędzia czytania tekstu.</translation>
     </message>
     <message>
         <source>Your </source>
-        <translation type="unfinished"></translation>
+        <translation>Własne </translation>
     </message>
     <message>
         <source>-day trial period is over.</source>
-        <translation type="unfinished"></translation>
+        <translation> - dniowy okres próbny minął.</translation>
     </message>
     <message>
         <source>Become a VIP to continue using the function and enjoy more services!</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP, aby nadal korzystać z funkcji i cieszyć się większą ilością usług!</translation>
     </message>
     <message>
         <source>More about VIP</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej informacji na temat VIP</translation>
     </message>
     <message>
         <source>Text Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Czytanie tekstu</translation>
     </message>
     <message>
         <source>Become a VIP</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP</translation>
     </message>
     <message>
         <source>Exporting Audio </source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie audio </translation>
     </message>
     <message>
         <source>A sound file of this document is currently being exported. 
 Are you sure to close?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik dźwiękowy tego dokumentu jest obecnie eksportowany. 
+Czy na pewno chcesz zamknąć?</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej kończy się wkrótce. 
+Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej zakończył się. 
+Zostań użytkownikiem VIP, aby nadal korzystać z pakietu WPS Office.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tylko użytkownicy VIP mogą bez ograniczeń korzystać z funkcji Tekst na mowę.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zostań użytkownikiem VIP, aby otrzymać 14 ekskluzywnych funkcji, w tym funkcję Tekst na mowę!</translation>
     </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
     <message>
         <source>WPS Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio WPS</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>Pliki audio Waveform (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -102,421 +157,436 @@ Are you sure to close?</source>
     <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
-        <translation type="unfinished"></translation>
+        <translation>Głośnik PC jest włączony?
+Sprawdź ikonę w prawym dolnym rogu Pulpitu.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak zawartości do odczytania.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zadawaj więcej tego pytania</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrana zawartość nie może zostać przeniesiona do mowy. Proszę wybierz ponownie.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej kończy się wkrótce. 
+Zostań użytkownikiem VIP, aby mieć nieograniczony dostęp do tej funkcji.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Okres wersji próbnej zakończył się. 
+Zostań użytkownikiem VIP, aby nadal korzystać z pakietu WPS Office.</translation>
     </message>
 </context>
 <context>
     <name>KxSpeakToolbar</name>
     <message>
         <source>Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Czytanie</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation>Wycisz</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyłącz wyciszenie</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation type="unfinished"></translation>
+        <translation>Odtwórz</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstrzymaj</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Zatrzymaj</translation>
     </message>
     <message>
         <source>Voice Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Szybkość mowy</translation>
     </message>
     <message>
         <source>Voice Pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość głosu</translation>
     </message>
     <message>
         <source>By Return</source>
-        <translation type="unfinished"></translation>
+        <translation>Powrót</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation type="unfinished"></translation>
+        <translation>Naciśnij klawisz Enter, aby rozpocząć czytanie</translation>
     </message>
     <message>
         <source>Export Speech</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie mowy</translation>
     </message>
     <message>
         <source>Cancel Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj eksportowanie</translation>
     </message>
     <message>
         <source>Low speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Mała szybkość</translation>
     </message>
     <message>
         <source>Medium speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Średnia szybkość</translation>
     </message>
     <message>
         <source>High speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Duża szybkość</translation>
     </message>
     <message>
         <source>Low pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Niska wysokość</translation>
     </message>
     <message>
         <source>Medium pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Średnia wysokość</translation>
     </message>
     <message>
         <source>High pitch</source>
-        <translation type="unfinished"></translation>
+        <translation>Duża wysokość</translation>
     </message>
 </context>
 <context>
     <name>KxWpsSpeakStation</name>
     <message>
         <source>Cannot start reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można rozpocząć czytania.</translation>
     </message>
     <message>
         <source>Cannot start local reading client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można uruchomić lokalnego klienta czytania.</translation>
     </message>
     <message>
         <source>Failed connection with the reading client: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nieudane połączenie z klientem czytania: </translation>
     </message>
     <message>
         <source>Failed to setup local reading client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można skonfigurować lokalnego klienta czytania.</translation>
     </message>
 </context>
 <context>
     <name>SpeakServiceStation</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz</translation>
     </message>
     <message>
         <source>Disconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Odłącz</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakończ</translation>
     </message>
     <message>
         <source>IP  : </source>
-        <translation type="unfinished"></translation>
+        <translation>IP  : </translation>
     </message>
     <message>
         <source>Port: </source>
-        <translation type="unfinished"></translation>
+        <translation>Port: </translation>
     </message>
     <message>
         <source>  OK  </source>
-        <translation type="unfinished"></translation>
+        <translation>  OK </translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>Failed to start local reading engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się uruchomienie aparatu lokalnego odczytu.</translation>
     </message>
     <message>
         <source>Start TCP Client Connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom połączenie klienta TCP.</translation>
     </message>
     <message>
         <source>TCP Client Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podłączono klienta TCP.</translation>
     </message>
     <message>
         <source>TCP Client Disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odłączono klienta TCP.</translation>
     </message>
     <message>
         <source>Connection Denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmowa połączenia.</translation>
     </message>
     <message>
         <source>Connection Timeout.</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit czasu połączenia.</translation>
     </message>
     <message>
         <source>TCP Client Connection Error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd połączenia klienta TCP.</translation>
     </message>
     <message>
         <source>Failed to read content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się odczytanie zawartości.</translation>
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klient WPS czytania tekstu.</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenie</translation>
     </message>
     <message>
         <source>Invalid IP Address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy adres IP.</translation>
     </message>
     <message>
         <source>Invalid Port Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowy numer portu.</translation>
     </message>
     <message>
         <source>Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Wstrzymaj</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienie</translation>
     </message>
     <message>
         <source>Failed to connect with speech service client.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się połączenie z klientem usługi mowy.</translation>
     </message>
     <message>
         <source>Failed to acquire certification from speech server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się pobranie certyfikatu z serwera mowy.</translation>
     </message>
     <message>
         <source>Failed to request reading content again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się żądanie ponownego odczytywania zawartości.</translation>
     </message>
     <message>
         <source>Local speech engine has been closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokalny aparat mowy został zamknięty.</translation>
     </message>
     <message>
         <source>Close connection with speech server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij połączenie z serwerem mowy.</translation>
     </message>
     <message>
         <source>File export is interrupted: </source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwano eksportowanie pliku: </translation>
     </message>
     <message>
         <source>Failed connection with TCP Client: </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się połączenie z klientem protokołu TCP: </translation>
     </message>
     <message>
         <source>Failed to request next reading content.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie powiodło się żądanie następnego odczytywania zawartości.</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpocznij</translation>
     </message>
 </context>
 <context>
     <name>SpeakerIv</name>
     <message>
         <source>IVTTS - failed to allocate heap memory for content.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przydzielić pamięci sterty dla zawartości.</translation>
     </message>
     <message>
         <source>IVTTS - invalid role index: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nieprawidłowa rola indeksu: </translation>
     </message>
     <message>
         <source>IVTTS - failed to open voice resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się otworzyć zasobu głosu.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign voice resource callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przypisać wywołania zwrotnego zasobu głosu.</translation>
     </message>
     <message>
         <source>IVTTS - failed to create TTS session.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się utworzyć sesji TTS.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign output callback.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przypisać wywołania zwrotnego wyjścia.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign unicode input-codepage.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przypisać unicode strony kodowej wejścia.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign auto language-detection.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przypisać automatycznego wykrywania języka.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign normal reading style.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przypisać normalnego stylu czytania.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign reader.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przypisać czytelnika.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare sound engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przygotować aparatu dźwięku.</translation>
     </message>
     <message>
         <source>IVTTS - failed to destroy TTS session.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się zniszczyć sesji TTS.</translation>
     </message>
     <message>
         <source>IVTTS - failed to read text.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się odczytać tekstu.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się ustawić głośności: </translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice pitch: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się ustawić wysokości głosu: </translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice speed: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się ustawić szybkości mowy: </translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare file export.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się przygotować eksportowania pliku.</translation>
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się utworzyć mowy dla tekstu.</translation>
     </message>
     <message>
         <source>IVTTS - failed to add text to the export file.</source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się dodać tekstu do pliku eksportu.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set preferences for number pronunciation: </source>
-        <translation type="unfinished"></translation>
+        <translation>IVTTS - nie udało się ustawić preferencji dla numeru wymowy: </translation>
     </message>
 </context>
 <context>
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia głośników</translation>
     </message>
     <message>
         <source>Voice Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Właściwości głosu</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation type="unfinished"></translation>
+        <translation>Głośność:</translation>
     </message>
     <message>
         <source>Pitch:</source>
-        <translation type="unfinished"></translation>
+        <translation>Gęstość:</translation>
     </message>
     <message>
         <source>Speed:</source>
-        <translation type="unfinished"></translation>
+        <translation>Prędkość:</translation>
     </message>
     <message>
         <source>Voice Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb głosowy</translation>
     </message>
     <message>
         <source>Voice Role:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rola głosowa:</translation>
     </message>
     <message>
         <source>Female Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Chińskia kobieta</translation>
     </message>
     <message>
         <source>Read Digits as Number</source>
-        <translation type="unfinished"></translation>
+        <translation>Odczytaj cyfry jako liczbę</translation>
     </message>
     <message>
         <source>Export sound file</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportuj plik dźwiękowy</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij</translation>
     </message>
 </context>
 <context>
     <name>SpeakerSp</name>
     <message>
         <source>SAPI - failed to initialize COM.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się zainicjować obiektu COM.</translation>
     </message>
     <message>
         <source>SAPI - failed to create Voice.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się utworzyć głosu.</translation>
     </message>
     <message>
         <source>SAPI - failed to create Token category.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się utworzyć kategorii Tokenu.</translation>
     </message>
     <message>
         <source>SAPI - failed to set Token category ID.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się ustawić kategorii identyfikatora Tokenu.</translation>
     </message>
     <message>
         <source>SAPI - failed to enumerate Voice Tokens.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się wyliczanie Tokenów głosu.</translation>
     </message>
     <message>
         <source>SAPI - no Voice Tokens found.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie znaleziono Tokenów głosu.</translation>
     </message>
     <message>
         <source>SAPI - invalid role index: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nieprawidłowa rola indeksu: </translation>
     </message>
     <message>
         <source>SAPI - failed to get Voice Token of index: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się uzyskać Tokenu głosu o indeksie: </translation>
     </message>
     <message>
         <source>SAPI - failed to set Token for Voice.</source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się ustawić Tokenu dla głosu.</translation>
     </message>
     <message>
         <source>SAPI - failed to set voice volume: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się ustawić głośności: </translation>
     </message>
     <message>
         <source>SAPI - failed to set voice speed: </source>
-        <translation type="unfinished"></translation>
+        <translation>SAPI - nie udało się ustawić szybkości mowy: </translation>
     </message>
 </context>
 </TS>
