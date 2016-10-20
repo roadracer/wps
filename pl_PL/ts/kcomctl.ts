@@ -6,7 +6,7 @@
     <name>DownloadBubbleWidget</name>
     <message>
         <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation>Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Proszę spróbuj ponownie później.</translation>
+        <translation>Pobieranie nie powiodło się z powodu możliwych problemów z siecią. Spróbuj ponownie później.</translation>
     </message>
 </context>
 <context>
@@ -14,6 +14,29 @@
     <message>
         <source>Trial Version</source>
         <translation>Wersja próbna</translation>
+    </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tryb tylko do odczytu</translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ten plik jest duży, dlatego wykonanie kopii zapasowej zajmie trochę czasu</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Naciśnik klawisz Esc, aby anulować tworzenie kopii zapasowej lub</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation> ustawić opcje tworzenia kopii zapasowej</translation>
     </message>
 </context>
 <context>
@@ -56,10 +79,6 @@
 <context>
     <name>KColorCombobox</name>
     <message>
-        <source>No Color</source>
-        <translation>Bez koloru</translation>
-    </message>
-    <message>
         <source>&amp;Fill effects...</source>
         <translation>Efekty &amp;wypełnienia...</translation>
     </message>
@@ -83,6 +102,7 @@
     </message>
     <message>
         <source>Recent Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Ostatnio używane kolory</translation>
     </message>
     <message>
@@ -93,12 +113,18 @@
         <source>Standard Colors</source>
         <translation>Kolory standardowe</translation>
     </message>
+    <message>
+        <source>No Color</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
+    </message>
 </context>
 <context>
     <name>KColorCtrl</name>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -465,6 +491,11 @@
         <source>Style</source>
         <translation>Styl</translation>
     </message>
+    <message>
+        <source>Multiple Style</source>
+        <translatorcomment>tak jest ok - może też być Kilka stylów</translatorcomment>
+        <translation>Wiele stylów</translation>
+    </message>
 </context>
 <context>
     <name>KGalleryAbstractModel</name>
@@ -690,7 +721,8 @@
     </message>
     <message>
         <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
-        <translation>Pakiet WPS będzie odzyskiwał pliki dla Ciebie, możesz odznaczyć pliki, które nie muszą być odzyskane</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pakiet WPS Office będzie odzyskiwał pliki. Możesz odznaczyć pliki, które nie muszą być odzyskane.</translation>
     </message>
     <message>
         <source>FileName</source>
@@ -698,7 +730,8 @@
     </message>
     <message>
         <source>Send error file to help WPS solve such issues</source>
-        <translation>Wyślij plik błędów, aby pomóc WPS rozwiązać takie problemy</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyślij plik błędów, aby pomóc WPS rozwiązać napotkane problemy</translation>
     </message>
     <message>
         <source>Recover</source>
@@ -711,6 +744,11 @@
     <message>
         <source>Modified time: </source>
         <translation>Godzina modyfikacji: </translation>
+    </message>
+    <message>
+        <source>Super Recover</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Super odzyskiwanie</translation>
     </message>
 </context>
 <context>
@@ -820,6 +858,53 @@
     <message>
         <source>You cannot copy text from a password field.</source>
         <translation>Nie można kopiować tekstu, który znajduje się w polu hasła.</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Więcej poleceń</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translatorcomment>Główne okno programu-&gt;Prawy przycisk myszki na pasku narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>Usuń z paska na&amp;rzędzi Szybki dostęp</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translatorcomment>Główne okno programu-&gt;Prawy przycisk myszki na pasku narzędzi Szybki dostęp - tak jest ok</translatorcomment>
+        <translation>&amp;Dostosuj pasek narzędzi Szybki dostęp</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translatorcomment>Główne okno programu - podpowiedź po najechaniu kursorem na strzałkę rozwijanego menu - tak jest ok</translatorcomment>
+        <translation>Niestandardowy pasek narzędzi Szybki dostęp</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translatorcomment>Główne okno programu-&gt;Rozwijane menu na pasku narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>Dostosuj pasek narzędzi Szybki dostęp</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Synchronizacja nie powiodła się</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translatorcomment>Główne okno programu-&gt;Rozwijane menu na pasku narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Więcej poleceń...</translation>
     </message>
 </context>
 <context>
@@ -948,10 +1033,37 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
 </context>
 <context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translatorcomment>Główne okno programu-&gt;Rozwijane menu na pasku narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>Zaloguj się</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translatorcomment>Główne okno programu-&gt;Rozwijane menu na pasku narzędzi Szybki dostęp - informacja pojawiająca się po wybraniu elementu - tak jest ok</translatorcomment>
+        <translation>Niestandardowy pasek narzędzi wymaga zalogowania się.</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translatorcomment>Główne okno programu-&gt;Rozwijane menu na pasku narzędzi Szybki dostęp - informacja pojawiająca się po wybraniu elementu - tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translatorcomment>Główne okno programu-&gt;Rozwijane menu na pasku narzędzi Szybki dostęp - informacja pojawiająca się po wybraniu elementu - tak jest ok</translatorcomment>
+        <translation>Zamknij</translation>
+    </message>
+</context>
+<context>
     <name>KShapeLineGalleryItem</name>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
     <message>
         <source>Preset Line</source>
@@ -983,6 +1095,11 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Preset Texture</source>
         <translation>Tekstura wstępna</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Z &amp;obrazu...</translation>
     </message>
 </context>
 <context>
@@ -1149,7 +1266,8 @@ Proszę ponownie zainstalować WPS Office!</translation>
     <name>KxPrstFillModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
     <message>
         <source>Theme Colors</source>
@@ -1191,6 +1309,14 @@ Proszę ponownie zainstalować WPS Office!</translation>
     </message>
 </context>
 <context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wstaw komórki</translation>
+    </message>
+</context>
+<context>
     <name>QApplication</name>
     <message>
         <source>No Glow</source>
@@ -1220,6 +1346,7 @@ Proszę ponownie zainstalować WPS Office!</translation>
     </message>
     <message>
         <source>Document List</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Lista dokumentów</translation>
     </message>
 </context>

@@ -68,7 +68,8 @@
     <message>
         <source>&amp;Edit</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation>&amp;Edytuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Edycja</translation>
     </message>
     <message>
         <source>&amp;Create</source>

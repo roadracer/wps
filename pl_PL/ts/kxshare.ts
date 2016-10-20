@@ -21,12 +21,12 @@
     <name>BubbleWidget</name>
     <message>
         <source>Never show again</source>
-        <translation>Nigdy nie pokazuj ponownie</translation>
+        <translation type="obsolete">Nigdy nie pokazuj ponownie</translation>
     </message>
     <message>
         <source>You can also click here to switch to 
 Eye Protection Mode or Night Mode.</source>
-        <translation>Możesz również kliknąć tutaj, aby przełączyć się do 
+        <translation type="obsolete">Możesz również kliknąć tutaj, aby przełączyć się do 
 Trybu ochrony oczu lub Trybu nocnego.</translation>
     </message>
 </context>
@@ -1330,7 +1330,7 @@ ruchoma</translation>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Instalacja lub aktualizacja poprawek jest teraz uruchomiona. Program &quot;%1&quot; zostanie zamknięty. Proszę uruchom ponownie program &quot;%2&quot; po ukończeniu instalacji lub aktualizacji.</translation>
+        <translation>Instalacja lub aktualizacja poprawek jest teraz uruchomiona. Program &quot;%1&quot; zostanie zamknięty. Uruchom ponownie program &quot;%2&quot; po ukończeniu instalacji lub aktualizacji.</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
@@ -1538,7 +1538,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
-        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu WPS Office.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu pakietu WPS Office.</translation>
     </message>
     <message>
         <source>Click here to change your interface style.</source>
@@ -1642,7 +1643,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, we suggest you upload error files to help WPS solve such issues</source>
-        <translation>Mogło zostać wykonanych kilka błędnych operacji. Sugerujemy przesłać pliki błędów, aby pomóc rozwiązać takie problemy WPS Office.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mogło zostać wykonanych kilka błędnych operacji, dlatego sugerujemy przesłanie plików błędów, aby pomóc Nam rozwiązać napotkane problemy pakietu WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1739,7 +1741,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>applying...</source>
-        <translation>stosowanie...</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Stosowanie...</translation>
     </message>
     <message>
         <source>Restart WPS Office for layout setting to take effect</source>
@@ -2207,6 +2210,14 @@ ruchoma</translation>
         <source>Search Fail Text</source>
         <translation>Wyszukaj tekst brakujący</translation>
     </message>
+    <message>
+        <source>CloudDisk</source>
+        <translation>Dysk usługi Cloud</translation>
+    </message>
+    <message>
+        <source>Clouddisk shares received</source>
+        <translation>Odebrano udziały dysku usługi Cloud</translation>
+    </message>
 </context>
 <context>
     <name>KFileDlgAssitantTool</name>
@@ -2228,6 +2239,14 @@ ruchoma</translation>
     <message>
         <source>FileName or PathName is longger than 218 characters!</source>
         <translation>Nazwa pliku lub ścieżki jest dłuższa niż 218 znaków!</translation>
+    </message>
+</context>
+<context>
+    <name>KH5LinkMgrWindow</name>
+    <message>
+        <source>H5 Link Manager</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menedżer łącza H5</translation>
     </message>
 </context>
 <context>
@@ -2291,7 +2310,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>Settings will take effect after the application restarts.</source>
-        <translation>Ustawienia zostaną wprowadzone po ponownym uruchomieniu aplikacji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia zaczną obowiązywać po ponownym uruchomieniu aplikacji.</translation>
     </message>
     <message>
         <source>Downloading %1...</source>
@@ -2498,7 +2518,19 @@ ruchoma</translation>
     </message>
     <message>
         <source>Incorrect password. Please re-enter.</source>
-        <translation>Nieprawidłowe hasło. Wprowadź ponownie.</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Niepoprawne hasło. Wprowadź ponownie.</translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonItemModel</name>
+    <message>
+        <source>root</source>
+        <translation>Katalog główny</translation>
+    </message>
+    <message>
+        <source>header</source>
+        <translation>Nagłówek</translation>
     </message>
 </context>
 <context>
@@ -2510,6 +2542,37 @@ ruchoma</translation>
     <message>
         <source>Clear</source>
         <translation>Wyczyść</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchEngine</name>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation>Wyszukaj tekst oczekujący</translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation>Wyszukaj tekst brakujący</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation>Ścieżka</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Typ</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Rozmiar</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation>Czas ostatniej modyfikacji</translation>
     </message>
 </context>
 <context>
@@ -2994,6 +3057,188 @@ ruchoma</translation>
     </message>
 </context>
 <context>
+    <name>KWebPreviewShareWidget</name>
+    <message>
+        <source>weixin scan QR Code 
+ Share To Your FriendsSS</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Weixin skanowanie kodu QR 
+ Podziel się ze znajomymi</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWindowShareBar</name>
+    <message>
+        <source>ShareToWeixin</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do Weixin</translation>
+    </message>
+    <message>
+        <source>ShareToWeibo</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do Weibo</translation>
+    </message>
+    <message>
+        <source>ShareToQzone</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do Qzone</translation>
+    </message>
+    <message>
+        <source>ShareToQQ</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do QQ</translation>
+    </message>
+    <message>
+        <source>Share to:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do:</translation>
+    </message>
+    <message>
+        <source>H5Share_Defaut_Tips</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Domyślne porady udostępniania H5</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewTinyQRCodeWidget</name>
+    <message>
+        <source>Use Wechat scan the code
+share with your friends</source>
+        <translatorcomment>WeChat - to chiński komunikator</translatorcomment>
+        <translation>Użyj WeChat do zeskanowania kodu.
+Podziel się ze znajomymi</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindow</name>
+    <message>
+        <source>&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;Zarządzanie łączami&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;Zarządzanie łączami&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;Link management&lt;/p&gt;</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;Zarządzanie łączami&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowHeaderWidget</name>
+    <message>
+        <source>Link preview</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Podgląd łącza</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowProgressWidget</name>
+    <message>
+        <source>Creating kink, please wait...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czekaj, trwa tworzenie łącza...</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Tworzenie łącza nie powiodło się T_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Kliknij, aby ponowić próbę&lt;/a&gt;&lt;/b&gt; lub spróbuj ponownie później</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Tworzenie łącza nie powiodło się T_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Kliknij, aby ponowić próbę&lt;/b&gt;&lt;/a&gt; lub spróbuj ponownie później</translation>
+    </message>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Łącze zawiera tylko pierwszych 50 stron</translation>
+    </message>
+    <message>
+        <source>Link contains only top 20 pages</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Łącze zawiera tylko pierwszych 20 stron</translation>
+    </message>
+    <message>
+        <source>The left disk space is not enouth to creat link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pozostała ilość miejsca na dysku nie jest wystarczająca, aby utworzyć łącze</translation>
+    </message>
+    <message>
+        <source>Network is unaccessable, can&apos;t creat link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Sieć jest niedostępna, nie można utworzyć łącza</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowShareWidget</name>
+    <message>
+        <source>Link has been created, login and use it!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Łącze zostało utworzone, Zaloguj się i użyj go!</translation>
+    </message>
+    <message>
+        <source>For the link security, you need login to share link
+you can manage,delete,reshare the link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Dla bezpieczeństwa łącza Zaloguj się, aby udostępnić łącze.
+Możesz zarządzać, usunąć oraz ponownie udostępnić łącze.</translation>
+    </message>
+    <message>
+        <source>Create link succeeded!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Tworzenie łącza powiodło się!</translation>
+    </message>
+    <message>
+        <source>Click to open the link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kliknij, aby otworzyć łącze</translation>
+    </message>
+    <message>
+        <source>Creating QRCode...</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Tworzenie kodu QR...</translation>
+    </message>
+    <message>
+        <source>WeChat</source>
+        <translatorcomment>ok -  chiński komunikator</translatorcomment>
+        <translation>WeChat</translation>
+    </message>
+    <message>
+        <source>QQ</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>QQ</translation>
+    </message>
+    <message>
+        <source>QZone</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>QZone</translation>
+    </message>
+    <message>
+        <source>Weibo</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Copy link succeeded!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kopiowanie łącza powiodło się!</translation>
+    </message>
+    <message>
+        <source>Copy QRCode succeeded!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kopiowanie kodu QR powiodło się!</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Utwórz łącze</translation>
+    </message>
+</context>
+<context>
     <name>KWordArtGalleryModel</name>
     <message>
         <source>No Style</source>
@@ -3171,6 +3416,57 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxAddTemplateModel</name>
+    <message>
+        <source>Template Id</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator szablonu</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ szablonu</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa szablonu</translation>
+    </message>
+    <message>
+        <source>Maintainer Name : </source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa opiekuna : </translation>
+    </message>
+    <message>
+        <source>Maintainer Account : </source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto opiekuna : </translation>
+    </message>
+    <message>
+        <source>Maintainter Desc : </source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opis opiekuna : </translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon osobisty</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon publiczny</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddUsersPermissionDlg</name>
+    <message>
+        <source>Loading, please wait....</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czekaj, trwa ładowanie…</translation>
+    </message>
+</context>
+<context>
     <name>KxApiDefaultDlg</name>
     <message>
         <source>Yes</source>
@@ -3193,7 +3489,51 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Loading UI XML file failed. For more information, please use KDebugConsole or read logs.</source>
-        <translation>Ładowanie pliku XML interfejsu użytkownika nie powiodło się. Aby uzyskać więcej informacji proszę użyj KDebugConsole lub odczytaj logi.</translation>
+        <translation>Ładowanie pliku XML interfejsu użytkownika nie powiodło się. Aby uzyskać więcej informacji użyj KDebugConsole lub odczytaj logi.</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienie</translation>
+    </message>
+    <message>
+        <source>Apply willl take effect after approved.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zatosowanie uprawnień zacznie obowiązywać po ich zatwierdzeniu.</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionTipDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienie</translation>
+    </message>
+    <message>
+        <source>Permission Warning</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ostrzeżenie uprawnienia</translation>
+    </message>
+</context>
+<context>
+    <name>KxApproverTableModel</name>
+    <message>
+        <source>Account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dział</translation>
     </message>
 </context>
 <context>
@@ -3256,6 +3596,14 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
         <source>Formula</source>
         <translatorcomment>tak jest poprawnie</translatorcomment>
         <translation>Kształty równań</translation>
+    </message>
+</context>
+<context>
+    <name>KxButtonTip</name>
+    <message>
+        <source>I already know</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie przypominaj ponownie</translation>
     </message>
 </context>
 <context>
@@ -3486,6 +3834,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
         <translation>Nie można łączyć bieżącego typu wykresu z innymi typami wykresów. Możesz zmienić typ wykresu dla wszystkich serii danych lub zachować bieżący wykres.</translation>
     </message>
+    <message>
+        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zmiana typu wykresu nie powiodła się, ponieważ dane nie zezwalają na przekształcenie do tego typu wykresu!</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialog</name>
@@ -3711,6 +4064,11 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
         <source>Secondary Axes</source>
         <translation>Osie pomocnicze</translation>
     </message>
+    <message>
+        <source>Chart previews can&apos;t be displayed for this selected data, but you can still insert this chart type. Click OK to insert.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można wyświetlić podglądu wykresu dla wybranych danych, ale nadal można wstawić ten typ wykresu. Kliknij przycisk OK, aby wstawić ten wykres.</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialogClass</name>
@@ -3732,6 +4090,142 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxCheckApproveDlg</name>
+    <message>
+        <source>Approve Permission</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Zatwierdzanie uprawnień</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa dokumentu:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator dokumentu:</translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do odczytu</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do edycji</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do kopiowania</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do drukowania</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do zapisu</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Udziel uprawnienia</translation>
+    </message>
+    <message>
+        <source>Current Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Bieżące uprawnienia</translation>
+    </message>
+    <message>
+        <source>Applied Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosowane uprawnienia</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zatwierdź</translation>
+    </message>
+    <message>
+        <source>Disapprove</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Odrzuć</translation>
+    </message>
+    <message>
+        <source>Document Name:%1</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa dokumentu: %1</translation>
+    </message>
+    <message>
+        <source>Document Id:%1</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator dokumentu: %1</translation>
+    </message>
+    <message>
+        <source>Permission Approved</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zatwierdzone uprawnienie</translation>
+    </message>
+    <message>
+        <source>Other approver might has approved.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Inna osoba zatwierdzająca może zatwierdzić.</translation>
+    </message>
+    <message>
+        <source>Approve agree, user permission application take effect.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zgoda zatwierdzenia, aplikacja uprawnienia użytkownika zacznie obowiązywać.</translation>
+    </message>
+    <message>
+        <source>Approve refuse, user permission application failed.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odmowa zatwierdzenia, aplikacja uprawnienia użytkownika nie powiodła się.</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckPermissionsDlg</name>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Istnieje%1 elementów we wszystkich</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(Brak)</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do modyfikowania</translation>
+    </message>
+    <message>
+        <source>Upload user rights success.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przekazywanie praw użytkownika powiodło się.</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Użytkownik ma inne prawo, nie można anulować jego prawa tylko do odczytu.</translation>
+    </message>
+    <message>
+        <source>Upload user rights failed</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przekazywanie praw użytkownika nie powiodło się</translation>
+    </message>
+    <message>
+        <source>Rights is modified, you want to cancel without saving?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Prawa zostały zmodyfikowane. Czy chcesz anulować bez zapisywania?</translation>
+    </message>
+</context>
+<context>
     <name>KxCloseTaskpaneCommand</name>
     <message>
         <source>Close</source>
@@ -3750,11 +4244,13 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
     <message>
         <source>%1 pt</source>
@@ -3805,6 +4301,7 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>Recent Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Ostatnio używane kolory</translation>
     </message>
     <message>
@@ -4227,6 +4724,145 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxDlgAddTemplate</name>
+    <message>
+        <source>Add Permission Template</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Dodawanie szablonu uprawnień</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ szablonu:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wszystkie</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon osobisty</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon publiczny</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa szablonu:</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyszukaj</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsersPermission</name>
+    <message>
+        <source>Add User</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj użytkownika</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Organizacja</translation>
+    </message>
+    <message>
+        <source>Please input department name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę działu</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Grupa użytkowników</translation>
+    </message>
+    <message>
+        <source>Please input group name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę grupy</translation>
+    </message>
+    <message>
+        <source>Please input name or account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę lub konto</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wybrani użytkownicy</translation>
+    </message>
+    <message>
+        <source>Clear All Selected</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wyczyść wszystkie zaznaczone</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Autoryzuj</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddVisibleRange</name>
+    <message>
+        <source>Add Group</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Dodawanie grupy</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Organizacja</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę działu</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Grupa użytkowników</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę grupy</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCOMAddins</name>
     <message>
         <source>COM Add-Ins</source>
@@ -4289,6 +4925,219 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxDlgCheckPermissions</name>
+    <message>
+        <source>Check Permissions</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Sprawdzanie uprawnień</translation>
+    </message>
+    <message>
+        <source>User ID:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator użytkownika:</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika:</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Add User</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj użytkownika</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Udziel uprawnienia</translation>
+    </message>
+    <message>
+        <source>User Id</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator użytkownika</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do odczytu</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do edycji</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do kopiowania</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do drukowania</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do zapisu</translation>
+    </message>
+    <message>
+        <source>Add Group</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Dodaj grupę</translation>
+    </message>
+    <message>
+        <source>User/Dept Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa Użytkownika/Działu</translation>
+    </message>
+    <message>
+        <source>Check Users Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkownika</translation>
+    </message>
+    <message>
+        <source>Auth Type:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ uwierzytelnienia:</translation>
+    </message>
+    <message>
+        <source>All Type</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wszystkie typy</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uwierzytelnianie użytkownika</translation>
+    </message>
+    <message>
+        <source>Department Auth</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uwierzytelnianie działu</translation>
+    </message>
+    <message>
+        <source>User Group Auth</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uwierzytelnianie grupy użytkowników</translation>
+    </message>
+    <message>
+        <source>User Name/Account:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika/Konto:</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Add &amp;Users</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj &amp;użytkowników</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablon praw</translation>
+    </message>
+    <message>
+        <source>Add &amp;Organization</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj &amp;organizację</translation>
+    </message>
+    <message>
+        <source>Add &amp;Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj &amp;szablon</translation>
+    </message>
+    <message>
+        <source>Batch &amp;Modify</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Modyfikuj partię</translation>
+    </message>
+    <message>
+        <source>Batch &amp;Remove</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Usuń partię</translation>
+    </message>
+    <message>
+        <source>&amp;Save Changes</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Zapisz zmiany</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCurUserPermission</name>
+    <message>
+        <source>Check Current User Permission</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Sprawdzanie uprawnienia bieżącego użytkownika</translation>
+    </message>
+    <message>
+        <source>Read Permission:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do odczytu:</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak</translation>
+    </message>
+    <message>
+        <source>Save Permission:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do zapisu:</translation>
+    </message>
+    <message>
+        <source>Edit Permission:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do edycji:</translation>
+    </message>
+    <message>
+        <source>Screen Permission:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do ekranu:</translation>
+    </message>
+    <message>
+        <source>Copy Permission:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do kopiowania:</translation>
+    </message>
+    <message>
+        <source>Grant Permission:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Udziel uprawnienia:</translation>
+    </message>
+    <message>
+        <source>Print Permission:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do drukowania:</translation>
+    </message>
+    <message>
+        <source>Privilege information</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Informacje uprawnienia</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Zamknij</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>Custom Dictionary</source>
@@ -4339,6 +5188,17 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxDlgDownloadAndUploadFile</name>
+    <message>
+        <source>Dialog</source>
+        <translation>Okno dialogowe</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Etykieta tekstowa</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>Edit Dictionary</source>
@@ -4367,6 +5227,67 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     <message>
         <source>编辑字典</source>
         <translation>Edytowanie słownika</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditTemplate</name>
+    <message>
+        <source>Edit Template</source>
+        <translatorcomment>tak jest ok -  nazwa okna dialogowego</translatorcomment>
+        <translation>Edytowanie szablonu</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa szablonu</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon publiczny</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon osobisty</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opis szablonu</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ szablonu</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opiekun</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+    <message>
+        <source>Choose Visible Range</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wybierz zakres widoczności</translation>
+    </message>
+    <message>
+        <source>Clear Checked</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyczyść zaznaczenie</translation>
+    </message>
+    <message>
+        <source>Visible Range</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zakres widoczności</translation>
     </message>
 </context>
 <context>
@@ -4864,6 +5785,175 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgGrantDeptPermission</name>
+    <message>
+        <source>Grant Department Permssion</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Udzielanie uprawnienia działowi</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę działu</translation>
+    </message>
+    <message>
+        <source>Search Next</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wyszukaj następny</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dział</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Udziel uprawnienia</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+    <message>
+        <source>Add Group</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj grupę</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Organizacja</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Grupa użytkowników</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę grupy</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Autoryzuj</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantPermission</name>
+    <message>
+        <source>Grand Permission</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Udzielanie uprawnienia</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do odczytu</translation>
+    </message>
+    <message>
+        <source>Save Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do zapisu</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do edycji</translation>
+    </message>
+    <message>
+        <source>Screen Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do ekranu</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do kopiowania</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Udziel uprawnienia</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do drukowania</translation>
+    </message>
+    <message>
+        <source>Changes will take effect after document saved.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zmiany zaczną obowiązywać po zapisaniu dokumentu.</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaznacz wszystko</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantUsersPermission</name>
+    <message>
+        <source>Grant Users Permission</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Udzielanie uprawnienia użytkownikom</translation>
+    </message>
+    <message>
+        <source>Please input user name or user Id</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź nazwę lub identyfikator użytkownika</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Identyfikator użytkownika</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Udziel uprawnienia</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dział</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wybrani użytkownicy</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgHttpAuthentication</name>
     <message>
         <source>Http authentication required</source>
@@ -5309,6 +6399,182 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgPermissionApply</name>
+    <message>
+        <source>My Permission Apply</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zatosowanie uprawnienia</translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czas zastosowania:</translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>rrrr/M/d</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>do</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa pliku:</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Identyfikator pliku:</translation>
+    </message>
+    <message>
+        <source>Approval State:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Stan zatwierdzenia:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wszystko</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czekaj na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zatwierdzanie zakończone pomyślnie</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zatwierdzanie nie powiodło się</translation>
+    </message>
+    <message>
+        <source>Clear All condition</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyczyść wszystkie warunki</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Batch Cancel Apply</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Anuluj zastosowanie partii</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Zamknij</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApplyDetail</name>
+    <message>
+        <source>Permission Apply Detail</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Szczegóły zastosowania uprawnienia</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do odczytu</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie do edycji</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do kopiowania</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do drukowania</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do zapisu</translation>
+    </message>
+    <message>
+        <source>Auth Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uwierzytelnianie uprawnienia</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Anuluj zastosowanie</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApprove</name>
+    <message>
+        <source>Permission Approve</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Zatwierdzenie uprawnienia</translation>
+    </message>
+    <message>
+        <source>Start Date:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Data rozpoczęcia:</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>do</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa dokumentu:</translation>
+    </message>
+    <message>
+        <source>User Account:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto użytkownika:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator dokumentu:</translation>
+    </message>
+    <message>
+        <source>Clear Search Condition</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyczyść warunek wyszukiwania</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyszukaj</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgPrintProgress</name>
     <message>
         <source>Print Progress</source>
@@ -5433,6 +6699,32 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
 </context>
 <context>
+    <name>KxDlgSelectApprover</name>
+    <message>
+        <source>Select Approver</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Wybieranie osoby zatwierdzającej</translation>
+    </message>
+    <message>
+        <source>Please input user account, name, or department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź konto użytkownika, nazwę lub dział</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyszukaj</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Anuluj</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgSelectUser</name>
     <message>
         <source>Select User</source>
@@ -5553,6 +6845,73 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
 </context>
 <context>
+    <name>KxDlgUserRightTemplate</name>
+    <message>
+        <source>KxUserRightTemplateDlg</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Szablon praw użytkownika</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ szablonu:</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyszukaj</translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyczyść wyszukiwanie</translation>
+    </message>
+    <message>
+        <source>Template Desc:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opis szablonu:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wszystko</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon osobisty</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon publiczny</translation>
+    </message>
+    <message>
+        <source>Template Id:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator szablonu:</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa szablonu:</translation>
+    </message>
+    <message>
+        <source>New UserRight Template</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablon praw nowego użytkownika</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Usuń partię</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Zamknij</translation>
+    </message>
+</context>
+<context>
     <name>KxDockPaneTitle</name>
     <message>
         <source>Close</source>
@@ -5560,10 +6919,66 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     </message>
 </context>
 <context>
+    <name>KxDownloadAndUploadFileDlg</name>
+    <message>
+        <source>Downloading</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pobieranie</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisywanie</translation>
+    </message>
+    <message>
+        <source>Downloading: </source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pobieranie: </translation>
+    </message>
+    <message>
+        <source>Saving as: </source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisywanie jako: </translation>
+    </message>
+</context>
+<context>
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
         <translation>Słowo zawiera niedozwolone znaki. Nie można go przetworzyć.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditTemplateDlg</name>
+    <message>
+        <source>name</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>account</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Konto</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Dział</translation>
+    </message>
+    <message>
+        <source>Template Name can&apos;t be empty.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa szablonu nie może być pusta.</translation>
+    </message>
+    <message>
+        <source>Template Describe can&apos;t be empty.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opis szablonu nie może być pusty.</translation>
+    </message>
+    <message>
+        <source>Public template must choose at least one organization or group.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon publiczny musi wybrać co najmniej jedną organizację lub grupę.</translation>
     </message>
 </context>
 <context>
@@ -5579,6 +6994,14 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>This is not a valid integer.</source>
         <translation>Nieprawidłowa liczba całkowita.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEncryptionHardware</name>
+    <message>
+        <source>unknown device</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nieznane urządzenie</translation>
     </message>
 </context>
 <context>
@@ -5606,6 +7029,189 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source> multiple of 8!</source>
         <translation> wielokrotność 8!</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnterpriseDocSecurity</name>
+    <message>
+        <source>Can&apos;t complete such operation</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można ukończyć operacji</translation>
+    </message>
+    <message>
+        <source>Please log on to use document security function.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się, aby użyć funkcji zabezpieczenia dokumentu.</translation>
+    </message>
+    <message>
+        <source>Your WPS Office client hasn&apos;t configured document security server information, please contact technical support.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Twój klient pakietu WPS Office nie skonfigurował informacji serwera dla zabezpieczenia dokumentu. Skontaktuj się z pomocą techniczną.</translation>
+    </message>
+    <message>
+        <source>Cancel Permission Apply</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Anuluj zastosowanie uprawnienia</translation>
+    </message>
+    <message>
+        <source>Are you sure to cancel the selected document&apos;s permission apply?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czy na pewno anulować zastosowanie uprawnień do wybranego dokumentu?</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open document</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie można otworzyć dokumentu</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save document</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie można zapisać dokumentu</translation>
+    </message>
+    <message>
+        <source>Can&apos;t copy</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie można skopiować</translation>
+    </message>
+    <message>
+        <source>Can&apos;t print</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie można wydrukować</translation>
+    </message>
+    <message>
+        <source>can&apos;t print screen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można wydrukować ekranu</translation>
+    </message>
+    <message>
+        <source>Check Permission Failed</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdzanie uprawnienia nie powiodło się</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please open after connect avaliable.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odłączono sieć lokalną. Otwórz gdy połączenie będzie dostępne.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please save after connect avaliable.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odłączono sieć lokalną. Zapisz gdy połączenie będzie dostępne.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please copy after connect avaliable.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odłączono sieć lokalną. Skopiuj gdy połączenie będzie dostępne.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print after connect avaliable.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odłączono sieć lokalną. Wydrukuj gdy połączenie będzie dostępne.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print screen after connect avaliable.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odłączono sieć lokalną. Wydrukuj ekran gdy połączenie będzie dostępne.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, check permission failed.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odłączono sieć lokalną, dlatego sprawdzanie uprawnienia nie powiodło się.</translation>
+    </message>
+    <message>
+        <source>This document is WPS security document, security document format that supports WPS client to open.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ten dokument jest dokumentem z zabezpieczeniami WPS. Aby otworzyć format dokumentu z zabezpieczeniami, należy użyć klienta WPS.</translation>
+    </message>
+    <message>
+        <source>Security Server authenticating failed to current identifier, please login again.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Uwierzytelnianie serwera zabezpieczeń dla bieżącego identyfikatora nie powiodło się. Zaloguj się ponownie.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no full control permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety, ma nie masz uprawnienia pełnej kontroli dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no auth permission for this document!</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niestety, nie masz uwierzytelnionego uprawnienia dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no read permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety nie masz uprawnienia do odczytu dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no edit permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety nie masz uprawnienia do edycji dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no save as permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety nie masz uprawnienia do zapisu dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no copy permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety nie masz uprawnienia do kopiowania dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety nie masz uprawnienia do drukowania dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print screen permission for this document!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niestety nie masz uprawnienia do drukowania ekranu dla tego dokumentu!</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, may be tampering or corrupted!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Nie można otworzyć tego pliku zabezpieczeń, ponieważ mógł zostać naruszony lub uszkodzony!</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, it&apos;s not belong our enterprise.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Nie można otworzyć tego pliku zabezpieczeń. Nie należy on do naszego przedsiębiorstwa.</translation>
+    </message>
+    <message>
+        <source>Access Security Document Server Failed.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Błąd zabezpieczeń dostępu serwera dokumentów.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this document</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można otworzyć tego dokumentu</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save this document</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można zapisać tego dokumentu</translation>
+    </message>
+    <message>
+        <source>Please log on to verify your permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się, aby zweryfikować swoje uprawnienia</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ten dokument jest dokumentem z zabezpieczeniami WPS Online. Zaloguj się, aby zweryfikować swoje uprawnienia.</translation>
+    </message>
+    <message>
+        <source>You are saving a WPS Online Security Document, Please logon to complete operation.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zapisujesz dokument z zabezpieczeniami WPS Online. Zaloguj się, aby zakończyć operację.</translation>
+    </message>
+    <message>
+        <source>You already has apply for this document, Please wait.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Już zastosowano do tego dokumentu. Proszę czekać.</translation>
     </message>
 </context>
 <context>
@@ -6501,6 +8107,169 @@ właściwości</translation>
     </message>
 </context>
 <context>
+    <name>KxGalleryShapesCommand</name>
+    <message>
+        <source>Recommand</source>
+        <translatorcomment>Styl wstążki-&gt;Wstaw-&gt;Kształty - tak jest ok</translatorcomment>
+        <translation>Zalecane</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translatorcomment>Styl wstążki-&gt;Wstaw-&gt;Kształty - tak jest ok</translatorcomment>
+        <translation>Ustawienie wstępne</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5RemindDialog</name>
+    <message>
+        <source>Copy Finished</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zakończono kopiowanie</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareContiueWidget</name>
+    <message>
+        <source>Share Finished!</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zakończono udostępnianie!</translation>
+    </message>
+    <message>
+        <source>Continue Share &gt;&gt;</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kontynuuj udostępnianie &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Manage Shared Link &gt;&gt;</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzaj udostępnionym łączem &gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareLoginWidget</name>
+    <message>
+        <source>Link has been generated, 
+you can use the login!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Łącze zostało wygenerowane, 
+możesz go użyć do zalogowania się!</translation>
+    </message>
+    <message>
+        <source>For document security needs, please log in,
+you can also enjoy the link after the link to manage, delete, and then share privileges</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dla potrzeb zabezpieczenia dokumentu, zaloguj się.
+Można również korzystać z łącza do zarządzania, usuwania i udostępniania uprawnień.</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5hareCreateLinkWidget</name>
+    <message>
+        <source>creating a link...</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Tworzenie łącza...</translation>
+    </message>
+    <message>
+        <source>Mobile scan two-dimensional code</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Dwuwymiarowy kod mobilnego skanowania</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionAlert</name>
+    <message>
+        <source>It is not supported for Data Encryption/Decryption on this platform.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ta platforma nie obsługuje szyfrowania/odszyfrowywania danych.</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Informacje</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionDialog</name>
+    <message>
+        <source>Document Encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie dokumentu</translation>
+    </message>
+    <message>
+        <source>Document Decryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odszyfrowywanie dokumentu</translation>
+    </message>
+    <message>
+        <source>The file requires hardware encryption.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plik wymaga szyfrowania sprzętowego.</translation>
+    </message>
+    <message>
+        <source>The file has been hardware encrypted.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plik został zaszyfrowany sprzętowo.</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionItemModel</name>
+    <message>
+        <source>Found</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Znaleziono</translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niezaszyfrowane</translation>
+    </message>
+    <message>
+        <source>Save As </source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zapisz jako </translation>
+    </message>
+    <message>
+        <source>Security Format</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format zabezpieczeń</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionWidget</name>
+    <message>
+        <source>Apply for hardware.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zastosuj dla sprzętu.</translation>
+    </message>
+    <message>
+        <source>Start detection</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Rozpocznij wykrywanie</translation>
+    </message>
+    <message>
+        <source>Cannot find USB Key. If you have plugged it in, please try again or redetect.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Nie można odnaleźć klucza USB. Jeśli jest podłączony spróbuj ponownie lub wykryj go ponownie.</translation>
+    </message>
+    <message>
+        <source>Detecting USB Key...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wykrywanie klucza USB...</translation>
+    </message>
+    <message>
+        <source>Redetect</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wykryj ponownie</translation>
+    </message>
+    <message>
+        <source>Plug in a USB Key to hardware encrypt the file&apos;s open access. 
+Password protection and document permissions will become invalid.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Podłącz klucz USB do sprzętowego szyfrowania plików z otwartym dostępem. 
+Hasło ochrony i uprawnienia dokumentu staną się nieprawidłowe.</translation>
+    </message>
+</context>
+<context>
     <name>KxHideorShowButton</name>
     <message>
         <source>Show Task Window</source>
@@ -6547,6 +8316,39 @@ właściwości</translation>
     <message>
         <source>All Files(*.*)</source>
         <translation>Wszystkie pliki (*.*)</translation>
+    </message>
+</context>
+<context>
+    <name>KxImageQQStylePreViewer</name>
+    <message>
+        <source>Real Size</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Rzeczywisty rozmiar</translation>
+    </message>
+    <message>
+        <source>Full Screen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pełny ekran</translation>
+    </message>
+    <message>
+        <source>Close Full Screen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zamknij pełny ekran</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zrzut ekranu</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Poprzedni</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Następny</translation>
     </message>
 </context>
 <context>
@@ -6726,6 +8528,16 @@ właściwości</translation>
         <source>Item:</source>
         <translation>Element:</translation>
     </message>
+    <message>
+        <source>Word Macro-Enabled Templates(*.dotm)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony programu Word z włączoną obsługą makr (*.dotm)</translation>
+    </message>
+    <message>
+        <source>Word 97-2003 Templates(*.dot)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony programu Word 97-2003 (*.dot)</translation>
+    </message>
 </context>
 <context>
     <name>KxLinksObjectContextDlg</name>
@@ -6798,6 +8610,19 @@ właściwości</translation>
     </message>
 </context>
 <context>
+    <name>KxLoadingTreeModel</name>
+    <message>
+        <source>Loading, please wait...</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa ładowanie…</translation>
+    </message>
+    <message>
+        <source>Loading failed...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ładowanie nie powiodło się...</translation>
+    </message>
+</context>
+<context>
     <name>KxMacroActionButtonCommand</name>
     <message>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
@@ -6866,6 +8691,7 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>We are sorry that WPS Office encountered an error and closed automatically. An error log report has been generated. We suggest you email this report to us and provide other information about this error. We will handle it quickly. Thank you for your feedback.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Bardzo nam przykro, że WPS Office napotkał błąd i został automatycznie zamknięty. Raport dziennika błędów został wygenerowany. Zalecamy wysłanie do nas pocztą e-mail tego raportu i dodatkowych informacji o tym błędzie. Postaramy się znaleźć rozwiązanie, tak szybko jak to możliwe. Dziękujemy za Twoją opinię.</translation>
     </message>
     <message>
@@ -6966,6 +8792,24 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     <message>
         <source>Compatibility Mode</source>
         <translation>Tryb zgodności</translation>
+    </message>
+</context>
+<context>
+    <name>KxMembersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto użytkownika</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dział</translation>
     </message>
 </context>
 <context>
@@ -7231,7 +9075,8 @@ Jeśli problem jest pilny, zadzwoń na infolinię klienta: 400-667-5005.</transl
     </message>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation>Nie można nawiązać połączenia z serwerem, proszę sprawdź swoje połączenie sieciowe.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można połączyć się z serwerem. Sprawdź połączenie sieciowe.</translation>
     </message>
     <message>
         <source>%1 membership has expired, please renew.</source>
@@ -7356,7 +9201,8 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Downloading, please wait...</source>
-        <translation>Pobieranie, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa pobieranie...</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.</source>
@@ -7384,7 +9230,8 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait...</source>
-        <translation>Pobieranie czcionek, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa pobieranie czcionek...</translation>
     </message>
 </context>
 <context>
@@ -7396,6 +9243,70 @@ Kliknij tutaj, aby się zalogować.</translation>
     <message>
         <source>More...</source>
         <translation>Więcej...</translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonQatTab</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Customize the Quick Access Toolbar</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>Dostosowywanie paska narzędzi Szybki dostęp</translation>
+    </message>
+    <message>
+        <source>Choose Commands</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wybierz polecenia</translation>
+    </message>
+    <message>
+        <source>&amp;Add &gt;&gt;</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Dodaj &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Remove</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>&lt;&lt; U&amp;suń</translation>
+    </message>
+    <message>
+        <source>Customize Quick Access Toolbar</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>Dostosuj pasek narzędzi Szybki dostęp</translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Resetuj</translation>
+    </message>
+    <message>
+        <source>You already have this on Quick Access Toolbar.</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - komunikat w oknie dialogowym przy próbie dodania istniejącego elementu - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wybrany element znajduje się już na pasku narzędzi Szybki dostęp.</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translatorcomment>Główny przycisk programu-&gt;Opcje-&gt;Pasek narzędzi Szybki dostęp - nazwa okna dialogowego komunikatu przy próbie dodania istniejącego elementu - tak jest ok jak w MSO</translatorcomment>
+        <translation>Pasek narzędzi Szybki dostęp</translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonTabsTab</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Resetuj</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przycisk polecenia</translation>
     </message>
 </context>
 <context>
@@ -7484,6 +9395,140 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
 </context>
 <context>
+    <name>KxPermissionApplyDetailDlg</name>
+    <message>
+        <source>File Name: %1</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa pliku: %1</translation>
+    </message>
+    <message>
+        <source>File Id: %1</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Identyfikator pliku: %1</translation>
+    </message>
+    <message>
+        <source>Current Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Bieżące uprawnienie</translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienie</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyDlg</name>
+    <message>
+        <source>Your Apply has been canceled.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Twoje zastosowanie zostało anulowane.</translation>
+    </message>
+    <message>
+        <source>You has already canceled apply for this document.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Masz już anulowane zastosowanie dla tego dokumentu.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Data zastosowania</translation>
+    </message>
+    <message>
+        <source>File Id</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Identyfikator pliku</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>Nazwa pliku</translation>
+    </message>
+    <message>
+        <source>Apply State</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Stan zastosowania</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Operacja</translation>
+    </message>
+    <message>
+        <source>Apply Detail</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szczegóły zastosowania</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Anuluj zastosowanie</translation>
+    </message>
+    <message>
+        <source>wait for approve</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Czekaj na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>apply passed</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zastosowanie zakończone pomyślnie</translation>
+    </message>
+    <message>
+        <source>apply unpassed</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zastosowanie nie powiodło się</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveDlg</name>
+    <message>
+        <source>Totally %1 records</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Całkowita liczba rekordów: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveModel</name>
+    <message>
+        <source>Application Date</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Data aplikacji</translation>
+    </message>
+    <message>
+        <source>Document Id</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Identyfikator dokumentu</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa dokumentu</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto użytkownika</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Operacja</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zatwierdź</translation>
+    </message>
+</context>
+<context>
     <name>KxPermissionOptionDlg</name>
     <message>
         <source>Permission</source>
@@ -7511,6 +9556,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>This document expires o&amp;n:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Ten dokument wygasa d&amp;nia:</translation>
     </message>
     <message>
@@ -7552,6 +9598,114 @@ Kliknij tutaj, aby się zalogować.</translation>
     <message>
         <source>Insert Hyperlink</source>
         <translation>Wstaw hiperłącze</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionTipDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+    <message>
+        <source>Cannot open this document</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można otworzyć tego dokumentu</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ten dokument jest dokumentem z zabezpieczeniami WPS Online. Zaloguj się, aby zweryfikować swoje uprawnienia.</translation>
+    </message>
+    <message>
+        <source>Log on</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionsTableModel</name>
+    <message>
+        <source>Auth Type</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ uwierzytelnienia</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto użytkownika</translation>
+    </message>
+    <message>
+        <source>ReadOnly</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tylko do odczytu</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Edycja</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kopiowanie</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Drukowanie</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zapisywanie</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Uwierzytelnianie</translation>
+    </message>
+    <message>
+        <source>UniquePrincipal</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Podmiot unikatowy</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uwierzytelnianie użytkownika</translation>
+    </message>
+    <message>
+        <source>Group Auth</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Uwierzytelnianie grupy</translation>
+    </message>
+    <message>
+        <source>Company Auth</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Uwierzytelnianie firmy</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Operacja</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablon praw</translation>
     </message>
 </context>
 <context>
@@ -7771,6 +9925,7 @@ Kliknij tutaj, aby się zalogować.</translation>
     </message>
     <message>
         <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dział</translation>
     </message>
     <message>
@@ -8015,7 +10170,8 @@ Ten rekord jest nieprawidłowy, plik może mieć zmienioną nazwę, być usunię
     </message>
     <message>
         <source>A total of %1 records</source>
-        <translation>Całkowita liczba rekordów %1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Całkowita liczba rekordów: %1</translation>
     </message>
     <message>
         <source>cannot open the file &quot;%1&quot;. 
@@ -8246,6 +10402,42 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
 </context>
 <context>
+    <name>KxSelUsersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa użytkownika</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto użytkownika</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dział</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectApproverDlg</name>
+    <message>
+        <source>Permission Application</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Aplikacja uprawnienia</translation>
+    </message>
+    <message>
+        <source>Your Apply has sumbited, please wait.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Twoje zastosowanie zostało przesłane, proszę czekać.</translation>
+    </message>
+    <message>
+        <source>You has already sumbited one apply for this document.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Masz już przesłane jedno zastosowanie dla tego dokumentu.</translation>
+    </message>
+</context>
+<context>
     <name>KxSelectSeriesDialog</name>
     <message>
         <source>KxAddTrendlineDialog</source>
@@ -8257,7 +10449,8 @@ Aby wybrać nazwy z książki adresowej, kliknij przycisk Odczyt lub Zmiana.</tr
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przycisk polecenia</translation>
     </message>
     <message>
         <source>Accept</source>
@@ -8333,6 +10526,14 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
 </context>
 <context>
+    <name>KxShapePaneTitle</name>
+    <message>
+        <source>More</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Więcej</translation>
+    </message>
+</context>
+<context>
     <name>KxShapesGalleryModel</name>
     <message>
         <source>Recently Used Shapes</source>
@@ -8395,6 +10596,24 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
 </context>
 <context>
+    <name>KxSuperTabSwitchWidget</name>
+    <message>
+        <source>Can&apos;t display the directory of current document not saved.</source>
+        <translatorcomment>Writer, Spreadsheets, Presentation - przełączanie aktywnych kart za pomocą klawiszy Ctrl+Tab - tak jest ok</translatorcomment>
+        <translation>Nie można wyświetlić katalogu bieżącego dokumentu, który nie został zapisany.</translation>
+    </message>
+    <message>
+        <source>Directory:</source>
+        <translatorcomment>Writer, Spreadsheets, Presentation - przełączanie aktywnych kart za pomocą klawiszy Ctrl+Tab - tak jest ok - ta spacja na końcu jest potrzebna, aby ścieżka pliku nie przylegała bezpośrednio do dwukropka po nazwie Katalog</translatorcomment>
+        <translation>Katalog: </translation>
+    </message>
+    <message>
+        <source>Opened Documents:</source>
+        <translatorcomment>Writer, Spreadsheets, Presentation - przełączanie aktywnych kart za pomocą klawiszy Ctrl+Tab - tak jest ok</translatorcomment>
+        <translation>Otwarte dokumenty:</translation>
+    </message>
+</context>
+<context>
     <name>KxSwitchSkinModel</name>
     <message>
         <source>2013 Elegant Black</source>
@@ -8436,11 +10655,13 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxSwitchUiTip</name>
     <message>
         <source>The layout will take effect after restarting WPS Office</source>
-        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu WPS Office</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Układ zacznie obowiązywać po ponownym uruchomieniu pakietu WPS Office</translation>
     </message>
     <message>
         <source>I already know</source>
-        <translation>Już to wiem</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie przypominaj ponownie</translation>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
@@ -8601,6 +10822,44 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
 </context>
 <context>
+    <name>KxTemplateInfoDlg</name>
+    <message>
+        <source>Permission Template Infomation</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Informacje szablonu uprawnień</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienie do modyfikowania</translation>
+    </message>
+    <message>
+        <source>ensure tips</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ustaw porady</translation>
+    </message>
+    <message>
+        <source>Do you want to save the rights for the template before exiting</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Czy chcesz zapisać prawa dla tego szablonu przed zamknięciem</translation>
+    </message>
+    <message>
+        <source>Do you want to remove this user right?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czy chcesz usunąć prawa tego użytkownika?</translation>
+    </message>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Istnieje %1 elementów we wszystkich</translation>
+    </message>
+    <message>
+        <source>user rights saved</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisano prawa użytkownika</translation>
+    </message>
+</context>
+<context>
     <name>KxTemplateOnLineCommand</name>
     <message>
         <source>http://www.kingsoftstore.com</source>
@@ -8756,8 +11015,8 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <name>KxTpAutoShapesDownloadFailedItem</name>
     <message>
         <source>Unable to connect to the server. Please check your network connection.</source>
-        <translatorcomment> </translatorcomment>
-        <translation>Nie można nawiązać połączenia z serwerem. Proszę sprawdź swoje połączenie sieciowe.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można połączyć się z serwerem. Sprawdź połączenie sieciowe.</translation>
     </message>
     <message>
         <source>Try refresh again</source>
@@ -8795,7 +11054,8 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Przycisk</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przycisk polecenia</translation>
     </message>
     <message>
         <source>Recently edited documents recovered from unexpected exit.</source>
@@ -8831,6 +11091,11 @@ ale dołączony pakietu systemu jest zastrzeżony.</translation>
     <message>
         <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
         <translation>3. %1 Wzorzec do odzyskiwania danych Kingsoft %2 pomaga odzyskać przypadkowo usunięte dokumenty.</translation>
+    </message>
+    <message>
+        <source>4. %1 Kingsoft Document Recovery %2 helps you to open garbled documents.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>4. %1 Kingsoft Document Recovery %2 pomaga otworzyć dokumenty zniekształcone.</translation>
     </message>
 </context>
 <context>
@@ -9088,11 +11353,13 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
     <message>
         <source>up</source>
-        <translation>w górę</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>down</source>
-        <translation>w dół</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>W dół</translation>
     </message>
     <message>
         <source>Re-order</source>
@@ -9101,6 +11368,25 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     <message>
         <source>Shapes on this page</source>
         <translation>Kształty na tej stronie</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>Etykieta tekstowa</translation>
+    </message>
+    <message>
+        <source>Experience</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Doświadczenie</translation>
+    </message>
+    <message>
+        <source>Poor image ? Convert to words, change as you wish!</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Słaby obraz? Konwertuj do wyrazów, zmieniaj jak chcesz!</translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pobieranie</translation>
     </message>
 </context>
 <context>
@@ -9111,11 +11397,117 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
-    <name>KxUserShortcutsDlg</name>
-    <message>
-        <source>Press new shortcut key</source>
-        <translation>Naciśnij nowy klawisz skrótu</translation>
+    <name>KxUpdateHelper</name>
+    <message numerus="yes">
+        <source>WPS Office Exception</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>
+            <numerusform>Wyjątek WPS Office</numerusform>
+            <numerusform>Wyjątki WPS Office</numerusform>
+            <numerusform>Wyjątki WPS Office</numerusform>
+        </translation>
     </message>
+    <message numerus="yes">
+        <source>WPS Office update service cannot work properly, and you will not be able to access to new and improved features brought out in new versions. We recommend that you reinstalled WPS Office to solve this problem.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>
+            <numerusform>Usługa aktualizacji pakietu WPS Office może nie działać prawidłowo i nie będzie w stanie uzyskać dostępu do nowych i ulepszonych funkcji wyprowadzonych w nowych wersjach. Zaleca się ponowne zainstalowanie pakietu WPS Office, aby rozwiązać ten problem.</numerusform>
+            <numerusform>Usługa aktualizacji pakietu WPS Office może nie działać prawidłowo i nie będzie w stanie uzyskać dostępu do nowych i ulepszonych funkcji wyprowadzonych w nowych wersjach. Zaleca się ponowne zainstalowanie pakietu WPS Office, aby rozwiązać ten problem.</numerusform>
+            <numerusform>Usługa aktualizacji pakietu WPS Office może nie działać prawidłowo i nie będzie w stanie uzyskać dostępu do nowych i ulepszonych funkcji wyprowadzonych w nowych wersjach. Zaleca się ponowne zainstalowanie pakietu WPS Office, aby rozwiązać ten problem.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Reinstall</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>
+            <numerusform>Zainstaluj ponownie</numerusform>
+            <numerusform>Zainstaluj ponownie</numerusform>
+            <numerusform>Zainstaluj ponownie</numerusform>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateDlg</name>
+    <message>
+        <source>ensure tips</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Ustawianie porady</translation>
+    </message>
+    <message>
+        <source>After you delete the template, all documents associated with this template will be affected.Are you sure to remove this template?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Usunięcie tego szablonu będzie miało wpływ na wszystkie dokumenty skojarzone z tym szablonem. Czy na pewno chcesz usunąć ten szablon?</translation>
+    </message>
+    <message>
+        <source>New Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nowy szablon</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateModel</name>
+    <message>
+        <source>Template Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa szablonu</translation>
+    </message>
+    <message>
+        <source>Template Id</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Identyfikator szablonu</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ szablonu</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opiekun</translation>
+    </message>
+    <message>
+        <source>Maintainer Account</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konto opiekuna</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Opis szablonu</translation>
+    </message>
+    <message>
+        <source>Template Operation</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Operacje szablonu</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Edycja</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Usuń</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon osobisty</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablon publiczny</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserShortcutsDlg</name>
     <message>
         <source>Warning</source>
         <translatorcomment>nazwa okna dialogowego</translatorcomment>
@@ -9126,9 +11518,41 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
         <translation>Zresetować wszystkie skróty?</translation>
     </message>
     <message>
+        <source>Press new shortcut key</source>
+        <translation>Naciśnij nowy klawisz skrótu</translation>
+    </message>
+    <message>
         <source>Other</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>Inne</translation>
+    </message>
+</context>
+<context>
+    <name>KxVisibleRangeModel</name>
+    <message>
+        <source>Type</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Typ</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Osobisty</translation>
+    </message>
+    <message>
+        <source>User Group</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Grupa użytkowników</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dział</translation>
     </message>
 </context>
 <context>
@@ -9734,6 +12158,14 @@ Plik został zmieniony, usunięty lub przeniesiony.</translation>
     </message>
 </context>
 <context>
+    <name>QMainWindow</name>
+    <message>
+        <source>Document List</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Lista dokumentów</translation>
+    </message>
+</context>
+<context>
     <name>QObject</name>
     <message>
         <source>Overwrite File?</source>
@@ -10106,6 +12538,33 @@ Zawsze wykonuj tą akcję.</translation>
         <source>pt</source>
         <translation type="obsolete">pkt</translation>
     </message>
+    <message>
+        <source>The current document has been hardware encrypted and cannot be saved to Cloud.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Bieżący dokument został zaszyfrowany sprzętowo i nie możne być zapisany w usłudze Cloud.</translation>
+    </message>
+    <message>
+        <source>WPS ABNORMAL TIPS</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Nieprawidłowe porady WPS</translation>
+    </message>
+    <message>
+        <source>WPS server process possibly has been killed by 		antivirus-soft like 360,
+ then you could restart 		wps after stop this antivirus software</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Proces serwera WPS prawdopodobnie został przerwany przez 		oprogramowanie antywirusowe 360,
+ który możesz uruchomić ponownie 		po zatrzymaniu tego oprogramowania antywirusowego</translation>
+    </message>
+    <message>
+        <source>I DO</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wykonaj</translation>
+    </message>
+    <message>
+        <source>WPS Office update service is broken. Do you want to fix it?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Usługa aktualizacji pakietu WPS Office jest uszkodzona. Czy chcesz to naprawić?</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -10157,8 +12616,9 @@ Możesz pobrać wersję WPS Office Professional, aby korzystać ze stylu interfe
     <message>
         <source>
 The settings will take effect after restarting WPS Office.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>
-Ustawienia zostaną wprowadzone po ponownym uruchomieniu WPS Office.</translation>
+Ustawienia zaczną obowiązywać po ponownym uruchomieniu pakietu WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -10235,6 +12695,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>1988-2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation type="obsolete">1988-2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+    </message>
+    <message>
+        <source>2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd. {2016 ?}</translation>
     </message>
 </context>
 <context>
@@ -10510,7 +12974,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>No fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
     <message>
         <source>Solid fill</source>
@@ -10793,6 +13258,46 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
         <source>&amp;Vary colors by point</source>
         <translation>&amp;Różne kolory dla punktów</translation>
     </message>
+    <message>
+        <source>&amp;No fill</source>
+        <translatorcomment>opcje dotyczące wypełnienia w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Brak wypełnienia</translation>
+    </message>
+    <message>
+        <source>&amp;Solid fill</source>
+        <translatorcomment>opcje dotyczące wypełnienia w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Wypełnienie pełne</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient fill</source>
+        <translatorcomment>opcje dotyczące wypełnienia w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyp&amp;ełnienie gradientowe</translation>
+    </message>
+    <message>
+        <source>&amp;Picture or texture fill</source>
+        <translatorcomment>opcje dotyczące wypełnienia w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wypełnienie obraze&amp;m lub teksturą</translation>
+    </message>
+    <message>
+        <source>P&amp;attern fill</source>
+        <translatorcomment>opcje dotyczące wypełnienia w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wypełnienie d&amp;eseniem</translation>
+    </message>
+    <message>
+        <source>Slide &amp;background fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wypełnienie tłem sl&amp;ajdu</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic fill</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>A&amp;utomatycznie</translation>
+    </message>
+    <message>
+        <source>&amp;Hide background graphics</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Ukryj grafiki tła</translation>
+    </message>
 </context>
 <context>
     <name>contentGlow</name>
@@ -10835,7 +13340,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>No line</source>
         <translatorcomment>dotyczy zakładki Linia w oknie zadań - cały jest ok</translatorcomment>
-        <translation>Bez linii</translation>
+        <translation>Brak linii</translation>
     </message>
     <message>
         <source>Solid line</source>
@@ -10975,6 +13480,26 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>°</source>
         <translation>°</translation>
+    </message>
+    <message>
+        <source>&amp;No line</source>
+        <translatorcomment>opcje dotyczące linii w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Brak linii</translation>
+    </message>
+    <message>
+        <source>&amp;Solid line</source>
+        <translatorcomment>opcje dotyczące linii w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Linia ciągła</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient line</source>
+        <translatorcomment>opcje dotyczące linii w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>Li&amp;nia gradientowa</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic line</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>A&amp;utomatycznie</translation>
     </message>
 </context>
 <context>
@@ -11278,7 +13803,8 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation>Kąt tekstu &amp;niestandardowego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kąt &amp;niestandardowy tekstu</translation>
     </message>
     <message>
         <source>°</source>
@@ -11326,6 +13852,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Resize shape to &amp;fit text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dopasuj &amp;rozmiar kształtu do tekstu</translation>
     </message>
     <message>
@@ -11427,6 +13954,137 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>Chinese Conversion</source>
         <translation>Konwersja języka chińskiego</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Łącze zawiera tylko pierwszych 50 stron</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
+    <message>
+        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Wejdź w tryb podglądu&lt;/a&gt;&gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
+    <message>
+        <source>Export Pdf</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Print/Preview</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Podgląd wydruku</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Folder</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
+    <message>
+        <source>Property</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Właściwości</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
+    <message>
+        <source>Creating Link...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tworzenie łącza...</translation>
+    </message>
+    <message>
+        <source>Scan QRCode</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Skanowanie kodu QR</translation>
+    </message>
+    <message>
+        <source>Network error, can not create link
+Please check your network your firewall configuration</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Błąd sieciowy, nie można utworzyć łącza
+Sprawdź swoją sieć i konfigurację zapory</translation>
+    </message>
+    <message>
+        <source>Server not respondingT_T
+Click to retry, or try it later~</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Serwer nie odpowiadaT_T
+Kliknij, aby ponowić próbę lub spróbuj ponownie później~</translation>
+    </message>
+    <message>
+        <source>Create link failedT_T
+Click to retry, or try it later~</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Tworzenie łącza nie powiodło się T_T
+Kliknij, aby ponowić próbę lub spróbuj ponownie później~</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kopiuj łącze</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Utwórz łącze</translation>
+    </message>
+    <message>
+        <source>Scan the QRCode
+send document link to mobile</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zeskanuj kod QR
+Wyślij łącze dokumentu do mobilnych</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
+    <message>
+        <source>Share link:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij łącze:</translation>
+    </message>
+    <message>
+        <source>Share to WeChat</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do WeChat</translation>
+    </message>
+    <message>
+        <source>Share to Weibo</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do Weibo</translation>
+    </message>
+    <message>
+        <source>Share to QQ</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do QQ</translation>
+    </message>
+    <message>
+        <source>Share to QZone</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Udostępnij do QZone</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kopiuj łącze</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kopiuj łącze</translation>
     </message>
 </context>
 <context>
@@ -11532,24 +14190,8 @@ lub strona sieci Web</translation>
         <translation>Skróty</translation>
     </message>
     <message>
-        <source>&amp;Search:</source>
-        <translation>&amp;Wyszukaj:</translation>
-    </message>
-    <message>
-        <source>Current shortcut for selected command:</source>
-        <translation>Bieżący skrót dla wybranego polecenia:</translation>
-    </message>
-    <message>
-        <source>&amp;Remove</source>
-        <translation>&amp;Usuń</translation>
-    </message>
-    <message>
-        <source>&amp;Press new shortcut key:</source>
-        <translation>&amp;Naciśnij nowy klawisz skrótu:</translation>
-    </message>
-    <message>
-        <source>&amp;Assign</source>
-        <translation>&amp;Przypisz</translation>
+        <source>Remove</source>
+        <translation type="obsolete">Usuń</translation>
     </message>
     <message>
         <source>Shortcut currently used by:</source>
@@ -11564,20 +14206,36 @@ lub strona sieci Web</translation>
         <translation>Polecenie</translation>
     </message>
     <message>
+        <source>Close</source>
+        <translation type="obsolete">Zamknij</translation>
+    </message>
+    <message>
+        <source>Current shortcut for selected command:</source>
+        <translation>Bieżący skrót dla wybranego polecenia:</translation>
+    </message>
+    <message>
+        <source>&amp;Search:</source>
+        <translation>&amp;Wyszukaj:</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>&amp;Press new shortcut key:</source>
+        <translation>&amp;Naciśnij nowy klawisz skrótu:</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>&amp;Przypisz</translation>
+    </message>
+    <message>
         <source>R&amp;eset All</source>
         <translation>&amp;Resetuj wszystko</translation>
     </message>
     <message>
         <source>&amp;Close</source>
         <translation>&amp;Zamknij</translation>
-    </message>
-    <message>
-        <source>Remove</source>
-        <translation type="obsolete">Usuń</translation>
-    </message>
-    <message>
-        <source>Close</source>
-        <translation type="obsolete">Zamknij</translation>
     </message>
 </context>
 <context>
@@ -11830,6 +14488,7 @@ lub strona sieci Web</translation>
     </message>
     <message>
         <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dział</translation>
     </message>
     <message>

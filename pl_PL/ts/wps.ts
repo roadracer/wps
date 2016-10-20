@@ -6,7 +6,8 @@
     <name>BordersAndShadingWidget</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
     <message>
         <source>White</source>
@@ -318,7 +319,8 @@
     </message>
     <message>
         <source>ch, 2, %1,</source>
-        <translation>zn, 2, %1,</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, %1,</translation>
     </message>
     <message>
         <source>pt, 2, 0, %1, 1</source>
@@ -326,7 +328,8 @@
     </message>
     <message>
         <source>ch, 2, 0, %1, 1</source>
-        <translation>zn, 2, 0, %1, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, 0, %1, 1</translation>
     </message>
 </context>
 <context>
@@ -727,7 +730,8 @@
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
-        <translation>Ponownie &amp;uruchom numerowanie po:</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Rozpocznij ponownie numerowanie po:</translation>
     </message>
 </context>
 <context>
@@ -1850,7 +1854,8 @@ przycisku</translation>
     </message>
     <message>
         <source>&amp;Restart numbering</source>
-        <translation>&amp;Ponownie uruchom numerowanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Rozpocznij ponownie numerowanie</translation>
     </message>
     <message>
         <source>&amp;Continue previous list</source>
@@ -2757,7 +2762,8 @@ przycisku</translation>
     </message>
     <message>
         <source>ch, pt, 10.5, 0</source>
-        <translation>zn, pkt, 10,5, 0</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., pkt, 10,5, 0</translation>
     </message>
     <message>
         <source>pt, 2, -1584, 1584, 3.6</source>
@@ -2765,7 +2771,8 @@ przycisku</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 1</source>
-        <translation>zn, 2, -150,86, 150,86, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, -150,86, 150,86, 1</translation>
     </message>
     <message>
         <source>Text position</source>
@@ -2828,7 +2835,8 @@ przycisku</translation>
     </message>
     <message>
         <source>ch, 2, -10, 10, 1</source>
-        <translation>zn, 2, -10, 10, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, -10, 10, 1</translation>
     </message>
     <message>
         <source>Text position</source>
@@ -2840,7 +2848,8 @@ przycisku</translation>
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 1</source>
-        <translation>zn, 2, -150,86, 150,86, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, -150,86, 150,86, 1</translation>
     </message>
     <message>
         <source>&amp;Indent at:</source>
@@ -2974,7 +2983,8 @@ przycisku</translation>
     </message>
     <message>
         <source>ch, 2, 0.01, 150.85, 0.5</source>
-        <translation>zn, 2, 0,01, 150,85, 0,5</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, 0,01, 150,85, 0,5</translation>
     </message>
     <message>
         <source>Grid origin</source>
@@ -3084,6 +3094,7 @@ przycisku</translation>
     </message>
     <message>
         <source>Move</source>
+        <translatorcomment>ok</translatorcomment>
         <translation>Przenieś</translation>
     </message>
     <message>
@@ -3327,10 +3338,6 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
         <translation type="obsolete">Opcje drukowania</translation>
     </message>
     <message>
-        <source>Printer:</source>
-        <translation>Drukarka:</translation>
-    </message>
-    <message>
         <source>Feed method</source>
         <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Metoda podawania</translation>
@@ -3354,6 +3361,10 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     <message>
         <source>Reset</source>
         <translation type="obsolete">Resetuj</translation>
+    </message>
+    <message>
+        <source>Printer:</source>
+        <translation>Drukarka:</translation>
     </message>
     <message>
         <source>&amp;Envelope Options</source>
@@ -3428,10 +3439,6 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
 <context>
     <name>KxDlgEnvelopesAndLabels</name>
     <message>
-        <source>Envelopes and Labels</source>
-        <translation type="obsolete">Koperty i etykiety</translation>
-    </message>
-    <message>
         <source>Envelopes</source>
         <translation>Koperty</translation>
     </message>
@@ -3460,14 +3467,6 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
         <translation>Podawanie</translation>
     </message>
     <message>
-        <source>Verify that an envelopes is loaded before printing:</source>
-        <translation type="obsolete">Przed przystąpieniem do drukowania sprawdź, czy koperty zostały załadowane:</translation>
-    </message>
-    <message>
-        <source>Use printer setting</source>
-        <translation type="obsolete">Użyj ustawień drukarki</translation>
-    </message>
-    <message>
         <source>Print</source>
         <translation type="obsolete">Drukuj</translation>
     </message>
@@ -3492,6 +3491,22 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
         <translation>Zamknij</translation>
     </message>
     <message>
+        <source>Verify that an envelopes is loaded before printing.</source>
+        <translation>Przed przystąpieniem do drukowania sprawdź, czy koperty zostały załadowane.</translation>
+    </message>
+    <message>
+        <source>Envelopes and Labels</source>
+        <translation type="obsolete">Koperty i etykiety</translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing:</source>
+        <translation type="obsolete">Przed przystąpieniem do drukowania sprawdź, czy koperty zostały załadowane:</translation>
+    </message>
+    <message>
+        <source>Use printer setting</source>
+        <translation type="obsolete">Użyj ustawień drukarki</translation>
+    </message>
+    <message>
         <source>&amp;Envelopes</source>
         <translation>&amp;Koperty</translation>
     </message>
@@ -3506,10 +3521,6 @@ Jeśli nie jest to konieczne, kliknij przycisk Anuluj.</translation>
     <message>
         <source>O&amp;mit</source>
         <translation>&amp;Pomiń</translation>
-    </message>
-    <message>
-        <source>Verify that an envelopes is loaded before printing.</source>
-        <translation>Przed przystąpieniem do drukowania sprawdź, czy koperty zostały załadowane.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
@@ -4891,6 +4902,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dział</translation>
     </message>
     <message>
@@ -5434,10 +5446,12 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Widok</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Show</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie - tak jest ok jak w Word</translatorcomment>
         <translation>Pokaż</translation>
     </message>
     <message>
@@ -5474,7 +5488,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation>Ma&amp;pa dokumentu:</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie - tak jest ok</translatorcomment>
+        <translation>&amp;Plan dokumentu:</translation>
     </message>
     <message>
         <source>Stat&amp;us bar</source>
@@ -5482,14 +5497,17 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>W lewo</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie-&gt;Plan dokumentu - tak jest ok</translatorcomment>
+        <translation>Po lewej</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>W prawo</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie-&gt;Plan dokumentu - tak jest ok</translatorcomment>
+        <translation>Po prawej</translation>
     </message>
     <message>
         <source>Invisible</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie-&gt;Plan dokumentu - tak jest ok</translatorcomment>
         <translation>Niewidoczny</translation>
     </message>
     <message>
@@ -5518,7 +5536,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Print options</source>
-        <translation>Opcje wydruku</translation>
+        <translation>Opcje drukowania</translation>
     </message>
     <message>
         <source>Ob&amp;ject anchors</source>
@@ -5550,7 +5568,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Use smart para&amp;graph selection</source>
@@ -5611,7 +5630,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Ogólne i zapisz</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
+        <translation>Ogólne i Zapisywanie</translation>
     </message>
     <message>
         <source>General options</source>
@@ -5635,7 +5655,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation>zn, 0, 0, 100, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>&amp;entries</source>
@@ -5667,6 +5688,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Recover options</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w Word</translatorcomment>
         <translation>Opcje odzyskiwania</translation>
     </message>
     <message>
@@ -5682,19 +5704,23 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>ch</source>
-        <translation>zn</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn.</translation>
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation>zn, 0, 0, 120, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 0, 0, 120, 1</translation>
     </message>
     <message>
         <source>mi&amp;nutes</source>
-        <translation>mi&amp;nuty</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>mi&amp;nut</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>Zapisz</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Word</translatorcomment>
+        <translation>Zapisywanie</translation>
     </message>
     <message>
         <source>Save &amp;files as default:</source>
@@ -5710,14 +5736,17 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Start With</source>
-        <translation>Rozpocznij od</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Word</translatorcomment>
+        <translation>Rozpoczynanie</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation>Rozpocznij od:</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Word</translatorcomment>
+        <translation>Rozpocznij z:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;Strona główna</translation>
     </message>
     <message>
@@ -5726,10 +5755,12 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation>Drukuj</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
+        <translation>Drukowanie</translation>
     </message>
     <message>
         <source>Printing options</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w Word</translatorcomment>
         <translation>Opcje drukowania</translation>
     </message>
     <message>
@@ -5778,6 +5809,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Track Changes</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
         <translation>Śledzenie zmian</translation>
     </message>
     <message>
@@ -6015,6 +6047,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Security</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
         <translation>Zabezpieczenia</translation>
     </message>
     <message>
@@ -6043,6 +6076,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Zabezpieczenia - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;Zaawansowane...</translation>
     </message>
     <message>
@@ -6055,7 +6089,8 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Eksportuj do PDF</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
+        <translation>Eksportowanie do PDF</translation>
     </message>
     <message>
         <source>Export options</source>
@@ -6400,6 +6435,7 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Spell Check</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
         <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
@@ -6544,7 +6580,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Opinia</translation>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Word</translatorcomment>
+        <translation>Opinie</translation>
     </message>
     <message>
         <source>Compatibility options</source>
@@ -6560,10 +6597,11 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation>Dołącz do programu poprawy jakości obsługi klienta i Pomóż nam udoskonalić WPS Office.</translation>
+        <translation>Dołącz do programu poprawy jakości obsługi klienta i pomóż nam udoskonalić pakiet WPS Office.</translation>
     </message>
     <message>
         <source>Language</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok</translatorcomment>
         <translation>Język</translation>
     </message>
     <message>
@@ -6579,10 +6617,6 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
         <translation>Wybierz...</translation>
     </message>
     <message>
-        <source>Replace &amp;text as you type</source>
-        <translation type="obsolete">Za&amp;mień tekst podczas pisania</translation>
-    </message>
-    <message>
         <source>Shortcuts</source>
         <translation>Skróty</translation>
     </message>
@@ -6595,6 +6629,10 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
         <translation>&amp;Skróty</translation>
     </message>
     <message>
+        <source>Replace &amp;text as you type</source>
+        <translation type="obsolete">Za&amp;mień tekst podczas pisania</translation>
+    </message>
+    <message>
         <source>Replace text as you type:</source>
         <translatorcomment>tak jest ok jak w Word</translatorcomment>
         <translation>Zamień tekst podczas pisania:</translation>
@@ -6603,6 +6641,66 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
         <source>&amp;Option</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Opcje</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w Word</translatorcomment>
+        <translation>Opcje Wstążki</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w Word</translatorcomment>
+        <translation>Kliknij dwukrotnie k&amp;artę, aby ukryć Wstążkę</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok</translatorcomment>
+        <translation>Ustawienia kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w Excel</translatorcomment>
+        <translation>mi&amp;nut</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Otwórz plik kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message>
+        <source>ch, 0, 0, 720, 1</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 0, 0, 720, 1</translation>
+    </message>
+    <message>
+        <source>WhenSelected</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie - tak jest ok jak w Word</translatorcomment>
+        <translation>Tylko zaznaczone</translation>
+    </message>
+    <message>
+        <source>Do not &amp;use indent as numbering tabstop</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Nie &amp;używaj wcięcia jako pozycji tabulatora</translation>
+    </message>
+    <message>
+        <source>No tab hang &amp;indent</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Bez wc&amp;ięcia wiszącego tabulatora</translation>
+    </message>
+    <message>
+        <source>Show c&amp;rop marks</source>
+        <translatorcomment>tak jest ok jak w Word</translatorcomment>
+        <translation>Pokaż znaczn&amp;iki przycięcia</translation>
+    </message>
+    <message>
+        <source>&amp;Option…</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Word</translatorcomment>
+        <translation>&amp;Opcje...</translation>
     </message>
 </context>
 <context>
@@ -7067,7 +7165,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>&amp;Multiple pages:</source>
-        <translation>&amp;Wiele stron:</translation>
+        <translatorcomment>Writer-&gt;Ustawienia strony-&gt;zakładka Marinesy - tak jest ok jak w Word</translatorcomment>
+        <translation>Wie&amp;le stron:</translation>
     </message>
     <message>
         <source>Mirror margins</source>
@@ -7141,7 +7240,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>ch, 2, -316.8, 316.8, 0.5</source>
-        <translation>zn, 2, -316,8, 316,8, 0,5</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, -316,8, 316,8, 0,5</translation>
     </message>
     <message>
         <source>&amp;Special:</source>
@@ -7173,7 +7273,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>ch, 2, 0, 316.8, 0.5</source>
-        <translation>zn, 2, 0, 316,8, 0,5</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, 0, 316,8, 0,5</translation>
     </message>
     <message>
         <source>Automatically a&amp;djust right indent when document grid is defined</source>
@@ -8032,7 +8133,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>ch, pt, 10.5, 0</source>
-        <translation>zn, pkt, 10,5, 0</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., pkt, 10,5, 0</translation>
     </message>
     <message>
         <source>pt, 2, 0, 1538, 1</source>
@@ -8040,7 +8142,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>ch, 2, 0, 150.86, 0.5</source>
-        <translation>zn, 2, 0, 150,86, 0,5</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, 0, 150,86, 0,5</translation>
     </message>
     <message>
         <source>De&amp;fault tab stops:</source>
@@ -8053,7 +8156,8 @@ Przycisk Zaawansowane pozwala na wybór spośród różnych typów szyfrowania.<
     </message>
     <message>
         <source>ch, 2, -150.86, 150.86, 0.5</source>
-        <translation>zn, 2, -150,86, 150,86, 0,5</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 2, -150,86, 150,86, 0,5</translation>
     </message>
     <message>
         <source>Tab stops to be cleared:</source>
@@ -8710,24 +8814,16 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
 <context>
     <name>KxEnvelopeOptionDlg</name>
     <message>
+        <source>Use printer setting</source>
+        <translation>Użyj ustawień drukarki</translation>
+    </message>
+    <message>
         <source>Ok</source>
         <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
         <translation>Anuluj</translation>
-    </message>
-    <message>
-        <source>Use printer setting</source>
-        <translation>Użyj ustawień drukarki</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Niestandardowe</translation>
-    </message>
-    <message>
-        <source>Auto</source>
-        <translation>Automatycznie</translation>
     </message>
     <message>
         <source>You have changed WPS Writer&apos;s default envelope handling method for this printer. These changes could be incorrect. Choose Reset to return to WPS Writer defaults.</source>
@@ -8737,6 +8833,14 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     <message>
         <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
         <translation>Program WPS Writer zaleca sposób podawania kopert pokazany wyżej. Jeżeli ta metoda okaże się niewłaściwa, wybierz inną, odpowiednią dla drukarki.</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>Automatycznie</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>Niestandardowe</translation>
     </message>
     <message>
         <source>Envelope Address</source>
@@ -9818,7 +9922,8 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     <name>KxHighlightColorModel</name>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
@@ -9994,6 +10099,7 @@ Ta zmiana będzie dotyczyć wszystkich nowych dokumentów opartych na szablonie 
     </message>
     <message>
         <source>Department</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dział</translation>
     </message>
     <message>
@@ -10846,7 +10952,7 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation>Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Proszę skontaktować się z pomocą techniczną.</translation>
+        <translation>Program WPS Writer napotkał błąd podczas dostosowywania bezpieczeństwa makr. Może to oznaczać, że środowisko VBA nie jest zainstalowane. Skontaktuj się z pomocą techniczną.</translation>
     </message>
     <message>
         <source>The password of the file encryption must be no longer than 15 characters.</source>
@@ -10878,6 +10984,11 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>No Documents Open</source>
         <translation>Brak otwartych dokumentów</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w MSO</translatorcomment>
+        <translation>Pasek narzędzi Szybki dostęp</translation>
     </message>
 </context>
 <context>
@@ -10921,6 +11032,79 @@ Anuluj:	Powrót do okna dialogowego.</translation>
     <message>
         <source>ch</source>
         <translation>zn</translation>
+    </message>
+</context>
+<context>
+    <name>KxPTab</name>
+    <message>
+        <source>Dialog</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Okno dialogowe</translation>
+    </message>
+    <message>
+        <source>PTabAlignment</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Alignment&quot; - tak jest ok</translatorcomment>
+        <translation>Wyrównanie</translation>
+    </message>
+    <message>
+        <source>PTabLeft</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;&amp;Left&quot; - tak jest ok</translatorcomment>
+        <translation>Do &amp;lewej</translation>
+    </message>
+    <message>
+        <source>PTabCenter</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Center&quot; - tak jest ok</translatorcomment>
+        <translation>Do ś&amp;rodka</translation>
+    </message>
+    <message>
+        <source>PTabRight</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Right&quot; - tak jest ok</translatorcomment>
+        <translation>Do &amp;prawej</translation>
+    </message>
+    <message>
+        <source>PTabAlignBased</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Align relative to:&quot; - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wyrównaj względem:</translation>
+    </message>
+    <message>
+        <source>pTabMargin</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Margin&quot; - tak jest ok</translatorcomment>
+        <translation>Margines</translation>
+    </message>
+    <message>
+        <source>pTabIndent</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Indent&quot; - tak jest ok</translatorcomment>
+        <translation>Wcięcie</translation>
+    </message>
+    <message>
+        <source>PTabLeader</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Leader&quot; - tak jest ok jak w MSO</translatorcomment>
+        <translation>Znak wiodący</translation>
+    </message>
+    <message>
+        <source>PTabNone</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;&amp;1 None&quot; - tak jest ok</translatorcomment>
+        <translation>&amp;1 Brak</translation>
+    </message>
+    <message>
+        <source>PTabDot</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;&amp;2 .......&quot; - tak jest ok - chodzi o kropkę na dole</translatorcomment>
+        <translation>&amp;2 .......</translation>
+    </message>
+    <message>
+        <source>PTabHypen</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;&amp;3 -------&quot; - tak jest ok - chodzi o łącznik</translatorcomment>
+        <translation>&amp;3 -------</translation>
+    </message>
+    <message>
+        <source>PTabUnderscore</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;&amp;4 _______&quot; - tak jest ok - chodzi o podkreślenie</translatorcomment>
+        <translation>&amp;4 _______</translation>
+    </message>
+    <message>
+        <source>PTabMiddleDot</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;&amp;5 ·······&quot; - tak jest ok - chodzi o kropkę na środku</translatorcomment>
+        <translation>&amp;5 ·······</translation>
     </message>
 </context>
 <context>
@@ -12028,7 +12212,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
 </context>
 <context>
@@ -12582,7 +12767,8 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Header or footer link to previous</source>
-        <translation>Łącze do poprzedniego nagłówka lub stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim nagłówkiem lub stopką</translation>
     </message>
     <message>
         <source>Alt+E</source>
@@ -12690,27 +12876,33 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Odd h&amp;eader link to previous</source>
-        <translation>Łącze do poprzedniego nieparzystego n&amp;agłówka</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim nieparzystym n&amp;agłówkiem</translation>
     </message>
     <message>
         <source>Even header link to previous(&amp;G)</source>
-        <translation>Łącze do poprzedniego p&amp;arzystego nagłówka</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim p&amp;arzystym nagłówkiem</translation>
     </message>
     <message>
         <source>F&amp;irst header link to previous</source>
-        <translation>Łącze do poprzedniego p&amp;ierwszego nagłówka</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim p&amp;ierwszym nagłówkiem</translation>
     </message>
     <message>
         <source>Odd footer link to previous(&amp;J)</source>
-        <translation>Łącze do poprzedniej n&amp;ieparzystej stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednią n&amp;ieparzystą stopką</translation>
     </message>
     <message>
         <source>Even footer lin&amp;k to previous</source>
-        <translation>Łąc&amp;ze do poprzedniej parzystej stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połąc&amp;z z poprzednią parzystą stopką</translation>
     </message>
     <message>
         <source>First footer &amp;link to previous</source>
-        <translation>Łącze do poprzedniej pi&amp;erwszej stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednią pi&amp;erwszą stopką</translation>
     </message>
     <message>
         <source>Surround &amp;header</source>
@@ -12954,6 +13146,14 @@ można zastosować własne elementy XML.</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Wygodne funkcje&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Utwórz łącze do udostępniania&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Eksportuj jako PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Drukuj/Podgląd wydruku&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsDropDownButton</name>
     <message>
         <source>(No entry)</source>
@@ -12979,7 +13179,8 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
@@ -12993,7 +13194,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsFillColorRainbowModel</name>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
@@ -13007,7 +13209,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsFontOutlineColorModel</name>
     <message>
         <source>No Outline</source>
-        <translation>Bez konturu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak konturu</translation>
     </message>
 </context>
 <context>
@@ -13134,7 +13337,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsHFLinkToPreviousCommand</name>
     <message>
         <source>Header and Footer Link to Previous</source>
-        <translation>Łącze do poprzedniego nagłówka i stopki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Połącz z poprzednim nagłówkiem i stopką</translation>
     </message>
 </context>
 <context>
@@ -13222,7 +13426,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
 </context>
 <context>
@@ -13280,34 +13485,42 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsLocateWidget</name>
     <message>
         <source>Welcome Back</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Witamy ponownie</translation>
     </message>
     <message>
         <source>to last editing position</source>
-        <translation>do ostatniej pozycji edycji</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Do ostatniej pozycji edycji</translation>
     </message>
     <message>
         <source>to previous position</source>
-        <translation>do poprzedniej pozycji</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Do poprzedniej pozycji</translation>
     </message>
     <message>
         <source>Continue</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kontynuuj</translation>
     </message>
     <message>
         <source>Continue editing</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kontynuuj edycję</translation>
     </message>
     <message>
         <source>A few seconds ago</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kilka sekund temu</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
+        <translatorcomment>ok</translatorcomment>
         <translation>%1 minut temu</translation>
     </message>
     <message>
         <source>%1 hours ago</source>
+        <translatorcomment>ok</translatorcomment>
         <translation>%1 godzin temu</translation>
     </message>
     <message>
@@ -13316,6 +13529,7 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Close</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zamknij</translation>
     </message>
 </context>
@@ -13601,6 +13815,33 @@ można zastosować własne elementy XML.</translation>
     </message>
 </context>
 <context>
+    <name>KxWpsPercentOnTBCommand</name>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="obsolete">&amp;Cała strona</translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="obsolete">Szerokość &amp;strony</translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="obsolete">Szerokość &amp;tekstu</translation>
+    </message>
+    <message>
+        <source>Whole Page</source>
+        <translation>Cała strona</translation>
+    </message>
+    <message>
+        <source>Page Width</source>
+        <translation>Szerokość strony</translation>
+    </message>
+    <message>
+        <source>Text Width</source>
+        <translation>Szerokość tekstu</translation>
+    </message>
+</context>
+<context>
     <name>KxWpsPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
@@ -13672,6 +13913,7 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Uprawnienie wygaśnie:</translation>
     </message>
     <message>
@@ -13878,7 +14120,8 @@ można zastosować własne elementy XML.</translation>
     <name>KxWpsShowHeaderLineModel</name>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
 </context>
 <context>
@@ -14038,6 +14281,56 @@ można zastosować własne elementy XML.</translation>
         <source>Page 2 of X</source>
         <translation>Strona 2 z X</translation>
     </message>
+    <message>
+        <source>Include chapter &amp;number</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Dołącz numer &amp;rozdziału</translation>
+    </message>
+    <message>
+        <source>&amp;Chapter starts with style:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Rozpocznij rozdział &amp;stylem:</translation>
+    </message>
+    <message>
+        <source>Use s&amp;eparator:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Użyj separatora:</translation>
+    </message>
+    <message>
+        <source>Examples:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przykłady:</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nagłówek</translation>
+    </message>
+    <message>
+        <source>hyphen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Łącznik</translation>
+    </message>
+    <message>
+        <source>period</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kropka</translation>
+    </message>
+    <message>
+        <source>colon</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dwukropek</translation>
+    </message>
+    <message>
+        <source>em-dash</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pauza</translation>
+    </message>
+    <message>
+        <source>en-dash</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Półpauza</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsSpecialPopupWidget</name>
@@ -14180,7 +14473,8 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
@@ -14370,6 +14664,22 @@ można zastosować własne elementy XML.</translation>
     <message>
         <source>Delete Watermark</source>
         <translation>Usuń znak wodny</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWebPreviewWinChangeThemeWidget</name>
+    <message>
+        <source>Select typesetting style:</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Select typography style:&quot; - tak jest ok jak w MSO</translatorcomment>
+        <translation>Wybierz styl typografii:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWebPreviewWinDisplayWidget</name>
+    <message>
+        <source>only display part of the document, because the document is too large</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>wyświetl tylko część dokumentu, ponieważ dokument jest zbyt duży</translation>
     </message>
 </context>
 <context>
@@ -14973,6 +15283,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
 </context>
 <context>
+    <name>KxWpsZoomSlider</name>
+    <message>
+        <source>Fit Page to current window</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Dopasuj stronę do bieżącego okna</translation>
+    </message>
+</context>
+<context>
     <name>KxZoomDlg</name>
     <message>
         <source>The measurement must be between %1 and %2.</source>
@@ -15035,6 +15353,11 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>WPS recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method</source>
         <translation type="obsolete">WPS zaleca sposób podawania kopert pokazany wyżej. Jeżeli ta metoda okaże się niewłaściwa, wybierz inną, odpowiednią dla drukarki.</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Security Documents(*.doc)|*.doc</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Dokumenty zabezpieczeń programu Microsoft Word (*.doc)|*.doc</translation>
     </message>
 </context>
 <context>
@@ -15164,7 +15487,8 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation>Kąt tekstu &amp;niestandardowego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kąt &amp;niestandardowy tekstu</translation>
     </message>
     <message>
         <source>°</source>
@@ -15196,15 +15520,45 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Do not rotate text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Nie obracaj tekstu</translation>
     </message>
     <message>
         <source>Resize shape to fit text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dopasuj rozmiar kształtu do tekstu</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
         <translation>Za&amp;wijaj tekst w kształcie</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical alignment:</source>
+        <translation>Wyrównanie w &amp;pionie:</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction:</source>
+        <translation>&amp;Kierunek tekstu:</translation>
+    </message>
+    <message>
+        <source>T&amp;ext margin:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Margines &amp;tekstu:</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kąt &amp;niestandardowy tekstu:</translation>
+    </message>
+    <message>
+        <source>D&amp;o not rotate text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie obracaj t&amp;ekstu</translation>
+    </message>
+    <message>
+        <source>Re&amp;size shape to fit text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Dopasuj &amp;rozmiar kształtu do tekstu</translation>
     </message>
 </context>
 <context>

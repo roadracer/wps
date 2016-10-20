@@ -482,6 +482,55 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KEtIconCombobox</name>
+    <message>
+        <source>No Cell Icon</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Brak ikony komórki</translation>
+    </message>
+</context>
+<context>
+    <name>KEtIconCombobox2</name>
+    <message>
+        <source>Custom</source>
+        <translation>Niestandardowy</translation>
+    </message>
+</context>
+<context>
+    <name>KOptionColorShowWidget</name>
+    <message>
+        <source>Choose the cell color as a sort on:</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Select a cell color to sort by:&quot; - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wybierz kolor komórki, według którego chcesz sortować:</translation>
+    </message>
+    <message>
+        <source>Choose the font color as a sort on:</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Select a cell color to sort by:&quot; - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wybierz kolor czcionki, według którego chcesz sortować:</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Automatyczny</translation>
+    </message>
+</context>
+<context>
+    <name>KOptionColorSortDialog</name>
+    <message>
+        <source>Other Cell Colors</source>
+        <translation>Inne kolory komórek</translation>
+    </message>
+    <message>
+        <source>Other Font Colors</source>
+        <translation>Inne kolory czcionki</translation>
+    </message>
+</context>
+<context>
     <name>KSelectSheetDlg</name>
     <message>
         <source>Activate</source>
@@ -975,6 +1024,11 @@ condition is true:</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nie między</translation>
     </message>
+    <message>
+        <source>Sort by cell color and font color</source>
+        <translatorcomment>wyjaśnione z producentem - tak jest ok</translatorcomment>
+        <translation>Sortuj według kolorów komórek i czcionek</translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -1147,6 +1201,24 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxAssignMacroDlg</name>
+    <message>
+        <source>All Open Workbooks</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wszystkie otwarte skoroszyty</translation>
+    </message>
+    <message>
+        <source>This Workbook</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ten skoroszyt</translation>
+    </message>
+    <message>
+        <source>module1</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Moduł1</translation>
+    </message>
+</context>
+<context>
     <name>KxAuthInfoDlgUi</name>
     <message>
         <source>Enter username and password:</source>
@@ -1167,6 +1239,14 @@ condition is true:</source>
     <message>
         <source>Valid username and password required to access the database:</source>
         <translation>Prawidłowa nazwa użytkownika i hasło wymagane do uzyskania dostępu do bazy danych:</translation>
+    </message>
+</context>
+<context>
+    <name>KxAutofilterColorSortCommand</name>
+    <message>
+        <source>Custom Sort...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sortowanie niestandardowe...</translation>
     </message>
 </context>
 <context>
@@ -1212,6 +1292,1458 @@ condition is true:</source>
     </message>
 </context>
 <context>
+    <name>KxCFCol1Widget</name>
+    <message>
+        <source>Yesterday</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wczoraj</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dzisiaj</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jutro</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ciągu ostatnich 7 dni</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W tym tygodniu</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W tym miesiącu</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
+    </message>
+    <message>
+        <source>Graded Color Scale</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Stopniowana skala kolorów</translation>
+    </message>
+    <message>
+        <source>Data Bar</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pasek danych</translation>
+    </message>
+    <message>
+        <source>Icon Set</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zestaw ikon</translation>
+    </message>
+    <message>
+        <source>Cell contains a blank value</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Komórka zawiera pustą wartość</translation>
+    </message>
+    <message>
+        <source>Cell does not contain a blank value</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Komórka nie zawiera pustej wartości</translation>
+    </message>
+    <message>
+        <source>Cell contains an error</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Komórka zawiera błąd</translation>
+    </message>
+    <message>
+        <source>Cell does not contain an error</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Komórka nie zawiera błędu</translation>
+    </message>
+    <message>
+        <source>Duplicate Values</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Duplikujące się wartości</translation>
+    </message>
+    <message>
+        <source>Unique Values</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wartości unikatowe</translation>
+    </message>
+    <message>
+        <source>Formula:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formuła:</translation>
+    </message>
+    <message>
+        <source>between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>między</translation>
+    </message>
+    <message>
+        <source>not between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>nie między</translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation>=</translation>
+    </message>
+    <message>
+        <source>&lt;&gt;</source>
+        <translation>&lt;&gt;</translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation>&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation>&lt;</translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translation>&gt;=</translation>
+    </message>
+    <message>
+        <source>&lt;=</source>
+        <translation>&lt;=</translation>
+    </message>
+    <message>
+        <source>Cell Value </source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wartość komórki </translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>i</translation>
+    </message>
+    <message>
+        <source>Above Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Powyżej średniej</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Poniżej średniej</translation>
+    </message>
+    <message>
+        <source>Equal to or above Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Równe lub powyżej średniej</translation>
+    </message>
+    <message>
+        <source>Equal to or below Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Równe lub poniżej średniej</translation>
+    </message>
+    <message>
+        <source>1 std dev above Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>1 wartość odchylenia standardowego powyżej średniej</translation>
+    </message>
+    <message>
+        <source>1 std dev below Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>1 wartość odchylenia standardowego poniżej średniej</translation>
+    </message>
+    <message>
+        <source>2 std dev above Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>2 wartości odchylenia standardowego powyżej średniej</translation>
+    </message>
+    <message>
+        <source>2 std dev below Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>2 wartości odchylenia standardowego poniżej średniej</translation>
+    </message>
+    <message>
+        <source>3 std dev above Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>3 wartości odchylenia standardowego powyżej średniej</translation>
+    </message>
+    <message>
+        <source>3 std dev below Average</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>3 wartości odchylenia standardowego poniżej średniej</translation>
+    </message>
+    <message>
+        <source>Bottom %1%</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ostatnie %1%</translation>
+    </message>
+    <message>
+        <source>Top %1%</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pierwsze %1%</translation>
+    </message>
+    <message>
+        <source>Bottom %1</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ostatnie %1</translation>
+    </message>
+    <message>
+        <source>Top %1</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pierwsze %1</translation>
+    </message>
+    <message>
+        <source>contains</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>zawiera</translation>
+    </message>
+    <message>
+        <source>does not contain</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>nie zawiera</translation>
+    </message>
+    <message>
+        <source>begins with</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>zaczyna się od</translation>
+    </message>
+    <message>
+        <source>ends with</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>kończy się na</translation>
+    </message>
+    <message>
+        <source>&apos;</source>
+        <translation>&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFColorScalePage</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Minimum</source>
+        <translation>Minimum</translation>
+    </message>
+    <message>
+        <source>Midpoint</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Punkt środkowy</translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation>Maksimum</translation>
+    </message>
+    <message>
+        <source>&amp;Type:</source>
+        <translation>&amp;Typ:</translation>
+    </message>
+    <message>
+        <source>Lowest Value</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Najniższa wartość</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Liczba</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Procent</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formuła</translation>
+    </message>
+    <message>
+        <source>Percentile</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Percentyl</translation>
+    </message>
+    <message>
+        <source>Highest Value</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Najwyższa wartość</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wartość:</translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Kolor:</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podgląd:</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFDatabarPage</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Minimum</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Minimum</translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Maksimum</translation>
+    </message>
+    <message>
+        <source>&amp;Type:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Typ:</translation>
+    </message>
+    <message>
+        <source>Lowest Value</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ-&gt;Minimum) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Najniższa wartość</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Liczba</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Procent</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formuła</translation>
+    </message>
+    <message>
+        <source>Percentile</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Percentyl</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Automatycznie</translation>
+    </message>
+    <message>
+        <source>Highest Value</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Typ-&gt;Maksimum) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Najwyższa wartość</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wart&amp;ość:</translation>
+    </message>
+    <message>
+        <source>Bar Appearance:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wygląd paska:</translation>
+    </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wypełnienie</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Kolor</translation>
+    </message>
+    <message>
+        <source>Bo&amp;rder</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Obramowanie</translation>
+    </message>
+    <message>
+        <source>Co&amp;lor</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ko&amp;lor</translation>
+    </message>
+    <message>
+        <source>Solid Fill</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Wypełnienie) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pełne wypełnienie</translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Wypełnienie) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wypełnienie gradientowe</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Obramowanie) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Bez obramowania</translation>
+    </message>
+    <message>
+        <source>Solid Border</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Obramowanie) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Obramowania ciągłe</translation>
+    </message>
+    <message>
+        <source>&amp;Negative Value and Axis...</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wartości &amp;ujemne i oś...</translation>
+    </message>
+    <message>
+        <source>Bar &amp;Direction:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Kierunek paska:</translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Kierunek paska) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kontekst</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Kierunek paska) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Od lewej do prawej</translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (menu rozwijane Kierunek paska) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Od prawej do lewej</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation>Podgląd:</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFIconSetPage</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>I&amp;con Style:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Styl ikony:</translation>
+    </message>
+    <message>
+        <source>Show &amp;Icon only</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Pokaż tylko ikonę</translation>
+    </message>
+    <message>
+        <source>Display each icon according to these rules:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyświetlaj poszczególne ikony zgodnie z następującymi regułami:</translation>
+    </message>
+    <message>
+        <source>When value is</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>gdy wartość jest równa</translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&gt;=</translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&gt;</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Liczba</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Procent</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formuła</translation>
+    </message>
+    <message>
+        <source>Percentile</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Percentyl</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Etykieta tekstowa</translation>
+    </message>
+    <message>
+        <source>&amp;Icon</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Ikona</translation>
+    </message>
+    <message>
+        <source>&amp;Value</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wartość</translation>
+    </message>
+    <message>
+        <source>&amp;Type</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Typ</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFNetativeValueAxisSettings</name>
+    <message>
+        <source>Negative Value and Axis Settings</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - nazwa okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ustawienia wartości ujemnych i osi</translation>
+    </message>
+    <message>
+        <source>Negative bar fill color</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kolor wypełnienia paska ujemnego</translation>
+    </message>
+    <message>
+        <source>&amp;Fill color:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kolor &amp;wypełnienia:</translation>
+    </message>
+    <message>
+        <source>&amp;Apply same fill color as positive bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Zastosuj ten sam kolor wypełnienia jak w przypadku słupków dodatnich</translation>
+    </message>
+    <message>
+        <source>Negative bar border color</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kolor obramowania słupka ujemnego</translation>
+    </message>
+    <message>
+        <source>&amp;Border color:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kolor &amp;obramowania:</translation>
+    </message>
+    <message>
+        <source>&amp;Apply same border color as positive bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Z&amp;astosuj ten sam kolor obramowania jak w przypadku słupków dodatnich</translation>
+    </message>
+    <message>
+        <source>Axis setttings</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ustawienia osi</translation>
+    </message>
+    <message>
+        <source>Select axis position in cell to change the appearance of bars for negative values</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wybierz położenie osi w komórce, aby zmienić wygląd słupków dla wartości ujemnych</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic(display at variable position based on negative vcalues)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>A&amp;utomatycznie (wyświetlaj w zmiennym położeniu, zależne od wartości ujemnych)</translation>
+    </message>
+    <message>
+        <source>Cell &amp;midpoint</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Punkt środkowy komórki</translation>
+    </message>
+    <message>
+        <source>Non&amp;e(show negative values bars in same directions as positive)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Brak (pokazuj słupki wartości ujemnych ułożone w tym samym kierunku jak w przypadku wartości dodatnich)</translation>
+    </message>
+    <message>
+        <source>A&amp;xis color:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł-&gt;Wartości ujemne i oś - opcje w oknie dialogowym Ustawienia wartości ujemnych i osi - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Kolor osi:</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFNewFormattingRuleDlg</name>
+    <message>
+        <source>Edit Formatting Rule</source>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego</translatorcomment>
+        <translation>Edytowanie reguły formatowania</translation>
+    </message>
+    <message>
+        <source>Midpoint</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Punkt środkowy</translation>
+    </message>
+    <message>
+        <source>between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>między</translation>
+    </message>
+    <message>
+        <source>not between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>nie między</translation>
+    </message>
+    <message>
+        <source>equal to</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>równa</translation>
+    </message>
+    <message>
+        <source>not equal to</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>nierówna</translation>
+    </message>
+    <message>
+        <source>greater than</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>większa niż</translation>
+    </message>
+    <message>
+        <source>less than</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>mniejsza niż</translation>
+    </message>
+    <message>
+        <source>greater than or equal to</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>większa lub równa</translation>
+    </message>
+    <message>
+        <source>less than or equal to</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>mniejsza niż lub równa</translation>
+    </message>
+    <message>
+        <source>containing</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>zawierające</translation>
+    </message>
+    <message>
+        <source>not containing</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>niezawierające</translation>
+    </message>
+    <message>
+        <source>beginning with</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>zaczynające się od</translation>
+    </message>
+    <message>
+        <source>ending with</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Węcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>kończące się na</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wczoraj</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Dzisiaj</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Jutro</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ciągu ostatnich 7 dni</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym tygodniu</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>W tym miesiącu</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
+    </message>
+    <message>
+        <source>(Lowest Value)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(Najniższa wartość)</translation>
+    </message>
+    <message>
+        <source>(Automatic)</source>
+        <translation>(Automatycznie)</translation>
+    </message>
+    <message>
+        <source>(Highest Value)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(Najwyższa wartość)</translation>
+    </message>
+    <message>
+        <source>when</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>gdy</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>i</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formuła</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat only cells with:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Form&amp;atuj tylko komórki spełniające warunki:</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat values that rank in the:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj &amp;wartości należące do:</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat values that are:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>F&amp;ormatuj wartości spełniające poniższy warunek:</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat all:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>F&amp;ormatuj wszystkie:</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFNewPage</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Format all cells based on their values:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj wszystkie komórki na podstawie ich wartości:</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat Style:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Styl formatowania:</translation>
+    </message>
+    <message>
+        <source>2-Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (Rozwiajane menu Styl formatowania)) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala 2-kolorowa</translation>
+    </message>
+    <message>
+        <source>3-Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (Rozwiajane menu Styl formatowania)) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala 3-kolorowa</translation>
+    </message>
+    <message>
+        <source>Data Bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (Rozwiajane menu Styl formatowania)) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pasek danych</translation>
+    </message>
+    <message>
+        <source>Icon Sets</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania (Rozwiajane menu Styl formatowania)) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zestawy ikon</translation>
+    </message>
+    <message>
+        <source>Reverse Icon Or&amp;der</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odw&amp;róć kolejność ikon</translation>
+    </message>
+    <message>
+        <source>Show &amp;Bar Only</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pokaż tylko &amp;pasek</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFRulesManagerDlg</name>
+    <message>
+        <source>Current Selection</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Bieżące zaznaczenie</translation>
+    </message>
+    <message>
+        <source>This Worksheet</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ten arkusz</translation>
+    </message>
+    <message>
+        <source>This Table</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ta tabela</translation>
+    </message>
+    <message>
+        <source>Sheet: </source>
+        <translation>Arkusz: </translation>
+    </message>
+    <message>
+        <source>Table: </source>
+        <translation>Tabela: </translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage1</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Cell Value</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wartość komórki</translation>
+    </message>
+    <message>
+        <source>Specific Text</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Z określonym tekstem</translation>
+    </message>
+    <message>
+        <source>Dates Occurring</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Z datami występującymi</translation>
+    </message>
+    <message>
+        <source>Blanks</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Puste</translation>
+    </message>
+    <message>
+        <source>No Blanks</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Niepuste</translation>
+    </message>
+    <message>
+        <source>Errors</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zawierające błędy</translation>
+    </message>
+    <message>
+        <source>No Errors</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nie zawierające błędów</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>i</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage2</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pierwsze</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ostatnie</translation>
+    </message>
+    <message>
+        <source>% of the selected ran&amp;ge</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>proce&amp;nt zaznaczonego zakresu</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage3</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>above</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>powyżej</translation>
+    </message>
+    <message>
+        <source>below</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>poniżej</translation>
+    </message>
+    <message>
+        <source>equal or above</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>równe lub powyżej</translation>
+    </message>
+    <message>
+        <source>equal or below</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>równe lub poniżej</translation>
+    </message>
+    <message>
+        <source>1 std dev above</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>1 wartość odchylenia standardowego powyżej</translation>
+    </message>
+    <message>
+        <source>1 std dev below</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>1 wartość odchylenia standardowego poniżej</translation>
+    </message>
+    <message>
+        <source>2 std dev above</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>2 wartości odchylenia standardowego powyżej</translation>
+    </message>
+    <message>
+        <source>2 std dev below</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>2 wartości odchylenia standardowego poniżej</translation>
+    </message>
+    <message>
+        <source>3 std dev above</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 wartości odchylenia standardowego powyżej</translation>
+    </message>
+    <message>
+        <source>3 std dev below</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 wartości odchylenia standardowego poniżej</translation>
+    </message>
+    <message>
+        <source>the average for the selected range</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>średniej dla zaznaczonego zakresu</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage4</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>duplicate</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>duplikaty</translation>
+    </message>
+    <message>
+        <source>unique</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>unikatowe</translation>
+    </message>
+    <message>
+        <source>values in the selected range</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>wartości w zaznaczonym zakresie</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage5</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradionalPage</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Format &amp;only cells with:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj tylk&amp;o komórki spełniające warunki:</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Podgląd:</translation>
+    </message>
+    <message>
+        <source>&amp;Format...</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Więcej reguł - opcje w oknie dialogowym Nowa reguła formatowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Formatuj...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage1</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>z</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie z ciemnoczerwonym tekstem</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Żółte wypełnienie z ciemnożółtym tekstem</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zielone wypełnienie z ciemnozielonym tekstem</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwony tekst</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwone obramowanie</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Format niestandardowy...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage2</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>i</translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>z</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie z ciemnoczerwonym tekstem</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Żółte wypełnienie z ciemnożółtym tekstem</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zielone wypełnienie z ciemnozielonym tekstem</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwony tekst</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwone obramowanie</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Format niestandardowy...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage3</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>z</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie z ciemnoczerwonym tekstem</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Żółte wypełnienie z ciemnożółtym tekstem</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zielone wypełnienie z ciemnozielonym tekstem</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwony tekst</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwone obramowanie</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Format niestandardowy...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage4</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>z</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie z ciemnoczerwonym tekstem</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Żółte wypełnienie z ciemnożółtym tekstem</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zielone wypełnienie z ciemnozielonym tekstem</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwony tekst</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwone obramowanie</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Format niestandardowy...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage5</name>
+    <message>
+        <source>Form</source>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>for the selected range with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>dla zaznaczonego zakresu z</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie z ciemnoczerwonym tekstem</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Żółte wypełnienie z ciemnożółtym tekstem</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zielone wypełnienie z ciemnozielonym tekstem</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jasnoczerwone wypełnienie</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwony tekst</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czerwone obramowanie</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Format niestandardowy...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalRuleDlg</name>
+    <message>
+        <source>Greater Than</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Większa niż</translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mniejsza niż</translation>
+    </message>
+    <message>
+        <source>Format cells that are LESS THAN:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki, których wartość jest MNIEJSZA NIŻ:</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Między</translation>
+    </message>
+    <message>
+        <source>Format cells that are BETWEEN:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki, których wartość jest MIĘDZY:</translation>
+    </message>
+    <message>
+        <source>Equal To</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Równa się</translation>
+    </message>
+    <message>
+        <source>Format cells that are EQUAL TO:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki, których wartość jest RÓWNA:</translation>
+    </message>
+    <message>
+        <source>Text That Contains</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tekst zawierający</translation>
+    </message>
+    <message>
+        <source>Format cells that contain the text:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki zawierające tekst:</translation>
+    </message>
+    <message>
+        <source>A Data Occurring</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data występująca</translation>
+    </message>
+    <message>
+        <source>Format cells that contain a date occurring:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki, które zawierają datę występującą:</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wczoraj</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dzisiaj</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jutro</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ciągu ostatnich 7 dni</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ubiegłym tygodniu</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W tym tygodniu</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W przyszłym tygodniu</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W ubiegłym miesiącu</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W tym miesiącu</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>W przyszłym miesiącu</translation>
+    </message>
+    <message>
+        <source>Duplicate Values</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Duplikujące się wartości</translation>
+    </message>
+    <message>
+        <source>Format cells that contain:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki, które zawierają:</translation>
+    </message>
+    <message>
+        <source>values with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>wartości z</translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Duplikaty</translation>
+    </message>
+    <message>
+        <source>Unique</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Unikatowe</translation>
+    </message>
+    <message>
+        <source>Top 10 Items</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>10 pierwszych elementów</translation>
+    </message>
+    <message>
+        <source>Format cells that rank in the TOP:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki sklasyfikowane jako PIERWSZE:</translation>
+    </message>
+    <message>
+        <source>Top 10%</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pierwsze 10%</translation>
+    </message>
+    <message>
+        <source>% with</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>% z</translation>
+    </message>
+    <message>
+        <source>Bottom 10 Items</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>10 ostatnich elementów</translation>
+    </message>
+    <message>
+        <source>Format cells that rank in the BOTTOM:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki sklasyfikowane jako OSTATNIE:</translation>
+    </message>
+    <message>
+        <source>Bottom 10%</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ostatnie 10%</translation>
+    </message>
+    <message>
+        <source>Above Average</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Powyżej średniej</translation>
+    </message>
+    <message>
+        <source>Format cells that are ABOVE AVERAGE:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki z wartościami POWYŻEJ ŚREDNIEJ:</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Poniżej średniej</translation>
+    </message>
+    <message>
+        <source>Format cells that are BELOW AVERAGE:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki z wartościami PONIŻEJ ŚREDNIEJ:</translation>
+    </message>
+</context>
+<context>
     <name>KxCalcResumer</name>
     <message>
         <source>Calculate</source>
@@ -1222,14 +2754,17 @@ condition is true:</source>
     <name>KxCellFormatCombobox</name>
     <message>
         <source>No Cell Color</source>
-        <translation>Bez koloru komórki</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru komórki</translation>
     </message>
     <message>
         <source>Automatic</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Automatyczny</translation>
     </message>
     <message>
         <source>Gradient</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Gradient</translation>
     </message>
 </context>
@@ -1395,6 +2930,7 @@ condition is true:</source>
     </message>
     <message>
         <source>Center Across</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
@@ -1459,7 +2995,8 @@ condition is true:</source>
     </message>
     <message>
         <source>No Borders</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Border</source>
@@ -2193,6 +3730,54 @@ Użyj tego wykresu, gdy:
     </message>
 </context>
 <context>
+    <name>KxConditionFormattingRulesManagerDlg</name>
+    <message>
+        <source>Conditional Formatting Rules Manager</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami - nazwa okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Menedżer reguł formatowania warunkowego</translation>
+    </message>
+    <message>
+        <source>&amp;Show formatting rules for:</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Pokaż reguły formatowania dla:</translation>
+    </message>
+    <message>
+        <source>&amp;New Rule...</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Nowa reguła...</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Rule...</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Edytuj regułę...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Rule</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Usuń regułę</translation>
+    </message>
+    <message>
+        <source>Rule (applied in order shown)</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Reguła (stosowana w następującej kolejności)</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatowanie</translation>
+    </message>
+    <message>
+        <source>Applies to</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Dotyczy</translation>
+    </message>
+    <message>
+        <source>Stop If True</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Zarządzaj regułami -opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zatrzymaj, gdy warunek jest prawdziwy</translation>
+    </message>
+</context>
+<context>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>HighLight - Numerial</source>
@@ -2525,6 +4110,7 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Does not contain</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nie zawiera</translation>
     </message>
     <message>
@@ -2546,14 +4132,17 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>Yesterday</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wczoraj</translation>
     </message>
     <message>
         <source>Today</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dzisiaj</translation>
     </message>
     <message>
         <source>Tomorrow</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Jutro</translation>
     </message>
     <message>
@@ -2835,7 +4424,7 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
-        <translation>Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ bieżący skoroszyt jest w ochronie. Proszę wybierz istniejący arkusz lub wyłącz ochronę tego skoroszytu.</translation>
+        <translation>Nie można utworzyć tabeli przestawnej w nowym arkuszu, ponieważ bieżący skoroszyt jest w ochronie. Wybierz istniejący arkusz lub wyłącz ochronę tego skoroszytu.</translation>
     </message>
     <message>
         <source>Data fields have been retrieved.</source>
@@ -2843,16 +4432,16 @@ Użyj tego wykresu, gdy:
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation>Położenie, które wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowe. Proszę upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</translation>
+        <translation>Położenie, które wybrałeś, aby umieścić tabelę przestawną jest nieprawidłowe. Upewnij się, że zakres odwołania jest prawidłowy i nie znajduje się w ukrytym arkuszu.</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można zmodyfikować danych tabeli przestawnej. Proszę sprawdź, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
+        <translation>Nie można zmodyfikować danych tabeli przestawnej. Sprawdź, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Proszę sprawdzić, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
+        <translation>Nie można utworzyć tabeli przestawnej z tych danych. Sprawdź, czy zakres odwołania jest prawidłowy i istnieje określony arkusz.</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
@@ -2864,7 +4453,7 @@ Użyj tego wykresu, gdy:
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Nie można utworzyć tabeli przestawnej ze wskazanych danych. Proszę sprawdź, czy dane, które chcesz analizować spełniają następujące warunki:
+        <translation>Nie można utworzyć tabeli przestawnej ze wskazanych danych. Sprawdź, czy dane, które chcesz analizować spełniają następujące warunki:
 1. Upewnij się, że istnieje odwołanie. Jeżeli jest to nazwa, to musi być prawidłowym zakresem.
 2. Upewnij się, że odwołanie jest pojedynczym zakresem i musi zawierać co najmniej dwa wiersze.
 3. Upewnij się, że pierwszy wiersz zakresu odwołania nie zawiera żadnych pustych komórek, nie ma wartości błędu, a każda komórka zawiera nie więcej niż 255 znaków.</translation>
@@ -2874,10 +4463,12 @@ Użyj tego wykresu, gdy:
     <name>KxCreateTableDlg</name>
     <message>
         <source>Where is the data for your table?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Gdzie znajdują się dane do tabeli?</translation>
     </message>
     <message>
         <source>My table has headers</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Moja tabela ma nagłówki</translation>
     </message>
     <message>
@@ -2891,6 +4482,44 @@ Użyj tego wykresu, gdy:
     <message>
         <source>Create Table</source>
         <translation>Utwórz tabelę</translation>
+    </message>
+    <message>
+        <source>&amp;Where is the data for your table?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Gdzie znajdują się dane do tabeli?</translation>
+    </message>
+    <message>
+        <source>&amp;My table has headers</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Moja tabela ma nagłówki</translation>
+    </message>
+    <message>
+        <source>&amp;Filter the table</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Filtr tabeli</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomErrorBarsDlg</name>
+    <message>
+        <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nieprawidłowe odwołanie. Odwołanie dla tytułów, wartości, rozmiarów lub etykiet danych musi być pojedynczą komórką, wierszem lub kolumną.</translation>
+    </message>
+    <message>
+        <source>The formula you typed contents an error.Try one of the following:
+
+• Make sure you&apos;ve included all parentheses and required argument.
+• To get assistance with using a function, click insert Function on the Formulas tab (in the Function Library group).
+• If you include a reference to another sheet or workbook,verify that the reference is correct.
+• If you&apos;re not trying to enter a formula, don&apos;t use an equal sign (=) or minus sign (-), or precede it with a single quotation mark (&apos;).</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wpisana formuła zawiera błąd. Spróbuj wykonać jedną z następujących czynności:
+
+• Upewnij się, że zostały uwzględnione wszystkie nawiasy i wymagany argument.
+• Aby uzyskać pomoc dotyczącą wprowadzania funkcji, kliknij Wstaw funkcję na karcie Formuły (w grupie biblioteki funkcji).
+• Jeśli zawiera odwołanie do innego arkusza lub skoroszytu, sprawdź, czy odwołanie jest poprawne.
+• Jeśli nie próbujesz wprowadzić formuły, nie używaj znaku równości (=) lub znaku minus (-) albo poprzedź go pojedynczym cudzysłowem (&apos;).</translation>
     </message>
 </context>
 <context>
@@ -3195,6 +4824,20 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <message>
         <source>&amp;Clear</source>
         <translation>&amp;Wyczyść</translation>
+    </message>
+    <message>
+        <source>&amp;Create</source>
+        <translation>&amp;Utwórz</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Edycja</translation>
+    </message>
+    <message>
+        <source>&amp;MacroIn</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>&amp;Makro w</translation>
     </message>
 </context>
 <context>
@@ -3604,6 +5247,24 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
 </context>
 <context>
+    <name>KxDlgCustomErrorBars</name>
+    <message>
+        <source>Custom Error Bars</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Niestandardowe słupki błędów</translation>
+    </message>
+    <message>
+        <source>&amp;Positive Error Value</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Dodatnia wartość błędu</translation>
+    </message>
+    <message>
+        <source>&amp;Negative Error Value</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Ujemna wartość błędu</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgCustomHeaderFooter</name>
     <message>
         <source>To insert a page number, date, time, filename: position the insertion point in the  edit
@@ -3833,6 +5494,16 @@ cursor in the edit box and press the Format Picture button.</source>
         <source>&amp;Overwrite existing cells with new data, clear unused cells</source>
         <translation>Zastąp istniejące komó&amp;rki nowymi danymi i usuń nieużywane komórki</translation>
     </message>
+    <message>
+        <source>Refresh control</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sterowanie odświeżaniem</translation>
+    </message>
+    <message>
+        <source>Enable &amp;background refresh</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Włącz odświeżanie w tle</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEditAxisLable</name>
@@ -3907,10 +5578,6 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>Zakres danych jest zbyt złożony, aby można go było wyświetlić.</translation>
     </message>
     <message>
-        <source>S&amp;eries Creation Direction:</source>
-        <translation>Kierunek tworzenia s&amp;erii:</translation>
-    </message>
-    <message>
         <source>Each row of data as a series</source>
         <translation>Każdy wiersz danych jako seria</translation>
     </message>
@@ -3919,16 +5586,8 @@ cursor in the edit box and press the Format Picture button.</source>
         <translation>Każda kolumna danych jako seria</translation>
     </message>
     <message>
-        <source>Legend Entries(Series)</source>
-        <translation>Wpisy legendy (serie danych)</translation>
-    </message>
-    <message>
         <source>&amp;Series</source>
         <translation>&amp;Seria</translation>
-    </message>
-    <message>
-        <source>Axis Labels(Category)</source>
-        <translation>Etykiety osi (kategorii)</translation>
     </message>
     <message>
         <source>&amp;Category</source>
@@ -3965,6 +5624,18 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Connect data points with line</source>
         <translation>&amp;Połącz punkty danych linią</translation>
+    </message>
+    <message>
+        <source>S&amp;eries Creation Direction:</source>
+        <translation>Kierunek tworzenia s&amp;erii:</translation>
+    </message>
+    <message>
+        <source>Legend Entries(Series)</source>
+        <translation>Wpisy legendy (serie danych)</translation>
+    </message>
+    <message>
+        <source>Axis Labels(Category)</source>
+        <translation>Etykiety osi (kategorii)</translation>
     </message>
 </context>
 <context>
@@ -4893,6 +6564,7 @@ kursor w polu edycji i naciśnij przycisk Formatuj obraz.</translation>
     </message>
     <message>
         <source>Edit &amp;Query...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj &amp;kwerendę...</translation>
     </message>
 </context>
@@ -5111,6 +6783,44 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
+    <name>KxDlgNameManager</name>
+    <message>
+        <source>Name Manager</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - nazwa okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Menedżer nazw</translation>
+    </message>
+    <message>
+        <source>&amp;New..</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Nowy...</translation>
+    </message>
+    <message>
+        <source>&amp;Edit...</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Edytuj...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>&amp;Filter</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Filtr</translation>
+    </message>
+    <message>
+        <source>&amp;Refers to:</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Odwołuje się do:</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zamknij</translation>
+    </message>
+</context>
+<context>
     <name>KxDlgNameOptions</name>
     <message>
         <source>Options</source>
@@ -5143,6 +6853,69 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Default sheet name</source>
         <translation>Domyślna nazwa arkusza</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgNewName</name>
+    <message>
+        <source>New Name</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nowa nazwa</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>N&amp;azwa:</translation>
+    </message>
+    <message>
+        <source>&amp;Scope:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Zakres:</translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Skoroszyt</translation>
+    </message>
+    <message>
+        <source>&amp;Refers to:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Od&amp;wołuje się do:</translation>
+    </message>
+    <message>
+        <source>C&amp;omment:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>K&amp;omentarz:</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Makro</translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Funkcja</translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Polecenie</translation>
+    </message>
+    <message>
+        <source>&amp;Key:Ctrl+</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Klawisz: Ctrl+</translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Bra&amp;k</translation>
+    </message>
+    <message>
+        <source>Ca&amp;tegory:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ka&amp;tegoria:</translation>
     </message>
 </context>
 <context>
@@ -5311,6 +7084,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgOpenSharedWorkbook</name>
     <message>
         <source>User Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Nazwa użytkownika</translation>
     </message>
     <message>
@@ -5338,10 +7112,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>View</source>
-        <translation>Widok</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Show</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Pokaż</translation>
     </message>
     <message>
@@ -5394,6 +7170,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Calculation</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
         <translation>Obliczenia</translation>
     </message>
     <message>
@@ -5427,11 +7204,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Edit settings</source>
-        <translation>Edytowanie ustawień</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ustawienia edycji</translation>
     </message>
     <message>
         <source>&amp;Move selection after Enter</source>
@@ -5439,46 +7218,57 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>D&amp;irection:</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Kierunek:</translation>
     </message>
     <message>
         <source>Down</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>W dół</translation>
     </message>
     <message>
         <source>Right</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>W prawo</translation>
     </message>
     <message>
         <source>Up</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>W górę</translation>
     </message>
     <message>
         <source>Left</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>W lewo</translation>
     </message>
     <message>
         <source>Fi&amp;xed decimal</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Stała liczba miejsc dziesiętnych</translation>
     </message>
     <message>
         <source>&amp;Places:</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Miejsca:</translation>
     </message>
     <message>
         <source>Enable Auto&amp;Complete for cell values</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>Włącz &amp;Autouzupełnianie wartości komórek</translation>
     </message>
     <message>
         <source>Allow cell &amp;drag and drop</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Pozwól na przeciąganie i upuszczanie komórek</translation>
     </message>
     <message>
         <source>&amp;Replace Internet and network paths with hyperlinks as you type</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Zamień ścieżki internetowe i sieciowe na hiperłącza w trakcie pisania</translation>
     </message>
     <message>
         <source>&amp;Trace hyperlinks with Alt key pressed</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Edycja - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Śledzenie hiperłączy z wciśniętym klawiszem Alt</translation>
     </message>
     <message>
@@ -5495,7 +7285,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Ogólne i zapisz</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ogólne i Zapisywanie</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -5511,10 +7302,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation>zn, 0, 0, 100, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>en&amp;tries</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Excel</translatorcomment>
         <translation>wp&amp;isy</translation>
     </message>
     <message>
@@ -5523,6 +7316,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Recover options</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w Excel</translatorcomment>
         <translation>Opcje odzyskiwania</translation>
     </message>
     <message>
@@ -5531,11 +7325,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation>zn, 0, 0, 120, 1</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 0, 0, 120, 1</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;minuty</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;minut</translation>
     </message>
     <message>
         <source>&amp;Sheets in new workbook:</source>
@@ -5631,7 +7427,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save</source>
-        <translation>Zapisz</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zapisywanie</translation>
     </message>
     <message>
         <source>Default document &amp;format to save:</source>
@@ -5643,14 +7440,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Start With</source>
-        <translation>Rozpocznij od</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Rozpoczynanie</translation>
     </message>
     <message>
         <source>Start With:</source>
-        <translation>Rozpocznij od:</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Rozpocznij z:</translation>
     </message>
     <message>
         <source>Home Pa&amp;ge</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Strona główna</translation>
     </message>
     <message>
@@ -5683,7 +7483,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Color</source>
-        <translation>Kolor</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje- tak jest ok</translatorcomment>
+        <translation>Kolory</translation>
     </message>
     <message>
         <source>Standard colors:</source>
@@ -5707,14 +7508,17 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Security</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
         <translation>Zabezpieczenia</translation>
     </message>
     <message>
         <source>File encryption options for this workbook</source>
-        <translation>Opcje szyfrowania plików dla tego dokumentu</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Zabezpieczenia - tak jest ok jak w Excel</translatorcomment>
+        <translation>Opcje szyfrowania plików tego dokumentu</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Zabezpieczenia - tak jest ok jak w Excel</translatorcomment>
         <translation>&amp;Zaawansowane...</translation>
     </message>
     <message>
@@ -5731,10 +7535,12 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Reenter password to modify:</source>
-        <translation>&amp;Wpisz ponownie hasło do modyfikacji:</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>&amp;Wprowadź ponownie hasło umożliwiające modyfikację:</translation>
     </message>
     <message>
         <source>Error Checking</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
         <translation>Sprawdzanie błędów</translation>
     </message>
     <message>
@@ -5847,7 +7653,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>ch</source>
-        <translation>zn</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn.</translation>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
@@ -5943,6 +7750,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Spell Check</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
         <translation>Sprawdzanie pisowni</translation>
     </message>
     <message>
@@ -6047,7 +7855,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Opinia</translation>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w Excel</translatorcomment>
+        <translation>Opinie</translation>
     </message>
     <message>
         <source>Save As Create Backup</source>
@@ -6071,10 +7880,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation>Dołącz do programu poprawy jakości obsługi klienta i Pomóż nam udoskonalić WPS Office.</translation>
+        <translation>Dołącz do programu poprawy jakości obsługi klienta i pomóż nam udoskonalić pakiet WPS Office.</translation>
     </message>
     <message>
         <source>Language</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok</translatorcomment>
         <translation>Język</translation>
     </message>
     <message>
@@ -6094,6 +7904,10 @@ p, li { white-space: pre-wrap; }
         <translation>Użyj systemu daty 1&amp;904</translation>
     </message>
     <message>
+        <source>Select an earlier version of the spreadsheet can color</source>
+        <translation>Wybierz wcześniejszą wersję koloru arkusza kalkulacyjnego</translation>
+    </message>
+    <message>
         <source>Shortcuts</source>
         <translation>Skróty</translation>
     </message>
@@ -6104,10 +7918,6 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Sh&amp;ortcuts</source>
         <translation>&amp;Skróty</translation>
-    </message>
-    <message>
-        <source>Select an earlier version of the spreadsheet can color</source>
-        <translation>Wybierz wcześniejszą wersję koloru arkusza kalkulacyjnego</translation>
     </message>
     <message>
         <source>&amp;Measurement units:</source>
@@ -6128,6 +7938,51 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Points</source>
         <translation>Punkty</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Opcje Wstążki</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kliknij dwukrotnie k&amp;artę, aby ukryć Wstążkę</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok</translatorcomment>
+        <translation>Ustawienia kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>ch, 0, 0, 720, 1</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>zn., 0, 0, 720, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Otwórz plik kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Recalculate before save</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje-&gt;Obliczenia - tak jest ok jak w Excel</translatorcomment>
+        <translation>Oblicz ponownie przed zapisaniem</translation>
+    </message>
+    <message>
+        <source>Re&amp;enter password to modify:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>W&amp;prowadź ponownie hasło umożliwiające modyfikację:</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format dokumentu z zabezpieczeniami WPS Online (*.xls)</translation>
     </message>
 </context>
 <context>
@@ -6412,6 +8267,21 @@ p, li { white-space: pre-wrap; }
         <source>Align with page &amp;margins</source>
         <translation>Wyrównaj do &amp;marginesów strony</translation>
     </message>
+    <message>
+        <source>Comment:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Komentarz:</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(Brak)</translation>
+    </message>
+    <message>
+        <source>As displayed on sheet</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Tak jak w arkuszu</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPasteName</name>
@@ -6520,7 +8390,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Summarize Values By</source>
-        <translation>Podsumuj wartości co</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Podsumowanie wartości według</translation>
     </message>
     <message>
         <source>Choose the type of calculation that you want to use to summarize data from the selected field</source>
@@ -6911,8 +8782,9 @@ Tylko unikatowa wartość %d może być zachowana po usunięciu.</translation>
     <message>
         <source>%1 duplicates are found;
 Only %2 unique values will be left after delete.</source>
-        <translation>Znaleziono %1 duplikaty(ów);
-Tylko %2 wartości unikatowe(ych) zostaną(ie) pozostawione po usunięciu.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Znaleziono %1 duplikatów.
+Tylko %2 wartości unikatowych zostanie pozostawionych po usunięciu.</translation>
     </message>
 </context>
 <context>
@@ -6951,6 +8823,11 @@ Tylko %2 wartości unikatowe(ych) zostaną(ie) pozostawione po usunięciu.</tran
     <message>
         <source>It compares the contents by rows after clicking OK.</source>
         <translation>Porównuje zawartość według wierszy po kliknięciu przycisku OK.</translation>
+    </message>
+    <message>
+        <source>(Note: The function only supports single range)</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>(Uwaga: Funkcja obsługuje tylko pojedynczy zakres)</translation>
     </message>
 </context>
 <context>
@@ -8161,6 +10038,11 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
         <source>A query with this name already exists on this worksheet.</source>
         <translation>Kwerenda o tej nazwie już istnieje w tym arkuszu.</translation>
     </message>
+    <message>
+        <source>Pro&amp;mpt for file name on refresh</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Monituj o nazwę pliku podczas odświeżania</translation>
+    </message>
 </context>
 <context>
     <name>KxEditAxisLableDlg</name>
@@ -8290,6 +10172,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
     </message>
 </context>
@@ -8304,7 +10187,8 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <name>KxEt3DFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
@@ -8312,6 +10196,39 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <message>
         <source>None</source>
         <translation>Brak</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAfColorSortModel</name>
+    <message>
+        <source>Sort By Cell Color</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sortuj według kolorów komórek</translation>
+    </message>
+    <message>
+        <source>No Cell Color</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Brak koloru komórki</translation>
+    </message>
+    <message>
+        <source>More Cell Color</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Więcej kolorów komórek</translation>
+    </message>
+    <message>
+        <source>Sort By Font Color</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sortuj według kolorów czcionek</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Automatyczny</translation>
+    </message>
+    <message>
+        <source>More Font Color</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Więcej kolorów czcionki</translation>
     </message>
 </context>
 <context>
@@ -8330,7 +10247,8 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     </message>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
     <message>
         <source>Auto Color</source>
@@ -8355,7 +10273,8 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <name>KxEtCellFillColorModel</name>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
@@ -8389,6 +10308,7 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <name>KxEtCfCalendarWidget</name>
     <message>
         <source>&amp;Today</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>&amp;Dzisiaj</translation>
     </message>
 </context>
@@ -8404,6 +10324,247 @@ Jeśli tak jest, wybierz przycisk Dalej. Jeśli nie, wybierz typ najlepiej opisu
     <message>
         <source>Automatic</source>
         <translation>Automatyczny</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtCondFmtItem</name>
+    <message>
+        <source>Blue Data Bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Niebieski pasek danych</translation>
+    </message>
+    <message>
+        <source>Green Data Bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zielony pasek danych</translation>
+    </message>
+    <message>
+        <source>Red Data Bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Czerwony pasek danych</translation>
+    </message>
+    <message>
+        <source>Orange Data bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pomarańczowy pasek danych</translation>
+    </message>
+    <message>
+        <source>Light Blue Data Bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Jasnoniebieski pasek danych</translation>
+    </message>
+    <message>
+        <source>Purple Data Bar</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Purpurowy pasek danych</translation>
+    </message>
+    <message>
+        <source>Add a colored data bar to represent the value in a cell. The higher the value, the longer the bar.</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia wyświetlenie kolorowego paska danych reprezentującego wartości w komórce. Im większa wartość, tym dłuższy pasek.</translation>
+    </message>
+    <message>
+        <source>Green-Yellow-Red Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów zielony-żółty-czerwony</translation>
+    </message>
+    <message>
+        <source>Red-Yellow-Green Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów czerwony-żółty-zielony</translation>
+    </message>
+    <message>
+        <source>Green-White-Red Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów zielony-biały-czerwony</translation>
+    </message>
+    <message>
+        <source>Red-White-Green Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów czerwony-biały-zielony</translation>
+    </message>
+    <message>
+        <source>Blue-White-Red Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów niebieski-biały-czerwony</translation>
+    </message>
+    <message>
+        <source>Red-White-Blue Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów czerwony-biały-niebieski</translation>
+    </message>
+    <message>
+        <source>White-Red Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów biały-czerwony</translation>
+    </message>
+    <message>
+        <source>Red-White Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów czerwony-biały</translation>
+    </message>
+    <message>
+        <source>Green-White Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów zielony-biały</translation>
+    </message>
+    <message>
+        <source>White-Green Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów biały-zielony</translation>
+    </message>
+    <message>
+        <source>Green-Yellow Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów zielony-żółty</translation>
+    </message>
+    <message>
+        <source>Yellow-Green Color Scale</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skala kolorów żółty-zielony</translation>
+    </message>
+    <message>
+        <source>Apply a color gradient to a range of cells. The color indicates where each cell value falls within that range.</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Skale kolorów - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia zastosowanie kolorowego gradientu do zakresu komórek. Kolor wskazuje miejsce wartości poszczególnych komórek w tym zakresie.</translation>
+    </message>
+    <message>
+        <source>3 Arrows (Colored)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 strzałki (kolorowe)</translation>
+    </message>
+    <message>
+        <source>3 Arrow (Gray)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 strzałki (szare)</translation>
+    </message>
+    <message>
+        <source>3 Triangles</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Trójkąty (3)</translation>
+    </message>
+    <message>
+        <source>4 Arrows (Gray)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>4 strzałki (szare)</translation>
+    </message>
+    <message>
+        <source>4 Arrows (Colored)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>4 strzałki (kolorowe)</translation>
+    </message>
+    <message>
+        <source>5 Arrows (Gray)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>5 strzałek (szare)</translation>
+    </message>
+    <message>
+        <source>5 Arrows (Colored)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>5 strzałek (kolorowych)</translation>
+    </message>
+    <message>
+        <source>3 Traffic Lights (Unrimmed)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 światła sygnalizacji ulicznej (bez oprawy)</translation>
+    </message>
+    <message>
+        <source>3 Traffic Lights (Rimmed)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 światła sygnalizacji ulicznej (w oprawie)</translation>
+    </message>
+    <message>
+        <source>3 Signs</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 znaki</translation>
+    </message>
+    <message>
+        <source>4 Traffic Lights</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>4 światła sygnalizacji ulicznej</translation>
+    </message>
+    <message>
+        <source>Red To Black</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ikony od czerwonej do czarnej</translation>
+    </message>
+    <message>
+        <source>3 Symbols (Circled)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 symbole (w kółkach)</translation>
+    </message>
+    <message>
+        <source>3 Symbols (Uncircled)</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 Symbole (bez kółek)</translation>
+    </message>
+    <message>
+        <source>3 Flags</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>3 flagi</translation>
+    </message>
+    <message>
+        <source>3 Stars</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Gwiazdki (3)</translation>
+    </message>
+    <message>
+        <source>4 Ratings</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>4 oceny</translation>
+    </message>
+    <message>
+        <source>5 Quarters</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>5 ćwiartek</translation>
+    </message>
+    <message>
+        <source>5 Ratings</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>5 ocen</translation>
+    </message>
+    <message>
+        <source>5 Boxes</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Prostokąty (5)</translation>
+    </message>
+    <message>
+        <source>Choose a set of a icons to represent the values in the selected cells.</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - podpowiedź po najechaniu kursorem na ikonę - tak jest ok jak w Excel</translatorcomment>
+        <translation>Umożliwia wybranie zestawu ikon reprezentujących wartości w zaznaczonych komórkach.</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtCondFmtModel</name>
+    <message>
+        <source>Gradient Fill</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wypełnienie gradientowe</translation>
+    </message>
+    <message>
+        <source>Solid Fill</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Paski danych - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wypełnienie pełne</translation>
+    </message>
+    <message>
+        <source>Directional</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kierunkowe</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - tak jest ok jak w Excel</translatorcomment>
+        <translation>Kształty</translation>
+    </message>
+    <message>
+        <source>Indicators</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wskaźniki</translation>
+    </message>
+    <message>
+        <source>Ratings</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Zestawy ikon - tak jest ok jak w Excel</translatorcomment>
+        <translation>Klasyfikacje</translation>
     </message>
 </context>
 <context>
@@ -8525,6 +10686,168 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
 </context>
 <context>
+    <name>KxEtDlgDocSlim</name>
+    <message>
+        <source>File Slimming</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Odchudzanie pliku</translation>
+    </message>
+    <message>
+        <source>The current file:</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Bieżący plik:</translation>
+    </message>
+    <message>
+        <source>filename</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nazwa pliku</translation>
+    </message>
+    <message>
+        <source>size:</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Rozmiar:</translation>
+    </message>
+    <message>
+        <source>0 k</source>
+        <translation>0 k</translation>
+    </message>
+    <message>
+        <source>&quot;File slimming&quot; finished! Successfully reduced</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zakończono &quot;Odchudzanie pliku&quot;! Pomyślnie zredukowano</translation>
+    </message>
+    <message>
+        <source>10,257KB</source>
+        <translation>10,257KB</translation>
+    </message>
+    <message>
+        <source>File size:</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Rozmiar pliku:</translation>
+    </message>
+    <message>
+        <source> 0 k</source>
+        <translation> 0 k</translation>
+    </message>
+    <message>
+        <source>When your document contains hidden data or format, will cause the file size is too large,&quot;file slimming&quot; feature can help you reduce the file size.</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Jeżeli dokument zawiera ukryte dane lub formatowanie, powoduje to, że rozmiar pliku jest zbyt duży. Funkcja &quot;Odchudzania pliku&quot; może pomóc zmniejszyć rozmiar pliku.</translation>
+    </message>
+    <message>
+        <source>Need slimming content:</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zawartość wymagająca odchudzania:</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Empty cells</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Puste komórki</translation>
+    </message>
+    <message>
+        <source>Hidden shapes, text boxes, and so on</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Ukryte kształty, pola tekstowe i tak dalej</translation>
+    </message>
+    <message>
+        <source>Duplicate styles</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zduplikowane style</translation>
+    </message>
+    <message>
+        <source>No need slimming</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie wymaga odchudzania</translation>
+    </message>
+    <message>
+        <source>Select another file</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Wybierz inny plik</translation>
+    </message>
+    <message>
+        <source>&quot;File slimming&quot; may cause data loss,backup the original file can preserve the original data, it is recommended to keep this option is checked</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>&quot;Odchudzanie pliku&quot; może spowodować utratę danych. Utworzenie kopii zapasowej oryginalnego pliku pozwala zachować oryginalne dane. Zaleca się, aby ta opcja zawsze była zaznaczona.</translation>
+    </message>
+    <message>
+        <source>Backup the original files</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Kopia zapasowa oryginalnych plików</translation>
+    </message>
+    <message>
+        <source>Change the path</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zmień ścieżkę</translation>
+    </message>
+    <message>
+        <source>No backup files!</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Brak kopii zapasowej plików!</translation>
+    </message>
+    <message>
+        <source>Original file has finished backing up</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zakończono tworzenie kopii zapasowej oryginalnego pliku</translation>
+    </message>
+    <message>
+        <source>Open the backup file location</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Otwórz lokalizację kopii zapasowej pliku</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgDocSlimMsg</name>
+    <message>
+        <source>Prompt Information</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Monituj o informację</translation>
+    </message>
+    <message>
+        <source>Prompt information</source>
+        <translation>Monit o informację</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgFlieListOfOpen</name>
+    <message>
+        <source>Select the file you want to slim down</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu-&gt;Wybierz inny plik - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Wybieranie pliku do odchudzania</translation>
+    </message>
+    <message>
+        <source>File List of already open:</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu-&gt;Wybierz inny plik - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Lista plików aktualnie otwartych:</translation>
+    </message>
+    <message>
+        <source>Open another file</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu-&gt;Wybierz inny plik - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Wybierz inny plik</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu-&gt;Wybierz inny plik - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu-&gt;Wybierz inny plik - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Anuluj</translation>
+    </message>
+</context>
+<context>
     <name>KxEtDlgFormatShape</name>
     <message>
         <source>Format AutoShape</source>
@@ -8562,6 +10885,107 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
 </context>
 <context>
+    <name>KxEtDocSlimDlg</name>
+    <message>
+        <source>%1 Select another file %2</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>%1 Wybierz inny plik %2</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Wybierz folder:</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>No neeed slimming</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie wymaga odchudzania</translation>
+    </message>
+    <message>
+        <source>%1 Blocks</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>%1 Bloki</translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Rozpocznij</translation>
+    </message>
+    <message>
+        <source>Slimming...</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Odchudzanie...</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zakończono</translation>
+    </message>
+    <message>
+        <source>%1 KB</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>%1 KB</translation>
+    </message>
+    <message>
+        <source>Backup source file failed. Do you want to continue slimming?</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Tworzenie kopii zapasowej pliku źródłowego nie powiodło się. Czy chcesz kontynuować odchudzanie?</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Tak</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie</translation>
+    </message>
+    <message>
+        <source>This file has been modified, please confirm that you want to save.</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Plik został zmodyfikowany. Potwierdź, że chcesz go zapisać.</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Zapisz</translation>
+    </message>
+    <message>
+        <source>Do not save, directly to slim</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie zapisuj, wykonaj bezpośrednie odchudzanie</translation>
+    </message>
+    <message>
+        <source>Failed to save the source files. Do you want to continue slimming?</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie można zapisać plików źródłowych. Czy chcesz kontynuować odchudzanie?</translation>
+    </message>
+    <message>
+        <source>Fail to open file!</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Nie można otworzyć pliku!</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Wygodne funkcje&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Eksportuj jako PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Drukuj/Podgląd wydruku&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>KxEtErrorCheckDlg</name>
     <message>
         <source>R&amp;esume</source>
@@ -8581,10 +11005,24 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
 </context>
 <context>
+    <name>KxEtFileListOfOpenDlg</name>
+    <message>
+        <source>%1 Select another file %2</source>
+        <translatorcomment>Spreadsheets-&gt;Funkcje specjalne-&gt;Odchudzanie dokumentu - opcje okna dialogowego - tak jest ok</translatorcomment>
+        <translation>%1 Wybierz inny plik %2</translation>
+    </message>
+</context>
+<context>
     <name>KxEtFillThemeModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ostatnio używane kolory</translation>
     </message>
 </context>
 <context>
@@ -8592,6 +11030,14 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>Automatic</source>
         <translation>Automatyczny</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFontThemeModel</name>
+    <message>
+        <source>Recent Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ostatnio używane kolory</translation>
     </message>
 </context>
 <context>
@@ -8714,6 +11160,16 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
         <source>Control</source>
         <translation>Formant</translation>
     </message>
+    <message>
+        <source>Protection</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ochrona</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatowanie komentarza</translation>
+    </message>
 </context>
 <context>
     <name>KxEtFormulaBar</name>
@@ -8749,7 +11205,8 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
 </context>
 <context>
@@ -8769,6 +11226,89 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>&amp;Goto</source>
         <translation>&amp;Przejdź do</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtNumberCombobox</name>
+    <message>
+        <source>General</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ogólne</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Liczbowe</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Walutowe</translation>
+    </message>
+    <message>
+        <source>Accounting</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Księgowe</translation>
+    </message>
+    <message>
+        <source>Short Date</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Data krótka</translation>
+    </message>
+    <message>
+        <source>Long Date</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Data długa</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Czas</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Procentowe</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ułamkowe</translation>
+    </message>
+    <message>
+        <source>Scientific</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Naukowe</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tekstowe</translation>
+    </message>
+    <message>
+        <source>&amp;More Number Formats...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Więcej formatów liczb...</translation>
+    </message>
+    <message>
+        <source>No specific format</source>
+        <translatorcomment>tak jest k jak w MSO</translatorcomment>
+        <translation>Bez określonego formatu</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Data</translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Specjalne</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niestandardowe</translation>
     </message>
 </context>
 <context>
@@ -8861,6 +11401,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     </message>
     <message>
         <source>Permission expires on:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Uprawnienie wygaśnie:</translation>
     </message>
     <message>
@@ -8917,21 +11458,24 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <name>KxEtShapeFontOutlineThemeModel</name>
     <message>
         <source>No Outline</source>
-        <translation>Bez konturu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak konturu</translation>
     </message>
 </context>
 <context>
     <name>KxEtShapeFontThemeModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
     </message>
 </context>
 <context>
     <name>KxEtShapeLineThemeModel</name>
     <message>
         <source>No Outline</source>
-        <translation>Bez konturu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak konturu</translation>
     </message>
 </context>
 <context>
@@ -9058,6 +11602,10 @@ stylu graficznego tabeli</translation>
 <context>
     <name>KxEtTableStyleModel</name>
     <message>
+        <source>Custom</source>
+        <translation>Niestandardowy</translation>
+    </message>
+    <message>
         <source>Light</source>
         <translation>Jasny</translation>
     </message>
@@ -9100,10 +11648,6 @@ stylu graficznego tabeli</translation>
     <message>
         <source>First Row And Last Row</source>
         <translation>Pierwszy wiersz i ostatni wiersz</translation>
-    </message>
-    <message>
-        <source>Custom</source>
-        <translation>Niestandardowy</translation>
     </message>
 </context>
 <context>
@@ -9221,7 +11765,7 @@ stylu graficznego tabeli</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
+        <translation>Wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>Save PDF File</source>
@@ -9350,7 +11894,7 @@ stylu graficznego tabeli</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
-        <translation>Program WPS Spreadsheets nie może odnaleźć szukanych danych. Proszę sprawdź opcje wyszukiwania.</translation>
+        <translation>Program WPS Spreadsheets nie może odnaleźć szukanych danych. Sprawdź opcje wyszukiwania.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
@@ -9525,6 +12069,16 @@ stylu graficznego tabeli</translation>
     <message>
         <source>This font style is not available.</source>
         <translation>Ten styl czcionki nie jest dostępny.</translation>
+    </message>
+    <message>
+        <source> (title)</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation> (tytuł)</translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation> (text)</translation>
     </message>
 </context>
 <context>
@@ -9951,7 +12505,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>The function you described is not found. Please enter the function information again.</source>
-        <translation>Funkcja, którą opisałeś nie została znaleziona. Proszę ponownie wprowadzić informacje o funkcji.</translation>
+        <translation>Funkcja, którą opisałeś nie została znaleziona. Ponownie wprowadź informacje o funkcji.</translation>
     </message>
     <message>
         <source>Enter the name or the description of the function you want to look up.</source>
@@ -10016,10 +12570,193 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
 </context>
 <context>
+    <name>KxNameManagerDlg</name>
+    <message>
+        <source>Workbook</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Nowy - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skoroszyt</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nazwa</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wartość</translation>
+    </message>
+    <message>
+        <source>Refers To</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Odwołuje się do</translation>
+    </message>
+    <message>
+        <source>Scope</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zakres</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Komentarz</translation>
+    </message>
+    <message>
+        <source>&amp;Clear Filter</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wyczyść filtr</translation>
+    </message>
+    <message>
+        <source>Names Scoped to Work&amp;sheet</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Nazwy występujące w arkuszu</translation>
+    </message>
+    <message>
+        <source>Names Scoped to Work&amp;book</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>N&amp;azwy występujące w skoroszycie</translation>
+    </message>
+    <message>
+        <source>Names &amp;with Errors</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nazwy &amp;zawierające błędy</translation>
+    </message>
+    <message>
+        <source>Names with&amp;out Errors</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Naz&amp;wy niezawierające błędów</translation>
+    </message>
+    <message>
+        <source>Defined &amp;Names</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nazwy z&amp;definiowane</translation>
+    </message>
+    <message>
+        <source>&amp;Table Names</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Filtr - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Nazwy tabel</translation>
+    </message>
+    <message>
+        <source>Edit Name</source>
+        <translatorcomment>Spreadsheet-&gt;Formuły-&gt;Menedżer nazw-&gt;Edytuj - nazwa okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Edytowanie nazwy</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the name %1?</source>
+        <translatorcomment>Spreadsheets-&gt;Formuły-&gt;Menedżer nazw-&gt;Usuń - tak jest ok jak w Excel</translatorcomment>
+        <translation>Czy na pewno chcesz usunąć nazwę %1?</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the selected names?</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czy na pewno chcesz usunąć zaznaczone nazwy?</translation>
+    </message>
+    <message>
+        <source>The formula you Enter is Error.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wprowadzona formuła jest błędna.</translation>
+    </message>
+    <message>
+        <source>Do you want to save the changes you made to the name reference?</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czy chcesz zapisać zmiany wprowadzone w tym odwołaniu do nazwy?</translation>
+    </message>
+    <message>
+        <source> - Reference location:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation> - Lokalizacja odwołania:</translation>
+    </message>
+</context>
+<context>
     <name>KxNameOptionsDlg</name>
     <message>
         <source>The default Workbook name %1 is not valid, can&apos;t include %2.</source>
         <translation>Domyślna nazwa skoroszytu %1 jest nieprawidłowa, nie może zawierać %2.</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewFormattingRule</name>
+    <message>
+        <source>New Formatting Rule</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - nazwa okna dialogowego - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nowa reguła formatowania</translation>
+    </message>
+    <message>
+        <source>&amp;Select a Rule Type:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wybierz typ reguły:</translation>
+    </message>
+    <message>
+        <source>Format all cells based on their values</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj wszystkie komórki na podstawie ich wartości</translation>
+    </message>
+    <message>
+        <source>Format only cells that contain</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj tylko komórki zawierające</translation>
+    </message>
+    <message>
+        <source>Format only top or bottom ranked values</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj tylko wartości sklasyfikowane jako pierwsze i ostatnie</translation>
+    </message>
+    <message>
+        <source>Format only values that are above or below average</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj tylko wartości powyżej lub poniżej średniej</translation>
+    </message>
+    <message>
+        <source>Format only unique or duplicate value</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Formatuj tylko wartości unikatowe lub zduplikowane</translation>
+    </message>
+    <message>
+        <source>Use a formula to determine which cells to format</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Użyj formuły do określenia komórek, które należy sformatować</translation>
+    </message>
+    <message>
+        <source>&amp;Edit the Rule Description:</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Edytuj opis reguły:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Nowa reguła - opcje w oknie dialogowym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Anuluj</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewNameDlg</name>
+    <message>
+        <source>The name is invalid or the formula contains an error.</source>
+        <translation>Nazwa jest nieprawidłowa lub formuła zawiera błąd.</translation>
+    </message>
+    <message>
+        <source>The name entered already exists. Enter a unique name.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wprowadzona nazwa już istnieje. Wprowadź unikatową nazwę.</translation>
+    </message>
+    <message>
+        <source>The Comment cannot be longer than 255 characters.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Komentarz nie może być dłuższy niż 255 znaków.</translation>
+    </message>
+    <message>
+        <source>the formula contains an error.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>formuła zawiera błąd.</translation>
+    </message>
+    <message>
+        <source> - Reference location:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation> - Lokalizacja odwołania:</translation>
     </message>
 </context>
 <context>
@@ -10093,7 +12830,8 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Borders</source>
@@ -10145,7 +12883,12 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Table Style</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Styl tabeli</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>Kursywa</translation>
     </message>
 </context>
 <context>
@@ -10206,7 +12949,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>%1 If you only need to view content, please select %2 Read-only %3.</source>
-        <translation>%1 Jeśli potrzebujesz, aby tylko wyświetlić zawartość, proszę wybierz %2 Tylko do odczytu %3.</translation>
+        <translation>%1 Jeśli potrzebujesz, aby tylko wyświetlić zawartość, %2 Tylko do odczytu %3.</translation>
     </message>
     <message>
         <source>%1 Select%2Cancel%3No file will open.</source>
@@ -10222,7 +12965,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>%1 If you need to edit this file in WPS Spreadsheets, please make sure that others are no longer editing, and transform the file %2 to a shared workbook %3 of WPS Spreadsheets.</source>
-        <translation>%1 Jeśli potrzebujesz edytować ten plik w programie WPS Spreadsheets, proszę upewnij się, że inni użytkownicy zakończyli edycję tego pliku, a następnie przekształć plik%2 do skoroszytu udostępnionego%3 programu WPS Spreadsheets.</translation>
+        <translation>%1 Jeśli potrzebujesz edytować ten plik w programie WPS Spreadsheets, upewnij się, że inni użytkownicy zakończyli edycję tego pliku, a następnie przekształć plik%2 do skoroszytu udostępnionego%3 programu WPS Spreadsheets.</translation>
     </message>
 </context>
 <context>
@@ -10233,7 +12976,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation>Proszę wybrać jeden &amp;folder:</translation>
+        <translation>Wybierz jeden &amp;folder:</translation>
     </message>
     <message>
         <source>Document tab</source>
@@ -10257,7 +13000,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Please select a dictionary first.</source>
-        <translation>Proszę najpierw wybrać słownik.</translation>
+        <translation>Najpierw wybierz słownik.</translation>
     </message>
     <message>
         <source>Number must be above 0.</source>
@@ -10309,7 +13052,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation>Wystąpił błąd podczas dodawania &quot;%1&quot;, proszę sprawdź format pliku.</translation>
+        <translation>Wystąpił błąd podczas dodawania &quot;%1&quot;, sprawdź format pliku.</translation>
     </message>
     <message>
         <source>Size of the selected dictionary must be less than 10MB.</source>
@@ -10337,7 +13080,7 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     </message>
     <message>
         <source>Failed to delete dictionary files from disk, please delete the files manually.</source>
-        <translation>Nie można usunąć plików słownika z dysku, proszę usunąć pliki ręcznie.</translation>
+        <translation>Nie można usunąć plików słownika z dysku, usuń pliki ręcznie.</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -10409,6 +13152,11 @@ Aby przechować istniejący obraz, naciśnij przycisk Anuluj.</translation>
     <message>
         <source>Points</source>
         <translation>Punkty</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w MSO</translatorcomment>
+        <translation>Pasek narzędzi Szybki dostęp</translation>
     </message>
 </context>
 <context>
@@ -10954,12 +13702,14 @@ Tylko unikatowa wartość %2 może być zachowana po usunięciu.</translation>
     <message>
         <source>%1 duplicates are found;
 %2 unique values will be left after delete.</source>
-        <translation>Znaleziono %1 duplikaty(ów);
-%2 wartości unikatowe(ych) zostaną(ie) pozostawione po usunięciu.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Znaleziono %1 duplikatów.
+%2 wartości unikatowych zostanie pozostawionych po usunięciu.</translation>
     </message>
     <message>
         <source>%1 duplicates are found and have been deleted, %2 unique values are remained.</source>
-        <translation>Znaleziono %1 duplikaty(ów), które zostały usunięte, %2 wartości unikatowe(ych) zostały(o) pozostawione(ych).</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Znaleziono %1 duplikatów, które zostały usunięte. %2 wartości unikatowych zostało pozostawionych.</translation>
     </message>
 </context>
 <context>
@@ -11016,6 +13766,27 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
 
 (Uwaga: Funkcja obsługuje tylko pojedynczy zakres)</translation>
     </message>
+    <message>
+        <source>If there are repeated contents in cells in the following range, 
+the cells will be set in orange background.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Jeśli istnieją powtarzające się zawartości komórek w następującym zakresie, 
+komórki zostaną ustawione w pomarańczowym tle.</translation>
+    </message>
+    <message>
+        <source>When duplicate content is entered in the following range, the system
+will remind you to check the correctness of the contents.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Jeśli zduplikowana zawartość jest wprowadzona w następującym zakresie, system
+przypomni Ci, aby sprawdzić poprawność zawartości.</translation>
+    </message>
+    <message>
+        <source>After clicking OK, the duplicated rows will be deleted automatically, 
+and only one row can be kept.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Po kliknięciu przycisku OK, zduplikowane wiersze zostaną automatycznie usunięte 
+i zostanie zachowany tylko jeden wiersz.</translation>
+    </message>
 </context>
 <context>
     <name>KxResizeTableDlg</name>
@@ -11025,6 +13796,7 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
     </message>
     <message>
         <source>Select the new data range for your table:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Zaznacz nowy zakres danych dla tabeli:</translation>
     </message>
     <message>
@@ -11039,11 +13811,17 @@ system będzie przypominał o sprawdzaniu poprawności zawartości.
         <source>Reference is not valid.</source>
         <translation>Nieprawidłowe odwołanie.</translation>
     </message>
+    <message>
+        <source>&amp;Select the new data range for your table:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Zaznacz nowy zakres danych dla tabeli:</translation>
+    </message>
 </context>
 <context>
     <name>KxRevisionHighlightChangesDlg</name>
     <message>
         <source>Today:</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dzisiaj:</translation>
     </message>
     <message>
@@ -12065,6 +14843,19 @@ Jeśli nie chcesz w ogóle pokazywać pola, anuluj bieżącą operację, a nast�
     <message>
         <source>Drag fields onto PivotTable area</source>
         <translation>Przeciągnij pola do obszaru tabeli przestawnej</translation>
+    </message>
+</context>
+<context>
+    <name>KxTraditionalRuleDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Okno dialogowe</translation>
+    </message>
+    <message>
+        <source>Format cells that are GREATER THAN:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Formatuj komórki, których wartość jest WIĘKSZA NIŻ:</translation>
     </message>
 </context>
 <context>
@@ -13191,7 +15982,8 @@ t</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Border</source>
@@ -13592,7 +16384,8 @@ t</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>Spreadsheets-&gt;Narzędzia główne-&gt;Rysuj obramowanie-&gt;Styl linii - tak jest ok jak w Excel</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>To Start</source>
@@ -13796,7 +16589,7 @@ t</translation>
     </message>
     <message>
         <source>The specified file %1 is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
-        <translation>Określony plik %1 posiada nieobsługiwany format. Proszę kliknij przycisk OK i określ inny typ pliku w oknie dialogowym Zapisz jako.</translation>
+        <translation>Określony plik %1 posiada nieobsługiwany format. Kliknij przycisk OK i określ inny typ pliku w oknie dialogowym Zapisz jako.</translation>
     </message>
     <message>
         <source>You cannot save this workbook %1 with the same name as another open workbook. Choose a different name, or close the other workbook before saving.</source>
@@ -13821,6 +16614,11 @@ t</translation>
     <message>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation>W tej chwili nie są rejestrowane żadne makra. Kliknij, aby rozpocząć rejestrowanie nowego makra.</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Security Workbook(*.xls)|*.xls</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Skoroszyt zabezpieczeń programu Microsoft Excel (*.xls)|*.xls</translation>
     </message>
 </context>
 <context>
@@ -14358,7 +17156,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation>Kąt tekstu &amp;niestandardowego</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kąt &amp;niestandardowy tekstu</translation>
     </message>
     <message>
         <source>°</source>
@@ -14443,6 +17242,31 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Columns...</source>
         <translation>&amp;Kolumny...</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical alignment:</source>
+        <translatorcomment>Spreadsheets-&gt;Wstaw-&gt;Pole tekstowe-&gt;Opcje tekstu-&gt;Pole tekstowe - opcje w oknie zadań - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Wyrównanie w pionie:</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction:</source>
+        <translatorcomment>Spreadsheets-&gt;Wstaw-&gt;Pole tekstowe - opcje w oknie zadań - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Kierunek tekstu:</translation>
+    </message>
+    <message>
+        <source>T&amp;ext margin:</source>
+        <translatorcomment>Spreadsheets-&gt;Wstaw-&gt;Pole tekstowe - opcje w oknie zadań - tak jest ok jak w Excel</translatorcomment>
+        <translation>Margines t&amp;ekstu:</translation>
+    </message>
+    <message>
+        <source>Auto &amp;Fit</source>
+        <translatorcomment>Spreadsheets-&gt;Wstaw-&gt;Pole tekstowe - opcje w oknie zadań - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Autodopasowanie</translation>
+    </message>
+    <message>
+        <source>&amp;Overflow</source>
+        <translatorcomment>Spreadsheets-&gt;Wstaw-&gt;Pole tekstowe - opcje w oknie zadań - tak jest ok jak w Excel</translatorcomment>
+        <translation>&amp;Przepełnienie</translation>
     </message>
 </context>
 <context>
@@ -15049,6 +17873,34 @@ lub strona sieci Web</translation>
     <message>
         <source>&amp;Move but do not resize cells</source>
         <translation>&amp;Przenieś, ale nie zmieniaj roz&amp;miaru komórek</translation>
+    </message>
+</context>
+<context>
+    <name>kxWidgetProtect</name>
+    <message>
+        <source>Form</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Formularz</translation>
+    </message>
+    <message>
+        <source>Protection</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Ochrona</translation>
+    </message>
+    <message>
+        <source>&amp;Locked</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zab&amp;lokowane</translation>
+    </message>
+    <message>
+        <source>Lock &amp;text</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zablokuj &amp;tekst</translation>
+    </message>
+    <message>
+        <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zablokowanie obiektów pozostaje bez efektu, jeśli arkusz nie jest chroniony. Aby chronić arkusz, wybierz przycisk Format na karcie Narzędzia główne, a następnie wybierz polecenie Chroń arkusz. Stosowanie hasła jest opcjonalne.</translation>
     </message>
 </context>
 <context>

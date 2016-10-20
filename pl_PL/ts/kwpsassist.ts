@@ -22,6 +22,14 @@
     </message>
 </context>
 <context>
+    <name>KOnlineNewSlideDataService2</name>
+    <message>
+        <source>Inserting slide, Please wait.</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa wstawianie slajdu.</translation>
+    </message>
+</context>
+<context>
     <name>KSlideLibraryLogic</name>
     <message>
         <source>Cover</source>
@@ -211,20 +219,61 @@
     </message>
 </context>
 <context>
+    <name>QObject</name>
+    <message>
+        <source>Unable to connect to the server. Please check your network connection.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można połączyć się z serwerem. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>Not match the layout, Try click another Tab.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak dopasowania do układu, spróbuj kliknąć inną kartę.</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>You will be able to continue to operate after login.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Operacja będzie mogła być kontynuowana po zalogowaniu się.</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zaloguj się</translation>
+    </message>
+    <message>
+        <source>You will be able to continue to operate after buy the template.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Operacja będzie mogła być kontynuowana po zakupie szablonu.</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>OK</translation>
+    </message>
+</context>
+<context>
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Insert Picture To Multiple Slides</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wstaw obraz do wielu slajdów</translation>
     </message>
     <message>
         <source>Unidentifiable picture format.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Niezidentyfikowany format obrazu.</translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
-        <translation>Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
-Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz kompresować go(je)?</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Skompresuj go, aby zaoszczędzić miejsce na dysku.
+Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dokonać kompresji?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>

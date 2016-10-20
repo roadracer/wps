@@ -512,6 +512,7 @@
     </message>
     <message>
         <source>On clic&amp;k</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy &amp;kliknięciu</translation>
     </message>
     <message>
@@ -564,6 +565,7 @@
     </message>
     <message>
         <source>On Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy kliknięciu</translation>
     </message>
     <message>
@@ -608,6 +610,7 @@
     </message>
     <message>
         <source>Start Effects on &amp;Click of:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Uruchom efekty po &amp;kliknięciu:</translation>
     </message>
     <message>
@@ -1422,51 +1425,57 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgGridAndGuids</name>
     <message>
         <source>Grid and Guides</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Siatka i prowadnice</translation>
     </message>
     <message>
         <source>Snap to</source>
-        <translation>Przyciągaj do</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przyciąganie do</translation>
     </message>
     <message>
         <source>Snap objects to &amp;grid         </source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Przyciągaj obiekty do &amp;siatki</translation>
     </message>
     <message>
-        <source>&amp;Snap objects to other objects</source>
-        <translation>&amp;Przyciągaj obiekty do innych obiektów</translation>
-    </message>
-    <message>
         <source>Grid settings</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ustawienia siatki</translation>
     </message>
     <message>
         <source>S&amp;pacing:</source>
-        <translation>O&amp;dstępy:</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Odstępy:</translation>
     </message>
     <message>
         <source>8 grid per cm</source>
-        <translation>8 siatek na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>8 linii na cm</translation>
     </message>
     <message>
         <source>6 grid per cm</source>
-        <translation>6 siatek na cm</translation>
+        <translation>6 linii na cm</translation>
     </message>
     <message>
         <source>5 grid per cm</source>
-        <translation>5 siatek na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>5 linii na cm</translation>
     </message>
     <message>
         <source>4 grid per cm</source>
-        <translation>4 siatki na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>4 linie na cm</translation>
     </message>
     <message>
         <source>3 grid per cm</source>
-        <translation>3 siatki na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>3 linie na cm</translation>
     </message>
     <message>
         <source>2 grid per cm</source>
-        <translation>2 siatki na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>2 linie na cm</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -1494,27 +1503,43 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Display grid on screen</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Wyświetl siatkę na ekranie</translation>
     </message>
     <message>
         <source>Guide settings</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ustawienia prowadnicy</translation>
     </message>
     <message>
         <source>D&amp;isplay drawing guides on screen</source>
-        <translation>W&amp;yświetl prowadnice rysowania na ekranie</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyświ&amp;etl prowadnice rysowania na ekranie</translation>
     </message>
     <message>
         <source>&amp;Objects follow with guides       </source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Zastosuj &amp;obiekty zgodnie z prowadnicami</translation>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translation>Ustaw jako &amp;domyślny</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Ustaw jako domyślny</translation>
     </message>
     <message>
         <source>Enter 0.1 cm to 5.079 cm of value</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wprowadź wartość od 0,1 cm do 5,079 cm</translation>
+    </message>
+    <message>
+        <source>&amp;Display smart guides on screen</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyświetl&amp;aj inteligentne prowadnice, gdy kształty są wyrównane</translation>
+    </message>
+    <message>
+        <source>&amp;Snap objects to other objects</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Przyciągaj obiekty do innych obiektów</translation>
     </message>
 </context>
 <context>
@@ -1604,6 +1629,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Automatically</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>&amp;Automatycznie</translation>
     </message>
     <message>
@@ -1612,6 +1638,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>When &amp;Clicked</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Po &amp;kliknięciu</translation>
     </message>
 </context>
@@ -1727,10 +1754,12 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>View</source>
-        <translation>Widok</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Show</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaż</translation>
     </message>
     <message>
@@ -1771,7 +1800,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Ogólne i zapisz</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ogólne i Zapisywanie</translation>
     </message>
     <message>
         <source>Gerneral options</source>
@@ -1783,6 +1813,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Recovery options</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Opcje odzyskiwania</translation>
     </message>
     <message>
@@ -1827,63 +1858,78 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Print</source>
-        <translation>Drukuj</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Drukowanie</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
-        <translation>Domyślne ustawienia drukowania dla tego dokumentu</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Domyślne ustawienia drukowania tego dokumentu</translation>
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
-        <translation>Użyj &amp;ostatnio używanych ustawień wydruku</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Użyj ostatnio używanych ustawień drukowania</translation>
     </message>
     <message>
         <source>Use the following &amp;print settings:</source>
-        <translation>Użyj następujących ustawień &amp;drukowania:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Użyj n&amp;astępujących ustawień drukowania:</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation>Drukuj &amp;treść:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Drukuj:</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation>Slajdy</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Slajdy na całych stronach</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Materiały informacyjne (2 slajdy na stronę)</translation>
     </message>
     <message>
         <source>Handouts(3 slides per page)</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Materiały informacyjne (3 slajdy na stronę)</translation>
     </message>
     <message>
         <source>Handouts(6 slides per page)</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Materiały informacyjne (6 slajdów na stronę)</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation>Strony notatek</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Notatki</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation>Widok konspektu</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Konspekt</translation>
     </message>
     <message>
         <source>Color</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kolor</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation>Obra&amp;mowania slajdów</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>O&amp;bramowania wokół slajdów</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation>Drukuj &amp;ukryte slajdy</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Drukuj ukryte &amp;slajdy</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Apply when typing</source>
@@ -1907,6 +1953,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Security</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Zabezpieczenia</translation>
     </message>
     <message>
@@ -1967,7 +2014,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;minuty</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;minut</translation>
     </message>
     <message>
         <source>Initia&amp;ls:</source>
@@ -1979,11 +2027,13 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Start with</source>
-        <translation>Rozpocznij od</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Rozpoczynanie</translation>
     </message>
     <message>
         <source>Start with:</source>
-        <translation>Rozpocznij od:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Rozpocznij z:</translation>
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
@@ -1991,10 +2041,12 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Color/Grayscale:</source>
-        <translation>&amp;Kolor/Skala odcieni szarości:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Kolory/skala odcieni szarości:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wyłącznie czarno-białe</translation>
     </message>
     <message>
@@ -2099,14 +2151,16 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Opinia</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Opinie</translation>
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation>Dołącz do programu poprawy jakości obsługi klienta i Pomóż nam udoskonalić WPS Office.</translation>
+        <translation>Dołącz do programu poprawy jakości obsługi klienta i pomóż nam udoskonalić pakiet WPS Office.</translation>
     </message>
     <message>
         <source>Language</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Język</translation>
     </message>
     <message>
@@ -2115,6 +2169,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Język - tak jest ok jak</translatorcomment>
         <translation>Wybieranie języków wyświetlania i Pomocy</translation>
     </message>
     <message>
@@ -2157,6 +2212,41 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
         <source>PowerPoint Presentation 97-2003</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>Prezentacja programu PowerPoint 97–2003</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Opcje Wstążki</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Kliknij dwukrotnie k&amp;artę, aby ukryć Wstążkę</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ustawienia kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Otwórz plik kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Print scale to &amp;fit paper</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Skaluj do rozmiaru papieru</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format dokumentu z zabezpieczeniami WPS Online</translation>
     </message>
 </context>
 <context>
@@ -2290,7 +2380,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
-        <translation>Pełny ekran (4:3)</translation>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pokaz na ekranie (4:3)</translation>
     </message>
     <message>
         <source>Overhead</source>
@@ -2298,11 +2389,13 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
-        <translation>Pełny ekran (16:9)</translation>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pokaz na ekranie (16:9)</translation>
     </message>
     <message>
         <source>Fullscreen(16:10)</source>
-        <translation>Pełny ekran (16:10)</translation>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pokaz na ekranie (16:10)</translation>
     </message>
     <message>
         <source>Widescreen</source>
@@ -2311,6 +2404,11 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <message>
         <source>Enter 2.54 to 142.22 cm of value</source>
         <translation>Wprowadź wartość od 2,54 do 142,22 cm</translation>
+    </message>
+    <message>
+        <source>Phonescreen(9:16)</source>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok</translatorcomment>
+        <translation>Telefoniczny (9:16)</translation>
     </message>
 </context>
 <context>
@@ -3091,7 +3189,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
+        <translation>Wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -3413,6 +3511,59 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
 </context>
 <context>
+    <name>KxInsertPicturesToMultiSlide</name>
+    <message>
+        <source>Insert Picture To Multiple Slides</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz do wielu slajdów</translation>
+    </message>
+    <message>
+        <source>Unidentifiable picture format.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niezidentyfikowany format obrazu.</translation>
+    </message>
+    <message>
+        <source>The picture you inserted is too large. Please compress it to save the disk space.
+Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Skompresuj go, aby zaoszczędzić miejsce na dysku.
+Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dokonać kompresji?</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
+        <translation>Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
+        <comment>DgUil_EnhancedMetaFiles</comment>
+        <translation>Rozszerzony Metaplik Windows (*.emf)|*.emf</translation>
+    </message>
+    <message>
+        <source>Windows Metafile(*.wmf)|*.wmf</source>
+        <translation>Metaplik Windows (*.wmf)|*.wmf</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
+        <translation>Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics(*.png)|*.png</source>
+        <translation>Przenośna grafika sieciowa PNG (*.png)|*.png</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)|*.bmp</source>
+        <translation>Mapa bitowa Windows (*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format(*.gif)|*.gif</source>
+        <translation>Format wymiany grafiki GIF (*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
+        <translation>Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff</translation>
+    </message>
+</context>
+<context>
     <name>KxInvolvedTemplateDlg</name>
     <message>
         <source>Blank Design</source>
@@ -3506,7 +3657,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation>Proszę wybrać jeden &amp;folder:</translation>
+        <translation>Wybierz jeden &amp;folder:</translation>
     </message>
     <message>
         <source>The path or name of &quot;%1&quot; is invalid. Please check that the path and file name are correct.</source>
@@ -3541,6 +3692,11 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <message>
         <source>Confirmation password does not match.</source>
         <translation>Potwierdzenie hasła jest niezgodne.</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w MSO</translatorcomment>
+        <translation>Pasek narzędzi Szybki dostęp</translation>
     </message>
 </context>
 <context>
@@ -3966,15 +4122,18 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxTrimMediaDlg</name>
     <message>
         <source>Trim Movie</source>
-        <translation>Przytnij film</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;Prawy przycisk myszki-&gt;Przytnij film - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przycinanie wideo</translation>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation>Przytnij dźwięk</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Dzwięk-&gt;Prawy przycisk myszki-&gt;Przytnij dzwięk - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przycinanie dźwięku</translation>
     </message>
     <message>
         <source>Duration : </source>
-        <translation>Czas trwania : </translation>
+        <translatorcomment>Presentation-&gt;Wstaw Dzwięk/Wideo-&gt;Prawy przycisk myszki-&gt;Przytnij dzwięk/wideo - informacja w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Czas trwania: </translation>
     </message>
 </context>
 <context>
@@ -4105,7 +4264,8 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
 </context>
 <context>
@@ -4265,6 +4425,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Start On &amp;Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Rozpocznij po &amp;kliknięciu</translation>
     </message>
     <message>
@@ -4329,6 +4490,16 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
         <source>&amp;Hide Advanced Timeline</source>
         <translation>&amp;Ukryj zaawansowaną oś czasu</translation>
     </message>
+    <message>
+        <source>View Slide &amp;Master</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Wyświetl wzorzec slajdów</translation>
+    </message>
+    <message>
+        <source>View Slide &amp;Layout</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyświetl układ slajdów</translation>
+    </message>
 </context>
 <context>
     <name>KxWppDesignItem</name>
@@ -4355,6 +4526,14 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <message>
         <source>Add &amp;Design</source>
         <translation>Dodaj &amp;projekt</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Wygodne funkcje&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Utwórz łącze do udostępniania&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Eksportuj jako PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Drukuj/Podgląd wydruku&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4388,21 +4567,29 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation>Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ostatnio używane kolory</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontOutlineColorModel</name>
     <message>
         <source>No Outline</source>
-        <translation>Bez konturu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak konturu</translation>
     </message>
 </context>
 <context>
@@ -4448,6 +4635,19 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
 </context>
 <context>
+    <name>KxWppFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translatorcomment>opcje efektów w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>CIEŃ</translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translatorcomment>opcje efektów w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>ODBICIE</translation>
+    </message>
+</context>
+<context>
     <name>KxWppFormatProperty_FillAndLine</name>
     <message>
         <source>TEXT FILL</source>
@@ -4473,30 +4673,36 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
 </context>
 <context>
     <name>KxWppMediaBarWidget</name>
     <message>
         <source>Move forward 0.25 seconds</source>
-        <translation>Przejdź do przodu o 0,25 sekundy</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przejdź do przodu o 0,25 s</translation>
     </message>
     <message>
         <source>Move back 0.25 seconds</source>
-        <translation>Przejdź do tyłu o 0,25 sekundy</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przejdź do tyłu o 0,25 s</translation>
     </message>
     <message>
         <source>Play/Pause</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Odtwórz/Wstrzymaj</translation>
     </message>
     <message>
         <source>Volume</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Głośność</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation>Ustawienie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia</translation>
     </message>
 </context>
 <context>
@@ -4603,6 +4809,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Uprawnienie wygaśnie:</translation>
     </message>
     <message>
@@ -4794,6 +5001,32 @@ Czy na pewno zamknąć?</translation>
     </message>
 </context>
 <context>
+    <name>KxWppVideoPlayCommand</name>
+    <message>
+        <source>Pause</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wstrzymaj</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Odtwórz</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVideoStartModeCommand</name>
+    <message>
+        <source>Automatically</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Automatycznie</translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przy kliknięciu</translation>
+    </message>
+</context>
+<context>
     <name>KxWppVpPodium</name>
     <message>
         <source>Outline</source>
@@ -4813,6 +5046,22 @@ Czy na pewno zamknąć?</translation>
     <message>
         <source>Slides</source>
         <translation>Slajdy</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppWebPreviewWinChangeThemeWidget</name>
+    <message>
+        <source>Select animation style:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wybierz styl animacji:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppWebPreviewWinDisplayWidget</name>
+    <message>
+        <source>To display the flow, the generated link contains only the first 50 slides.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Aby wyświetlić przepływ, wygenerowane łącze zawiera tylko pierwszych 50 slajdów.</translation>
     </message>
 </context>
 <context>
@@ -5298,6 +5547,11 @@ Czy na pewno zamknąć?</translation>
         <source>按文本和线条配色方案</source>
         <translation type="obsolete">Zastosuj schemat kolorów tekstu i linii</translation>
     </message>
+    <message>
+        <source>MasterLayout</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Układ wzorca</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -5350,6 +5604,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>On Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy kliknięciu</translation>
     </message>
     <message>
@@ -5618,6 +5873,11 @@ Czy na pewno zamknąć?</translation>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+    </message>
+    <message>
+        <source>Export What:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Eksportuj:</translation>
     </message>
 </context>
 <context>

@@ -424,16 +424,19 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSOpenCloudFileTip.title">
         <source>Open from Cloud Docs</source>
         <extracomment>KOSOpenCloudFileTip.title</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę Otwórz z Dokumentów usługi Cloud - tak jest ok</translatorcomment>
         <translation>Otwórz z Dokumentów usługi Cloud</translation>
     </message>
     <message id="KOSOpenCloudFileTip.content">
         <source>Modifications of documents in Cloud Docs will be directly saved.</source>
         <extracomment>KOSOpenCloudFileTip.content</extracomment>
-        <translation>Modyfikacje dokumentów w Dokumentach usługi Cloud będą bezpośrednio zapisane.</translation>
+        <translatorcomment>Styl wstążki-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę Otwórz z Dokumentów usługi Cloud - tak jest ok</translatorcomment>
+        <translation>Umożliwia modyfikację dokumentów znajdujących się w Dokumentach usługi Cloud. Wprowadzone zmiany będą zapisane bezpośrednio.</translation>
     </message>
     <message id="KOSRoamingfileTip.title">
         <source>File Roaming</source>
         <extracomment>KOSRoamingfileTip.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message id="KOSRoamingfileTip.content">
@@ -444,12 +447,14 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSSaveFileTocloudTip.title">
         <source>Save to Cloud Docs</source>
         <extracomment>KOSSaveFileTocloudTip.title</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę Zapisz do Dokumentów usługi Cloud - tak jest ok</translatorcomment>
         <translation>Zapisz do Dokumentów usługi Cloud</translation>
     </message>
     <message id="KOSSaveFileTocloudTip.content">
         <source>Share with others for discussing, editing, and previewing documents online.</source>
         <extracomment>KOSSaveFileTocloudTip.content</extracomment>
-        <translation>Udostępnij innym użytkownikom do dyskusji, edycji i wyświetlania podglądu dokumentów online.</translation>
+        <translatorcomment>Styl wstążki-&gt;Funkcje specjalne - podpowiedź po najechaniu kursorem na ikonę Zapisz do Dokumentów usługi Cloud - tak jest ok</translatorcomment>
+        <translation>Umożliwia udostępnienie dokumentów innym użytkownikom w celu przeprowadzenia dyskusji, edycji i wyświetlania podglądu dokumentów w trybie online.</translation>
     </message>
     <message id="KOSUserLoginCloudTextBtnTip.title">
         <source></source>
@@ -466,7 +471,8 @@ Kliknij strzałkę, aby wybrać inne kolory trójwymiarowe.</translation>
     <message id="KOSUserLoginCloudTip.title">
         <source>Sign In</source>
         <extracomment>KOSUserLoginCloudTip.title</extracomment>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message id="KOSUserLoginCloudTip.content">
         <source>Documents will be automatically saved to WPS Office Cloud and can be edited on your PC or mobile device.</source>
@@ -919,6 +925,7 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
     <message id="ExportToPDF.content">
         <source>Export the document to a PDF file.</source>
         <extracomment>ExportToPDF.content</extracomment>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - podpowiedź po najechaniu kursoren na ikonę Eksportuj do wideo</translatorcomment>
         <translation>Umożliwia wyeksportowanie dokumentu do pliku PDF.</translation>
     </message>
     <message id="DocerURLEntranceTip.title">
@@ -980,16 +987,6 @@ Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translati
         <source>Clear all the formatting from the selection, leaving only the plain text.</source>
         <extracomment>ClearFormats.content</extracomment>
         <translation>Umożliwia wyczyszczenie całego formatowania w zaznaczeniu, co spowoduje pozostawienie tylko zwykłego tekstu.</translation>
-    </message>
-    <message id="ImagePreview.title">
-        <source>Picture Preview</source>
-        <extracomment>ImagePreview.title</extracomment>
-        <translation>Podgląd obrazu</translation>
-    </message>
-    <message id="ImagePreview.content">
-        <source>View the selected picture in its original size or in window size.</source>
-        <extracomment>ImagePreview.content</extracomment>
-        <translation>Umożliwia wyświetlenie wybranego obrazu w jego oryginalnym rozmiarze lub w obszarze rozmiaru okna.</translation>
     </message>
     <message id="DonateMoney.title">
         <source>Donate</source>
@@ -1313,6 +1310,147 @@ Daje to pewność, że zaznaczony element wykresu będzie pasował do ogólnego 
         <source>Fill the text with a solid color, gradient, picture, or texture.</source>
         <extracomment>ksoTextFill.content</extracomment>
         <translation>Umożliwia wypełnienie tekstu pełnym kolorem, gradientem, obrazem lub teksturą.</translation>
+    </message>
+    <message id="ImagePreview.title">
+        <source>Picture Preview</source>
+        <extracomment>ImagePreview.title</extracomment>
+        <translation>Podgląd obrazu</translation>
+    </message>
+    <message id="ImagePreview.content">
+        <source>View the selected picture in its original size or in window size.</source>
+        <extracomment>ImagePreview.content</extracomment>
+        <translation>Umożliwia wyświetlenie wybranego obrazu w jego oryginalnym rozmiarze lub w obszarze rozmiaru okna.</translation>
+    </message>
+    <message id="AddPicFrame.title">
+        <source>Add picture frames</source>
+        <extracomment>AddPicFrame.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Dodaj ramki obrazu</translation>
+    </message>
+    <message id="AddPicFrame.content">
+        <source>Choose a different border styles to meet the needs of individual pictures.</source>
+        <extracomment>AddPicFrame.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia wybranie różnych stylów obramowania do potrzeb poszczególnych obrazów.</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TextTools.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_TextTools.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania tekstu.</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia zmianę ustawień formatowania obrazu.</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.title">
+        <source>Docer</source>
+        <extracomment>DocerHomeEntranceTip.title</extracomment>
+        <translatorcomment>tak jest ok - nie tłumaczymy tego - nazwa własna Szablonów online</translatorcomment>
+        <translation>Docer</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.content">
+        <source>A platform for sharing various Office document resources.</source>
+        <extracomment>DocerHomeEntranceTip.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Platforma udostępniania różnych zasobów dokumentów biurowych.</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.title">
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.content">
+        <source>Provide you the most professional online templates.</source>
+        <extracomment>IntranetVersion DocerURLEntranceTip.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia dostarczanie większości profesjonalnych szablonów online.</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.title">
+        <source>File Roaming</source>
+        <extracomment>KOSRoamingfileTip_pro.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.content">
+        <source>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</source>
+        <extracomment>KOSRoamingfileTip_pro.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia automatyczne udostępnianie plików do usługi WPS Office Cloud i komputera oraz urządzeń przenośnych, za pomocą pakietu WPS Office.</translation>
+    </message>
+    <message id="KOSHomepageTip.title">
+        <source>My WPS</source>
+        <extracomment>KOSHomepageTip.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
+    </message>
+    <message id="KOSHomepageTip.content">
+        <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
+        <extracomment>KOSHomepageTip.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia korzystanie z opcji dostępnych na stronie startowej pakietu Office takich jak: znalezienie szablonów, sprawdzanie dokumentów, znalezienie aplikacji i korzystanie z uprawnień.</translation>
+    </message>
+    <message id="XiuTangH5Tip.title">
+        <source>XiuTang H5</source>
+        <oldsource>XiuTang</oldsource>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>XiuTang H5</translation>
+    </message>
+    <message id="XiuTangH5Tip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>XiuTangH5Tip.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia korzystanie z XiuTang.</translation>
+    </message>
+    <message id="DocPermission.title">
+        <source>Document Permission</source>
+        <extracomment>DocPermission.title</extracomment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
+    </message>
+    <message id="DocPermission.content">
+        <source>After setting permissions, only authorized users can open this document.</source>
+        <extracomment>DocPermission.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Po ustawieniu uprawnień, tylko autoryzowani użytkownicy mogą otworzyć ten dokument.</translation>
+    </message>
+    <message id="HardwareEncryption.title">
+        <source>Hardware Encryption</source>
+        <extracomment>HardwareEncryption.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message id="HardwareEncryption.content">
+        <source>Encrypt document with a USB Key to further ensure its security.</source>
+        <extracomment>HardwareEncryption.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia szyfrowanie dokumentu z kluczem USB, w celu dalszego zapewnienia jego bezpieczeństwa.</translation>
+    </message>
+    <message id="Auto_Backup.title">
+        <source>Backup Setting</source>
+        <extracomment>Auto_Backup.title</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienia kopii zapasowych</translation>
+    </message>
+    <message id="Auto_Backup.content">
+        <source>Setting bakcup interval and path</source>
+        <extracomment>Auto_Backup.content</extracomment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Umożliwia ustawienie okresu i ścieżki tworzenia kopii zapasowych.</translation>
     </message>
 </context>
 </TS>

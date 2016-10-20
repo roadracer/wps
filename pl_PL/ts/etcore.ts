@@ -326,11 +326,12 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Występują błędy, gdy program WPS Spreadsheets otwiera ten plik.
-Wypróbuj jedną z następujących czynności.
-•Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
-•Upewnij się, że nie jest za mało pamięci i miejsca na dysku.	
-•Upewnij się, czy ten plik ma nierozpoznawalny format.
+Spróbuj wykonać jedną z następujących czynności:
+• Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
+• Upewnij się, że nie jest za mało pamięci i miejsca na dysku.	
+• Upewnij się, czy ten plik ma nierozpoznawalny format.
 (%s)</translation>
     </message>
     <message>
@@ -340,10 +341,11 @@ Please try one of the following.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Program WPS Spreadsheets nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu.
-Proszę wypróbuj jedną z następujących czynności:
-•Przełącz się do konta innego użytkownika.
-•Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
+Spróbuj wykonać jedną z następujących czynnościi:
+• Przełącz się do konta innego użytkownika.
+• Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
 (%s)</translation>
     </message>
     <message>
@@ -353,10 +355,11 @@ Please try one of the following.
 •Ask its creator to change the permission control level as full control level.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Unsuport_KRM_Right</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Występują błędy, gdy program WPS Spreadsheets otwiera ten plik.
-Wypróbuj jedną z następujących czynności.
-•Bieżąca wersja programu WPS Spreadsheets nie obsługuje uprawnienia poziomu kontroli tych plików, proszę zaktualizować program do najnowszej wersji. 
-•Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli na poziom pełnej kontroli.
+Spróbuj wykonać jedną z następujących czynności:
+• Bieżąca wersja programu WPS Spreadsheets nie obsługuje uprawnienia poziomu kontroli tych plików, proszę zaktualizować program do najnowszej wersji. 
+• Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli na poziom pełnej kontroli.
 (%s)</translation>
     </message>
     <message>
@@ -377,7 +380,7 @@ Wypróbuj jedną z następujących czynności.
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation>Program WPS Spreadsheets nie może zapisać lub utworzyć tego pliku. Proszę upewnij się, że docelowy dysk, na którym chcesz zapisać plik, nie jest pełny lub uszkodzony.
+        <translation>Program WPS Spreadsheets nie może zapisać lub utworzyć tego pliku. Upewnij się, że docelowy dysk, na którym chcesz zapisać plik, nie jest pełny lub uszkodzony.
 (%s)</translation>
     </message>
     <message>
@@ -444,7 +447,7 @@ Wypróbuj jedną z następujących czynności.
     <message>
         <source>The file &quot;%s&quot; you specified is unsupported format. Please click OK and specify another file type in the Save As dialog box.</source>
         <comment>TX_Cannot_Write_Unknown_File_Format</comment>
-        <translation>Określony plik &quot;%s&quot; posiada nieobsługiwany format. Proszę kliknij przycisk OK i określ inny typ pliku w oknie dialogowym Zapisz jako.</translation>
+        <translation>Określony plik &quot;%s&quot; posiada nieobsługiwany format. Kliknij przycisk OK i określ inny typ pliku w oknie dialogowym Zapisz jako.</translation>
     </message>
     <message>
         <source>Errors occur when WPS Spreadsheets saving file &quot;%s&quot;. Please try one of the following. 
@@ -453,16 +456,17 @@ Wypróbuj jedną z następujących czynności.
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation>Występują błędy, gdy program WPS Spreadsheets zapisuje plik &quot;%s&quot;. Wypróbuj jedną z następujących czynności. 
-•Cofnij poprzednie operacje i zapisz go. 
-•Zapisz go jako plik tekstowy. 
-•Kopiuj/wklej zawartość do nowego dokumentu. 
-•Zrezygnuj ze zmian w tym pliku.</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Występują błędy, gdy program WPS Spreadsheets zapisuje plik &quot;%s&quot;. Spróbuj wykonać jedną z następujących czynności: 
+• Cofnij poprzednie operacje i zapisz go. 
+• Zapisz go jako plik tekstowy. 
+• Kopiuj/wklej zawartość do nowego dokumentu. 
+• Zrezygnuj ze zmian w tym pliku.</translation>
     </message>
     <message>
         <source>The file &quot;%s&quot; to be saved has the same name with an open file. Please choose a different name, or close another workbook with the same name first.</source>
         <comment>TX_SaveAs_Cannot_Save_With_Same_Name</comment>
-        <translation>Chcesz zapisać plik &quot;%s&quot; o tej samej nazwie jak otwarty dokument. Proszę wybrać inną nazwę skoroszytu lub zamknąć inny dokument o tej samej nazwie.</translation>
+        <translation>Chcesz zapisać plik &quot;%s&quot; o tej samej nazwie jak otwarty dokument. Wybierz inną nazwę skoroszytu lub zamknij inny dokument o tej samej nazwie.</translation>
     </message>
     <message>
         <source>Cannot save the file due to the full disk.</source>
@@ -477,12 +481,14 @@ Wypróbuj jedną z następujących czynności.
     <message>
         <source>Opening the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Open</comment>
-        <translation>Otwieranie pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa otwieranie pliku...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>TX_Document_BusyTip_Prompt_Save</comment>
-        <translation>Zapisywanie pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa zapisywanie pliku...</translation>
     </message>
     <message>
         <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -609,6 +615,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
     <message>
         <source>The name you entered is invalid. When renaming a sheet, try one of the following:</source>
         <comment>TX_RenameSheet_Error</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Wprowadzona nazwa jest nieprawidłowa. Podczas zmiany nazwy arkusza, spróbuj wykonać jedną z następujących czynności:</translation>
     </message>
     <message>
@@ -768,6 +775,7 @@ Aby otworzyć drugi dokument albo zamknij dokument, który masz obecnie otwarty,
 • Click a single cell, and then paste.
 • Select a rectangle that&apos;s the same size and shape, and then paste.</source>
         <comment>TX_ERROR_INVALIDPASTERG</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Spróbuj wykonać jedną z następujących czynności: 
 • Kliknij pojedynczą komórkę, a następnie wklej.
 • Zaznacz prostokąt o tym samym rozmiarze i kształcie, a następnie wklej.</translation>
@@ -948,7 +956,7 @@ Wybierz pojedynczy region, a następnie wykonaj to polecenie ponownie.</translat
         <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
 If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
         <comment>TX_Open_File_Isnot_Exist</comment>
-        <translation>Nie można odnaleźć &quot;%s&quot;. Proszę sprawdź pisownię nazwy pliku i upewnij się, że lokalizacja pliku jest poprawna.
+        <translation>Nie można odnaleźć &quot;%s&quot;. Sprawdź pisownię nazwy pliku i upewnij się, że lokalizacja pliku jest poprawna.
 Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik, proszę upewnij się, że nazwa pliku nie została zmieniona oraz plik nie został przeniesiony lub usunięty.</translation>
     </message>
     <message>
@@ -1040,7 +1048,7 @@ Jeśli próbujesz otworzyć plik z listy ostatnio używanych plików w menu Plik
 Please specify the right files.</source>
         <comment>TX_SUPBOOK_FILE_USER_ASSIGN</comment>
         <translation>Nie można odnaleźć skoroszytów &quot;%s&quot;, do który odwołują się formuły.
-Proszę podać właściwe pliki.</translation>
+Podaj właściwe pliki.</translation>
     </message>
     <message>
         <source>8.1</source>
@@ -1057,7 +1065,7 @@ Proszę podać właściwe pliki.</translation>
     <message>
         <source>Worksheet &quot;%s&quot; is protected. Please remove protection before using this command.</source>
         <comment>TX_CanNotModifyStyle</comment>
-        <translation>Arkusz &quot;%s&quot; jest chroniony. Proszę usuń ochronę przed użyciem tego polecenia.</translation>
+        <translation>Arkusz &quot;%s&quot; jest chroniony. Usuń ochronę przed użyciem tego polecenia.</translation>
     </message>
     <message>
         <source>References to other worksheets or workbooks cannot be used for Conditional Format.</source>
@@ -1358,7 +1366,7 @@ Aby wyróżnić wszystkie zmiany, usuń zaznaczenie opcji Kiedy, Kto oraz Gdzie.
 Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
         <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
         <translation>Otwierasz udostępniony skoroszyt programu Excel, który aktualizuje w odstępach czasu. Program WPS Spreadsheets nie obsługuje tego formatu.
-Proszę otworzyć go w programie Microsoft Excel, potem uruchomić &quot;Zapisz&quot;, a następnie spróbować otworzyć go w programie WPS Spreadsheets.</translation>
+Otwórz go w programie Microsoft Excel, potem uruchom &quot;Zapisz&quot;, a następnie spróbuj otworzyć go w programie WPS Spreadsheets.</translation>
     </message>
     <message>
         <source>Failed to convert “%s”, this file can only be opened as read-only.</source>
@@ -1710,6 +1718,7 @@ Aby naprawić łącza, zaznacz pojedynczy arkusz, a następnie kliknij przycisk 
     <message>
         <source>Cell Value</source>
         <comment>TX_SOLVER_CELLVALUE</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wartość komórki</translation>
     </message>
     <message>
@@ -2634,7 +2643,7 @@ Aby kontynuować i importować tyle danych, ile się zmieści, kliknij przycisk 
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>Tx_ShareWorkbook_MsgBackupToDef</comment>
-        <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Spróbuj zmienić katalog kopii zapasowej.
 Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
@@ -2749,7 +2758,7 @@ Aby anulować kwerendę, kliknij przycisk Anuluj.</translation>
     <message>
         <source>Input invalid! Please input a integer or a decimal.</source>
         <comment>TX_XlfDialogBox_InvalidNumber</comment>
-        <translation>Nieprawidłowa wartość! Proszę wprowadź liczbę całkowitą lub dziesiętną.</translation>
+        <translation>Nieprawidłowa wartość! Wprowadź liczbę całkowitą lub dziesiętną.</translation>
     </message>
     <message>
         <source>Help</source>
@@ -2855,6 +2864,36 @@ Modify the source data</source>
     <message>
         <source>A table with that name already exists. Select a different name.</source>
         <translation>Tabela o tej nazwie już istnieje. Wybierz inną nazwę.</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
+        <comment>TX_SecurityDocumentOpenFailed_ExistOtherWorkbooks</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Niektóre dokumenty są już otwarte. Nie można otworzyć zabezpieczonego dokumentu! Zamknij otwarte dokumenty i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot save the security document! Please close the the other documents and try again.</source>
+        <comment>TX_SecurityDocumentSaveFailed_ExistOtherWorkbooks</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niektóre dokumenty są już otwarte. Nie można zapisać zabezpieczonego dokumentu! Zamknij inne dokumenty i spróbuj ponownie.</translation>
+    </message>
+    <message>
+        <source>Cell %s commented by %s User</source>
+        <comment>TX_CommentSelectStatus</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Komórka %s skomentowana przez użytkownika %s</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets reached the end of the workbook. Do you want to continue reviewing from the beginning of the workbook?</source>
+        <comment>TX_CommentTravelToucheEnd</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Program WPS Spreadsheets osiągnął koniec skoroszytu. Czy chcesz kontynuować przeglądanie od początku skoroszytu?</translation>
+    </message>
+    <message>
+        <source>Cannot shift objects off sheet.</source>
+        <comment>TX_InsertRange_LoseShape</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Przesunięcie obiektów poza arkusz nie jest możliwe.</translation>
     </message>
 </context>
 <context>
@@ -3244,7 +3283,8 @@ Modify the source data</source>
     <message>
         <source>Table Style</source>
         <comment>TX_TableStyle_TableStyle</comment>
-        <translation>Styl tabeli</translation>
+        <translatorcomment>Spreadsheets-&gt;Formatuj jako tabelę - pierwszy człon podpowiedzi po najechaniu kursorem na dowolny styl - tak jest ok jak w Excel</translatorcomment>
+        <translation>Styl tabeli - </translation>
     </message>
     <message>
         <source>Light</source>
@@ -3270,6 +3310,154 @@ Modify the source data</source>
         <source>Total</source>
         <comment>TX_TableSubtotal_Sum</comment>
         <translation>Razem</translation>
+    </message>
+    <message>
+        <source>This type of reference cannot be used in a Conditional Formatting formula.
+
+Change the reference to a single cell, or use the reference with a worksheet function, such as =SUM(A1:E5).</source>
+        <comment>TX_CondFormat_MultiCells</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Nie można używać tego typu odwołania w formule formatowania warunkowego.
+
+Użyj odwołania do pojedynczej komórki lub odwołania do funkcji arkusza kalkulacyjnego, takiej jak np. =SUMA(A1:E5).</translation>
+    </message>
+    <message>
+        <source>The value you entered is not a number, date, time, or string.</source>
+        <comment>TX_CondFormat_InvalidValue</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadzona wartość nie jest liczbą, datą, czasem lub ciągiem.</translation>
+    </message>
+    <message>
+        <source>Enter a value.</source>
+        <comment>TX_CondFormat_EnterAValue</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wprowadź wartość.</translation>
+    </message>
+    <message>
+        <source>Enter a formula.</source>
+        <comment>TX_CondFormat_EnterAFormula</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź formułę.</translation>
+    </message>
+    <message>
+        <source>Cannot add the conditional formatting.</source>
+        <comment>TX_CondFormat_CannotAdd</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie można dodać formatowania warunkowego.</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 1000.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź liczbę całkowitą z przedziału od 1 do 1000.</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 100.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź liczbę całkowitą z przedziału od 1 do 100.</translation>
+    </message>
+    <message>
+        <source>One or more icon data ranges overlap. Adjust icon data range values so that the ranges do not overlap.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jeden lub więcej zakresów danych ikon pokrywa się z innym. Dostosuj wartości zakresu danych ikon, tak aby nie pokrywały się.</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Jedna lub więcej podanych wartości nie jest prawidłową wartością procentową.</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Jedna lub więcej podanych wartości nie jest prawidłową wartością percentylu.</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość minimalna nie jest prawidłową wartością percentylu.</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość minimalna nie jest prawidłową wartością procentową.</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość punktu środkowego nie jest prawidłową wartością percentylu.</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość punktu środkowego nie jest prawidłową wartością procentową.</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość maksymalna nie jest prawidłową wartością percentylu.</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość maksymalna nie jest prawidłową wartością procentową.</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość najkrótszego paska nie jest prawidłową wartością percentylu.</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość najkrótszego paska nie jest prawidłową wartością procentową.</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość najdłuższego paska nie jest prawidłową wartością percentylu.</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Podana wartość najdłuższego paska nie jest prawidłową wartością procentową.</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan1</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wartość maksymalna musi być większa niż wartość minimalna.</translation>
+    </message>
+    <message>
+        <source>The value for the midpoint must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan2</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wartość punktu środkowego musi być większa niż wartość minimalna.</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the midpoint.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Wartość maksymalna musi być większa niż wartość punktu środkowego.</translation>
+    </message>
+    <message>
+        <source>You cannot use relative references in Conditional Formatting criteria for color scales, data bars, and icon sets.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nie można użyć odwołań względnych w kryteriach Formatowania warunkowego dla skali kolorów, pasków danych i zestawów ikon.</translation>
     </message>
 </context>
 <context>
@@ -3588,10 +3776,11 @@ Czy chcesz, aby program WPS Spreadsheets obliczył ponownie wszystkie formuły p
   If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
   If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
         <comment>TX_DAP_DlgInfo_CannotCreatePivotTableInOneRow</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>To polecenie wymaga co najmniej dwóch wierszy danych źródłowych. Nie można użyć polecenia dla zaznaczenia tylko w jednym wierszu. Spróbuj wykonać jedną z następujących czynności:
 
-  Jeśli używasz filtru zaawansowanego, zaznacz zakres komórek zawierający co najmniej dwa wiersze danych. Następnie kliknij ponownie polecenie Filtr zaawansowany.
-  Jeśli tworzysz raport w formie tabeli przestawnej lub raport w formie wykresu przestawnego, wpisz odwołanie do komórki lub zaznacz zakres obejmujący co najmniej dwa wiersze danych.</translation>
+• Jeśli używasz filtru zaawansowanego, zaznacz zakres komórek zawierający co najmniej dwa wiersze danych. Następnie kliknij ponownie polecenie Filtr zaawansowany.
+• Jeśli tworzysz raport w formie tabeli przestawnej lub raport w formie wykresu przestawnego, wpisz odwołanie do komórki lub zaznacz zakres obejmujący co najmniej dwa wiersze danych.</translation>
     </message>
     <message>
         <source>Cannot hide all the items of &apos;%s&apos; field in the  PivotTable report.</source>
@@ -4091,6 +4280,12 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
         <source>Unable to open XML file. File does not exit or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation>Nie można otworzyć pliku XML. Plik nie istnieje lub ma błąd składniowy XML.</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wszystkie pliki (*.*)|*.*|Wszystkie źródła danych (*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bazy danych programu Access (*.mdb,*.accdb)|*.mdb;*.accdb|Baza danych FoxPro (*.dbc)|*.dbc|Pliki programu dBASE (*.dbf)|*.dbf|Pliki programu Excel (*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|Pliki programu WPS Spreadsheets (*.et)|*.et|Pliki CSV (*.csv)|*.csv|Pliki tekstowe PRN (*.prn)|*.prn|Pliki tekstowe (*.txt)|*.txt|Połączenia baz danych pakietu Office (*.odc)|*.odc|Łącza Microsoft Data (*.udl)|*.udl|Nazwy DSN plików ODBC (*.dsn)|*.dsn|Plik zapytania (*.dqy)|*.dqy||</translation>
     </message>
 </context>
 <context>
@@ -5023,6 +5218,7 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
         <comment>CRITBINOM_DESCRIPTION</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Zwraca najmniejszą wartość, dla której skumulowany rozkład dwumianowy jest większy lub równy podanej wartości progowej.</translation>
     </message>
     <message>
@@ -7994,7 +8190,79 @@ Uwaga: Jeżeli drugi argument kwerendy występuje jako numer lub tekst, należy 
     <message>
         <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
         <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>PISOWNIA.SPRAWDŹ(słowo_tekst; słownik_niestandardowy; ignoruj_duże_małe)</translation>
+    </message>
+    <message>
+        <source>XNPV(rate, values, dates)</source>
+        <comment>XNPV_SYNTAX</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>XNPV(stopa; wartości; daty)</translation>
+    </message>
+    <message>
+        <source>Returns the net present value for a schedule of crash flows.</source>
+        <comment>XNPV_DESCRIPTION</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Zwraca wartość bieżącą netto serii przepływów gotówkowych niekoniecznie okresowych.</translation>
+    </message>
+    <message>
+        <source>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</source>
+        <comment>NETWORKDAYS_INTL_GRAMMER</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>DNI.ROBOCZE.NIESTAND(data_początkowa; data_końcowa; [weekend]; [święta])</translation>
+    </message>
+    <message>
+        <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
+        <comment>NETWORKDAYS_INTL_REMARK</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Zwraca liczbę dni roboczych między dwiema datami z niestandardowymi parametrami dotyczącymi weekendów.</translation>
+    </message>
+    <message>
+        <source>GAMMALN.PRECISE(x)</source>
+        <comment>GAMMALN_PRECISE_SYNTAX</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>ROZKŁAD.LIN.GAMMA.DOKŁ(x)</translation>
+    </message>
+    <message>
+        <source>STDEV.S(number1,number2,...)</source>
+        <comment>STDEVS_GRAMMER</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>ODCH.STANDARD.PRÓBKI(liczba1; [liczba2]; ...)</translation>
+    </message>
+    <message>
+        <source>SPELLING.CHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PISOWNIA.SPRAWDŹ(słowo_tekst; słownik_niestandardowy; ignoruj_duże_małe)</translation>
+    </message>
+    <message>
+        <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
+        <comment>SUMMARYINFO_SYNTAX</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>METRYKA.PLIKU(tytuł; temat; autor; słowa_kluczowe; komentarz)</translation>
+    </message>
+    <message>
+        <source>BINOM.INV(trials,probability_s,alpha)</source>
+        <comment>BINOMINV_SYNTAX</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>ROZKŁ.DWUM.ODWR(próby; prawdopodobieństwo_s; alfa)</translation>
+    </message>
+    <message>
+        <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
+        <comment>BINOMINV_DESCRIPTION</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Zwraca najmniejszą wartość, dla której skumulowany rozkład dwumianowy jest większy lub równy podanej wartości progowej.</translation>
+    </message>
+    <message>
+        <source>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</source>
+        <comment>BINOMDISTRANGE_SYNTAX</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>ROZKŁ.DWUM.ZAKRES(próby; prawdopodobieństwo_s; liczba_s; [liczba_s2])</translation>
+    </message>
+    <message>
+        <source>Returns the probability of a trial result using a binomial distribution.</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Zwraca prawdopodobieństwo wyniku próby przy użyciu rozkładu dwumianowego.</translation>
     </message>
 </context>
 <context>
@@ -8323,7 +8591,7 @@ Do you still want to open this file?
 Note: some files may contain macro viruses and execution of them may cause damages. If you don&apos;t trust this file, please don&apos;t open it.
 (%s)</source>
         <comment>TX_AV_Scan_Failed</comment>
-        <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Proszę skontaktuj się z dostawcą oprogramowania antywirusowego. 
+        <translation>Twój program antywirusowy napotkał błędy podczas skanowania tego pliku (kod błędu: 0x%08X). Skontaktuj się z dostawcą oprogramowania antywirusowego. 
 Czy nadal chcesz otworzyć ten plik?
 
 •Kliknij przycisk Tak, program WPS Spreadsheets będzie kontynował otwieranie tego pliku.
@@ -8452,7 +8720,7 @@ Ta kopia zapasowa zostanie zapisana do(%s)</lengthvariant>
         <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
 This backup will be saved to (%s)</source>
         <comment>TX_Persist_MsgBackupToDef</comment>
-        <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
+        <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Spróbuj zmienić katalog kopii zapasowej.
 Ta kopia zapasowa zostanie zapisana do (%s)</translation>
     </message>
     <message>
@@ -8486,6 +8754,17 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
         <source>Excel2007 XML Template(*.xltm)</source>
         <comment>TX_ssDesc_XLTM</comment>
         <translation>Szablon XML programu Excel 2007 (*.xltm)</translation>
+    </message>
+    <message>
+        <source>Public Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_CustomDoc_</comment>
+        <translation>Format dokumentu z zabezpieczeniami publicznymi (*.xls)</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_Osd</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format dokumentu z zabezpieczeniami WPS Online (*.xls)</translation>
     </message>
 </context>
 <context>
@@ -8948,6 +9227,21 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
         <comment>STR_STYLE_COLLEVEL</comment>
         <translation>Poziom kolumny</translation>
     </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>Przecinek [0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>Waluta [0]</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <comment>STR_PREFIX_STYLE_NAME</comment>
+        <translation>Styl</translation>
+    </message>
 </context>
 <context>
     <name>et_et_uil</name>
@@ -9097,7 +9391,7 @@ Jeśli nie chcesz używać formuły, wstaw pojedynczy znak cudzysłowu przed Two
 Please make sure the selected regions are continuous cells.</source>
         <comment>TX_Chart_Cannot_Create</comment>
         <translation>Program WPS Spreadsheets nie może utworzyć wykresu w wybranych regionach. 
-Proszę upewnij się, że wybrane regiony są ciągłymi komórkami.</translation>
+Upewnij się, że wybrane regiony są ciągłymi komórkami.</translation>
     </message>
     <message>
         <source>The visible region of the workbook is not enough to create a chart.</source>
@@ -10640,7 +10934,7 @@ Czy kontynuować?</translation>
     <message>
         <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
         <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
-        <translation>Program WPS Spreadsheets nie może znaleźć domyślnego słownika niestandardowego. Proszę wybrać jeden z Ustawień i ponownie wykonać polecenie.</translation>
+        <translation>Program WPS Spreadsheets nie może znaleźć domyślnego słownika niestandardowego. Wybierz jeden z Ustawień i ponownie wykonaj polecenie.</translation>
     </message>
     <message>
         <source>This word you used does not exist in both main dictionary and custom dictionary. Do you want to add it to the custom dictionary?</source>
@@ -10742,8 +11036,9 @@ dane</translation>
     <message>
         <source>Validation</source>
         <comment>TXShell_Validation_Caption</comment>
-        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
-        <translation>Poprawność danych</translation>
+        <translatorcomment>Spreadsheets-&gt;Dane - ta spacja musi być, aby nie zlewały się wyrazy w stylu klasycznym - tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprawność
+ danych</translation>
     </message>
     <message>
         <source>Assign Macro</source>
@@ -13262,7 +13557,8 @@ pisowni</translation>
     <message>
         <source>%d duplicates are found, which have been deleted; Only keep %d unique value.</source>
         <comment>TX_RepeatWord_Find_Counts</comment>
-        <translation>Znaleziono %d duplikaty(ów), które zostały usunięte; Zachowano tylko %d wartości unikatowe(ych).</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Znaleziono %d duplikatów, które zostały usunięte. Zachowano tylko %d wartości unikatowych.</translation>
     </message>
     <message>
         <source>No duplicates are found.</source>
@@ -13594,7 +13890,7 @@ Aby zmodyfikować chronioną komórkę lub wykres, najpierw usuń ochronę, uży
     <message>
         <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
         <comment>TX_InCompatible_ShareBook</comment>
-        <translation>Program WPS Spreadsheets nie obsługuje normalnie udostępnionego skoroszytu. Proszę zapisz skoroszyt jako format &quot;*.xls&quot; lub &quot;* .et&quot;, a następnie ustaw jako udostępniony skoroszyt po otwarciu go.</translation>
+        <translation>Program WPS Spreadsheets nie obsługuje normalnie udostępnionego skoroszytu. Zapisz skoroszyt jako format &quot;*.xls&quot; lub &quot;* .et&quot;, a następnie ustaw jako udostępniony skoroszyt po otwarciu go.</translation>
     </message>
     <message>
         <source>The font &apos;</source>
@@ -13757,8 +14053,8 @@ rejestrowanie</translation>
         <source>Record Macro</source>
         <comment>TX_RecordMacro_Start</comment>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - Styl klasyczny-&gt;Narzędzia-&gt;Makra tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
-        <translation>Zarejestruj 
-makro</translation>
+        <translation>Zarejestruj
+ makro</translation>
     </message>
     <message>
         <source>You cannot begin synchronizing changes or display the Error Checking dialog box if you are already in the process of synchronizing changes or checking errors.</source>
@@ -14901,10 +15197,11 @@ makro</translation>
 .Click a single cell, and then paste. 
 .Select a rectangle area of the same size and shape, and then paste.</source>
         <comment>TX_DESC_Paste_DiffSizeRange_ET</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Wklejenie informacji nie jest możliwe, ponieważ obszar kopiowania oraz obszar wklejania nie mają tego samego rozmiaru lub kształtu. Spróbuj wykonać jedną z następujących czynności: 
 
-.Kliknij pojedynczą komórkę, a następnie wklej. 
-.Zaznacz prostokąt o tym samym rozmiarze i kształcie, a następnie wklej.</translation>
+• Kliknij pojedynczą komórkę, a następnie wklej. 
+• Zaznacz prostokąt o tym samym rozmiarze i kształcie, a następnie wklej.</translation>
     </message>
     <message>
         <source>The selection is invalid.
@@ -15021,10 +15318,11 @@ Istnieje kilka możliwych przyczyn:
 •If you do not want to create the circular reference, click OK, and correct the formula.
 •If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
         <comment>TX_FORMULA_RECURSION</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Program WPS Spreadsheets nie może obliczyć formuły. Odwołania do komórek w formule odwołują się do wyniku formuły, tworząc odwołanie cykliczne. Spróbuj wykonać jedną z następujących czynności:
 
-•Jeżeli nie chcesz utworzyć odwołania cyklicznego, kliknij przycisk OK i popraw formułę.
-•Jeśli chcesz użyć odwołania cyklicznego do obliczania prawidłowego wyniku, proszę kliknij pole wyboru Iteracja w ustawieniach menu Narzędzia.</translation>
+• Jeżeli nie chcesz utworzyć odwołania cyklicznego, kliknij przycisk OK i popraw formułę.
+• Jeśli chcesz użyć odwołania cyklicznego do obliczania prawidłowego wyniku, proszę kliknij pole wyboru Iteracja w ustawieniach menu Narzędzia.</translation>
     </message>
     <message>
         <source>Arithmetic Mean</source>
@@ -15183,8 +15481,8 @@ Istnieje kilka możliwych przyczyn:
         <source>Spell Check</source>
         <comment>TX_SpellCheck_Caption</comment>
         <translatorcomment>Styl wstążki- Spreadsheet-&gt;Recenzja - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny - Narzędzia) nie zlewały się wyrazy</translatorcomment>
-        <translation>Sprawdzanie 
-pisowni</translation>
+        <translation>Sprawdzanie
+ pisowni</translation>
     </message>
     <message>
         <source>logical1,logical2,... are 1 to 30 conditions you want to test that can be either TRUE or FALSE and can be logical values, arrays, or references.</source>
@@ -15325,6 +15623,42 @@ pisowni</translation>
         <source>Type_num</source>
         <comment>TX_ParaInfo_370</comment>
         <translation>Typ_nr</translation>
+    </message>
+    <message>
+        <source>is the discount rate to apply to the cash flows.</source>
+        <comment>TX_ParaDesc_549</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>stopa dyskontowa stosowana dla przepływów gotówkowych.</translation>
+    </message>
+    <message>
+        <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
+        <comment>TX_ParaDesc_550</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>seria przepływów gotówkowych odpowiadająca zestawieniu płatności wg dat.</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <comment>TX_ParaInfo_371</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Weekend</translation>
+    </message>
+    <message>
+        <source>custom weekend</source>
+        <comment>TX_ParaDesc_551</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>liczba lub ciąg określający, kiedy występują weekendy</translation>
+    </message>
+    <message>
+        <source>Number_s2</source>
+        <comment>TX_ParaInfo_372</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Liczba_s2</translation>
+    </message>
+    <message>
+        <source>Optional. If provided, returns the probability that the number of successful trials will fall between Number_s and number_s2. Must be greater than or equal to Number_s and less than or equal to Trials.</source>
+        <comment>TX_ParaDesc_552</comment>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
+        <translation>Opcjonalnie. W przypadku podania ta funkcja zwraca prawdopodobieństwo tego, że liczba pomyślnych prób będzie zawierać się między liczbami Liczba_s i Liczba_s2. Musi być ona większa lub równa liczbie Liczba_s i mniejsza lub równa od liczby prób.</translation>
     </message>
 </context>
 <context>
@@ -16038,6 +16372,7 @@ pisowni</translation>
     <message>
         <source>Data Range Properties</source>
         <comment>TX_Undo_DataRangeProperties</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
@@ -16361,11 +16696,6 @@ pisowni</translation>
         <translation>Przecinek</translation>
     </message>
     <message>
-        <source>Comma[0]</source>
-        <comment>et_sComma0</comment>
-        <translation>Przecinek[0]</translation>
-    </message>
-    <message>
         <source>Condition &amp;1</source>
         <comment>et_sCondition1</comment>
         <translation>Warunek &amp;1</translation>
@@ -16404,11 +16734,6 @@ pisowni</translation>
         <source>Currency</source>
         <comment>et_sCurrency</comment>
         <translation>Waluta</translation>
-    </message>
-    <message>
-        <source>Currency[0]</source>
-        <comment>et_sCurrency0</comment>
-        <translation>Waluta[0]</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -17099,7 +17424,8 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>No Borders</source>
         <comment>et_sNoBorders</comment>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>No Font</source>
@@ -17407,12 +17733,12 @@ Spróbuj użyć jednego z wbudowanych formatów liczbowych. W menu Format, klikn
     <message>
         <source>Please select a dictionary first.</source>
         <comment>et_sSelectDictPrompt</comment>
-        <translation>Proszę najpierw wybrać słownik.</translation>
+        <translation>Najpierw wybierz słownik.</translation>
     </message>
     <message>
         <source>Please specify a file name first.</source>
         <comment>et_sSelectFile</comment>
-        <translation>Proszę najpierw określić nazwę pliku.</translation>
+        <translation>Najpierw określ nazwę pliku.</translation>
     </message>
     <message>
         <source>Select an Item of %s:</source>
@@ -17947,6 +18273,26 @@ a pozostawiony zostanie tylko jeden wiersz.
         <source>Cannot connect to the server at this time. Your table cannot be published.</source>
         <comment>et_sListobjectPublishHostNotFound</comment>
         <translation>Nie można połączyć się w tej chwili z serwerem. Nie można opublikować tabeli.</translation>
+    </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>et_sComma0</comment>
+        <translation>Przecinek [0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>et_sCurrency0</comment>
+        <translation>Waluta [0]</translation>
+    </message>
+    <message>
+        <source>Comma[0]</source>
+        <comment>et_sComma0</comment>
+        <translation>Przecinek[0]</translation>
+    </message>
+    <message>
+        <source>Currency[0]</source>
+        <comment>et_sCurrency0</comment>
+        <translation>Waluta[0]</translation>
     </message>
 </context>
 <context>

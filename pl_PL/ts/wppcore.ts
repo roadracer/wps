@@ -157,7 +157,44 @@
     <message>
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
-        <translation>Ta funkcja jest oferowana w WPS Office 2009 Professional.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ta funkcja jest oferowana w pakiecie WPS Office 2009 Professional.</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_HIDE</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wideo</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_LOOP</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wideo</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_REWIND</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wideo</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_FULLSCREEN</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wideo</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_VOL</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wideo</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_PLAYMODE</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wideo</translation>
     </message>
 </context>
 <context>
@@ -1650,11 +1687,12 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Występują błędy, gdy program WPS Presentation otwiera ten plik.
-Wypróbuj jedną z następujących czynności.
-•Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
-•Upewnij się, że nie jest za mało pamięci i miejsca na dysku.	
-•Upewnij się, czy ten plik ma nierozpoznawalny format.
+Spróbuj wykonać jedną z następujących czynności.
+• Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
+• Upewnij się, że nie jest za mało pamięci i miejsca na dysku.	
+• Upewnij się, czy ten plik ma nierozpoznawalny format.
 (%s)</translation>
     </message>
     <message>
@@ -1837,10 +1875,11 @@ Please try one of the following.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Program WPS Presentation nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu. 
-Proszę wypróbuj jedną z następujących czynności:
-•Przełącz się do konta innego użytkownika.
-•Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
+Spróbuj wykonać jedną z następujących czynności:
+• Przełącz się do konta innego użytkownika.
+• Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
 (%s)</translation>
     </message>
     <message>
@@ -2026,12 +2065,14 @@ Proszę wypróbuj jedną z następujących czynności:
     <message>
         <source>Opening the file, please wait...</source>
         <comment>WP_Document_BusyTip_Prompt_Open</comment>
-        <translation>Otwieranie pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa otwieranie pliku...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>WP_Document_BusyTip_Prompt_Save</comment>
-        <translation>Zapisywanie pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa zapisywanie pliku...</translation>
     </message>
     <message>
         <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
@@ -2042,8 +2083,9 @@ Proszę wypróbuj jedną z następujących czynności:
         <source>The picture you inserted is too large. Please compressing it to save the disk space.
 Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
         <comment>WP_PromptCompressPicture</comment>
-        <translation>Obraz, który wstawiłeś jest zbyt duży. Proszę skompresuj go, aby zaoszczędzić miejsce na dysku.
-Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz kompresować go(je)?</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Skompresuj go, aby zaoszczędzić miejsce na dysku.
+Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dokonać kompresji?</translation>
     </message>
     <message>
         <source>The file contains some special properties as following. If you save it as other file types, they may be lost.
@@ -2605,11 +2647,6 @@ Proszę upewnij się, że plik nie jest zablokowany przez innego użytkownika lu
 (%s)</translation>
     </message>
     <message>
-        <source>Click to edit Master subtitle style</source>
-        <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation>Kliknij, aby edytować styl wzorca podtytułu</translation>
-    </message>
-    <message>
         <source>Click to edit Master text styles</source>
         <comment>WP_LEVER_TEXT_OF_FIRST_LEVER</comment>
         <translation>Kliknij, aby edytować style wzorca tekstu</translation>
@@ -3068,6 +3105,120 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
         <source>world map</source>
         <comment>wpp_sLoaclTemplate_world_map</comment>
         <translation>Mapa świata</translation>
+    </message>
+    <message>
+        <source>Click to edit Master subtitle style</source>
+        <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
+        <translation>Kliknij, aby edytować styl wzorca podtytułu</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Title Here</source>
+        <comment>WP_ENTERTITLETIP</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź tutaj swój tytuł</translation>
+    </message>
+    <message>
+        <source>Please Enter Your SubTitle Here</source>
+        <comment>WP_ENTERSUBTITLETIP</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź tutaj swój podtytuł</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Text Here.</source>
+        <comment>WP_ENTERTEXTTIP</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wprowadź tutaj swój tekst.</translation>
+    </message>
+    <message>
+        <source>PresetLayout</source>
+        <comment>WP_PRESETLAYOUT</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ustawienie wstępne układu</translation>
+    </message>
+    <message>
+        <source>The sections in this version of WPS Presentation will be lost</source>
+        <comment>WP_COMPATIBILITYCHECKER_SECTIONS</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sekcje w tej wersji programu WPS Presentation zostaną utracone</translation>
+    </message>
+    <message>
+        <source>Default Section</source>
+        <comment>WP_DEFAULT_SECTION</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sekcja domyślna</translation>
+    </message>
+    <message>
+        <source>(%d slide)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDE</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(%d slajd)</translation>
+    </message>
+    <message>
+        <source>(%d slides)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDES</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>(%d slajdy)</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WP_UNTITLED_SECTION</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sekcja bez tytułu</translation>
+    </message>
+    <message>
+        <source>Slide%1.%2</source>
+        <comment>WP_EXPORTSLIDENAME</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Slajd %1. %2</translation>
+    </message>
+    <message>
+        <source>The table and any text in it cannot be edited when using earlier version of WPS Presentation (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_OBJTABLES</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tabela i dowolny tekst w niej nie mogą być edytowane przy użyciu wcześniejszej wersji programu WPS Presentation (slajd %1)</translation>
+    </message>
+    <message>
+        <source>These embed font(s) in this file has not loaded because they are preview and print only.
+
+</source>
+        <comment>WP_PreviewOnlyEmbedFonts</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Tego osadzania czcionek w tym pliku nie można załadować, ponieważ są one tylko wyświetlane i drukowane.
+
+</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <comment>WP_CONVERTDIAGRAMTITLE</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>To continue saving as a WPS Presentation, you must convert all diagrams either to SmartArt graphics or to shapes.
+
+When converting to SmartArt graphics, any cell references previously applied to the diagrams will be removed. When converting to shapes, any animation previously applied to the diagrams will be removed.</source>
+        <comment>WP_CONVERTDIAGRAMCONTENT</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Aby kontynuować zapisywanie jako prezentacji programu WPS Presentation, musisz przekonwertować wszystkie diagramy na grafiki SmartArt lub kształty.
+
+W przypadku konwertowania na grafikę SmartArt zostaną usunięte wszystkie odwołania do komórek zastosowane wcześniej do diagramów. W przypadku konwertowania na kształty zostaną usunięte wszystkie animacje zastosowane wcześniej do diagramów.</translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt Graphic</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP1</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Konwertuj na grafikę SmartArt</translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP2</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Konwertuj na kształty</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP3</comment>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -5303,6 +5454,7 @@ Aby kontynuować zapisywanie skoroszytu jako pliku bez obsługi makr, kliknij pr
     <message>
         <source>On Click</source>
         <comment>wpp_sHintOnPageClick</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy kliknięciu</translation>
     </message>
     <message>
@@ -6725,10 +6877,11 @@ slajdu</translation>
 •Please copy the contents and paste them into a new file.
 •Give up the changes to this file.</source>
         <comment>WpSAVEFILEFAIL</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Nie można zapisać. Spróbuj wykonać jedną z następujących czynności: 
-•[Cofnij] poprzednie operacje, a następnie [Zapisz] ponownie.
-•Proszę skopiować zawartość i wkleić ją do nowego pliku.
-•Odstąp od zmian w tym pliku.</translation>
+• [Cofnij] poprzednie operacje, a następnie [Zapisz] ponownie.
+• Proszę skopiować zawartość i wkleić ją do nowego pliku.
+• Odstąp od zmian w tym pliku.</translation>
     </message>
     <message>
         <source>Failed to open.</source>
@@ -7449,6 +7602,84 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
         <source>Hyperlink</source>
         <comment>TX_WPP_CF_HYPERLINK</comment>
         <translation>Hiperłącze</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>WpMOVE</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przenieś</translation>
+    </message>
+    <message>
+        <source>Expand Section</source>
+        <comment>WpExpandSection</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Rozwiń sekcję</translation>
+    </message>
+    <message>
+        <source>Collapse Section</source>
+        <comment>WpCollapseSection</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zwiń sekcję</translation>
+    </message>
+    <message>
+        <source>AddSection</source>
+        <comment>WpAddSection</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Dodaj sekcję</translation>
+    </message>
+    <message>
+        <source>RenameSection</source>
+        <comment>WpRenameSection</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zmień nazwę sekcji</translation>
+    </message>
+    <message>
+        <source>DeleteSection</source>
+        <comment>WpDeleteSection</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Usuń sekcję</translation>
+    </message>
+    <message>
+        <source>DeleteAllSections</source>
+        <comment>WpDeleteAllSections</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Usuń wszystkie sekcje</translation>
+    </message>
+    <message>
+        <source>MoveSection</source>
+        <comment>WpMoveSection</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przenieś sekcję</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WpSectionName</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Sekcja bez tytułu</translation>
+    </message>
+    <message>
+        <source>You have selected slides in a collapsed section. These slides wiil be deleted. Do you want to continue?</source>
+        <comment>WpDeleteSectionMsg</comment>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zaznaczono slajdy znajdujące się w zwiniętej sekcji. Te slajdy zostaną usunięte. Czy chcesz kontynuować?</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Security Presentations(*.spptx)|*.spptx</source>
+        <comment>WP_SAVEFILE_SECURITY_SUPPORT</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Prezentacje z zabezpieczeniami programu Microsoft PowerPoint (*.spptx)|*.spptx</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
+        <comment>WP_SAVEFILE_OSD</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format dokumentu z zabezpieczeniami Online WPS (*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>Change Movie</source>
+        <comment>DgDesc_ChangeMovie</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zmień film</translation>
     </message>
 </context>
 </TS>

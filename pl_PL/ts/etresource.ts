@@ -126,26 +126,32 @@
     <name>classics.borders</name>
     <message>
         <source>Draw Border</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Rysuj obramowanie</translation>
     </message>
     <message>
         <source>Draw Border Grid</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Rysuj siatkę obramowań</translation>
     </message>
     <message>
         <source>Erase Border</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wymaż obramowanie</translation>
     </message>
     <message>
         <source>Line Color</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kolor linii</translation>
     </message>
     <message>
         <source>Line Style</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Styl linii</translation>
     </message>
     <message>
         <source>More Border Colors</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Więcej kolorów obramowania</translation>
     </message>
     <message>
@@ -833,17 +839,25 @@
     <name>classics.external_data</name>
     <message>
         <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Edytowanie
 kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Refresh All</source>
@@ -1037,6 +1051,7 @@ wyśrodkuj</translation>
     <name>classics.full_screen</name>
     <message>
         <source>Close Full Screen</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Zamknij pełny ekran</translation>
     </message>
 </context>
@@ -1048,17 +1063,25 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Edytowanie
 kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -1206,6 +1229,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -1475,6 +1499,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message>
@@ -1785,6 +1810,11 @@ kwerendy bazy danych OLE</translation>
         <translation>Wstaw hiperłącze</translation>
     </message>
     <message>
+        <source>IntranetVersion Online Templates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
+    </message>
+    <message>
         <source>Last month</source>
         <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>W ubiegłym miesiącu</translation>
@@ -1827,7 +1857,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Online Templates</source>
@@ -2306,6 +2337,11 @@ kwerendy bazy danych OLE</translation>
         <translation>Przybornik formantów</translation>
     </message>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Drawing</source>
         <translation>Rysowanie</translation>
     </message>
@@ -2330,8 +2366,18 @@ kwerendy bazy danych OLE</translation>
         <translation type="obsolete">Przestrzeń biurowa</translation>
     </message>
     <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
         <source>Picture</source>
         <translation>Obraz</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -2362,6 +2408,11 @@ kwerendy bazy danych OLE</translation>
         <translation>Zatrzymaj rejestrowanie</translation>
     </message>
     <message>
+        <source>Text Speech</source>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
+        <translation>Tekst na mowę</translation>
+    </message>
+    <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
     </message>
@@ -2375,6 +2426,16 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>ActiveX Controls</source>
         <translation>Formanty ActiveX</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dodaj ramkę obrazu</translation>
+    </message>
+    <message>
+        <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Autofiltr</translation>
     </message>
     <message>
         <source>AutoShapes</source>
@@ -2391,6 +2452,11 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>Backup Management</source>
         <translation>Zarządzanie kopią zapasową</translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia kopii zapasowych</translation>
     </message>
     <message>
         <source>Banded Columns</source>
@@ -2449,6 +2515,11 @@ kwerendy bazy danych OLE</translation>
         <translation>Wyczyść</translation>
     </message>
     <message>
+        <source>Clear Contents</source>
+        <translatorcomment>Spreadsheets-&gt;Prawy przycisk myszki - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyczyść zawartość</translation>
+    </message>
+    <message>
         <source>Clear Highlight Repeat Items</source>
         <translation type="obsolete">Wyczyść wyróżnienie powtarzanych elementów</translation>
     </message>
@@ -2458,6 +2529,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Kliknij, aby dopasować Poziom powiększenia</translation>
     </message>
     <message>
@@ -2487,6 +2559,16 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>Comment</source>
         <translation>Komentarz</translation>
+    </message>
+    <message>
+        <source>Comment Popup Menu</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menu podręczne komentarza</translation>
+    </message>
+    <message>
+        <source>Comment Text Popup Menu</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Menu podręczne tekstu komentarza</translation>
     </message>
     <message>
         <source>Compress Pictures</source>
@@ -2559,7 +2641,13 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
+        <translatorcomment>Spreadsheets-&gt;Główne okno - podpowiedź po najechaniu kursorem na ikonę szablonów online, która jest z prawej strony paska otwartych kart programu - Docer to nazwa własna galerii szablonów online</translatorcomment>
         <translation>Wejście Docer</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
     </message>
     <message>
         <source>Down</source>
@@ -2599,6 +2687,11 @@ kwerendy bazy danych OLE</translation>
         <translation>Zakończ</translation>
     </message>
     <message>
+        <source>Export to PDF</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
         <source>Eye Protection Mode</source>
         <translation>Tryb ochrony oczu</translation>
     </message>
@@ -2624,8 +2717,18 @@ kwerendy bazy danych OLE</translation>
         <translation>Plik</translation>
     </message>
     <message>
+        <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
         <source>Fill</source>
         <translation>Wypełnienie</translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kolor wypełnienia</translation>
     </message>
     <message>
         <source>Find</source>
@@ -2689,6 +2792,11 @@ kwerendy bazy danych OLE</translation>
         <translation type="obsolete">Linie siatki</translation>
     </message>
     <message>
+        <source>Hardware Encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message>
         <source>Header Row</source>
         <translation>Wiersz nagłówka</translation>
     </message>
@@ -2696,6 +2804,11 @@ kwerendy bazy danych OLE</translation>
         <source>Help</source>
         <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Pomoc&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Pomoc</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pomoc oraz pytania i odpowiedzi</translation>
     </message>
     <message>
         <source>Hide Current Window when Grabbing Screen</source>
@@ -2730,8 +2843,8 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>Image Previewer</source>
         <translatorcomment>Styl wstązki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów oraz Styl klasyczny - Spreadsheet-&gt;Wstaw-&gt;Obraz-&gt;Z pliku - tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
-        <translation>Podgląd 
-obrazu</translation>
+        <translation>Podgląd
+ obrazu</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2747,12 +2860,22 @@ obrazu</translation>
         <translation>Wstaw komórki</translation>
     </message>
     <message>
+        <source>Insert Comment</source>
+        <translatorcomment>Spreadsheets-&gt;Prawy przycisk myszki - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wstaw komentarz</translation>
+    </message>
+    <message>
         <source>Insert Function</source>
         <translation>Wstaw funkcję</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
         <translation>Wstaw arkusz</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -2785,6 +2908,21 @@ obrazu</translation>
             <lengthvariant>Poczta opinii</lengthvariant>
             <lengthvariant>Poczta Feedback</lengthvariant>
         </translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007/2010 Files</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Pliki programu Microsoft Excel 2007/2010</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Files</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Pliki programu Microsoft Excel 97–2003</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Templates</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szablony programu Microsoft Excel 97–2003</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -3009,6 +3147,11 @@ obrazu</translation>
         <translation>Opcje</translation>
     </message>
     <message>
+        <source>Other Formats</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Inne formaty</translation>
+    </message>
+    <message>
         <source>Page Break Preview</source>
         <translation>Podgląd podziału stron</translation>
     </message>
@@ -3046,6 +3189,11 @@ obrazu</translation>
         <translation>Tabela przestawna</translation>
     </message>
     <message>
+        <source>PivotTable Context Menu</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Menu podręczne tabeli przestawnej</translation>
+    </message>
+    <message>
         <source>Plot Area</source>
         <translation type="obsolete">Obszar kreślenia</translation>
     </message>
@@ -3070,6 +3218,11 @@ bezpośrednio</translation>
     <message>
         <source>Properties</source>
         <translation>Właściwości</translation>
+    </message>
+    <message>
+        <source>Query</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Kwerenda</translation>
     </message>
     <message>
         <source>Quick Chart</source>
@@ -3102,8 +3255,19 @@ bezpośrednio</translation>
     <message>
         <source>Refresh
 Data</source>
+        <translatorcomment>Spreadsheets-&gt;karta Narzędzia tabel przestawnych - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu</translatorcomment>
         <translation>Odśwież
-dane</translation>
+ dane</translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translatorcomment>Spreadsheets-&gt;Dane-&gt;Odśwież wszystko - tak jest ok</translatorcomment>
+        <translation>Odśwież wszystko</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translatorcomment>Spreadsheets-&gt;Dane-&gt;Odśwież wszystko - tak jest ok</translatorcomment>
+        <translation>Odśwież dane</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -3134,6 +3298,11 @@ dane</translation>
         <translation>Zapisz jako</translation>
     </message>
     <message>
+        <source>Save a Copy of the Document</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Zapisz kopię dokumentu</translation>
+    </message>
+    <message>
         <source>Screen Grab</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Zrzut ekranu - tak jest ok</translatorcomment>
         <translation>Wycinek ekranu</translation>
@@ -3141,9 +3310,14 @@ dane</translation>
     <message>
         <source>Screen Grab</source>
         <comment>Menu</comment>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok</translatorcomment>
-        <translation>Zrzut
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Zrzut 
 ekranu</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zabezpieczenia</translation>
     </message>
     <message>
         <source>Select Shape</source>
@@ -3305,6 +3479,21 @@ zadań</translation>
         <translation>Szablon online WPS</translation>
     </message>
     <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pliki programu WPS Spreadsheets 2007/2010</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Pliki programu WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Templates</source>
+        <translatorcomment>Spreadsheets-&gt;Główny przycisk-&gt;Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szablony programu WPS Spreadsheets</translation>
+    </message>
+    <message>
         <source>Window</source>
         <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Nazwa zakładki &quot;Okno&quot; - tak jest ok jak w Excel</translatorcomment>
         <translation>Okno</translation>
@@ -3368,6 +3557,51 @@ zadań</translation>
         <translation>Dodatki</translation>
     </message>
     <message>
+        <source>Align Left</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wyrównaj do lewej</translation>
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wszystkie krawędzie</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
+        <translation>Autosumowanie</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Średnia</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź dolna</translation>
+    </message>
+    <message>
+        <source>Bottom Double Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Podwójna krawędź dolna</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Scal i wyśrodkuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyśrodkuj w poprzek</translation>
+    </message>
+    <message>
         <source>Change Account</source>
         <translation type="obsolete">Zmień konto</translation>
     </message>
@@ -3378,6 +3612,11 @@ zadań</translation>
     <message>
         <source>Close Window</source>
         <translation>Zamknij okno</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zliczanie</translation>
     </message>
     <message>
         <source>Custom task window</source>
@@ -3394,6 +3633,11 @@ zadań</translation>
         <translation>Deweloper</translation>
     </message>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Drawing Tools</source>
         <translation>Narzędzia do rysowania</translation>
     </message>
@@ -3404,6 +3648,13 @@ zadań</translation>
     <message>
         <source>Export to PDF</source>
         <translation>Eksportuj do PDF</translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Malarz 
+formatów</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -3435,8 +3686,46 @@ zadań</translation>
         <translation>Wstaw</translation>
     </message>
     <message>
+        <source>Join and
+Center</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Dołącz i
+wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź lewa</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Maksimum</translation>
+    </message>
+    <message>
         <source>Maximize Window</source>
         <translation>Maksymalizuj okno</translation>
+    </message>
+    <message>
+        <source>Merge Across</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Scal i wyśrodkuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Scal wszystkie</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Scal i wyśrodkuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Scal komórki</translation>
+    </message>
+    <message>
+        <source>Merge and Center</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Scal i 
+wyśrodkuj</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Minimum</translation>
     </message>
     <message>
         <source>Minimize Window</source>
@@ -3447,8 +3736,28 @@ zadań</translation>
         <translation>Mini-strona</translation>
     </message>
     <message>
+        <source>More Borders</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Więcej obramowań</translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Więcej funkcji</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
         <source>News</source>
         <translation>Wiadomości</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -3461,6 +3770,16 @@ zadań</translation>
     <message>
         <source>Options</source>
         <translation>Opcje</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędzie zewnętrzne</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -3478,6 +3797,11 @@ zadań</translation>
     <message>
         <source>Picture Tools - Compatibility Mode</source>
         <translation>Narzędzia obrazów - Tryb zgodności</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Pin the Toolbar</source>
@@ -3521,6 +3845,16 @@ zadań</translation>
         <translation>Recenzja</translation>
     </message>
     <message>
+        <source>Right Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź prawa</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Zabezpieczenia</translation>
+    </message>
+    <message>
         <source>Setting</source>
         <translation>Ustawienie</translation>
     </message>
@@ -3533,17 +3867,29 @@ zadań</translation>
         <translation>Pokaż/Ukryj pasek narzędzi</translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Special Features</source>
         <translatorcomment>Spreadheet- nazwa karty wstążki</translatorcomment>
         <translation>Funkcje specjalne</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
+        <translation>Suma</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -3555,7 +3901,7 @@ zadań</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -3563,12 +3909,52 @@ zadań</translation>
         <translation>Narzędzia tekstu</translation>
     </message>
     <message>
+        <source>Thick Bottom Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Gruba krawędź dolna</translation>
+    </message>
+    <message>
+        <source>Thick Box Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Gruba krawędź pola</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź górna</translation>
+    </message>
+    <message>
+        <source>Top and Bottom Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź górna i dolna</translation>
+    </message>
+    <message>
+        <source>Top and Double Bottom Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź górna i podwójna dolna</translation>
+    </message>
+    <message>
+        <source>Top and Thick Bottom Border</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Obramowania - tak jest ok jak w Excel</translatorcomment>
+        <translation>Krawędź górna i gruba dolna</translation>
+    </message>
+    <message>
         <source>Touch Mode</source>
         <translation>Tryb dotyku</translation>
     </message>
     <message>
+        <source>Unmerge Cells</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Scal i wyśrodkuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Rozdziel komórki</translation>
+    </message>
+    <message>
         <source>User Sign in</source>
         <translation type="obsolete">Logowanie użytkownika</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
         <source>View</source>
@@ -3593,6 +3979,17 @@ zadań</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plugin pakietu WPS</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne - tak jest ok - ta spacja musi być, aby wyrazy nie zlewały się ze sobą w Stylu klasycznym</translatorcomment>
+        <translation>Zawijaj
+ tekst</translation>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
@@ -3775,11 +4172,13 @@ zadań</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -3799,7 +4198,7 @@ zadań</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -3832,6 +4231,11 @@ zadań</translation>
     <message>
         <source>WordArt</source>
         <translation>WordArt</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Plugin pakietu WPS</translation>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
@@ -4219,6 +4623,7 @@ wiersz/kolumnę</translation>
     </message>
     <message>
         <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message>
@@ -4243,6 +4648,7 @@ wiersz/kolumnę</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
@@ -4260,12 +4666,19 @@ wiersz/kolumnę</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Edytowanie
 kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Form</source>
@@ -4290,8 +4703,9 @@ kwerendy bazy danych OLE</translation>
     <message>
         <source>Import 
 Data</source>
-        <translation>Importuj 
-dane</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Importuj
+ dane</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -4303,8 +4717,8 @@ dane</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
-        <translation>Tabela
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Dane oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Dane - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Tabela 
 przestawna</translation>
     </message>
     <message>
@@ -4376,8 +4790,9 @@ wszystko</translation>
     <message>
         <source>Text to
 Columns</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Dane oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Dane - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Tekst jako
-kolumny</translation>
+ kolumny</translation>
     </message>
     <message>
         <source>Ungroup</source>
@@ -4496,9 +4911,9 @@ makro</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Deweloper oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Użyj odwołań
-względnych</translation>
+ względnych</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -4506,9 +4921,9 @@ względnych</translation>
     </message>
     <message>
         <source>Security</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Deweloper oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Deweloper - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Bezpieczeństwo
-makr</translation>
+ makr</translation>
     </message>
     <message>
         <source>Spin Button</source>
@@ -4524,9 +4939,9 @@ makr</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel</translatorcomment>
-        <translation>Wyświetl 
-kod</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Deweloper - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Wyświetl
+ kod</translation>
     </message>
     <message>
         <source>Visual Basic
@@ -4873,8 +5288,8 @@ Włącz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Kształty-&gt;Narzędzia kształtów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -5360,6 +5775,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
@@ -5390,6 +5806,11 @@ Włącz/Wyłącz</translation>
         <translation>Kopia zapasowa i odzyskiwanie</translation>
     </message>
     <message>
+        <source>Backup and Recovery</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kopie zapasowe i odzyskiwanie</translation>
+    </message>
+    <message>
         <source>Change Version</source>
         <translation type="obsolete">Zmień wersję</translation>
     </message>
@@ -5404,6 +5825,16 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Docer Entrance</source>
         <translation>Wejście Docer</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -5751,8 +6182,14 @@ funkcji</translation>
     <message>
         <source>Name
 Manager</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Formuły oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Formuły - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Menedżer
-nazw</translation>
+ nazw</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nowa nazwa</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -5761,8 +6198,9 @@ nazw</translation>
     <message>
         <source>Recalculate
 Workbook</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Formuły oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Formuły - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Oblicz ponownie
-skoroszyt</translation>
+ skoroszyt</translation>
     </message>
     <message>
         <source>Recently 
@@ -5785,6 +6223,11 @@ używane</translation>
 </context>
 <context>
     <name>ongmani.ct_home</name>
+    <message>
+        <source>A Date Occurring</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek - tak jest ok jak w Excel</translatorcomment>
+        <translation>Data występująca</translation>
+    </message>
     <message>
         <source>Above Average</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
@@ -5857,6 +6300,7 @@ używane</translation>
     </message>
     <message>
         <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message>
@@ -5907,6 +6351,16 @@ używane</translation>
         <translation>Ostatnie 10%</translation>
     </message>
     <message>
+        <source>Bottom 10 Items</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły pierwszych/ostatnich - tak jest ok jak w Excel</translatorcomment>
+        <translation>10 ostatnich elementów</translation>
+    </message>
+    <message>
+        <source>Bottom 10%</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły pierwszych/ostatnich - tak jest ok jak w Excel</translatorcomment>
+        <translation>Ostatnie 10%</translation>
+    </message>
+    <message>
         <source>Bottom Border</source>
         <translation>Krawędź dolna</translation>
     </message>
@@ -5932,6 +6386,7 @@ używane</translation>
     </message>
     <message>
         <source>Center Across</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
@@ -5939,8 +6394,33 @@ używane</translation>
         <translation>Wyczyść</translation>
     </message>
     <message>
+        <source>Clear Rules</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyczyść reguły</translation>
+    </message>
+    <message>
+        <source>Clear Rules from Entire Sheet</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyczyść reguły z całego arkusza</translation>
+    </message>
+    <message>
+        <source>Clear Rules from Selected Cells</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyczyść reguły z zaznaczonych komórek</translation>
+    </message>
+    <message>
+        <source>Clear Rules from This Table</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Wyczyść reguły z tej tabeli</translation>
+    </message>
+    <message>
         <source>Clipboard</source>
         <translation>Schowek</translation>
+    </message>
+    <message>
+        <source>Color Scales</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Skale kolorów</translation>
     </message>
     <message>
         <source>Column Width</source>
@@ -6115,8 +6595,9 @@ używane</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj - tak jest ok jak w Excel</translatorcomment>
-        <translation>Formatowanie warunkowe</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt; - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Formatowanie
+ warunkowe</translation>
     </message>
     <message>
         <source>ConditionalClear</source>
@@ -6169,6 +6650,11 @@ używane</translation>
     <message>
         <source>Cut</source>
         <translation>Wytnij</translation>
+    </message>
+    <message>
+        <source>Data Bars</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Paski danych</translation>
     </message>
     <message>
         <source>Date</source>
@@ -6226,6 +6712,11 @@ używane</translation>
         <translation>Rysuj siatkę obramowań</translation>
     </message>
     <message>
+        <source>Duplicate Value</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek - tak jest ok jak w Excel</translatorcomment>
+        <translation>Duplikujące się wartości</translation>
+    </message>
+    <message>
         <source>Editing</source>
         <translation>Edycja</translation>
     </message>
@@ -6240,6 +6731,11 @@ używane</translation>
         <translation>Kończy się na</translation>
     </message>
     <message>
+        <source>Equal To</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek - tak jest ok jak w Excel</translatorcomment>
+        <translation>Równe</translation>
+    </message>
+    <message>
         <source>Equal to</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Równe</translation>
@@ -6251,7 +6747,7 @@ używane</translation>
     <message>
         <source>Error Value </source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość specjalna - tak jest ok jak w Excel</translatorcomment>
-        <translation>Wartość błędu</translation>
+        <translation>Wartość błędu </translation>
     </message>
     <message>
         <source>Fill</source>
@@ -6278,9 +6774,9 @@ zamień</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translatorcomment>Styl wstążki-&gt;Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Znajdź i
-zamień</translation>
+ zamień</translation>
     </message>
     <message>
         <source>Font</source>
@@ -6307,9 +6803,9 @@ formatów</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Formatuj jako
-tabelę</translation>
+ tabelę</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -6327,6 +6823,11 @@ tabelę</translation>
     <message>
         <source>Go to</source>
         <translation>Przejdź do</translation>
+    </message>
+    <message>
+        <source>Greater Than</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek - tak jest ok jak w Excel</translatorcomment>
+        <translation>Większe niż</translation>
     </message>
     <message>
         <source>Greater than</source>
@@ -6357,6 +6858,16 @@ tabelę</translation>
         <source>Highlight</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj - tak jest ok jak w Excel</translatorcomment>
         <translation>Wyróżnienie</translation>
+    </message>
+    <message>
+        <source>Highlight Cells Rules</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Reguły wyróżniania komórek</translation>
+    </message>
+    <message>
+        <source>IconSets</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zestawy ikon</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
@@ -6457,6 +6968,11 @@ wyśrodkuj</translation>
         <translation>Krawędź lewa</translation>
     </message>
     <message>
+        <source>Less Than</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek - tak jest ok jak w Excel</translatorcomment>
+        <translation>Mniejsze niż</translation>
+    </message>
+    <message>
         <source>Less than</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatuj-&gt;Wyróżnienie-&gt;Wartość - tak jest ok jak w Excel</translatorcomment>
         <translation>Mniejsze niż</translation>
@@ -6474,12 +6990,18 @@ wyśrodkuj</translation>
         <translation>Zablokuj komórkę</translation>
     </message>
     <message>
+        <source>Manage Rules</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Zarządzaj regułami</translation>
+    </message>
+    <message>
         <source>Max</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Autosumowanie - tak jest ok jak w Excel</translatorcomment>
         <translation>Maksimum</translation>
     </message>
     <message>
         <source>Merge Across</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Scal wszystkie</translation>
     </message>
     <message>
@@ -6521,12 +7043,22 @@ Center</source>
         <translation>Więcej funkcji</translation>
     </message>
     <message>
+        <source>More Rules</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;(Reguły wyróżniania komórek, Reguły pierwszych/ostatnich, Paski danych, Skale kolorów, Zestawy ikon) - tak jest ok jak w Excel</translatorcomment>
+        <translation>Więcej reguł</translation>
+    </message>
+    <message>
         <source>More Symbols</source>
         <translation>Więcej symboli</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>Przenieś lub kopiuj arkusz</translation>
+    </message>
+    <message>
+        <source>New Rule</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Nowa reguła</translation>
     </message>
     <message>
         <source>New Table Style</source>
@@ -6544,7 +7076,8 @@ Center</source>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Number</source>
@@ -6558,6 +7091,11 @@ Center</source>
     <message>
         <source>Paste</source>
         <translation>Wklej</translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Narzędzia główne-&gt;Wklej - tak jest ok</translatorcomment>
+        <translation>Wklej jako tekst sformatowany</translation>
     </message>
     <message>
         <source>Paste as Picture</source>
@@ -6629,7 +7167,9 @@ kolumny</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation>Okienko zaznaczenia</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
+zaznaczenia</translation>
     </message>
     <message>
         <source>Series</source>
@@ -6692,6 +7232,11 @@ kolumny</translation>
         <translation type="obsolete">Kolor tekstu</translation>
     </message>
     <message>
+        <source>Text that Contains</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Formatowanie warunkowe-&gt;Reguły wyróżniania komórek - tak jest ok jak w Excel</translatorcomment>
+        <translation>Tekst zawierający</translation>
+    </message>
+    <message>
         <source>Thick Bottom Border</source>
         <translation>Gruba krawędź dolna</translation>
     </message>
@@ -6730,6 +7275,16 @@ kolumny</translation>
         <translation>Pierwsze 10%</translation>
     </message>
     <message>
+        <source>Top 10 Items</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły pierwszych/ostatnich - tak jest ok jak w Excel</translatorcomment>
+        <translation>10 pierwszych elementów</translation>
+    </message>
+    <message>
+        <source>Top 10%</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe-&gt;Reguły pierwszych/ostatnich - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pierwsze 10%</translation>
+    </message>
+    <message>
         <source>Top Border</source>
         <translation>Krawędź górna</translation>
     </message>
@@ -6744,6 +7299,11 @@ kolumny</translation>
     <message>
         <source>Top and Thick Bottom Border</source>
         <translation>Krawędź górna i gruba dolna</translation>
+    </message>
+    <message>
+        <source>Top/Bottom Rules</source>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Narzędzia główne-&gt;Formatowanie warunkowe - tak jest ok jak w Excel</translatorcomment>
+        <translation>Reguły pierwszych/ostatnich</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -6795,6 +7355,7 @@ kolumny</translation>
     </message>
     <message>
         <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
@@ -6914,6 +7475,11 @@ Footer</source>
 i stopka</translation>
     </message>
     <message>
+        <source>Header/Footer</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Wstaw - tak jest ok</translatorcomment>
+        <translation>Nagłówek/Stopka</translation>
+    </message>
+    <message>
         <source>Horizontal</source>
         <translation>Poziomo</translation>
     </message>
@@ -6979,8 +7545,8 @@ i stopka</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok jak w Excel</translatorcomment>
-        <translation>Tabela
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Wstaw oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Wstaw - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Tabela 
 przestawna</translation>
     </message>
     <message>
@@ -7031,8 +7597,8 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok jak w Excel</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -7205,7 +7771,8 @@ wydruku</translation>
     <message>
         <source>Print
 Titles</source>
-        <translation>Tytuły
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Układ strony oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Układ strony - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Tytuły 
 wydruku</translation>
     </message>
     <message>
@@ -7226,8 +7793,8 @@ wydruku</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Układ strony - tak jest ok jak w Excel</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Układ strony oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Układ strony - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -7373,13 +7940,23 @@ obraz</translation>
     <message>
         <source>Compress
 Pictures</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Kompresuj
-obrazy</translation>
+ obrazy</translation>
     </message>
     <message>
         <source>Crop</source>
         <translation>Przytnij</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów-&gt;Przytnij - tak jest ok</translatorcomment>
+        <translation>Przytnij do skali</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów-&gt;Przytnij - tak jest ok</translatorcomment>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -7477,9 +8054,9 @@ obrazy</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Wstaw
-obraz</translation>
+ obraz</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -7503,6 +8080,11 @@ obraz</translation>
     <message>
         <source>Line Sytle Palette</source>
         <translation>Paleta stylu linii</translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Zablokuj współczynnik proporcji</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -7620,7 +8202,13 @@ obraz</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Wstaw-&gt;Obrazy-&gt;karta Narzędzia obrazów - tak jest ok</translatorcomment>
+        <translation>Resetuj rozmiar</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -7640,8 +8228,8 @@ obraz</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Okienko
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Okienko 
 zaznaczenia</translation>
     </message>
     <message>
@@ -7658,8 +8246,8 @@ zaznaczenia</translation>
     </message>
     <message>
         <source>Set Transparent Color</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok</translatorcomment>
-        <translation>Ustaw kolor
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Obrazy-&gt;Narzędzia obrazów - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Ustaw kolor 
 przezroczysty</translation>
     </message>
     <message>
@@ -8016,6 +8604,7 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -8162,16 +8751,16 @@ Włącz/Wyłącz</translation>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Nie powtarzaj 
 etykiet elementów</translation>
     </message>
     <message>
         <source>Field
 Settings</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Ustawienia
-pola</translation>
+ pola</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -8188,7 +8777,7 @@ szczegóły</translation>
     <message>
         <source>Hide 
 Field List</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Ukryj 
 listę pól</translation>
     </message>
@@ -8200,8 +8789,8 @@ listę pól</translation>
     <message>
         <source>Modify
 PivotTable</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
-        <translation>Modyfikuj
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Modyfikuj 
 tabelę przestawną</translation>
     </message>
     <message>
@@ -8242,7 +8831,7 @@ tabelę przestawną</translation>
     <message>
         <source>PivotTable
 Options</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Opcje tabeli
  przestawnej</translation>
     </message>
@@ -8255,7 +8844,7 @@ dane</translation>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Powtórz wszystkie 
 etykiety elementów</translation>
     </message>
@@ -8269,7 +8858,7 @@ szczegóły</translation>
     <message>
         <source>Show 
 Field List</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Pokaż 
 listę pól</translation>
     </message>
@@ -8390,6 +8979,16 @@ strona</translation>
         <translation>Zmiany</translation>
     </message>
     <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
+    </message>
+    <message>
         <source>Chinese Translation</source>
         <translation>Chińskie tłumaczenie</translation>
     </message>
@@ -8404,9 +9003,20 @@ Comment</source>
 komentarz</translation>
     </message>
     <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zabezpieczenia dokumentu</translation>
+    </message>
+    <message>
         <source>Edit
 Comment</source>
-        <translation>Edytuj
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Edytuj 
 komentarz</translation>
     </message>
     <message>
@@ -8415,9 +9025,9 @@ komentarz</translation>
     </message>
     <message>
         <source>Lock Cell</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Recenzja - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Recenzja oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Zablokuj
-komórkę</translation>
+ komórkę</translation>
     </message>
     <message>
         <source>New 
@@ -8426,13 +9036,24 @@ Comment</source>
 komentarz</translation>
     </message>
     <message>
+        <source>Next</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Następny</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Poprzedni</translation>
+    </message>
+    <message>
         <source>Proofing</source>
         <translation>Sprawdzanie</translation>
     </message>
     <message>
         <source>Protect
 Workbook</source>
-        <translation>Chroń
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Recenzja oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Chroń 
 skoroszyt</translation>
     </message>
     <message>
@@ -8450,10 +9071,31 @@ arkusz</translation>
         <translation>Odrzuć zmiany</translation>
     </message>
     <message>
+        <source>Reset All Comments</source>
+        <translatorcomment>Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Resetuj wszystkie komentarze</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translatorcomment>Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Resetuj komentarz</translation>
+    </message>
+    <message>
         <source>Share
 Workbook</source>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Recenzja oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Recenzja - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Udostępnij
-skoroszyt</translation>
+ skoroszyt</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translatorcomment>Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pokaż wszystkie komentarze</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translatorcomment>Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pokaż/Ukryj komentarz</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -8462,7 +9104,8 @@ skoroszyt</translation>
     <message>
         <source>Track
 Changes</source>
-        <translation>Śledź
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Śledź 
 zmiany</translation>
     </message>
     <message>
@@ -8488,6 +9131,44 @@ arkusza</translation>
 Workbook</source>
         <translation>Nie chroń 
 skoroszytu</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zabezpieczenia dokumentu</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Oczekujące na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zastosuj moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzanie szablonem praw użytkownika</translation>
     </message>
 </context>
 <context>
@@ -8852,17 +9533,25 @@ Włącz/Wyłącz</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Edytowanie
 kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -9032,6 +9721,11 @@ kwerendy bazy danych OLE</translation>
         <translation>Rozmiar czcionki</translation>
     </message>
     <message>
+        <source>Format Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj obiekt</translation>
+    </message>
+    <message>
         <source>Formats</source>
         <translatorcomment>tak jest ok</translatorcomment>
         <translation>Formatowanie</translation>
@@ -9119,6 +9813,10 @@ kwerendy bazy danych OLE</translation>
         <translation>Seria</translation>
     </message>
     <message>
+        <source>Settings</source>
+        <translation>Ustawienia</translation>
+    </message>
+    <message>
         <source>Shadow</source>
         <translation>Cień</translation>
     </message>
@@ -9138,8 +9836,8 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Text Box</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok</translatorcomment>
-        <translation>Pole
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Pole tekstowe-&gt;Narzędzia tekstu - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Pole 
 tekstowe</translation>
     </message>
     <message>
@@ -9169,6 +9867,7 @@ tekstowe</translation>
     </message>
     <message>
         <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
@@ -9185,9 +9884,9 @@ tekstowe</translation>
     <message>
         <source>Arrange
 All</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Rozmieść
-wszystko</translation>
+ wszystko</translation>
     </message>
     <message>
         <source>Cascade</source>
@@ -9203,6 +9902,10 @@ inne okna</translation>
     <message>
         <source>Close Other Windows</source>
         <translation>Zamknij inne okna</translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation>Porównaj</translation>
     </message>
     <message>
         <source>Developer</source>
@@ -9247,8 +9950,8 @@ ekran</translation>
     <message>
         <source>New
 Window</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
-        <translation>Nowe
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Nowe 
 okno</translation>
     </message>
     <message>
@@ -9262,7 +9965,7 @@ okno</translation>
     <message>
         <source>Page Break 
 Preview</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Podgląd 
 podziału stron</translation>
     </message>
@@ -9294,6 +9997,11 @@ do czytania</translation>
         <translation>Usuń podział</translation>
     </message>
     <message>
+        <source>Reset Window Position</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Resetuj położenie okna</translation>
+    </message>
+    <message>
         <source>Security</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Bezpieczeństwo makr</translation>
@@ -9301,6 +10009,11 @@ do czytania</translation>
     <message>
         <source>Switch Windows</source>
         <translation>Przełącz okna</translation>
+    </message>
+    <message>
+        <source>Synchronous Scrolling</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Widok - tak jest ok jak w Excel</translatorcomment>
+        <translation>Przewijanie synchroniczne</translation>
     </message>
     <message>
         <source>Task Window</source>
@@ -9318,6 +10031,13 @@ do czytania</translation>
         <source>Vertical</source>
         <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok-&gt;Rozmieść wszystko - tak jest ok jak w Excel</translatorcomment>
         <translation>Pionowo</translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Widok oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Widok - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translation>Wyświet 
+obok siebie</translation>
     </message>
     <message>
         <source>View Gridlines</source>
@@ -10119,6 +10839,12 @@ WordArt</translation>
         <translation>Wejście Docer</translation>
     </message>
     <message>
+        <source>Document Slimming</source>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Odchudzanie
+ dokumentu</translation>
+    </message>
+    <message>
         <source>Donate</source>
         <translation>Darowizna</translation>
     </message>
@@ -10132,9 +10858,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Funkcje specjalne oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
         <translation>Eksportuj
-do PDF</translation>
+ do PDF</translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -10150,6 +10876,19 @@ do PDF</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>personal</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Roaming pliku</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
@@ -10169,6 +10908,11 @@ do PDF</translation>
         <translation type="obsolete">Wyróżnij duplikaty</translation>
     </message>
     <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
+    </message>
+    <message>
         <source>KOS User Data Tools</source>
         <translation type="obsolete">Narzędzia danych użytkownika</translation>
     </message>
@@ -10185,12 +10929,19 @@ do PDF</translation>
         <translation>Więcej kolorów</translation>
     </message>
     <message>
+        <source>My WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
+    </message>
+    <message>
         <source>Online Documents</source>
         <translation>Dokumenty online</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -10200,10 +10951,15 @@ do PDF</translation>
         </translation>
     </message>
     <message>
+        <source>RB_Document Slimming</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Odchudzanie dokumentu</translation>
+    </message>
+    <message>
         <source>Reading Layout</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Widok - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Układ do
-czytania</translation>
+ czytania</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -10215,7 +10971,9 @@ czytania</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
@@ -10246,17 +11004,42 @@ czytania</translation>
         <source>View Historical Backup</source>
         <translation>Wyświetl historię tworzenia kopii zapasowej</translation>
     </message>
+    <message>
+        <source>XiuTang</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>XiuTang</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>XiuTang H5</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
     <message>
+        <source>Document Fix</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Napraw dokument</translation>
+    </message>
+    <message>
         <source>Full-Text Speech</source>
-        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa pełnotekstowa</translatorcomment>
         <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
         <source>Goal Seek</source>
         <translation>Szukanie wyniku</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>PDF do Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Konwertuj obraz na tekst</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
@@ -10277,13 +11060,13 @@ czytania</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
-        <translation>Analiza
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Analiza 
 warunkowa</translation>
     </message>
 </context>
@@ -10458,6 +11241,11 @@ warunkowa</translation>
         <translation>Wyrównaj do środka w pionie</translation>
     </message>
     <message>
+        <source>Align Middle and Center</source>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Align Middle Center&quot; - tak jest ok</translatorcomment>
+        <translation>Wyrównaj do środka w pionie</translation>
+    </message>
+    <message>
         <source>Align RCenter</source>
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Wyrównaj do środka w poziomie</translation>
@@ -10508,6 +11296,11 @@ warunkowa</translation>
         <translation>Zezwalaj użykownikowi na edycję zakresów</translation>
     </message>
     <message>
+        <source>Apply Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zastosuj uprawnienia</translation>
+    </message>
+    <message>
         <source>Arrow Style</source>
         <translation>Styl strzałki</translation>
     </message>
@@ -10556,11 +11349,17 @@ warunkowa</translation>
         <translation>Styl strzałki 9</translation>
     </message>
     <message>
+        <source>Ascending</source>
+        <translatorcomment>Spreadsheets-&gt;Prawy przysick myszki-&gt;Sortuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Rosnąco</translation>
+    </message>
+    <message>
         <source>Assign Macro</source>
         <translation>Przypisz makro</translation>
     </message>
     <message>
         <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message>
@@ -10574,6 +11373,11 @@ warunkowa</translation>
     <message>
         <source>AutoPoint</source>
         <translation>Autopunkt</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Autosumowanie</translation>
     </message>
     <message>
         <source>Average</source>
@@ -10632,6 +11436,11 @@ warunkowa</translation>
         <translation>Krawędź dolna</translation>
     </message>
     <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
+    <message>
         <source>COM 
 Add-Ins</source>
         <translation>Dodatki 
@@ -10663,6 +11472,7 @@ COM</translation>
     </message>
     <message>
         <source>Center Across</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
@@ -10728,6 +11538,16 @@ COM</translation>
     <message>
         <source>Chart Type</source>
         <translation>Typ wykresu</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Sprawdź uprawnienia użytkowników</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -10815,6 +11635,7 @@ COM</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
+        <translatorcomment>Styl klasyczny - Format - tak jest ok</translatorcomment>
         <translation>Formatowanie warunkowe</translation>
     </message>
     <message>
@@ -10875,11 +11696,13 @@ COM</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
-        <translation>Przytnij według skali</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij do skali</translation>
     </message>
     <message>
         <source>Crop By Shape</source>
-        <translation>Przytnij według kształtu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przytnij do kształtu</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -10892,6 +11715,11 @@ COM</translation>
     <message>
         <source>Curved Segment</source>
         <translation>Segment zakrzywiony</translation>
+    </message>
+    <message>
+        <source>Custom Sort</source>
+        <translatorcomment>Spreadsheets-&gt;Prawy przysick myszki-&gt;Sortuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Sortowanie niestandardowe</translation>
     </message>
     <message>
         <source>Cut</source>
@@ -10926,6 +11754,11 @@ COM</translation>
         <translation>Etykiety danych</translation>
     </message>
     <message>
+        <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Właściwości zakresu danych</translation>
+    </message>
+    <message>
         <source>Data Table</source>
         <translation>Tabela danych</translation>
     </message>
@@ -10958,6 +11791,11 @@ COM</translation>
         <translation>Usuń okno dialogowe</translation>
     </message>
     <message>
+        <source>Delete Object</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Usuń obiekt</translation>
+    </message>
+    <message>
         <source>Delete Page Break</source>
         <translation>Usuń podział strony</translation>
     </message>
@@ -10976,6 +11814,11 @@ COM</translation>
     <message>
         <source>Delete Sheet</source>
         <translation>Usuń arkusz</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translatorcomment>Spreadsheets-&gt;Prawy przysick myszki-&gt;Sortuj - tak jest ok jak w Excel</translatorcomment>
+        <translation>Malejąco</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -11002,6 +11845,13 @@ COM</translation>
         <translation type="obsolete">Duplikaty</translation>
     </message>
     <message>
+        <source>Edit
+OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytowanie
+kwerendy bazy danych OLE</translation>
+    </message>
+    <message>
         <source>Edit Comment</source>
         <translation>Edytuj komentarz</translation>
     </message>
@@ -11018,8 +11868,18 @@ COM</translation>
         <translation>Edytuj punkty</translation>
     </message>
     <message>
+        <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
         <source>Edit Text</source>
         <translation>Edytuj tekst</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Edit in Formula Bar</source>
@@ -11233,6 +12093,11 @@ COM</translation>
         <translation>Formatuj zapis dziesiętny</translation>
     </message>
     <message>
+        <source>Format Comment...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Formatuj komentarz...</translation>
+    </message>
+    <message>
         <source>Format Currency</source>
         <translation>Formatuj walutę</translation>
     </message>
@@ -11438,8 +12303,18 @@ COM</translation>
         <translation>Ukryj</translation>
     </message>
     <message>
+        <source>Hide Comment</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ukryj komentarz</translation>
+    </message>
+    <message>
         <source>Hide Detail</source>
         <translation>Ukryj szczegóły</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ukryj listę pól</translation>
     </message>
     <message>
         <source>Highlight Changes</source>
@@ -11531,6 +12406,11 @@ COM</translation>
         <translation>Koniec wewnętrzny</translation>
     </message>
     <message>
+        <source>IntranetVersion Online Templates</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Szablony online wersja intranet</translation>
+    </message>
+    <message>
         <source>Italic</source>
         <translation>Kursywa</translation>
     </message>
@@ -11551,6 +12431,18 @@ wyśrodkuj</translation>
     <message>
         <source>Left</source>
         <translatorcomment>Styl klasyczny - Spreadsheet-&gt;Edycja-&gt;Wypełnienie - tak jest ok jak w Excel</translatorcomment>
+        <translation>W lewo</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>ChartLegend</comment>
+        <translatorcomment>wyjaśnione z producentem - tak jest ok</translatorcomment>
+        <translation>Z lewej</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>FillLeft</comment>
+        <translatorcomment>wyjaśnione z producentem - tak jest ok</translatorcomment>
         <translation>W lewo</translation>
     </message>
     <message>
@@ -11676,6 +12568,11 @@ wyśrodkuj</translation>
         <translation>Więcej kolorów czcionki</translation>
     </message>
     <message>
+        <source>More Functions</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Więcej funkcji</translation>
+    </message>
+    <message>
         <source>More Historical Records</source>
         <translation>Więcej historii tworzenia kopii zapasowej</translation>
     </message>
@@ -11692,12 +12589,32 @@ wyśrodkuj</translation>
         <translation>Więcej opcji...</translation>
     </message>
     <message>
+        <source>More Symbols</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Więcej symboli</translation>
+    </message>
+    <message>
         <source>Move Chart</source>
         <translation>Przenieś wykres</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
         <translation>Przenieś lub kopiuj arkusz</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Oczekujące na zatwierdzenie</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Zastosuj moje uprawnienia</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11709,7 +12626,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>No Legend Keys</source>
@@ -11758,7 +12676,9 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Options</source>
@@ -11806,6 +12726,11 @@ wyśrodkuj</translation>
         <translation>Wklej jako tekst niesformatowany</translation>
     </message>
     <message>
+        <source>PasteAsValues</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Wklej jako wartości</translation>
+    </message>
+    <message>
         <source>Pattern</source>
         <translation type="obsolete">Deseń</translation>
     </message>
@@ -11843,6 +12768,11 @@ wyśrodkuj</translation>
     <message>
         <source>PivotTable</source>
         <translation>Tabela przestawna</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Opcje tabeli przestawnej</translation>
     </message>
     <message>
         <source>Primary Horizontal</source>
@@ -11930,6 +12860,10 @@ wyśrodkuj</translation>
     <message>
         <source>Record Macro</source>
         <translation>Zarejestruj makro</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Odśwież</translation>
     </message>
     <message>
         <source>Reject Changes</source>
@@ -12026,7 +12960,9 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -12180,6 +13116,11 @@ wyśrodkuj</translation>
         <translation>Pokaż szczegóły</translation>
     </message>
     <message>
+        <source>Show Field List</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaż listę pól</translation>
+    </message>
+    <message>
         <source>Show Grid</source>
         <translation>Pokaż siatkę</translation>
     </message>
@@ -12188,12 +13129,29 @@ wyśrodkuj</translation>
         <translation>Pokaż więcej okien</translation>
     </message>
     <message>
+        <source>Show/Hide Comment</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pokaż/Ukryj komentarz</translation>
+    </message>
+    <message>
+        <source>Show/Hide Crop Panel</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Pokaż/Ukryj panel przycięcia</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -12286,6 +13244,11 @@ wyśrodkuj</translation>
     <message>
         <source>Sum</source>
         <translation>Suma</translation>
+    </message>
+    <message>
+        <source>Summarize Values By</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Podsumuj wartości według</translation>
     </message>
     <message>
         <source>Support WPS</source>
@@ -12460,9 +13423,19 @@ wyśrodkuj</translation>
         <translation>Opinie użytkowników</translation>
     </message>
     <message>
+        <source>UserRight Template Management</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zarządzanie szablonem praw użytkownika</translation>
+    </message>
+    <message>
         <source>Validation</source>
         <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Poprawność danych</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ustawienia pola wartości</translation>
     </message>
     <message>
         <source>Values</source>
@@ -12926,6 +13899,7 @@ wiersz/kolumnę</translation>
     </message>
     <message>
         <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message>
@@ -12946,6 +13920,7 @@ wiersz/kolumnę</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
@@ -12963,12 +13938,19 @@ wiersz/kolumnę</translation>
     <message>
         <source>Edit
 OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Edytowanie
 kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Form</source>
@@ -13000,7 +13982,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok</translatorcomment>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Tabela
 przestawna</translation>
     </message>
@@ -13074,8 +14056,9 @@ przestawna</translation>
     </message>
     <message>
         <source>Validation</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel</translatorcomment>
-        <translation>Poprawność danych</translation>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Dane - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu</translatorcomment>
+        <translation>Poprawność
+ danych</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
@@ -13178,8 +14161,9 @@ makro</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation>Użyj odwołań 
-względnych</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Użyj odwołań
+ względnych</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -13999,6 +14983,7 @@ COM</translation>
     </message>
     <message>
         <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
@@ -14377,8 +15362,21 @@ trygonometryczne</translation>
         <translation>Więcej funkcji</translation>
     </message>
     <message>
+        <source>Name
+Manager</source>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Menedżer
+ nazw</translation>
+    </message>
+    <message>
         <source>Name Manager</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Menedżer nazw</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Nowa nazwa</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -14467,6 +15465,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>AutoFilter</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Autofiltr</translation>
     </message>
     <message>
@@ -14540,6 +15539,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Center Across</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Wyśrodkuj w poprzek</translation>
     </message>
     <message>
@@ -15022,6 +16022,7 @@ trygonometryczne</translation>
     </message>
     <message>
         <source>Merge Across</source>
+        <translatorcomment>tak jest ok jak w Excel</translatorcomment>
         <translation>Scal wszystkie</translation>
     </message>
     <message>
@@ -15082,7 +16083,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Number</source>
@@ -15300,6 +16302,7 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
@@ -15473,8 +16476,8 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>PivotTable</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw - tak jest ok</translatorcomment>
-        <translation>Tabela
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translation>Tabela 
 przestawna</translation>
     </message>
     <message>
@@ -16062,6 +17065,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -16443,6 +17447,7 @@ obrazu</translation>
     </message>
     <message>
         <source>Reset Picture and Size</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Resetuj obraz i rozmiar</translation>
     </message>
     <message>
@@ -16580,7 +17585,7 @@ obrazu</translation>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Nie powtarzaj 
 etykiet elementów</translation>
     </message>
@@ -16598,6 +17603,7 @@ etykiet elementów</translation>
     </message>
     <message>
         <source>Hide Field List</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Ukryj listę pól</translation>
     </message>
     <message>
@@ -16653,7 +17659,7 @@ etykiet elementów</translation>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheet-&gt;Wstaw-&gt;Tabela przestawna-&gt;Narzędzia tabel przestawnych - tak jest ok jak w Excel - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
         <translation>Powtórz wszystkie 
 etykiety elementów</translation>
     </message>
@@ -16663,6 +17669,7 @@ etykiety elementów</translation>
     </message>
     <message>
         <source>Show Field List</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Pokaż listę pól</translation>
     </message>
     <message>
@@ -16800,6 +17807,16 @@ etykiety elementów</translation>
         <translation>Nowy komentarz</translation>
     </message>
     <message>
+        <source>Next</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Następny</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Poprzedni</translation>
+    </message>
+    <message>
         <source>Proofing</source>
         <translation>Sprawdzanie</translation>
     </message>
@@ -16820,8 +17837,28 @@ etykiety elementów</translation>
         <translation>Odrzuć zmiany</translation>
     </message>
     <message>
+        <source>Reset All Comments</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Resetuj wszystkie komentarze</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Resetuj komentarz</translation>
+    </message>
+    <message>
         <source>Share Workbook</source>
         <translation>Udostępnij skoroszyt</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translatorcomment>Spreadsheets-&gt;Recenzja - tak jest ok jak w Excel</translatorcomment>
+        <translation>Pokaż wszystkie komentarze</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pokaż/Ukryj komentarz</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -17228,17 +18265,25 @@ etykiety elementów</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Właściwości zakresu danych</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Edytowanie
 kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Edit Query</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Edytuj kwerendę</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Edytuj import tekstu</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -17537,6 +18582,7 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>Vertical Center</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Wyśrodkowanie w pionie</translation>
     </message>
     <message>
@@ -18443,6 +19489,7 @@ cienia</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
@@ -18483,7 +19530,9 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation>Otwórz z Dokumentów usługi Cloud</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Otwórz z Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -18506,7 +19555,9 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation>Zapisz do Dokumentów usługi Cloud</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zapisz do Dokumentów
+ usługi Cloud</translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
@@ -18550,7 +19601,7 @@ cienia</translation>
     <name>rainbow.proxycommands</name>
     <message>
         <source>Full-Text Speech</source>
-        <translatorcomment>Mowa pełnotekstowa</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa pełnotekstowa</translatorcomment>
         <translation>Pełny tekst na mowę</translation>
     </message>
     <message>
@@ -18576,7 +19627,7 @@ cienia</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translatorcomment>Mowa tekstu</translatorcomment>
+        <translatorcomment>tak jest ok lub może być Mowa tekstu</translatorcomment>
         <translation>Tekst na mowę</translation>
     </message>
     <message>
@@ -18586,6 +19637,11 @@ cienia</translation>
 </context>
 <context>
     <name>workspacemenu</name>
+    <message>
+        <source>Buy Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Kup subskrypcję</translation>
+    </message>
     <message>
         <source>Change Account</source>
         <translation type="obsolete">Zmień konto</translation>
@@ -18611,6 +19667,11 @@ cienia</translation>
         <translation>Wejście Docer</translation>
     </message>
     <message>
+        <source>Document Permissions</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia dokumentu</translation>
+    </message>
+    <message>
         <source>Duplicates</source>
         <translation type="obsolete">Duplikaty</translation>
     </message>
@@ -18628,6 +19689,7 @@ cienia</translation>
     </message>
     <message>
         <source>File Roaming</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Roaming pliku</translation>
     </message>
     <message>
@@ -18647,8 +19709,19 @@ cienia</translation>
         <translation>Więcej kolorów</translation>
     </message>
     <message>
+        <source>My Subscription</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Moja subskrypcja</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Mój WPS</translation>
+    </message>
+    <message>
         <source>Open from Cloud</source>
-        <translation>Otwórz z usługi Cloud</translation>
+        <translatorcomment>Styl klasyczny-Spreadsheets-&gt;Funkcje specjalne - tak jest ok</translatorcomment>
+        <translation>Otwórz z Dokuemntów usługi Cloud</translation>
     </message>
     <message>
         <source>Personal Center</source>
@@ -18694,12 +19767,19 @@ cienia</translation>
         <translation type="obsolete">Ustaw odrzucone wstawienia powtarzanych elementów</translation>
     </message>
     <message>
+        <source>Sign Out</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
+    </message>
+    <message>
         <source>Sign in</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>

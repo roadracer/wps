@@ -2467,7 +2467,8 @@ Czy chcesz go zamienić?</translation>
     <message>
         <source>No border</source>
         <comment>TxRevision_Bop_NoBorder</comment>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
     <message>
         <source>Top</source>
@@ -3134,6 +3135,12 @@ Czy chcesz go zamienić?</translation>
         <comment>TxBBCategoryName_General</comment>
         <translation>Ogólne</translation>
     </message>
+    <message>
+        <source>Tips: WPS formula content found temporarily unable to resolve in this document, in order to avoid the impact of your work, place documents into .doc format before using WPS Now!</source>
+        <comment>TxBBCheckNewFormulaTip</comment>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Porada: WPS znalazł w tym dokumencie zawartość formuły, której tymczasowo nie można rozpoznać. W celu uniknięcia wpływu na Twoją pracę, należy przed użyciem WPS zapisać dokumenty do formatu .doc!</translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -3354,20 +3361,23 @@ Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.</source>
         <comment>_TxDocument_OpenFailure</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Występują błędy, gdy program WPS Writer otwiera ten plik.
-Wypróbuj jedną z następujących czynności.
-•Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
-•Upewnij się, że nie jest za mało pamięci i miejsca na dysku.</translation>
+Spróbuj wykonać jedną z następujących czynności:
+• Upewnij się, że masz uprawnienia dostępu do tego pliku lub dysku.
+• Upewnij się, że nie jest za mało pamięci i miejsca na dysku.</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
         <comment>_TxDocument_BusyTip_Prompt_Open</comment>
-        <translation>Otwieranie pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa otwieranie pliku...</translation>
     </message>
     <message>
         <source>Saving the file, please wait...</source>
         <comment>_TxDocument_BusyTip_Prompt_Save</comment>
-        <translation>Zapisywanie pliku, proszę czekać...</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Czekaj, trwa zapisywanie pliku...</translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the password is not correct.
@@ -3485,11 +3495,6 @@ Uwaga: Niektóre pliki mogą zawierać wirusy makr i ewentualnie wykonać inne s
         <translation>Nie można wkleić tabeli do pionowego pola tekstowego.</translation>
     </message>
     <message>
-        <source>WPSV6-TEXT</source>
-        <comment>_TxFilter_ConfigKey</comment>
-        <translation type="obsolete">WPSV6-TEKST</translation>
-    </message>
-    <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>_TxDocument_KRM_RightsWillLost</comment>
         <translation>Uprawnienia dostępu do tego pliku są aktualnie ograniczone. Tylko format pliku WPS Writer możne zachować te ustawienia. Jeżeli zapiszesz go jako bieżący typ pliku, wszystkie ustawienia uprawnień zostaną utracone. Czy chcesz kontynuować?</translation>
@@ -3519,7 +3524,8 @@ Dane z twojej bazy danych zostaną umieszczone w dokumencie. Czy chcesz kontynuo
     <message>
         <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
         <comment>_TxDocument_CannotInsertKRMFile</comment>
-        <translation>Uprawnienia dostępu dla &quot;%s&quot; są obecnie ograniczone. Pliki z ograniczonymi uprawnieniami nie mogą być wstawione do tego dokumentu.</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienia do pliku &quot;%s&quot; są obecnie ograniczone. Do tego dokumentu nie można wstawiać plików z ograniczeniami uprawnień.</translation>
     </message>
     <message>
         <source>This file contains Enhanced Textbox property. Saving it as other formats, may cause loss of the specific property. 
@@ -3619,10 +3625,11 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
+        <translatorcomment>ok</translatorcomment>
         <translation>Program WPS Writer nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień do dostępu. 
-Proszę wypróbuj jedną z następujących czynności:
-•Przełącz się do konta innego użytkownika.
-•Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.</translation>
+Spróbuj wykonać jedną z następujących czynności:
+• Przełącz się do konta innego użytkownika.
+• Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3651,6 +3658,11 @@ This backup will be saved to (%s)</source>
         <comment>_TxDocument_MsgBackupToDef</comment>
         <translation>Występują błędy podczas tworzenia kopii zapasowej! Nie masz uprawnień do zapisywania w katalogu kopii zapasowej, w którym miała być umieszczona. Proszę spróbuj zmienić katalog kopii zapasowej.
 Ta kopia zapasowa zostanie zapisana do (%s)</translation>
+    </message>
+    <message>
+        <source>WPSV6-TEXT</source>
+        <comment>_TxFilter_ConfigKey</comment>
+        <translation type="obsolete">WPSV6-TEKST</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
@@ -3914,6 +3926,7 @@ Ta zmiana będzie mieć wpływ na wszystkie nowe dokumenty utworzone na podstawi
     <message>
         <source>Department</source>
         <comment>wps_sDepartment</comment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Dział</translation>
     </message>
     <message>
@@ -6636,12 +6649,14 @@ dokumentu</translation>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation>Ukryj odstęp</translation>
+        <translatorcomment>Writer - podpowiedź po najechaniu kursorem w miejscu przerwy między dowolnymi stronami - tak jest ok jak w Word</translatorcomment>
+        <translation>Kliknij dwukrotnie, aby ukryć biały znak</translation>
     </message>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation>Pokaż odstęp</translation>
+        <translatorcomment>Writer - podpowiedź po najechaniu kursorem w miejscu przejścia między dowolnymi stronami - tak jest ok jak w Word</translatorcomment>
+        <translation>Kliknij dwukrotnie, aby pokazać biały znak</translation>
     </message>
     <message>
         <source>Mail Merge Insert Fields</source>
@@ -7113,8 +7128,8 @@ rejestrowanie</translation>
         <source>Record Macro</source>
         <comment>TXWps_RecordMacro_Start</comment>
         <translatorcomment>Styl wstążki - Writer-&gt;Deweloper - Styl klasyczny-&gt;Narzędzia-&gt;Makra tak jest ok - musi być ta spacja, aby w przypadku tekstu wyświetlanego w jednym wierszu (Styl klasyczny) nie zlewały się wyrazy</translatorcomment>
-        <translation>Zarejestruj 
-makro</translation>
+        <translation>Zarejestruj
+ makro</translation>
     </message>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
@@ -7936,6 +7951,12 @@ makro</translation>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
         <comment>TxError_EditChartDataSource</comment>
         <translation>Siatka danych wykresu jest już otwarta w dokumencie &quot;%s&quot;. Aby edytować dane tego wykresu, trzeba ją najpierw zamknąć.</translation>
+    </message>
+    <message>
+        <source>Insert PTab</source>
+        <comment>TxVersion_InsertPTab</comment>
+        <translatorcomment>wyjaśnione z producentem jako &quot;Alignment Tab&quot; - tak jest ok jak w MSO</translatorcomment>
+        <translation>Tabulator wyrównania</translation>
     </message>
 </context>
 <context>
