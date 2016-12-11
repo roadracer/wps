@@ -1534,7 +1534,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony. Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>

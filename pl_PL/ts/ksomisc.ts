@@ -316,7 +316,7 @@ Dołożymy wszelkich starań, aby naprawić aplikacje i przywrócić je do stanu
         <source>If you can&apos;t fix the errors using the Start Repairing button, or you need to configure other advanced settings, please click the Advanced button below, then configure the settings in the corresponding tabs.</source>
         <extracomment>ksomisc main dialog</extracomment>
         <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Jeżeli nie można naprawić błędów za pomocą przycisku Rozpocznij naprawianie lub trzeba skonfigurować inne ustawienia zaawansowane, proszę kliknij poniżej przycisk Zaawansowane, a następnie skonfiguruj ustawienia w odpowiednich zakładkach.</translation>
+        <translation>Jeżeli nie można naprawić błędów za pomocą przycisku Rozpocznij naprawianie lub należy skonfigurować inne ustawienia zaawansowane, kliknij poniżej przycisk Zaawansowane, a następnie skonfiguruj ustawienia w odpowiednich zakładkach.</translation>
     </message>
     <message>
         <source>&amp;Advanced...</source>
@@ -455,7 +455,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageBackUpClr</name>
     <message>
         <source>Clear Backup Files</source>
-        <translation>Wyczyść pliki kopii zapasowych</translation>
+        <translatorcomment>tak jest ok - nazwa zakładki w oknie dialogowym Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Czyszczenie plików kopii zapasowych</translation>
     </message>
     <message>
         <source>To protect document security, WPS Office has created sufficient backup files for the original files. You can delete the backup files here to save the disk space.</source>
@@ -468,7 +469,8 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS &amp;Writer Backup Files</source>
-        <translation>Pliki kopii zapasowych WPS &amp;Writer</translation>
+        <translatorcomment>tak jest ok - opcja w zakładce &quot;Czyszczenie plików kopii zapasowych&quot; okna dialogowego Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Pliki kopii zapasowych programu WPS &amp;Writer</translation>
     </message>
     <message>
         <source>Click here to browse backup files</source>
@@ -476,11 +478,13 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     </message>
     <message>
         <source>WPS &amp;Presentation Backup Files</source>
-        <translation>Pliki kopii zapasowych WPS &amp;Presentation</translation>
+        <translatorcomment>tak jest ok - opcja w zakładce &quot;Czyszczenie plików kopii zapasowych&quot; okna dialogowego Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Pliki kopii zapasowych programu WPS &amp;Presentation</translation>
     </message>
     <message>
         <source>WPS &amp;Spreadsheets Backup Files</source>
-        <translation>Pliki kopii zapasowych WPS &amp;Spreadsheets</translation>
+        <translatorcomment>tak jest ok - opcja w zakładce &quot;Czyszczenie plików kopii zapasowych&quot; okna dialogowego Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Pliki kopii zapasowych programu WPS &amp;Spreadsheets</translation>
     </message>
     <message>
         <source>Start &amp;Clearing</source>
@@ -544,13 +548,14 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
     <name>KPageFileAsso</name>
     <message>
         <source>Compat Setting</source>
+        <translatorcomment>tak jest ok - nazwa zakładki w oknie dialogowym Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
         <translation>Ustawienia zgodności</translation>
     </message>
     <message>
         <source>Here you can set WPS Office Applications as the default ones to open the common files, or you can restore the original file associations. Or save the files as a normal format. After the setting, click OK to make sure your file association. 
 These operations can be undone. </source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Tutaj możesz ustawić aplikacje pakietu WPS Office jako domyślne do otwierania wspólnych plików lub przywrócić oryginalne skojarzenia plików, albo ustawić standardowy format zapisywania plików. Po ustawieniu, kliknij przycisk OK, aby potwierdzić skojarzenie pliku. 
+        <translatorcomment>tak jest ok - opis w zakładce &quot;Ustawienia zgosności&quot; okna dialogowego Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Możesz tutaj ustawić aplikacje pakietu WPS Office jako domyślne do otwierania wspólnych plików lub przywrócić oryginalne skojarzenia plików, albo ustawić standardowy format zapisywania plików. Po ustawieniu, kliknij przycisk OK, aby potwierdzić skojarzenie pliku. 
 Operacje te mogą być cofnięte. </translation>
     </message>
     <message>
@@ -699,8 +704,8 @@ Zauważ, że postępując w ten sposób narażasz się na ryzyko włamania i zai
     <name>KPageRebuild</name>
     <message>
         <source>Reset Repair</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>Resetuj naprawę</translation>
+        <translatorcomment>tak jest ok - nazwa zakładki w oknie dialogowym Narzędzia konfiguracji pakietu WPS Office - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Resetowanie naprawy</translation>
     </message>
     <message>
         <source>The loss of components in the system registry may cause errors to occur when using WPS Office, such as not being able to start other applications, etc. Please click the button below to try repairing, and the repairing will take effect after restart.</source>
@@ -966,7 +971,8 @@ Ikona przycisku, grupa poleceń i położenie okna zadań są różne dla każde
     <name>KPropertiesDlg</name>
     <message>
         <source>WPS Office Configuration Tools</source>
-        <translation>Narzędzia konfiguracji WPS Office</translation>
+        <translatorcomment>tak jest ok - nazwa okna dialogowego - przejdź do katalogu instalacji i uruchom &quot;ksomisc.exe&quot;</translatorcomment>
+        <translation>Narzędzia konfiguracji pakietu WPS Office</translation>
     </message>
 </context>
 <context>
