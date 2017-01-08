@@ -341,9 +341,9 @@ Please try one of the following.
 •Ask its creator to change the permissions control level of this file.
 (%s)</source>
         <comment>TX_Workbook_OpenFailure_Insufficient_KRM_Right</comment>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>ok - poprawiłem wyraz &quot;czynności&quot;</translatorcomment>
         <translation>Program WPS Spreadsheets nie może otworzyć tego pliku, ponieważ bieżący użytkownik nie ma wystarczających uprawnień dostępu.
-Spróbuj wykonać jedną z następujących czynnościi:
+Spróbuj wykonać jedną z następujących czynności:
 • Przełącz się do konta innego użytkownika.
 • Poproś jego twórcę, aby zmienił uprawnienia poziomu kontroli tego pliku.
 (%s)</translation>

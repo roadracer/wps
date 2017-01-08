@@ -9429,7 +9429,8 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     </message>
     <message>
         <source>Document</source>
-        <translation>Dokument</translation>
+        <translatorcomment>Writer-&gt;Ctrl+F - komunikat informujący o zakończeniu wyszukiwania - tak jest ok</translatorcomment>
+        <translation>dokumencie</translation>
     </message>
     <message>
         <source>The search item was not found.</source>
@@ -9489,7 +9490,8 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     </message>
     <message>
         <source>WPS Writer has completed its search of %1.</source>
-        <translation>Program WPS Writer ukończył wyszukiwanie %1.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Program WPS Writer ukończył wyszukiwanie w %1.</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>

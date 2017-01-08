@@ -9026,9 +9026,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne oraz Presentation-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot; - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Eksportuj
- do PDF</translation>
+ do PDF </translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -9110,9 +9110,9 @@ do obrazu</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Otwórz z Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -9122,9 +9122,9 @@ prezentacji</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Zapisz do Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -9218,8 +9218,9 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>PDF do Word</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
+        <translation>PDF do
+ Word </translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -10714,9 +10715,9 @@ slajdów</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Otwórz z Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Options</source>
@@ -10990,9 +10991,9 @@ slajdów</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Presentation-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Zapisz do Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -17033,9 +17034,9 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translatorcomment>tak jest ok</translatorcomment>
+        <translatorcomment>tak jest ok - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Otwórz z Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -17045,9 +17046,9 @@ prezentacji</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translatorcomment>tak jest ok</translatorcomment>
+        <translatorcomment>tak jest ok - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Zapisz do Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Share to Microblog</source>
@@ -17374,8 +17375,9 @@ Word/WPS Writer</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>PDF do Word</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
+        <translation>PDF do
+ Word </translation>
     </message>
     <message>
         <source>Picture</source>
@@ -18786,8 +18788,9 @@ ekranu</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>PDF do Word</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
+        <translation>PDF do
+ Word </translation>
     </message>
     <message>
         <source>Personal Center</source>
