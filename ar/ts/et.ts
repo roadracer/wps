@@ -10,23 +10,23 @@
     </message>
     <message>
         <source>Sort</source>
-        <translation type="unfinished"></translation>
+        <translation>رتب</translation>
     </message>
     <message>
         <source>&amp;Add to the list</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;أظف إلى القائمه</translation>
     </message>
     <message>
         <source>&amp;Delete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;إحذف من القائمه</translation>
     </message>
     <message>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>تصنيف</translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation type="unfinished"></translation>
+        <translation>اكتب</translation>
     </message>
     <message>
         <source>Infotip</source>
@@ -34,75 +34,75 @@
     </message>
     <message>
         <source>Add to the list(&amp;R)</source>
-        <translation type="unfinished"></translation>
+        <translation>أظف الى القائمه(&amp;R)</translation>
     </message>
     <message>
         <source>D&amp;elete from the list</source>
-        <translation type="unfinished"></translation>
+        <translation>D&amp;إحذف من القائمه</translation>
     </message>
 </context>
 <context>
     <name>ChangeFileAccess</name>
     <message>
         <source>You have made changes to &quot;%s&quot;.</source>
-        <translation type="unfinished"></translation>
+        <translation>لقد قمت بتغير&quot;%s&quot;.</translation>
     </message>
     <message>
         <source>Another user has also made changes. What would you like to do?</source>
-        <translation type="unfinished"></translation>
+        <translation>مستخدم اخر قام بالتغيرز.ماذا تريد ان تفعل؟</translation>
     </message>
     <message>
         <source>Click Discard to discard your changes and edit the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>.انقر تجاهل لتجاهل التغييرات وتحرير الإصدار الأحدث</translation>
     </message>
     <message>
         <source>Click Save as to save your changes to a different file and open the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر فوق حفظ باسم لحفظ التغييرات إلى ملف مختلف وفتح أحدث إصدار.</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تجاهل</translation>
     </message>
     <message>
         <source>&amp;Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حفظ باسم</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>الغاء</translation>
     </message>
 </context>
 <context>
     <name>ColumnWidthSelector</name>
     <message>
         <source>Column Width Selector</source>
-        <translation type="unfinished"></translation>
+        <translation>عرض العمود المختار</translation>
     </message>
 </context>
 <context>
     <name>ConnectPage</name>
     <message>
         <source>Ctrl+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+W</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+W</translation>
     </message>
 </context>
 <context>
     <name>ConnectPageUi</name>
     <message>
         <source>Step 1 : Select data source</source>
-        <translation type="unfinished"></translation>
+        <translation>الخطوة 1: تحديد مصدر البيانات</translation>
     </message>
     <message>
         <source>Select data source</source>
@@ -110,19 +110,19 @@
     </message>
     <message>
         <source>&amp;Open data file directly</source>
-        <translation type="unfinished"></translation>
+        <translation>فتح ملف البيانات مباشرة</translation>
     </message>
     <message>
         <source>&amp;Select Data Source...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;تحديد مصدر البيانات ...</translation>
     </message>
     <message>
         <source>Input &amp;connection string manually</source>
-        <translation type="unfinished"></translation>
+        <translation>سلسلة الاتصال يدويا &amp;ادخال </translation>
     </message>
     <message>
         <source>Explanation</source>
-        <translation type="unfinished"></translation>
+        <translation>شرح</translation>
     </message>
     <message>
         <source>O&amp;DBC DSN</source>
@@ -130,18 +130,18 @@
     </message>
     <message>
         <source>Other/Advanced(&amp;W)</source>
-        <translation type="unfinished"></translation>
+        <translation>آخر/متقدم(&amp;W)</translation>
     </message>
     <message>
         <source>You can choose from four different ways to connect to your chosen data source.</source>
-        <translation type="unfinished"></translation>
+        <translation>يمكنك الاختيار من بين أربعة طرق مختلفة للاتصال بمصدر البيانات التي اخترتها.</translation>
     </message>
 </context>
 <context>
     <name>Constraint</name>
     <message>
         <source>Constraint</source>
-        <translation type="unfinished"></translation>
+        <translation>قيود</translation>
     </message>
     <message>
         <source>C&amp;ell Reference:</source>
@@ -173,15 +173,15 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;حسنا</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished"></translation>
+        <translation>أضف</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>إلغاء</translation>
     </message>
 </context>
 <context>
@@ -192,64 +192,64 @@
     </message>
     <message>
         <source>&amp;Continue</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;مواصله</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>توقف</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات</translation>
     </message>
 </context>
 <context>
     <name>ExitEditOpenFile</name>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation>هل ما زلت تريد فتحه؟</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;فتح</translation>
     </message>
     <message>
         <source>&amp;Return</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;العوده</translation>
     </message>
     <message>
         <source>If you open a new file, your edits in current file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation>:إذا قمت بفتح ملف جديد، سيتم القضاء على تعديلاتك في الملف الحالي</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation type="unfinished"></translation>
+        <translation>تلميحات</translation>
     </message>
 </context>
 <context>
     <name>FileNowAvialable</name>
     <message>
         <source>&quot;%s&quot; is now available for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;%s&quot; .متاح الان للتعديل</translation>
     </message>
     <message>
         <source>Click Read-Write to open it for editing.</source>
-        <translation type="unfinished"></translation>
+        <translation>انقر قراءة وكتابة للفتحه والتحرير.</translation>
     </message>
     <message>
         <source>Read-&amp;Write</source>
-        <translation type="unfinished"></translation>
+        <translation>Read-&amp;كتابه</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>الغاء</translation>
     </message>
 </context>
 <context>
     <name>FilterPageUi</name>
     <message>
         <source>The third step: Data filtering and sorting</source>
-        <translation type="unfinished"></translation>
+        <translation>الخطوة الثالثة: تصفية البيانات والفرز</translation>
     </message>
     <message>
         <source>Sort</source>
