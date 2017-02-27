@@ -2,12 +2,15 @@
 Comment=Use WPS Spreadsheets to analyze manage data.
 Comment[zh_CN]=使用WPS表格分析、管理数据
 Comment[pt_BR]=Use WPS Planilhas para analisar e gerenciar dados.
+Comment[hu_HU]=WPS Táblázatok adatok analizálásához és kezeléséhez.
 Exec=/usr/bin/et %f
 GenericName=WPS Spreadsheets
 GenericName[zh_CN]=WPS 表格
 GenericName[pt_BR]=WPS Planilhas
+GenericName[hu_HU]=WPS Táblázatok
 MimeType=application/wps-office.et;application/wps-office.ett;application/wps-office.xls;application/wps-office.xlt;application/vnd.ms-excel;application/msexcel;application/x-msexcel;application/wps-office.xlsx;application/wps-office.xltx;
 Name=WPS Spreadsheets
+Name[hu_HU]=WPS Táblázatok
 Name[zh_CN]=WPS 表格
 Name[pt_BR]=WPS Planilhas
 StartupNotify=false
