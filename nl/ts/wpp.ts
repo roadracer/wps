@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Themed Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Thema Stijl</translation>
     </message>
     <message>
         <source>Emphasize</source>
@@ -37,19 +37,19 @@
     </message>
     <message>
         <source>Light style</source>
-        <translation type="unfinished"></translation>
+        <translation>Lichte Stijl</translation>
     </message>
     <message>
         <source>Medium Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Medium Stijl</translation>
     </message>
     <message>
         <source>Dark Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkere Stijl</translation>
     </message>
     <message>
         <source>Dark Style 2</source>
-        <translation type="unfinished"></translation>
+        <translation>Donkere Stijl 2</translation>
     </message>
     <message>
         <source>First Row</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
-        <translation type="unfinished"></translation>
+        <translation>Vervang &amp;Geselecteerde Designs</translation>
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
@@ -120,7 +120,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation type="unfinished"></translation>
+        <translation>Design Toevoegen</translation>
     </message>
 </context>
 <context>
