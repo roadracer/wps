@@ -16385,7 +16385,8 @@ the cells will be set in orange background.
 
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordRemind</comment>
-        <translation type="unfinished"/>
+        <translation>Aşağıdaki aralıktaki hücrelerde tekrarlanan 
+            içerik varsa, hücreler turuncu arka planda kalacaktır.</translation>
     </message>
     <message>
         <source>If there are duplicate values when entering contents in the 
@@ -16393,7 +16394,8 @@ following range,it reminds checking the correctness of the
 contents.
 (Note: Please select the range with a single row or column)</source>
         <comment>et_sRepeatWordInputDeny</comment>
-        <translation type="unfinished"/>
+        <translation>İçeriği aşağıdaki aralıklarla girerken yinelenen 
+            değerler varsa içeriğin doğruluğunu kontrol etmeyi hatırlatır.</translation>
     </message>
     <message>
         <source>It compares the contents by rows after click OK. The duplica
@@ -16401,7 +16403,9 @@ ted rows with the exact same contents will be deleted automa
 tically, only keep one row.
 (Note: The function only supports single range)</source>
         <comment>et_sRepeatWordDelete</comment>
-        <translation type="unfinished"/>
+        <translation>Tamam'ı tıkladıktan sonra içerik satırlara göre karşılaştırılır. 
+            Aynı içeriği olan çoğaltılmış satırlar otomatik olarak silinir, 
+            yalnızca bir satır saklanır.</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -16411,7 +16415,7 @@ tically, only keep one row.
     <message>
         <source>Reject Input Duplicates</source>
         <comment>et_sRepeatWordInputDenyCaption</comment>
-        <translation type="unfinished"/>
+        <translation>Benzer Girişleri İptal Et</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
@@ -16441,7 +16445,7 @@ tically, only keep one row.
     <message>
         <source>Number is used for general display of numbers. Currency and Accounting offer specialized formatting for monetary value.</source>
         <comment>et_sNH_Number</comment>
-        <translation type="unfinished"/>
+        <translation>Numara, genel sayıların görüntülenmesi için kullanılır. Para Birimi ve Muhasebe, parasal değer için özel biçimlendirme sunar.</translation>
     </message>
     <message>
         <source>Incorrect input.The value must be a Number.</source>
