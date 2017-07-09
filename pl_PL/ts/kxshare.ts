@@ -1534,7 +1534,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony.(Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument, który nie został zapisany przy ostatnim wyjściu, został przywrócony. Jeżeli nie potrzebujesz przywróconego pliku, zamknij go bezpośrednio i ponownie otwórz oryginalny dokument.</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -1912,6 +1913,7 @@ ruchoma</translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translatorcomment>Nazwa przycisku okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Anuluj</translation>
     </message>
     <message>
@@ -1920,10 +1922,12 @@ ruchoma</translation>
     </message>
     <message>
         <source>Close</source>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę Zamknij w prawym górnym rogu okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Zamknij</translation>
     </message>
     <message>
         <source>Restore</source>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę w prawym górnym rogu okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
         <translation>Przywróć</translation>
     </message>
     <message>
@@ -1940,10 +1944,12 @@ ruchoma</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Nowy folder</translation>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę folderu z plusem w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Utwórz nowy folder</translation>
     </message>
     <message>
         <source>View Menu</source>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę sposobu wyświetlania folderów i plików w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Menu Widok</translation>
     </message>
     <message>
@@ -1956,18 +1962,22 @@ ruchoma</translation>
     </message>
     <message>
         <source>Desktop</source>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Pulpit</translation>
     </message>
     <message>
         <source>My Documents</source>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Moje dokumenty</translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation>Komputer</translation>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Ten komputer</translation>
     </message>
     <message>
         <source>Network</source>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Sieć</translation>
     </message>
     <message>
@@ -2056,43 +2066,53 @@ ruchoma</translation>
     </message>
     <message>
         <source>Open</source>
+        <translatorcomment>Nazwa przycisku okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Otwórz</translation>
     </message>
     <message>
         <source>Save</source>
+        <translatorcomment>Nazwa przycisku okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
         <translation>Zapisz</translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>Szyfruj</translation>
+        <translatorcomment>Nazwa przycisku okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w angielskim tłumaczeniu</translatorcomment>
+        <translation>Szyfruj...</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation>Maksimum</translation>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę w prawym górnym rogu okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Maksymalizuj</translation>
     </message>
     <message>
         <source>Forward Folder</source>
-        <translation>Folder do przodu</translation>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę strzałki w lewo w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Przejdź do ostatnio odwiedzanego folderu</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Do przodu</translation>
+        <translatorcomment>Podpowiedź po najechaniu myszką na ikonę katalogu ze strzałką w górę w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Do góry o jeden poziom</translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation>Otwórz dokument lokalny</translation>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w angielskim tłumaczeniu</translatorcomment>
+        <translation>Dokument lokalny</translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation>Ostatnia wizyta</translation>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Ostatnio używane</translation>
     </message>
     <message>
         <source>WPS Remote</source>
-        <translation>Zdalny WPS</translation>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w angielskim tłumaczeniu</translatorcomment>
+        <translation>WPS Cloud</translation>
     </message>
     <message>
         <source>Private Space</source>
-        <translation>Przestrzeń prywatna</translation>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Przestrzeń osobista</translation>
     </message>
     <message>
         <source>My Circle</source>
@@ -2100,7 +2120,8 @@ ruchoma</translation>
     </message>
     <message>
         <source>DataMaster Button Title</source>
-        <translation>Tytuł przycisku wzorca danych</translation>
+        <translatorcomment>Podpowiedź po najechaniu myszką na przycisk w menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Wzorzec danych</translation>
     </message>
     <message>
         <source>Kingsoft PDFToWord</source>
@@ -2112,63 +2133,78 @@ ruchoma</translation>
     </message>
     <message>
         <source>CustomLocation Button Title</source>
-        <translation>Tytuł przycisku lokalizacji niestandardowej</translation>
+        <translatorcomment>Podpowiedź po najechaniu myszką na Lokalizacja niestandardowa w menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Umożliwia dodanie lokalizacji niestandardowej</translation>
     </message>
     <message>
         <source>Folder Select</source>
-        <translation>Wybierz folder</translation>
+        <translatorcomment>Opis w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Szukaj w:</translation>
     </message>
     <message>
         <source>Save At</source>
-        <translation>Zapisz w</translation>
+        <translatorcomment>Opis w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Zapisz w:</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation>Nazwa pliku</translation>
+        <translatorcomment>Opis w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Nazwa pliku:</translation>
     </message>
     <message>
         <source>File Type</source>
-        <translation>Typ pliku</translation>
+        <translatorcomment>Opis w oknie dialogowym Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Typ pliku:</translation>
     </message>
     <message>
         <source>Super Icon</source>
-        <translation>Super ikona</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Bardzo duże ikony</translation>
     </message>
     <message>
         <source>Big Icon</source>
-        <translation>Duża ikona</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Duże ikony</translation>
     </message>
     <message>
         <source>Middle Icon</source>
-        <translation>Średnia ikona</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Średnie ikony</translation>
     </message>
     <message>
         <source>Small Icon</source>
-        <translation>Mała ikona</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Małe ikony</translation>
     </message>
     <message>
         <source>Report View</source>
-        <translation>Widok raportu</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Lista</translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>Sąsiadująco</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok jak w MSO</translatorcomment>
+        <translation>Kafelki</translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>Miniatura</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Miniatury</translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>Ikona</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Ikony</translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation>Widok szczegółowy</translation>
+        <translatorcomment>Opcje w Menu Widok okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szczegóły</translation>
     </message>
     <message>
         <source>Quick Disk</source>
-        <translation>Szybki dysk</translation>
+        <translatorcomment>Menu z lewej strony okna dialogowego Otwórz oraz Zapisz jako - tak jest ok</translatorcomment>
+        <translation>Szybki dostęp</translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
@@ -2180,7 +2216,7 @@ ruchoma</translation>
     </message>
     <message>
         <source>Custom Control Max Count Tip</source>
-        <translation>Formant niestandardowy maksymalnej liczby porady</translation>
+        <translation>Formant niestandardowy maksymalnej liczby porad</translation>
     </message>
     <message>
         <source>Name</source>
@@ -7298,6 +7334,7 @@ Kliknij dwukrotnie lub użyj menu podręcznego, aby otworzyć plik. Spowoduje to
     <message>
         <source>&amp;Encryption...</source>
         <comment>Encrypt button tab in filedialog</comment>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Szyfrowanie...</translation>
     </message>
     <message>

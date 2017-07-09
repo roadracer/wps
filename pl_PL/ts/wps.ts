@@ -5660,6 +5660,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>&amp;entries</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;wpisy</translation>
     </message>
     <message>
@@ -9429,7 +9430,8 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     </message>
     <message>
         <source>Document</source>
-        <translation>Dokument</translation>
+        <translatorcomment>Writer-&gt;Ctrl+F - komunikat informujący o zakończeniu wyszukiwania - tak jest ok</translatorcomment>
+        <translation>dokumencie</translation>
     </message>
     <message>
         <source>The search item was not found.</source>
@@ -9489,7 +9491,8 @@ naciśnij przycisk Anuluj, a następnie zaznacz pole wyboru dotyczące zachowani
     </message>
     <message>
         <source>WPS Writer has completed its search of %1.</source>
-        <translation>Program WPS Writer ukończył wyszukiwanie %1.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Program WPS Writer ukończył wyszukiwanie w %1.</translation>
     </message>
     <message>
         <source>The Find What text contains a Pattern Match expression which is not valid.</source>
@@ -13515,7 +13518,7 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>%1 minut temu</translation>
     </message>
     <message>

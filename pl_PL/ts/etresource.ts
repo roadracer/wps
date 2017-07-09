@@ -2367,8 +2367,9 @@ kwerendy bazy danych OLE</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>PDF do Word</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
+        <translation>PDF do
+ Word </translation>
     </message>
     <message>
         <source>Picture</source>
@@ -3778,8 +3779,9 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>PDF to Word</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>PDF do Word</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
+        <translation>PDF do
+ Word </translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -10840,9 +10842,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Document Slimming</source>
-        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy</translatorcomment>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Odchudzanie
- dokumentu</translation>
+ dokumentu </translation>
     </message>
     <message>
         <source>Donate</source>
@@ -10858,9 +10860,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Funkcje specjalne oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot;</translatorcomment>
+        <translatorcomment>Styl wstążki - Spreadsheets-&gt;Funkcje specjalne oraz Spreadsheets-&gt;Opcje-&gt;Ogólne i Zapisywanie-&gt;Skróty-&gt;Funkcje specjalne - tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy w &quot;Skrótach&quot; - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Eksportuj
- do PDF</translation>
+ do PDF </translation>
     </message>
     <message>
         <source>Eye Protection Mode</source>
@@ -10939,9 +10941,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Otwórz z Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -10971,9 +10973,9 @@ WordArt</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Zapisz do Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
@@ -11033,8 +11035,9 @@ WordArt</translation>
     </message>
     <message>
         <source>PDF To Word</source>
-        <translatorcomment>tak jest ok</translatorcomment>
-        <translation>PDF do Word</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewały się wyrazy gdy są w jednym wierszu - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
+        <translation>PDF do
+ Word </translation>
     </message>
     <message>
         <source>Picture to Text</source>
@@ -11688,7 +11691,9 @@ COM</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>Utwórz łącze do usługi Cloud</translation>
+        <translatorcomment>Spreadsheets - Styl wstążki oraz klasyczny-&gt;Funkcje specjalne - ta spacja na końcu musi być, aby nie zlewały się wyrazy w stylu klasycznym - tak jest ok</translatorcomment>
+        <translation>Utwórz łącze 
+do usługi Cloud</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -12676,9 +12681,9 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Otwórz z Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Options</source>
@@ -12960,9 +12965,9 @@ wyśrodkuj</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym</translatorcomment>
+        <translatorcomment>Styl wstążki i Styl klasyczny-&gt;Spreadsheets-&gt;Funkcje specjalne - tak jest ok, ta spacja musi być, aby nie zlewał się wyrazy w Stylu klasycznym - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Zapisz do Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Save to File</source>
@@ -19530,9 +19535,9 @@ cienia</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translatorcomment>tak jest ok</translatorcomment>
+        <translatorcomment>tak jest ok - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Otwórz z Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Protect Eyes Mode</source>
@@ -19555,9 +19560,9 @@ cienia</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translatorcomment>tak jest ok</translatorcomment>
+        <translatorcomment>tak jest ok - spacja na końcu powoduje lepsze wyśrodkowanie tekstu w drugim wierszu</translatorcomment>
         <translation>Zapisz do Dokumentów
- usługi Cloud</translation>
+ usługi Cloud </translation>
     </message>
     <message>
         <source>Set Highlight Repeat Items</source>
