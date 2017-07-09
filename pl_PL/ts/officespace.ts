@@ -127,11 +127,13 @@
     </message>
     <message>
         <source>Checked %1 minutes ago</source>
-        <translation>Sprawdzone %1 minut temu</translation>
+        <translatorcomment>Informacja po najechaniu kursorem myszki na krzyżyk zamknięcia dokumentu w kartach - tak jest ok</translatorcomment>
+        <translation>Sprawdzony %1 minut temu</translation>
     </message>
     <message>
         <source>Consistent with cloud</source>
-        <translation>Spójne z usługą Cloud</translation>
+        <translatorcomment>Informacja po najechaniu kursorem myszki na krzyżyk zamknięcia dokumentu w kartach - tak jest ok</translatorcomment>
+        <translation>Spójny z usługą Cloud</translation>
     </message>
     <message>
         <source>File name:</source>
@@ -139,7 +141,8 @@
     </message>
     <message>
         <source>Cloud Docs:</source>
-        <translation>Dokumenty usługi Cloud:</translation>
+        <translatorcomment>Informacja po najechaniu kursorem myszki na krzyżyk zamknięcia dokumentu w kartach - tak jest ok - ta spacja musi być, aby nie zlewał się tekst z nazwą dokumentu</translatorcomment>
+        <translation>Dokumenty usługi Cloud: </translation>
     </message>
     <message>
         <source>Source path:</source>
@@ -213,11 +216,13 @@
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Typ: </translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>Rozmiar:</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Rozmiar: </translation>
     </message>
     <message>
         <source>modifyTime:</source>
@@ -331,7 +336,8 @@
     </message>
     <message>
         <source>Modify Time:</source>
-        <translation>Czas modyfikacji:</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Czas modyfikacji: </translation>
     </message>
     <message>
         <source>WPS Office Auto Backup</source>
@@ -484,46 +490,57 @@ Może to być spowodowane tym, że:
     <name>KFileViewPage</name>
     <message>
         <source>File &amp;Name:</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Nazwa pliku:</translation>
     </message>
     <message>
         <source>Save &amp;Type:</source>
-        <translation>Zapisz &amp;typ:</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Zapisz jako &amp;typ:</translation>
     </message>
     <message>
         <source>Cancel</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Anuluj</translation>
     </message>
     <message>
         <source>&amp;Save</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Zapisz</translation>
     </message>
     <message>
         <source>&amp;Open</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Otwórz</translation>
     </message>
     <message>
         <source>Open &amp;Type:</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Otwórz &amp;typ:</translation>
     </message>
     <message>
         <source>&amp;View Mode</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Tryb &amp;widoku</translation>
     </message>
     <message>
         <source>&amp;Small</source>
-        <translation>&amp;Mały</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>&amp;Małe ikony</translation>
     </message>
     <message>
         <source>&amp;Middle</source>
-        <translation>&amp;Średni</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>&amp;Średnie ikony</translation>
     </message>
     <message>
         <source>&amp;List</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Lista</translation>
     </message>
     <message>
         <source>&amp;Content</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Zawartość</translation>
     </message>
     <message>
@@ -580,10 +597,12 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>&amp;Forward</source>
-        <translation>&amp;Prześlij dalej</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>&amp;Dalej</translation>
     </message>
     <message>
         <source>&amp;Up</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>W &amp;górę</translation>
     </message>
     <message>
@@ -621,27 +640,33 @@ Może to być spowodowane tym, że:
     <message>
         <source>Go to the previous folder</source>
         <extracomment>Back to previous directory</extracomment>
-        <translation>Przejdź do poprzedniego folderu</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Wstecz</translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>Prześlij dalej</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Dalej</translation>
     </message>
     <message>
         <source>Homepage</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Strona główna</translation>
     </message>
     <message>
         <source>Go up</source>
-        <translation>Przejdź w górę</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>W górę</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>Nowy folder</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Utwórz nowy folder</translation>
     </message>
     <message>
         <source>&quot;View&quot; menu</source>
-        <translation>Menu &quot;Widok&quot;</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Menu Widok</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -661,6 +686,7 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>&amp;Detail</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Szczegóły</translation>
     </message>
     <message>
@@ -697,7 +723,8 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>Create Shortcut(&amp;L)</source>
-        <translation>Utwórz skrót (&amp;L)</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Utwórz &amp;skrót</translation>
     </message>
     <message>
         <source>Create shortcut</source>
@@ -737,7 +764,7 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>The file name is too long. Please enter a file name less than %1 characters.</source>
-        <translation>Nazwa pliku jest za długa. Proszę podać nazwę pliku zawierającą mniej niż%1 znaków.</translation>
+        <translation>Nazwa pliku jest za długa. Podaj nazwę pliku zawierającą mniej niż%1 znaków.</translation>
     </message>
     <message>
         <source>%1 already exists. Sure you want to replace it?</source>
@@ -753,31 +780,38 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>Files loading, please wait...</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Ładowanie plików, proszę czekać...</translation>
     </message>
     <message>
         <source>File Name</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Nazwa pliku</translation>
     </message>
     <message>
         <source>Size:</source>
-        <translation>Rozmiar:</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Rozmiar: </translation>
     </message>
     <message>
         <source>Type:</source>
-        <translation>Typ:</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Typ: </translation>
     </message>
     <message>
         <source>Time:</source>
-        <translation>Godzina:</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Godzina: </translation>
     </message>
     <message>
         <source>Not file found</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Nie znaleziono pliku</translation>
     </message>
     <message>
         <source>Unable to retrieve file list. Please check the network and try again</source>
-        <translation>Nie można pobrać listy plików. Proszę sprawdź sieć i spróbuj ponownie</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można pobrać listy plików. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>%1 The above file names are not valid.</source>
@@ -785,10 +819,12 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>Cloud Docs</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Dokumenty usługi Cloud</translation>
     </message>
     <message>
         <source>&amp;Encryption</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>&amp;Szyfrowanie</translation>
     </message>
     <message>
@@ -797,11 +833,13 @@ Może to być spowodowane tym, że:
     </message>
     <message>
         <source>R&amp;efresh</source>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>O&amp;dśwież</translation>
     </message>
     <message>
         <source>New &amp;Folder</source>
-        <translation>Nowy &amp;folder</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Utwórz nowy &amp;folder</translation>
     </message>
 </context>
 <context>
@@ -1214,11 +1252,13 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <name>KRoamingSave2PrivateTip</name>
     <message>
         <source>Document has been saved automatically to the private space root directory</source>
-        <translation>Dokument został automatycznie zapisany do katalogu głównego przestrzeni prywatnej</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Dokument został automatycznie zapisany do katalogu głównego przestrzeni osobistej</translation>
     </message>
     <message>
         <source>Go to view private space</source>
-        <translation>Przejdź do widoku przestrzeni prywatnej</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przejdź do widoku przestrzeni osobistej</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1381,15 +1421,18 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     </message>
     <message>
         <source>Checking completed and will upload it at background</source>
-        <translation>Sprawdzanie zostało zakończone i będzie on przesłany w tle</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Zapisz do Dokumentów usługi Cloud - komunikat przy zapisywaniu pliku - tak jest ok</translatorcomment>
+        <translation>Sprawdzanie zostało zakończone i plik będzie przesyłany w tle.</translation>
     </message>
     <message>
         <source>Checking cloud saving permissions. Please wait...</source>
+        <translatorcomment>Funkcje specjalne-&gt;Zapisz do Dokumentów usługi Cloud - komunikat przy zapisywaniu pliku - tak jest ok</translatorcomment>
         <translation>Sprawdzanie uprawnień zapisywania do usługi Cloud. Proszę czekać...</translation>
     </message>
     <message>
         <source>Documents saving to the cloud failed. Please check the Internet and retry</source>
-        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Proszę sprawdź połączenie internetowe i spróbuj ponownie</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Zapisz do Dokumentów usługi Cloud - komunikat przy zapisywaniu pliku - tak jest ok</translatorcomment>
+        <translation>Zapisywanie dokumentów do usługi Cloud nie powiodło się. Sprawdź połączenie internetowe i spróbuj ponownie.</translation>
     </message>
 </context>
 <context>
@@ -1458,22 +1501,27 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <name>KxDlgNewFolder</name>
     <message>
         <source>New Folder</source>
-        <translation>Nowy folder</translation>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z&quot; lub&quot;Zapisz do Dokumentów usługi Cloud&quot;-&gt;kliknij na ikonę &quot;Utwórz nowy folder&quot; - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Tworzenie nowego folderu</translation>
     </message>
     <message>
         <source>Create</source>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z&quot; lub&quot;Zapisz do Dokumentów usługi Cloud&quot;-&gt;kliknij na ikonę &quot;Utwórz nowy folder&quot; - nazwa przycisku w oknie dialogowym - tak jest ok</translatorcomment>
         <translation>Utwórz</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z&quot; lub&quot;Zapisz do Dokumentów usługi Cloud&quot;-&gt;kliknij na ikonę &quot;Utwórz nowy folder&quot; - nazwa przycisku w oknie dialogowym - tak jest ok</translatorcomment>
         <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <source>Enter a new name(&amp;I):</source>
-        <translation>Wprowadź nową nazwę (&amp;I):</translation>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z&quot; lub&quot;Zapisz do Dokumentów usługi Cloud&quot;-&gt;kliknij na ikonę &quot;Utwórz nowy folder&quot; - opis w oknie dialogowym - tak jest ok</translatorcomment>
+        <translation>Wprowadź nową &amp;nazwę:</translation>
     </message>
     <message>
         <source>Creating a new folder. Please wait...</source>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z&quot; lub&quot;Zapisz do Dokumentów usługi Cloud&quot;-&gt;kliknij na ikonę &quot;Utwórz nowy folder&quot; - tak jest ok</translatorcomment>
         <translation>Tworzenie nowego folderu. Proszę czekać...</translation>
     </message>
 </context>
@@ -1699,7 +1747,8 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Modified Date</source>
         <comment>description for content mode</comment>
-        <translation>Data modyfikacji</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok - ta spacja na końcu jest potrzebna, aby nie zlewał się tekst opisu z datą</translatorcomment>
+        <translation>Data modyfikacji </translation>
     </message>
     <message>
         <source>Save backup file to File Safe.</source>
@@ -1731,21 +1780,25 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Private Space</source>
         <comment>FolderType</comment>
-        <translation>Przestrzeń prywatna</translation>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z&quot; lub &quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Przestrzeń osobista</translation>
     </message>
     <message>
         <source>Qing Address</source>
         <comment>FolderType</comment>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Adres usługi WPS Cloud</translation>
     </message>
     <message>
         <source>Send Address</source>
         <comment>FolderType</comment>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Wyślij adres</translation>
     </message>
     <message>
         <source>Receive Address</source>
         <comment>FolderType</comment>
+        <translatorcomment>Funkcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
         <translation>Odbierz adres</translation>
     </message>
     <message>
@@ -1761,12 +1814,14 @@ Nieprawidłowy rekord. Plik został zmieniony, usunięty lub przeniesiony.</tran
     <message>
         <source>Size:</source>
         <comment>description for content mode</comment>
-        <translation>Rozmiar:</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Rozmiar: </translation>
     </message>
     <message>
         <source>Type:</source>
         <comment>description for content mode</comment>
-        <translation>Typ:</translation>
+        <translatorcomment>tak jest ok - ta spacja musi być, aby nie zlewał się tekst</translatorcomment>
+        <translation>Typ: </translation>
     </message>
     <message>
         <source>Cloud Docs</source>

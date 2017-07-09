@@ -2006,6 +2006,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;entries</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;wpisy</translation>
     </message>
     <message>

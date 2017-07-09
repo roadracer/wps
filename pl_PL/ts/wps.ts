@@ -5660,6 +5660,7 @@ Przykład: +4 przenosi do przodu o cztery elementy.</translation>
     </message>
     <message>
         <source>&amp;entries</source>
+        <translatorcomment>Writer-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w Word</translatorcomment>
         <translation>&amp;wpisy</translation>
     </message>
     <message>
@@ -13517,7 +13518,7 @@ można zastosować własne elementy XML.</translation>
     </message>
     <message>
         <source>%1 minutes ago</source>
-        <translatorcomment>ok</translatorcomment>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>%1 minut temu</translation>
     </message>
     <message>

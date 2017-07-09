@@ -150,8 +150,8 @@ Kliknij, aby wyświetlić Szablony online</translation>
     </message>
     <message>
         <source>Old Private Space</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Poprzednia przestrzeń prywatna</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Poprzednia przestrzeń osobista</translation>
     </message>
     <message>
         <source>My Cloud Files</source>

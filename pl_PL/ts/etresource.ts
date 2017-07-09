@@ -11691,7 +11691,9 @@ COM</translation>
     </message>
     <message>
         <source>Create Cloud Link</source>
-        <translation>Utwórz łącze do usługi Cloud</translation>
+        <translatorcomment>Spreadsheets - Styl wstążki oraz klasyczny-&gt;Funkcje specjalne - ta spacja na końcu musi być, aby nie zlewały się wyrazy w stylu klasycznym - tak jest ok</translatorcomment>
+        <translation>Utwórz łącze 
+do usługi Cloud</translation>
     </message>
     <message>
         <source>Crop</source>

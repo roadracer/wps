@@ -41,11 +41,13 @@
     <name>KAccountSdkProxy</name>
     <message>
         <source>View On &amp;Website</source>
-        <translation>Wyświetl na witrynie sieci &amp;Web</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyświetl w witrynie sieci &amp;Web</translation>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation>Szczegóły &amp;przeniesienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szczegóły &amp;przekazywania</translation>
     </message>
     <message>
         <source>&amp;About</source>
@@ -87,7 +89,8 @@
     <name>KDetailGroupItem</name>
     <message>
         <source>Transfer details</source>
-        <translation>Szczegóły przeniesienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szczegóły przekazywania</translation>
     </message>
     <message>
         <source>Delete failed. Please close the opened file and try again.</source>
@@ -133,15 +136,18 @@
     </message>
     <message>
         <source>Operation refused. Please make sure you have permission to perform this operation.</source>
-        <translation>Odmówiono wykonania operacji. Proszę upewnić się, że masz uprawnienia do wykonania tej operacji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odmówiono wykonania operacji. Upewnij się, że masz uprawnienia do wykonania tej operacji.</translation>
     </message>
     <message>
         <source>Upload failed. Insufficient disk space. Please increase capacity and try again.</source>
-        <translation>Przekazywanie nie powiodło się. Za mało miejsca na dysku. Proszę zwiększ pojemność i spróbuj ponownie.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przekazywanie nie powiodło się. Za mało miejsca na dysku. Zwiększ pojemność i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Upload failed. File name or path is too long. Please rename or save to another location.</source>
-        <translation>Przekazywanie nie powiodło się. Nazwa pliku lub ścieżki jest zbyt długa. Proszę zmień nazwę lub zapisz w innej lokalizacji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przekazywanie nie powiodło się. Nazwa pliku lub ścieżki jest zbyt długa. Zmień nazwę lub zapisz w innej lokalizacji.</translation>
     </message>
     <message>
         <source>Upload failed. The directory does not exist. Please save the file to another directory.</source>
@@ -157,7 +163,8 @@
     </message>
     <message>
         <source>Task canceled. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation>Zadanie anulowane. Proszę kliknij &apos;Kontynuuj&apos;, aby przesłać plik ponownie.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zadanie anulowane. Kliknij przycisk &apos;Kontynuuj&apos;, aby ponownie przesłać plik.</translation>
     </message>
     <message>
         <source>Upload failed. Uploading files larger than 30M is currently not supported.</source>
@@ -165,7 +172,8 @@
     </message>
     <message>
         <source>Upload failed. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation>Przekazywanie nie powiodło się. Proszę kliknij &apos;Kontynuuj&apos;, aby przesłać plik ponownie.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przekazywanie nie powiodło się. Kliknij przycisk &apos;Kontynuuj&apos;, aby ponownie przesłać plik.</translation>
     </message>
     <message>
         <source>Upload failed. You are no longer a member of the group.</source>
@@ -177,7 +185,8 @@
     </message>
     <message>
         <source>Upload failed. The number of files in the group has reached its maximum limit. Please contact the group creator to upgrade the group.</source>
-        <translation>Przekazywanie nie powiodło się. Liczba plików w grupie osiągnęła limit maksymalny. Proszę skontaktować się z twórcą grupy, aby uaktualnić grupę.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Przekazywanie nie powiodło się. Liczba plików w grupie osiągnęła limit maksymalny. Skontaktuj się z twórcą grupy, aby uaktualnić grupę.</translation>
     </message>
     <message>
         <source>Upload failed. This group no longer exists.</source>
@@ -262,11 +271,13 @@
     </message>
     <message>
         <source>Login</source>
-        <translation>Zaloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zaloguj się</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation>Wyloguj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyloguj się</translation>
     </message>
     <message>
         <source>UnInit</source>
@@ -439,11 +450,13 @@
     </message>
     <message>
         <source>&amp;View On Website</source>
-        <translation>&amp;Wyświetl na witrynie sieci Web</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym - tak jest ok</translatorcomment>
+        <translation>&amp;Wyświetl w witrynie sieci Web</translation>
     </message>
     <message>
         <source>&amp;Transmission Details</source>
-        <translation>Szczegóły &amp;transmisji</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym - tak jest ok</translatorcomment>
+        <translation>Szczegóły &amp;przekazywania</translation>
     </message>
     <message>
         <source>&amp;Upload to Cloud Docs</source>
@@ -451,11 +464,13 @@
     </message>
     <message>
         <source>Disable &amp;Right-click Upload</source>
-        <translation>Wyłącz Przekazywanie klikając p&amp;rawym przyciskiem myszy</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym - tak jest ok</translatorcomment>
+        <translation>Wyłącz Przekazywanie po kliknięciu p&amp;rawym przyciskiem myszy</translation>
     </message>
     <message>
         <source>Enable &amp;Right-click Upload</source>
-        <translation>Włącz Przekazywanie klikając p&amp;rawym przyciskiem myszy</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszy na ikonie w pasku systemowym - tak jest ok</translatorcomment>
+        <translation>Włącz Przekazywanie po kliknięciu p&amp;rawym przyciskiem myszy</translation>
     </message>
     <message>
         <source>Proxy &amp;Settings</source>
@@ -486,19 +501,23 @@
     </message>
     <message>
         <source>Enabling right-click upload function succeeded.</source>
-        <translation>Włączanie funkcji Przekazywania klikając prawym przyciskiem myszy powiodło się.</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Włącz Przekazywanie po kliknięciu prawym przyciskiem myszy - tak jest ok</translatorcomment>
+        <translation>Włączenie funkcji Przekazywania po kliknięciu prawym przyciskiem myszy powiodło się.</translation>
     </message>
     <message>
         <source>Disabling right-click upload function succeeded.</source>
-        <translation>Wyłączanie funkcji Przekazywania klikając prawym przyciskiem myszy powiodło się.</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Wyłącz Przekazywanie po kliknięciu prawym przyciskiem myszy - tak jest ok</translatorcomment>
+        <translation>Wyłączenie funkcji Przekazywania po kliknięciu prawym przyciskiem myszy powiodło się.</translation>
     </message>
     <message>
         <source>Enabling right-click upload function failed. Please try again.</source>
-        <translation>Włączanie funkcji Przekazywania klikając prawym przyciskiem myszy nie powiodło się. Proszę spróbuj ponownie.</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Włącz Przekazywanie po kliknięciu prawym przyciskiem myszy - tak jest ok</translatorcomment>
+        <translation>Włączenie funkcji Przekazywania po kliknięciu prawym przyciskiem myszy nie powiodło się. Spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Disabling right-click upload function failed. Please try again.</source>
-        <translation>Wyłączanie funkcji Przekazywania klikając prawym przyciskiem myszy nie powiodło się. Proszę spróbuj ponownie.</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Wyłącz Przekazywanie po kliknięciu prawym przyciskiem myszy - tak jest ok</translatorcomment>
+        <translation>Wyłączenie funkcji Przekazywania po kliknięciu prawym przyciskiem myszy nie powiodło się. Spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Sign In</source>
@@ -507,7 +526,8 @@
     </message>
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
-        <translation>Uaktualnij WPS Office Cloud, aby doświadczyć najnowszej wersji.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uaktualnij usługę WPS Office Cloud, aby skorzystać z możliwości pracy na najnowszej wersji.</translation>
     </message>
     <message>
         <source>Transfering file &lt;a href=&quot;viewtransferdetail&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;&lt;/a&gt;. Switch user will terminate the tansfer.</source>
@@ -784,7 +804,8 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Unable to get the file list. Please check the network connection and try again.</source>
-        <translation>Nie można pobrać listy plików. Proszę sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Nie można pobrać listy plików. Sprawdź połączenie sieciowe i spróbuj ponownie.</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -855,6 +876,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Uploading:</source>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Szczegóły przekazywania - informacja w oknie dialogowym - tak jest ok</translatorcomment>
         <translation>Przekazywanie:</translation>
     </message>
     <message>
@@ -914,7 +936,8 @@ Czas do uaktualnienia: %1</translation>
     <name>KTransDetailsDlg</name>
     <message>
         <source>Transfer Details</source>
-        <translation>Szczegóły przeniesienia</translation>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Szczegóły przekazywania - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Szczegóły przekazywania</translation>
     </message>
     <message>
         <source>Close</source>
@@ -926,6 +949,7 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Uploading</source>
+        <translatorcomment>Funkcje specjalne-&gt;Utwórz łącze do usługi Cloud-&gt;Zaloguj się-&gt;Prawy przycisk myszki na ikonie w pasku systemowym-&gt;Szczegóły przekazywania - informacja w oknie dialogowym - tak jest ok</translatorcomment>
         <translation>Przekazywanie</translation>
     </message>
     <message>
@@ -983,11 +1007,13 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>View On &amp;Website</source>
-        <translation>Wyświetl na witrynie sieci &amp;Web</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wyświetl w witrynie sieci &amp;Web</translation>
     </message>
     <message>
         <source>&amp;Transfer Details</source>
-        <translation>Szczegóły &amp;przeniesienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szczegóły &amp;przekazywania</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -1129,8 +1155,8 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Old Private Space</source>
-        <translatorcomment>ok</translatorcomment>
-        <translation>Poprzednia przestrzeń prywatna</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Poprzednia przestrzeń osobista</translation>
     </message>
     <message>
         <source>My Cloud Files</source>
@@ -1174,15 +1200,18 @@ Czas do uaktualnienia: %1</translation>
     <name>syncenter::KFilesModel</name>
     <message>
         <source>Share Link</source>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud - tak jest ok</translatorcomment>
         <translation>Udostępnij łącze</translation>
     </message>
     <message>
         <source>Share link received</source>
-        <translation>Odebrano udostępniony link</translation>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud - tak jest ok</translatorcomment>
+        <translation>Udostępnij łącze odebrane</translation>
     </message>
     <message>
         <source>Share link transferred</source>
-        <translation>Przeniesiono udostępniony link</translation>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud - tak jest ok</translatorcomment>
+        <translation>Udostępnij łącze przekazane</translation>
     </message>
     <message>
         <source>My groups</source>
@@ -1190,11 +1219,13 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Your personal cloud document storage center</source>
-        <translation>Twoje osobiste centrum przechowywania dokumentów chmury</translation>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z&quot; lub&quot;Zapisz do Dokumentów usługi Cloud&quot; - tak jest ok</translatorcomment>
+        <translation>Centrum osobiste przechowywania dokumentów w usłudze Cloud</translation>
     </message>
     <message>
         <source>A powerful tool for rapid document sharing and coordination</source>
-        <translation>Zaawansowane narzędzie do szybkiego udostępnienia dokumentu i koordynacji</translation>
+        <translatorcomment>Fukcje specjalne-&gt;&quot;Otwórz z Dokumentów usługi Cloud - tak jest ok</translatorcomment>
+        <translation>Zaawansowane narzędzie do szybkiego udostępniania dokumentów i ich koordynacji</translation>
     </message>
     <message>
         <source>Make your teamwork more efficient in Groups.</source>
@@ -1206,7 +1237,8 @@ Czas do uaktualnienia: %1</translation>
     </message>
     <message>
         <source>Team group</source>
-        <translation>Grupa zespołu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Zespół grupy</translation>
     </message>
     <message>
         <source>Free group</source>

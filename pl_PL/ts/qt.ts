@@ -3084,6 +3084,7 @@ Proszę sprawdź, czy poprawnie sformułowano nazwę pliku.</translation>
     <message>
         <source>Uploading file failed:
 %1</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Przekazywanie pliku nie powiodło się:
 %1</translation>
     </message>
