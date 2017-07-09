@@ -2,14 +2,17 @@
 Comment=Use WPS Writer to edit articles and reports.
 Comment[zh_CN]=使用 WPS 文字编写报告，排版文章
 Comment[pt_BR]=Use WPS Texto para editar artigos e relatórios.
+Comment[pt_BR]=WPS szövegszerkesztés és jelentések.
 Exec=/usr/bin/wps %f
 GenericName=WPS Writer
 GenericName[zh_CN]=WPS 文字
 GenericName[pt_BR]=WPS Texto
+GenericName[hu_HU]=WPS Szövegszerkesztő
 MimeType=application/wps-office.wps;application/wps-office.wpt;application/wps-office.doc;application/wps-office.dot;application/vnd.ms-word;applica$
 Name=WPS Writer
 Name[zh_CN]=WPS 文字
 Name[pt_BR]=WPS Texto
+Name[hu_HU]=WPS Szövegszerkesztő
 StartupNotify=false
 Terminal=false
 Type=Application
