@@ -1214,7 +1214,7 @@
     </message>
     <message>
         <source>With The Circle Number.</source>
-        <translation type="unfinished"></translation>
+        <translation>Con el numero de circulo</translation>
     </message>
     <message>
         <source>a).b).c).</source>
@@ -4744,7 +4744,7 @@ On</source>
     </message>
     <message>
         <source>Support WPS</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda WPS</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>

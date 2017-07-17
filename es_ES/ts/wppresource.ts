@@ -2158,7 +2158,7 @@ diapositiva patrón</translation>
     </message>
     <message>
         <source>MoreFontEffects</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Más efecto de fuente</translation>
     </message>
     <message>
         <source>Normal</source>
