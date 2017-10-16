@@ -2279,15 +2279,15 @@
     <name>ongmani.ct_addons</name>
     <message>
         <source>Custom Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель інструментів користувача</translation>
     </message>
     <message>
         <source>Menu Command</source>
-        <translation type="unfinished"></translation>
+        <translation>Команда Меню</translation>
     </message>
     <message>
         <source>Toolbar Commands</source>
-        <translation type="unfinished"></translation>
+        <translation>Команди панелей інструментів</translation>
     </message>
 </context>
 <context>
@@ -4146,7 +4146,7 @@ On</source>
     <name>ongmani.ct_file.Help</name>
     <message>
         <source>WPS Writer Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Довідка WPS Writer</translation>
     </message>
 </context>
 <context>
