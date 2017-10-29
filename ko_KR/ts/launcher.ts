@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Create desktop shortcuts</source>
-        <translation type="unfinished">바로가기 만들기</translation>
+        <translation>바로가기 만들기</translation>
     </message>
 </context>
 <context>
@@ -34,16 +34,18 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>사용량: %1 
+</translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation type="unfinished"></translation>
+        <translation>    또는 %1 &lt;wps|wpp|et&gt; [문서_경로]
+</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation type="unfinished"></translation>
+        <translation>:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>
