@@ -4,7 +4,7 @@ CODING=$1
 LNG=`basename "$PWD"`
 LCONVERT=lconvert-qt4
 
-if ! which $LCONVERT ; then
+if ! which $LCONVERT &> /dev/null ; then
 	LCONVERT=lconvert
 fi
 
@@ -14,9 +14,10 @@ if [ ! -d "$CODING/shell2/mui/$LNG" ] ; then
 fi
 
 ts_files=`find ts -name *.ts`
+src_dir="$CODING/shell2/mui/$LNG"
 
 for ts in $ts_files ; do
-	source="$CODING/shell2/mui/$LNG/$ts"
+	source="${src_dir}/$ts"
 	# we don't need this translation anymore
 	if [ ! -e "$source" ] ; then
 		git rm "$ts"
@@ -24,4 +25,17 @@ for ts in $ts_files ; do
 	fi
 
 	$LCONVERT -i "$ts" "$source" -o "$ts"
+done
+
+
+# find new ts
+cd "${src_dir}"
+ts_files=`find ts -name *.ts`
+cd -
+
+for ts in $ts_files ; do
+	if [ ! -e "$ts" ] ; then
+		cp "${src_dir}/${ts}" "${ts}"
+		git add "${ts}"
+	fi
 done
