@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="/">
+		<file>icons/Numbering_Bullets/wpp_numbering_0.png</file>
+		<file>icons/Numbering_Bullets/wps_numbering_0.png</file>
+	</qresource>
+</RCC>

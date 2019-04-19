@@ -14,17 +14,17 @@
         <comment>_TxDocument_OpenPasswordFailureExtra</comment>
         <translation>因为口令无效。</translation>
     </message>
-	<message>
+    <message>
         <source>Do you embed the signature in the document?</source>
         <comment>_PdDocument_showSignDlg</comment>
         <translation>文档中包含未嵌入文档的签名，是否将签名嵌入文档？</translation>
     </message>
-	<message>
+    <message>
         <source>Whether to save the correction fluid coverage area?</source>
         <comment>_PdfDocument_normal_savescrawlDlg</comment>
         <translation>涂改液所覆盖的区域将不能再显示，是否保存？</translation>
     </message>
-	<message>
+    <message>
         <source>Whether to save the correction fluid coverage area of text edit?</source>
         <comment>_PdfDocument_textedit_savescrawlDlg</comment>
         <translation>请先保存涂改液（涂改液所覆盖的区域将不能再显示），是否保存？</translation>
@@ -104,7 +104,7 @@
         <comment>_PdDocument_InitPluginError</comment>
         <translation>请检查网络连接或重启PDF后重试。</translation>
     </message>
-	<message>
+    <message>
         <source>TranslateAll load Fail</source>
         <comment>_PdDocument_TranslateAllloadFail</comment>
         <translation>全文翻译工具加载失败。</translation>
@@ -114,7 +114,7 @@
         <comment>_PdDocument_PluginLoading</comment>
         <translation>PDF特色工具正在加载中，请稍等。</translation>
     </message>
-	<message>
+    <message>
         <source>TranslateionAll plugin Loading, please try angin.</source>
         <comment>_PdDocument_TransAllPluginLoading</comment>
         <translation>全文翻译工具正在加载中，请稍等。</translation>
@@ -156,7 +156,7 @@ The operation is irrevocable</source>
         <translation>是否确定删除选定页面？
 该操作不可撤销。</translation>
     </message>
-	<message>
+    <message>
         <source>Are you sure to delete all history files?</source>
         <comment>_Pdf_Waring_Delete_All_History_Files</comment>
         <translation>确定删除所有本地历史记录？</translation>
@@ -185,11 +185,11 @@ Please batches operations</source>
         <source>Encryption will take effect after the document is saved</source>
         <translation>加密将在保存文档后生效。</translation>
     </message>
-	<message>
+    <message>
         <source>The size of the inserted image is too large.</source>
         <translation>图片文件过大，请选择小于20M的图片。</translation>
     </message>
-	<message>
+    <message>
         <source>Encryption will take effect after the document is saved</source>
         <comment>_Pdf_Waring_Key_Effect_Need_Save</comment>
         <translation>加密将在保存文档后生效。</translation>

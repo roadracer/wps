@@ -169,7 +169,7 @@
         <extracomment>ZoomOut.title</extracomment>
         <translation>放大</translation>
     </message>
-	<message id="Shape.content">
+    <message id="Shape.content">
         <source>Shape</source>
         <extracomment>Shape.content</extracomment>
         <translation>绘制形状</translation>
@@ -179,7 +179,7 @@
         <extracomment>Shape.title</extracomment>
         <translation>形状</translation>
     </message>
-	<message id="ChangeBackGround.content">
+    <message id="ChangeBackGround.content">
         <source>ChangeBackGround</source>
         <extracomment>ChangeBackGround.content</extracomment>
         <translation>更换页面背景色</translation>
@@ -389,27 +389,27 @@
         <extracomment>PDFToWord.content</extracomment>
         <translation>将PDF格式转为文字格式</translation>
     </message>
-	<message id="PDF2Excel.title">
+    <message id="PDF2Excel.title">
         <source>PDF2Excel</source>
         <extracomment>PDF2Excel.title</extracomment>
         <translation>PDF转Excel</translation>
     </message>
-	<message id="PDF2Excel.content">
+    <message id="PDF2Excel.content">
         <source>PDF2Excel</source>
         <extracomment>PDF2Excel.content</extracomment>
         <translation>将文档转换为Excel文件</translation>
     </message>
-	<message id="PDF2PPT.title">
+    <message id="PDF2PPT.title">
         <source>PDF2PPT</source>
         <extracomment>PDF2PPT.title</extracomment>
         <translation>PDF转PPT</translation>
     </message>
-	<message id="PDF2PPT.content">
+    <message id="PDF2PPT.content">
         <source>PDF2PPT</source>
         <extracomment>PDF2PPT.content</extracomment>
         <translation>将文档转换为PPT文件</translation>
     </message>
-	<message id="Photo2PDF.title">
+    <message id="Photo2PDF.title">
         <source>Photo to Pdf</source>
         <extracomment>Photo2PDF.title</extracomment>
         <translation>图片转PDF</translation>
@@ -419,7 +419,7 @@
         <extracomment>Photo2PDF.content</extracomment>
         <translation>图片格式的文件批量转换成PDF</translation>
     </message>
-	<message id="PDF2Photo.title">
+    <message id="PDF2Photo.title">
         <source>PDF2Photo</source>
         <extracomment>PDF2Photo.title</extracomment>
         <translation>PDF转图片</translation>
@@ -465,9 +465,9 @@
         <translation>高亮文本</translation>
     </message>
     <message id="PdfSignature.content">
-      <source>PdfSignature</source>
-      <extracomment>PdfSignature.content</extracomment>
-      <translation>插入签名</translation>
+        <source>PdfSignature</source>
+        <extracomment>PdfSignature.content</extracomment>
+        <translation>插入签名</translation>
     </message>
     <message id="NoteBorder.content">
         <source>NoteBorder</source>
@@ -485,9 +485,9 @@
         <translation>选择工具</translation>
     </message>
     <message id="HighlightBorder.title">
-      <source>HighlightBorder</source>
-      <extracomment>HighlightBorder.title</extracomment>
-      <translation>高亮</translation>
+        <source>HighlightBorder</source>
+        <extracomment>HighlightBorder.title</extracomment>
+        <translation>高亮</translation>
     </message>
     <message id="PdfSignature.title">
         <source>PdfSignature</source>
@@ -681,52 +681,52 @@
         <extracomment>ClockwiseDoc.content</extracomment>
         <translation>旋转该文档全部页面</translation>
     </message>
-	<message id="CorrectionFluid.title">
+    <message id="CorrectionFluid.title">
         <source>CorrectionFluid</source>
         <extracomment>CorrectionFluid.title</extracomment>
         <translation>涂改液</translation>
     </message>
-	<message id="CorrectionFluid.content">
+    <message id="CorrectionFluid.content">
         <source>CorrectionFluid</source>
         <extracomment>CorrectionFluid.content</extracomment>
         <translation>遮盖你不想要的区域</translation>
     </message>
-	<message id="AddImage.title">
+    <message id="AddImage.title">
         <source>AddImage</source>
         <extracomment>AddImage.title</extracomment>
         <translation>添加图片</translation>
     </message>
-	<message id="AddImage.content">
+    <message id="AddImage.content">
         <source>AddImage</source>
         <extracomment>AddImage.content</extracomment>
         <translation>插入本地文件夹内的图片</translation>
     </message>
-	<message id="PdfImageRotate90.title">
+    <message id="PdfImageRotate90.title">
         <source>PdfImageRotate90</source>
         <extracomment>PdfImageRotate90.title</extracomment>
         <translation>旋转</translation>
     </message>
-	<message id="PdfImageReverse.title">
+    <message id="PdfImageReverse.title">
         <source>PdfImageReverse</source>
         <extracomment>PdfImageReverse.title</extracomment>
         <translation>翻转</translation>
     </message>
-	<message id="PdfImageReplace.title">
+    <message id="PdfImageReplace.title">
         <source>PdfImageReplace</source>
         <extracomment>PdfImageReplace.title</extracomment>
         <translation>替换</translation>
     </message>
-	<message id="PdfImageOpacity.title">
+    <message id="PdfImageOpacity.title">
         <source>PdfImageOpacity</source>
         <extracomment>PdfImageOpacity.title</extracomment>
         <translation>透明度</translation>
     </message>
-	<message id="PdfImageExitEdit.title">
+    <message id="PdfImageExitEdit.title">
         <source>PdfImageExitEdit</source>
         <extracomment>PdfImageExitEdit.title</extracomment>
         <translation>完成</translation>
     </message>
-	<message id="PdfImageEnterEdit.title">
+    <message id="PdfImageEnterEdit.title">
         <source>PdfImageEnterEdit</source>
         <extracomment>PdfImageEnterEdit.title</extracomment>
         <translation>编辑图片</translation>
@@ -741,12 +741,12 @@
         <extracomment>CompressTips.content</extracomment>
         <translation>减小PDF文件的体积</translation>
     </message>
-	<message id="TranslationAll.title">
+    <message id="TranslationAll.title">
         <source>TranslationAll</source>
         <extracomment>TranslationAll.title</extracomment>
         <translation>全文翻译</translation>
     </message>
-	<message id="TranslationAll.content">
+    <message id="TranslationAll.content">
         <source>TranslationAll</source>
         <extracomment>TranslationAll.content</extracomment>
         <translation>对全文进行翻译</translation>

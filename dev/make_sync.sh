@@ -39,3 +39,26 @@ for ts in $ts_files ; do
 		git add "${ts}"
 	fi
 done
+
+# sync resources
+# TODO: merge with the old one?
+
+target_dir=`pwd`
+
+cd "${src_dir}"
+
+function copy_res()
+{
+	local _res="$1"
+	if [ -e "${_res}" ] ; then
+		rm -rf "${target_dir}/${_res}"
+		cp -r "${_res}" "${target_dir}/${_res}"
+	fi
+}
+
+resources=("config" "data" "l10n" "templates")
+for res in ${resources[@]} ; do
+	copy_res "$res"
+done
+
+cd -

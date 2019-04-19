@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
 <TS version="2.0" language="zh_CN">
 <defaultcodec>UTF-8</defaultcodec>
@@ -191,7 +191,7 @@
         <source>PDF2PPT</source>
         <translation>PDF转PPT</translation>
     </message>
-	<message>
+    <message>
         <source>PDF2Excel</source>
         <translation>PDF转Excel</translation>
     </message>
@@ -211,7 +211,7 @@
         <source>DeletePages</source>
         <translation>删除页面</translation>
     </message>
-	<message>
+    <message>
         <source>DeleteImage</source>
         <translation>删除图片</translation>
     </message>
@@ -345,10 +345,6 @@ Rotation</source>
         <translation>全屏</translation>
     </message>
     <message>
-        <source>FullScreen</source>
-        <translation>全屏</translation>
-    </message>
-    <message>
         <source>GoTo</source>
         <translation type="unfinished"></translation>
     </message>
@@ -412,11 +408,7 @@ Rotation</source>
         <source>MergePDF</source>
         <translation>PDF合并</translation>
     </message>
-	<message>
-        <source>Convert2Photo</source>
-        <translation>转换为图片</translation>
-    </message>
-	<message>
+    <message>
         <source>Convert2Photo</source>
         <translation>转换为图片</translation>
     </message>
@@ -427,18 +419,6 @@ Rotation</source>
     <message>
         <source>PDF2Ppt</source>
         <translation>PDF转PPT</translation>
-    </message>
-	<message>
-        <source>PDF2Excel</source>
-        <translation>PDF转Excel</translation>
-    </message>
-    <message>
-        <source>PDF2Ppt</source>
-        <translation>PDF转PPT</translation>
-    </message>
-	<message>
-        <source>PDF2Excel</source>
-        <translation>PDF转Excel</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -496,15 +476,15 @@ Rotation</source>
         <source>PDFToWord</source>
         <translation>转为Word</translation>
     </message>
-	<message>
+    <message>
         <source>PDFToExcel</source>
         <translation>转为Excel</translation>
     </message>
-	<message>
+    <message>
         <source>PDFToPPT</source>
         <translation>转为PPT</translation>
     </message>
-	<message>
+    <message>
         <source>Exit This Time</source>
         <translation>本次退出</translation>
     </message>
@@ -564,15 +544,7 @@ Rotation</source>
         <source>Property</source>
         <translation>设置注释框属性</translation>
     </message>
-	<message>
-        <source>ApplyOtherPage</source>
-        <translation>应用到其他页面</translation>
-    </message>
-	<message>
-        <source>EmbedDocument</source>
-        <translation>嵌入文档</translation>
-    </message>
-	<message>
+    <message>
         <source>QtSave</source>
         <translation>保存</translation>
     </message>
@@ -769,7 +741,7 @@ Rotation</source>
         <source>Zoom Out Thumbnails</source>
         <translation>缩小缩略图</translation>
     </message>
-	<message>
+    <message>
         <source>ZoomIn</source>
         <translation>缩小</translation>
     </message>
@@ -802,14 +774,6 @@ Rotation</source>
         <translation>逆时针</translation>
     </message>
     <message>
-        <source>clockwise</source>
-        <translation type="obsolete">顺时针</translation>
-    </message>
-    <message>
-        <source>clockwise doc</source>
-        <translation>旋转文档</translation>
-    </message>
-    <message>
         <source>clockwise rotation</source>
         <translation>顺时针</translation>
     </message>
@@ -817,39 +781,11 @@ Rotation</source>
         <source>pdfconvertword</source>
         <translation type="unfinished">将文档转为word</translation>
     </message>
-	<message>
-        <source>InterceptSelectedArea</source>
-        <translation type="unfinished">截图和对比</translation>
-    </message>
-	<message>
-        <source>InterceptSelectedPage</source>
-        <translation type="unfinished">截取单个页面</translation>
-    </message>
-	<message>
-        <source>RandomDraw</source>
-        <translation type="unfinished">随意画</translation>
-    </message>
-	<message>
-        <source>CorrectionFluid</source>
-        <translation type="unfinished">涂改液</translation>
-    </message>
-	<message>
+    <message>
         <source>TranslationAll</source>
         <translation>全文翻译</translation>
     </message>
-	<message>
-        <source>CorrectionFluidFlatCap</source>
-        <translation type="unfinished">直角笔头</translation>
-    </message>
-	<message>
-        <source>CorrectionFluidRoundCap</source>
-        <translation type="unfinished">圆角笔头</translation>
-    </message>
-	<message>
-        <source>CorrectionFluidLineStyle</source>
-        <translation type="unfinished">线条粗细</translation>
-    </message>
-	<message>
+    <message>
         <source>DeleteEraserMenu</source>
         <translation>删除涂改液</translation>
     </message>
@@ -950,23 +886,11 @@ Rotation</source>
         <source>SaveAs</source>
         <translation>另存为</translation>
     </message>
-	<message>
-        <source>PDFToWord</source>
-        <translation>PDF转Word</translation>
-    </message>
-	<message>
-        <source>PDF2Photo</source>
-        <translation>PDF转图片</translation>
-    </message>
-	<message>
-        <source>Photo2PDF</source>
-        <translation>从图片新建</translation>
-    </message>
-	    <message>
+    <message>
         <source>SaveAsPDFCompress</source>
         <translation>另存为压缩文档</translation>
     </message>
-	<message>
+    <message>
         <source>Creat PDF File</source>
         <translation>新建PDF</translation>
     </message>
@@ -1087,7 +1011,7 @@ Rotation</source>
 </context>
 <context>
     <name>ongmani.ct_pagemanager</name>
-	<message>
+    <message>
         <source>Docmgr</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1136,7 +1060,7 @@ Rotation</source>
         <source>Menu Tools</source>
         <translation type="unfinished">工具</translation>
     </message>
-	<message>
+    <message>
         <source>Translate selected</source>
         <translation>划词翻译</translation>
     </message>
@@ -1320,11 +1244,11 @@ Side by Side</source>
         <source>PDF To Word</source>
         <translation>PDF转word</translation>
     </message>
-	<message>
+    <message>
         <source>Photo2Pdf</source>
         <translation>图片转PDF</translation>
     </message>
-	<message>
+    <message>
         <source>Picture to Text</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1363,7 +1287,7 @@ Side by Side</source>
         <source>Kingsoft StandAlone PDF</source>
         <translation type="obsolete">金山PDF独立版</translation>
     </message>
-	<message>
+    <message>
         <source>accout info</source>
         <translation>账号信息</translation>
     </message>
@@ -1372,7 +1296,7 @@ Side by Side</source>
     <name>pdfongmani.mainwindow.commands</name>
     <message>
         <source>Account Upgrade</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">账号升级</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -1388,7 +1312,7 @@ Side by Side</source>
     </message>
     <message>
         <source>Cloud Space</source>
-		<translation type="unfinished"></translation>
+        <translation type="unfinished">云空间</translation>
     </message>
     <message>
         <source>Compress</source>
@@ -1396,11 +1320,11 @@ Side by Side</source>
     </message>
     <message>
         <source>Convenient Sharing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">便捷分享</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">云端备份</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1442,17 +1366,9 @@ Side by Side</source>
         <source>Online Editing</source>
         <translation>在线编辑</translation>
     </message>
-	    <message>
-        <source>File Roaming</source>
-        <translation>云端备份</translation>
-    </message>
-	<message>
+    <message>
         <source>Cloud Service</source>
         <translation>云服务</translation>
-    </message>
-    <message>
-        <source>Cloud Space</source>
-        <translation>云空间</translation>
     </message>
     <message>
         <source>Combine Characters</source>
@@ -1463,14 +1379,6 @@ Side by Side</source>
         <translation>兼容模式</translation>
     </message>
     <message>
-        <source>Convenient Sharing</source>
-        <translation>便捷分享</translation>
-    </message>
-	    <message>
-        <source>Account Upgrade</source>
-        <translation>账号升级</translation>
-    </message>
-	    <message>
         <source>Quick Retrieve</source>
         <translation>一键找回</translation>
     </message>
@@ -1513,10 +1421,6 @@ Side by Side</source>
     <message>
         <source>Quick Access Toolbar</source>
         <translation>快速访问工具栏</translation>
-    </message>
-    <message>
-        <source>Quick Retrieve</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent Documents</source>
@@ -1594,7 +1498,7 @@ Side by Side</source>
         <source>accout info</source>
         <translation>账号信息</translation>
     </message>
-	    <message>
+    <message>
         <source>accout secure</source>
         <translation>账号安全</translation>
     </message>
@@ -1622,7 +1526,7 @@ Side by Side</source>
         <source>upgrade VIP</source>
         <translation>会员升级</translation>
     </message>
-	<message>
+    <message>
         <source>TranslationAll</source>
         <translation>全文翻译</translation>
     </message>
@@ -1718,7 +1622,7 @@ Add-Ins</source>
         <source>Do not Show Line Number for Blank Line</source>
         <translation type="unfinished"></translation>
     </message>
-	<message>
+    <message>
         <source>EditImage</source>
         <translation>编辑图片</translation>
     </message>
@@ -1774,7 +1678,7 @@ Add-Ins</source>
         <source>Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
-	<message>
+    <message>
         <source>Image2Bottom</source>
         <translation>置于底层</translation>
     </message>

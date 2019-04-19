@@ -8,27 +8,27 @@
         <source>Open</source>
         <translation type="unfinished">打开</translation>
     </message>
-	<message>
+    <message>
         <source>OpenFile</source>
         <translation type="unfinished">打开文档</translation>
     </message>
-	<message>
+    <message>
         <source>FileName</source>
         <translation type="unfinished">文档名称</translation>
     </message>
-	<message>
+    <message>
         <source>ReadTime</source>
         <translation type="unfinished">阅读时间</translation>
     </message>
-	<message>
+    <message>
         <source>FilePosition</source>
         <translation type="unfinished">所在目录</translation>
     </message>
-	<message>
+    <message>
         <source>FileSize</source>
         <translation type="unfinished">大小</translation>
     </message>
-	<message>
+    <message>
         <source>FileEmptySize</source>
         <translation type="unfinished">未知</translation>
     </message>
@@ -46,44 +46,44 @@
         <source>backup</source>
         <translation type="unfinished">返回</translation>
     </message>
-	<message>
+    <message>
         <source>Unable to open &quot;%1&quot;!</source>
         <translation>无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
     </message>
-	<message>
+    <message>
         <source>System %1 disk</source>
         <translation>%1 盘</translation>
     </message>
-	<message>
+    <message>
         <source>Add invaild folder</source>
         <translation type="unfinished">无效文件夹</translation>
     </message>
-	<message>
+    <message>
         <source>Add Folder</source>
         <translation type="unfinished">添加文件夹</translation>
     </message>
-	<message>
+    <message>
         <source>donot have any sub files</source>
         <translation type="unfinished">文件夹内没有任何PDF文件</translation>
     </message>
-	<message>
+    <message>
         <source>You have already added this folder</source>
         <translation type="unfinished">您已经添加了此文件夹</translation>
     </message>
-	<message>
+    <message>
         <source>Open folder</source>
         <translation type="unfinished">打开文件夹</translation>
     </message>
-	<message>
+    <message>
         <source>Delete folder</source>
         <translation type="unfinished">删除文件夹(本地不删除)</translation>
     </message>
-	<message>
+    <message>
         <source>Open file</source>
         <translation type="unfinished">打开文件</translation>
     </message>
-	<message>
+    <message>
         <source>Desktop</source>
         <translation type="unfinished">桌面</translation>
     </message>
@@ -269,14 +269,14 @@
 <context>
     <name>KPdfRecentFilePage</name>
     <message>
-        <source>Cloud file can't open explorer</source>
+        <source>Cloud file can&apos;t open explorer</source>
         <translation>该云文档尚未下载到本地。</translation>
     </message>
     <message>
         <source>Open the cloud file before you compress it</source>
         <translation>请先打开云文档，再进行压缩。</translation>
     </message>
-	<message>
+    <message>
         <source>Unable to open &quot;%1&quot;!</source>
         <translation>无法打开 “%1”。
 此文件可能被重命名、删除或移动了位置。</translation>
@@ -790,23 +790,23 @@ has compressed,the size is %2</source>
         <source>Cancle</source>
         <translation>取消</translation>
     </message>
-	<message>
+    <message>
         <source>CompressImage</source>
         <translation>可压缩图片对象</translation>
     </message>
-	<message>
+    <message>
         <source>OptimizeFileStruct</source>
         <translation>可优化文档结构</translation>
     </message>
-	<message>
+    <message>
         <source>RemoveInvalidLink</source>
         <translation>可放弃无效链接</translation>
     </message>
-	<message>
+    <message>
         <source>RemoveOutlineAndThumbnail</source>
         <translation>可删除书签与缩略图</translation>
     </message>
-	<message>
+    <message>
         <source>RemoveRedundantFonts</source>
         <translation>可压缩冗余字体</translation>
     </message>
@@ -1289,18 +1289,18 @@ Deleted pages can not be recovered</source>
         <source>FileNewFeatures</source>
         <translation type="unfinished">发现</translation>
     </message>
-	<message>
+    <message>
         <source>PdfCommFile</source>
         <translation type="unfinished">常用文件夹</translation>
     </message>
 </context>
 <context>
-	<name>KxPdfThumbnailView</name>
-	<message>
+    <name>KxPdfThumbnailView</name>
+    <message>
         <source>Move Page is VIP exclusive privilege.</source>
         <translation>移动页面为WPS会员专属特权。</translation>
     </message>
-	<message>
+    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -1588,8 +1588,8 @@ please sign in to use WPS Office.</source>
     </message>
 </context>
 <context>
-<name>KxPdfSignApplyDlg</name>
-	  <message>
+    <name>KxPdfSignApplyDlg</name>
+    <message>
         <source>Apply other page</source>
         <translation>应用到其他页面</translation>
     </message>
@@ -1601,39 +1601,39 @@ please sign in to use WPS Office.</source>
         <source>Odd and even pages</source>
         <translation>奇偶页面</translation>
     </message>
-	<message>
+    <message>
         <source>Embed Document</source>
         <translation>嵌入文档</translation>
     </message>
-	<message>
+    <message>
         <source>OK</source>
         <translation>确认</translation>
     </message>
-		<message>
+    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
-		<message>
+    <message>
         <source>All</source>
         <translation>所有页面</translation>
     </message>
-			<message>
+    <message>
         <source>Current page</source>
         <translation>当前页面</translation>
     </message>
-	<message>
+    <message>
         <source>Page Select</source>
         <translation>页面选择</translation>
     </message>
-	<message>
-	    <source>Odd page</source>
+    <message>
+        <source>Odd page</source>
         <translation>仅奇数页</translation>
     </message>
-	<message>
-		<source>Even page</source>
+    <message>
+        <source>Even page</source>
         <translation>仅偶数页</translation>
     </message>
-      <message>
+    <message>
         <source>Please enter a valid page range</source>
         <translation>请确认签名的有效范围</translation>
     </message>
@@ -1648,7 +1648,7 @@ please sign in to use WPS Office.</source>
         <source>Only insert 1 signature</source>
         <translation>只添加一个签名</translation>
     </message>
-	<message>
+    <message>
         <source>NewSignature</source>
         <translation>创建新的签名</translation>
     </message>
@@ -1726,15 +1726,15 @@ please sign in to use WPS Office.</source>
         <source>Delete Scrawl</source>
         <translation>删除</translation>
     </message>
-	<message>
+    <message>
         <source>Correction fluid login prompt</source>
-        <translation>"涂改液"功能为WPS会员专属特权</translation>
+        <translation>&quot;涂改液&quot;功能为WPS会员专属特权</translation>
     </message>
-	<message>
+    <message>
         <source>Correction member prompt</source>
-        <translation>"涂改液"功能为WPS会员专属特权</translation>
+        <translation>&quot;涂改液&quot;功能为WPS会员专属特权</translation>
     </message>
-	<message>
+    <message>
         <source>Cancel</source>
         <translation>取消</translation>
     </message>
@@ -2758,31 +2758,31 @@ For example, 1,3,5-12.</source>
         <source>Clear</source>
         <translation>清除</translation>
     </message>
-	<message>
+    <message>
         <source>Signature</source>
         <translation>手写签名</translation>
     </message>
-	<message>
+    <message>
         <source>Input Signature</source>
         <translation>输入签名</translation>
     </message>
-	<message>
+    <message>
         <source>Import picture</source>
         <translation>导入图片</translation>
     </message>
-	<message>
+    <message>
         <source>add Image</source>
         <translation>添加图片</translation>
     </message>
-	<message>
+    <message>
         <source>The font &apos;</source>
         <translation>您设置的字体 “</translation>
     </message>
-	<message>
-        <source>' is not available on your system. Do you want to use this font anyway?</source>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <translation>” 对您的系统无效,是否继续使用该字体?</translation>
     </message>
-	<message>
+    <message>
         <source>Preview of black and white</source>
         <translation>黑白预览</translation>
     </message>
@@ -3085,11 +3085,11 @@ Please modify and try again</source>
         <source>strong</source>
         <translation>强</translation>
     </message>
-	<message>
+    <message>
         <source>IsEncrypting %1%</source>
         <translation>正在加密 %1%</translation>
     </message>
-	<message>
+    <message>
         <source>Is Encrypt</source>
         <translation>加密</translation>
     </message>
@@ -3308,15 +3308,14 @@ Please modify and try again</source>
         <source>TranslateToDocBottom</source>
         <translation>已到文档尾部</translation>
     </message>
-	<message>
+    <message>
         <source>EscStopScrawl</source>
         <translation>按ESC可退出涂改液状态</translation>
     </message>
-	<message>
+    <message>
         <source>the copy was successful</source>
         <translation>复制成功</translation>
     </message>
-
 </context>
 <context>
     <name>historyFileGuide</name>
@@ -3324,15 +3323,15 @@ Please modify and try again</source>
         <source>ShowCloudFile</source>
         <translation type="unfinished">显示云文档</translation>
     </message>
-	 <message>
+    <message>
         <source>deleteAllTip</source>
         <translation>清空本地历史记录</translation>
     </message>
-	<message>
+    <message>
         <source>fileListTip</source>
         <translation>切换至列表模式</translation>
     </message>
-	<message>
+    <message>
         <source>fileViewTip</source>
         <translation>切换至视图模式</translation>
     </message>
@@ -3343,35 +3342,35 @@ Please modify and try again</source>
         <source>deleteTip</source>
         <translation>清除记录</translation>
     </message>
-	<message>
+    <message>
         <source>fixedFile</source>
         <translation>固定至列表</translation>
     </message>
-	<message>
+    <message>
         <source>unfixedFile</source>
         <translation>取消固定</translation>
     </message>
-	<message>
+    <message>
         <source>pdfcompress</source>
         <translation>PDF压缩</translation>
     </message>
-	<message>
+    <message>
         <source>pdf2wordTip</source>
         <translation>PDF转Word</translation>
     </message>
-	<message>
+    <message>
         <source>openDirTip</source>
         <translation>打开所在文件夹</translation>
     </message>
-	<message>
+    <message>
         <source>Clear Invalid File</source>
         <translation>清空所有失效的文档记录</translation>
     </message>
-	<message>
+    <message>
         <source>InterceptSelectedArea</source>
         <translation>截图和对比</translation>
     </message>
-	<message>
+    <message>
         <source>InterceptSelectedPage</source>
         <translation>截取单个页面</translation>
     </message>
@@ -3493,23 +3492,23 @@ Please modify and try again</source>
         <source>装订:</source>
         <translation type="unfinished">装订:</translation>
     </message>
-	<message>
+    <message>
         <source>DoubleSide</source>
         <translation type="unfinished">双面</translation>
     </message>
-	<message>
+    <message>
         <source>OnlyFront</source>
         <translation type="unfinished">仅正面</translation>
     </message>
-	<message>
+    <message>
         <source>OnlyBehind</source>
         <translation type="unfinished">仅背面</translation>
     </message>
-	<message>
+    <message>
         <source>Left</source>
         <translation type="unfinished">左</translation>
     </message>
-	<message>
+    <message>
         <source>Right</source>
         <translation type="unfinished">右</translation>
     </message>
@@ -3609,11 +3608,11 @@ Please modify and try again</source>
         <source>纸张方向</source>
         <translation>纸张方向</translation>
     </message>
-	<message>
+    <message>
         <source>Switch SipmleMode</source>
         <translation>切换至简易版</translation>
     </message>
-	<message>
+    <message>
         <source>Switch ComplexMode</source>
         <translation>切换至完整版</translation>
     </message>
@@ -3710,7 +3709,7 @@ For example, 1,3,5-12.</source>
         <source>Page Select</source>
         <translation type="unfinished">页面选择</translation>
     </message>
-	<message>
+    <message>
         <source>Current viewPage</source>
         <translation>当前视图</translation>
     </message>
@@ -3767,7 +3766,7 @@ p, li { white-space: pre-wrap; }
 </context>
 <context>
     <name>KxPdfCopyProDialogWidget</name>
-	<message>
+    <message>
         <source>hint</source>
         <translation>提示</translation>
     </message>
@@ -3775,18 +3774,18 @@ p, li { white-space: pre-wrap; }
         <source>Export</source>
         <translation>导出为word</translation>
     </message>
-	<message>
+    <message>
         <source>Just Copy %1 words</source>
         <translation>仅复制前%1字</translation>
     </message>
-	<message>
+    <message>
         <source>Copy text only</source>
         <translation>仅复制文字</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCopyProCompelDialog</name>
-	<message>
+    <message>
         <source>hint</source>
         <translation>提示</translation>
     </message>
@@ -3794,27 +3793,27 @@ p, li { white-space: pre-wrap; }
         <source>Export</source>
         <translation>导出为word</translation>
     </message>
-	<message>
+    <message>
         <source>Just Copy %1 words</source>
         <translation>仅复制前%1字</translation>
     </message>
-	<message>
+    <message>
         <source>Copy text only</source>
         <translation>仅复制文字</translation>
     </message>
-		<message>
+    <message>
         <source>Extraction</source>
         <translation>一键提取</translation>
     </message>
-	<message>
+    <message>
         <source>Never notify</source>
         <translation>不再提醒</translation>
     </message>
-			<message>
+    <message>
         <source>the copy %1 was successful</source>
         <translation>复制前%1字成功</translation>
     </message>
-	<message>
+    <message>
         <source>PDF copy is VIP exclusive privilege</source>
         <translation>“PDF复制”为WPS会员专属特权</translation>
     </message>

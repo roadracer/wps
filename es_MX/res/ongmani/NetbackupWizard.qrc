@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="/">
+		<file>NetbackupWizard/emptybacktip.png</file>
+	</qresource>
+</RCC>

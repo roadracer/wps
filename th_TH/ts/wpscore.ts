@@ -1,0 +1,7718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="en_US">
+<defaultcodec>UTF-8</defaultcodec>
+<context>
+    <name>field_parser_index</name>
+    <message>
+        <source>Error. No index entries found.</source>
+        <translation>เกิดข้อผิดพลาด ไม่พบรายการดัชนี</translation>
+    </message>
+    <message>
+        <source>Error. Switch argument not specified.</source>
+        <translation>เกิดข้อผิดพลาด ไม่มีการกำหนดการสลับเปลี่ยนอาร์กิวเมนต์</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid bookmark in entry on page .</source>
+        <translation>เกิดข้อผิดพลาด ไม่ใช่บุ๊กมาร์กที่ถูกต้องในรายการที่หน้า</translation>
+    </message>
+    <message>
+        <source>Alphanumeric</source>
+        <translation>ตัวอักษรเลข</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <translation>สัญลักษณ์</translation>
+    </message>
+    <message>
+        <source>Error. Unknown switch argument.</source>
+        <translation>เกิดข้อผิดพลาด การสลับเปลี่ยนอาร์กิวเมนต์ที่ไม่รู้จัก</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>เส้น</translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation>อักษรจีน</translation>
+    </message>
+    <message>
+        <source>Error. Not a valid range of characters.</source>
+        <translation>เกิดข้อผิดพลาด ไม่ใช่ช่วงอักขระที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Error. Index not allowed in footnote, endnote, header, footer, or comment.</source>
+        <translation>เกิดข้อผิดพลาด ไม่อนุญาตให้ใช้ดัชนีในเชิงอรรถ, อ้างอิงท้ายเรื่อง, หัวกระดาษ. ท้ายกระดาษ หรือข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot update Index.</source>
+        <translation>WPS Writer ไม่สามารถอัปเดตดัชนีได้</translation>
+    </message>
+</context>
+<context>
+    <name>io_string</name>
+    <message>
+        <source>Author</source>
+        <comment>IO_String_Author</comment>
+        <translation type="obsolete">ผู้สร้าง</translation>
+    </message>
+</context>
+<context>
+    <name>wps_comment</name>
+    <message>
+        <source>Comment</source>
+        <comment>TX_COMMENT_TITLE</comment>
+        <translation>ข้อคิดเห็น</translation>
+    </message>
+</context>
+<context>
+    <name>wps_drawing</name>
+    <message>
+        <source>Insert Picture</source>
+        <comment>TxVersion_InsertPicture</comment>
+        <translation>แทรกรูปภาพ</translation>
+    </message>
+    <message>
+        <source>Insert WordArt</source>
+        <comment>TxVersion_InsertTextEffect</comment>
+        <translation>แทรกอักษรศิลป์</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>TxVersion_Clear</comment>
+        <translation>ล้าง</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <comment>TxTextBox</comment>
+        <translation>กล่องข้อความ</translation>
+    </message>
+</context>
+<context>
+    <name>wps_field</name>
+    <message>
+        <source>Error! Too many picture switches defined.</source>
+        <comment>TX_FIELD_ERR_TOO_MANY_PICTURE</comment>
+        <translation>เกิดข้อผิดพลาด! กำหนดการสลับเปลี่ยนรูปภาพมากเกินไป</translation>
+    </message>
+    <message>
+        <source>Error! Unknown switch argument.</source>
+        <comment>TX_FIELD_ERR_UNKNOWN_SWITCH_ARGUMENT</comment>
+        <translation>เกิดข้อผิดพลาด! การสลับเปลี่ยนอาร์กิวเมนต์ที่ไม่รู้จัก</translation>
+    </message>
+    <message>
+        <source>Error! Switch argument not specified.</source>
+        <comment>TX_FIELD_ERR_SWITCH_ARGUMENT_NOT_SPECIFIED</comment>
+        <translation>เกิดข้อผิดพลาด ไม่มีการกำหนดการสลับเปลี่ยนอาร์กิวเมนต์</translation>
+    </message>
+    <message>
+        <source>Error! Picture switch must be the first formatting switch.</source>
+        <comment>TX_FIELD_ERR_PICTURE_FORMAT_NOT_FIRST</comment>
+        <translation>เกิดข้อผิดพลาด! การสลับเปลี่ยนรูปภาพจะต้องเป็นการสลับเปลี่ยนการจัดรูปแบบแรก</translation>
+    </message>
+    <message>
+        <source>Error! Picture string contains unmatched quotes.</source>
+        <comment>TX_FIELD_ERR_PICTURE_STRING_CONTAINS_UNMATCHED_QUOTES</comment>
+        <translation>เกิดข้อผิดพลาด! สตริงรูปภาพมีข้อความอ้างอิงที่ไม่ตรงกัน</translation>
+    </message>
+    <message>
+        <source>Error! The style name is not specified.</source>
+        <comment>TX_FIELD_ERR_STYLEREF_NO_STYLENAME_GIVEN</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีการกำหนดชื่อสไตล์</translation>
+    </message>
+    <message>
+        <source>Error! The style is not specified.</source>
+        <comment>TX_FIELD_ERR_STYLE_NOT_DEFINED</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีการกำหนดสไตล์</translation>
+    </message>
+    <message>
+        <source>Error!</source>
+        <comment>TX_FIELD_ERR_EQ_PARSE</comment>
+        <translation>เกิดข้อผิดพลาด!</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation>WPS Writer ประสบกับข้อผิดพลาดในขณะที่พยายามอัปเดตไฟล์ที่มา
+กรุณาลองทำตามคำแนะนำต่อไปนี้:
+1. ตรวจสอบดูว่าไฟล์ที่มาถูกเปิดหรือใช้งานอยู่โดยโปรแกรมอื่นหรือไม่
+2. ตรวจสอบดูว่าไฟล์ที่มาถูกป้องกันการแก้ไขหรือไม่
+3. ตรวจสอบให้แน่ใจว่าไฟล์ที่มาอยู่ในไดเรกทอรีที่เหมาะสม
+4. ตรวจสอบให้แน่ใจว่าไฟล์ที่มาเป็นไฟล์ชนิดที่ WPS รองรับ</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1、Check whether the source file has been opened or occupied by other programs.
+2、Check whether the source file is protected.
+3、Ensure that the source file is in the appropriate directory.
+4、Ensure that the source file can be supported by WPS.</source>
+        <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
+        <translation type="obsolete">WPS Writer encountered an error when trying to update source file.
+Try one or more of the following:
+1. Check whether the source file has been opened or occupied by other programs.
+2. Check whether the source file is protected.
+3. Make sure that the source file is in the appropriate directory.
+4. Make sure that the source file&apos;s format is supported by WPS.</translation>
+    </message>
+    <message>
+        <source>Error! Number cannot be represented in specified format.</source>
+        <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่สามารถแสดงในรูปแบบที่กำหนดได้</translation>
+    </message>
+    <message>
+        <source>Error! The style has no specified text.</source>
+        <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีข้อความของสไตล์ที่กำหนดในเอกสาร</translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_autotext</name>
+    <message>
+        <source>Error! Unknown autotext entry</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNKNOWN_ENTRY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! No autotext entry supplied</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNSPECIFIED_ENTRY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_common</name>
+    <message>
+        <source>Title</source>
+        <comment>TX_STYLE_NAME_TITLE</comment>
+        <translation>ชื่อ</translation>
+    </message>
+    <message>
+        <source> </source>
+        <comment>TX_SPACE</comment>
+        <translation> </translation>
+    </message>
+    <message>
+        <source>Error! Bookmark not defined.</source>
+        <comment>TX_FIELD_ERR_BOOKMARK_NOT_DEFINED</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีการกำหนดบุ๊กมาร์ก</translation>
+    </message>
+    <message>
+        <source>Main Document Only.</source>
+        <comment>TX_FIELD_ERR_AUTONUM_ONLY_MAINTEXT</comment>
+        <translation>เอกสารหลักเท่านั้น</translation>
+    </message>
+    <message>
+        <source>Normal text</source>
+        <comment>TX_FIELD_REGULARTEXT</comment>
+        <translation>ข้อความธรรมดา</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <comment>TX_FIELD_NUMBER</comment>
+        <translation>ตัวเลข</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <comment>TX_FIELD_DATE</comment>
+        <translation>วันที่</translation>
+    </message>
+    <message>
+        <source>Current date</source>
+        <comment>TX_FILED_CURDATE</comment>
+        <translation>วันที่ปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>Current time</source>
+        <comment>TX_FILED_CURTIME</comment>
+        <translation>เวลาปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>_Top</source>
+        <comment>TX_FILED_LINK_DOCUMENTTOP</comment>
+        <translation>_บนสุด</translation>
+    </message>
+    <message>
+        <source>Error. Missing test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_CONDITIONS</comment>
+        <translation>เกิดข้อผิดพลาด ไม่พบเงื่อนไขการทดสอบ</translation>
+    </message>
+    <message>
+        <source>Error. Unknown op code for conditional.</source>
+        <comment>TX_FIELD_ERR_IF_CANNOT_RECOGNIZE</comment>
+        <translation>เกิดข้อผิดพลาด รหัส op สำหรับเงื่อนไขที่ไม่รู้จัก</translation>
+    </message>
+    <message>
+        <source>Error. Missing second part of test condition.</source>
+        <comment>TX_FIELD_ERR_IF_LACK_SECOND</comment>
+        <translation>เกิดข้อผิดพลาด ไม่พบเงื่อนไขการทดสอบส่วนที่สอง</translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_document_information</name>
+    <message>
+        <source>Error! Unknown document property name</source>
+        <comment>TX_FIELD_ERR_DOCPROPERTY_UNKNOWN_PROPERTY</comment>
+        <translation>เกิดข้อผิดพลาด! ชื่อคุณสมบัติเอกสารที่ไม่รู้จัก</translation>
+    </message>
+    <message>
+        <source>Error! No property name supplied</source>
+        <comment>TX_FIELD_ERR_DOCPROPERTY_UNSPECIFIED_PROPERTY</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่ได้ระบุชื่อคุณสมบัติ</translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_links_and_reference</name>
+    <message>
+        <source>Error! Hyperlink reference is invalid.</source>
+        <comment>TX_FIELD_ERR_HYPERLINK_REFERENCE_NOT_VALID</comment>
+        <translation>เกิดข้อผิดพลาด! การอ้างอิงการเชื่อมโยงหลายมิติไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>TX_STYLE_NAME_HYPERLINK</comment>
+        <translation>เชื่อมโยงหลายมิติ</translation>
+    </message>
+    <message>
+        <source>above</source>
+        <comment>TX_POSITION_ABOVE</comment>
+        <translation>ด้านบน</translation>
+    </message>
+    <message>
+        <source>below</source>
+        <comment>TX_POSITION_BELOW</comment>
+        <translation>ด้านล่าง</translation>
+    </message>
+    <message>
+        <source>on page</source>
+        <comment>TX_ON_PAGE</comment>
+        <translation>บนหน้ากระดาษ</translation>
+    </message>
+    <message>
+        <source>Error! Reference source not found.</source>
+        <comment>TX_REFERENCE_SOURCE_NOT_VALID</comment>
+        <translation>เกิดข้อผิดพลาด ไม่พบที่มาการอ้างอิง</translation>
+    </message>
+    <message>
+        <source>Error! Table of contents not allowed in footnote, endnote, header, footer, comment, or text box.</source>
+        <comment>TX_FIELD_ERR_NO_TOC_ALLOWED</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่อนุญาตให้ใช้สารบัญในเชิงอรรถ, อ้างอิงท้ายเรื่อง, หัวกระดาษ, ท้ายกระดาษ, ข้อคิดเห็น หรือกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Error! No table of contents entries found.</source>
+        <comment>TX_FIELD_ERR_NOT_TABLE_OF_CONTENTS_ENTRIES_FOUND</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่พบรายการสารบัญ</translation>
+    </message>
+    <message>
+        <source>Error! No bookmark name given.</source>
+        <comment>TX_FIELD_ERR_NO_BOOKMARK_SPECIFIED</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีการระบุชื่อบุ๊กมาร์ก</translation>
+    </message>
+    <message>
+        <source>Error! The file you specified cannot be opened.</source>
+        <comment>TX_FIELD_ERR_CANNOT_OPEN_FILE</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่สามารถเปิดไฟล์ที่คุณระบุได้</translation>
+    </message>
+    <message>
+        <source>Error! File name not specified.</source>
+        <comment>TX_FIELD_ERR_FILENAME_NOT_SPECIFIED</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีการกำหนดชื่อไฟล์</translation>
+    </message>
+    <message>
+        <source>Error! Title list level is invalid.</source>
+        <comment>TX_FIELD_ERR_TOC_LISTLEVEL_OUTRANGE</comment>
+        <translation>เกิดข้อผิดพลาด! ระดับรายการชื่อไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Error! Not a valid bookmark self-reference.</source>
+        <comment>TX_FIELD_ERR_SELF_REFERENCE</comment>
+        <translation>เกิดข้อผิดพลาด ไม่ใช่การอ้างอิงตนเองของบุ๊กมาร์กที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Error! Invalid file name.</source>
+        <comment>TX_FIELD_ERR_FILENAME_NOT_EXISTED</comment>
+        <translation>เกิดข้อผิดพลาด! ชื่อไฟล์ไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Error! Include may not refer to itself.</source>
+        <comment>TX_FIELD_ERR_CANNOT_INCLUDE_ITSELF</comment>
+        <translation>เกิดข้อผิดพลาด! รายการที่เพิ่มไม่สามารถอ้างอิงถึงตนเองได้</translation>
+    </message>
+    <message>
+        <source>Fields are nested too deeply.</source>
+        <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
+        <translation>เขตข้อมูลถูกฝังอยู่ลึกเกินไป</translation>
+    </message>
+    <message>
+        <source>Cannot create automatic table of contents since no heading style or outline level has been set. 
+
+Replace with a manual table?</source>
+        <comment>TX_TOC_REPLACE_TO_MANUALCONTENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of contents?</source>
+        <comment>TX_REPLACE_TABLE_OF_CONTENT</comment>
+        <translation type="unfinished">คุณต้องการแทนที่สารบัญที่เลือกหรือไม่?</translation>
+    </message>
+    <message>
+        <source>No table of contents in the file</source>
+        <comment>TX_NO_TOC_IN_FILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! No table of figures entries found.</source>
+        <comment>TX_FIELD_ERR_NOT_TABLE_OF_FIGURES_ENTRIES_FOUND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_mailmerge</name>
+    <message>
+        <source>Error! MergeField was not found in header record of data source.</source>
+        <comment>TX_FIELD_ERR_CANNOT_FIND_DATAFIELD</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่พบการผสานเขตข้อมูลในส่วนหัวกระดาษของที่มาของข้อมูล</translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_numbering</name>
+    <message>
+        <source>Error! Only for Main Document.</source>
+        <comment>TX_FIELD_ERR_MAIN_DOCUMENT_ONLY</comment>
+        <translation>เกิดข้อผิดพลาด! สำหรับเอกสารหลักเท่านั้น</translation>
+    </message>
+    <message>
+        <source>Error! No sequence specified.</source>
+        <comment>TX_FIELD_ERR_NO_SEQUENCE_SPECIFIED</comment>
+        <translation>เกิดข้อผิดพลาด! ไม่มีการกำหนดลำดับ</translation>
+    </message>
+    <message>
+        <source>! Formula is not in the table.</source>
+        <comment>TX_FIELD_ERR_EXPRESSION_NOTIN_TABLE</comment>
+        <translation>! สูตรไม่อยู่ในตาราง</translation>
+    </message>
+    <message>
+        <source>!Undefined bookmark,</source>
+        <comment>TX_FIELD_ERR_BOOKMARK_NOTDEFINED</comment>
+        <translation>!บุ๊กมาร์กที่ไม่ได้กำหนด,</translation>
+    </message>
+    <message>
+        <source>!Syntax errors</source>
+        <comment>TX_FIELD_ERR_COMPILE_SYNTAX</comment>
+        <translation>!ข้อผิดพลาดวากยสัมพันธ์</translation>
+    </message>
+    <message>
+        <source>!Abnormal formula end</source>
+        <comment>TX_FIELD_ERR_COMPILE_UNEXPECTED_END</comment>
+        <translation>!การจบสูตรไม่ปกติ</translation>
+    </message>
+    <message>
+        <source>!Divisor is zero</source>
+        <comment>TX_FIELD_ERR_COMPILE_DIVIDEND_IS_ZERO</comment>
+        <translation>!ตัวหารเป็นศูนย์</translation>
+    </message>
+    <message>
+        <source>Not in the table</source>
+        <comment>TX_FIELD_ERR_CELL_NOINTABLE</comment>
+        <translation>ไม่อยู่ในตาราง</translation>
+    </message>
+    <message>
+        <source>!Number is too big to set a format</source>
+        <comment>TX_FIELD_ERR_FMT_NUM_TOO_LARGE</comment>
+        <translation>!เลขมีค่ามากเกินไปที่จะตั้งรูปแบบ</translation>
+    </message>
+</context>
+<context>
+    <name>wps_pagelayout</name>
+    <message>
+        <source>First Page</source>
+        <comment>TxPropmpt_First_Page</comment>
+        <translation>หน้าแรก</translation>
+    </message>
+    <message>
+        <source>Odd Page</source>
+        <comment>TxPropmpt_Odd_Page</comment>
+        <translation>หน้าคี่</translation>
+    </message>
+    <message>
+        <source>Even Page</source>
+        <comment>TxPropmpt_Even_Page</comment>
+        <translation>หน้าคู่</translation>
+    </message>
+    <message>
+        <source> Header </source>
+        <comment>TxPropmpt_Header</comment>
+        <translation>หัวกระดาษ</translation>
+    </message>
+    <message>
+        <source> Footer </source>
+        <comment>TxPropmpt_Footer</comment>
+        <translation>ท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source> - Section %d - </source>
+        <comment>TxPropmpt_Section_Index</comment>
+        <translation> - ส่วน %d - </translation>
+    </message>
+    <message>
+        <source>Same as the previous section</source>
+        <comment>TxPropmpt_Same_as_Previous</comment>
+        <translation>เหมือนกับส่วนก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>View More Replies</source>
+        <comment>TxPropmpt_ViewMoreReplies</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View More Comments / Revisions</source>
+        <comment>TxPropmpt_ViewMoreCommentsRevisions</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_pdfexport</name>
+    <message>
+        <source>Comment</source>
+        <comment>TX_PDF_COMMENT</comment>
+        <translation>ข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Revision</source>
+        <comment>TX_PDF_REVISION</comment>
+        <translation>การแก้ไขปรับปรุง</translation>
+    </message>
+</context>
+<context>
+    <name>wps_renderhost</name>
+    <message>
+        <source>Page Break</source>
+        <comment>_TxPageBreak</comment>
+        <translation>ตัวแบ่งหน้า</translation>
+    </message>
+    <message>
+        <source>Column Break</source>
+        <comment>_TxColumnBreak</comment>
+        <translation>ตัวแบ่งคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Section Break (Next Page)</source>
+        <comment>_TxSectionBreakNextPage</comment>
+        <translation>ตัวแบ่งส่วน (หน้าถัดไป)</translation>
+    </message>
+    <message>
+        <source>Section Break (Continuous)</source>
+        <comment>_TxSectionBreakContinous</comment>
+        <translation>ตัวแบ่งส่วน (ต่อเนื่อง)</translation>
+    </message>
+    <message>
+        <source>Section Break (Even Page)</source>
+        <comment>_TxSectionBreakEvenPage</comment>
+        <translation>ตัวแบ่งส่วน (หน้าคู่)</translation>
+    </message>
+    <message>
+        <source>Section Break (Odd Page)</source>
+        <comment>_TxSectionBreakOddPage</comment>
+        <translation>ตัวแบ่งส่วน (หน้าคี่)</translation>
+    </message>
+    <message>
+        <source>End of Section</source>
+        <comment>_TxSectionBreakNewColumn</comment>
+        <translation>ท้ายส่วน</translation>
+    </message>
+    <message>
+        <source>Section Break</source>
+        <comment>_TxSectionBreakDefault</comment>
+        <translation>ตัวแบ่งส่วน</translation>
+    </message>
+    <message>
+        <source>The end of the protected section</source>
+        <comment>_TxSectionBreakProtected</comment>
+        <translation>ท้ายของส่วนที่ป้องกันการแก้ไข</translation>
+    </message>
+</context>
+<context>
+    <name>wps_ruler</name>
+    <message>
+        <source>Page Setup</source>
+        <comment>TxVersion_Page_Setup</comment>
+        <translation>การตั้งค่าหน้ากระดาษ</translation>
+    </message>
+    <message>
+        <source>Paragraph Formatting Setup</source>
+        <comment>TxVersion_Paragraph_Formatting</comment>
+        <translation>การตั้งค่าการจัดรูปแบบย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Table Properties</source>
+        <comment>TxVersion_Table_Properties</comment>
+        <translation>คุณสมบัติตาราง</translation>
+    </message>
+    <message>
+        <source>Columns Formatting Setup</source>
+        <comment>TxVersion_Culmns</comment>
+        <translation>การตั้งค่าการจัดรูปแบบคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <comment>TxVersion_Formatting</comment>
+        <translation>การจัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Table Width</source>
+        <comment>TxVersion_Culmn_Width</comment>
+        <translation>ความกว้างตาราง</translation>
+    </message>
+    <message>
+        <source>Text Box</source>
+        <comment>TxVersion_Text_Frame</comment>
+        <translation>กล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>First Line Indent</source>
+        <comment>TxToolTip_First_Line_Indent</comment>
+        <translation>การเยื้องบรรทัดแรก</translation>
+    </message>
+    <message>
+        <source>Hanging Indent</source>
+        <comment>TxToolTip_Hanging_Indent</comment>
+        <translation>การเยื้องลอย</translation>
+    </message>
+    <message>
+        <source>Left Indent</source>
+        <comment>TxToolTip_Left_Indent</comment>
+        <translation>เยื้องซ้าย</translation>
+    </message>
+    <message>
+        <source>Right Indent</source>
+        <comment>TxToolTip_Right_Indent</comment>
+        <translation>เยื้องขวา</translation>
+    </message>
+    <message>
+        <source>Left Tab</source>
+        <comment>TxToolTip_Left_Tab</comment>
+        <translation>แท็บซ้าย</translation>
+    </message>
+    <message>
+        <source>Center Tab</source>
+        <comment>TxToolTip_Center_Tab</comment>
+        <translation>แท็บกลาง</translation>
+    </message>
+    <message>
+        <source>Right Tab</source>
+        <comment>TxToolTip_Right_Tab</comment>
+        <translation>แท็บขวา</translation>
+    </message>
+    <message>
+        <source>Decimal Tab</source>
+        <comment>TxToolTip_Decimal_Tab</comment>
+        <translation>แท็บทศนิยม</translation>
+    </message>
+    <message>
+        <source>Bar Tab</source>
+        <comment>TxToolTip_Bar_Tab</comment>
+        <translation>แท็บแถบ</translation>
+    </message>
+    <message>
+        <source>Move Table Column</source>
+        <comment>TxToolTip_Move_Table_Column</comment>
+        <translation>ย้ายคอลัมน์ตาราง</translation>
+    </message>
+    <message>
+        <source>Adjust Table Row</source>
+        <comment>TxToolTip_Adjust_Table_Row</comment>
+        <translation>ปรับแถวตาราง</translation>
+    </message>
+    <message>
+        <source>Left Margin</source>
+        <comment>TxToolTip_Left_Margin</comment>
+        <translation>ระยะขอบซ้าย</translation>
+    </message>
+    <message>
+        <source>Right Margin</source>
+        <comment>TxToolTip_Right_Margin</comment>
+        <translation>ระยะขอบขวา</translation>
+    </message>
+    <message>
+        <source>Top Margin</source>
+        <comment>TxToolTip_Top_Margin</comment>
+        <translation>ระยะขอบบน</translation>
+    </message>
+    <message>
+        <source>Bottom Margin</source>
+        <comment>TxToolTip_Bottom_Margin</comment>
+        <translation>ระยะขอบล่าง</translation>
+    </message>
+    <message>
+        <source>Move Column</source>
+        <comment>TxToolTip_Move_Column</comment>
+        <translation>ย้ายคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Adjust Left</source>
+        <comment>TxToolTip_Adjust_Left</comment>
+        <translation>ปรับซ้าย</translation>
+    </message>
+    <message>
+        <source>Adjust Right</source>
+        <comment>TxToolTip_Adjust_Right</comment>
+        <translation>ปรับขวา</translation>
+    </message>
+    <message>
+        <source>Adjust Top</source>
+        <comment>TxToolTip_Adjust_Top</comment>
+        <translation>ปรับบน</translation>
+    </message>
+    <message>
+        <source>Adjust Bottom</source>
+        <comment>TxToolTip_Adjust_Bottom</comment>
+        <translation>ปรับล่าง</translation>
+    </message>
+    <message>
+        <source> (Press Enter Insert)</source>
+        <comment>TxToolTip_Entery_Insert</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_texttable</name>
+    <message>
+        <source>The number of rows to be split must be between %d and %d.</source>
+        <comment>_TxSplitCells_RowCntLimitError</comment>
+        <translation>จำนวนของแถวที่จะแบ่งจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>The number of rows to be split must be a divisor of %d.</source>
+        <comment>_TxSplitCells_RowNumLimitError</comment>
+        <translation>จำนวนของแถวที่จะแบ่งจะต้องเป็นตัวหาร %d</translation>
+    </message>
+    <message>
+        <source>The number of columns to be split must be between %d and %d.</source>
+        <comment>_TxSplitCells_ColumnCntLimitError</comment>
+        <translation>จำนวนของคอลัมน์ที่จะแบ่งจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>The number of columns is out of range.</source>
+        <comment>_TxSplitCells_OverMaxColumnCntError</comment>
+        <translation>จำนวนของคอลัมน์อยู่นอกเหนือช่วง</translation>
+    </message>
+    <message>
+        <source>Cannot merge</source>
+        <comment>_TxSplitCells_CantMergeError</comment>
+        <translation>ไม่สามารถผสานได้</translation>
+    </message>
+    <message>
+        <source>Cannot split the selection because it contains joined cells.</source>
+        <comment>_TxSplitCells_CantSplitMergeCellError</comment>
+        <translation>ไม่สามารถแบ่งเซลล์ที่เลือกได้เนื่องจากมีเซลล์ที่เชื่อมกันอยู่</translation>
+    </message>
+    <message>
+        <source>Cannot split cells vertically in multiple rows.</source>
+        <comment>_TxSplitCells_CantSplitVertCellsInMultRows</comment>
+        <translation>ไม่สามารถแบ่งเซลล์แนวตั้งในหลายแถวได้</translation>
+    </message>
+    <message>
+        <source>You must select more than one columns.</source>
+        <comment>_TxDistributeWidth_MultColumsErr</comment>
+        <translation>คุณต้องเลือกมากกว่าหนึ่งคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Cannot distribute the selected columns evenly.</source>
+        <comment>_TxDistributeWidth_NormalErr</comment>
+        <translation>ไม่สามารถจัดแบ่งคอลัมน์ที่เลือกให้เท่ากันได้</translation>
+    </message>
+    <message>
+        <source>You must select more than one rows.</source>
+        <comment>_TxDistributeWidth_MultRowsErr</comment>
+        <translation>คุณต้องเลือกมากกว่าหนึ่งแถว</translation>
+    </message>
+</context>
+<context>
+    <name>wps_wpscore</name>
+    <message>
+        <source>Equation</source>
+        <comment>_TxBuiltInCaptionLabelEquation</comment>
+        <translation>สมการ</translation>
+    </message>
+    <message>
+        <source>Figure</source>
+        <comment>_TxBuiltInCaptionLabelFigure</comment>
+        <translation>ตัวเลข</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>_TxBuiltInCaptionLabelTable</comment>
+        <translation>ตาราง</translation>
+    </message>
+    <message>
+        <source>Image</source>
+        <comment>_TxBuiltInCaptionLabelImage</comment>
+        <translation>รูปภาพ</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>_TxNothing</comment>
+        <translation>ไม่มี</translation>
+    </message>
+    <message>
+        <source>Pound</source>
+        <comment>_TxUnit_Pound</comment>
+        <translation>ปอนด์</translation>
+    </message>
+    <message>
+        <source>Centimeter</source>
+        <comment>_TxUnit_Centimeter</comment>
+        <translation>เซนติเมตร</translation>
+    </message>
+    <message>
+        <source>Millimeter</source>
+        <comment>_TxUnit_Milimeter</comment>
+        <translation>มิลลิเมตร</translation>
+    </message>
+    <message>
+        <source>Inch</source>
+        <comment>_TxUnit_Inch</comment>
+        <translation>นิ้ว</translation>
+    </message>
+    <message>
+        <source>Pica</source>
+        <comment>_TxUnit_Picas</comment>
+        <translation>ไพก้า</translation>
+    </message>
+    <message>
+        <source> Page Number: %s   Page: %d/%d   Sec: %d/%d</source>
+        <comment>_TxStatusBar_SectionPageInfo</comment>
+        <translation> เลขหน้า: %s   หน้า: %d/%d   ส่วน: %d/%d</translation>
+    </message>
+    <message>
+        <source> Page Number:   Page:   Sec:     </source>
+        <comment>_TxStatusBar_SectionPageInfo2</comment>
+        <translation> เลขหน้า:   หน้า:   ส่วน:     </translation>
+    </message>
+    <message>
+        <source> Ln: %d   Col: %d</source>
+        <comment>_TxStatusBar_PositionInfo</comment>
+        <translation> Ln: %d   Col: %d</translation>
+    </message>
+    <message>
+        <source> Ln:   Col:</source>
+        <comment>_TxStatusBar_PositionInfo2</comment>
+        <translation> Ln:   Col:</translation>
+    </message>
+    <message>
+        <source>OVR</source>
+        <comment>_TxStatusBar_OvertypeInfo</comment>
+        <translation>OVR</translation>
+    </message>
+    <message>
+        <source>Previous Paragraph</source>
+        <comment>_TxDlg_BeforePreviewString</comment>
+        <translation>ย่อหน้าก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Next Paragraph</source>
+        <comment>_TxDlg_AfterPreviewString</comment>
+        <translation>ย่อหน้าถัดไป</translation>
+    </message>
+    <message>
+        <source>Sample Text</source>
+        <comment>_TxDlg_BodyPreviewString</comment>
+        <translation>ข้อความตัวอย่าง</translation>
+    </message>
+    <message>
+        <source>Make office work easier</source>
+        <comment>_TxDlg_EmptyStringPreview</comment>
+        <translation>ทำให้งานสำนักงานง่ายยิ่งขึ้น</translation>
+    </message>
+    <message>
+        <source>Cannot print, please make sure your printer has been properly installed.</source>
+        <comment>Tx_PrintError</comment>
+        <translation>ไม่สามารถพิมพ์ได้ กรุณาตรวจสอบให้แน่ใจว่าเครื่องพิมพ์ของคุณได้รับการติดตั้งอย่างถูกต้อง</translation>
+    </message>
+    <message>
+        <source>WPS Writer has reached the beginning of the document.</source>
+        <comment>_TxFind_ReachBeginningOfDoc</comment>
+        <translation>WPS Writer มาถึงจุดเริ่มต้นของเอกสารแล้ว</translation>
+    </message>
+    <message>
+        <source>WPS Writer has reached the end of the document.</source>
+        <comment>_TxFind_ReachEndOfDoc</comment>
+        <translation>WPS Writer มาถึงจุดสิ้นสุดของเอกสารแล้ว</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc</comment>
+        <translation>WPS Writer ทำการค้นหาในเอกสารเสร็จสิ้นแล้ว</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>_TxFind_FinishSearchingDoc2</comment>
+        <translation>WPS Writer ทำการค้นหาในเอกสารเสร็จสิ้นแล้ว</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the selection.</source>
+        <comment>_TxFind_FinishSearchingSelection</comment>
+        <translation>WPS Writer ทำการค้นหาในการเลือกเสร็จสิ้นแล้ว</translation>
+    </message>
+    <message>
+        <source>No search item was found.</source>
+        <comment>_TxFind_NoItemFound</comment>
+        <translation>ไม่พบรายการที่ค้นหา</translation>
+    </message>
+    <message>
+        <source> Do you want to continue searching from the beginning?</source>
+        <comment>_TxFind_ContiuneAtBeginning</comment>
+        <translation>คุณต้องการทำการค้นหาต่อจากจุดเริ่มต้นหรือไม่?</translation>
+    </message>
+    <message>
+        <source> Do you want to continue searching from the end?</source>
+        <comment>_TxFind_ContiuneAtEnd</comment>
+        <translation>คุณต้องการทำการค้นหาต่อจากจุดสิ้นสุดหรือไม่?</translation>
+    </message>
+    <message>
+        <source> Do you want to search the other part of the document?</source>
+        <comment>_TxFind_ContiuneRemainder</comment>
+        <translation>คุณต้องการทำการค้นหาส่วนอื่นของเอกสารหรือไม่?</translation>
+    </message>
+    <message>
+        <source>and has replaced %i items.</source>
+        <comment>_TxFind_NReplacementMade</comment>
+        <translation>และได้ทำการแทนที่ %i รายการ</translation>
+    </message>
+    <message>
+        <source>%s is not a valid special character for the Replace With box.</source>
+        <comment>_TxFind_NoValidReplacementStr</comment>
+        <translation>%s ไม่ใช่อักขระพิเศษที่ถูกต้องสำหรับการแทนที่ด้วยกล่อง</translation>
+    </message>
+    <message>
+        <source>(Print Preview)</source>
+        <comment>TxDesc_PrintPreview</comment>
+        <translation>(ตัวอย่างการพิมพ์)</translation>
+    </message>
+    <message>
+        <source>Page </source>
+        <comment>_TxGenko_PageNo</comment>
+        <translation>หน้า</translation>
+    </message>
+    <message>
+        <source> of </source>
+        <comment>_TxGenko_PageSeperator</comment>
+        <translation>จาก</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <comment>_TxGenko_PageNumbers</comment>
+        <translation>หน้า</translation>
+    </message>
+    <message>
+        <source>This action will not be marked as a revision. Do you want to continue?</source>
+        <comment>_TxRevision_CantRevision</comment>
+        <translation>คำสั่งนี้จะไม่ถูกทำเครื่องหมายเป็นการปรับแก้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>WPS Writer document data</source>
+        <comment>_TxClipboardDesc_Xml</comment>
+        <translation>ข้อมูลเอกสาร WPS Writer</translation>
+    </message>
+    <message>
+        <source>Invalid e-mail address, sending failed.</source>
+        <comment>_TxMailMerge_ErrAddress</comment>
+        <translation>ที่อยู่อีเมลไม่ถูกต้อง การส่งล้มเหลว</translation>
+    </message>
+    <message>
+        <source>Failure sending mail.</source>
+        <comment>_TxMailMerge_SendMailFailed</comment>
+        <translation>การส่งอีเมลล้มเหลว</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_NoRecordExecute</comment>
+        <translation>WPS Writer ไม่สามารถผสานเอกสารหลักกับที่มาของข้อมูลได้ เนื่องจากบันทึกข้อมูลว่างอยู่หรือไม่มีบันทึกข้อมูลที่ตรงกับตัวเลือกคิวรีของคุณ</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open the Data Source.</source>
+        <comment>_TxMailMerge_OpenDataSourceErr</comment>
+        <translation>WPS Writer ไม่สามารถเปิดที่มาของข้อมูลได้</translation>
+    </message>
+    <message>
+        <source>Attachment</source>
+        <comment>_TxMailMerge_DefaultAttachName</comment>
+        <translation>เอกสารแนบ</translation>
+    </message>
+    <message>
+        <source>%s already exists.
+Do you want to replace it?</source>
+        <comment>_TxMailMerge_FileExist</comment>
+        <translation>%s นั้นมีอยู่แล้ว
+คุณต้องการแทนที่มันหรือไม่?</translation>
+    </message>
+    <message>
+        <source>The data source does not contain any visible table.</source>
+        <comment>_TxMailMerge_NoTable</comment>
+        <translation>ที่มาข้อมูลไม่มีตารางใด ๆ ที่มองเห็นได้</translation>
+    </message>
+    <message>
+        <source>This operation is invalid for the end of a row.</source>
+        <comment>_TxTbl_CanntBackspaceAtEndOfRow</comment>
+        <translation>กระบวนการทำงานไม่ถูกต้องสำหรับท้ายแถว</translation>
+    </message>
+    <message>
+        <source>Toggle Revision Marks</source>
+        <comment>_TxRevision_ChangeMark</comment>
+        <translation>เปิดปิดเครื่องหมายการปรับแก้</translation>
+    </message>
+    <message>
+        <source>This operation will delete all the elements in the table. Do you want to continue?</source>
+        <comment>_TxDel_AllTable</comment>
+        <translation>กระบวนการทำงานจะลบองค์ประกอบทั้งหมดในตารางนี้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Spell Check: On</source>
+        <comment>_TxSpellingCheck_On</comment>
+        <translation>ตรวจสอบการสะกด: เปิด</translation>
+    </message>
+    <message>
+        <source>Spell Check: Off</source>
+        <comment>_TxSpellingCheck_Off</comment>
+        <translation>ตรวจสอบการสะกด: ปิด</translation>
+    </message>
+    <message>
+        <source>Some browsers may not be able to display Single File Web Pages where the path includes those characters &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; or &quot;%25&quot;, etc. Do you want to continue?</source>
+        <comment>_TxSaveMHTHTMLWarning</comment>
+        <translation>บางเบราว์เซอร์อาจไม่สามารถแสดงหน้าเว็บเพจแบบไฟล์เดี่ยวซึ่งเป็นที่อยู่ไฟล์ที่มีตัวอักษรเหล่านี้ &quot;!&quot;, &quot;#&quot;, &quot;%20&quot;, &quot;%23&quot; หรือ &quot;%25&quot; ฯลฯ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Please select the base text for the Phonetic Guide.</source>
+        <comment>_TxPhoneticGuideTip</comment>
+        <translation>กรุณาเลือกข้อความเริ่มต้นสำหรับการออกเสียงคำ</translation>
+    </message>
+    <message>
+        <source>&amp;Tools</source>
+        <comment>_TxMenuBarOption_Tool</comment>
+        <translation>&amp;เครื่องมือ</translation>
+    </message>
+    <message>
+        <source>Text tools(&amp;F)</source>
+        <comment>_TxMenuBarOption_TextTool</comment>
+        <translation>เครื่องมือข้อความ(&amp;F)</translation>
+    </message>
+    <message>
+        <source>REV</source>
+        <comment>_TxStatusBar_TrackChanges</comment>
+        <translation>REV</translation>
+    </message>
+    <message>
+        <source>Unit: cm</source>
+        <comment>_TxStatusBar_Centimeters</comment>
+        <translation>หน่วย: ซม.</translation>
+    </message>
+    <message>
+        <source>Unit: inch</source>
+        <comment>_TxStatusBar_Inches</comment>
+        <translation>หน่วย: นิ้ว</translation>
+    </message>
+    <message>
+        <source>Unit: mm</source>
+        <comment>_TxStatusBar_Millimeters</comment>
+        <translation>หน่วย: มม.</translation>
+    </message>
+    <message>
+        <source>Unit: pt </source>
+        <comment>_TxStatusBar_Points</comment>
+        <translation>หน่วย: pt</translation>
+    </message>
+    <message>
+        <source>The full-text search is finished, %d results were found. Only the first %d results were selected owing to too many results found.</source>
+        <comment>_TxFind_TooMuchResult</comment>
+        <translation>การค้นหาข้อความทั้งเอกสารเสร็จสิ้นแล้ว ได้ %d ผลลัพธ์ มีเพียง %d รายการแรกที่จะถูกเลือกเนื่องจากมีผลลัพธ์ที่พบมากเกินไป</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <comment>TxRevision_Chp_Font</comment>
+        <translation>แบบอักษร</translation>
+    </message>
+    <message>
+        <source>Font color</source>
+        <comment>TxRevision_Chp_FontColor</comment>
+        <translation>สีแบบอักษร</translation>
+    </message>
+    <message>
+        <source>（Default）</source>
+        <comment>TxRevision_Chp_Default</comment>
+        <translation>(ค่าเริ่มต้น)</translation>
+    </message>
+    <message>
+        <source>（Asian）</source>
+        <comment>TxRevision_Chp_Asian</comment>
+        <translation>(เอเชียน)</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <comment>TxRevision_Chp_Bold</comment>
+        <translation>ตัวหนา</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <comment>TxRevision_Chp_Italic</comment>
+        <translation>ตัวเอียง</translation>
+    </message>
+    <message>
+        <source>No underline</source>
+        <comment>TxRevision_Chp_NoUnderline</comment>
+        <translation>ไม่มีขีดเส้นใต้</translation>
+    </message>
+    <message>
+        <source>Word underline</source>
+        <comment>TxRevision_Chp_WordUnderline</comment>
+        <translation>ขีดเส้นใต้คำ</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <comment>TxRevision_Chp_Underline</comment>
+        <translation>ขีดเส้นใต้</translation>
+    </message>
+    <message>
+        <source>Double underline</source>
+        <comment>TxRevision_Chp_DoubleUnderline</comment>
+        <translation>ขีดเส้นใต้คู่</translation>
+    </message>
+    <message>
+        <source>Thick underline</source>
+        <comment>TxRevision_Chp_ThickUnderline</comment>
+        <translation>ขีดเส้นใต้หนา</translation>
+    </message>
+    <message>
+        <source>Dotted underline</source>
+        <comment>TxRevision_Chp_DottedUnderline</comment>
+        <translation>ขีดเส้นใต้แบบจุด</translation>
+    </message>
+    <message>
+        <source>Dotted heavy underline</source>
+        <comment>TxRevision_Chp_DottedHeavyUnderline</comment>
+        <translation>ขีดเส้นใต้แบบจุดหนา</translation>
+    </message>
+    <message>
+        <source>Dashed underline</source>
+        <comment>TxRevision_Chp_DashedUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประ</translation>
+    </message>
+    <message>
+        <source>Dashed heavy underline</source>
+        <comment>TxRevision_Chp_DashedHeavyUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประหนา</translation>
+    </message>
+    <message>
+        <source>Dashed long underline</source>
+        <comment>TxRevision_Chp_DashedLongUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประยาว</translation>
+    </message>
+    <message>
+        <source>Dashed long heavy underline</source>
+        <comment>TxRevision_Chp_DashedLongHeavyUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประยาวหนา</translation>
+    </message>
+    <message>
+        <source>Dot-dash underline</source>
+        <comment>TxRevision_Chp_DotDashUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประจุด</translation>
+    </message>
+    <message>
+        <source>Dot-dash heavy underline</source>
+        <comment>TxRevision_Chp_DotDashHeavyUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประจุดหนา</translation>
+    </message>
+    <message>
+        <source>Dot-dot-dash underline</source>
+        <comment>TxRevision_Chp_DotDotDashUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประจุดจุด</translation>
+    </message>
+    <message>
+        <source>Dot-dot-dash heavy underline</source>
+        <comment>TxRevision_Chp_DotDotDashHeavyUnderline</comment>
+        <translation>ขีดเส้นใต้แบบเส้นประจุดจุดหนา</translation>
+    </message>
+    <message>
+        <source>Wave underline</source>
+        <comment>TxRevision_Chp_WaveUnderline</comment>
+        <translation>ขีดเส้นใต้แบบลูกคลื่น</translation>
+    </message>
+    <message>
+        <source>Wavy Heavy Line</source>
+        <comment>TxRevision_Chp_WaveHeavyUnderline</comment>
+        <translation>ขีดเส้นใต้แบบลูกคลื่นหนา</translation>
+    </message>
+    <message>
+        <source>Wave double underline</source>
+        <comment>TxRevision_Chp_WaveDoubleUnderline</comment>
+        <translation>ขีดเส้นใต้แบบลูกคลื่นคู่</translation>
+    </message>
+    <message>
+        <source>Underline color</source>
+        <comment>TxRevision_Chp_UnderlineColor</comment>
+        <translation>สีเส้นใต้</translation>
+    </message>
+    <message>
+        <source>Dot</source>
+        <comment>TxRevision_Chp_Dot</comment>
+        <translation>จุด</translation>
+    </message>
+    <message>
+        <source>Pause mark</source>
+        <comment>TxRevision_Chp_PauseMark</comment>
+        <translation>เครื่องหมายหยุดชั่วคราว</translation>
+    </message>
+    <message>
+        <source>No emphasis mark</source>
+        <comment>TxRevision_Chp_NoEmphasisMark</comment>
+        <translation>ไม่มีเครื่องหมายเน้น</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <comment>TxRevision_Chp_Strikethrough</comment>
+        <translation>ขีดฆ่า</translation>
+    </message>
+    <message>
+        <source>Double strikethrough</source>
+        <comment>TxRevision_Chp_DoubleStrikethrough</comment>
+        <translation>ขีดฆ่าคู่</translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <comment>TxRevision_Chp_Superscript</comment>
+        <translation>ตัวยก</translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <comment>TxRevision_Chp_Subscript</comment>
+        <translation>ตัวห้อย</translation>
+    </message>
+    <message>
+        <source>Superscript/Subscript</source>
+        <comment>TxRevision_Chp_SuperscriptSubscript</comment>
+        <translation>ตัวยก/ตัวห้อย</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <comment>TxRevision_Chp_Highlight</comment>
+        <translation>สีเน้นข้อความ</translation>
+    </message>
+    <message>
+        <source>Hidden</source>
+        <comment>TxRevision_Chp_Hidden</comment>
+        <translation>ซ่อน</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <comment>TxRevision_Chp_Outline</comment>
+        <translation>เค้าร่าง</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <comment>TxRevision_Chp_Shadow</comment>
+        <translation>เงา</translation>
+    </message>
+    <message>
+        <source>Emboss</source>
+        <comment>TxRevision_Chp_Emboss</comment>
+        <translation>นูนขึ้น</translation>
+    </message>
+    <message>
+        <source>Engrave</source>
+        <comment>TxRevision_Chp_Engrave</comment>
+        <translation>รอยจารึก</translation>
+    </message>
+    <message>
+        <source>Not </source>
+        <comment>TxRevision_Chp_Not</comment>
+        <translation>ไม่</translation>
+    </message>
+    <message>
+        <source>Small caps</source>
+        <comment>TxRevision_Chp_SmallCaps</comment>
+        <translation>ตัวพิมพ์ใหญ่ขนาดเล็ก</translation>
+    </message>
+    <message>
+        <source>All caps</source>
+        <comment>TxRevision_Chp_AllCaps</comment>
+        <translation>ตัวพิมพ์ใหญ่ทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Character scale</source>
+        <comment>TxRevision_Chp_CharacterScale</comment>
+        <translation>มาตราส่วนอักขระ</translation>
+    </message>
+    <message>
+        <source>Expanded by </source>
+        <comment>TxRevision_Chp_ExpandedBy</comment>
+        <translation>ขยาย</translation>
+    </message>
+    <message>
+        <source>Condensed by </source>
+        <comment>TxRevision_Chp_CondensedBy</comment>
+        <translation>บีบ</translation>
+    </message>
+    <message>
+        <source>Expanded by/Condensed by</source>
+        <comment>TxRevision_Chp_ExpandedByCondensedBy</comment>
+        <translation>ขยาย/บีบ</translation>
+    </message>
+    <message>
+        <source>Raised by </source>
+        <comment>TxRevision_Chp_RaisedBy</comment>
+        <translation>ยกขึ้น</translation>
+    </message>
+    <message>
+        <source>Lowered by </source>
+        <comment>TxRevision_Chp_LoweredBy</comment>
+        <translation>ต่ำลง</translation>
+    </message>
+    <message>
+        <source>Raised by/Lowered by</source>
+        <comment>TxRevision_Chp_RaisedByLoweredBy</comment>
+        <translation>ยกขึ้น/ต่ำลง</translation>
+    </message>
+    <message>
+        <source>Kern at </source>
+        <comment>TxRevision_Chp_KernAt</comment>
+        <translation>จัดช่องไฟแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Snap to grid</source>
+        <comment>TxRevision_Chp_SnapToGrid</comment>
+        <translation>จัดชิดเส้นตาราง</translation>
+    </message>
+    <message>
+        <source>Don&apos;t snap to grid</source>
+        <comment>TxRevision_Chp_DontSnapToGrid</comment>
+        <translation>ห้ามจัดชิดเส้นตาราง</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>TxRevision_Chp_Normal</comment>
+        <translation>ปกติ</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <comment>TxRevision_Chp_Heading1</comment>
+        <translation>หัวเรื่อง 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <comment>TxRevision_Chp_Heading2</comment>
+        <translation>หัวเรื่อง 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <comment>TxRevision_Chp_Heading3</comment>
+        <translation>หัวเรื่อง 3</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <comment>TxRevision_Chp_Header</comment>
+        <translation>หัวกระดาษ</translation>
+    </message>
+    <message>
+        <source>Footer</source>
+        <comment>TxRevision_Chp_Footer</comment>
+        <translation>ท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source>Default Paragraph Font</source>
+        <comment>TxRevision_Chp_DefaultParagraphFont</comment>
+        <translation>ค่าเริ่มต้นของแบบอักษรย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <comment>TxRevision_Chp_Pattern</comment>
+        <translation>รูปแบบ</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_Left</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <comment>TxRevision_Pap_Centered</comment>
+        <translation>จัดตรงกลาง</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_Right</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>Justified</source>
+        <comment>TxRevision_Pap_Justified</comment>
+        <translation>เต็มแนว</translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <comment>TxRevision_Pap_Distributed</comment>
+        <translation>กระจาย</translation>
+    </message>
+    <message>
+        <source>Level %d</source>
+        <comment>TxRevision_Pap_Level</comment>
+        <translation>ระดับ %d</translation>
+    </message>
+    <message>
+        <source>Indent</source>
+        <comment>TxRevision_Pap_Indent</comment>
+        <translation>เยื้อง</translation>
+    </message>
+    <message>
+        <source>Left </source>
+        <comment>TxRevision_Pap_IndentLeft</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Right </source>
+        <comment>TxRevision_Pap_IndentRight</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>First line</source>
+        <comment>TxRevision_Pap_FirstLine</comment>
+        <translation>บรรทัดแรก</translation>
+    </message>
+    <message>
+        <source>Hanging</source>
+        <comment>TxRevision_Pap_Hanging</comment>
+        <translation>แบบห้อย</translation>
+    </message>
+    <message>
+        <source>Space </source>
+        <comment>TxRevision_Pap_Space</comment>
+        <translation>ช่องว่าง</translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <comment>TxRevision_Pap_Before</comment>
+        <translation>ก่อน</translation>
+    </message>
+    <message>
+        <source>After</source>
+        <comment>TxRevision_Pap_After</comment>
+        <translation>หลัง</translation>
+    </message>
+    <message>
+        <source>Line spacing</source>
+        <comment>TxRevision_Pap_LineSpacing</comment>
+        <translation>ช่องว่างระหว่างบรรทัด</translation>
+    </message>
+    <message>
+        <source>single</source>
+        <comment>TxRevision_Pap_single</comment>
+        <translation>เดี่ยว</translation>
+    </message>
+    <message>
+        <source>1.5 lines</source>
+        <comment>TxRevision_Pap_15lines</comment>
+        <translation>1.5 บรรทัด</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <comment>TxRevision_Pap_Double</comment>
+        <translation>สองเท่า</translation>
+    </message>
+    <message>
+        <source>At least </source>
+        <comment>TxRevision_Pap_AtLeast</comment>
+        <translation>อย่างน้อย</translation>
+    </message>
+    <message>
+        <source>Exactly </source>
+        <comment>TxRevision_Pap_Exactly</comment>
+        <translation>ค่าแน่นอน</translation>
+    </message>
+    <message>
+        <source>Multiple </source>
+        <comment>TxRevision_Pap_Multiple</comment>
+        <translation>หลายบรรทัด</translation>
+    </message>
+    <message>
+        <source>Widow/Orphan control</source>
+        <comment>TxRevision_Pap_WidowOrphanControl</comment>
+        <translation>ควบคุมบรรทัดค้างท้าย/ต้นย่อหน้า</translation>
+    </message>
+    <message>
+        <source>No widow/orphan control</source>
+        <comment>TxRevision_Pap_NoWidowOrphanControl</comment>
+        <translation>ไม่ควบคุมบรรทัดค้างท้าย/ต้นย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Keep with next</source>
+        <comment>TxRevision_Pap_KeepWithNext</comment>
+        <translation>ให้สองย่อหน้าที่เลือกอยู่ด้วยกัน</translation>
+    </message>
+    <message>
+        <source>Don&apos;t keep with next</source>
+        <comment>TxRevision_Pap_DontKeepWithNext</comment>
+        <translation>ไม่ให้สองย่อหน้าที่เลือกอยู่ด้วยกัน</translation>
+    </message>
+    <message>
+        <source>Keep lines together</source>
+        <comment>TxRevision_Pap_KeepLinesTogether</comment>
+        <translation>ให้ทั้งย่อหน้าอยู่ด้วยกัน</translation>
+    </message>
+    <message>
+        <source>Don&apos;t Keep lines together</source>
+        <comment>TxRevision_Pap_DontKeepLinesTogether</comment>
+        <translation>ไม่ให้ทั้งย่อหน้าอยู่ด้วยกัน</translation>
+    </message>
+    <message>
+        <source>Page break before</source>
+        <comment>TxRevision_Pap_PageBreakBefore</comment>
+        <translation>แทรกตัวแบ่งหน้าก่อนย่อหน้า</translation>
+    </message>
+    <message>
+        <source>No Page break before</source>
+        <comment>TxRevision_Pap_NoPageBreakBefore</comment>
+        <translation>ไม่แทรกตัวแบ่งหน้าก่อนย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Use Asian rules to control first and last character</source>
+        <comment>TxRevision_Pap_UseAsianRulesToControlFirstAndLastCharacter</comment>
+        <translation>ใช้กฎภาษาเอเชียเพื่อควบคุมอักขระตัวแรกและตัวสุดท้าย</translation>
+    </message>
+    <message>
+        <source>Don&apos;t use Asian rules to control first and last character</source>
+        <comment>TxRevision_Pap_DontUseAsianRulesToControlFirstAndLastCharacter</comment>
+        <translation>ไม่ใช้กฎภาษาเอเชียเพื่อควบคุมอักขระตัวแรกและตัวสุดท้าย</translation>
+    </message>
+    <message>
+        <source>Allow text to wrap in the middle of a word</source>
+        <comment>TxRevision_Pap_AllowTextToWrapInTheMiddleOfAWord</comment>
+        <translation>อนุญาตให้ตัดข้อความกลางคำ</translation>
+    </message>
+    <message>
+        <source>Don&apos;t allow text to wrap in the middle of a word</source>
+        <comment>TxRevision_Pap_DontAllowTextToWrapInTheMiddleOfAWord</comment>
+        <translation>ไม่อนุญาตให้ตัดข้อความกลางคำ</translation>
+    </message>
+    <message>
+        <source>Allow hanging punctuation</source>
+        <comment>TxRevision_Pap_AllowHangingPunctuation</comment>
+        <translation>อนุญาตให้มีเครื่องหมายวรรคตอนลอย</translation>
+    </message>
+    <message>
+        <source>Don&apos;t allow hanging punctuation</source>
+        <comment>TxRevision_Pap_DontAllowHangingPunctuation</comment>
+        <translation>ไม่อนุญาตให้มีเครื่องหมายวรรคตอนลอย</translation>
+    </message>
+    <message>
+        <source>Compress initial punctuation</source>
+        <comment>TxRevision_Pap_CompressInitialPunctuation</comment>
+        <translation>บีบอัดเครื่องหมายวรรคตอนแรก</translation>
+    </message>
+    <message>
+        <source>Don&apos;t compress initial punctuation</source>
+        <comment>TxRevision_Pap_DontCompressInitialPunctuation</comment>
+        <translation>ไม่บีบอัดเครื่องหมายวรรคตอนแรก</translation>
+    </message>
+    <message>
+        <source>Adjust space between Latin and Asian text</source>
+        <comment>TxRevision_Pap_AdjustSpaceBetweenLatinAndAsianText</comment>
+        <translation>ปรับช่องว่างระหว่างข้อความเอเชียและลาติน</translation>
+    </message>
+    <message>
+        <source>Don&apos;t adjust space between Latin and Asian text</source>
+        <comment>TxRevision_Pap_DontAdjustSpaceBetweenLatinAndAsianText</comment>
+        <translation>ไม่ปรับช่องว่างระหว่างข้อความเอเชียและลาติน</translation>
+    </message>
+    <message>
+        <source>Adjust space between Asian text and numbers</source>
+        <comment>TxRevision_Pap_AdjustSpaceBetweenAsianTextAndNumbers</comment>
+        <translation>ปรับช่องว่างระหว่างข้อความเอเชียและตัวเลข</translation>
+    </message>
+    <message>
+        <source>Don&apos;t adjust space between Asian text and numbers</source>
+        <comment>TxRevision_Pap_DontAdjustSpaceBetweenAsianTextAndNumbers</comment>
+        <translation>ไม่ปรับช่องว่างระหว่างข้อความเอเชียและตัวเลข</translation>
+    </message>
+    <message>
+        <source>Font Alignment</source>
+        <comment>TxRevision_Pap_FontAlignment</comment>
+        <translation>การจัดแนวแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Pap_Auto</comment>
+        <translation>อัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Pap_Top</comment>
+        <translation>บน</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>TxRevision_Pap_Center</comment>
+        <translation>กึ่งกลาง</translation>
+    </message>
+    <message>
+        <source>Baseline</source>
+        <comment>TxRevision_Pap_Baseline</comment>
+        <translation>แนวหลัก</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Pap_Bottom</comment>
+        <translation>ล่าง</translation>
+    </message>
+    <message>
+        <source>Tab stops</source>
+        <comment>TxRevision_Pap_TabStops</comment>
+        <translation>หยุดแท็บ</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_TabStopsLeft</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <comment>TxRevision_Pap_TabStopsCentered</comment>
+        <translation>จัดตรงกลาง</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_TabStopsRight</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>leader</source>
+        <comment>TxRevision_Pap_Leader</comment>
+        <translation>เส้นโยง</translation>
+    </message>
+    <message>
+        <source>Bulleted</source>
+        <comment>TxRevision_Pap_Bulleted</comment>
+        <translation>ใส่สัญลักษณ์แสดงหัวข้อย่อย</translation>
+    </message>
+    <message>
+        <source>Numbered</source>
+        <comment>TxRevision_Pap_Numbered</comment>
+        <translation>จัดลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Level</source>
+        <comment>TxRevision_Pap_BulletedLevel</comment>
+        <translation>ระดับ</translation>
+    </message>
+    <message>
+        <source>Level</source>
+        <comment>TxRevision_Pap_NumberedLevel</comment>
+        <translation>ระดับ</translation>
+    </message>
+    <message>
+        <source>Numbering Style</source>
+        <comment>TxRevision_Pap_NumberingStyle</comment>
+        <translation>สไตล์ลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Start at</source>
+        <comment>TxRevision_Pap_StartAt</comment>
+        <translation>เริ่มต้นที่</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <comment>TxRevision_Pap_Alignment</comment>
+        <translation>การจัดแนว</translation>
+    </message>
+    <message>
+        <source>Aligned at</source>
+        <comment>TxRevision_Pap_AlignedAt</comment>
+        <translation>จัดแนวที่</translation>
+    </message>
+    <message>
+        <source>Indent at</source>
+        <comment>TxRevision_Pap_IndentAt</comment>
+        <translation>เยื้องที่</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Sep_Left</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Sep_Right</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Sep_Top</comment>
+        <translation>บน</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Sep_Bottom</comment>
+        <translation>ล่าง</translation>
+    </message>
+    <message>
+        <source>Gutter</source>
+        <comment>TxRevision_Sep_Gutter</comment>
+        <translation>เย็บกระดาษ</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <comment>TxRevision_Sep_Width</comment>
+        <translation>ความกว้าง</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <comment>TxRevision_Sep_Height</comment>
+        <translation>ความสูง</translation>
+    </message>
+    <message>
+        <source>Section start</source>
+        <comment>TxRevision_Sep_SectionStart</comment>
+        <translation>เริ่มต้นส่วน</translation>
+    </message>
+    <message>
+        <source>Continuous</source>
+        <comment>TxRevision_Sep_Continuous</comment>
+        <translation>ต่อเนื่อง</translation>
+    </message>
+    <message>
+        <source>New page</source>
+        <comment>TxRevision_Sep_NewPage</comment>
+        <translation>หน้าใหม่</translation>
+    </message>
+    <message>
+        <source>Even page</source>
+        <comment>TxRevision_Sep_EvenPage</comment>
+        <translation>หน้าคู่</translation>
+    </message>
+    <message>
+        <source>Odd page</source>
+        <comment>TxRevision_Sep_OddPage</comment>
+        <translation>หน้าคี่</translation>
+    </message>
+    <message>
+        <source>Different first page header and footer</source>
+        <comment>TxRevision_Sep_DifferentFirstPageHeaderAndFooter</comment>
+        <translation>หัวกระดาษและท้ายกระดาษหน้าแรกแตกต่างกัน</translation>
+    </message>
+    <message>
+        <source>Header distance from edge</source>
+        <comment>TxRevision_Sep_HeaderDistanceFromEdge</comment>
+        <translation>ระยะห่างหัวกระดาษจากขอบ</translation>
+    </message>
+    <message>
+        <source>Footer distance from edge</source>
+        <comment>TxRevision_Sep_FooterDistanceFromEdge</comment>
+        <translation>ระยะห่างท้ายกระดาษจากขอบ</translation>
+    </message>
+    <message>
+        <source>No grid</source>
+        <comment>TxRevision_Sep_NoGrid</comment>
+        <translation>ไม่มีเส้นตาราง</translation>
+    </message>
+    <message>
+        <source>Specify line grid</source>
+        <comment>TxRevision_Sep_SpecifyLineGrid</comment>
+        <translation>กำหนดเส้นตาราง</translation>
+    </message>
+    <message>
+        <source>Specify line and character grid</source>
+        <comment>TxRevision_Sep_SpecifyLineAndCharacterGrid</comment>
+        <translation>กำหนดเส้นและเส้นตารางอักขระ</translation>
+    </message>
+    <message>
+        <source>Text snaps to character grid</source>
+        <comment>TxRevision_Sep_TextSnapsToCharacterGrid</comment>
+        <translation>จัดข้อความชิดเส้นตารางอักขระ</translation>
+    </message>
+    <message>
+        <source>Number of columns</source>
+        <comment>TxRevision_Sep_NumberOfColumns</comment>
+        <translation>จำนวนของคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Col #%d width</source>
+        <comment>TxRevision_Sep_ColWidth</comment>
+        <translation>Col #%d ความกว้าง</translation>
+    </message>
+    <message>
+        <source>Col #%d spacing</source>
+        <comment>TxRevision_Sep_ColSpacing</comment>
+        <translation>Col #%d ระยะห่าง</translation>
+    </message>
+    <message>
+        <source>Force equal column width</source>
+        <comment>TxRevision_Sep_ForceEqualColumnWidth</comment>
+        <translation>บังคับความกว้างคอลัมน์เท่ากัน</translation>
+    </message>
+    <message>
+        <source>Line between</source>
+        <comment>TxRevision_Sep_LineBetween</comment>
+        <translation>เส้นคั่นระหว่างคอลัมน์</translation>
+    </message>
+    <message>
+        <source>No line between</source>
+        <comment>TxRevision_Sep_NoLineBetween</comment>
+        <translation>ไม่มีเส้นคั่นระหว่างคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Single solid line</source>
+        <comment>TxRevision_Bop_SingleSolidLine</comment>
+        <translation>เส้นเข้มเดี่ยว</translation>
+    </message>
+    <message>
+        <source>Dotted</source>
+        <comment>TxRevision_Bop_Dotted</comment>
+        <translation>แบบจุด</translation>
+    </message>
+    <message>
+        <source>Dashed (small gap)</source>
+        <comment>TxRevision_Bop_DashedSmallGap</comment>
+        <translation>เส้นประ (ช่วงว่างแคบ)</translation>
+    </message>
+    <message>
+        <source>Dashed (large gap)</source>
+        <comment>TxRevision_Bop_DashedLargeGap</comment>
+        <translation>เส้นประ (ช่วงว่างกว้าง)</translation>
+    </message>
+    <message>
+        <source>Dash dot</source>
+        <comment>TxRevision_Bop_DashDot</comment>
+        <translation>เส้นประจุด</translation>
+    </message>
+    <message>
+        <source>Dash dot dot</source>
+        <comment>TxRevision_Bop_DashDotDot</comment>
+        <translation>เส้นประจุดจุด</translation>
+    </message>
+    <message>
+        <source>Double solid lines</source>
+        <comment>TxRevision_Bop_DoubleSolidLines</comment>
+        <translation>เส้นเข้มคู่</translation>
+    </message>
+    <message>
+        <source>Triple solid lines</source>
+        <comment>TxRevision_Bop_TripleSolidLines</comment>
+        <translation>เส้นเข้มสามเส้น</translation>
+    </message>
+    <message>
+        <source>Thin-thick small gap</source>
+        <comment>TxRevision_Bop_ThinThickSmallGap</comment>
+        <translation>บาง-หนา ช่องว่างแคบ</translation>
+    </message>
+    <message>
+        <source>Thick-thin small gap</source>
+        <comment>TxRevision_Bop_ThickThinSmallGap</comment>
+        <translation>หนา-บาง ช่องว่างแคบ</translation>
+    </message>
+    <message>
+        <source>Thin-thick-thin small gap</source>
+        <comment>TxRevision_Bop_ThinThickThinSmallGap</comment>
+        <translation>บาง-หนา-บาง ช่องว่างแคบ</translation>
+    </message>
+    <message>
+        <source>Thin-thick medium gap</source>
+        <comment>TxRevision_Bop_ThinThickMediumGap</comment>
+        <translation>บาง-หนา ช่องว่างปานกลาง</translation>
+    </message>
+    <message>
+        <source>Thick-thin medium gap</source>
+        <comment>TxRevision_Bop_ThickThinMediumGap</comment>
+        <translation>หนา-บาง ช่องว่างปานกลาง</translation>
+    </message>
+    <message>
+        <source>Thin-thick-thin medium gap</source>
+        <comment>TxRevision_Bop_ThinThickThinMediumGap</comment>
+        <translation>บาง-หนา-บาง ช่องว่างปานกลาง</translation>
+    </message>
+    <message>
+        <source>Thin-thick large gap</source>
+        <comment>TxRevision_Bop_ThinThickLargeGap</comment>
+        <translation>บาง-หนา ช่องว่างกว้าง</translation>
+    </message>
+    <message>
+        <source>Thick-thin large gap</source>
+        <comment>TxRevision_Bop_ThickThinLargeGap</comment>
+        <translation>หนา-บาง ช่องว่างกว้าง</translation>
+    </message>
+    <message>
+        <source>Thin-thick-thin large gap</source>
+        <comment>TxRevision_Bop_ThinThickThinLargeGap</comment>
+        <translation>บาง-หนา-บาง ช่องว่างกว้าง</translation>
+    </message>
+    <message>
+        <source>Single wavy</source>
+        <comment>TxRevision_Bop_SingleWavy</comment>
+        <translation>ลูกคลื่นเดี่ยว</translation>
+    </message>
+    <message>
+        <source>Double wavy</source>
+        <comment>TxRevision_Bop_DoubleWavy</comment>
+        <translation>ลูกคลื่นคู่</translation>
+    </message>
+    <message>
+        <source>Dash dot (stroked)</source>
+        <comment>TxRevision_Bop_DashDotStroked</comment>
+        <translation>เส้นประจุด (ขีด)</translation>
+    </message>
+    <message>
+        <source>Emboss 3D</source>
+        <comment>TxRevision_Bop_Emboss3D</comment>
+        <translation>นูน 3 มิติ</translation>
+    </message>
+    <message>
+        <source>Engrave 3D</source>
+        <comment>TxRevision_Bop_Engrave3D</comment>
+        <translation>รอยจารึก 3 มิติ</translation>
+    </message>
+    <message>
+        <source>Outset</source>
+        <comment>TxRevision_Bop_Outset</comment>
+        <translation>Outset</translation>
+    </message>
+    <message>
+        <source>Inset</source>
+        <comment>TxRevision_Bop_Inset</comment>
+        <translation>Inset</translation>
+    </message>
+    <message>
+        <source>Line width</source>
+        <comment>TxRevision_Bop_LineWidth</comment>
+        <translation>ความหนาเส้น</translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <comment>TxRevision_Unit_Inches</comment>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <comment>TxRevision_Unit_MM</comment>
+        <translation>มม.</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <comment>TxRevision_Unit_CM</comment>
+        <translation>ซม.</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <comment>TxRevision_Unit_PT</comment>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <comment>TxRevision_Unit_CH</comment>
+        <translation>ch</translation>
+    </message>
+    <message>
+        <source>line</source>
+        <comment>TxRevision_Unit_Line</comment>
+        <translation>เส้น</translation>
+    </message>
+    <message>
+        <source>li</source>
+        <comment>TxRevision_Unit_Li</comment>
+        <translation>li</translation>
+    </message>
+    <message>
+        <source>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</source>
+        <comment>TxRevision_Chp_FontSizeReplacedList</comment>
+        <translation>42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5</translation>
+    </message>
+    <message>
+        <source>Custom Color (RGB(%d,%d,%d))</source>
+        <comment>TxRevision_Color_CustomColor</comment>
+        <translation>สีแบบกำหนดเอง (RGB(%d,%d,%d))</translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <comment>TxRevision_Shp_Pattern</comment>
+        <translation>รูปแบบ</translation>
+    </message>
+    <message>
+        <source> Foreground</source>
+        <comment>TxRevision_Shp_Foreground</comment>
+        <translation> พื้นหน้า</translation>
+    </message>
+    <message>
+        <source> Background</source>
+        <comment>TxRevision_Shp_Background</comment>
+        <translation> พื้นหลัง</translation>
+    </message>
+    <message>
+        <source>15%:9</source>
+        <comment>TxRevision_Shp_PatternReplacedList</comment>
+        <translation>15%:9</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Color_Auto</comment>
+        <translation>อัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Chinese(Hong Kong S.A.R);Chinese(Macao S.A.R);Chinese(Simplified);Chinese(Singapore);Chinese(Traditional);English(Australia);English(Belize);English(Canada);English(Caribbean);English(Ireland);English(Jamaica);English(New Zealand);English(Philippines);English(South Africa);English(Special Trinidad and Tobago);English(UK);English(United States);English(Zimbabwe);English(Indonesia);French(Belgium);French(Cameroon);French(Canada);French(Ivory Coast);French(France);French(Luxembourg);French(Mali);French(Monaco);French(Reunion Island);French(Senegal);French(Morocco);French(Haiti);French(Switzerland);French(West Indies);French(Democratic Republic);German(Austria);German(Germany);German(Liechtenstein);German(Luxembourg);German(Switzerland);Japanese;Portuguese(Brazil);Portuguese(Portugal);Russian(Moldova);Russian;Belarusian Language;Vietnamese;Korean;Thai;Italian(Italy);Italian(Switzerland);Greece:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</source>
+        <comment>TxRevision_Chp_LangIDReplacedList1</comment>
+        <translation>จีน(ฮ่องกง SAR);จีน(มาเก๊า SAR);จีน(ตัวย่อ),จีน(สิงคโปร์);จีน(ตัวเต็ม);อังกฤษ(ออสเตรเลีย);อังกฤษ(เบลีซ);อังกฤษ(แคนาดา);อังกฤษ(แคริบเบียน);อังกฤษ(ไอร์แลนด์);อังกฤษ(จาไมก้า);อังกฤษ(นิวซีแลนด์);อังกฤษ(ฟิลิปปินส์);อังกฤษ(แอฟริกาใต้);อังกฤษ(ตรินิแดดพิเศษและโตเบโก);อังกฤษ(สหราชอาณาจักร);อังกฤษ(สหรัฐอเมริกา);อังกฤษ(ซิมบับเว);อังกฤษ(อินโดนีเซีย);ฝรั่งเศส(เบลเยียม);ฝรั่งเศส(แคเมอรูน);ฝรั่งเศส(แคนาดา);ฝรั่งเศส(ไอวอรี่โคสต์);ฝรั่งเศส(ฝรั่งเศส);ฝรั่งเศส(ลักเซมเบิร์ก);ฝรั่งเศส(มาลี);ฝรั่งเศส(โมนาโก);ฝรั่งเศส(เกาะเรอูนียง);ฝรั่งเศส(เซเนกัล);ฝรั่งเศส(โมร็อกโก);ฝรั่งเศส(เฮติ);ฝรั่งเศส(วิตเซอร์แลนด์);ฝรั่งเศส(เวสต์อินดีส);ฝรั่งเศส(สาธารณรัฐประชาธิปไตย);เยอรมัน(ออสเตรีย);เยอรมัน(เยอรมนี);เยอรมัน(ลิชเทนสไตน์);เยอรมัน(ลักเซมเบิร์ก);เยอรมัน(สวิตเซอร์แลนด์);ญี่ปุ่น;โปรตุเกส(บราซิล);โปรตุเกส(โปรตุเกส);รัสเซีย(มอลโดวา);รัสเซีย;เบลารุส;เวียดนาม;เกาหลี;ไทย;อิตาลี(อิตาลี);อิตาลี(สวิตเซอร์แลนด์);กรีซ:3076;5124;2052;4100;1028;3081;10249;4105;9225;6153;8201;5129;13321;7177;11273;2057;1033;12297;14345;2060;11276;3084;12300;1036;5132;13324;6156;8204;10252;14348;15372;4108;7180;9228;3079;1031;5127;4103;2055;1041;1046;2070;2073;1049;1059;1066;1042;1054;1040;2064;1032</translation>
+    </message>
+    <message>
+        <source>Arabic(Algeria);Arabic(Bahrain);Arabic(Egypt);Arabic(Iraq);Arabic(Jordan);Arabic(Kuwait);Arabic(Lebanon);Arabic(Libya);Arabic(Morocco);Arabic(Oman);Arabic(Qatar);Arabic(Saudi Arabia);Arabic(Syria);Arabic(Tunisia);Arabic(United Arab Emirates);Arabic(Yemen);Spanish(Argentina);Spanish(Bolivia);Spanish(Chile);Spanish(Colombia);Spanish(Costa Rica);Spanish(Dominican Republic);Spanish(Ecuador);Spanish(El Salvador);Spain Language(Guatemala);Spanish(Honduras);Spanish(Mexico);Spanish(Nicaragua);Spanish(Panama);Spanish(Paraguay);Spanish(Peru);Spanish(Puerto Rico);Spanish(International Style);Spanish(Traditional Language);Spanish(Uruguay);Spanish(Venezuela);Bulgarian;The Burmese;Danish;Dutch(Belgium);Dutch(Netherlands);Irish Bengali(Bangladesh):5121;15361;3073;2049;11265;13313;12289;4097;6145;8193;16385;1025;10241;7169;14337;9217;11274;16394;13322;9226;5130;7178;12298;17418;4106;18442;2058;19466;6154;15370;10250;20490;3082;1034;14346;8202;1093;1026;1109;1030;2067;1043;2108</source>
+        <comment>TxRevision_Chp_LangIDReplacedList2</comment>
+        <translation>อาหรับ(แอลจีเรีย);อาหรับ(บาห์เรน);อาหรับ(อียิปต์);อาหรับ(อิรัก);อาหรับ(จอร์แดน);อาหรับ(คูเวต);อาหรับ(เลบานอน);อาหรับ(ลิเบีย);อาหรับ(โมร็อกโก);อาหรับ(โอมาน);อาหรับ(กาตาร์);อาหรับ(ซาอุดีอาระเบีย);อาหรับ(ซีเรีย);อาหรับ(ตูนิเซีย);อาหรับ(สหรัฐอาหรับเอมิเรตส์);อาหรับ(เยเมน);สเปน(อาร์เจนตินา);สเปน(โบลิเวีย);สเปน(ชิลี);สเปน(โคลอมเบีย);สเปน(คอสตาริกา);สเปน(สาธารณรัฐโดมินิกัน);สเปน(เอกวาดอร์);สเปน(เอลซัลวาดอร์);สเปน(กัวเตมาลา);สเปน(ฮอนดูรัส);สเปน(เม็กซิโก);สเปน(นิการากัว);สเปน(ปานามา);สเปน(ปารากวัย);สเปน(เปรู);สเปน(เปอร์โตริโก);สเปน(สากล);สเปน(ดั้งเดิม);สเปน(อุรุกวัย);สเปน(เวเนซุเอลา);บัลแกเรีย;พม่า;เดนมาร์ก;ดัตช์(เบลเยียม);ดัตช์(เนเธอร์แลนด์);ไอริช เบงกาลี(บังคลาเทศ):5121;15361;3073;2049;11265;13313;12289;4097;6145;8193;16385;1025;10241;7169;14337;9217;11274;16394;13322 ;9226;5130;7178;12298;17418;4106;18442;2058;19466;6154;15370;10250;20490;3082;1034;14346;8202;1093;1026;1109;1030;2067;1043;2108</translation>
+    </message>
+    <message>
+        <source>Georgian;Hawaiian Language;Hebrew;Hindi;Hungarian;Icelandic;Indonesian;Laotian;Latin;Lithuanian;Mongolian(Traditional Mongolian China);Nepali;Norwegian(Bokmal Language);Norwegian(Nynorsk);Oriya;Oromo;Polish;Punjabi;Romansh;Romanian(Moldova);Romanian;Sanskrit;Serbian(Cyrillic Serbia);Serbian(Latin Serbia);Slovak;Slovenian;Somali;Swahili;Swedish(Finland);Swedish;Tibetan(China);Turkish;Turkmen;Ukrainian;Urdu Language;Uzbek(Cyrillic);Uzbek(Latin);Venda;Welsh;Yi(China);The Yoruba;Zulu;Maldives Language;Berber Language(Latin Algeria);Galician;Scottish Gaelic(United Kingdom);Czech;Persian;Filipino;Finnish:1079;1141;1037;1081;1038;1039;1057;1108;1142;1063;1104;1121;1044;2068;1096;1138;1045;1094;1047;2072;1048;1103;3098;2074;1051;1060;1143;1089;2077;1053;1105;1055;1090;1058;1056;2115;1091;1075;1106;1144;1130;1077;1125;2143;1110;1084;1029;1065;1124;1035</source>
+        <comment>TxRevision_Chp_LangIDReplacedList3</comment>
+        <translation>จอร์เจีย;ฮาวาย;ฮีบรู;ฮินดี;ฮังการี;ไอซ์แลนด์;อินโดนีเซีย;ลาว;ละติน;ลิทัวเนีย;มองโกเลีย(จีนมองโกเลียดั้งเดิม);เนปาล;นอร์เวย์(บ็อกมัล);นอร์เวย์(นืนอสก์);โอริยา;โอโรโม;โปแลนด์;ปัญจาบ;โรมานช์;โรมาเนีย(มอลโดวา);โรมาเนีย;สันสกฤต;เซอร์เบีย(ซีริลลิเซอร์เบีย);เซอร์เบีย(ละตินเซอร์เบีย);สโลวัก;สโลเวเนีย;โซมาเลีย;สวาฮิลี;สวีเดน(ฟินแลนด์);สวีเดน;ทิเบต(จีน);ตุรกี;เติร์กเมนิสถาน;ยูเครน;อูรดู;อุซเบก(ซีริลลิก);อุซเบก(ละติน);เวนดา;เวลส์;ยี่(จีน),โยรูบา;ซูลู;มัลดีฟส์;เบอร์เบอร์;(ละตินแอลจีเรีย);กาลิเซีย;สก็อตเกลิค(สหราชอาณาจักร);เช็ก;เปอร์เซีย;ฟิลิปปินส์;ฟินแลนด์:1079;1141;1037;1081;1038;1039;1057;1108;1142;1063;1104;1121;1044;2068;1096;1138;1045;1094;1047;2072;1048;1103;3098;2074;1051;1060;1143;1089;2077;1053;1105;1055;1090;1058;1056;2115;1091;1075;1106;1144;1130;1077;1125;2143;1110;1084;1029;1065;1124;1035</translation>
+    </message>
+    <message>
+        <source>Afrikaans;Albanian;Amharic;Armenian;Assamese;Azerbaijan(Cyrillic);Azeri(Latin);Basque;Catalan;Cherokee Language;Croatian(Croatia);Estonian;Faroese;Guarani Language;Gujarati;Hausa;Frisian;Igbo;Ibibio(Nigeria);Inuit Language(Syllables);Kannada;Kanuri;Kashmiri;Kazakh;Khmer;Kirghiz;Konkani;Latvian;Macedonian(FYROM);Malay(Malaysia);Malay(Brunei Darussalam);Himalayan Ram Language;Maltese;Manipuri Language;Marathi;Sinhala;Sindhi(Sanskrit);Sindhi(Arabic);Syrian;Tajik;Tamil;Tatar;Telugu;Tigrinya(Ethiopia);Tigrinya(Eritrea Province);Yiddish;The Kwacha Language(Egypt people say the Kwa language);Foulbe Language;Pashto;Berber Language(Arabic Morocco);Dzongkha;Sami(Lapp);Sotho;Tsonga;Tswana;Xhosa;Sorbian:1078;1052;1118;1067;1101;2092;1068;1069;1027;1116;1050;1061;1080;1140;1095;1128;1122;1136;1129;1117;1099;1137;1120;1087;1107;1088;1111;1062;1071;1086;2110;1100;1082;1112;1102;1115;1113;2137;1114;1064;1097;1092;1098;1139;2163;1085;1126;1127;1123;1119;2129;1083;1072;1073;1074;1076;1070</source>
+        <comment>TxRevision_Chp_LangIDReplacedList4</comment>
+        <translation>แอฟริกา;แอลเบเนีย;อัมฮาริค;อาร์เมเนีย;อัสสัม;อาเซอร์ไบจาน(ซีริลลิก);อาเซอร์ไบจาน(ละติน);บาสก์;คาตาลัน;เชอโรกี;โครเอเชีย(โครเอเชีย);เอสโตเนีย;แฟโร;กวารานี;คุชราต;เฮาซา;ฟริเซียน;อิกโบ;อิบิบิโอ(ไนจีเรีย);เอสกิโม(พยางค์);กันนาดา;คานูรี;แคชเมียร์;คาซัคสถาน;เขมร;คีร์กีซ;กงกัณ;ลัตเวีย;มาซิโดเนีย(FYROM);มลายู(มาเลเซีย);มาเลย์(บรูไนดารุสซาลาม);หิมาลัยราม;มอลตา;มณีปุริ;มราฐี;สิงหล;สินธุ(สันสกฤต);สินธุ(อาหรับ);ซีเรีย;ทาจิกิสถาน;ทมิฬ;ตาตาร์;เตลูกู;กริญญา(เอธิโอเปีย);กริญญา(รัฐเอริเทรีย);ยิดดิช;กวาชา(คนอียิปต์เรียก กวา);ฟาวล์เบ;พัชโต;เบอร์เบอร์(อาหรับโมร็อกโก);ซองคา;เซมิ(แล็พ);โซโท;ซองก้า;ซวานา;โซซา;ซอร์เบีย:1078;1052;1118;1067;1101;2092;1068;1069;1027;1116;1050;1061;1080;1140;1095;1128;1122;1136;1129;1117;1099;1137;1120;1087;1107;1088;1111;1062;1071;1086;2110;1100;1082;1112;1102;1115;1113;2137;1114;1064;1097;1092;1098;1139;2163;1085;1126;1127;1123;1119;2129;1083;1072;1073;1074;1076;1070</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_IndentLeft2</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_IndentRight2</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxRevision_Pap_SpaceAuto</comment>
+        <translation>อัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Suppress line numbers</source>
+        <comment>TxRevision_Pap_SuppressLineNumbers</comment>
+        <translation>ระงับหมายเลขบรรทัด</translation>
+    </message>
+    <message>
+        <source>Don&apos;t hyphenate</source>
+        <comment>TxRevision_Pap_DontHyphenate</comment>
+        <translation>ไม่ใส่ยัติภังค์</translation>
+    </message>
+    <message>
+        <source>Don&apos;t suppress line numbers</source>
+        <comment>TxRevision_Pap_DontSuppressLineNumbers</comment>
+        <translation>ไม่ระงับหมายเลขบรรทัด</translation>
+    </message>
+    <message>
+        <source>Hyphenate</source>
+        <comment>TxRevision_Pap_Hyphenate</comment>
+        <translation>ใส่ยัติภังค์</translation>
+    </message>
+    <message>
+        <source>Snap to grid</source>
+        <comment>TxRevision_Pap_SnapToGrid</comment>
+        <translation>จัดให้ชิดขอบ</translation>
+    </message>
+    <message>
+        <source>Don&apos;t snap to grid</source>
+        <comment>TxRevision_Pap_DontSnapToGrid</comment>
+        <translation>ไม่จัดให้ชิดขอบ</translation>
+    </message>
+    <message>
+        <source>Bar</source>
+        <comment>TxRevision_Pap_TabStopsBar</comment>
+        <translation>แถบ</translation>
+    </message>
+    <message>
+        <source>Not at</source>
+        <comment>TxRevision_Pap_TabStopsNotAt</comment>
+        <translation>ไม่ใช่ที่</translation>
+    </message>
+    <message>
+        <source>Border spacing</source>
+        <comment>TxRevision_Bop_BorderSpacing</comment>
+        <translation>ระยะห่างจากขอบ</translation>
+    </message>
+    <message>
+        <source>From text</source>
+        <comment>TxRevision_Bop_FromText</comment>
+        <translation>จากข้อความ</translation>
+    </message>
+    <message>
+        <source>Decimal aligned</source>
+        <comment>TxRevision_Pap_TabStopsDecimalAligned</comment>
+        <translation>จัดแนวทศนิยม</translation>
+    </message>
+    <message>
+        <source>Border</source>
+        <comment>TxRevision_Bop_Border</comment>
+        <translation>ขอบ</translation>
+    </message>
+    <message>
+        <source>No border</source>
+        <comment>TxRevision_Bop_NoBorder</comment>
+        <translation>ไม่มีขอบ</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>TxRevision_Bop_Top</comment>
+        <translation>บน</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>TxRevision_Bop_Bottom</comment>
+        <translation>ล่าง</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Bop_Left</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Bop_Right</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <comment>TxRevision_Bop_Between</comment>
+        <translation>ระหว่างกลาง</translation>
+    </message>
+    <message>
+        <source>Box</source>
+        <comment>TxRevision_Bop_Box</comment>
+        <translation>กล่อง</translation>
+    </message>
+    <message>
+        <source>Automatically adjust right indent when grid is defined</source>
+        <comment>TxRevision_Pap_AdjustRightIndent</comment>
+        <translation>ปรับการเยื้องขวาโดยอัตโนมัติเมื่อกำหนดเส้นตาราง</translation>
+    </message>
+    <message>
+        <source>Don&apos;t adjust right indent when grid is defined</source>
+        <comment>TxRevision_Pap_DontAdjustRightIndent</comment>
+        <translation>ไม่ปรับการเยื้องขวาเมื่อกำหนดเส้นตาราง</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <comment>TxRevision_Pap_None</comment>
+        <translation>ไม่มี</translation>
+    </message>
+    <message>
+        <source>New column</source>
+        <comment>TxRevision_Sep_NewColumn</comment>
+        <translation>คอลัมน์ใหม่</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <comment>TxRevision_Bop_Margin</comment>
+        <translation>ระยะขอบ</translation>
+    </message>
+    <message>
+        <source>Not </source>
+        <comment>TxRevision_Sep_Not</comment>
+        <translation>ไม่</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>TxRevision_Pap_AlignmentLeft</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>TxRevision_Pap_AlignmentCenter</comment>
+        <translation>กึ่งกลาง</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>TxRevision_Pap_AlignmentRight</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>No bullets or numbering</source>
+        <comment>TxRevision_Pap_NoBulletsOrNumbering</comment>
+        <translation>ไม่ใส่สัญลักษณ์แสดงหัวข้อย่อยหรือลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Right-to-left</source>
+        <comment>TxRevision_Pap_RightToLeft</comment>
+        <translation>ขวา-ไป-ซ้าย</translation>
+    </message>
+    <message>
+        <source>Left-to-right</source>
+        <comment>TxRevision_Pap_LeftToRight</comment>
+        <translation>ซ้าย-ไป-ขวา</translation>
+    </message>
+    <message>
+        <source>Two Lines in One</source>
+        <comment>TxRevision_Chp_TwoLinesInOne</comment>
+        <translation>สองบรรทัดเป็นหนึ่ง</translation>
+    </message>
+    <message>
+        <source>Circle</source>
+        <comment>TxRevision_Chp_Circle</comment>
+        <translation>วงกลม</translation>
+    </message>
+    <message>
+        <source>Complex Script Font</source>
+        <comment>TxRevision_Chp_ComplexScriptFont</comment>
+        <translation>แบบอักษรภาษาที่ซับซ้อน</translation>
+    </message>
+    <message>
+        <source>(Complex)</source>
+        <comment>TxRevision_Chp_Complex</comment>
+        <translation>(ซับซ้อน)</translation>
+    </message>
+    <message>
+        <source>WPS Writer</source>
+        <comment>_TxApp_Name</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>%s can&apos;t load!</source>
+        <comment>_TxTemplate_cannot_laod_template</comment>
+        <translation>%s ไม่สามารถโหลดได้!</translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <comment>TxDocProtect_User_Everyone</comment>
+        <translation>ทุกคน</translation>
+    </message>
+    <message>
+        <source>Current</source>
+        <comment>TxDocProtect_User_Current</comment>
+        <translation>ปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>Users with permission to change</source>
+        <comment>TxDocProtect_User_Editors</comment>
+        <translation>ผู้ใช้ที่มีสิทธิ์ในการเปลี่ยนแปลง</translation>
+    </message>
+    <message>
+        <source>Users with full control</source>
+        <comment>TxDocProtect_User_Owners</comment>
+        <translation>ผู้ใช้ที่มีการควบคุมเต็มที่</translation>
+    </message>
+    <message>
+        <source>Administrators</source>
+        <comment>TxDocProtect_User_Administrators</comment>
+        <translation>ผู้ดูแลระบบ</translation>
+    </message>
+    <message>
+        <source>Contributors</source>
+        <comment>TxDocProtect_User_Contributors</comment>
+        <translation>ผู้มีส่วนร่วม</translation>
+    </message>
+    <message>
+        <source>Start Protection</source>
+        <comment>TxDocProtect_DocumentProtect</comment>
+        <translation>เริ่มต้นการป้องกัน</translation>
+    </message>
+    <message>
+        <source>Stop Protection</source>
+        <comment>TxDocProtect_DocumentUnprotect</comment>
+        <translation>หยุดการป้องกัน</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the text box.</source>
+        <comment>_TxFind_ReachBeginningOfTextFrames</comment>
+        <translation>ถึงจุดเริ่มต้นของกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Reached the end of the text box.</source>
+        <comment>_TxFind_ReachEndOfTextFrames</comment>
+        <translation>ถึงจุดท้ายของกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the endnote.</source>
+        <comment>_TxFind_ReachBeginningOfEndnotes</comment>
+        <translation>ถึงจุดเริ่มต้นของการอ้างอิงท้ายเรื่อง</translation>
+    </message>
+    <message>
+        <source>Reached the end of the endnote.</source>
+        <comment>_TxFind_ReachEndOfEndnotes</comment>
+        <translation>ถึงจุดท้ายของการอ้างอิงท้ายเรื่อง</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the footnote.</source>
+        <comment>_TxFind_ReachBeginningOfFootnotes</comment>
+        <translation>ถึงจุดเริ่มต้นของเชิงอรรถ</translation>
+    </message>
+    <message>
+        <source>Reached the end of the footnote.</source>
+        <comment>_TxFind_ReachEndOfFootnotes</comment>
+        <translation>ถึงจุดท้ายของเชิงอรรถ</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the headers and footers.</source>
+        <comment>_TxFind_ReachBeginningOfHeaderFooters</comment>
+        <translation>ถึงจุดเริ่มต้นของหัวกระดาษและท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source>Reached the end of the headers and footers.</source>
+        <comment>_TxFind_ReachEndOfHeaderFooters</comment>
+        <translation>ถึงจุดท้ายของหัวกระดาษและท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the text box.</source>
+        <comment>_TxFind_ReachBeginningOfHeaderFooterTextFrames</comment>
+        <translation>ถึงจุดเริ่มต้นของกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Reached the end of the text box.</source>
+        <comment>_TxFind_ReachEndOfHeaderFooterTextFrames</comment>
+        <translation>ถึงจุดท้ายของกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Reached the beginning of the comments.</source>
+        <comment>_TxFind_ReachBeginningOfComments</comment>
+        <translation>ถึงจุดเริ่มต้นของข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Reached the end of the comments.</source>
+        <comment>_TxFind_ReachEndOfComments</comment>
+        <translation>ถึงจุดท้ายของข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Made %d replacements.</source>
+        <comment>_TxFind_ReplaceItemCount</comment>
+        <translation>ทำการแทนที่ %d รายการ</translation>
+    </message>
+    <message>
+        <source>Based On:</source>
+        <comment>TxRevision_BaseStyle</comment>
+        <translation>อ้างอิงตาม:</translation>
+    </message>
+    <message>
+        <source>Following style:</source>
+        <comment>TxRevision_NextStyle</comment>
+        <translation>สไตล์ต่อไปนี้:</translation>
+    </message>
+    <message>
+        <source>The Replace With text contains a group number which is out of range.</source>
+        <comment>_TxFind_MoreReplacementGroups</comment>
+        <translation>แทนที่ข้อความที่มีกลุ่มตัวเลขที่อยู่นอกช่วง</translation>
+    </message>
+    <message>
+        <source>Invalid Add-In Template.</source>
+        <comment>_TxAddin_InvalidAddinTemplate</comment>
+        <translation>แม่แบบ Add-In ไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Cannot Load this Add-In.</source>
+        <comment>_TxAddin_CannotLoadAddIn</comment>
+        <translation>ไม่สามารถโหลด Add-In นี้ได้</translation>
+    </message>
+    <message>
+        <source>Link Update</source>
+        <comment>TxVersion_IncludePictureLink_Update</comment>
+        <translation>อัปเดตลิงก์</translation>
+    </message>
+    <message>
+        <source>You cannot merge these documents because document protection is in effect.</source>
+        <translation>คุณไม่สามารถผสานเอกสารนี้ได้เพราะการป้องกันเอกสารมีผลอยู่</translation>
+    </message>
+    <message>
+        <source>One or both of the compared documents contain tracked changes. For the purpose of the comparison, WPS will consider these changes to have been accepted. Continue with the comparison?</source>
+        <translation>หนึ่งเอกสารที่เปรียบเทียบหรือทั้งคู่มีการติดตากการเปลี่ยนแปลง สำหรับวัตถุประสงค์การเปรียบเทียบ WPS จะนับการเปลี่ยนแปลงเหล่านี้ว่าได้รับการยอมรับแล้ว ทำการเปรียบเทียบต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Writer</source>
+        <translation>Writer</translation>
+    </message>
+    <message>
+        <source>(no proofing)</source>
+        <comment>TxLanguage_NoProofing</comment>
+        <translation>(ไม่มีการพิสูจน์อักษร)</translation>
+    </message>
+    <message>
+        <source>Do you wish to discard changes to &quot;%s&quot; and load the latest version?</source>
+        <comment>TxReload_ConfirmDropChanges</comment>
+        <translation>คุณต้องการทิ้งการเปลี่ยนแปลงไปยัง &quot;%s&quot; แล้วโหลดเวอร์ชันล่าสุดหรือไม่?</translation>
+    </message>
+    <message>
+        <source>This document contains links that may refer to other files. Do you want to update this document with the data from the linked files?</source>
+        <translation>เอกสารนี้มีลิงก์ที่อาจอ้างอิงไปยังไฟล์อื่น คุณต้องการอัปเดตเอกสารนี้ด้วยข้อมูลจากไฟล์ที่ลิงก์หรือไม่?</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation>WPS Writer ไม่สามารถผสานเอกสารหลักกับที่มาของข้อมูลได้ เนื่องจากบันทึกข้อมูลว่างอยู่หรือไม่มีบันทึกข้อมูลที่ตรงกับตัวเลือกคิวรีของคุณ</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation>WPS Writer ไม่สามารถเปิด %s เป็นข้อมูลหรือที่มาหัวกระดาษได้ เนื่องจากมันเป็นเอกสารหลักที่เปิดใช้จดหมายเวียนอยู่</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
+        <comment>_TxMailMerge_CannotMergeWithThisDataSource</comment>
+        <translation type="obsolete">WPS Writer could not merge the main document with the data source because the data records were empty or no data records matched your query options.</translation>
+    </message>
+    <message>
+        <source>Recorded %d too much data fields.</source>
+        <comment>_TxMailMerge_FieldsTooMuch</comment>
+        <translation>%d ที่บันทึกมีเขตข้อมูลมากเกินไป</translation>
+    </message>
+    <message>
+        <source>Recorded %d too few data fields.</source>
+        <comment>_TxMailMerge_FieldsTooFew</comment>
+        <translation>%d ที่บันทึกมีเขตข้อมูลน้อยเกินไป</translation>
+    </message>
+    <message>
+        <source>Recorded %d is empty.</source>
+        <comment>_TxMailMerge_FieldsEmpty</comment>
+        <translation>%d ที่บันทึกว่างอยู่</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is an active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="obsolete">WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation>ทำให้งานสำนักงานง่ายขึ้น</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open %s as Data or Header Source, because it is active mail merge main document.</source>
+        <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
+        <translation type="obsolete">WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain XML Nodes</source>
+        <translation>คุณไม่สามารถเปรียบเทียบเอกสารเหล่านี้ได้เนื่องจากมีจุดต่อ XML</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation>ไม่รู้จัก</translation>
+    </message>
+    <message>
+        <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
+        <comment>TxRevision_Color_ColorNameReplacedList</comment>
+        <translation>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;เข้ม1;อ่อน1;เข้ม2;อ่อน2;เน้น1;เน้น2;เน้น3;เน้น4;เน้น5;เน้น6;การเชื่อมโยงหลายมิติ;การเชื่อมโยงหลายมิติที่ติดตาม;พื้นหลัง1;ข้อความ1;พื้นหลัง2;ข้อความ2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;เข้ม1;อ่อน1;เข้ม2;อ่อน2;เน้น1;เน้น2;เน้น3;เน้น4;เน้น5;เน้น6;เชื่อมโยงหลายมิติ;การเชื่อมโยงหลายมิติที่ติดตาม;พื้นหลัง1;ข้อความ1;พื้นหลัง2;ข้อความ2</translation>
+    </message>
+    <message>
+        <source>White</source>
+        <comment>TxRevision_Shp_Background_White</comment>
+        <translation>ขาว</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <comment>TxRevision_Chp_TextOutline_Effect</comment>
+        <translation>เส้นกรอบข้อความ</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <comment>TxRevision_Chp_TextFill_Effect</comment>
+        <translation>เติมสีข้อความ</translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <comment>TxRevision_Chp_Glow_Effect</comment>
+        <translation>เรืองแสง</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <comment>TxRevision_Chp_Reflection_Effect</comment>
+        <translation>การสะท้อน</translation>
+    </message>
+    <message>
+        <source>Bevel</source>
+        <comment>TxRevision_Chp_Props3D_Effect</comment>
+        <translation>ยกนูน</translation>
+    </message>
+    <message>
+        <source>Click here to enter text.</source>
+        <comment>TxTextControl_HdrText</comment>
+        <translation>คลิกที่นี่เพื่อป้อนข้อความ</translation>
+    </message>
+    <message>
+        <source>Choose one.</source>
+        <comment>TxDropdownControl_HdrText</comment>
+        <translation>เลือกหนึ่ง</translation>
+    </message>
+    <message>
+        <source>Select a building block.</source>
+        <comment>TxBuildingControl_HdrText</comment>
+        <translation>เลือกแบบเอกสารสำเร็จรูป</translation>
+    </message>
+    <message>
+        <source>Click here to enter a date.</source>
+        <comment>TxDateControl_HdrText</comment>
+        <translation>คลิกที่นี่เพื่อป้อนวันที่</translation>
+    </message>
+    <message>
+        <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
+        <comment>TxRepeatSecControl_HdrText</comment>
+        <translatorcomment>Enter any content that you want to repeat, including other content controls. You can also insert this control around table rows in order to repeat parts of a table.</translatorcomment>
+        <translation>ป้อนเนื้อหาใด ๆ ที่คุณทำซ้ำรวมถึงตัวควบคุมเนื้อหาอื่น คุณก็สามารถแทรกตัวควบคุมรอบแถวตารางเพื่อที่จะทำซ้ำส่วนของตารางได้</translation>
+    </message>
+    <message>
+        <source>group</source>
+        <comment>TxGroupControl_Name</comment>
+        <translation>กลุ่ม</translation>
+    </message>
+    <message>
+        <source>Rich text controls</source>
+        <comment>TxRichTextControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหาแบบ Rich text</translation>
+    </message>
+    <message>
+        <source>Plain text controls</source>
+        <comment>TxPlainTextControl_Name</comment>
+        <translation>การควบคุมเนื้อหาข้อความธรรมดา</translation>
+    </message>
+    <message>
+        <source>Picture controls</source>
+        <comment>TxPictureControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหารูปภาพ</translation>
+    </message>
+    <message>
+        <source>Document building block controls</source>
+        <comment>TxDocumentBuildingBlockControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหาแบบเอกสารสำเร็จรูป</translation>
+    </message>
+    <message>
+        <source>Check box controls</source>
+        <comment>TxCheckboxControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหากล่องเลือก</translation>
+    </message>
+    <message>
+        <source>Combo box controls</source>
+        <comment>TxComboboxControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหากล่องคำสั่งผสม</translation>
+    </message>
+    <message>
+        <source>Drop-down list controls</source>
+        <comment>TxDropDownListControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหาแบบรายการดรอปดาวน์</translation>
+    </message>
+    <message>
+        <source>Date picker controls</source>
+        <comment>TxDatePickerControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหาตัวใช้เลือกวันที่</translation>
+    </message>
+    <message>
+        <source>Repeating section controls</source>
+        <comment>TxRepeatingSectionControl_Name</comment>
+        <translation>ตัวควบคุมเนื้อหาในส่วนดำเนินการซ้ำ</translation>
+    </message>
+    <message>
+        <source>%s cannot be applied here.</source>
+        <comment>TxContentControls_Add_Warning1</comment>
+        <translation>%s ไม่สามารถนำมาปรับใช้ได้กับที่นี่</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around multiple selections.</source>
+        <comment>TxContentControls_Add_Warning2</comment>
+        <translation>ไม่สามารถแทรก %s รอบ ๆ หลายการเลือกได้ </translation>
+    </message>
+    <message>
+        <source>Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ส่วนประกอบด่วน</translation>
+    </message>
+    <message>
+        <source>Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>หน้าปก</translation>
+    </message>
+    <message>
+        <source>Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>สมการ</translation>
+    </message>
+    <message>
+        <source>Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source>Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>หัวกระดาษ</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า</translation>
+    </message>
+    <message>
+        <source>Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ตาราง</translation>
+    </message>
+    <message>
+        <source>Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ลายน้ำ</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ข้อความอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า (ด้านบนของหน้า)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า (ด้านล่างของหน้า)</translation>
+    </message>
+    <message>
+        <source>Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า (ระยะขอบ)</translation>
+    </message>
+    <message>
+        <source>Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>สารบัญ</translation>
+    </message>
+    <message>
+        <source>Custom Quick Parts</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ส่วนประกอบด่วนแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Cover Pages</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>หน้าปกแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Equations</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>สมการแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Footers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ท้ายกระดาษแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Headers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>หัวกระดาษแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้าแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Tables</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ตารางแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Watermarks</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ลายน้ำแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom AutoText</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>ข้อความอัตโนมัติแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Text Boxes</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กล่องข้อความแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Top of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า (ด้านบนของหน้า) แบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Bottom of Page)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า (ด้านล่างของหน้า) แบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Page Numbers (Margins)</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>เลขหน้า (ระยะขอบ) แบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom Table of Contents</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>สารบัญแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Custom 1</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กำหนดเอง 1</translation>
+    </message>
+    <message>
+        <source>Custom 2</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กำหนดเอง 2</translation>
+    </message>
+    <message>
+        <source>Custom 3</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กำหนดเอง 3</translation>
+    </message>
+    <message>
+        <source>Custom 4</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กำหนดเอง 4</translation>
+    </message>
+    <message>
+        <source>Custom 5</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>กำหนดเอง 5</translation>
+    </message>
+    <message>
+        <source>Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>บรรณานุกรม</translation>
+    </message>
+    <message>
+        <source>Custom Bibliographies</source>
+        <comment>BuildingBlockTypeName</comment>
+        <translation>บรรณานุกรมแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <comment>TxBBCategoryName_General</comment>
+        <translation>ทั่วไป</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around table columns.</source>
+        <comment>TxContentControls_Add_Warning3</comment>
+        <translation>ไม่สามารถแทรก %s รอบ ๆ คอลัมน์ตารางได้</translation>
+    </message>
+    <message>
+        <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
+        <comment>TxContentControls_Add_Warning4</comment>
+        <translation>ตัวควบคุมเนื้อหาในส่วนดำเนินการซ้ำสามารถแทรกได้รอบ ๆ ทั้งย่อหน้าหรือแถว</translation>
+    </message>
+    <message>
+        <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
+        <comment>TxContentControls_Add_Warning5</comment>
+        <translation>ตัวควบคุมเนื้อหารูปภาพไม่สามารถแทรกรอบ ๆ การเลือกที่มีเนื้อหาที่ไม่ใช่รูปภาพ, ภาพลอย หรือภาพแนวเดียวกับข้อความแบบเดี่ยวได้</translation>
+    </message>
+    <message>
+        <source>%s cannot be inserted around the current selection.</source>
+        <comment>TxContentControls_Add_Warning6</comment>
+        <translation>ไม่สามารถแทรก %s รอบ ๆ การเลือกปัจจุบันได้</translation>
+    </message>
+    <message>
+        <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>วัตถุในเอกสารนี้มีลิงก์ไปยังไฟล์ที่หาไม่พบ ข้อมูลที่ลิงก์จะไม่ได้รับการอัปเดต</translation>
+    </message>
+    <message>
+        <source>Tips: WPS formula content found temporarily unable to resolve in this document, in order to avoid the impact of your work, place documents into .doc format before using WPS Now!</source>
+        <comment>TxBBCheckNewFormulaTip</comment>
+        <translatorcomment>Notice: WPS Office found unresolved formula content in this document. Please convert the document into doc format.</translatorcomment>
+        <translation>โปรดทราบ: WPS Office พบเนื้อหาสูตรที่ยังไม่ได้แก้ในเอกสารนี้ กรุณาแปลงเอกสารเป็นประเภท doc</translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>_TxMailMerge_FieldName</comment>
+        <translation type="unfinished">ชื่อ</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <comment>_TxMailMerge_FieldCompany</comment>
+        <translation type="unfinished">บริษัท</translation>
+    </message>
+    <message>
+        <source>JobTitle</source>
+        <comment>_TxMailMerge_FieldJobTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PostalCode</source>
+        <comment>_TxMailMerge_FieldPostalCode</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <comment>_TxMailMerge_FieldAddress</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <comment>_TxMailMerge_FieldPhone</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outlook is not installed or configured correctly, sending failed.</source>
+        <comment>_TxMailMerge_Outlook_Not_Available</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <comment>TxRevision_Comment_Author</comment>
+        <translation type="unfinished">ผู้สร้าง</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>TxSortFieldNumber_Paragraphs</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <comment>TxSortFieldNumber_Headings</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS cannot save changeds to the global template, because it was opened with read-only access.</source>
+        <comment>TxNormalReadOnlyMessageBoxText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Not Privilege</source>
+        <comment>_TxTemplate_Not_Privilege</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Medium Full</source>
+        <comment>_TxTemplate_MediumFull</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_wpscore_err</name>
+    <message>
+        <source>The measurement must be between 0 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_0_1584</comment>
+        <translation>การวัดค่าจะต้องอยู่ระหว่าง 0 pt และ 1584 pt</translation>
+    </message>
+    <message>
+        <source>Settings you made for left or right margin, column spacing, or paragraph indent are oversized for the page width in some sections.</source>
+        <comment>_TxErr_MeasureOutOfPageLimit</comment>
+        <translation>การตั้งค่าสำหรับระยะขอบซ้ายหรือขวาที่คุณเลือก, ระยะห่างคอลัมน์ หรือการเยื้องย่อหน้าจะเพิ่มขนาดเต็มความกว้างของหน้าในบางส่วน</translation>
+    </message>
+    <message>
+        <source>Cannot set or get column spacing at the end of text.</source>
+        <comment>_TxErr_FailSetColumSpace</comment>
+        <translation>ไม่สามารถตั้งค่าหรือรับระยะห่างคอลัมน์ที่ตอนท้ายของข้อความได้</translation>
+    </message>
+    <message>
+        <source>This style name is already in use or reserved for a built-in style.</source>
+        <comment>_TxErr_CantCreateNewStyle</comment>
+        <translation>ชื่อสไตล์นี้ถูกใช้อยู่แล้ว หรือถูกรักษาไว้สำหรับสไตล์ที่ติดมาภายในตัว</translation>
+    </message>
+    <message>
+        <source>Preview Mode is in use.</source>
+        <comment>_TxErr_PrintPreviewDeny</comment>
+        <translation>โหมดแสดงตัวอย่างถูกใช้งานอยู่</translation>
+    </message>
+    <message>
+        <source>Preview Mode is unactivated.</source>
+        <comment>_TxErr_PrintPreviewNotActivated</comment>
+        <translation>โหมดแสดงตัวอย่างไม่ได้ถูกเปิดใช้งาน</translation>
+    </message>
+    <message>
+        <source>This style has a circulatory Based On styles list.</source>
+        <comment>_TxErr_CycBaseStyle</comment>
+        <translation>สไตล์นี้จะมีรายการสไตล์ที่อ้างอิงหมุนเวียน</translation>
+    </message>
+    <message>
+        <source>The Based On style name does not exist or is of an incorrect type.</source>
+        <comment>_TxErr_SetBaseStyleError</comment>
+        <translation>ชื่อสไตล์ที่อ้างอิงไม่มีอยู่ หรือเป็นของประเภทที่ไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Failed to open.</source>
+        <comment>_TxErr_DocumentOpenFatalError</comment>
+        <translation>เปิดไม่สำเร็จ</translation>
+    </message>
+    <message>
+        <source>Failed to save.</source>
+        <comment>_TxErr_DocumentSaveFatalError</comment>
+        <translation>บันทึกไม่สำเร็จ</translation>
+    </message>
+    <message>
+        <source>There are footnotes, endnotes, or comment references contained in this selection. When converting to a text box, the referenced text will be lost. Do you want to continue?</source>
+        <comment>_TxErr_CreateTextboxWaring1</comment>
+        <translation>มีเชิงอรรถ, การอ้างอิงท้ายเรื่อง หรือข้อคิดเห็นอยู่ในการเลือกนี้ เมื่อแปลงเป็นกล่องข้อความ ข้อความที่ถูกอ้างอิงถึงจะสูญหายไป คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>The text box contains one or more tables which will be deleted if you convert them, because the vertical text box cannot contain any table. Do you want to continue?</source>
+        <comment>_TxErr_ChangeTextboxToVerticalWarning</comment>
+        <translation>กล่องข้อความมีหนึ่งตารางหรือมากกว่านั้นซึ่งจะถูกลบหากคุณแปลงเป็นกล่องข้อความ เนื่องจากกล่องข้อความแนวตั้งไม่สามารถมีตารางใด ๆ ได้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Protect method or property is invalid due to the protected document.</source>
+        <comment>_TxErr_DocumentHasProtected</comment>
+        <translation>วิธีหรือคุณสมบัติการป้องกันไม่ถูกต้องเนื่องจากเป็นเอกสารที่ได้รับการป้องกัน</translation>
+    </message>
+    <message>
+        <source>Unprotect method or property is invalid due to the unprotected document.</source>
+        <comment>_TxErr_DocumentHasUnprotected</comment>
+        <translation>วิธีหรือคุณสมบัติการเลิกป้องกันไม่ถูกต้อง เนื่องจากเป็นเอกสารที่ไม่ได้รับการป้องกัน</translation>
+    </message>
+    <message>
+        <source>The password is not correct.</source>
+        <comment>_TxErr_PasswordError</comment>
+        <translation>รหัสผ่านไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <comment>_TxErr_ChangeTextboxToResizeOrRotateWarning</comment>
+        <translation>กล่องข้อความมีวัตถุหรือตารางซึ่งจะถูกลบถ้าคุณตั้งค่าคุณสมบัติของพวกมัน เนื่องจากกล่องข้อความที่ปรับขนาดได้หรือปรับหมุนได้จะต้องไม่มีวัตถุหรือตาราง คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Cannot insert any object to the text box which can be resized or rotated.</source>
+        <comment>_TxErr_ResizeOrRotateTextboxAddShapeWarning</comment>
+        <translation>ไม่สามารถแทรกวัตถุใด ๆ ไปยังกล่องข้อความที่สามารถปรับขนาดหรือปรับหมุนได้</translation>
+    </message>
+    <message>
+        <source>You are attempting to paste one or more tables into a vertical text box or frame. A text box or frame with vertical text direction cannot contain a table. Do you want to continue?</source>
+        <comment>_TxErr_PasteTableInVertTextboxWarning</comment>
+        <translation>คุณพยายามที่จะวางหนึ่งตารางหรือมากกว่านั้นลงในกล่องข้อความหรือกรอบแนวตั้ง โดยกล่องข้อความหรือกรอบที่มีทิศทางข้อความแนวตั้งจะไม่สามารถมีตารางได้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Some of the regions you can edit overlap, and it is not possible to show them at the same time.
+Use the &apos;Find Next Region I Can Edit&apos; button to show each region individually.</source>
+        <comment>_TxErr_SelectAllExceptions</comment>
+        <translation>ในบางภาคส่วนคุณจะสามารถแก้ไขการซ้อนทับ และไม่สามารถแสดงได้พร้อมกัน
+ใช้ปุ่ม &quot;หาภาคส่วนที่ฉันสามารถแก้ไขได้&quot; เพื่อแสดงแต่ละภาคส่วนแยกจากกัน</translation>
+    </message>
+    <message>
+        <source>You cannot put drawing objects into a text box, callout, comment, footnote, or endnote.</source>
+        <comment>_TxErr_InvalidAnchorPosition</comment>
+        <translation>คุณไม่สามารถวางวัตถุการวาดลงในกล่องข้อความ, คำบรรยายภาพ, ข้อคิดเห็น, เชิงอรรถ หรือการอ้างอิงท้ายเรื่องได้</translation>
+    </message>
+    <message>
+        <source>The measurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation>ค่าการวัดจะต้องอยู่ระหว่าง -1584 pt และ 1584 pt</translation>
+    </message>
+    <message>
+        <source>The measurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation>การวัดค่าจะต้องอยู่ระหว่าง 0.5 และ 600</translation>
+    </message>
+    <message>
+        <source>The mesurement must be between -1584 pt and 1584 pt.</source>
+        <comment>_TxErr_MeasureOutOfRange_1584_1584</comment>
+        <translation type="obsolete">The measurement must be between -1584 pt and 1584 pt.</translation>
+    </message>
+    <message>
+        <source>The mesurement must be between 0.5 and 600.</source>
+        <comment>_TxErr_MeasureOutOfFontScale_05_600</comment>
+        <translation type="obsolete">The measurement must be between 0.5 and 600.</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
+        <comment>_TxErr_InvalidPHdrText</comment>
+        <translation>WPS Writer ไม่สามารถปิดโหมดการออกแบบได้เนื่องจากข้อความตัวแทนในตัวควบคุมเนื้อหามีรายการที่ไม่ถูกต้อง ข้อความตัวแทนไม่สามารถมีรายการ เช่น วัตถุลอย, เครื่องหมายการแก้ไข หรือตัวควบคุมเนื้อหาได้ ลบรายการเหล่านี้ออกจากข้อความตัวแทนแล้วลองใหม่อีกครั้ง</translation>
+    </message>
+</context>
+<context>
+    <name>wps_wpscore_persist</name>
+    <message>
+        <source>Document</source>
+        <comment>_TxDocument_DefaultName</comment>
+        <translation>เอกสาร</translation>
+    </message>
+    <message>
+        <source>Template</source>
+        <comment>_TxDocument_DefaultTemplateName</comment>
+        <translation>แม่แบบ</translation>
+    </message>
+    <message>
+        <source>templates</source>
+        <comment>_TxDocument_TemplatesDirectory</comment>
+        <translation>แม่แบบ</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <comment>TxDesc_All</comment>
+        <translation>All Files(*.*)</translation>
+    </message>
+    <message>
+        <source>*.*</source>
+        <comment>TxExts_All</comment>
+        <translation>*.*</translation>
+    </message>
+    <message>
+        <source>ICBC Preparatory Documents(*.ic1)</source>
+        <comment>TxDesc_IC1</comment>
+        <translation>ICBC Preparatory Documents(*.ic1)</translation>
+    </message>
+    <message>
+        <source>*.ic1</source>
+        <comment>TxExts_IC1</comment>
+        <translation>*.ic1</translation>
+    </message>
+    <message>
+        <source>ICBC Official Documents(*.ic2)</source>
+        <comment>TxDesc_IC2</comment>
+        <translation>ICBC Official Documents(*.ic2)</translation>
+    </message>
+    <message>
+        <source>*.ic2</source>
+        <comment>TxExts_IC2</comment>
+        <translation>*.ic2</translation>
+    </message>
+    <message>
+        <source>Do you want to save the changes you made to %s?</source>
+        <comment>_TxDocument_SaveChangeMsg</comment>
+        <translation>คุณต้องการบันทึกการเปลี่ยนแปลงที่ทำไปยังไฟล์ %s หรือไม่?</translation>
+    </message>
+    <message>
+        <source>These changes you made will affect the common template %s. Do you want to save them?</source>
+        <comment>_TxDocument_SaveGlobalTempChange</comment>
+        <translation>การเปลี่ยนแปลงที่คุณทำจะมีผลต่อแม่แบบทั่วไป %s คุณต้องการบันทึกหรือไม่?</translation>
+    </message>
+    <message>
+        <source>The file you opened is read-only, or is locked by another application.
+(%s)</source>
+        <comment>_TxDocument_OpenReadonly</comment>
+        <translation>ไฟล์ที่คุณเปิดเป็นไฟล์แบบอ่านอย่างเดียว หรือถูกล็อกโดยแอปพลิเคชันอื่น
+(%s)</translation>
+    </message>
+    <message>
+        <source>Errors occur when WPS Writer is opening this file.
+Please try one of the following.
+•Make sure you are permitted to access this file or drive.
+•Make sure there is enough memory and disk space.</source>
+        <comment>_TxDocument_OpenFailure</comment>
+        <translation>เกิดข้อผิดพลาดเมื่อ WPS Writer เปิดไฟล์นี้
+กรุณาลองหนึ่งในคำแนะนำต่อไปนี้
+•ตรวจสอบให้แน่ใจว่าคุณอนุญาตให้เข้าถึงไฟล์หรือไดรฟ์นี้
+•ตรวจสอบให้แน่ใจว่าคุณมีหน่วยความจำ และเนื้อที่บนฮาร์ดดิสก์เพียงพอ</translation>
+    </message>
+    <message>
+        <source>Opening the file, please wait...</source>
+        <comment>_TxDocument_BusyTip_Prompt_Open</comment>
+        <translation>กำลังเปิดไฟล์ กรุณารอสักครู่...</translation>
+    </message>
+    <message>
+        <source>Saving the file, please wait...</source>
+        <comment>_TxDocument_BusyTip_Prompt_Save</comment>
+        <translation>กำลังบันทึกไฟล์ กรุณารอสักครู่...</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the password is not correct.
+(%s)</source>
+        <comment>_TxDocument_OpenPasswordFailure</comment>
+        <translation>WPS Writer ไม่สามารถเปิดไฟล์นี้ได้ เนื่องจากรหัสผ่านไม่ถูกต้อง
+(%s)</translation>
+    </message>
+    <message>
+        <source>Unsupported encrypted file format. Please contact with the creator.
+(%s)</source>
+        <comment>_TxDocument_OpenProvALGVerFailure</comment>
+        <translation>รูปแบบไฟล์เข้ารหัสที่ไม่รองรับ กรุณาติดต่อผู้สร้าง
+(%s)</translation>
+    </message>
+    <message>
+        <source>Cannot find &quot;%s&quot;. Please check the file name&apos;s spelling, and make sure the file location is correct.
+If you are trying to open the file from your recently used file list on the File menu, please make sure that file has not been renamed, moved or deleted.</source>
+        <comment>_TxDocument_Open_File_Isnot_Exist</comment>
+        <translation>ไม่พบ &quot;%s&quot; กรุณาตรวจสอบการสะกดชื่อไฟล์ และตรวจสอบให้แน่ใจว่าตำแหน่งของไฟล์ถูกต้อง
+หากคุณต้องการเปิดไฟล์นี้จากรายการไฟล์ที่ใช้งานช่วงที่่ผ่านมาในเมนูไฟล์ กรุณาตรวจสอบให้แน่ใจว่าไฟล์ไม่ได้ถูกเปลี่ยนชื่อ, ย้าย หรือลบ</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation type="obsolete">WPS Writer ไม่สามารถบันทึกหรือสร้างไฟล์นี้ได้
+กรุณาตรวจสอบให้แน่ใจว่าไฟล์ไม่ได้ถูกล็อกโดยผู้ใช้อื่น หรือดิสก์ปลายทางไม่เต็ม หรือไม่เสียหาย
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save this file due to a file permission error.
+(%s)</source>
+        <comment>_TxDocument_SaveFailurePermission</comment>
+        <translation>WPS Writer ไม่สามารถบันทึกไฟล์นี้ได้เนื่องจากข้อผิดพลาดในสิทธิ์ของไฟล์
+(%s)</translation>
+    </message>
+    <message>
+        <source>Try to save again? 
+(%s)</source>
+        <comment>_TxDocument_SaveRetry</comment>
+        <translation>ลองบันทึกใหม่อีกครั้ง? 
+(%s)</translation>
+    </message>
+    <message>
+        <source>The document will be save as &quot;%s&quot; format. Do you want to continue?
+(%s)</source>
+        <comment>_TxDocument_SaveConvertToDefault</comment>
+        <translation>เอกสารนี้จะถูกบันทึกเป็นประเภท &quot;%s&quot; คุณต้องการดำเนินการต่อหรือไม่?
+(%s)</translation>
+    </message>
+    <message>
+        <source>Document has been locked by another application. Do you want to open it as read-only?
+(%s)</source>
+        <comment>_TxDocument_SaveFailureLocked</comment>
+        <translation>เอกสารนี้ถูกล็อกโดยแอปพลิเคชันอื่น คุณต้องการบันทึกเป็นแบบอ่านอย่างเดียวหรือไม่?
+(%s)</translation>
+    </message>
+    <message>
+        <source>This file has been opened as read-only before. Do you still want to open it as read-only ?
+(%s)</source>
+        <comment>_TxDocument_SaveReadOnlyAgain</comment>
+        <translation>ไฟล์นี้ถูกเปิดแบบอ่านอย่างเดียวมาก่อน คุณต้องการบันทึกเป็นแบบอ่านอย่างเดียวหรือไม่?
+(%s)</translation>
+    </message>
+    <message>
+        <source>%s (Read-Only)</source>
+        <comment>_TxDocument_TitleReadOnly</comment>
+        <translation>%s (อ่านอย่างเดียว)</translation>
+    </message>
+    <message>
+        <source>%s may contain some features that are not compatible with %s format. Do you want to keep the document in this format?
+
+•If you want to keep this format, click Yes.
+•If you want to preserve the features, click No. Then save a copy as the latest WPS Writer format.</source>
+        <comment>_TxDocument_FormatNotCompatible</comment>
+        <translation>%s อาจมีบางคุณลักษณะที่ไม่รองรับกับไฟล์ประเภท %s คุณต้องการคงเอกสารไว้เป็นไฟล์รูปแบบนี้หรือไม่?
+
+•หากคุณต้องการคงรูปแบบไฟล์นี้ไว้ ให้คลิก ใช่
+•หากคุณต้องการรักษาคุณลักษณะไว้ ให้คลิก ไม่ จากนั้นให้บันทึกสำเนาเป็นรูปแบบไฟล์ WPS Writer ล่าสุด</translation>
+    </message>
+    <message>
+        <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
+Do you still want to open this file?
+
+•Click Yes, WPS Writer will continue to open this file.
+•Click No, WPS Writer will stop opening this file.
+
+Note that some files may contain macro viruses and possibly perform other harmful actions. If you do not trust this file, just do not open it.
+(%s)</source>
+        <comment>_TxDocument_AVFailed</comment>
+        <translation>โปรแกรมสแกนไวรัสของคุณประสบข้อผิดพลาดเมื่อสแกนไฟล์นี้(รหัสข้อผิดพลาด: 0x%08X) กรุณาติดต่อตัวแทนซอฟต์แวร์แอนตี้ไวรัส 
+คุณยังต้องการเปิดไฟล์นี้หรือไม่?
+
+•คลิก ใช่ แล้ว WPS Writer จะทำการเปิดไฟล์นี้ต่อ
+•คลิก ไม่ แล้ว WPS Writer จะหยุดการเปิดไฟล์นี้
+
+โปรดทราบว่าบางไฟล์อาจมีไวรัสแมโคร และอาจดำเนินคำสั่งที่อันตรายอื่น ๆ หากคุณไม่เชื่อใจไฟล์นี้ ก็ไม่ควรเปิดมัน
+(%s)</translation>
+    </message>
+    <message>
+        <source>The default template has been damaged. Do you want to try resetting it? Note that resetting may cause loss of part of user defined data.</source>
+        <comment>_TxDocument_RenewNormalTemplate</comment>
+        <translation>ค่าเริ่มต้นแม่แบบได้รับความเสียหาย คุณต้องการลองรีเซ็ตหรือไม่? โปรดทราบว่าการรีเซ็ตอาจส่งผลให้สูญเสียข้อมูลที่ผู้ใช้กำหนดบางส่วนได้</translation>
+    </message>
+    <message>
+        <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
+        <comment>_TxDocument_DrawingWillLost</comment>
+        <translation>จะสูญเสียวัตถุของเนื้อหาที่วางเมื่อทำการวางในกล่องข้อความ, กล่องข้อคิดเห็น, เชิงอรรถ และการอ้างอิงท้ายเรื่อง</translation>
+    </message>
+    <message>
+        <source>Cannot paste table to a vertical text box.</source>
+        <comment>_TxDocument_TableInVertTextBox</comment>
+        <translation>ไม่สามารถวางตารางไปยังกล่องข้อความแนวตั้งได้</translation>
+    </message>
+    <message>
+        <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
+        <comment>_TxDocument_KRM_RightsWillLost</comment>
+        <translation>สิทธิ์สำหรับไฟล์นี้ถูกจำกัดอยู่ในขณะนี้ มีเพียงแค่รูปแบบไฟล์ WPS Writer ที่สามารถคงการตั้งค่านั้นไว้ได้ หากคุณบันทึกเป็นรูปแบบไฟล์ในปัจจุบัน การอนุญาตทั้งหมดจะหายไป คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
+Please try one of the following.
+•Switch to another user account.
+•Ask its creator to change the permissions control level of this file.</source>
+        <comment>_TxDocument_KRM_RightsInsufficient</comment>
+        <translation>WPS Writer ไม่สามารถเปิดไฟล์นี้ได้ เนื่องจากผู้ใช้ปัจจุบันไม่มีสิทธิ์เพียงพอสำหรับการเข้าถึง
+กรุณาลองหนึ่งในคำแนะนำต่อไปนี้
+•สลับไปยังบัญชีผู้ใช้อื่น
+•ขอให้ผู้สร้างไฟล์เปลี่ยนระดับการควบคุมสิทธิ์ของไฟล์นี้</translation>
+    </message>
+    <message>
+        <source>Opening this document will execute the SQL command below:
+ %s 
+Data from your database will be placed in the document. Do you want to continue?
+</source>
+        <comment>_TxMailMerge_OpenDataSource</comment>
+        <translation>การเปิดเอกสารนี้จะเริ่มคำสั่ง SQL ด้านล่างนี้:
+ %s 
+ข้อมูลจากฐานข้อมูลจะถูกลงไว้ในเอกสาร คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Permission for &quot;%s&quot; is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_TxDocument_CannotInsertKRMFile</comment>
+        <translation>สิทธิ์สำหรับ &quot;%s&quot; ถูกจำกัดอยู่ในขณะนี้ ไม่สามารถแทรกไฟล์ที่ถูกจำกัดสิทธิ์ลงในเอกสารนี้ได้</translation>
+    </message>
+    <message>
+        <source>This file contains Enhanced Textbox property. Saving it as other formats, may cause loss of the specific property. 
+Do you want to continue?</source>
+        <comment>_TxDocument_HasWpsExtraData</comment>
+        <translation>ไฟล์นี้มีคุณสมบัติกล่องข้อความแบบเสริม การบันทึกเป็นรูปแบบไฟล์อื่นอาจส่งผลให้สูญเสียคุณสมบัติบางอย่างได้ 
+คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>This file contains some special properties below. Saving it as other formats may cause the loss of:</source>
+        <comment>_TxDocument_FormatNotCompatible_Word97</comment>
+        <translation>ไฟล์นี้มีคุณสมบัติพิเศษบางอย่างต่อไปนี้ การบันทึกเป็นประเภทไฟล์อื่นอาจส่งผลให้สูญเสีย:</translation>
+    </message>
+    <message>
+        <source>
+• Multi-Diagonal cell</source>
+        <comment>_TxDocument_FormatNotCompatible_MultiDiagonalCell</comment>
+        <translation>
+• หลายเซลล์ทแยงมุม</translation>
+    </message>
+    <message>
+        <source>
+• Genko</source>
+        <comment>_TxDocument_FormatNotCompatible_Genko</comment>
+        <translation>• Genko</translation>
+    </message>
+    <message>
+        <source>
+• Extended text box properties</source>
+        <comment>_TxDocument_FormatNotCompatible_TextBoxEx</comment>
+        <translation>
+• คุณสมบัติกล่องข้อความที่ขยาย</translation>
+    </message>
+    <message>
+        <source>
+• Extended orientation</source>
+        <comment>_TxDocument_FormatNotCompatible_TextOrientationEx</comment>
+        <translation>
+• การวางแนวที่ขยาย</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot give a document the same name as an open document.
+Type a different name for the document you want to save.
+(%s)</source>
+        <comment>_TxDocument_SaveFailureShared</comment>
+        <translation>WPS Writer ไม่สามารถตั้งชื่อเอกสารเป็นชื่อเดียวกับเอกสารที่เปิดอยู่ได้
+พิมพ์ชื่ออื่นสำหรับเอกสารที่คุณต้องการบันทึก
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot open this file, because the password is not correct.
+</source>
+        <comment>_TxDocument_OpenPasswordFailure2</comment>
+        <translation>WPS Writer ไม่สามารถเปิดไฟล์นี้ได้ เนื่องจากรหัสผ่านไม่ถูกต้อง 
+</translation>
+    </message>
+    <message>
+        <source>WPS document in %s</source>
+        <comment>_TxDocument_OnSetHostNames</comment>
+        <translation type="obsolete">เอกสาร WPS ใน %s</translation>
+    </message>
+    <message>
+        <source>The specified file “%s” is not the supported file type, please click OK and then specify a type in the Save As dialogue box.</source>
+        <comment>_TxDocument_FormatNotCompatible_OOXML</comment>
+        <translation>“%s” ที่กำหนดไม่ใช่ประเภทไฟล์ที่รองรับ กรุณาคลิกที่ ตกลง แล้วกำหนดประเภทในกรอบสนทนา บันทึกเป็น</translation>
+    </message>
+    <message>
+        <source>Graphic objects cannot be placed in a text box, label annotations, footnotes or endnotes.</source>
+        <comment>_TxDocument_PlaceDrawingWarning</comment>
+        <translation>ไม่สามารถวางวัตถุกราฟิกลงในกล่องข้อความ, คำอธิบายประกอบป้ายชื่อ, เชิงอรรถ หรือการอ้างอิงท้ายเรื่องได้</translation>
+    </message>
+    <message>
+        <source>The following features cannot be saved in macro-free workbooks:
+ · VB project
+To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
+To continue saving as a macro-free workbook, click Yes.
+</source>
+        <comment>_TxDocument_SaveMacroWarning</comment>
+        <translation>ไม่สามารถบันทึกคุณลักษณะดังต่อไปนี้ในสมุดงานที่ปราศจากแมโคร:
+ · โปรเจ็กต์ VB
+บันทึกไฟล์ที่มีคุณลักษณะนี้ได้โดยการคลิกที่ ไม่ แล้วเลือกประเภทไฟล์ที่เปิดใช้งานแมโครในรายการประเภทไฟล์
+ทำการบันทึกเป็นสมุดงานที่ปราศจากแมโครได้โดยการคลิกที่ ใช่</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</source>
+        <comment>TxDesc_AllWPSEx</comment>
+        <translation>Common Files(*.wps; *.wpt; *.wpsx; *.wptx; *.doc; *.dot; *.rtf; *.docx)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</source>
+        <comment>TxExts_AllWPSEx</comment>
+        <translation>*.wps;*.wpt;*.wpsx;*.wptx;*.doc;*.dot; *.rtf; *.docx;</translation>
+    </message>
+    <message>
+        <source>Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation>เกิดข้อผิดพลาดระหว่างการสำรองข้อมูล! คุณอาจจะไม่มีสิทธิ์ในการเขียนข้อมูลไปยังไดเรกทอรีสำรองข้อมูลที่กำหนด กรุณาลองเปลี่ยนไดเรกทอรีสำรองข้อมูล
+การสำรองข้อมูลจะถูกบันทึกไปยัง (%s)</translation>
+    </message>
+    <message>
+        <source>Errors occur when backup is running! This is probably because the backup directory you set does not have permission to write, please try to change the backup directory.
+This backup will be saved to(%s)</source>
+        <comment>_TxDocument_MsgBackupToDef</comment>
+        <translation type="obsolete">Errors occurred during backup! You may not have write permissions to the backup directory in which it was to be placed. Please try to change the backup directory.
+This backup will be saved to (%s)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation type="obsolete">Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+    </message>
+    <message>
+        <source>Document has been locked by %s. Do you want to open it as read-only?
+(%s)</source>
+        <comment>_TxDocument_SaveFailureLocked</comment>
+        <translation>ไฟล์ถูกล็อกโดย %s คุณต้องการเปิดไฟล์นี้แบบอ่านอย่างเดียวหรือไม่?
+(%s)</translation>
+    </message>
+    <message>
+        <source>The specified file “%s” is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>_TxDocument_FormatNotCompatible_ODT</comment>
+        <translation>ไฟล์ %s ที่ระบุไม่ได้รับการรองรับ โปรดคลิก ตกลง และระบุประเภทไฟล์อื่นในกรอบสนทนา บันทึกเป็น</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TxDescOFD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TxDescPDF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>_TxDocument_UnSupportFileFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TxDesc_AllWPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
+        <comment>TxDesc_AllWPS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
+        <comment>TxExts_AllWPS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Document Files(*.wpsj)|*.wpsj</source>
+        <comment>TxDescGPCrypt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document in %s</source>
+        <comment>_TxDocument_OnSetHostNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_wpsshell</name>
+    <message>
+        <source>Above selected item</source>
+        <comment>wps_sAboveSelItem</comment>
+        <translation>เหนือรายการที่เลือก</translation>
+    </message>
+    <message>
+        <source>Address 1</source>
+        <comment>wps_sAddress1</comment>
+        <translation>ที่อยู่ 1</translation>
+    </message>
+    <message>
+        <source>Address 2</source>
+        <comment>wps_sAddress2</comment>
+        <translation>ที่อยู่ 2</translation>
+    </message>
+    <message>
+        <source>Address 3</source>
+        <comment>wps_sAddress3</comment>
+        <translation>ที่อยู่ 3</translation>
+    </message>
+    <message>
+        <source>&amp;Less</source>
+        <comment>wps_sAdvancedMode</comment>
+        <translation>&amp;น้อยกว่า</translation>
+    </message>
+    <message>
+        <source>Centered</source>
+        <comment>wps_sAlignCenter</comment>
+        <translation>จัดตรงกลาง</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>wps_sAlignLeft</comment>
+        <translation>ซ้าย</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>wps_sAlignRight</comment>
+        <translation>ขวา</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>wps_sAll</comment>
+        <translation>ทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Error occurs when adding words.</source>
+        <comment>wps_sAppendNewWordError</comment>
+        <translation>เกิดข้อผิดพลาดเมื่อเพิ่มคำ</translation>
+    </message>
+    <message>
+        <source>This section</source>
+        <comment>wps_sApplyThisSection</comment>
+        <translation>ส่วนนี้</translation>
+    </message>
+    <message>
+        <source>Whole document</source>
+        <comment>wps_sApplyWholeDocument</comment>
+        <translation>ทั้งเอกสาร</translation>
+    </message>
+    <message>
+        <source>Below selected item</source>
+        <comment>wps_sBelowSelItem</comment>
+        <translation>ด้านล่างส่วนที่เลือก</translation>
+    </message>
+    <message>
+        <source>Bookmark does not exist or is hidden.</source>
+        <comment>wps_sBookMarkNotExist</comment>
+        <translation>ไม่มีบุ๊กมาร์กหรือถูกซ่อนอยู่</translation>
+    </message>
+    <message>
+        <source>Edge of page</source>
+        <comment>wps_sBorderDistanceFromPageEdge</comment>
+        <translation>ขอบหน้ากระดาษ</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>wps_sBorderDistanceFromText</comment>
+        <translation>ข้อความ</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <comment>wps_sBracketNone</comment>
+        <translation>(ไม่มี)</translation>
+    </message>
+    <message>
+        <source>Browse by Bookmark</source>
+        <comment>wps_sBrowseByBookmark</comment>
+        <translation>เรียกดูตามบุ๊กมาร์ก</translation>
+    </message>
+    <message>
+        <source>Browse by Comment</source>
+        <comment>wps_sBrowseByComment</comment>
+        <translation>เรียกดูตามข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Browse by Page</source>
+        <comment>wps_sBrowseByPage</comment>
+        <translation>เรียกดูตามหน้า</translation>
+    </message>
+    <message>
+        <source>Browse by Section</source>
+        <comment>wps_sBrowseBySection</comment>
+        <translation>เรียกดูตามส่วน</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <comment>wps_sBrowseFind</comment>
+        <translation>ค้นหา</translation>
+    </message>
+    <message>
+        <source>Go To</source>
+        <comment>wps_sBrowseGoto</comment>
+        <translation>ไปที่</translation>
+    </message>
+    <message>
+        <source>Bullet:</source>
+        <comment>wps_sBulleted</comment>
+        <translation>สัญลักษณ์แสดงหัวข้อย่อย:</translation>
+    </message>
+    <message>
+        <source>Business Fax</source>
+        <comment>wps_sBusinessFax</comment>
+        <translation>โทรสารธุรกิจ</translation>
+    </message>
+    <message>
+        <source>Business Phone</source>
+        <comment>wps_sBusinessPhone</comment>
+        <translation>โทรศัพท์ธุรกิจ</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <comment>wps_sCancel</comment>
+        <translation>ยกเลิก</translation>
+    </message>
+    <message>
+        <source>Cannot check spelling in the Original review.</source>
+        <comment>wps_sCannotCheckSpellingOnOrgRevision</comment>
+        <translation>ไม่สามารถตรวจสอบการสะกดคำในมุมมองดั้งเดิมได้</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot replace the found item with text containing a break.</source>
+        <comment>wps_sCantReplaceBreak</comment>
+        <translation>WPS Writer ไม่สามารถแทนที่รายการที่พบด้วยข้อความที่มีการแบ่งได้</translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <comment>wps_sCell</comment>
+        <translation>เซลล์</translation>
+    </message>
+    <message>
+        <source>The text box contains objects or tables which will be deleted if you set their properties, because the resizable or rotational text box  must not contain any object or table. Do you want to continue?</source>
+        <comment>wps_sChangeTextboxToResizeOrRotateWarning</comment>
+        <translation>กล่องข้อความมีวัตถุหรือตารางซึ่งจะถูกลบหากคุณตั้งค่าคุณสมบัติของมัน เนื่องจากกล่องข้อความที่ปรับขนาดได้ หรือปรับหมุนได้จะต้องไม่มีวัตถุหรือตาราง คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>City</source>
+        <comment>wps_sCity</comment>
+        <translation>เมือง</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>wps_sClear</comment>
+        <translation>ล้าง</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>wps_sClose</comment>
+        <translation>ปิด</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>wps_sCloseDialog</comment>
+        <translation>ปิด</translation>
+    </message>
+    <message>
+        <source>Columns %s</source>
+        <comment>wps_sColumns</comment>
+        <translation>คอลัมน์ %s</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <comment>wps_sCompany</comment>
+        <translation>บริษัท</translation>
+    </message>
+    <message>
+        <source>When you convert this drawing object to a frame, some of the drawing object&apos;s formatting may be lost. Do you want to continue?</source>
+        <comment>wps_sConvertToFrame</comment>
+        <translation>เมื่อคุณแปลงวัตถุการวาดนี้ไปเป็นกรอบ วัตถุการวาดบางส่วนอาจสูญหาย คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Country or Region</source>
+        <comment>wps_sCountryorRegion</comment>
+        <translation>ประเทศหรือภูมิภาค</translation>
+    </message>
+    <message>
+        <source>Courtesy Title</source>
+        <comment>wps_sCourtesyTitle</comment>
+        <translation>คำนำหน้าชื่อ</translation>
+    </message>
+    <message>
+        <source>Created Time</source>
+        <comment>wps_sCreateTime</comment>
+        <translation>เวลาที่สร้าง</translation>
+    </message>
+    <message>
+        <source>Custom Color</source>
+        <comment>wps_sCustomColorName</comment>
+        <translation>สีแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for page setup?
+This change will affect all new documents based on the %s template.</source>
+        <comment>wps_sDefaltTemplateConfirm</comment>
+        <translation>คุณต้องการเปลี่ยนแปลงการตั้งค่าเริ่มต้นสำหรับการตั้งค่าหน้ากระดาษหรือไม่?
+การเปลี่ยนแปลงนี้จะมีผลกับทุกเอกสารใหม่โดยอ้างอิงตามแม่แบบ %s</translation>
+    </message>
+    <message>
+        <source>(Default)</source>
+        <comment>wps_sDefalut</comment>
+        <translation>(ค่าเริ่มต้น)</translation>
+    </message>
+    <message>
+        <source>Default Paragraph Font</source>
+        <comment>wps_sDefaultFont</comment>
+        <translation>ค่าเริ่มต้นของแบบอักษรย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete the default dictionary?</source>
+        <comment>wps_sDeleteDefaultDict</comment>
+        <translation>คุณต้องการลบค่าเริ่มต้นของพจนานุกรมหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Error occurs when deleting words.</source>
+        <comment>wps_sDeleteWordError</comment>
+        <translation>เกิดข้อผิดพลาดเมื่อทำการลบคำ</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <comment>wps_sDepartment</comment>
+        <translation>แผนก</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <comment>wps_sDescription</comment>
+        <translation>คำอธิบาย</translation>
+    </message>
+    <message>
+        <source>Incorrect dictionary. You cannot modify.</source>
+        <comment>wps_sDictError</comment>
+        <translation>พจนานุกรมไม่ถูกต้อง คุณไม่สามารถแก้ไขได้</translation>
+    </message>
+    <message>
+        <source>Final Show Markup,Final,Original Show Markup,Original</source>
+        <comment>wps_sDisplayForReview</comment>
+        <translation>มาร์กอัปที่แสดงท้ายสุด,ท้ายสุด,ต้นฉบับ,มาร์กอัปที่แสดงต้นฉบับ,ต้นฉบับ</translation>
+    </message>
+    <message>
+        <source>Dark Down Diagonal</source>
+        <comment>wps_sDkDownDiagonal</comment>
+        <translation>ทแยงมุมลงเข้ม</translation>
+    </message>
+    <message>
+        <source>Dark Grid</source>
+        <comment>wps_sDkGrid</comment>
+        <translation>ตารางเข้ม</translation>
+    </message>
+    <message>
+        <source>Dark Horizontal</source>
+        <comment>wps_sDkHorizontal</comment>
+        <translation>แนวนอนเข้ม</translation>
+    </message>
+    <message>
+        <source>Dark Trellis</source>
+        <comment>wps_sDkTrellis</comment>
+        <translation>โครงบังตาเข้ม</translation>
+    </message>
+    <message>
+        <source>Dark Up Diagonal</source>
+        <comment>wps_sDkUpDiagonal</comment>
+        <translation>ทแยงมุมขึ้นเข้ม</translation>
+    </message>
+    <message>
+        <source>Dark Vertical</source>
+        <comment>wps_sDkVertical</comment>
+        <translation>แนวตั้งเข้ม</translation>
+    </message>
+    <message>
+        <source>Documents                  %s</source>
+        <comment>wps_sDocumentsPath</comment>
+        <translation>เอกสาร                  %s</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <comment>wps_sEditToolbarCaption</comment>
+        <translation>แก้ไข</translation>
+    </message>
+    <message>
+        <source>E-mail Address</source>
+        <comment>wps_sEmailAddress</comment>
+        <translation>ที่อยู่อีเมล</translation>
+    </message>
+    <message>
+        <source>&amp;Enter bookmark name:</source>
+        <comment>wps_sEnterbookmarkNumber</comment>
+        <translation>&amp;ป้อนชื่อบุ๊กมาร์ก:</translation>
+    </message>
+    <message>
+        <source>&amp;Enter page number:</source>
+        <comment>wps_sEnterPageNumber</comment>
+        <translation>&amp;ป้อนเลขหน้า:</translation>
+    </message>
+    <message>
+        <source>&amp;Enter section number:</source>
+        <comment>wps_sEntersectionNumber</comment>
+        <translation>&amp;ป้อนเลขส่วน:</translation>
+    </message>
+    <message>
+        <source>The font &apos;%s&apos; is not available in your system. Do you want to use it anyway?</source>
+        <comment>wps_sErrorFont</comment>
+        <translation>แบบอักษร %s ไม่พร้อมใช้งานในระบบของคุณ คุณต้องการใช้มันอยู่ดีหรือไม่?</translation>
+    </message>
+    <message>
+        <source>%s is not a valid special character for the Find What box.</source>
+        <comment>wps_sErrorSpecialChar</comment>
+        <translation>%s ไม่ใช่อักขระพิเศษที่ถูกต้องสำหรับกล่องค้นหาอะไร</translation>
+    </message>
+    <message>
+        <source>Start at must be between %d and %d for this format.</source>
+        <comment>wps_sErrorStart</comment>
+        <translation>ค่าเริ่มต้นที่จะต้องอยู่ระหว่าง %d และ %d สำหรับรูปแบบนี้</translation>
+    </message>
+    <message>
+        <source>Errors occurred while opening Font dialog box!</source>
+        <comment>wps_sErrorToOpenFontDialog</comment>
+        <translation>เกิดข้อผิดพลาด ในขณะเปิดกรอบสนทนาแบบอักษร!</translation>
+    </message>
+    <message>
+        <source>WPS Writer encountered an error while trying exporting to PDF.</source>
+        <comment>wps_sExportPDFError</comment>
+        <translation>WPS Writer ประสบข้อผิดพลาดในขณะพยายามส่งออก PDF</translation>
+    </message>
+    <message>
+        <source>The font style is imitated for display. The closest matching style will be printed.</source>
+        <comment>wps_sFH_NotInstall</comment>
+        <translation>สไตล์ของแบบอักษรถูกลอกแบบสำหรับการแสดงผล จะพิมพ์สไตล์ที่ใกล้เคียงที่สุด</translation>
+    </message>
+    <message>
+        <source>This is a TrueType font. This font will be used on both printer and screen.</source>
+        <comment>wps_sFH_TrueType</comment>
+        <translation>นี่คือแบบอักษร TrueType แบบอักษรนี้จะถูกใช้กับทั้งเครื่องพิมพ์และหน้าจอ</translation>
+    </message>
+    <message>
+        <source>Insert the value of the document variable named NAME</source>
+        <comment>wps_sFieldInfoDocVariable</comment>
+        <translation>แทรกค่าของตัวแปรเอกสารที่ชื่อว่า NAME</translation>
+    </message>
+    <message>
+        <source>Open and jump to the specified file</source>
+        <comment>wps_sFieldInfoHyperLink</comment>
+        <translation>เปิดและไปยังไฟล์ที่กำหนด</translation>
+    </message>
+    <message>
+        <source>The number of pages in the document</source>
+        <comment>wps_sFieldInfoNumPages</comment>
+        <translation>จำนวนหน้าในเอกสาร</translation>
+    </message>
+    <message>
+        <source>Insert the number of the current page</source>
+        <comment>wps_sFieldInfoPage</comment>
+        <translation>แทรกเลขหน้าปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>Insert the page number containing the specified bookmark</source>
+        <comment>wps_sFieldInfoPageRef</comment>
+        <translation>แทรกเลขหน้าที่มีบุ๊กมาร์กที่กำหนด</translation>
+    </message>
+    <message>
+        <source>Insert the total number of pages in the section</source>
+        <comment>wps_sFieldInfoSectionPages</comment>
+        <translation>แทรกจำนวนหน้าในส่วน</translation>
+    </message>
+    <message>
+        <source>Insert an automatic sequence number</source>
+        <comment>wps_sFieldInfoSeq</comment>
+        <translation>แทรกหมายเลขลำดับอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Mark a table of contents entry</source>
+        <comment>wps_sFieldInfoTc</comment>
+        <translation>ทำเครื่องหมายรายการสารบัญ</translation>
+    </message>
+    <message>
+        <source>The current time</source>
+        <comment>wps_sFieldInfoTime</comment>
+        <translation>เวลาปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>Create a table of contents</source>
+        <comment>wps_sFieldInfoToc</comment>
+        <translation>สร้างสารบัญ</translation>
+    </message>
+    <message>
+        <source>The file already exists. Do you want to replace the existing file?</source>
+        <comment>wps_sFileExist</comment>
+        <translation>มีไฟล์อยู่แล้ว คุณต้องการแทนที่ไฟล์ที่มีอยู่แล้วหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Find</source>
+        <comment>wps_sFind</comment>
+        <translation>ค้นหา</translation>
+    </message>
+    <message>
+        <source>&amp;Find All</source>
+        <comment>wps_sFindAll</comment>
+        <translation>&amp;ค้นหาทั้งหมด</translation>
+    </message>
+    <message>
+        <source>&amp;Find/Replace...</source>
+        <comment>wps_sFindMenuCaption</comment>
+        <translation>&amp;ค้นหา/แทนที่...</translation>
+    </message>
+    <message>
+        <source>&amp;Find Next</source>
+        <comment>wps_sFindNext</comment>
+        <translation>&amp;ค้นหาถัดไป</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document. The search item was not found.</source>
+        <comment>wps_sFinishedNoItem</comment>
+        <translation>WPS Writer ทำการค้นหาในเอกสารเสร็จสิ้นแล้ว ไม่พบรายการที่ค้นหา</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document.</source>
+        <comment>wps_sFinishedSearch</comment>
+        <translation>WPS Writer ทำการค้นหาในเอกสารเสร็จสิ้นแล้ว</translation>
+    </message>
+    <message>
+        <source>First Name</source>
+        <comment>wps_sFirstName</comment>
+        <translation>ชื่อ</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>wps_sFrame</comment>
+        <translation>กรอบ</translation>
+    </message>
+    <message>
+        <source>Go &amp;to</source>
+        <comment>wps_sGoto</comment>
+        <translation>ไป&amp;ยัง</translation>
+    </message>
+    <message>
+        <source>WPS Writer finished checking the selection. Do you want to continue checking the remainder of the document?</source>
+        <comment>wps_sHasCheckedSelection</comment>
+        <translation>WPS Writer ทำการตรวจสอบส่วนที่เลือกเสร็จสิ้นแล้ว คุณต้องการตรวจสอบส่วนที่เหลือของเอกสารหรือไม่?</translation>
+    </message>
+    <message>
+        <source>height</source>
+        <comment>wps_sHeight</comment>
+        <translation>ความสูง</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
+        <comment>wps_sHint</comment>
+        <translation>WPS Writer กำลังอัปเดตสารบัญนี้อยู่ เลือกหนึ่งในตัวเลือกดังต่อไปนี้:</translation>
+    </message>
+    <message>
+        <source>Home Fax</source>
+        <comment>wps_sHomeFax</comment>
+        <translation>โทรสารบ้าน</translation>
+    </message>
+    <message>
+        <source>Home Phone</source>
+        <comment>wps_sHomePhone</comment>
+        <translation>โทรศัพท์บ้าน</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of contents?</source>
+        <comment>wps_sIfRepleaceContents</comment>
+        <translation>คุณต้องการแทนที่สารบัญที่เลือกหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Invalid Input.</source>
+        <comment>wps_sInputError</comment>
+        <translation>การป้อนข้อมูลไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Input Permission Password.</source>
+        <comment>wps_sInputMasterPassword</comment>
+        <translation>ป้อนรหัสผ่านกำหนดสิทธิ์</translation>
+    </message>
+    <message>
+        <source>Integer is not valid.</source>
+        <comment>wps_sIntegerNotValid</comment>
+        <translation>จำนวนเต็มไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>This font style name does not exist.</source>
+        <comment>wps_sInValidFontStyle</comment>
+        <translation>ไม่มีชื่อสไตล์แบบอักษรนี้อยู่</translation>
+    </message>
+    <message>
+        <source>This is not a valid number.</source>
+        <comment>wps_sInvalidInt</comment>
+        <translation>นี่ไม่ใช่ตัวเลขที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>You must type a character for the custom separator.</source>
+        <comment>wps_sInvalidSeparateChar</comment>
+        <translation>คุณจะต้องพิมพ์อักขระสำหรับตัวคั่นแบบกำหนดเอง</translation>
+    </message>
+    <message>
+        <source>This style name already exists or is reserved for a built-in style.</source>
+        <comment>wps_sInvalidStyleName</comment>
+        <translation>มีชื่อสไตล์นี้อยู่แล้ว หรือถูกจองไว้สำหรับสไตล์ที่มีอยู่แล้วภายใน</translation>
+    </message>
+    <message>
+        <source>The word contains unallowable characters. Cannot process it.</source>
+        <comment>wps_sInvalidWord</comment>
+        <translation>คำมีอักขระที่ไม่อนุญาต ไม่สามารถประมวลผลได้</translation>
+    </message>
+    <message>
+        <source>Job Title</source>
+        <comment>wps_sJobTitle</comment>
+        <translation>ชื่องาน</translation>
+    </message>
+    <message>
+        <source>Last Name</source>
+        <comment>wps_sLastName</comment>
+        <translation>นามสกุล</translation>
+    </message>
+    <message>
+        <source>left/right</source>
+        <comment>wps_sLeftRightMargins</comment>
+        <translation>ซ้าย/ขวา</translation>
+    </message>
+    <message>
+        <source>&amp;Less</source>
+        <comment>wps_sLess</comment>
+        <translation>&amp;น้อยกว่า</translation>
+    </message>
+    <message>
+        <source>Level</source>
+        <comment>wps_sLevel</comment>
+        <translation>ระดับ</translation>
+    </message>
+    <message>
+        <source>Line spacing: 1.5 lines, </source>
+        <comment>wps_sLineSpace1</comment>
+        <translation>ช่องว่างระหว่างบรรทัด: 1.5 บรรทัด</translation>
+    </message>
+    <message>
+        <source>Line spacing: Double, </source>
+        <comment>wps_sLineSpace2</comment>
+        <translation>ช่องว่างระหว่างบรรทัด: สองเท่า</translation>
+    </message>
+    <message>
+        <source>Light Down Diagonal</source>
+        <comment>wps_sLtDownDiagonal</comment>
+        <translation>ทแยงมุมลงอ่อน</translation>
+    </message>
+    <message>
+        <source>Light Grid</source>
+        <comment>wps_sLtGrid</comment>
+        <translation>เส้นตารางอ่อน</translation>
+    </message>
+    <message>
+        <source>Light Horizontal</source>
+        <comment>wps_sLtHorizontal</comment>
+        <translation>แนวนอนอ่อน</translation>
+    </message>
+    <message>
+        <source>Light Trellis</source>
+        <comment>wps_sLtTrellis</comment>
+        <translation>โครงบังตาอ่อน</translation>
+    </message>
+    <message>
+        <source>Light Up Diagonal</source>
+        <comment>wps_sLtUpDiagonal</comment>
+        <translation>ทแยงมุมขึ้นอ่อน</translation>
+    </message>
+    <message>
+        <source>Light Vertical</source>
+        <comment>wps_sLtVertical</comment>
+        <translation>แนวตั้งอ่อน</translation>
+    </message>
+    <message>
+        <source>The %s margins are too large for the page %s in some sections.</source>
+        <comment>wps_sMarginsLarge</comment>
+        <translation>ระยะขอบ %s ใหญ่เกินไปสำหรับหน้า %s ในบางส่วน</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <comment>wps_sMarginsOrColumenSpacingLarge</comment>
+        <translation>การตั้งค่าที่คุณเลือกสำหรับระยะขอบซ้ายหรือขวา, ระยะห่างคอลัมน์ หรือการเยื้องย่อหน้ามีขนาดใหญ่เกินไปสำหรับความกว้างของหน้าในบางส่วน</translation>
+    </message>
+    <message>
+        <source>Permission Password and Document Open Password must be different.</source>
+        <comment>wps_sMasterAndUserPasswordIsSame</comment>
+        <translation>รหัสผ่านกำหนดสิทธิ์ และ รหัสผ่านเปิดเอกสารจะต้องแตกต่างกัน</translation>
+    </message>
+    <message>
+        <source>Match half/full width forms</source>
+        <comment>wps_sMatchByte</comment>
+        <translation>ตรงตามแบบฟอร์มที่มีความกว้างครึ่งหนึ่ง/เต็ม</translation>
+    </message>
+    <message>
+        <source>Match Case</source>
+        <comment>wps_sMatchCase</comment>
+        <translation>ตรงตามตัวพิมพ์ใหญ่/เล็ก</translation>
+    </message>
+    <message>
+        <source>Sounds Like(Japanese)</source>
+        <comment>wps_sMatchFuzzy</comment>
+        <translation>ออกเสียงคล้าย(ญี่ปุ่น)</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing, or paragraph indents are too large for the page width in some sections.</source>
+        <comment>wps_sMaxWidArrow</comment>
+        <translation>การตั้งค่าที่คุณเลือกสำหรับระยะขอบซ้ายหรือขวา, ระยะห่างคอลัมน์ หรือการเยื้องย่อหน้ามีขนาดใหญ่เกินไปสำหรับความกว้างของหน้าในบางส่วน</translation>
+    </message>
+    <message>
+        <source>Merge to New Document</source>
+        <comment>wps_sMergeToNewDocCaption</comment>
+        <translation>ผสานไปยังเอกสารใหม่</translation>
+    </message>
+    <message>
+        <source>Merge to Printer</source>
+        <comment>wps_sMergeToPrinterCaption</comment>
+        <translation>ผสานไปยังเครื่องพิมพ์</translation>
+    </message>
+    <message>
+        <source>Middle Name</source>
+        <comment>wps_sMiddleName</comment>
+        <translation>ชื่อกลาง</translation>
+    </message>
+    <message>
+        <source>Modified Time</source>
+        <comment>wps_sModifyTime</comment>
+        <translation>เวลาที่แก้ไข</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <comment>wps_sMore</comment>
+        <translation>&amp;เพิ่มเติม</translation>
+    </message>
+    <message>
+        <source>&amp;More Colors...</source>
+        <comment>wps_sMoreColors</comment>
+        <translation>&amp;สีเพิ่มเติม...</translation>
+    </message>
+    <message>
+        <source>&amp;More Line Colors...</source>
+        <comment>wps_sMoreLineColors</comment>
+        <translation>&amp;สีเส้นเพิ่มเติม...</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>wps_sName</comment>
+        <translation>ชื่อ</translation>
+    </message>
+    <message>
+        <source>New Bullet...</source>
+        <comment>wps_sNewBullet</comment>
+        <translation>สัญลักษณ์แสดงหัวข้อย่อยใหม่...</translation>
+    </message>
+    <message>
+        <source>Nex&amp;t</source>
+        <comment>wps_sNext</comment>
+        <translation>ถัดไ&amp;ป</translation>
+    </message>
+    <message>
+        <source>Next Bookmark</source>
+        <comment>wps_sNextBookmark</comment>
+        <translation>บุ๊กมาร์กถัดไป</translation>
+    </message>
+    <message>
+        <source>Next Comment</source>
+        <comment>wps_sNextComment</comment>
+        <translation>ข้อคิดเห็นถัดไป</translation>
+    </message>
+    <message>
+        <source>Next Find/GoTo</source>
+        <comment>wps_sNextFind</comment>
+        <translation>ค้นหา/ไปยังถัดไป</translation>
+    </message>
+    <message>
+        <source>Next Page</source>
+        <comment>wps_sNextPage</comment>
+        <translation>หน้าถัดไป</translation>
+    </message>
+    <message>
+        <source>Next Section</source>
+        <comment>wps_sNextSection</comment>
+        <translation>ส่วนถัดไป</translation>
+    </message>
+    <message>
+        <source>Nickname</source>
+        <comment>wps_sNickname</comment>
+        <translation>ชื่อเล่น</translation>
+    </message>
+    <message>
+        <source>Cannot find default dictionary. Please select a custom dictionary in the options, and recheck again.</source>
+        <comment>wps_sNoActiveCustomDict</comment>
+        <translation>ไม่พบค่าเริ่มต้นของพจนานุกรม กรุณาเลือกพจนานุกรมแบบกำหนดเองในตัวเลือก แล้วตรวจสอบใหม่อีกครั้ง</translation>
+    </message>
+    <message>
+        <source>No List</source>
+        <comment>wps_sNoList</comment>
+        <translation>ไม่มีรายการ</translation>
+    </message>
+    <message>
+        <source>%s +%s%s%s%s%s%s%s%s</source>
+        <comment>wps_sNormal</comment>
+        <translation>%s +%s%s%s%s%s%s%s%s</translation>
+    </message>
+    <message>
+        <source>Normal</source>
+        <comment>wps_sNormalStyle</comment>
+        <translation>ปกติ</translation>
+    </message>
+    <message>
+        <source>No Scaling</source>
+        <comment>wps_sNoScaling</comment>
+        <translation>ไม่มีการปรับมาตราส่วน</translation>
+    </message>
+    <message>
+        <source>(no spelling suggestions)</source>
+        <comment>wps_sNoSpellingSuggestion</comment>
+        <translation>(ไม่มีคำแนะนำการสะกด)</translation>
+    </message>
+    <message>
+        <source>(no style)</source>
+        <comment>wps_sNoStyle</comment>
+        <translation>(ไม่มีสไตล์)</translation>
+    </message>
+    <message>
+        <source>&amp;More</source>
+        <comment>wps_sNotAdvancedMode</comment>
+        <translation>&amp;เพิ่มเติม</translation>
+    </message>
+    <message>
+        <source>WPS Writer could not determine the destination.</source>
+        <comment>wps_sNotDetermine</comment>
+        <translation>WPS Writer ไม่สามารถระบุปลายทางได้</translation>
+    </message>
+    <message>
+        <source>(not matched)</source>
+        <comment>wps_sNotMatched</comment>
+        <translation>(ไม่ตรงกัน)</translation>
+    </message>
+    <message>
+        <source>The password confirmation does not match.</source>
+        <comment>wps_sNotMatchPassword</comment>
+        <translation>การยืนยันรหัสผ่านไม่ตรงกัน</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <comment>wps_sNotMeasureMent</comment>
+        <translation>นี่ไม่ใช่การวัดที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Please choose the base text for the Phonetic Guide.</source>
+        <comment>wps_sNotNormCharacter</comment>
+        <translation>กรุณาเลือกข้อความเริ่มต้นสำหรับการออกเสียงคำ</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sNotNumberRange</comment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>This caption label is not valid.</source>
+        <comment>wps_sNotValid</comment>
+        <translation>ป้ายชื่อคำอธิบายภาพนี้ไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>This is not a valid number.</source>
+        <comment>wps_sNotValidFontSize</comment>
+        <translation>นี่ไม่ใช่ตัวเลขที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>The number must be a divisor of %d.</source>
+        <comment>wps_sNumberMustDivisor</comment>
+        <translation>ตัวเลขจะต้องเป็นตัวหาร %d</translation>
+    </message>
+    <message>
+        <source>The measurement must be between %d and %d.</source>
+        <comment>wps_sNumberOutofRange</comment>
+        <translation>การวัดค่าจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sNumberOutofRange1</comment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 10.</source>
+        <comment>wps_sNumberRange</comment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง 1 และ 0</translation>
+    </message>
+    <message>
+        <source>Encountered an error when opening PDF file.</source>
+        <comment>wps_sOpenPDFFileError</comment>
+        <translation>เกิดข้อผิดพลาดเมื่อเปิดไฟล์ PDF</translation>
+    </message>
+    <message>
+        <source>The selected paper is too small, Genko is invalid.</source>
+        <comment>wps_sPaperIsTooSmall</comment>
+        <translation>กระดาษที่เลือกเล็กเกินไป Genko ไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <comment>wps_sParagraph</comment>
+        <translation>ย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Incorrect password.</source>
+        <comment>wps_sPasswordError</comment>
+        <translation>รหัสผ่านไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Exporting PDF file is completing...</source>
+        <comment>wps_spdfComplete</comment>
+        <translation>การส่งออกไฟล์ PDF กำลังเสร็จสมบูรณ์...</translation>
+    </message>
+    <message>
+        <source>Exporting PDF file is completed.</source>
+        <comment>wps_spdfCompleted</comment>
+        <translation>การส่งออกไฟล์ PDF เสร็จสมบูรณ์แล้ว</translation>
+    </message>
+    <message>
+        <source>Exporting %d page...</source>
+        <comment>wps_spdfExportPage</comment>
+        <translation>กำลังส่งออก %d หน้า...</translation>
+    </message>
+    <message>
+        <source>Exporting Labels...</source>
+        <comment>wps_spdfLabels</comment>
+        <translation>กำลังส่งออกป้ายชื่อ...</translation>
+    </message>
+    <message>
+        <source>Preparing for exporting PDF file...</source>
+        <comment>wps_spdfPrepare</comment>
+        <translation>กำลังเตรียมการส่งออกไฟล์ PDF...</translation>
+    </message>
+    <message>
+        <source>Exporting summary information...</source>
+        <comment>wps_spdfSummaryInfo</comment>
+        <translation>กำลังส่งออกข้อมูลสรุป...</translation>
+    </message>
+    <message>
+        <source>5%</source>
+        <comment>wps_sPercent05</comment>
+        <translation>5%</translation>
+    </message>
+    <message>
+        <source>10%</source>
+        <comment>wps_sPercent10</comment>
+        <translation>10%</translation>
+    </message>
+    <message>
+        <source>12.5%</source>
+        <comment>wps_sPercent125</comment>
+        <translation>12.5%</translation>
+    </message>
+    <message>
+        <source>15%</source>
+        <comment>wps_sPercent15</comment>
+        <translation>15%</translation>
+    </message>
+    <message>
+        <source>20%</source>
+        <comment>wps_sPercent20</comment>
+        <translation>20%</translation>
+    </message>
+    <message>
+        <source>25%</source>
+        <comment>wps_sPercent25</comment>
+        <translation>25%</translation>
+    </message>
+    <message>
+        <source>30%</source>
+        <comment>wps_sPercent30</comment>
+        <translation>30%</translation>
+    </message>
+    <message>
+        <source>35%</source>
+        <comment>wps_sPercent35</comment>
+        <translation>35%</translation>
+    </message>
+    <message>
+        <source>37.5%</source>
+        <comment>wps_sPercent375</comment>
+        <translation>37.5%</translation>
+    </message>
+    <message>
+        <source>40%</source>
+        <comment>wps_sPercent40</comment>
+        <translation>40%</translation>
+    </message>
+    <message>
+        <source>45%</source>
+        <comment>wps_sPercent45</comment>
+        <translation>45%</translation>
+    </message>
+    <message>
+        <source>50%</source>
+        <comment>wps_sPercent50</comment>
+        <translation>50%</translation>
+    </message>
+    <message>
+        <source>55%</source>
+        <comment>wps_sPercent55</comment>
+        <translation>55%</translation>
+    </message>
+    <message>
+        <source>60%</source>
+        <comment>wps_sPercent60</comment>
+        <translation>60%</translation>
+    </message>
+    <message>
+        <source>62.5%</source>
+        <comment>wps_sPercent625</comment>
+        <translation>62.5%</translation>
+    </message>
+    <message>
+        <source>65%</source>
+        <comment>wps_sPercent65</comment>
+        <translation>65%</translation>
+    </message>
+    <message>
+        <source>70%</source>
+        <comment>wps_sPercent70</comment>
+        <translation>70%</translation>
+    </message>
+    <message>
+        <source>75%</source>
+        <comment>wps_sPercent75</comment>
+        <translation>75%</translation>
+    </message>
+    <message>
+        <source>80%</source>
+        <comment>wps_sPercent80</comment>
+        <translation>80%</translation>
+    </message>
+    <message>
+        <source>85%</source>
+        <comment>wps_sPercent85</comment>
+        <translation>85%</translation>
+    </message>
+    <message>
+        <source>87.5%</source>
+        <comment>wps_sPercent875</comment>
+        <translation>87.5%</translation>
+    </message>
+    <message>
+        <source>90%</source>
+        <comment>wps_sPercent90</comment>
+        <translation>90%</translation>
+    </message>
+    <message>
+        <source>95%</source>
+        <comment>wps_sPercent95</comment>
+        <translation>95%</translation>
+    </message>
+    <message>
+        <source>(1-%s)</source>
+        <comment>wps_sPerStr</comment>
+        <translation>(1-%s)</translation>
+    </message>
+    <message>
+        <source>Phonetic Guide for First Name</source>
+        <comment>wps_sPhoneticGuideforFirstName</comment>
+        <translation>การออกเสียงชื่อ</translation>
+    </message>
+    <message>
+        <source>Phonetic Guide for Last Name</source>
+        <comment>wps_sPhoneticGuideforlastName</comment>
+        <translation>การออกเสียงนามสกุล</translation>
+    </message>
+    <message>
+        <source>Postal Code</source>
+        <comment>wps_sPostalCode</comment>
+        <translation>รหัสไปรษณีย์</translation>
+    </message>
+    <message>
+        <source>Previous Bookmark</source>
+        <comment>wps_sPreviousBookmark</comment>
+        <translation>บุ๊กมาร์กก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Previous Comment</source>
+        <comment>wps_sPreviousComment</comment>
+        <translation>ข้อคิดเห็นก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Previous Find/GoTo</source>
+        <comment>wps_sPreviousFind</comment>
+        <translation>ค้นหา/ไปยังก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Previous Page</source>
+        <comment>wps_sPreviousPage</comment>
+        <translation>หน้าก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Previous Section</source>
+        <comment>wps_sPreviousSection</comment>
+        <translation>ส่วนก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Document protec&amp;tion...</source>
+        <comment>wps_sProtectDocument</comment>
+        <translation>การป้องกันเอก&amp;สาร...</translation>
+    </message>
+    <message>
+        <source>Orientation setting does not work for some reasons, such as too little column width. Please adjust your settings.</source>
+        <comment>wps_sPutOrientationError</comment>
+        <translation>การตั้งค่าการวางแนวไม่ทำงานเนื่องจากสาเหตุบางประการ อย่างเช่นความกว้างคอลัมน์น้อยเกินไป กรุณาปรับการตั้งค่าของคุณ</translation>
+    </message>
+    <message>
+        <source>Redo %d Action(s)</source>
+        <comment>wps_sRedoListCaption</comment>
+        <translation>ทำซ้ำ %d การกระทำ</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <comment>wps_sReplace</comment>
+        <translation>แทนที่</translation>
+    </message>
+    <message>
+        <source>WPS Writer has finished searching the document and made %d replacements.</source>
+        <comment>wps_sReplaceAllWithCount</comment>
+        <translation>WPS Writer ทำการค้นหาในเอกสารเสร็จสิ้นแล้ว และทำการเปลี่ยนแปลง %d รายการ</translation>
+    </message>
+    <message>
+        <source>Rows %s</source>
+        <comment>wps_sRows</comment>
+        <translation>แถว %s</translation>
+    </message>
+    <message>
+        <source>Save Adobe PDF File As</source>
+        <comment>wps_sSaveAsPDFFile</comment>
+        <translation>บันทึกเป็นไฟล์ Adobe PDF</translation>
+    </message>
+    <message>
+        <source>Search Down</source>
+        <comment>wps_sSearchDown</comment>
+        <translation>ค้นหาลง</translation>
+    </message>
+    <message>
+        <source>Search Up</source>
+        <comment>wps_sSearchUp</comment>
+        <translation>ค้นหาขึ้น</translation>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelectedSections</comment>
+        <translation>ส่วนที่เลือก</translation>
+    </message>
+    <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectedText</comment>
+        <translation>ข้อความที่เลือก</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <comment>wps_sSelectFolder</comment>
+        <translation>เลือกโฟลเดอร์:</translation>
+    </message>
+    <message>
+        <source>Selected text</source>
+        <comment>wps_sSelectText</comment>
+        <translation>ข้อความที่เลือก</translation>
+    </message>
+    <message>
+        <source>Selected sections</source>
+        <comment>wps_sSelSection</comment>
+        <translation>ส่วนที่เลือก</translation>
+    </message>
+    <message>
+        <source>Solid(100%)</source>
+        <comment>wps_sSolid</comment>
+        <translation>เข้ม(100%)</translation>
+    </message>
+    <message>
+        <source>Sounds Like(English)</source>
+        <comment>wps_sSoundsLike</comment>
+        <translation>ออกเสียงคล้าย(อังกฤษ)</translation>
+    </message>
+    <message>
+        <source>Space Before: %s pt, after %s pt, </source>
+        <comment>wps_sSpaceBeforeAfter</comment>
+        <translation>ระยะห่างก่อน: %s pt, หลัง %s pt,</translation>
+    </message>
+    <message>
+        <source>The spelling check is complete.</source>
+        <comment>wps_sSpellingCheckComplete</comment>
+        <translation>การตรวจสอบการสะกดคำเสร็จสมบูรณ์</translation>
+    </message>
+    <message>
+        <source>S&amp;plit</source>
+        <comment>wps_sSplitSubMenuCaption</comment>
+        <translation>แ&amp;บ่ง</translation>
+    </message>
+    <message>
+        <source>Spouse Courtesy Title</source>
+        <comment>wps_sSpouseCourtesyTitle</comment>
+        <translation>คำนำหน้าชื่อคู่สมรส</translation>
+    </message>
+    <message>
+        <source>Spouse First Name</source>
+        <comment>wps_sSpouseFirstName</comment>
+        <translation>ชื่อคู่สมรส</translation>
+    </message>
+    <message>
+        <source>Spouse Last Name</source>
+        <comment>wps_sSpouseLastName</comment>
+        <translation>นามสกุลคู่สมรส</translation>
+    </message>
+    <message>
+        <source>Spouse Middle Name</source>
+        <comment>wps_sSpouseMiddleName</comment>
+        <translation>ชื่อกลางคู่สมรส</translation>
+    </message>
+    <message>
+        <source>Spouse Nickname</source>
+        <comment>wps_sSpouseNickname</comment>
+        <translation>ชื่อเล่นคู่สมรส</translation>
+    </message>
+    <message>
+        <source>Start at must be between %d and %d for this format.</source>
+        <comment>wps_sStartAtError</comment>
+        <translation>ค่าเริ่มต้นที่จะต้องอยู่ระหว่าง %d และ %d สำหรับรูปแบบนี้</translation>
+    </message>
+    <message>
+        <source>State</source>
+        <comment>wps_sState</comment>
+        <translation>รัฐ</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <comment>wps_sStyle</comment>
+        <translation>สไตล์</translation>
+    </message>
+    <message>
+        <source>Suffix</source>
+        <comment>wps_sSuffix</comment>
+        <translation>คำต่อท้าย</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>wps_sTable</comment>
+        <translation>ตาราง</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>wps_sText</comment>
+        <translation>ข้อความ</translation>
+    </message>
+    <message>
+        <source>This point forward</source>
+        <comment>wps_sThisPointFor</comment>
+        <translation>ตั้งแต่จุดนี้เป็นต้นไป</translation>
+    </message>
+    <message>
+        <source>This point forward</source>
+        <comment>wps_sThisPointForward</comment>
+        <translation>ตั้งแต่จุดนี้เป็นต้นไป</translation>
+    </message>
+    <message>
+        <source>This section</source>
+        <comment>wps_sThisSection</comment>
+        <translation>ส่วนนี้</translation>
+    </message>
+    <message>
+        <source>This section - All except first page</source>
+        <comment>wps_sThisSectionExceptFirst</comment>
+        <translation>ส่วนนี้ - ทั้งหมดยกเว้นหน้าแรก</translation>
+    </message>
+    <message>
+        <source>This section - First page only</source>
+        <comment>wps_sThisSectionOnlyFirst</comment>
+        <translation>ส่วนนี้ - หน้าแรกเท่านั้น</translation>
+    </message>
+    <message>
+        <source>There are too many characters in the selection.</source>
+        <comment>wps_sTooManyCharsInSelection</comment>
+        <translation>มีอักขระมากเกินไปในการเลือก</translation>
+    </message>
+    <message>
+        <source>top/bottom</source>
+        <comment>wps_sTopBottomMargins</comment>
+        <translation>บน/ล่าง</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_Caption</comment>
+        <translation>สไตล์และการจัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Styles and Formatting</source>
+        <comment>wps_StylesAndFormatting_DisplayName</comment>
+        <translation>สไตล์และการจัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <comment>wps_sTypeName</comment>
+        <translation>ประเภท</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <comment>wps_sUnderlineNone</comment>
+        <translation>(ไม่มี)</translation>
+    </message>
+    <message>
+        <source>(underlying properties)</source>
+        <comment>wps_sUnderlying</comment>
+        <translation>(คุณสมบัติรากฐาน)</translation>
+    </message>
+    <message>
+        <source>Undo %d Action(s)</source>
+        <comment>wps_sUndoListCaption</comment>
+        <translation>ยกเลิก %d การกระทำ</translation>
+    </message>
+    <message>
+        <source>Unique Identifier</source>
+        <comment>wps_sUniqueIdentifier</comment>
+        <translation>ตัวระบุพิเศษเฉพาะ</translation>
+    </message>
+    <message>
+        <source>Unpro&amp;tect Document</source>
+        <comment>wps_sUnProtectDocument</comment>
+        <translation>เอกสาร&amp;ที่ไม่ได้ป้องกัน</translation>
+    </message>
+    <message>
+        <source>(Use Asian text font)</source>
+        <comment>wps_sUseAsianfont</comment>
+        <translation>(ใช้แบบอักษรข้อความเอเชีย)</translation>
+    </message>
+    <message>
+        <source>User templates             %s</source>
+        <comment>wps_sUserTemplatesPath</comment>
+        <translation>แม่แบบผู้ใช้             %s</translation>
+    </message>
+    <message>
+        <source>Use Wildcards</source>
+        <comment>wps_sUseWildCards</comment>
+        <translation>ใช้ไวลด์การ์ด</translation>
+    </message>
+    <message>
+        <source>The value must not be blank.</source>
+        <comment>wps_sValEmpty</comment>
+        <translation>ค่าไม่สามารถว่างเปล่าได้</translation>
+    </message>
+    <message>
+        <source>Number invalid.</source>
+        <comment>wps_sValidNumber</comment>
+        <translation>ตัวเลขไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and %d.</source>
+        <comment>wps_sValueOutofRange</comment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง 1 และ %d</translation>
+    </message>
+    <message>
+        <source>Web Page</source>
+        <comment>wps_sWebPage</comment>
+        <translation>เว็บเพจ</translation>
+    </message>
+    <message>
+        <source>Whole document</source>
+        <comment>wps_sWhileDocument</comment>
+        <translation>ทั้งเอกสาร</translation>
+    </message>
+    <message>
+        <source>Whole Document</source>
+        <comment>wps_sWholeDocument</comment>
+        <translation>ทั้งเอกสาร</translation>
+    </message>
+    <message>
+        <source>Find whole words only</source>
+        <comment>wps_sWholeWords</comment>
+        <translation>ค้นหาทั้งคำเท่านั้น</translation>
+    </message>
+    <message>
+        <source>width</source>
+        <comment>wps_sWidth</comment>
+        <translation>ความกว้าง</translation>
+    </message>
+    <message>
+        <source>Underline words</source>
+        <comment>wps_sWordsOnly</comment>
+        <translation>คำขีดเส้นใต้</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <comment>wps_sRemoveDefaultDict</comment>
+        <translation>การถอนพจนานุกรมแบบกำหนดเองออกอาจส่งผลต่อพจนานุกรมแบบกำหนดเองที่ใช้โดยโปรแกรม WPS Office อื่น ๆ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>This operation will not be only applied to this section. Do you want to continue?</source>
+        <comment>wps_sLinkToPreviousSection</comment>
+        <translation>การปฏิบัติการนี้จะไม่ปรับใช้เฉพาะกับส่วนนี้ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <comment>wps_sInsideCaption</comment>
+        <translation>ภายใน</translation>
+    </message>
+    <message>
+        <source>&amp;Inside</source>
+        <comment>wps_sInside</comment>
+        <translation>&amp;ภายใน</translation>
+    </message>
+    <message>
+        <source>&amp;Outside</source>
+        <comment>wps_sOutside</comment>
+        <translation>&amp;ภายนอก</translation>
+    </message>
+    <message>
+        <source>Section %d</source>
+        <comment>wps_sSectionFmt</comment>
+        <translation>ส่วน %d</translation>
+    </message>
+    <message>
+        <source>Do you overwrite the shortcut of [%s]?</source>
+        <comment>wps_sStyleOverwhite</comment>
+        <translation>คุณจะเขียนทับคีย์ลัดของ [%s] หรือไม่?</translation>
+    </message>
+    <message>
+        <source>Unlimited</source>
+        <comment>wps_sUnlimited</comment>
+        <translation>ไม่จำกัด</translation>
+    </message>
+    <message>
+        <source>What you print has errors with Format.</source>
+        <comment>wps_sFormatError</comment>
+        <translation>เอกสารที่คุณพิมพ์มีข้อผิดพลาดในส่วนรูปแบบ</translation>
+    </message>
+    <message>
+        <source>The number must be between %d and %d.</source>
+        <comment>wps_sValidValue</comment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>The maximum length value must be equal to or greater than the length of the default text,%d characters.</source>
+        <comment>wps_sMaxLenError</comment>
+        <translation>ความยาวสูงสุดของค่าจะต้องเท่ากับหรือมากกว่าความยาวของข้อความเริ่มต้น %d อักขระ</translation>
+    </message>
+    <message>
+        <source>The bookmark name is not valid.</source>
+        <comment>wps_sValidBookmark</comment>
+        <translation>ชื่อบุ๊กบาร์กไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>D&amp;efault Text:</source>
+        <comment>wps_sDefRegularText</comment>
+        <translation>ค่&amp;าเริ่มต้นของข้อความ:</translation>
+    </message>
+    <message>
+        <source>D&amp;efault Number:</source>
+        <comment>wps_sDefNumberText</comment>
+        <translation>ค่&amp;าเริ่มต้นของตัวเลข:</translation>
+    </message>
+    <message>
+        <source>D&amp;efault Date:</source>
+        <comment>wps_sDefDateText</comment>
+        <translation>ค่&amp;าเริ่มต้นของวันที่:</translation>
+    </message>
+    <message>
+        <source>D&amp;efault Time:</source>
+        <comment>wps_sDefTimeText</comment>
+        <translation>ค่&amp;าเริ่มต้นของเวลา:</translation>
+    </message>
+    <message>
+        <source>Text &amp;Format:</source>
+        <comment>wps_sRegularTextFormat</comment>
+        <translation>รูปแบบ&amp;ข้อความ:</translation>
+    </message>
+    <message>
+        <source>Number &amp;Format:</source>
+        <comment>wps_sNumberTextFormat</comment>
+        <translation>รูปแบบ&amp;ตัวเลข:</translation>
+    </message>
+    <message>
+        <source>Date &amp;Format:</source>
+        <comment>wps_sDateTextFormat</comment>
+        <translation>รูปแบบ&amp;วันที่:</translation>
+    </message>
+    <message>
+        <source>Time &amp;Format:</source>
+        <comment>wps_sTimeTextFormat</comment>
+        <translation>รูปแบบ&amp;เวลา:</translation>
+    </message>
+    <message>
+        <source>You can have no more than 25 items in your drop-down list box.</source>
+        <comment>wps_sMaxItems</comment>
+        <translation>คุณไม่สามารถมีรายการได้มากกว่า 25 รายการในกล่องรายการแบบดรอปดาวน์</translation>
+    </message>
+    <message>
+        <source>The %d Drop-down item is not allow to be empty.</source>
+        <comment>wps_sValidItem</comment>
+        <translation>ไม่อนุญาตให้รายการแบบดรอปดาวน์ %d ว่างเปล่า</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for font?
+This change will affect all the new documents based on the %s template.</source>
+        <comment>wps_sFontSettingSaveToDefaultTemplateConfirm</comment>
+        <translation>คุณต้องการเปลี่ยนแปลงการตั้งค่าเริ่มต้นสำหรับแบบอักษรหรือไม่?
+การเปลี่ยนแปลงนี้จะมีผลกับทุกเอกสารใหม่โดยอ้างอิงตามแม่แบบ %s</translation>
+    </message>
+    <message>
+        <source>Do you want to change the default settings for style?
+This change will affect all the new documents based on the %s template.
+
+Yes:	Save to template;
+No:	Do not save to template;
+Cancel:	Return to the dialog.</source>
+        <comment>wps_sStyleSettingSaveToDefaultTemplateConfirm</comment>
+        <translation>คุณต้องการเปลี่ยนแปลงการตั้งค่าเริ่มต้นสำหรับสไตล์หรือไม่?
+การเปลี่ยนแปลงนี้จะมีผลกับทุกเอกสารใหม่โดยอ้างอิงตามแม่แบบ %s
+
+ใช่:	บันทึกไปยังแม่แบบ;
+ไม่:	ไม่บันทึกไปยังแม่แบบ;
+ยกเลิก:	กลับไปยังบทสนทนา</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <comment>wps_sFeedbackMailTitle</comment>
+        <translation>คำติชมของผู้ใช้</translation>
+    </message>
+    <message>
+        <source>Level 1,Level 2,Level 3,Level 4,Level 5,Level 6,Level 7,Level 8,Level 9,Body text</source>
+        <comment>wps_sOutLineLevelComboOnOutlining</comment>
+        <translation>ระดับ 1,ระดับ 2,ระดับ 3,ระดับ 4,ระดับ 5,ระดับ 6,ระดับ 7,ระดับ 8,ระดับ 9,ข้อความเนื้อความ</translation>
+    </message>
+    <message>
+        <source>=(Formula)</source>
+        <comment>wps_sFieldFormula</comment>
+        <translation>=(สูตร)</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <comment>wps_sFieldPage</comment>
+        <translation>Page</translation>
+    </message>
+    <message>
+        <source>PageRef</source>
+        <comment>wps_sPageRef</comment>
+        <translation>PageRef</translation>
+    </message>
+    <message>
+        <source>SectionPages</source>
+        <comment>wps_sFieldSectionPages</comment>
+        <translation>SectionPages</translation>
+    </message>
+    <message>
+        <source>Seq</source>
+        <comment>wps_sFieldSeq</comment>
+        <translation>Seq</translation>
+    </message>
+    <message>
+        <source>TC</source>
+        <comment>wps_sFieldTc</comment>
+        <translation>TC</translation>
+    </message>
+    <message>
+        <source>DocVariable</source>
+        <comment>wps_sFieldDocVariable</comment>
+        <translation>DocVariable</translation>
+    </message>
+    <message>
+        <source>TOC</source>
+        <comment>wps_sFieldToc</comment>
+        <translation>TOC</translation>
+    </message>
+    <message>
+        <source>NumPages</source>
+        <comment>wps_sFieldNumPages</comment>
+        <translation>NumPages</translation>
+    </message>
+    <message>
+        <source>Hyperlink</source>
+        <comment>wps_sFieldHyperlink</comment>
+        <translation>เชื่อมโยงหลายมิติ</translation>
+    </message>
+    <message>
+        <source>Edit and calculate the formula, and displays the result in preview.</source>
+        <comment>wps_sFieldInfoFormula</comment>
+        <translation>แก้ไขและคำนวณสูตร แล้วแสดงผลลัพธ์ในการแสดงตัวอย่าง</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>wps_sFieldTime</comment>
+        <translation>เวลา</translation>
+    </message>
+    <message>
+        <source>Open and activate the file KingSoft.wps under the C drive.</source>
+        <comment>wps_sPreviewNumFormat</comment>
+        <translation>เปิดแล้วเปิดใช้งานไฟล์ KingSoft.wps ในไดรฟ์ C</translation>
+    </message>
+    <message>
+        <source>Heading1...........................1
+  Heading2.........................33
+    Heading3.......................5</source>
+        <comment>wps_sPreviewToc</comment>
+        <translation>หัวเรื่อง1...........................1
+  หัวเรื่อง2.........................33
+    หัวเรื่อง3.......................5</translation>
+    </message>
+    <message>
+        <source>Presume the KingSoft.wps is in C drive. Field code:HYPERLINK &quot;C:\\KingSoft.wps&quot;</source>
+        <comment>wps_sHyperLinkExample</comment>
+        <translation>คาดว่า KingSoft.wps อยู่ในไดรฟ์ C รหัสเขตข้อมูล:HYPERLINK &quot;C:\\KingSoft.wps&quot;</translation>
+    </message>
+    <message>
+        <source>Presume the position of inserting this field is in page three. Field code:PAGE \* CHINESENUM2</source>
+        <comment>wps_sPageExample</comment>
+        <translation>คาดว่าตำแหน่งการแทรกเขตข้อมูลนี้อยู่ในหน้าสาม รหัสเขตข้อมูล:PAGE \* CHINESENUM2</translation>
+    </message>
+    <message>
+        <source>Presume the page number of the bookmark myEndPage is 5. Field code:PAGEREF myEndPage</source>
+        <comment>wps_sPageRefExample</comment>
+        <translation>คาดว่าจำนวนหน้าของบุ๊กมาร์ก myEndPage คือ 5 รหัสเขตข้อมูล:PAGEREF myEndPage</translation>
+    </message>
+    <message>
+        <source>Presume there are 10 pages in the section where this field is inserted. Field code:SECTIONPAGES</source>
+        <comment>wps_sSectionExample</comment>
+        <translation>คาดว่ามี 10 หน้าในส่วนที่เขตข้อมูลนี้ถูกแทรกเข้าไป รหัสเขตข้อมูล:SECTIONPAGES</translation>
+    </message>
+    <message>
+        <source>The display result of the first place. Field code:SEQ KGS</source>
+        <comment>wps_sSeqExample</comment>
+        <translation>การแสดงผลลัพธ์ของอันดับแรก รหัสเขตข้อมูล:SEQ KGS</translation>
+    </message>
+    <message>
+        <source>The default inserted TC field is hidden text. To view this field, please choose Insert/Reference/Table of Contents,  click Options, then select Table entry fields. Field code: TC</source>
+        <comment>wps_sTcExample</comment>
+        <translation>ค่าเริ่มต้นของเขตข้อมูล TC ที่แทรกเป็นข้อความที่ซ่อนอยู่ ในการแสดงเขตข้อมูลนี้ กรุณาเลือก แทรก/การอ้างอิงโยง/สารบัญ คลิกที่ ตัวเลือก แล้วเลือก รายการเขตข้อมูล รหัสเขตข้อมูล: TC</translation>
+    </message>
+    <message>
+        <source>Presume it is August 8 of 2008. Field code:Time \@ &quot;yyyy-M-d&quot;</source>
+        <comment>wps_sTimeExample</comment>
+        <translation>คาดว่าเป็นวันที่ 8 สิงหาคม ค.ศ. 2008 รหัสเขตข้อมูล: เวลา \@ &quot;yyyy-M-d&quot;</translation>
+    </message>
+    <message>
+        <source>Presume there are styles from Heading1 to Heading3 or there are outline levels from paragraph 1 to paragraph 3. Field code:TOC \o &quot;1-3&quot; \h  \u</source>
+        <comment>wps_sTocExample</comment>
+        <translation>คาดว่ามีสไตล์จาก หัวเรื่อง1 ถึง หัวเรื่อง3 หรือมีระดับเค้าร่างจากย่อหน้า 1 ถึงย่อหน้า 3 รหัสเขตข้อมูล:TOC \o &quot;1-3&quot; \h  \u</translation>
+    </message>
+    <message>
+        <source>Presume there are 20 pages of the current document. Field code:NumPages</source>
+        <comment>wps_sNumPagesExample</comment>
+        <translation>คาดว่ามี 20 หน้าในเอกสารปัจจุบัน รหัสเขตข้อมูล:NumPages</translation>
+    </message>
+    <message>
+        <source>Presume set the KingSoft variable assignment as 100 in VBA. Field code:DOCVARIABLE KingSoft</source>
+        <comment>wps_sDocVariableExalple</comment>
+        <translation>คาดว่าตั้งค่าการมอบหมายตัวแปร KingSoft เป็น 100 รหัสใน VBA รหัสเขตข้อมูล:DOCVARIABLE KingSoft</translation>
+    </message>
+    <message>
+        <source>THREE</source>
+        <comment>wps_sPreviewPage</comment>
+        <translation>สาม</translation>
+    </message>
+    <message>
+        <source>5</source>
+        <comment>wps_sPreviewPageRef</comment>
+        <translation>5</translation>
+    </message>
+    <message>
+        <source>10</source>
+        <comment>wps_sPreviewSectionPages</comment>
+        <translation>10</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <comment>wps_sPreviewSeq</comment>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>2008-8-8</source>
+        <comment>wps_sPreviewTime</comment>
+        <translation>2008-8-8</translation>
+    </message>
+    <message>
+        <source>20</source>
+        <comment>wps_sPreviewNumPages</comment>
+        <translation>20</translation>
+    </message>
+    <message>
+        <source>100</source>
+        <comment>wps_sPreviewDocVariable</comment>
+        <translation>100</translation>
+    </message>
+    <message>
+        <source>The value must be between %d and %d.</source>
+        <comment>wps_sNumberRangeErro</comment>
+        <translation>ค่าจะต้องอยู่ระหว่าง %d และ %d</translation>
+    </message>
+    <message>
+        <source>Input a correct number.</source>
+        <comment>wps_sInsertNumberWarning</comment>
+        <translation>ป้อนตัวเลขที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>The Find What text contains a Pattern Match expression which is not valid.</source>
+        <comment>wps_sFindBadPattern</comment>
+        <translation>ข้อความ ค้นหาอะไร มีนิพจน์แบบแผนที่เข้ากันซึ่งไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Has finished searching &quot;%s&quot;. The search item was not found.</source>
+        <comment>wps_sFinishHighlightAllNotFound</comment>
+        <translation>ได้ทำการค้นหา &quot;%s&quot; เสร็จสิ้นแล้ว ไม่พบรายการที่ค้นหา</translation>
+    </message>
+    <message>
+        <source>Numbered item</source>
+        <comment>TxCrossRefType_NumberedItem</comment>
+        <translation>รายการที่มีตัวเลข</translation>
+    </message>
+    <message>
+        <source>Heading</source>
+        <comment>TxCrossRefType_Heading</comment>
+        <translation>หัวเรื่อง</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxCrossRefType_Bookmark</comment>
+        <translation>บุ๊กมาร์ก</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxCrossRefType_Footnote</comment>
+        <translation>เชิงอรรถ</translation>
+    </message>
+    <message>
+        <source>Endnote</source>
+        <comment>TxCrossRefType_Endnote</comment>
+        <translation>อ้างอิงท้ายเรื่อง</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>TxCrossRefType_Equation</comment>
+        <translation>สมการ</translation>
+    </message>
+    <message>
+        <source>Diagram</source>
+        <comment>TxCrossRefType_Figure</comment>
+        <translation>แผนภาพ</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <comment>TxCrossRefType_Table</comment>
+        <translation>ตาราง</translation>
+    </message>
+    <message>
+        <source>Page number</source>
+        <comment>wps_sCrossRef_PageNum</comment>
+        <translation>เลขหน้า</translation>
+    </message>
+    <message>
+        <source>Paragraph number</source>
+        <comment>wps_sCrossRef_ParagraphNum</comment>
+        <translation>เลขย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Paragraph number(no context)</source>
+        <comment>wps_sCrossRef_ParagrapNumNoContext</comment>
+        <translation>เลขย่อหน้า(ไม่มีบริบท)</translation>
+    </message>
+    <message>
+        <source>Paragraph number(full context)</source>
+        <comment>wps_sCrossRef_ParagraphNumFullContext</comment>
+        <translation>เลขย่อหน้า(บริบทเต็ม)</translation>
+    </message>
+    <message>
+        <source>Paragraph text</source>
+        <comment>wps_sCrossRef_ParagraphText</comment>
+        <translation>ข้อความย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Above/below</source>
+        <comment>wps_sCrossRef_AboveBelow</comment>
+        <translation>ด้านบน/ด้านล่าง</translation>
+    </message>
+    <message>
+        <source>Heading text</source>
+        <comment>wps_sCrossRef_HeadText</comment>
+        <translation>ข้อความหัวเรื่อง</translation>
+    </message>
+    <message>
+        <source>Heading number</source>
+        <comment>wps_sCrossRef_HeadNum</comment>
+        <translation>หมายเลขหัวเรื่อง</translation>
+    </message>
+    <message>
+        <source>Heading number(no context)</source>
+        <comment>wps_sCrossRef_HeadNumNoContext</comment>
+        <translation>หมายเลขหัวเรื่อง(ไม่มีบริบท)</translation>
+    </message>
+    <message>
+        <source>Heading number(full context)</source>
+        <comment>wps_sCrossRef_HeadNumFullContext</comment>
+        <translation>หมายเลขหัวเรื่อง(บริบทเต็ม)</translation>
+    </message>
+    <message>
+        <source>Bookmark text</source>
+        <comment>wps_sCrossRef_BookmarkText</comment>
+        <translation>ข้อความบุ๊กมาร์ก</translation>
+    </message>
+    <message>
+        <source>Footnote number</source>
+        <comment>wps_sCrossRef_FootnoteNum</comment>
+        <translation>หมายเลขเชิงอรรถ</translation>
+    </message>
+    <message>
+        <source>Footnote number(formatted)</source>
+        <comment>wps_sCrossRef_FootnoteNumFmt</comment>
+        <translation>หมายเลขเชิงอรรถ(จัดรูปแบบ)</translation>
+    </message>
+    <message>
+        <source>Endnote number</source>
+        <comment>wps_sCrossRef_EndnoteNumber</comment>
+        <translation>หมายเลขการอ้างอิงท้ายเรื่อง</translation>
+    </message>
+    <message>
+        <source>Endnote number(formatted)</source>
+        <comment>wps_sCrossRefEndnoteNumFmt</comment>
+        <translation>หมายเลขการอ้างอิงท้ายเรื่อง(จัดรูปแบบ)</translation>
+    </message>
+    <message>
+        <source>Entire caption</source>
+        <comment>wps_sCrossRef_EntireCaption</comment>
+        <translation>คำอธิบายภาพทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Only label and number</source>
+        <comment>wps_sCrossRef_OnlyLabelAndNumber</comment>
+        <translation>ป้ายชื่อและตัวเลขเท่านั้น</translation>
+    </message>
+    <message>
+        <source>Only caption text</source>
+        <comment>wps_sCrossRef_OnlyCaptionText</comment>
+        <translation>ข้อความคำอธิบายภาพเท่านั้น</translation>
+    </message>
+    <message>
+        <source>For &amp;which numbered item:</source>
+        <comment>wps_sCrossRef_WitchNum</comment>
+        <translation>ซึ่งเป็น&amp;รายการที่มีตัวเลข:</translation>
+    </message>
+    <message>
+        <source>For &amp;which heading:</source>
+        <comment>wps_sCrossRef_WitchHeading</comment>
+        <translation>ซึ่งเป็น&amp;หัวเรื่อง:</translation>
+    </message>
+    <message>
+        <source>For &amp;which bookmark:</source>
+        <comment>wps_sCrossRef_WitchBook</comment>
+        <translation>ซึ่งเป็น&amp;บุ๊กมาร์ก:</translation>
+    </message>
+    <message>
+        <source>For &amp;which footnote:</source>
+        <comment>wps_sCrossRef_WitchFootnote</comment>
+        <translation>ซึ่งเป็น&amp;เชิงอรรถ:</translation>
+    </message>
+    <message>
+        <source>For &amp;which endnote:</source>
+        <comment>wps_sCrossRef_WitchEndnote</comment>
+        <translation>ซึ่งเป็น&amp;การอ้างอิงท้ายเรื่อง:</translation>
+    </message>
+    <message>
+        <source>For &amp;which caption:</source>
+        <comment>wps_sCrossRef_WitchCaption</comment>
+        <translation>ซึ่งเป็น&amp;คำอธิบายภาพ:</translation>
+    </message>
+    <message>
+        <source>The referred contents are blank.</source>
+        <comment>wps_sCrossRef_Empty</comment>
+        <translation>เนื้อหาที่อ้างอิงถึงว่างเปล่า</translation>
+    </message>
+    <message>
+        <source>Insert the text from a like-styled paragraph</source>
+        <comment>wps_sFieldStyle</comment>
+        <translation>แทรกข้อความจากย่อหน้าที่มีสไตล์เหมือนกัน</translation>
+    </message>
+    <message>
+        <source>StyleRef</source>
+        <comment>wps_sStyleRef</comment>
+        <translation>StyleRef</translation>
+    </message>
+    <message>
+        <source>The form tip cannot be longer than 40 characters.</source>
+        <comment>wps_sTextInputTip_Erro</comment>
+        <translation>คำแนะนำแบบฟอร์มไม่สามารถยาวกว่า 40 อักขระ</translation>
+    </message>
+    <message>
+        <source>(none)
+.</source>
+        <comment>wps_sEmphasismark</comment>
+        <translation>(ไม่มี)</translation>
+    </message>
+    <message>
+        <source>&amp;Formula:</source>
+        <comment>wps_sFormulaCaption</comment>
+        <translation>&amp;สูตร:</translation>
+    </message>
+    <message>
+        <source>Show Level 1,Show Level 2,Show Level 3,Show Level 4,Show Level 5,Show Level 6,Show Level 7,Show Level 8,Show Level 9,Show All Levels</source>
+        <comment>wps_sShowLevelOnOutlining</comment>
+        <translation>แสดงระดับ 1,แสดงระดับ 2,แสดงระดับ 3,แสดงระดับ 4,แสดงระดับ 5,แสดงระดับ 6,แสดงระดับ 7,แสดงระดับ 8,แสดงระดับ 9,แสดงระดับทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>wps_FormulaDlgCaption</comment>
+        <translation>สูตร</translation>
+    </message>
+    <message>
+        <source>Unit: %s</source>
+        <comment>wps_StatusBar_Units</comment>
+        <translation>หน่วย: %s</translation>
+    </message>
+    <message>
+        <source>The default document path of USB version cannot be changed!</source>
+        <comment>wps_sUSBVersionDirCannotModify</comment>
+        <translation>ไม่สามารถเปลี่ยนที่อยู่ของเอกสารเวอร์ชัน USB ได้!</translation>
+    </message>
+    <message>
+        <source>You are not allowed to edit this selection because it is protected.</source>
+        <comment>wps_sSelectionProtected</comment>
+        <translation>คุณไม่ได้รับอนุญาตให้แก้ไขส่วนที่เลือกนี้เนื่องจากถูกป้องกันอยู่</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation>WPS Writer ประสบปัญหาในขณะปรับความปลอดภัยแมโคร อาจเป็นเพราะไม่ได้ทำการติดตั้งสภาพแวดล้อม VBA</translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set another key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation>มีคีย์ลัดนี้อยู่แล้ว กรุณาตั้งคีย์อื่น</translation>
+    </message>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This chould be because the VBA environment is not installed.</source>
+        <comment>wps_sVBAMacroSecurityError</comment>
+        <translation type="obsolete">WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed.</translation>
+    </message>
+    <message>
+        <source>This shortcut key already exists. Please set aonther key.</source>
+        <comment>wps_sAppShortcutExisted</comment>
+        <translation type="obsolete">This shortcut key already exists. Please set another key.</translation>
+    </message>
+    <message>
+        <source>Settings you chose for the left and right margins,column spacing,or paragraph indents are too large for the page width in some sections.</source>
+        <translation>การตั้งค่าที่คุณเลือกสำหรับระยะขอบซ้ายหรือขวา, ระยะห่างคอลัมน์ หรือการเยื้องย่อหน้ามีขนาดใหญ่เกินไปสำหรับความกว้างของหน้าในบางส่วน</translation>
+    </message>
+    <message>
+        <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
+        <translation>วัตถุหรือตารางในกล่องข้อความที่ปรับมาตราส่วนได้จะถูกลบ คุณต้องการดำเนินการต่อหรือไม่?</translation>
+    </message>
+</context>
+<context>
+    <name>wps_wpsuil</name>
+    <message>
+        <source>All Files(*.*) | *.*; |</source>
+        <comment>TxDesc_DataSource_All</comment>
+        <translation>All Files(*.*) | *.*; |</translation>
+    </message>
+    <message>
+        <source>Office database connection(*.odc) | *.odc |</source>
+        <comment>TxDesc_DataSource_odc</comment>
+        <translation>Office database connection(*.odc) | *.odc |</translation>
+    </message>
+    <message>
+        <source>Access Databases(*.mdb) | *.mdb; |</source>
+        <comment>TxDesc_DataSource_mdb</comment>
+        <translation>Access Databases(*.mdb) | *.mdb; |</translation>
+    </message>
+    <message>
+        <source>Microsoft Office address book(*.mdb) | *.mdb; |</source>
+        <comment>TxDesc_DataSource_mdb2</comment>
+        <translation>Microsoft Office address book(*.mdb) | *.mdb; |</translation>
+    </message>
+    <message>
+        <source>Access Projects(*ade; *adp) | *ade; *adp; |</source>
+        <comment>TxDesc_DataSource_ade</comment>
+        <translation>Access Projects(*ade; *adp) | *ade; *adp; |</translation>
+    </message>
+    <message>
+        <source>Microsoft database connection(*.udl) | *.udl; |</source>
+        <comment>TxDesc_DataSource_udl</comment>
+        <translation>Microsoft database connection(*.udl) | *.udl; |</translation>
+    </message>
+    <message>
+        <source>ODBC data source name(*.dsn) | *.dsn; |</source>
+        <comment>TxDesc_DataSource_dsn</comment>
+        <translation>ODBC data source name(*.dsn) | *.dsn; |</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
+        <comment>TxDesc_DataSource_et</comment>
+        <translation>WPS Spreadsheets Files(*.et) | *.et; |</translation>
+    </message>
+    <message>
+        <source>Excel Files(*.xls) | *.xls; |</source>
+        <comment>TxDesc_DataSource_xls</comment>
+        <translation type="obsolete">Excel Files(*.xls) | *.xls; |</translation>
+    </message>
+    <message>
+        <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
+        <comment>TxDesc_DataSource_htm</comment>
+        <translation>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
+    </message>
+    <message>
+        <source>RTF Format(*.rtf) | *.rtf; |</source>
+        <comment>TxDesc_DataSource_rtf</comment>
+        <translation>RTF Format(*.rtf) | *.rtf; |</translation>
+    </message>
+    <message>
+        <source>Text Files(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</source>
+        <comment>TxDesc_DataSource_txt</comment>
+        <translation>Text Files(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</translation>
+    </message>
+    <message>
+        <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
+        <comment>TxDesc_DataSource_wdb</comment>
+        <translation>Microsoft Works Databases(*.wdb) | *.wdb; |</translation>
+    </message>
+    <message>
+        <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
+        <comment>TxDesc_DataSource_wk</comment>
+        <translation>otus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</translation>
+    </message>
+    <message>
+        <source>Paradox Files(*.db) | *.db; |</source>
+        <comment>TxDesc_DataSource_db</comment>
+        <translation>Paradox Files(*.db) | *.db; |</translation>
+    </message>
+    <message>
+        <source>DBase Files(*.dbf) | *.dbf; |</source>
+        <comment>TxDesc_DataSource_dbf</comment>
+        <translation>DBase Files(*.dbf) | *.dbf; |</translation>
+    </message>
+    <message>
+        <source>Database Query(*.dqy; *.rqy) | *.dqy; *.rqy; |</source>
+        <comment>TxDesc_DataSource_dqy</comment>
+        <translation>Database Query(*.dqy; *.rqy) | *.dqy; *.rqy; |</translation>
+    </message>
+    <message>
+        <source>Select Data Source</source>
+        <comment>TxDataSource_Select</comment>
+        <translation>เลือกที่มาข้อมูล</translation>
+    </message>
+    <message>
+        <source>New Blank Document</source>
+        <comment>TxCaption_NewBlankFile</comment>
+        <translation>เอกสารเปล่าใหม่</translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <comment>TxCaption_NewFromDefaultTemplate</comment>
+        <translation>ใหม่จากแม่แบบเริ่มต้น</translation>
+    </message>
+    <message>
+        <source>New Blank Document</source>
+        <comment>TxCaption_TaskpaneNewBlankFile</comment>
+        <translation>เอกสารเปล่าใหม่</translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <comment>TxCaption_TaskpaneNewFileFromDefaultTemplate</comment>
+        <translation>ใหม่จากแม่แบบเริ่มต้น</translation>
+    </message>
+    <message>
+        <source>New Blank Document</source>
+        <comment>TxTooltip_NewBlankFile</comment>
+        <translation>เอกสารเปล่าใหม่</translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <comment>TxTooltip_NewFromDefaultTemplate</comment>
+        <translation>ใหม่จากแม่แบบเริ่มต้น</translation>
+    </message>
+    <message>
+        <source>New Blank Document</source>
+        <comment>TxTooltip_TaskpaneNewBlankFile</comment>
+        <translation>เอกสารเปล่าใหม่</translation>
+    </message>
+    <message>
+        <source>New from Default Template</source>
+        <comment>TxTooltip_TaskpaneNewFileFromDefaultTemplate</comment>
+        <translation>ใหม่จากแม่แบบเริ่มต้น</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <comment>TxVersion_Bold</comment>
+        <translation>ตัวหนา</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <comment>TxVersion_Italic</comment>
+        <translation>ตัวเอียง</translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <comment>TxVersion_Underline</comment>
+        <translation>ขีดเส้นใต้</translation>
+    </message>
+    <message>
+        <source>Character Shading</source>
+        <comment>TxVersion_CharShading</comment>
+        <translation>การไล่ระดับสีอักขระ</translation>
+    </message>
+    <message>
+        <source>Character Scaling</source>
+        <comment>TxVersion_CharScaling</comment>
+        <translation>การปรับมาตราส่วนอักขระ</translation>
+    </message>
+    <message>
+        <source>Character Border</source>
+        <comment>TxVersion_CharBorder</comment>
+        <translation>เส้นขอบอักขระ</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <comment>TxVersion_FontColor</comment>
+        <translation>สีแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <comment>TxVersion_Highlight</comment>
+        <translation>เน้น</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <comment>TxVersion_AlignLeft</comment>
+        <translation>จัดแนวชิดซ้าย</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <comment>TxVersion_AlignRight</comment>
+        <translation>จัดแนวชิดขวา</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <comment>TxVersion_AlignCenter</comment>
+        <translation>จัดแนวกึ่งกลาง</translation>
+    </message>
+    <message>
+        <source>Align Distribute</source>
+        <comment>TxVersion_AlignDistribute</comment>
+        <translation>จัดแนวกระจาย</translation>
+    </message>
+    <message>
+        <source>Align Justify</source>
+        <comment>TxVersion_AlignJustify</comment>
+        <translation>จัดแนวเต็มแนว</translation>
+    </message>
+    <message>
+        <source>Increase Indent</source>
+        <comment>TxVersion_IncreaseIndent</comment>
+        <translation>เพิ่มการเยื้อง</translation>
+    </message>
+    <message>
+        <source>Decrease Indent</source>
+        <comment>TxVersion_DecreaseIndent</comment>
+        <translation>ลดการเยื้อง</translation>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Type</comment>
+        <translation>การพิมพ์</translation>
+    </message>
+    <message>
+        <source>Typing</source>
+        <comment>TxVersion_Key_Overtype</comment>
+        <translation>การพิมพ์</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <comment>TxVersion_Key_Delete</comment>
+        <translation>ล้าง</translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <comment>TxVersion_LineSpace</comment>
+        <translation>ระยะห่างบรรทัด</translation>
+    </message>
+    <message>
+        <source>Numbering</source>
+        <comment>TxVersion_Numbering</comment>
+        <translation>การจัดลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Bullets</source>
+        <comment>TxVersion_Bullets</comment>
+        <translation>สัญลักษณ์แสดงหัวข้อย่อย</translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <comment>TxVersion_GrowFonts</comment>
+        <translation>ขยายขนาดแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <comment>TxVersion_ShrinkFonts</comment>
+        <translation>ลดขนาดแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <comment>TxVersion_SuperScript</comment>
+        <translation>ตัวยก</translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <comment>TxVersion_SubScript</comment>
+        <translation>ตัวห้อย</translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <comment>TxVersion_ChangeFontName</comment>
+        <translation>แบบอักษร</translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <comment>TxVersion_UnderLineColor</comment>
+        <translation>สีเส้นใต้</translation>
+    </message>
+    <message>
+        <source>Paste Format</source>
+        <comment>TxVersion_FormatPainter</comment>
+        <translation>วางรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <comment>TxVersion_FillColor</comment>
+        <translation>สีเติม</translation>
+    </message>
+    <message>
+        <source>Line Color</source>
+        <comment>TxVersion_LineColor</comment>
+        <translation>สีเส้น</translation>
+    </message>
+    <message>
+        <source>3-D Color</source>
+        <comment>TxVersion_3DColor</comment>
+        <translation>สีสามมิติ</translation>
+    </message>
+    <message>
+        <source>Shadow Color</source>
+        <comment>TxVersion_ShadowColor</comment>
+        <translation>สีเงา</translation>
+    </message>
+    <message>
+        <source>Insert Text Box</source>
+        <comment>TxVersion_CreateTextbox</comment>
+        <translation>แทรกกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Insert Object</source>
+        <comment>TxVersion_InsertObject</comment>
+        <translation>แทรกวัตถุ</translation>
+    </message>
+    <message>
+        <source>Text Box Link</source>
+        <comment>TxVersion_CreateTextboxLink</comment>
+        <translation>เชื่อมโยงกล่องข้อความ</translation>
+    </message>
+    <message>
+        <source>Emphasis mark</source>
+        <comment>TxVersion_EmphasisMark</comment>
+        <translation>เครื่องหมายเน้น</translation>
+    </message>
+    <message>
+        <source>Double Strikethrough</source>
+        <comment>TxVersion_DoubleStrikethought</comment>
+        <translation>ขีดฆ่าคู่</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsertPageNumber</comment>
+        <translation>หมายเลขหน้า</translation>
+    </message>
+    <message>
+        <source>Number of Pages</source>
+        <comment>TxVersion_InsertNumberOfPages</comment>
+        <translation>จำนวนหน้า</translation>
+    </message>
+    <message>
+        <source>Page Number Format</source>
+        <comment>TxVersion_FormatPageNumber</comment>
+        <translation>รูปแบบหมายเลขหน้า</translation>
+    </message>
+    <message>
+        <source>Insert Date</source>
+        <comment>TxVersion_InsertDate</comment>
+        <translation>แทรกวันที่</translation>
+    </message>
+    <message>
+        <source>Insert Time</source>
+        <comment>TxVersion_InsertTime</comment>
+        <translation>แทรกเวลา</translation>
+    </message>
+    <message>
+        <source>Switch Header/Footer Link</source>
+        <comment>TxVersion_LinktoPreviousHeader</comment>
+        <translation>สลับเปลี่ยนการเชื่อมโยงหัวกระดาษ/ท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source>Insert AutoText</source>
+        <comment>TxVersion_InsertAutoText</comment>
+        <translation>แทรกข้อความอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Add Header/Footer</source>
+        <comment>TxVersion_HeaderFooter</comment>
+        <translation>เพิ่มหัวกระดาษ/ท้ายกระดาษ</translation>
+    </message>
+    <message>
+        <source>Show/Hide Formatting Marks</source>
+        <comment>TxVersion_ShowHide</comment>
+        <translation>แสดง/ซ่อนเครื่องหมายการจัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Select Font Size</source>
+        <comment>TxVersion_ChangeFontSize</comment>
+        <translation>เลือกขนาดแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Simplified/Traditional Chinese Translation</source>
+        <comment>TxTooltip_TSCS</comment>
+        <translation>การแปลอักษรจีนตัวย่อ/ตัวเต็ม</translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <comment>TxVersion_TextWawpping</comment>
+        <translation>การตัดข้อความ</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <comment>TxVersion_DrawingOrder</comment>
+        <translation>ลำดับ</translation>
+    </message>
+    <message>
+        <source>Page Width</source>
+        <comment>_TxZoomBox_PageWidth</comment>
+        <translation>ความกว้างหน้า</translation>
+    </message>
+    <message>
+        <source>Text Width</source>
+        <comment>_TxZoomBox_TextWidth</comment>
+        <translation>ความกว้างข้อความ</translation>
+    </message>
+    <message>
+        <source>Whole Page</source>
+        <comment>_TxZoomBox_WholePage</comment>
+        <translation>ทั้งหน้า</translation>
+    </message>
+    <message>
+        <source>Two Pages</source>
+        <comment>_TxZoomBox_TwoPages</comment>
+        <translation>สองหน้า</translation>
+    </message>
+    <message>
+        <source>&quot;Page Width&quot;,-1</source>
+        <comment>_TxZoomBox_PageWidth_No</comment>
+        <translation>&quot;ความกว้างหน้า&quot;,-1</translation>
+    </message>
+    <message>
+        <source>&quot;Text Width&quot;,-2</source>
+        <comment>_TxZoomBox_TextWidth_No</comment>
+        <translation>&quot;ความกว้างข้อความ&quot;,-2</translation>
+    </message>
+    <message>
+        <source>&quot;Whole Page&quot;,-3</source>
+        <comment>_TxZoomBox_WholePage_No</comment>
+        <translation>&quot;ทั้งหน้า&quot;,-3</translation>
+    </message>
+    <message>
+        <source>&quot;Two Pages&quot;,-4</source>
+        <comment>_TxZoomBox_TwoPages_No</comment>
+        <translation>&quot;สองหน้า&quot;,-4</translation>
+    </message>
+    <message>
+        <source>Simplified/Traditional Chinese Translation</source>
+        <comment>_TxTcscConvert</comment>
+        <translation>การแปลอักษรจีนตัวย่อ/ตัวเต็ม</translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <comment>TxVersion_InsertComment</comment>
+        <translation>แทรกข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Delete Comment</source>
+        <comment>TxVersion_DeleteComment</comment>
+        <translation>ลบข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Delete All Comments</source>
+        <comment>TxVersion_DeleteAllComments</comment>
+        <translation>ลบข้อคิดเห็นทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Delete All Comments Shown</source>
+        <comment>TxVersion_DeleteCommentsShown</comment>
+        <translation>ลบข้อคิดเห็นทั้งหมดที่แสดง</translation>
+    </message>
+    <message>
+        <source>Accept Change</source>
+        <comment>TxVersion_AcceptChange</comment>
+        <translation>ยอมรับการเปลี่ยนแปลง</translation>
+    </message>
+    <message>
+        <source>Accept All Changes in Document</source>
+        <comment>TxVersion_AcceptAllChanges</comment>
+        <translation>ยอมรับการเปลี่ยนแปลงทั้งหมดในเอกสาร</translation>
+    </message>
+    <message>
+        <source>Accept All Changes Shown</source>
+        <comment>TxVersion_AcceptChangesShown</comment>
+        <translation>ยอมรับการเปลี่ยนแปลงทั้งหมดที่แสดง</translation>
+    </message>
+    <message>
+        <source>Reject Change</source>
+        <comment>TxVersion_RejectChange</comment>
+        <translation>ปฏิเสธการเปลี่ยนแปลง</translation>
+    </message>
+    <message>
+        <source>Reject All Changes in Document</source>
+        <comment>TxVersion_RejectAllChanges</comment>
+        <translation>ปฏิเสธการเปลี่ยนแปลงทั้งหมดในเอกสาร</translation>
+    </message>
+    <message>
+        <source>Reject All Changes Shown</source>
+        <comment>TxVersion_RejectChangesShown</comment>
+        <translation>ปฏิเสธการเปลี่ยนแปลงทั้งหมดที่แสดง</translation>
+    </message>
+    <message>
+        <source>Accept Insertion</source>
+        <comment>TxCaption_AcceptInsertion</comment>
+        <translation>ยอมรับการแทรก</translation>
+    </message>
+    <message>
+        <source>Reject Insertion</source>
+        <comment>TxCaption_RejectInsertion</comment>
+        <translation>ปฏิเสธการแทรก</translation>
+    </message>
+    <message>
+        <source>Accept Deletion</source>
+        <comment>TxCaption_AcceptDeletion</comment>
+        <translation>ยอมรับการลบ</translation>
+    </message>
+    <message>
+        <source>Reject Deletion</source>
+        <comment>TxCaption_RejectDeletion</comment>
+        <translation>ปฏิเสธการลบ</translation>
+    </message>
+    <message>
+        <source>Set Font Formatting</source>
+        <comment>TxVersion_ShowFontDialog</comment>
+        <translation>ตั้งการจัดรูปแบบแบบอักษร</translation>
+    </message>
+    <message>
+        <source>Set Tabs Formatting</source>
+        <comment>TxVersion_Tabs</comment>
+        <translation>ตั้งการจัดรูปแบบแท็บ</translation>
+    </message>
+    <message>
+        <source>Drop Cap</source>
+        <comment>TxVersion_SetDropCap</comment>
+        <translation>ตัวอักษรขึ้นต้นขนาดใหญ่</translation>
+    </message>
+    <message>
+        <source>Borders and Shading</source>
+        <comment>TxVersion_SetBorderShap</comment>
+        <translation>เส้นขอบและการไล่ระดับสี</translation>
+    </message>
+    <message>
+        <source>Change Text Direction</source>
+        <comment>TxVersion_SetTextDirection</comment>
+        <translation>เปลี่ยนทิศทางข้อความ</translation>
+    </message>
+    <message>
+        <source>Columns Formatting</source>
+        <comment>TxVersion_SetTextColumn</comment>
+        <translation>การจัดรูปแบบคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Paragraph Formatting</source>
+        <comment>TxVersion_ShowParagraphDialog</comment>
+        <translation>การจัดรูปแบบย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Change Case</source>
+        <comment>TxVersion_ChangeCase</comment>
+        <translation>เปลี่ยนตัวพิมพ์ใหญ่/เล็ก</translation>
+    </message>
+    <message>
+        <source>Bullets/Numbering</source>
+        <comment>TxVersion_BulletAndAutoNumber</comment>
+        <translation>สัญลักษณ์แสดงหัวข้อย่อย/ลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Format AutoShape</source>
+        <comment>TxVersion_AutoShapeFormat</comment>
+        <translation>รูปแบบรูปทรงอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Auto Format</source>
+        <comment>TxVersion_AutoFormat</comment>
+        <translation>รูปแบบอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Genko Setting</source>
+        <comment>TxVersion_SetGenkoSetting</comment>
+        <translation>การตั้งค่า Genko</translation>
+    </message>
+    <message>
+        <source>Insert Break</source>
+        <comment>TxVersion_InsBreak</comment>
+        <translation>แทรกตัวแบ่ง</translation>
+    </message>
+    <message>
+        <source>Symbol</source>
+        <comment>TxVersion_InsSymbol</comment>
+        <translation>สัญลักษณ์</translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <comment>TxVersion_InsDateTime</comment>
+        <translation>วันที่/เวลา</translation>
+    </message>
+    <message>
+        <source>Bookmark</source>
+        <comment>TxVersion_InsBookMark</comment>
+        <translation>บุ๊กมาร์ก</translation>
+    </message>
+    <message>
+        <source>Footnote</source>
+        <comment>TxVersion_FootNote</comment>
+        <translation>เชิงอรรถ</translation>
+    </message>
+    <message>
+        <source>Caption</source>
+        <comment>TxVersion_InsCaption</comment>
+        <translation>คำอธิบายภาพ</translation>
+    </message>
+    <message>
+        <source>Insert Index</source>
+        <comment>TxVersion_InsIndexAndTables</comment>
+        <translation>แทรกดัชนี</translation>
+    </message>
+    <message>
+        <source>Page Numbers</source>
+        <comment>TxVersion_InsPageNumber</comment>
+        <translation>หมายเลขหน้า</translation>
+    </message>
+    <message>
+        <source>Insert Field</source>
+        <comment>TxVersion_InsField</comment>
+        <translation>แทรกเขตข้อมูล</translation>
+    </message>
+    <message>
+        <source>Insert Hyperlink</source>
+        <comment>TxVersion_InsHyperlink</comment>
+        <translation>แทรกการเชื่อมโยงหลายมิติ</translation>
+    </message>
+    <message>
+        <source>Insert Blank Field</source>
+        <comment>TxVersion_InsBlankField</comment>
+        <translation>แทรกเขตข้อมูลเปล่า</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <comment>TxVersion_InsPicture</comment>
+        <translation>แทรกรูปภาพ</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_InsertTable</comment>
+        <translation>แทรกตาราง</translation>
+    </message>
+    <message>
+        <source>Insert Table Element</source>
+        <comment>TxVersion_InsertTableElement</comment>
+        <translation>แทรกองค์ประกอบตาราง</translation>
+    </message>
+    <message>
+        <source>Delete Table Element</source>
+        <comment>TxVersion_DeleteTableElement</comment>
+        <translation>ลบองค์ประกอบตาราง</translation>
+    </message>
+    <message>
+        <source>Split Table</source>
+        <comment>TxVersion_SplitTable</comment>
+        <translation>แบ่งตาราง</translation>
+    </message>
+    <message>
+        <source>Distribute Columns Evenly</source>
+        <comment>TxVersion_DistributeColumns</comment>
+        <translation>กระจายคอลัมน์อย่างเท่ากัน</translation>
+    </message>
+    <message>
+        <source>Distribute Rows Evenly</source>
+        <comment>TxVersion_DistributeRows</comment>
+        <translation>กระจายแถวอย่างเท่ากัน</translation>
+    </message>
+    <message>
+        <source>AutoFit to Window</source>
+        <comment>TxVersion_AutoFitWindow</comment>
+        <translation>ปรับพอดีกับหน้าต่างอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Fixed Column Width</source>
+        <comment>TxVersion_FixedColumnWidth</comment>
+        <translation>ความกว้างคอลัมน์แบบคงที่</translation>
+    </message>
+    <message>
+        <source>Table Properties</source>
+        <comment>TxVersion_TableProperties</comment>
+        <translation>คุณสมบัติตาราง</translation>
+    </message>
+    <message>
+        <source>Split Cells</source>
+        <comment>TxVersion_SplitCells</comment>
+        <translation>แบ่งเซลล์</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <comment>TxVersion_MergeCells</comment>
+        <translation>ผสานเซลล์</translation>
+    </message>
+    <message>
+        <source>Repeat Heading</source>
+        <comment>TxVersion_RepeatHeading</comment>
+        <translation>ทำซ้ำหัวเรื่อง</translation>
+    </message>
+    <message>
+        <source>Insert Multidiagonal Cell</source>
+        <comment>TxVersion_InsertMutidiagonalCell</comment>
+        <translation>แทรกหลายเซลล์ทแยงมุม</translation>
+    </message>
+    <message>
+        <source>Shading Color</source>
+        <comment>TxVersion_TableShadingColor</comment>
+        <translation>สีการไล่ระดับสี</translation>
+    </message>
+    <message>
+        <source>Cell Alignment</source>
+        <comment>TxVersion_CellAlignment</comment>
+        <translation>การจัดแนวเซลล์</translation>
+    </message>
+    <message>
+        <source>Outside Border</source>
+        <comment>TxVersion_TableOutsideBorder</comment>
+        <translation>ขอบนอก</translation>
+    </message>
+    <message>
+        <source>Page Setup</source>
+        <comment>TxVersion_PageSetup</comment>
+        <translation>การตั้งค่าหน้ากระดาษ</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <comment>TxVersion_DrawingGrid</comment>
+        <translation>จัดให้ชิดขอบ</translation>
+    </message>
+    <message>
+        <source>Cut</source>
+        <comment>TxVersion_Cut</comment>
+        <translation>ตัด</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxVersion_Paste</comment>
+        <translation>วาง</translation>
+    </message>
+    <message>
+        <source>Paste Special</source>
+        <comment>TxVersion_PasteSpecial</comment>
+        <translation>วางพิเศษ</translation>
+    </message>
+    <message>
+        <source>Paste Format</source>
+        <comment>TxVersion_PasteFormat</comment>
+        <translation>วางรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Replace</source>
+        <comment>TxVersion_Replace</comment>
+        <translation>แทนที่</translation>
+    </message>
+    <message>
+        <source>Edit Field</source>
+        <comment>TxVersion_EditField</comment>
+        <translation>แก้ไขเขตข้อมูล</translation>
+    </message>
+    <message>
+        <source>Update Fields</source>
+        <comment>TxVersion_UpdateField</comment>
+        <translation>อัปเดตเขตข้อมูล</translation>
+    </message>
+    <message>
+        <source>Edit Comment</source>
+        <comment>TxVersion_EditComment</comment>
+        <translation>แก้ไขข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Remove Hyperlink</source>
+        <comment>TxVersion_RemoveHyperlink</comment>
+        <translation>ถอนการเชื่อมโยงหลายมิติ</translation>
+    </message>
+    <message>
+        <source>Convert to Endnotes</source>
+        <comment>TxVersion_ConvertToEndnotes</comment>
+        <translation>แปลงเป็นการอ้างอิงท้ายเรื่อง</translation>
+    </message>
+    <message>
+        <source>Convert to Footnotes</source>
+        <comment>TxVersion_ConvertToFootnotes</comment>
+        <translation>แปลงเป็นเชิงอรรถ</translation>
+    </message>
+    <message>
+        <source>Can&apos;t Undo</source>
+        <comment>TxVersion_CannotUndo</comment>
+        <translation>ไม่สามารถยกเลิกการกระทำได้</translation>
+    </message>
+    <message>
+        <source>Can&apos;t Redo</source>
+        <comment>TxVersion_CannotRedo</comment>
+        <translation>ไม่สามารถทำซ้ำได้</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <comment>TxVersion_Undo</comment>
+        <translation>ยกเลิกการกระทำ</translation>
+    </message>
+    <message>
+        <source>Redo</source>
+        <comment>TxVersion_Redo</comment>
+        <translation>ทำซ้ำ</translation>
+    </message>
+    <message>
+        <source>Unlink Fields</source>
+        <comment>TxVersion_FieldToText</comment>
+        <translation>ยกเลิกการเชื่อมโยงเขตข้อมูล</translation>
+    </message>
+    <message>
+        <source>Lock Field</source>
+        <comment>TxVersion_LockField</comment>
+        <translation>ล็อกเขตข้อมูล</translation>
+    </message>
+    <message>
+        <source>Unlock Field</source>
+        <comment>TxVersion_UnlockField</comment>
+        <translation>ปลดล็อกเขตข้อมูล</translation>
+    </message>
+    <message>
+        <source>Insert Chart</source>
+        <comment>TxVersion_InsertChart</comment>
+        <translation>แทรกแผนภูมิ</translation>
+    </message>
+    <message>
+        <source>To create a link, click an empty text box.
+To add another text box to your document, click Text Box on the Insert menu and choose a text box. Select the original text box and click Create Link again.</source>
+        <comment>TxMessage_CreateTextboxLinkError1</comment>
+        <translation>ในการสร้างการเชื่อมโยง ให้คลิกที่กล่องข้อความว่างเปล่า
+ในการเพิ่มกล่องข้อความอื่นลงในเอกสารของคุณ ให้คลิกที่ กล่องข้อความ ที่เมนู แทรก แล้วเลือกกล่องข้อความ เลือกกล่องข้อความดั้งเดิมแล้วคลิกที่ สร้างการเชื่อมโยง อีกครั้ง</translation>
+    </message>
+    <message>
+        <source>The text box you selected cannot be linked because a link has already existed in the text box , or you have linked the text box to itself.</source>
+        <comment>TxMessage_CreateTextboxLinkError2</comment>
+        <translation>ไม่สามารถเชื่อมโยงกล่องข้อความที่คุณเลือกได้ เนื่องจากมีการเชื่อมโยงกล่องข้อความอยู่แล้ว หรือได้ทำการเชื่อมโยงมาที่ตัวกล่องข้อความนั้นเอง</translation>
+    </message>
+    <message>
+        <source>Cannot link, because the target text box is not empty. You can only link to an empty text box.</source>
+        <comment>TxMessage_CreateTextboxLinkError3</comment>
+        <translation>ไม่สามารถเชื่อมโยงได้ เนื่องจากกล่องข้อความปลายทางไม่ว่างเปล่า คุณสามารถเชื่อมโยงได้เฉพาะกล่องข้อความที่ว่างเปล่าเท่านั้น</translation>
+    </message>
+    <message>
+        <source>This text box has a different text flow from the previous text box. Do you want to change the text flow of this text box to match the previous text box?</source>
+        <comment>TxMessage_CreateTextboxLinkError4</comment>
+        <translation>กล่องข้อความนี้มีทิศทางของข้อความที่แตกต่างไปจากกล่องข้อความก่อนหน้า คุณต้องการเปลี่ยนทิศทางของข้อความของกล่องข้อความนี้ให้ตรงกับกล่องข้อความก่อนหน้าหรือไม่?</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 1638.</source>
+        <comment>TxMessage_FontSizeError1</comment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง 1 และ 1638</translation>
+    </message>
+    <message>
+        <source>The number must be between 10 and 500.</source>
+        <comment>TxMessge_ZoomError1</comment>
+        <translatorcomment>The number must be between 10% and 500%.</translatorcomment>
+        <translation>ตัวเลขจะต้องอยู่ระหว่าง 10% และ 500%</translation>
+    </message>
+    <message>
+        <source>Are you sure to delete style %s?</source>
+        <comment>TxMessage_DeleteStyle</comment>
+        <translation>คุณแน่ใจหรือว่าต้องการลบสไตล์ %s?</translation>
+    </message>
+    <message>
+        <source>Help files not found, or the help files encounter an error.</source>
+        <comment>TxMessage_NoHelp</comment>
+        <translation>ไม่พบไฟล์วิธีใช้ หรือไฟล์วิธีใช้ประสบข้อผิดพลาด</translation>
+    </message>
+    <message>
+        <source>New Style</source>
+        <comment>TxVersion_TPNewStyle</comment>
+        <translation>สไตล์ใหม่</translation>
+    </message>
+    <message>
+        <source>Modify Style</source>
+        <comment>TxVersion_TPModifyStyle</comment>
+        <translation>แก้ไขสไตล์</translation>
+    </message>
+    <message>
+        <source>Delete Style</source>
+        <comment>TxVersion_TPDeleteStyle</comment>
+        <translation>ลบสไตล์</translation>
+    </message>
+    <message>
+        <source>Apply Style</source>
+        <comment>TxVersion_TPApplyStyle</comment>
+        <translation>ปรับใช้สไตล์</translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <comment>TxVersion_TPClearFmt</comment>
+        <translation>ล้างการจัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Do you want to continue searching from the end?</source>
+        <comment>TxMessge_SearchFromEnd</comment>
+        <translation>คุณต้องการทำการค้นหาต่อจากจุดสิ้นสุดหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Do you want to continue searching from the beginning?</source>
+        <comment>TxMessge_SearchFromStart</comment>
+        <translation>คุณต้องการทำการค้นหาต่อจากจุดเริ่มต้นหรือไม่?</translation>
+    </message>
+    <message>
+        <source>Do you want to delete the header and footer, and connect to the previous section?</source>
+        <comment>TxMessge_DelHeaderFooter</comment>
+        <translation>คุณต้องการลบหัวกระดาษและท้ายกระดาษ แล้วเชื่อมต่อกับส่วนก่อนหน้าหรือไม่?</translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
+        <translation>แบบอักษร &apos;</translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <comment>TxMessage_FontNameNotExisitSecondHalf</comment>
+        <translation>&apos; ไม่มีอยู่ในระบบของคุณ คุณต้องการใช้แบบอักษรนี้อยู่ดีหรือไม่?</translation>
+    </message>
+    <message>
+        <source>This document contains no comments or tracked changes.</source>
+        <comment>TxMessge_NoComment</comment>
+        <translation>เอกสารนี้ไม่มีข้อคิดเห็น หรือการติดตามการเปลี่ยนแปลง</translation>
+    </message>
+    <message>
+        <source>
+To follow this link, please hold down Ctrl and click.</source>
+        <comment>TxMessage_Hyperlink_ToClick</comment>
+        <translation>
+ในการตามการเชื่อมโยงนี้ไป กรุณากด Ctrl ค้างไว้แล้วคลิก</translation>
+    </message>
+    <message>
+        <source>Current Document</source>
+        <comment>TxMessage_Hyperlink_CurrentDocument</comment>
+        <translation>เอกสารปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>inserted</source>
+        <comment>TxMessage_ToolTip_Suffix_Insertion</comment>
+        <translation>แทรกแล้ว</translation>
+    </message>
+    <message>
+        <source>deleted</source>
+        <comment>TxMessage_ToolTip_Suffix_Deletion</comment>
+        <translation>ลบแล้ว</translation>
+    </message>
+    <message>
+        <source>comment</source>
+        <comment>TxMessage_ToolTip_Suffix_Comment</comment>
+        <translation>ข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Page: </source>
+        <comment>TxMessage_VScroll_Tip</comment>
+        <translation>หน้า:</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxEdit_PasteDefault</comment>
+        <translation>วาง</translation>
+    </message>
+    <message>
+        <source>Paste as Nested Table</source>
+        <comment>TxEdit_PasteNest</comment>
+        <translation>วางเป็นตารางแบบซ้อน</translation>
+    </message>
+    <message>
+        <source>Paste Rows</source>
+        <comment>TxEdit_PasteRow</comment>
+        <translation>วางแถว</translation>
+    </message>
+    <message>
+        <source>Paste Columns</source>
+        <comment>TxEdit_PasteColumn</comment>
+        <translation>วางคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Paste Cells</source>
+        <comment>TxEdit_PasteCell</comment>
+        <translation>วางเซลล์</translation>
+    </message>
+    <message>
+        <source>Paste by Appending Table</source>
+        <comment>TxEdit_PasteAppendTable</comment>
+        <translation>วางด้วยตารางที่เชื่อมต่อกัน</translation>
+    </message>
+    <message>
+        <source>Document 
+Protection</source>
+        <comment>TxDocument_Protect</comment>
+        <translation>การป้องกันเอกสาร</translation>
+    </message>
+    <message>
+        <source>Remove Protection</source>
+        <comment>TxDocument_Unprotect</comment>
+        <translation>ถอนการป้องกัน</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <comment>TxVersion_Copy</comment>
+        <translation>คัดลอก</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>TxVersion_Move</comment>
+        <translation>ย้าย</translation>
+    </message>
+    <message>
+        <source>Please make a selection first.</source>
+        <comment>TxVersion_RClickMove_NoSel</comment>
+        <translation>กรุณาทำการเลือกก่อน</translation>
+    </message>
+    <message>
+        <source>This is an invalid selection.</source>
+        <comment>TxVersion_RClickMove_InvalidSel</comment>
+        <translation>นี่เป็นการเลือกที่ไม่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>This function is provided in WPS Office Professional.</source>
+        <comment>TxMessage_ProVerOnly</comment>
+        <translation>ฟังก์ชันนี้มีมาให้ใน WPS Office Professional</translation>
+    </message>
+    <message>
+        <source>Adjust Table Column Width</source>
+        <comment>TxVersion_AdjustColumnsWidth</comment>
+        <translation>ปรับความกว้างคอลัมน์ตาราง</translation>
+    </message>
+    <message>
+        <source>Adjust Table Row Height</source>
+        <comment>TxVersion_AdjustRowHeight</comment>
+        <translation>ปรับความสูงแถวตาราง</translation>
+    </message>
+    <message>
+        <source>Remove Cell Partition</source>
+        <comment>TxVersion_EraserCells</comment>
+        <translation>ถอนการแบ่งเซล</translation>
+    </message>
+    <message>
+        <source>Add Vertical Border</source>
+        <comment>TxVersion_AddVertBorder</comment>
+        <translation>เพิ่มขอบแนวตั้ง</translation>
+    </message>
+    <message>
+        <source>Add Horizontal Border</source>
+        <comment>TxVersion_AddHorzBorder</comment>
+        <translation>เพิ่มเส้นขอบแนวนอน</translation>
+    </message>
+    <message>
+        <source>Insert Table</source>
+        <comment>TxVersion_AddTable</comment>
+        <translation>แทรกตาราง</translation>
+    </message>
+    <message>
+        <source>Set Border Properties</source>
+        <comment>TxVersion_SetBorderProp</comment>
+        <translation>ตั้งค่าคุณสมบัติเส้นขอบ</translation>
+    </message>
+    <message>
+        <source>Move Table</source>
+        <comment>TxVersion_MoveTable</comment>
+        <translation>ย้ายตาราง</translation>
+    </message>
+    <message>
+        <source>Table Size</source>
+        <comment>TxVersion_TableResize</comment>
+        <translation>ขนาดตาราง</translation>
+    </message>
+    <message>
+        <source>Insert File</source>
+        <comment>TxCaption_InsertFile</comment>
+        <translation>แทรกไฟล์</translation>
+    </message>
+    <message>
+        <source>Click and Type</source>
+        <comment>TxVersion_ClickAndType</comment>
+        <translation>คลิกแล้วพิมพ์</translation>
+    </message>
+    <message>
+        <source>Hide White Space</source>
+        <comment>TxMessage_ToolTip_HideBlank</comment>
+        <translation type="obsolete">ซ่อนพื้นที่ว่าง</translation>
+    </message>
+    <message>
+        <source>Show White Space</source>
+        <comment>TxMessage_ToolTip_DisplayBlank</comment>
+        <translation type="obsolete">แสดงพื้นที่ว่าง</translation>
+    </message>
+    <message>
+        <source>Mail Merge Insert Fields</source>
+        <comment>TxVersion_InsertMergeFields</comment>
+        <translation>แทรกเขตข้อมูลจดหมายเวียน</translation>
+    </message>
+    <message>
+        <source>Mail Merge View Data</source>
+        <comment>TxVersion_ViewMergedData</comment>
+        <translation>แสดงข้อมูลจดหมายเวียน</translation>
+    </message>
+    <message>
+        <source>Mail Merge Next Record</source>
+        <comment>TxVersion_NextRecord</comment>
+        <translation>ระเบียนจดหมายเวียนถัดไป</translation>
+    </message>
+    <message>
+        <source>Mail Merge Previous Record</source>
+        <comment>TxVersion_PreviousRecord</comment>
+        <translation>ระเบียนจดหมายเวียนก่อนหน้า</translation>
+    </message>
+    <message>
+        <source>Mail Merge First Record</source>
+        <comment>TxVersion_FirstRecord</comment>
+        <translation>ระเบียนจดหมายเวียนแรก</translation>
+    </message>
+    <message>
+        <source>Mail Merge Last Record</source>
+        <comment>TxVersion_LastRecord</comment>
+        <translation>ระเบียนจดหมายเวียนสุดท้าย</translation>
+    </message>
+    <message>
+        <source>Mail Merge Goto Record</source>
+        <comment>TxVersion_GotoRecord</comment>
+        <translation>ไปยังระเบียนจดหมายเวียน</translation>
+    </message>
+    <message>
+        <source>Translate to Simplified Chinese</source>
+        <comment>TxCaption_TranslateToSimplifiedChinese</comment>
+        <translation>แปลเป็นอักษรจีนตัวย่อ</translation>
+    </message>
+    <message>
+        <source>Translate to Traditional Chinese</source>
+        <comment>TxCaption_TranslateToTraditionalChinese</comment>
+        <translation>แปลเป็นอักษรจีนตัวเต็ม</translation>
+    </message>
+    <message>
+        <source>Deleted</source>
+        <comment>TxBalloon_RevisionDeleted</comment>
+        <translation>ลบแล้ว</translation>
+    </message>
+    <message>
+        <source>Inserted</source>
+        <comment>TxBalloon_RevisionInserted</comment>
+        <translation>แทรกแล้ว</translation>
+    </message>
+    <message>
+        <source>Close Compare Side by Side</source>
+        <comment>TxWindow_Close_CompareSideBySide</comment>
+        <translation>ปิดการเปรียบเทียบแบบเคียงข้างกัน</translation>
+    </message>
+    <message>
+        <source>Compare with %s Side by Side</source>
+        <comment>TxWindow_CompareSideBySideWith</comment>
+        <translation>เปรียบเทียบกับ %s แบบเคียงข้างกัน</translation>
+    </message>
+    <message>
+        <source>Compare Side by Side</source>
+        <comment>TxWindow_CompareSideBySide</comment>
+        <translation>เปรียบเทียบแบบเคียงข้างกัน</translation>
+    </message>
+    <message>
+        <source>Convert Table to Text</source>
+        <comment>TxVersion_TableToText</comment>
+        <translation>แปลงตารางเป็นข้อความ</translation>
+    </message>
+    <message>
+        <source>Convert Text to Table</source>
+        <comment>TxVersion_TextToTable</comment>
+        <translation>แปลงข้อความเป็นตาราง</translation>
+    </message>
+    <message>
+        <source>[Disabled]</source>
+        <comment>TxVersion_shieldedFunction</comment>
+        <translation>[ปิดการใช้งาน]</translation>
+    </message>
+    <message>
+        <source>Chinese Conversion</source>
+        <comment>TXShell_ChineseTranslation_Caption</comment>
+        <translation>การแปลงภาษาจีน</translation>
+    </message>
+    <message>
+        <source>Track 
+Changes</source>
+        <comment>TXShell_TrackChanges_Caption</comment>
+        <translation>ติดตาม
+การเปลี่ยนแปลง</translation>
+    </message>
+    <message>
+        <source>Mail Merge Toolbar</source>
+        <comment>TXShell_MailMerge_Caption</comment>
+        <translation>แถบเครื่องมือจดหมายเวียน</translation>
+    </message>
+    <message>
+        <source>Spell 
+Check</source>
+        <comment>TXShell_CheckSpelling_Caption</comment>
+        <translation>ตรวจสอบ
+การสะกด</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_NumFormat</comment>
+        <translation>จัดรูปแบบแล้ว</translation>
+    </message>
+    <message>
+        <source>Bullets and Numbering</source>
+        <comment>TxMessage_ToolTip_NumFormat</comment>
+        <translation>สัญลักษณ์แสดงหัวข้อย่อยและลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Accept Formatted Changes</source>
+        <comment>TxCaption_AcceptFormat</comment>
+        <translation>ยอมรับการเปลี่ยนแปลงการรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Reject Formatted Changes</source>
+        <comment>TxCaption_RejectFormat</comment>
+        <translation>ปฏิเสธการเปลี่ยนแปลงการจัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>The checkbox or drop-down form field in vertical text is ignored, so it cannot be shown.</source>
+        <comment>TxFormField_VerticalTextAlert</comment>
+        <translation>กล่องเลือกหรือเขตข้อมูลแบบฟอร์มแบบดรอปดาวน์ในข้อความแนวตั้งจะถูกมองข้าม จึงไม่สามารถแสดงได้</translation>
+    </message>
+    <message>
+        <source>Invalid order. Because the form field is not inserted through Forms toolbar or Insert Form Field dialogue box.</source>
+        <comment>TxFormField_InValidFormField</comment>
+        <translation>ลำดับไม่ถูกต้อง เนื่องจากเขตข้อมูลแบบฟอร์มไม่ได้แทรกผ่านแถบเครื่องมือแบบฟอร์ม หรือกล่องบทสนทนาแทรกเขตข้อมูลแบบฟอร์ม</translation>
+    </message>
+    <message>
+        <source>A valid date or time is required.</source>
+        <comment>TxFormField_InValidDate</comment>
+        <translation>ต้องใช้วันที่ หรือเวลาที่ถูกต้อง</translation>
+    </message>
+    <message>
+        <source>Form Field Options</source>
+        <comment>TxVersion_FormFieldOption</comment>
+        <translation>ตัวเลือกเขตข้อมูลแบบฟอร์ม</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <comment>TxMessage_Help</comment>
+        <translation>วิธีใช้</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxCaption_Paste</comment>
+        <translation>วาง</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TxHint_Paste</comment>
+        <translation>วาง</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <comment>TxCaption_PasteText</comment>
+        <translation>ข้อความไม่ได้จัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Unformatted Text</source>
+        <comment>TxHint_PasteText</comment>
+        <translation>ข้อความไม่ได้จัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Text With Format</source>
+        <comment>TxCaption_PasteFormatText</comment>
+        <translation>ข้อความที่จัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Text With Format</source>
+        <comment>TxHint_PasteFormatText</comment>
+        <translation>ข้อความที่จัดรูปแบบ</translation>
+    </message>
+    <message>
+        <source>Match the Current Format</source>
+        <comment>TxCaption_PasteMatchingFormat</comment>
+        <translation>ตรงกับรูปแบบปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>Match the Current Format</source>
+        <comment>TxHint_PasteMatchingFormat</comment>
+        <translation>ตรงกับรูปแบบปัจจุบัน</translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <comment>WPS_Translate_Caption</comment>
+        <translation>แปล</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <comment>WPS_Search_Caption</comment>
+        <translation>ค้นหา</translation>
+    </message>
+    <message>
+        <source>Auto Replace Paragraph Header Space With Indent</source>
+        <comment>TxVersion_AutoFormatReplaceHeaderSpace</comment>
+        <translation>แทนที่ช่องว่างหัวเรื่องย่อหน้าด้วยการเยื้องอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Auto Adjust WordWrap</source>
+        <comment>TxVersion_AutoAdjustWordWrap</comment>
+        <translation>ปรับการตัดคำอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>(no spelling suggestions)</source>
+        <comment>TxCaption_NoSpellingSuggestions</comment>
+        <translation>(ไม่มีคำแนะนำการสะกด)</translation>
+    </message>
+    <message>
+        <source>Replace Full Width Period With a Point</source>
+        <comment>TxVersion_AutoFormatReplaceFullPeriod</comment>
+        <translation>แทนที่ช่วงความกว้างเต็มด้วยพอยท์</translation>
+    </message>
+    <message>
+        <source>Update Table of Contents</source>
+        <comment>TxVersion_UpdateTOC</comment>
+        <translation>อัปเดตสารบัญ</translation>
+    </message>
+    <message>
+        <source>Cannot go to TOC. TOC may not exist!</source>
+        <comment>TxVersion_CannotGotoTOC</comment>
+        <translation>ไม่สามารถไปยังสารบัญได้ อาจไม่มีสารบัญอยู่</translation>
+    </message>
+    <message>
+        <source>Cannot update TOC. TOC may not exist.</source>
+        <comment>TxVersion_CannotUpdateTOC</comment>
+        <translation>ไม่สามารถอัปเดตสารบัญได้ อาจไม่มีสารบัญอยู่</translation>
+    </message>
+    <message>
+        <source>Outline Promote Heading 1</source>
+        <comment>TxVersion_PromoteToHighestLevel</comment>
+        <translation>หัวเรื่องเพิ่มระดับเค้าร่าง 1</translation>
+    </message>
+    <message>
+        <source>Outline Promote</source>
+        <comment>TxVersion_Promote</comment>
+        <translation>การเพิ่มระดับเค้าร่าง</translation>
+    </message>
+    <message>
+        <source>Outline Demote</source>
+        <comment>TxVersion_Demote</comment>
+        <translation>การลดระดับเค้าร่าง</translation>
+    </message>
+    <message>
+        <source>Demote to Body Text</source>
+        <comment>TxVersion_DemoteToLowestLevel</comment>
+        <translation>ลดระดับลงไปยังข้อความเนื้อความ</translation>
+    </message>
+    <message>
+        <source>Change Outline Level</source>
+        <comment>TxVersion_OutLiningComboBoxChange</comment>
+        <translation>เปลี่ยนระดับเค้าร่าง</translation>
+    </message>
+    <message>
+        <source>Go to Table of Contents</source>
+        <comment>TxVersion_GotoTOC</comment>
+        <translation>ไปยังสารบัญ</translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <comment>TxVersion_Strikethought</comment>
+        <translation>ขีดฆ่า</translation>
+    </message>
+    <message>
+        <source>Add rows and columns</source>
+        <comment>TxVersion_TableRowOrColResize</comment>
+        <translation>เพิ่มแถวและคอลัมน์</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>TxCaption_RecentPrint_Print</comment>
+        <translation>พิมพ์</translation>
+    </message>
+    <message>
+        <source>Print directly</source>
+        <comment>TxCaption_RecentPrint_PrintDirect</comment>
+        <translation>พิมพ์โดยตรง</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <comment>TxBalloon_RevisionDeletedShortTip</comment>
+        <translation>ลบ</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <comment>TxBalloon_RevisionInsertedShortTip</comment>
+        <translation>แทรก</translation>
+    </message>
+    <message>
+        <source>Modify bullets and numbering</source>
+        <comment>TxMessage_ToolTip_Modify_NumFormat</comment>
+        <translation>ปรับเปลี่ยนสัญลักษณ์แสดงหัวข้อย่อยและลำดับเลข</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>TxVersion_Comment</comment>
+        <translation>ข้อคิดเห็น</translation>
+    </message>
+    <message>
+        <source>Page X</source>
+        <comment>TxAutoText_PageNumberOf</comment>
+        <translation>หน้า X</translation>
+    </message>
+    <message>
+        <source>Total of X pages</source>
+        <comment>TxAutoText_PagesCount</comment>
+        <translation>รวม X หน้า</translation>
+    </message>
+    <message>
+        <source>of X</source>
+        <comment>TxAutoText_PagesTotal</comment>
+        <translation>จาก X</translation>
+    </message>
+    <message>
+        <source>First Line: %.2f  Characters</source>
+        <comment>TxTooltip_FirstIndent</comment>
+        <translation>บรรทัดแรก: %.2f อักขระ</translation>
+    </message>
+    <message>
+        <source>Hanging: %.2f Characters</source>
+        <comment>TxTooltip_HangingIndent</comment>
+        <translation>ห้อย: %.2f อักขระ</translation>
+    </message>
+    <message>
+        <source>Left Indent: %.2f Characters</source>
+        <comment>TxTooltip_LeftIndent</comment>
+        <translation>เยื้องซ้าย: %.2f อักขระ</translation>
+    </message>
+    <message>
+        <source>Right Indent: %.2f Characters</source>
+        <comment>TxTooltip_RightIndent</comment>
+        <translation>เยื้องขวา: %.2f อักขระ</translation>
+    </message>
+    <message>
+        <source>Before Spacing: %.2f Lines</source>
+        <comment>TxTooltip_ParaMarginBefore</comment>
+        <translation>ก่อนการเว้นระยะ: %.2f บรรทัด</translation>
+    </message>
+    <message>
+        <source>After Spacing: %.2f Lines</source>
+        <comment>TxTooltip_ParaMarginAfter</comment>
+        <translation>หลังจากการเว้นระยะ: %.2f บรรทัด</translation>
+    </message>
+    <message>
+        <source>Line Spacing: %.2f Lines</source>
+        <comment>TxTooltip_ParaLineSpacing</comment>
+        <translation>ช่องว่างระหว่างบรรทัด: %.2f บรรทัด</translation>
+    </message>
+    <message>
+        <source>Paragraph Layout</source>
+        <comment>TxTooltip_ParaAdjustment</comment>
+        <translation>เค้าโครงย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Hold</source>
+        <comment>TxTooltip_ParaLayoutHold</comment>
+        <translation>ยึด</translation>
+    </message>
+    <message>
+        <source>UnHold</source>
+        <comment>TxTooltip_ParaLayoutUnHold</comment>
+        <translation>ยกเลิกการยึด</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>TxTooltip_ParaLayoutClose</comment>
+        <translation>ปิด</translation>
+    </message>
+    <message>
+        <source>Clean Paragraph Space And Indent</source>
+        <comment>TxTooltip_CleanParaSpaceAndIndent</comment>
+        <translation>ล้างช่องว่างย่อหน้าและการเยื้อง</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxBalloon_RevisionFormatted</comment>
+        <translation>จัดรูปแบบแล้ว</translation>
+    </message>
+    <message>
+        <source>Modify</source>
+        <comment>TxBalloon_RevisionFormattedShortTip</comment>
+        <translation>ปรับเปลี่ยน</translation>
+    </message>
+    <message>
+        <source>Formatted</source>
+        <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
+        <translation>จัดรูปแบบแล้ว</translation>
+    </message>
+    <message>
+        <source>Formatted Table</source>
+        <comment>TxBalloon_RevisionFormattedTable</comment>
+        <translation>ตารางจัดรูปแบบแล้ว</translation>
+    </message>
+    <message>
+        <source>Modify paragraph</source>
+        <comment>TxBalloon_RevisionFormattedParaShortTip</comment>
+        <translation>ปรับเปลี่ยนย่อหน้า</translation>
+    </message>
+    <message>
+        <source>Modify table</source>
+        <comment>TxBalloon_RevisionFormattedTableShortTip</comment>
+        <translation>ปรับเปลี่ยนตาราง</translation>
+    </message>
+    <message>
+        <source>Format line number</source>
+        <comment>TxVersion_SetLineNumbering</comment>
+        <translation>จัดรูปแบบหมายเลขบรรทัด</translation>
+    </message>
+    <message>
+        <source>WPS Office has finished searching the document</source>
+        <comment>TxMessage_FinishedSearchException</comment>
+        <translation>WPS Office ทำการค้นหาในเอกสารเสร็จสิ้นแล้ว</translation>
+    </message>
+    <message>
+        <source>Add Protect Exception</source>
+        <comment>TxVersion_AddProtectException</comment>
+        <translation>เพิ่มการยกเว้นการป้องกัน</translation>
+    </message>
+    <message>
+        <source>Delete Protect Exception</source>
+        <comment>TxVersion_DeleteProtectException</comment>
+        <translation>ลบการยกเว้นการป้องกัน</translation>
+    </message>
+    <message>
+        <source>Delete All Editable Ranges</source>
+        <comment>TxVersion_DeleteAllEditableRanges</comment>
+        <translation>ลบช่วงที่แก้ไขได้ทั้งหมด</translation>
+    </message>
+    <message>
+        <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <comment>TxDesc_DataSource_xlsx</comment>
+        <translation type="obsolete">Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
+    </message>
+    <message>
+        <source>Stop Recording</source>
+        <comment>TXWps_RecordMacro_Stop</comment>
+        <translation>หยุดการบันทึก</translation>
+    </message>
+    <message>
+        <source>Record Macro</source>
+        <comment>TXWps_RecordMacro_Start</comment>
+        <translation>บันทึกแมโคร</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 File(*.wpsx)</source>
+        <comment>TxDesc_DataSource_wpsx</comment>
+        <translation>WPS Writer 2007/2010 File(*.wpsx)</translation>
+    </message>
+    <message>
+        <source>WPS Writer 2007/2010 Template(*.wptx)</source>
+        <comment>TxDesc_DataSource_wptx</comment>
+        <translation>WPS Writer 2007/2010 Template(*.wptx)</translation>
+    </message>
+    <message>
+        <source>Table Normal</source>
+        <comment>TxTableStyle_TableNormal</comment>
+        <translation>ตารางปกติ</translation>
+    </message>
+    <message>
+        <source>Table Simple 1</source>
+        <comment>TxTableStyle_TableSimple1</comment>
+        <translation>ตารางแบบเรียบง่าย 1</translation>
+    </message>
+    <message>
+        <source>Table Simple 2</source>
+        <comment>TxTableStyle_TableSimple2</comment>
+        <translation>ตารางแบบเรียบง่าย 2</translation>
+    </message>
+    <message>
+        <source>Table Simple 3</source>
+        <comment>TxTableStyle_TableSimple3</comment>
+        <translation>ตารางแบบเรียบง่าย 3</translation>
+    </message>
+    <message>
+        <source>Table Classic 1</source>
+        <comment>TxTableStyle_TableClassic1</comment>
+        <translation>ตารางแบบคลาสสิก 1</translation>
+    </message>
+    <message>
+        <source>Table Classic 2</source>
+        <comment>TxTableStyle_TableClassic2</comment>
+        <translation>ตารางแบบคลาสสิก 2</translation>
+    </message>
+    <message>
+        <source>Table Classic 3</source>
+        <comment>TxTableStyle_TableClassic3</comment>
+        <translation>ตารางแบบคลาสสิก 3</translation>
+    </message>
+    <message>
+        <source>Table Classic 4</source>
+        <comment>TxTableStyle_TableClassic4</comment>
+        <translation>ตารางแบบคลาสสิก 4</translation>
+    </message>
+    <message>
+        <source>Table Colorful 1</source>
+        <comment>TxTableStyle_TableColorful1</comment>
+        <translation>ตารางแบบมีสีสัน 1</translation>
+    </message>
+    <message>
+        <source>Table Colorful 2</source>
+        <comment>TxTableStyle_TableColorful2</comment>
+        <translation>ตารางแบบมีสีสัน 2</translation>
+    </message>
+    <message>
+        <source>Table Colorful 3</source>
+        <comment>TxTableStyle_TableColorful3</comment>
+        <translation>ตารางแบบมีสีสัน 3</translation>
+    </message>
+    <message>
+        <source>Table Columns 1</source>
+        <comment>TxTableStyle_TableColumns1</comment>
+        <translation>ตารางคอลัมน์ 1</translation>
+    </message>
+    <message>
+        <source>Table Columns 2</source>
+        <comment>TxTableStyle_TableColumns2</comment>
+        <translation>ตารางคอลัมน์ 2</translation>
+    </message>
+    <message>
+        <source>Table Columns 3</source>
+        <comment>TxTableStyle_TableColumns3</comment>
+        <translation>ตารางคอลัมน์ 3</translation>
+    </message>
+    <message>
+        <source>Table Columns 4</source>
+        <comment>TxTableStyle_TableColumns4</comment>
+        <translation>ตารางคอลัมน์ 4</translation>
+    </message>
+    <message>
+        <source>Table Columns 5</source>
+        <comment>TxTableStyle_TableColumns5</comment>
+        <translation>ตารางคอลัมน์ 5</translation>
+    </message>
+    <message>
+        <source>Table Grid 1</source>
+        <comment>TxTableStyle_TableGrid1</comment>
+        <translation>ตารางเส้นขอบ 1</translation>
+    </message>
+    <message>
+        <source>Table Grid 2</source>
+        <comment>TxTableStyle_TableGrid2</comment>
+        <translation>ตารางเส้นขอบ 2</translation>
+    </message>
+    <message>
+        <source>Table Grid 3</source>
+        <comment>TxTableStyle_TableGrid3</comment>
+        <translation>ตารางเส้นขอบ 3</translation>
+    </message>
+    <message>
+        <source>Table Grid 4</source>
+        <comment>TxTableStyle_TableGrid4</comment>
+        <translation>ตารางเส้นขอบ 4</translation>
+    </message>
+    <message>
+        <source>Table Grid 5</source>
+        <comment>TxTableStyle_TableGrid5</comment>
+        <translation>ตารางเส้นขอบ 5</translation>
+    </message>
+    <message>
+        <source>Table Grid 6</source>
+        <comment>TxTableStyle_TableGrid6</comment>
+        <translation>ตารางเส้นขอบ 6</translation>
+    </message>
+    <message>
+        <source>Table Grid 7</source>
+        <comment>TxTableStyle_TableGrid7</comment>
+        <translation>ตารางเส้นขอบ 7</translation>
+    </message>
+    <message>
+        <source>Table Grid 8</source>
+        <comment>TxTableStyle_TableGrid8</comment>
+        <translation>ตารางเส้นขอบ 8</translation>
+    </message>
+    <message>
+        <source>Table List 1</source>
+        <comment>TxTableStyle_TableList1</comment>
+        <translation>ตารางรายการ 1</translation>
+    </message>
+    <message>
+        <source>Table List 2</source>
+        <comment>TxTableStyle_TableList2</comment>
+        <translation>ตารางรายการ 2</translation>
+    </message>
+    <message>
+        <source>Table List 3</source>
+        <comment>TxTableStyle_TableList3</comment>
+        <translation>ตารางรายการ 3</translation>
+    </message>
+    <message>
+        <source>Table List 4</source>
+        <comment>TxTableStyle_TableList4</comment>
+        <translation>ตารางรายการ 4</translation>
+    </message>
+    <message>
+        <source>Table List 5</source>
+        <comment>TxTableStyle_TableList5</comment>
+        <translation>ตารางรายการ 5</translation>
+    </message>
+    <message>
+        <source>Table List 6</source>
+        <comment>TxTableStyle_TableList6</comment>
+        <translation>ตารางรายการ 6</translation>
+    </message>
+    <message>
+        <source>Table List 7</source>
+        <comment>TxTableStyle_TableList7</comment>
+        <translation>ตารางรายการ 7</translation>
+    </message>
+    <message>
+        <source>Table List 8</source>
+        <comment>TxTableStyle_TableList8</comment>
+        <translation>ตารางรายการ 8</translation>
+    </message>
+    <message>
+        <source>Table 3D effects 1</source>
+        <comment>TxTableStyle_Table3dfx1</comment>
+        <translation>ตารางสามมิติ เอฟเฟ็กต์ 1</translation>
+    </message>
+    <message>
+        <source>Table 3D effects 2</source>
+        <comment>TxTableStyle_Table3dfx2</comment>
+        <translation>ตารางสามมิติ เอฟเฟ็กต์ 2</translation>
+    </message>
+    <message>
+        <source>Table 3D effects 3</source>
+        <comment>TxTableStyle_Table3dfx3</comment>
+        <translation>ตารางสามมิติ เอฟเฟ็กต์ 3</translation>
+    </message>
+    <message>
+        <source>Table Contemporary</source>
+        <comment>TxTableStyle_TableContemporary</comment>
+        <translation>ตารางแบบร่วมสมัย</translation>
+    </message>
+    <message>
+        <source>Table Elegant</source>
+        <comment>TxTableStyle_TableElegant</comment>
+        <translation>ตารางแบบหรูหรา</translation>
+    </message>
+    <message>
+        <source>Table Professional</source>
+        <comment>TxTableStyle_TableProfessional</comment>
+        <translation>ตารางแบบมืออาชีพ</translation>
+    </message>
+    <message>
+        <source>Table Subtle1</source>
+        <comment>TxTableStyle_TableSubtle1</comment>
+        <translation>ตารางแบบบาง 1</translation>
+    </message>
+    <message>
+        <source>Table Subtle2</source>
+        <comment>TxTableStyle_TableSubtle2</comment>
+        <translation>ตารางแบบบาง 2</translation>
+    </message>
+    <message>
+        <source>Table Web 1</source>
+        <comment>TxTableStyle_TableWeb1</comment>
+        <translation>ตารางเว็บ 1</translation>
+    </message>
+    <message>
+        <source>Table Web 2</source>
+        <comment>TxTableStyle_TableWeb2</comment>
+        <translation>ตารางเว็บ 2</translation>
+    </message>
+    <message>
+        <source>Table Web 3</source>
+        <comment>TxTableStyle_TableWeb3</comment>
+        <translation>ตารางเว็บ 3</translation>
+    </message>
+    <message>
+        <source>Table Grid</source>
+        <comment>TxTableStyle_TableGrid</comment>
+        <translation>ตารางเส้นขอบ</translation>
+    </message>
+    <message>
+        <source>Table Theme</source>
+        <comment>TxTableStyle_TabelTheme</comment>
+        <translation>ตารางธีม</translation>
+    </message>
+    <message>
+        <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
+        <comment>TxDesc_DataSource_AllDataSource</comment>
+        <translation>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
+    </message>
+    <message>
+        <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
+        <comment>TxDesc_DataSource_doc</comment>
+        <translation>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</translation>
+    </message>
+    <message>
+        <source>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</source>
+        <comment>TxDesc_DataSource_alldoc</comment>
+        <translation>All Word Documents(*.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html) | *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.rtf; *.htm; *.html; |</translation>
+    </message>
+    <message>
+        <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
+        <comment>TxDesc_DataSource_allwps</comment>
+        <translation>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</translation>
+    </message>
+    <message>
+        <source>AutoFit to Content</source>
+        <comment>TxVersion_AutoFitContent</comment>
+        <translation>ปรับพอดีกับเนื้อหาอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Light Shading</source>
+        <comment>TxTableStyle_LightShading</comment>
+        <translation>ไล่ระดับสี อ่อน</translation>
+    </message>
+    <message>
+        <source>Light List</source>
+        <comment>TxTableStyle_LightList</comment>
+        <translation>รายการอ่อน</translation>
+    </message>
+    <message>
+        <source>Light Grid</source>
+        <comment>TxTableStyle_LightGrid</comment>
+        <translation>เส้นตารางอ่อน</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1</source>
+        <comment>TxTableStyle_MediumShading1</comment>
+        <translation>ไล่ระดับสีปานกลาง 1</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2</source>
+        <comment>TxTableStyle_MediumShading2</comment>
+        <translation>ไล่ระดับสีปานกลาง 2</translation>
+    </message>
+    <message>
+        <source>Medium List 1</source>
+        <comment>TxTableStyle_MediumList1</comment>
+        <translation>รายการปานกลาง 1</translation>
+    </message>
+    <message>
+        <source>Medium List 2</source>
+        <comment>TxTableStyle_MediumList2</comment>
+        <translation>รายการปานกลาง 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1</source>
+        <comment>TxTableStyle_MediumGrid1</comment>
+        <translation>เส้นตารางปานกลาง 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2</source>
+        <comment>TxTableStyle_MediumGrid2</comment>
+        <translation>เส้นตารางปานกลาง 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3</source>
+        <comment>TxTableStyle_MediumGrid3</comment>
+        <translation>เส้นตารางปานกลาง 3</translation>
+    </message>
+    <message>
+        <source>Dark List</source>
+        <comment>TxTableStyle_DarkList</comment>
+        <translation>รายการเข้ม</translation>
+    </message>
+    <message>
+        <source>Colorful Shading</source>
+        <comment>TxTableStyle_ColorfulShading</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน</translation>
+    </message>
+    <message>
+        <source>Colorful List</source>
+        <comment>TxTableStyle_ColorfulList</comment>
+        <translation>รายการแบบมีสีสัน</translation>
+    </message>
+    <message>
+        <source>Colorful Grid</source>
+        <comment>TxTableStyle_ColorfulGrid</comment>
+        <translation>เส้นตารางแบบมีสีสัน</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 1</source>
+        <comment>TxTableStyle_LightShadingAccent1</comment>
+        <translation>ไล่ระดับสีอ่อน เน้น 1</translation>
+    </message>
+    <message>
+        <source>Light List Accent 1</source>
+        <comment>TxTableStyle_LightListAccent1</comment>
+        <translation>รายการอ่อน เน้น 1</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 1</source>
+        <comment>TxTableStyle_LightGridAccent1</comment>
+        <translation>เส้นตารางอ่อน เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 1</source>
+        <comment>TxTableStyle_MediumShading1Accent1</comment>
+        <translation>ไล่ระดับสีปานกลาง 1 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 1</source>
+        <comment>TxTableStyle_MediumShading2Accent1</comment>
+        <translation>ไล่ระดับสีปานกลาง 2 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 1</source>
+        <comment>TxTableStyle_MediumList1Accent1</comment>
+        <translation>รายการปานกลาง 1 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 1</source>
+        <comment>TxTableStyle_MediumList2Accent1</comment>
+        <translation>รายการปานกลาง 2 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid1Accent1</comment>
+        <translation>เส้นตารางปานกลาง 1 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid2Accent1</comment>
+        <translation>เส้นตารางปานกลาง 2 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 1</source>
+        <comment>TxTableStyle_MediumGrid3Accent1</comment>
+        <translation>เส้นตารางปานกลาง 3 เน้น 1</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 1</source>
+        <comment>TxTableStyle_DarkListAccent1</comment>
+        <translation>รายการเข้ม เน้น 1</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 1</source>
+        <comment>TxTableStyle_ColorfulShadingAccent1</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน เน้น 1</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 1</source>
+        <comment>TxTableStyle_ColorfulListAccent1</comment>
+        <translation>รายการแบบมีสีสัน เน้น 1</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 1</source>
+        <comment>TxTableStyle_ColorfulGridAccent1</comment>
+        <translation>เส้นตารางแบบมีสีสัน เน้น 1</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 2</source>
+        <comment>TxTableStyle_LightShadingAccent2</comment>
+        <translation>ไล่ระดับสีอ่อน เน้น 2</translation>
+    </message>
+    <message>
+        <source>Light List Accent 2</source>
+        <comment>TxTableStyle_LightListAccent2</comment>
+        <translation>รายการอ่อน เน้น 2</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 2</source>
+        <comment>TxTableStyle_LightGridAccent2</comment>
+        <translation>เส้นตารางอ่อน เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 2</source>
+        <comment>TxTableStyle_MediumShading1Accent2</comment>
+        <translation>ไล่ระดับสีปานกลาง 1 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 2</source>
+        <comment>TxTableStyle_MediumShading2Accent2</comment>
+        <translation>ไล่ระดับสีปานกลาง 2 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 2</source>
+        <comment>TxTableStyle_MediumList1Accent2</comment>
+        <translation>รายการปานกลาง 1 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 2</source>
+        <comment>TxTableStyle_MediumList2Accent2</comment>
+        <translation>รายการปานกลาง 2 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid1Accent2</comment>
+        <translation>เส้นตารางปานกลาง 1 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid2Accent2</comment>
+        <translation>เส้นตารางปานกลาง 2 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 2</source>
+        <comment>TxTableStyle_MediumGrid3Accent2</comment>
+        <translation>เส้นตารางปานกลาง 3 เน้น 2</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 2</source>
+        <comment>TxTableStyle_DarkListAccent2</comment>
+        <translation>รายการเข้ม เน้น 2</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 2</source>
+        <comment>TxTableStyle_ColorfulShadingAccent2</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน เน้น 2</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 2</source>
+        <comment>TxTableStyle_ColorfulListAccent2</comment>
+        <translation>รายการแบบมีสีสัน เน้น 2</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 2</source>
+        <comment>TxTableStyle_ColorfulGridAccent2</comment>
+        <translation>เส้นตารางแบบมีสีสัน เน้น 2</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 3</source>
+        <comment>TxTableStyle_LightShadingAccent3</comment>
+        <translation>ไล่ระดับสีอ่อน เน้น 3</translation>
+    </message>
+    <message>
+        <source>Light List Accent 3</source>
+        <comment>TxTableStyle_LightListAccent3</comment>
+        <translation>รายการอ่อน เน้น 3</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 3</source>
+        <comment>TxTableStyle_LightGridAccent3</comment>
+        <translation>เส้นตารางอ่อน เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 3</source>
+        <comment>TxTableStyle_MediumShading1Accent3</comment>
+        <translation>ไล่ระดับสีปานกลาง 1 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 3</source>
+        <comment>TxTableStyle_MediumShading2Accent3</comment>
+        <translation>ไล่ระดับสีปานกลาง 2 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 3</source>
+        <comment>TxTableStyle_MediumList1Accent3</comment>
+        <translation>รายการปานกลาง 1 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 3</source>
+        <comment>TxTableStyle_MediumList2Accent3</comment>
+        <translation>รายการปานกลาง 2 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid1Accent3</comment>
+        <translation>เส้นตารางปานกลาง 1 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid2Accent3</comment>
+        <translation>เส้นตารางปานกลาง 2 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 3</source>
+        <comment>TxTableStyle_MediumGrid3Accent3</comment>
+        <translation>เส้นตารางปานกลาง 3 เน้น 3</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 3</source>
+        <comment>TxTableStyle_DarkListAccent3</comment>
+        <translation>รายการเข้ม เน้น 3</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 3</source>
+        <comment>TxTableStyle_ColorfulShadingAccent3</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน เน้น 3</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 3</source>
+        <comment>TxTableStyle_ColorfulListAccent3</comment>
+        <translation>รายการแบบมีสีสัน เน้น 3</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 3</source>
+        <comment>TxTableStyle_ColorfulGridAccent3</comment>
+        <translation>เส้นตารางแบบมีสีสัน เน้น 3</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 4</source>
+        <comment>TxTableStyle_LightShadingAccent4</comment>
+        <translation>ไล่ระดับสีอ่อน เน้น 4</translation>
+    </message>
+    <message>
+        <source>Light List Accent 4</source>
+        <comment>TxTableStyle_LightListAccent4</comment>
+        <translation>รายการอ่อน เน้น 4</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 4</source>
+        <comment>TxTableStyle_LightGridAccent4</comment>
+        <translation>เส้นตารางอ่อน เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 4</source>
+        <comment>TxTableStyle_MediumShading1Accent4</comment>
+        <translation>ไล่ระดับสีปานกลาง 1 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 4</source>
+        <comment>TxTableStyle_MediumShading2Accent4</comment>
+        <translation>ไล่ระดับสีปานกลาง 2 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 4</source>
+        <comment>TxTableStyle_MediumList1Accent4</comment>
+        <translation>รายการปานกลาง 1 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 4</source>
+        <comment>TxTableStyle_MediumList2Accent4</comment>
+        <translation>รายการปานกลาง 2 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid1Accent4</comment>
+        <translation>เส้นตารางปานกลาง 1 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid2Accent4</comment>
+        <translation>เส้นตารางปานกลาง 2 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 4</source>
+        <comment>TxTableStyle_MediumGrid3Accent4</comment>
+        <translation>เส้นตารางปานกลาง 3 เน้น 4</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 4</source>
+        <comment>TxTableStyle_DarkListAccent4</comment>
+        <translation>รายการเข้ม เน้น 4</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 4</source>
+        <comment>TxTableStyle_ColorfulShadingAccent4</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน เน้น 4</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 4</source>
+        <comment>TxTableStyle_ColorfulListAccent4</comment>
+        <translation>รายการแบบมีสีสัน เน้น 4</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 4</source>
+        <comment>TxTableStyle_ColorfulGridAccent4</comment>
+        <translation>เส้นตารางแบบมีสีสัน เน้น 4</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 5</source>
+        <comment>TxTableStyle_LightShadingAccent5</comment>
+        <translation>ไล่ระดับสีอ่อน เน้น 5</translation>
+    </message>
+    <message>
+        <source>Light List Accent 5</source>
+        <comment>TxTableStyle_LightListAccent5</comment>
+        <translation>รายการอ่อน เน้น 5</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 5</source>
+        <comment>TxTableStyle_LightGridAccent5</comment>
+        <translation>เส้นตารางอ่อน เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 5</source>
+        <comment>TxTableStyle_MediumShading1Accent5</comment>
+        <translation>ไล่ระดับสีปานกลาง 1 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 5</source>
+        <comment>TxTableStyle_MediumShading2Accent5</comment>
+        <translation>ไล่ระดับสีปานกลาง 2 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 5</source>
+        <comment>TxTableStyle_MediumList1Accent5</comment>
+        <translation>รายการปานกลาง 1 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 5</source>
+        <comment>TxTableStyle_MediumList2Accent5</comment>
+        <translation>รายการปานกลาง 2 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid1Accent5</comment>
+        <translation>เส้นตารางปานกลาง 1 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid2Accent5</comment>
+        <translation>เส้นตารางปานกลาง 2 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 5</source>
+        <comment>TxTableStyle_MediumGrid3Accent5</comment>
+        <translation>เส้นตารางปานกลาง 3 เน้น 5</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 5</source>
+        <comment>TxTableStyle_DarkListAccent5</comment>
+        <translation>รายการเข้ม เน้น 5</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 5</source>
+        <comment>TxTableStyle_ColorfulShadingAccent5</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน เน้น 5</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 5</source>
+        <comment>TxTableStyle_ColorfulListAccent5</comment>
+        <translation>รายการแบบมีสีสัน เน้น 5</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 5</source>
+        <comment>TxTableStyle_ColorfulGridAccent5</comment>
+        <translation>เส้นตารางแบบมีสีสัน เน้น 5</translation>
+    </message>
+    <message>
+        <source>Light Shading Accent 6</source>
+        <comment>TxTableStyle_LightShadingAccent6</comment>
+        <translation>ไล่ระดับสีอ่อน เน้น 6</translation>
+    </message>
+    <message>
+        <source>Light List Accent 6</source>
+        <comment>TxTableStyle_LightListAccent6</comment>
+        <translation>รายการอ่อน เน้น 6</translation>
+    </message>
+    <message>
+        <source>Light Grid Accent 6</source>
+        <comment>TxTableStyle_LightGridAccent6</comment>
+        <translation>เส้นตารางอ่อน เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium Shading 1 Accent 6</source>
+        <comment>TxTableStyle_MediumShading1Accent6</comment>
+        <translation>ไล่ระดับสีปานกลาง 1 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium Shading 2 Accent 6</source>
+        <comment>TxTableStyle_MediumShading2Accent6</comment>
+        <translation>ไล่ระดับสีปานกลาง 2 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium List 1 Accent 6</source>
+        <comment>TxTableStyle_MediumList1Accent6</comment>
+        <translation>รายการปานกลาง 1 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium List 2 Accent 6</source>
+        <comment>TxTableStyle_MediumList2Accent6</comment>
+        <translation>รายการปานกลาง 2 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium Grid 1 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid1Accent6</comment>
+        <translation>เส้นตารางปานกลาง 1 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium Grid 2 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid2Accent6</comment>
+        <translation>เส้นตารางปานกลาง 2 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Medium Grid 3 Accent 6</source>
+        <comment>TxTableStyle_MediumGrid3Accent6</comment>
+        <translation>เส้นตารางปานกลาง 3 เน้น 6</translation>
+    </message>
+    <message>
+        <source>Dark List Accent 6</source>
+        <comment>TxTableStyle_DarkListAccent6</comment>
+        <translation>รายการเข้ม เน้น 6</translation>
+    </message>
+    <message>
+        <source>Colorful Shading Accent 6</source>
+        <comment>TxTableStyle_ColorfulShadingAccent6</comment>
+        <translation>ไล่ระดับสีแบบมีสีสัน เน้น 6</translation>
+    </message>
+    <message>
+        <source>Colorful List Accent 6</source>
+        <comment>TxTableStyle_ColorfulListAccent6</comment>
+        <translation>รายการแบบมีสีสัน เน้น 6</translation>
+    </message>
+    <message>
+        <source>Colorful Grid Accent 6</source>
+        <comment>TxTableStyle_ColorfulGridAccent6</comment>
+        <translation>เส้นตารางแบบมีสีสัน เน้น 6</translation>
+    </message>
+    <message>
+        <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
+        <translation>Outlook Personal Address Books(*.pab) | *.pab; |</translation>
+    </message>
+    <message>
+        <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
+        <comment>TxDesc_DataSource_pab</comment>
+        <translation type="obsolete">Outlook Personal Address Books(*.pab) | *.pab; |</translation>
+    </message>
+    <message>
+        <source>PDF Files(*.pdf) | *.pdf; |</source>
+        <comment>TxDesc_DataSource_pdf</comment>
+        <translation>PDF Files(*.pdf) | *.pdf; |</translation>
+    </message>
+    <message>
+        <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
+        <comment>TxMessage_CreateTextboxLinkError5</comment>
+        <translation>กล่องข้อความปลายทางมีรูปแบบที่แตกต่างไปจากกล่องข้อความปัจจุบันของคุณ คุณสามารถเชื่อมโยงกล่องข้อความได้เฉพาะที่มีรูปแบบเดียวกันเท่านั้น</translation>
+    </message>
+    <message>
+        <source>Set AutoShape Defaults</source>
+        <comment>TxCaption_ShapeAutoShapeDefaults</comment>
+        <translation>ตั้งค่าเริ่มต้นรูปทรงอัตโนมัติ</translation>
+    </message>
+    <message>
+        <source>Set as Default Shape</source>
+        <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
+        <translation>ตั้งค่าเป็นรูปทรงเริ่มต้น</translation>
+    </message>
+    <message>
+        <source>Set as Default Text Box</source>
+        <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
+        <translation>ตั้งค่าเป็นกล่องข้อความเริ่มต้น</translation>
+    </message>
+    <message>
+        <source>InsertBefore</source>
+        <comment>TxCaption_ContentControlInsertBefore</comment>
+        <translation>แทรกก่อน</translation>
+    </message>
+    <message>
+        <source>InsertAfter</source>
+        <comment>TxCaption_ContentControlInsertAfter</comment>
+        <translation>แทรกหลัง</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <comment>TxCaption_ContentControlDelete</comment>
+        <translation>ลบ</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TxCaption_ContentControlItem</comment>
+        <translation>รายการ</translation>
+    </message>
+    <message>
+        <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
+        <comment>TxError_EditChartDataSource</comment>
+        <translation>เปิดตารางข้อมูลแผนภูมิใน &quot;%s&quot; อยู่ การจะแก้ไขข้อมูลแผนภูมินี้ได้ คุณจะต้องปิดมันก่อน</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
+        <translation>(ไม่มีคำแนะนำคำเหมือน)</translation>
+    </message>
+    <message>
+        <source>Insert PTab</source>
+        <comment>TxVersion_InsertPTab</comment>
+        <translatorcomment>Alignment Tab</translatorcomment>
+        <translation>แท็บการจัดเรียง</translation>
+    </message>
+    <message>
+        <source>Align ThaiDistribute</source>
+        <comment>TxVersion_AlignThaiDistribute</comment>
+        <translation>กระจายแบบไทย</translation>
+    </message>
+    <message>
+        <source>Excel 97-2003 Files(*.xls) | *.xls; |</source>
+        <comment>TxDesc_DataSource_xls</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert DocumentField</source>
+        <comment>TxVersion_InsDocumentField</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <comment>TxDesc_DataSource_xlsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click to edit header</source>
+        <comment>TxMessage_ToolTip_DblClickToEditHeader</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click to edit footer</source>
+        <comment>TxMessage_ToolTip_DblClickToEditFooter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit header</source>
+        <comment>TxMessage_ToolTip_ClickToEditHeader</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit footer</source>
+        <comment>TxMessage_ToolTip_ClickToEditFooter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change List Level</source>
+        <comment>TxVersion_ChangeListLevel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert TableOfContents</source>
+        <comment>TxVersion_InsTableOfContents</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert TableOfFigures</source>
+        <comment>TxVersion_InsTableOfFigures</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <comment>TxVersion_Reply</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <comment>TxVersion_Done</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot sort a table containing merged cells.</source>
+        <comment>TxSortError_ContainingMergedCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word cannot sort this table or selection because all of its rows are table headings.</source>
+        <comment>TxSortError_RowsAreTableHeadings</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Table</source>
+        <comment>TxVersion_FrameMove</comment>
+        <translation type="unfinished">ย้ายตาราง</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <comment>TxVersion_FrameResize</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Frame</source>
+        <comment>TxVersion_FormatFrame</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the right mouse button to get the list</source>
+        <comment>TxMessageField_AutoTextList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TxMessage_Field_Text</comment>
+        <translation type="unfinished">ข้อความ</translation>
+    </message>
+    <message>
+        <source>Update Content</source>
+        <comment>TxVersion_UpdateContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Click To Hide White Space</source>
+        <comment>TxMessage_ToolTip_HideBlank</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Click To Show White Space</source>
+        <comment>TxMessage_ToolTip_DisplayBlank</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxCaption_PasteOriginFormatted</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxHint_PasteOriginFormatted</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxCaption_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Formatted Text</source>
+        <comment>TxCaption_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Formatted Text</source>
+        <comment>TxHint_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collated(Print copy by copy)</source>
+        <comment>TxPrintPreview_PrintCollated</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncollated(Print page by page)</source>
+        <comment>TxPrintPreview_PrintUncollated</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print One Sided</source>
+        <comment>TxPrintPreview_PrintOneSided</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Pages on Long Edge</source>
+        <comment>TxPrintPreview_FlipOnLongEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Pages on Short Edge</source>
+        <comment>TxPrintPreview_FlipOnShortEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually Print on Both Sides</source>
+        <comment>TxPrintPreview_ManualDuplex</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+</TS>

@@ -8680,10 +8680,6 @@ Click here to sign in now.</source>
         <translation>フォントをダウンロード中です。しばらくお待ちください...</translation>
     </message>
     <message>
-        <source></source>
-        <translation></translation>
-    </message>
-    <message>
         <source>Shuffle</source>
         <translation>シャッフル</translation>
     </message>
@@ -8702,6 +8698,10 @@ Click here to sign in now.</source>
     <message>
         <source>Click to install vip cloud fonts</source>
         <translation>クリックして有料クラウドフォントを表示</translation>
+    </message>
+    <message>
+        <source></source>
+        <translation></translation>
     </message>
 </context>
 <context>

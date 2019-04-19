@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/">
+		<file>images/bulletsnumbering/bullet_0.png</file>
+		<file>images/bulletsnumbering/number_0.png</file>
+		<file>images/bulletsnumbering/outl_numb_0.png</file>
+	</qresource>
+</RCC>

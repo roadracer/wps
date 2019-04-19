@@ -1,0 +1,3 @@
+Bug: #174168
+原因：没有置 Fib header -> fDot 标志位为1导致 SetAttachedTemplate 时设置默认模板失败
+改动：使用Coding\tools\win32\viewer修改 Fib header -> fDot 标志位为1

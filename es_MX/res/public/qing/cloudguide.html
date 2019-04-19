@@ -1,0 +1,83 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Guía de Office Cloud</title>
+<script>
+
+//允许被选择的控件列表
+var allowedControls = {
+	'INPUT': 1
+};
+
+function DisableSelect()
+{
+	document.body.oncontextmenu = function(){//屏蔽右键菜单
+		allowSelected = 1 == allowedControls[event.srcElement.tagName] ? true : false;
+		event.returnValue = allowSelected;
+	}
+	document.body.ondragstart =  ReturnFalse;
+	document.body.onselectstart = function(){//屏蔽控件选中
+		//允许被选择的控件列表        
+		allowSelected = 1 == allowedControls[event.srcElement.tagName] ? true : false;
+		event.returnValue = allowSelected;
+	}
+}
+
+function ReturnFalse()
+{
+	window.event.returnValue = false;	
+}
+
+// 设置大小 
+guide.setViewSize(860, 510);
+</script>
+<style type="text/css">
+*{  position:absolute; font-size:12px; font-family:微软雅黑; text-align:left; width:100%; left:0; cursor:default; color:#ffffff;}
+.layout{position:relative; width:862px; height:513px; top:0; left: -1px; background-image:url(gd-background.png);}
+.dragarea{position:absolute; left:0; top:0; width:100%; height:74px; cursor:move;}
+.tiplogin{position:absolute; top:23px; left:17px; width:234px; height:36px;}
+.tipicon{position:relative; top:0; left:0; width:33px; height:35px; background-image:url(gd-tiplogin.png);}
+.close{position:absolute; width:10px; height:9px; top:17px; left:828px; background-image:url(gd-close.png); cursor:pointer;}
+.content{position:absolute; width:340px; height:224px; left:500px; top:144px;}
+.login{ background-color:#358d35; width:253px; height:45px; font-size:24px; font-family:微软雅黑; line-height:190%; text-align:center; cursor:pointer;}
+
+.tiptext{position:absolute; left: 43px; top:0; width:201px; height:35px; font-size:30px; font-family:微软雅黑; line-height:100%;}
+.tipText0{ font-size: 26px; }
+.tipText1{ top:45px; }
+.tipText2{ top:136px; }
+.tipText3{ top:161px; }
+.tipText4{ top:190px; left:262px; width:52px; cursor:pointer; }
+
+
+.tiptext{position:absolute; left: 43px; top:0; width:400px; height:35px; font-size:26px; font-family:微软雅黑; line-height:32px; }
+.tipText0{ font-size: 20px; }
+
+
+
+
+
+
+</style>
+</head>
+
+<body style="margin:0;" onload="DisableSelect()">
+<div class="layout">
+	<div class="dragarea" onmousedown="guide.mouseDown()" onmousemove="guide.mouseMove()" onmouseup="guide.mouseUp()">
+    	<div class="tiplogin">
+        	<div class="tipicon"></div>
+            <div class="tiptext">Iniciar sesión en WPS Office Cloud</div>
+        </div>
+    	<div class="close" onclick="guide.closeGuide()"></div>
+    </div>
+	
+	<div class="content">
+    	<div class="tipText0">Puede llevarse los documentos</div>
+        <div class="tipText1">WPS Office Cloud: Para los documentos en su vida.<br/>Usa documento donde y cuando quiera.</div>
+        <div class="tipText2">Inicie sesión y use</div>
+        <div class="login tipText3" onclick="guide.clickLogin()">Iniciar sesión ahora</div>
+        <div class="tipText4" onclick="guide.closeGuide()">Después</div>
+    </div>
+</div>
+</body>
+</html>

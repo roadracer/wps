@@ -12729,6 +12729,10 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <source>Advanced authorization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source></source>
+        <translation>通知</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>

@@ -16414,6 +16414,10 @@ Eye Protection Mode or Night Mode.</source>
         <source>Setup Password</source>
         <translation>设置密码</translation>
     </message>
+    <message>
+        <source></source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KWebPreviewEntranceShareWidgeRightContent</name>
