@@ -75,7 +75,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Become a VIP</source>
-        <translation>开通畅享</translation>
+        <translation>立即开通</translation>
     </message>
     <message>
         <source>Exporting Audio </source>
@@ -85,6 +85,25 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
         <source>A sound file of this document is currently being exported. 
 Are you sure to close?</source>
         <translation>文档正在输出音频，确定关闭吗？</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>会员专享文出有声不限时，输出语音。</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>开通会员还可尊享文出有声等14项办公特权！
+每天不到一毛钱！</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>今日的体验即将结束，开通会员即可无限使用！</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>叮叮叮！体验结束啦，您的文章还没读完哟，开通会员继续朗读吧！</translation>
     </message>
 </context>
 <context>
@@ -117,6 +136,16 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>您选中的内容不支持转化语音，请重新选择。</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>今日的体验即将结束，开通会员即可无限使用！</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>叮叮叮！体验结束啦，您的文章还没读完哟，开通会员继续朗读吧！</translation>
     </message>
 </context>
 <context>
@@ -519,6 +548,24 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>SAPI - failed to set voice speed: </source>
         <translation>SAPI - 无法设置声音的速度值：</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>立即开通</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>了解更多会员特权</translation>
     </message>
 </context>
 </TS>

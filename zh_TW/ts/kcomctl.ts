@@ -23,6 +23,10 @@
         <source>Trial Version</source>
         <translation>試用版本</translation>
     </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>唯讀模式</translation>
+    </message>
 </context>
 <context>
     <name>KBevelModel</name>
@@ -65,7 +69,7 @@
     <name>KColorCombobox</name>
     <message>
         <source>&amp;No Color</source>
-        <translation>無色彩(&amp;N)</translation>
+        <translation type="obsolete">無色彩(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Fill effects...</source>
@@ -98,6 +102,10 @@
     <message>
         <source>Standard Colors</source>
         <translation>標準色彩</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>無色彩</translation>
     </message>
 </context>
 <context>
@@ -321,15 +329,15 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Add to</source>
-        <translation>新增至</translation>
+        <translation type="obsolete">新增至</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
-        <translation>自訂快速存取工具列</translation>
+        <translation type="obsolete">自訂快速存取工具列</translation>
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>隱藏快速存取工具列自訂入口(&amp;H)</translation>
+        <translation type="obsolete">隱藏快速存取工具列自訂入口(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
@@ -365,11 +373,11 @@
     <name>KFilePageFixedButton</name>
     <message>
         <source>unfixed from list</source>
-        <translation>從清單中取消固定此項目</translation>
+        <translation>從清單中取消釘選此項目</translation>
     </message>
     <message>
         <source>fixed to list</source>
-        <translation>固定此項目到清單</translation>
+        <translation>釘選此項目到清單</translation>
     </message>
 </context>
 <context>
@@ -485,6 +493,10 @@
     <message>
         <source>Style</source>
         <translation>樣式</translation>
+    </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation>多重樣式</translation>
     </message>
 </context>
 <context>
@@ -751,6 +763,10 @@
         <source>Modified time: </source>
         <translation>修改時間： </translation>
     </message>
+    <message>
+        <source>Super Recover</source>
+        <translation>強力復原</translation>
+    </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
@@ -904,19 +920,19 @@
     </message>
     <message>
         <source>Unpinned from List</source>
-        <translation>從清單中取消固定</translation>
+        <translation>從清單中取消釘選</translation>
     </message>
     <message>
         <source>Clear Pinned Files</source>
-        <translation>清除已固定至清單的記錄</translation>
+        <translation>清除已釘選至清單的記錄</translation>
     </message>
     <message>
         <source>Pin to List</source>
-        <translation>固定至清單</translation>
+        <translation>釘選至清單</translation>
     </message>
     <message>
         <source>Clear Unpinned Files</source>
-        <translation>清除未固定至清單的記錄</translation>
+        <translation>清除未釘選至清單的記錄</translation>
     </message>
     <message>
         <source>Clear All Fixed Files</source>
@@ -1031,6 +1047,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Preset Texture</source>
         <translation>預設材質</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation>本機圖片(&amp;P)...</translation>
     </message>
 </context>
 <context>
@@ -1275,7 +1295,7 @@ Please re-install WPS Office.</source>
     <name>QMainWindow</name>
     <message>
         <source>Document List</source>
-        <translation>文件清單</translation>
+        <translation type="obsolete">文件清單</translation>
     </message>
     <message>
         <source>Next Document</source>
@@ -1379,6 +1399,10 @@ Please re-install WPS Office.</source>
         <source>Clear Record from List</source>
         <translation type="obsolete">從列表中清除紀錄</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
@@ -1417,6 +1441,202 @@ Please re-install WPS Office.</source>
     <message>
         <source>&amp;Color</source>
         <translation>色彩(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation>智慧辨識目錄</translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation>自動辨識正文的段落結構，產生對應目錄，節省手動設定標題格式的時間</translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation>限時免費</translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>此文檔較大，需要一段時間才能完成備份。</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation>您可以按 ESC 鍵取消備份，或者</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>設定備份間隔</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation>尋找文件</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>開啟資料夾</translation>
+    </message>
+</context>
+<context>
+    <name>KMRUCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">無法打開 “%1”。
+此文件可能被重命名、刪除或移動了位置。</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation>%1開啟檔案所在資料夾%2</translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation>尋找備份</translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation>復原檔案</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+</context>
+<context>
+    <name>KOrganizerDescription</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation>尋找命令、搜尋範本</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation>其他控制項</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation>從快速存取工具列刪除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translation type="obsolete">自訂快速存取工具列(&amp;C)...</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>自訂快速存取工具列</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>自訂快速存取工具列</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation type="obsolete">同步處理失敗</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>其他命令(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation>放置在頂部</translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation>放置在功能區下方</translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation>作為浮動工具列顯示</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation>快速自訂(&amp;Q)</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">登入</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">目前的動作僅在這台電腦上有效。登入後可同步至其他裝置。</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">登入</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation>檔案</translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation>%1,...</translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>插入儲存格</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation>服務即將過期</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation>服務已過期</translation>
     </message>
 </context>
 </TS>

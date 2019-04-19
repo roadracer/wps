@@ -19,6 +19,10 @@
         <source>Trial Version</source>
         <translation></translation>
     </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>Read Only Mode</translation>
+    </message>
 </context>
 <context>
     <name>KBevelModel</name>
@@ -94,6 +98,10 @@
     <message>
         <source>&amp;No Color</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -459,6 +467,10 @@
         <source>Style</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KGalleryAbstractModel</name>
@@ -705,6 +717,10 @@
         <source>Modified time: </source>
         <translation></translation>
     </message>
+    <message>
+        <source>Super Recover</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
@@ -945,6 +961,10 @@ Invalid record. This file may have been renamed, deleted or moved.</translation>
         <source>Preset Texture</source>
         <translation></translation>
     </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KToolTipWidget</name>
@@ -1166,6 +1186,10 @@ Please reinstall WPS Office!</translation>
         <source>Delete from List</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
@@ -1203,6 +1227,174 @@ Please reinstall WPS Office!</translation>
     </message>
     <message>
         <source>&amp;Color</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>Since the file is large, the backup will take some time.</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>set up auto backup interval</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>Customize Quick Access Toolbar</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>Customize Quick Access Toolbar</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>More Commands...</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Sign in</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">This action is only locally effective. Sign in to synchronize to other devices.</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Sign in</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>Insert Cell</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
         <translation></translation>
     </message>
 </context>

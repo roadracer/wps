@@ -86,7 +86,7 @@
     <message>
         <source>Author</source>
         <comment>IO_String_Author</comment>
-        <translation>作者</translation>
+        <translation type="obsolete">作者</translation>
     </message>
 </context>
 <context>
@@ -442,6 +442,35 @@ Try one or more of the following:
         <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
         <translation>域嵌套太深。</translation>
     </message>
+    <message>
+        <source>Cannot create automatic table of contents since no heading style or outline level has been set. Manual table of contents does not require such settings. Replace with a manual table?</source>
+        <comment>TX_TOC_REPLACE_TO_MANUALCONTENT</comment>
+        <translation type="obsolete">无法创建自动目录，创建自动目录需先为目录内容设置标题样式或大纲级别。手动目录无需此类设置，是否替换为手动目录？</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of contents?</source>
+        <comment>TX_REPLACE_TABLE_OF_CONTENT</comment>
+        <translation>是否替换所选目录？</translation>
+    </message>
+    <message>
+        <source>No table of contents in the file</source>
+        <comment>TX_NO_TOC_IN_FILE</comment>
+        <translation>文档中无目录</translation>
+    </message>
+    <message>
+        <source>Error! No table of figures entries found.</source>
+        <comment>TX_FIELD_ERR_NOT_TABLE_OF_FIGURES_ENTRIES_FOUND</comment>
+        <translation>错误！未找到图形项目表。</translation>
+    </message>
+    <message>
+        <source>Cannot create automatic table of contents since no heading style or outline level has been set. 
+
+Replace with a manual table?</source>
+        <comment>TX_TOC_REPLACE_TO_MANUALCONTENT</comment>
+        <translation>无法创建自动目录，创建自动目录需先为目录内容设置标题样式或大纲级别。
+
+是否替换为手动目录？</translation>
+    </message>
 </context>
 <context>
     <name>wps_field_parser_mailmerge</name>
@@ -545,6 +574,16 @@ Try one or more of the following:
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
         <translation>与上一节相同</translation>
+    </message>
+    <message>
+        <source>View More Replies</source>
+        <comment>TxPropmpt_ViewMoreReplies</comment>
+        <translation>查看更多答复</translation>
+    </message>
+    <message>
+        <source>View More Comments / Revisions</source>
+        <comment>TxPropmpt_ViewMoreCommentsRevisions</comment>
+        <translation>查看更多批注、修订</translation>
     </message>
 </context>
 <context>
@@ -745,6 +784,11 @@ Try one or more of the following:
         <comment>TxToolTip_Top_Margin</comment>
         <translation>上边距</translation>
     </message>
+    <message>
+        <source> (Press Enter Insert)</source>
+        <comment>TxToolTip_Entery_Insert</comment>
+        <translation> (按 Enter 插入)</translation>
+    </message>
 </context>
 <context>
     <name>wps_texttable</name>
@@ -866,7 +910,7 @@ Do you want to replace it?</source>
     <message>
         <source>%s can&apos;t load!</source>
         <comment>_TxTemplate_cannot_laod_template</comment>
-        <translation>%s 加载失败!</translation>
+        <translation>%s 加载失败，模板文件损坏。请重新下载安装WPS。</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
@@ -2156,7 +2200,7 @@ Do you want to replace it?</source>
     <message>
         <source>Table</source>
         <comment>_TxBuiltInCaptionLabelTable</comment>
-        <translation>表格</translation>
+        <translation>表</translation>
     </message>
     <message>
         <source>TemplateProject</source>
@@ -2977,7 +3021,81 @@ Do you want to replace it?</source>
     <message>
         <source>unknown</source>
         <comment>TxUserInfo_DefaultUserName</comment>
-        <translation type="obsolete">未知</translation>
+        <translation>未知</translation>
+    </message>
+    <message>
+        <source>Tips: WPS formula content found temporarily unable to resolve in this document, in order to avoid the impact of your work, place documents into .doc format before using WPS Now!</source>
+        <comment>TxBBCheckNewFormulaTip</comment>
+        <translation>温馨提示：WPS在该文档中发现暂时无法解析的公式内容，为避免影响您的工作，请联系桌面工程师将文档转存为doc格式使用！</translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain Math</source>
+        <translation>文档中带有数学公式数据，无法进行比较。</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>TxSortFieldNumber_Paragraphs</comment>
+        <translation>段落数</translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <comment>TxSortFieldNumber_Headings</comment>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>Outlook is not installed or configured correctly, sending failed.</source>
+        <comment>_TxMailMerge_Outlook_Not_Available</comment>
+        <translation>未安装Outlook或者配置不正确，邮件发送失败。</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>_TxMailMerge_FieldName</comment>
+        <translation>姓名</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <comment>_TxMailMerge_FieldCompany</comment>
+        <translation>单位</translation>
+    </message>
+    <message>
+        <source>JobTitle</source>
+        <comment>_TxMailMerge_FieldJobTitle</comment>
+        <translation>职务</translation>
+    </message>
+    <message>
+        <source>PostalCode</source>
+        <comment>_TxMailMerge_FieldPostalCode</comment>
+        <translation>邮政编码</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <comment>_TxMailMerge_FieldAddress</comment>
+        <translation>通讯地址</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <comment>_TxMailMerge_FieldPhone</comment>
+        <translation>联系电话</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <comment>TxRevision_Comment_Author</comment>
+        <translation>作者</translation>
+    </message>
+    <message>
+        <source>WPS cannot save changeds to the global template, because it was opened with read-only access.</source>
+        <comment>TxNormalReadOnlyMessageBoxText</comment>
+        <translation>WPS 无法将更改后的内容保存到共用模板中，因为它是以只读方式打开的。</translation>
+    </message>
+    <message>
+        <source>%s Not Privilege</source>
+        <comment>_TxTemplate_Not_Privilege</comment>
+        <translation>%s加载失败，您没有管理员权限，或者权限被其他软件锁定。</translation>
+    </message>
+    <message>
+        <source>%s Medium Full</source>
+        <comment>_TxTemplate_MediumFull</comment>
+        <translation>%s加载失败，磁盘已满，请清理磁盘中不必要的文件（如临时文件）之后再试。</translation>
     </message>
 </context>
 <context>
@@ -3119,6 +3237,31 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_InvalidPHdrText</comment>
         <translation>因为内容控件中的占位符文字包含无效项目，所以WPS 文字无法关闭设计模式。占位符文字不能包含浮动对象、修订标记或内容控件等项目。请从占位符文字中删除这些项目，然后重试。</translation>
     </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <comment>_TxErr_ScannerDataInvalid</comment>
+        <translation>扫描仪数据无效(纸张超过最大厚度或多张重叠)</translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <comment>_TxErr_ScannerJammedPaper</comment>
+        <translation>扫描仪进纸器卡纸</translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <comment>_TxErr_ScannerNoPaper</comment>
+        <translation>扫描仪进纸器缺纸</translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <comment>_TxErr_LodeLibraryError</comment>
+        <translation>加载SANE系统库出错</translation>
+    </message>
+    <message>
+        <source>Scanner IO Link Error.</source>
+        <comment>_TxErr_ScannerI/OError</comment>
+        <translation>扫描仪加载错误</translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
@@ -3211,7 +3354,7 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation type="obsolete">常用文件(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="unfinished">文字/Word格式(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
@@ -3221,12 +3364,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation>是否保存对 &quot;%s&quot; 的更改？</translation>
+        <translation>是否保存对 &quot;%s&quot; 的更改?</translation>
     </message>
     <message>
         <source>Document</source>
         <comment>_TxDocument_DefaultName</comment>
-        <translation>文档</translation>
+        <translation>文字文稿</translation>
     </message>
     <message>
         <source>Document has been locked by another application. Do you want to open it as read-only?
@@ -3464,7 +3607,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished">builtin.wpt</translation>
+        <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3484,7 +3627,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -3645,17 +3788,17 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>常用文件(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+        <translation type="obsolete">常用文件(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
         <comment>TxExts_AllWPS</comment>
-        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
     </message>
     <message>
         <source>Normal.dotm</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation type="unfinished">Normal.dotm</translation>
+        <translation type="obsolete">Normal.dotm</translation>
     </message>
     <message>
         <source>Document has been locked by %s. Do you want to open it as read-only?
@@ -3663,6 +3806,73 @@ This backup will be saved to (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
         <translation>文档已被“%s”锁定，是否以只读模式打开？
 (%s)</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TxDescOFD</comment>
+        <translation>OFD 文件格式(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TxDescPDF</comment>
+        <translation>PDF 文件格式(*.pdf)|*.pdf</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation>WPS文字 无法保存或创建此文件。
+可能的原因：
+1.文件只读
+2.其他用户在编辑此文件
+3.磁盘已满或被损坏
+(%s)</translation>
+    </message>
+    <message>
+        <source>
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>_TxDocument_UnSupportFileFormat</comment>
+        <translation>
+· 确保此文件是可以识别的格式。
+(%s)</translation>
+    </message>
+    <message>
+        <source>The specified file “%s” is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>_TxDocument_FormatNotCompatible_ODT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Document Files(*.wpsj)|*.wpsj</source>
+        <comment>TxDescGPCrypt</comment>
+        <translation>公普安全文字 文件(*.wpsj)|*.wpsj</translation>
+    </message>
+    <message>
+        <source>Document in %s</source>
+        <comment>_TxDocument_OnSetHostNames</comment>
+        <translation>%s 中的文档</translation>
+    </message>
+    <message>
+        <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
+        <translation type="obsolete">文字/Word格式(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TxDesc_AllWPSOffice</comment>
+        <translation>常用文件(文字/Word格式;表格/Excel格式;演示/PowerPoint格式;PDF文件)</translation>
+    </message>
+    <message>
+        <source>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</translation>
+    </message>
+    <message>
+        <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>_TxDocument_CheckInMsg</comment>
+        <translation>在您签入之前，其他用户不能看到您的更改。是否立即签入？</translation>
     </message>
 </context>
 <context>
@@ -5818,12 +6028,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation type="unfinished">浴火重生之wps-v6</translation>
+        <translation type="obsolete">浴火重生之wps-v6</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation type="unfinished">代号名称: fenix -
+        <translation type="obsolete">代号名称: fenix -
 A bird in Egyptian mythology that lived in the desert for 500 years and then consumed itself by fire, later to rise renewed from its ashes.
 不死鸟，长生鸟埃及神话中的一种鸟，相传这种鸟在沙漠中生活五百年后身焚，然后又从其焚灰中再生。</translation>
     </message>
@@ -6251,7 +6461,7 @@ Spelling</source>
     <message>
         <source>Deleted</source>
         <comment>TxBalloon_RevisionDeleted</comment>
-        <translation>删除的内容</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Demote to Body Text</source>
@@ -6382,7 +6592,7 @@ Protection</source>
     <message>
         <source>Formatted</source>
         <comment>TxBalloon_RevisionFormatted</comment>
-        <translation>带格式的</translation>
+        <translation>设置格式</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -6427,7 +6637,7 @@ Protection</source>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation>隐藏空白</translation>
+        <translation type="obsolete">隐藏空白</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -6542,7 +6752,7 @@ Protection</source>
     <message>
         <source>Inserted</source>
         <comment>TxBalloon_RevisionInserted</comment>
-        <translation>插入的内容</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>Invalid order. Because the form field is not inserted through Forms toolbar or Insert Form Field dialogue box.</source>
@@ -7042,7 +7252,7 @@ Protection</source>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation>显示空白</translation>
+        <translation type="obsolete">显示空白</translation>
     </message>
     <message>
         <source>Show/Hide Formatting Marks</source>
@@ -7309,7 +7519,7 @@ Changes</source>
     <message>
         <source>deleted</source>
         <comment>TxMessage_ToolTip_Suffix_Deletion</comment>
-        <translation>删除的内容</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>formatted</source>
@@ -7319,7 +7529,7 @@ Changes</source>
     <message>
         <source>inserted</source>
         <comment>TxMessage_ToolTip_Suffix_Insertion</comment>
-        <translation>插入的内容</translation>
+        <translation>插入</translation>
     </message>
     <message>
         <source>of X</source>
@@ -7386,7 +7596,7 @@ Check</source>
     <message>
         <source>Formatted</source>
         <comment>TxMessage_ToolTip_Suffix_Formatting</comment>
-        <translation>带格式的</translation>
+        <translation>设置格式</translation>
     </message>
     <message>
         <source>WPS Office has finished searching the document</source>
@@ -8207,6 +8417,214 @@ Check</source>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
         <comment>TxError_EditChartDataSource</comment>
         <translation>&quot;图表数据&quot;网格已在&quot;%s&quot;中打开。若要编辑此图表的数据，需要先将其关闭。</translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxCaption_PasteOriginFormatted</comment>
+        <translation>保留源格式</translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxHint_PasteOriginFormatted</comment>
+        <translation>保留源格式</translation>
+    </message>
+    <message>
+        <source>Paste Formatted Text</source>
+        <comment>TxCaption_PasteFormatedText</comment>
+        <translation type="obsolete">带格式粘贴</translation>
+    </message>
+    <message>
+        <source>Paste Formatted Text</source>
+        <comment>TxHint_PasteFormatedText</comment>
+        <translation type="obsolete">带格式粘贴</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
+        <translation>(无同义词建议)</translation>
+    </message>
+    <message>
+        <source>Insert PTab</source>
+        <comment>TxVersion_InsertPTab</comment>
+        <translation>对齐制表位</translation>
+    </message>
+    <message>
+        <source>Excel 97-2003 Files(*.xls) | *.xls; |</source>
+        <comment>TxDesc_DataSource_xls</comment>
+        <translation>Excel 97-2003 文件(*.xls) | *.xls; |</translation>
+    </message>
+    <message>
+        <source>Excel Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <comment>TxDesc_DataSource_xlsx</comment>
+        <translation>Excel 文件(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
+    </message>
+    <message>
+        <source>Double-click to edit header</source>
+        <comment>TxMessage_ToolTip_DblClickToEditHeader</comment>
+        <translation>双击编辑页眉</translation>
+    </message>
+    <message>
+        <source>Double-click to edit footer</source>
+        <comment>TxMessage_ToolTip_DblClickToEditFooter</comment>
+        <translation>双击编辑页脚</translation>
+    </message>
+    <message>
+        <source>Click to edit header</source>
+        <comment>TxMessage_ToolTip_ClickToEditHeader</comment>
+        <translation>单击编辑页眉</translation>
+    </message>
+    <message>
+        <source>Click to edit footer</source>
+        <comment>TxMessage_ToolTip_ClickToEditFooter</comment>
+        <translation>单击编辑页脚</translation>
+    </message>
+    <message>
+        <source>Align ThaiDistribute</source>
+        <comment>TxVersion_AlignThaiDistribute</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert TableOfFigures</source>
+        <comment>TxVersion_InsTableOfFigures</comment>
+        <translation>插入图表目录</translation>
+    </message>
+    <message>
+        <source>Insert TableOfContents</source>
+        <comment>TxVersion_InsTableOfContents</comment>
+        <translation>插入目录</translation>
+    </message>
+    <message>
+        <source>Change List Level</source>
+        <comment>TxVersion_ChangeListLevel</comment>
+        <translation>更改编号级别</translation>
+    </message>
+    <message>
+        <source>Cannot sort a table containing merged cells.</source>
+        <comment>TxSortError_ContainingMergedCells</comment>
+        <translation>表格中有合并后的单元格，无法排序。</translation>
+    </message>
+    <message>
+        <source>Word cannot sort this table or selection because all of its rows are table headings.</source>
+        <comment>TxSortError_RowsAreTableHeadings</comment>
+        <translation>Wps 无法对此表格或所选内容进行排序，因为表格中所有的行都是表格标题。</translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <comment>TxVersion_Reply</comment>
+        <translation>答复</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <comment>TxVersion_Done</comment>
+        <translation>已解决</translation>
+    </message>
+    <message>
+        <source>Move Table</source>
+        <comment>TxVersion_FrameMove</comment>
+        <translation type="unfinished">移动表格</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <comment>TxVersion_FrameResize</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Frame</source>
+        <comment>TxVersion_FormatFrame</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the right mouse button to get the list</source>
+        <comment>TxMessageField_AutoTextList</comment>
+        <translation>单击鼠标右键可得到的列表:</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TxMessage_Field_Text</comment>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>Collated(Print copy by copy)</source>
+        <comment>TxPrintPreview_PrintCollated</comment>
+        <translation>逐份打印</translation>
+    </message>
+    <message>
+        <source>Uncollated(Print page by page)</source>
+        <comment>TxPrintPreview_PrintUncollated</comment>
+        <translation>逐页打印</translation>
+    </message>
+    <message>
+        <source>Print One Sided</source>
+        <comment>TxPrintPreview_PrintOneSided</comment>
+        <translation>单面打印</translation>
+    </message>
+    <message>
+        <source>Flip Pages on Long Edge</source>
+        <comment>TxPrintPreview_FlipOnLongEdge</comment>
+        <translation>双面打印-长边翻页</translation>
+    </message>
+    <message>
+        <source>Flip Pages on Short Edge</source>
+        <comment>TxPrintPreview_FlipOnShortEdge</comment>
+        <translation>双面打印-短边翻页</translation>
+    </message>
+    <message>
+        <source>Manually Print on Both Sides</source>
+        <comment>TxPrintPreview_ManualDuplex</comment>
+        <translation>手动双面打印</translation>
+    </message>
+    <message>
+        <source>Double-Click To Hide White Space</source>
+        <comment>TxMessage_ToolTip_HideBlank</comment>
+        <translation>双击可隐藏空白</translation>
+    </message>
+    <message>
+        <source>Double-Click To Show White Space</source>
+        <comment>TxMessage_ToolTip_DisplayBlank</comment>
+        <translation>双击可显示空白</translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxCaption_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished">保留源格式粘贴</translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished">保留源格式粘贴</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxCaption_PasteFormatedText</comment>
+        <translation>带格式粘贴</translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxHint_PasteFormatedText</comment>
+        <translation>带格式粘贴</translation>
+    </message>
+    <message>
+        <source>Update Content</source>
+        <comment>TxVersion_UpdateContent</comment>
+        <translation type="unfinished">更新目录</translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_autotext</name>
+    <message>
+        <source>Error! Unknown autotext entry</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNKNOWN_ENTRY</comment>
+        <translation>错误!未定义“自动图文集”词条。</translation>
+    </message>
+    <message>
+        <source>Error! No autotext entry supplied</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNSPECIFIED_ENTRY</comment>
+        <translation>错误!未指定“自动图文集”词条。</translation>
+    </message>
+    <message>
+        <source>Update Content</source>
+        <comment>TxVersion_UpdateContent</comment>
+        <translation type="obsolete">更新目录</translation>
     </message>
 </context>
 </TS>

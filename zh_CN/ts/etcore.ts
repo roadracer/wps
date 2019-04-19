@@ -306,7 +306,7 @@ Please specify the right files.</source>
     <message>
         <source>Cannot save the file due to the full disk.</source>
         <comment>TX_Medium_Full</comment>
-        <translation>磁盘已满，文档未保存。</translation>
+        <translation>磁盘已满，文件无法保存。</translation>
     </message>
     <message>
         <source>Cannot save the file, because the file location you want to save is write protected.</source>
@@ -341,7 +341,7 @@ Please specify the right files.</source>
     <message>
         <source>Chart in %s</source>
         <comment>TX_OnSetHostNames_1</comment>
-        <translation>在 %s 中的 图表</translation>
+        <translation>图表 在 %s</translation>
     </message>
     <message>
         <source>Check Box</source>
@@ -1590,12 +1590,13 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>This command cannot be used on a protected sheet.</source>
         <comment>TX_OPERATION_PROTECTED_SHEET</comment>
-        <translation>不能在保护的工作表上使用该命令。</translation>
+        <translation>试图更改的单元格或图表在受保护的工作表中。
+要进行更改，请单击&quot;审阅&quot;选项卡中的&quot;撤销工作表保护&quot;(可能需要密码)。</translation>
     </message>
     <message>
         <source>This command cannot be used on a protected workbook.</source>
         <comment>TX_OPERATION_PROTECTED_BOOK</comment>
-        <translation>不能在保护的工作簿上使用该命令。</translation>
+        <translation>不能在受保护的工作簿上使用该命令。</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
@@ -2153,7 +2154,7 @@ Please try one of the following.
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation>WPS表格 在进行保存操作时发生错误！您可以尝试以下操作：
+        <translation type="obsolete">WPS表格 在进行保存操作时发生错误！您可以尝试以下操作：
 ·[撤消]之前的操作，然后执行[保存]。
 ·[另存为...]文本文件(*.txt)。
 ·将内容[复制/粘贴]到新文件。
@@ -2252,12 +2253,12 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
-        <translation>常用文件(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS表格文件(*.et)|*.et|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx)|*.xlsx|所有文件(*.*)|*.*||</translation>
+        <translation type="obsolete">常用文件(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS表格文件(*.et)|*.et|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx)|*.xlsx|所有文件(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
-        <translation>常用文件(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS表格文件(*.et)|*.et|WPS表格文件(*.etx)|*.etx|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx)|*.xlsx|所有文件(*.*)|*.*||</translation>
+        <translation type="obsolete">常用文件(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS表格文件(*.et)|*.et|WPS表格文件(*.etx)|*.etx|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx)|*.xlsx|所有文件(*.*)|*.*||</translation>
     </message>
     <message>
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
@@ -2705,19 +2706,19 @@ To cancel the query, click Cancel. </source>
     </message>
     <message>
         <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
-        <translation type="unfinished">不允许此操作。此操作正试图在工作表中移动表中的单元格。</translation>
+        <translation>不允许此操作。此操作正试图在工作表中移动表中的单元格。</translation>
     </message>
     <message>
         <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
-        <translation type="unfinished">表数据的工作表区域必须与正在创建的表位于同一工作表。</translation>
+        <translation>表数据的工作表区域必须与正在创建的表位于同一工作表。</translation>
     </message>
     <message>
         <source>That command cannot be used on multiple selections.</source>
-        <translation type="unfinished">不能对多重选定区域使用此命令。</translation>
+        <translation>不能对多重选定区域使用此命令。</translation>
     </message>
     <message>
         <source>Multi-cell array formulas are not allowed in tables.</source>
-        <translation type="unfinished">表中不能使用多单元格数组公式。</translation>
+        <translation>表中不能使用多单元格数组公式。</translation>
     </message>
     <message>
         <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
@@ -2764,8 +2765,7 @@ To cancel the query, click Cancel. </source>
 Use the PivotTable Field List to add,move,or remove fields.
 Hide or froup items in a row or column field.
 Modify the source data</source>
-        <translation>不能移动数据透视表的一部分，也不能再数据透视表中插入工作表单元格、行或列。若要插入工作表单元格、行或列，请先移动该数据透视表（选中数据透视表，在“选项”选项卡上单击“操作”组中的“移动数据透视表”）。若要在报表内添加、移动或删除单元格，请执行下
-列操作之一：
+        <translation>不能移动数据透视表的一部分，也不能在数据透视表中插入工作表单元格、行或列。若要插入工作表单元格、行或列，请先移动该数据透视表（选中数据透视表，在“分析”选项卡上单击“操作”组中的“移动数据透视表”）。若要在报表内添加、移动或删除单元格，请执行下列操作之一：
 1.使用“数据透视表字段列表”添加、移动或删除字段。
 2.将某一行或列字段中的数据项隐藏或分组。
 3.修改数据源。</translation>
@@ -2815,6 +2815,1647 @@ Reasons for this can include:
     <message>
         <source>A table with that name already exists. Select a different name.</source>
         <translation>已经存在使用该名称的表。请选择其他名称。</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
+        <comment>TX_SecurityDocumentOpenFailed_ExistOtherWorkbooks</comment>
+        <translation>存在已打开文档情况下您将无法打开安全文档！请关闭已打开的文档后重试。</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot save the security document! Please close the the other documents and try again.</source>
+        <comment>TX_SecurityDocumentSaveFailed_ExistOtherWorkbooks</comment>
+        <translation>存在已打开文档情况下您将无法保存安全文档！请在关闭已打开的文档后重试。</translation>
+    </message>
+    <message>
+        <source>Cell %s commented by %s User</source>
+        <comment>TX_CommentSelectStatus</comment>
+        <translation>单元格 %s 批注者 %s</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets reached the end of the workbook. Do you want to continue reviewing from the beginning of the workbook?</source>
+        <comment>TX_CommentTravelToucheEnd</comment>
+        <translation>WPS表格 达到工作簿末尾，是否继续从头开始审阅工作簿？</translation>
+    </message>
+    <message>
+        <source>Cannot shift objects off sheet.</source>
+        <comment>TX_InsertRange_LoseShape</comment>
+        <translation>不能将对象移到工作表外。</translation>
+    </message>
+    <message>
+        <source>The Remove Arrows command found no tracer arrows to remove.</source>
+        <translation>&quot;删除追踪箭头&quot;命令找不到可删除的追踪箭头。</translation>
+    </message>
+    <message>
+        <source>The Trace Precedents command requires that the active cell contains a formula which includes valid references.</source>
+        <translation>&quot;追踪引用单元格&quot;命令要求活动单元格中包含使用有效引用的公式。</translation>
+    </message>
+    <message>
+        <source>The Trace Dependents command found no formulas that refer to the active cell.</source>
+        <translation>&quot;追踪从属单元格&quot;命令未发现引用活动单元格的公式。</translation>
+    </message>
+    <message>
+        <source>Content cannot contain &quot;,&quot;.</source>
+        <translation>选项内容不能包含“,”。</translation>
+    </message>
+    <message>
+        <source>Please enter choice content.</source>
+        <translation>必须输入选项内容。</translation>
+    </message>
+    <message>
+        <source>There are duplicated choices. Continue?</source>
+        <translation>选项内容存在重复项，是否继续？</translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation>输入内容不能大于 255 个字符。</translation>
+    </message>
+    <message>
+        <source>Choices drop down cannot be empty. Please add or select choices.</source>
+        <translation>下拉选项不能为空，请添加或选择下拉选项。</translation>
+    </message>
+    <message>
+        <source>This Operation cannot be used on a security document.</source>
+        <comment>TX_OPERATION_NOT_SUPPORTED_ON_SECDOC</comment>
+        <translation>本操作不支持安全文档。</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>TX_PIVOT_TABLE_NAME</comment>
+        <translation>数据透视表</translation>
+    </message>
+    <message>
+        <source>GROUP</source>
+        <comment>TX_PIVOT_GROUP</comment>
+        <translation>数据组</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PIVOT_VALUES</comment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Sum of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_SUM_SEED</comment>
+        <translation>求和项:%s</translation>
+    </message>
+    <message>
+        <source>Count of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNT_SEED</comment>
+        <translation>计数项:%s</translation>
+    </message>
+    <message>
+        <source>Average of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_AVERAGE_SEED</comment>
+        <translation>平均值项:%s</translation>
+    </message>
+    <message>
+        <source>Max of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_MAX_SEED</comment>
+        <translation>最大值项:%s</translation>
+    </message>
+    <message>
+        <source>Min of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_MIN_SEED</comment>
+        <translation>最小值项:%s</translation>
+    </message>
+    <message>
+        <source>Product of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_PRODUCT_SEED</comment>
+        <translation>乘积项:%s</translation>
+    </message>
+    <message>
+        <source>Count of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNTN_SEED</comment>
+        <translation>计数项:%s</translation>
+    </message>
+    <message>
+        <source>StdDev of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEV_SEED</comment>
+        <translation>标准偏差项:%s</translation>
+    </message>
+    <message>
+        <source>StdDevp of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEVP_SEED</comment>
+        <translation>总体标准偏差项:%s</translation>
+    </message>
+    <message>
+        <source>Var of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_VAR_SEED</comment>
+        <translation>方差项:%s</translation>
+    </message>
+    <message>
+        <source>Varp of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_VARP_SEED</comment>
+        <translation>总体方差项:%s</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOT_SUBTOTAL_SUM</comment>
+        <translation>求和</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNT</comment>
+        <translation>计数</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOT_SUBTOTAL_AVERAGE</comment>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOT_SUBTOTAL_MAX</comment>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOT_SUBTOTAL_MIN</comment>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOT_SUBTOTAL_PRODUCT</comment>
+        <translation>乘积</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNTN</comment>
+        <translation>计数</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEV</comment>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEVP</comment>
+        <translation>总体标准偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOT_SUBTOTAL_VAR</comment>
+        <translation>方差</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOT_SUBTOTAL_VARP</comment>
+        <translation>总体方差</translation>
+    </message>
+    <message>
+        <source>Total %s</source>
+        <comment>TX_PIVOT_LABEL_GRAND_SEED</comment>
+        <translation>%s汇总</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_LABEL_GRAND</comment>
+        <translation>总计</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_LABEL_GRAND2</comment>
+        <translation>汇总</translation>
+    </message>
+    <message>
+        <source>%s Total</source>
+        <comment>TX_PIVOT_LABEL_SUBTOTAL_AUTO_SEED</comment>
+        <translation>%s 汇总</translation>
+    </message>
+    <message>
+        <source>(ALL)</source>
+        <comment>TX_PIVOT_PAGE_ITEM_ALL</comment>
+        <translation>(全部)</translation>
+    </message>
+    <message>
+        <source>(Multiple Items)</source>
+        <comment>TX_PIVOT_PAGE_ITEM_MULIT</comment>
+        <translation>(多项)</translation>
+    </message>
+    <message>
+        <source>Column Labels</source>
+        <comment>TX_PIVOT_COLUMN_FIELDS</comment>
+        <translation>列标签</translation>
+    </message>
+    <message>
+        <source>Row Labels</source>
+        <comment>TX_PIVOT_ROW_FIELDS</comment>
+        <translation>行标签</translation>
+    </message>
+    <message>
+        <source>(blank)</source>
+        <comment>TX_PIVOT_BLANK_WITH_BRACE</comment>
+        <translation>(空白)</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL</comment>
+        <translation>总计</translation>
+    </message>
+    <message>
+        <source>An item name cannot be found.Check that you&apos;ve typed the name correctly and the item is present in the PivotTable.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotFound</comment>
+        <translation>某个数据名称无法找到。请检查确认名称键入是否正确，且透视表中有该数据项。</translation>
+    </message>
+    <message>
+        <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
+Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemAmbiguous</comment>
+        <translation>数据项名称模糊。数据透视表中的其他字段可能包含同名数据项。
+请使用语法&quot;字段[数据项]&quot;。例如，如果数据项为&quot;橙子&quot;，字段为&quot;产品&quot;，可使用&quot;产品[橙子]&quot;。</translation>
+    </message>
+    <message>
+        <source>PivotTable formulas can only refer to items in the same field as the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotInSpecField</comment>
+        <translation>透视表只能引用已算完的项所在域中的项。</translation>
+    </message>
+    <message>
+        <source>References to multiple item names per field cannot be included in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_ReferToMultiItems</comment>
+        <translation>透视表公式不支持字段与数据项名称间的一对多引用。</translation>
+    </message>
+    <message>
+        <source>References,names,and arrays are not supported in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_HasRefNameArray</comment>
+        <translation>在数据透视表公式中不支持工作表引用、名称和数组。</translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.</source>
+        <comment>TX_PIVOTTABLE_CPL_FAIL</comment>
+        <translation>您输入的公式存在错误。
+如果您输入的内容不是公式，请在第一个字符之前输入单引号(&apos;)。</translation>
+    </message>
+    <message>
+        <source>If one or more fields in the PivotTable have calculated items, no fields can be used in the data area two or more times, or in the data area and another area at the same time.If you are trying to add a field, remove the calculated items and add the field again.If you are trying to add a calculated item, change the PivotTable report so that no field is used more than once and then add the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemMultiUsedField</comment>
+        <translation>如果数据透视表中的一个或多个字段具有计算项，则没有字段可以在该数据区域内使用两次或多次，或同时在该数据区域以及其他区域中使用。如果尝试添加字段，请删除计算项，并再次添加字段。如果尝试添加计算项，请更改数据透视表以便没有字段多次被使用，然后添加计算项。</translation>
+    </message>
+    <message>
+        <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemValueSubtotal</comment>
+        <translation>在数据透视表有计算项时，平均值、标准偏差和方差计算不被支持。</translation>
+    </message>
+    <message>
+        <source>Calculcated items do not work with custom subtotals.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemCustomSubtotal</comment>
+        <translation>当透视表包含计算项时自定义分类汇总无效。</translation>
+    </message>
+    <message>
+        <source>PivotTable field name already exists</source>
+        <comment>TX_PIVOTTABLE_CONF_FieldNameExist</comment>
+        <translation>数据透视表字段名已存在。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report field is grouped. You cannot add a calculated item to a grouped field.
+
+To ungroup the field, make sure it is in the row or column area, select one of the items of the grouped field, click the Ungroup button in the Group group on the Option tab, and then insert the calculated item. After inserted, you can group the items of field again.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemGroupField</comment>
+        <translation>此数据透视表字段已被组合。不能向组合字段中添加计算项。
+若要取消该组合字段，请确保它位于行或列区域中，选定组合字段的某个项，单击&quot;分析&quot;选项卡上的&quot;组合&quot;组中的&quot;取消组合&quot;按钮，然后插入计算项。插入计算项之后，可重新对字段中的项进行组合。</translation>
+    </message>
+    <message>
+        <source>You cannot edit the formulas in data cells for groups or for calculated fields.
+To change the formula for a calculated field,click OK,and then point to formulas on the PivotTable Options tab in the Tools group and click Calculated Field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_GroupOrCalcFld</comment>
+        <translation>不能针对分组或计算字段而编辑数据单元格中的公式。
+若要针对计算字段更改公式，请单击&quot;确定&quot;，再指向&quot;数据透视表分析&quot;选项卡上&quot;工具&quot;组中的&quot;公式&quot;，然后单击&quot;计算字段&quot;。</translation>
+    </message>
+    <message>
+        <source>Cannot change this part of a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_ThisPart</comment>
+        <translation>不能更改数据透视表的这一部分。</translation>
+    </message>
+    <message>
+        <source>Cannot edit PivotTable in group edit mode.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseGroupSheets</comment>
+        <translation>不能在工作表成组编辑方式下编辑 数据透视表。</translation>
+    </message>
+    <message>
+        <source>The field you are moving cannot be placed in that PivotTable area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MoveToThisAxis</comment>
+        <translation>正在移动的字段不能放在该报表区域中。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Please select a different location.</source>
+        <comment>TX_IVOTTABLE_DENIED_LOCATION_UNFIT</comment>
+        <translation>数据透视表在该工作表上安排不下，请选择别的放置位置。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
+        <comment>TX_PIVOTTABLE_LAYOUT_EXCEED</comment>
+        <translation>数据透视表在工作表上安排不下。是否要尽可能显示？</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the contents of the destination cells in %s?</source>
+        <comment>TX_PIVOTTABLE_REPLACE_CELL_CONTENT</comment>
+        <translation>希望替换掉 %s 中目标单元格的内容吗？</translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheets may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_GROUP_CONF_FieldTooManyItems</comment>
+        <translation>数据源中的一个字段包含了过多的项，WPS可能无法创建报表，或者可能创建不包含来自该字段数据的报表。</translation>
+    </message>
+    <message>
+        <source>Cannot group or ungroup that selection.</source>
+        <comment>TX_PIVOTTABLE_GROUP_InvalidSelection</comment>
+        <translation>选定区域不能分组。</translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
+        <translation>数据透视表字段名无效。在创建数据透视表时，必须使用组合为带有标志列列表的数据。如果要更改数据透视表字段的名称，必须键入字段的新名称。</translation>
+    </message>
+    <message>
+        <source>Cannot show or hide detail for this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_SHOWDETAIL</comment>
+        <translation>不能显示或隐藏选定区域的明细数据。</translation>
+    </message>
+    <message>
+        <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
+        <comment>TX_PIVOTTABLE_FILTER_VALUE_PERCENT_ERROR</comment>
+        <translation>数字必须在 0 与 100 之间。请再次输入属于上述区域的数字。</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_AVERAGE</comment>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNT</comment>
+        <translation>计数</translation>
+    </message>
+    <message>
+        <source>Count Nums</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
+        <translation>数值计数</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MAX</comment>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MIN</comment>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_PRODUCT</comment>
+        <translation>乘积</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEV</comment>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEVP</comment>
+        <translation>总体标准偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VAR</comment>
+        <translation>方差</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VARP</comment>
+        <translation>总体方差</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_SUM</comment>
+        <translation>求和</translation>
+    </message>
+    <message>
+        <source>Calculated Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedField</comment>
+        <translation>计算字段</translation>
+    </message>
+    <message>
+        <source>Calculated Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedItem</comment>
+        <translation>计算数据项</translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <comment>TX_PIVOTTABLE_ListFormula_SolveOrder</comment>
+        <translation>求解次序</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Field</comment>
+        <translation>字段</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Item</comment>
+        <translation>项</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Formula</comment>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Note:</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note</comment>
+        <translation>注释:</translation>
+    </message>
+    <message>
+        <source>When a cell is updated by more than one formula,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note1</comment>
+        <translation>当有多个公式可以导致单元格被更新时，</translation>
+    </message>
+    <message>
+        <source>he value is set by the formula with the last solve order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note2</comment>
+        <translation>单元格数值取决于最终的求解次序。</translation>
+    </message>
+    <message>
+        <source>To change the solve order for multiple calculated items or fields,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note3</comment>
+        <translation>若要更改多个计算项或字段的求解次序，</translation>
+    </message>
+    <message>
+        <source>on the Options tab, in the Calculations group, click Fields, Items, &amp; Sets, and then click Solve Order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note4</comment>
+        <translation>请在“选项”选项卡上的“计算”组中单击“字段”、“项目”和“设置”，然后单击“求解次序”。</translation>
+    </message>
+    <message>
+        <source>Cannot open PivotTable source file %s.</source>
+        <comment>TX_PIVOTTABLE_Source_Invalid</comment>
+        <translation>无法打开数据透视表源文件%s。</translation>
+    </message>
+    <message>
+        <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
+
+  If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
+  If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
+        <comment>TX_PIVOTTABLE_Source_Single_Row</comment>
+        <translation>此命令要求数据源至少有两行。如果选定区域只有一行，则不能使用此命令。请进行以下操作之一: 
+
+  如果使用的是高级筛选，请选定包含至少两行数据的单元格区域，再次单击“高级筛选”命令。
+  如果正在创建数据透视表或数据透视图，请输入单元格引用或选定包含至少两行数据的单元格区域。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is invalid. Try refreshing the data(On the Operation tab, Click Refresh).</source>
+        <comment>TX_PIVOTTABLE_Report_Invalid_Need_Refresh</comment>
+        <translation>此数据透视表无效。请尝试刷新数据(在&quot;分析&quot;选项卡上，单击&quot;刷新&quot;)。</translation>
+    </message>
+    <message>
+        <source>ET Could not get the source data for the PivotTable report from the disk.</source>
+        <comment>TX_PIVOTTABLE_Source_From_Disk_Invalid</comment>
+        <translation>Et 无法从磁盘内获取数据透视表的源数据。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report was saved without the underlying data. Use the Refresh Data Command to update the report.</source>
+        <comment>TX_PIVOTTABLE_Source_Not_On_Disk</comment>
+        <translation>数据透视表没有与下层数据共同保存。请使用&quot;刷新数据&quot;命令更新数据透视表。</translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CannotHideSelected</comment>
+        <translation>选择区域无法被隐藏。</translation>
+    </message>
+    <message>
+        <source>Cannot use empty value for field or item name in PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FieldItemName_Cannot_Empty</comment>
+        <translation>数据透视表报表字段或项目值不能为空。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is based on the same data as at least one other PivotTable report. Clearing the PivotTable report will remove the following from all the PivotTable reports:
+1.Group
+2.Calculated Items
+3.Calculated Fields
+4.Custom Items</source>
+        <comment>TX_PIVOTTABLE_ClearTable_Note</comment>
+        <translation>此数据透视表至少与其他一个其他数据透视表基于相同的数据。清除此数据透视表将删除所有数据透视表的以下项:
+·分组
+·计算项
+·计算字段
+·自定义项</translation>
+    </message>
+    <message>
+        <source>Text cannot be entered into a calculated item cell.</source>
+        <comment>TX_PIVOTTABLE_DENIED_InputText</comment>
+        <translation>文本不能输入到已有计算项的单元格。</translation>
+    </message>
+    <message>
+        <source>The PivotTable does not support OLAP. It will be Removed.</source>
+        <comment>TX_PIVOTTALE_Not_Support_OLAP</comment>
+        <translation>WPS表格暂时不支持OLAP类型数据透视表，此文件中的OLAP数据透视表将会被移除。</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PivotTable_Values</comment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Move %s to Beginning</source>
+        <comment>TX_PivotTable_MoveToBeginning</comment>
+        <translation>将%s移至开头 </translation>
+    </message>
+    <message>
+        <source>Move %s Up</source>
+        <comment>TX_PivotTable_MoveUp</comment>
+        <translation>将%s上移</translation>
+    </message>
+    <message>
+        <source>Move %s Down</source>
+        <comment>TX_PivotTable_MoveDown</comment>
+        <translation>将%s下移</translation>
+    </message>
+    <message>
+        <source>Move %s to End</source>
+        <comment>TX_PivotTable_MoveToEnd</comment>
+        <translation>将%s移至末尾</translation>
+    </message>
+    <message>
+        <source>Move %s to Rows</source>
+        <comment>TX_PivotTable_MoveToRows</comment>
+        <translation>将%s移至行</translation>
+    </message>
+    <message>
+        <source>Move %s to Columns</source>
+        <comment>TX_PivotTable_MoveToColumns</comment>
+        <translation>将%s移至列</translation>
+    </message>
+    <message>
+        <source>Remove %s</source>
+        <comment>TX_PivotTable_Remove</comment>
+        <translation>删除%s</translation>
+    </message>
+    <message>
+        <source>Subtotals %s</source>
+        <comment>TX_PivotTable_Subtotals</comment>
+        <translation>分类汇总%s</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <comment>TX_PivotTable_HideFieldList</comment>
+        <translation>隐藏字段列表</translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <comment>TX_PivotTable_ShowFieldList</comment>
+        <translation>显示字段列表</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>TX_PivotTable_Move</comment>
+        <translation>移动</translation>
+    </message>
+    <message>
+        <source>Move Values</source>
+        <comment>TX_PivotTable_MoveValues</comment>
+        <translation>将值移动到</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <comment>TX_PivotTable_FieldSettings</comment>
+        <translation>字段设置</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <comment>TX_PivotTable_ValueFieldSettings</comment>
+        <translation>值字段设置</translation>
+    </message>
+    <message>
+        <source>Clear Filter From %s</source>
+        <comment>TX_PivotTable_ClearFilterFrom</comment>
+        <translation>从%s中清除筛选</translation>
+    </message>
+    <message>
+        <source>Cannot move subtotals or block totals</source>
+        <comment>TX_PivotTable_CannotMoveSubtotalsGrand</comment>
+        <translation>不能在数据透视表中移动分类汇总或块汇总。</translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <comment>PTFILTER_CLEAR_ALL_TEXT</comment>
+        <translation type="obsolete">清除筛选</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <comment>PTFILTER_SELECT_THIS_TEXT</comment>
+        <translation type="obsolete">选择该项</translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <comment>TX_PIVOT_GROUP_SECONDS</comment>
+        <translation>秒</translation>
+    </message>
+    <message>
+        <source>Minutes</source>
+        <comment>TX_PIVOT_GROUP_MINUSTES</comment>
+        <translation>分</translation>
+    </message>
+    <message>
+        <source>Hours</source>
+        <comment>TX_PIVOT_GROUP_HOURS</comment>
+        <translation>小时</translation>
+    </message>
+    <message>
+        <source>Days</source>
+        <comment>TX_PIVOT_GROUP_DAYS</comment>
+        <translation>日</translation>
+    </message>
+    <message>
+        <source>Months</source>
+        <comment>TX_PIVOT_GROUP_MONTHS</comment>
+        <translation>月</translation>
+    </message>
+    <message>
+        <source>Quarters</source>
+        <comment>TX_PIVOT_GROUP_QUARTERS</comment>
+        <translation>季度</translation>
+    </message>
+    <message>
+        <source>Years</source>
+        <comment>TX_PIVOT_GROUP_YEARS</comment>
+        <translation>年</translation>
+    </message>
+    <message>
+        <source>Qtr1</source>
+        <comment>TX_PIVOT_GROUP_QTR1</comment>
+        <translation>第一季</translation>
+    </message>
+    <message>
+        <source>Qtr2</source>
+        <comment>TX_PIVOT_GROUP_QTR2</comment>
+        <translation>第二季</translation>
+    </message>
+    <message>
+        <source>Qtr3</source>
+        <comment>TX_PIVOT_GROUP_QTR3</comment>
+        <translation>第三季</translation>
+    </message>
+    <message>
+        <source>Qtr4</source>
+        <comment>TX_PIVOT_GROUP_QTR4</comment>
+        <translation>第四季</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <comment>TX_PIVOT_GROUP_OR</comment>
+        <translation>或</translation>
+    </message>
+    <message>
+        <source>Your formula includes a function that cannot be used in PivotTable formulas. You cannot use functions that return variable results, such as RAND and NOW, database functions, or the GETPIVOTDATA function in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_FunctionIllegal</comment>
+        <translation>当前公式中包含数据透视表不允许使用的函数。它们是返回变量的函数，如RAND和NOW，数据库函数，或GETPIVOTDATA函数。</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table.</source>
+        <comment>TX_PIVOTTABLE_OVERLAP_TABLE</comment>
+        <translation>数据透视表不能与表重叠。</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap another PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_OVERLAP_OTHER</comment>
+        <translation>数据透视表不能覆盖另一个数据透视表。</translation>
+    </message>
+    <message>
+        <source>Cannot determine which PivotTable field to sort by.</source>
+        <comment>TX_PIVOT_CANNOT_SORT</comment>
+        <translation>未指定数据透视表的排序字段</translation>
+    </message>
+    <message>
+        <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_TEXTTOCOLUMNS</comment>
+        <translation>无法对所选单元格进行更改，因为它会影响数据透视表。请使用字段列表更改报表。如果您试图插入或删除单元格，请移动数据透视表，然后再试。</translation>
+    </message>
+    <message>
+        <source>ALL</source>
+        <comment>TX_PIVOT_PAGE_ITEM_ALL2</comment>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>PivotTable can not find item with this name,whether %s will renamed to %s</source>
+        <comment>TX_PIVOT_CHANGE_PAGEFIELD_ITEM_CAPTION</comment>
+        <translation>在数据透视表内找不到有此名称的数据项。是否将&quot;%s&quot;重命名为&quot;%s&quot;?</translation>
+    </message>
+    <message>
+        <source>%s is not item of this field!</source>
+        <comment>TX_PIVOT_CANNOT_CHANGE_CURRENTPAGE_NOTE</comment>
+        <translation>&quot;%s&quot;不是此字段的项。</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_DATA</comment>
+        <translation>数据</translation>
+    </message>
+    <message>
+        <source>Formula%d</source>
+        <comment>TX_PIVOT_CALCITEM_NAME_FORMULA</comment>
+        <translation>公式%d</translation>
+    </message>
+    <message>
+        <source>Some PivotTable cells contain circular references.
+
+1.Check your calculated field and item formulas to make sure that none of the formulas refer to their own cells.
+2.Or,change the order of calculation by using the solve Order command.</source>
+        <comment>TX_PIVOTTABLE_CIRCLE_REFER</comment>
+        <translation>某些数据透视表单元格中包含循环引用。
+
+1、请检查字段和数据项计算公式，确保所有的公式都没有引用自身单元格。
+2、或者，使用“求解次序”命令更改计算的次序。</translation>
+    </message>
+    <message>
+        <source>Your formula cannot be entered because calculated fields cannot contain circular references. Change the formula to make sure that it doesn&apos;t refer to its own cells.</source>
+        <comment>TX_PIVOTTABLE_FIELD_CIRCLE_REFER</comment>
+        <translation>无法输入您的公式，因为计算字段不能包含循环引用。请更改公式，使它不对自身单元格进行引用。</translation>
+    </message>
+    <message>
+        <source>Groups cannot be placed in the data area when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CALCITEM_AND_GROUP_MOVE_VALUE</comment>
+        <translation>当数据透视表有计算项时，组不能放在数据区中。</translation>
+    </message>
+    <message>
+        <source>Query can not run or database and table can not open.
+
+ Please check the server or or contact your database administrator,Verify that the external data is valid and not moved or reorganized, and then retry the operation.</source>
+        <comment>TX_PIVOT_DATABASE_NOT_EXISTS</comment>
+        <translation>查询无法运行或数据库表无法打开。
+请检查数据库服务器或联系您的数据库管理员。确认外部数据库有效并且未被移动或重新组织,然后重试该操作。</translation>
+    </message>
+    <message>
+        <source>Cannot enter a formula for an item or field name in a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FMLA_CANNOT_BE_FIELDITEM_NAME</comment>
+        <translation>不能将公式用作数据透视表中的数据项或者字段名。</translation>
+    </message>
+    <message>
+        <source>Workbook is protected and cannot be changed.</source>
+        <comment>TX_MODIFY_DEFIED_ON_PROTECTED_BOOK</comment>
+        <translation>工作簿有保护，不能更改。</translation>
+    </message>
+    <message>
+        <source>(previous)</source>
+        <comment>TX_PIVOT_BRACKETS_PREVIOUS</comment>
+        <translation>(上一个)</translation>
+    </message>
+    <message>
+        <source>(next)</source>
+        <comment>TX_PIVOT_BRACKETS_NEXT</comment>
+        <translation>(下一个)</translation>
+    </message>
+    <message>
+        <source>Invalid workbook, worksheet or name.</source>
+        <translation>无效的工作簿、工作表、或名称。</translation>
+    </message>
+    <message>
+        <source>Relative worksheet name is not supported in PivotTable.</source>
+        <translation>数据透视表不支持包含相对工作表的名称。</translation>
+    </message>
+    <message>
+        <source>You cannot create or make changes to  PivotTable reports in a shared workbook. If you copy a report and paste it in a shared workbook, only the cell contents are pasted.
+To make a copy that you can edit and rearrage, in the same instance of Et, paste the report into a workbook that is not shared.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseSharedWorkbook</comment>
+        <translation>不能在共享工作簿中创建或更改数据透视表。如果复制数据透视表并将其粘贴到共享工作簿，则只有单元格内容被粘贴。
+若要制作可编辑及可重新编排的副本，请在同一WPS表格实例中将数据透视表粘贴到非共享工作簿中。</translation>
+    </message>
+    <message>
+        <source>When a protected worksheet contains other PivotTables that are based on the same source data, this command can not be executed. To revoke protection for worksheets that contain other PivotTables, click the tab for the worksheet, and then click Undo Sheet Protection in the Change group on the Review tab. And then retry the command.</source>
+        <comment>TX_PIVOTTABLE_Source_Sheet_Protect</comment>
+        <translation>受保护的工作表包含基于相同源数据的其他数据透视表时，此命令无法执行。
+若要撤销对包含其他数据透视表的工作表的保护，请单击该工作表的标签，再在&quot;审阅&quot;选项卡上的&quot;更改&quot;组中单击&quot;撤销工作表保护&quot;。然后重试此命令。</translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet</source>
+        <comment>TX_COMMAND_PROTECTED_SHEET</comment>
+        <translation>不能对受保护的工作表使用该命令。若要使用该命令，必须先撤销工作表保护(在&quot;审阅&quot;选项卡上的&quot;更改&quot;组中单击&quot;撤销工作表保护&quot;按钮)。可能会提示您输入密码。</translation>
+    </message>
+    <message>
+        <source>The item cannot be added or modified. There may not be enough memory, the maximum number of items allowed in a field may have been reached, or if a Visual Basic macro is performming the operation, the macro may be incorrect.
+
+Simplify the PivotTable report or check the macro for errors, and then try the operation again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_ADDITEM</comment>
+        <translation>该项不能被添加或修改。可能的原因是：内存不足；该字段中的项目数已达到所允许的最大值；或者此操作是由 Visual Basic 宏执行，而宏可能不正确。
+
+请简化数据透视表或检查 Visual Basic 宏的错误，然后重试。</translation>
+    </message>
+    <message>
+        <source>Show Details has been turned off for this PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_SHOWDETAILS_DISABLED</comment>
+        <translation>已禁用此数据透视表的“显示明细”功能。</translation>
+    </message>
+    <message>
+        <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
+        <comment>TX_PIVOTTABLE_16384DENIED</comment>
+        <translation>无法基于源数据创建列数超过16384的数据透视表。请减少列数，然后重试。</translation>
+    </message>
+    <message>
+        <source>The data will be saved with other pivot tables that share the same source data with this PivotTable.</source>
+        <comment>TX_MULTIPLE_PIVOTTABLE_SAVE_SOURCE</comment>
+        <translation>数据将与其他和此数据透视表共用相同源数据的透视表一同保存。</translation>
+    </message>
+    <message>
+        <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
+        <comment>TX_MULTIPLE_PIVOTTABLE_NOT_SAVE_SOURCE</comment>
+        <translation>数据将不能与其他和此数据透视表共用相同源数据的透视表一同保存。</translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_SELECTION</comment>
+        <translation>不能隐藏选定区域。</translation>
+    </message>
+    <message>
+        <source>Cannot hide the (All) item of a Report Filter field.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_PAGE_ALL</comment>
+        <translation>不能隐藏报表筛选字段（全部）项。</translation>
+    </message>
+    <message>
+        <source>Cannot hide all items of a field.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_ALLITEMS</comment>
+        <translation>不能隐藏字段的所有数据项。</translation>
+    </message>
+    <message>
+        <source>Cannot hide all items of the &apos;%s&apos; field from the PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_ALLITEMS_FIELD</comment>
+        <translation>不能隐藏数据透视表中“%s”字段的所有数据项。</translation>
+    </message>
+    <message>
+        <source>To build a report, choose fields from the PivotTable Field List</source>
+        <comment>TX_PIVOTTABLE_SELECT_TIP_TEXT</comment>
+        <translation>若要生成报表，请从“数据透视表字段列表”中选择字段。</translation>
+    </message>
+    <message>
+        <source>Chlick in this area to work with the PivotTable report</source>
+        <comment>TX_PIVOTTABLE_UNSELECT_TIP_TEXT</comment>
+        <translation>在此区域内单击可使用数据透视表</translation>
+    </message>
+    <message>
+        <source>Fields with calculated items can not be placed in the filter area.</source>
+        <comment>TX_PIVOTTABLE_CALCULATED_MoveToPage</comment>
+        <translation>含计算项的字段不能放在筛选区域中。</translation>
+    </message>
+    <message>
+        <source>Trun on the PivotTable Field List to work with the PivotTable</source>
+        <comment>TX_PIVOTTABLE_HIDDENFIELD_TIP_TEXT</comment>
+        <translation>启用数据透视表字段列表以使用数据透视表</translation>
+    </message>
+    <message>
+        <source>Pivot table name is invalid.</source>
+        <comment>TX_ERROR_INVALID_PIVOTTABLE_NAME</comment>
+        <translation>数据透视表名称无效。</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL_VERSION11</comment>
+        <translation>汇总</translation>
+    </message>
+    <message>
+        <source>Too much data will generated and et can not conntinue with it.</source>
+        <comment>TX_Pivottable_Mass_Operation</comment>
+        <translation>该操作产生了太多的数据，ET无法继续。</translation>
+    </message>
+    <message>
+        <source>This PivotTable&apos;s Connection has benn deleted</source>
+        <comment>TX_PivotTable_ConnectionIsDelete</comment>
+        <translation>此数据透视表的连接已经被删除。</translation>
+    </message>
+    <message>
+        <source>Some calculated items was removed because new items of the same name appeared during refresh.</source>
+        <comment>TX_PIVOTTABLE_REMOVE_CALCITEM_BY_SAME_NAME</comment>
+        <translation>某些算完的项被删除，因为在刷新过程中产生了新的同名项。</translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than 8000 items in the column area.
+If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_COL_AXIS_MORE_THAN_8000</comment>
+        <translation>无法将超过8000项的字段放入列区域。
+如果希望在报表中使用此字段，请单击&quot;确定&quot;，然后将该字段移到行区域或者页区域。</translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than 16384 items in the column area.
+If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_COL_AXIS_MORE_THAN_16384</comment>
+        <translation>无法将超过16384项的字段放入列区域。
+如果希望在报表中使用此字段，请单击&quot;确定&quot;，然后将该字段移到行区域或者页区域。</translation>
+    </message>
+    <message>
+        <source>This document can&apos;t be shared, it must be saved as another format before be shared.</source>
+        <translation>当前文件格式不支持共享工作簿，必需另存为其他格式。</translation>
+    </message>
+    <message>
+        <source>PivotTable %s  had some incorrect data,it had been deleted</source>
+        <comment>TX_PIVOTTABLE_DELTE_INVLIED_PIVOTTABLE</comment>
+        <translation>数据透视表(%s)含有错误的数据，将要被移除。</translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>TX_REFERENCE_NOT_VALID</comment>
+        <translation>引用无效。</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <comment>TX_PIVOT_SLICER_NAME</comment>
+        <translation>切片器</translation>
+    </message>
+    <message>
+        <source>The data source of a PivotTable connected to filter controls that ara also connected to other PivotTables cannot be Changed.To change the data source, first disconnect the filter controls from this PivotTable or from the other PivotTables.</source>
+        <comment>TX_PIVOTTABLE_MULTI_SLICER_LINK</comment>
+        <translation>不能更改连接到筛选控件的数据透视表的数据源，筛选控件同时又连接到其他数据透视表。要更改数据源，请先从该数据透视表或其他数据透视表中断开筛选控件。</translation>
+    </message>
+    <message>
+        <source>Remove Slicers</source>
+        <comment>TX_PIVOT_REMOVE_ALL_SLICER</comment>
+        <translation>删除切片器</translation>
+    </message>
+    <message>
+        <source>Remove &quot;%s&quot;</source>
+        <comment>TX_PIVOT_REMOVE_SLICER</comment>
+        <translation>删除&quot;%s&quot;</translation>
+    </message>
+    <message>
+        <source>Clear Filter from Slicers</source>
+        <comment>TX_PIVOT_ALL_SLICER_CLEAR_FILTER</comment>
+        <translation>从切片器中清除筛选器</translation>
+    </message>
+    <message>
+        <source>Clear Filter from &quot;%s&quot;</source>
+        <comment>TX_PIVOT_SLICER_CLEAR_FILTER</comment>
+        <translation>从&quot;%s&quot;中清除筛选器</translation>
+    </message>
+    <message>
+        <source>All values ara filtered out.</source>
+        <comment>TX_PIVOT_SLICER_FILTERED_OUT</comment>
+        <translation>所有值已被筛选掉。</translation>
+    </message>
+    <message>
+        <source>Cannot update filter controls,PivotTables.
+
+Reasons for this can include:
+• The connection to the data source failed.
+• The worksheet is protected
+• A PivotTable cannot expand because is would overlap existing cell content</source>
+        <comment>TX_PIVOT_SLICER_REMOVE_FAILINFO</comment>
+        <translation>无法更新筛选控件或数据透视表。
+
+可能的原因包括:
+• 与数据源的连接失败
+• 工作表受保护
+• 数据透视表无法扩展，因为将重叠现有单元格内容</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_TOTAL</comment>
+        <translation>汇总</translation>
+    </message>
+    <message>
+        <source>History sheet cannot be renamed.</source>
+        <comment>TX_RenameSheet_Error_HistorySheet</comment>
+        <translation>历史记录工作表不能改名。</translation>
+    </message>
+    <message>
+        <source>%s is a reserved name.</source>
+        <comment>TX_Reserved_SheetName</comment>
+        <translation>&quot;历史记录&quot;为保留名</translation>
+    </message>
+    <message>
+        <source>History</source>
+        <comment>TX_History_Reserved_SheetName</comment>
+        <translation>历史记录</translation>
+    </message>
+    <message>
+        <source>Action
+Number</source>
+        <comment>TX_ShareWorkbook_ListChanges_ActionNumber</comment>
+        <translation>操作号</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <comment>TX_ShareWorkbook_ListChanges_Date</comment>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>TX_ShareWorkbook_ListChanges_Time</comment>
+        <translation>时间</translation>
+    </message>
+    <message>
+        <source>Who</source>
+        <comment>TX_ShareWorkbook_ListChanges_Who</comment>
+        <translation>操作人</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <comment>TX_ShareWorkbook_ListChanges_Change</comment>
+        <translation>更改</translation>
+    </message>
+    <message>
+        <source>Sheet</source>
+        <comment>TX_ShareWorkbook_ListChanges_Sheet</comment>
+        <translation>工作表</translation>
+    </message>
+    <message>
+        <source>Range</source>
+        <comment>TX_ShareWorkbook_ListChanges_Range</comment>
+        <translation>区域</translation>
+    </message>
+    <message>
+        <source>New
+Value</source>
+        <comment>TX_ShareWorkbook_ListChanges_NewValue</comment>
+        <translation>新值</translation>
+    </message>
+    <message>
+        <source>Old
+Value</source>
+        <comment>TX_ShareWorkbook_ListChanges_OldValue</comment>
+        <translation>旧值</translation>
+    </message>
+    <message>
+        <source>Action
+Type</source>
+        <comment>TX_ShareWorkbook_ListChanges_ActionType</comment>
+        <translation>操作类型</translation>
+    </message>
+    <message>
+        <source>Losing
+Action</source>
+        <comment>TX_ShareWorkbook_ListChanges_LosingAction</comment>
+        <translation>操作失败</translation>
+    </message>
+    <message>
+        <source>The history ends with the changes saved on %s at %s.</source>
+        <comment>TX_ShareWorkbook_ListChanges_HistoryEnds</comment>
+        <translation>历史记录的结尾是 %s 的 %s 对所作更改进行保存。</translation>
+    </message>
+    <message>
+        <source>No Changes were found with the specified properties.
+To highlight all changes, uncheck the When, Who, and Where options.</source>
+        <comment>TX_ShareWorkbook_ListChangesError_NoChangesFound</comment>
+        <translation>在指定的属性中没有发现修订。
+
+要突出显示所有修订，请取消对&quot;时间&quot;、&quot;作者&quot;和&quot;地点&quot;的复选。</translation>
+    </message>
+    <message>
+        <source>Only changes which have been saved can be listed on history sheet.</source>
+        <comment>TX_ShareWorkbook_ListChangesError_ChangesNotSaved</comment>
+        <translation>只有保存过的更改才能列在历史记录工作表中。</translation>
+    </message>
+    <message>
+        <source>Not enough system resource is available to display this image.</source>
+        <comment>TX_SHEET_CANNOT_DISPLAY_BACKGROUND</comment>
+        <translation>系统资源不足，无法显示此图片。</translation>
+    </message>
+    <message>
+        <source>Ambiguous name detected: %s</source>
+        <comment>TX_App_Goto_Ambiguous_Procedure</comment>
+        <translation>发现二义性的名称：%s</translation>
+    </message>
+    <message>
+        <source>To do this, all the merged cells need to be the same size.</source>
+        <comment>TX_ERROR_MergeCell_NeedSameSize</comment>
+        <translation>若要进行此操作，所有合并单元格的大小必须相同。</translation>
+    </message>
+    <message>
+        <source>We found a problem with one or more formula references in this worksheet.
+
+Check that the cell references, range names, defined names and links to other workbooks in your formulas are all correct.</source>
+        <comment>TX_Chart_LabelFormulaUpdate_Error</comment>
+        <translation>发现此工作表中有一处或多处公式引用错误。
+
+请检查公式中的单元格引用、区域名、已定义名称以及其他工作簿的链接是否均正确无误。</translation>
+    </message>
+    <message>
+        <source>The content does not conform to the preset limits</source>
+        <comment>TX_ERRORCHECK_ERRDESC_DataValidation</comment>
+        <translation>内容不符合预设的限制</translation>
+    </message>
+    <message>
+        <source>&amp;Add content to the list</source>
+        <comment>TX_ERRORCHECK_REPAIR_AddToDataValidation</comment>
+        <translation>将内容添加到下拉列表(&amp;C)</translation>
+    </message>
+    <message>
+        <source>[ET][OBDC Driver Manager]The data source name was not found and the default driver was not specified.</source>
+        <comment>TX_DATABASE_ODBC_NO_DEFAULT</comment>
+        <translation type="obsolete">[ET][OBDC 驱动程序管理器]未发现数据源名称并且未指定默认驱动程序。</translation>
+    </message>
+    <message>
+        <source>[OBDC Driver Manager]The data source name was not found and the default driver was not specified.</source>
+        <comment>TX_DATABASE_ODBC_NO_DEFAULT</comment>
+        <translation>[OBDC 驱动程序管理器]未发现数据源名称并且未指定默认驱动程序。</translation>
+    </message>
+    <message>
+        <source>The text contains comma can not be added to the list</source>
+        <comment>TX_VALIDATION_Tip_Include_comma_error</comment>
+        <translation type="obsolete">输入的内容包含特殊符号（“,”），不能添加到列表</translation>
+    </message>
+    <message>
+        <source>Over list field length, list can only have up to 255 characters</source>
+        <comment>TX_VALIDATION_Tip_Add_Overlen_Error</comment>
+        <translation>超过列表长度限制，列表最多只能有255字符。</translation>
+    </message>
+    <message>
+        <source>The maximum number of data series per chart is 255.</source>
+        <comment>TX_PIVOT_Chart_Limit_Series</comment>
+        <translation>每张图表最多只能容纳255个数据系列</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL_PivotChart</comment>
+        <translation>汇总</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_GRANDTOTAL_PivotChart</comment>
+        <translation>总计</translation>
+    </message>
+    <message>
+        <source>You are attempting to create a chart by useing a PivotTable report in another workbok. This will result in a static chart that cannot be updated. To create a PivotChart report, or a chart that dynamically updates like the PivotTbale report, the chart must be located in the same workbook as its associated PivotTable report.</source>
+        <comment>TX_PIVOT_CHART_Attempt_Warning_Info</comment>
+        <translation>您正尝试使用另一工作簿中的数据透视表来创建图表。这样创建的图表将是无法更新的静态图表。若要创建像数据透视表一样可以动态更新的数据透视图或者图表，图表必须与其相关的数据透视表位于同一工作簿中。</translation>
+    </message>
+    <message>
+        <source>Shared workbook user list update faild! You can try to close and open this file again.
+If you ignore it, you cannot save this file, but you can use Save As to save to a different file.</source>
+        <comment>TX_ShareWorkbook_AddSharedWorkbookUserFaild</comment>
+        <translation>共享用户列表更新失败。请尝试关闭本文件并重新打开，否则无法保存本共享工作簿，只能另存为其他文件。</translation>
+    </message>
+    <message>
+        <source>There is some formals in selection, only merge or unmerge normally, do you want to continue?</source>
+        <comment>TX_MergeCells_MergeNormallyForFormla</comment>
+        <translation>选中的区域含有公式，只能按常规方式合并或者拆分单元格。
+是否按常规方式进行合并或者拆分？</translation>
+    </message>
+    <message>
+        <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
+Please close the document and try to open it again.</source>
+        <comment>TX_SavedButCannotReOpen</comment>
+        <translation>文件保存成功，但是由于共享冲突，WPS表格不能重新打开。请关闭文档，然后再打开。</translation>
+    </message>
+    <message>
+        <source>Update Values: </source>
+        <comment>TX_CrossBookUpdateValuesTitle</comment>
+        <translation>更新值：</translation>
+    </message>
+    <message>
+        <source>The selection contains too much cells, merge same cells will take a few minutes or more, continue?</source>
+        <comment>TX_MergeCells_MergeSameContainTooMuchCells</comment>
+        <translation>您选择的区域比较大，合并相同单元格可能需要耗时几分钟、甚至更久。
+是否继续？</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <translation type="obsolete">常用文件(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS表格文件(*.et)|*.et|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|所有文件(*.*)|*.*||
+</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+        <translation type="obsolete">常用文件(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS表格文件(*.et)|*.et|WPS表格文件(*.etx)|*.etx|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|所有文件(*.*)|*.*||</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <translation>常用文件(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS表格文件(*.et)|*.et|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|所有文件(*.*)|*.*||</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+        <translation>常用文件(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS表格文件(*.et)|*.et|WPS表格文件(*.etx)|*.etx|Microsoft Excel文件(*.xls)|*.xls|Microsoft Excel 2007/2010 文件(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|所有文件(*.*)|*.*||</translation>
+    </message>
+    <message>
+        <source> The ranges in the formula do not intersect.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NULL</comment>
+        <translation>计算错误：产生空的引用区域！</translation>
+    </message>
+    <message>
+        <source> The formula or function used is dividing by zero or empty cells.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_DIV</comment>
+        <translation>计算错误：除法运算的分母为0！</translation>
+    </message>
+    <message>
+        <source> A value used in the formula is of the wrong data type.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_VALUE</comment>
+        <translation>计算错误！</translation>
+    </message>
+    <message>
+        <source> Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_REF</comment>
+        <translation>计算错误：引用了无效的单元格！</translation>
+    </message>
+    <message>
+        <source> The formula contains unrecognized text.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NAME</comment>
+        <translation>计算错误：引用了无效的名称！</translation>
+    </message>
+    <message>
+        <source> There is a problem with a number used in the formula.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NUM</comment>
+        <translation>计算错误：公式包含无效数值，或者数字太大。</translation>
+    </message>
+    <message>
+        <source> A value is not available to the formula or function.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NA</comment>
+        <translation>计算错误：找不到要求查找的内容！</translation>
+    </message>
+    <message>
+        <source> This cell contains a date string represented with only 2 digits for the year.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_TextDate</comment>
+        <translation>该日期是文本类型。</translation>
+    </message>
+    <message>
+        <source> The number in this cells is formatted as text or preceded by an apostrophe.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NumberAsText</comment>
+        <translation>该数字是文本类型，可能导致计算结果出错！</translation>
+    </message>
+    <message>
+        <source> The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_InconsistentFormula</comment>
+        <translation>该单元格公式与邻近的单元格不一样！</translation>
+    </message>
+    <message>
+        <source> The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_OmittedCells</comment>
+        <translation>公式引用区域的旁边，还有其他数字未被引用。</translation>
+    </message>
+    <message>
+        <source> This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_UnlockedFormulaCells</comment>
+        <translation>单元格未设保护属性，公式可能会被篡改。</translation>
+    </message>
+    <message>
+        <source> The formula in this cell refers to cells that are currently empty.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_EmptyCellReferences</comment>
+        <translation>公式引用区域中，含有空单元格。</translation>
+    </message>
+    <message>
+        <source> The content does not conform to the preset limits</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_DataValidation</comment>
+        <translation>单元格内容，不符合预设的限制。</translation>
+    </message>
+    <message>
+        <source>Error Checking &amp;Options</source>
+        <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
+        <translation>错误检查选项(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Show &amp;Calculation Steps</source>
+        <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
+        <translation>显示计算步骤(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Open file failed: File path is too long more than %d characters!
+Please try to shorten the file path, or move the file to the desktop, and reopen it.</source>
+        <comment>TX_Workbook_OpenPathTooLongFailure</comment>
+        <translation>打开文件失败：文件路径太长，超过了%d个字符！
+请尝试将路径名改短，或者将文件移动到桌面，再重新打开。</translation>
+    </message>
+    <message>
+        <source>Worksheet in %s</source>
+        <comment>TX_OnSetHostNames_3</comment>
+        <translation>工作表 在 %s</translation>
+    </message>
+    <message>
+        <source>My Data Sources</source>
+        <translation>我的数据源</translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%s&quot;?</source>
+        <comment>TX_DiscardChanges_ReopenWorkbook</comment>
+        <translation>“%s”已经打开。重新执行打开操作会造成前面所做的更改被废弃，是否重新打开“%s”？</translation>
+    </message>
+    <message>
+        <source>Cannot open a copy while the template &apos;%s&apos; is already open.</source>
+        <comment>TX_Template_IsOpen</comment>
+        <translation>不能打开同一模板，因为模板文件“%s”已被打开。</translation>
+    </message>
+    <message>
+        <source>Autofilter Favorite %1</source>
+        <comment>TX_AUTOFILTER_FAVORITE</comment>
+        <translation>新筛选条件%1</translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheet may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_AXIS_TOO_MUCH_ITEM_COMPATIBLE</comment>
+        <translation>源数据中的某个字段包含的唯一项比数据透视表可以使用的要多，WPS 表格 可能不能创建数据透视表，或者所创建的数据透视表可能不能包含该字段中的数据。</translation>
+    </message>
+    <message>
+        <source>Error preparing file save. </source>
+        <comment>TX_IO_ErrorState_Prepare</comment>
+        <translation>WPS表格 在进行保存准备工作时发生错误！</translation>
+    </message>
+    <message>
+        <source>Error exporting data to file. </source>
+        <comment>TX_IO_ErrorState_Export</comment>
+        <translation>WPS表格 在导出数据到文件时发生错误！</translation>
+    </message>
+    <message>
+        <source>Error uploading file. </source>
+        <comment>TX_IO_ErrorState_Upload</comment>
+        <translation>WPS表格 在上传文件时发生错误！</translation>
+    </message>
+    <message>
+        <source>Error updating shared workbook cache. </source>
+        <comment>TX_IO_ErrorState_CacheShared</comment>
+        <translation>WPS表格 在更新共享工作簿缓存时发生错误！</translation>
+    </message>
+    <message>
+        <source>Error replacing target file. </source>
+        <comment>TX_IO_ErrorState_Replace</comment>
+        <translation>WPS表格 在替换目标文件时发生错误！</translation>
+    </message>
+    <message>
+        <source>System error: &quot;%s&quot;. </source>
+        <comment>TX_IO_ErrorReason_LastError</comment>
+        <translation>系统错误提示：“%s”。</translation>
+    </message>
+    <message>
+        <source>The process cannot access the file because it is being used by another process.</source>
+        <comment>TX_IO_ErrorReason_SharingViolation</comment>
+        <translation>此文件被其他程序占用，本程序无法访问。</translation>
+    </message>
+    <message>
+        <source>There is insufficient memory available to complete operation. </source>
+        <comment>TX_IO_ErrorReason_OutOfMemory</comment>
+        <translation>可用内存不足，无法完成此操作。</translation>
+    </message>
+    <message>
+        <source>The system cannot write to the specified device.</source>
+        <comment>TX_IO_ErrorReason_WriteFault</comment>
+        <translation type="obsolete">执行写入操作时发生磁盘错误。</translation>
+    </message>
+    <message>
+        <source>Please try one of the following. 
+•Undo the previous operations and save it. 
+•Save it as text file. 
+•Copy/paste the contents to a new document. 
+•Give up the changes to this file.</source>
+        <comment>TX_IO_ErrorSuggest_General</comment>
+        <translation type="obsolete">您可以尝试以下操作：
+·[撤消]之前的操作，然后执行[保存]。
+·[另存为...]文本文件(*.txt)。
+·将内容[复制/粘贴]到新文件。
+·放弃对文件的修改。</translation>
+    </message>
+    <message>
+        <source>Please try again later or save a copy. </source>
+        <comment>TX_IO_ErrorSuggest_SharingViolation</comment>
+        <translation type="obsolete">请稍后再试，或者把文件另存为名称不同的副本。</translation>
+    </message>
+    <message>
+        <source>Please make sure there is enough space on the disk or save a copy to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_CheckDisk</comment>
+        <translation type="obsolete">请确保磁盘上有足够的空间，或尝试把文件另存到有足够空间的磁盘中。</translation>
+    </message>
+    <message>
+        <source>One or more internal arguments are invalid.</source>
+        <comment>TX_IO_ErrorReason_InvalidArgument</comment>
+        <translation type="obsolete">一个或多个内部参数错误。</translation>
+    </message>
+    <message>
+        <source>Error saving file. </source>
+        <comment>TX_IO_ErrorState_Unknown</comment>
+        <translation>WPS表格 在进行保存操作时发生错误！</translation>
+    </message>
+    <message>
+        <source>The shared workbook on the disk is invalid. </source>
+        <comment>TX_IO_ErrorReason_InvalidSharedBook</comment>
+        <translation>磁盘上的共享工作簿为无效文件。</translation>
+    </message>
+    <message>
+        <source>One or more internal arguments are invalid. </source>
+        <comment>TX_IO_ErrorReason_InvalidArgument</comment>
+        <translation>一个或多个内部参数错误。</translation>
+    </message>
+    <message>
+        <source>Please try one of the following. 
+•Undo the previous operations and save it. 
+•Save it as text file. 
+•Copy/paste the contents to a new document.</source>
+        <comment>TX_IO_ErrorSuggest_General</comment>
+        <translation>您可以尝试以下操作：
+·[撤消]之前的操作，然后执行[保存]。
+·[另存为...]文本文件(*.txt)。
+·将内容[复制/粘贴]到新文件。</translation>
+    </message>
+    <message>
+        <source>
+•Give up the changes to this file.</source>
+        <comment>TX_IO_ErrorSuggest_GeneralAppend</comment>
+        <translation>
+·放弃对文件的修改。</translation>
+    </message>
+    <message>
+        <source>Try again after closing some programs or web pages. </source>
+        <comment>TX_IO_ErrorSuggest_ReleaseMemory</comment>
+        <translation>请尝试关闭一些其他程序、网页，释放内存后重试。</translation>
+    </message>
+    <message>
+        <source>Try saving it as a new file with a different name. </source>
+        <comment>TX_IO_ErrorSuggest_SaveCopy</comment>
+        <translation>请尝试把文件另存为名称不同的副本。</translation>
+    </message>
+    <message>
+        <source>Try saving file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_SaveToOtherDisk</comment>
+        <translation>请尝试把文件另存到其他的磁盘中。</translation>
+    </message>
+    <message>
+        <source>Please try again later, or save file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_RetryOrSaveToOtherDisk</comment>
+        <translation>请稍后再试，或尝试把文件另存到其他的磁盘中。</translation>
+    </message>
+    <message>
+        <source>Please close it first in that program, or save it as a new file with a different name. </source>
+        <comment>TX_IO_ErrorSuggest_UnlockFileOrSaveAs</comment>
+        <translation>请解除其他程序对此文件的占用，或者把文件另存为名称不同的副本。</translation>
+    </message>
+    <message>
+        <source>Make sure there is enough space on this disk, or try to save file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_CheckDisk</comment>
+        <translation>请确保磁盘上有足够的空间，或尝试把文件另存到有足够空间的磁盘中。</translation>
+    </message>
+    <message>
+        <source>A disk error occurred during a write operation. </source>
+        <comment>TX_IO_ErrorReason_WriteFault</comment>
+        <translation>执行写入操作时发生磁盘错误。</translation>
+    </message>
+    <message>
+        <source>There are some empty string before and after this content</source>
+        <comment>TX_ERRORCHECK_ERRDESC_StringEmptyCheck</comment>
+        <translation>该内容前后有空字符串，可能导致计算结果出错!</translation>
+    </message>
+    <message>
+        <source> There are some empty string before and after this content, which may cause calculation errors!</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_EmptyStringCheck</comment>
+        <translation>该内容前后有空字符串，可能导致计算结果出错！</translation>
+    </message>
+    <message>
+        <source>&amp;Clear empty strings before and after</source>
+        <comment>TX_ERRORCHECK_REPAIR_EmptyStringCheck</comment>
+        <translation>清空前后空字符串(&amp;C)</translation>
+    </message>
+    <message>
+        <source>There are some empty string</source>
+        <comment>TX_ERRORCHECK_ERR_StringEmptyCheck</comment>
+        <translation>该内容前后有空字符串!</translation>
+    </message>
+    <message>
+        <source>The sort operation will not be undone due to insufficient available resources. Do you want to continue?</source>
+        <comment>TX_INADEQUATE_RESOURCES_DISABLE_UNDO</comment>
+        <translation>由于可用资源不足，排序操作不会被撤消。请问是否继续？</translation>
+    </message>
+    <message>
+        <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>TX_CHECKINT_SHAREPOINT</comment>
+        <translation>在您签入之前，其他用户不能看到您的更改。是否立即签入？</translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <comment>TX_FLASHFILL_RANGE_INVALID</comment>
+        <translation>未填充值，因为所选内容包含公式、合并单元格、数据验证或锁定的单元格。请从所选内容中删除这些功能，然后再次单击“智能填充”按钮。</translation>
+    </message>
+    <message>
+        <source>In the selected area, there is no cell to be filled, and smart fill fails.</source>
+        <comment>TX_FLASHFILL_NO_EMPTY_CELLS</comment>
+        <translation>选择的区域中，没有待填充的单元格，智能填充失败。</translation>
+    </message>
+    <message>
+        <source>Smart fill cannot be performed without a sample. 
+Try entering some sample data before performing Smart Fill.</source>
+        <comment>TX_FLASHFILL_NO_EXAMPLE</comment>
+        <translation>缺少示例，无法智能填充。
+请尝试输入一些示例数据，再执行“智能填充”。</translation>
+    </message>
+    <message>
+        <source>Report</source>
+        <comment>TX_MERGESHEET_REPORT_SheetName</comment>
+        <translation>报告</translation>
+    </message>
+    <message>
+        <source>WorkBook</source>
+        <comment>TX_MERGESHEET_REPORT_BOOK</comment>
+        <translation>工作簿</translation>
+    </message>
+    <message>
+        <source>Worksheet</source>
+        <comment>TX_MERGESHEET_REPORT_Sheet</comment>
+        <translation>工作表</translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <comment>TX_MERGESHEET_REPORT_State</comment>
+        <translation>合并状态</translation>
+    </message>
+    <message>
+        <source>Location after merging</source>
+        <comment>TX_MERGESHEET_REPORT_Location</comment>
+        <translation>合并后的位置</translation>
+    </message>
+    <message>
+        <source>Succeed</source>
+        <comment>TX_MERGESHEET_STATE_Succeed</comment>
+        <translation>成功</translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <comment>TX_MERGESHEET_STATE_Failed</comment>
+        <translation>失败</translation>
+    </message>
+    <message>
+        <source>Merged tables</source>
+        <comment>TX_MERGESHEET_TOTAL_SHEET</comment>
+        <translation>总表</translation>
+    </message>
+    <message>
+        <source>Failed:no data</source>
+        <comment>TX_MERGESHEET_STATE_FailedEmpty</comment>
+        <translation>失败：没有数据</translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s).</source>
+        <comment>TX_MERGESHEET_REPORT_Result_Succeed</comment>
+        <translation>报告：成功合并 %d 个工作表。</translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s), with %d failed.</source>
+        <comment>TX_MERGESHEET_REPORT_Result_Failed</comment>
+        <translation>报告：成功合并 %d 个工作表，失败 %d 个。</translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s). Data: %d row(s)</source>
+        <comment>TX_MERGESHEET_REPORT_Merge_Result_Succeed</comment>
+        <translation>报告：成功合并 %d 个工作表，共 %d 行数据。</translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s), with %d failed. Data: %d row(s)</source>
+        <comment>TX_MERGESHEET_REPORT_Merge_Result_Failed</comment>
+        <translation>报告：成功合并 %d 个工作表，失败 %d 个，共 %d 行数据。</translation>
+    </message>
+    <message>
+        <source>Failed:the content in the table is less than the specified header lines</source>
+        <comment>TX_MERGESHEET_STATE_FailedRangeLessThanTitle</comment>
+        <translation>失败：表格内容少于或等于指定标题行数</translation>
+    </message>
+    <message>
+        <source>Failed: Too many rows</source>
+        <comment>TX_MERGESHEET_STATE_RowExceed</comment>
+        <translation>失败：行数达到上限</translation>
+    </message>
+    <message>
+        <source>Failed: Too many columns</source>
+        <comment>TX_MERGESHEET_STATE_ColumnExceed</comment>
+        <translation>失败：列数达到上限</translation>
+    </message>
+    <message>
+        <source>Failed: File doesn&apos;t exist</source>
+        <comment>TX_MERGESHEET_STATE_FileNotExist</comment>
+        <translation>失败：文件不存在</translation>
+    </message>
+    <message>
+        <source>Failed: Worksheet doesn&apos;t exist</source>
+        <comment>TX_MERGESHEET_STATE_SheetNotExist</comment>
+        <translation>失败：工作表不存在</translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge macro sheet</source>
+        <comment>TX_MERGESHEET_STATE_MacroSheet</comment>
+        <translation>失败：无法合并宏表</translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge chart sheet</source>
+        <comment>TX_MERGESHEET_STATE_ChartSheet</comment>
+        <translation>失败：无法合并图表工作表</translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge dialog sheet</source>
+        <comment>TX_MERGESHEET_STATE_DialogSheet</comment>
+        <translation>失败：无法合并对话框工作表</translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge security files</source>
+        <comment>TX_MERGESHEET_STATE_SecurityDoc</comment>
+        <translation>失败：无法合并安全文档</translation>
+    </message>
+    <message>
+        <source>Failed: Unsupported file format</source>
+        <comment>TX_MERGESHEET_STATE_FormatError</comment>
+        <translation>失败：文件格式不支持</translation>
+    </message>
+    <message>
+        <source>Exporting Data</source>
+        <comment>TX_DuplicateItemsMgr_Progress_Export</comment>
+        <translation>正在提取数据</translation>
+    </message>
+    <message>
+        <source>Highlighting Data</source>
+        <comment>TX_DuplicateItemsMgr_Progress_Highlight</comment>
+        <translation>正在应用高亮</translation>
+    </message>
+    <message>
+        <source>Comparing Data</source>
+        <comment>TX_DuplicateItemsMgr_Progress_Compare</comment>
+        <translation>正在比对数据</translation>
     </message>
 </context>
 <context>
@@ -3254,6 +4895,616 @@ Reasons for this can include:
         <comment>TX_TableSubtotal_Sum</comment>
         <translation>汇总</translation>
     </message>
+    <message>
+        <source>An item name cannot be found.Check that you&apos;ve typed the name correctly and the item is present in the PivotTable.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotFound</comment>
+        <translation type="obsolete">某个数据名称无法找到。请检查确认名称键入是否正确，且透视表中有该数据项。</translation>
+    </message>
+    <message>
+        <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
+Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemAmbiguous</comment>
+        <translation type="obsolete">数据项名称模糊。数据透视表中的其他字段可能包含同名数据项。
+请使用语法&quot;字段[数据项]&quot;。例如，如果数据项为&quot;橙子&quot;，字段为&quot;产品&quot;，可使用&quot;产品[橙子]&quot;。</translation>
+    </message>
+    <message>
+        <source>PivotTable formulas can only refer to items in the same field as the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotInSpecField</comment>
+        <translation type="obsolete">透视表只能引用已算完的项所在域中的项。</translation>
+    </message>
+    <message>
+        <source>References to multiple item names per field cannot be included in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_ReferToMultiItems</comment>
+        <translation type="obsolete">透视表公式不支持字段与数据项名称间的一对多引用。</translation>
+    </message>
+    <message>
+        <source>References,names,and arrays are not supported in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_HasRefNameArray</comment>
+        <translation type="obsolete">在数据透视表公式中不支持工作表引用、名称和数组。</translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.</source>
+        <comment>TX_PIVOTTABLE_CPL_FAIL</comment>
+        <translation type="obsolete">您输入的公式存在错误。
+如果您输入的内容不是公式，请在第一个字符之前输入单引号(&apos;)。</translation>
+    </message>
+    <message>
+        <source>If one or more fields in the PivotTable have calculated items, no fields can be used in the data area two or more times, or in the data area and another area at the same time.If you are trying to add a field, remove the calculated items and add the field again.If you are trying to add a calculated item, change the PivotTable report so that no field is used more than once and then add the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemMultiUsedField</comment>
+        <translation type="obsolete">如果数据透视表中的一个或多个字段具有计算项，则没有字段可以在该数据区域内使用两次或多次，或同时在该数据区域以及其他区域中使用。如果尝试添加字段，请删除计算项，并再次添加字段。如果尝试添加计算项，请更改数据透视表以便没有字段多次被使用，然后添加计算项。</translation>
+    </message>
+    <message>
+        <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemValueSubtotal</comment>
+        <translation type="obsolete">在数据透视表有计算项时，平均值、标准偏差和方差计算不被支持。</translation>
+    </message>
+    <message>
+        <source>Calculcated items do not work with custom subtotals.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemCustomSubtotal</comment>
+        <translation type="obsolete">当透视表包含计算项时自定义分类汇总无效。</translation>
+    </message>
+    <message>
+        <source>PivotTable field name already exists</source>
+        <comment>TX_PIVOTTABLE_CONF_FieldNameExist</comment>
+        <translation type="obsolete">数据透视表字段名已存在</translation>
+    </message>
+    <message>
+        <source>This PivotTable report field is grouped. You cannot add a calculated item to a grouped field.
+
+To ungroup the field, make sure it is in the row or column area, select one of the items of the grouped field, click the Ungroup button in the Group group on the Option tab, and then insert the calculated item. After inserted, you can group the items of field again.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemGroupField</comment>
+        <translation type="obsolete">此数据透视表字段已被组合。不能向组合字段中添加计算项。
+若要取消该组合字段，请确保它位于行或列区域中，选定组合字段的某个项，单击&quot;分析&quot;选项卡上的&quot;组合&quot;组中的&quot;取消组合&quot;按钮，然后插入计算项。插入计算项之后，可重新对字段中的项进行组合。</translation>
+    </message>
+    <message>
+        <source>You cannot edit the formulas in data cells for groups or for calculated fields.
+To change the formula for a calculated field,click OK,and then point to formulas on the PivotTable Options tab in the Tools group and click Calculated Field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_GroupOrCalcFld</comment>
+        <translation type="obsolete">不能针对分组或计算字段而编辑数据单元格中的公式。
+若要针对计算字段更改公式，请单击&quot;确定&quot;，再指向&quot;数据透视表分析&quot;选项卡上&quot;工具&quot;组中的&quot;公式&quot;，然后单击&quot;计算字段&quot;。</translation>
+    </message>
+    <message>
+        <source>Cannot change this part of a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_ThisPart</comment>
+        <translation type="obsolete">不能更改数据透视表的这一部分。</translation>
+    </message>
+    <message>
+        <source>Cannot edit PivotTable in group edit mode.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseGroupSheets</comment>
+        <translation type="obsolete">不能在工作表成组编辑方式下编辑 数据透视表。</translation>
+    </message>
+    <message>
+        <source>The field you are moving cannot be placed in that PivotTable area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MoveToThisAxis</comment>
+        <translation type="obsolete">正在移动的字段不能放在该报表区域中。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
+        <comment>TX_PIVOTTABLE_LAYOUT_EXCEED</comment>
+        <translation type="obsolete">数据透视表在工作表上安排不下。是否要尽可能显示？</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the contents of the destination cells in %s?</source>
+        <comment>TX_PIVOTTABLE_REPLACE_CELL_CONTENT</comment>
+        <translation type="obsolete">希望替换掉 %s 中目标单元格的内容吗？</translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheets may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_GROUP_CONF_FieldTooManyItems</comment>
+        <translation type="obsolete">数据源中的一个字段包含了过多的项，WPS可能无法创建报表，或者可能创建不包含来自该字段数据的报表。</translation>
+    </message>
+    <message>
+        <source>Cannot group or ungroup that selection.</source>
+        <comment>TX_PIVOTTABLE_GROUP_InvalidSelection</comment>
+        <translation type="obsolete">选定区域不能分组。</translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="obsolete">数据透视表字段名无效。在创建数据透视表时，必须使用组合为带有标志列列表的数据。如果要更改数据透视表字段的名称，必须键入字段的新名称。</translation>
+    </message>
+    <message>
+        <source>Cannot show or hide detail for this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_SHOWDETAIL</comment>
+        <translation type="obsolete">不能显示或隐藏选定区域的明细数据。</translation>
+    </message>
+    <message>
+        <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
+        <comment>TX_PIVOTTABLE_FILTER_VALUE_PERCENT_ERROR</comment>
+        <translation type="obsolete">数字必须在 0 与 100 之间。请再次输入属于上述区域的数字。</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_AVERAGE</comment>
+        <translation type="obsolete">平均值</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNT</comment>
+        <translation type="obsolete">计数</translation>
+    </message>
+    <message>
+        <source>Count Nums</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
+        <translation type="obsolete">数值计数</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MAX</comment>
+        <translation type="obsolete">最大值</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MIN</comment>
+        <translation type="obsolete">最小值</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_PRODUCT</comment>
+        <translation type="obsolete">乘积</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEV</comment>
+        <translation type="obsolete">标准差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEVP</comment>
+        <translation type="obsolete">总体标准差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VAR</comment>
+        <translation type="obsolete">方差</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VARP</comment>
+        <translation type="obsolete">总体方差</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_SUM</comment>
+        <translation type="obsolete">求和</translation>
+    </message>
+    <message>
+        <source>Calculated Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedField</comment>
+        <translation type="obsolete">计算字段</translation>
+    </message>
+    <message>
+        <source>Calculated Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedItem</comment>
+        <translation type="obsolete">计算数据项</translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <comment>TX_PIVOTTABLE_ListFormula_SolveOrder</comment>
+        <translation type="obsolete">求解次序</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Field</comment>
+        <translation type="obsolete">字段</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Item</comment>
+        <translation type="obsolete">项</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Formula</comment>
+        <translation type="obsolete">公式</translation>
+    </message>
+    <message>
+        <source>Note:</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note</comment>
+        <translation type="obsolete">注释:</translation>
+    </message>
+    <message>
+        <source>When a cell is updated by more than one formula,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note1</comment>
+        <translation type="obsolete">当有多个公式可以导致单元格被更新时，</translation>
+    </message>
+    <message>
+        <source>he value is set by the formula with the last solve order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note2</comment>
+        <translation type="obsolete">单元格数值取决于最终的求解次序。</translation>
+    </message>
+    <message>
+        <source>To change the solve order for multiple calculated items or fields,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note3</comment>
+        <translation type="obsolete">若要更改多个计算项或字段的求解次序，</translation>
+    </message>
+    <message>
+        <source>on the Options tab, in the Calculations group, click Fields, Items, &amp; Sets, and then click Solve Order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note4</comment>
+        <translation type="obsolete">请在“选项”选项卡上的“计算”组中单击“字段”、“项目”和“设置”，然后单击“求解次序”。</translation>
+    </message>
+    <message>
+        <source>Cannot open PivotTable source file %s.</source>
+        <comment>TX_PIVOTTABLE_Source_Invalid</comment>
+        <translation type="obsolete">无法打开数据透视表源文件%s。</translation>
+    </message>
+    <message>
+        <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
+
+  If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
+  If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
+        <comment>TX_PIVOTTABLE_Source_Single_Row</comment>
+        <translation type="obsolete">此命令要求数据源至少有两行。如果选定区域只有一行，则不能使用此命令。请进行以下操作之一: 
+
+  如果使用的是高级筛选，请选定包含至少两行数据的单元格区域，再次单击“高级筛选”命令。
+  如果正在创建数据透视表或数据透视图，请输入单元格引用或选定包含至少两行数据的单元格区域。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is invalid. Try refreshing the data(On the Operation tab, Click Refresh).</source>
+        <comment>TX_PIVOTTABLE_Report_Invalid_Need_Refresh</comment>
+        <translation type="obsolete">此数据透视表无效。请尝试刷新数据(在&quot;分析&quot;选项卡上，单击&quot;刷新&quot;)。</translation>
+    </message>
+    <message>
+        <source>ET Could not get the source data for the PivotTable report from the disk.</source>
+        <comment>TX_PIVOTTABLE_Source_From_Disk_Invalid</comment>
+        <translation type="obsolete">Et 无法从磁盘内获取数据透视表的源数据。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report was saved without the underlying data. Use the Refresh Data Command to update the report.</source>
+        <comment>TX_PIVOTTABLE_Source_Not_On_Disk</comment>
+        <translation type="obsolete">数据透视表没有与下层数据共同保存。请使用&quot;刷新数据&quot;命令更新数据透视表。</translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CannotHideSelected</comment>
+        <translation type="obsolete">选择区域无法被隐藏。</translation>
+    </message>
+    <message>
+        <source>Cannot use empty value for field or item name in PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FieldItemName_Cannot_Empty</comment>
+        <translation type="obsolete">数据透视表报表字段或项目值不能为空</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is based on the same data as at least one other PivotTable report. Clearing the PivotTable report will remove the following from all the PivotTable reports:
+1.Group
+2.Calculated Items
+3.Calculated Fields
+4.Custom Items</source>
+        <comment>TX_PIVOTTABLE_ClearTable_Note</comment>
+        <translation type="obsolete">此数据透视表至少与其他一个其他数据透视表基于相同的数据。清除此数据透视表将删除所有数据透视表的以下项:
+·分组
+·计算项
+·计算字段
+·自定义项</translation>
+    </message>
+    <message>
+        <source>Text cannot be entered into a calculated item cell.</source>
+        <comment>TX_PIVOTTABLE_DENIED_InputText</comment>
+        <translation type="obsolete">文本不能输入到已有计算项的单元格。</translation>
+    </message>
+    <message>
+        <source>The PivotTable does not support OLAP. It will be Removed.</source>
+        <comment>TX_PIVOTTALE_Not_Support_OLAP</comment>
+        <translation type="obsolete">数据透视表不支持OLAP。它将被移除。</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PivotTable_Values</comment>
+        <translation type="obsolete">值</translation>
+    </message>
+    <message>
+        <source>Move %s to Beginning</source>
+        <comment>TX_PivotTable_MoveToBeginning</comment>
+        <translation type="obsolete">将%s移至开头 </translation>
+    </message>
+    <message>
+        <source>Move %s Up</source>
+        <comment>TX_PivotTable_MoveUp</comment>
+        <translation type="obsolete">将%s上移</translation>
+    </message>
+    <message>
+        <source>Move %s Down</source>
+        <comment>TX_PivotTable_MoveDown</comment>
+        <translation type="obsolete">将%s下移</translation>
+    </message>
+    <message>
+        <source>Move %s to End</source>
+        <comment>TX_PivotTable_MoveToEnd</comment>
+        <translation type="obsolete">将%s移至末尾</translation>
+    </message>
+    <message>
+        <source>Move %s to Rows</source>
+        <comment>TX_PivotTable_MoveToRows</comment>
+        <translation type="obsolete">将%s移至行</translation>
+    </message>
+    <message>
+        <source>Move %s to Columns</source>
+        <comment>TX_PivotTable_MoveToColumns</comment>
+        <translation type="obsolete">将%s移至列</translation>
+    </message>
+    <message>
+        <source>Remove %s</source>
+        <comment>TX_PivotTable_Remove</comment>
+        <translation type="obsolete">删除%s</translation>
+    </message>
+    <message>
+        <source>Subtotals %s</source>
+        <comment>TX_PivotTable_Subtotals</comment>
+        <translation type="obsolete">分类汇总%s</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <comment>TX_PivotTable_HideFieldList</comment>
+        <translation type="obsolete">隐藏字段列表</translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <comment>TX_PivotTable_ShowFieldList</comment>
+        <translation type="obsolete">显示字段列表</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>TX_PivotTable_Move</comment>
+        <translation type="obsolete">移动</translation>
+    </message>
+    <message>
+        <source>Move Values</source>
+        <comment>TX_PivotTable_MoveValues</comment>
+        <translation type="obsolete">将值移动到</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <comment>TX_PivotTable_FieldSettings</comment>
+        <translation type="obsolete">字段设置</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <comment>TX_PivotTable_ValueFieldSettings</comment>
+        <translation type="obsolete">值字段设置</translation>
+    </message>
+    <message>
+        <source>Clear Filter From %s</source>
+        <comment>TX_PivotTable_ClearFilterFrom</comment>
+        <translation type="obsolete">从%s中清除筛选</translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Please select a different location.</source>
+        <comment>TX_IVOTTABLE_DENIED_LOCATION_UNFIT</comment>
+        <translation type="obsolete">数据透视表在该工作表上安排不下，请选择别的放置位置。</translation>
+    </message>
+    <message>
+        <source>Cannot move subtotals or block totals</source>
+        <comment>TX_PivotTable_CannotMoveSubtotalsGrand</comment>
+        <translation type="obsolete">不能在数据透视表中移动分类汇总或块汇总。</translation>
+    </message>
+    <message>
+        <source>This type of reference cannot be used in a Conditional Formatting formula.
+
+Change the reference to a single cell, or use the reference with a worksheet function, such as =SUM(A1:E5).</source>
+        <comment>TX_CondFormat_MultiCells</comment>
+        <translation>不能在 条件格式 公式中使用此引用类型。
+
+请将引用更改为对单个单元格的引用，或使用工作表函数进行引用，如 =SUM(A1:E5)。</translation>
+    </message>
+    <message>
+        <source>The value you entered is not a number, date, time, or string.</source>
+        <comment>TX_CondFormat_InvalidValue</comment>
+        <translation>输入值不是有效的数字、日期、时间或字符串。</translation>
+    </message>
+    <message>
+        <source>Enter a value.</source>
+        <comment>TX_CondFormat_EnterAValue</comment>
+        <translation>请输入值。</translation>
+    </message>
+    <message>
+        <source>Enter a formula.</source>
+        <comment>TX_CondFormat_EnterAFormula</comment>
+        <translation>请输入一个有效公式。</translation>
+    </message>
+    <message>
+        <source>Cannot add the conditional formatting.</source>
+        <comment>TX_CondFormat_CannotAdd</comment>
+        <translation>无法添加条件格式。</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 1000.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>请输入一个介于 1 和 1000 之间的整数。</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 100.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>必须输入一个介于 1 和 100 之间的数字。</translation>
+    </message>
+    <message>
+        <source>One or more icon data ranges overlap. Adjust icon data range values so that the ranges do not overlap.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>一个或多个图标数据区域重叠。请调整图标数据区域值，以使区域不再重叠。</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>一个或多个指定的值为无效的百分数。</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>一个或多个指定的值为无效的百分点值。</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的最小值为无效的百分点值。</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的最小值为无效的百分数。</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的中点值为无效的百分点值。</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的中点值为无效的百分数。</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的最大值为无效的百分点值。</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的最大值为无效的百分数。</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的“最短数据条”值为无效的百分点值。</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的“最短数据条”值为无效的百分数。</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的“最长数据条”值为无效的百分点值。</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定的“最长数据条”值为无效的百分数。</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan1</comment>
+        <translation>最大值必须大于最小值。</translation>
+    </message>
+    <message>
+        <source>The value for the midpoint must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan2</comment>
+        <translation>中点值必须大于最小值。</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the midpoint.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translation>最大值必须大于中点值。</translation>
+    </message>
+    <message>
+        <source>You cannot use relative references in Conditional Formatting criteria for color scales, data bars, and icon sets.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translation>在用于色阶、数据栏和图标设置的条件格式条件中不能使用相对引用。</translation>
+    </message>
+    <message>
+        <source>Pivot Style</source>
+        <comment>TX_TableStyle_PivotStyle</comment>
+        <translation>数据透视表样式</translation>
+    </message>
+    <message>
+        <source>Page%d</source>
+        <comment>TX_PivotTable_Consolidate_PageName</comment>
+        <translation>页%d</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_PivotTable_Consolidate_RowField</comment>
+        <translation>行</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_PivotTable_Consolidate_ColField</comment>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_PivotTable_Consolidate_ValueField</comment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Slicer Style</source>
+        <comment>TX_TableStyle_SlicerStyle</comment>
+        <translation>切片器样式</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>TX_TableStyle_Other</comment>
+        <translation>其他</translation>
+    </message>
+    <message>
+        <source>Row Auto-Insert</source>
+        <comment>TX_Revision_Type_InsertRow</comment>
+        <translation>自动插入行</translation>
+    </message>
+    <message>
+        <source>Column Auto-Insert</source>
+        <comment>TX_Revision_Type_InsertColumn</comment>
+        <translation>自动插入列</translation>
+    </message>
+    <message>
+        <source>The ranges you selected overlap each other. Please reselect.</source>
+        <comment>TX_DuplicateItemsMgr_Invalid_Range</comment>
+        <translation>所选数据不能有重复区域，请重新选择。</translation>
+    </message>
+    <message>
+        <source>The selected ranges should not contain merged cells.</source>
+        <comment>TX_DuplicateItemsMgr_MergeCells</comment>
+        <translation>所选区域不能有合并单元格。</translation>
+    </message>
+    <message>
+        <source>Please make sure there are as many columns in both selected ranges.</source>
+        <comment>TX_DuplicateItemsMgr_InvalidColumn</comment>
+        <translation>请确保两个区域数据的列数一致。</translation>
+    </message>
+    <message>
+        <source>Please make sure that the selected ranges have the same headers.</source>
+        <comment>TX_DuplicateItemsMgr_InvalidTitle</comment>
+        <translation>数据标题不一致，请确认选择数据是否有误。</translation>
+    </message>
+    <message>
+        <source>No duplicate value data found in the selected area.</source>
+        <comment>TX_DuplicateItemsMgr_NotFoundRepeat</comment>
+        <translation>所选区域中未发现重复值数据。</translation>
+    </message>
+    <message>
+        <source>No unique value data found in the selected area.</source>
+        <comment>TX_DuplicateItemsMgr_NotFoundUnique</comment>
+        <translation>所选区域中未发现唯一值数据。</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_AutoFilter_Analysis_ColumnLabel</comment>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>(Blank)</source>
+        <comment>TX_AutoFilter_Analysis_Blank</comment>
+        <translation>(空白)</translation>
+    </message>
+    <message>
+        <source>Range %1</source>
+        <comment>TX_DuplicateItemsMgr_RangeName</comment>
+        <translation>区域 %1</translation>
+    </message>
+    <message>
+        <source>The data in the %s that needs to be compared has been protected.</source>
+        <comment>TX_DuplicateItemsMgr_ProtectSheet</comment>
+        <translation>需要对比的 %s 中的数据已被保护。</translation>
+    </message>
+    <message>
+        <source>Part of the data extraction was lost because the extracted data was outside the maximum range of the worksheet.</source>
+        <comment>TX_DuplicateItemsMgr_OutOfRange</comment>
+        <translation>部分数据提取丢失，原因是提取数据超出了工作表最大范围。</translation>
+    </message>
+    <message>
+        <source>There is a lot of data to be processed, which may take a long time. Please be patient.</source>
+        <comment>TX_DuplicateItemsMgr_WaitingTime</comment>
+        <translation>需处理数据较多，可能耗时较长，请耐心等待。</translation>
+    </message>
 </context>
 <context>
     <name>et_et_chart</name>
@@ -3273,6 +5524,16 @@ Value: </source>
         <source>Charts</source>
         <comment>TX_DESC_CharObjectDefaultName</comment>
         <translation>图表</translation>
+    </message>
+    <message>
+        <source>Chart in WPS Writer</source>
+        <comment>TX_Chart_IN_WPS_TITLE</comment>
+        <translation>WPS 文字中的图表</translation>
+    </message>
+    <message>
+        <source>Chart in WPS Presentation</source>
+        <comment>TX_Chart_IN_WPP_TITLE</comment>
+        <translation>WPS 演示中的图表</translation>
     </message>
 </context>
 <context>
@@ -3442,6 +5703,11 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>Table</source>
         <comment>TX_TABLE_PREFIX_NAME</comment>
         <translation>表</translation>
+    </message>
+    <message>
+        <source>The document is WPS security document, please open it in the wps client which support this format. If you edit it by using &apos;stop protecting&apos;, the content of this document will be destoryed. Please note.</source>
+        <comment>TX_SECDOC_REF_FORBIDDEN</comment>
+        <translation>安全文档禁止被其他文档引用！</translation>
     </message>
 </context>
 <context>
@@ -3694,6 +5960,15 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
         <source>A PivotTable report cannot overlap a table or XML mapping.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
         <translation>数据透视表不能与表或XML映射重叠。</translation>
+    </message>
+    <message>
+        <source>This shape represents a slicer.
+
+Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
+        <comment>TX_DAP_Fallback_Shape_Tip</comment>
+        <translation>此形状表示切片器。
+
+当前版本不支持切片器，请升级到最新版的WPS。</translation>
     </message>
 </context>
 <context>
@@ -4200,6 +6475,24 @@ Notice: if the second operand queries the number as text, single quotes should b
         <comment>TX_ETDBE_STR_OPENXML_FAILD</comment>
         <translation type="obsolete">打开xml数据文件时失败。文件不存在或xml语法错误。</translation>
     </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">所有文件(*.*)|*.*|所有支持的数据库文件(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access 数据库(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro 数据库(*.dbc)|*.dbc|DBase 文件(*.dbf)|*.dbf|Excel 文件(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|WPS表格 文件(*.et)|*.et|CSV 文本文件(*.csv)|*.csv|PRN 文本文件(*.prn)|*.prn|文本文件(*.txt)|*.txt|Office 数据库连接(*.odc)|*.odc|Microsoft 数据链接(*.udl)|*.udl|ODBC 文件数据源名称(*.dsn)|*.dsn|查询文件(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation>所有文件(*.*)|*.*|所有支持的数据库文件(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access 数据库(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro 数据库(*.dbc)|*.dbc|DBase 文件(*.dbf)|*.dbf|Excel 文件(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS表格 文件(*.et)|*.et|CSV 文本文件(*.csv)|*.csv|PRN 文本文件(*.prn)|*.prn|文本文件(*.txt)|*.txt|Office 数据库连接(*.odc)|*.odc|Microsoft 数据链接(*.udl)|*.udl|ODBC 文件数据源名称(*.dsn)|*.dsn|查询文件(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>Removing connection(s) will separate this workbook from its data source(s), and data refresh operations in the workbook will no longer succeed. Click Cancel to keep connection(s), or click OK to proceed with connection removal.</source>
+        <translation>删除连接将断开此工作簿与其数据源之间的联系，工作簿中的数据也将无法刷新。单击&quot;取消&quot;将保持连接，单击&quot;确定&quot;将删除连接。</translation>
+    </message>
+    <message>
+        <source>Cannot open file. The file may have been moved, deleted or the file may be in use.</source>
+        <translation>不能打开文件。此文件可能已被移动、删除或正被使用。</translation>
+    </message>
 </context>
 <context>
     <name>et_et_funclib</name>
@@ -4441,7 +6734,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished">COMBIN(number,number_chosen)</translation>
+        <translation type="obsolete">COMBIN(number,number_chosen)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5526,7 +7819,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished">LTRIM(text)</translation>
+        <translation type="obsolete">LTRIM(text)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5956,7 +8249,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished">RTRIM(text)</translation>
+        <translation type="obsolete">RTRIM(text)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5971,12 +8264,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished">清除文本中左边的空格。</translation>
+        <translation type="obsolete">清除文本中左边的空格。</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation type="unfinished">清除文本中右边的空格。</translation>
+        <translation type="obsolete">清除文本中右边的空格。</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6596,7 +8889,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the inverse of the one-tailed probability of the chi-squared distribution.</source>
         <comment>CHIINV_DESCRIPTION</comment>
-        <translation>返回 x^2 分布单尾概率的反函数值</translation>
+        <translation>返回 χ2 分布右尾概率的反函数值</translation>
     </message>
     <message>
         <source>Returns the inverse of the standard normal cumulative distribution fuction with a mean of zero and a standard deviation of one.</source>
@@ -6801,7 +9094,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation type="unfinished">返回从给定元素数目的集合中提取若干元素的组合数。</translation>
+        <translation type="obsolete">返回从给定元素数目的集合中提取若干元素的组合数。</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
@@ -6861,7 +9154,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the one-tailed probability of the chi-squared distribution. The c2 distribution is associated with a c2 test. Use the c2 test to compare observed and expected values. </source>
         <comment>CHIDIST_DESCRIPTION</comment>
-        <translation>返回 x^2 分布的单尾概率。 x^2 分布与 x^2 检验相关。使用 x^2 检验可以比较观察值和期望值</translation>
+        <translation>返回 χ2 分布的右尾概率。 χ2 分布与 χ2 检验相关。使用 χ2 检验可以比较观察值和期望值</translation>
     </message>
     <message>
         <source>Returns the one-tailed probability-value of a z-test.</source>
@@ -7546,7 +9839,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WIDECHAR(text)</source>
         <comment>WIDECHAR_GRAMMER</comment>
-        <translation>WIDECHAR(text)</translation>
+        <translation type="obsolete">WIDECHAR(text)</translation>
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
@@ -8135,7 +10428,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
         <comment>SPELLINGCHECK_SYNTAX</comment>
-        <translation>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
+        <translation type="obsolete">SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
     </message>
     <message>
         <source>XNPV(rate, values, dates)</source>
@@ -8146,6 +10439,344 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>Returns the net present value for a schedule of crash flows.</source>
         <comment>XNPV_DESCRIPTION</comment>
         <translation>返回现金流计划的净现值</translation>
+    </message>
+    <message>
+        <source>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</source>
+        <comment>NETWORKDAYS_INTL_GRAMMER</comment>
+        <translation>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</translation>
+    </message>
+    <message>
+        <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
+        <comment>NETWORKDAYS_INTL_REMARK</comment>
+        <translation>使用自定义周末参数返回两个日期之间的完整工作日数</translation>
+    </message>
+    <message>
+        <source>GAMMALN.PRECISE(x)</source>
+        <comment>GAMMALN_PRECISE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SPELLING.CHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
+        <comment>SUMMARYINFO_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>STDEV.S(number1,number2,...)</source>
+        <comment>STDEVS_GRAMMER</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>PivotTableValue</comment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>BINOM.INV(trials,probability_s,alpha)</source>
+        <comment>BINOMINV_SYNTAX</comment>
+        <translation>BINOM.INV(trials,probability_s,alpha)</translation>
+    </message>
+    <message>
+        <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
+        <comment>BINOMINV_DESCRIPTION</comment>
+        <translation>返回使累积二项式分布大于等于临界值的最小值。</translation>
+    </message>
+    <message>
+        <source>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</source>
+        <comment>BINOMDISTRANGE_SYNTAX</comment>
+        <translation>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</translation>
+    </message>
+    <message>
+        <source>Returns the probability of a trial result using a binomial distribution.</source>
+        <translation>使用二项式分布返回试验结果的概率。</translation>
+    </message>
+    <message>
+        <source>ZOOM(magnification)</source>
+        <comment>ZOOM_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FORMULA.FILL(formula_text, reference)</source>
+        <comment>FORMULAFILL_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PROTECT.DOCUMENT(contents, windows, password, objects, scenarios)</source>
+        <comment>PROTECTDOCUMENT_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DELETE.NAME(name_text)</source>
+        <comment>DELETENAME_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SEND.KEYS(key_text, wait_logical)</source>
+        <comment>SENDKEYS_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SAVE.AS(document_text, type_num, prot_pwd, backup, write_res_pwd, read_only_rec)</source>
+        <comment>SAVEAS_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FILE.DELETE(file_text)</source>
+        <comment>FILEDELETE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FOPEN(file_text, access_num)</source>
+        <comment>FOPEN_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FCLOSE(file_num)</source>
+        <comment>FCLOSE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FSIZE(file_num)</source>
+        <comment>FSIZE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FREAD(file_num, num_chars)</source>
+        <comment>FREAD_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FREAD(file_num, num_chars)</source>
+        <comment>FWRITE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.COPY(name_array, dest_book, position_num)</source>
+        <comment>WORKBOOKCOPY_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.SELECT(name_array, active_name, replace)</source>
+        <comment>WORKBOOKSELECT_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.ACTIVATE(sheet_name)</source>
+        <comment>WORKBOOKACTIVATE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WORKBOOKHIDE()</source>
+        <comment>WORKBOOKHIDE_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.NAME(oldname_text, newname_text)</source>
+        <comment>WORKBOOKNAME_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OPTIONS.EDIT(incell_edit, drag_drop, alert, entermove, fixed, decimals, copy_objects, update_links)</source>
+        <comment>OPTIONSEDIT_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
+        <comment>OPTIONSGENERAL_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FONT.PROPERTIES(font, font_style, size, strikethrough, superscript, subscript, outline, shadow, underline, color, normal, background, start_char, char_count)</source>
+        <comment>FONTPROPERTIES_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>FORMAT.NUMBER(format_text)</source>
+        <comment>FORMATNUMBER_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>CELL.PROTECTION(locked, hidden)</source>
+        <comment>CELLPROTECTION_SYNTAX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DBCS(text)</source>
+        <comment>WIDECHAR_GRAMMER</comment>
+        <translation>DBCS(text)</translation>
+    </message>
+    <message>
+        <source>IFS(logical_test,value_if_true,...)</source>
+        <comment>IFS_GRAMMER</comment>
+        <translation>IFS(logical_test,value_if_true,...)</translation>
+    </message>
+    <message>
+        <source>Checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.</source>
+        <comment>IFS_REMARK</comment>
+        <translation>检查是否满足一个或多个条件并返回与第一个TRUE条件对应的值</translation>
+    </message>
+    <message>
+        <source>MAXIFS(max_range,criteria_range,criteria,...)</source>
+        <comment>MAXIFS_GRAMMER</comment>
+        <translation>MAXIFS(max_range,criteria_range,criteria,...)</translation>
+    </message>
+    <message>
+        <source>Returns the maximum value among cells specified by a given set of conditions or criteria.</source>
+        <comment>MAXIFS_REMARK</comment>
+        <translation>返回一组给定条件所指定的单元格的最大值</translation>
+    </message>
+    <message>
+        <source>MINIFS(min_range,criteria_range,criteria,...)</source>
+        <comment>MINIFS_GRAMMER</comment>
+        <translation>MINIFS(min_range,criteria_range,criteria,...)</translation>
+    </message>
+    <message>
+        <source>Returns the minimum value among cells specified by a given set of conditions or criteria.</source>
+        <comment>MINIFS_REMARK</comment>
+        <translation>返回一组给定条件所指定的单元格的最小值</translation>
+    </message>
+    <message>
+        <source>SWITCH(expression,value1,result1,[default_or_value2,result2],...)</source>
+        <comment>SWITCH_GRAMMER</comment>
+        <translation>SWITCH(expression,value1,result1,[default_or_value2,result2],...)</translation>
+    </message>
+    <message>
+        <source>Evaluates an expression against a list of values and returns the result corresponding to the first matching value. If there is no match, an optional default value is returned.</source>
+        <translation>根据值列表计算表达式并返回与第一个匹配值对应的结果。如果没有匹配项，则返回可选默认值</translation>
+    </message>
+    <message>
+        <source>BAHTTEXT(number)</source>
+        <comment>BAHTTEXT_GRAMMER</comment>
+        <translation>BAHTTEXT(number)</translation>
+    </message>
+    <message>
+        <source>Converts a number to text(baht).</source>
+        <comment>BAHTTEXT_REMARK</comment>
+        <translation>将数字转换为泰语文本。</translation>
+    </message>
+    <message>
+        <source>IFNA(value,value_if_na)</source>
+        <comment>IFNA_SYNTAX</comment>
+        <translation>IFNA(value,value_if_na)</translation>
+    </message>
+    <message>
+        <source>Returns the value you specify if the formula returns the #N/A error value; otherwise returns the result of the formula.</source>
+        <comment>IFNA_DESCRIPTION</comment>
+        <translation>如果表达式解析为#N/A，则返回您指定的值；否则返回表达式的结果。</translation>
+    </message>
+    <message>
+        <source>CONCAT (text1,text2,...)</source>
+        <comment>CONCAT_GRAMMER</comment>
+        <translation>CONCAT(text1,[text2],…)</translation>
+    </message>
+    <message>
+        <source>Combines the text from multiple ranges and/or strings.</source>
+        <comment>CONCAT_REMARK</comment>
+        <translation>将多个区域或字符串中的文本组合起来</translation>
+    </message>
+    <message>
+        <source>BITAND(number1,number2)</source>
+        <comment>BITAND_GRAMMER</comment>
+        <translation>BITAND(number1,number2)</translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;AND&apos; of two numbers.</source>
+        <comment>BITAND_REMARK</comment>
+        <translation>返回两个数字的按位“与”值</translation>
+    </message>
+    <message>
+        <source>BITOR(number1,number2)</source>
+        <comment>BITOR_GRAMMER</comment>
+        <translation>BITOR(number1,number2)</translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;OR&apos; of two numbers.</source>
+        <comment>BITOR_REMARK</comment>
+        <translation>返回两个数字的按位“或”值</translation>
+    </message>
+    <message>
+        <source>BITXOR(number1,number2)</source>
+        <comment>BITXOR_GRAMMER</comment>
+        <translation>BITXOR(number1,number2)</translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;XOR&apos; of two numbers.</source>
+        <comment>BITXOR_REMARK</comment>
+        <translation>返回两个数字的按位“异或”值</translation>
+    </message>
+    <message>
+        <source>BITRSHIFT(number,shift_amount)</source>
+        <comment>BITRSHIFT_GRAMMER</comment>
+        <translation>BITRSHIFT(number,shift_amount)</translation>
+    </message>
+    <message>
+        <source>Returns a number shifted right by the specified number of bits.</source>
+        <comment>BITRSHIFT_REMARK</comment>
+        <translation>返回数值向右移shift_amount位的数字</translation>
+    </message>
+    <message>
+        <source>BITLSHIFT(number,shift_amount)</source>
+        <comment>BITLSHIFT_GRAMMER</comment>
+        <translation>BITLSHIFT(number,shift_amount)</translation>
+    </message>
+    <message>
+        <source>Returns a number shifted left by the specified number of bits.</source>
+        <comment>BITLSHIFT_REMARK</comment>
+        <translation>返回数值向左移shift_amount位的数字</translation>
+    </message>
+    <message>
+        <source>TEXTJOIN(delimiter, ignore_empty, text1, [text2], …)</source>
+        <comment>TEXTJOIN_GRAMMER</comment>
+        <translation type="obsolete">TEXTJOIN(delimiter, ignore_empty, text1, [text2], …)</translation>
+    </message>
+    <message>
+        <source>Combines the text from multiple ranges and/or strings, and includes a delimiter you specify between each text value that will be combined.</source>
+        <comment>TEXTJOIN_REMARK</comment>
+        <translation>使用分隔符连接列表或文本字符串区域</translation>
+    </message>
+    <message>
+        <source>CHISQ.INV(probability,degrees_freedom)</source>
+        <comment>CHISQINV_SYNTAX</comment>
+        <translation>CHISQ.INV(probability,degrees_freedom)</translation>
+    </message>
+    <message>
+        <source>Returns the inverse of the left-tailed probability of the chi-squared distribution.</source>
+        <comment>CHISQINV_DESCRIPTION</comment>
+        <translation>返回 χ2 分布的左尾概率的反函数值。</translation>
+    </message>
+    <message>
+        <source>CHISQ.DIST(x,deg_freedom,cumulative)</source>
+        <comment>CHISQDIST_SYNTAX</comment>
+        <translation>CHISQ.DIST(x,deg_freedom,cumulative)</translation>
+    </message>
+    <message>
+        <source>Returns the left-tailed probability of the chi-squared distribution.</source>
+        <comment>CHISQDIST_DESCRIPTION</comment>
+        <translation>返回 χ2 分布的左尾概率。</translation>
+    </message>
+    <message>
+        <source>TEXTJOIN(delimiter,ignore_empty,text1,[text2],...)</source>
+        <comment>TEXTJOIN_GRAMMER</comment>
+        <translation>TEXTJOIN(delimiter,ignore_empty,text1,[text2],...)</translation>
+    </message>
+    <message>
+        <source>FORMULATEXT(reference)</source>
+        <comment>FORMULATEXT_GRAMMER</comment>
+        <translation>FORMULATEXT(reference)</translation>
+    </message>
+    <message>
+        <source>Returns a formula as a string.</source>
+        <comment>FORMULATEXT_REMARK</comment>
+        <translation>作为字符串返回公式</translation>
+    </message>
+    <message>
+        <source>DATESTRING()</source>
+        <comment>DATESTRING_GRAMMER</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8784,7 +11415,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation>常用文件(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</translation>
+        <translation type="obsolete">常用文件(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</translation>
     </message>
     <message>
         <source>The author supports opening &quot;%s&quot; with read-only way unless you need to modify.Do open with read-only mode?</source>
@@ -8817,6 +11448,100 @@ This backup will be saved to (%s)</source>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>TX_ssDesc_Ofd_</comment>
         <translation>OFD 文件格式(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_Osd</comment>
+        <translation>WPS加密文档格式(*.xls)</translation>
+    </message>
+    <message>
+        <source>Public Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_CustomDoc_</comment>
+        <translation>公共安全文档格式(*.xls)</translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TX_ssDesc_Pdf_</comment>
+        <translation>PDF 文件格式(*.pdf)|*.pdf</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook(*.xlsx)</source>
+        <comment>TX_ssDesc_Beta_Xlsx_</comment>
+        <translation>Microsoft Excel 文件(*.xlsx)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Workbook(*.xlsm)</source>
+        <comment>TX_ssDesc_Beta_Xlsm_</comment>
+        <translation>Microsoft Excel 启用宏的工作簿(*.xlsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook(*.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Xlsx_Open</comment>
+        <translation>Microsoft Excel 文件(*.xlsx; *.xlsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
+        <comment>TX_ssDesc_Xls_</comment>
+        <translation>Microsoft Excel 97-2003 文件(*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Template(*.xlt)</source>
+        <comment>TX_ssDesc_XlsTemp_</comment>
+        <translation>Microsoft Excel 97-2003 模板文件(*.xlt)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
+        <comment>TX_ssDesc_Xls_Save</comment>
+        <translation>Microsoft Excel 97-2003 文件(*.xls)</translation>
+    </message>
+    <message>
+        <source>SYLK Files(*.slk)</source>
+        <comment>TX_ssDesc_Slk</comment>
+        <translation>SYLK 文件(*.slk)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation>WPS表格已经检测到“%1”是SYLK文件，但是不能将其加载。该文件或者有错误，或者不是SYLK文件格式。请单击“确定”以尝试以其他格式打开该文件。</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.csv)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation>常用文件(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.csv)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007/2010 Workbook(*.xlsb)</source>
+        <comment>TX_ssDesc_Xlsb_Open</comment>
+        <translation type="obsolete">Microsoft Excel 2007/2010 文件(*.xlsx)</translation>
+    </message>
+    <message>
+        <source>OpenDocument Spreadsheet(*.ods)</source>
+        <comment>TX_ssDesc_Ods_</comment>
+        <translation>OpenDocument 电子表格(*.ods)</translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Spreadsheets Files(*.etj)|*.etj</source>
+        <comment>TX_ssDesc_GPCrypt_</comment>
+        <translation>公普安全表格 文件(*.etj)|*.etj</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Binary Workbook(*.xlsb)</source>
+        <comment>TX_ssDesc_Xlsb_Open</comment>
+        <translation>Microsoft Excel 二进制工作簿(*.xlsb)</translation>
+    </message>
+    <message>
+        <source>Cells:</source>
+        <comment>TX_ProgressBar_PasteCells</comment>
+        <translation>单元格:</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="obsolete">表格/Excel格式(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TX_ssDesc_All_WPSOffice</comment>
+        <translation>常用文件(文字/Word格式;表格/Excel格式;演示/PowerPoint格式;PDF文件)</translation>
     </message>
 </context>
 <context>
@@ -9280,6 +12005,21 @@ This backup will be saved to (%s)</source>
         <comment>STR_STYLE_NOTE</comment>
         <translation>注释</translation>
     </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>千位分隔[0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>货币[0]</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <comment>STR_PREFIX_STYLE_NAME</comment>
+        <translation>样式</translation>
+    </message>
 </context>
 <context>
     <name>et_et_uil</name>
@@ -9355,7 +12095,7 @@ Continue ?</source>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>TX_FontNameNotExisitSecondHalf</comment>
-        <translation> 对您的系统无效，是否继续使用该字体?</translation>
+        <translation>” 对您的系统无效，是否继续使用该字体?</translation>
     </message>
     <message>
         <source>(empty)</source>
@@ -9882,7 +12622,7 @@ Spelling</source>
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
         <comment>TX_ERROR_CutPasteRange</comment>
-        <translation>是否替换目标单元格的内容？</translation>
+        <translation type="obsolete">是否替换目标单元格的内容？</translation>
     </message>
     <message>
         <source>Draw Border</source>
@@ -11184,7 +13924,7 @@ The values which can be typed here is restricted by other users.</source>
     <message>
         <source>The font &apos;</source>
         <comment>TX_FontNameNotExisitFirstHalf</comment>
-        <translation>您设置的字体 </translation>
+        <translation>您设置的字体 “</translation>
     </message>
     <message>
         <source>The formula you entered contains errors. 
@@ -11869,7 +14609,7 @@ Workbook</source>
     <message>
         <source>is a logical value: do not display commas in the returned text = TRUE; do display commas in the returned text = FALSE or omitted.</source>
         <comment>TX_ParaDesc_129</comment>
-        <translation>一个逻辑值，指定在返回文本中是否显示逗号。为 TREU 时显示逗号；忽略或为 FALSE 是则不显示逗号</translation>
+        <translation>一个逻辑值，指定在返回文本中是否显示逗号。忽略或为FALSE时显示逗号；为TRUE时则不显示逗号</translation>
     </message>
     <message>
         <source>is a logical value: for the cumulative Poisson probability, use TRUE; for the Poisson probability mass function, use FALSE.</source>
@@ -13769,7 +16509,7 @@ Workbook</source>
     <message>
         <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
         <comment>TX_ParaDesc_038</comment>
-        <translation>用来计算 x^2 分布收尾概率的数值</translation>
+        <translation>用来计算 χ2 分布右尾概率的数值</translation>
     </message>
     <message>
         <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
@@ -14944,7 +17684,7 @@ Check</source>
     <message>
         <source>is a probability associated with the chi-squared distribution, a value between 0 and 1 inclusive.</source>
         <comment>TX_ParaDesc_040</comment>
-        <translation>x^2 分布的概率，介于 0 与 1 之间， 包含 0 与 1</translation>
+        <translation>χ2 分布的概率，介于 0 与 1 之间， 包含 0 与 1</translation>
     </message>
     <message>
         <source>specifies which value argument is selected. Index_num must be between 1 and 29, or a formula or a reference to a number between 1 to 29.</source>
@@ -15620,7 +18360,8 @@ There are several possible reasons:
     <message>
         <source>You cannot modify the read-only cells on protected worksheet.</source>
         <comment>TX_CanNotEdit</comment>
-        <translation>不能在保护的工作表上修改被保护的只读单元格。</translation>
+        <translation>试图更改的单元格或图表在受保护的工作表中。
+要进行更改，请单击&quot;审阅&quot;选项卡中的&quot;撤销工作表保护&quot;(可能需要密码)。</translation>
     </message>
     <message>
         <source>You must enter a valid reference you want to go to, or type a valid name for the selection.</source>
@@ -16049,6 +18790,573 @@ There are several possible reasons:
         <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
         <comment>TX_ParaDesc_550</comment>
         <translation>是一系列按日期对应付款计划的现金流</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation>(无同义词建议)</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <comment>TX_ParaInfo_371</comment>
+        <translation>周末</translation>
+    </message>
+    <message>
+        <source>custom weekend</source>
+        <comment>TX_ParaDesc_551</comment>
+        <translation>可选。 表示介于 start_date 和 end_date 之间但又不包括在所有工作日数中的周末日。 Weekend 是一个用于指定周末日的周末数字或字符串。</translation>
+    </message>
+    <message>
+        <source>The shared workbook has been saved in a file format that is recognized by earlier versions of ET. To keep this workbook synchronized with changes that other shared workbook users make. you need to close and reopen the workbook.
+• Click OK to close and reopen the workbook in Compatibility mode.
+• Click Cancel to view the workbook as read-only.</source>
+        <comment>TX_ReOpenXls_ShareBook</comment>
+        <translation>已将共享工作簿保存为早期版本的WPS表格可以识别的文件格式。若要将此工作簿与它的其他用户所做的更改进行同步，需要将其关闭并重新打开。
+· 单击“确定”可以关闭并以兼容模式重新打开工作簿。
+· 单击“取消”将以只读方式查看该工作簿。</translation>
+    </message>
+    <message>
+        <source>The shared workbook has saved in a file format that is  supported in the current of ET, To Keep this workbook synchronized with changes that other shared workbook users make by using the new file format, you need to colse and reopen the workbook.
+• Click OK to close and reopen the workbook.
+• Click Cancel to view it read-only.</source>
+        <comment>TX_ReOpenXlsx_ShareBook</comment>
+        <translation>已经以当前版本的WPS表格支持的文件格式保存了共享工作簿。若要使该工作簿与共享工作簿的其他用户使用新文件格式所做的更改保持同步，您需要关闭并重新打开该工作簿。
+· 单击“确定”将关闭并重新打开该工作簿。
+· 单击“取消”将以只读方式查看该工作簿。</translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <comment>TXShell_InsertDropDownList_Caption</comment>
+        <translation>插入下拉列表</translation>
+    </message>
+    <message>
+        <source>(blank)</source>
+        <comment>TX_PivotTable_Blank_Tip</comment>
+        <translation>(空白)</translation>
+    </message>
+    <message>
+        <source>No Value</source>
+        <comment>TX_PivotTable_NoValue_Tip</comment>
+        <translation>无数值</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Row: %3</source>
+        <comment>TX_PivotTable_RowItem_Tip</comment>
+        <translation>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;行: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Column: %3</source>
+        <comment>TX_PivotTable_ColumnItem_Tip</comment>
+        <translation>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;列: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3&lt;br&gt;Column: %4</source>
+        <comment>TX_PivotTable_ValueItem_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;值: %2&lt;br&gt;行: %3&lt;br&gt;列: %4</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Column: %3</source>
+        <comment>TX_PivotTable_ValueItemNoRow_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;值: %2&lt;br&gt;列: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3</source>
+        <comment>TX_PivotTable_ValueItemNoCol_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;值: %2&lt;br&gt;行: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2</source>
+        <comment>TX_PivotTable_ValueItemNoRowAndCol_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;值: %2</translation>
+    </message>
+    <message>
+        <source>Data is already exist here. Do you want to replace it?</source>
+        <comment>TX_ERROR_CutPasteRange</comment>
+        <translation>此处已有数据。是否替换它?</translation>
+    </message>
+    <message>
+        <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_TEXTTOCOLUMNS</comment>
+        <translation type="obsolete">无法对所选单元格进行更改，因为它会影响数据透视表。请使用字段列表更改报表。如果您试图插入或删除单元格，请移动数据透视表，然后再试。</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <comment>TX_SHEETBACKGROUND</comment>
+        <translation>背景图片</translation>
+    </message>
+    <message>
+        <source>Delete
+Background</source>
+        <comment>TX_SHEETBACKGROUND_DELETE</comment>
+        <translation>删除背景</translation>
+    </message>
+    <message>
+        <source>Sheet Background</source>
+        <comment>TX_SHEETBACKGROUND_TITLE</comment>
+        <translation>工作表背景</translation>
+    </message>
+    <message>
+        <source>Clear Filter(Alt+C)</source>
+        <comment>TX_Slicer_ClearFilter_Tip</comment>
+        <translation>清除筛选器(Alt+C)</translation>
+    </message>
+    <message>
+        <source>Column %1</source>
+        <comment>TX_AutoInput_ColumnName</comment>
+        <translation>列 %1</translation>
+    </message>
+    <message>
+        <source>Approximate match</source>
+        <comment>TX_AutoInput_ApproximateMatch</comment>
+        <translation>近似匹配</translation>
+    </message>
+    <message>
+        <source>Exact match</source>
+        <comment>TX_AutoInput_ExactMatch</comment>
+        <translation>精确匹配</translation>
+    </message>
+    <message>
+        <source>The name entered already exists. Enter a unique name.</source>
+        <comment>TX_Exist_Name</comment>
+        <translation>输入的名称已存在。请输入唯一的名称。</translation>
+    </message>
+    <message>
+        <source>Number_s2</source>
+        <comment>TX_ParaInfo_372</comment>
+        <translation>试验成功的次数</translation>
+    </message>
+    <message>
+        <source>Optional. If provided, returns the probability that the number of successful trials will fall between Number_s and number_s2. Must be greater than or equal to Number_s and less than or equal to Trials.</source>
+        <comment>TX_ParaDesc_552</comment>
+        <translation>可选。 如提供，则返回试验成功次数将介于 Number_s 和 number_s2 之间的概率。 必须大于或等于 Number_s 并小于或等于 Trials。</translation>
+    </message>
+    <message>
+        <source>Max_range</source>
+        <comment>TX_ParaInfo_373</comment>
+        <translation>最大所在区域</translation>
+    </message>
+    <message>
+        <source>Min_range</source>
+        <comment>TX_ParaInfo_374</comment>
+        <translation>最小所在区域</translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the maximum value.</source>
+        <translation type="obsolete">要确定最大值的单元格</translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the minimum value.</source>
+        <translation type="obsolete">要确定最小值的单元格</translation>
+    </message>
+    <message>
+        <source>Expression</source>
+        <comment>TX_ParaInfo_375</comment>
+        <translation>表达式</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_376</comment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <comment>TX_ParaInfo_377</comment>
+        <translation>结果</translation>
+    </message>
+    <message>
+        <source>is an expression to be evaluated.</source>
+        <translation type="obsolete">是要计算的表达式</translation>
+    </message>
+    <message>
+        <source>value1,value2,... is a value to be compared with expression.</source>
+        <translation type="obsolete">值1,值2,... 是要与表达式进行比较的值</translation>
+    </message>
+    <message>
+        <source>result1,result2,... is a result to be returned if the corresponding value matches expression.</source>
+        <translation type="obsolete">结果1,结果2,... 是在对应值与表达式匹配时要返回的结果</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <comment>TX_NEWDEFAULTFILECAPTION</comment>
+        <translation>新建</translation>
+    </message>
+    <message>
+        <source>Please exit editing cell or formula first before saving the file.</source>
+        <comment>TX_PROMPT_EXIT_EDIT_BEFORESAVE</comment>
+        <translation>保存文档前请先退出编辑单元格内容或公式。</translation>
+    </message>
+    <message>
+        <source>Hide Axis Field Buttons On Chart</source>
+        <comment>TX_Hide_Axis_Field_Buttons_On_Chart</comment>
+        <translation>隐藏图表上的坐标轴字段按钮</translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons On Chart</source>
+        <comment>TX_Show_Axis_Field_Buttons_On_Chart</comment>
+        <translation>显示图表上的坐标轴字段按钮</translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On Chart</source>
+        <comment>TX_Hide_All_Field_Buttons_On_Chart</comment>
+        <translation>隐藏图表上的所有字段按钮</translation>
+    </message>
+    <message>
+        <source>Show ALL Field Buttons On Chart</source>
+        <comment>TX_Show_All_Field_Buttons_On_Chart</comment>
+        <translation>显示图表上的所有字段按钮</translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons On Chart</source>
+        <comment>TX_Hide_Value_Field_Buttons_On_Chart</comment>
+        <translation>隐藏图表上的值字段按钮</translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons On Chart</source>
+        <comment>TX_Show_Value_Field_Buttons_On_Chart</comment>
+        <translation>显示图表上的值字段按钮</translation>
+    </message>
+    <message>
+        <source>Hide Legend Field Buttons On Chart</source>
+        <comment>TX_Hide_Legend_Field_Buttons_On_Chart</comment>
+        <translation>隐藏图表上的图例字段按钮</translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons On Chart</source>
+        <comment>TX_Show_Legend_Field_Buttons_On_Chart</comment>
+        <translation>显示图表上的图例字段按钮</translation>
+    </message>
+    <message>
+        <source>Hide Report Filter Buttons On Chart</source>
+        <comment>TX_Hide_Report_Filter_Buttons_On_Chart</comment>
+        <translation>隐藏图表上的报表筛选按钮</translation>
+    </message>
+    <message>
+        <source>Show Report Filter Buttons On Chart</source>
+        <comment>TX_Show_Report_Filter_Buttons_On_Chart</comment>
+        <translation>显示图表上的报表筛选按钮</translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <comment>TX_PivotTable_Remove_Field</comment>
+        <translation>删除字段</translation>
+    </message>
+    <message>
+        <source>PivotTable Name:</source>
+        <comment>TX_PivotTableName_TableSuffex</comment>
+        <translation>数据透视表名称:</translation>
+    </message>
+    <message>
+        <source>Chart Name:</source>
+        <comment>TX_PivotTableName_ChartSuffex</comment>
+        <translation>图表名称:</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>TX_PivotTable_Des</comment>
+        <translation>数据透视表</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <comment>TX_PivotChart_Des</comment>
+        <translation>数据透视图</translation>
+    </message>
+    <message>
+        <source>PivotTable Option</source>
+        <comment>TX_PivotTable_Option_Des</comment>
+        <translation>数据透视表选项</translation>
+    </message>
+    <message>
+        <source>PivotChart Option</source>
+        <comment>TX_PivotChart_Option_Des</comment>
+        <translation>数据透视图选项</translation>
+    </message>
+    <message>
+        <source>Failed in locking title rows, please do it with freeze command in View tab.</source>
+        <comment>TX_AfLockTitleRowsFailed</comment>
+        <translation>锁定标题行失败，请在视图选项卡中使用冻结窗格命令锁定行列。</translation>
+    </message>
+    <message>
+        <source>Number From 1(Sun) To 7(Sat)</source>
+        <comment>TX_AutoInput_NumberFrom1SunTo7Sat</comment>
+        <translation>从1（星期日）到7（星期六）的数字</translation>
+    </message>
+    <message>
+        <source>Number From 1(Mon) To 7(Sun)</source>
+        <comment>TX_AutoInput_NumberFrom1MonTo7Sun</comment>
+        <translation>从1（星期一）到7（星期日）的数字</translation>
+    </message>
+    <message>
+        <source>Number From 0(Mon) To 6(Sun)</source>
+        <comment>TX_AutoInput_NumberFrom0MonTo6Sun</comment>
+        <translation>从0（星期一）到6（星期日）的数字</translation>
+    </message>
+    <message>
+        <source>Number From 1(Mon) To 7(Sun)</source>
+        <comment>TX_AutoInput_NumberFromMonToSun</comment>
+        <translation>数字1（星期一）至7（星期日）</translation>
+    </message>
+    <message>
+        <source>Number From 1(Tues) To 7(Mon)</source>
+        <comment>TX_AutoInput_NumberFromTuesToMon</comment>
+        <translation>数字1（星期二）至7（星期一）</translation>
+    </message>
+    <message>
+        <source>Number From 1(Wed) To 7(Tues)</source>
+        <comment>TX_AutoInput_NumberFromWedToTues</comment>
+        <translation>数字1（星期三）至7（星期二）</translation>
+    </message>
+    <message>
+        <source>Number From 1(Thur) To 7(Wed)</source>
+        <comment>TX_AutoInput_NumberFromThurToWed</comment>
+        <translation>数字1（星期四）至7（星期三）</translation>
+    </message>
+    <message>
+        <source>Number From 1(Fri) To 7(Thur)</source>
+        <comment>TX_AutoInput_NumberFromFriToThur</comment>
+        <translation>数字1（星期五）至7（星期四）</translation>
+    </message>
+    <message>
+        <source>Number From 1(Sat) To 7(Fri)</source>
+        <comment>TX_AutoInput_NumberFromSatToFri</comment>
+        <translation>数字1（星期六）至7（星期五）</translation>
+    </message>
+    <message>
+        <source>Number From 1(Sun) To 7(Sat)</source>
+        <comment>TX_AutoInput_NumberFromSunToSat</comment>
+        <translation>数字1（星期日）至7（星期六）</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
+        <comment>TX_ParaDesc_553</comment>
+        <translation>字符串1%1字符串2%1... 1 到 253 个要合并的文本字符串，可以是字符串、数字或者字符串数组，如单元格区域。</translation>
+    </message>
+    <message>
+        <source>is the decimal representation of the binary number you want to compute</source>
+        <comment>TX_ParaDesc_554</comment>
+        <translation>是您要计算的二进制数的十进制表达形式</translation>
+    </message>
+    <message>
+        <source>shift_amount</source>
+        <comment>TX_ParaInfo_375</comment>
+        <translation type="obsolete">位移值</translation>
+    </message>
+    <message>
+        <source>is the bits you move number to the left</source>
+        <comment>TX_ParaDesc_555</comment>
+        <translation>是您将数值向左移位的位数</translation>
+    </message>
+    <message>
+        <source>is the bits you move number to the right</source>
+        <comment>TX_ParaDesc_556</comment>
+        <translation>是您将数值向右移位的位数</translation>
+    </message>
+    <message>
+        <source>the character or string to insert between each text item</source>
+        <comment>TX_ParaDesc_557</comment>
+        <translation>要在每个文本项之间插入的字符或字符串</translation>
+    </message>
+    <message>
+        <source>if true (default), empty cells are ignored</source>
+        <comment>TX_ParaDesc_558</comment>
+        <translation>如果为true(默认)，则忽略空单元格</translation>
+    </message>
+    <message>
+        <source>ignore empty blank</source>
+        <comment>TX_AutoInput_IgnoreEmptyBlank</comment>
+        <translation>忽略空单元格</translation>
+    </message>
+    <message>
+        <source>include empty blank</source>
+        <comment>TX_AutoInput_IncludeEmptyBlank</comment>
+        <translation>包括空单元格</translation>
+    </message>
+    <message>
+        <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
+        <comment>TX_ParaDesc_559</comment>
+        <translation>用来计算 χ2 分布左尾概率的数值，非负数</translation>
+    </message>
+    <message>
+        <source>cumulative distribution function</source>
+        <comment>TX_AutoInput_Cumulative</comment>
+        <translation>累计分布函数</translation>
+    </message>
+    <message>
+        <source>probability density function</source>
+        <comment>TX_AutoInput_Probability</comment>
+        <translation>概率密度函数</translation>
+    </message>
+    <message>
+        <source>value_if_na</source>
+        <comment>TX_ParaInfo_378</comment>
+        <translation>N/A值</translation>
+    </message>
+    <message>
+        <source>number1</source>
+        <comment>TX_ParaInfo_379</comment>
+        <translation>数值1</translation>
+    </message>
+    <message>
+        <source>number2</source>
+        <comment>TX_ParaInfo_380</comment>
+        <translation>数值2</translation>
+    </message>
+    <message>
+        <source>shift_amount</source>
+        <comment>TX_ParaInfo_381</comment>
+        <translation>位移值</translation>
+    </message>
+    <message>
+        <source>delimiter</source>
+        <comment>TX_ParaInfo_382</comment>
+        <translation>分隔符</translation>
+    </message>
+    <message>
+        <source>ignore_empty</source>
+        <comment>TX_ParaInfo_383</comment>
+        <translation>忽略空白单元格</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Office Database Connections(*.odc)|*.odc||</source>
+        <translation>所有文件(*.*)|*.*|Office数据连接文件(*.odc)|*.odc||</translation>
+    </message>
+    <message>
+        <source>You already have a file named &apos;%1&apos;. Do you want to replace it with this one?</source>
+        <translation>文件名&quot;%1&quot;已经存在，是否要使用此文件替换？</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <comment>TXShell_Connections_Caption</comment>
+        <translation>连接</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <comment>TXShell_ExistingConnections_Caption</comment>
+        <translation>现有连接</translation>
+    </message>
+    <message>
+        <source>Office Data Connection</source>
+        <comment>TX_Connection_Detail_Type_ODC</comment>
+        <translation>Office 数据连接</translation>
+    </message>
+    <message>
+        <source>Microsoft Access Database</source>
+        <comment>TX_Connection_Detail_Type_ACCESS_DB</comment>
+        <translation>Microsoft Access 数据库</translation>
+    </message>
+    <message>
+        <source>Excel File</source>
+        <comment>TX_Connection_Detail_Type_EXCEL_FILE</comment>
+        <translation>Excel 文件</translation>
+    </message>
+    <message>
+        <source>Web Query</source>
+        <comment>TX_Connection_Detail_Type_WEB_QUERY</comment>
+        <translation>Web 查询</translation>
+    </message>
+    <message>
+        <source>XML File</source>
+        <comment>TX_Connection_Detail_Type_XML</comment>
+        <translation>XML 文件</translation>
+    </message>
+    <message>
+        <source>SharePoint List</source>
+        <comment>TX_Connection_Detail_Type_IQY</comment>
+        <translation>SharePoint 列表</translation>
+    </message>
+    <message>
+        <source>Text File</source>
+        <comment>TX_Connection_Detail_Type_TEXT</comment>
+        <translation>文本文件</translation>
+    </message>
+    <message>
+        <source>Database Query</source>
+        <comment>TX_Connection_Detail_Type_ODBC</comment>
+        <translation>数据库查询</translation>
+    </message>
+    <message>
+        <source>OLE DB Query</source>
+        <comment>TX_Connection_Detail_Type_OLEDB</comment>
+        <translation>OLE DB 查询</translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_378</comment>
+        <translation type="obsolete">参照区域</translation>
+    </message>
+    <message>
+        <source>is a reference to a formula.</source>
+        <translation type="obsolete">是对公式的引用</translation>
+    </message>
+    <message>
+        <source>ADO Recordset</source>
+        <comment>TX_Connection_Detail_Type_ADO_RECORDSET</comment>
+        <translation>ADO 记录集</translation>
+    </message>
+    <message>
+        <source>DAO Recordset</source>
+        <comment>TX_Connection_Detail_Type_DAO_RECORDSET</comment>
+        <translation>DAO 记录集</translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the maximum value.</source>
+        <comment>TX_ParaDesc_560</comment>
+        <translation>要确定最大值的单元格</translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the minimum value.</source>
+        <comment>TX_ParaDesc_561</comment>
+        <translation>要确定最小值的单元格</translation>
+    </message>
+    <message>
+        <source>is an expression to be evaluated.</source>
+        <comment>TX_ParaDesc_562</comment>
+        <translation>是要计算的表达式</translation>
+    </message>
+    <message>
+        <source>value1,value2,... is a value to be compared with expression.</source>
+        <comment>TX_ParaDesc_563</comment>
+        <translation>值1,值2,... 是要与表达式进行比较的值</translation>
+    </message>
+    <message>
+        <source>result1,result2,... is a result to be returned if the corresponding value matches expression.</source>
+        <comment>TX_ParaDesc_564</comment>
+        <translation>结果1,结果2,... 是在对应值与表达式匹配时要返回的结果</translation>
+    </message>
+    <message>
+        <source>is a reference to a formula.</source>
+        <comment>TX_ParaDesc_565</comment>
+        <translation>是对公式的引用</translation>
+    </message>
+    <message>
+        <source>is a number that you want to convert.</source>
+        <comment>TX_ParaDesc_566</comment>
+        <translation>要转换的数字</translation>
+    </message>
+    <message>
+        <source>is the value that is returned if Logical_test is TRUE.</source>
+        <comment>TX_ParaDesc_568</comment>
+        <translation>当测试条件为 TRUE 时的返回值。</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
+        <comment>TX_ParaDesc_567</comment>
+        <translation>字符串1%1字符串2%1... 1 到 255 个要合并的文本字符串，可以是字符串、数字或者字符串数组，如单元格区域。</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <translation>数字必须在 1 与 32767 之间。请再次输入属于上述区域的数字。</translation>
+    </message>
+    <message>
+        <source>We looked at the data next to your selection and didn&apos;t see a pattern for filling values for you.
+To use Flash Fill, enter a couple of examples of the output you&apos;d like to see,kepp the active cell in the column you want fill, and click the Flash Fill button again.</source>
+        <comment>TX_FlashFill_Cannot_Apply</comment>
+        <translation>我们查看了所选区域旁边的所有数据，没有看到用于为您填充值的模式。
+要使用智能填充，请输入您想要看到的输出的许多示例，使列中您想要填充的单元格保持活动状态，然后再次单击“智能填充”按钮。</translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <comment>TX_FlashFill_InvalidArea</comment>
+        <translation>未填充值，因为所选内容包含公式、合并单元格、数据验证或锁定的单元格。请从所选内容中删除这些功能，然后再次单击“智能填充”按钮。</translation>
     </message>
 </context>
 <context>
@@ -16807,6 +20115,21 @@ There are several possible reasons:
         <source>New Table Style</source>
         <comment>TX_Undo_NewTableStyle</comment>
         <translation>新建表样式</translation>
+    </message>
+    <message>
+        <source>PivotTable Refresh</source>
+        <comment>TX_Undo_PivotTableRefresh</comment>
+        <translation>重新刷新数据透视表</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TX_Undo_PasteName</comment>
+        <translation>粘贴</translation>
+    </message>
+    <message>
+        <source>Remind Repeat</source>
+        <comment>TX_Undo_RemindRepeat</comment>
+        <translation>高亮重复项</translation>
     </message>
 </context>
 <context>
@@ -18729,6 +22052,264 @@ the category you want, and then choose the other options.</source>
         <source>Cannot connect to the server at this time. Your table cannot be published.</source>
         <comment>et_sListobjectPublishHostNotFound</comment>
         <translation>现在不能连接到服务器。无法发布表。</translation>
+    </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>et_sComma0</comment>
+        <translation>千位分隔[0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>et_sCurrency0</comment>
+        <translation>货币[0]</translation>
+    </message>
+    <message>
+        <source>Ranges selected</source>
+        <comment>et_sPivotConsolidatePrompt_Ok</comment>
+        <translation>已选中多重合并计算区域</translation>
+    </message>
+    <message>
+        <source>No ranges selected</source>
+        <comment>et_sPivotConsolidatePrompt_NotOk</comment>
+        <translation>未检索到选中区域。</translation>
+    </message>
+    <message>
+        <source>Move PivotTable</source>
+        <comment>et_sPivotTableMoveDlgName</comment>
+        <translation>移动数据透视表</translation>
+    </message>
+    <message>
+        <source>Change PivotTable Data Source</source>
+        <comment>et_sPivotTableChangeSourceDlgName</comment>
+        <translation>更改数据透视表数据源</translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <comment>PTFILTER_CLEAR_ALL_TEXT</comment>
+        <translation type="obsolete">清除筛选</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <comment>PTFILTER_SELECT_THIS_TEXT</comment>
+        <translation type="obsolete">仅筛选此项</translation>
+    </message>
+    <message>
+        <source>To apply value filtering, the Value area must contain at least one field.</source>
+        <comment>PTFILTER_VALUE_DIALOG_NO_FIELD_ERROR</comment>
+        <translation type="obsolete">若要应用值筛选，值区域必须至少包含一个字段。</translation>
+    </message>
+    <message>
+        <source>The field you are moving cannot be placed in that PivotTable area.</source>
+        <comment>PTFILTER_MOVE_FIELD_ERROR</comment>
+        <translation type="obsolete">正在移动的字段不能放在该报表区域中。</translation>
+    </message>
+    <message>
+        <source>The fields that are being moved cannot be placed in that PivotTable area.HAHAHAHAHA</source>
+        <comment>PTFILTER_MOVE_FIELD_ERROR</comment>
+        <translation type="obsolete">试试这个翻译能不能成功咯</translation>
+    </message>
+    <message>
+        <source>This field has not item</source>
+        <comment>PTFILTER_FILED_HAS_NO_ITEM</comment>
+        <translation type="obsolete">该字段中没有数据项。</translation>
+    </message>
+    <message>
+        <source>The fields that are being moved cannot be placed in that PivotTable area.</source>
+        <comment>PTFILTER_MOVE_FIELD_ERROR</comment>
+        <translation type="obsolete">正在移动的字段不能放在该报表区域中。</translation>
+    </message>
+    <message>
+        <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
+        <comment>PTFILTER_FIELD_OVER_10000_ITEM</comment>
+        <translation type="obsolete">该字段的项目数超过了10,000项。只会显示前10,000项。</translation>
+    </message>
+    <message>
+        <source>You can not apply data validation validation to a cell in a PivotTable</source>
+        <comment>et_sDataValidationOnPivotCell</comment>
+        <translation>不能对数据透视表中的单元格应用数据验证验证。</translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than %d items in the column area.
+If you want to use this field in the report. click OK, and then move the field to either row area or page area.</source>
+        <comment>PTFILTER_MOVE_TOO_MUCH_ITEMS_TO_FIELD_ERROR</comment>
+        <translation type="obsolete">无法将超过 %d 项的字段放入列区域。
+如果希望在报表中使用此字段，请单击“确定”，然后将该字段移到行区域或页区域。</translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <comment>et_sPivotTableClearFilter</comment>
+        <translation>清除筛选</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <comment>et_sPivotTableSelectThis</comment>
+        <translation>仅筛选此项</translation>
+    </message>
+    <message>
+        <source>To apply value filtering, the Value area must contain at least one field.</source>
+        <comment>et_sPivotTableValueFilterNoFieldError</comment>
+        <translation>若要应用值筛选，值区域必须至少包含一个字段。</translation>
+    </message>
+    <message>
+        <source>The fields that are being moved cannot be placed in that PivotTable area.</source>
+        <comment>et_sPivotTableMoveFieldError</comment>
+        <translation>正在移动的字段不能放在该报表区域中。</translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than %d items in the column area.
+If you want to use this field in the report. click OK, and then move the field to either row area or page area.</source>
+        <comment>et_sPivotTableMoveFieldTooMuchItemsError</comment>
+        <translation type="obsolete">无法将超过 %d 项的字段放入列区域。
+如果希望在报表中使用此字段，请单击“确定”，然后将该字段移到行区域或页区域。</translation>
+    </message>
+    <message>
+        <source>This field has not item</source>
+        <comment>et_sPivotTableFieldHasNoItemError</comment>
+        <translation>该字段中没有数据项。</translation>
+    </message>
+    <message>
+        <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
+        <comment>et_sPivotTableFieldOver10000Item</comment>
+        <translation>该字段的项目数超过了10,000项。只会显示前10,000项。</translation>
+    </message>
+    <message>
+        <source>Connections to external data sources has been disabled, you can change the settings in the options dialog.</source>
+        <comment>et_sExternalContentDisabled</comment>
+        <translation>数据连接已经被禁用，您可以通过选项对话框更改数据连接的安全设置。</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All WPS Spreadsheets Files(*.et;*.ett)|*.et;*.ett|All Excel Files(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</source>
+        <comment>et_sPivotBrowseFilters</comment>
+        <translation>所有文件(*.*)|*.*|所有WPS表格文件(*.et;*.ett)|*.et;*.ett|所有Microsoft Excel文件(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Sum</comment>
+        <translation>求和</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Count</comment>
+        <translation>计数</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Average</comment>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Max</comment>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Min</comment>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Product</comment>
+        <translation>乘积</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <comment>et_sAnalysisPaneChartSubtotal_CountN</comment>
+        <translation>数值计数</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>et_sAnalysisPaneChartSubtotal_StdDev</comment>
+        <translation>标准偏差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>et_sAnalysisPaneChartSubtotal_StdDevp</comment>
+        <translation>总体标准偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Var</comment>
+        <translation>方差</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Varp</comment>
+        <translation>总体方差</translation>
+    </message>
+    <message>
+        <source>Number Overflow</source>
+        <comment>et_sAnalysisPaneNumberOverflow</comment>
+        <translation>数值溢出</translation>
+    </message>
+    <message>
+        <source>PivotChart Areas</source>
+        <comment>et_sPivotChartAreasCaption</comment>
+        <translation>数据透视图区域</translation>
+    </message>
+    <message>
+        <source>Create PivotTable</source>
+        <comment>et_sPivotTableCreateDlgName</comment>
+        <translation>创建数据透视表</translation>
+    </message>
+    <message>
+        <source>Create PivotChart</source>
+        <comment>et_sPivotChartCreateDlgName</comment>
+        <translation>创建数据透视图</translation>
+    </message>
+    <message>
+        <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
+        <comment>et_sChartLabelFormulaNotValid</comment>
+        <translation>引用无效。对标题、数值、大小或者数据标签的引用必须为单个单元格、行或列。</translation>
+    </message>
+    <message>
+        <source>Because of some following conditions, SplitSheet can not be finished! 
+•ArrayFomular. 
+•PivotTable. 
+•Other features that affects SplitSheet.</source>
+        <comment>et_sSplitSheetError</comment>
+        <translation>表格中存在下述情况，导致拆分表格无法完成！
+·数组公式
+·数据透视表
+·其他影响表格拆分的功能</translation>
+    </message>
+    <message>
+        <source>Print Entire Workbook directly</source>
+        <comment>et_sRecentPrint_PrintEntireDirect</comment>
+        <translation>打印整个工作簿</translation>
+    </message>
+    <message>
+        <source>The merging will keep only the values and formats of cells.</source>
+        <comment>et_sMergeSheet_BottomTip</comment>
+        <translation>说明：合并后，仅保留单元格的值、格式。</translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett)</source>
+        <comment>et_sMergeSheet_SelectFileFilter</comment>
+        <translation>所有文件(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett)</translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx)</source>
+        <comment>et_sMergeSheet_SelectFileFilterEtx</comment>
+        <translation>所有文件(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx)</translation>
+    </message>
+    <message>
+        <source>Some opened files have the same names as the files to be merged. To avoid failure in merging, these opened files will be closed. 
+• Do you want to save your changes to these files? 
+• 
+•</source>
+        <comment>et_sMergeSheet_FileAlreadyOpened</comment>
+        <translation>进程中某些已经打开的文件，和待合并的文件重名，将导致合并动作无法完成。现在准备关闭这些文件。
+是否保存这些文件的修改？
+
+</translation>
+    </message>
+    <message>
+        <source>Decoding failed. WPS Spreadsheets cannot add this file.
+(%s)</source>
+        <comment>et_sMergeSheet_DecryptFail</comment>
+        <translation>解密失败，WPS表格 无法添加文件。
+(%s)</translation>
     </message>
 </context>
 </TS>

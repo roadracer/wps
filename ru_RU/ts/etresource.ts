@@ -896,7 +896,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>Изменение запроса</translation>
+        <translation type="obsolete">Изменение запроса</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
@@ -909,7 +909,15 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Обновить данные</translation>
+        <translation type="obsolete">Обновить данные</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
     </message>
 </context>
 <context>
@@ -1119,7 +1127,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>Изменить запрос</translation>
+        <translation type="obsolete">Изменить запрос</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -1148,6 +1156,14 @@ OLE DB</translation>
     <message>
         <source>Total Row</source>
         <translation>Строка итогов</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
     </message>
 </context>
 <context>
@@ -1293,7 +1309,7 @@ OLE DB</translation>
     <name>classics.pivot_table</name>
     <message>
         <source>Always Display Items</source>
-        <translation>Всегда отображать элементы</translation>
+        <translation type="obsolete">Всегда отображать элементы</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -1305,7 +1321,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Format Report</source>
-        <translation>Форматирование отчета</translation>
+        <translation type="obsolete">Форматирование отчета</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
@@ -1321,11 +1337,11 @@ OLE DB</translation>
     </message>
     <message>
         <source>Hide Field List</source>
-        <translation>Скрыть список полей</translation>
+        <translation type="obsolete">Скрыть список полей</translation>
     </message>
     <message>
         <source>Include Hidden Items in Totals</source>
-        <translation>Включать скрытые элементы в итоги</translation>
+        <translation type="obsolete">Включать скрытые элементы в итоги</translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -1333,11 +1349,11 @@ OLE DB</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>Переместить влево</translation>
+        <translation type="obsolete">Переместить влево</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Переместить вправо</translation>
+        <translation type="obsolete">Переместить вправо</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -1369,7 +1385,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Show Field List</source>
-        <translation>Показать список полей</translation>
+        <translation type="obsolete">Показать список полей</translation>
     </message>
     <message>
         <source>Sort and Top 10</source>
@@ -1382,6 +1398,82 @@ OLE DB</translation>
     <message>
         <source>Table Options</source>
         <translation type="obsolete">Параметры таблицы</translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entire PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On PivotChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labels And Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List Formulas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1862,6 +1954,18 @@ OLE DB</translation>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>classics.standard.Help</name>
@@ -2270,6 +2374,26 @@ OLE DB</translation>
         <source>Worksheet Menu Bar</source>
         <translation>Строка меню листа</translation>
     </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">PDF в Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Текст в речь</translation>
+    </message>
 </context>
 <context>
     <name>etcommon.mainwindow.commands</name>
@@ -2283,7 +2407,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="obsolete">Автофигуры</translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
@@ -2351,7 +2475,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Cells Dialog</source>
-        <translation type="obsolete">Ячейки Диалоговое окно</translation>
+        <translation>Ячейки Диалоговое окно</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -2399,7 +2523,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Буфер обмена</translation>
+        <translation type="obsolete">Буфер обмена</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
@@ -2523,7 +2647,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Delete Cells</source>
-        <translation type="obsolete">Удалить ячейки</translation>
+        <translation>Удалить ячейки</translation>
     </message>
     <message>
         <source>Display Unit Label Popup Menu</source>
@@ -2599,7 +2723,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation>Ночной режим для защиты глаз</translation>
+        <translation type="obsolete">Ночной режим для защиты глаз</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2723,7 +2847,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>High Resolution Setting</source>
-        <translation>С высоким разрешением параметр</translation>
+        <translation type="obsolete">С высоким разрешением параметр</translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -2763,7 +2887,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Insert Cells</source>
-        <translation type="obsolete">Вставить ячейки</translation>
+        <translation>Вставить ячейки</translation>
     </message>
     <message>
         <source>Insert Function</source>
@@ -2771,7 +2895,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Insert Sheet</source>
-        <translation type="obsolete">Вставить лист</translation>
+        <translation>Вставить лист</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -2863,11 +2987,11 @@ OLE DB</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
-        <translation>Новая книга Excel 2007/2010</translation>
+        <translation type="obsolete">Новая книга Excel 2007/2010</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook(E)</source>
-        <translation>Новая книга Excel 2007/2010(E)</translation>
+        <translation type="obsolete">Новая книга Excel 2007/2010(E)</translation>
     </message>
     <message>
         <source>New Table Style</source>
@@ -2991,7 +3115,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Night Mode</source>
-        <translation>Ночной режим</translation>
+        <translation type="obsolete">Ночной режим</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -3032,7 +3156,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation>Параметры</translation>
+        <translation type="obsolete">Параметры</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -3162,7 +3286,7 @@ Directly</source>
     <message>
         <source>Refresh
 Data</source>
-        <translation>Обновить данные</translation>
+        <translation type="obsolete">Обновить данные</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -3259,7 +3383,7 @@ Data</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">Фигуры</translation>
+        <translation>Фигуры</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
@@ -3267,7 +3391,7 @@ Data</source>
     </message>
     <message>
         <source>Share</source>
-        <translation>Поделиться</translation>
+        <translation type="obsolete">Поделиться</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -3357,7 +3481,7 @@ Window</source>
     </message>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">Тезаурус</translation>
+        <translation>Тезаурус</translation>
     </message>
     <message>
         <source>Toolbars</source>
@@ -3443,6 +3567,338 @@ Window</source>
         <source>Zoom Out</source>
         <translation>Уменьшить</translation>
     </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>Добавить рамку рисунка</translation>
+    </message>
+    <message>
+        <source>Auto Backup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoFilter</source>
+        <translation>Автофильтр</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translation type="obsolete">Параметры резервного копирования</translation>
+    </message>
+    <message>
+        <source>Clear Contents</source>
+        <translation>Удалить содержимое</translation>
+    </message>
+    <message>
+        <source>Clear Filter from Slicers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comment Popup Menu</source>
+        <translation>Контекстное меню примечания</translation>
+    </message>
+    <message>
+        <source>Comment Text Popup Menu</source>
+        <translation>Контекстное меню текста примечания</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing is limited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Экспорт в PDF</translation>
+    </message>
+    <message>
+        <source>ExtendObjectTrigger</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation>Цвет заливки</translation>
+    </message>
+    <message>
+        <source>Format as Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze Panes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze Top Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation type="unfinished">Аппаратное шифрование</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>Справка и часто задаваемые вопросы</translation>
+    </message>
+    <message>
+        <source>Image Preview Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation>Вставить примечание</translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 2007/2010 Files</source>
+        <translation type="obsolete">Файлы Microsoft Excel 2007/2010 (*.xlsx)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Files</source>
+        <translation>Файлы Microsoft Excel 97-2003 (*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Templates</source>
+        <translation>Шаблоны Microsoft Excel 97-2003 (*.xlt)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Excel Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Excel Workbook(E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New File Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Formats</source>
+        <translation>Другие форматы</translation>
+    </message>
+    <message>
+        <source>PasteAsValues</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Protected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot Table Style Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Context Menu</source>
+        <translation>Контекстное меню сводной таблицы</translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation>Запрос</translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation>Обновить все</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation>Обновить данные</translation>
+    </message>
+    <message>
+        <source>Report Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row Header</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save a Copy of the Document</source>
+        <translation>Сохранить копию документа</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Безопасность</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Formulas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Timing Backup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unfreeze Panes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation>Файлы WPS Spreadsheets 2007/2010 (*.etx)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files</source>
+        <translation>Файлы WPS Spreadsheets (*.et)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Templates</source>
+        <translation>Шаблоны WPS Spreadsheets (*.ett)</translation>
+    </message>
 </context>
 <context>
     <name>etcommon.mainwindow.commands.DataGroup</name>
@@ -3524,7 +3980,7 @@ Window</source>
     </message>
     <message>
         <source>Drawing Tools - Compatibility Mode</source>
-        <translation type="obsolete">Инструменты рисования — режим совместимости</translation>
+        <translation>Инструменты рисования — режим совместимости</translation>
     </message>
     <message>
         <source>EnterpriseMicroblog</source>
@@ -3544,7 +4000,7 @@ Window</source>
     </message>
     <message>
         <source>Formats - Compatibility Mode</source>
-        <translation type="obsolete">Форматы — режим совместимости</translation>
+        <translation>Форматы — режим совместимости</translation>
     </message>
     <message>
         <source>Formulas</source>
@@ -3556,7 +4012,7 @@ Window</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="obsolete">Скрыть панель инструментов</translation>
+        <translation type="unfinished">Скрыть панель инструментов</translation>
     </message>
     <message>
         <source>Home</source>
@@ -3604,7 +4060,7 @@ Window</source>
     </message>
     <message>
         <source>News</source>
-        <translation>Новости</translation>
+        <translation type="obsolete">Новости</translation>
     </message>
     <message>
         <source>Not logged in</source>
@@ -3628,7 +4084,7 @@ Window</source>
     </message>
     <message>
         <source>Personal Center</source>
-        <translation>Личный центр</translation>
+        <translation type="obsolete">Личный центр</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -3636,7 +4092,7 @@ Window</source>
     </message>
     <message>
         <source>Picture Tools - Compatibility Mode</source>
-        <translation type="obsolete">Инструменты для работы с рисунками — режим совместимости</translation>
+        <translation>Инструменты для работы с рисунками — режим совместимости</translation>
     </message>
     <message>
         <source>Pin the Toolbar</source>
@@ -3644,7 +4100,7 @@ Window</source>
     </message>
     <message>
         <source>PivotTable Tools</source>
-        <translation>Работа со сводными таблицами</translation>
+        <translation type="obsolete">Работа со сводными таблицами</translation>
     </message>
     <message>
         <source>Popup Menu</source>
@@ -3668,7 +4124,7 @@ Window</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>Последние документы</translation>
+        <translation type="obsolete">Последние документы</translation>
     </message>
     <message>
         <source>Recently used files</source>
@@ -3696,7 +4152,7 @@ Window</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="obsolete">Показать панель инструментов</translation>
+        <translation type="unfinished">Показать панель инструментов</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
@@ -3712,15 +4168,15 @@ Window</source>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Выйти</translation>
+        <translation type="obsolete">Выйти</translation>
     </message>
     <message>
         <source>Special Features</source>
-        <translation>Дополнительные возможности</translation>
+        <translation type="unfinished">Дополнительные возможности</translation>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="obsolete">Зафиксировать панель инструментов</translation>
+        <translation type="unfinished">Зафиксировать панель инструментов</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3748,7 +4204,7 @@ Window</source>
     </message>
     <message>
         <source>Touch Mode</source>
-        <translation type="obsolete">Режим касания</translation>
+        <translation>Режим касания</translation>
     </message>
     <message>
         <source>User Login</source>
@@ -3802,6 +4258,354 @@ Window</source>
         <source>test Rb Tab Widget</source>
         <translation>тестовое мини-приложение вкладки (Rb)</translation>
     </message>
+    <message>
+        <source>Account Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>Выровнять по левому краю</translation>
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translation>Все границы</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation>Автосумма</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation>Среднее</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation>Нижняя граница</translation>
+    </message>
+    <message>
+        <source>Bottom Double Border</source>
+        <translation>Сдвоенная нижняя граница</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Приобрести подписку</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>Выровнять по центру</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>Через центр</translation>
+    </message>
+    <message>
+        <source>Cloud File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convenient Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>Количество</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление 
+документа</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translation>Формат
+по образцу</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interface Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join and
+Center</source>
+        <translation>Объединить и 
+поместить в центре</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation>Левая граница</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation>Максимум</translation>
+    </message>
+    <message>
+        <source>Merge Across</source>
+        <translation>Объединить по строкам</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translation>Объединить ячейки</translation>
+    </message>
+    <message>
+        <source>Merge Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Same Cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge and Center</source>
+        <translation>Объединить и 
+поместить в центре</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation>Минимум</translation>
+    </message>
+    <message>
+        <source>More Borders</source>
+        <translation>Другие границы</translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation>Другие функции</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Мои подписки</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation>Без границы</translation>
+    </message>
+    <message>
+        <source>Online Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation>Внешние границы</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">PDF в Word</translation>
+    </message>
+    <message>
+        <source>PDF to Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Access Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Retrieve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon Auto Show/Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon center alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation>Правая граница</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Безопасность</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Taskpane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Выйти</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>Сумма</translation>
+    </message>
+    <message>
+        <source>Thick Bottom Border</source>
+        <translation>Толстая нижняя граница</translation>
+    </message>
+    <message>
+        <source>Thick Box Border</source>
+        <translation>Толстая внешняя граница</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation>Верхняя граница</translation>
+    </message>
+    <message>
+        <source>Top and Bottom Border</source>
+        <translation>Верхняя и нижняя границы</translation>
+    </message>
+    <message>
+        <source>Top and Double Bottom Border</source>
+        <translation>Верхняя и сдвоенная нижняя границы</translation>
+    </message>
+    <message>
+        <source>Top and Thick Bottom Border</source>
+        <translation>Верхняя и толстая нижняя границы</translation>
+    </message>
+    <message>
+        <source>UnMerge and Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation>Отменить объединение ячеек</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation>По вертикали по центру</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WordArt Compatibility Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Денежный подарок</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>Переносить 
+текст</translation>
+    </message>
+    <message>
+        <source>accout info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>accout secure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>enterprise Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>member Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>message Center</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
@@ -3811,7 +4615,7 @@ Window</source>
     </message>
     <message>
         <source>Switch UI</source>
-        <translation>Поменять стиль интерфейса</translation>
+        <translation type="obsolete">Поменять стиль интерфейса</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -3982,7 +4786,7 @@ Window</source>
     </message>
     <message>
         <source>PivotTable Tools</source>
-        <translation>Работа со сводными таблицами</translation>
+        <translation type="obsolete">Работа со сводными таблицами</translation>
     </message>
     <message>
         <source>Popup Menu</source>
@@ -4132,6 +4936,26 @@ Window</source>
     <message>
         <source>test Rb Tab Widget</source>
         <translation>тестовое мини-приложение вкладки (Rb)</translation>
+    </message>
+    <message>
+        <source>PivotTable Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Подключаемый модуль пакета WPS</translation>
     </message>
 </context>
 <context>
@@ -4515,7 +5339,7 @@ Row</source>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>Тип диаграммы</translation>
+        <translation type="obsolete">Тип диаграммы</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -4532,6 +5356,10 @@ Row</source>
     <message>
         <source>speedLayout</source>
         <translation>Экспресс-макет</translation>
+    </message>
+    <message>
+        <source>More Option...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4599,7 +5427,7 @@ Row</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation>Изменение 
+        <translation type="obsolete">Изменение 
 запроса OLE DB</translation>
     </message>
     <message>
@@ -4608,7 +5436,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>Изменение запроса</translation>
+        <translation type="obsolete">Изменение запроса</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
@@ -4675,7 +5503,7 @@ All</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>Обновить данные</translation>
+        <translation type="obsolete">Обновить данные</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -4753,6 +5581,38 @@ Columns</source>
     <message>
         <source>What-If Analysis</source>
         <translation>Анализ предположений</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summary Direction</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5192,7 +6052,7 @@ On</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>Высота</translation>
+        <translation type="obsolete">Высота</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5398,7 +6258,15 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>Ширина</translation>
+        <translation type="obsolete">Ширина</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5629,7 +6497,7 @@ On/Off</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>Высота</translation>
+        <translation type="obsolete">Высота</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -5777,7 +6645,23 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>Ширина</translation>
+        <translation type="obsolete">Ширина</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5800,7 +6684,7 @@ On/Off</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>Резервное копирование и восстановление данных</translation>
+        <translation type="obsolete">Резервное копирование и восстановление данных</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
@@ -5808,11 +6692,11 @@ On/Off</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Поменять версию</translation>
+        <translation>Поменять версию</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>Проверить обновления</translation>
+        <translation type="obsolete">Проверить обновления</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -5828,7 +6712,7 @@ On/Off</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation>Docer Entrance</translation>
+        <translation type="obsolete">Docer Entrance</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -5840,11 +6724,11 @@ On/Off</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>Шифрование</translation>
+        <translation type="obsolete">Шифрование</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>Ввести код активации</translation>
+        <translation type="obsolete">Ввести код активации</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -5856,7 +6740,7 @@ On/Off</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Экспорт в PDF</translation>
+        <translation type="obsolete">Экспорт в PDF</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -5920,15 +6804,15 @@ On/Off</source>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Files</source>
-        <translation>Файлы Microsoft Excel 2007-2010 (*.xlsx)</translation>
+        <translation type="obsolete">Файлы Microsoft Excel 2007-2010 (*.xlsx)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Файлы Microsoft Excel 97-2003 (*.xls)</translation>
+        <translation type="obsolete">Файлы Microsoft Excel 97-2003 (*.xls)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Шаблоны Microsoft Excel 97-2003 (*.xlt)</translation>
+        <translation type="obsolete">Шаблоны Microsoft Excel 97-2003 (*.xlt)</translation>
     </message>
     <message>
         <source>New</source>
@@ -5960,7 +6844,7 @@ On/Off</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Новый документ на шаблоне из Интернета</translation>
+        <translation type="obsolete">Новый документ на шаблоне из Интернета</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -5984,7 +6868,7 @@ On/Off</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>Другие форматы</translation>
+        <translation type="obsolete">Другие форматы</translation>
     </message>
     <message>
         <source>Print</source>
@@ -6032,7 +6916,7 @@ On/Off</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>Сохранить как</translation>
+        <translation type="obsolete">Сохранить как</translation>
     </message>
     <message>
         <source>Save To Klive</source>
@@ -6040,15 +6924,15 @@ On/Off</source>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation>Сохранить копию документа</translation>
+        <translation type="obsolete">Сохранить копию документа</translation>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>Справка из микроблога</translation>
+        <translation type="obsolete">Справка из микроблога</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Отправить сообщение электронной почты</translation>
+        <translation type="unfinished">Отправить сообщение электронной почты</translation>
     </message>
     <message>
         <source>Study Online</source>
@@ -6056,7 +6940,7 @@ On/Off</source>
     </message>
     <message>
         <source>Support WPS</source>
-        <translation>Поддержка WPS</translation>
+        <translation type="obsolete">Поддержка WPS</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -6068,7 +6952,7 @@ On/Off</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">Отзывы пользователей</translation>
+        <translation>Отзывы пользователей</translation>
     </message>
     <message>
         <source>User Feedback by mail</source>
@@ -6080,7 +6964,7 @@ On/Off</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>Электронная доска объявлений WPS</translation>
+        <translation type="obsolete">Электронная доска объявлений WPS</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -6100,7 +6984,7 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>Домашняя страница WPS Office</translation>
+        <translation type="obsolete">Домашняя страница WPS Office</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
@@ -6108,19 +6992,60 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Центр управления продукцией</translation>
+        <translation type="obsolete">Центр управления продукцией</translation>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation>WPS Spreadsheets 2007-2010 Документ</translation>
+        <translation type="obsolete">WPS Spreadsheets 2007-2010 Документ</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>Файлы WPS Spreadsheets (*.et)</translation>
+        <translation type="obsolete">Файлы WPS Spreadsheets (*.et)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>Шаблоны WPS Spreadsheets (*.ett)</translation>
+        <translation type="obsolete">Шаблоны WPS Spreadsheets (*.ett)</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup and Recovery</source>
+        <translation>Резервное копирование и восстановление</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Разрешения 
+для документа</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PassWord Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6183,7 +7108,7 @@ Time</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>Определенные имена</translation>
+        <translation type="obsolete">Определенные имена</translation>
     </message>
     <message>
         <source>Defined Names</source>
@@ -6314,6 +7239,30 @@ Used</source>
         <source>Text</source>
         <translation>Текстовые</translation>
     </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation>Новое имя</translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_home</name>
@@ -6361,7 +7310,7 @@ Center</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>Выровнять по левому краю</translation>
+        <translation type="obsolete">Выровнять по левому краю</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -6377,7 +7326,7 @@ Center</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>Все границы</translation>
+        <translation type="obsolete">Все границы</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -6409,15 +7358,15 @@ Center</source>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>Автосумма</translation>
+        <translation type="obsolete">Автосумма</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation>Среднее</translation>
+        <translation type="obsolete">Среднее</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation>Начать с</translation>
+        <translation type="obsolete">Начать с</translation>
     </message>
     <message>
         <source>Below Average</source>
@@ -6433,19 +7382,19 @@ Center</source>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation>Нижних 10</translation>
+        <translation type="obsolete">Нижних 10</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation>Нижних 10 %</translation>
+        <translation type="obsolete">Нижних 10 %</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>Нижняя граница</translation>
+        <translation type="obsolete">Нижняя граница</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation>Сдвоенная нижняя граница</translation>
+        <translation type="obsolete">Сдвоенная нижняя граница</translation>
     </message>
     <message>
         <source>Cell Style</source>
@@ -6457,11 +7406,11 @@ Center</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>По центру</translation>
+        <translation type="obsolete">По центру</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation>Через центр</translation>
+        <translation type="obsolete">Через центр</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6497,7 +7446,7 @@ Center</source>
     </message>
     <message>
         <source>Contain</source>
-        <translation>Содержит</translation>
+        <translation type="obsolete">Содержит</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -6517,7 +7466,7 @@ Center</source>
     </message>
     <message>
         <source>Count</source>
-        <translation>Число</translation>
+        <translation type="obsolete">Число</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -6525,7 +7474,7 @@ Center</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>другие</translation>
+        <translation type="obsolete">другие</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -6537,7 +7486,7 @@ Center</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>Дата</translation>
+        <translation type="obsolete">Дата</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -6581,7 +7530,7 @@ Center</source>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation>Не содержит</translation>
+        <translation type="obsolete">Не содержит</translation>
     </message>
     <message>
         <source>Down</source>
@@ -6601,15 +7550,15 @@ Center</source>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation>Пустая ячейка</translation>
+        <translation type="obsolete">Пустая ячейка</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation>Закончить с</translation>
+        <translation type="obsolete">Закончить с</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation>Равно</translation>
+        <translation type="obsolete">Равно</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -6617,7 +7566,7 @@ Center</source>
     </message>
     <message>
         <source>Error Value </source>
-        <translation>Значение ошибки</translation>
+        <translation type="obsolete">Значение ошибки</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -6629,7 +7578,7 @@ Center</source>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation type="unfinished">Заполнение рядов</translation>
+        <translation type="obsolete">Заполнение рядов</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -6671,7 +7620,7 @@ Replace</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation>Формат
+        <translation type="obsolete">Формат
 по образцу</translation>
     </message>
     <message>
@@ -6692,7 +7641,7 @@ Painter</source>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>Зафиксировать</translation>
+        <translation type="obsolete">Зафиксировать</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -6704,7 +7653,7 @@ Painter</source>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>Больше чем</translation>
+        <translation type="obsolete">Больше чем</translation>
     </message>
     <message>
         <source>Hide Columns</source>
@@ -6732,11 +7681,11 @@ Painter</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>Выделить</translation>
+        <translation type="obsolete">Выделить</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation>За последние 7 дней</translation>
+        <translation type="obsolete">За последние 7 дней</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -6756,7 +7705,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Cell (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Вставить ячейку (строку/столбец)</translation>
+        <translation>Вставить ячейку (строку/столбец)</translation>
     </message>
     <message>
         <source>Insert Cells</source>
@@ -6764,7 +7713,7 @@ Painter</source>
     </message>
     <message>
         <source>Insert Cells Dialog</source>
-        <translation type="obsolete">Вставить ячейку Диалоговое окно</translation>
+        <translation>Вставить ячейку Диалоговое окно</translation>
     </message>
     <message>
         <source>Insert Columns</source>
@@ -6776,11 +7725,11 @@ Painter</source>
     </message>
     <message>
         <source>Insert Copied Cells (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Вставить скопированные ячейки (строку/столбец)</translation>
+        <translation>Вставить скопированные ячейки (строку/столбец)</translation>
     </message>
     <message>
         <source>Insert Copied Cells Dialog</source>
-        <translation type="obsolete">Вставить скопированные ячейки Диалоговое окно</translation>
+        <translation>Вставить скопированные ячейки Диалоговое окно</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -6788,11 +7737,11 @@ Painter</source>
     </message>
     <message>
         <source>Insert Cut Cells (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Вставить вырезанные ячейки (строку/столбец)</translation>
+        <translation>Вставить вырезанные ячейки (строку/столбец)</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
-        <translation type="obsolete">Вставить вырезанные ячейки Диалоговое окно</translation>
+        <translation>Вставить вырезанные ячейки Диалоговое окно</translation>
     </message>
     <message>
         <source>Insert Rows</source>
@@ -6814,11 +7763,11 @@ Center</source>
     </message>
     <message>
         <source>Last month</source>
-        <translation>В прошлом месяце</translation>
+        <translation type="obsolete">В прошлом месяце</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>На прошлой неделе</translation>
+        <translation type="obsolete">На прошлой неделе</translation>
     </message>
     <message>
         <source>Left</source>
@@ -6826,11 +7775,11 @@ Center</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>Левая граница</translation>
+        <translation type="obsolete">Левая граница</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation>Меньше чем</translation>
+        <translation type="obsolete">Меньше чем</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -6846,15 +7795,15 @@ Center</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>Максимум</translation>
+        <translation type="obsolete">Максимум</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation>Объединить по строкам</translation>
+        <translation type="obsolete">Объединить по строкам</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>Объединить ячейки</translation>
+        <translation type="obsolete">Объединить ячейки</translation>
     </message>
     <message>
         <source>Merge and 
@@ -6873,7 +7822,7 @@ Center</source>
     </message>
     <message>
         <source>Min</source>
-        <translation>Минимум</translation>
+        <translation type="obsolete">Минимум</translation>
     </message>
     <message>
         <source>More Border Colors</source>
@@ -6893,7 +7842,7 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>Другие функции</translation>
+        <translation type="obsolete">Другие функции</translation>
     </message>
     <message>
         <source>More Symbols</source>
@@ -6909,11 +7858,11 @@ Center</source>
     </message>
     <message>
         <source>Next month</source>
-        <translation>В следующем месяце</translation>
+        <translation type="obsolete">В следующем месяце</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>На следующей неделе</translation>
+        <translation type="obsolete">На следующей неделе</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -6925,7 +7874,7 @@ Center</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>Внешние границы</translation>
+        <translation type="obsolete">Внешние границы</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -6969,7 +7918,7 @@ Center</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>Правая граница</translation>
+        <translation type="obsolete">Правая граница</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
@@ -7007,7 +7956,7 @@ Columns</source>
     </message>
     <message>
         <source>Scientific</source>
-        <translation>Научный</translation>
+        <translation type="obsolete">Научный</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -7024,7 +7973,7 @@ Columns</source>
     <message>
         <source>Series</source>
         <comment>Fill</comment>
-        <translation type="obsolete">Ряды</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7048,7 +7997,7 @@ Columns</source>
     </message>
     <message>
         <source>Special Value</source>
-        <translation>Специальное значение</translation>
+        <translation type="obsolete">Специальное значение</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -7060,7 +8009,7 @@ Columns</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation>Сумма</translation>
+        <translation type="obsolete">Сумма</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -7072,7 +8021,7 @@ Columns</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>Текст</translation>
+        <translation type="obsolete">Текст</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -7080,51 +8029,51 @@ Columns</source>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation>Толстая нижняя граница</translation>
+        <translation type="obsolete">Толстая нижняя граница</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
-        <translation>Толстая внешняя граница</translation>
+        <translation type="obsolete">Толстая внешняя граница</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>В этом месяце</translation>
+        <translation type="obsolete">В этом месяце</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>На этой неделе</translation>
+        <translation type="obsolete">На этой неделе</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>Сегодня</translation>
+        <translation type="obsolete">Сегодня</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>Завтра</translation>
+        <translation type="obsolete">Завтра</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation>Первые 10</translation>
+        <translation type="obsolete">Первые 10</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation>Первые 10 %</translation>
+        <translation type="obsolete">Первые 10 %</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>Верхняя граница</translation>
+        <translation type="obsolete">Верхняя граница</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation>Верхняя и нижняя границы</translation>
+        <translation type="obsolete">Верхняя и нижняя границы</translation>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation>Верхняя и сдвоенная нижняя границы</translation>
+        <translation type="obsolete">Верхняя и сдвоенная нижняя границы</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation>Верхняя и толстая нижняя границы</translation>
+        <translation type="obsolete">Верхняя и толстая нижняя границы</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -7136,7 +8085,7 @@ Columns</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>Снять закрепление</translation>
+        <translation type="obsolete">Снять закрепление</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -7156,7 +8105,7 @@ Columns</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation>Отменить объединение ячеек</translation>
+        <translation type="obsolete">Отменить объединение ячеек</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
@@ -7168,7 +8117,7 @@ Columns</source>
     </message>
     <message>
         <source>Value</source>
-        <translation>Значение</translation>
+        <translation type="obsolete">Значение</translation>
     </message>
     <message>
         <source>Values</source>
@@ -7176,7 +8125,7 @@ Columns</source>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation>по вертикали по центру</translation>
+        <translation type="obsolete">по вертикали по центру</translation>
     </message>
     <message>
         <source>Vertical Text </source>
@@ -7184,7 +8133,7 @@ Columns</source>
     </message>
     <message>
         <source>Weekend</source>
-        <translation>Выходные</translation>
+        <translation type="obsolete">Выходные</translation>
     </message>
     <message>
         <source>WorkSheet</source>
@@ -7196,11 +8145,131 @@ Columns</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>Перенос текста</translation>
+        <translation type="obsolete">Перенос текста</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>Вчера</translation>
+        <translation type="obsolete">Вчера</translation>
+    </message>
+    <message>
+        <source>A Date Occurring</source>
+        <translation>Дата</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom 10 Items</source>
+        <translation>Последние 10 элементов</translation>
+    </message>
+    <message>
+        <source>Bottom 10%</source>
+        <translation>Последние 10%</translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Rules</source>
+        <translation>Удалить правила</translation>
+    </message>
+    <message>
+        <source>Clear Rules from Entire Sheet</source>
+        <translation>Удалить правила со всего листа</translation>
+    </message>
+    <message>
+        <source>Clear Rules from Selected Cells</source>
+        <translation>Удалить правила из выделенных ячеек</translation>
+    </message>
+    <message>
+        <source>Clear Rules from This Table</source>
+        <translation>Удалить правила из этой таблицы</translation>
+    </message>
+    <message>
+        <source>Color Scales</source>
+        <translation>Цветовые шкалы</translation>
+    </message>
+    <message>
+        <source>Data Bars</source>
+        <translation>Гистограммы</translation>
+    </message>
+    <message>
+        <source>Duplicate Value</source>
+        <translation>Повторяющиеся значения</translation>
+    </message>
+    <message>
+        <source>Equal To</source>
+        <translation>Равно</translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than</source>
+        <translation>Больше</translation>
+    </message>
+    <message>
+        <source>Highlight Cells Rules</source>
+        <translation>Правила выделения ячеек</translation>
+    </message>
+    <message>
+        <source>IconSets</source>
+        <translation>Наборы значков</translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <translation>Меньше</translation>
+    </message>
+    <message>
+        <source>Manage Rules</source>
+        <translation>Управление правилами</translation>
+    </message>
+    <message>
+        <source>More Rules</source>
+        <translation>Другие правила</translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Rule</source>
+        <translation>Новое правило</translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translation>Вставить как форматированный текст</translation>
+    </message>
+    <message>
+        <source>Paste values to visible cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SheetTool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text that Contains</source>
+        <translation>Текст, который содержит</translation>
+    </message>
+    <message>
+        <source>Top 10 Items</source>
+        <translation>Первые 10 элементов</translation>
+    </message>
+    <message>
+        <source>Top 10%</source>
+        <translation>Первые 10%</translation>
+    </message>
+    <message>
+        <source>Top/Bottom Rules</source>
+        <translation>Правила отбора первых и последних значений</translation>
     </message>
 </context>
 <context>
@@ -7303,7 +8372,7 @@ Properties</source>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Колонтитулы</translation>
+        <translation type="obsolete">Колонтитулы</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -7343,7 +8412,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Вставить рисунки из Интернета</translation>
+        <translation type="unfinished">Вставить рисунки из Интернета</translation>
     </message>
     <message>
         <source>InsertNewChart</source>
@@ -7375,7 +8444,7 @@ Footer</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Рисунки из Интернета</translation>
+        <translation type="unfinished">Рисунки из Интернета</translation>
     </message>
     <message>
         <source>Option Button</source>
@@ -7432,7 +8501,7 @@ Pane</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">Текст</translation>
+        <translation type="unfinished">Текст</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -7449,6 +8518,38 @@ Pane</source>
     <message>
         <source>WordArt</source>
         <translation>Фигурный текст</translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7717,6 +8818,10 @@ Backward</source>
         <source>Zoom:</source>
         <translation>Масштаб:</translation>
     </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool</name>
@@ -7824,7 +8929,7 @@ Pictures</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">Сжатие изображений</translation>
+        <translation>Сжатие изображений</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -7892,7 +8997,7 @@ Pictures</source>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">Форматирование объекта</translation>
+        <translation>Форматирование объекта</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -7920,7 +9025,7 @@ Pictures</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>Высота</translation>
+        <translation type="obsolete">Высота</translation>
     </message>
     <message>
         <source>Image Previewer</source>
@@ -8077,7 +9182,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="obsolete">Стили рисунка</translation>
+        <translation>Стили рисунка</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -8086,7 +9191,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation>Восстановить
+        <translation type="obsolete">Восстановить
 рисунок</translation>
     </message>
     <message>
@@ -8095,7 +9200,7 @@ Picture</source>
     </message>
     <message>
         <source>Reset Picture and Size</source>
-        <translation>Сбросить рисунок и размер</translation>
+        <translation type="obsolete">Сбросить рисунок и размер</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -8135,7 +9240,7 @@ Picture</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Параметры</translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -8221,7 +9326,35 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>Толщина</translation>
+        <translation type="obsolete">Толщина</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation>Обрезать по масштабу</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation>Обрезать по форме</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translation>Сохранить пропорции</translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translation>Восстановить размер</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8323,7 +9456,7 @@ On/Off</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>Расположить</translation>
+        <translation type="obsolete">Расположить</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -8415,7 +9548,7 @@ On/Off</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>Высота</translation>
+        <translation type="obsolete">Высота</translation>
     </message>
     <message>
         <source>Image Previewer</source>
@@ -8608,7 +9741,27 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>Ширина</translation>
+        <translation type="obsolete">Ширина</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8638,15 +9791,15 @@ On/Off</source>
     <name>ongmani.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
-        <translation>Активное поле</translation>
+        <translation type="obsolete">Активное поле</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Данные</translation>
+        <translation type="obsolete">Данные</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -8655,12 +9808,12 @@ On/Off</source>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translation>Не повторять подписи элементов</translation>
+        <translation type="obsolete">Не повторять подписи элементов</translation>
     </message>
     <message>
         <source>Field
 Settings</source>
-        <translation>Параметры поля</translation>
+        <translation type="obsolete">Параметры поля</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -8668,18 +9821,18 @@ Settings</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Скрыть</translation>
+        <translation type="obsolete">Скрыть</translation>
     </message>
     <message>
         <source>Hide
 Detail</source>
-        <translation>Скрыть 
+        <translation type="obsolete">Скрыть 
 детали</translation>
     </message>
     <message>
         <source>Hide 
 Field List</source>
-        <translation>Скрыть 
+        <translation type="obsolete">Скрыть 
 список полей</translation>
     </message>
     <message>
@@ -8692,12 +9845,12 @@ Field List</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation>структура</translation>
+        <translation type="obsolete">структура</translation>
     </message>
     <message>
         <source>Modify
 PivotTable</source>
-        <translation>Изменить сводную таблицу</translation>
+        <translation type="obsolete">Изменить сводную таблицу</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -8705,31 +9858,31 @@ PivotTable</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>Переместить вниз</translation>
+        <translation type="obsolete">Переместить вниз</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>Переместить влево</translation>
+        <translation type="obsolete">Переместить влево</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Переместить вправо</translation>
+        <translation type="obsolete">Переместить вправо</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Переместить вверх</translation>
+        <translation type="obsolete">Переместить вверх</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>Переместить в начало</translation>
+        <translation type="obsolete">Переместить в начало</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>Переместить в конец</translation>
+        <translation type="obsolete">Переместить в конец</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>Порядок</translation>
+        <translation type="obsolete">Порядок</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -8738,7 +9891,7 @@ PivotTable</source>
     <message>
         <source>PivotTable
 Options</source>
-        <translation>Параметры 
+        <translation type="obsolete">Параметры 
 сводной таблицы</translation>
     </message>
     <message>
@@ -8762,18 +9915,18 @@ Data</source>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation>Повторять все подписи элементов</translation>
+        <translation type="obsolete">Повторять все подписи элементов</translation>
     </message>
     <message>
         <source>Show
 Detail</source>
-        <translation>Показать 
+        <translation type="obsolete">Показать 
 детали</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
-        <translation>Показать 
+        <translation type="obsolete">Показать 
 список полей</translation>
     </message>
     <message>
@@ -8786,11 +9939,11 @@ Field List</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортировка</translation>
+        <translation type="obsolete">Сортировка</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>Итоги</translation>
+        <translation type="obsolete">Итоги</translation>
     </message>
 </context>
 <context>
@@ -8905,6 +10058,42 @@ Page</source>
     <message>
         <source>Show</source>
         <translation>Показать</translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paper Copies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paper Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Entire Workbook Directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook Views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9034,11 +10223,13 @@ Changes</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Перевод на упрощенный китайский</translation>
+        <translation>Перевод на 
+упрощенный китайский</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Перевод на традиционный китайский</translation>
+        <translation>Перевод на 
+традиционный китайский</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -9053,6 +10244,54 @@ Sheet</source>
         <source>Unprotect 
 Workbook</source>
         <translation>Снять защиту книги</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моих 
+разрешений</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений
+пользователя</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Разрешения 
+для документа</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>Защита 
+документа</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Следующий</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Предыдущий</translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation>Восстановить все примечания</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation>Восстановить примечание</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation>Показать все примечания</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>Показать/скрыть примечание</translation>
     </message>
 </context>
 <context>
@@ -9454,7 +10693,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>Изменить запрос</translation>
+        <translation type="obsolete">Изменить запрос</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -9491,6 +10730,14 @@ OLE DB</translation>
     <message>
         <source>Tools</source>
         <translation>Сервис</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
     </message>
 </context>
 <context>
@@ -9767,6 +11014,18 @@ OLE DB</translation>
         <source>WordArt Styles</source>
         <translation>Стили WordArt</translation>
     </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Формат объекта</translation>
+    </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Параметры</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -9794,7 +11053,7 @@ Other Window</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>Разработчик</translation>
+        <translation type="obsolete">Разработчик</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -9810,7 +11069,7 @@ Other Window</source>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>закрепить</translation>
+        <translation type="obsolete">закрепить</translation>
     </message>
     <message>
         <source>Full 
@@ -9907,7 +11166,7 @@ Layout</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>Снять закрепление </translation>
+        <translation type="obsolete">Снять закрепление </translation>
     </message>
     <message>
         <source>Unsplit</source>
@@ -9945,13 +11204,63 @@ Layout</source>
         <source>Zoom</source>
         <translation>Масштаб</translation>
     </message>
+    <message>
+        <source>Compare</source>
+        <translation>Сравнить</translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze First Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze Panes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeze Top Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Eyes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Window Position</source>
+        <translation>Восстановить положение окна</translation>
+    </message>
+    <message>
+        <source>Synchronous Scrolling</source>
+        <translation>Синхронная прокрутка</translation>
+    </message>
+    <message>
+        <source>Unfreeze Panes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unhide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
+        <translation>Просмотр
+рядом</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view.COMAddIns</name>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>Надстройки COM</translation>
+        <translation type="obsolete">Надстройки COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -10763,6 +12072,10 @@ Shape</source>
         <source>WordArt@Insert</source>
         <translation type="obsolete">Вставка фигурного текста</translation>
     </message>
+    <message>
+        <source>Insert WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_wordart.WordArtCharacterSpacing</name>
@@ -11011,7 +12324,7 @@ Shape</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Отзывы пользователей</translation>
+        <translation>Отзывы пользователей</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -11024,6 +12337,109 @@ Shape</source>
     <message>
         <source>WPS Permit</source>
         <translation type="obsolete">Разрешение WPS</translation>
+    </message>
+    <message>
+        <source>Cloud File Guid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Mall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Slimming</source>
+        <translation>Уменьшение 
+документа</translation>
+    </message>
+    <message>
+        <source>Document security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>personal</comment>
+        <translation type="obsolete">Роуминг файлов</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translation>Роуминг файлов</translation>
+    </message>
+    <message>
+        <source>File Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OneStep Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Co-edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RB_Document Slimming</source>
+        <translation type="unfinished">Уменьшение документа</translation>
+    </message>
+    <message>
+        <source>Roaming File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharing File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Team File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translation>XiuTang</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translation>XiuTang H5</translation>
     </message>
 </context>
 <context>
@@ -11059,6 +12475,222 @@ Shape</source>
     <message>
         <source>What-If Analysis</source>
         <translation>Анализ &quot;что если&quot;</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11125,7 +12757,7 @@ Shape</source>
     </message>
     <message>
         <source>3-D Settings</source>
-        <translation type="obsolete">Параметры 3D</translation>
+        <translation>Параметры 3D</translation>
     </message>
     <message>
         <source>4.5 pt</source>
@@ -11385,7 +13017,7 @@ Shape</source>
     </message>
     <message>
         <source>Backup Management</source>
-        <translation>Резервное копирование</translation>
+        <translation type="unfinished">Резервное копирование</translation>
     </message>
     <message>
         <source>Below</source>
@@ -11401,7 +13033,7 @@ Shape</source>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="obsolete">Границы</translation>
+        <translation>Границы</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -11446,7 +13078,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Cells (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Ячейки (строку/столбец)</translation>
+        <translation>Ячейки (строку/столбец)</translation>
     </message>
     <message>
         <source>Center</source>
@@ -11550,7 +13182,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clear Contents</source>
-        <translation>Очистить содержимое</translation>
+        <translation type="obsolete">Очистить содержимое</translation>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
@@ -11578,7 +13210,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Буфер обмена</translation>
+        <translation type="obsolete">Буфер обмена</translation>
     </message>
     <message>
         <source>Close</source>
@@ -11638,7 +13270,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Control Toolbox</source>
-        <translation type="obsolete">Элементы управления</translation>
+        <translation>Элементы управления</translation>
     </message>
     <message>
         <source>Convert Text to Hyperlink</source>
@@ -11762,7 +13394,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Удалить (строку/столбец)</translation>
+        <translation>Удалить (строку/столбец)</translation>
     </message>
     <message>
         <source>Delete Comment</source>
@@ -11770,7 +13402,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Dialog</source>
-        <translation type="obsolete">Удалить Диалоговое окно</translation>
+        <translation>Удалить Диалоговое окно</translation>
     </message>
     <message>
         <source>Delete Page Break</source>
@@ -11810,7 +13442,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Drawing</source>
-        <translation type="obsolete">Рисование</translation>
+        <translation>Рисование</translation>
     </message>
     <message>
         <source>Duplicates</source>
@@ -11991,7 +13623,7 @@ Add-Ins</source>
     <message>
         <source>Fill Series</source>
         <comment>Fill</comment>
-        <translation type="unfinished">Заполнение рядов</translation>
+        <translation type="obsolete">Заполнение рядов</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
@@ -12207,11 +13839,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Formatting</source>
-        <translation type="obsolete">Форматирование</translation>
+        <translation>Форматирование</translation>
     </message>
     <message>
         <source>Forms</source>
-        <translation type="obsolete">Формы</translation>
+        <translation>Формы</translation>
     </message>
     <message>
         <source>Formula Auditing</source>
@@ -12351,7 +13983,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>Вставить примечание</translation>
+        <translation type="obsolete">Вставить примечание</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
@@ -12359,11 +13991,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Copied Cells (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Вставить скопированные ячейки (строку/столбец)</translation>
+        <translation>Вставить скопированные ячейки (строку/столбец)</translation>
     </message>
     <message>
         <source>Insert Copied Cells Dialog</source>
-        <translation type="obsolete">Вставить скопированные ячейки Диалоговое окно</translation>
+        <translation>Вставить скопированные ячейки Диалоговое окно</translation>
     </message>
     <message>
         <source>Insert Cut Cells</source>
@@ -12371,11 +14003,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Cut Cells (Entire Row/Entire Column)</source>
-        <translation type="obsolete">Вставить вырезанные ячейки (строку/столбец)</translation>
+        <translation>Вставить вырезанные ячейки (строку/столбец)</translation>
     </message>
     <message>
         <source>Insert Cut Cells Dialog</source>
-        <translation type="obsolete">Вставить вырезанные ячейки Диалоговое окно</translation>
+        <translation>Вставить вырезанные ячейки Диалоговое окно</translation>
     </message>
     <message>
         <source>Insert Online Pictures</source>
@@ -12684,7 +14316,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Order</source>
-        <translation>Расположение</translation>
+        <translation type="obsolete">Расположение</translation>
     </message>
     <message>
         <source>Other Borders</source>
@@ -12772,7 +14404,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>Сводная таблица</translation>
+        <translation type="obsolete">Сводная таблица</translation>
     </message>
     <message>
         <source>Primary Horizontal</source>
@@ -12840,7 +14472,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Protection</source>
-        <translation type="obsolete">Защита</translation>
+        <translation>Защита</translation>
     </message>
     <message>
         <source>Purchase Serial Number</source>
@@ -13046,7 +14678,7 @@ Add-Ins</source>
     <message>
         <source>Series</source>
         <comment>Fill</comment>
-        <translation type="obsolete">Ряды</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <source>Series</source>
@@ -13091,7 +14723,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Shadow Settings</source>
-        <translation type="obsolete">Параметры тени</translation>
+        <translation>Параметры тени</translation>
     </message>
     <message>
         <source>Shape Fill</source>
@@ -13139,7 +14771,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Выйти</translation>
+        <translation type="obsolete">Выйти</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -13175,11 +14807,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Stacking Order</source>
-        <translation>Порядок расположения</translation>
+        <translation type="obsolete">Порядок расположения</translation>
     </message>
     <message>
         <source>Standard</source>
-        <translation type="obsolete">Стандартный</translation>
+        <translation>Стандартный</translation>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -13247,7 +14879,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Synonyms</source>
-        <translation type="obsolete">Синонимы</translation>
+        <translation>Синонимы</translation>
     </message>
     <message>
         <source>Tab Color</source>
@@ -13287,7 +14919,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Task Window</source>
-        <translation type="obsolete">Окно задач</translation>
+        <translation>Окно задач</translation>
     </message>
     <message>
         <source>Ten Thousand Separator</source>
@@ -13494,6 +15126,488 @@ Add-Ins</source>
         <source>table</source>
         <comment>Delete Rows</comment>
         <translation>Строки таблицы</translation>
+    </message>
+    <message>
+        <source>% Difference From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Of</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% Running Total In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% of Column Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% of Grand Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% of Parent Column Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% of Parent Row Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% of Parent Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>% of Row Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle and Center</source>
+        <translation>Выровнять по середине и по центру</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">Запрос разрешений</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation>По возрастанию</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation>Автосумма</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Приобрести подписку</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моих разрешений</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений пользователя</translation>
+    </message>
+    <message>
+        <source>Clear Filter From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse Entire Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Sort</source>
+        <translation>Настраиваемая сортировка</translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation>Свойства диапазона данных</translation>
+    </message>
+    <message>
+        <source>Date Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Define Name</source>
+        <comment>NewName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translation>Удалить объект</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation>По убыванию</translation>
+    </message>
+    <message>
+        <source>Difference From</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>Изменить
+запрос OLE DB</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Query</source>
+        <translation type="obsolete">Изменить запрос</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
+    </message>
+    <message>
+        <source>Entire Sheet Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand Entire Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand/Collapse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Comment...</source>
+        <translation>Формат примечания...</translation>
+    </message>
+    <message>
+        <source>Formula Auditing Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formulas &amp; Number Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons on Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Comment</source>
+        <translation>Скрыть примечание</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translation type="obsolete">Скрыть список полей</translation>
+    </message>
+    <message>
+        <source>Hide Selected Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons on Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Keep Only Selected Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Column Widths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Label Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>ChartLegend</comment>
+        <translation>Слева</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>FillLeft</comment>
+        <translation>Слева</translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Destination Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation>Другие функции</translation>
+    </message>
+    <message>
+        <source>More Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation>Другие символы</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Axis Fields (Categories)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Legend Fields (Series)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Report Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">Незавершенное утверждение</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">Мои запросы</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Мои подписки</translation>
+    </message>
+    <message>
+        <source>New Blank Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Calculation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PTCustom Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste values to visible cells</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PasteAsValues</source>
+        <translation type="obsolete">Вставить как значения</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotChart Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>Top 10</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>Параметры сводной таблицы</translation>
+    </message>
+    <message>
+        <source>PivotTableAndChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rank Largest to Smallest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rank Smallest to Largest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>Обновить</translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Grand Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Slicers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running Total In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation>Установить прокси</translation>
+    </message>
+    <message>
+        <source>Show Details</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation>Показать список полей</translation>
+    </message>
+    <message>
+        <source>Show Values As</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>Показать/скрыть примечание</translation>
+    </message>
+    <message>
+        <source>Show/Hide Crop Panel</source>
+        <translation>Показать/скрыть панель обрезки</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Выйти</translation>
+    </message>
+    <message>
+        <source>Size and Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort Largest to Smallest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort Smallest to Largest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summarize Values By</source>
+        <translation>Итоги по</translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">Управление шаблонами разрешений</translation>
+    </message>
+    <message>
+        <source>Using Source Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <translation type="obsolete">Параметры поля значений</translation>
+    </message>
+    <message>
+        <source>Value Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Values &amp; Number Formatting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13937,7 +16051,7 @@ Chart Type</source>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation>Изменение 
+        <translation type="obsolete">Изменение 
 запроса OLE DB</translation>
     </message>
     <message>
@@ -13946,7 +16060,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>Изменение запроса</translation>
+        <translation type="obsolete">Изменение запроса</translation>
     </message>
     <message>
         <source>External Data Range Properties</source>
@@ -13994,7 +16108,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation>Обновить 
+        <translation type="obsolete">Обновить 
 все</translation>
     </message>
     <message>
@@ -14076,6 +16190,34 @@ OLE DB Query</source>
     <message>
         <source>What-If Analysis</source>
         <translation>Анализ предположений</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14650,6 +16792,14 @@ AddIns</source>
         <source>Width</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_drawingtools_vml</name>
@@ -15037,6 +17187,14 @@ AddIns</source>
         <source>Width</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
@@ -15066,7 +17224,7 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Изменить версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -15086,7 +17244,7 @@ AddIns</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation>Docer Entrance</translation>
+        <translation type="obsolete">Docer Entrance</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -15130,7 +17288,7 @@ AddIns</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation>Сведения о файле</translation>
+        <translation type="obsolete">Сведения о файле</translation>
     </message>
     <message>
         <source>Help</source>
@@ -15310,7 +17468,7 @@ AddIns</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">Отзывы пользователей</translation>
+        <translation>Отзывы пользователей</translation>
     </message>
     <message>
         <source>View Permissions</source>
@@ -15367,6 +17525,10 @@ AddIns</source>
     <message>
         <source>WPS Spreadsheets Templates</source>
         <translation>Шаблоны WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>File Protection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15430,7 +17592,7 @@ Time</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>Присвоить имя</translation>
+        <translation type="obsolete">Присвоить имя</translation>
     </message>
     <message>
         <source>Defined Names</source>
@@ -15509,7 +17671,7 @@ Trig</source>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation>Диспетчер имен</translation>
+        <translation type="obsolete">Диспетчер имен</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -15539,6 +17701,36 @@ Trig</source>
     <message>
         <source>Text</source>
         <translation>Текст</translation>
+    </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation>Диспетчер 
+имен</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation>Новое имя</translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15833,7 +18025,7 @@ Trig</source>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation type="unfinished">Заполнить ряды</translation>
+        <translation type="obsolete">Заполнить ряды</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -16153,7 +18345,7 @@ Center</source>
     <message>
         <source>Series</source>
         <comment>Fill</comment>
-        <translation type="obsolete">Ряды</translation>
+        <translation>Ряды</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -16314,6 +18506,14 @@ Center</source>
     <message>
         <source>Yesterday</source>
         <translation>Вчера</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16515,6 +18715,10 @@ Center</source>
     <message>
         <source>WordArt</source>
         <translation>Фигурный текст</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16746,6 +18950,10 @@ Center</source>
     <message>
         <source>Ungroup</source>
         <translation>Разгруппировать</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17221,6 +19429,14 @@ Size</source>
         <source>Width</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool.PictureColor</name>
@@ -17595,6 +19811,14 @@ Size</source>
         <source>Width</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool_Vml.PictureColor</name>
@@ -17623,15 +19847,15 @@ Size</source>
     <name>rainbow.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
-        <translation>Выделенное поле</translation>
+        <translation type="obsolete">Выделенное поле</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>Данные</translation>
+        <translation type="obsolete">Данные</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Удалить</translation>
+        <translation type="obsolete">Удалить</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -17640,63 +19864,63 @@ Size</source>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translation>Не повторять подписи элементов</translation>
+        <translation type="obsolete">Не повторять подписи элементов</translation>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation>Параметры поля</translation>
+        <translation type="obsolete">Параметры поля</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>Скрыть</translation>
+        <translation type="obsolete">Скрыть</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>Скрыть детали</translation>
+        <translation type="obsolete">Скрыть детали</translation>
     </message>
     <message>
         <source>Hide Field List</source>
-        <translation>Скрыть список полей</translation>
+        <translation type="obsolete">Скрыть список полей</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation>Изменить сводную таблицу</translation>
+        <translation type="obsolete">Изменить сводную таблицу</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>Переместить вниз</translation>
+        <translation type="obsolete">Переместить вниз</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>Переместить влево</translation>
+        <translation type="obsolete">Переместить влево</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>Переместить вправо</translation>
+        <translation type="obsolete">Переместить вправо</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>Переместить вверх</translation>
+        <translation type="obsolete">Переместить вверх</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>Переместить в начало</translation>
+        <translation type="obsolete">Переместить в начало</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>Переместить в конец</translation>
+        <translation type="obsolete">Переместить в конец</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>Порядок</translation>
+        <translation type="obsolete">Порядок</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>Разметка страницы</translation>
+        <translation type="obsolete">Разметка страницы</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>Параметры сводной таблицы</translation>
+        <translation type="obsolete">Параметры сводной таблицы</translation>
     </message>
     <message>
         <source>PivotTable Order</source>
@@ -17709,23 +19933,23 @@ Repeat Item Labels</source>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation>Повторять все подписи элементов</translation>
+        <translation type="obsolete">Повторять все подписи элементов</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>Отобразить детали</translation>
+        <translation type="obsolete">Отобразить детали</translation>
     </message>
     <message>
         <source>Show Field List</source>
-        <translation>Показать список полей</translation>
+        <translation type="obsolete">Показать список полей</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>Сортировка</translation>
+        <translation type="obsolete">Сортировка</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>Итоги</translation>
+        <translation type="obsolete">Итоги</translation>
     </message>
 </context>
 <context>
@@ -17915,11 +20139,13 @@ Item Labels</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation>Перевод на упрощенный китайский</translation>
+        <translation>Перевод на 
+упрощенный китайский</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation>Перевод на традиционный китайский</translation>
+        <translation>Перевод на 
+традиционный китайский</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -17932,6 +20158,30 @@ Item Labels</source>
     <message>
         <source>Unprotect Workbook</source>
         <translation>Снять защиту книги</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Следующий</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Предыдущий</translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation>Восстановить все примечания</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation>Восстановить примечание</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation>Показать все примечания</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>Показать/скрыть примечание</translation>
     </message>
 </context>
 <context>
@@ -18326,7 +20576,7 @@ OLE DB</translation>
     </message>
     <message>
         <source>Edit Query</source>
-        <translation>Изменить запрос</translation>
+        <translation type="obsolete">Изменить запрос</translation>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
@@ -18383,6 +20633,14 @@ OLE DB</translation>
     <message>
         <source>Total Row</source>
         <translation>Строка итогов</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>Изменить импорт текста</translation>
     </message>
 </context>
 <context>
@@ -18631,6 +20889,10 @@ OLE DB</translation>
         <source>WordArt Styles</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_view</name>
@@ -18658,7 +20920,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>Разработчик</translation>
+        <translation type="obsolete">Разработчик</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -18787,6 +21049,18 @@ Other Windows</source>
     <message>
         <source>Zoom</source>
         <translation>Масштаб</translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unhide</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19753,7 +22027,7 @@ Color</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Отзывы пользователей</translation>
+        <translation type="obsolete">Отзывы пользователей</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -19770,6 +22044,10 @@ Color</source>
     <message>
         <source>WPS Permit</source>
         <translation type="obsolete">Разрешение WPS</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19805,6 +22083,50 @@ Color</source>
     <message>
         <source>What-If Analysis</source>
         <translation>Анализ &quot;что если&quot;</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23395,7 +25717,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Выйти</translation>
+        <translation type="obsolete">Выйти</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
@@ -23424,6 +25746,1022 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>WPS Business Version</source>
         <translation type="obsolete">WPS для предприятия</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Приобрести подписку</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Разрешения для документа</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Мои подписки</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Выйти</translation>
+    </message>
+</context>
+<context>
+    <name>classics.proxycommands</name>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_autofiltertools</name>
+    <message>
+        <source>Add Favorite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoFilter View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collect Filter Condition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Statistical Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_pivottabledesign</name>
+    <message>
+        <source>Blank Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Row Column Grand Totals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do Not Show Subtotals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Only Column Grand Totals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Only Row Grand Totals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Row Column Grand Totals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grand Totals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Blank Line after Each Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Blank Line after Each Item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all Subtotals at Bottom of Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show all Subtotals at Top of Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in Compact Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in Outline Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show in Tabular Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_pivottableoptions</name>
+    <message>
+        <source>+/- 
+Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Active Field:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Data 
+Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Data Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse Entire Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entire PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand Entire Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field 
+Headers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field 
+List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fields,Items</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate GetPivotData</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group Selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labels And Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List Formulas</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move 
+PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoveChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Field Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">Запрос 
+разрешений</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моих 
+разрешений</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений
+пользователя</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="obsolete">Защита 
+документа</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">Незавершенное 
+утверждение</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">Мои 
+запросы</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">Управление шаблонами 
+разрешений</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_sliceroptions</name>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_smartartdesign</name>
+    <message>
+        <source>Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Graph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert assist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape in after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape in before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape on above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape on below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Hang</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Hang</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RightToLeft Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_autofiltertools</name>
+    <message>
+        <source>Add Favorite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_pivottableoptions</name>
+    <message>
+        <source>Active Field</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify PivotTable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_sliceroptions</name>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

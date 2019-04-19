@@ -743,7 +743,7 @@
     <name>DlgKxOutlineNumber</name>
     <message>
         <source>&amp;Aligned at:</source>
-        <translation>位置揃え(&amp;A):</translation>
+        <translation>左インデントからの距離(&amp;A):</translation>
     </message>
     <message>
         <source>&amp;Font...</source>
@@ -763,7 +763,7 @@
     </message>
     <message>
         <source>&amp;Restart numbering after:</source>
-        <translation>連番を付けるレベルを指定する(&amp;R):</translation>
+        <translation>リストを開始するレベルを指定する(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Start at:</source>
@@ -799,7 +799,7 @@
     </message>
     <message>
         <source>Lin&amp;k level to style:</source>
-        <translation>レベルをスタイルにリンクする(&amp;K):</translation>
+        <translation>レベルと対応付ける見出しスタイル(&amp;K):</translation>
     </message>
     <message>
         <source>N&amp;umber position</source>
@@ -958,6 +958,10 @@
         <source>Style</source>
         <translation>スタイル</translation>
     </message>
+    <message>
+        <source>No Style</source>
+        <translation>スタイルなし</translation>
+    </message>
 </context>
 <context>
     <name>KxAddUsersDlg</name>
@@ -1005,7 +1009,11 @@
     </message>
     <message>
         <source>Writer</source>
-        <translation>Kingsoftテキスト</translation>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <translation>(なし)</translation>
     </message>
 </context>
 <context>
@@ -1043,11 +1051,11 @@
     </message>
     <message>
         <source>– (En dash)</source>
-        <translation>; （半角ダッシュ）</translation>
+        <translation>– （半角ダッシュ）</translation>
     </message>
     <message>
         <source>— (Em dash)</source>
-        <translation>； （全角ダッシュ）</translation>
+        <translation>— （全角ダッシュ）</translation>
     </message>
     <message>
         <source>Heading</source>
@@ -1512,7 +1520,7 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Kingsoft Presentation</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Bookmark</source>
@@ -1583,7 +1591,7 @@
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Kingsoft Writer</translation>
+        <translation>WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -1650,7 +1658,7 @@
     </message>
     <message>
         <source>Removing the custom dictionary might remove the custom dictionary used by other WPS programs. Do you want to continue?</source>
-        <translation>ユーザー設定辞書を削除すると、他のKingsoft Officeのプログラムに影響を及ぼす可能性があります。続行しますか？</translation>
+        <translation>ユーザー設定辞書を削除すると、他のWPS Officeのプログラムに影響を及ぼす可能性があります。続行しますか？</translation>
     </message>
 </context>
 <context>
@@ -1998,6 +2006,14 @@ use buttons to apply borders</source>
         <source>Whole document</source>
         <translation>文書全体</translation>
     </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>A&amp;rt:</source>
+        <translation>アート(&amp;R):</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgBulletsNumbering</name>
@@ -2051,7 +2067,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>None list</source>
-        <translation>なし</translation>
+        <translation type="obsolete">なし</translation>
     </message>
     <message>
         <source>O&amp;utline Numbered</source>
@@ -2068,6 +2084,10 @@ use buttons to apply borders</source>
     <message>
         <source>This point forward</source>
         <translation>これ以降</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>削除(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -2201,6 +2221,18 @@ use buttons to apply borders</source>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
         <translation>pt, -1, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>オプション</translation>
+    </message>
+    <message>
+        <source>Cell &amp;Fit Text</source>
+        <translation type="obsolete">テキストに合わせる(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3178,86 +3210,86 @@ use buttons to apply borders</source>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールド</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">挿入(&amp;I)</translation>
+        <translation>挿入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">名前の変更(&amp;R)</translation>
+        <translation>名前の変更(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">ジャンプ(&amp;G)</translation>
+        <translation>ジャンプ(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished">削除(&amp;D)</translation>
+        <translation>削除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation>記号のみ(&amp;M)</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">順序の基準:</translation>
+        <translation>順序の基準:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">名前(&amp;N)</translation>
+        <translation>名前(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">位置(&amp;L)</translation>
+        <translation>位置(&amp;L)</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールドのプロパティ</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">隠し文字(&amp;H)</translation>
+        <translation>隠し文字(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>印刷(&amp;P)</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
+        <translation>読み取り専用(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてに適用(&amp;A)</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>入力モード</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Document&amp;Field Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールドの名前(&amp;F):</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then &amp;counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールドの先頭と末尾に挿入すると、ドキュメントフィールドの範囲となる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgDrawingGrid</name>
     <message>
         <source>&amp;Horizontal every:</source>
-        <translation>列グリッド線を表示する間隔(&amp;H):</translation>
+        <translation>行グリッド線を表示する間隔(&amp;H):</translation>
     </message>
     <message>
         <source>&amp;Snap objects to grid</source>
@@ -3277,7 +3309,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Grid origin</source>
-        <translation>グリッド線の元</translation>
+        <translation>グリッド線の開始位置</translation>
     </message>
     <message>
         <source>Grid settings</source>
@@ -3285,11 +3317,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Hori&amp;zontal spacing:</source>
-        <translation>列グリッド線の間隔(&amp;Z):</translation>
+        <translation>文字グリッド線の間隔(&amp;Z):</translation>
     </message>
     <message>
         <source>Horizontal &amp;origin:</source>
-        <translation>水平方向の開始位置(&amp;O):</translation>
+        <translation>左開始位置(&amp;O):</translation>
     </message>
     <message>
         <source>S&amp;nap objects to other objects</source>
@@ -3305,11 +3337,11 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Ver&amp;tical every:</source>
-        <translation>行グリッド線を表示する間隔(&amp;T):</translation>
+        <translation>文字グリッド線を表示する間隔(&amp;T):</translation>
     </message>
     <message>
         <source>Vertical o&amp;rigin:</source>
-        <translation>垂直方向の開始位置(&amp;R):</translation>
+        <translation>上開始位置(&amp;R):</translation>
     </message>
     <message>
         <source>ch, 2, 0.01, 150.85, 0.5</source>
@@ -3522,7 +3554,9 @@ use buttons to apply borders</source>
 If unnecessary, please click Cancel.</source>
         <translatorcomment>オンラインフォントを文書に適用しましたため、他人に送付する場合ご利用するオンラインフォントを文書に保存することを勧めさせていただきます。
 キャンセルをクリックすると保存しません。</translatorcomment>
-        <translation>この文書にはオンラインフォントが適用されています。もしこの文書を他人に共有する場合は、オンラインフォントを保存することを推奨いたします。保存が不要な場合は、「キャンセル」をクリックして下さい。</translation>
+        <translation>この文書にはオンラインフォントが適用されています。
+もしこの文書を他人に共有する場合は、オンラインフォントを保存することを推奨いたします。
+保存が不要な場合は、「キャンセル」をクリックして下さい。</translation>
     </message>
     <message>
         <source>Remember my choice, and don&apos;t prompt me again.</source>
@@ -3595,6 +3629,10 @@ If unnecessary, please click Cancel.</source>
         <source>壹</source>
         <translation>壱</translation>
     </message>
+    <message>
+        <source>√</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEnvelopeOption</name>
@@ -3604,18 +3642,90 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">プレビュー</translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <source>&amp;Reset</source>
-        <translation type="obsolete">元に戻す(&amp;R)</translation>
+        <translation>リセット(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Envelope Options</source>
+        <translation>封筒オプション</translation>
+    </message>
+    <message>
+        <source>Delivery address</source>
+        <translation>宛先</translation>
+    </message>
+    <message>
+        <source>Return address</source>
+        <translation>送信元</translation>
+    </message>
+    <message>
+        <source>Feed method</source>
+        <translation>給紙方法</translation>
+    </message>
+    <message>
+        <source>Printer:</source>
+        <translation>プリンタ</translation>
+    </message>
+    <message>
+        <source>&amp;Envelope Options</source>
+        <translation>封筒オプション(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Envelope &amp;size:</source>
+        <translation>封筒サイズ(&amp;S):</translation>
+    </message>
+    <message>
+        <source>From &amp;top:</source>
+        <translation>上(&amp;T):</translation>
+    </message>
+    <message>
+        <source>From &amp;left:</source>
+        <translation>左(&amp;L):</translation>
+    </message>
+    <message>
+        <source>Fro&amp;m left:</source>
+        <translation>左(&amp;M):</translation>
+    </message>
+    <message>
+        <source>F&amp;rom top:</source>
+        <translation>上(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Printing Options</source>
+        <translation>印刷オプション(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Face &amp;up</source>
+        <translation>上向き(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Face &amp;down</source>
+        <translation>下向き(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Clockwise rotation</source>
+        <translation>右へ回転(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Feed from:</source>
+        <translation>給紙トレイ(&amp;F):</translation>
+    </message>
+    <message>
+        <source>&amp;Font...</source>
+        <translation>フォント(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>F&amp;ont...</source>
+        <translation>フォント(&amp;O)...</translation>
     </message>
 </context>
 <context>
     <name>KxDlgEnvelopesAndLabels</name>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">プレビュー</translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3623,7 +3733,59 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="obsolete">オプション(&amp;O)</translation>
+        <translation>オプション(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Envelopes</source>
+        <translation>封筒</translation>
+    </message>
+    <message>
+        <source>Add electronic postage</source>
+        <translation>電子切手を追加</translation>
+    </message>
+    <message>
+        <source>Feed</source>
+        <translation>フィード</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Verify that an envelopes is loaded before printing.</source>
+        <translation>印刷する前、封筒をプリンタの用紙トレイに挿入してください。</translation>
+    </message>
+    <message>
+        <source>&amp;Envelopes</source>
+        <translation>封筒(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Delivery address:</source>
+        <translation>宛先(&amp;D):</translation>
+    </message>
+    <message>
+        <source>&amp;Return address:</source>
+        <translation>送信先(&amp;R):</translation>
+    </message>
+    <message>
+        <source>O&amp;mit</source>
+        <translation>省略(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>印刷(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Add Document</source>
+        <translation>ドキュメントの追加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>E-pos&amp;tage Properties</source>
+        <translation>電子郵便プロパティ(&amp;T)...</translation>
+    </message>
+    <message>
+        <source>&amp;Labels</source>
+        <translation>ラベル(&amp;L)</translation>
     </message>
 </context>
 <context>
@@ -3828,6 +3990,30 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>Add the &amp;path to the file name</source>
         <translation type="obsolete">ファイル名にパスを追加(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Text &amp;Str</source>
+        <translation>新しい値(&amp;S):</translation>
+    </message>
+    <message>
+        <source>fieldDomainConte&amp;xt</source>
+        <translation>フィールドドメインコンテキスト(&amp;X):</translation>
+    </message>
+    <message>
+        <source>to&amp;oltips</source>
+        <translation>ツール提示(&amp;O):</translation>
+    </message>
+    <message>
+        <source>proma&amp;t:</source>
+        <translation>提示(&amp;T):</translation>
+    </message>
+    <message>
+        <source>BookMark&amp;Name:</source>
+        <translation>ブックマークの名前(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;default response:</source>
+        <translation>既定の応答(&amp;D):</translation>
     </message>
 </context>
 <context>
@@ -4213,7 +4399,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Emboss</source>
-        <translation>浮き彫り(&amp;E)</translation>
+        <translation>浮き出し(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -4285,7 +4471,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Engra&amp;ve</source>
-        <translation>浮き出し(&amp;V)</translation>
+        <translation>浮き彫り(&amp;V)</translation>
     </message>
     <message>
         <source>Expanded</source>
@@ -4349,7 +4535,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Snap to grid &amp;when document grid is defined</source>
-        <translation>ドキュメントグリッドが定義される場合、グリッドに寄せる(&amp;W)</translation>
+        <translation>[ページ設定]で指定した1行の文字数を使用する(&amp;W)</translation>
     </message>
     <message>
         <source>Stri&amp;kethrough</source>
@@ -5710,7 +5896,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Double-click the tab to close a document</source>
-        <translation>文書を閉じるには、タブをダブルクリックして下さい(&amp;D)</translation>
+        <translation>タブバーをダブルクリックしてファイルを閉じる(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Field codes</source>
@@ -5994,7 +6180,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>D&amp;rag-and-drop text editing</source>
-        <translation>ドラッグドロップで編集可能(&amp;R)</translation>
+        <translation>ドラッグアンドドロップで編集を行う(&amp;R)</translation>
     </message>
     <message>
         <source>Default &amp;paragraph style:</source>
@@ -6026,7 +6212,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Do not show</source>
-        <translation>非表示</translation>
+        <translation type="obsolete">非表示</translation>
     </message>
     <message>
         <source>Document Tabs</source>
@@ -6034,7 +6220,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation>見出し構成(&amp;P):</translation>
+        <translation type="obsolete">見出し構成(&amp;P):</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -6174,7 +6360,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Inches</source>
-        <translation>インチ</translation>
+        <translation>inch</translation>
     </message>
     <message>
         <source>Include with document</source>
@@ -6226,7 +6412,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Macro security</source>
-        <translation>マクロのセキュリティ</translation>
+        <translation type="obsolete">マクロのセキュリティ</translation>
     </message>
     <message>
         <source>Macros and Security...</source>
@@ -6355,23 +6541,23 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Permission settings</source>
-        <translation>権限の設定</translation>
+        <translation type="obsolete">権限の設定</translation>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
-        <translation>コメントの追加可能(&amp;M)</translation>
+        <translation type="obsolete">コメントの追加可能(&amp;M)</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation>コピー可能(&amp;Y)</translation>
+        <translation type="obsolete">コピー可能(&amp;Y)</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation>変更可能(&amp;D)</translation>
+        <translation type="obsolete">変更可能(&amp;D)</translation>
     </message>
     <message>
         <source>Points</source>
-        <translation>ポイント</translation>
+        <translation>pt</translation>
     </message>
     <message>
         <source>Preferred &amp;width:</source>
@@ -6407,7 +6593,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation>印刷権限がありません</translation>
+        <translation type="obsolete">印刷権限がありません</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -6479,15 +6665,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show au&amp;thor:</source>
-        <translation>作者名の表示(&amp;T):</translation>
+        <translation type="obsolete">作者名の表示(&amp;T):</translation>
     </message>
     <message>
         <source>Show full name</source>
-        <translation>名前</translation>
+        <translation type="obsolete">名前</translation>
     </message>
     <message>
         <source>Show initials</source>
-        <translation>頭文字</translation>
+        <translation type="obsolete">頭文字</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
@@ -6619,15 +6805,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation>ch, 0, 0, 120, 1</translation>
+        <translation type="obsolete">ch, 0, 0, 120, 1</translation>
     </message>
     <message>
         <source>mi&amp;nutes</source>
-        <translation>分ごと(&amp;N)</translation>
+        <translation type="obsolete">分ごと(&amp;N)</translation>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
-        <translation>pt, 0, 0, 898.75, 1</translation>
+        <translation type="obsolete">pt, 0, 0, 898.75, 1</translation>
     </message>
     <message>
         <source>Use the recommended width(&amp;F)</source>
@@ -6680,7 +6866,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Formatted text</source>
-        <translation>書式付きのテキスト</translation>
+        <translation type="obsolete">書式付きのテキスト</translation>
     </message>
     <message>
         <source>Unformatted text</source>
@@ -6688,7 +6874,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Smart Backup</source>
-        <translation>バックアップ(&amp;S)</translation>
+        <translation>自動バックアップ(&amp;S)</translation>
     </message>
     <message>
         <source>Smart Backup</source>
@@ -6729,11 +6915,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
-        <translation>マクロウィルスが含まれている可能性のあるファイルを開くため、セキュリティレベルを調整し、信頼できるマクロ開発者の名前を指定します</translation>
+        <translation type="obsolete">マクロウィルスが含まれている可能性のあるファイルを開くため、セキュリティレベルを調整し、信頼できるマクロ開発者の名前を指定します</translation>
     </message>
     <message>
         <source>Macros &amp;Security...</source>
-        <translation>マクロのセキュリティ(&amp;S)...</translation>
+        <translation type="obsolete">マクロのセキュリティ(&amp;S)...</translation>
     </message>
     <message>
         <source>Security threats</source>
@@ -6741,15 +6927,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>P&amp;rinting permission</source>
-        <translation>印刷(&amp;R)</translation>
+        <translation type="obsolete">印刷(&amp;R)</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation>低品質印刷のみ許可</translation>
+        <translation type="obsolete">低品質印刷のみ許可</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation>印刷許可</translation>
+        <translation type="obsolete">印刷許可</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -6781,7 +6967,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished">Kingsoft Officeを改良するために支援して下さい</translation>
+        <translation type="obsolete">Kingsoft Officeを改良するために支援して下さい</translation>
     </message>
     <message>
         <source>Check Spelling</source>
@@ -6818,7 +7004,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation>フォントのプレビュー(&amp;O)</translation>
+        <translation type="obsolete">フォントのプレビュー(&amp;O)</translation>
     </message>
     <message>
         <source>AutoNumber</source>
@@ -6866,7 +7052,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールド(&amp;O)</translation>
     </message>
     <message>
         <source>Compatibility options</source>
@@ -6890,19 +7076,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation>Kingsoft ミニサイトを月額契約</translation>
+        <translation type="obsolete">Kingsoft ミニサイトを月額契約</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation>毎日表示(&amp;V)</translation>
+        <translation type="obsolete">毎日表示(&amp;V)</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation>一週間後に表示(&amp;Y)</translation>
+        <translation type="obsolete">一週間後に表示(&amp;Y)</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation>今後表示しない(&amp;A)</translation>
+        <translation type="obsolete">今後表示しない(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Font Preview Label</source>
@@ -6926,7 +7112,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a html=&quot;#&quot; style&quot;text-decoration:none&quot;&gt;&lt;span style&quot;color#3296fa,&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a html=&quot;#&quot; style&quot;text-decoration:none&quot;&gt;&lt;span style&quot;color#3296fa,&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -6934,11 +7120,271 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="obsolete">ユーザー体験向上プランを入り、Wps Officeの改善を協力する。</translation>
+        <translation>ユーザー体験向上プランを入り、Wps Officeの改善を協力する。</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="obsolete">言語</translation>
+        <translation>言語</translation>
+    </message>
+    <message>
+        <source>Automatically download and update language packages</source>
+        <translation>自動で言語パッケージをダウンロード・更新</translation>
+    </message>
+    <message>
+        <source>Choose Display and Help Languages</source>
+        <translation>表示とヘルプ言語を選択する</translation>
+    </message>
+    <message>
+        <source>Choose...</source>
+        <translation>選択...</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation>ショートカットキー</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation>カスタムショートカットキー:</translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
+        <translation>ショートカットキー(&amp;S)</translation>
+    </message>
+    <message>
+        <source>WhenSelected</source>
+        <translation>選択時のみ表示</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translation>タブのオプション</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translation>メニュータブをダブルクリックしてツールバーを非表示(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translation>バックアップの設定</translation>
+    </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation>分(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translation>バックアップファイルを開く(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translation>ハードウェア暗号化</translation>
+    </message>
+    <message>
+        <source>ch, 0, 0, 720, 1</source>
+        <translation>ch, 0, 0, 720, 1</translation>
+    </message>
+    <message>
+        <source>Do not &amp;use indent as numbering tabstop</source>
+        <translation>箇条書きと段落番号のタブ上にインデントを設定しない(&amp;U)</translation>
+    </message>
+    <message>
+        <source>No tab hang &amp;indent</source>
+        <translation>ぶら下げに自動タブを設定しない(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Double click tab to Clos&amp;e Documemt</source>
+        <translation>タブバーをダブルクリックしてファイルを閉じる(&amp;E)</translation>
+    </message>
+    <message>
+        <source>This option is used for &quot;Print space of hidden text&quot; only.</source>
+        <translation>このオプションは、「隠し文字を空白にして印刷」時のみ使用されます。</translation>
+    </message>
+    <message>
+        <source>Print under&amp;line of hidden text</source>
+        <translation>隠し文字を下線で印刷(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Replace text as you type:</source>
+        <translation>入力中に自動修正する</translation>
+    </message>
+    <message>
+        <source>Show c&amp;rop marks</source>
+        <translation>裁ちトンボを表示する(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>ログイン</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation>)</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation>(</translation>
+    </message>
+    <message>
+        <source>Need Login</source>
+        <translation>この機能を設定するには、ログインしてください。</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ファイルの保存先：クラウドファイル\マイクラウドファイル\自動アップロード&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Set auto roaming &amp;mode and save file to cloud</source>
+        <translation>自動ローミングをオンにし、ファイルをクラウドファイルにバックアップ(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Option...</source>
+        <translation>オプション(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>書式</translation>
+    </message>
+    <message>
+        <source>Format(&amp;J):</source>
+        <translation>書式(&amp;J):</translation>
+    </message>
+    <message>
+        <source>Track format setting(&amp;K)</source>
+        <translation>書式設定のトレース(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Set left- and first-indent with tabs and bac&amp;kspaces </source>
+        <translation>Tabキーで左インデントと字下げを設定する(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Enter header or footer tip (&amp;Q)</source>
+        <translation>ヘッダー/フッターに入る時に提示(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>Print &amp;background colors and images</source>
+        <translation>背景色と画像を印刷(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Draw underline on trailing &amp;spaces</source>
+        <translation>行末のスペースには下線を引く(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>バックアップセンター</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 898.75, 1</source>
+        <translation>pt, 2, 0, 898.75, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Using this user information</source>
+        <translation>このユーザー情報を使用(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Default HomePage(&amp;Y):</source>
+        <translation>デフォルトホームページ(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation>My WPS</translation>
+    </message>
+    <message>
+        <source>My CloudDocument</source>
+        <translation>クラウドファイル</translation>
+    </message>
+    <message>
+        <source>Display &quot;autoco&amp;mplete&quot; tips</source>
+        <translation>登録名の先頭の数文字の入力で候補を表示する(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Lay &amp;out footnotes the way Word6.x/95/97 does</source>
+        <translation type="obsolete">Word 6.x/95/97の仕様で脚注をレイアウトする(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Show &amp;plain watermark</source>
+        <translation>透かしの表示(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Password &amp;hint:</source>
+        <translation>パスワードの提示(&amp;H):</translation>
+    </message>
+    <message>
+        <source>Remove persona&amp;l information from file properties on save</source>
+        <translation>ファイルを保存する時、個人情報を削除する(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Adjust line height to grid height in the ta&amp;ble</source>
+        <translation>行の高さをグリッドと同じ高さに調整する(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Navigation &amp;Pane:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Live Pre&amp;view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ont Substitution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the b&amp;ox to tick</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting between documents when st&amp;yles conflict:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use Destination Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>comments and revisions au&amp;thor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print full name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print initials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS account to encrypt files, simple, convenient, safe and reliable! Colleagues can restrict designated users to use the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ScreenSaver Center</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7308,7 +7754,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Orientation</source>
-        <translation>方向</translation>
+        <translation>印刷の向き</translation>
     </message>
     <message>
         <source>P&amp;er line:</source>
@@ -7435,7 +7881,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Keep lines together</source>
-        <translation>1つの段落の中で改ページしない(&amp;K)</translation>
+        <translation>段落を分割しない(&amp;K)</translation>
     </message>
     <message>
         <source>&amp;Outline level:</source>
@@ -7451,7 +7897,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
-        <translation>日本語の規則で段落の先頭と最後の文字を制御する(&amp;U)</translation>
+        <translation>禁則処理を行う(&amp;U)</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -7575,7 +8021,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Keep with ne&amp;xt</source>
-        <translation>次の段落と同じページ(&amp;X)</translation>
+        <translation>次の段落と分離しない(&amp;X)</translation>
     </message>
     <message>
         <source>L&amp;ine spacing:</source>
@@ -7631,7 +8077,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Line break</source>
-        <translation>改行</translation>
+        <translation>改行時の処理</translation>
     </message>
     <message>
         <source>Multiple</source>
@@ -7639,11 +8085,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Page &amp;break before</source>
-        <translation>段落の前に改ページ(&amp;B)</translation>
+        <translation>段落前で改ページする(&amp;B)</translation>
     </message>
     <message>
         <source>Pagination</source>
-        <translation>改ページ</translation>
+        <translation>改ページ位置の自動修正</translation>
     </message>
     <message>
         <source>Paragraph</source>
@@ -7683,7 +8129,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Widow/Orphan &amp;control</source>
-        <translation>単行を残さずに改ページ(&amp;C)</translation>
+        <translation>改ページ時1行を残して段落を区切らない(&amp;C)</translation>
     </message>
     <message>
         <source>auto, 1, -10, 10, 1</source>
@@ -7723,7 +8169,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Multiple, 2, 0.06, 132, 0.5</source>
-        <translation>Multiple, 2, 0.06, 132, 0.5</translation>
+        <translation type="obsolete">Multiple, 2, 0.06, 132, 0.5</translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation>倍数, 2, 0.06, 132, 0.5</translation>
+    </message>
+    <message>
+        <source>Thai Distributed</source>
+        <translation>タイ分散</translation>
+    </message>
+    <message>
+        <source>&amp;Set As Default</source>
+        <translation>デフォルトと設定(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -7982,6 +8440,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>How to solve problems of the printer?</source>
         <translation>プリンタの問題をどのように解決しますか？</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>受信者を追加(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -8445,23 +8907,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxDlgTabs</name>
     <message>
         <source>&amp;1 None</source>
-        <translation>1 なし(&amp;1)</translation>
+        <translation>(&amp;1) なし</translation>
     </message>
     <message>
         <source>&amp;2 .....</source>
-        <translation>2 .....(&amp;2)</translation>
+        <translation>(&amp;2) .....</translation>
     </message>
     <message>
         <source>&amp;3 ----</source>
-        <translation>3 -----(&amp;3)</translation>
+        <translation>(&amp;3) ----</translation>
     </message>
     <message>
         <source>&amp;4 ____</source>
-        <translation>4 _____(&amp;4)</translation>
+        <translation>(&amp;4) ____</translation>
     </message>
     <message>
         <source>&amp;5</source>
-        <translation>5 (&amp;5)</translation>
+        <translation>(&amp;5)</translation>
     </message>
     <message>
         <source>&amp;Center</source>
@@ -8563,7 +9025,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Ok</source>
-        <translation>Ok</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8695,7 +9157,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>WPS Writer is updating the table of contents. Select one of the following options:</source>
-        <translation>Kingsoft Writerは目次の内容を更新します。以下のオプションから1つを選択して下さい:</translation>
+        <translation>WPS Writerは目次の内容を更新します。以下のオプションから1つを選択して下さい:</translation>
     </message>
     <message>
         <source>NO_TRANS! WPS Writer is updating the table of contents. Select one of the following options:</source>
@@ -8933,8 +9395,8 @@ changes are possible. If you prefer not to upgrade, press cancel an
 check the maintain compatibility checkbox.</source>
         <translation>このファイルは新しいファイル形式にアップデートされます。
 
-Wordにの新機能を取り入れることにより、レイアウトが多少変更になります。アップデートをしない場合は「キャンセル」をクリックし、
-「互換性保持」チェックボックスにチェックを入れてください。</translation>
+ドキュメントファイルに保存することにより、レイアウトが多少変更になります。アップデートしない場合は「キャン
+セル」をクリックしてください。</translation>
     </message>
 </context>
 <context>
@@ -8957,7 +9419,7 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>Setting the default printer or options will affect WPS Writer and all other Windows-based applications.</source>
-        <translation>既定のプリンタやオプションの設定は、Kingsoft Writerや他のWindowsアプリケーションに影響を与えます。</translation>
+        <translation>既定のプリンタやオプションの設定は、WPS Writerや他のWindowsアプリケーションに影響を与えます。</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -9043,30 +9505,30 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>&amp;Smart Backup</source>
-        <translation>ラジオボタン(&amp;S)</translation>
+        <translation>自動バックアップ(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished"></translation>
+        <translation>この名前のドキュメントフィールドが既に存在します。上書き保存しますか？</translation>
     </message>
     <message>
         <source>The name of the document field is illegal.</source>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールドの名前が正しくありません。</translation>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished"></translation>
+        <translation>このドキュメントフィールドの名前が既に存在します。他の名前を指定してください。</translation>
     </message>
 </context>
 <context>
@@ -9173,19 +9635,39 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     <name>KxEnvelopeOptionDlg</name>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">Ok</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="obsolete">自動</translation>
+        <translation>自動</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="obsolete">ユーザー設定</translation>
+        <translation>ユーザー設定</translation>
+    </message>
+    <message>
+        <source>Use printer setting</source>
+        <translation>プリンタの設定を使用</translation>
+    </message>
+    <message>
+        <source>You have changed WPS Writer&apos;s default envelope handling method for this printer. These changes could be incorrect. Choose Reset to return to WPS Writer defaults.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
+        <translation>WPS Writerは上記からの封筒給紙を推奨いたします。この給紙方法が機能しなかった場合は、適切な給紙方法を選択してください。</translation>
+    </message>
+    <message>
+        <source>Envelope Address</source>
+        <translation>宛先</translation>
+    </message>
+    <message>
+        <source>Envelope Return Address</source>
+        <translation>差出人住所</translation>
     </message>
 </context>
 <context>
@@ -9207,90 +9689,90 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     <name>KxExportToOFDDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished">書き込みパスワードを入力して下さい</translation>
+        <translation>書き込みパスワードを入力して下さい。</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished"></translation>
+        <translation>二回入力したパスワードが一致しません。</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
-        <translation type="unfinished">書き込みパスワードと読み込みパスワードは異なるものにして下さい</translation>
+        <translation>書き込みパスワードと読み込みパスワードは異なるものにして下さい</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
-        <translation type="unfinished">ファイル名を指定して下さい</translation>
+        <translation>ファイル名を指定して下さい</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished">ファイル名が現存するディレクトリと同じです</translation>
+        <translation>ファイル名が現存するディレクトリと同じです</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished">指定したディレクトリが見つかりません</translation>
+        <translation>指定したディレクトリが見つかりません</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished">このディレクトリ内では書き込み権限がありません</translation>
+        <translation>このディレクトリ内では書き込み権限がありません</translation>
     </message>
     <message>
         <source>Save OFD File As</source>
-        <translation type="unfinished"></translation>
+        <translation>OFDファイルとして保存</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD ファイル(*.ofd)|*.ofd|すべてのファイル(*.*)|*.*</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
-        <translation type="unfinished">指定したファイル名はすでに存在します。置き換えますか？</translation>
+        <translation>指定したファイル名はすでに存在します。置き換えますか？</translation>
     </message>
     <message>
         <source>This is not a valid page range.</source>
-        <translation type="unfinished">無効なページ範囲です。</translation>
+        <translation>無効なページ範囲です。</translation>
     </message>
 </context>
 <context>
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>OFDファイルの出力を用意しています...</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>OFDファイルを開く過程にエラーが発生しました。</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>OFDコンバータはメモリ分配の問題が発生しました。ファイルまたは画像のサイズを縮小してください。</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"></translation>
+        <translation>OFDファイルの出力中過程にエラーが発生しました。</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">文書の情報を出力中...</translation>
+        <translation>文書の情報を出力中...</translation>
     </message>
     <message>
         <source>Exporting page %1...</source>
-        <translation type="unfinished">%1 ページを出力中...</translation>
+        <translation>%1 ページを出力中...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">ラベルの出力中...</translation>
+        <translation>ラベルの出力中...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>完了しています...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>出力が完了しました。</translation>
     </message>
 </context>
 <context>
@@ -9359,6 +9841,30 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
         <source>This is not a valid page range.</source>
         <translation>無効なページ範囲です。</translation>
     </message>
+    <message>
+        <source>failed to write distribution log!</source>
+        <translation>分配ログの作成に失敗しました。</translation>
+    </message>
+    <message>
+        <source>The dirrectory name is the same as an existing file.</source>
+        <translation>同じ名前のファイルが既に存在します。</translation>
+    </message>
+    <message>
+        <source>The directory you specified already have some files exists. Are you sure to replace the existing file?</source>
+        <translation>指定されるフォルダには一部のファイルがあります。上書き保存しますか？</translation>
+    </message>
+    <message>
+        <source>The directory you specified already have some files cannot be write. please specify the other file name.</source>
+        <translation>指定されるフォルダには一部のファイルが他のアプリで使用されています。他のフォルダを指定してください。</translation>
+    </message>
+    <message>
+        <source>Edit receiver(&amp;R)</source>
+        <translation>受信者を編集(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>受信者を追加(&amp;R)</translation>
+    </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
@@ -9408,7 +9914,7 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF.</source>
-        <translation>Kingsoft WriterはPDFファイルの出力中にエラーが発生しました。PDFファイルの名前を入力して下さい</translation>
+        <translation>WPS WriterはPDFファイルの出力中にエラーが発生しました。PDFファイルの名前を入力して下さい</translation>
     </message>
     <message>
         <source>Exporting page %1...</source>
@@ -9417,6 +9923,14 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF. Please provide a filename for your PDF.</source>
         <translation type="obsolete">Kingsoft WriterはPDFファイルの出力中にエラーが発生しました。PDFファイルの名前を入力して下さい</translation>
+    </message>
+    <message>
+        <source>receiver%1.pdf</source>
+        <translation>受信者%1.pdf</translation>
+    </message>
+    <message>
+        <source>receiverlist.pdf</source>
+        <translation>受信者リスト.pdf</translation>
     </message>
 </context>
 <context>
@@ -9665,31 +10179,31 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished">/</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished"></translation>
+        <translation>ルート ディレクトリ</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation type="unfinished"></translation>
+        <translation>D:\\</translation>
     </message>
     <message>
         <source>D drive</source>
-        <translation type="unfinished"></translation>
+        <translation>D ドライブ</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished"></translation>
+        <translation>KingSoft.wpsファイルが %1にあることと仮定されます。フィールドコード:HYPERLINK %2KingSoft.wps</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 内の KingSoft.wps ファイルを開いて認証します。</translation>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>画像のURLが &quot;%1WPS.jpg&quot; と仮定されます。フィールドコード: INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
@@ -9713,7 +10227,7 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルのURLが &quot;%1wps.doc&quot; と仮定されます。フィールドコード: INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -9777,19 +10291,87 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>Presume the file path of this document is</source>
-        <translation type="unfinished"></translation>
+        <translation>仮定のファイルバス:</translation>
     </message>
     <message>
         <source>Field code:</source>
-        <translation type="unfinished"></translation>
+        <translation>フィールドコード:</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>Link</translation>
     </message>
     <message>
         <source>Insert part of a file by using OLE</source>
-        <translation type="unfinished"></translation>
+        <translation>OLEを使用して、他のアプリケーションのファイル内容をリンクします。</translation>
+    </message>
+    <message>
+        <source>Presume there are captions from Figure 1 to Figure 3. Field code:TOC \h \z \c &quot;Figure&quot;</source>
+        <translation>ファオイルには図表 1から図表 3があると仮定されます。 フィールドコード:TOC \h \z \c &quot;図表&quot;</translation>
+    </message>
+    <message>
+        <source>Figure</source>
+        <translation>図表</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>テキスト</translation>
+    </message>
+    <message>
+        <source>Presume the AutoText of this document is AUTOTEXT autotext. Field code: AUTOTEXT autotext</source>
+        <translation>ファイルには定型句があると仮定されます。フィールドコード:AUTOTEXT autotext</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <translation>定型句</translation>
+    </message>
+    <message>
+        <source>Insert an AutoText entry</source>
+        <translation>定型句を挿入</translation>
+    </message>
+    <message>
+        <source>Presume the AutoTextlist of this document is AUTOTEXTLIST autotextlist. Field code: AUTOTEXTLIST autotextlist</source>
+        <translation>ファイルには定型句リストautotextlistがあると仮定されます。フィールドコード:AUTOTEXTLIST autotextlist</translation>
+    </message>
+    <message>
+        <source>AutoTextList</source>
+        <translation>定型句一覧</translation>
+    </message>
+    <message>
+        <source>Insert text based on style</source>
+        <translation>スタイルテキストを挿入</translation>
+    </message>
+    <message>
+        <source>Presume the set of this document is SET set. Field code: SET set</source>
+        <translation>ファイルにはブックマークsetがあると仮定されます。フィールドコード:SET set</translation>
+    </message>
+    <message>
+        <source>Specify new text for bookmarks</source>
+        <translation>ブックマークに新しい文字列を指定</translation>
+    </message>
+    <message>
+        <source>Presume the ask of this document is ASK ask. Field code: ASK ask</source>
+        <translation>ファイルにはブックマークaskがあると仮定されます。.フィールドコード:ASK ask</translation>
+    </message>
+    <message>
+        <source>Prompt the user to specify a bookmark</source>
+        <translation>ブックマークの文字を指定することを提示</translation>
+    </message>
+    <message>
+        <source>AutoText&amp;Name:</source>
+        <translation>定型句の名前(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Newv&amp;alue:</source>
+        <translation>新しい値(&amp;A):</translation>
+    </message>
+    <message>
+        <source>BookMark&amp;Name:</source>
+        <translation>ブックマークの名前(&amp;N):</translation>
+    </message>
+    <message>
+        <source>BookMark&amp;Text:</source>
+        <translation>文字列(&amp;T):</translation>
     </message>
 </context>
 <context>
@@ -10184,11 +10766,11 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     </message>
     <message>
         <source>WPS Writer could not determine the destination.</source>
-        <translation>Kingsoft Writerが目標を測定できません。</translation>
+        <translation>WPS Writerが目標を測定できません。</translation>
     </message>
     <message>
         <source>The bookmark does not exist or is hidden.</source>
-        <translation>ぷっくマークが存在しない、または隠されています。</translation>
+        <translation>ブックマークが存在しない、または隠されています。</translation>
     </message>
     <message>
         <source>Match Case</source>
@@ -10373,6 +10955,10 @@ Wordにの新機能を取り入れることにより、レイアウトが多少�
     <message>
         <source>， Match Byte</source>
         <translation type="obsolete">,半角/全角を区別する</translation>
+    </message>
+    <message>
+        <source>&amp;Clipboard Contents</source>
+        <translation>クリップボードの内容(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -10579,7 +11165,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Kingsoft Presentation</translation>
+        <translation>WPS Writer</translation>
     </message>
 </context>
 <context>
@@ -10715,6 +11301,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Vietnamese</source>
         <translation>ベトナム語</translation>
+    </message>
+    <message>
+        <source>Thai (Thailand)</source>
+        <translation>タイ語 (タイ)</translation>
     </message>
 </context>
 <context>
@@ -11025,15 +11615,19 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
-        <translation>無効なEメールアドレスです。Kinfsoft Office はメール転送されたドキュメントを結合できません</translation>
+        <translation>無効なEメールアドレスです。WPS Office はメール転送されたドキュメントを結合できません。</translation>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Kingsoft プレゼンテーション</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>Not a valid e-mail address, WPS Writer cannot merge documents by mail transfer.</source>
         <translation type="obsolete">無効なEメールアドレスです。Kinfsoft Office はメール転送されたドキュメントを結合できません</translation>
+    </message>
+    <message>
+        <source>HTML</source>
+        <translation>HTML</translation>
     </message>
 </context>
 <context>
@@ -11233,7 +11827,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation>なし</translation>
+        <translation type="obsolete">なし</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -11553,7 +12147,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation>なし</translation>
+        <translation type="obsolete">なし</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -11755,7 +12349,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation>VBA環境がインストールされていないため、マクロのセキュリティ設定時にエラーが発生しました。技術サポートにお問い合わせ下さい</translation>
+        <translation type="obsolete">VBA環境がインストールされていないため、マクロのセキュリティ設定時にエラーが発生しました。技術サポートにお問い合わせ下さい</translation>
     </message>
     <message>
         <source>The password of the file encryption must be no longer than 15 characters.</source>
@@ -11788,6 +12382,34 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
         <translation type="obsolete">バックアップファイルを&quot;%1&quot;に保存する権限がありません</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>クィックメニューバー</translation>
+    </message>
+    <message>
+        <source>Customize Ribbon</source>
+        <translation>メニュータブのユーザー設定</translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation>通知</translation>
+    </message>
+    <message>
+        <source>Trust Center</source>
+        <translation>セキュリティセンター</translation>
+    </message>
+    <message>
+        <source>All Opened Documents</source>
+        <translation>すべての開いているファイル</translation>
+    </message>
+    <message>
+        <source>Document ma&amp;p:</source>
+        <translation type="unfinished">見出し構成(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Advanced authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11822,7 +12444,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>Level %1</source>
-        <translation>ラベル %1</translation>
+        <translation>レベル %1</translation>
     </message>
     <message>
         <source>New Bullet...</source>
@@ -12069,6 +12691,14 @@ This change will affect all new documents based on the %1 template.</source>
         <source>This is not a valid measurement.</source>
         <translation type="obsolete">無効な単位です。</translation>
     </message>
+    <message>
+        <source>The measurement must be between %1 %3 and %2 %3.</source>
+        <translation type="obsolete">%1 から %2 までの数値を指定して下さい {1 %3 ?} {2 %3.?}</translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="obsolete">標準テンプレートが使用されているため、変更に失敗しました。</translation>
+    </message>
 </context>
 <context>
     <name>KxPhoneticGuideDlg</name>
@@ -12119,6 +12749,22 @@ This change will affect all new documents based on the %1 template.</source>
         <source>The printer &quot;%1&quot; encountered an error!</source>
         <translation>%1 プリンタからエラーが返されました</translation>
     </message>
+    <message>
+        <source>failed to write distribution log!</source>
+        <translation>分配ログの作成に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Edit receiver(&amp;R)</source>
+        <translation>受信者を編集(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>受信者を追加(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Print permissions error!</source>
+        <translation>印刷権限エラー!</translation>
+    </message>
 </context>
 <context>
     <name>KxProtectDocumentDlg</name>
@@ -12150,19 +12796,31 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Edit Section Name</source>
-        <translation>セクション名称の編集</translation>
+        <translation type="obsolete">セクション名称の編集</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation>次のページから</translation>
+        <translation type="obsolete">次のページから</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
-        <translation>現在のページから</translation>
+        <translation type="obsolete">現在のページから</translation>
     </message>
     <message>
         <source>Merge to Previous</source>
         <translation>前のセクションに結合</translation>
+    </message>
+    <message>
+        <source>Add Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge to</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12197,6 +12855,14 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Modify page number</source>
         <translation>ページ番号の設定</translation>
+    </message>
+    <message>
+        <source>Rebuild page number</source>
+        <translation>ページ番号の振り直し</translation>
+    </message>
+    <message>
+        <source>Page number format</source>
+        <translation>番号書式</translation>
     </message>
 </context>
 <context>
@@ -12541,7 +13207,7 @@ Select the part of the contents in the document, and select the users can edit.<
         <source>If you make this change in document protection, WPS Writer will ignore all the exceptions in this document.
 
 Do you want to remove the ignored exceptions?</source>
-        <translation>文書の保護を変更すると、Kingsoft Writerは例外処理で指定されている全ての内容を無視します。
+        <translation>文書の保護を変更すると、WPS Writerは例外処理で指定されている全ての内容を無視します。
 
 「例外処理」で指定されていて、無視されるすべての内容を削除しますか？</translation>
     </message>
@@ -12825,19 +13491,19 @@ Select parts of the document and choose users who are allowed to freely edit the
     </message>
     <message>
         <source>rbHorizontalCenter</source>
-        <translation type="unfinished">中央寄せ</translation>
+        <translation type="obsolete">中央寄せ</translation>
     </message>
     <message>
         <source>rbHorizontalLeft</source>
-        <translation type="unfinished">左寄せ</translation>
+        <translation type="obsolete">左寄せ</translation>
     </message>
     <message>
         <source>rbHorizontalOther</source>
-        <translation type="unfinished">その他</translation>
+        <translation type="obsolete">その他</translation>
     </message>
     <message>
         <source>rbHorizontalRight</source>
-        <translation type="unfinished">右寄せ</translation>
+        <translation type="obsolete">右寄せ</translation>
     </message>
 </context>
 <context>
@@ -12921,7 +13587,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
-        <translation>脚注と文末脚注を含む(F)</translation>
+        <translation type="obsolete">脚注と文末脚注を含む(F)</translation>
     </message>
     <message>
         <source>Non-Asian words</source>
@@ -12955,6 +13621,10 @@ to a Word XML document.</source>
         <source>Characters (with spaces)</source>
         <translation>文字数(スペースあり)</translation>
     </message>
+    <message>
+        <source>Include textboxs,&amp;footnotes and endnotes</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
@@ -12972,6 +13642,11 @@ to a Word XML document.</source>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation>挿入したグラフィックスを正常に表示できません。グラフィックスのサイズに合わせて自動的に行間隔を調整しますか。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13038,6 +13713,22 @@ to a Word XML document.</source>
     <message>
         <source>The bookmark already exists, please change the name.</source>
         <translation>すでに同名のブックマークが存在するため、名前を変更して下さい。</translation>
+    </message>
+    <message>
+        <source>&amp;DeleteTheBk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete&amp;AllBk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Show Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Hide Bookmark</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13149,7 +13840,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Previous Comment</source>
-        <translation>前のコメント</translation>
+        <translation>前へ</translation>
     </message>
     <message>
         <source>Previous Endnote</source>
@@ -13227,6 +13918,10 @@ to a Word XML document.</source>
     <message>
         <source>Picture</source>
         <translation>図</translation>
+    </message>
+    <message>
+        <source>Update Table...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13664,7 +14359,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation>ヘッダー/フッタ-</translation>
+        <translation>ヘッダー/フッター</translation>
     </message>
     <message>
         <source>Header inside</source>
@@ -13809,7 +14504,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Document &amp;template</source>
-        <translation>ドキュメントテンプレート(&amp;T)</translation>
+        <translation>文書の作成に使用するテンプレート(&amp;T)</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -13821,11 +14516,11 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>&amp;Global templates and add-ins</source>
-        <translation>テンプレートとアドイン(&amp;G)</translation>
+        <translation>アドインとして使用できるテンプレート(&amp;G)</translation>
     </message>
     <message>
         <source>Checked items are currently loaded.</source>
-        <translation>チェックした項目を読み込んでいます。</translation>
+        <translation>使用するテンプレートのチェックボックスをオンにしてください。</translation>
     </message>
     <message>
         <source>A&amp;dd...</source>
@@ -13849,7 +14544,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Checked schemas are currently attached:</source>
-        <translation>チェックしたスキーマが添付されます:</translation>
+        <translation>チェックマークのついているスキーマが現在添付されています:</translation>
     </message>
     <message>
         <source>Schema &amp;Library...</source>
@@ -14006,7 +14701,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Level %1</source>
-        <translation>ラベル %1</translation>
+        <translation>レベル %1</translation>
     </message>
     <message>
         <source>Show Book Mark</source>
@@ -14083,6 +14778,10 @@ to a Word XML document.</source>
         <source>No Color</source>
         <translation>塗りつぶしなし</translation>
     </message>
+    <message>
+        <source>No Background</source>
+        <translation>塗りつぶしなし</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
@@ -14099,104 +14798,104 @@ to a Word XML document.</source>
     <name>KxWpsFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation type="unfinished">日本語フォントを使用して下さい</translation>
+        <translation>日本語フォントを使用して下さい</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
-        <translation type="unfinished">これは True Type フォントです。プリンタと画面表示の両方で使用されます</translation>
+        <translation>これは True Type フォントです。プリンタと画面表示の両方で使用されます</translation>
     </message>
     <message>
         <source>This font has not been installed. The most similar available font will be printed.</source>
-        <translation type="unfinished">これはTrue Typeフォントです。プリンタと画面表示の両方で使用されます。</translation>
+        <translation>これはTrue Typeフォントです。プリンタと画面表示の両方で使用されます。</translation>
     </message>
     <message>
         <source>+Heading Asian</source>
-        <translation type="unfinished">+見出しのフォント-日本語</translation>
+        <translation>+見出しのフォント-日本語</translation>
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished">+本文のフォント-日本語</translation>
+        <translation>+本文のフォント-日本語</translation>
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished">+見出しのフォント</translation>
+        <translation>+見出しのフォント</translation>
     </message>
     <message>
         <source>+Body</source>
-        <translation type="unfinished">+本文のフォント</translation>
+        <translation>+本文のフォント</translation>
     </message>
     <message>
         <source>Not Italic</source>
-        <translation type="unfinished">傾体なし</translation>
+        <translation>傾体なし</translation>
     </message>
     <message>
         <source>Not Bold</source>
-        <translation type="unfinished">太字なし</translation>
+        <translation>太字なし</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished">英数字用のフォント(&amp;F):</translation>
+        <translation>英数字用のフォント(&amp;F):</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished"></translation>
+        <translation>日本語用のフォント(&amp;T):</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished">標準</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">斜体</translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">太字</translation>
+        <translation>太字</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished">太字斜体</translation>
+        <translation>太字斜体</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished"></translation>
+        <translation>(なし)</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished">%1フォントが存在しません。代用フォントで表示してよろしいでしょうか？</translation>
+        <translation>%1フォントが存在しません。代用フォントで表示してよろしいでしょうか？</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished"></translation>
+        <translation> %1 から %2 の数字で指定してください。</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished">無効な数字です</translation>
+        <translation>これは有効な数値ではありません。</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished">フォント名が存在しません</translation>
+        <translation>フォント名が存在しません</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
 This change will affect all new documents based on the %1 template.</source>
-        <translation type="unfinished">既定のフォントを変更してもよろしいですか？ 変更することにより、%1 テンプレートで作成されるすべての新しい文書に影響します</translation>
+        <translation>既定のフォントを変更してもよろしいですか？ 変更することにより、%1 テンプレートで作成されるすべての新しい文書に影響します</translation>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
-        <translation type="unfinished">標準テンプレートが使用されているため、変更に失敗しました。</translation>
+        <translation>標準テンプレートが使用されているため、変更に失敗しました。</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>これは有効な単位ではありません。</translation>
     </message>
     <message>
         <source>Measurement must be between %1 pt and %2 pt</source>
-        <translation type="unfinished"> %1から%2までの数値を指定して下さい</translation>
+        <translation> %1から%2までの数値を指定して下さい</translation>
     </message>
 </context>
 <context>
@@ -14210,51 +14909,51 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsFormatGroupContent_TextBox</name>
     <message>
         <source>Bottom</source>
-        <translation>下揃え</translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>Bottom Centered</source>
-        <translation>下中央揃え</translation>
+        <translation>下中央</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央揃え</translation>
+        <translation>中央</translation>
     </message>
     <message>
         <source>Center Middle</source>
-        <translation>左右中央揃え</translation>
+        <translation>左右中央</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>左揃え</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Left Middle</source>
-        <translation>左中央揃え</translation>
+        <translation>左中央</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation>中央揃え</translation>
+        <translation>中央</translation>
     </message>
     <message>
         <source>Middle Centered</source>
-        <translation>上下中央揃え</translation>
+        <translation>中心</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>右揃え</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Right Middle</source>
-        <translation>右中央揃え</translation>
+        <translation>右中央</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>上揃え</translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Top Centered</source>
-        <translation>上中央揃え</translation>
+        <translation>上中央</translation>
     </message>
 </context>
 <context>
@@ -14323,7 +15022,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsGalleryFontComboBox</name>
     <message>
         <source>Simsun</source>
-        <translation>Simsun</translation>
+        <translation type="obsolete">Simsun</translation>
     </message>
 </context>
 <context>
@@ -14425,7 +15124,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>No Line</source>
-        <translation>なし</translation>
+        <translation>線なし</translation>
     </message>
     <message>
         <source>Patterned Lines...</source>
@@ -14526,7 +15225,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Welcome Back</source>
-        <translation>Welcome Back</translation>
+        <translation>おかえりなさい</translation>
     </message>
     <message>
         <source>yyyy years MM months dd days</source>
@@ -14854,7 +15553,23 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsParagraphDlg</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>これは有効な単位ではありません。</translation>
+    </message>
+    <message>
+        <source>Line spacing must be at least %1 %2.</source>
+        <translation>行間は少なくとも  %1 %2 でなければなりません。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between %1 %3 and %2 %3.</source>
+        <translation>%1  %3から %2 %3までの単位を指定してください。</translation>
+    </message>
+    <message>
+        <source>li</source>
+        <translation>li</translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation>標準テンプレートが使用されているため、変更に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -15065,12 +15780,24 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Revision: %1</source>
         <translation type="obsolete">変更履歴記録: %1</translation>
     </message>
+    <message>
+        <source>Reviewer: </source>
+        <translation>校閲者:</translation>
+    </message>
+    <message>
+        <source>Review Time: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsSectNavViewItemSeperator</name>
     <message>
         <source>Insert Section Break</source>
-        <translation>ここをクリックするとセクションを分割します</translation>
+        <translation type="obsolete">ここをクリックするとセクションを分割します</translation>
+    </message>
+    <message>
+        <source>Add Section Break</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15091,11 +15818,11 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsSectionToolboxModel</name>
     <message>
         <source>Cover Page (None)</source>
-        <translation>表紙（未挿入）</translation>
+        <translation type="obsolete">表紙（未挿入）</translation>
     </message>
     <message>
         <source>Table of Contents (None)</source>
-        <translation>目次（未挿入）</translation>
+        <translation type="obsolete">目次（未挿入）</translation>
     </message>
 </context>
 <context>
@@ -15154,6 +15881,10 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>No Line</source>
         <translation>線なし</translation>
+    </message>
+    <message>
+        <source>Delete Line</source>
+        <translation>行の削除</translation>
     </message>
 </context>
 <context>
@@ -15412,7 +16143,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
 </context>
 <context>
@@ -15498,6 +16229,18 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Page: %1</source>
         <translation>ページ: %1</translation>
+    </message>
+    <message>
+        <source>The number of pages of a document. Click the open dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of screens in the document</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15654,7 +16397,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて</translation>
     </message>
 </context>
 <context>
@@ -15988,7 +16731,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>&amp;to the right of</source>
-        <translation>右側(&amp;T)</translation>
+        <translation>基準(&amp;T)</translation>
     </message>
     <message>
         <source>Absolute &amp;position</source>
@@ -16000,7 +16743,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Ali&amp;gnment</source>
-        <translation>位置揃え(&amp;G)</translation>
+        <translation>配置(&amp;G)</translation>
     </message>
     <message>
         <source>Allow o&amp;verlap</source>
@@ -16104,7 +16847,7 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>belo&amp;w</source>
-        <translation>下側(&amp;W)</translation>
+        <translation>基準(&amp;W)</translation>
     </message>
     <message>
         <source>o&amp;f</source>
@@ -16462,11 +17205,11 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>WPS Writer 2007-2010 File(*.wpsx)</source>
-        <translation>Kingsoft Writer 2007/2010ファイル(*.wpsx)</translation>
+        <translation>WPS Writer 2007/2010ファイル(*.wpsx)</translation>
     </message>
     <message>
         <source>Kingsoft Writer 2007/2010 Template(*.wptx)</source>
-        <translation>Kingsoft Writer 2007/2010 テンプレート(*.wptx)</translation>
+        <translation>WPS Writer 2007/2010 テンプレート(*.wptx)</translation>
     </message>
     <message>
         <source>A macro is currently recording. Click to stop recording.</source>
@@ -16490,6 +17233,78 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Security Documents(*.doc)|*.doc</source>
+        <translation>Microsoft Word セキュリティファイル(*.doc)|*.doc</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation type="obsolete">in</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">cm</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="obsolete">mm</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">pt</translation>
+    </message>
+    <message>
+        <source>Cancel Done Comment</source>
+        <translation>解決をキャンセル</translation>
+    </message>
+    <message>
+        <source>Done Comment</source>
+        <translation>解決済み</translation>
+    </message>
+    <message>
+        <source>UnChecked</source>
+        <translation type="obsolete">未検測</translation>
+    </message>
+    <message>
+        <source>level open</source>
+        <translation>公開</translation>
+    </message>
+    <message>
+        <source>level internal</source>
+        <translation>内部</translation>
+    </message>
+    <message>
+        <source>level secret</source>
+        <translation>秘密</translation>
+    </message>
+    <message>
+        <source>level confidential</source>
+        <translation>機密</translation>
+    </message>
+    <message>
+        <source>predefine keyword</source>
+        <translation>プリ定義</translation>
+    </message>
+    <message>
+        <source>userdefine keyword</source>
+        <translation>ユーザー設定</translation>
+    </message>
+    <message>
+        <source>locate keyword</source>
+        <translation>ジャンプ</translation>
+    </message>
+    <message>
+        <source>delete this row</source>
+        <translation>この行を削除</translation>
+    </message>
+    <message>
+        <source>Click to turn on Proofread</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn off Proofread</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16550,19 +17365,19 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>WpsContentTextbox</name>
     <message>
         <source>&amp;Bottom margin</source>
-        <translation>下(&amp;B)</translation>
+        <translation>下(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Left Margin</source>
-        <translation>左(&amp;L)</translation>
+        <translation>左(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Right margin</source>
-        <translation>右(&amp;R)</translation>
+        <translation>右(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Top margin</source>
-        <translation>上(&amp;T)</translation>
+        <translation>上(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Vertical alignment</source>
@@ -16574,7 +17389,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Borderless</source>
-        <translation>罫線なし</translation>
+        <translation>余白なし</translation>
     </message>
     <message>
         <source>Bottom</source>
@@ -16654,7 +17469,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation>広い</translation>
+        <translation>さらに広い</translation>
     </message>
     <message>
         <source>cm</source>
@@ -16663,6 +17478,30 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>°</source>
         <translation>°</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical alignment:</source>
+        <translation>垂直方向の配置(&amp;V):</translation>
+    </message>
+    <message>
+        <source>D&amp;o not rotate text</source>
+        <translation>テキストを回転させない(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Re&amp;size shape to fit text</source>
+        <translation>テキストに合わせて図形のサイズを調整する(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction:</source>
+        <translation>文字列の方向(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle:</source>
+        <translation>ユーザー設定の角度(&amp;U):</translation>
+    </message>
+    <message>
+        <source>T&amp;ext margin:</source>
+        <translation>内部の余白(&amp;E):</translation>
     </message>
 </context>
 <context>
@@ -16676,159 +17515,159 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>OFDファイルとして出力</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">標準</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">保存先(&amp;T)</translation>
+        <translation>保存先(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">参照(&amp;B)...</translation>
+        <translation>参照(&amp;B)...</translation>
     </message>
     <message>
         <source>Page range</source>
-        <translation type="unfinished"></translation>
+        <translation>ページ範囲</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて(&amp;A)</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished">現在のページ</translation>
+        <translation>現在のページ</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished">選択された内容</translation>
+        <translation>選択された内容</translation>
     </message>
     <message>
         <source>Page(s)</source>
-        <translation type="unfinished">ページ</translation>
+        <translation>ページ</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished">から:</translation>
+        <translation>から:</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">To:</translation>
+        <translation>To:</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">出力オプション</translation>
+        <translation>出力オプション</translation>
     </message>
     <message>
         <source>Summar&amp;y information</source>
-        <translation type="unfinished">文書の情報(&amp;Y)</translation>
+        <translation>文書の情報(&amp;Y)</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">新しいコメント(&amp;C)</translation>
+        <translation>新しいコメント(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished">ハイパーリンク(&amp;H)</translation>
+        <translation>ハイパーリンク(&amp;H)</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
-        <translation type="unfinished">脚注と文末脚注のリンク(&amp;N)</translation>
+        <translation>脚注と文末脚注のリンク(&amp;N)</translation>
     </message>
     <message>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>プレースホルダー</translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished">ブックマーク(&amp;K)</translation>
+        <translation>ブックマーク(&amp;K)</translation>
     </message>
     <message>
         <source>&amp;Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>変更履歴(&amp;R)</translation>
     </message>
     <message>
         <source>Con&amp;vert title styles to bookmarks</source>
-        <translation type="unfinished">タイトルのスタイルをブックマークに変換する(&amp;V)</translation>
+        <translation>タイトルのスタイルをブックマークに変換する(&amp;V)</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>他のスタイルをブックマークに変換する(&amp;S)</translation>
     </message>
     <message>
         <source>Convert c&amp;ustom styles to bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー設定のスタイルをブックマークに変換する(&amp;U)</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">権限設定</translation>
+        <translation>権限設定</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished">権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
+        <translation>権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">パスワード(&amp;P):</translation>
+        <translation>パスワード(&amp;P):</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">確認(&amp;F):</translation>
+        <translation>確認(&amp;F):</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">注意　上のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます</translation>
+        <translation>注意　上記のパスワードを設定した上で、次の「読み取りパスワード」を設定し、他人に変更されないように保護できます。</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished">変更可能(&amp;D)</translation>
+        <translation>変更可能(&amp;D)</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished">コピー可能(&amp;O)</translation>
+        <translation>コピー可能(&amp;O)</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">コメント追加可能(&amp;A)</translation>
+        <translation>コメント追加可能(&amp;A)</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
-        <translation type="unfinished">印刷権限(&amp;R)：</translation>
+        <translation>印刷権限(&amp;R)：</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">印刷制限</translation>
+        <translation>印刷制限</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished"></translation>
+        <translation>印刷を許可しない</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">低品質印刷のみ許可</translation>
+        <translation>低品質印刷のみ許可</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">印刷許可</translation>
+        <translation>印刷許可</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished">読み取り専用パスワード:</translation>
+        <translation>読み取り専用パスワード:</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">パスワード(&amp;W):</translation>
+        <translation>パスワード(&amp;W):</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished">確認(&amp;I):</translation>
+        <translation>確認(&amp;I):</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">出力後に自動的に閉じる(&amp;X)</translation>
+        <translation>出力後に自動的に閉じる(&amp;X)</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -16836,26 +17675,38 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Suwell&amp;K</source>
-        <translation type="unfinished"></translation>
+        <translation>Suwell(&amp;K)</translation>
     </message>
     <message>
         <source>&amp;Foxit</source>
-        <translation type="unfinished"></translation>
+        <translation>Foxit(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Up&amp;dateFields</source>
+        <translation>フィールドの更新(&amp;D)</translation>
+    </message>
+    <message>
+        <source>OFD Service Provider</source>
+        <translation>OFDサービスプロバイダー</translation>
+    </message>
+    <message>
+        <source>E&amp;mbedFont</source>
+        <translation>埋め込むフォント(&amp;M)</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD ファイルとして出力</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">ファイルを開く(&amp;O)</translation>
+        <translation>ファイルを開く(&amp;O)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -17068,6 +17919,10 @@ remove the schema with the duplicate URI, and then add the schema you specified.
         <source>Password to protect pe&amp;rmission settings</source>
         <translation type="obsolete">権限設定のパスワード(次の設定を有効にする)(&amp;E)</translation>
     </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>受信者を追加(&amp;R)</translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToPDFProgress</name>
@@ -17096,7 +17951,27 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="obsolete">置換(&amp;R)</translation>
+        <translation>置換(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translation>類義語ライブラリ</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation>現在のワード(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation>言語(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation>代替ワード(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation>キャンセル(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -17203,6 +18078,2707 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Conten&amp;t:</source>
         <translation>内容(&amp;T)</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddKeyWordDlg</name>
+    <message>
+        <source>please enter keyword!</source>
+        <translation>キーワードを入力してください。</translation>
+    </message>
+    <message>
+        <source>The Key word length must be 1 to 40 char!</source>
+        <translation>キーワードの長さを40文字以下で指定してください。</translation>
+    </message>
+    <message>
+        <source>%1 is not a valid special character for the key word!</source>
+        <translation>%1 をパスワードに入力しないでください。</translation>
+    </message>
+    <message>
+        <source>The Key word is aready exit!</source>
+        <translation>このキーワードは既に存在します。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddKeyWordDlg2</name>
+    <message>
+        <source>please enter keyword!</source>
+        <translation type="unfinished">キーワードを入力してください。</translation>
+    </message>
+    <message>
+        <source>The Key word length must be 1 to 40 char!</source>
+        <translation type="unfinished">キーワードの長さを40文字以下で指定してください。</translation>
+    </message>
+    <message>
+        <source>%1 is not a valid special character for the key word!</source>
+        <translation type="unfinished">%1 をパスワードに入力しないでください。</translation>
+    </message>
+    <message>
+        <source>The Key word is aready exit!</source>
+        <translation type="unfinished">このキーワードは既に存在します。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAdjustNumberingIndentDlg</name>
+    <message>
+        <source>Bulleted position(&amp;P):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApplication</name>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation>Gongpuパスワード暗号化モジュールのロードに失敗しました。</translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation>選択した形式は元のファイル形式と一致しません。ファイルを新しいモードで保存しますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxAutoCorrectOptionsDlg</name>
+    <message>
+        <source>Kingsoft WPS</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>An AutoCorrect entry for &apos;%1&apos; already exists. Do you want to redefine it?</source>
+        <translation>&apos;%1&apos;という名前で別のオートコレクトが登録されています。同じ名前で登録し直しますか?</translation>
+    </message>
+    <message>
+        <source>Repl&amp;ace</source>
+        <translation>置換(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>追加(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupRoamingSettingTipWidget</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation>自動ローミングとは？</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>後で、他の端末でログインする、このファイルを閲覧/編集することができます。</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>そして、ローカルとクラウド側の変更を自動的に同期します。</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>［自動ローミング］をオンにすると、開いたファイルが自動的にクラウドに保存されます。</translation>
+    </message>
+</context>
+<context>
+    <name>KxBookmarkSelectionDlg</name>
+    <message>
+        <source>Bookmarks</source>
+        <translation type="unfinished">ブックマーク</translation>
+    </message>
+</context>
+<context>
+    <name>KxBulletsNumberingDlg</name>
+    <message>
+        <source>None list</source>
+        <translation>なし</translation>
+    </message>
+</context>
+<context>
+    <name>KxConfidentialityLevelKeyWordDlg</name>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation type="obsolete">検測が完了しました。機密性レベルのキーワードが検出されません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxConfidentialityLevelKeyWordDlgV2</name>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation type="unfinished">検測が完了しました。機密性レベルのキーワードが検出されません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomShortCutDlg</name>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>キーボードのユーザー設定</translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>変更の保存先(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>コマンドの指定</translation>
+    </message>
+    <message>
+        <source>&amp;Categories:</source>
+        <translation>種類(&amp;C):</translation>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>コマンド(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>キー ストロークの指定</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>割り当てるキーを押してください(&amp;N):</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>現在のキー(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Explain</source>
+        <translation type="obsolete">説明</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>割り当て(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>削除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Currently assigned to: </source>
+        <translation>現在の割り当て:</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>[ファイル] タブ</translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;タブ</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
+        <translation>キー割り当てを元に戻しますか？この操作を行うと%1のスタイルやマクロに割り当てられているすべてのキー割り当てが削除されます。</translation>
+    </message>
+    <message>
+        <source>[Underline]</source>
+        <translation>[未指定]</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>すべてをリセット(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>Quits WPS and prompts to save the documents</source>
+        <translation>ファイルの保存を確認し、WPS を終了します。</translation>
+    </message>
+    <message>
+        <source>Opens New Document taskpane</source>
+        <translation>[新規文書]タスクペンを開く</translation>
+    </message>
+    <message>
+        <source>Opens an existing document or template</source>
+        <translation>既存の文書またはテンプレートを開く</translation>
+    </message>
+    <message>
+        <source>Saves the active document or template</source>
+        <translation>アクティブ文書またはテンプレートを保存</translation>
+    </message>
+    <message>
+        <source>Save a copy of the document in a separate file</source>
+        <translation type="obsolete">名前をつけて文書を保存</translation>
+    </message>
+    <message>
+        <source>Save file as Word 97-2003 Document</source>
+        <translation>文書を Word 97-2003 ファイルとして保存</translation>
+    </message>
+    <message>
+        <source>Save file as DOCX document</source>
+        <translation>文書を DOCX ファイルとして保存します。</translation>
+    </message>
+    <message>
+        <source>Sends the active document through electronic mail</source>
+        <translation>アクティブファイルをメールで送信します。</translation>
+    </message>
+    <message>
+        <source>Changes all the borders of the selected table cells</source>
+        <translation>選択される表のすべての枠線を変更します。</translation>
+    </message>
+    <message>
+        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
+        <translation>選択した段落、表のセル、図の下の罫線を変更します。</translation>
+    </message>
+    <message>
+        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>選択した段落、表のセル、図の内側の罫線を変更します。または、罫線を削除します。</translation>
+    </message>
+    <message>
+        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
+        <translation>選択した段落、表のセル、図の左側の罫線を変更します。</translation>
+    </message>
+    <message>
+        <source>Remove borders from the selected paragraphs, table cells, and pictures</source>
+        <translation type="obsolete">選択した段落、表のセル、図の罫線を削除します。</translation>
+    </message>
+    <message>
+        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>選択した段落、表のセル、図の外枠の罫線を変更します。</translation>
+    </message>
+    <message>
+        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
+        <translation>選択した段落、表のセル、図の右側の罫線を変更します。</translation>
+    </message>
+    <message>
+        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>選択した段落、表のセル、図の上の罫線を変更します。</translation>
+    </message>
+    <message>
+        <source>Jumps to a specified place in the active document</source>
+        <translation>アクティブなドキュメントの指定位置にジャンプします。</translation>
+    </message>
+    <message>
+        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
+        <translation>クリップボードの内容をリンク、埋め込みオブジェクトまたは他の形式で挿入します。</translation>
+    </message>
+    <message>
+        <source>Selects the entire document</source>
+        <translation>文書全体を選択します。</translation>
+    </message>
+    <message>
+        <source>Creates a Quick style out of the currently selected text</source>
+        <translation type="obsolete">選択される文字列を元に「クイックスタイル」を作成します。</translation>
+    </message>
+    <message>
+        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
+        <translation>テキスト ボックスを描画します。 または､選択されている内容をテキスト ボックスで囲みます。</translation>
+    </message>
+    <message>
+        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
+        <translation>縦書きテキスト ボックスを描画します。または､選択されている内容を縦書きテキスト ボックスで囲みます。</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the bottom</source>
+        <translation>選択した描画オブジェクトを下端に揃えて配置します。</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects horizontally to the center</source>
+        <translation>選択した描画オブジェクトを水平方向の中央に揃えて配置します。</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects vertically to the center</source>
+        <translation>選択した描画オブジェクトを垂直方向の中央に揃えて配置します。</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the left</source>
+        <translation>選択した描画オブジェクトを左端に揃えて配置します。</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the right</source>
+        <translation>選択した描画オブジェクトを右端に揃えて配置します。</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the top</source>
+        <translation>選択した描画オブジェクトを上端に揃えて配置します。</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects horizontally</source>
+        <translation>選択した描画オブジェクトを水平方向に配布します。</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects vertically</source>
+        <translation>選択した描画オブジェクトを垂直方向に配布します。</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects backward</source>
+        <translation>選択した描画オブジェクトを背面に移動します。</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects to the back</source>
+        <translation>選択した描画オブジェクトを最背面へ移動します。</translation>
+    </message>
+    <message>
+        <source>Removes Table of Contents building block from the document</source>
+        <translation>目次文書パーツを削除します。</translation>
+    </message>
+    <message>
+        <source>Accepts all changes in document, ignoring filter settings</source>
+        <translation>フィルタ位置を無視し、すべての変更を承諾します。</translation>
+    </message>
+    <message>
+        <source>Accepts all changes that are highlighted in the current filter settings</source>
+        <translation>現在のフィルタ設定でハイライトで表示されるすべての変更を承諾します。</translation>
+    </message>
+    <message>
+        <source>Delete all comments in document, ignoring filter settings</source>
+        <translation type="obsolete">フィルタ設定を無視し、ドキュメント内のすべてのコメントを削除します。</translation>
+    </message>
+    <message>
+        <source>Rejects all changes in document, ignoring filter settings</source>
+        <translation>フィルタ位置を無視し、すべての変更を拒否します。</translation>
+    </message>
+    <message>
+        <source>Rejects all changes that are highlighted in the current filter settings</source>
+        <translation>現在のフィルタ設定でハイライトで表示されるすべての変更を拒否します。</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
+        <translation>変更履歴の閲覧と編集する垂直概要パネルの表示/非表示</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
+        <translation>変更履歴の閲覧と編集する水平概要パネルの表示/非表示</translation>
+    </message>
+    <message>
+        <source>Show or hide comment balloons</source>
+        <translation>コメント吹き出しの表示/非表示</translation>
+    </message>
+    <message>
+        <source>Show or hide markup balloons</source>
+        <translation>マークアップ吹き出しの表示/非表示</translation>
+    </message>
+    <message>
+        <source>Scales the current view to 100%</source>
+        <translation>100% のサイズで表示します。</translation>
+    </message>
+    <message>
+        <source>Auto-Fit Table to the contents</source>
+        <translation>内容に合わせて表を調整します。</translation>
+    </message>
+    <message>
+        <source>Deletes the selected cells from the table</source>
+        <translation>選択したセルを表から削除します。</translation>
+    </message>
+    <message>
+        <source>Deletes the selected column from the table</source>
+        <translation type="obsolete">選択した列を表から削除します。</translation>
+    </message>
+    <message>
+        <source>Deletes the selected rows from the table</source>
+        <translation>選択した行を表から削除します。</translation>
+    </message>
+    <message>
+        <source>Deletes the selected table</source>
+        <translation>選択した表を削除します。</translation>
+    </message>
+    <message>
+        <source>Selects the current cell in a table</source>
+        <translation>現在のセルを選択します。</translation>
+    </message>
+    <message>
+        <source>Selects the current column in a table</source>
+        <translation>現在の列を選択します。</translation>
+    </message>
+    <message>
+        <source>Selects the current row in a table</source>
+        <translation>表の現在の行を選択します。</translation>
+    </message>
+    <message>
+        <source>Selects an entire table</source>
+        <translation>表全体を選択します。</translation>
+    </message>
+    <message>
+        <source>Opens a data source for mail merge of insert database</source>
+        <translation>差し込み印刷とデータベース用のデータソースを開きます。</translation>
+    </message>
+    <message>
+        <source>Fill Color Picker</source>
+        <translation>塗りつぶしの色の選択</translation>
+    </message>
+    <message>
+        <source>Creates a new AutoText Building Block from the current selection</source>
+        <translation>選択した内容を元に、定型文を作成します。</translation>
+    </message>
+    <message>
+        <source>Always use balloons</source>
+        <translation>吹き出しを常に使用します。</translation>
+    </message>
+    <message>
+        <source>Changes various categories of WPS options</source>
+        <translation>WPS の各オプションを変更します。</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDeleteSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Delete page number</source>
+        <translation>ページ番号の削除</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddKeyWord</name>
+    <message>
+        <source>Add Confidentiality Level KeyWord</source>
+        <translation type="obsolete">機密性キーワードを追加</translation>
+    </message>
+    <message>
+        <source>confidential keyword</source>
+        <translation type="obsolete">機密性キーワード:</translation>
+    </message>
+    <message>
+        <source>confidential level</source>
+        <translation type="obsolete">機密性レベル:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Add secret keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>keyword:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>confidential level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddKeyWord2</name>
+    <message>
+        <source>Add secret keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>keyword:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>confidential level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAdjustNumberingIndent</name>
+    <message>
+        <source>Adjust List Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number position(&amp;P):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text position(&amp;T):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After numbering(&amp;W):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab character</source>
+        <translation type="unfinished">タブ文字</translation>
+    </message>
+    <message>
+        <source>Space</source>
+        <translation type="unfinished">スペース</translation>
+    </message>
+    <message>
+        <source>Nothing</source>
+        <translation type="unfinished">なし</translation>
+    </message>
+    <message>
+        <source>Tabel char position(&amp;B):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAutoCorrectOptions</name>
+    <message>
+        <source>AutoCorrect</source>
+        <translation>オートコレクト</translation>
+    </message>
+    <message>
+        <source>Replace &amp;text as you type</source>
+        <translation>入力中に自動修正する(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Replace:</source>
+        <translation>置換(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;With:</source>
+        <translation>置換後(&amp;W):</translation>
+    </message>
+    <message>
+        <source>&amp;Plain text</source>
+        <translation>テキスト形式(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Formatted text</source>
+        <translation>書式付き(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Repl&amp;ace</source>
+        <translation>置換(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>削除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Automatically use su&amp;ggestions from the spelling checker</source>
+        <translation>入力中にスペル ミスを自動修正する(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Tab 2</source>
+        <translation>タブ 2</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgBookmarkSelection</name>
+    <message>
+        <source>Select Place in Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an existing p&amp;lace in the document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>clkw checking tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips2</name>
+    <message>
+        <source>clkw checking tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWord</name>
+    <message>
+        <source>Confidentiality Level KeyWord</source>
+        <translation>機密性レベルキーワード</translation>
+    </message>
+    <message>
+        <source>Confidentiality Level KeyWord(&amp;K):</source>
+        <translation type="obsolete">機密性レベルキーワード(&amp;K):</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="obsolete">追加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="obsolete">削除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Check</source>
+        <translation>チェック(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Goto</source>
+        <translation type="obsolete">ジャンプ(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">閉じる</translation>
+    </message>
+    <message>
+        <source>&amp;add keyword</source>
+        <translation>機密性キーワードを追加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation>閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWordV2</name>
+    <message>
+        <source>Management keyword</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>select all</source>
+        <translation type="unfinished">すべてを選択</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation type="unfinished">削除</translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation type="unfinished">追加</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWordV3</name>
+    <message>
+        <source>Management keyword</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>select all</source>
+        <translation type="unfinished">すべてを選択</translation>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>delete keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation type="unfinished">検測が完了しました。機密性レベルのキーワードが検出されません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFiguresOptions</name>
+    <message>
+        <source>Table of Figures Options</source>
+        <translation>図表目次オプション</translation>
+    </message>
+    <message>
+        <source>&amp;Styles:</source>
+        <translation>スタイル(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Table &amp;entry fields</source>
+        <translation>目次登録フィールドを使用する(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Table &amp;identifier:</source>
+        <translation>テーブル識別子(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Build table of figures from:</source>
+        <translation>図表目次のスタイル:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFrame</name>
+    <message>
+        <source>Frame</source>
+        <translation>フレーム</translation>
+    </message>
+    <message>
+        <source>Text wra&amp;pping</source>
+        <translation>文字列の折り返し(&amp;P)</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>なし</translation>
+    </message>
+    <message>
+        <source>Around</source>
+        <translation>する</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>サイズ</translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation>幅(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation>固定値</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation>間隔(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Hei&amp;ght:</source>
+        <translation>高さ(&amp;G):</translation>
+    </message>
+    <message>
+        <source>At least</source>
+        <translation>最小値</translation>
+    </message>
+    <message>
+        <source>A&amp;t:</source>
+        <translation>設定値(&amp;T):</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation type="obsolete">pt, 2, 0.05, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <source>Po&amp;sition:</source>
+        <translation>場所(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>中央</translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation>内側</translation>
+    </message>
+    <message>
+        <source>OutSide</source>
+        <translation>外側</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation>余白</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation>ページ</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>段組み</translation>
+    </message>
+    <message>
+        <source>Distance from te&amp;xt:</source>
+        <translation>本文からの距離(&amp;X):</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation>pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>垂直</translation>
+    </message>
+    <message>
+        <source>Pos&amp;ition:</source>
+        <translation>場所(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>最上部</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>最下部</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation>外側</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation>段落</translation>
+    </message>
+    <message>
+        <source>Distance &amp;from text:</source>
+        <translation>文字列との間隔(&amp;F):</translation>
+    </message>
+    <message>
+        <source>R&amp;elative to:</source>
+        <translation>基準(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Re&amp;lative to:</source>
+        <translation>基準(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Move with text</source>
+        <translation>文字列と一緒に移動する(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Loc&amp;k anchor</source>
+        <translation>アンカーのロック(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Frame</source>
+        <translation>フレームの削除(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgIndexMarkEntry</name>
+    <message>
+        <source>Mark Index Entry</source>
+        <translation>索引登録​​</translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>Main &amp;entry:</source>
+        <translation>登録 (メイン)(&amp;E):</translation>
+    </message>
+    <message>
+        <source>&amp;Subentry:</source>
+        <translation>登録 (サブ)(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Heading:</source>
+        <translation>読み(&amp;H):</translation>
+    </message>
+    <message>
+        <source>Headin&amp;g:</source>
+        <translation>読み(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>オプション</translation>
+    </message>
+    <message>
+        <source>Cross-&amp;reference:</source>
+        <translation>相互参照(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Current &amp;page</source>
+        <translation>現在のページ(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Page ra&amp;nge</source>
+        <translation>ページ範囲(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Bookmark:</source>
+        <translation>ブックマーク:</translation>
+    </message>
+    <message>
+        <source>Page number format</source>
+        <translation>ページ番号の書式</translation>
+    </message>
+    <message>
+        <source>&amp;Bold</source>
+        <translation>太字(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Italic</source>
+        <translation>斜体(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Mark</source>
+        <translation>登録(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Mark &amp;all</source>
+        <translation>すべて登録(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgInsertIndex</name>
+    <message>
+        <source>Indexes</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>Inde&amp;x</source>
+        <translation>索引(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>形式:</translation>
+    </message>
+    <message>
+        <source>In&amp;dented</source>
+        <translation>標準(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Ru&amp;n-in</source>
+        <translation>連続(&amp;N)</translation>
+    </message>
+    <message>
+        <source>C&amp;olumns:</source>
+        <translation>段数(&amp;O):</translation>
+    </message>
+    <message>
+        <source>&amp;Language:</source>
+        <translation>言語の選択(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Sort by:</source>
+        <translation>並べ替えキーワード(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>画数</translation>
+    </message>
+    <message>
+        <source>Syllable</source>
+        <translation>読み</translation>
+    </message>
+    <message>
+        <source>&amp;Right align page numbers</source>
+        <translation>ページ番号を右に寄せる(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ta&amp;b leader:</source>
+        <translation>タブリーダー(&amp;B):</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>なし</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation>印刷プレビュー(&amp;V)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Mar&amp;k Entry...</source>
+        <translation>索引登録(&amp;K)...</translation>
+    </message>
+    <message>
+        <source>A&amp;uto Mark...</source>
+        <translation>自動索引登録(&amp;U)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraphSetAsDef</name>
+    <message>
+        <source>Do you want to set the default alignment, indentation, and spacing of the paragraphs for:</source>
+        <translation>デフォルト位置揃え、インデントと段落間隔の設定対象を選択します:</translation>
+    </message>
+    <message>
+        <source>&amp;This document only?</source>
+        <translation>このファイルのみ？(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;All documents based on the Normal.dotm template?</source>
+        <translation>テンプレートNormal.dotmで作成されたすべてのファイル？(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSort</name>
+    <message>
+        <source>Sort</source>
+        <translation>並べ替え</translation>
+    </message>
+    <message>
+        <source>&amp;Sort by</source>
+        <translation>最優先されるキー(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Descending</source>
+        <translation>降順(&amp;D)</translation>
+    </message>
+    <message>
+        <source>T&amp;ype:</source>
+        <translation>種類(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>&amp;Ascending</source>
+        <translation>昇順(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <translation>段落数</translation>
+    </message>
+    <message>
+        <source>Using:</source>
+        <translation>使用:</translation>
+    </message>
+    <message>
+        <source>&amp;Then by</source>
+        <translation>次に優先されるキー(&amp;T)</translation>
+    </message>
+    <message>
+        <source>As&amp;cending</source>
+        <translation>昇順(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Desce&amp;nding</source>
+        <translation>降順(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Ty&amp;pe:</source>
+        <translation>種類(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Then &amp;by</source>
+        <translation>次に優先されるキー(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Descendin&amp;g</source>
+        <translation>降順(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Typ&amp;e:</source>
+        <translation>種類(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Ascend&amp;ing</source>
+        <translation>昇順(&amp;I)</translation>
+    </message>
+    <message>
+        <source>My List Has</source>
+        <translation>リスト</translation>
+    </message>
+    <message>
+        <source>Header &amp;row</source>
+        <translation>タイトル行あり(&amp;R)</translation>
+    </message>
+    <message>
+        <source>No header ro&amp;w</source>
+        <translation>タイトル行なし(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Option...</source>
+        <translation>オプション(&amp;O)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSortOptions</name>
+    <message>
+        <source>Sort Options</source>
+        <translation>並べ替えのオプション</translation>
+    </message>
+    <message>
+        <source>Separate Fields at</source>
+        <translation>区切り文字</translation>
+    </message>
+    <message>
+        <source>&amp;Tabs</source>
+        <translation>タブ(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Co&amp;mmas</source>
+        <translation>カンマ(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Other:</source>
+        <translation>その他(&amp;O):</translation>
+    </message>
+    <message>
+        <source>So&amp;rt column only</source>
+        <translation>列の並べ替えのみ(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Case Sensitive</source>
+        <translation>大文字と小文字の区別(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Sorting &amp;language</source>
+        <translation>並べ替えに使用する言語の指定(&amp;L)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSyAddReceiver</name>
+    <message>
+        <source>add receiver</source>
+        <translation>受信者を追加</translation>
+    </message>
+    <message>
+        <source>Please fill in the recipient information in the order distributed:</source>
+        <translation>分配の順序で受信者の情報を追加してください:</translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation>追加</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation>削除</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSyAddReceiverOL</name>
+    <message>
+        <source>add receiver</source>
+        <translation>受信者を追加</translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation>追加</translation>
+    </message>
+    <message>
+        <source>please input key word to search info of receivers:</source>
+        <translation>キーワードを入力して受信者を検索してください:</translation>
+    </message>
+    <message>
+        <source>receivers:</source>
+        <translation>受信者:</translation>
+    </message>
+    <message>
+        <source>delete all</source>
+        <translation>すべてを削除</translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>are you sure to delete all receivers added?</source>
+        <translation>すべての受信者を削除しますか？</translation>
+    </message>
+    <message>
+        <source>sytype</source>
+        <translation>種類</translation>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation>中国語透かし情報</translation>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation>中国語以外の透かし情報</translation>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation>透かし情報:</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>テキストラベル</translation>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation>透かしの指定</translation>
+    </message>
+    <message>
+        <source>sy_selfdefine</source>
+        <translation>透かしのユーザー設定</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part1</source>
+        <translation>数字、英文字や漢字を入力可能です。最大</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation>個文字</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation>数字、英文字を入力可能です。最大</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation>個文字</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTableOfFigures</name>
+    <message>
+        <source>Table of Firgures</source>
+        <translation>図表目次</translation>
+    </message>
+    <message>
+        <source>Title &amp;label</source>
+        <translation>タイトルのラベル(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Show page numbers</source>
+        <translation>ページ番号の表示(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Right align page numbers</source>
+        <translation>ページ番号を右に寄せる(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Use &amp;hyperlinks</source>
+        <translation>ハイパーリンクを使う(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation>オプション(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>印刷プレビュー</translation>
+    </message>
+    <message>
+        <source>Ta&amp;b leader:</source>
+        <translation>タブリーダー(&amp;B):</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="obsolete">なし</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsAdvInsertPageNumber</name>
+    <message>
+        <source>Insert Page Number</source>
+        <translation>ページ番号の挿入</translation>
+    </message>
+    <message>
+        <source>&amp;Format: </source>
+        <translation>スタイル(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Po&amp;sition: </source>
+        <translation>位置(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Include chapter &amp;number</source>
+        <translation>章番号を含める(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Chapter starts with style:</source>
+        <translation>章タイトルのスタイル(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <translation>見出し 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <translation>見出し 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <translation>見出し 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <translation>見出し 4</translation>
+    </message>
+    <message>
+        <source>Heading 5</source>
+        <translation>見出し 5</translation>
+    </message>
+    <message>
+        <source>Heading 6</source>
+        <translation>見出し 6</translation>
+    </message>
+    <message>
+        <source>Heading 7</source>
+        <translation>見出し 7</translation>
+    </message>
+    <message>
+        <source>Heading 8</source>
+        <translation>見出し 8</translation>
+    </message>
+    <message>
+        <source>Heading 9</source>
+        <translation>見出し 9</translation>
+    </message>
+    <message>
+        <source>Use s&amp;eparator:</source>
+        <translation>区切り文字を使用(&amp;E):</translation>
+    </message>
+    <message>
+        <source>-    (hyphen)</source>
+        <translation>-    (ハイフン)</translation>
+    </message>
+    <message>
+        <source>.    (period)</source>
+        <translation>.    (ピリオド)</translation>
+    </message>
+    <message>
+        <source>:    (colon)</source>
+        <translation>:    (コロン)</translation>
+    </message>
+    <message>
+        <source>—   (em-dash)</source>
+        <translation>—   (全角ダッシュ)</translation>
+    </message>
+    <message>
+        <source>–   (en-dash)</source>
+        <translation>–   (半角ダッシュ)</translation>
+    </message>
+    <message>
+        <source>Examples:</source>
+        <translation>例:</translation>
+    </message>
+    <message>
+        <source>1-1, 1-A</source>
+        <translation>1-1, 1-A</translation>
+    </message>
+    <message>
+        <source>Page numbering:</source>
+        <translation>連続番号:</translation>
+    </message>
+    <message>
+        <source>Continue fr&amp;om previous section</source>
+        <translation>前のセクションから継続(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Start &amp;at: </source>
+        <translation>開始番号(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Apply to:</source>
+        <translation>適用範囲:</translation>
+    </message>
+    <message>
+        <source>Entire &amp;document</source>
+        <translation>文書全体(&amp;D)</translation>
+    </message>
+    <message>
+        <source>From current &amp;page</source>
+        <translation>現在のページ以降(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Curren&amp;t section</source>
+        <translation>現在のセクション(&amp;T)</translation>
+    </message>
+    <message>
+        <source>S&amp;how First PageNum</source>
+        <translation>最初のページ番号を表示(&amp;H)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsSmartPageNumRelayout</name>
+    <message>
+        <source>Page Number Relayout</source>
+        <translation>ページ番号をリセット</translation>
+    </message>
+    <message>
+        <source>Rebuild document page number</source>
+        <translation>ワンクリックでページ番号をリセット</translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation>目次</translation>
+    </message>
+    <message>
+        <source>page: %1</source>
+        <translation>ページ数: %1</translation>
+    </message>
+    <message>
+        <source>Style:</source>
+        <translation>スタイル:</translation>
+    </message>
+    <message>
+        <source>1, 2, 3...</source>
+        <translation>1, 2, 3...</translation>
+    </message>
+    <message>
+        <source>-1-, -2-, -3-...</source>
+        <translation>-1-, -2-, -3-...</translation>
+    </message>
+    <message>
+        <source>I, II, III...</source>
+        <translation>I, II, III...</translation>
+    </message>
+    <message>
+        <source>Page 1</source>
+        <translation>ページ 1</translation>
+    </message>
+    <message>
+        <source>Page 1 of x</source>
+        <translation>Page 1 of x</translation>
+    </message>
+    <message>
+        <source>Main body</source>
+        <translation>本文</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Relayout</source>
+        <translation>ページ番号をリセット</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnvelopesAndLabelsDlg</name>
+    <message>
+        <source>Ch&amp;ange Document</source>
+        <translation>ドキュメント変更(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Do you want to save the new return address as the default return address?</source>
+        <translation>新規の差出人住所を既定値の住所として保存しますか?</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontSubstitutionDlg</name>
+    <message>
+        <source>Font substitutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert &amp;Permanently...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Missing document font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing document font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Substituted font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtituted font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No font substitution is necessary. All fonts used in this document are available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation type="unfinished">&quot;</translation>
+    </message>
+    <message>
+        <source>&quot; will be displayed and printed using &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFrameDlg</name>
+    <message>
+        <source>Number must be between %1 and %2.</source>
+        <translation>数字は %1 から %2 の間でなければなりません。</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation>無効な単位です。</translation>
+    </message>
+</context>
+<context>
+    <name>KxIndexMarkEntryDlg</name>
+    <message>
+        <source>See </source>
+        <translation>閲覧</translation>
+    </message>
+    <message>
+        <source>The entry is empty.</source>
+        <translation>索引登録が指定されていません。</translation>
+    </message>
+    <message>
+        <source>The bookmark name is not valid.</source>
+        <translation>ブックマーク名が正しくありません。</translation>
+    </message>
+    <message>
+        <source>No index entries were marked.</source>
+        <translation>索引項目が登録されていません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertIndexDlg</name>
+    <message>
+        <source>English (United States)</source>
+        <translation>英語 (米国)</translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation>中国語 (中国)</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected index?</source>
+        <translation>既存の索引を置き換えますか?</translation>
+    </message>
+    <message>
+        <source>No index entries were marked.</source>
+        <translation>索引項目が登録されていません。</translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation>中国語（台湾）</translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation>日本語（日本）</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation>ベトナム語</translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertPageNumberDlg</name>
+    <message>
+        <source>Page number</source>
+        <translation>ページ番号</translation>
+    </message>
+</context>
+<context>
+    <name>KxKeyCategoryCommand</name>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The macros in this project are disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxKeyWordTableModel</name>
+    <message>
+        <source>keyword</source>
+        <translation>キーワード</translation>
+    </message>
+    <message>
+        <source>type</source>
+        <translation>種類</translation>
+    </message>
+    <message>
+        <source>level</source>
+        <translation>レベル</translation>
+    </message>
+    <message>
+        <source>result</source>
+        <translation>結果</translation>
+    </message>
+    <message>
+        <source>operation</source>
+        <translation>操作</translation>
+    </message>
+</context>
+<context>
+    <name>KxMiniFindBox</name>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Result %1 of %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No matches</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search paused</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot exceed %1 characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains invalid special character</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxNotRestartSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Continue numbering</source>
+        <translation>前のセクションから継続</translation>
+    </message>
+</context>
+<context>
+    <name>KxPTab</name>
+    <message>
+        <source>Dialog</source>
+        <translation>タブ</translation>
+    </message>
+    <message>
+        <source>PTabAlignment</source>
+        <translation>配置</translation>
+    </message>
+    <message>
+        <source>PTabLeft</source>
+        <translation>左寄せ(&amp;L)</translation>
+    </message>
+    <message>
+        <source>PTabCenter</source>
+        <translation>中央寄せ(&amp;C)</translation>
+    </message>
+    <message>
+        <source>PTabRight</source>
+        <translation>右寄せ(&amp;R)</translation>
+    </message>
+    <message>
+        <source>PTabAlignBased</source>
+        <translation>配置基準</translation>
+    </message>
+    <message>
+        <source>pTabMargin</source>
+        <translation>余白</translation>
+    </message>
+    <message>
+        <source>pTabIndent</source>
+        <translation>インデント</translation>
+    </message>
+    <message>
+        <source>PTabLeader</source>
+        <translation>リーダー</translation>
+    </message>
+    <message>
+        <source>PTabNone</source>
+        <translation>なし(&amp;1)</translation>
+    </message>
+    <message>
+        <source>PTabDot</source>
+        <translation>.......(&amp;2)</translation>
+    </message>
+    <message>
+        <source>PTabHypen</source>
+        <translation>-------(&amp;3)</translation>
+    </message>
+    <message>
+        <source>PTabUnderscore</source>
+        <translation>_______(&amp;4)</translation>
+    </message>
+    <message>
+        <source>PTabMiddleDot</source>
+        <translation>……(&amp;5)</translation>
+    </message>
+</context>
+<context>
+    <name>KxParagraphSetAsDefDlg</name>
+    <message>
+        <source>&amp;All documents based on the %1 template?</source>
+        <translation>テンプレート %1で作成されたすべてのファイル(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxRestartSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Restart current page page number</source>
+        <translation>現在のページ番号を1にリセット</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartPageNumDeleteCommand</name>
+    <message>
+        <source>Current page</source>
+        <translation>現在のページ</translation>
+    </message>
+    <message>
+        <source>From current page</source>
+        <translation>現在のページ以降</translation>
+    </message>
+    <message>
+        <source>Entire document</source>
+        <translation>文書全体</translation>
+    </message>
+    <message>
+        <source>To current page</source>
+        <translation>現在のページ</translation>
+    </message>
+    <message>
+        <source>Current section</source>
+        <translation>現在のセクション</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartPageNumRebuildCommand</name>
+    <message>
+        <source>Continue numbering</source>
+        <translation>連続番号</translation>
+    </message>
+    <message>
+        <source>Page numbering: </source>
+        <translation>ページ番号:</translation>
+    </message>
+</context>
+<context>
+    <name>KxSortDlg</name>
+    <message>
+        <source>Stroke</source>
+        <translation>画数</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>番号</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>日付</translation>
+    </message>
+    <message>
+        <source>Phonetic</source>
+        <translation>ルビ</translation>
+    </message>
+    <message>
+        <source>JIS</source>
+        <translation>JIS</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>テキスト</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(なし)</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <translation>段落数</translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <translation>見出し</translation>
+    </message>
+    <message>
+        <source>Sort Text</source>
+        <translation>文字列の並べ替え</translation>
+    </message>
+    <message>
+        <source>Field %1</source>
+        <translation>フィールド %1</translation>
+    </message>
+    <message>
+        <source>Column %1</source>
+        <translation>列 %1</translation>
+    </message>
+    <message>
+        <source>Word cannot sort fields in the selection.</source>
+        <translation>Writerは選択されたフィールドを並べ替えることができません。</translation>
+    </message>
+    <message>
+        <source>The content cannot be sorted because it is part of a content control.</source>
+        <translation>内容はコントロールの一部のため、並べ替えることができません。</translation>
+    </message>
+    <message>
+        <source>The content cannot be sorted.</source>
+        <translation>内容を並べ替えることができません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxSortOptionsDlg</name>
+    <message>
+        <source>You must type a character for the custom separator.</source>
+        <translation>ユーザー設定区切りのため、文字を入力する必要があります。</translation>
+    </message>
+    <message>
+        <source>Chinese(PRC)</source>
+        <translation>中国語 (中国)</translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation>中国語 (台湾)</translation>
+    </message>
+    <message>
+        <source>Chinese(Hong Kong S.A.R)</source>
+        <translation>中国語 (香港)</translation>
+    </message>
+    <message>
+        <source>Chinese(Macao S.A.R)</source>
+        <translation>中国語 (マカオ)</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>日本</translation>
+    </message>
+    <message>
+        <source>English (U.S.)</source>
+        <translation>英語 (米国)</translation>
+    </message>
+    <message>
+        <source>English (U.K.)</source>
+        <translation>English (英国)</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>タイ語</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyAddedUsersTableModel</name>
+    <message>
+        <source>id</source>
+        <translation>ID</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>contactname</source>
+        <translation>連絡人</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyReceiverTableItemEdit</name>
+    <message>
+        <source>The input is out of range and the character length is between 0 and 255 characters</source>
+        <translation>文字数の上限を超えてしまいます。0から255までの文字数を入力してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyReceiverTableModel</name>
+    <message>
+        <source>number</source>
+        <translation>番号</translation>
+    </message>
+    <message>
+        <source>receivername</source>
+        <translation>受信者情報</translation>
+    </message>
+    <message>
+        <source>number of copies</source>
+        <translation>コピー番号</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyReceiverTableViewHeaderView</name>
+    <message>
+        <source>Fill in here: Name, work number, code, etc. can 
+represent the recipient&apos;s information content</source>
+        <translation>以下の情報を入力:名前、ID、コードなどの受信者の情報</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyUsersTableViewHeaderView</name>
+    <message>
+        <source>select all</source>
+        <translation>すべてを選択</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation>削除</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableOfFiguresDlg</name>
+    <message>
+        <source>Text</source>
+        <translation>テキスト</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of figures?</source>
+        <translation>選択した図表目次を置換しますか？</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>なし</translation>
+    </message>
+    <message>
+        <source>Caption</source>
+        <translation>図表番号</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
+    <message>
+        <source>No data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has no confidential keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>total check result:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>date already deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateTableOfContentsDlg</name>
+    <message>
+        <source>Update Table of Figures</source>
+        <translation>図表目次の更新</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of figures. Select one of the following options:</source>
+        <translation>Writerは図表目次を更新しています。以下のオプションを選択してください:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>keyword checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAddSameLevelContentEntry</name>
+    <message>
+        <source>InsertContentEntryBefore</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertContentEntryAfter</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAddSubContEntry</name>
+    <message>
+        <source>InsertSubContentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAdvInsertPageNumberDlg</name>
+    <message>
+        <source>Bottom Center</source>
+        <translation>下中央</translation>
+    </message>
+    <message>
+        <source>Bottom Right</source>
+        <translation>右下</translation>
+    </message>
+    <message>
+        <source>Bottom Left</source>
+        <translation>左下</translation>
+    </message>
+    <message>
+        <source>Top Center</source>
+        <translation>上中央</translation>
+    </message>
+    <message>
+        <source>Top Right</source>
+        <translation>右上</translation>
+    </message>
+    <message>
+        <source>Top Left</source>
+        <translation>左上</translation>
+    </message>
+    <message>
+        <source>Bottom Outter</source>
+        <translation>下外</translation>
+    </message>
+    <message>
+        <source>Bottom Inner</source>
+        <translation>下内</translation>
+    </message>
+    <message>
+        <source>Top Outter</source>
+        <translation>上外</translation>
+    </message>
+    <message>
+        <source>Top Inner</source>
+        <translation>上内</translation>
+    </message>
+    <message>
+        <source>Set page number format</source>
+        <translation>ページ番号</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAutoTextDlg</name>
+    <message>
+        <source>General</source>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Create New Category</source>
+        <translation>新しい分類の作成...</translation>
+    </message>
+    <message>
+        <source>Insert content only</source>
+        <translation>内容のみを挿入</translation>
+    </message>
+    <message>
+        <source>Insert content in its own paragraph</source>
+        <translation>内容を段落のまま挿入</translation>
+    </message>
+    <message>
+        <source>Insert content in its own page</source>
+        <translation>内容をページのまま挿入</translation>
+    </message>
+    <message>
+        <source>Do you want to redefine the building block entry?</source>
+        <translation>ブロックエントリーを再定義しますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAutotextGalleryModelItem</name>
+    <message>
+        <source>insert to current Document</source>
+        <translation>このファイルに挿入</translation>
+    </message>
+    <message>
+        <source>insert to Page Header</source>
+        <translation>ヘッダーに挿入</translation>
+    </message>
+    <message>
+        <source>insert to Page Footer</source>
+        <translation>フッターに挿入</translation>
+    </message>
+    <message>
+        <source>insert to Section Begin</source>
+        <translation>セクションの先頭に挿入</translation>
+    </message>
+    <message>
+        <source>insert to Section End</source>
+        <translation>セクションの末尾に挿入</translation>
+    </message>
+    <message>
+        <source>insert to Document Begin</source>
+        <translation>ファイルの先頭に挿入</translation>
+    </message>
+    <message>
+        <source>insert to Document End</source>
+        <translation>ファイルの末尾に挿入</translation>
+    </message>
+    <message>
+        <source>edit AutoText Property</source>
+        <translation>プロパティの編集</translation>
+    </message>
+    <message>
+        <source>Delete AutoText Property</source>
+        <translation>プロパティの削除</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAutotextPopupMenuCommand</name>
+    <message>
+        <source>modify BuildingBlock</source>
+        <translation>ビルドブロックを変更</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the selected  building block?</source>
+        <translation>選択したビルドブロックを削除してよろしいですか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCancelContentsSettings</name>
+    <message>
+        <source>CancelContentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsChangeContentEntryLevel</name>
+    <message>
+        <source>UpgradeContentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DowngradeContentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCustomPageNumStyleHelp</name>
+    <message>
+        <source>Page X of Y</source>
+        <translation>Page X Of Y</translation>
+    </message>
+    <message>
+        <source>Page X of y</source>
+        <translation>Page X Of y</translation>
+    </message>
+    <message>
+        <source>Page X</source>
+        <translation>Page X</translation>
+    </message>
+    <message>
+        <source>Page 1 of x</source>
+        <translation>Page 1 Of x</translation>
+    </message>
+    <message>
+        <source>Page 1</source>
+        <translation>Page 1</translation>
+    </message>
+    <message>
+        <source>Page 2 of X</source>
+        <translation>Page 2 Of X</translation>
+    </message>
+    <message>
+        <source>Page 2</source>
+        <translation>Page 2</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDelContentEntry</name>
+    <message>
+        <source>DeleteCotentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDelContentEntryPopup</name>
+    <message>
+        <source>DeleteCotentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgAddCataryName</name>
+    <message>
+        <source>AddAutotextCatary</source>
+        <translation>新しい種類の追加</translation>
+    </message>
+    <message>
+        <source>Catary &amp;Name</source>
+        <translation>名前(N):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgAskFieldName</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgAutoText</name>
+    <message>
+        <source>AddNewAutoText</source>
+        <translation>定型句の追加</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation>名前(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Gallery</source>
+        <translation>ギャラリー(&amp;G):</translation>
+    </message>
+    <message>
+        <source>&amp;Catary</source>
+        <translation>種類(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Description</source>
+        <translation>説明(&amp;D):</translation>
+    </message>
+    <message>
+        <source>&amp;Save in</source>
+        <translation>保存先(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;options</source>
+        <translation>オプション(&amp;O):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocPane</name>
+    <message>
+        <source>Original Document</source>
+        <translation>元の文書</translation>
+    </message>
+    <message>
+        <source>Revised Document</source>
+        <translation>変更された文書</translation>
+    </message>
+    <message>
+        <source>Compared Document</source>
+        <translation>比較結果文書</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocPaneTitle</name>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt;便利機能&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 共有リンクの作成&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- PDFファイルで出力&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 印刷/印刷プレビュー&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsExportSyCodingLibCommand</name>
+    <message>
+        <source>Failed to export coding libary for trace.</source>
+        <translation>トレース用コーディングライブラリの出力に失敗しました。</translation>
+    </message>
+    <message>
+        <source>cannot export empty coding libary for trace.</source>
+        <translation>有効の内容がないため、コーディングライブラリの出力に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Export coding libary for trace file as</source>
+        <translation>コーディングライブラリをファイルとして出力</translation>
+    </message>
+    <message>
+        <source>All File(*.*)|*.*</source>
+        <translation>すべてのファイル(*.*)|*.*</translation>
+    </message>
+    <message>
+        <source>syCodingLibary</source>
+        <translation>コーディングライブラリ</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertContentEntry</name>
+    <message>
+        <source>InsertContentEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertTableOfContents</name>
+    <message>
+        <source>InsertTableOfContents</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsNumberingModel</name>
+    <message>
+        <source>GalleryNumbering</source>
+        <translation>ギャラリー番号</translation>
+    </message>
+    <message>
+        <source>GalleryOutlineNumbering</source>
+        <translation>アウトライン番号</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageMarginSingleSpinCommand</name>
+    <message>
+        <source>the margin value is out of range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageNumSomeFormatInitHelp</name>
+    <message>
+        <source>0;57;1</source>
+        <translation>0;57;1</translation>
+    </message>
+    <message>
+        <source>14;28;37;38;2;3;4;30;31;10;20;21;5;6;7</source>
+        <translation>14;28;37;38;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>53;54;55</source>
+        <translation>53;54;55</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPagePositionInfoCommand</name>
+    <message>
+        <source>SetValue: %1</source>
+        <translation>上の余白: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPercentOnTBCommand</name>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="obsolete">ページ全体(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="obsolete">ページ幅(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="obsolete">テキスト幅(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Whole Page</source>
+        <translation>ページ全体</translation>
+    </message>
+    <message>
+        <source>Page Width</source>
+        <translation>ページの幅</translation>
+    </message>
+    <message>
+        <source>Text Width</source>
+        <translation>テキストの幅</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReadingDivisionListCommand</name>
+    <message>
+        <source>One column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Two column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto fit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewByTimeWidget</name>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersComboBox</name>
+    <message>
+        <source>All Reviewers</source>
+        <translation>すべての校閲者</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterDelegate</name>
+    <message>
+        <source>Clear Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterListView</name>
+    <message>
+        <source>Clear Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterModel</name>
+    <message>
+        <source>All Reviewers(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Reviewers</source>
+        <translation type="unfinished">すべての校閲者</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersWithSelectThisComboBox</name>
+    <message>
+        <source>All Reviewers</source>
+        <translation type="unfinished">すべての校閲者</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSectNavViewItemContent</name>
+    <message>
+        <source>Add Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartPageNumPane</name>
+    <message>
+        <source>Format: </source>
+        <translation>スタイル:</translation>
+    </message>
+    <message>
+        <source>Position: </source>
+        <translation>位置:</translation>
+    </message>
+    <message>
+        <source>Apply to: </source>
+        <translation>適用範囲:</translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation>反面印刷2</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>中央寄せ</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右寄せ</translation>
+    </message>
+    <message>
+        <source>Outter</source>
+        <translation>反面印刷1</translation>
+    </message>
+    <message>
+        <source>Entire document</source>
+        <translation>文書全体</translation>
+    </message>
+    <message>
+        <source>From current page</source>
+        <translation>現在のページ以降</translation>
+    </message>
+    <message>
+        <source>Current section</source>
+        <translation>現在のセクション</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Set page number format</source>
+        <translation>ページ番号の設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartPageNumRelayoutDlg</name>
+    <message>
+        <source>Relayout page number</source>
+        <translation>ページ番号のリセット</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTableOfContentsModel</name>
+    <message>
+        <source>ManualTable</source>
+        <translation>手動目次</translation>
+    </message>
+    <message>
+        <source>AutomaticTable</source>
+        <translation>自動目次</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTitleButton</name>
+    <message>
+        <source>Update Table...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Table Of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWebPreviewWinChangeThemeWidget</name>
+    <message>
+        <source>Select typesetting style:</source>
+        <translation type="obsolete">植字スタイルの選択:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsZoomSlider</name>
+    <message>
+        <source>Fit Page to current window</source>
+        <translation>最適ズーム</translation>
+    </message>
+</context>
+<context>
+    <name>kxWpsSectionMergeCmd</name>
+    <message>
+        <source>The first </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge to</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

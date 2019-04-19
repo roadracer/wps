@@ -530,6 +530,50 @@ Please check your system settings and ensure that the temporary directory under 
         <comment>CHART_CanNotWriteChartLinkPath</comment>
         <translation>To insert a chart, you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</translation>
     </message>
+    <message>
+        <source>Size</source>
+        <comment>HINT_SIZE</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save Chart Template</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chart Template Files(*.crtx)|*.crtx</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Filter</comment>
+        <translation>Chart Template Files (*.crtx)|*.crtx</translation>
+    </message>
+    <message>
+        <source>Chart%d</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Name</comment>
+        <translation>Chart %d</translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <comment>HINT_Addtext</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.Please try recreating it.</source>
+        <translation>This template can&apos;t be applied. It&apos;s either damaged or won&apos;t work for the selected chart. Please try recreating it.</translation>
+    </message>
+    <message>
+        <source>To build a PivotChart, choose fields from the PivotChart Field List.</source>
+        <comment>CHART_PIVOT_EMPTY_ShowFieldList_DES</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Trun on the PivotChart Field List to work with the PivotChart.</source>
+        <comment>CHART_PIVOT_EMPTY_HideFieldList_DES</comment>
+        <translation>Turn on the PivotChart Field List to work with the PivotChart.</translation>
+    </message>
+    <message>
+        <source>You cannot use an XY(Scatter), Bubble, or Stock chart type with a chart that has been created from PivotTbale data.Please select a different chart type.</source>
+        <comment>TX_PivotChart_NotSupport_ChartType</comment>
+        <translation>You cannot use an XY (Scatter), Bubble, or Stock chart type with a chart that has been created from PivotTable data. Please select a different chart type.</translation>
+    </message>
 </context>
 <context>
     <name>kso_copypaste</name>
@@ -551,7 +595,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished">WPS Office Graph Data</translation>
+        <translation type="obsolete">WPS Office Graph Data</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
@@ -646,7 +690,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished">Inserts the contents of the Clipboard as WPS Office Graph Data.</translation>
+        <translation type="obsolete">Inserts the contents of the Clipboard as WPS Office Graph Data.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
@@ -771,12 +815,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of Kingsoft Drawing</source>
         <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
-        <translation type="unfinished">WPS Office Graph Data</translation>
+        <translation type="obsolete">WPS Office Graph Data</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation type="unfinished">Inserts the contents of the Clipboard as WPS Office Graph Data.</translation>
+        <translation type="obsolete">Inserts the contents of the Clipboard as WPS Office Graph Data.</translation>
     </message>
     <message>
         <source>ET Drag Drawing</source>
@@ -791,12 +835,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="obsolete">Inserts the contents of the Clipboard as WPS Office Graphic Object.</translation>
+        <translation>Inserts the contents of the Clipboard as WPS Office Graphic Object.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation type="obsolete">Inserts the contents of the Clipboard as WPS Office Graphic Object.</translation>
+        <translation>Inserts the contents of the Clipboard as WPS Office Graphic Object.</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -1866,6 +1920,41 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>There is not enough memory, Create Object Failed!</source>
         <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
         <translation>Object creation failed due to low memory.</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_AddPictureFrame</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetSize</comment>
+        <translation>Reset Picture and Size</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <comment>DgUil_KSO_Cmd_FormatComment</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Diagram Conversion</source>
+        <comment>DgUil_PromptDiagramConversionTitle</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to Shapes.</source>
+        <comment>DgUil_PromptDiagramConversion</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</source>
+        <comment>DgAllPictureAddCgm</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
+        <comment>DgUil_ComputerMetaFiles</comment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7648,6 +7737,66 @@ Line Type: %3</translation>
         <comment>wpp_sTooltipGradientDarkColour</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source> Light Color %1</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source> Dark Color %1</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>DRAWING2STR_COMMENT</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>theme color</source>
+        <comment>DRAWING2_SMARTART_COLORS_ThemeColor</comment>
+        <translation>Theme Color</translation>
+    </message>
+    <message>
+        <source>multi color</source>
+        <comment>DRAWING2_SMARTART_COLORS_MultiColor</comment>
+        <translation>Multi color</translation>
+    </message>
+    <message>
+        <source>color1</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color1</comment>
+        <translation>Color 1</translation>
+    </message>
+    <message>
+        <source>color2</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color2</comment>
+        <translation>Color 2</translation>
+    </message>
+    <message>
+        <source>color3</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color3</comment>
+        <translation>Color 3</translation>
+    </message>
+    <message>
+        <source>color4</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color4</comment>
+        <translation>Color 4</translation>
+    </message>
+    <message>
+        <source>color5</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color5</comment>
+        <translation>Color 5</translation>
+    </message>
+    <message>
+        <source>color6</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color6</comment>
+        <translation>Color 6</translation>
+    </message>
+    <message>
+        <source>sure change diagram num if lose text</source>
+        <comment>DRAWING2_SMARTDIAGRAM_CHANGENUM_MESSAGE</comment>
+        <translation>Decreasing item will cause some text to lose. Continue?</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -7789,7 +7938,7 @@ Line Type: %3</translation>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
@@ -7809,7 +7958,112 @@ Line Type: %3</translation>
     <message>
         <source>Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>Single File Web Page</translation>
+    </message>
+    <message>
+        <source>Public Custom Document Format</source>
+        <comment>_KsoFileFormatDesc_CustomFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <comment>_KsoFileFormatDesc_OnlineSecurtyDocument</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read this documnet!
+(%s)</source>
+        <comment>_KsoPrompt_NoFileReadPermission</comment>
+        <translation>Sorry, you have no permission to read this document.
+(%s)</translation>
+    </message>
+    <message>
+        <source>Failed to communicate with security document server!</source>
+        <comment>_KsoPrompt_SecurityDocumentServerFailed</comment>
+        <translation>Failed to communicate with security document server.</translation>
+    </message>
+    <message>
+        <source>Saving the non-security document format will erase all permission settings, Continue?</source>
+        <comment>_KsoPrompt_LostDocumentSecurityInfo</comment>
+        <translation>Saving as non-security document format will clear all permission settings, continue?</translation>
+    </message>
+    <message>
+        <source>WPS Office Outward Document</source>
+        <comment>_KsoFileForamtDesc_WpsOutwardDocument</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Failed to overwrite the current document, choose another file name.</source>
+        <comment>_KsoPrompt_OverwriteTheOpenDocumnet</comment>
+        <translation>Cannot name file with the same name as the opened file.
+Please enter another name.</translation>
+    </message>
+    <message>
+        <source>%1 outward document  applicant : %2  approver : %3</source>
+        <comment>_KsoOutwardWaterMarkText</comment>
+        <translation>%1 Outward Document  Applicant : %2  Approver : %3</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <comment>_KsoDesc_MSWORD12</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <comment>_KsoDesc_MSWORD12DOTX</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <comment>_KsoDesc_MSWORD12DOCM</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <comment>_KsoDesc_MSWORD12DOTM</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Documents</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Template</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Templates</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The document is a secret-label document and can not be opened.
+(%s)</source>
+        <comment>_KsoPrompt_SecretLabel</comment>
+        <translation>This document is label as Secret and cannot be opened.
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OpenDocument Text</source>
+        <comment>_KsoFileFormatDesc_ODT_File</comment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7846,6 +8100,26 @@ Line Type: %3</translation>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
         <translation></translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <comment>_kso_DocOperationCopy</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>_kso_DocOperationPrint</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <comment>_kso_DocOperationSaveAs</comment>
+        <translation>Save As</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <comment>_kso_DocOperationAuth</comment>
+        <translation>Authorize</translation>
     </message>
 </context>
 <context>
@@ -8766,6 +9040,91 @@ This position may not be safe.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete all Ribbon customizations for this program?</source>
+        <comment>_kso_Delete_All_Ribbon_Customizations</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reading Data</source>
+        <comment>_kso_io_Progress_ReadingData</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <comment>_kso_pdfProductName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
+        <comment>_kso_ksoThanksTo_TH_PRO</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
+        <comment>_kso_Error_MediaFlash_wpp</comment>
+        <translation>Failed to load system plugins. Please make sure the Flash add-in library has been installed on your system.</translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <comment>_kso_irmio_Error_ClockBeenTamper</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file is being edited by other users.</source>
+        <comment>_kso_TX_FILE_EDITING_CONFLICT</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file has been updated by other users.</source>
+        <comment>_kso_TX_FILE_UPDATE_CONFLICT</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cannot save or upload due to bad network condition.</source>
+        <comment>_kso_TX_NET_CONDITION_BAD_INFO</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save as Copy</source>
+        <comment>_kso_TX_SAVEAS_COPY</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel Save</source>
+        <comment>_kso_Tx_CANCLE_SAVE</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_TX_DESC_WPP_APP_NAME</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Document</source>
+        <comment>_kso_TX_DESC_WPS_APP_NAME</comment>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS SpreadSheet</source>
+        <comment>_kso_TX_DESC_ET_APP_NAME</comment>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>Pdf Thanks To</source>
+        <comment>_kso_pdfThanksTo</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_numfmtapi</name>
@@ -8994,6 +9353,26 @@ This position may not be safe.</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
         <translation></translation>
     </message>
+    <message>
+        <source>t$#,##0_);(t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_63</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>t$#,##0_);[Red](t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_64</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);(t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_65</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);[Red](t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_66</comment>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -9036,7 +9415,7 @@ If the problem still exists, you can print a test page by right-clicking the pri
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
@@ -9057,7 +9436,12 @@ Continue printing?</translation>
     <message>
         <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
         <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <comment>TxPrintPreview_CopiesInvalid</comment>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11607,6 +11991,28 @@ Download the XML expansion pack?</translation>
         <comment>kso_sNnumberFormatter_style_09</comment>
         <translation></translation>
     </message>
+    <message>
+        <source>The file is modified
+Please save the file and create share link</source>
+        <comment>kso_h5_SaveFileTip</comment>
+        <translation>Your file has unsaved changes. Save your changes, and then create the link.</translation>
+    </message>
+    <message>
+        <source>Software Assurance Service has expired on %s.
+You cannot access to upgrades and technical support of this software. 
+If you have any problem, or want to renew the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiredTip</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Software Assurance Service will expire on %s.
+After expiration, you can no longer access to upgrades and technical support of this software. 
+If you have any problem, or want to prolong the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiringTip</comment>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>kso_theme</name>
@@ -11864,6 +12270,1454 @@ Download the XML expansion pack?</translation>
         <source>NewsPrint</source>
         <comment>THEME_THEME_NEWSPRINT1</comment>
         <translation>Newsprint</translation>
+    </message>
+</context>
+<context>
+    <name>kso_smartart</name>
+    <message>
+        <source>All</source>
+        <comment>_kso_SmartArtCategoryAll</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Basic Block List</source>
+        <comment>_kso_SmartArtDefaultName</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtDefaultDescription</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Vertical Box List</source>
+        <comment>_kso_SmartArtList1Name</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show several groups of information, especially groups with large amounts of Level 2 text. A good choice for bulleted lists of information.</source>
+        <comment>_kso_SmartArtList1Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Horzontal Bullet List</source>
+        <comment>_kso_SmartArthList1Name</comment>
+        <translation type="obsolete">Horizontal Bullet List</translation>
+    </message>
+    <message>
+        <source>Basic Process</source>
+        <comment>_kso_SmartArtProcess1Name</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow.</source>
+        <comment>_kso_SmartArtProcess1Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Accent Process</source>
+        <comment>_kso_SmartArtProcess3Name</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow. Works well for illustrating both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtProcess3Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Radial Venn</source>
+        <comment>_kso_SmartArtRadial3Name</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Converging Radial</source>
+        <comment>_kso_SmartArtRadial4Name</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show relationships of concepts or components to a central idea in a cycle. The first line of Level 1 text corresponds to the central circular shape and the lines of Level 2 text correspond to the surrounding rectangular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial4Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The first Level 1 line of text corresponds to the central circular shape. Emphasizes the surrounding circles rather than the central idea. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial5Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Crycle Matrix</source>
+        <comment>_kso_SmartArtCycle4Name</comment>
+        <translation type="obsolete">Cycle Matrix</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <comment>_kso_SmartArtAllPicture</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <comment>_kso_SmartArtWinEnhMetaFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <comment>_kso_SmartArtWinMetaFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <comment>_kso_SmartArtJpegFormat</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <comment>_kso_SmartArtPngFormat</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <comment>_kso_SmartArtWinBitmapFormat</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <comment>_kso_SmartArtGifFormat</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <comment>_kso_SmartArtTifFormat</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>[Text]</source>
+        <comment>_kso_SmartArtInputText</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show both overlapping relationships and the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape and the lines of Level 2 text correspond to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial3Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle4Description</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Smartart Resource Miss, please try to reinstall WPS to solve this problem.</source>
+        <comment>_kso_SmartArtResourceMiss</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <comment>_kso_SmartArtCategoryList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>_kso_SmartArtCategoryProcess</comment>
+        <translation type="unfinished">Flowchart</translation>
+    </message>
+    <message>
+        <source>Cycle</source>
+        <comment>_kso_SmartArtCategoryCycle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchy</source>
+        <comment>_kso_SmartArtCategoryHierarchy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relationship</source>
+        <comment>_kso_SmartArtCategoryRelationship</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <comment>_kso_SmartArtCategoryMatrix</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pyramid</source>
+        <comment>_kso_SmartArtCategoryPyramid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>_kso_SmartArtCategoryPicture</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Hexagons</source>
+        <comment>_kso_SmartArtAlternatinghexagonsName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a series of interconnected ideas. Level 1 text appears inside the hexagons. Level 2 text appears outside the shapes.</source>
+        <comment>_kso_SmartArtAlternatinghexagonsDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Caption List</source>
+        <comment>_kso_SmartArtPlist1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The top shapes are designed to contain pictures and pictures are emphasized over text. Works well for pictures with short text captions.</source>
+        <comment>_kso_SmartArtPlist1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lined List</source>
+        <comment>_kso_SmartArtLinedlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show large amounts of text divided into categories and subcategories. Works well with multiple levels of text. Text at the same level is separated by lines.</source>
+        <comment>_kso_SmartArtLinedlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <comment>_kso_SmartArtVlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <comment>_kso_SmartArtVlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Bullet List</source>
+        <comment>_kso_SmartArtHlist1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <comment>_kso_SmartArtHlist1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Accent List</source>
+        <comment>_kso_SmartArtSquareaccentlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show lists of information divided into categories. Level 2 text appears beside a small square shape. Works well with large amounts of Level 2 text. </source>
+        <comment>_kso_SmartArtSquareaccentlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Accent List</source>
+        <comment>_kso_SmartArtHlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information. The small shapes on the upper corners are designed to contain pictures. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtHlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Accent List</source>
+        <comment>_kso_SmartArtBlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small circular shapes are designed to contain pictures. Works well for illustrating both Level 1 and Level 2 text. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked List</source>
+        <comment>_kso_SmartArtHlist9Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Circular shapes contain Level 1 text, and the corresponding rectangles contain Level 2 text. Works well for numerous details and minimal Level 1 text.</source>
+        <comment>_kso_SmartArtHlist9Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increasing Circle Process</source>
+        <comment>_kso_SmartArtIncreasingcircleprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of steps, with the interior of the circle increasing with each step. Limited to seven Level 1 steps but unlimited Level 2 items. Works well with large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtIncreasingcircleprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie Process</source>
+        <comment>_kso_SmartArtPieprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show steps in a process with each pie slice increasing in size up to seven shapes.  Level 1 text displays vertically.</source>
+        <comment>_kso_SmartArtPieprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detailed Process</source>
+        <comment>_kso_SmartArtHprocess7Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with large amounts of Level 2 text to show a progression through stages.</source>
+        <comment>_kso_SmartArtHprocess7Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grouped List</source>
+        <comment>_kso_SmartArtLprocess2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups and sub-groups of information, or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top level horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape. Works well for emphasizing sub-groups or sub-steps, hierarchical information, or multiple lists of information.</source>
+        <comment>_kso_SmartArtLprocess2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Picture List</source>
+        <comment>_kso_SmartArtPlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped information with an emphasis on related pictures. The top shapes are designed to contain pictures.</source>
+        <comment>_kso_SmartArtPlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Picture List</source>
+        <comment>_kso_SmartArtHlist7Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of interconnected information. The circular shapes are designed to contain pictures.</source>
+        <comment>_kso_SmartArtHlist7Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Strips</source>
+        <comment>_kso_SmartArtPicturestripsName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures from top to bottom with Level 1 text beside each.</source>
+        <comment>_kso_SmartArtPicturestripsDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <comment>_kso_SmartArtVlist4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <comment>_kso_SmartArtVlist4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Picture Blocks</source>
+        <comment>_kso_SmartArtAlternatingpictureblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures from top to bottom. Text appears alternately on the right or left of the picture.</source>
+        <comment>_kso_SmartArtAlternatingpictureblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Picture Accent List</source>
+        <comment>_kso_SmartArtVlist3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small circles are designed to contain pictures.</source>
+        <comment>_kso_SmartArtVlist3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Titled Picture Accent List</source>
+        <comment>_kso_SmartArtPictureaccentlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show lists of information with an accent picture for each Level 2 text. Level 1 text displays in a separate box at the top of the list.</source>
+        <comment>_kso_SmartArtPictureaccentlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <comment>_kso_SmartArtVlist5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <comment>_kso_SmartArtVlist5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Chevron List</source>
+        <comment>_kso_SmartArtChevron2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtChevron2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Accent List</source>
+        <comment>_kso_SmartArtVerticalaccentlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show lists of information. Level 2 text appears in rectangular shapes over vertical chevrons. Emphasizes Level 2 text over Level 1 text, and is a good choice for medium amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtVerticalaccentlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Arrow List</source>
+        <comment>_kso_SmartArtVlist6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow that move toward a common goal. Works well for bulleted lists of information.</source>
+        <comment>_kso_SmartArtVlist6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <comment>_kso_SmartArtHlist6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArtHlist6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descending Block List</source>
+        <comment>_kso_SmartArtBlockdescendinglistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of related ideas or lists of information. The text shapes decrease in height sequentially, and the Level 1 text displays vertically.</source>
+        <comment>_kso_SmartArtBlockdescendinglistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List</source>
+        <comment>_kso_SmartArtHlist3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <comment>_kso_SmartArtHlist3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmented Process</source>
+        <comment>_kso_SmartArtProcess4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Emphasizes Level 2 text, since each line appears in a separate shape.</source>
+        <comment>_kso_SmartArtProcess4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Curved List</source>
+        <comment>_kso_SmartArtVerticalcurvedlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a curved list of information. To add pictures to the accent circle shapes, apply a picture fill.</source>
+        <comment>_kso_SmartArtVerticalcurvedlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pyramid List</source>
+        <comment>_kso_SmartArtPyramid2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships. Text appears in the rectangular shapes on top of the pyramid background.</source>
+        <comment>_kso_SmartArtPyramid2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Target List</source>
+        <comment>_kso_SmartArtTarget3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show interrelated or overlapping information. Each of the first seven lines of Level 1 text appears in the rectangular shape. Unused text does not appear, but remains available if you switch layouts. Works well with both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtTarget3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchy List</source>
+        <comment>_kso_SmartArtHierarchy3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing across groups. Can also be used to group or list information.</source>
+        <comment>_kso_SmartArtHierarchy3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Circle List</source>
+        <comment>_kso_SmartArtVerticalcirclelistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential or grouped data. Works best for Level 1 text, which displays next to a large circular shape. Lower levels of text are separated with smaller circular shapes.</source>
+        <comment>_kso_SmartArtVerticalcirclelistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information built from top to bottom, and the hierarchies within each group. This layout does not contain connecting lines.</source>
+        <comment>_kso_SmartArtHierarchy4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step Up Process</source>
+        <comment>_kso_SmartArtStepupprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show an ascending series of steps or lists of information.</source>
+        <comment>_kso_SmartArtStepupprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step Down Process</source>
+        <comment>_kso_SmartArtStepdownprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a descending process with multiple steps and sub-steps. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtStepdownprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Accent Process</source>
+        <comment>_kso_SmartArtHprocess10Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps in a task, process, or workflow. The rectangular shapes in the background are designed to contain pictures.</source>
+        <comment>_kso_SmartArtHprocess10Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Flow</source>
+        <comment>_kso_SmartArtHprocess4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or sequential steps in a task, process, or workflow. Emphasizes the interaction or relationships among the groups of information.</source>
+        <comment>_kso_SmartArtHprocess4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Block Process</source>
+        <comment>_kso_SmartArtHprocess9Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Works best with minimal Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtHprocess9Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increasing Arrows Process</source>
+        <comment>_kso_SmartArtIncreasingarrowsprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential and overlapping steps in a process. Limited to five Level 1 items. Level 2 can contain large amounts of text.</source>
+        <comment>_kso_SmartArtIncreasingarrowsprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Arrow Process</source>
+        <comment>_kso_SmartArtHprocess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a timeline or sequential steps in a task, process, or workflow. Works best with Level 1 text because each line of Level 1 text appears inside the arrow shape. Level 2 text appears outside the arrow shape.</source>
+        <comment>_kso_SmartArtHprocess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process Arrows</source>
+        <comment>_kso_SmartArtHprocess6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show information illustrating a process or workflow. Level 1 text appears in the circular shapes and Level 2 text appears in the arrow shapes. Works best for minimal text and to emphasize movement or direction.</source>
+        <comment>_kso_SmartArtHprocess6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Accent Timeline</source>
+        <comment>_kso_SmartArtCircleaccenttimelineName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of events or timeline information. Level 1 text appears next to larger circular shapes. Level 2 text appears next to smaller circular shapes.</source>
+        <comment>_kso_SmartArtCircleaccenttimelineDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Timeline</source>
+        <comment>_kso_SmartArtHprocess11Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps in a task, process, or workflow, or to show timeline information. Works well with both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtHprocess11Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Chevron Process</source>
+        <comment>_kso_SmartArtChevron1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression; a timeline; sequential steps in a task, process, or workflow; or to emphasize movement or direction. Level 1 text appears inside an arrow shape while Level 2 text appears below the arrow shapes.</source>
+        <comment>_kso_SmartArtChevron1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Closed Chevron Process</source>
+        <comment>_kso_SmartArtHchevron3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Can be used to emphasize information in the starting shape. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtHchevron3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chevron List</source>
+        <comment>_kso_SmartArtLprocess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression through several processes that make up an overall workflow. Also works for illustrating contrasting processes. The Level 1 text corresponds to the first arrow shape on the left, while the Level 2 text corresponds to horizontal sub-steps for each shape that contains Level 1 text.</source>
+        <comment>_kso_SmartArtLprocess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sub-Step Process</source>
+        <comment>_kso_SmartArtSubstepprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a multi-step process with sub-steps between each instance of Level 1 text. Works best with small amounts of text and is limited to seven Level 1 steps. Each Level 1 step can have unlimited sub-steps.</source>
+        <comment>_kso_SmartArtSubstepprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phased Process</source>
+        <comment>_kso_SmartArtPhasedprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show three phases of a process. Limited to three Level 1 items. The first two Level 1 items can each contain four Level 2 items, and the third Level 1 item can contain an unlimited number of Level 2 items.  Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtPhasedprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random to Result Process</source>
+        <comment>_kso_SmartArtRandomtoresultprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show, through a series of steps, how several chaotic  ideas can result in a unified goal or idea. Supports multiple items of Level 1 text, but the first and last Level 1 corresponding shapes are fixed. Works best with small amounts of Level 1 text and medium amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtRandomtoresultprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Process</source>
+        <comment>_kso_SmartArtProcess2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow from top to bottom. Works best with Level 1 text, since the vertical space is limited.</source>
+        <comment>_kso_SmartArtProcess2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Staggered Process</source>
+        <comment>_kso_SmartArtVprocess5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a downward progression through stages. Each of the first five lines of Level 1 text corresponds with a rectangle. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVprocess5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process List</source>
+        <comment>_kso_SmartArtLprocess1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show multiple groups of information or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape.</source>
+        <comment>_kso_SmartArtLprocess1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Arrow Process</source>
+        <comment>_kso_SmartArtCirclearrowprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential items with supporting text for each item. This diagram works best with small amounts of Level 1 text.</source>
+        <comment>_kso_SmartArtCirclearrowprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Bending Process</source>
+        <comment>_kso_SmartArtProcess5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtProcess5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeating Bending Process</source>
+        <comment>_kso_SmartArtBprocess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBprocess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Bending Process</source>
+        <comment>_kso_SmartArtBprocess4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes. Places more emphasis on the interrelationships among the shapes than on direction or movement.</source>
+        <comment>_kso_SmartArtBprocess4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascending Picture Accent Process</source>
+        <comment>_kso_SmartArtAscendingpictureaccentprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show an ascending series of pictures with descriptive text. Works best with a small amount of text.</source>
+        <comment>_kso_SmartArtAscendingpictureaccentprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upward Arrow</source>
+        <comment>_kso_SmartArtArrow2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or steps that trend upward in a task, process, or workflow. Each of the first five lines of Level 1 text corresponds to a point on the arrow. Works best with minimal text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descending Process</source>
+        <comment>_kso_SmartArtDescendingprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a descending series of events. The first Level 1 text is at the top of arrow, and the last Level 1 text displays at the bottom of the arrow. Only the first seven Level 1 items appear. Works best with small to medium amounts of text.</source>
+        <comment>_kso_SmartArtDescendingprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circular Bending Process</source>
+        <comment>_kso_SmartArtBprocess2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a long or non-linear sequence or steps in a task, process, or workflow. Works best with Level 1 text only. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBprocess2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>_kso_SmartArtEquation1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the equals sign (=).Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtEquation1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Equation</source>
+        <comment>_kso_SmartArtEquation2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the arrow. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtEquation2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Funnel</source>
+        <comment>_kso_SmartArtFunnel1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the filtering of information or how parts merge into a whole. Emphasizes the final outcome. Can contain up to four lines of Level 1 text; the last of these four Level 1 text lines appears below the funnel and the other lines  correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtFunnel1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gear</source>
+        <comment>_kso_SmartArtGear1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show interlocking ideas. Each of the first three lines of Level 1 text corresponds to a gear shape, and their corresponding Level 2 text appears in rectangles next to the gear shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtGear1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Ribbon</source>
+        <comment>_kso_SmartArtArrow6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show either related or contrasting concepts with some connection, such as opposing forces. The first two lines of Level 1 text are used for text in the arrows. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opposing Arrows</source>
+        <comment>_kso_SmartArtArrow4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show two opposing ideas, or ideas that diverge from a central point. Each of the first two lines of Level 1 text corresponds to an arrow. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converging Arrows</source>
+        <comment>_kso_SmartArtArrow5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show ideas or concepts that converge to a central point. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtArrow5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diverging Arrows</source>
+        <comment>_kso_SmartArtArrow1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show ideas or concepts that progress outward from a central source. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtArrow1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Cycle</source>
+        <comment>_kso_SmartArtCycle2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Cycle</source>
+        <comment>_kso_SmartArtCycle1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the arrows or flow rather than the stages or steps. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block Cycle</source>
+        <comment>_kso_SmartArtCycle5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow.</source>
+        <comment>_kso_SmartArtCycle5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nondirectional Cycle</source>
+        <comment>_kso_SmartArtCycle6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Each shape has the same level of importance. Works well when direction does not need to be indicated.</source>
+        <comment>_kso_SmartArtCycle6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Cycle</source>
+        <comment>_kso_SmartArtCycle3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the connection between all components. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multidirectional Cycle</source>
+        <comment>_kso_SmartArtCycle7Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events that can occur in any direction.</source>
+        <comment>_kso_SmartArtCycle7Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmented Cycle</source>
+        <comment>_kso_SmartArtCycle8Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or a sequence of stages, tasks, or events in a circular flow. Emphasizes the interconnected pieces. Each of the first seven lines of Level 1 text corresponds to a wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle8Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Pie</source>
+        <comment>_kso_SmartArtChart3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show how individual parts form a whole. The first seven lines of Level 1 text correspond to the evenly distributed wedge or pie shapes. The top Level 1 text shape appears outside of the rest of the pie for emphasis. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtChart3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Cycle</source>
+        <comment>_kso_SmartArtRadial6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea. Emphasizes both information in the center circle and how information in the outer ring of circles contributes to the central idea. The first Level 1 line of text corresponds to the central circle, and its Level 2 text corresponds to the outer ring of circles. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Radial</source>
+        <comment>_kso_SmartArtRadial1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape, and its Level 2 text corresponds to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diverging Radial </source>
+        <comment>_kso_SmartArtRadial5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cycle Matrix</source>
+        <comment>_kso_SmartArtCycle4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Cluster</source>
+        <comment>_kso_SmartArtRadialclusterName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show data that relates to a central idea or theme. The top Level 1 text appears in the center. Level 2 text appears in surrounding shapes. Can contain up to seven Level 2 shapes. Unused text does not appear, but remains available if you switch layouts. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtRadialclusterDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <comment>_kso_SmartArtOrgchart1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtOrgchart1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name and Title Organization Chart</source>
+        <comment>_kso_SmartArtNameandtitleorganizationalchartName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. To enter text in the title box, type directly in the smaller rectangular shape. The assistant shape and Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtNameandtitleorganizationalchartDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Half Circle Organization Chart</source>
+        <comment>_kso_SmartArtHalfcircleorganizationchartName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shapes and Org Chart hanging layouts are available with this layout. </source>
+        <comment>_kso_SmartArtHalfcircleorganizationchartDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Picture Hierarchy</source>
+        <comment>_kso_SmartArtCirclepicturehierarchyName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. Pictures appear in circles and corresponding text appears next to the pictures.</source>
+        <comment>_kso_SmartArtCirclepicturehierarchyDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing from top to bottom.</source>
+        <comment>_kso_SmartArtHierarchy1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labeled Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing from top to bottom and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and all subsequent lines of Level 1 text appear to the left of the long rectangles.</source>
+        <comment>_kso_SmartArtHierarchy6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Organization Chart</source>
+        <comment>_kso_SmartArtHorizontalorganizationchartName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information horizontally or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtHorizontalorganizationchartDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Multi-Level Hierarchy</source>
+        <comment>_kso_SmartArtHorizontalmultilevelhierarchyName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show large amounts of hierarchical information progressing horizontally. The top of the hierarchy is displayed vertically. This layout supports many levels in the hierarchy.</source>
+        <comment>_kso_SmartArtHorizontalmultilevelhierarchyDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing horizontally. Works well for decision trees.</source>
+        <comment>_kso_SmartArtHierarchy2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Labeled Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing horizontally and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and the second and all subsequent lines of Level 1 text appear at the top of the tall rectangles.</source>
+        <comment>_kso_SmartArtHierarchy5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Balance</source>
+        <comment>_kso_SmartArtBalance1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to compare or show the relationship between two ideas. Each of the first two lines of Level 1 text corresponds to text at the top of one side of the center point. Emphasizes Level 2 text, which is limited to four shapes on each side of the center point. The balance tips towards the side with the most shapes containing Level 2 text. Unused text does not appear, but remains available if you switch layouts. </source>
+        <comment>_kso_SmartArtBalance1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Relationship</source>
+        <comment>_kso_SmartArtCirclerelationshipName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to or from a central idea. Level 2 text is added non-sequentially and is limited to five items. There can only be one Level 1 item.</source>
+        <comment>_kso_SmartArtCirclerelationshipDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hexagon Cluster</source>
+        <comment>_kso_SmartArtHexagonclusterName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with associated descriptive text. Small hexagons indicate the picture and text pair. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtHexagonclusterDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opposing Ideas</source>
+        <comment>_kso_SmartArtOpposingideasName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show two opposing or contrasting ideas. Can have one or two Level 1 items. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArtOpposingideasDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus and Minus</source>
+        <comment>_kso_SmartArtPlusandminusName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the pros and cons of  two ideas. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text. Limited to two Level 1 items.</source>
+        <comment>_kso_SmartArtPlusandminusDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reverse List</source>
+        <comment>_kso_SmartArtReverselistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to change between two items. Only the first two items of text display, and each item can contain a large amount of text. Works well to show a change between two items or shift in order.</source>
+        <comment>_kso_SmartArtReverselistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counterbalance Arrows</source>
+        <comment>_kso_SmartArtArrow3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show two opposing ideas or concepts. Each of the first two lines of Level 1 text corresponds to an arrow and works well with Level 2 text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmented Pyramid</source>
+        <comment>_kso_SmartArtPyramid4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show containment, proportional, or interconnected relationships. The first nine lines of Level 1 text appear in the triangular shapes. Unused text does not appear, but remains available if you switch layouts. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtPyramid4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nested Target</source>
+        <comment>_kso_SmartArtTarget2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show containment relationships. Each of the first three lines of Level 1 text correspond to the upper left text in the shapes, and Level 2 text corresponds to the smaller shapes. Works best with minimal Level 2 lines of text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtTarget2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial List</source>
+        <comment>_kso_SmartArtRadial2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The center shape can contain a picture. Level 1 text appears in the smaller circles and any related Level 2 text appears to the side of the smaller circles.</source>
+        <comment>_kso_SmartArtRadial2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Target</source>
+        <comment>_kso_SmartArtTarget1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show containment, gradations, or hierarchical relationships. The first five lines of Level 1 text are associated with a circle. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtTarget1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Venn</source>
+        <comment>_kso_SmartArtVenn1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show overlapping or interconnected relationships. The first seven lines of Level 1 text correspond with a circle. If there are four or fewer lines of Level 1 text, the text is inside the circles. If there are more than four lines of Level 1 text, the text is outside of the circles. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVenn1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear Venn</source>
+        <comment>_kso_SmartArtVenn3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show overlapping relationships in a sequence. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtVenn3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Venn</source>
+        <comment>_kso_SmartArtVenn2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show overlapping relationships. A good choice for emphasizing growth or gradation. Works best with Level 1 text only. The first seven lines of Level 1 text correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVenn2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Matrix</source>
+        <comment>_kso_SmartArtMatrix3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship of components to a whole in quadrants. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Titled Matrix</source>
+        <comment>_kso_SmartArtMatrix1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationships of four quadrants to a whole. The first line of Level 1 text corresponds to the central shape, and the first four lines of Level 2 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid Matrix</source>
+        <comment>_kso_SmartArtMatrix2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the placement of concepts along two axes. Emphasizes the individual components rather than the whole. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Pyramid</source>
+        <comment>_kso_SmartArtPyramid1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the bottom and narrowing up. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
+        <comment>_kso_SmartArtPyramid1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted Pyramid</source>
+        <comment>_kso_SmartArtPyramid3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the top and narrowing down. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
+        <comment>_kso_SmartArtPyramid3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accented Picture</source>
+        <comment>_kso_SmartArtAccentedpictureName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a central, photographic idea with related ideas on the side. The top Level 1 text appears over the central picture. Corresponding text for other Level 1 shapes appear next to the small circular pictures. This layout also works well with no text.</source>
+        <comment>_kso_SmartArtAccentedpictureDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circular Picture Callout</source>
+        <comment>_kso_SmartArtCircularpicturecalloutName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a central idea and sub-ideas or related items. The text for the first picture covers the lower portion of the picture. The corresponding text for other Level 1 shapes appears next to the small circular pictures. This diagram also works well with no text.</source>
+        <comment>_kso_SmartArtCircularpicturecalloutDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapshot Picture List</source>
+        <comment>_kso_SmartArtSnapshotpicturelistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with explanatory text. Level 2 text can display lists of information. Works well with a large amount of  text.</source>
+        <comment>_kso_SmartArtSnapshotpicturelistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spiral Picture</source>
+        <comment>_kso_SmartArtSpiralpictureName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of up to five pictures with corresponding Level 1 captions that spiral in to the center. </source>
+        <comment>_kso_SmartArtSpiralpictureDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Captioned Pictures</source>
+        <comment>_kso_SmartArtCaptionedpicturesName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with multiple levels of text.  Works best with a small amount of Level 1 text and a medium amount of Level 2 text.</source>
+        <comment>_kso_SmartArtCaptionedpicturesDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Caption</source>
+        <comment>_kso_SmartArtBendingpicturecaptionName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a sequential series of pictures. The box covering the bottom corner can contain small amounts of text.</source>
+        <comment>_kso_SmartArtBendingpicturecaptionDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Semi-Transparent Text</source>
+        <comment>_kso_SmartArtBendingpicturesemitransparenttextName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. A semi-transparent box covers the lower portion of the picture and contains all levels of text.</source>
+        <comment>_kso_SmartArtBendingpicturesemitransparenttextDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Blocks</source>
+        <comment>_kso_SmartArtBendingpictureblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. The box covering the bottom corner can contain small amounts of text.</source>
+        <comment>_kso_SmartArtBendingpictureblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Caption List</source>
+        <comment>_kso_SmartArtBendingpicturecaptionlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. The title and description appear in a callout shape under each picture.</source>
+        <comment>_kso_SmartArtBendingpicturecaptionlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Titled Picture Blocks</source>
+        <comment>_kso_SmartArtTitledpictureblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. Level 1 text appears above each picture. Level 2 text appears to the side and slightly overlapping each picture.</source>
+        <comment>_kso_SmartArtTitledpictureblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Grid</source>
+        <comment>_kso_SmartArtPicturegridName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures laid out on a square grid. Best with a small amount of Level 1 text, which appears above the picture.</source>
+        <comment>_kso_SmartArtPicturegridDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Accent Blocks</source>
+        <comment>_kso_SmartArtPictureaccentblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a group of pictures in blocks starting from the corner. The corresponding text displays vertically. Works well as an accent on title or sub-title slides or for section breaks of a document.</source>
+        <comment>_kso_SmartArtPictureaccentblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Picture Circles</source>
+        <comment>_kso_SmartArtAlternatingpicturecirclesName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a set of pictures with text. The corresponding text appears in the central circles with the images alternating from left to right.</source>
+        <comment>_kso_SmartArtAlternatingpicturecirclesDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Picture Lineup</source>
+        <comment>_kso_SmartArtTitlepicturelineupName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures that each have their own title and description. Level 1 text appears in the box above the picture. Level 2 text appears below the picture.</source>
+        <comment>_kso_SmartArtTitlepicturelineupDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Lineup</source>
+        <comment>_kso_SmartArtPicturelineupName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures side by side. Level 1 text covers the top of the picture. Level 2 text appears below the picture.</source>
+        <comment>_kso_SmartArtPicturelineupDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Framed Text Picture</source>
+        <comment>_kso_SmartArtFramedtextpictureName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
+        <comment>_kso_SmartArtFramedtextpictureDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bubble Picture List</source>
+        <comment>_kso_SmartArtBubblepicturelistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. Can contain up to eight Level 1 pictures. Unused text and pictures do not appear, but remain available if you switch layouts. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtBubblepicturelistDescription</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

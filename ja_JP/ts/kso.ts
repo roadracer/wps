@@ -63,9 +63,9 @@ Please check your system settings and ensure the temporary directory under the c
 
 Please check your system settings and ensure the temporary directory under the current user is available, and then restart WPS Office.</source>
         <comment>_ksoErr_Environment_TempPath_NotExist</comment>
-        <translation>テンポラリーディレクトリーが存在しません、又はテンポラリーディレクトリーの作成に失敗しました。
+        <translation>テンポラリーディレクトリーが存在しません、またはテンポラリーディレクトリーの作成に失敗しました。
 
-システム設定とユーザ権限を確認して、Kingsoft Officeを再起動してください。</translation>
+システム設定とユーザ権限を確認して、WPS Officeを再起動してください。</translation>
     </message>
     <message>
         <source>The current user does not have the permission to write in the temporary directory.
@@ -86,7 +86,7 @@ Please check your system settings and ensure that the temporary directory under 
         <comment>_ksoErr_Environment_TempPath_Unwritable</comment>
         <translation>現在のユーザにはテンポラリーディレクトリーに書き込み権限がありません。
 
-システム設定とユーザ権限を確認して、Kingsoft Officeを再起動してください。</translation>
+システム設定とユーザ権限を確認して、WPS Officeを再起動してください。</translation>
     </message>
 </context>
 <context>
@@ -99,22 +99,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>1st Qtr</source>
         <comment>CHART_DEFAULTTEXT_FIRSTQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>第一四半期</translation>
     </message>
     <message>
         <source>2nd Qtr</source>
         <comment>CHART_DEFAULTTEXT_SECONDQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>第二四半期</translation>
     </message>
     <message>
         <source>3rd Qtr</source>
         <comment>CHART_DEFAULTTEXT_THIRDQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>第三四半期</translation>
     </message>
     <message>
         <source>4th Qtr</source>
         <comment>CHART_DEFAULTTEXT_FOURTHQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>第四四半期</translation>
     </message>
     <message>
         <source>AXIS</source>
@@ -129,12 +129,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Axis Title</source>
         <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>軸のタイトル</translation>
     </message>
     <message>
         <source>Billions</source>
         <comment>CHART_UNITLABEL_BILLIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>十億</translation>
     </message>
     <message>
         <source>CAHRT</source>
@@ -149,27 +149,27 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Category</source>
         <comment>HINT_CATEGORY</comment>
-        <translation>カテゴリー</translation>
+        <translation>分類</translation>
     </message>
     <message>
         <source>Category 1</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY1</comment>
-        <translation type="unfinished"></translation>
+        <translation>分類 1</translation>
     </message>
     <message>
         <source>Category 2</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY2</comment>
-        <translation type="unfinished"></translation>
+        <translation>分類 2</translation>
     </message>
     <message>
         <source>Category 3</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY3</comment>
-        <translation type="unfinished"></translation>
+        <translation>分類 3</translation>
     </message>
     <message>
         <source>Category 4</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY4</comment>
-        <translation type="unfinished"></translation>
+        <translation>分類 4</translation>
     </message>
     <message>
         <source>Category Label</source>
@@ -184,7 +184,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Chart Title</source>
         <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
-        <translation type="unfinished">グラフタイトル</translation>
+        <translation>グラフタイトル</translation>
     </message>
     <message>
         <source>Chart Title</source>
@@ -194,7 +194,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Close</source>
         <comment>CHART_DEFAULTTEXT_STOCK_CLOSE</comment>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>DATA LABEL</source>
@@ -224,7 +224,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Down-Bars</source>
         <comment>HINT_DOWNBARS</comment>
-        <translation>ローソク（下）</translation>
+        <translation>陰線</translation>
     </message>
     <message>
         <source>Drop Lines</source>
@@ -249,7 +249,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Expon</source>
         <comment>CHART_DEFAULTTEXT_LINE_EXPON</comment>
-        <translation type="unfinished"></translation>
+        <translation>指数</translation>
     </message>
     <message>
         <source>Gridline</source>
@@ -264,7 +264,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>High</source>
         <comment>CHART_DEFAULTTEXT_STOCK_HIGH</comment>
-        <translation type="unfinished"></translation>
+        <translation>高値</translation>
     </message>
     <message>
         <source>High-Low Lines</source>
@@ -279,7 +279,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Hundreds</source>
         <comment>CHART_UNITLABEL_HUNDREDS</comment>
-        <translation type="unfinished"></translation>
+        <translation>百</translation>
     </message>
     <message>
         <source>LABEL</source>
@@ -319,17 +319,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Linear</source>
         <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>線形</translation>
     </message>
     <message>
         <source>Log</source>
         <comment>CHART_DEFAULTTEXT_LINE_LOG</comment>
-        <translation type="unfinished"></translation>
+        <translation>対数</translation>
     </message>
     <message>
         <source>Low</source>
         <comment>CHART_DEFAULTTEXT_STOCK_LOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>安値</translation>
     </message>
     <message>
         <source>MAJOR GRIDLINES</source>
@@ -349,7 +349,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Millions</source>
         <comment>CHART_UNITLABEL_MILLIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>百万</translation>
     </message>
     <message>
         <source>Minor Gridline</source>
@@ -359,17 +359,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>None</source>
         <comment>CHART_UNITLABEL_NONE</comment>
-        <translation type="unfinished">なし</translation>
+        <translation>なし</translation>
     </message>
     <message>
         <source>Open</source>
         <comment>CHART_DEFAULTTEXT_STOCK_OPEN</comment>
-        <translation type="unfinished">開く</translation>
+        <translation>取引開始</translation>
     </message>
     <message>
         <source>Other</source>
         <comment>CHART_DATALABELTEXT_OTHER</comment>
-        <translation type="unfinished"></translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>PLOT AREA</source>
@@ -389,17 +389,17 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Point</source>
         <comment>HINT_POINT</comment>
-        <translation>点</translation>
+        <translation>要素</translation>
     </message>
     <message>
         <source>Poly</source>
         <comment>CHART_DEFAULTTEXT_LINE_POLY</comment>
-        <translation type="unfinished"></translation>
+        <translation>多項式</translation>
     </message>
     <message>
         <source>Power </source>
         <comment>CHART_DEFAULTTEXT_LINE_POWER</comment>
-        <translation type="unfinished"></translation>
+        <translation>累乗</translation>
     </message>
     <message>
         <source>Radar</source>
@@ -419,7 +419,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Sales</source>
         <comment>CHART_DEFAULTTEXT_SALES</comment>
-        <translation type="unfinished"></translation>
+        <translation>売上高</translation>
     </message>
     <message>
         <source>Secondary</source>
@@ -434,22 +434,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Series 1</source>
         <comment>CHART_DEFAULTTEXT_SERIES1</comment>
-        <translation type="unfinished"></translation>
+        <translation>系列 1</translation>
     </message>
     <message>
         <source>Series 2</source>
         <comment>CHART_DEFAULTTEXT_SERIES2</comment>
-        <translation type="unfinished"></translation>
+        <translation>系列 2</translation>
     </message>
     <message>
         <source>Series 3</source>
         <comment>CHART_DEFAULTTEXT_SERIES3</comment>
-        <translation type="unfinished"></translation>
+        <translation>系列 3</translation>
     </message>
     <message>
         <source>Series 4</source>
         <comment>CHART_DEFAULTTEXT_SERIES4</comment>
-        <translation type="unfinished"></translation>
+        <translation>系列 4</translation>
     </message>
     <message>
         <source>Series Lines</source>
@@ -484,7 +484,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Thousands</source>
         <comment>CHART_UNITLABEL_THOUSANDS</comment>
-        <translation type="unfinished"></translation>
+        <translation>千</translation>
     </message>
     <message>
         <source>Title</source>
@@ -494,7 +494,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
         <comment>CHART_CanNotWriteChartLinkPath</comment>
-        <translation type="unfinished"></translation>
+        <translation>グラフを挿入するためには、開いているダイアログをすべて閉じ、WPS Spreadsheetsの編集モードを終了してください。</translation>
     </message>
     <message>
         <source>Trendline</source>
@@ -504,7 +504,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Trillions</source>
         <comment>CHART_UNITLABEL_TRILLIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>兆</translation>
     </message>
     <message>
         <source>UP-BARS</source>
@@ -519,7 +519,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Up-Bars</source>
         <comment>HINT_UPBARS</comment>
-        <translation>ローソク（上）</translation>
+        <translation>陽線</translation>
     </message>
     <message>
         <source>Value</source>
@@ -534,17 +534,61 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Volume</source>
         <comment>CHART_DEFAULTTEXT_STOCK_VOLUME</comment>
-        <translation type="unfinished"></translation>
+        <translation>取引高</translation>
     </message>
     <message>
         <source>Y-Values</source>
         <comment>CHART_DEFAULTTEXT_Y_VALUES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Y-値</translation>
     </message>
     <message>
         <source>per. Mov. Avg.</source>
         <comment>CHART_DEFAULTTEXT_LINE_AVGMOV</comment>
-        <translation type="unfinished"></translation>
+        <translation>区移動平均</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <comment>HINT_SIZE</comment>
+        <translation>サイズ</translation>
+    </message>
+    <message>
+        <source>Save Chart Template</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate</comment>
+        <translation>グラフ テンプレートの保存</translation>
+    </message>
+    <message>
+        <source>Chart Template Files(*.crtx)|*.crtx</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Filter</comment>
+        <translation>グラフ テンプレート ファイル(*.crtx)|*.crtx</translation>
+    </message>
+    <message>
+        <source>Chart%d</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Name</comment>
+        <translation>グラフ%d</translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <comment>HINT_Addtext</comment>
+        <translation>テキストの追加</translation>
+    </message>
+    <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.Please try recreating it.</source>
+        <translation>このテンプレートを適用できません。破損しているか、選択されたグラフでは使えません。テンプレートを作り直してみてください。</translation>
+    </message>
+    <message>
+        <source>To build a PivotChart, choose fields from the PivotChart Field List.</source>
+        <comment>CHART_PIVOT_EMPTY_ShowFieldList_DES</comment>
+        <translation>ピポットグラフを作成するには、ピポットテーブルフィールドリストからフィールドを選択してください。</translation>
+    </message>
+    <message>
+        <source>Trun on the PivotChart Field List to work with the PivotChart.</source>
+        <comment>CHART_PIVOT_EMPTY_HideFieldList_DES</comment>
+        <translation>ピポットグラフを操作するには、ピポットグラフのフィールドリストを表示します。</translation>
+    </message>
+    <message>
+        <source>You cannot use an XY(Scatter), Bubble, or Stock chart type with a chart that has been created from PivotTbale data.Please select a different chart type.</source>
+        <comment>TX_PivotChart_NotSupport_ChartType</comment>
+        <translation>ピボットテーブルのデータを使って作成したグラフと、XY (散布図)、バブル チャート、株価チャートは、併用できません。他のグラフを選択してください。</translation>
     </message>
 </context>
 <context>
@@ -702,7 +746,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as Text with Font and Table Formatting.</source>
         <comment>TX_KSO_CF_RTF_RESULTNAME</comment>
-        <translation>クリップボードの内容を“フォントと罫線書式付き文字”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「フォントと罫線書式付き文字」の形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a Bitmap picture.</source>
@@ -762,52 +806,52 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Writer</source>
         <comment>TX_KSO_CF_WPS_DISPNAME</comment>
-        <translation>Kingsoft Writer データ</translation>
+        <translation>WPS Writer データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Writer.</source>
         <comment>TX_KSO_CF_WPS_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Writer データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Writer データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>Data of WPS Spreadsheets</source>
         <comment>TX_KSO_CF_ET_DISPNAME</comment>
-        <translation>Kingsoft Spreadsheets データ</translation>
+        <translation>WPS Spreadsheets データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Spreadsheets.</source>
         <comment>TX_KSO_CF_ET_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Spreadsheets データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Spreadsheets データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>Data of WPS Presentation</source>
         <comment>TX_KSO_CF_WPP_DISPNAME</comment>
-        <translation>Kingsoft Presentation データ</translation>
+        <translation>WPS Presentation データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Presentation.</source>
         <comment>TX_KSO_CF_WPP_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Presentation　データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Presentation データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
         <comment>TX_KSO_CF_MAIL_DISPNAME</comment>
-        <translation>Kingsoft Office メール データ</translation>
+        <translation>WPS Office メール データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
         <comment>TX_KSO_CF_MAIL_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Office メール データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS メール データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished">Kingsoft Office　図形データ</translation>
+        <translation type="obsolete">Kingsoft Office　図形データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+        <translation type="obsolete">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
@@ -822,12 +866,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of Kingsoft Drawing</source>
         <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
-        <translation type="unfinished">Kingsoft Office 図形データ</translation>
+        <translation type="obsolete">Kingsoft Office 図形データ</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation Slide.</source>
         <comment>TX_KSO_CF_SLIDES_DISPNAME</comment>
-        <translation>Kingsoft Presentationのデータ</translation>
+        <translation>WPS Presentationのデータ</translation>
     </message>
     <message>
         <source>ET Drag Drawing</source>
@@ -837,47 +881,47 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>New Data of Kingsoft Writer</source>
         <comment>TX_KSO_CF_WPS_DOCX_DISPNAME</comment>
-        <translation>Kingsoft Writer データ</translation>
+        <translation>WPS Writer データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
         <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Office 図形データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation type="unfinished">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+        <translation type="obsolete">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation Slide.</source>
         <comment>TX_KSO_CF_SLIDES_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Presentation　データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Presentation データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as New Data of Kingsoft Writer.</source>
         <comment>TX_KSO_CF_WPS_DOCX_RESULTNAME</comment>
-        <translation>クリップボードの内容を“Kingsoft Writer データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Writer データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>WPS Office Graphic Object</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="obsolete">Kingsoft Office　図形データ</translation>
+        <translation>WPS Office　図形データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="obsolete">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Office　図形データ」の形式として挿入します。</translation>
     </message>
     <message>
         <source>WPS Office Graphic Object</source>
         <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
-        <translation type="obsolete">Kingsoft Office　図形データ</translation>
+        <translation>WPS Office　図形データ</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation type="obsolete">クリップボードの内容を“Kingsoft Office　図形データ”の形式として挿入します。</translation>
+        <translation>クリップボードの内容を「WPS Office　図形データ」の形式として挿入します。</translation>
     </message>
 </context>
 <context>
@@ -1140,7 +1184,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Curved Connector</source>
         <comment>DgUil_KSO_Cmd_ConnectorType_Value2</comment>
-        <translation>曲線コネクタ</translation>
+        <translation>曲線</translation>
     </message>
     <message>
         <source>Curved Segment</source>
@@ -1495,7 +1539,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Loose</source>
         <comment>DgUil_KSO_Cmd_WordArtCharacterSpacing_Value3</comment>
-        <translation>広く</translation>
+        <translation>透視投影(緩い傾斜)</translation>
     </message>
     <message>
         <source>Make Same Height</source>
@@ -1929,22 +1973,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WPS Writer</source>
         <comment>DgUil_KSO_WPS_NAME</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>DgUil_KSO_ET_NAME</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>DgUil_KSO_WPP_NAME</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Office cannot start the source application of the object.</source>
         <comment>DgUil_KSO_NotStartUpProcess</comment>
-        <translation>Kingsoft Officeはオブジェクトのソースアプリケーションを起動することができません。</translation>
+        <translation>WPS Officeはオブジェクトのソースアプリケーションを起動することができません。</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
@@ -1985,6 +2029,41 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>There is not enough memory, Create Object Failed!</source>
         <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
         <translation>メモリ容量不足により、オブジェクトの作成に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_AddPictureFrame</comment>
+        <translation>画像枠を追加</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetSize</comment>
+        <translation>図とサイズのリセット</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <comment>DgUil_KSO_Cmd_FormatComment</comment>
+        <translation>コメントの書式</translation>
+    </message>
+    <message>
+        <source>Diagram Conversion</source>
+        <comment>DgUil_PromptDiagramConversionTitle</comment>
+        <translation>図表の変換</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to Shapes.</source>
+        <comment>DgUil_PromptDiagramConversion</comment>
+        <translation>この図表を編集するには、図形に変換してください。</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</source>
+        <comment>DgAllPictureAddCgm</comment>
+        <translation>すべての画像(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</translation>
+    </message>
+    <message>
+        <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
+        <comment>DgUil_ComputerMetaFiles</comment>
+        <translation>Computer Graphics メタファイル(*.cgm)|*.cgm</translation>
     </message>
 </context>
 <context>
@@ -2252,7 +2331,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curved Down Arrow</source>
         <comment>DRAWINGSTR_CURVEDUPARROW</comment>
-        <translation>下カーブ矢印</translation>
+        <translation>上カーブ矢印</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
@@ -2277,7 +2356,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curved Up Arrow</source>
         <comment>DRAWINGSTR_CURVEDDOWNARROW</comment>
-        <translation>上カーブ矢印</translation>
+        <translation>下カーブ矢印</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
@@ -2357,7 +2436,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Double Wave</source>
         <comment>DRAWINGSTR_DOUBLEWAVE</comment>
-        <translation>波形2</translation>
+        <translation>小波2</translation>
     </message>
     <message>
         <source>Down Arrow</source>
@@ -2457,7 +2536,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>FlowChart: Offline Storage</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFLINESTORAGE</comment>
-        <translation>フローチャート：オフライン ストレージ</translation>
+        <translation>他ページ結合子</translation>
     </message>
     <message>
         <source>Flowchart: Alternate Process</source>
@@ -2547,7 +2626,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Off-page Connector</source>
         <comment>DRAWINGSTR_FLOWCHARTOFFPAGECONNECTOR</comment>
-        <translation>フローチャート：他ページ結合子</translation>
+        <translation>他ページ結合子</translation>
     </message>
     <message>
         <source>Flowchart: Or</source>
@@ -2737,7 +2816,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Left-Right-Up Arrow</source>
         <comment>DRAWINGSTR_LEFTRIGHTUPARROW</comment>
-        <translation>三方向矢印</translation>
+        <translation>曲折矢印</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
@@ -3002,7 +3081,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Pub Chord</source>
         <comment>DRAWINGSTR_PUBCHORD</comment>
-        <translation>半円</translation>
+        <translation>半弦</translation>
     </message>
     <message>
         <source>Pub Cross</source>
@@ -3242,7 +3321,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Text Box</source>
         <comment>DRAWINGSTR_TEXTBOX</comment>
-        <translation>テキスト ボックス</translation>
+        <translation>テキストボックス</translation>
     </message>
     <message>
         <source>The value specified is beyond the range.</source>
@@ -3367,7 +3446,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Wave</source>
         <comment>DRAWINGSTR_WAVE</comment>
-        <translation>波形</translation>
+        <translation>小波</translation>
     </message>
     <message>
         <source>Weave</source>
@@ -3602,7 +3681,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>WordArt: Wave</source>
         <comment>DRAWINGSTR_TEXTWAVE</comment>
-        <translation>ワードアート: 波形</translation>
+        <translation>ワードアート: 小波</translation>
     </message>
     <message>
         <source>WordArt: Wave1</source>
@@ -3637,12 +3716,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Object</source>
         <comment>DRAWINGSTR_OLECONTROL_OBJECT</comment>
-        <translation>オブジェクト(&amp;O)</translation>
+        <translation>オブジェクト</translation>
     </message>
     <message>
         <source>Black Gradient</source>
         <comment>DRAWINGSTR_DGMSTYLE_BLACK_GRADIENT</comment>
-        <translation>黑色渐变</translation>
+        <translation>黒</translation>
     </message>
     <message>
         <source>Flowchart: Sequential Access Storage</source>
@@ -3699,9 +3778,9 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
  position:%3% 
  color: %4</source>
         <comment>wpp_sTooltipGradientStops</comment>
-        <translation> stop: %1 (belong to %2)
- position: %3%
- color: %4</translation>
+        <translation> 分岐点 %1/%2
+ 位置: %3%
+ 色: %4</translation>
     </message>
     <message>
         <source>&quot;No&quot; Symbol</source>
@@ -3721,32 +3800,32 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>10-Point Star</source>
         <comment>DRAWING2STR_10_POINT_STAR</comment>
-        <translation>10点星</translation>
+        <translation>星10</translation>
     </message>
     <message>
         <source>10-Point Star</source>
         <comment>DRAWING2_TOOLTIP_10_POINT_STAR</comment>
-        <translation>10点星</translation>
+        <translation>星10</translation>
     </message>
     <message>
         <source>12-Point Star</source>
         <comment>DRAWING2STR_12_POINT_STAR</comment>
-        <translation>12点星</translation>
+        <translation>星12</translation>
     </message>
     <message>
         <source>12-Point Star</source>
         <comment>DRAWING2_TOOLTIP_12_POINT_STAR</comment>
-        <translation>12点星</translation>
+        <translation>星12</translation>
     </message>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWING2STR_16_POINT_STAR</comment>
-        <translation>16点星</translation>
+        <translation>星16</translation>
     </message>
     <message>
         <source>16-Point Star</source>
         <comment>DRAWING2_TOOLTIP_16_POINT_STAR</comment>
-        <translation>16点星</translation>
+        <translation>星16</translation>
     </message>
     <message>
         <source>20%</source>
@@ -3756,12 +3835,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>24-Point Star</source>
         <comment>DRAWING2STR_24_POINT_STAR</comment>
-        <translation>24点星</translation>
+        <translation>星24</translation>
     </message>
     <message>
         <source>24-Point Star</source>
         <comment>DRAWING2_TOOLTIP_24_POINT_STAR</comment>
-        <translation>24点星</translation>
+        <translation>星24</translation>
     </message>
     <message>
         <source>25%</source>
@@ -3776,22 +3855,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>32-Point Star</source>
         <comment>DRAWING2STR_32_POINT_STAR</comment>
-        <translation>32点星</translation>
+        <translation>星32</translation>
     </message>
     <message>
         <source>32-Point Star</source>
         <comment>DRAWING2_TOOLTIP_32_POINT_STAR</comment>
-        <translation>32点星</translation>
+        <translation>星32</translation>
     </message>
     <message>
         <source>4-Point Star</source>
         <comment>DRAWING2STR_4_POINT_STAR</comment>
-        <translation>4点星</translation>
+        <translation>星4</translation>
     </message>
     <message>
         <source>4-Point Star</source>
         <comment>DRAWING2_TOOLTIP_4_POINT_STAR</comment>
-        <translation>4点星</translation>
+        <translation>星4</translation>
     </message>
     <message>
         <source>40%</source>
@@ -3806,12 +3885,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>5-Point Star</source>
         <comment>DRAWING2STR_5_POINT_STAR</comment>
-        <translation>5点星</translation>
+        <translation>星5</translation>
     </message>
     <message>
         <source>5-Point Star</source>
         <comment>DRAWING2_TOOLTIP_5_POINT_STAR</comment>
-        <translation>5点星</translation>
+        <translation>星5</translation>
     </message>
     <message>
         <source>50%</source>
@@ -3821,12 +3900,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>6-Point Star</source>
         <comment>DRAWING2STR_6_POINT_STAR</comment>
-        <translation>6点星</translation>
+        <translation>星6</translation>
     </message>
     <message>
         <source>6-Point Star</source>
         <comment>DRAWING2_TOOLTIP_6_POINT_STAR</comment>
-        <translation>6点星</translation>
+        <translation>星6</translation>
     </message>
     <message>
         <source>60%</source>
@@ -3836,12 +3915,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>7-Point Star</source>
         <comment>DRAWING2STR_7_POINT_STAR</comment>
-        <translation>7点星</translation>
+        <translation>星7</translation>
     </message>
     <message>
         <source>7-Point Star</source>
         <comment>DRAWING2_TOOLTIP_7_POINT_STAR</comment>
-        <translation>7点星</translation>
+        <translation>星7</translation>
     </message>
     <message>
         <source>70%</source>
@@ -3856,12 +3935,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>8-Point Star</source>
         <comment>DRAWING2STR_8_POINT_STAR</comment>
-        <translation>8点星</translation>
+        <translation>星8</translation>
     </message>
     <message>
         <source>8-Point Star</source>
         <comment>DRAWING2_TOOLTIP_8_POINT_STAR</comment>
-        <translation>8点星</translation>
+        <translation>星8</translation>
     </message>
     <message>
         <source>80%</source>
@@ -4081,7 +4160,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Arrow</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
-        <translation>矢印</translation>
+        <translation>ブロック矢印</translation>
     </message>
     <message>
         <source>Arrow</source>
@@ -4091,7 +4170,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Arrow Pentagon</source>
         <comment>DRAWING2_TOOLTIP_ARROW_PENTAGON</comment>
-        <translation>五角形矢印</translation>
+        <translation>ホームベース</translation>
     </message>
     <message>
         <source>Art Decoration</source>
@@ -4246,7 +4325,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Callout</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_CALLOUT</comment>
-        <translation>引出線</translation>
+        <translation>吹き出し</translation>
     </message>
     <message>
         <source>Can</source>
@@ -4266,7 +4345,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Center Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_CENTEROFFSET</comment>
-        <translation>中央補正</translation>
+        <translation>オフセット(中央)</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -4286,17 +4365,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Chocolate</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CHOCOLATE</comment>
-        <translation>チョコレート</translation>
+        <translation>赤</translation>
     </message>
     <message>
         <source>Chord</source>
         <comment>DRAWING2STR_CHORD</comment>
-        <translation>Chord</translation>
+        <translation>弦</translation>
     </message>
     <message>
         <source>Chord</source>
         <comment>DRAWING2_TOOLTIP_CHORD</comment>
-        <translation>Chord</translation>
+        <translation>弦</translation>
     </message>
     <message>
         <source>Circle</source>
@@ -4321,7 +4400,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Circle Point</source>
         <comment>DRAWING2_LINE_NAME_CIRCLEPOINT</comment>
-        <translation>円ポイント</translation>
+        <translation>点線(丸)</translation>
     </message>
     <message>
         <source>Circular Arrow</source>
@@ -4331,7 +4410,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Circular Arrow Callout</source>
         <comment>DRAWING2_TOOLTIP_CIRCULAR_ARROW_CALLOUT</comment>
-        <translation>円矢印引出線</translation>
+        <translation>環状矢印</translation>
     </message>
     <message>
         <source>Clear </source>
@@ -4346,17 +4425,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Close-Image,4 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_4PT_OFFSET</comment>
-        <translation>近接画像 4pt 補正</translation>
+        <translation>反射(弱)、4 Pt オフセット</translation>
     </message>
     <message>
         <source>Close-Image,8 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_8PT_OFFSET</comment>
-        <translation>近接画像 8pt 補正</translation>
+        <translation>反射(弱)、8 Pt オフセット</translation>
     </message>
     <message>
         <source>Close-Image,Touch</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_TOUCH</comment>
-        <translation>近接画像 接触</translation>
+        <translation>反射(弱)、オフセットなし</translation>
     </message>
     <message>
         <source>Cloud</source>
@@ -4391,17 +4470,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>ColorFill-</source>
         <comment>wpp_sTooltipShapeStyleColorFill</comment>
-        <translation>色の塗りつぶし-</translation>
+        <translation>塗りつぶし-</translation>
     </message>
     <message>
         <source>ColorOutLine-</source>
         <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
-        <translation>色アウトライン-</translation>
+        <translation>枠線のみ-</translation>
     </message>
     <message>
         <source>Concentric Circle</source>
         <comment>DRAWING2_TOOLTIP_CONCENTRIC_CIRCLE</comment>
-        <translation>同心円</translation>
+        <translation>ドーナツ</translation>
     </message>
     <message>
         <source>Contrast</source>
@@ -4411,17 +4490,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Convert OLE Object</source>
         <comment>DRAWING2_CONVERTOLEOBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>OLEオブジェクトを変換</translation>
     </message>
     <message>
         <source>Convex Curved Strip</source>
         <comment>DRAWING2_TOOLTIP_CONVEX_CURVED_STRIP</comment>
-        <translation>凸曲面を取り除く</translation>
+        <translation>上カーブリボン</translation>
     </message>
     <message>
         <source>Convex Strip</source>
         <comment>DRAWING2_TOOLTIP_CONVEX_STRIP</comment>
-        <translation>凸を取り除く</translation>
+        <translation>上リボン</translation>
     </message>
     <message>
         <source>CoolSlope</source>
@@ -4436,7 +4515,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>CornflowerBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CORNFLOWERBLUE</comment>
-        <translation>トウモロコシの花ブルー</translation>
+        <translation>青</translation>
     </message>
     <message>
         <source>Cornsilk</source>
@@ -4476,7 +4555,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Cross Arrow Callout</source>
         <comment>DRAWING2_TOOLTIP_CROSS_ARROW_CALLOUT</comment>
-        <translation>交差矢印の引出線</translation>
+        <translation>四方向矢印吹き出し</translation>
     </message>
     <message>
         <source>Cube</source>
@@ -4491,7 +4570,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curve</source>
         <comment>DRAWING2_TOOLTIP_CURVE</comment>
-        <translation>曲線コネクタ</translation>
+        <translation>曲線</translation>
     </message>
     <message>
         <source>Curved Arrow Connector</source>
@@ -4516,7 +4595,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curved Down Arrow</source>
         <comment>DRAWING2STR_CURVED_DOWN_ARROW</comment>
-        <translation>下カーブ矢印</translation>
+        <translation>上カーブ矢印</translation>
     </message>
     <message>
         <source>Curved Down Ribbon</source>
@@ -4536,7 +4615,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Curved Up Arrow</source>
         <comment>DRAWING2STR_CURVED_UP_ARROW</comment>
-        <translation>上カーブ矢印</translation>
+        <translation>下カーブ矢印</translation>
     </message>
     <message>
         <source>Curved Up Ribbon</source>
@@ -4571,7 +4650,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>DarkColor%1</source>
         <comment>wpp_sTooltipShapeStyleDarkColor</comment>
-        <translation>暗色%1</translation>
+        <translation>濃色%1</translation>
     </message>
     <message>
         <source>DarkCyan</source>
@@ -4696,7 +4775,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Dash Line-Point</source>
         <comment>DRAWING2_LINE_NAME_DASHLINEPOINT</comment>
-        <translation>点付き破線</translation>
+        <translation>一点鎖線</translation>
     </message>
     <message>
         <source>Dash line</source>
@@ -4776,7 +4855,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Diagram</source>
         <comment>DRAWING2STR_DIAGRAM</comment>
-        <translation>Diagram</translation>
+        <translation>図表</translation>
     </message>
     <message>
         <source>Diamond</source>
@@ -4861,22 +4940,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Double Brace</source>
         <comment>DRAWING2STR_DOUBLE_BRACE</comment>
-        <translation>二重中括弧</translation>
+        <translation>中かっこ</translation>
     </message>
     <message>
         <source>Double Brace</source>
         <comment>DRAWING2_TOOLTIP_DOUBLE_BRACE</comment>
-        <translation>二重中括弧</translation>
+        <translation>中かっこ</translation>
     </message>
     <message>
         <source>Double Bracket</source>
         <comment>DRAWING2STR_DOUBLE_BRACKET</comment>
-        <translation>二重角括弧</translation>
+        <translation>大かっこ</translation>
     </message>
     <message>
         <source>Double Bracket</source>
         <comment>DRAWING2_TOOLTIP_DOUBLE_BRACKET</comment>
-        <translation>二重角括弧</translation>
+        <translation>大かっこ</translation>
     </message>
     <message>
         <source>Double Dot Dash Line</source>
@@ -4901,12 +4980,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Double Wave</source>
         <comment>DRAWING2STR_DOUBLE_WAVE</comment>
-        <translation>波形2</translation>
+        <translation>小波2</translation>
     </message>
     <message>
         <source>Double Wave</source>
         <comment>DRAWING2_TOOLTIP_DOUBLE_WAVE</comment>
-        <translation>波形</translation>
+        <translation>小波</translation>
     </message>
     <message>
         <source>Double Wavy Line</source>
@@ -4926,12 +5005,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Dove Tail</source>
         <comment>DRAWING2_TOOLTIP_DOVE_TAIL</comment>
-        <translation>鳩の尾</translation>
+        <translation>山形</translation>
     </message>
     <message>
         <source>Dove Tail Arrow</source>
         <comment>DRAWING2_TOOLTIP_DOVE_TAIL_ARROW</comment>
-        <translation>Dove Tail Arrow</translation>
+        <translation>V字型矢印</translation>
     </message>
     <message>
         <source>Dovetail Arrow</source>
@@ -4971,17 +5050,17 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Down Curved Arrow</source>
         <comment>DRAWING2_TOOLTIP_DOWN_CURVED_ARROW</comment>
-        <translation>下カーブ矢印</translation>
+        <translation>上カーブ矢印</translation>
     </message>
     <message>
         <source>Down Offset	</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_DOWNOFFSET</comment>
-        <translation>下補正</translation>
+        <translation>オフセット(下)</translation>
     </message>
     <message>
         <source>Down Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_DOWNPERSPECTIVE</comment>
-        <translation>下遠近</translation>
+        <translation>透視投影(下)</translation>
     </message>
     <message>
         <source>Down Ribbon</source>
@@ -5036,12 +5115,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Equiaxia Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIADOWN</comment>
-        <translation>下当軸</translation>
+        <translation>等角投影(下向き、右下がり)</translation>
     </message>
     <message>
         <source>Equiaxial Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIALUP</comment>
-        <translation>上等軸</translation>
+        <translation>等角投影(上向き、右上がり)</translation>
     </message>
     <message>
         <source>Explosion 1</source>
@@ -5066,7 +5145,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Fillet Right Arrow</source>
         <comment>DRAWING2_TOOLTIP_FILLET_RIGHT_ARROW</comment>
-        <translation>三方向矢印</translation>
+        <translation>曲折矢印</translation>
     </message>
     <message>
         <source>Fine To Coarse</source>
@@ -5261,12 +5340,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Flowchart: Off-Page Connector</source>
         <comment>DRAWING2_TOOLTIP_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
-        <translation>フローチャート：オフページ結合子</translation>
+        <translation>他ページ結合子</translation>
     </message>
     <message>
         <source>Flowchart: Off-page Connector</source>
         <comment>DRAWING2STR_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
-        <translation>フローチャート：他ページ結合子</translation>
+        <translation>他ページ結合子</translation>
     </message>
     <message>
         <source>Flowchart: Or</source>
@@ -5371,7 +5450,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Fold Angle</source>
         <comment>DRAWING2_TOOLTIP_FOLDA_NGLE</comment>
-        <translation>直角</translation>
+        <translation>メモ</translation>
     </message>
     <message>
         <source>Folded Corner</source>
@@ -5386,7 +5465,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Forbidden Symbols</source>
         <comment>DRAWING2_TOOLTIP_FORBIDDENSYMBOLS</comment>
-        <translation>Forbidden symbols</translation>
+        <translation>禁止</translation>
     </message>
     <message>
         <source>ForestGreen</source>
@@ -5396,7 +5475,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Formula</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
-        <translation>数式</translation>
+        <translation>数式図形</translation>
     </message>
     <message>
         <source>Forward-Far BakckWord-Near</source>
@@ -5416,7 +5495,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Forwoar Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_FORWOARPERSPECTIVE</comment>
-        <translation>前遠近</translation>
+        <translation>透視投影(前)</translation>
     </message>
     <message>
         <source>Frame</source>
@@ -5466,7 +5545,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Frustum</source>
         <comment>DRAWING2_TOOLTIP_FRUSTUM</comment>
-        <translation>円錐</translation>
+        <translation>額縁</translation>
     </message>
     <message>
         <source>Fuchsia</source>
@@ -5636,22 +5715,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Hla-fImage,Touch</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_TOUCH</comment>
-        <translation>Hlaf画像 接触</translation>
+        <translation>反射(中)、オフセットなし</translation>
     </message>
     <message>
         <source>Hlaf-Image,4 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_4PT_OFFSET</comment>
-        <translation>Hlaf画像 4pt 補正</translation>
+        <translation>反射(中)、4 Pt オフセット</translation>
     </message>
     <message>
         <source>Hlaf-Image,8 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_8PT_OFFSET</comment>
-        <translation>Hlaf画像 8pt 補正</translation>
+        <translation>反射(中)、8 Pt オフセット</translation>
     </message>
     <message>
         <source>Hollow Arc</source>
         <comment>DRAWING2_TOOLTIP_HOLLOW_ARC</comment>
-        <translation>空洞</translation>
+        <translation>アーチ</translation>
     </message>
     <message>
         <source>Honeydew</source>
@@ -5711,52 +5790,52 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Inner Center</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERCENTER</comment>
-        <translation>内部（中央）</translation>
+        <translation>内側(中央)</translation>
     </message>
     <message>
         <source>Inner Down</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERDOWN</comment>
-        <translation>内部（下）</translation>
+        <translation>内側(下)</translation>
     </message>
     <message>
         <source>Inner Left</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFT</comment>
-        <translation>内部（左）</translation>
+        <translation>内側(左)</translation>
     </message>
     <message>
         <source>Inner Left-Down Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTDOWN</comment>
-        <translation>内部（左下角）</translation>
+        <translation>内側(斜め左下)</translation>
     </message>
     <message>
         <source>Inner Left-UP Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTUP</comment>
-        <translation>内部（左上角）</translation>
+        <translation>内側(斜め左上)</translation>
     </message>
     <message>
         <source>Inner Right</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHT</comment>
-        <translation>内部（右）</translation>
+        <translation>内側(右)</translation>
     </message>
     <message>
         <source>Inner Right-Down Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTDOWN</comment>
-        <translation>内部（右下角）</translation>
+        <translation>内側(斜め右下)</translation>
     </message>
     <message>
         <source>Inner Right-Up Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTUP</comment>
-        <translation>内部（右上角）</translation>
+        <translation>内側(斜め右上)</translation>
     </message>
     <message>
         <source>InnerUp</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERUP</comment>
-        <translation>内部（上）</translation>
+        <translation>内側(上)</translation>
     </message>
     <message>
         <source>IntenseEffect-</source>
         <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
-        <translation>強い効果</translation>
+        <translation>光沢-</translation>
     </message>
     <message>
         <source>IntenseLine-</source>
@@ -5781,12 +5860,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Isometric Lft-Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICLFTDOWN</comment>
-        <translation>等角左下</translation>
+        <translation>等角投影(左向き、右下がり)</translation>
     </message>
     <message>
         <source>Isometric Right-Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICRIGHTUP</comment>
-        <translation>等角右上</translation>
+        <translation>等角投影(右向き、右上がり)</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -5806,7 +5885,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>J-shape Arrow</source>
         <comment>DRAWING2_TOOLTIP_J_SHAPE_ARROW</comment>
-        <translation>J型矢印</translation>
+        <translation>三方向矢印</translation>
     </message>
     <message>
         <source>Khaki</source>
@@ -5886,22 +5965,22 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Left Brace</source>
         <comment>DRAWING2STR_LEFT_BRACE</comment>
-        <translation>左中括弧</translation>
+        <translation>左中かっこ</translation>
     </message>
     <message>
         <source>Left Brace</source>
         <comment>DRAWING2_TOOLTIP_LEFT_BRACE</comment>
-        <translation>左中括弧</translation>
+        <translation>左中かっこ</translation>
     </message>
     <message>
         <source>Left Bracket</source>
         <comment>DRAWING2STR_LEFT_BRACKET</comment>
-        <translation>左角括弧</translation>
+        <translation>左大かっこ</translation>
     </message>
     <message>
         <source>Left Bracket</source>
         <comment>DRAWING2_TOOLTIP_LEFT_BRACKET</comment>
-        <translation>左角括弧</translation>
+        <translation>左大かっこ</translation>
     </message>
     <message>
         <source>Left Collar</source>
@@ -5921,27 +6000,27 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Left Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTOFFSET</comment>
-        <translation>左補正</translation>
+        <translation>オフセット(左)</translation>
     </message>
     <message>
         <source>Left Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTPERSPECTIVE</comment>
-        <translation>左遠近</translation>
+        <translation>透視投影(左)</translation>
     </message>
     <message>
         <source>Left Right Compare Pespective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTRIGHTCOMPAREPESPECTIVE</comment>
-        <translation>左右対照遠近</translation>
+        <translation>透視投影コントラスト(左)</translation>
     </message>
     <message>
         <source>Left-Down Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNCORNERPERSPECTIVE</comment>
-        <translation>左下角遠近</translation>
+        <translation>透視投影(斜め左下)</translation>
     </message>
     <message>
         <source>Left-Down Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNOFFSET</comment>
-        <translation>左下補正</translation>
+        <translation>オフセット(斜め左下)</translation>
     </message>
     <message>
         <source>Left-Far Right-Near</source>
@@ -5971,7 +6050,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Left-Right-Up Arrow</source>
         <comment>DRAWING2STR_LEFT_RIGHT_UP_ARROW</comment>
-        <translation>三方向矢印</translation>
+        <translation>曲折矢印</translation>
     </message>
     <message>
         <source>Left-Up Arrow</source>
@@ -5981,12 +6060,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Left-Up Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPCORNERPERSPECTIVE</comment>
-        <translation>左上角奥行</translation>
+        <translation>透視投影(斜め左上)</translation>
     </message>
     <message>
         <source>Left-Up Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPOFFSET</comment>
-        <translation>左上補正</translation>
+        <translation>オフセット(斜め左上)</translation>
     </message>
     <message>
         <source>LemonChiffon</source>
@@ -6011,7 +6090,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>LightColor_1_OutLine,Color Fill-</source>
         <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
-        <translation>明るい色_1_アウトライン,塗りつぶし</translation>
+        <translation>枠線_淡色 1, 塗りつぶし-</translation>
     </message>
     <message>
         <source>LightCoral</source>
@@ -6066,7 +6145,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>LightSkyBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSKYBLUE</comment>
-        <translation>明るいスカイブルー</translation>
+        <translation>薄い青</translation>
     </message>
     <message>
         <source>LightSlateGray</source>
@@ -6116,7 +6195,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Line</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_LINE</comment>
-        <translation>直線</translation>
+        <translation>線</translation>
     </message>
     <message>
         <source>Line</source>
@@ -6126,12 +6205,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Line Callout 1</source>
         <comment>DRAWING2STR_LINE_CALLOUT_1</comment>
-        <translation>線吹き出し 1</translation>
+        <translation>線吹き出し 1(枠付き)</translation>
     </message>
     <message>
         <source>Line Callout 1</source>
         <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_1</comment>
-        <translation>線吹き出し 1</translation>
+        <translation>線吹き出し 1(枠付き)</translation>
     </message>
     <message>
         <source>Line Callout 1 (Accent Bar)</source>
@@ -6166,12 +6245,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Line Callout 2</source>
         <comment>DRAWING2STR_LINE_CALLOUT_2</comment>
-        <translation>線吹き出し 2</translation>
+        <translation>線吹き出し 2(枠付き)</translation>
     </message>
     <message>
         <source>Line Callout 2</source>
         <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_2</comment>
-        <translation>線吹き出し 2</translation>
+        <translation>線吹き出し 2(枠付き)</translation>
     </message>
     <message>
         <source>Line Callout 2 (Accent Bar)</source>
@@ -6206,12 +6285,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Line Callout 3</source>
         <comment>DRAWING2STR_LINE_CALLOUT_3</comment>
-        <translation>線吹き出し 3</translation>
+        <translation>線吹き出し 3(枠付き)</translation>
     </message>
     <message>
         <source>Line Callout 3</source>
         <comment>DRAWING2_TOOLTIP_LINE_CALLOUT_3</comment>
-        <translation>線吹き出し 3</translation>
+        <translation>線吹き出し 3(枠付き)</translation>
     </message>
     <message>
         <source>Line Callout 3 (Accent Bar)</source>
@@ -6260,17 +6339,17 @@ Line-type: %3</source>
     <message>
         <source>Lone Dash Line</source>
         <comment>DRAWING2_LINE_NAME_LONGDASHLINE</comment>
-        <translation>長鎖線</translation>
+        <translation>長破線</translation>
     </message>
     <message>
         <source>Lone Dash Line-Point</source>
         <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINT</comment>
-        <translation>一点長鎖線</translation>
+        <translation>長鎖線</translation>
     </message>
     <message>
         <source>Lone Dash Line-Point-Point</source>
         <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINTPOINT</comment>
-        <translation>二点長鎖線</translation>
+        <translation>二点鎖線</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -6305,12 +6384,12 @@ Line-type: %3</source>
     <message>
         <source>Lordosis Bending Strip</source>
         <comment>DRAWING2_TOOLTIP_Lordosis_Bending_Strip</comment>
-        <translation>Lordosis Bending Strip</translation>
+        <translation>下カーブリボン</translation>
     </message>
     <message>
         <source>Lordosis Strip</source>
         <comment>DRAWING2_TOOLTIP_LORDOSIS_TRIP</comment>
-        <translation>Lordosis Strip</translation>
+        <translation>下リボン</translation>
     </message>
     <message>
         <source>Magenta</source>
@@ -6395,12 +6474,12 @@ Line-type: %3</source>
     <message>
         <source>Micro Blue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROBLUE</comment>
-        <translation>マイクロブルー</translation>
+        <translation>薄青</translation>
     </message>
     <message>
         <source>Micro Green</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROGREEN</comment>
-        <translation>マイクログリーン</translation>
+        <translation>薄緑</translation>
     </message>
     <message>
         <source>MidnightBlue</source>
@@ -6425,7 +6504,7 @@ Line-type: %3</source>
     <message>
         <source>Missing Corner Rectangular</source>
         <comment>DRAWING2_TOOLTIP_MISSING_CORNER_RECTANGULAR</comment>
-        <translation>角丸四角形</translation>
+        <translation>ブローチ</translation>
     </message>
     <message>
         <source>MistyRose</source>
@@ -6440,7 +6519,7 @@ Line-type: %3</source>
     <message>
         <source>ModerateEffect-</source>
         <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
-        <translation>moderate effect</translation>
+        <translation>グラデーション-</translation>
     </message>
     <message>
         <source>ModerateLine-</source>
@@ -6450,7 +6529,7 @@ Line-type: %3</source>
     <message>
         <source>ModeratelyLoose</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MODERATELYLOOSE</comment>
-        <translation>moderately loose</translation>
+        <translation>透視投影(中程度の傾斜)</translation>
     </message>
     <message>
         <source>Moon</source>
@@ -6470,12 +6549,12 @@ Line-type: %3</source>
     <message>
         <source>Most Left Most Big</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTLEFTMOSTBIG</comment>
-        <translation>最左大</translation>
+        <translation>透視投影強調(左)</translation>
     </message>
     <message>
         <source>MostRightMostBig</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTRIGHTMOSTBIG</comment>
-        <translation>最右大</translation>
+        <translation>透視投影強調(右)</translation>
     </message>
     <message>
         <source>MostsSperficial</source>
@@ -6580,32 +6659,32 @@ Line-type: %3</source>
     <message>
         <source>Off-Axis 1 Left</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1LEFT</comment>
-        <translation>左</translation>
+        <translation>不等角投影 1(左)</translation>
     </message>
     <message>
         <source>Off-Axis 1 Right</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1RIGHT</comment>
-        <translation>右</translation>
+        <translation>不等角投影 1(右)</translation>
     </message>
     <message>
         <source>Off-Axis 1 Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1UP</comment>
-        <translation>上</translation>
+        <translation>不等角投影 1(上)</translation>
     </message>
     <message>
         <source>Off-Axis 2 Left</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2LEFT</comment>
-        <translation>左</translation>
+        <translation>不等角投影 2(左)</translation>
     </message>
     <message>
         <source>Off-Axis 2 Right</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2RIGHT</comment>
-        <translation>右</translation>
+        <translation>不等角投影 2(右)</translation>
     </message>
     <message>
         <source>Off-Axis 2 Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2UP</comment>
-        <translation>上</translation>
+        <translation>不等角投影 2(上)</translation>
     </message>
     <message>
         <source>OldLace</source>
@@ -6830,7 +6909,7 @@ Line-type: %3</source>
     <message>
         <source>Process</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_PROCESS</comment>
-        <translation>プロセス</translation>
+        <translation>フローチャート</translation>
     </message>
     <message>
         <source>Purple</source>
@@ -6940,22 +7019,22 @@ Line-type: %3</source>
     <message>
         <source>Right Brace</source>
         <comment>DRAWING2STR_RIGHT_BRACE</comment>
-        <translation>右中括弧</translation>
+        <translation>右中かっこ</translation>
     </message>
     <message>
         <source>Right Brace</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_BRACE</comment>
-        <translation>右中括弧</translation>
+        <translation>右中かっこ</translation>
     </message>
     <message>
         <source>Right Bracket</source>
         <comment>DRAWING2STR_RIGHT_BRACKET</comment>
-        <translation>右角括弧</translation>
+        <translation>右大かっこ</translation>
     </message>
     <message>
         <source>Right Bracket</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_BRACKET</comment>
-        <translation>右角括弧</translation>
+        <translation>右大かっこ</translation>
     </message>
     <message>
         <source>Right Collar</source>
@@ -6965,7 +7044,7 @@ Line-type: %3</source>
     <message>
         <source>Right Compare Pespective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTCOMPAREPESPECTIVE</comment>
-        <translation>右対照奥行</translation>
+        <translation>透視投影コントラスト(右)</translation>
     </message>
     <message>
         <source>Right Curved Arrow</source>
@@ -6980,12 +7059,12 @@ Line-type: %3</source>
     <message>
         <source>Right Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTOFFSET</comment>
-        <translation>右補正</translation>
+        <translation>オフセット(右)</translation>
     </message>
     <message>
         <source>Right Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTPERSPECTIVE</comment>
-        <translation>右奥行</translation>
+        <translation>透視投影(右)</translation>
     </message>
     <message>
         <source>Right Triangle</source>
@@ -7000,22 +7079,22 @@ Line-type: %3</source>
     <message>
         <source>Right-Down Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNCORNERPERSPECTIVE</comment>
-        <translation>右下角奥行</translation>
+        <translation>透視投影(斜め右下)</translation>
     </message>
     <message>
         <source>Right-Down Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNOFFSET</comment>
-        <translation>右下補正</translation>
+        <translation>オフセット(斜め右下)</translation>
     </message>
     <message>
         <source>Right-Up Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPCORNERPERSPECTIVE</comment>
-        <translation>右上角奥行</translation>
+        <translation>透視投影(斜め右上)</translation>
     </message>
     <message>
         <source>Right-Up Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPOFFSET</comment>
-        <translation>右上補正</translation>
+        <translation>オフセット(斜め右上)</translation>
     </message>
     <message>
         <source>RosyBrown</source>
@@ -7050,17 +7129,17 @@ Line-type: %3</source>
     <message>
         <source>Round Single Corner Rectangle</source>
         <comment>DRAWING2STR_ROUND_SINGLE_CORNER_RECTANGLE</comment>
-        <translation>1つの角を丸めた四角形</translation>
+        <translation>1つの角を丸め1つの角を切り取った四角形</translation>
     </message>
     <message>
         <source>Round Single Corner Rectangle 1</source>
         <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_1</comment>
-        <translation>1つの角を丸めた四角形 1</translation>
+        <translation>1つの角を丸め1つの角を切り取った四角形</translation>
     </message>
     <message>
         <source>Round Single Corner Rectangle 2</source>
         <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_2</comment>
-        <translation>1つの角を丸めた四角形 2</translation>
+        <translation>1つの角を丸めた四角形</translation>
     </message>
     <message>
         <source>Rounded Rectangle</source>
@@ -7185,12 +7264,12 @@ Line-type: %3</source>
     <message>
         <source>Smiley Face</source>
         <comment>DRAWING2STR_SMILEY_FACE</comment>
-        <translation>笑顔</translation>
+        <translation>スマイル</translation>
     </message>
     <message>
         <source>Smiley Face</source>
         <comment>DRAWING2_TOOLTIP_SMILEY_FACE</comment>
-        <translation>笑顔</translation>
+        <translation>スマイル</translation>
     </message>
     <message>
         <source>Snip Diagonal Corner Rectangle</source>
@@ -7265,7 +7344,7 @@ Line-type: %3</source>
     <message>
         <source>Solid Line</source>
         <comment>DRAWING2_LINE_NAME_SOLID</comment>
-        <translation>強調線</translation>
+        <translation>実線</translation>
     </message>
     <message>
         <source>SolidDiamond</source>
@@ -7280,22 +7359,22 @@ Line-type: %3</source>
     <message>
         <source>Square Point</source>
         <comment> DRAWING2_LINE_NAME_SQUAREPOINT</comment>
-        <translation>正方形の点</translation>
+        <translation>点線(角)</translation>
     </message>
     <message>
         <source>Star And Flag</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_STARANDFLAG</comment>
-        <translation>星と旗</translation>
+        <translation>星とリボン</translation>
     </message>
     <message>
         <source>SteelBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_STEELBLUE</comment>
-        <translation>青銅</translation>
+        <translation>鋼青</translation>
     </message>
     <message>
         <source>Stick Arrow</source>
         <comment>DRAWING2_TOOLTIP_STICK_ARROW</comment>
-        <translation>スティック矢印</translation>
+        <translation>Uターン矢印</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -7305,7 +7384,7 @@ Line-type: %3</source>
     <message>
         <source>Straight Arrow Connector</source>
         <comment>DRAWING2STR_STRAIGHT_ARROW_CONNECTOR</comment>
-        <translation>←</translation>
+        <translation>直線矢印コネクタ</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -7325,7 +7404,7 @@ Line-type: %3</source>
     <message>
         <source>SubtleEffect-</source>
         <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
-        <translation>微細効果</translation>
+        <translation>パステル-</translation>
     </message>
     <message>
         <source>SubtleLine-</source>
@@ -7405,7 +7484,7 @@ Line-type: %3</source>
     <message>
         <source>TextBox</source>
         <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
-        <translation>テキストボックス</translation>
+        <translation>横書きテキストボックス</translation>
     </message>
     <message>
         <source>The font &apos;</source>
@@ -7440,22 +7519,22 @@ Line-type: %3</source>
     <message>
         <source>Tilt Left Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTDOWN</comment>
-        <translation>斜め左下</translation>
+        <translation>斜投影(左下)</translation>
     </message>
     <message>
         <source>Tilt Left Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTUP</comment>
-        <translation>斜め左上</translation>
+        <translation>斜投影(左上)</translation>
     </message>
     <message>
         <source>Tilt Right Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTDOWN</comment>
-        <translation>斜め右下</translation>
+        <translation>斜投影(右下)</translation>
     </message>
     <message>
         <source>Tilt Right Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTUP</comment>
-        <translation>斜め右上</translation>
+        <translation>斜投影(右上)</translation>
     </message>
     <message>
         <source>To Down</source>
@@ -7585,17 +7664,17 @@ Line-type: %3</source>
     <message>
         <source>Up Curved Arrow</source>
         <comment>DRAWING2_TOOLTIP_UP_CURVED_ARROW</comment>
-        <translation>上カーブ矢印</translation>
+        <translation>下カーブ矢印</translation>
     </message>
     <message>
         <source>Up Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_UPOFFSET</comment>
-        <translation>上補正</translation>
+        <translation>オフセット(上)</translation>
     </message>
     <message>
         <source>Up Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_UPPERSPECTIVE</comment>
-        <translation>上遠近</translation>
+        <translation>透視投影(上)</translation>
     </message>
     <message>
         <source>Up Ribbon</source>
@@ -7660,7 +7739,7 @@ Line-type: %3</source>
     <message>
         <source>Virtual Tail Arrow</source>
         <comment>DRAWING2_TOOLTIP_VIRTUAL_TAIL_ARROW</comment>
-        <translation>Virtual Tail Arrow</translation>
+        <translation>ストライプ矢印</translation>
     </message>
     <message>
         <source>Waist Drum</source>
@@ -7685,7 +7764,7 @@ Line-type: %3</source>
     <message>
         <source>Wave</source>
         <comment>DRAWING2_TOOLTIP_WAVE</comment>
-        <translation>曲線</translation>
+        <translation>大波</translation>
     </message>
     <message>
         <source>Wave	</source>
@@ -7725,17 +7804,17 @@ Line-type: %3</source>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_4PT_OFFSET</comment>
-        <translation>全体画像 4pt 補正</translation>
+        <translation>反射(強)、4 Pt オフセット</translation>
     </message>
     <message>
         <source>Whole-Iamge,8 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_8PT_OFFSET</comment>
-        <translation>全体画像 8pt 補正</translation>
+        <translation>反射(強)、8 Pt オフセット</translation>
     </message>
     <message>
         <source>Whole-Iamge,Touch</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_TOUCH</comment>
-        <translation>全体画像 接触</translation>
+        <translation>反射(強)、オフセットなし</translation>
     </message>
     <message>
         <source>WideDownwardDiagonal</source>
@@ -7790,12 +7869,62 @@ Line-type: %3</source>
     <message>
         <source> Light Color %1</source>
         <comment>wpp_sTooltipGradientLightColour</comment>
-        <translation type="obsolete">明るい色 %1%</translation>
+        <translation>基本色 %1</translation>
     </message>
     <message>
         <source> Dark Color %1</source>
         <comment>wpp_sTooltipGradientDarkColour</comment>
-        <translation type="obsolete">暗い色 %1%</translation>
+        <translation>暗い色 %1</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>DRAWING2STR_COMMENT</comment>
+        <translation>コメント</translation>
+    </message>
+    <message>
+        <source>theme color</source>
+        <comment>DRAWING2_SMARTART_COLORS_ThemeColor</comment>
+        <translation>テーマの色</translation>
+    </message>
+    <message>
+        <source>multi color</source>
+        <comment>DRAWING2_SMARTART_COLORS_MultiColor</comment>
+        <translation>複数の色</translation>
+    </message>
+    <message>
+        <source>color1</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color1</comment>
+        <translation>色1</translation>
+    </message>
+    <message>
+        <source>color2</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color2</comment>
+        <translation>色2</translation>
+    </message>
+    <message>
+        <source>color3</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color3</comment>
+        <translation>色3</translation>
+    </message>
+    <message>
+        <source>color4</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color4</comment>
+        <translation>色4</translation>
+    </message>
+    <message>
+        <source>color5</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color5</comment>
+        <translation>色5</translation>
+    </message>
+    <message>
+        <source>color6</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color6</comment>
+        <translation>色6</translation>
+    </message>
+    <message>
+        <source>sure change diagram num if lose text</source>
+        <comment>DRAWING2_SMARTDIAGRAM_CHANGENUM_MESSAGE</comment>
+        <translation>ダイアグラム番号を変更しますか？</translation>
     </message>
 </context>
 <context>
@@ -7808,12 +7937,12 @@ Line-type: %3</source>
     <message>
         <source>All Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSFile_File</comment>
-        <translation>すべての Kingsoft Writer ファイル</translation>
+        <translation>すべての WPS Writer ファイル</translation>
     </message>
     <message>
         <source>All Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSFile_Files</comment>
-        <translation>すべてのKingsoftt Writer ファイル</translation>
+        <translation>すべてのWPS Writer ファイル</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -7943,27 +8072,27 @@ Line-type: %3</source>
     <message>
         <source>WPS Presentation Files</source>
         <comment>_KsoDesc_WPPFile</comment>
-        <translation>Kingsoft Presentation  ファイル</translation>
+        <translation>WPS Presentation ファイル</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
         <comment>_KsoFileFormatDesc_WPSV6_File</comment>
-        <translation>Kingsoft Writer ファイル</translation>
+        <translation>WPS Writer ファイル</translation>
     </message>
     <message>
         <source>WPS Writer Documents</source>
         <comment>_KsoFileFormatDesc_WPSV6_Files</comment>
-        <translation>Kingsoft Writer ファイル</translation>
+        <translation>WPS Writer ファイル</translation>
     </message>
     <message>
         <source>WPS Writer Template</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_File</comment>
-        <translation>Kingsoft Writer テンプレート</translation>
+        <translation>WPS Writer テンプレート</translation>
     </message>
     <message>
         <source>WPS Writer Templates</source>
         <comment>_KsoFileFormatDesc_WPSV6DOT_Files</comment>
-        <translation>Kingsoft Writer テンプレート</translation>
+        <translation>WPS Writer テンプレート</translation>
     </message>
     <message>
         <source>WPS Office encountered an error when saving the file. Please try again or contact customer service.</source>
@@ -7973,7 +8102,7 @@ Line-type: %3</source>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
         <comment>_WpioDesc_UOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>中国語オフィスファイル形式 2.0</translation>
     </message>
     <message>
         <source>The author would like you to open this as read-only unless you need to make changes. Open as read-only?</source>
@@ -7996,7 +8125,117 @@ Line-type: %3</source>
     <message>
         <source>Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
-        <translation type="unfinished"></translation>
+        <translation>単一ウェブページファイル</translation>
+    </message>
+    <message>
+        <source>Public Custom Document Format</source>
+        <comment>_KsoFileFormatDesc_CustomFile</comment>
+        <translation>パブリックユーザー設定ファイル形式</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <comment>_KsoFileFormatDesc_OnlineSecurtyDocument</comment>
+        <translation>WPS オンラインセキュリティドキュメント書式</translation>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read this documnet!
+(%s)</source>
+        <comment>_KsoPrompt_NoFileReadPermission</comment>
+        <translation>このファイルを閲覧する権限がありません。</translation>
+    </message>
+    <message>
+        <source>Failed to communicate with security document server!</source>
+        <comment>_KsoPrompt_SecurityDocumentServerFailed</comment>
+        <translation>セキュリティドキュメントサーバーとの通信に失敗しました。</translation>
+    </message>
+    <message>
+        <source>Saving the non-security document format will erase all permission settings, Continue?</source>
+        <comment>_KsoPrompt_LostDocumentSecurityInfo</comment>
+        <translation>セキュリティドキュメント以外の形式で保存すると、すべての権限点設定が解除されます。続行しますか？</translation>
+    </message>
+    <message>
+        <source>WPS Office Outward Document</source>
+        <comment>_KsoFileForamtDesc_WpsOutwardDocument</comment>
+        <translation>WPS アウトワードファイル</translation>
+    </message>
+    <message>
+        <source>Failed to overwrite the current document, choose another file name.</source>
+        <comment>_KsoPrompt_OverwriteTheOpenDocumnet</comment>
+        <translation>このファイルを上書き保存できません。他のファイル名を選択してください。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation type="obsolete">文書を作成、または保存することができません。保存先のディスクに十分な空き容量があること、書き込み禁止に設定されていないこと、またディスクが壊れていないことを確認してください。</translation>
+    </message>
+    <message>
+        <source>%1 outward document  applicant : %2  approver : %3</source>
+        <comment>_KsoOutwardWaterMarkText</comment>
+        <translation>%1 アウトウォード  申請人:%2  審査人:%3</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <comment>_KsoDesc_MSWORD12</comment>
+        <translation>Microsoft Word ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <comment>_KsoDesc_MSWORD12DOTX</comment>
+        <translation>Microsoft Word テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <comment>_KsoDesc_MSWORD12DOCM</comment>
+        <translation>Microsoft Word マクロ有効ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <comment>_KsoDesc_MSWORD12DOTM</comment>
+        <translation>Microsoft Word マクロ有効テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
+        <translation>Microsoft Word 97-2003 ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Documents</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
+        <translation>Microsoft Word 97-2003 ファイル</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Template</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
+        <translation>Microsoft Word 97-2003 テンプレート</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Templates</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
+        <translation>Microsoft Word 97-2003 テンプレート</translation>
+    </message>
+    <message>
+        <source>The document is a secret-label document and can not be opened.
+(%s)</source>
+        <comment>_KsoPrompt_SecretLabel</comment>
+        <translation>セキュリティファイルのため、開けません。(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation>このファイルを開く・保存できません。
+(%s)</translation>
+    </message>
+    <message>
+        <source>OpenDocument Text</source>
+        <comment>_KsoFileFormatDesc_ODT_File</comment>
+        <translation>ファイルを開く</translation>
     </message>
 </context>
 <context>
@@ -8043,6 +8282,26 @@ Line-type: %3</source>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
         <translation>名前をつけて保存</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <comment>_kso_DocOperationCopy</comment>
+        <translation>コピー</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>_kso_DocOperationPrint</comment>
+        <translation>印刷</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <comment>_kso_DocOperationSaveAs</comment>
+        <translation>名前を付けて保存</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <comment>_kso_DocOperationAuth</comment>
+        <translation>オース</translation>
     </message>
 </context>
 <context>
@@ -8905,47 +9164,47 @@ File: %s
     <message>
         <source>WPS Office</source>
         <comment>_kso_Generic_MessageBox_Caption</comment>
-        <translation>Kingsoft Office</translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_wps</comment>
-        <translation>Kingsoft Writerは問題が発生したため、終了します。</translation>
+        <translation>WPS Writerは問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Presentation has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_wpp</comment>
-        <translation>Kingsoft Presentation 問題が発生したため、終了します。</translation>
+        <translation>WPS Presentation 問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_et</comment>
-        <translation>Kingsoft Spreadsheetsは問題が発生したため、終了します。</translation>
+        <translation>WPS Spreadsheetsは問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Simulation has encountered a problem and needs to close.</source>
         <comment>_kso_ErrorRep_MainDlg_Title_test</comment>
-        <translation>Kingsoft Officeは問題が発生したため、終了します。</translation>
+        <translation>WPS Officeは問題が発生したため、終了します。</translation>
     </message>
     <message>
         <source>WPS Writer Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_wps</comment>
-        <translation>Kingsoft Writer 作業内容回復のヘルプ</translation>
+        <translation>WPS Writer 作業内容回復のヘルプ</translation>
     </message>
     <message>
         <source>WPS Presentation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_wpp</comment>
-        <translation>Kingsoft Presentation 作業内容回復のヘルプ</translation>
+        <translation>WPS Presentation 作業内容回復のヘルプ</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_et</comment>
-        <translation>Kingsoft Spreadsheets 作業内容回復のヘルプ</translation>
+        <translation>WPS Spreadsheets 作業内容回復のヘルプ</translation>
     </message>
     <message>
         <source>WPS Simulation Error Recovery Help</source>
         <comment>_kso_ErrorRep_ResumeHelp_Title_test</comment>
-        <translation>Kingsoft Office 作業内容回復のヘルプ</translation>
+        <translation>WPS Office 作業内容回復のヘルプ</translation>
     </message>
     <message>
         <source>Send out successfully</source>
@@ -8976,22 +9235,22 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office</source>
         <comment>_kso_ksoProductName</comment>
-        <translation>Kingsoft Office</translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>WPS Writer</source>
         <comment>_kso_wpsProductName</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
         <comment>_kso_wppProductName</comment>
-        <translation>Kingsoft Presentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>_kso_etProductName</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS Office (Beta)</source>
@@ -9251,19 +9510,19 @@ You can choose Read-only button to open it as read-only.</source>
     <message>
         <source>WPS Office Crashing Information</source>
         <comment>_kso_crashdlg_caption</comment>
-        <translation>Kingsoft Office 強制終了の情報</translation>
+        <translation>WPS Office 強制終了の情報</translation>
     </message>
     <message>
         <source>Sorry, WPS Office crashes.
 You can click the button to recover files you work on.</source>
         <comment>_kso_crashdlg_warmtext</comment>
-        <translation>Kingsoft Officeは強制終了されました。
+        <translation>WPS Officeは強制終了されました。
 「回復」をクリックすると、バックアップファイルが表示されます。</translation>
     </message>
     <message>
         <source>WPS Office Business Version</source>
         <comment>_kso_ksoProductName_TRADE_CHN</comment>
-        <translation>Kingsoft Office ビジネス版</translation>
+        <translation>WPS Office ビジネス版</translation>
     </message>
     <message>
         <source>Document Image Files</source>
@@ -9278,7 +9537,7 @@ You can click the button to recover files you work on.</source>
     <message>
         <source>The FileFormat what you select is not the WPS FileFormat, this may be not conform to your organization, will you confirm to save with the FileFormat?</source>
         <comment>_kso_FileFormatNotSupport</comment>
-        <translation>選択したファイル形式は、Kingsoft Officeのファイル形式ではなく、組織に適合しない可能性があります。
+        <translation>選択したファイル形式は、WPS Officeのファイル形式ではなく、組織に適合しない可能性があります。
 このファイル形式で保存してもよろしいですか？</translation>
     </message>
     <message>
@@ -9525,7 +9784,7 @@ Windows Rights Managementsクライアントの最新版をダウンロードす
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within the Control Panel.</source>
         <comment>_kso_irmio_Error_Configuration</comment>
-        <translation>Kingsoft Officeは情報資源管理の設定に関する問題を検出しました。
+        <translation>WPS Officeは情報資源管理の設定に関する問題を検出しました。
 この問題が継続される場合は、コントロールパネルにて製品の修復を行ってください</translation>
     </message>
     <message>
@@ -9671,7 +9930,8 @@ Windows Rights Managementsクライアントの最新版をダウンロードす
     <message>
         <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
         <comment>_kso_krim_Error_insertOleInvalid</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment> %1 に権限制限が設定されました、このプレゼンテーションファイルに挿入できなくなりました。</translatorcomment>
+        <translation type="obsolete">%1 の権限が制限されています。制限がかかっているファイルに、このプレゼンテーションを挿入できません。</translation>
     </message>
     <message>
         <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
@@ -9755,7 +10015,7 @@ Windows Rights Managementsクライアントの最新版をダウンロードす
     <message>
         <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="unfinished">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
     </message>
     <message>
         <source>WPS has detected a problem with your Information Rights Management configuration. If this problem persists, repair your product from within th Control Panel.</source>
@@ -9774,7 +10034,87 @@ This position may not be safe.</source>
     <message>
         <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="obsolete">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation>ファイル(%s)が制限権限が設定されるため、挿入できませ。</translation>
+    </message>
+    <message>
+        <source>Delete all Ribbon customizations for this program?</source>
+        <comment>_kso_Delete_All_Ribbon_Customizations</comment>
+        <translation>すべての機能のユーザー設定項目を削除しますか？</translation>
+    </message>
+    <message>
+        <source>Reading Data</source>
+        <comment>_kso_io_Progress_ReadingData</comment>
+        <translation>データを読み込み中</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <comment>_kso_pdfProductName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
+        <comment>_kso_ksoThanksTo_TH_PRO</comment>
+        <translation>本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+    <message>
+        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
+        <comment>_kso_Error_MediaFlash_wpp</comment>
+        <translation>システムプラグインの読み込みに失敗しました。システムプラグインが正しくインストールされることを確認してください。</translation>
+    </message>
+    <message>
+        <source>Pdf Thanks To</source>
+        <comment>_kso_pdfThanksTo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <comment>_kso_irmio_Error_ClockBeenTamper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file is being edited by other users.</source>
+        <comment>_kso_TX_FILE_EDITING_CONFLICT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file has been updated by other users.</source>
+        <comment>_kso_TX_FILE_UPDATE_CONFLICT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot save or upload due to bad network condition.</source>
+        <comment>_kso_TX_NET_CONDITION_BAD_INFO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save as Copy</source>
+        <comment>_kso_TX_SAVEAS_COPY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Save</source>
+        <comment>_kso_Tx_CANCLE_SAVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <comment>_kso_TX_DESC_WPP_APP_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Document</source>
+        <comment>_kso_TX_DESC_WPS_APP_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS SpreadSheet</source>
+        <comment>_kso_TX_DESC_ET_APP_NAME</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9852,7 +10192,7 @@ This position may not be safe.</source>
     <message>
         <source>General</source>
         <comment>TX_NUMFMTApi_BuildIn_00</comment>
-        <translation>標準</translation>
+        <translation></translation>
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
@@ -9917,22 +10257,22 @@ This position may not be safe.</source>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation>h:mm:ss</translation>
+        <translation>h&quot;時&quot;mm&quot;分&quot;</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation>h:mm:ss</translation>
+        <translation>h時mm分</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation>h:mm:ss</translation>
+        <translation>h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot;</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation>h:mm:ss</translation>
+        <translation>h時mm分ss秒</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
@@ -9942,57 +10282,57 @@ This position may not be safe.</source>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>m/d/yy</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>m&quot;月&quot;d&quot;日&quot;yyyy&quot;年&quot;</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>m月d日yyyy年</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>h&quot;時&quot;mm&quot;分&quot; AM/PM</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>h時mm分 AM/PM</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>h&quot;時&quot;mm&quot;分&quot;ss&quot;秒&quot; AM/PM</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>h時mm分ss秒 AM/PM</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>yyyy&quot;年&quot;m&quot;月&quot;</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>yyyy年m月</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>m&quot;月&quot;d&quot;日&quot;</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
-        <translation>m/d/yyyy</translation>
+        <translation>m月d日</translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
@@ -10003,6 +10343,26 @@ This position may not be safe.</source>
         <source>mm:ss.0</source>
         <comment>TX_NUMFMTApi_BuildIn_45</comment>
         <translation>mm:ss.0</translation>
+    </message>
+    <message>
+        <source>t$#,##0_);(t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_63</comment>
+        <translation>t$#,##0_);(t$#,##0)</translation>
+    </message>
+    <message>
+        <source>t$#,##0_);[Red](t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_64</comment>
+        <translation>t$#,##0_);[Red](t$#,##0)</translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);(t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_65</comment>
+        <translation>t$#,##0.00_);(t$#,##0.00)</translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);[Red](t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_66</comment>
+        <translation>t$#,##0.00_);[Red](t$#,##0.00)</translation>
     </message>
 </context>
 <context>
@@ -10071,7 +10431,7 @@ Do you want to continue?</source>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation>Kingsoft Officeは印刷操作が行えません。プリンタが開かれているかオンラインで接続しているかを調べてみてください。
+        <translation>WPS Officeは印刷操作が行えません。プリンタが開かれているかオンラインで接続しているかを調べてみてください。
 故障が解決されていない場合は、 Windows のプリンタプロパティでテストページを印刷することにより、プリンタが正しくインストールされているかを調べることができます。</translation>
     </message>
     <message>
@@ -10089,7 +10449,7 @@ Do you want to continue?</source>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished"></translation>
+        <translation>cupsライブラリが見つかりませんでした。インストールされていることを確認してください。</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
@@ -10103,7 +10463,12 @@ Continue printing?</source>
     <message>
         <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
         <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのファイル(*.*)|*.*|PDF ファイル(*.pdf)|*.pdf|Postscript ファイル(*.ps)|*.ps</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <comment>TxPrintPreview_CopiesInvalid</comment>
+        <translation>数値は 1 から 32767 の範囲でなければなりません。この数値の範囲で入力し、もう一度行ってください。</translation>
     </message>
 </context>
 <context>
@@ -10142,7 +10507,7 @@ Continue printing?</source>
         <source>%s is not the current default office software. Are you sure you want to set %s as the default office software?</source>
         <comment>kso_sWpsIsNotDefaultOfficeSoftware</comment>
         <translation>%s をデフォルトのオフィスソフトに設定しますか？
-（Word、Excel、PowerPointファイルをKingsoft Officeで開きます）</translation>
+（Word、Excel、PowerPointファイルをWPS Officeで開きます）</translation>
     </message>
     <message>
         <source>%s is the current default office software.</source>
@@ -11681,7 +12046,7 @@ cycle</source>
     <message>
         <source>No Line</source>
         <comment>kso_sNoLine</comment>
-        <translation>線の色なし</translation>
+        <translation>線なし</translation>
     </message>
     <message>
         <source>Nonbreaking Space</source>
@@ -12631,8 +12996,8 @@ For better service, please update the trial edition to standard edition by:
 2. Click the &quot;WPS Passport&quot; under &quot;Help&quot; menu.</source>
         <comment>kso_sTrialNotification</comment>
         <translation>本製品のご使用、ありがとうございました。                                
-インストールしたのは Kingsoft Office のテスト版です。
-更に良いサービスを得る為に、以下の方法で Kingsoft Officeの正式ユーザーになることができます。　　　　1．　下の「今すぐログイン」をクリックし、キングソフトの通行許可証を認識されます。キングソフトの通行許可証をまだ持っていない方は、「通行許可証を取得する」をクリックし、オンラインで通行許可証を取得できます。　　2．製品の「ヘルプ」メニューの「キングソフトの通行許可証…」からログインします。</translation>
+インストールしたのは WPS Office のテスト版です。
+更に良いサービスを得る為に、以下の方法で WPS Officeの正式ユーザーになることができます。　　　　1．　下の「今すぐログイン」をクリックし、キングソフトの通行許可証を認識されます。キングソフトの通行許可証をまだ持っていない方は、「通行許可証を取得する」をクリックし、オンラインで通行許可証を取得できます。　　2．製品の「ヘルプ」メニューの「キングソフトの通行許可証…」からログインします。</translation>
     </message>
     <message>
         <source>WPS Presentation cannot access %s, the file name is invalid.</source>
@@ -12790,32 +13155,32 @@ XML拡張パックをダウンロードしますか？</translation>
     <message>
         <source>As eighths (%s)</source>
         <comment>kso_sNnumberFormatter_style_06</comment>
-        <translation>8を分母とする (%s)</translation>
+        <translation>分母を8に設定 (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>kso_sNnumberFormatter_style_04</comment>
-        <translation>2を分母とする (%s)</translation>
+        <translation>分母を2に設定 (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>kso_sNnumberFormatter_style_09</comment>
-        <translation>何パーセント (%s)</translation>
+        <translation>分母を100に設定 (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>kso_sNnumberFormatter_style_05</comment>
-        <translation>4を分母とする (%s)</translation>
+        <translation>分母を4に設定 (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>kso_sNnumberFormatter_style_07</comment>
-        <translation>16を分母とする (%s)</translation>
+        <translation>分母を16に設定 (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>kso_sNnumberFormatter_style_08</comment>
-        <translation>10を分母とする(%s)</translation>
+        <translation>分母を10に設定(%s)</translation>
     </message>
     <message>
         <source>Dash Dot</source>
@@ -12840,22 +13205,44 @@ XML拡張パックをダウンロードしますか？</translation>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>kso_sNnumberFormatter_style_01</comment>
-        <translation>最大1桁 (%s)</translation>
+        <translation>1桁増加 (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>kso_sNnumberFormatter_style_03</comment>
-        <translation>最大3桁 (%s)</translation>
+        <translation>3桁増加 (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>kso_sNnumberFormatter_style_02</comment>
-        <translation>最大2桁 (%s)</translation>
+        <translation>2桁増加 (%s)</translation>
     </message>
     <message>
         <source>You have reached the maximum number of retries. Program will terminate.</source>
         <comment>kso_sMaxStep</comment>
         <translation>入力が正しくありません。プログラムが終了します。</translation>
+    </message>
+    <message>
+        <source>The file is modified
+Please save the file and create share link</source>
+        <comment>kso_h5_SaveFileTip</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Software Assurance Service has expired on %s.
+You cannot access to upgrades and technical support of this software. 
+If you have any problem, or want to renew the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiredTip</comment>
+        <translation>WPSのサービスは %s.に期限きれました。</translation>
+    </message>
+    <message>
+        <source>Software Assurance Service will expire on %s.
+After expiration, you can no longer access to upgrades and technical support of this software. 
+If you have any problem, or want to prolong the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiringTip</comment>
+        <translation>WPSのサービスは %s.に期限きれました。</translation>
     </message>
 </context>
 <context>
@@ -12868,7 +13255,7 @@ XML拡張パックをダウンロードしますか？</translation>
     <message>
         <source>Angles</source>
         <comment>THEME_THEME_ANGLES</comment>
-        <translation type="unfinished">アングル</translation>
+        <translation>アングル</translation>
     </message>
     <message>
         <source>Apex</source>
@@ -12893,7 +13280,7 @@ XML拡張パックをダウンロードしますか？</translation>
     <message>
         <source>Black Tie</source>
         <comment>THEME_THEME_BLACK_TIE</comment>
-        <translation>ブラックタイ</translation>
+        <translation>フォーマル</translation>
     </message>
     <message>
         <source>BlackTie</source>
@@ -13023,7 +13410,7 @@ XML拡張パックをダウンロードしますか？</translation>
     <message>
         <source>Office</source>
         <comment>THEME_NAME_OFFICE</comment>
-        <translation type="unfinished">Office</translation>
+        <translation>Office</translation>
     </message>
     <message>
         <source>Office 2</source>
@@ -13119,6 +13506,1524 @@ XML拡張パックをダウンロードしますか？</translation>
         <source>Waveform</source>
         <comment>THEME_THEME_WAVEFORM</comment>
         <translation>ウェーブ</translation>
+    </message>
+</context>
+<context>
+    <name>kso_smartart</name>
+    <message>
+        <source>All</source>
+        <comment>_kso_SmartArtCategoryAll</comment>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Basic Block List</source>
+        <comment>_kso_SmartArtDefaultName</comment>
+        <translation>カード型リスト</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtDefaultDescription</comment>
+        <translation>連続性のない情報ブロック、またはグループ分けされた情報ブロックを示すのに使用します。図形の表示領域を縦横両方向に最大限に使用します。</translation>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <comment>_kso_SmartArtvList2Name</comment>
+        <translation type="obsolete">縦方向箇条書きリスト</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <comment>_kso_SmartArtvList2Description</comment>
+        <translation type="obsolete">連続性のない情報ブロック、またはグループ分けされた情報ブロックを示すのに使用します。長い見出しのあるリストや上位レベルの情報に適しています。</translation>
+    </message>
+    <message>
+        <source>Vertical Box List</source>
+        <comment>_kso_SmartArtList1Name</comment>
+        <translation>縦方向リスト</translation>
+    </message>
+    <message>
+        <source>Use to show several groups of information, especially groups with large amounts of Level 2 text. A good choice for bulleted lists of information.</source>
+        <comment>_kso_SmartArtList1Description</comment>
+        <translation>複数の情報グループ、特に第 2 レベルのテキストが多く含まれるグループを示すのに使用します。情報の箇条書きに適しています。</translation>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <comment>_kso_SmartArtvList51Name</comment>
+        <translation type="obsolete">縦方向ボックス リスト</translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <comment>_kso_SmartArtvList5Description</comment>
+        <translation type="obsolete">タスク、プロセスやワークフローにおける情報やステップのグループを示すのに使用します。第 2 レベルのテキストの量が多い場合や、テキストに 1 つの主要なポイントといくつかの二次的なポイントが含まれる場合に適しています。</translation>
+    </message>
+    <message>
+        <source>Table List</source>
+        <comment>_kso_SmartArthList3Name</comment>
+        <translation type="obsolete">表型リスト</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <comment>_kso_SmartArthList3Description</comment>
+        <translation type="obsolete">価値的に等しい、グループ分けされた情報や関連する情報を示すのに使用します。第 1 レベルのテキストの 1 番目の項目が一番上の図形に対応し、第 2 レベルのテキストがその後のリストに使用されます。</translation>
+    </message>
+    <message>
+        <source>Horzontal Bullet List</source>
+        <comment>_kso_SmartArthList1Name</comment>
+        <translation type="obsolete">横方向箇条書きリスト</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <comment>_kso_SmartArthList1Description</comment>
+        <translation type="obsolete">連続性のない情報のリスト、またはグループ分けされた情報のリストを示すのに使用します。テキストの量が多い場合に適しています。どのテキストも強調のレベルは同じで、方向は示されません。</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <comment>_kso_SmartArtvList4Description</comment>
+        <translation type="obsolete">連続性のない情報ブロック、またはグループ分けされた情報ブロックを示すのに使用します。左の小さい図形には画像を入れることができます。</translation>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <comment>_kso_SmartArthList6Name</comment>
+        <translation type="obsolete">台形リスト</translation>
+    </message>
+    <message>
+        <source>Basic Process</source>
+        <comment>_kso_SmartArtProcess1Name</comment>
+        <translation>基本ステップ</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow.</source>
+        <comment>_kso_SmartArtProcess1Description</comment>
+        <translation>タスク、プロセスやワークフローの進行または一連のステップを示すのに使用します。</translation>
+    </message>
+    <message>
+        <source>Accent Process</source>
+        <comment>_kso_SmartArtProcess3Name</comment>
+        <translation>強調ステップ</translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow. Works well for illustrating both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtProcess3Description</comment>
+        <translation>タスク、プロセスやワークフローの進行、スケジュール、または一連のステップを示すのに使用します。第 1 レベルと第 2 レベル両方のテキストの表示に適しています。</translation>
+    </message>
+    <message>
+        <source>Radial Venn</source>
+        <comment>_kso_SmartArtRadial3Name</comment>
+        <translation>放射型ベン図</translation>
+    </message>
+    <message>
+        <source>Converging Radial</source>
+        <comment>_kso_SmartArtRadial4Name</comment>
+        <translation>集中</translation>
+    </message>
+    <message>
+        <source>Use to show relationships of concepts or components to a central idea in a cycle. The first line of Level 1 text corresponds to the central circular shape and the lines of Level 2 text correspond to the surrounding rectangular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial4Description</comment>
+        <translation>循環における中心の要素に対する概念または要素の関係を示すのに使用します。第 1 レベルのテキストの 1 番目の項目が中央の円の図形に対応し、第 2 レベルのテキストが周囲の四角形に対応します。使用されていないテキストは表示されませんが、レイアウトを切り替えると使用可能になります。</translation>
+    </message>
+    <message>
+        <source>Diverging Radial</source>
+        <comment>_kso_SmartArtRadial5Name</comment>
+        <translation type="obsolete">矢印付き放射</translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The first Level 1 line of text corresponds to the central circular shape. Emphasizes the surrounding circles rather than the central idea. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial5Description</comment>
+        <translation>循環における中心の要素との関係を示すのに使用します。第 1 レベルのテキストの 1 番目の項目が中心の円の図形に対応します。中心の主題よりも周囲の円が強調されます。使用されていないテキストは表示されませんが、レイアウトを切り替えると使用可能になります。</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <comment>_kso_SmartArtOrgChart1Name</comment>
+        <translation type="obsolete">組織図</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtOrgChart1Description</comment>
+        <translation type="obsolete">組織内の階層情報や上下関係を示すのに使用します。アシスタントの図形や下方に展開する組織図には、このレイアウトを使用できます。</translation>
+    </message>
+    <message>
+        <source>Crycle Matrix</source>
+        <comment>_kso_SmartArtCycle4Name</comment>
+        <translation type="obsolete">循環マトリックス</translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <comment>_kso_SmartArtAllPicture</comment>
+        <translation>すべての画像</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <comment>_kso_SmartArtWinEnhMetaFile</comment>
+        <translation>Windows 拡張メタファイル</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <comment>_kso_SmartArtWinMetaFile</comment>
+        <translation>Windows メタファイル</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <comment>_kso_SmartArtJpegFormat</comment>
+        <translation>JPEG ファイル インターチェンジ形式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <comment>_kso_SmartArtPngFormat</comment>
+        <translation>PNG 形式</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <comment>_kso_SmartArtWinBitmapFormat</comment>
+        <translation>Windows ビットマップ</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <comment>_kso_SmartArtGifFormat</comment>
+        <translation>GIF 形式</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <comment>_kso_SmartArtTifFormat</comment>
+        <translation>TIFF 形式</translation>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <comment>_kso_SmartArtvList4Name</comment>
+        <translation type="obsolete">縦方向画像リスト</translation>
+    </message>
+    <message>
+        <source>[Text]</source>
+        <comment>_kso_SmartArtInputText</comment>
+        <translation>[テキスト]</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArthList6Description</comment>
+        <translation type="obsolete">同等の価値を持つ情報をグループ化して、または関連付けて示すのに使用します。テキストの量が多い場合に適しています。</translation>
+    </message>
+    <message>
+        <source>Use to show both overlapping relationships and the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape and the lines of Level 2 text correspond to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial3Description</comment>
+        <translation>重複する関係と、中心の要素に対する関係の両方を示すのに使用します。第 1 レベルのテキストの 1 番目の項目が中心の図形に対応し、第 2 レベルのテキストが周囲の円の図形に対応します。使用されていないテキストは表示されませんが、レイアウトを切り替えると使用可能になります。</translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle4Description</comment>
+        <translation>循環する一連の段階において、中心の要素との関係を示すのに使用します。第 1 レベルのテキストの初めの 4 項目がくさび形またはパイの図形に対応し、第 2 レベルのテキストがその横の四角形に表示されます。使用されていないテキストは表示されませんが、レイアウトを切り替えると使用可能になります。</translation>
+    </message>
+    <message>
+        <source>Smartart Resource Miss, please try to reinstall WPS to solve this problem.</source>
+        <comment>_kso_SmartArtResourceMiss</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>List</source>
+        <comment>_kso_SmartArtCategoryList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>_kso_SmartArtCategoryProcess</comment>
+        <translation type="unfinished">フローチャート</translation>
+    </message>
+    <message>
+        <source>Cycle</source>
+        <comment>_kso_SmartArtCategoryCycle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchy</source>
+        <comment>_kso_SmartArtCategoryHierarchy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relationship</source>
+        <comment>_kso_SmartArtCategoryRelationship</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <comment>_kso_SmartArtCategoryMatrix</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pyramid</source>
+        <comment>_kso_SmartArtCategoryPyramid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>_kso_SmartArtCategoryPicture</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Hexagons</source>
+        <comment>_kso_SmartArtAlternatinghexagonsName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a series of interconnected ideas. Level 1 text appears inside the hexagons. Level 2 text appears outside the shapes.</source>
+        <comment>_kso_SmartArtAlternatinghexagonsDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Caption List</source>
+        <comment>_kso_SmartArtPlist1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The top shapes are designed to contain pictures and pictures are emphasized over text. Works well for pictures with short text captions.</source>
+        <comment>_kso_SmartArtPlist1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lined List</source>
+        <comment>_kso_SmartArtLinedlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show large amounts of text divided into categories and subcategories. Works well with multiple levels of text. Text at the same level is separated by lines.</source>
+        <comment>_kso_SmartArtLinedlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <comment>_kso_SmartArtVlist2Name</comment>
+        <translation type="unfinished">縦方向箇条書きリスト</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <comment>_kso_SmartArtVlist2Description</comment>
+        <translation type="unfinished">連続性のない情報ブロック、またはグループ分けされた情報ブロックを示すのに使用します。長い見出しのあるリストや上位レベルの情報に適しています。</translation>
+    </message>
+    <message>
+        <source>Horizontal Bullet List</source>
+        <comment>_kso_SmartArtHlist1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <comment>_kso_SmartArtHlist1Description</comment>
+        <translation type="unfinished">連続性のない情報のリスト、またはグループ分けされた情報のリストを示すのに使用します。テキストの量が多い場合に適しています。どのテキストも強調のレベルは同じで、方向は示されません。</translation>
+    </message>
+    <message>
+        <source>Square Accent List</source>
+        <comment>_kso_SmartArtSquareaccentlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show lists of information divided into categories. Level 2 text appears beside a small square shape. Works well with large amounts of Level 2 text. </source>
+        <comment>_kso_SmartArtSquareaccentlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Accent List</source>
+        <comment>_kso_SmartArtHlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information. The small shapes on the upper corners are designed to contain pictures. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtHlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Accent List</source>
+        <comment>_kso_SmartArtBlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small circular shapes are designed to contain pictures. Works well for illustrating both Level 1 and Level 2 text. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked List</source>
+        <comment>_kso_SmartArtHlist9Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Circular shapes contain Level 1 text, and the corresponding rectangles contain Level 2 text. Works well for numerous details and minimal Level 1 text.</source>
+        <comment>_kso_SmartArtHlist9Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increasing Circle Process</source>
+        <comment>_kso_SmartArtIncreasingcircleprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of steps, with the interior of the circle increasing with each step. Limited to seven Level 1 steps but unlimited Level 2 items. Works well with large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtIncreasingcircleprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pie Process</source>
+        <comment>_kso_SmartArtPieprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show steps in a process with each pie slice increasing in size up to seven shapes.  Level 1 text displays vertically.</source>
+        <comment>_kso_SmartArtPieprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detailed Process</source>
+        <comment>_kso_SmartArtHprocess7Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use with large amounts of Level 2 text to show a progression through stages.</source>
+        <comment>_kso_SmartArtHprocess7Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grouped List</source>
+        <comment>_kso_SmartArtLprocess2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups and sub-groups of information, or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top level horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape. Works well for emphasizing sub-groups or sub-steps, hierarchical information, or multiple lists of information.</source>
+        <comment>_kso_SmartArtLprocess2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Picture List</source>
+        <comment>_kso_SmartArtPlist2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped information with an emphasis on related pictures. The top shapes are designed to contain pictures.</source>
+        <comment>_kso_SmartArtPlist2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Picture List</source>
+        <comment>_kso_SmartArtHlist7Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of interconnected information. The circular shapes are designed to contain pictures.</source>
+        <comment>_kso_SmartArtHlist7Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Strips</source>
+        <comment>_kso_SmartArtPicturestripsName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures from top to bottom with Level 1 text beside each.</source>
+        <comment>_kso_SmartArtPicturestripsDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <comment>_kso_SmartArtVlist4Name</comment>
+        <translation type="unfinished">縦方向画像リスト</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <comment>_kso_SmartArtVlist4Description</comment>
+        <translation type="unfinished">連続性のない情報ブロック、またはグループ分けされた情報ブロックを示すのに使用します。左の小さい図形には画像を入れることができます。</translation>
+    </message>
+    <message>
+        <source>Alternating Picture Blocks</source>
+        <comment>_kso_SmartArtAlternatingpictureblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures from top to bottom. Text appears alternately on the right or left of the picture.</source>
+        <comment>_kso_SmartArtAlternatingpictureblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Picture Accent List</source>
+        <comment>_kso_SmartArtVlist3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small circles are designed to contain pictures.</source>
+        <comment>_kso_SmartArtVlist3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Titled Picture Accent List</source>
+        <comment>_kso_SmartArtPictureaccentlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show lists of information with an accent picture for each Level 2 text. Level 1 text displays in a separate box at the top of the list.</source>
+        <comment>_kso_SmartArtPictureaccentlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <comment>_kso_SmartArtVlist5Name</comment>
+        <translation type="unfinished">縦方向ボックス リスト</translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <comment>_kso_SmartArtVlist5Description</comment>
+        <translation type="unfinished">タスク、プロセスやワークフローにおける情報やステップのグループを示すのに使用します。第 2 レベルのテキストの量が多い場合や、テキストに 1 つの主要なポイントといくつかの二次的なポイントが含まれる場合に適しています。</translation>
+    </message>
+    <message>
+        <source>Vertical Chevron List</source>
+        <comment>_kso_SmartArtChevron2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtChevron2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Accent List</source>
+        <comment>_kso_SmartArtVerticalaccentlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show lists of information. Level 2 text appears in rectangular shapes over vertical chevrons. Emphasizes Level 2 text over Level 1 text, and is a good choice for medium amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtVerticalaccentlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Arrow List</source>
+        <comment>_kso_SmartArtVlist6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow that move toward a common goal. Works well for bulleted lists of information.</source>
+        <comment>_kso_SmartArtVlist6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <comment>_kso_SmartArtHlist6Name</comment>
+        <translation type="unfinished">台形リスト</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArtHlist6Description</comment>
+        <translation type="unfinished">同等の価値を持つ情報をグループ化して、または関連付けて示すのに使用します。テキストの量が多い場合に適しています。</translation>
+    </message>
+    <message>
+        <source>Descending Block List</source>
+        <comment>_kso_SmartArtBlockdescendinglistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of related ideas or lists of information. The text shapes decrease in height sequentially, and the Level 1 text displays vertically.</source>
+        <comment>_kso_SmartArtBlockdescendinglistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List</source>
+        <comment>_kso_SmartArtHlist3Name</comment>
+        <translation type="unfinished">表型リスト</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <comment>_kso_SmartArtHlist3Description</comment>
+        <translation type="unfinished">価値的に等しい、グループ分けされた情報や関連する情報を示すのに使用します。第 1 レベルのテキストの 1 番目の項目が一番上の図形に対応し、第 2 レベルのテキストがその後のリストに使用されます。</translation>
+    </message>
+    <message>
+        <source>Segmented Process</source>
+        <comment>_kso_SmartArtProcess4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Emphasizes Level 2 text, since each line appears in a separate shape.</source>
+        <comment>_kso_SmartArtProcess4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Curved List</source>
+        <comment>_kso_SmartArtVerticalcurvedlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a curved list of information. To add pictures to the accent circle shapes, apply a picture fill.</source>
+        <comment>_kso_SmartArtVerticalcurvedlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pyramid List</source>
+        <comment>_kso_SmartArtPyramid2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships. Text appears in the rectangular shapes on top of the pyramid background.</source>
+        <comment>_kso_SmartArtPyramid2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Target List</source>
+        <comment>_kso_SmartArtTarget3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show interrelated or overlapping information. Each of the first seven lines of Level 1 text appears in the rectangular shape. Unused text does not appear, but remains available if you switch layouts. Works well with both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtTarget3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchy List</source>
+        <comment>_kso_SmartArtHierarchy3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing across groups. Can also be used to group or list information.</source>
+        <comment>_kso_SmartArtHierarchy3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Circle List</source>
+        <comment>_kso_SmartArtVerticalcirclelistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential or grouped data. Works best for Level 1 text, which displays next to a large circular shape. Lower levels of text are separated with smaller circular shapes.</source>
+        <comment>_kso_SmartArtVerticalcirclelistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information built from top to bottom, and the hierarchies within each group. This layout does not contain connecting lines.</source>
+        <comment>_kso_SmartArtHierarchy4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step Up Process</source>
+        <comment>_kso_SmartArtStepupprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show an ascending series of steps or lists of information.</source>
+        <comment>_kso_SmartArtStepupprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Step Down Process</source>
+        <comment>_kso_SmartArtStepdownprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a descending process with multiple steps and sub-steps. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtStepdownprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Accent Process</source>
+        <comment>_kso_SmartArtHprocess10Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps in a task, process, or workflow. The rectangular shapes in the background are designed to contain pictures.</source>
+        <comment>_kso_SmartArtHprocess10Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Flow</source>
+        <comment>_kso_SmartArtHprocess4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or sequential steps in a task, process, or workflow. Emphasizes the interaction or relationships among the groups of information.</source>
+        <comment>_kso_SmartArtHprocess4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Block Process</source>
+        <comment>_kso_SmartArtHprocess9Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Works best with minimal Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtHprocess9Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increasing Arrows Process</source>
+        <comment>_kso_SmartArtIncreasingarrowsprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential and overlapping steps in a process. Limited to five Level 1 items. Level 2 can contain large amounts of text.</source>
+        <comment>_kso_SmartArtIncreasingarrowsprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Arrow Process</source>
+        <comment>_kso_SmartArtHprocess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a timeline or sequential steps in a task, process, or workflow. Works best with Level 1 text because each line of Level 1 text appears inside the arrow shape. Level 2 text appears outside the arrow shape.</source>
+        <comment>_kso_SmartArtHprocess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process Arrows</source>
+        <comment>_kso_SmartArtHprocess6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show information illustrating a process or workflow. Level 1 text appears in the circular shapes and Level 2 text appears in the arrow shapes. Works best for minimal text and to emphasize movement or direction.</source>
+        <comment>_kso_SmartArtHprocess6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Accent Timeline</source>
+        <comment>_kso_SmartArtCircleaccenttimelineName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of events or timeline information. Level 1 text appears next to larger circular shapes. Level 2 text appears next to smaller circular shapes.</source>
+        <comment>_kso_SmartArtCircleaccenttimelineDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Timeline</source>
+        <comment>_kso_SmartArtHprocess11Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps in a task, process, or workflow, or to show timeline information. Works well with both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtHprocess11Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Chevron Process</source>
+        <comment>_kso_SmartArtChevron1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression; a timeline; sequential steps in a task, process, or workflow; or to emphasize movement or direction. Level 1 text appears inside an arrow shape while Level 2 text appears below the arrow shapes.</source>
+        <comment>_kso_SmartArtChevron1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Closed Chevron Process</source>
+        <comment>_kso_SmartArtHchevron3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Can be used to emphasize information in the starting shape. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtHchevron3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chevron List</source>
+        <comment>_kso_SmartArtLprocess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression through several processes that make up an overall workflow. Also works for illustrating contrasting processes. The Level 1 text corresponds to the first arrow shape on the left, while the Level 2 text corresponds to horizontal sub-steps for each shape that contains Level 1 text.</source>
+        <comment>_kso_SmartArtLprocess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sub-Step Process</source>
+        <comment>_kso_SmartArtSubstepprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a multi-step process with sub-steps between each instance of Level 1 text. Works best with small amounts of text and is limited to seven Level 1 steps. Each Level 1 step can have unlimited sub-steps.</source>
+        <comment>_kso_SmartArtSubstepprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phased Process</source>
+        <comment>_kso_SmartArtPhasedprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show three phases of a process. Limited to three Level 1 items. The first two Level 1 items can each contain four Level 2 items, and the third Level 1 item can contain an unlimited number of Level 2 items.  Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtPhasedprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random to Result Process</source>
+        <comment>_kso_SmartArtRandomtoresultprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show, through a series of steps, how several chaotic  ideas can result in a unified goal or idea. Supports multiple items of Level 1 text, but the first and last Level 1 corresponding shapes are fixed. Works best with small amounts of Level 1 text and medium amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtRandomtoresultprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Process</source>
+        <comment>_kso_SmartArtProcess2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow from top to bottom. Works best with Level 1 text, since the vertical space is limited.</source>
+        <comment>_kso_SmartArtProcess2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Staggered Process</source>
+        <comment>_kso_SmartArtVprocess5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a downward progression through stages. Each of the first five lines of Level 1 text corresponds with a rectangle. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVprocess5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Process List</source>
+        <comment>_kso_SmartArtLprocess1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show multiple groups of information or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape.</source>
+        <comment>_kso_SmartArtLprocess1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Arrow Process</source>
+        <comment>_kso_SmartArtCirclearrowprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential items with supporting text for each item. This diagram works best with small amounts of Level 1 text.</source>
+        <comment>_kso_SmartArtCirclearrowprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Bending Process</source>
+        <comment>_kso_SmartArtProcess5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtProcess5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Repeating Bending Process</source>
+        <comment>_kso_SmartArtBprocess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBprocess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Bending Process</source>
+        <comment>_kso_SmartArtBprocess4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes. Places more emphasis on the interrelationships among the shapes than on direction or movement.</source>
+        <comment>_kso_SmartArtBprocess4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ascending Picture Accent Process</source>
+        <comment>_kso_SmartArtAscendingpictureaccentprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show an ascending series of pictures with descriptive text. Works best with a small amount of text.</source>
+        <comment>_kso_SmartArtAscendingpictureaccentprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upward Arrow</source>
+        <comment>_kso_SmartArtArrow2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or steps that trend upward in a task, process, or workflow. Each of the first five lines of Level 1 text corresponds to a point on the arrow. Works best with minimal text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Descending Process</source>
+        <comment>_kso_SmartArtDescendingprocessName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a descending series of events. The first Level 1 text is at the top of arrow, and the last Level 1 text displays at the bottom of the arrow. Only the first seven Level 1 items appear. Works best with small to medium amounts of text.</source>
+        <comment>_kso_SmartArtDescendingprocessDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circular Bending Process</source>
+        <comment>_kso_SmartArtBprocess2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a long or non-linear sequence or steps in a task, process, or workflow. Works best with Level 1 text only. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBprocess2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>_kso_SmartArtEquation1Name</comment>
+        <translation type="unfinished">数式</translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the equals sign (=).Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtEquation1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Equation</source>
+        <comment>_kso_SmartArtEquation2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the arrow. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtEquation2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Funnel</source>
+        <comment>_kso_SmartArtFunnel1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the filtering of information or how parts merge into a whole. Emphasizes the final outcome. Can contain up to four lines of Level 1 text; the last of these four Level 1 text lines appears below the funnel and the other lines  correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtFunnel1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gear</source>
+        <comment>_kso_SmartArtGear1Name</comment>
+        <translation type="unfinished">歯車</translation>
+    </message>
+    <message>
+        <source>Use to show interlocking ideas. Each of the first three lines of Level 1 text corresponds to a gear shape, and their corresponding Level 2 text appears in rectangles next to the gear shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtGear1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow Ribbon</source>
+        <comment>_kso_SmartArtArrow6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show either related or contrasting concepts with some connection, such as opposing forces. The first two lines of Level 1 text are used for text in the arrows. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opposing Arrows</source>
+        <comment>_kso_SmartArtArrow4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show two opposing ideas, or ideas that diverge from a central point. Each of the first two lines of Level 1 text corresponds to an arrow. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converging Arrows</source>
+        <comment>_kso_SmartArtArrow5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show ideas or concepts that converge to a central point. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtArrow5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diverging Arrows</source>
+        <comment>_kso_SmartArtArrow1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show ideas or concepts that progress outward from a central source. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtArrow1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Cycle</source>
+        <comment>_kso_SmartArtCycle2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Cycle</source>
+        <comment>_kso_SmartArtCycle1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the arrows or flow rather than the stages or steps. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Block Cycle</source>
+        <comment>_kso_SmartArtCycle5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow.</source>
+        <comment>_kso_SmartArtCycle5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nondirectional Cycle</source>
+        <comment>_kso_SmartArtCycle6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Each shape has the same level of importance. Works well when direction does not need to be indicated.</source>
+        <comment>_kso_SmartArtCycle6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continuous Cycle</source>
+        <comment>_kso_SmartArtCycle3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the connection between all components. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multidirectional Cycle</source>
+        <comment>_kso_SmartArtCycle7Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events that can occur in any direction.</source>
+        <comment>_kso_SmartArtCycle7Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmented Cycle</source>
+        <comment>_kso_SmartArtCycle8Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or a sequence of stages, tasks, or events in a circular flow. Emphasizes the interconnected pieces. Each of the first seven lines of Level 1 text corresponds to a wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle8Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Pie</source>
+        <comment>_kso_SmartArtChart3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show how individual parts form a whole. The first seven lines of Level 1 text correspond to the evenly distributed wedge or pie shapes. The top Level 1 text shape appears outside of the rest of the pie for emphasis. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtChart3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Cycle</source>
+        <comment>_kso_SmartArtRadial6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea. Emphasizes both information in the center circle and how information in the outer ring of circles contributes to the central idea. The first Level 1 line of text corresponds to the central circle, and its Level 2 text corresponds to the outer ring of circles. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Radial</source>
+        <comment>_kso_SmartArtRadial1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape, and its Level 2 text corresponds to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diverging Radial </source>
+        <comment>_kso_SmartArtRadial5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cycle Matrix</source>
+        <comment>_kso_SmartArtCycle4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Cluster</source>
+        <comment>_kso_SmartArtRadialclusterName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show data that relates to a central idea or theme. The top Level 1 text appears in the center. Level 2 text appears in surrounding shapes. Can contain up to seven Level 2 shapes. Unused text does not appear, but remains available if you switch layouts. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtRadialclusterDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <comment>_kso_SmartArtOrgchart1Name</comment>
+        <translation type="unfinished">組織図</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtOrgchart1Description</comment>
+        <translation type="unfinished">組織内の階層情報や上下関係を示すのに使用します。アシスタントの図形や下方に展開する組織図には、このレイアウトを使用できます。</translation>
+    </message>
+    <message>
+        <source>Name and Title Organization Chart</source>
+        <comment>_kso_SmartArtNameandtitleorganizationalchartName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. To enter text in the title box, type directly in the smaller rectangular shape. The assistant shape and Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtNameandtitleorganizationalchartDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Half Circle Organization Chart</source>
+        <comment>_kso_SmartArtHalfcircleorganizationchartName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shapes and Org Chart hanging layouts are available with this layout. </source>
+        <comment>_kso_SmartArtHalfcircleorganizationchartDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Picture Hierarchy</source>
+        <comment>_kso_SmartArtCirclepicturehierarchyName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. Pictures appear in circles and corresponding text appears next to the pictures.</source>
+        <comment>_kso_SmartArtCirclepicturehierarchyDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing from top to bottom.</source>
+        <comment>_kso_SmartArtHierarchy1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Labeled Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing from top to bottom and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and all subsequent lines of Level 1 text appear to the left of the long rectangles.</source>
+        <comment>_kso_SmartArtHierarchy6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Organization Chart</source>
+        <comment>_kso_SmartArtHorizontalorganizationchartName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information horizontally or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtHorizontalorganizationchartDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Multi-Level Hierarchy</source>
+        <comment>_kso_SmartArtHorizontalmultilevelhierarchyName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show large amounts of hierarchical information progressing horizontally. The top of the hierarchy is displayed vertically. This layout supports many levels in the hierarchy.</source>
+        <comment>_kso_SmartArtHorizontalmultilevelhierarchyDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing horizontally. Works well for decision trees.</source>
+        <comment>_kso_SmartArtHierarchy2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal Labeled Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing horizontally and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and the second and all subsequent lines of Level 1 text appear at the top of the tall rectangles.</source>
+        <comment>_kso_SmartArtHierarchy5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Balance</source>
+        <comment>_kso_SmartArtBalance1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to compare or show the relationship between two ideas. Each of the first two lines of Level 1 text corresponds to text at the top of one side of the center point. Emphasizes Level 2 text, which is limited to four shapes on each side of the center point. The balance tips towards the side with the most shapes containing Level 2 text. Unused text does not appear, but remains available if you switch layouts. </source>
+        <comment>_kso_SmartArtBalance1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circle Relationship</source>
+        <comment>_kso_SmartArtCirclerelationshipName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to or from a central idea. Level 2 text is added non-sequentially and is limited to five items. There can only be one Level 1 item.</source>
+        <comment>_kso_SmartArtCirclerelationshipDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hexagon Cluster</source>
+        <comment>_kso_SmartArtHexagonclusterName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with associated descriptive text. Small hexagons indicate the picture and text pair. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtHexagonclusterDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opposing Ideas</source>
+        <comment>_kso_SmartArtOpposingideasName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show two opposing or contrasting ideas. Can have one or two Level 1 items. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArtOpposingideasDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus and Minus</source>
+        <comment>_kso_SmartArtPlusandminusName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the pros and cons of  two ideas. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text. Limited to two Level 1 items.</source>
+        <comment>_kso_SmartArtPlusandminusDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reverse List</source>
+        <comment>_kso_SmartArtReverselistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to change between two items. Only the first two items of text display, and each item can contain a large amount of text. Works well to show a change between two items or shift in order.</source>
+        <comment>_kso_SmartArtReverselistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counterbalance Arrows</source>
+        <comment>_kso_SmartArtArrow3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show two opposing ideas or concepts. Each of the first two lines of Level 1 text corresponds to an arrow and works well with Level 2 text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Segmented Pyramid</source>
+        <comment>_kso_SmartArtPyramid4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show containment, proportional, or interconnected relationships. The first nine lines of Level 1 text appear in the triangular shapes. Unused text does not appear, but remains available if you switch layouts. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtPyramid4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nested Target</source>
+        <comment>_kso_SmartArtTarget2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show containment relationships. Each of the first three lines of Level 1 text correspond to the upper left text in the shapes, and Level 2 text corresponds to the smaller shapes. Works best with minimal Level 2 lines of text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtTarget2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial List</source>
+        <comment>_kso_SmartArtRadial2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The center shape can contain a picture. Level 1 text appears in the smaller circles and any related Level 2 text appears to the side of the smaller circles.</source>
+        <comment>_kso_SmartArtRadial2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Target</source>
+        <comment>_kso_SmartArtTarget1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show containment, gradations, or hierarchical relationships. The first five lines of Level 1 text are associated with a circle. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtTarget1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Venn</source>
+        <comment>_kso_SmartArtVenn1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show overlapping or interconnected relationships. The first seven lines of Level 1 text correspond with a circle. If there are four or fewer lines of Level 1 text, the text is inside the circles. If there are more than four lines of Level 1 text, the text is outside of the circles. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVenn1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear Venn</source>
+        <comment>_kso_SmartArtVenn3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show overlapping relationships in a sequence. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtVenn3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Venn</source>
+        <comment>_kso_SmartArtVenn2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show overlapping relationships. A good choice for emphasizing growth or gradation. Works best with Level 1 text only. The first seven lines of Level 1 text correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVenn2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Matrix</source>
+        <comment>_kso_SmartArtMatrix3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship of components to a whole in quadrants. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Titled Matrix</source>
+        <comment>_kso_SmartArtMatrix1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationships of four quadrants to a whole. The first line of Level 1 text corresponds to the central shape, and the first four lines of Level 2 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid Matrix</source>
+        <comment>_kso_SmartArtMatrix2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the placement of concepts along two axes. Emphasizes the individual components rather than the whole. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Pyramid</source>
+        <comment>_kso_SmartArtPyramid1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the bottom and narrowing up. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
+        <comment>_kso_SmartArtPyramid1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted Pyramid</source>
+        <comment>_kso_SmartArtPyramid3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the top and narrowing down. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
+        <comment>_kso_SmartArtPyramid3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accented Picture</source>
+        <comment>_kso_SmartArtAccentedpictureName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a central, photographic idea with related ideas on the side. The top Level 1 text appears over the central picture. Corresponding text for other Level 1 shapes appear next to the small circular pictures. This layout also works well with no text.</source>
+        <comment>_kso_SmartArtAccentedpictureDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circular Picture Callout</source>
+        <comment>_kso_SmartArtCircularpicturecalloutName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a central idea and sub-ideas or related items. The text for the first picture covers the lower portion of the picture. The corresponding text for other Level 1 shapes appears next to the small circular pictures. This diagram also works well with no text.</source>
+        <comment>_kso_SmartArtCircularpicturecalloutDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapshot Picture List</source>
+        <comment>_kso_SmartArtSnapshotpicturelistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with explanatory text. Level 2 text can display lists of information. Works well with a large amount of  text.</source>
+        <comment>_kso_SmartArtSnapshotpicturelistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spiral Picture</source>
+        <comment>_kso_SmartArtSpiralpictureName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of up to five pictures with corresponding Level 1 captions that spiral in to the center. </source>
+        <comment>_kso_SmartArtSpiralpictureDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Captioned Pictures</source>
+        <comment>_kso_SmartArtCaptionedpicturesName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with multiple levels of text.  Works best with a small amount of Level 1 text and a medium amount of Level 2 text.</source>
+        <comment>_kso_SmartArtCaptionedpicturesDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Caption</source>
+        <comment>_kso_SmartArtBendingpicturecaptionName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a sequential series of pictures. The box covering the bottom corner can contain small amounts of text.</source>
+        <comment>_kso_SmartArtBendingpicturecaptionDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Semi-Transparent Text</source>
+        <comment>_kso_SmartArtBendingpicturesemitransparenttextName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. A semi-transparent box covers the lower portion of the picture and contains all levels of text.</source>
+        <comment>_kso_SmartArtBendingpicturesemitransparenttextDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Blocks</source>
+        <comment>_kso_SmartArtBendingpictureblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. The box covering the bottom corner can contain small amounts of text.</source>
+        <comment>_kso_SmartArtBendingpictureblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bending Picture Caption List</source>
+        <comment>_kso_SmartArtBendingpicturecaptionlistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. The title and description appear in a callout shape under each picture.</source>
+        <comment>_kso_SmartArtBendingpicturecaptionlistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Titled Picture Blocks</source>
+        <comment>_kso_SmartArtTitledpictureblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. Level 1 text appears above each picture. Level 2 text appears to the side and slightly overlapping each picture.</source>
+        <comment>_kso_SmartArtTitledpictureblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Grid</source>
+        <comment>_kso_SmartArtPicturegridName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures laid out on a square grid. Best with a small amount of Level 1 text, which appears above the picture.</source>
+        <comment>_kso_SmartArtPicturegridDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Accent Blocks</source>
+        <comment>_kso_SmartArtPictureaccentblocksName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a group of pictures in blocks starting from the corner. The corresponding text displays vertically. Works well as an accent on title or sub-title slides or for section breaks of a document.</source>
+        <comment>_kso_SmartArtPictureaccentblocksDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alternating Picture Circles</source>
+        <comment>_kso_SmartArtAlternatingpicturecirclesName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a set of pictures with text. The corresponding text appears in the central circles with the images alternating from left to right.</source>
+        <comment>_kso_SmartArtAlternatingpicturecirclesDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Picture Lineup</source>
+        <comment>_kso_SmartArtTitlepicturelineupName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures that each have their own title and description. Level 1 text appears in the box above the picture. Level 2 text appears below the picture.</source>
+        <comment>_kso_SmartArtTitlepicturelineupDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Lineup</source>
+        <comment>_kso_SmartArtPicturelineupName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures side by side. Level 1 text covers the top of the picture. Level 2 text appears below the picture.</source>
+        <comment>_kso_SmartArtPicturelineupDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Framed Text Picture</source>
+        <comment>_kso_SmartArtFramedtextpictureName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
+        <comment>_kso_SmartArtFramedtextpictureDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bubble Picture List</source>
+        <comment>_kso_SmartArtBubblepicturelistName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. Can contain up to eight Level 1 pictures. Unused text and pictures do not appear, but remain available if you switch layouts. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtBubblepicturelistDescription</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

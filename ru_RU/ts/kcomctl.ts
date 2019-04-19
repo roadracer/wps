@@ -15,6 +15,10 @@
         <source>Trial Version</source>
         <translation>Пробная версия</translation>
     </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>Режим &quot;только для чтения&quot;</translation>
+    </message>
 </context>
 <context>
     <name>KBevelModel</name>
@@ -89,7 +93,7 @@
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">Без цвета</translation>
+        <translation>Без цвета</translation>
     </message>
     <message>
         <source>&amp;No Color</source>
@@ -302,11 +306,11 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation>Настроить быстрый доступ</translation>
+        <translation type="obsolete">Настроить быстрый доступ</translation>
     </message>
     <message>
         <source>Add to</source>
-        <translation>Добавить</translation>
+        <translation type="obsolete">Добавить</translation>
     </message>
     <message>
         <source>&amp;Hide quick access</source>
@@ -314,7 +318,7 @@
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>&amp;Скрыть панель быстрого доступа</translation>
+        <translation type="obsolete">&amp;Скрыть панель быстрого доступа</translation>
     </message>
 </context>
 <context>
@@ -459,6 +463,10 @@
     <message>
         <source>Style</source>
         <translation>Стиль</translation>
+    </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation>Разные стили</translation>
     </message>
 </context>
 <context>
@@ -709,6 +717,10 @@
     <message>
         <source>Modified time: </source>
         <translation>Изменено время: </translation>
+    </message>
+    <message>
+        <source>Super Recover</source>
+        <translation>Особое восстановление</translation>
     </message>
 </context>
 <context>
@@ -998,7 +1010,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>From &amp;Picture</source>
-        <translation>Из &amp;рисунка</translation>
+        <translation type="obsolete">Из &amp;рисунка</translation>
     </message>
     <message>
         <source>From &amp;Online Picture</source>
@@ -1007,6 +1019,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Preset Texture</source>
         <translation>Предустановленная текстура</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation>Из &amp;рисунка...</translation>
     </message>
 </context>
 <context>
@@ -1204,7 +1220,7 @@ Please reinstall WPS Office!</source>
     <name>KxQtKeySequenceEdit</name>
     <message>
         <source>%1, ...</source>
-        <translation type="obsolete">%1, ...</translation>
+        <translation>%1, ...</translation>
     </message>
 </context>
 <context>
@@ -1252,7 +1268,7 @@ Please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Document List</source>
-        <translation>Список документов</translation>
+        <translation type="obsolete">Список документов</translation>
     </message>
 </context>
 <context>
@@ -1348,6 +1364,10 @@ Please reinstall WPS Office!</source>
         <source>Delete from List</source>
         <translation>Удалить из списка</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Авто</translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
@@ -1386,6 +1406,195 @@ Please reinstall WPS Office!</source>
     <message>
         <source>Enter -100% to 100% of the Value</source>
         <translation>Введите значение от –100 до 100 %</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>Из-за большого размера файла резервное копирование может занять некоторое время.</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation>Нажмите клавишу ESC, чтобы отменить резервное копирование или</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>настроить периодичность автоматического резервного копирования</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished">Открыть папку</translation>
+    </message>
+</context>
+<context>
+    <name>KMRUCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">Не удалось открыть &quot;%1&quot;.
+Возможно, этот файл переименован, удален или перемещен.</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOrganizerDescription</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Отмена</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation>Остальные команды</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation>&amp;Удалить с панели быстрого доступа</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translation type="obsolete">&amp;Настройка панели быстрого доступа</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>Настройка панели быстрого доступа</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>Настроить быстрый доступ</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation type="obsolete">Сбой синхронизации</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>Другие команды...</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Вход</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">Это действие выполняется только локально. Войдите в систему, чтобы синхронизировать его на других устройствах.</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Вход</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Закрыть</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>Вставкить ячейки в контекстное меню</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

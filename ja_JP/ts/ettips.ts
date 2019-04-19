@@ -24,7 +24,9 @@
 
 You can also center them or distribute them evenly across the page.</source>
         <extracomment>Align.content</extracomment>
-        <translation>選択したオブジェクトの配置を設定します</translation>
+        <translation>選択した複数オブジェクトの端を揃えます。
+
+ページ全体で中央揃えにしたり、均等割り付けにしたりできます。</translation>
     </message>
     <message id="AlignCenter.title">
         <source>Center</source>
@@ -44,7 +46,7 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AlignJustify.content">
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
         <extracomment>AlignJustify.content</extracomment>
-        <translation>文字列を両端に揃えて配置します</translation>
+        <translation>文字列を両端に揃えて配置します。必要に応じて文字列の間隔が調整されます。</translation>
     </message>
     <message id="AlignLeft.title">
         <source>Align Text Left</source>
@@ -69,12 +71,12 @@ You can also center them or distribute them evenly across the page.</source>
     <message id="AlignDistributed.title">
         <source>Distributed</source>
         <extracomment>AlignDistributed.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>均等割り付け</translation>
     </message>
     <message id="AlignDistributed.content">
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
         <extracomment>AlignDistributed.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>段落全体を左右の余白の端に揃えて配置します。必要に応じても文字間隔が調整されます。</translation>
     </message>
     <message id="AlignmentFormatCells.title">
         <source>Format Cells: Alignment</source>
@@ -139,14 +141,14 @@ Before using this feature, first set security on the sheet by using the protect 
     <message id="AutoFilter.title">
         <source>AutoFilter</source>
         <extracomment>AutoFilter.title</extracomment>
-        <translation>自動ファイル</translation>
+        <translation>自動フィルタ</translation>
     </message>
     <message id="AutoFilter.content">
         <source>Enable filtering of the selected cells.
 
 Once filtering is turned on, click the arrow to choose a filter for the column.</source>
         <extracomment>AutoFilter.content</extracomment>
-        <translation>フィルタの設定/解除を切り替えます。フィルタ適用時には、項目行の▼をクリックして、抽出メニューを選択します。</translation>
+        <translation>フィルタの設定/解除を切り替えます。フィルタ適用時には、項目行の▼をクリックすると、抽出メニューを選択します。</translation>
     </message>
     <message id="AutoSum.title">
         <source>AutoSum</source>
@@ -225,7 +227,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Camera.title">
         <source>Camera</source>
         <extracomment>Camera.title</extracomment>
-        <translation>カメラー</translation>
+        <translation>カメラ</translation>
     </message>
     <message id="Camera.content">
         <source>Link cells or cell range to drawing objects. Changes made to data in cells of the worksheet will be automatically shown in drawing objects.</source>
@@ -718,13 +720,13 @@ You can specify which columns should be checked for duplicate information.</sour
     <message id="EditOleDBQuery.title">
         <source>Edit OLE DB query</source>
         <extracomment>EditOleDBQuery.title</extracomment>
-        <translation>OLE DBクエリの編集</translation>
+        <translation type="obsolete">OLE DBクエリの編集</translation>
     </message>
     <message id="EditOleDBQuery.content">
         <source>Select the command type, input a relevant query statement and filter the data imported.</source>
         <oldsource>Select the command type, input a relevent query statement and filter the data imported.</oldsource>
         <extracomment>EditOleDBQuery.content</extracomment>
-        <translation>「OLE DBクエリの編集」ダイアログボックスが表示され、接続、コマンドの種類やコマンドの文字列の設定ができます。</translation>
+        <translation type="obsolete">「OLE DBクエリの編集」ダイアログボックスが表示され、接続、コマンドの種類やコマンドの文字列の設定ができます。</translation>
     </message>
     <message id="EquationEditor.title">
         <source>Insert Equation</source>
@@ -918,12 +920,12 @@ Double-click this button to apply the same formatting to multiple places in the 
     <message id="FreezePanes.title">
         <source>Freeze/Unfreeze Panes</source>
         <extracomment>FreezePanes.title</extracomment>
-        <translation>固定</translation>
+        <translation>ウィンドウ枠の固定（ウィンドウ枠固定の解除）</translation>
     </message>
     <message id="FreezePanes.content">
         <source>Keep a portion of the sheet visible while the rest of the sheet scrolls. (You can cancel the lock to scroll through the whole worksheet).</source>
         <extracomment>FreezePanes.content</extracomment>
-        <translation>選択したセルを常時表示状態にします</translation>
+        <translation>シートの特定の場所を表示したままで、他の部分をスクロールします。 または、行と列の固定を解除して、ワークシート全体をスクロールするようにします。</translation>
     </message>
     <message id="FullScreenMode.title">
         <source>Full Screen</source>
@@ -968,16 +970,16 @@ Double-click this button to apply the same formatting to multiple places in the 
     <message id="Gallery.title">
         <source>WPS Office Gallery</source>
         <extracomment>Gallery.title</extracomment>
-        <translation>Kingsoft Office ギャラリー</translation>
+        <translation>WPS Office ギャラリー</translation>
     </message>
     <message id="Gallery.content">
         <source>WPS Gallery provides all kinds of picture sources for you to use, collect, edit and manage.
 
 WPS Gallery Online Sources require Internet connection.</source>
         <extracomment>Gallery.content</extracomment>
-        <translation>Kingsoft ギャラリーは使用、収集、編集、そして管理するための各種画像を提供しています。
+        <translation>WPS ギャラリーは使用、収集、編集、そして管理するための各種画像を提供しています。
 
-Kingsoft ギャラリー上のオンライン素材を使用するには、インターネット接続が必要です。</translation>
+WPS ギャラリー上のオンライン素材を使用するには、インターネット接続が必要です。</translation>
     </message>
     <message id="Group.title">
         <source>Group</source>
@@ -1087,7 +1089,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="InsertComment.title">
         <source>New Comment</source>
         <extracomment>InsertComment.title</extracomment>
-        <translation>コメントの挿入</translation>
+        <translation>コメントの挿入(Shift+F2)</translation>
     </message>
     <message id="InsertComment.content">
         <source>Add a comment to the worksheet about the selection.</source>
@@ -2102,12 +2104,12 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Scientific.title">
         <source>Scientific Style</source>
         <extracomment>Scientific.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>指数の設定</translation>
     </message>
     <message id="Scientific.content">
         <source>Format as a number in scientific notation, with 2 decimal places.</source>
         <extracomment>Scientific.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>選択されたセルの値に指数を設定します。小数点の桁数は2で表示します。</translation>
     </message>
     <message id="Security.title">
         <source>Macro Security</source>
@@ -2386,7 +2388,8 @@ Click the currently selected text orientation again to reset the text back to no
         <translation>テキストの読み上げ</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
+        <oldsource>Turn the text into speech. You enjoy a 2-day trial of this function.</oldsource>
         <extracomment>TextSpeech.content</extracomment>
         <translation>テキストを音声で読み上げます。この機能は二日間の体験期間があります。</translation>
     </message>
@@ -2715,7 +2718,7 @@ Data Tables allow you to see the results of many different possible inputs at th
     </message>
     <message id="PTRepeatLabels.title">
         <source>Repeat All Item Labels</source>
-        <translation>すべてのアイテムラベルを繰り返す</translation>
+        <translation>アイテムのラベルをすべて繰り返す</translation>
     </message>
     <message id="PTRepeatLabels.content">
         <source>Show all parent item labels.</source>
@@ -2723,7 +2726,7 @@ Data Tables allow you to see the results of many different possible inputs at th
     </message>
     <message id="PTNotRepeatLabels.title">
         <source>Do Not Repeat Item Labels</source>
-        <translation>アイテムラベルを繰り返さない</translation>
+        <translation>アイテムのラベルを繰り返さない</translation>
     </message>
     <message id="PTNotRepeatLabels.content">
         <source>Show only one of the duplicate parent item labels.</source>
@@ -2731,7 +2734,7 @@ Data Tables allow you to see the results of many different possible inputs at th
     </message>
     <message id="ChartColumn.title">
         <source>Insert Column Chart</source>
-        <translation>縦棒グラフを挿入します</translation>
+        <translation>縦棒</translation>
     </message>
     <message id="ChartColumn.content">
         <source>Use this chart type to visually compare values across a few categories.
@@ -2739,11 +2742,11 @@ Data Tables allow you to see the results of many different possible inputs at th
 Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</source>
         <translation>縦棒グラフは、項目の値を比較するのに使用します。
 
-▼をクリックして、その他の縦棒グラフを表示できます。</translation>
+▼をクリックすると、その他の縦棒グラフを表示できます。</translation>
     </message>
     <message id="ChartBar.title">
         <source>Insert Bar Chart</source>
-        <translation>横棒グラフを挿入します。</translation>
+        <translation>横棒</translation>
     </message>
     <message id="ChartBar.content">
         <source>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
@@ -2751,11 +2754,11 @@ Click the arrow to see the different types of column charts available and pause 
 Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</source>
         <translation>横棒グラフは複数の値を比較するのに最適です。
 
-▼をクリックして、その他の横棒グラフを表示できます。</translation>
+▼をクリックすると、その他の横棒グラフを表示できます。</translation>
     </message>
     <message id="ChartLine.title">
         <source>Insert Line Chart</source>
-        <translation>折れ線グラフを挿入します。</translation>
+        <translation>折れ線</translation>
     </message>
     <message id="ChartLine.content">
         <source>Use this chart type to show trends over time (years, months, and days) or categories.
@@ -2767,54 +2770,54 @@ Click the arrow to see the different types of line charts available and pause th
     </message>
     <message id="ChartRadar.title">
         <source>Insert Stock or Radar Chart</source>
-        <translation>株価またはレーダーグラフを挿入します。</translation>
+        <translation>株価、レーダー</translation>
     </message>
     <message id="ChartRadar.content">
         <source>Click the arrow to see the different types of stock or radar charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation>▼をクリックして、その他の株価またはレーダーグラフを表示できます。</translation>
+        <translation>▼をクリックすると、その他の株価またはレーダーグラフを表示できます。</translation>
     </message>
     <message id="ChartArea.title">
         <source>Insert Area Chart</source>
-        <translation>面のグラフを挿入します。</translation>
+        <translation>面のグラフ</translation>
     </message>
     <message id="ChartArea.content">
         <source>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
 
 Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</source>
         <translation>面グラフは複数のデータの時間を経過に伴う変化を示し、データ間の差を強調します。
-▼をクリックして、その他の面のグラフを表示できます。</translation>
+▼をクリックすると、その他の面のグラフを表示できます。</translation>
     </message>
     <message id="ChartCombination.title">
         <source>Insert Combo Chart</source>
-        <translation>複合グラフを挿入します</translation>
+        <translation>複合グラフ</translation>
     </message>
     <message id="ChartCombination.content">
         <source>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
 
 Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</source>
         <translation>複合グラフは異なる種類の情報を表します。グラフで値の範囲の変化幅が広い場合、または、混合タイプのデータがある場合、このグラフを利用するのに最適です。
-▼をクリックして、複合グラフを表示できます。</translation>
+▼をクリックすると、複合グラフを表示できます。</translation>
     </message>
     <message id="ChartPie.title">
         <source>Insert Pie or Doughnut Chart</source>
-        <translation>円または、ドーナツグラフを挿入します。</translation>
+        <translation>円、ドーナツ</translation>
     </message>
     <message id="ChartPie.content">
         <source>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
 
 Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation>Use this chart type to show proportions of a whole</translation>
+        <translation>このグラフは、全体に対する値の関係や比較を表示します</translation>
     </message>
     <message id="ChartScatter.title">
         <source>Insert Scatter (X, Y) or Bubble Chart</source>
-        <translation>散布図(X、Y)または、バブルグラフを挿入します。</translation>
+        <translation>散布図、バブルグラフ</translation>
     </message>
     <message id="ChartScatter.content">
         <source>Use this chart type to show the relationship between sets of values.
 
 Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</source>
         <translation>値の集合の関係を示すのに使用します。
-▼をクリックしてその他の散布図またはパブルグラフを表示できます。</translation>
+▼をクリックすると、その他の散布図またはパブルグラフを表示できます。</translation>
     </message>
     <message id="Accounting.title">
         <source>Accounting</source>
@@ -2830,133 +2833,147 @@ Click the arrow to see the different types of scatter and bubble charts availabl
     </message>
     <message id="CellStyleGallery.content">
         <source>Selecting a predefined style or fast setting cell types. You can also customize styles.</source>
-        <translation>定義済みのスタイルを選択して、セルの書式を簡単に設定します。</translation>
+        <translation>定義済みのスタイルを選択して、セルの書式を速やかに設定します。</translation>
     </message>
     <message id="Table.title">
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブル</translation>
     </message>
     <message id="Table.content">
         <source>Create a table to manage and analyze related data.
 
 Tables make it easy to sort, filter, and format data within a sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>関連データの管理及び分析を行うデータを作成します。
+
+テーブルにすると、シート内のデータの並べ替え、フィルタ、書式設定が簡単に行えます。</translation>
     </message>
     <message id="FormatAsTable.title">
         <source>Format As Table</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブルの書式設定</translation>
     </message>
     <message id="FormatAsTable.content">
         <source>Quickly convert a range of cells to a table with its own style.</source>
-        <translation type="unfinished"></translation>
+        <translation>独自のスタイルで、セル範囲を速やかにテーブルに変換します。</translation>
     </message>
     <message id="TableName.title">
         <source>Table Name</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブル名</translation>
     </message>
     <message id="TableName.content">
         <source>Edit the name of this table used to refer to it in formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>数式で参照するために使用されるこのテーブルの名前を編集します。</translation>
     </message>
     <message id="ResizeTable.title">
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブルのサイズ変更</translation>
     </message>
     <message id="ResizeTable.content">
         <source>Resize this table by adding or removing rows and columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>行や列を追加または削除して、テーブルのサイズを変更します。</translation>
     </message>
     <message id="RemoveDuplicates.title">
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>重複値の削除</translation>
     </message>
     <message id="RemoveDuplicates.content">
         <source>Delete duplicate rows from a sheet.
 
 You can pick which columns should be checked for duplicate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>重複する行をシートから削除します。
+
+重複する情報をチェックする列を指定できます。</translation>
     </message>
     <message id="ConvertToRange.title">
         <source>Convert to Range</source>
-        <translation type="unfinished"></translation>
+        <translation>範囲に変更</translation>
     </message>
     <message id="ConvertToRange.content">
         <source>Convert this table into a normal range of cells.
 
 All of the data is preserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>このテーブルを通常のセルの範囲に変換します。
+
+データはすべて保存されます。</translation>
     </message>
     <message id="TableMenuRefresh.title">
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>更新</translation>
     </message>
     <message id="TableMenuRefresh.content">
         <source>Get the latest data from the source connected to the active cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>データ・ソースから読み込まれている情報をすべて更新します。</translation>
     </message>
     <message id="PublishToSharePoint.title">
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブルテータをSharePointリストに出力</translation>
     </message>
     <message id="PublishToSharePoint.content">
         <source>Export the data in this table to a SharePoint list or Visio diagram.</source>
-        <translation type="unfinished"></translation>
+        <translation>このテーブルテータをSharePointリストまたはVisio図面に出力します。</translation>
     </message>
     <message id="HeaderRow.title">
         <source>Header Row</source>
-        <translation type="unfinished"></translation>
+        <translation>見出し行</translation>
     </message>
     <message id="HeaderRow.content">
         <source>Turn on or off the header row the table.
 
 A header row formats the top row of the table specially.</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブルの見出し行を表示または非表示にします。
+
+見出し行はテーブルの一番上の行です。</translation>
     </message>
     <message id="FirstColumn.title">
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>最初の列</translation>
     </message>
     <message id="FirstColumn.content">
         <source>Display special formatting for the first column of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>最初の列に特別な書式を適用します。</translation>
     </message>
     <message id="TotalRow.title">
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>集計行</translation>
     </message>
     <message id="TotalRow.content">
         <source>Trun on or off the total row of the table.
 
 The total row is a row at the end of the table which displays totals for each column.</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブルの集計行を表示または非表示にします。
+
+集計行はテーブルの一番の行で各列の集計が表示されます。</translation>
     </message>
     <message id="LastColumn.title">
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>最後の列</translation>
     </message>
     <message id="LastColumn.content">
         <source>Display special formatting for the last column of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>最後の列に特別な書式を適用します。</translation>
     </message>
     <message id="BandedRows.title">
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>縞模様(行)</translation>
     </message>
     <message id="BandedRows.content">
         <source>Display banded rows, in which even rows are formatted differently from odd rows.
 
 This banding can make tables easier to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>偶数の行と奇数の行を異なる書式にして、縞模様で表示します。
+
+これにより、見やすいレイアウトになります。</translation>
     </message>
     <message id="BandedColumns.title">
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>縞模様(列)</translation>
     </message>
     <message id="BandedColumns.content">
         <source>Display banded columns, in which even columns are formatted differently from odd columns.
 
 This banding can make tables easier to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>偶数の列と奇数の列を異なる書式にして、縞模様で表示します。
+
+これにより、見やすいレイアウトになります。</translation>
     </message>
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
@@ -2978,6 +2995,558 @@ This banding can make tables easier to read.</source>
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
         <translation type="obsolete">「オブジェクトの書式」のダイアログボックスが表示されます</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>類義語ライブラリ</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>類義語ライブラリを開きます。</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>ドキュメントの修正</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>ドキュメントの文字化けや、ファイルが開けないなどの問題を素早く解決します。</translation>
+    </message>
+    <message id="PTRefreshAllData.title">
+        <source>Refresh All</source>
+        <extracomment>PTRefreshAllData.title</extracomment>
+        <translation>すべて更新</translation>
+    </message>
+    <message id="PTRefreshAllData.content">
+        <source>Get the latest data by refreshing all sources in the workbook.</source>
+        <extracomment>PTRefreshAllData.content</extracomment>
+        <translation>ブック中のすべてのソースを更新することで、最新のデータを取得します。</translation>
+    </message>
+    <message id="CmpSideBySide.title">
+        <source>View Side by Side.</source>
+        <oldsource>View Side by Side</oldsource>
+        <translation>並べて比較</translation>
+    </message>
+    <message id="CmpSideBySide.content">
+        <source>View two documents side-by-side to compare their contents.</source>
+        <translation>二つの文書が並べて表示され、内容を比較することができます。</translation>
+    </message>
+    <message id="LockSideBySide.title">
+        <source>Synchronous Scrolling.</source>
+        <oldsource>Synchronous Scrolling</oldsource>
+        <translation>同時スクロール</translation>
+    </message>
+    <message id="LockSideBySide.content">
+        <source>Synchronize the scrolling of two documents so that they scroll together. To enable this feature, turn on View Side by Side.</source>
+        <oldsource>Synchronize the scrolling of two documents so that they scroll together.
+
+To enable this feature, turn on View Side by Side.</oldsource>
+        <translation>2つの文書を一緒にスクロールします。
+
+この機能を有効にするには「並べて比較｣をオンにしてください。</translation>
+    </message>
+    <message id="VerbSideBySide.title">
+        <source>Reset Window Position.</source>
+        <oldsource>Reset Window Position</oldsource>
+        <translation>ウィンドウの位置を元に戻す</translation>
+    </message>
+    <message id="VerbSideBySide.content">
+        <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally. To enable this feature, turn on View Side by Side.</source>
+        <oldsource>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
+
+To enable this feature, turn on View Side by Side.</oldsource>
+        <translation>並べて比較していた文書の位置がずれてしまった際、クリックすると元の並びに戻ります。
+
+この機能を有効にするには、「並べて比較」をオンにして下さい。</translation>
+    </message>
+    <message id="NumberFormatGallery.title">
+        <source>Number Format.</source>
+        <oldsource>Number Format</oldsource>
+        <translation>数値書式</translation>
+    </message>
+    <message id="NumberFormatGallery.content">
+        <source>Select the number format of cells, such as Percentage, Currency, date or time..</source>
+        <oldsource>Select the number format of cells, such as Percentage, Currency, date or time.</oldsource>
+        <translation>パーセンテージ、通貨、日付と時刻などの数字書式を選択してください。</translation>
+    </message>
+    <message id="DocumentSlimming.title">
+        <source>File Slimming</source>
+        <translation>ファイルスリミング</translation>
+    </message>
+    <message id="DocumentSlimming.content">
+        <source>&quot;file slimming&quot; feature can help you reduce the file size.</source>
+        <translation>ファイルスリミングを使って、ファイルのサイズを小さくすることができます。</translation>
+    </message>
+    <message id="ConditionalFormatting.title">
+        <source>Conditional Formatting</source>
+        <translation>条件付き書式</translation>
+    </message>
+    <message id="ConditionalFormatting.content">
+        <source>Easily spot trends and patterns in your data using bars, colors, and icons to visually highlight important values.</source>
+        <translation>条件に基づき、データバー、カラースケール、アイコンセットを使用して、重要なセルや例外的な値を強調したり、データを視覚的に表します。</translation>
+    </message>
+    <message id="ResetCommentAnchor.title">
+        <source>Reset current comment.</source>
+        <translation>このコメントのリセット</translation>
+    </message>
+    <message id="ResetCommentAnchor.content">
+        <source>Reset current comment&apos;s anchor and size.</source>
+        <translation>このコメントの位置とサイズをリセットします。</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.title">
+        <source>Reset all comments of current sheet.</source>
+        <translation>すべてのコメントのリセット</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.content">
+        <source>Reset all comments&apos;s anchor and size of current sheet.</source>
+        <translation>このシート内のすべてのコメントの位置とサイズをリセットします。</translation>
+    </message>
+    <message id="PreviousComment.title">
+        <source>Previous.</source>
+        <translation>前へ</translation>
+    </message>
+    <message id="PreviousComment.content">
+        <source>Select the previous comment in the sheet.</source>
+        <translation>シート内の前のコメントを選択します。</translation>
+    </message>
+    <message id="NextComment.title">
+        <source>Next.</source>
+        <translation>次へ</translation>
+    </message>
+    <message id="NextComment.content">
+        <source>Navigate to the next comment in the document.</source>
+        <translation>文書内の次のコメントに移動します。</translation>
+    </message>
+    <message id="ShowOrHideComment.title">
+        <source>Show/Hide Comment.</source>
+        <translation>コメントの表示/非表示</translation>
+    </message>
+    <message id="ShowOrHideComment.content">
+        <source>Show or hide the comment attached to the selected cell.</source>
+        <translation>選択したセルに付けられているコメントを表示または非表示にします。</translation>
+    </message>
+    <message id="ShowAllComments.title">
+        <source>Show All Comments.</source>
+        <translation>すべてのコメントの表示</translation>
+    </message>
+    <message id="ShowAllComments.content">
+        <source>Display all comments in the sheet.</source>
+        <translation>シート内のすべてのコメントを表示します。</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>図のサイズを調整する時、縦横比を固定します。</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>この図に行ったサイズ変更をすべて取り消します。</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>縦横比の固定</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>サイズのリセット</translation>
+    </message>
+    <message id="ShowPrecedents.title">
+        <source>Trace Precedents.</source>
+        <translation>参照元のトレース</translation>
+    </message>
+    <message id="ShowPrecedents.content">
+        <source>Show arrows that indicate which cells affect the value of the currently selected cell.</source>
+        <translation>現在選択中のセルの値に影響を与えるセルを示す矢印を表示します。</translation>
+    </message>
+    <message id="ShowDependents.title">
+        <source>Trace Dependents.</source>
+        <translation>参照先のトレース</translation>
+    </message>
+    <message id="ShowDependents.content">
+        <source>Show arrows that indicate which cells are affected by the value of the currently selected cell.</source>
+        <translation>現在選択中のセルの値から影響を受けるセルを示す矢印を表示します。</translation>
+    </message>
+    <message id="ClearArrows.title">
+        <source>Clear All Arrows</source>
+        <translation>すべてのトレース矢印を削除</translation>
+    </message>
+    <message id="ClearArrows.content">
+        <source>Remove the arrows drawn by Trace Precedents or Dependents.</source>
+        <translation>「参照元のトレース」または「参照先のトレース」で表示された矢印を削除します。</translation>
+    </message>
+    <message id="InsertDropDownList.title">
+        <source>Insert Dropdown List</source>
+        <translation>ドロップダウンリストの挿入</translation>
+    </message>
+    <message id="InsertDropDownList.content">
+        <source>Create a dropdown list and customize choices drop down.</source>
+        <translation>ドロップダウンリストを作成し、項目のユーザー設定をします。</translation>
+    </message>
+    <message id="InsertPictureFromFile2.title">
+        <source>Insert Picture</source>
+        <extracomment>InsertPictureFromFile2.title</extracomment>
+        <translation>図の挿入</translation>
+    </message>
+    <message id="InsertPictureFromFile2.content">
+        <source>Click here to insert a picture in local folder or from a scanner.</source>
+        <extracomment>InsertPictureFromFile2.content</extracomment>
+        <translation>ローカルの画像を挿入します。</translation>
+    </message>
+    <message id="Slicer.title">
+        <source>Slicer</source>
+        <translation>スライサー</translation>
+    </message>
+    <message id="Slicer.content">
+        <source>Use a Slicer to filter data visually.
+
+Slicers make it faster and easier to filter PivotTables.</source>
+        <translation>スライサーを使って、データのフィルタ処理を視覚的に実行します。スライサーを使うと、テーブルやピボットテーブルのフィルタ処理が速くなり、簡単になります。</translation>
+    </message>
+    <message id="InsertSlicer.title">
+        <source>Insert Slicer</source>
+        <translation>スライサーの挿入</translation>
+    </message>
+    <message id="InsertSlicer.content">
+        <source>Use a Slicer to filter data visually.
+
+Slicers make it faster and easier to filter PivotTables.</source>
+        <translation>スライサーを使って、データのフィルタ処理を視覚的に実行します。スライサーを使うと、テーブルやピボットテーブルのフィルタ処理が速くなり、簡単になります。</translation>
+    </message>
+    <message id="PTFilterConnections.title">
+        <source>Filter Connections</source>
+        <translation>フィルタの接続</translation>
+    </message>
+    <message id="PTFilterConnections.content">
+        <source>Manage which filters the PivotTable is connected to.</source>
+        <translation>ピボットテーブルと関連付けるフィルタを管理します。</translation>
+    </message>
+    <message id="SlicerCaption.title">
+        <source>Slicer Caption</source>
+        <translation>スライサーのタイトル</translation>
+    </message>
+    <message id="SlicerCaption.content">
+        <source>Change the caption that is displayed in the header of the slicer.</source>
+        <translation>スライサーのヘッダーに表示されるタイトルを変更します。</translation>
+    </message>
+    <message id="SlicerReportConnection.title">
+        <source>Report Connections</source>
+        <translation>レポートの接続</translation>
+    </message>
+    <message id="SlicerReportConnection.content">
+        <source>Manage which PivotTables the slicer is connected to.</source>
+        <translation>スライサーと関連付けるピボットテーブルを管理します。</translation>
+    </message>
+    <message id="SlicerSetting.title">
+        <source>Slicer Settings</source>
+        <translation>スライサーの設定</translation>
+    </message>
+    <message id="SlicerSetting.content">
+        <source>Change the display settings of the slicer.</source>
+        <translation>スライサーの表示設定を変更します。</translation>
+    </message>
+    <message id="SlicerColumn.title">
+        <source>Columns</source>
+        <translation>列</translation>
+    </message>
+    <message id="SlicerColumn.content">
+        <source>Change the number of columns in the slicer.</source>
+        <translation>スライサーの列数を変更します。</translation>
+    </message>
+    <message id="SlicerItemHeight.title">
+        <source>Button Height</source>
+        <translation>ボタンの高さ</translation>
+    </message>
+    <message id="SlicerItemHeight.content">
+        <source>Change the height of the slicer buttons.</source>
+        <translation>スライサーのボタンの高さを変更します。</translation>
+    </message>
+    <message id="SlicerItemWidth.title">
+        <source>Button Width</source>
+        <translation>ボタンの幅</translation>
+    </message>
+    <message id="SlicerItemWidth.content">
+        <source>Change the width of the slicer buttons.</source>
+        <translation>スライサーのボタンの幅を変更します。</translation>
+    </message>
+    <message id="SheetBackground.title">
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
+    <message id="SheetBackground.content">
+        <source>Choose a picture for your background, and add some personality to your worksheet.</source>
+        <translation>背景に表示する画像を選択し、ワークシートに個性を与えます。</translation>
+    </message>
+    <message id="PivotChart.title">
+        <source>PivotChart</source>
+        <translation>ピポットグラフ</translation>
+    </message>
+    <message id="PivotChart.content">
+        <source>Use PivotCharts to graphically summarize data and explore complicated data.</source>
+        <translation>ピポットグラフを使用して、グラフィカルにデータを表示し、複雑なデータを分析します。</translation>
+    </message>
+    <message id="ExportWeiboImageCmd.title">
+        <source>Export as Image</source>
+        <extracomment>ExportWeiboImageCmd.title</extracomment>
+        <translation>画像として出力</translation>
+    </message>
+    <message id="ExportWeiboImageCmd.content">
+        <source>Export the document to an image</source>
+        <extracomment>ExportWeiboImageCmd.content</extracomment>
+        <translation>ファイルを一枚の画像として出力します。</translation>
+    </message>
+    <message id="ShowFormulas.title">
+        <source>Show Formulas</source>
+        <extracomment>ShowFormulas.title</extracomment>
+        <translation>数式の表示</translation>
+    </message>
+    <message id="ShowFormulas.content">
+        <source>Display the formula in each cell instead of the resulting value.</source>
+        <extracomment>ShowFormulas.content</extracomment>
+        <translation>計算結果の値ではなく、数式を各セルに表示します。</translation>
+    </message>
+    <message id="AutoFilterFavorite.title">
+        <source>Filter Condition Favorites</source>
+        <extracomment>AutoFilterFavorite.title</extracomment>
+        <translation>フィルタ条件のお気に入り</translation>
+    </message>
+    <message id="AutoFilterFavorite.content">
+        <source>Filter the table in one step by clicking the condition in Favorites. No more trouble with condition settings.</source>
+        <extracomment>AutoFilterFavorite.content</extracomment>
+        <translation>お気に入り内の条件をクリックすると、フィルタが実行されます。</translation>
+    </message>
+    <message id="AddFavorite.title">
+        <source>Add Filter Conditions to Favorites</source>
+        <extracomment>AddFavorite.title</extracomment>
+        <translation>フィルタ条件をお気に入りに追加</translation>
+    </message>
+    <message id="AddFavorite.content">
+        <source>Add the current filter conditions to Favorites so you can use them directly next time.</source>
+        <extracomment>AddFavorite.content</extracomment>
+        <translation>現在のフィルタ条件をお気に入りに保存すると、次回以降も適用できます。</translation>
+    </message>
+    <message id="SplitSheet.title">
+        <source>Split Table</source>
+        <extracomment>SplitSheet.title</extracomment>
+        <translation>表の分割</translation>
+    </message>
+    <message id="SplitSheet.content">
+        <source>Split the current table into several files or sheets according to its content.</source>
+        <extracomment>SplitSheet.content</extracomment>
+        <translation>内容によって、現在のシートを複数のファイルまたはシートに分割します。</translation>
+    </message>
+    <message id="PivotTableAnalysis.title">
+        <source>Statistical Analysis</source>
+        <extracomment>PivotTableAnalysis.title</extracomment>
+        <translation>統計分析</translation>
+    </message>
+    <message id="PivotTableAnalysis.content">
+        <source>Classify and sum up data easily.</source>
+        <extracomment>PivotTableAnalysis.content</extracomment>
+        <translation>簡単にデータの分類と集計を実現できます。</translation>
+    </message>
+    <message id="PivotChartAnalysis.title">
+        <source>Statistical Chart</source>
+        <extracomment>PivotChartAnalysis.title</extracomment>
+        <translation>統計グラフ</translation>
+    </message>
+    <message id="PivotChartAnalysis.content">
+        <source>Classify and sum up data, and create charts with the results.</source>
+        <extracomment>PivotChartAnalysis.content</extracomment>
+        <translation>簡単にデータの分類、集計をおこない、グラフを作成します。</translation>
+    </message>
+    <message id="AutoFilterAnalysis.title">
+        <source>Monitor Pane</source>
+        <extracomment>AutoFilterAnalysis.title</extracomment>
+        <translation>モニターウィンドウ</translation>
+    </message>
+    <message id="AutoFilterAnalysis.content">
+        <source>Observe changes of summarized data in time when there are different filter conditions.</source>
+        <extracomment>AutoFilterAnalysis.content</extracomment>
+        <translation>異なるフィルタ条件を設定する時、リアルタイムで集計データの変換を確認できます。</translation>
+    </message>
+    <message id="LockTitleRows.title">
+        <source>Freeze Title Row</source>
+        <extracomment>LockTitleRows.title</extracomment>
+        <translation>タイトル行の固定</translation>
+    </message>
+    <message id="LockTitleRows.content">
+        <source>Make the title row always show for constant reference when reading large amounts of data.</source>
+        <extracomment>LockTitleRows.content</extracomment>
+        <translation>常にフィルタタイトル行を表示し、大量データを閲覧する時もタイトル行を表示することができます。</translation>
+    </message>
+    <message id="ExportFilterResult.title">
+        <source>Export Filter Results</source>
+        <extracomment>ExportFilterResult.title</extracomment>
+        <translation>フィルタ結果の出力</translation>
+    </message>
+    <message id="ExportFilterResult.content">
+        <source>Save the filter results as a new file or a new sheet.</source>
+        <extracomment>ExportFilterResult.content</extracomment>
+        <translation>フィルタ結果を新しいファイルまたは新しいシートに保存します。</translation>
+    </message>
+    <message id="HighlightDisplay.title">
+        <source>Highlight</source>
+        <extracomment>HighlightDisplay.title</extracomment>
+        <translation>蛍光ペン</translation>
+    </message>
+    <message id="HighlightDisplay.content">
+        <source>Highlight similar records to compare them more easily.</source>
+        <extracomment>HighlightDisplay.content</extracomment>
+        <translation>類似記録を蛍光ペンで表示します。</translation>
+    </message>
+    <message id="Printer.title">
+        <source>Printer</source>
+        <extracomment>Printer.title</extracomment>
+        <translation>プリンタ</translation>
+    </message>
+    <message id="Printer.content">
+        <source>Choose a printer to execute print.</source>
+        <extracomment>Printer.content</extracomment>
+        <translation>使用するプリンタを選択します。</translation>
+    </message>
+    <message id="PrinterPaperSize.title">
+        <source>PrinterPaperSize</source>
+        <extracomment>PrinterPaperSize.title</extracomment>
+        <translation>用紙サイズ</translation>
+    </message>
+    <message id="PrinterPaperSize.content">
+        <source>Specify which size of paper to print, for example A3, A4, etc.</source>
+        <extracomment>PrinterPaperSize.content</extracomment>
+        <translation>シートの用紙サイズを指定します。例えば、A4やA3などです。</translation>
+    </message>
+    <message id="PrinterCopies.title">
+        <source>PrinterCopies</source>
+        <extracomment>PrinterCopies.title</extracomment>
+        <translation>部数</translation>
+    </message>
+    <message id="PrinterCopies.content">
+        <source>Specify the number of copies to print.</source>
+        <extracomment>PrinterCopies.content</extracomment>
+        <translation>印刷部数を指定します。</translation>
+    </message>
+    <message id="PrinterCollate.title">
+        <source>PrinterCollate</source>
+        <extracomment>PrinterCollate.title</extracomment>
+        <translation>順序</translation>
+    </message>
+    <message id="PrinterCollate.content">
+        <source>Specify whether the printed document is collated.</source>
+        <extracomment>PrinterCollate.content</extracomment>
+        <translation>印刷順序を部単位（例:123123）またはページ単位（例:112233）で指定します。</translation>
+    </message>
+    <message id="PrinterSide.title">
+        <source>PrinterSide</source>
+        <extracomment>PrinterSide.title</extracomment>
+        <translation>方式</translation>
+    </message>
+    <message id="PrinterSide.content">
+        <source>Specify whether the way is duplex.</source>
+        <extracomment>PrinterSide.content</extracomment>
+        <translation>印刷の方式を片面印刷または両面印刷と指定します。</translation>
+    </message>
+    <message id="PrinterMoreSetup.title">
+        <source>PrinterMoreSetup</source>
+        <extracomment>PrinterMoreSetup.title</extracomment>
+        <translation>その他</translation>
+    </message>
+    <message id="PrinterMoreSetup.content">
+        <source>Open the print dialog to setup more detailedly, including choose the printer, number of copies, duplex mode, etc.</source>
+        <extracomment>PrinterMoreSetup.content</extracomment>
+        <translation>詳しい印刷のオプションを設定します。(例：プリンタの選択、印刷部数、両面印刷など）</translation>
+    </message>
+    <message id="EditConnectionProperties.title">
+        <source>Edit Connection Properties</source>
+        <extracomment>EditConnectionProperties.title</extracomment>
+        <translation>接続プロパティの編集</translation>
+    </message>
+    <message id="EditConnectionProperties.content">
+        <source>Select the command type, input a relevant query statement and filter the data imported.</source>
+        <extracomment>EditConnectionProperties.content</extracomment>
+        <translation>「OLE DBクエリの編集」ダイアログボックスが表示され、接続、コマンドの種類やコマンドの文字列の設定ができます。</translation>
+    </message>
+    <message id="HideWindow.title">
+        <source>Hide Window</source>
+        <translation>ウィンドウを表示しない</translation>
+    </message>
+    <message id="HideWindow.content">
+        <source>Hide the current window.
+
+To bring the window back, click the Unhide button.</source>
+        <translation>作業中のウィンドウが表示されなくなります。
+
+ウィンドウを再表示するには、[再表示] をクリックします。</translation>
+    </message>
+    <message id="UnhideWindow.title">
+        <source>Unhide Window</source>
+        <translation>ウィンドウの再表示</translation>
+    </message>
+    <message id="UnhideWindow.content">
+        <source>Unhide any windows hidden by the Hide Window feature.</source>
+        <translation>[表示しない] で非表示にしたウィンドウを再表示します。</translation>
+    </message>
+    <message id="Connections.title">
+        <source>Connections</source>
+        <extracomment>Connections.title</extracomment>
+        <translation>接続</translation>
+    </message>
+    <message id="Connections.content">
+        <source>Display all data connections for the workbook.
+
+Data Connections are links to data outside of this workbook which can be updated if the source data changes.</source>
+        <extracomment>Connections.content</extracomment>
+        <translation>ブック内のすべてのデータ接続を表示します。
+
+データ接続は外部のデータへの接続で、ソースデータが変更されると、接続が更新できます。</translation>
+    </message>
+    <message id="ExistingConnections.title">
+        <source>Get Data Using an Existing Connection</source>
+        <extracomment>ExistingConnections.title</extracomment>
+        <translation>既存の接続を使用して外部データを取り込み</translation>
+    </message>
+    <message id="ExistingConnections.content">
+        <source>Import data from common sources.</source>
+        <extracomment>ExistingConnections.content</extracomment>
+        <translation>常用ソースからデータをインポートします。</translation>
+    </message>
+    <message id="OnlineCooperation.title">
+        <source>Online Cooperation</source>
+        <extracomment>OnlineCooperation.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.content">
+        <source>Open the document with Web Office for multiple user collaborative editing.</source>
+        <oldsource>Open the document with WebOffice for multiple user collaborative editing.</oldsource>
+        <extracomment>OnlineCooperation.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CustomViews.title">
+        <source>Custom Views</source>
+        <extracomment>CustomViews.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CustomViews.content">
+        <source>Save your current display and print settings as a custom view that you can quickly apply in the future.</source>
+        <extracomment>CustomViews.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EnableMacro.title">
+        <source>Enable Macro Instructions</source>
+        <extracomment>EnableMacro.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EnableMacro.content">
+        <source>To enable macro functions, you need to install VAB support library. Click to know details.</source>
+        <extracomment>EnableMacro.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

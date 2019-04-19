@@ -443,12 +443,12 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSOpenCloudFileTip.content">
         <source>Modifications of documents in Cloud Docs will be directly saved.</source>
         <extracomment>KOSOpenCloudFileTip.content</extracomment>
-        <translation>打开云文档圈子中的文档，修改后可直接保存回圈子中。</translation>
+        <translation>打开云文档我的团队中的文档，修改后可直接保存回我的团队中。</translation>
     </message>
     <message id="KOSRoamingfileTip.title">
         <source>File Roaming</source>
         <extracomment>KOSRoamingfileTip.title</extracomment>
-        <translation>文档漫游</translation>
+        <translation>最近打开</translation>
     </message>
     <message id="KOSRoamingfileTip.content">
         <source>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</source>
@@ -463,7 +463,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="KOSSaveFileTocloudTip.content">
         <source>Share with others for discussing, editing, and previewing documents online.</source>
         <extracomment>KOSSaveFileTocloudTip.content</extracomment>
-        <translation>实现圈子内多人讨论、编辑，在线预览文档。</translation>
+        <translation>实现团队内多人讨论、编辑，在线预览文档。</translation>
     </message>
     <message id="KOSUserLoginCloudTextBtnTip.title">
         <source></source>
@@ -917,12 +917,12 @@ Click the arrow to select detailed settings for the outline.</source>
         <translation>截取屏幕图片，快速粘贴到WPS应用中。</translation>
     </message>
     <message id="ExportToPDF.title">
-        <source></source>
+        <source>Export to PDF</source>
         <extracomment>ExportToPDF.title</extracomment>
         <translation>输出为PDF</translation>
     </message>
     <message id="ExportToPDF.content">
-        <source></source>
+        <source>Export the document to a PDF file.</source>
         <extracomment>ExportToPDF.content</extracomment>
         <translation>将文档输出为PDF文档。</translation>
     </message>
@@ -934,7 +934,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="DocerURLEntranceTip.content">
         <source>Provide you the most professional online templates.</source>
         <extracomment>DocerURLEntranceTip.content</extracomment>
-        <translation>为您提供最专业优质的在线模板素材站</translation>
+        <translation>为您提供最专业优质的在线模板素材</translation>
     </message>
     <message id="Protect_Eyes.title">
         <source>Eye Protection Mode</source>
@@ -1227,7 +1227,7 @@ Data being charted on the X axis will move to the Y axis and vice versa.</source
     <message id="ChooseDataSource.content">
         <source>Change the data range included in the chart.</source>
         <extracomment>ChooseDataSource.content</extracomment>
-        <translation>更改为其他类型的图表。</translation>
+        <translation>更改图表中包含的数据区域。</translation>
     </message>
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
@@ -1295,11 +1295,407 @@ The ensures that selected chart element matches the overall theme of the documen
     </message>
     <message id="TouchUiMode.title">
         <source>Touch Mode</source>
-        <translation type="obsolete">触摸模式</translation>
+        <translation>触摸模式</translation>
     </message>
     <message id="TouchUiMode.content">
         <source>More space between commands. Optimized for use with touch.</source>
-        <translation type="obsolete">命令之间更大间距。针对触摸使用进行优化</translation>
+        <translation>命令之间更大间距。针对触摸使用进行优化。</translation>
+    </message>
+    <message id="AddPicFrame.title">
+        <source>Add picture frames</source>
+        <extracomment>AddPicFrame.title</extracomment>
+        <translation>图片边框</translation>
+    </message>
+    <message id="AddPicFrame.content">
+        <source>Choose a different border styles to meet the needs of individual pictures.</source>
+        <extracomment>AddPicFrame.content</extracomment>
+        <translation>选择不同的边框样式，满足图片个性化需要。</translation>
+    </message>
+    <message id="ImagePreview.title">
+        <source>Picture Preview</source>
+        <extracomment>ImagePreview.title</extracomment>
+        <translation>图片预览</translation>
+    </message>
+    <message id="ImagePreview.content">
+        <source>View the selected picture in its original size or in window size.</source>
+        <extracomment>ImagePreview.content</extracomment>
+        <translation>可按 “原始比例” 或 “窗口大小” 来查看选中的图片。</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TextTools.title</extracomment>
+        <translation>详细设置</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_TextTools.content</extracomment>
+        <translation>更改文本格式的设置。</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools.title</extracomment>
+        <translation>详细设置</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools.content</extracomment>
+        <translation>更改图片格式的设置。</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.title">
+        <source>Docer</source>
+        <extracomment>DocerHomeEntranceTip.title</extracomment>
+        <translation>Docer稻壳儿</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.content">
+        <source>A platform for sharing various Office document resources.</source>
+        <extracomment>DocerHomeEntranceTip.content</extracomment>
+        <translation>海量丰富的Office文档资源分享平台</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.title">
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>在线模板</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.content">
+        <source>Provide you the most professional online templates.</source>
+        <extracomment>IntranetVersion DocerURLEntranceTip.title</extracomment>
+        <translation>为您提供最专业优质的在线模板素材</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.title">
+        <source>File Roaming</source>
+        <extracomment>KOSRoamingfileTip_pro.title</extracomment>
+        <translation>文档漫游</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.content">
+        <source>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</source>
+        <extracomment>KOSRoamingfileTip_pro.content</extracomment>
+        <translation>打开的文档自动漫游至云端，任何设备上，随时随地开始办公。</translation>
+    </message>
+    <message id="KOSHomepageTip.title">
+        <source>My WPS</source>
+        <extracomment>KOSHomepageTip.title</extracomment>
+        <translation>我的WPS</translation>
+    </message>
+    <message id="KOSHomepageTip.content">
+        <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
+        <extracomment>KOSHomepageTip.content</extracomment>
+        <translation>找模板、查文档、找应用、享特权，这是您的办公起始页。</translation>
+    </message>
+    <message id="Auto_Backup.title">
+        <source>Backup Setting</source>
+        <extracomment>Auto_Backup.title</extracomment>
+        <translation>备份设置</translation>
+    </message>
+    <message id="Auto_Backup.content">
+        <source>Setting backup interval and path</source>
+        <oldsource>Setting bakcup interval and path</oldsource>
+        <extracomment>Auto_Backup.content</extracomment>
+        <translation>可设置备份的方式和备份时间间隔，以及备份文件存放位置</translation>
+    </message>
+    <message id="XiuTangH5Tip.title">
+        <source>XiuTang H5</source>
+        <oldsource>XiuTang</oldsource>
+        <translation>秀堂H5</translation>
+    </message>
+    <message id="XiuTangH5Tip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>XiuTangH5Tip.content</extracomment>
+        <translation>免费生成精美H5，一键分享到朋友圈。</translation>
+    </message>
+    <message id="CloudformTip.title">
+        <source>Cloudform</source>
+        <oldsource>Cloudform</oldsource>
+        <translation type="obsolete">WPS 云表单</translation>
+    </message>
+    <message id="CloudformTip.content">
+        <source>Enjoy Cloudform.</source>
+        <extracomment>CloudformTip.content</extracomment>
+        <translation type="obsolete">制做可以分享给他人的云表单。</translation>
+    </message>
+    <message id="XieDeTip.title">
+        <source>XieDe</source>
+        <translation>写得（d.wps.cn）</translation>
+    </message>
+    <message id="XieDeTip.content">
+        <source>Create online documents to share to QQ or WeChat, in which you can add ready controls including audio, video, rating, time axis, map, mind map, etc.</source>
+        <extracomment>XieDeTip.content</extracomment>
+        <translation>写得（d.wps.cn）
+一款强大易用的编辑器
+
+一键添加音视频、投票报名、时间轴、地图等控件轻松分享至QQ、微信、微博。</translation>
+    </message>
+    <message id="DocPermission.title">
+        <source>Document Permission</source>
+        <extracomment>DocPermission.title</extracomment>
+        <translation>文档加密</translation>
+    </message>
+    <message id="DocPermission.content">
+        <source>After setting permissions, only authorized users can open this document.</source>
+        <oldsource>Encrypt document through setting account, password, to improve its security.</oldsource>
+        <extracomment>DocPermission.content</extracomment>
+        <translation>通过设置账号、密码对文档进行加密，确保文档的安全性。</translation>
+    </message>
+    <message id="WordArtQuickBarExpand.content">
+        <source>Expand the word art quick bar.</source>
+        <extracomment>WordArtQuickBarExpand.content
+----------
+WordArtQuickBarExpand.content</extracomment>
+        <translation>展开艺术字工具栏</translation>
+    </message>
+    <message id="WordArtQuickBarCollapse.content">
+        <source>Collapse the word art quick bar.</source>
+        <extracomment>WordArtQuickBarCollapse.content
+----------
+WordArtQuickBarCollapse.content</extracomment>
+        <translation>收起艺术字工具栏</translation>
+    </message>
+    <message id="WordArtGalleryQuickBar.title">
+        <source>Word art library.</source>
+        <extracomment>WordArtGalleryQuickBar.title
+----------
+WordArtGalleryQuickBar.title</extracomment>
+        <translation>艺术字库</translation>
+    </message>
+    <message id="WordArtGalleryQuickBar.content">
+        <source>Select your favorite word art style.</source>
+        <extracomment>WordArtGalleryQuickBar.content
+----------
+WordArtGalleryQuickBar.content</extracomment>
+        <translation>选择您喜欢的艺术字样式</translation>
+    </message>
+    <message id="TransformQuickBar.title">
+        <source>Transform</source>
+        <extracomment>TransformQuickBar.title
+----------
+TransformQuickBar.title</extracomment>
+        <translation>转换</translation>
+    </message>
+    <message id="TransformQuickBar.content">
+        <source>The tansform style of word art.</source>
+        <extracomment>TransformQuickBar.content
+----------
+TransformQuickBar.content</extracomment>
+        <translation>提供变形的艺术字样式</translation>
+    </message>
+    <message id="InsertMap.title">
+        <source>Insert map</source>
+        <extracomment>InsertMap.title</extracomment>
+        <translation>地图</translation>
+    </message>
+    <message id="InsertMap.content">
+        <source>Insert an online map</source>
+        <extracomment>InsertMap.content</extracomment>
+        <translation>插入在线地图。</translation>
+    </message>
+    <message id="InsertQRCode.title">
+        <source>Insert QRCode</source>
+        <extracomment>InsertQRCode.title
+----------
+InsertQRCode.title</extracomment>
+        <translation>二维码</translation>
+    </message>
+    <message id="InsertQRCode.content">
+        <source>Insert a QRCode</source>
+        <extracomment>InsertQRCode.content
+----------
+InsertQRCode.content</extracomment>
+        <translation>插入二维码。</translation>
+    </message>
+    <message id="TriggerExtendObject.title">
+        <source>Edit extend object content</source>
+        <extracomment>TriggerExtendObject.title</extracomment>
+        <translation>编辑扩展对象</translation>
+    </message>
+    <message id="TriggerExtendObject.content">
+        <source>Open an extend object editor dialog</source>
+        <extracomment>InsertQRCode.content</extracomment>
+        <translation>打开扩展对象编辑对话框并进行编辑。</translation>
+    </message>
+    <message id="ExpandQuickBar.content">
+        <source>Expand the quick bar.</source>
+        <extracomment>ExpandQuickBar.content</extracomment>
+        <translation>展开快速工具栏</translation>
+    </message>
+    <message id="CollapseQuickBar.content">
+        <source>Collapse the quick bar.</source>
+        <extracomment>CollapseQuickBar.content</extracomment>
+        <translation>收起快速工具栏</translation>
+    </message>
+    <message id="OnlineChart.title">
+        <source>Online Chart</source>
+        <extracomment>OnlineChart.title</extracomment>
+        <translation>在线图表</translation>
+    </message>
+    <message id="OnlineChart.content">
+        <source>Including richer chart styles,this function requires to be connected to the net.</source>
+        <extracomment>OnlineChart.content</extracomment>
+        <translation>更丰富的图表样式，需联网使用。</translation>
+    </message>
+    <message id="CloudFormTip.title">
+        <source>XiuTang H5</source>
+        <translation>秀堂H5</translation>
+    </message>
+    <message id="CloudFormTip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>CloudFormTip.content</extracomment>
+        <translation>免费生成精美H5，一键分享到朋友圈。</translation>
+    </message>
+    <message id="HardwareEncryption.title">
+        <source>Hardware Encryption</source>
+        <extracomment>HardwareEncryption.title</extracomment>
+        <translation>硬件加密</translation>
+    </message>
+    <message id="HardwareEncryption.content">
+        <source>Encrypt document with a USB Key to further ensure its security.</source>
+        <extracomment>HardwareEncryption.content</extracomment>
+        <translation>插入硬件USB-KEY对文档进行加密，确保文档的安全性。</translation>
+    </message>
+    <message id="OnlineDiagramMoreTip.title">
+        <source>Insert Online Diagram</source>
+        <translation>插入关系图</translation>
+    </message>
+    <message id="OnlineDiagramMoreTip.content">
+        <source>Diagram can make the text structure more clearly</source>
+        <extracomment>OnlineDiagramMoreTip.content</extracomment>
+        <translation>关系图可以让文字结构关系更加清晰。</translation>
+    </message>
+    <message id="TextToDiagram.title">
+        <source>Show text with Diagram</source>
+        <extracomment>TextToDiagram.title</extracomment>
+        <translation>转换成图示</translation>
+    </message>
+    <message id="TextToDiagram.content">
+        <source>Auto using Diagram to show text</source>
+        <extracomment>TextToDiagram.title</extracomment>
+        <translation>将文本智能匹配成对应的图示。</translation>
+    </message>
+    <message id="LinkShareTip.title">
+        <source>Link Preview</source>
+        <extracomment>LinkShareTip.title</extracomment>
+        <translation>分享文档</translation>
+    </message>
+    <message id="LinkShareTip.content">
+        <source>Share documents in link to friend.</source>
+        <extracomment>LinkShareTip.content</extracomment>
+        <translation>以链接方式将云文档分享给朋友</translation>
+    </message>
+    <message id="SendFileTip.title">
+        <source>Send to Phone</source>
+        <extracomment>SendFileTip.title</extracomment>
+        <translation type="obsolete">发送至手机</translation>
+    </message>
+    <message id="SendFileTip.content">
+        <source>Send file to phone.</source>
+        <extracomment>SendFileTip.content</extracomment>
+        <translation type="obsolete">将文档发送至手机</translation>
+    </message>
+    <message id="OneStepSaveTip.title">
+        <source>One Step Save</source>
+        <extracomment>OneStepSaveTip.title</extracomment>
+        <translation>一键快传</translation>
+    </message>
+    <message id="OneStepSaveTip.content">
+        <source>One step save local file to WPS cloud,multi terminal,anytime,anywhere to use documents.</source>
+        <extracomment>OneStepSaveTip.content</extracomment>
+        <translation>本地文档一键快传至WPS云文档，多终端使用文档，随时随地</translation>
+    </message>
+    <message id="Photo2Pdf.title">
+        <source>Photo to Pdf</source>
+        <extracomment>Photo2Pdf.title</extracomment>
+        <translation>图片转PDF</translation>
+    </message>
+    <message id="Photo2Pdf.content">
+        <source>Photo to Pdf Converter.</source>
+        <extracomment>Photo2Pdf.content</extracomment>
+        <translation>图片格式的文件批量转换成PDF。</translation>
+    </message>
+    <message id="InsertSmartDiagram.title">
+        <source>Insert Smart Diagram</source>
+        <translation>插入关系图</translation>
+    </message>
+    <message id="InsertSmartDiagram.content">
+        <source>Insert Smart Diagram content</source>
+        <extracomment>InsertSmartDiagram.content</extracomment>
+        <translation>插入关系图，以直观的方式表达信息关系。
+
+关系图包括组织结构图、象限、并列、流程、总分等分类。</translation>
+    </message>
+    <message id="ChartGallery.title">
+        <source>Chart Gallery</source>
+        <translation>功能图</translation>
+    </message>
+    <message id="ChartGallery.content">
+        <source>Chart Gallery content</source>
+        <extracomment>ChartGallery.content</extracomment>
+        <translation>功能图中提供了多种类型图片的在线制作工具，如二维码、条形码、几何图等，可快速制作并插入图片。</translation>
+    </message>
+    <message id="ChartGallery_pro.title">
+        <source>Chart Gallery</source>
+        <translation>功能图</translation>
+    </message>
+    <message id="ChartGallery_pro.content">
+        <source>Chart Gallery content</source>
+        <extracomment>ChartGallery_pro.content</extracomment>
+        <translation>功能图中提供了多种类型图片的在线制作工具，可快速制作并插入图片。</translation>
+    </message>
+    <message id="InsertRelationshipDiagram.title">
+        <source>Insert Relationship Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertRelationshipDiagram.content">
+        <source>Insert Relationship Diagram content</source>
+        <extracomment>InsertRelationshipDiagram.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PPTCustom.title">
+        <source>PPTCustom</source>
+        <translation>PPT定制</translation>
+    </message>
+    <message id="PPTCustom.content">
+        <source>PPTCustom content</source>
+        <extracomment>PPTCustom.content</extracomment>
+        <translation>王牌制作团队，为您量身打造专业级PPT。</translation>
+    </message>
+    <message id="InsertProcesson_Mind.title">
+        <source>InsertProcesson_Mind</source>
+        <oldsource>Insert ProcessOn_Mind</oldsource>
+        <translation type="unfinished">插入思维导图</translation>
+    </message>
+    <message id="InsertProcesson_Mind.content">
+        <source>InsertProcesson_Mind content</source>
+        <oldsource>Insert InsertProcesson_Mind content</oldsource>
+        <extracomment>InsertProcesson_Mind.content</extracomment>
+        <translation type="unfinished">在当前光标所在位置插入思维导图,可随时进入编辑</translation>
+    </message>
+    <message id="InsertProcesson_Flow.title">
+        <source>InsertProcesson_Flow</source>
+        <oldsource>Insert ProcessOn_Flow</oldsource>
+        <translation type="unfinished">插入流程图</translation>
+    </message>
+    <message id="InsertProcesson_Flow.content">
+        <source>InsertProcesson_Flow content</source>
+        <oldsource>Insert ProcessOn_Flow content</oldsource>
+        <extracomment>InsertProcesson_Flow.content</extracomment>
+        <translation type="unfinished">在当前光标所在位置插入流程图,可随时进入编辑</translation>
+    </message>
+    <message id="GraphicEffects.title">
+        <source>Graphic Effects</source>
+        <extracomment>GraphicEffects.title</extracomment>
+        <translation>图形效果</translation>
+    </message>
+    <message id="GraphicEffects.content">
+        <source>Apply a visual effect to to the selected graphic, such as shadow, glow, reflection, or 3-D rotation.</source>
+        <extracomment>GraphicEffects.content</extracomment>
+        <translation>对选定的图形应用外观效果（如阴影、发光、倒影或三维旋转）。</translation>
+    </message>
+    <message id="DocerMall.title">
+        <source>Docer Mall</source>
+        <extracomment>DocerMall.title</extracomment>
+        <translation>稻壳商城</translation>
+    </message>
+    <message id="DocerMall.content">
+        <source>DocerMall content</source>
+        <extracomment>DocerMall.content</extracomment>
+        <translation>在新标签页中打开稻壳商城</translation>
     </message>
 </context>
 </TS>

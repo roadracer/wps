@@ -599,12 +599,12 @@ Clique na seta para escolher as opções Guia Fonético, Incluir Carateres e Lim
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation>Definições</translation>
+        <translation type="obsolete">Definições</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
         <extracomment>DetailedSettings_PictureTools.content</extracomment>
-        <translation>Alterar as definições de formatação da imagem.</translation>
+        <translation type="obsolete">Alterar as definições de formatação da imagem.</translation>
     </message>
     <message id="DetailedSettings_Section.title">
         <source>Settings</source>
@@ -700,12 +700,12 @@ Clique na seta para escolher as opções Guia Fonético, Incluir Carateres e Lim
     <message id="DoublePages.title">
         <source>Two Pages</source>
         <extracomment>DoublePages.title</extracomment>
-        <translation>Duas Páginas</translation>
+        <translation type="obsolete">Duas Páginas</translation>
     </message>
     <message id="DoublePages.content">
         <source>Zoom the document so that two pages fit in the window.</source>
         <extracomment>DoublePages.content</extracomment>
-        <translation>Aplicar zoom ao documento para incluir duas páginas na janela.</translation>
+        <translation type="obsolete">Aplicar zoom ao documento para incluir duas páginas na janela.</translation>
     </message>
     <message id="DrawTable.title">
         <source>Draw Table</source>
@@ -1952,7 +1952,7 @@ Clique na seta para selecionar formatos de numeração diferentes.</translation>
         <source>Numbering</source>
         <oldsource>Bullets</oldsource>
         <extracomment>Numbering2.title</extracomment>
-        <translation type="unfinished">Marcas de Lista</translation>
+        <translation>Numeração</translation>
     </message>
     <message id="Numbering2.content">
         <source>Start a numbered list.
@@ -1960,7 +1960,9 @@ Clique na seta para selecionar formatos de numeração diferentes.</translation>
 Click the arrow to select different numbering formats.</source>
         <oldsource>Click the arrow to select different numbering formats.</oldsource>
         <extracomment>Numbering2.content</extracomment>
-        <translation type="unfinished">Clique na seta para selecionar formatos de numeração diferentes.</translation>
+        <translation>Iniciar uma lista numerada.
+
+Clique na seta para selecionar formatos de numeração diferentes.</translation>
     </message>
     <message id="ObjectSelect.title">
         <source>Selection Pane</source>
@@ -2109,7 +2111,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="PDFToWord.title">
         <source>Convert PDF to Word</source>
         <extracomment>PDFToWord.title</extracomment>
-        <translation>Converter PDF para Word</translation>
+        <translation>Converter PDF em Word</translation>
     </message>
     <message id="PDFToWord.content">
         <source>Convert PDF files to Word files.</source>
@@ -2641,22 +2643,22 @@ Pode impedir alterações de formatação, forçar o registo de todas as altera�
     <message id="ShowDocumentMap.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap.title</extracomment>
-        <translation>Mapa do Documento</translation>
+        <translation type="obsolete">Mapa do Documento</translation>
     </message>
     <message id="ShowDocumentMap.content">
         <source>Show or hide the Document Map pane.</source>
         <extracomment>ShowDocumentMap.content</extracomment>
-        <translation>Mostrar ou ocultar o painel Mapa do Documento.</translation>
+        <translation type="obsolete">Mostrar ou ocultar o painel Mapa do Documento.</translation>
     </message>
     <message id="ShowDocumentMap2.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap2.title</extracomment>
-        <translation>Mapa do Documento</translation>
+        <translation type="obsolete">Mapa do Documento</translation>
     </message>
     <message id="ShowDocumentMap2.content">
         <source>Click here to choose which position to display the Document Map pane.</source>
         <extracomment>ShowDocumentMap2.content</extracomment>
-        <translation>Clique aqui para escolher qual a posição de visualização do painel Mapa do Documento.</translation>
+        <translation type="obsolete">Clique aqui para escolher qual a posição de visualização do painel Mapa do Documento.</translation>
     </message>
     <message id="ShowFirstLineOnly.title">
         <source>Show First Line Only</source>
@@ -2711,12 +2713,12 @@ Pode impedir alterações de formatação, forçar o registo de todas as altera�
     <message id="ShowHideEditMark.title">
         <source>Show/Hide Editing Marks</source>
         <extracomment>ShowHideEditMark.title</extracomment>
-        <translation type="unfinished">Mostrar/Ocultar Marcas de Edição</translation>
+        <translation>Mostrar/Ocultar Marcas de Edição</translation>
     </message>
     <message id="ShowHideEditMark.content">
         <source>Show or hide format marks and paragraph layout buttons in the document.</source>
         <extracomment>ShowHideEditMark.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar ou ocultar botões de marcas de formato e esquema de parágrafo no documento.</translation>
     </message>
     <message id="ShowHideFormattingMarks.title">
         <source>Show/Hide Editing Marks</source>
@@ -2785,23 +2787,23 @@ O nível selecionado e todos os níveis superiores serão visíveis.</translatio
     <message id="SplitSection.title">
         <source>Split Section</source>
         <extracomment>SplitSection.title</extracomment>
-        <translation>Dividir Secção</translation>
+        <translation type="obsolete">Dividir Secção</translation>
     </message>
     <message id="SplitSection.content">
         <source>Insert a section break into the document.</source>
         <oldsource>Insert the next section break into the document.</oldsource>
         <extracomment>SplitSection.content</extracomment>
-        <translation>Inserir a quebra de secção seguinte no documento.</translation>
+        <translation type="obsolete">Inserir a quebra de secção seguinte no documento.</translation>
     </message>
     <message id="SplitSection2.title">
         <source>Split Section</source>
         <extracomment>SplitSection2.title</extracomment>
-        <translation>Dividir Secção</translation>
+        <translation type="obsolete">Dividir Secção</translation>
     </message>
     <message id="SplitSection2.content">
         <source>Click here to choose section break types.</source>
         <extracomment>SplitSection2.content</extracomment>
-        <translation>Clique aqui para escolher os tipos de quebra de secção.</translation>
+        <translation type="obsolete">Clique aqui para escolher os tipos de quebra de secção.</translation>
     </message>
     <message id="SplitTable.title">
         <source>Split Table</source>
@@ -3084,7 +3086,7 @@ Clique na seta para selecionar cores de sombreado diferentes.</translation>
         <translation>Ler Texto</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
         <translation>Pode transformar o texto  em voz falada. Você tem trilha de dois dias.</translation>
     </message>
@@ -3539,109 +3541,111 @@ Aplicar formatação inteligente, como &quot;eliminar espaços&quot;, &quot;avan
     </message>
     <message id="WrapText.title">
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="WrapText.content">
         <source></source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message id="ContentControlRichText.title">
         <source>Rich Text Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de RTF</translation>
     </message>
     <message id="ContentControlRichText.content">
         <source>Insert a rich text content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo RTF.</translation>
     </message>
     <message id="ContentControlText.title">
         <source>Plain Text Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Texto Simples</translation>
     </message>
     <message id="ContentControlText.content">
         <source>Insert a plain text content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo de texto simples.</translation>
     </message>
     <message id="ContentControlPicture.title">
         <source>Picture Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Imagem</translation>
     </message>
     <message id="ContentControlPicture.content">
         <source>Insert a picture content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo de imagem.</translation>
     </message>
     <message id="ContentControlBuildingBlockGallery.title">
         <source>Building Block Gallery Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Galeria de Blocos Modulares</translation>
     </message>
     <message id="ContentControlBuildingBlockGallery.content">
         <source>Insert a building block gallery content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo de galeria de blocos modulares.</translation>
     </message>
     <message id="ContentControlCheckBox.title">
         <source>Check Box Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Caixa de Verificação</translation>
     </message>
     <message id="ContentControlCheckBox.content">
         <source>Insert a check box content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir uma caixa de verificação de controlo de conteúdo.</translation>
     </message>
     <message id="ContentControlComboBox.title">
         <source>Combo Box Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Caixa de Combinação</translation>
     </message>
     <message id="ContentControlComboBox.content">
         <source>Insert a combo box content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo da caixa de combinação.</translation>
     </message>
     <message id="ContentControlDropDownList.title">
         <source>Drop-Down List Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Lista Pendente</translation>
     </message>
     <message id="ContentControlDropDownList.content">
         <source>Insert a drop-down list content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo de lista pendente.</translation>
     </message>
     <message id="ContentControlData.title">
         <source>Date Picker Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo de Selecionador de Data</translation>
     </message>
     <message id="ContentControlData.content">
         <source>Insert a date content control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo de data.</translation>
     </message>
     <message id="ContentControlRepeating.title">
         <source>Repeating Section Content Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controlo de Conteúdo da Secção de Repetição</translation>
     </message>
     <message id="ContentControlRepeating.content">
         <source>Insert a content control that contains other controls and repeats the contents of the control as needed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo de conteúdo que contenha outros controlos e repita os conteúdos do controlo consoante o necessário.</translation>
     </message>
     <message id="ControlsGalleryClassic.title">
         <source>Legacy Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>Ferramentas Legadas</translation>
     </message>
     <message id="ControlsGalleryClassic.content">
         <source>Insert an ActiveX control or form control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserir um controlo ActiveX ou controlo de formulário.</translation>
     </message>
     <message id="ContentControlsGroupMenu.title">
         <source>Group or Ungroup Text Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar ou Desagrupar Intervalo de Texto</translation>
     </message>
     <message id="ContentControlsGroupMenu.content">
         <source>Group or ungroup a selected range of text.
 
 When grouped, a text range cannot be edited, except in regions containing editable content controls.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agrupar ou desagrupar um intervalo selecionado de texto.
+
+Quando agrupado, um intervalo de texto não pode ser editado, exceto em regiões que contenham controlos de conteúdo editável.</translation>
     </message>
     <message id="XmlMapping.title">
         <source>XML Mapping Pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Painel de Mapeamento XML</translation>
     </message>
     <message id="XmlMapping.content">
         <source>See the XML data stored in this document and create content controls that are linked to it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver os dados XML armazenados neste documento e criar controlos de conteúdo ligados aos mesmos.</translation>
     </message>
     <message id="ClearFormats.title">
         <source>Clear Formatting</source>
@@ -3662,6 +3666,617 @@ When grouped, a text range cannot be edited, except in regions containing editab
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
         <translation type="obsolete">Mostrar a caixa de diálogo Formatar Objeto.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>Dicionário de Sinónimos</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>Sugere outras palavras com um significado semelhante para a palavra selecionada.</translation>
+    </message>
+    <message id="InsertEnvelopes.title">
+        <source>Create Envelopes</source>
+        <extracomment>InsertEnvelopes.title</extracomment>
+        <translation>Criar Envelopes</translation>
+    </message>
+    <message id="InsertEnvelopes.content">
+        <source>Create and print envelopes.</source>
+        <extracomment>InsertEnvelopes.content</extracomment>
+        <translation>Criar e imprimir envelopes.</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translation>Converter Imagem em Texto</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translation>Converter a imagem em formato de texto.</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.content">
+        <source>Change the settings of shape and shape&apos;s font formatting.</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.content</extracomment>
+        <translation>Alterar as definições de forma e formatação do tipo de letra da forma.</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_wps_PictureTools.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.content">
+        <source>Change the settings of object size and picture formatting.</source>
+        <extracomment>DetailedSettings_wps_PictureTools.content</extracomment>
+        <translation>Alterar as definições de tamanho do objeto e formatação da imagem.</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.content</extracomment>
+        <translation>Alterar as definições de formatação da imagem.</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_HFTools.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.content">
+        <source>Change the settings of page setup.</source>
+        <extracomment>DetailedSettings_HFTools.content</extracomment>
+        <translation>Alterar as definições de configuração da página.</translation>
+    </message>
+    <message id="DetailedSettings_References.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_References.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_References.content">
+        <source>Change the settings of Footnotes and Endnotes.</source>
+        <extracomment>DetailedSettings_References.content</extracomment>
+        <translation>Alterar as definições das Notas de Rodapé e Notas de Fim.</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translation>Alterar as definições de formatação de Tabela.</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_vml.title</extracomment>
+        <translation>Definições</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_vml.content</extracomment>
+        <translation>Alterar as definições de formatação da imagem.</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translation>Criar ligação e partilhar</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translation>Criar uma ligação e um Código QR, e partilhar no Wechat, QQ, Weibo ou Qzone.</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translation>Gerir ligações partilhadas</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translation>Clicar para gerir, eliminar ou enviar ligações.</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>Correção de Documento.</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>Corrigir rapidamente os documentos com erros ou que não é possível abrir por outras razões.</translation>
+    </message>
+    <message id="MultiplePages.title">
+        <source>Multiple Pages</source>
+        <extracomment>MultiplePages.title</extracomment>
+        <translation>Múltiplas Páginas</translation>
+    </message>
+    <message id="MultiplePages.content">
+        <source>Zoom the document so you can see multiple pages in the window.</source>
+        <extracomment>MultiplePages.content</extracomment>
+        <translation>Aplicar zoom ao documento para poder ver múltiplas páginas na janela.</translation>
+    </message>
+    <message id="InsertPTab.title">
+        <source>Insert Alignment Tab</source>
+        <extracomment>InsertPTab.title</extracomment>
+        <translation>Inserir Tabulação de Alinhamento</translation>
+    </message>
+    <message id="InsertPTab.content">
+        <source>Insert a tab stop to help align content within the header or footer.</source>
+        <extracomment>InsertPTab.content</extracomment>
+        <translation>Inserir uma tabulação para ajudar a alinhar o conteúdo no cabeçalho ou rodapé.</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>Bloquear a proporção quando ajustar a imagem.</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>Repor todas as alterações ao tamanho da imagem selecionada.</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>Bloquear Proporção</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>Repor Tamanho</translation>
+    </message>
+    <message id="PictureStyleTip.title">
+        <source>Picture Style</source>
+        <extracomment>PictureStyleTip.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PictureStyleTip.content">
+        <source>Decide how one more more pictures are shown in the document.</source>
+        <extracomment>&quot;PictureStyleTip.content&quot;</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertGeogebra.title">
+        <source>Insert Geometry</source>
+        <extracomment>InsertGeogebra.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertGeogebra.content">
+        <source>A drawing tool with algebra, calculus, statistics, 3D math functions.</source>
+        <oldsource>IA drawing tool with algebra, calculus, statistics, 3D math functions.</oldsource>
+        <extracomment>InsertGeogebra.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="IndexMarkEntry.title">
+        <source>Mark Entry</source>
+        <extracomment>IndexMarkEntry.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="IndexMarkEntry.content">
+        <source>Add the selected text to the index.</source>
+        <extracomment>IndexMarkEntry.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertIndex.title">
+        <source>Insert Index</source>
+        <extracomment>InsertIndex.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertIndex.content">
+        <source>Add an index listing key words and the page numbers they appear on.</source>
+        <extracomment>InsertIndex.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="UpdateIndex.title">
+        <source>Update Index</source>
+        <extracomment>UpdateIndex.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="UpdateIndex.content">
+        <source>Update the index so that all the entries refer to the correct page number.</source>
+        <extracomment>UpdateIndex.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FormatAlignThaiDistributed.title">
+        <source>Thai Distributed</source>
+        <extracomment>FormatAlignThaiDistributed.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FormatAlignThaiDistributed.content">
+        <source>Align paragraph to both the left and right margins by adding extra space between each two characters for languages with tone mark and vowel mark.
+
+This creates a document with clean look.</source>
+        <extracomment>FormatAlignThaiDistributed.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramNum.title">
+        <source>Change Num</source>
+        <extracomment>ChangeDiagramNum.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramNum.content">
+        <source>Change the number of items</source>
+        <extracomment>ChangeDiagramNum.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramColor.title">
+        <source>Change Color</source>
+        <extracomment>ChangeDiagramColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramColor.content">
+        <source>Choose a variety of color schemes</source>
+        <extracomment>ChangeDiagramColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TableofFigures.title">
+        <source>Insert Table of Figures</source>
+        <extracomment>TableofFigures.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TableofFigures.content">
+        <source>Add a list of captioned objects and their page numbers for quick reference.</source>
+        <extracomment>TableofFigures.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSmartArt.title">
+        <source>Insert a SmartArt Graphic</source>
+        <extracomment>InsertSmartArt.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSmartArt.content">
+        <source>Insert a SmartArt graphic to visually communicate information.
+
+SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
+        <extracomment>InsertSmartArt.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Sort.title">
+        <source>Sort</source>
+        <extracomment>Sort.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Sort.content">
+        <source>Arrange the current selection in alphabetical or numerical order.
+
+This is expecially useful if you&apos;re trying to organize data in a table.</source>
+        <extracomment>Sort.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FooterDistance.title">
+        <source>Footer distance from bottom</source>
+        <extracomment>FooterDistance.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FooterDistance.content">
+        <source>Modify footer distance from bottom.</source>
+        <extracomment>FooterDistance.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderDistance.title">
+        <source>Header distance from bottom</source>
+        <extracomment>HeaderDistance.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HeaderDistance.content">
+        <source>Modify Header distance from bottom.</source>
+        <extracomment>HeaderDistance.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertDocumentField.title">
+        <source>Insert Document Field</source>
+        <extracomment>InsertDocumentField.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertDocumentField.content">
+        <source>Insert a Document field into the document.</source>
+        <extracomment>InsertDocumentField.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="QuickParts.title">
+        <source>QuickParts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="QuickParts.content">
+        <source>Inserts the default formatting text autotext and fields in the document.</source>
+        <extracomment>QuickParts.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Pdf2PhotoCmd.title">
+        <source>PDF Export Photo</source>
+        <extracomment>Pdf2PhotoCmd.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Pdf2PhotoCmd.content">
+        <source>PDF Export Photo</source>
+        <extracomment>Pdf2PhotoCmd.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Proofread.title">
+        <source>Proofread</source>
+        <extracomment>Proofread.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Proofread.content">
+        <source>Professional document proofread tool</source>
+        <extracomment>Proofread.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertIndexTables4ZhCn.title">
+        <source>Insert table of contents</source>
+        <extracomment>InsertIndexTables4ZhCn.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertIndexTables4ZhCn.content">
+        <source>Manual table of contents is for you to fill out.
+
+Automatic table of contents includes text formatted with Heading styles.</source>
+        <extracomment>InsertIndexTables4ZhCn.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterName.title">
+        <source>The name of printer</source>
+        <extracomment>PrinterName.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterName.content">
+        <source>choose a printer to print.</source>
+        <extracomment>PrinterName.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintCopies.title">
+        <source>The copies of printer</source>
+        <extracomment>PrintCopies.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintCopies.content">
+        <source>assign copies to print.</source>
+        <extracomment>PrintCopies.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintOrder.title">
+        <source>The Collate of printer</source>
+        <extracomment>PrintOrder.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintOrder.content">
+        <source>Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed, or not.</source>
+        <extracomment>PrintOrder.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DuplexPrint.title">
+        <source>The Duplex of printer</source>
+        <extracomment>DuplexPrint.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DuplexPrint.content">
+        <source>Determines whether duplex print or nonDuplex print.</source>
+        <extracomment>DuplexPrint.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MorePrintSettings.title">
+        <source>More setting of printer</source>
+        <extracomment>MorePrintSettings.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MorePrintSettings.content">
+        <source>could config more detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</source>
+        <extracomment>MorePrintSettings.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingView.title">
+        <source>Reading View</source>
+        <extracomment>ReadingView.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingView.content">
+        <source>Automatically layout content, easily flip through documents.</source>
+        <extracomment>ReadingView.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowComments.title">
+        <source>Show Comments</source>
+        <extracomment>ShowComments.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowComments.content">
+        <source>Display or hide Comments in a document.</source>
+        <extracomment>ShowComments.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingFind.title">
+        <source>Reading Find</source>
+        <extracomment>ReadingFind.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingFind.content">
+        <source>Search for text or other content in a document.</source>
+        <extracomment>ReadingFind.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingDivision.title">
+        <source>Reading Division</source>
+        <extracomment>ReadingDivision.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingDivision.content">
+        <source>Set the number of automatic typesetting columns in reading mode.</source>
+        <extracomment>ReadingDivision.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.title">
+        <source>Online Cooperation</source>
+        <extracomment>OnlineCooperation.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.content">
+        <source>Open the document with Web Office for multiple user collaborative editing.</source>
+        <oldsource>Open the document with WebOffice for multiple user collaborative editing.</oldsource>
+        <extracomment>OnlineCooperation.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.title">
+        <source>Full text translation</source>
+        <extracomment>DocTranslate.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.content">
+        <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
+        <extracomment>DocTranslate.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddSection.title">
+        <source>Add Section</source>
+        <extracomment>AddSection.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddSection.content">
+        <source>Insert a section break into the document.</source>
+        <extracomment>AddSection.content</extracomment>
+        <translation type="unfinished">Inserir a quebra de secção seguinte no documento.</translation>
+    </message>
+    <message id="AddSection2.title">
+        <source>Split Section</source>
+        <extracomment>AddSection2.title</extracomment>
+        <translation type="unfinished">Dividir Secção</translation>
+    </message>
+    <message id="AddSection2.content">
+        <source>Click here to choose section break types.</source>
+        <extracomment>AddSection2.content</extracomment>
+        <translation type="unfinished">Clique aqui para escolher os tipos de quebra de secção.</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCnPage.title">
+        <source>Insert table of contents Page</source>
+        <extracomment>InsertIndexTables4ZhCnPage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertIndexTables4ZhCnPage.content">
+        <source>Manual table of contents is for you to fill out.
+
+Automatic table of contents includes text formatted with Heading styles.</source>
+        <extracomment>InsertIndexTables4ZhCnPage.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NavigationPane2.title">
+        <source>Navigation Pane</source>
+        <extracomment>NavigationPane2.title</extracomment>
+        <translation type="obsolete">Painel de Navegação</translation>
+    </message>
+    <message id="PageDiffOddEven.title">
+        <source>PageDiff OddEven</source>
+        <extracomment>PageDiffOddEven.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PageDiffOddEven.content">
+        <source>Specify odd and small pages to use different headers and footers.</source>
+        <extracomment>PageDiffOddEven.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane.title">
+        <source>ShowNavigation Pane</source>
+        <extracomment>ShowNavigationPane.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane.content">
+        <source>Show or hide the Navigation Pane.</source>
+        <extracomment>ShowNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane2.title">
+        <source>ShowNavigation Pane</source>
+        <extracomment>ShowNavigationPane2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane2.content">
+        <source>Click to choose display navigation pane display location.</source>
+        <oldsource>Click here to choose to display a table of contents, a chapter, or a bookmark pane.</oldsource>
+        <extracomment>ShowNavigationPane2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowTocNavigationPane.title">
+        <source>Toc navigation</source>
+        <extracomment>ShowTocNavigationPane.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowTocNavigationPane.content">
+        <source>Displays or concealment Toc navigation in the navigation pane.</source>
+        <extracomment>ShowTocNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SectionNavigationPane.title">
+        <source>Section navigation</source>
+        <extracomment>SectionNavigationPane.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SectionNavigationPane.content">
+        <source>displays or hides chapter navigation in navigation pane..</source>
+        <extracomment>SectionNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip.title">
+        <source></source>
+        <extracomment>ReviewTip.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip.content">
+        <source></source>
+        <extracomment>ReviewTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip2.title">
+        <source></source>
+        <extracomment>ReviewTip2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip2.content">
+        <source></source>
+        <extracomment>ReviewTip2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -35,11 +35,11 @@
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation>O alto-falante do PC está ligado?
-Verifique o ícone do alto-falante no canto inferior direito da área de trabalho.</translation>
+Verifique o ícone do alto-falante no canto inferior direito da Área de Trabalho.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation>Não há conteúdo para leitura.</translation>
+        <translation>Não há conteúdo a ser lido.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
@@ -47,11 +47,11 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation>O conteúdo selecionado não pode ser transferido para leitura. Selecione outro conteúdo.</translation>
+        <translation>Não é possível transferir o conteúdo selecionado para fala. Selecione outro conteúdo.</translation>
     </message>
     <message>
         <source>Click here to open the Text Reading tool box.</source>
-        <translation>Clique aqui para abrir a caixa de ferramentas de Leitura de Texto.</translation>
+        <translation>Clique aqui para abrir a barra de ferramentas Leitura de Texto.</translation>
     </message>
     <message>
         <source>Your </source>
@@ -67,7 +67,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>More about VIP</source>
-        <translation>Torne-se um VIP para continuar a usar a função e usufruir de mais serviços!</translation>
+        <translation>Torne-se um VIP para continuar usando a função e usufruir de mais serviços!</translation>
     </message>
     <message>
         <source>Text Reading</source>
@@ -79,13 +79,33 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Exporting Audio </source>
-        <translation>Exportar Áudio </translation>
+        <translation>Exportando Áudio </translation>
     </message>
     <message>
         <source>A sound file of this document is currently being exported. 
 Are you sure to close?</source>
         <translation>Um arquivo de som deste documento está sendo exportado no momento. 
 Tem certeza de que deseja fechar?</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Sua avaliação para hoje terminará em breve.
+Torne-se um VIP para obter o uso ilimitado deste recurso.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Sua avaliação terminou.
+Torne-se um VIP para continuar a usar.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>Somente VIPs aproveitam o uso ilimitado da Conversão de Texto em Fala.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>Torne-se um VIP e você terá 14 recursos exclusivos, incluindo a Conversão de Texto em Fala!</translation>
     </message>
 </context>
 <context>
@@ -96,7 +116,7 @@ Tem certeza de que deseja fechar?</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation>Arquivos de Áudio Waveform (*.wav)</translation>
+        <translation>Arquivo de áudio do Windows (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -105,11 +125,11 @@ Tem certeza de que deseja fechar?</translation>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation>O alto-falante do PC está ligado?
-Verifique o ícone do alto-falante no canto inferior direito da área de trabalho.</translation>
+Verifique o ícone do alto-falante no canto inferior direito da Área de Trabalho.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation>Não há conteúdo para leitura.</translation>
+        <translation>Não há conteúdo a ser lido.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
@@ -117,14 +137,26 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation>O conteúdo selecionado não pode ser transferido para leitura. Selecione outro conteúdo.</translation>
+        <translation>Não é possível transferir o conteúdo selecionado para fala. Selecione outro conteúdo.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Sua avaliação para hoje terminará em breve.
+Torne-se um VIP para obter o uso ilimitado deste recurso.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Sua avaliação terminou.
+Torne-se um VIP para continuar a usar.</translation>
     </message>
 </context>
 <context>
     <name>KxSpeakToolbar</name>
     <message>
         <source>Reading</source>
-        <translation>Lendo</translation>
+        <translation>Leitura</translation>
     </message>
     <message>
         <source>Close</source>
@@ -132,15 +164,15 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Mute</source>
-        <translation>Mudo</translation>
+        <translation>Ativar Mudo</translation>
     </message>
     <message>
         <source>Unmute</source>
-        <translation>Desativar mudo</translation>
+        <translation>Desativar Mudo</translation>
     </message>
     <message>
         <source>Play</source>
-        <translation>Jogue</translation>
+        <translation>Reproduzir</translation>
     </message>
     <message>
         <source>Pause</source>
@@ -152,11 +184,11 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Voice Speed</source>
-        <translation>Velocidade de Voz</translation>
+        <translation>Velocidade da Voz</translation>
     </message>
     <message>
         <source>Voice Pitch</source>
-        <translation>Densidade de Voz</translation>
+        <translation>Densidade da Voz</translation>
     </message>
     <message>
         <source>By Return</source>
@@ -164,11 +196,11 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation>Pressione Enter para Começar a Ler</translation>
+        <translation>Pressione Enter para Iniciar a Leitura</translation>
     </message>
     <message>
         <source>Export Speech</source>
-        <translation>Exportar Leitura</translation>
+        <translation>Exportar Fala</translation>
     </message>
     <message>
         <source>Cancel Export</source>
@@ -180,7 +212,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Medium speed</source>
-        <translation>Velocidade padrão</translation>
+        <translation>Velocidade média</translation>
     </message>
     <message>
         <source>High speed</source>
@@ -192,7 +224,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Medium pitch</source>
-        <translation>Densidade padrão</translation>
+        <translation>Densidade média</translation>
     </message>
     <message>
         <source>High pitch</source>
@@ -262,15 +294,15 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Failed to connect with speech service client.</source>
-        <translation>Falha ao conectar-se com o cliente de serviço de voz.</translation>
+        <translation>Falha ao conectar-se com o cliente de serviço de fala.</translation>
     </message>
     <message>
         <source>Failed to start local reading engine.</source>
-        <translation>Falha ao começar mecanismo local de leitura.</translation>
+        <translation>Falha ao iniciar mecanismo de leitura local.</translation>
     </message>
     <message>
         <source>Failed to acquire certification from speech server.</source>
-        <translation>Falha ao adquirir certificação do servidor de voz.</translation>
+        <translation>Falha ao adquirir a certificação do servidor de fala.</translation>
     </message>
     <message>
         <source>Start TCP Client Connection.</source>
@@ -278,15 +310,15 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Failed to request reading content again.</source>
-        <translation>Falha ao solicitar a leitura do conteúdo novamente.</translation>
+        <translation>Falha ao solicitar novamente a leitura do conteúdo.</translation>
     </message>
     <message>
         <source>Local speech engine has been closed.</source>
-        <translation>O mecanismo de voz local foi fechado.</translation>
+        <translation>O mecanismo de fala local foi fechado.</translation>
     </message>
     <message>
         <source>Close connection with speech server.</source>
-        <translation>Terminar conexão com o servidor de voz.</translation>
+        <translation>Fechar a conexão com o servidor de fala.</translation>
     </message>
     <message>
         <source>File export is interrupted: </source>
@@ -302,7 +334,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Failed connection with TCP Client: </source>
-        <translation>Falha na conexão com o cliente TCP: </translation>
+        <translation>Falha na conexão com o Cliente TCP: </translation>
     </message>
     <message>
         <source>Connection Denied.</source>
@@ -318,7 +350,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Failed to request next reading content.</source>
-        <translation>Falha ao solicitar a leitura do próximo conteúdo.</translation>
+        <translation>Falha ao solicitar o próximo conteúdo de leitura.</translation>
     </message>
     <message>
         <source>Failed to read content.</source>
@@ -330,7 +362,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
-        <translation>Cliente de leitura de texto do WPS.</translation>
+        <translation>Cliente de Leitura de Texto do WPS.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -353,7 +385,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     <name>SpeakerIv</name>
     <message>
         <source>IVTTS - failed to allocate heap memory for content.</source>
-        <translation>IVTTS - falha ao alocar memória heap para o conteúdo.</translation>
+        <translation>IVTTS - falha ao alocar a memória heap do conteúdo.</translation>
     </message>
     <message>
         <source>IVTTS - invalid role index: </source>
@@ -385,11 +417,11 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>IVTTS - failed to assign normal reading style.</source>
-        <translation>IVTTS - falha ao atribuir estilo normal de leitura.</translation>
+        <translation>IVTTS - falha ao atribuir o estilo de leitura normal.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign reader.</source>
-        <translation>IVTTS - falha ao atribuir leitor.</translation>
+        <translation>IVTTS - falha ao atribuir o leitor.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare sound engine.</source>
@@ -409,11 +441,11 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
-        <translation>IVTTS - falha ao criar a leitura para o texto.</translation>
+        <translation>IVTTS - falha ao criar a fala do texto.</translation>
     </message>
     <message>
         <source>IVTTS - failed to add text to the export file.</source>
-        <translation>IVTTS - falha ao adicionar o texto ao arquivo.</translation>
+        <translation>IVTTS - falha ao adicionar o texto ao arquivo de exportação.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice volume: </source>
@@ -429,18 +461,18 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>IVTTS - failed to set preferences for number pronunciation: </source>
-        <translation>IVTTS - falha ao definir as preferências para pronunciação de números: </translation>
+        <translation>IVTTS - falha ao definir as preferências de pronunciação de números: </translation>
     </message>
 </context>
 <context>
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>configuração do orador</translation>
+        <translation>Configurações do Alto-falante</translation>
     </message>
     <message>
         <source>Voice Properties</source>
-        <translation>Propriedades de Voz</translation>
+        <translation>Propriedades da Voz</translation>
     </message>
     <message>
         <source>Volume:</source>
@@ -460,7 +492,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>Voice Role:</source>
-        <translation>Função de Voz:</translation>
+        <translation>Função da Voz:</translation>
     </message>
     <message>
         <source>Female Chinese</source>
@@ -495,7 +527,7 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
     </message>
     <message>
         <source>SAPI - failed to set Token category ID.</source>
-        <translation>SAPI - falha ao definir ID de categoria Token.</translation>
+        <translation>SAPI - falha ao definir ID de categoria de Token.</translation>
     </message>
     <message>
         <source>SAPI - failed to enumerate Voice Tokens.</source>
@@ -560,6 +592,24 @@ Verifique o ícone do alto-falante no canto inferior direito da área de trabalh
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="obsolete">O Alto-falante no seu computador já está ativado?
 Se necessário, verifica-o no canto inferior direito na área de trabalho.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Torne-se um VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Torne-se um VIP para continuar usando a função e usufruir de mais serviços!</translation>
     </message>
 </context>
 </TS>

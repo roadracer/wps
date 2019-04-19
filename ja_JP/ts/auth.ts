@@ -32,7 +32,7 @@
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation>今すぐ購入&gt;&gt;</translation>
+        <translation type="obsolete">今すぐ購入&gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
@@ -46,14 +46,18 @@
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation>今すぐ更新&gt;&gt;</translation>
+        <translation type="obsolete">今すぐ更新&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>Contact Email:gch@wps.cn</translation>
     </message>
 </context>
 <context>
     <name>KCnCommonAuthManager</name>
     <message>
         <source>WPS Business</source>
-        <translation>Kingsoft Business</translation>
+        <translation>WPS Business</translation>
     </message>
     <message>
         <source>WPS 365</source>
@@ -111,6 +115,14 @@
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
         <translation type="obsolete">シリアル番号の保存に失敗しました。 管理者権限があるかどうかをご確認ください。</translation>
     </message>
+    <message>
+        <source>* Unit:</source>
+        <translation>* 単位:</translation>
+    </message>
+    <message>
+        <source>Please Choose</source>
+        <translation>選択してください</translation>
+    </message>
 </context>
 <context>
     <name>KUserCenterMenuCommand</name>
@@ -145,7 +157,7 @@
     <name>KxDlgAuthorizeExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation>Kingsoft Officeの有効期限通知</translation>
+        <translation>WPS Officeの有効期限通知</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -165,7 +177,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy/renew Now</source>
-        <translation>購入/今すぐ更新</translation>
+        <translation type="obsolete">購入/今すぐ更新</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>メールアドレス:gch@wps.cn</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;ご使用中のWPS は期限切れましたため、一部の機能が利用できなくなりました。管理者またはWPSのサポートセンターにご連絡ください。400-677-5005&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -173,17 +193,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>WPS Office Expiration Reminder</source>
         <translatorcomment>WPS Office有効期限終了のリマインダー</translatorcomment>
-        <translation>Kingsoft Officeの有効期限通知</translation>
+        <translation>WPS Officeの有効期限通知</translation>
     </message>
     <message>
         <source>Your subscription for WPS Office or %1-day trial expires now.</source>
         <translatorcomment>購入したWPS Officeあるいは%1体験使用期間を切れました</translatorcomment>
-        <translation>Kingsoft Officeの有効期限、または %日の体験期間が終了しました。</translation>
+        <translation>WPS Officeの有効期限、または %日の体験期間が終了しました。</translation>
     </message>
     <message>
         <source>The program will switch to a free version. Some features will not work properly. We recommend you purchase WPS Office or renew now.</source>
         <translatorcomment>WPSは無料版になる場合、部分の機能を利用できなくなります。それらの機能を利用するには、WPS Officeを購入してください。</translatorcomment>
-        <translation>Kingsoft Officeの無料版に切り替えると一部機能が利用できなくなります。Kingsoft Officeの購入、または更新を推奨いたします。</translation>
+        <translation>WPS Officeの無料版に切り替えると一部機能が利用できなくなります。WPS Officeの購入、または更新を推奨いたします。</translation>
     </message>
     <message>
         <source>List of limited features in free version</source>
@@ -214,69 +234,69 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgQingRestrict</name>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation type="unfinished">Kingsoft Office制限機能</translation>
+        <translation type="obsolete">Kingsoft Office制限機能</translation>
     </message>
     <message>
         <source>WPS Office Limited Features</source>
-        <translation type="unfinished">Kingsoft Office 制限機能</translation>
+        <translation type="obsolete">Kingsoft Office 制限機能</translation>
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation type="unfinished">この機能は無料版で利用できません。</translation>
+        <translation type="obsolete">この機能は無料版で利用できません。</translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
         <translatorcomment>有料契約方は以下の方式で利用用できます。</translatorcomment>
-        <translation type="unfinished">月額有償版を契約することにより、以下の機能を利用できます。</translation>
+        <translation type="obsolete">月額有償版を契約することにより、以下の機能を利用できます。</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished">ログイン</translation>
+        <translation type="obsolete">ログイン</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
         <translatorcomment>認証コードを購入しました、 WPS Officeをログインして利用できます。</translatorcomment>
-        <translation type="unfinished">個人で月額契約済の場合は、ログインしてKingsoft Officeを利用できます。</translation>
+        <translation type="obsolete">個人で月額契約済の場合は、ログインしてKingsoft Officeを利用できます。</translation>
     </message>
     <message>
         <source>Enter your activation code</source>
-        <translation type="unfinished">認証コードを入力してください。</translation>
+        <translation type="obsolete">認証コードを入力してください。</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished">すでに認証コードをお持ちの場合は、使用してKingsoft Officeを有効にしてください。</translation>
+        <translation type="obsolete">すでに認証コードをお持ちの場合は、使用してKingsoft Officeを有効にしてください。</translation>
     </message>
 </context>
 <context>
     <name>KxDlgQingWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation type="unfinished">Kingsoft Officeをご利用いただき、ありがとうございます</translation>
+        <translation>WPS Officeをご利用いただき、ありがとうございます</translation>
     </message>
     <message>
         <source>Trial</source>
-        <translation type="unfinished">体験</translation>
+        <translation>体験</translation>
     </message>
     <message>
         <source>Start your free %1-day trial.</source>
         <translatorcomment>%1日の体験があります</translatorcomment>
-        <translation type="unfinished">%1-日の無料体験を開始します</translation>
+        <translation>%1-日の無料体験を開始します</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished">ログイン</translation>
+        <translation>ログイン</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation type="unfinished">個人で月額契約済の場合は、ログインしてKingsoft Officeを利用できます。</translation>
+        <translation>個人で月額契約済の場合は、ログインしてWPS Officeを利用できます。</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="unfinished">認証コードを入力してください。</translation>
+        <translation>認証コードを入力してください。</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished">すでに認証コードをお持ちの場合は、使用してKingsoft Officeを有効にしてください。</translation>
+        <translation>すでに認証コードをお持ちの場合は、使用してWPS Officeを有効にしてください。</translation>
     </message>
 </context>
 <context>
@@ -292,12 +312,12 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Thanks for using WPS Office 2012 Beta2.</source>
         <translatorcomment>Kingsoft Office 2012　Beta2をご利用していただありがとうございました</translatorcomment>
-        <translation>Kingsoft Office 2012 Beta2をご利用いただきありがとうございます。</translation>
+        <translation>WPS Office 2012 Beta2をご利用いただきありがとうございます。</translation>
     </message>
     <message>
         <source>The trial period of your WPS Office Beta has expired. You can enter Viewer mode, in which keyboard entry will be disabled, to continue or update to the latest Personal version of WPS Office.</source>
         <translatorcomment>ご利用いただきBetaバージョンを使用期限に切れました。「ビューワーモード」(ビューワーモードで編集できません。)を選択して利用します、または最新版へアップデートしてください。</translatorcomment>
-        <translation>Kingsoft Office Betaの体験期間が終了しました。キーボード入力ができないビューワーモードを利用するか、最新のKingsoft Office個人版にアップデートしてください。</translation>
+        <translation>WPS Office Betaの体験期間が終了しました。キーボード入力ができないビューワーモードを利用するか、最新のWPS Office個人版にアップデートしてください。</translation>
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
@@ -316,7 +336,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgTrialExpireReminder</name>
     <message>
         <source>WPS Office Expiration Reminder</source>
-        <translation>Kingsoft Officeの有効期限通知</translation>
+        <translation>WPS Officeの有効期限通知</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -338,12 +358,16 @@ p, li { white-space: pre-wrap; }
         <source>Buy Now</source>
         <translation>今すぐ購入</translation>
     </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>Contact Email:gch@wps.cn</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation>Kingsoft Officeの有効期限通知</translation>
+        <translation>WPS Officeの有効期限通知</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -396,11 +420,15 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Please download and install VBA to allow all macros to run if needed. If you have installed VBA, please restart WPS Office.</source>
         <translatorcomment>マクロを実行するには VBAをインストールする必要です。 VBAがインストールされた場合、 WPS Officeを再起動してください。</translatorcomment>
-        <translation>マクロを有効にするためには、VBA版をインストールする必要があります。VBA版をインストールした後、Kingsoft Officeを再起動してください。</translation>
+        <translation>マクロを有効にするためには、VBA版をインストールする必要があります。VBA版をインストールした後、WPS Officeを再起動してください。</translation>
     </message>
     <message>
         <source>&amp;Download</source>
         <translation>ダウンロード(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Never show again</source>
+        <translation>今後表示しません</translation>
     </message>
 </context>
 <context>
@@ -416,18 +444,22 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Macros are not supported in this version of WPS Office. Please purchase WPS Office to use macros.</source>
         <translatorcomment>このバージョンにVBAが対応できません、VBA対応するバージョンを購入してください。</translatorcomment>
-        <translation>Kingsoft Officeのこのバージョンではマクロが利用できません。Kingsoft Office VBA対応版を購入してください。</translation>
+        <translation>WPS Officeのこのバージョンではマクロが利用できません。WPS Office VBA対応版を購入してください。</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <source>LEARN MORE</source>
+        <translation>もっと了解</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWelcome</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Kingsoft Officeをご利用いただき、ありがとうございます</translation>
+        <translation>WPS Officeをご利用いただき、ありがとうございます</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -469,16 +501,44 @@ p, li { white-space: pre-wrap; }
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
         <translation type="obsolete">個人で月額契約済の場合は、ログインしてKingsoft Officeを利用できます。</translation>
     </message>
+    <message>
+        <source>Enter Serial Number</source>
+        <translation>シリアルの入力</translation>
+    </message>
+    <message>
+        <source>Activate WPS Office with existing Serial Number.</source>
+        <translation>既存のシリアル番号でWPS Officeを認証します。</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWelcomePage</name>
     <message>
         <source>Welcome to WPS Office</source>
-        <translation>Kingsoft Officeをご利用いただき、ありがとうございます</translation>
+        <translation>WPS Officeをご利用いただき、ありがとうございます</translation>
     </message>
     <message>
         <source>Get Started</source>
-        <translation type="unfinished">開始する</translation>
+        <translation type="obsolete">開始する</translation>
+    </message>
+    <message>
+        <source>Personal Edition(Free)</source>
+        <translation>Personal Edition(無料)</translation>
+    </message>
+    <message>
+        <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
+        <translation>%1-日無料 WPS Office Business Edition. %2使用開始 &gt;&gt;%3.</translation>
+    </message>
+    <message>
+        <source>Did you purchase WPS Office?</source>
+        <translation>WPS Officeを購入しますか？</translation>
+    </message>
+    <message>
+        <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
+        <translation>クリックして %1ログイン%2 または %3,シリアルコード%4を入力します。</translation>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation>フィードバック？</translation>
     </message>
 </context>
 <context>
@@ -489,7 +549,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as docx format</source>
-        <translation> docx形式で保存します</translation>
+        <translation type="obsolete"> docx形式で保存します</translation>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
@@ -569,7 +629,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as xlsx/xlsm format</source>
-        <translation> xlsx/xlsm形式で保存</translation>
+        <translation type="obsolete"> xlsx/xlsm形式で保存</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -622,6 +682,14 @@ p, li { white-space: pre-wrap; }
         <source>Allow multiple people to work in a workbook at the same time.</source>
         <translation>複数のユーザーによるブックの同時編集が可能になります。</translation>
     </message>
+    <message>
+        <source>Print</source>
+        <translation>印刷</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>PDFファイルとして出力</translation>
+    </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
@@ -643,7 +711,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WPS Office Free.</source>
-        <translation>Kingsoft Office 無料版</translation>
+        <translation>WPS Office 無料版</translation>
     </message>
     <message>
         <source>WPS Online Store.</source>
@@ -674,7 +742,7 @@ p, li { white-space: pre-wrap; }
     <name>KxQingActiveCodeDialog</name>
     <message>
         <source>WPS Office Activation Code</source>
-        <translation>Kingsoft Office 認証コード</translation>
+        <translation>WPS Office 認証コード</translation>
     </message>
     <message>
         <source>Please enter your activation code</source>
@@ -789,18 +857,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activation code expires on: %1</source>
-        <translation type="obsolete">他の認証コードを使用してください。</translation>
+        <translation>他の認証コードを使用してください。</translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation type="obsolete">他の認証コードを使用してください。</translation>
+        <translation>他の認証コードを使用してください。</translation>
+    </message>
+    <message>
+        <source>The serial number is not support this platform.</source>
+        <translation>このシリアル番号を使用できません。</translation>
+    </message>
+    <message>
+        <source>Please check your network connection or %1configure proxy%2 and try again.</source>
+        <translation>ネットワークを確認してください。</translation>
+    </message>
+    <message>
+        <source>WPS Office Serial Number</source>
+        <translation>WPS Office シリアル番号</translation>
+    </message>
+    <message>
+        <source>&lt;u&gt;Use other SN or Activation codes&lt;/u&gt;</source>
+        <translation>&lt;u&gt;他のシリアルを使用&lt;/u&gt;</translation>
+    </message>
+    <message>
+        <source>Activation/SN code expires on: %1</source>
+        <translation>シリアルの期限切れ時間: %1</translation>
+    </message>
+    <message>
+        <source>Add SN Succeed.</source>
+        <translation>シリアルを追加しました。</translation>
     </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
     <message>
         <source>WPS Office activation is successful</source>
-        <translation>Kingsoft Officeの認証が完了しました</translation>
+        <translation>WPS Officeの認証が完了しました</translation>
     </message>
     <message>
         <source>OK</source>
@@ -818,7 +910,7 @@ p, li { white-space: pre-wrap; }
 You need to sign in before you buy. </source>
         <translatorcomment>ここをクリックすると「購入」画面へ遷移して、もとより情報を了解できます。
 「購入」する前にログインしてください。</translatorcomment>
-        <translation>Kingsoft Officeを購入するには、ここをクリックすることで購入・詳細情報ページに遷移します。
+        <translation>WPS Officeを購入するには、ここをクリックすることで購入・詳細情報ページに遷移します。
 購入前にログインしてください。</translation>
     </message>
     <message>
@@ -830,7 +922,7 @@ You need to sign in before you buy. </source>
         <source>After the trial expires, some features will not work properly. 
 Please purchase to continue using WPS Office.</source>
         <translatorcomment>体験終了後に、ある機能が利用できなくなります。使用に影響を与えないため、WPS Officeを購入してください。</translatorcomment>
-        <translation>体験期間が終了すると、一部機能が制限されます。Kingsoft Officeを引き続き使用される場合は購入してください。</translation>
+        <translation>体験期間が終了すると、一部機能が制限されます。WPS Officeを引き続き使用される場合は購入してください。</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
@@ -856,7 +948,7 @@ Please purchase to continue using WPS Office.</source>
 After expiration, some features will not work properly. Please renew now.</source>
         <translatorcomment>購入されたWPS Officeはまもなく体験終了になります。
 体験終了後に、ある機能が利用できなくなります。使用に影響を与えないため、WPS Officeを購入してください。</translatorcomment>
-        <translation>Kingsoft Officeは間もなく有効期限切れになります。
+        <translation>WPS Officeは間もなく有効期限切れになります。
 期限が切れると、一部機能が制限されます。今すぐ更新してください。</translation>
     </message>
     <message>
@@ -889,7 +981,7 @@ After expiration, some features will not work properly. Please renew now.</sourc
 After expiration, some features will not work properly. Please renew now. </source>
         <translatorcomment>購入されたWPS Officeはまもなく体験終了になります。
 体験終了後に、ある機能が利用できなくなります。使用に影響を与えないため、WPS Officeを購入してください。</translatorcomment>
-        <translation>Kingsoft Officeは間もなく有効期限切れになります。
+        <translation>WPS Officeは間もなく有効期限切れになります。
 期限が切れると、一部機能が制限されます。今すぐ更新してください。</translation>
     </message>
     <message>
@@ -905,12 +997,28 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translatorcomment>サーバーに接続できません、認証できません、ネットワークの接続をチェックしてから再認証してください。</translatorcomment>
         <translation>サーバーに接続できないため、認証できません。ネットワーク接続を確認し、再認証してください。</translation>
     </message>
+    <message>
+        <source>Buy</source>
+        <translation>購入</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>アクティブ</translation>
+    </message>
+    <message>
+        <source>Purchase License</source>
+        <translation>ライセンスを購入</translation>
+    </message>
+    <message>
+        <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
+        <translation>ライセンスを購入すると、広告が非表示になり、エクストラサービスも使用できます。</translation>
+    </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
     <message>
         <source>Buy/Renew Now</source>
-        <translation type="unfinished">購入/契約更新</translation>
+        <translation type="obsolete">購入/契約更新</translation>
     </message>
 </context>
 <context>
@@ -936,7 +1044,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>WPS Office Free cannot support VBA, thus macros in the document cannot work properly. Please purchase WPS Office to enable macro if needed.</source>
-        <translation>Kingsoft Office 無料版にはVBA機能が含まれていないため、ドキュメント内のマクロを有効にできません。マクロを実行するためには、別途VBA版を購入してください。</translation>
+        <translation>WPS Office 無料版にはVBA機能が含まれていないため、ドキュメント内のマクロを有効にできません。マクロを実行するためには、別途VBA版を購入してください。</translation>
     </message>
     <message>
         <source>Your subscription does not include VBA, thus macros in the document cannot work properly. Please purchase separately to enable macro if needed.</source>
@@ -962,19 +1070,23 @@ After expiration, some features will not work properly. Please renew now. </sour
     <name>KxWelcomePageDlg</name>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition</source>
-        <translation type="unfinished">WPS Officeビジネス版には %1日の無料体験期間があります。</translation>
+        <translation type="obsolete">WPS Officeビジネス版には %1日の無料体験期間があります。</translation>
     </message>
     <message>
         <source>Login/Register</source>
-        <translation type="unfinished">ログイン/登録</translation>
+        <translation type="obsolete">ログイン/登録</translation>
     </message>
     <message>
         <source>Buy/Enter Activation Code</source>
-        <translation type="unfinished">購入/認証コードの入力</translation>
+        <translation type="obsolete">購入/認証コードの入力</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFonts</name>
+    <message>
+        <source></source>
+        <translation></translation>
+    </message>
     <message>
         <source></source>
         <translation></translation>
@@ -1000,6 +1112,61 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>User Center</source>
         <translation type="obsolete">ユーザーセンター</translation>
+    </message>
+</context>
+<context>
+    <name>KLoginStatusTipWidget</name>
+    <message>
+        <source>Failed to launch Qing process</source>
+        <translation type="obsolete">発射に失敗しました。</translation>
+    </message>
+    <message>
+        <source>IPC errors occured when Get login information</source>
+        <translation type="obsolete">IPCエラーが発生しました。</translation>
+    </message>
+    <message>
+        <source>RPC errors occured when Get login information</source>
+        <translation type="obsolete">RPCエラーが発生しました。</translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterMenuButton</name>
+    <message>
+        <source>abnormal network status, turn to be offline status</source>
+        <translation>ネットワークに接続されていません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPromeExpireReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaDownloadGuiderDlg</name>
+    <message>
+        <source>tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>download</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

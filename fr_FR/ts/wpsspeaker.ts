@@ -39,7 +39,7 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation>Aucun contenu à lire.</translation>
+        <translation>Il n&apos;y a pas de contenus  à lire.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
@@ -47,11 +47,11 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation>Le contenu sélectionné ne peut pas être converti en données vocales. Sélectionnez à nouveau.</translation>
+        <translation>Le contenu sélectionné ne peut pas être converti en données vocales. Faites une autre sélection.</translation>
     </message>
     <message>
         <source>Click here to open the Text Reading tool box.</source>
-        <translation>Cliquez ici pour ouvrir la boîte à outils de lecture de texte.</translation>
+        <translation>Cliquez ici pour ouvrir la boîte à outils Lecture de texte.</translation>
     </message>
     <message>
         <source>Your </source>
@@ -67,15 +67,15 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     </message>
     <message>
         <source>More about VIP</source>
-        <translation>Optez pour un compte VIP afin de continuer à utiliser le système et de bénéficier de plus de services !</translation>
+        <translation>Plus d&apos;imformations de VIP</translation>
     </message>
     <message>
         <source>Text Reading</source>
-        <translation>Lecture de texte</translation>
+        <translation>Lecture de Texte</translation>
     </message>
     <message>
         <source>Become a VIP</source>
-        <translation>Opter pour un compte VIP</translation>
+        <translation>Devenir un VIP</translation>
     </message>
     <message>
         <source>Exporting Audio </source>
@@ -87,6 +87,26 @@ Are you sure to close?</source>
         <translation>Le fichier son de ce document est en cours d&apos;exportation. 
 Voulez-vous vraiment fermer ?</translation>
     </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Votre période d&apos;évaluation de ce jour se termine bientôt.
+Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Votre période d&apos;évaluation est terminée.
+Devenez un VIP pour continuer à l&apos;utiliser.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>Seuls les VIP peuvent utiliser la lecture de texte en durée illimitée.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>Devenez un VIP et vous pourrez utiliser 14 fonctionnalités exclusives, notamment la lecture de texte.</translation>
+    </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
@@ -96,7 +116,7 @@ Voulez-vous vraiment fermer ?</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation>Fichiers de forme d&apos;onde audio (*.wav)</translation>
+        <translation>Fichier audio Windows (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -109,7 +129,7 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     </message>
     <message>
         <source>There is no content to read.</source>
-        <translation>Aucun contenu à lire.</translation>
+        <translation>Il n&apos;y a pas de contenus  à lire.</translation>
     </message>
     <message>
         <source>Do not prompt me again</source>
@@ -117,7 +137,19 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation>Le contenu sélectionné ne peut pas être converti en données vocales. Sélectionnez à nouveau.</translation>
+        <translation>Le contenu sélectionné ne peut pas être converti en données vocales. Faites une autre sélection.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Votre période d&apos;évaluation de ce jour se termine bientôt.
+Devenez un VIP et utilisez cette fonctionnalité à tout moment.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Votre période d&apos;évaluation est terminée.
+Devenez un VIP pour continuer à l&apos;utiliser.</translation>
     </message>
 </context>
 <context>
@@ -203,19 +235,19 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     <name>KxWpsSpeakStation</name>
     <message>
         <source>Cannot start reading.</source>
-        <translation>Impossible de démarrer la lecture.</translation>
+        <translation>Échec de commencer la lecture</translation>
     </message>
     <message>
         <source>Cannot start local reading client.</source>
-        <translation>Impossible de démarrer le client de lecture local.</translation>
+        <translation>Échec de commencer la lecture du client locale.</translation>
     </message>
     <message>
         <source>Failed connection with the reading client: </source>
-        <translation>Échec de la connexion au client de lecture : </translation>
+        <translation>Échec de connexion avec la lecture du client: </translation>
     </message>
     <message>
         <source>Failed to setup local reading client.</source>
-        <translation>Échec de la configuration du client de lecture local.</translation>
+        <translation>Échec de définir la lecture du client locale.</translation>
     </message>
 </context>
 <context>
@@ -326,7 +358,7 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>Début</translation>
+        <translation>Démarrage</translation>
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
@@ -432,7 +464,7 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>paramètre de l&apos;intervenant</translation>
+        <translation>Paramètre de l&apos;intervenant</translation>
     </message>
     <message>
         <source>Voice Properties</source>
@@ -520,6 +552,24 @@ Vérifiez le klaxon au bout du coin droit de Bureau.   </translation>
     <message>
         <source>SAPI - failed to set voice speed: </source>
         <translation>SAPI -échec de définir la vitesse de voix: </translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Devenir un VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Plus d&apos;imformations de VIP</translation>
     </message>
 </context>
 </TS>

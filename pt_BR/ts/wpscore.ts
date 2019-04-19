@@ -54,7 +54,7 @@
     <message>
         <source>Author</source>
         <comment>IO_String_Author</comment>
-        <translation>Autor</translation>
+        <translation type="obsolete">Autor</translation>
     </message>
 </context>
 <context>
@@ -161,12 +161,12 @@ Tente uma ou mais das seguintes ações:
     <message>
         <source>Error! Number cannot be represented in specified format.</source>
         <comment>TX_FIELD_ERR_NUM_CANNOT_BE_SPECIFIED_FORMAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erro! Não foi possível representar o número no formato específico.</translation>
     </message>
     <message>
         <source>Error! The style has no specified text.</source>
         <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Erro! Nenhum texto do estilo específico no documento.</translation>
     </message>
 </context>
 <context>
@@ -332,6 +332,28 @@ Tente uma ou mais das seguintes ações:
         <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
         <translation>Os Campos São Aninhados Muito Profundamente.</translation>
     </message>
+    <message>
+        <source>Do you want to replace the selected table of contents?</source>
+        <comment>TX_REPLACE_TABLE_OF_CONTENT</comment>
+        <translation type="unfinished">Você Quer Substituir O Índice Seleccionado ?</translation>
+    </message>
+    <message>
+        <source>No table of contents in the file</source>
+        <comment>TX_NO_TOC_IN_FILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! No table of figures entries found.</source>
+        <comment>TX_FIELD_ERR_NOT_TABLE_OF_FIGURES_ENTRIES_FOUND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot create automatic table of contents since no heading style or outline level has been set. 
+
+Replace with a manual table?</source>
+        <comment>TX_TOC_REPLACE_TO_MANUALCONTENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_field_parser_mailmerge</name>
@@ -425,6 +447,16 @@ Tente uma ou mais das seguintes ações:
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
         <translation>O Mesmo que a  Seção Anterior</translation>
+    </message>
+    <message>
+        <source>View More Replies</source>
+        <comment>TxPropmpt_ViewMoreReplies</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View More Comments / Revisions</source>
+        <comment>TxPropmpt_ViewMoreCommentsRevisions</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -624,6 +656,11 @@ Tente uma ou mais das seguintes ações:
         <source>Adjust Bottom</source>
         <comment>TxToolTip_Adjust_Bottom</comment>
         <translation>Ajuste Inferior</translation>
+    </message>
+    <message>
+        <source> (Press Enter Insert)</source>
+        <comment>TxToolTip_Entery_Insert</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2360,167 +2397,167 @@ Você quer substituí-lo?</translation>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preto;Azul-petróleo;Azul-escuro;Índigo;Azul;Azul-claro;Cinza-azulado;Lavanda;Cinza-80%;Azul-petróleo;Azul-piscina;Azul-céu;Azul-pálido;Turquesa-claro;Rosa;Rosa-claro;%Cinza-50%;Verde-mar;Turquesa;Verde-claro;Branco;Amarelo-claro;Marrom-claro;Violeta;Cinza-40%;Verde-escuro;Verde-brilhante;Amarelo;Dourado;Laranja-claro;Vermelho;Ameixa;Cinza-25%;Verde;Verde-limão;Amarelo-escuro;Verde-oliva;Laranja;Marrom;Vermelho-escuro;Vermelho-escuro;Laranja;Verde-claro;Verde;Azul-claro;Azul;Azul-escuro;Roxo;Escuro1;Claro1;Escuro2;Claro2;Ênfase1;Ênfase2;Ênfase3;Ênfase4;Ênfase5;Ênfase6;Hiperlink;HiperlinkVisitado;Plano de Fundo1;Texto1;Plano de Fundo2;Texto2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;escuro1;claro1;escuro2;claro2;ênfase1;ênfase2;ênfase3;ênfase4;ênfase5;ênfase6;hiperlink;hiperlinkvisitado;plano de fundo1;texto1;plano de fundo2;texto2</translation>
     </message>
     <message>
         <source>White</source>
         <comment>TxRevision_Shp_Background_White</comment>
-        <translation type="unfinished"></translation>
+        <translation>Branco</translation>
     </message>
     <message>
         <source>Text Outline</source>
         <comment>TxRevision_Chp_TextOutline_Effect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contorno do Texto</translation>
     </message>
     <message>
         <source>Text Fill</source>
         <comment>TxRevision_Chp_TextFill_Effect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Preenchimento de Texto</translation>
     </message>
     <message>
         <source>Glow</source>
         <comment>TxRevision_Chp_Glow_Effect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brilho</translation>
     </message>
     <message>
         <source>Reflection</source>
         <comment>TxRevision_Chp_Reflection_Effect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflexo</translation>
     </message>
     <message>
         <source>Bevel</source>
         <comment>TxRevision_Chp_Props3D_Effect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bisel</translation>
     </message>
     <message>
         <source>Click here to enter text.</source>
         <comment>TxTextControl_HdrText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clique aqui para inserir texto.</translation>
     </message>
     <message>
         <source>Choose one.</source>
         <comment>TxDropdownControl_HdrText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Escolha um.</translation>
     </message>
     <message>
         <source>Select a building block.</source>
         <comment>TxBuildingControl_HdrText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Selecionar um bloco de construção.</translation>
     </message>
     <message>
         <source>Click here to enter a date.</source>
         <comment>TxDateControl_HdrText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Clique aqui para inserir uma data.</translation>
     </message>
     <message>
         <source>Enter to repeat any content (including other content controls). You can also insert this control around a table row to repeat part of the table.</source>
         <comment>TxRepeatSecControl_HdrText</comment>
-        <translation type="unfinished"></translation>
+        <translation>Insira qualquer conteúdo que queira repetir, inclusive outros controles de conteúdo. Você também pode inserir esse controle em torno de linhas da tabela para repetir partes de uma tabela.</translation>
     </message>
     <message>
         <source>group</source>
         <comment>TxGroupControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>grupo</translation>
     </message>
     <message>
         <source>Rich text controls</source>
         <comment>TxRichTextControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de rich text</translation>
     </message>
     <message>
         <source>Plain text controls</source>
         <comment>TxPlainTextControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de texto sem formatação</translation>
     </message>
     <message>
         <source>Picture controls</source>
         <comment>TxPictureControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de imagem</translation>
     </message>
     <message>
         <source>Document building block controls</source>
         <comment>TxDocumentBuildingBlockControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de bloco de construção de documento</translation>
     </message>
     <message>
         <source>Check box controls</source>
         <comment>TxCheckboxControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de caixa de seleção</translation>
     </message>
     <message>
         <source>Combo box controls</source>
         <comment>TxComboboxControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de caixa de combinação</translation>
     </message>
     <message>
         <source>Drop-down list controls</source>
         <comment>TxDropDownListControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de lista suspensa</translation>
     </message>
     <message>
         <source>Date picker controls</source>
         <comment>TxDatePickerControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Controles de selecionador de data</translation>
     </message>
     <message>
         <source>Repeating section controls</source>
         <comment>TxRepeatingSectionControl_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Repetição de controles de seção</translation>
     </message>
     <message>
         <source>%s cannot be applied here.</source>
         <comment>TxContentControls_Add_Warning1</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s não pode ser aplicado aqui.</translation>
     </message>
     <message>
         <source>%s cannot be inserted around multiple selections.</source>
         <comment>TxContentControls_Add_Warning2</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s não pode ser inserido ao redor de várias seleções.</translation>
     </message>
     <message>
         <source>%s cannot be inserted around table columns.</source>
         <comment>TxContentControls_Add_Warning3</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s não pode ser inserido ao redor de colunas de tabela.</translation>
     </message>
     <message>
         <source>Repeating section controls can only be inserted around entire paragraphs or rows.</source>
         <comment>TxContentControls_Add_Warning4</comment>
-        <translation type="unfinished"></translation>
+        <translation>A repetição dos controles de seção só podem ser inseridas em torno de parágrafos ou linhas inteiras.</translation>
     </message>
     <message>
         <source>Picture controls cannot be inserted around a selection which contains non-image content, floating images, or more than a single inline image.</source>
         <comment>TxContentControls_Add_Warning5</comment>
-        <translation type="unfinished"></translation>
+        <translation>Não é possível inserir controles de imagem ao redor de uma seleção que inclui conteúdo diferente de imagem, imagens flutuantes ou mais de uma única imagem embutida.</translation>
     </message>
     <message>
         <source>%s cannot be inserted around the current selection.</source>
         <comment>TxContentControls_Add_Warning6</comment>
-        <translation type="unfinished"></translation>
+        <translation>%s não pode ser inserido ao redor da seleção atual.</translation>
     </message>
     <message>
         <source>Quick Parts</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Partes Rápidas</translation>
     </message>
     <message>
         <source>Cover Pages</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Folhas de Rosto</translation>
     </message>
     <message>
         <source>Equations</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Equações</translation>
     </message>
     <message>
         <source>Footers</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rodapés</translation>
     </message>
     <message>
         <source>Headers</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cabeçalhos</translation>
     </message>
     <message>
         <source>Page Numbers</source>
@@ -2530,160 +2567,234 @@ Você quer substituí-lo?</translation>
     <message>
         <source>Tables</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelas</translation>
     </message>
     <message>
         <source>Watermarks</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marcas D&apos;água</translation>
     </message>
     <message>
         <source>AutoText</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>AutoTexto</translation>
     </message>
     <message>
         <source>Text Boxes</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caixas de Textos</translation>
     </message>
     <message>
         <source>Page Numbers (Top of Page)</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página (Início da Página)</translation>
     </message>
     <message>
         <source>Page Numbers (Bottom of Page)</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página (Fim da Página)</translation>
     </message>
     <message>
         <source>Page Numbers (Margins)</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página (Margens)</translation>
     </message>
     <message>
         <source>Table of Contents</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sumário</translation>
     </message>
     <message>
         <source>Custom Quick Parts</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Partes Rápidas Personalizadas</translation>
     </message>
     <message>
         <source>Custom Cover Pages</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Custom Cover Pages</translation>
     </message>
     <message>
         <source>Custom Equations</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Equações Personalizadas</translation>
     </message>
     <message>
         <source>Custom Footers</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rodapés Personalizados</translation>
     </message>
     <message>
         <source>Custom Headers</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cabeçalhos Personalizados</translation>
     </message>
     <message>
         <source>Custom Page Numbers</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página Personalizados</translation>
     </message>
     <message>
         <source>Custom Tables</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabelas Personalizadas</translation>
     </message>
     <message>
         <source>Custom Watermarks</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marcas d&apos;água Personalizadas</translation>
     </message>
     <message>
         <source>Custom AutoText</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>AutoTexto Personalizado</translation>
     </message>
     <message>
         <source>Custom Text Boxes</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caixas de Texto Personalizadas</translation>
     </message>
     <message>
         <source>Custom Page Numbers (Top of Page)</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página Personalizados (Início da Página)</translation>
     </message>
     <message>
         <source>Custom Page Numbers (Bottom of Page)</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página Personalizados (Fim da Página)</translation>
     </message>
     <message>
         <source>Custom Page Numbers (Margins)</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Números de Página Personalizados (Margens)</translation>
     </message>
     <message>
         <source>Custom Table of Contents</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sumário Personalizado</translation>
     </message>
     <message>
         <source>Custom 1</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado 1</translation>
     </message>
     <message>
         <source>Custom 2</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado 2</translation>
     </message>
     <message>
         <source>Custom 3</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado 3</translation>
     </message>
     <message>
         <source>Custom 4</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado 4</translation>
     </message>
     <message>
         <source>Custom 5</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizado 5</translation>
     </message>
     <message>
         <source>Bibliographies</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bibliografias</translation>
     </message>
     <message>
         <source>Custom Bibliographies</source>
         <comment>BuildingBlockTypeName</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bibliografias Personalizadas</translation>
     </message>
     <message>
         <source>General</source>
         <comment>TxBBCategoryName_General</comment>
-        <translation type="unfinished"></translation>
+        <translation>Geral</translation>
     </message>
     <message>
         <source>unknown</source>
         <comment>TxUserInfo_DefaultUserName</comment>
-        <translation type="obsolete">desconhecido</translation>
+        <translation>desconhecido</translation>
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>Os objetos deste documento contêm links para arquivos que não foram encontrados. As informações vinculadas não serão atualizadas.</translation>
+    </message>
+    <message>
+        <source>Tips: WPS formula content found temporarily unable to resolve in this document, in order to avoid the impact of your work, place documents into .doc format before using WPS Now!</source>
+        <comment>TxBBCheckNewFormulaTip</comment>
+        <translation>Aviso: o WPS Office encontrou conteúdo de fórmula não resolvida neste documento. Converter o documento no formato doc.</translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>TxSortFieldNumber_Paragraphs</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <comment>TxSortFieldNumber_Headings</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outlook is not installed or configured correctly, sending failed.</source>
+        <comment>_TxMailMerge_Outlook_Not_Available</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>_TxMailMerge_FieldName</comment>
+        <translation type="unfinished">Nome</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <comment>_TxMailMerge_FieldCompany</comment>
+        <translation type="unfinished">Empresa</translation>
+    </message>
+    <message>
+        <source>JobTitle</source>
+        <comment>_TxMailMerge_FieldJobTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PostalCode</source>
+        <comment>_TxMailMerge_FieldPostalCode</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <comment>_TxMailMerge_FieldAddress</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <comment>_TxMailMerge_FieldPhone</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <comment>TxRevision_Comment_Author</comment>
+        <translation type="unfinished">Autor</translation>
+    </message>
+    <message>
+        <source>WPS cannot save changeds to the global template, because it was opened with read-only access.</source>
+        <comment>TxNormalReadOnlyMessageBoxText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Not Privilege</source>
+        <comment>_TxTemplate_Not_Privilege</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Medium Full</source>
+        <comment>_TxTemplate_MediumFull</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2814,7 +2925,7 @@ Use O Botão &apos;Localizar Próxima Área Editável &apos;Para Mostrar Cada Re
     <message>
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <comment>_TxErr_InvalidPHdrText</comment>
-        <translation type="unfinished"></translation>
+        <translation>O WPS Writer não pode desativar o modo de design porque o texto de espaço reservado em um controle de conteúdo contém itens inválidos. O texto de espaço reservado não pode conter itens, como objetos flutuantes, marcas de revisão ou controles de conteúdo. Remova esses itens do texto de espaço reservado e tente novamente.</translation>
     </message>
 </context>
 <context>
@@ -2837,7 +2948,7 @@ Use O Botão &apos;Localizar Próxima Área Editável &apos;Para Mostrar Cada Re
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished">builtin.wpt</translation>
+        <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -2847,17 +2958,17 @@ Use O Botão &apos;Localizar Próxima Área Editável &apos;Para Mostrar Cada Re
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation type="obsolete">Arquivos Comuns ( * WPS ; *. .Wpt ; * Doc ; * .Dot ; * .Rtf ; * Docx )</translation>
+        <translation type="unfinished">Arquivos Comuns(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation type="obsolete">* .wps ; * WPT ; . *. doc ; *. dot ; *. orkut ; * .docx</translation>
+        <translation type="unfinished">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
         <comment>TxDesc_All</comment>
-        <translation>Todos Os Arquivos ( *. *)</translation>
+        <translation>Todos Os Arquivos(*.*)</translation>
     </message>
     <message>
         <source>*.*</source>
@@ -2867,22 +2978,22 @@ Use O Botão &apos;Localizar Próxima Área Editável &apos;Para Mostrar Cada Re
     <message>
         <source>ICBC Preparatory Documents(*.ic1)</source>
         <comment>TxDesc_IC1</comment>
-        <translation>Documentos Icbc Preparatórios ( * . Ic1 )</translation>
+        <translation>Documentos Icbc Preparatórios(*.ic1)</translation>
     </message>
     <message>
         <source>*.ic1</source>
         <comment>TxExts_IC1</comment>
-        <translation>* .ic1</translation>
+        <translation>*.ic1</translation>
     </message>
     <message>
         <source>ICBC Official Documents(*.ic2)</source>
         <comment>TxDesc_IC2</comment>
-        <translation>Documentos Oficiais ( Icbc * . Ic2 )</translation>
+        <translation>Documentos Oficiais(*.ic2)</translation>
     </message>
     <message>
         <source>*.ic2</source>
         <comment>TxExts_IC2</comment>
-        <translation>* .ic2</translation>
+        <translation>*.ic2</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
@@ -2948,7 +3059,7 @@ Se Você Estiver Tentando Abrir O Arquivo de Sua Lista de Arquivos Usados ​​
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation>WPS Writer Não Pode Salvar Ou Criar Este Arquivo.
+        <translation type="obsolete">WPS Writer Não Pode Salvar Ou Criar Este Arquivo.
 Por Favor, Verifique Se O Arquivo Não Está Bloqueado Por Outro Usuário, Ou O Disco de Destino Não Está Cheio Ou Não Danificada .
 ( %s )</translation>
     </message>
@@ -3127,7 +3238,7 @@ Digite Um Nome Diferente Para O Documento Que Você Deseja Salvar.
     <message>
         <source>WPS document in %s</source>
         <comment>_TxDocument_OnSetHostNames</comment>
-        <translation>Documento WPS Em %s</translation>
+        <translation type="obsolete">Documento WPS Em %s</translation>
     </message>
     <message>
         <source>The specified file “%s” is not the supported file type, please click OK and then specify a type in the Save As dialogue box.</source>
@@ -3154,12 +3265,12 @@ Para Continuar Salvando Como Um Documento sem Macro, Clique Em Sim.</translation
     <message>
         <source>Common Files(*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPSEx</comment>
-        <translation type="obsolete">Arquivos Comuns ( * WPS ; *. .Wpt ; * .WPSx ; * Doc ; * .Dot ; * .Rtf ; * Docx )</translation>
+        <translation type="obsolete">Arquivos Comuns (*.wps; *.wpt; *.wpsx; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPSEx</comment>
-        <translation type="obsolete">* .wps ; * WPT ; . *. wpsx ; *. doc ; *. dot ; *. orkut ; * .docx</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.wpsx;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>WPS Writer cannot open this file, because the current user does not have enough permission to access.
@@ -3192,22 +3303,74 @@ Este backup será salvo em (%s)</translation>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>Arquivos Comuns ( * WPS ; *. .Wpt ; * Doc ; * .Dot ; * .Rtf ; * Docx ; * Pdf)</translation>
+        <translation type="obsolete">Arquivos Comuns(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
         <comment>TxExts_AllWPS</comment>
-        <translation>* .wps ; * WPT ; . *. doc ; *. dot ; *. orkut ; * .docx ; *. pdf</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
     </message>
     <message>
         <source>Document has been locked by %s. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
-        <translation type="unfinished"></translation>
+        <translation>O documento foi bloqueado por %s. Deseja abri-lo como somente leitura?
+(%s)</translation>
     </message>
     <message>
         <source>Normal.dotm</source>
         <comment>_TxDocument_NormalTemplate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The specified file “%s” is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>_TxDocument_FormatNotCompatible_ODT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document in %s</source>
+        <comment>_TxDocument_OnSetHostNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TxDesc_AllWPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TxDescOFD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TxDescPDF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Document Files(*.wpsj)|*.wpsj</source>
+        <comment>TxDescGPCrypt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>_TxDocument_UnSupportFileFormat</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5084,7 +5247,7 @@ Cancelar : Retorna Ao Diálogo.</translation>
     </message>
     <message>
         <source>The objects or tables in a scalable text box will be removed. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Os objetos ou as tabelas em uma caixa de texto escalonável serão removidos. Deseja continuar?</translation>
     </message>
 </context>
 <context>
@@ -5092,22 +5255,22 @@ Cancelar : Retorna Ao Diálogo.</translation>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation type="unfinished">.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation type="unfinished">.</translation>
+        <translation type="obsolete">.</translation>
     </message>
     <message>
         <source>All Files(*.*) | *.*; |</source>
         <comment>TxDesc_DataSource_All</comment>
-        <translation>Todos Os Arquivos ( *. *) | * . ; |</translation>
+        <translation>Todos Os Arquivos (*.*) | *.*; |</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation type="obsolete">Todas As Fontes de Dados (* Mdb ; * .Dsn ; * .Et ; Xls , Xlsx * , * .Xlsm ; * Txt ; .Csv ; * .Tab ; * .Db ; . .Dbf | * . Mdb ; * .Dsn ; * .Et ; Xls , Xlsx * , * .Xlsm ; * Txt ; .Csv ; * .Tab ; * .Db ; .Dbf ; |</translation>
+        <translation type="obsolete">Todas As Fontes de Dados(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Office database connection(*.odc) | *.odc |</source>
@@ -5117,62 +5280,62 @@ Cancelar : Retorna Ao Diálogo.</translation>
     <message>
         <source>Access Databases(*.mdb) | *.mdb; |</source>
         <comment>TxDesc_DataSource_mdb</comment>
-        <translation>Bancos de Dados Access | * Mdb ( * Mdb .); |</translation>
+        <translation>Bancos de Dados Access(*.mdb) | *.mdb; |</translation>
     </message>
     <message>
         <source>Microsoft Office address book(*.mdb) | *.mdb; |</source>
         <comment>TxDesc_DataSource_mdb2</comment>
-        <translation>Catálogo de Endereços Do Microsoft Office (* Mdb ). | * .Mdb ; |</translation>
+        <translation>Catálogo de Endereços Do Microsoft Office(*.mdb) | *.mdb; |</translation>
     </message>
     <message>
         <source>Access Projects(*ade; *adp) | *ade; *adp; |</source>
         <comment>TxDesc_DataSource_ade</comment>
-        <translation>Projetos de Acesso ( * Ade ; * Adp ) | * Ade ; * Adp ; |</translation>
+        <translation>Projetos de Acesso(*ade; *adp) | *ade; *adp; |</translation>
     </message>
     <message>
         <source>Microsoft database connection(*.udl) | *.udl; |</source>
         <comment>TxDesc_DataSource_udl</comment>
-        <translation>Conexão de Dados Microsoft (* Udl . ) | * .Udl ; |</translation>
+        <translation>Conexão de Dados Microsoft(*.udl) | *.udl; |</translation>
     </message>
     <message>
         <source>ODBC data source name(*.dsn) | *.dsn; |</source>
         <comment>TxDesc_DataSource_dsn</comment>
-        <translation>Odbc Data Source Name ( Dsn * . ) | * .Dsn ; |</translation>
+        <translation>Odbc Data Source Name(*.dsn) | *.dsn; |</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
         <comment>TxDesc_DataSource_et</comment>
-        <translation>WPS Spreadsheets Arquivos (* Et . ) | * .Et ; |</translation>
+        <translation>WPS Spreadsheets Arquivos(*.et) | *.et; |</translation>
     </message>
     <message>
         <source>Excel Files(*.xls) | *.xls; |</source>
         <comment>TxDesc_DataSource_xls</comment>
-        <translation>Arquivos Do Excel (* Xls ). | * Xls ; |</translation>
+        <translation type="obsolete">Arquivos Do Excel(*.xls) | *.xls; |</translation>
     </message>
     <message>
         <source>All Web Pages(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</source>
         <comment>TxDesc_DataSource_htm</comment>
-        <translation>Todas As Páginas da Web ( * Htm ; * Html ; * .Asp ; * .Mht ; * .Mhtml . ) | * .Htm; * Html ; * .Asp ; * .Mht ; * .Mhtml ; |</translation>
+        <translation>Todas As Páginas da Web(*.htm; *.html; *.asp; *.mht; *.mhtml) | *.htm; *.html; *.asp; *.mht; *.mhtml; |</translation>
     </message>
     <message>
         <source>RTF Format(*.rtf) | *.rtf; |</source>
         <comment>TxDesc_DataSource_rtf</comment>
-        <translation>Formato Rtf | * Rtf (* Rtf. ); |</translation>
+        <translation>Formato Rtf(*.rtf) | *.rtf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.doc) | *.doc; |</source>
         <comment>TxDesc_DataSource_doc</comment>
-        <translation type="obsolete">Documentos Do Word (* Doc . ) | * Doc ; |</translation>
+        <translation type="obsolete">Documentos Do Word(*.doc) | *.doc; |</translation>
     </message>
     <message>
         <source>All Word Documents(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</source>
         <comment>TxDesc_DataSource_alldoc</comment>
-        <translation type="obsolete">Todos Os Documentos Do Word (* Doc ; * .Dot ; * .Rtf ; * .Htm; * Html . ) | * Doc ; * .Dot ; * .Rtf ; * Htm ; * Html ; |</translation>
+        <translation type="obsolete">Todos Os Documentos Do Word(*.doc; *.dot; *.rtf; *.htm; *.html) | *.doc; *.dot; *.rtf; *.htm; *.html; |</translation>
     </message>
     <message>
         <source>Text Files(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</source>
         <comment>TxDesc_DataSource_txt</comment>
-        <translation>Arquivos de Texto (* Txt ; * .Csv ; * .Tab ; . ) | * Txt ; * .Csv ; * .Tab ; |</translation>
+        <translation>Arquivos de Texto(*.txt; *.csv; *.tab;) | *.txt; *.csv; *.tab; |</translation>
     </message>
     <message>
         <source>Microsoft Works Databases(*.wdb) | *.wdb; |</source>
@@ -5182,27 +5345,27 @@ Cancelar : Retorna Ao Diálogo.</translation>
     <message>
         <source>Outlook Personal Adress Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation type="obsolete">Livro de Endereços Pessoal Outlook(*. Pab)|*.Pab ; |</translation>
+        <translation type="obsolete">Livro de Endereços Pessoal Outlook(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>Lotus 1-2-3 Files(*.wk?; *.wj?) | *.wk?; *.wj?; |</source>
         <comment>TxDesc_DataSource_wk</comment>
-        <translation>Lotus 1-2-3 Arquivos (* Semana ?; * .Wj . ? ) | * .Wk ?; * .Wj ?; |</translation>
+        <translation>Lotus 1-2-3 Arquivos(*.wk?; *.wj?) | *.wk?; *.wj?; |</translation>
     </message>
     <message>
         <source>Paradox Files(*.db) | *.db; |</source>
         <comment>TxDesc_DataSource_db</comment>
-        <translation>Paradox Arquivos (* Db . ) | * .Db ; |</translation>
+        <translation>Paradox Arquivos(*.db) | *.db; |</translation>
     </message>
     <message>
         <source>DBase Files(*.dbf) | *.dbf; |</source>
         <comment>TxDesc_DataSource_dbf</comment>
-        <translation>Dbase Arquivos (* Dbf . ) | * .Dbf ; |</translation>
+        <translation>Dbase Arquivos(*.dbf) | *.dbf; |</translation>
     </message>
     <message>
         <source>Database Query(*.dqy; *.rqy) | *.dqy; *.rqy; |</source>
         <comment>TxDesc_DataSource_dqy</comment>
-        <translation>Database Query (* . Dqy ; * .Rqy ) | * .Dqy ; * .Rqy ; |</translation>
+        <translation>Database Query(*.dqy; *.rqy) | *.dqy; *.rqy; |</translation>
     </message>
     <message>
         <source>Select Data Source</source>
@@ -5827,7 +5990,7 @@ Cancelar : Retorna Ao Diálogo.</translation>
     <message>
         <source>Cut</source>
         <comment>TxVersion_Cut</comment>
-        <translation>Cut</translation>
+        <translation>Recortar</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -5917,7 +6080,7 @@ Cancelar : Retorna Ao Diálogo.</translation>
     <message>
         <source>Insert Chart</source>
         <comment>TxVersion_InsertChart</comment>
-        <translation>Insert Chart</translation>
+        <translation>Inserir Gráfico</translation>
     </message>
     <message>
         <source>To create a link, click an empty text box.
@@ -6172,12 +6335,12 @@ Proteção</translation>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation>Esconder White Space</translation>
+        <translation type="obsolete">Esconder White Space</translation>
     </message>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation>Mostrar Espaço Em Branco</translation>
+        <translation type="obsolete">Mostrar Espaço Em Branco</translation>
     </message>
     <message>
         <source>Mail Merge Insert Fields</source>
@@ -6621,7 +6784,7 @@ Check</source>
     <message>
         <source>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
         <comment>TxDesc_DataSource_xlsx</comment>
-        <translation>Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
+        <translation type="obsolete">Excel 2007/2010 Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -6636,7 +6799,7 @@ Check</source>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
-        <translation>WPS Writer 2007/2010 Arquivo (* . Wpsx )</translation>
+        <translation>WPS Writer 2007/2010 Arquivo(*.wpsx)</translation>
     </message>
     <message>
         <source>Date/Time</source>
@@ -6876,7 +7039,7 @@ Check</source>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
         <comment>TxDesc_DataSource_AllDataSource</comment>
-        <translation>Todas as Fontes de Dados (*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
+        <translation>Todas as Fontes de Dados(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</translation>
     </message>
     <message>
         <source>Word Documents(*.docx; *.doc; *.docm) | *.docx; *.doc; *.docm; |</source>
@@ -7396,42 +7559,42 @@ Check</source>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
         <comment>TxDesc_DataSource_pab</comment>
-        <translation>Livro de Endereços Pessoal Outlook(*. Pab)|*.Pab ; |</translation>
+        <translation>Livro de Endereços Pessoal Outlook(*.pab) | *.pab; |</translation>
     </message>
     <message>
         <source>PDF Files(*.pdf) | *.pdf; |</source>
         <comment>TxDesc_DataSource_pdf</comment>
-        <translation>Arquivos Do PDF (* Pdf ). | * Pdf ; |</translation>
+        <translation>Arquivos Do PDF(*.pdf) | *.pdf; |</translation>
     </message>
     <message>
         <source>The target text box is different format than your current text box. You can only link text boxes that are the same format.</source>
         <comment>TxMessage_CreateTextboxLinkError5</comment>
-        <translation type="unfinished"></translation>
+        <translation>A caixa de texto de destino tem um formato diferente da sua caixa de texto atual. Você só pode vincular caixas de texto do mesmo formato.</translation>
     </message>
     <message>
         <source>Set AutoShape Defaults</source>
         <comment>TxCaption_ShapeAutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definir padrões de AutoForma</translation>
     </message>
     <message>
         <source>Set as Default Shape</source>
         <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definir como Forma Padrão</translation>
     </message>
     <message>
         <source>Set as Default Text Box</source>
         <comment>TxCaption_DmlTextboxAutoShapeDefaults</comment>
-        <translation type="unfinished"></translation>
+        <translation>Definir como Caixa de Texto Padrão</translation>
     </message>
     <message>
         <source>InsertBefore</source>
         <comment>TxCaption_ContentControlInsertBefore</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Antes</translation>
     </message>
     <message>
         <source>InsertAfter</source>
         <comment>TxCaption_ContentControlInsertAfter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inserir Depois</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7446,12 +7609,200 @@ Check</source>
     <message>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
         <comment>TxError_EditChartDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>A grade de dados do gráfico já está aberta no &apos;%s&apos;. Para editar os dados desse gráfico, é preciso primeiro fechá-lo.</translation>
     </message>
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>TxCaption_NoSynonymsSuggestions</comment>
-        <translation type="obsolete">(Nenhuma sugestão de sinônimo)</translation>
+        <translation>(Nenhuma sugestão de sinônimo)</translation>
+    </message>
+    <message>
+        <source>Insert PTab</source>
+        <comment>TxVersion_InsertPTab</comment>
+        <translation>Tabulação de Alinhamento</translation>
+    </message>
+    <message>
+        <source>Align ThaiDistribute</source>
+        <comment>TxVersion_AlignThaiDistribute</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click to edit header</source>
+        <comment>TxMessage_ToolTip_DblClickToEditHeader</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-click to edit footer</source>
+        <comment>TxMessage_ToolTip_DblClickToEditFooter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit header</source>
+        <comment>TxMessage_ToolTip_ClickToEditHeader</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to edit footer</source>
+        <comment>TxMessage_ToolTip_ClickToEditFooter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel 97-2003 Files(*.xls) | *.xls; |</source>
+        <comment>TxDesc_DataSource_xls</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <comment>TxDesc_DataSource_xlsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change List Level</source>
+        <comment>TxVersion_ChangeListLevel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot sort a table containing merged cells.</source>
+        <comment>TxSortError_ContainingMergedCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word cannot sort this table or selection because all of its rows are table headings.</source>
+        <comment>TxSortError_RowsAreTableHeadings</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <comment>TxVersion_Reply</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <comment>TxVersion_Done</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert TableOfContents</source>
+        <comment>TxVersion_InsTableOfContents</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert TableOfFigures</source>
+        <comment>TxVersion_InsTableOfFigures</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Table</source>
+        <comment>TxVersion_FrameMove</comment>
+        <translation type="unfinished">Mover Tabela</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <comment>TxVersion_FrameResize</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Frame</source>
+        <comment>TxVersion_FormatFrame</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click the right mouse button to get the list</source>
+        <comment>TxMessageField_AutoTextList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TxMessage_Field_Text</comment>
+        <translation type="unfinished">Texto</translation>
+    </message>
+    <message>
+        <source>Update Content</source>
+        <comment>TxVersion_UpdateContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collated(Print copy by copy)</source>
+        <comment>TxPrintPreview_PrintCollated</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncollated(Print page by page)</source>
+        <comment>TxPrintPreview_PrintUncollated</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print One Sided</source>
+        <comment>TxPrintPreview_PrintOneSided</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Pages on Long Edge</source>
+        <comment>TxPrintPreview_FlipOnLongEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Pages on Short Edge</source>
+        <comment>TxPrintPreview_FlipOnShortEdge</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manually Print on Both Sides</source>
+        <comment>TxPrintPreview_ManualDuplex</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Click To Hide White Space</source>
+        <comment>TxMessage_ToolTip_HideBlank</comment>
+        <translation>Esconder White Space</translation>
+    </message>
+    <message>
+        <source>Double-Click To Show White Space</source>
+        <comment>TxMessage_ToolTip_DisplayBlank</comment>
+        <translation>Mostrar Espaço Em Branco</translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxCaption_PasteOriginFormatted</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxHint_PasteOriginFormatted</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxCaption_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxHint_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxCaption_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_autotext</name>
+    <message>
+        <source>Error! Unknown autotext entry</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNKNOWN_ENTRY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error! No autotext entry supplied</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNSPECIFIED_ENTRY</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

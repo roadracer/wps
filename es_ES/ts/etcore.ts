@@ -504,7 +504,7 @@ Por favor, especifique los archivos correctos.</translation>
     <message>
         <source>Error Checking &amp;Options...</source>
         <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
-        <translation>&amp;Opciones de comprobación de errores...</translation>
+        <translation type="obsolete">&amp;Opciones de comprobación de errores...</translation>
     </message>
     <message>
         <source>Error in Value</source>
@@ -1016,7 +1016,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Show &amp;Calculation Steps...</source>
         <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
-        <translation>Mostrar pasos de &amp;cálculo...</translation>
+        <translation type="obsolete">Mostrar pasos de &amp;cálculo...</translation>
     </message>
     <message>
         <source>Show Iteration Results</source>
@@ -1546,7 +1546,7 @@ To fix the links, select a single sheet and click Edit Links.</source>
     <message>
         <source>Workbook in %s</source>
         <comment>TX_OnSetHostNames_3</comment>
-        <translation>Libro de %s </translation>
+        <translation type="obsolete">Libro de %s </translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -1971,7 +1971,7 @@ Please try one of the following.
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation>Los errores ocurren cuando WPS Spreadsheets está guardando el archivo &quot;%s&quot;.Intente una de las siguientes opciones. Deshaga las operaciones anteriores y guárdelo. Guárdelo como archivo de texto. Copie/pegue el contenido en un documento nuevo. Abandone los cambios del archivo.</translation>
+        <translation type="obsolete">Los errores ocurren cuando WPS Spreadsheets está guardando el archivo &quot;%s&quot;.Intente una de las siguientes opciones. Deshaga las operaciones anteriores y guárdelo. Guárdelo como archivo de texto. Copie/pegue el contenido en un documento nuevo. Abandone los cambios del archivo.</translation>
     </message>
     <message>
         <source>To prevent possible losing data, WPS Spreadsheets cannot shove nonblank cells off the worksheet.
@@ -2058,12 +2058,12 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
-        <translation>Archivos comunes(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Archivos de WPS Spreadsheetss(*.et)|*.et|Archivos de Microsoft Excel(*.xls)|*.xls|Archivos de Microsoft Excel 2007/2010s(*.xlsx)|*.xlsx|Todos los archivos(*.*)|*.*||  </translation>
+        <translation type="obsolete">Archivos comunes(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Archivos de WPS Spreadsheetss(*.et)|*.et|Archivos de Microsoft Excel(*.xls)|*.xls|Archivos de Microsoft Excel 2007/2010s(*.xlsx)|*.xlsx|Todos los archivos(*.*)|*.*||  </translation>
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
-        <translation>Archivos comunes(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Archivos de WPS Spreadsheetss(*.et)|*.et|Archivos de Microsoft Excel(*.xls)|*.xls|Archivos de Microsoft Excel 2007/2010s(*.xlsx)|*.xlsx|Todos los archivos(*.*)|*.*||  </translation>
+        <translation type="obsolete">Archivos comunes(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Archivos de WPS Spreadsheetss(*.et)|*.et|Archivos de Microsoft Excel(*.xls)|*.xls|Archivos de Microsoft Excel 2007/2010s(*.xlsx)|*.xlsx|Todos los archivos(*.*)|*.*||  </translation>
     </message>
     <message>
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
@@ -2373,102 +2373,102 @@ Para cancelar la consulta, haga clic en Cancelar. </translation>
     <message>
         <source>You typed an invalid name for a sheet or chart. Make sure that:</source>
         <comment>TX_Invalid_MoveChart_Sheet_Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ha escrito un nombre no válido para una hoja o gráfico. Asegúrese de que:</translation>
     </message>
     <message>
         <source>@Theme Title</source>
         <comment>TX_OPTIONDLG_THEME_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fuente de encabezados</translation>
     </message>
     <message>
         <source>@Theme Text</source>
         <comment>TX_OPTIONDLG_THEME_Text</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fuente de cuerpo</translation>
     </message>
     <message>
         <source>[%s] %s: is being protected!</source>
         <comment>TX_ShareWorkSheet_MsgWarnning</comment>
-        <translation type="unfinished"></translation>
+        <translation>[%s] %s: está protegido.</translation>
     </message>
     <message>
         <source>WPS Spreadsheets can not paste data.</source>
         <comment>TX_Can_Not_Paste_Data</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets no puede pegar los datos.</translation>
     </message>
     <message>
         <source>The macro &apos;%s&apos; cannot be found.</source>
         <comment>TX_Can_Not_RunMacro</comment>
-        <translation type="unfinished"></translation>
+        <translation>No se puede ejecutar la macro &apos;%s&apos;. Puede que la macro no esté disponible en este libro o que se hayan deshabilitado todas las macros.</translation>
     </message>
     <message>
         <source>Switch Direction fail, series Count not fit chartType.</source>
         <comment>TX_Chart_SwitchDirection_Warning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Error al cambiar entre fila y columna o viceversa. El número de series no se ajusta al tipo de gráfico.</translation>
     </message>
     <message>
         <source>HighLight Changed fail, series Count not fit chartType.</source>
         <comment>TX_Chart_HighLightChanged_Warning</comment>
-        <translation type="unfinished"></translation>
+        <translation>Error al resaltar. El número de series no se ajusta al tipo de gráfico.</translation>
     </message>
     <message>
         <source>Invalid reference.To input a correct reference,you can click the target cell or drag mouse to select a range.</source>
         <comment>TX_XlfDialogBox_InvalidRef</comment>
-        <translation type="unfinished"></translation>
+        <translation>Referencia no válida. Para introducir una referencia correcta, haga clic en la celda objetivo o arrastre el mouse para seleccionar un rango.</translation>
     </message>
     <message>
         <source>It&apos;s not a valid Integer.</source>
         <comment>TX_XlfDialogBox_InvalidInteger</comment>
-        <translation type="unfinished"></translation>
+        <translation>No es un entero válido.</translation>
     </message>
     <message>
         <source>Input invalid! Please input a integer or a decimal.</source>
         <comment>TX_XlfDialogBox_InvalidNumber</comment>
-        <translation type="unfinished"></translation>
+        <translation>Entrada no válida. Introduzca un entero o un decimal.</translation>
     </message>
     <message>
         <source>Help</source>
         <comment>TX_XlfDialobBox_HelpButton</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta operación no está permitida. está intentando desplazar celdas en una tabla de la hoja de cálculo.</translation>
     </message>
     <message>
         <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
-        <translation type="unfinished"></translation>
+        <translation>El rango de la hoja de cálculo para los datos de la tabla debe estar en la misma hoja que la tabla que se está creando.</translation>
     </message>
     <message>
         <source>That command cannot be used on multiple selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede ejecutar este comando en selecciones múltiples.</translation>
     </message>
     <message>
         <source>Multi-cell array formulas are not allowed in tables.</source>
-        <translation type="unfinished"></translation>
+        <translation>Las fórmulas de matriz de varias celdas no están permitidas en las tablas.</translation>
     </message>
     <message>
         <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una tabla no se puede superponer sobre un rango que contenga un informe de tablas dinámicas, los resultados de una consulta, celdas protegidas u otra tabla.</translation>
     </message>
     <message>
         <source>A table cannot overlap another table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una tabla no se puede superponer sobre otra tabla.</translation>
     </message>
     <message>
         <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede terminar la operación: no se puede superponer una tabla sobre un informe de tablas dinámicas, sobre los resultados de una consulta, sobre otra tabla, sobre celdas combinadas o sobre una asignación XML.</translation>
     </message>
     <message>
         <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pueden realizar cambios en una tabla o asignación XML cuando hay varias hojas seleccionadas.</translation>
     </message>
     <message>
         <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede terminar la operación: no se permiten las operaciones que incluyen celdas que se encuentran dentro y fuera de un rango de tabla o de una asignación XML ni las operaciones que afectan a celdas que se superponen a varias tablas.</translation>
     </message>
     <message>
         <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
-        <translation type="unfinished"></translation>
+        <translation>El rango especificado no es válido. Los encabezados deben permanecer en la misma fila y la tabla resultante debe superponerse sobre la tabla original. La tabla debe contener una fila de encabezado, y al menos una fila de datos. Especifique una tabla válida.</translation>
     </message>
     <message>
         <source>The name that you entered is not valid.
@@ -2477,49 +2477,1422 @@ Reasons for this can include:
  -The name does not begin with a letter or underscore
  -The name contains a space or other invalid characters
  -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>El nombre que escribió no es válido.
+
+Posibles motivos:
+ -El nombre no empieza por una letra o un carácter de subrayado
+ -El nombre contiene un espacio u otros caracteres no válidos
+ -El nombre entra en conflicto con un nombre integrado en WPS o con el nombre de otro objeto del libro</translation>
     </message>
     <message>
         <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
 Use the PivotTable Field List to add,move,or remove fields.
 Hide or froup items in a row or column field.
 Modify the source data</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede desplazar una parte de un informe de tabla dinámica ni insertar celdas, filas o columnas de una hoja de cálculo en un informe de tabla dinámica. Para insertar celdas, filas o columnas de una hoja de cálculo, desplace primero el informe de tabla dinámica (con el informe de tabla dinámica seleccionado, en la pestaña Opciones, grupo Acciones, haga clic en Mover tabla dinámica). Para agregar, desplazar o eliminar celdas dentro del informe, realice una de las siguientes acciones:
+• Utilice la lista de campos de tabla dinámica para agregar, desplazar o eliminar campos.
+• Oculte o agrupe elementos en un campo de fila o columna.
+• Modifique los datos del origen.</translation>
     </message>
     <message>
         <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear una tabla en la última fila del libro. Una tabla debe contener al menos dos filas, una para el encabezado y otra para los datos.</translation>
     </message>
     <message>
         <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede terminar la operación: está intentando realizar un cambio no permitido en una parte de una fila o columna de la tabla.  Esto puede producirse al intentar reorganizar las celdas dentro de una tabla, si la reorganización afecta a otras celdas de la misma de un modo inesperado.</translation>
     </message>
     <message>
         <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta operación está intentando cambiar un rango filtrado en la hoja de cálculo y no se puede completar. Para completar esta operación, debe quitar los autofiltros de la hoja.</translation>
     </message>
     <message>
         <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
-        <translation type="unfinished"></translation>
+        <translation>El rango especificado no es válido. La parte superior de la tabla debe permanecer en la misma fila y la tabla resultante debe superponerse a la tabla original. Especifique un rango válido.</translation>
     </message>
     <message>
         <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>Las fórmulas de la fila de encabezado se quitarán y se convertirán en texto estático. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
-        <translation type="unfinished"></translation>
+        <translation>La selección superpone uno o más rangos de datos externos. ¿Desea convertir la selección en una tabla y quitar todas las conexiones externas?</translation>
     </message>
     <message>
         <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir este rango de consulta en un rango de consulta de lista puede dar lugar a que no funcionen correctamente el código de macros y las fórmulas. ¿Desea llevar a cabo la conversión de todos modos?</translation>
     </message>
     <message>
         <source>Failed to paste! The source data contains merge cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al pegar. Los datos de origen contienen celdas combinadas.</translation>
     </message>
     <message>
         <source>A table with that name already exists. Select a different name.</source>
+        <translation>Ya existe una tabla con el mismo nombre. Elija un nombre distinto.</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
+        <comment>TX_SecurityDocumentOpenFailed_ExistOtherWorkbooks</comment>
+        <translation>No se pueden abrir documentos de seguridad si hay otros documentos abiertos. Cierre los documentos abiertos y vuelva a intentarlo.</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot save the security document! Please close the the other documents and try again.</source>
+        <comment>TX_SecurityDocumentSaveFailed_ExistOtherWorkbooks</comment>
+        <translation>No se pueden guardar documentos de seguridad si hay otros documentos abiertos. Cierre los documentos abiertos y vuelva a intentarlo.</translation>
+    </message>
+    <message>
+        <source>Cell %s commented by %s User</source>
+        <comment>TX_CommentSelectStatus</comment>
+        <translation>El usuario %s ha comentado la celda %s</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets reached the end of the workbook. Do you want to continue reviewing from the beginning of the workbook?</source>
+        <comment>TX_CommentTravelToucheEnd</comment>
+        <translation>Las hojas de cálculo de WPS han alcanzado el final del libro. ¿Desea continuar la revisión desde el principio del libro?</translation>
+    </message>
+    <message>
+        <source>Cannot shift objects off sheet.</source>
+        <comment>TX_InsertRange_LoseShape</comment>
+        <translation>No se puede desplazar objetos fuera de la hoja.</translation>
+    </message>
+    <message>
+        <source>The Remove Arrows command found no tracer arrows to remove.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Trace Precedents command requires that the active cell contains a formula which includes valid references.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Trace Dependents command found no formulas that refer to the active cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Content cannot contain &quot;,&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter choice content.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are duplicated choices. Continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choices drop down cannot be empty. Please add or select choices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This Operation cannot be used on a security document.</source>
+        <comment>TX_OPERATION_NOT_SUPPORTED_ON_SECDOC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data will be saved with other pivot tables that share the same source data with this PivotTable.</source>
+        <comment>TX_MULTIPLE_PIVOTTABLE_SAVE_SOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
+        <comment>TX_MULTIPLE_PIVOTTABLE_NOT_SAVE_SOURCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pivot table name is invalid.</source>
+        <comment>TX_ERROR_INVALID_PIVOTTABLE_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet</source>
+        <comment>TX_COMMAND_PROTECTED_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An item name cannot be found.Check that you&apos;ve typed the name correctly and the item is present in the PivotTable.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
+Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemAmbiguous</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable formulas can only refer to items in the same field as the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotInSpecField</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>References to multiple item names per field cannot be included in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_ReferToMultiItems</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>References,names,and arrays are not supported in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_HasRefNameArray</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your formula includes a function that cannot be used in PivotTable formulas. You cannot use functions that return variable results, such as RAND and NOW, database functions, or the GETPIVOTDATA function in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_FunctionIllegal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.</source>
+        <comment>TX_PIVOTTABLE_CPL_FAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If one or more fields in the PivotTable have calculated items, no fields can be used in the data area two or more times, or in the data area and another area at the same time.If you are trying to add a field, remove the calculated items and add the field again.If you are trying to add a calculated item, change the PivotTable report so that no field is used more than once and then add the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemMultiUsedField</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemValueSubtotal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculcated items do not work with custom subtotals.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemCustomSubtotal</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable field name already exists</source>
+        <comment>TX_PIVOTTABLE_CONF_FieldNameExist</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than 8000 items in the column area.
+If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_COL_AXIS_MORE_THAN_8000</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than 16384 items in the column area.
+If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_COL_AXIS_MORE_THAN_16384</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This PivotTable report field is grouped. You cannot add a calculated item to a grouped field.
+
+To ungroup the field, make sure it is in the row or column area, select one of the items of the grouped field, click the Ungroup button in the Group group on the Option tab, and then insert the calculated item. After inserted, you can group the items of field again.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemGroupField</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot edit the formulas in data cells for groups or for calculated fields.
+To change the formula for a calculated field,click OK,and then point to formulas on the PivotTable Options tab in the Tools group and click Calculated Field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_GroupOrCalcFld</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot change this part of a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_ThisPart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot edit PivotTable in group edit mode.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseGroupSheets</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot create or make changes to  PivotTable reports in a shared workbook. If you copy a report and paste it in a shared workbook, only the cell contents are pasted.
+To make a copy that you can edit and rearrage, in the same instance of Et, paste the report into a workbook that is not shared.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseSharedWorkbook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The field you are moving cannot be placed in that PivotTable area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MoveToThisAxis</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fields with calculated items can not be placed in the filter area.</source>
+        <comment>TX_PIVOTTABLE_CALCULATED_MoveToPage</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Please select a different location.</source>
+        <comment>TX_IVOTTABLE_DENIED_LOCATION_UNFIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
+        <comment>TX_PIVOTTABLE_LAYOUT_EXCEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to replace the contents of the destination cells in %s?</source>
+        <comment>TX_PIVOTTABLE_REPLACE_CELL_CONTENT</comment>
+        <translation type="unfinished">¿Desea reemplazar el contenido de las celdas de destino?</translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheets may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_GROUP_CONF_FieldTooManyItems</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot group or ungroup that selection.</source>
+        <comment>TX_PIVOTTABLE_GROUP_InvalidSelection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot show or hide detail for this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_SHOWDETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
+        <comment>TX_PIVOTTABLE_FILTER_VALUE_PERCENT_ERROR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_AVERAGE</comment>
+        <translation type="unfinished">Promedio</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count Nums</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MAX</comment>
+        <translation type="unfinished">Máx</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MIN</comment>
+        <translation type="unfinished">Mín</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_PRODUCT</comment>
+        <translation type="unfinished">Producto</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEV</comment>
+        <translation type="unfinished">Desvest</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEVP</comment>
+        <translation type="unfinished">Desvestp</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VAR</comment>
+        <translation type="unfinished">Var</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VARP</comment>
+        <translation type="unfinished">Varp</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_SUM</comment>
+        <translation type="unfinished">Suma</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_DATA</comment>
+        <translation type="unfinished">Datos</translation>
+    </message>
+    <message>
+        <source>Calculated Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedField</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculated Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedItem</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <comment>TX_PIVOTTABLE_ListFormula_SolveOrder</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Field</comment>
+        <translation type="unfinished">Campo</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Item</comment>
+        <translation type="unfinished">Elemento</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Formula</comment>
+        <translation type="unfinished">Fórmula</translation>
+    </message>
+    <message>
+        <source>Note:</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When a cell is updated by more than one formula,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>he value is set by the formula with the last solve order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To change the solve order for multiple calculated items or fields,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>on the Options tab, in the Calculations group, click Fields, Items, &amp; Sets, and then click Solve Order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open PivotTable source file %s.</source>
+        <comment>TX_PIVOTTABLE_Source_Invalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
+
+  If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
+  If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
+        <comment>TX_PIVOTTABLE_Source_Single_Row</comment>
+        <translation type="unfinished">Este comando requiere al menos dos filas de datos. No se puede usar en una selección con una única fila. Intente lo siguiente:•
+ Si está usando un filtro avanzado, seleccione un rango de celdas con datos organizados en al menos dos filas. A continuación, haga clic en el comando Filtro avanzado.•
+ Si está creando un informe de tabla dinámico, escriba una referencia de celda o seleccione un rango que incluya al menos dos filas de datos.</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is invalid. Try refreshing the data(On the Operation tab, Click Refresh).</source>
+        <comment>TX_PIVOTTABLE_Report_Invalid_Need_Refresh</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ET Could not get the source data for the PivotTable report from the disk.</source>
+        <comment>TX_PIVOTTABLE_Source_From_Disk_Invalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable report was saved without the underlying data. Use the Refresh Data Command to update the report.</source>
+        <comment>TX_PIVOTTABLE_Source_Not_On_Disk</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When a protected worksheet contains other PivotTables that are based on the same source data, this command can not be executed. To revoke protection for worksheets that contain other PivotTables, click the tab for the worksheet, and then click Undo Sheet Protection in the Change group on the Review tab. And then retry the command.</source>
+        <comment>TX_PIVOTTABLE_Source_Sheet_Protect</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid workbook, worksheet or name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative worksheet name is not supported in PivotTable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CannotHideSelected</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot use empty value for field or item name in PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FieldItemName_Cannot_Empty</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This PivotTable report is based on the same data as at least one other PivotTable report. Clearing the PivotTable report will remove the following from all the PivotTable reports:
+1.Group
+2.Calculated Items
+3.Calculated Fields
+4.Custom Items</source>
+        <comment>TX_PIVOTTABLE_ClearTable_Note</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text cannot be entered into a calculated item cell.</source>
+        <comment>TX_PIVOTTABLE_DENIED_InputText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The PivotTable does not support OLAP. It will be Removed.</source>
+        <comment>TX_PIVOTTALE_Not_Support_OLAP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>TX_PIVOT_TABLE_NAME</comment>
+        <translation type="unfinished">Tabla dinámica</translation>
+    </message>
+    <message>
+        <source>GROUP</source>
+        <comment>TX_PIVOT_GROUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <comment>TX_PIVOT_GROUP_SECONDS</comment>
+        <translation type="unfinished">Segundos</translation>
+    </message>
+    <message>
+        <source>Minutes</source>
+        <comment>TX_PIVOT_GROUP_MINUSTES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hours</source>
+        <comment>TX_PIVOT_GROUP_HOURS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Days</source>
+        <comment>TX_PIVOT_GROUP_DAYS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Months</source>
+        <comment>TX_PIVOT_GROUP_MONTHS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quarters</source>
+        <comment>TX_PIVOT_GROUP_QUARTERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Years</source>
+        <comment>TX_PIVOT_GROUP_YEARS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Qtr1</source>
+        <comment>TX_PIVOT_GROUP_QTR1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Qtr2</source>
+        <comment>TX_PIVOT_GROUP_QTR2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Qtr3</source>
+        <comment>TX_PIVOT_GROUP_QTR3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Qtr4</source>
+        <comment>TX_PIVOT_GROUP_QTR4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <comment>TX_PIVOT_GROUP_OR</comment>
+        <translation type="unfinished">O</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PIVOT_VALUES</comment>
+        <translation type="unfinished">Valores</translation>
+    </message>
+    <message>
+        <source>Sum of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_SUM_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNT_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_AVERAGE_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_MAX_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_MIN_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_PRODUCT_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Count of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNTN_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StdDev of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEV_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StdDevp of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEVP_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Var of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_VAR_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Varp of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_VARP_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOT_SUBTOTAL_SUM</comment>
+        <translation type="unfinished">Suma</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOT_SUBTOTAL_AVERAGE</comment>
+        <translation type="unfinished">Promedio</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOT_SUBTOTAL_MAX</comment>
+        <translation type="unfinished">Máx</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOT_SUBTOTAL_MIN</comment>
+        <translation type="unfinished">Mín</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOT_SUBTOTAL_PRODUCT</comment>
+        <translation type="unfinished">Producto</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNTN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEV</comment>
+        <translation type="unfinished">Desvest</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEVP</comment>
+        <translation type="unfinished">Desvestp</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOT_SUBTOTAL_VAR</comment>
+        <translation type="unfinished">Var</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOT_SUBTOTAL_VARP</comment>
+        <translation type="unfinished">Varp</translation>
+    </message>
+    <message>
+        <source>Total %s</source>
+        <comment>TX_PIVOT_LABEL_GRAND_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_LABEL_GRAND</comment>
+        <translation type="unfinished">Total general</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_LABEL_GRAND2</comment>
+        <translation type="unfinished">Total general</translation>
+    </message>
+    <message>
+        <source>%s Total</source>
+        <comment>TX_PIVOT_LABEL_SUBTOTAL_AUTO_SEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(ALL)</source>
+        <comment>TX_PIVOT_PAGE_ITEM_ALL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ALL</source>
+        <comment>TX_PIVOT_PAGE_ITEM_ALL2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(previous)</source>
+        <comment>TX_PIVOT_BRACKETS_PREVIOUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(next)</source>
+        <comment>TX_PIVOT_BRACKETS_NEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Multiple Items)</source>
+        <comment>TX_PIVOT_PAGE_ITEM_MULIT</comment>
+        <translation type="unfinished">(Varios elementos)</translation>
+    </message>
+    <message>
+        <source>Column Labels</source>
+        <comment>TX_PIVOT_COLUMN_FIELDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row Labels</source>
+        <comment>TX_PIVOT_ROW_FIELDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(blank)</source>
+        <comment>TX_PIVOT_BLANK_WITH_BRACE</comment>
+        <translation type="unfinished">(En blanco)</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL</comment>
+        <translation type="unfinished">Total</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL_VERSION11</comment>
+        <translation type="unfinished">Total</translation>
+    </message>
+    <message>
+        <source>Formula%d</source>
+        <comment>TX_PIVOT_CALCITEM_NAME_FORMULA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table.</source>
+        <comment>TX_PIVOTTABLE_OVERLAP_TABLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap another PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_OVERLAP_OTHER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot determine which PivotTable field to sort by.</source>
+        <comment>TX_PIVOT_CANNOT_SORT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_TEXTTOCOLUMNS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable can not find item with this name,whether %s will renamed to %s</source>
+        <comment>TX_PIVOT_CHANGE_PAGEFIELD_ITEM_CAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s is not item of this field!</source>
+        <comment>TX_PIVOT_CANNOT_CHANGE_CURRENTPAGE_NOTE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some PivotTable cells contain circular references.
+
+1.Check your calculated field and item formulas to make sure that none of the formulas refer to their own cells.
+2.Or,change the order of calculation by using the solve Order command.</source>
+        <comment>TX_PIVOTTABLE_CIRCLE_REFER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your formula cannot be entered because calculated fields cannot contain circular references. Change the formula to make sure that it doesn&apos;t refer to its own cells.</source>
+        <comment>TX_PIVOTTABLE_FIELD_CIRCLE_REFER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query can not run or database and table can not open.
+
+ Please check the server or or contact your database administrator,Verify that the external data is valid and not moved or reorganized, and then retry the operation.</source>
+        <comment>TX_PIVOT_DATABASE_NOT_EXISTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Groups cannot be placed in the data area when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CALCITEM_AND_GROUP_MOVE_VALUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot enter a formula for an item or field name in a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FMLA_CANNOT_BE_FIELDITEM_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The item cannot be added or modified. There may not be enough memory, the maximum number of items allowed in a field may have been reached, or if a Visual Basic macro is performming the operation, the macro may be incorrect.
+
+Simplify the PivotTable report or check the macro for errors, and then try the operation again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_ADDITEM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Workbook is protected and cannot be changed.</source>
+        <comment>TX_MODIFY_DEFIED_ON_PROTECTED_BOOK</comment>
+        <translation type="unfinished">El libro está protegido y no se puede modificar.</translation>
+    </message>
+    <message>
+        <source>Show Details has been turned off for this PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_SHOWDETAILS_DISABLED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
+        <comment>TX_PIVOTTABLE_16384DENIED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_SELECTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot hide the (All) item of a Report Filter field.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_PAGE_ALL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot hide all items of a field.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_ALLITEMS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot hide all items of the &apos;%s&apos; field from the PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_ALLITEMS_FIELD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To build a report, choose fields from the PivotTable Field List</source>
+        <comment>TX_PIVOTTABLE_SELECT_TIP_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chlick in this area to work with the PivotTable report</source>
+        <comment>TX_PIVOTTABLE_UNSELECT_TIP_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trun on the PivotTable Field List to work with the PivotTable</source>
+        <comment>TX_PIVOTTABLE_HIDDENFIELD_TIP_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some calculated items was removed because new items of the same name appeared during refresh.</source>
+        <comment>TX_PIVOTTABLE_REMOVE_CALCITEM_BY_SAME_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PivotTable_Values</comment>
+        <translation type="unfinished">Valores</translation>
+    </message>
+    <message>
+        <source>Move %s to Beginning</source>
+        <comment>TX_PivotTable_MoveToBeginning</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move %s Up</source>
+        <comment>TX_PivotTable_MoveUp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move %s Down</source>
+        <comment>TX_PivotTable_MoveDown</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move %s to End</source>
+        <comment>TX_PivotTable_MoveToEnd</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move %s to Rows</source>
+        <comment>TX_PivotTable_MoveToRows</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move %s to Columns</source>
+        <comment>TX_PivotTable_MoveToColumns</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove %s</source>
+        <comment>TX_PivotTable_Remove</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtotals %s</source>
+        <comment>TX_PivotTable_Subtotals</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <comment>TX_PivotTable_HideFieldList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <comment>TX_PivotTable_ShowFieldList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>TX_PivotTable_Move</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move Values</source>
+        <comment>TX_PivotTable_MoveValues</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <comment>TX_PivotTable_FieldSettings</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <comment>TX_PivotTable_ValueFieldSettings</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filter From %s</source>
+        <comment>TX_PivotTable_ClearFilterFrom</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot move subtotals or block totals</source>
+        <comment>TX_PivotTable_CannotMoveSubtotalsGrand</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This PivotTable&apos;s Connection has benn deleted</source>
+        <comment>TX_PivotTable_ConnectionIsDelete</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Too much data will generated and et can not conntinue with it.</source>
+        <comment>TX_Pivottable_Mass_Operation</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document can&apos;t be shared, it must be saved as another format before be shared.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>TX_REFERENCE_NOT_VALID</comment>
+        <translation type="unfinished">La referencia no es válida.</translation>
+    </message>
+    <message>
+        <source>PivotTable %s  had some incorrect data,it had been deleted</source>
+        <comment>TX_PIVOTTABLE_DELTE_INVLIED_PIVOTTABLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_TOTAL</comment>
+        <translation type="unfinished">Total</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <comment>TX_PIVOT_SLICER_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data source of a PivotTable connected to filter controls that ara also connected to other PivotTables cannot be Changed.To change the data source, first disconnect the filter controls from this PivotTable or from the other PivotTables.</source>
+        <comment>TX_PIVOTTABLE_MULTI_SLICER_LINK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Slicers</source>
+        <comment>TX_PIVOT_REMOVE_ALL_SLICER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove &quot;%s&quot;</source>
+        <comment>TX_PIVOT_REMOVE_SLICER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filter from Slicers</source>
+        <comment>TX_PIVOT_ALL_SLICER_CLEAR_FILTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filter from &quot;%s&quot;</source>
+        <comment>TX_PIVOT_SLICER_CLEAR_FILTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All values ara filtered out.</source>
+        <comment>TX_PIVOT_SLICER_FILTERED_OUT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot update filter controls,PivotTables.
+
+Reasons for this can include:
+• The connection to the data source failed.
+• The worksheet is protected
+• A PivotTable cannot expand because is would overlap existing cell content</source>
+        <comment>TX_PIVOT_SLICER_REMOVE_FAILINFO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[OBDC Driver Manager]The data source name was not found and the default driver was not specified.</source>
+        <comment>TX_DATABASE_ODBC_NO_DEFAULT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The content does not conform to the preset limits</source>
+        <comment>TX_ERRORCHECK_ERRDESC_DataValidation</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add content to the list</source>
+        <comment>TX_ERRORCHECK_REPAIR_AddToDataValidation</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Over list field length, list can only have up to 255 characters</source>
+        <comment>TX_VALIDATION_Tip_Add_Overlen_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The maximum number of data series per chart is 255.</source>
+        <comment>TX_PIVOT_Chart_Limit_Series</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL_PivotChart</comment>
+        <translation type="unfinished">Total</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_GRANDTOTAL_PivotChart</comment>
+        <translation type="unfinished">Total general</translation>
+    </message>
+    <message>
+        <source>You are attempting to create a chart by useing a PivotTable report in another workbok. This will result in a static chart that cannot be updated. To create a PivotChart report, or a chart that dynamically updates like the PivotTbale report, the chart must be located in the same workbook as its associated PivotTable report.</source>
+        <comment>TX_PIVOT_CHART_Attempt_Warning_Info</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file failed: File path is too long more than %d characters!
+Please try to shorten the file path, or move the file to the desktop, and reopen it.</source>
+        <comment>TX_Workbook_OpenPathTooLongFailure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
+Please close the document and try to open it again.</source>
+        <comment>TX_SavedButCannotReOpen</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is some formals in selection, only merge or unmerge normally, do you want to continue?</source>
+        <comment>TX_MergeCells_MergeNormallyForFormla</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selection contains too much cells, merge same cells will take a few minutes or more, continue?</source>
+        <comment>TX_MergeCells_MergeSameContainTooMuchCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%s&quot;?</source>
+        <comment>TX_DiscardChanges_ReopenWorkbook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open a copy while the template &apos;%s&apos; is already open.</source>
+        <comment>TX_Template_IsOpen</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>History sheet cannot be renamed.</source>
+        <comment>TX_RenameSheet_Error_HistorySheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s is a reserved name.</source>
+        <comment>TX_Reserved_SheetName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>History</source>
+        <comment>TX_History_Reserved_SheetName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To do this, all the merged cells need to be the same size.</source>
+        <comment>TX_ERROR_MergeCell_NeedSameSize</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Worksheet in %s</source>
+        <comment>TX_OnSetHostNames_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action
+Number</source>
+        <comment>TX_ShareWorkbook_ListChanges_ActionNumber</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shared workbook user list update faild! You can try to close and open this file again.
+If you ignore it, you cannot save this file, but you can use Save As to save to a different file.</source>
+        <comment>TX_ShareWorkbook_AddSharedWorkbookUserFaild</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <comment>TX_ShareWorkbook_ListChanges_Date</comment>
+        <translation type="unfinished">Fecha</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>TX_ShareWorkbook_ListChanges_Time</comment>
+        <translation type="unfinished">Hora</translation>
+    </message>
+    <message>
+        <source>Who</source>
+        <comment>TX_ShareWorkbook_ListChanges_Who</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <comment>TX_ShareWorkbook_ListChanges_Change</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet</source>
+        <comment>TX_ShareWorkbook_ListChanges_Sheet</comment>
+        <translation type="unfinished">Hoja</translation>
+    </message>
+    <message>
+        <source>Range</source>
+        <comment>TX_ShareWorkbook_ListChanges_Range</comment>
+        <translation type="unfinished">Rango</translation>
+    </message>
+    <message>
+        <source>New
+Value</source>
+        <comment>TX_ShareWorkbook_ListChanges_NewValue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old
+Value</source>
+        <comment>TX_ShareWorkbook_ListChanges_OldValue</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Action
+Type</source>
+        <comment>TX_ShareWorkbook_ListChanges_ActionType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Losing
+Action</source>
+        <comment>TX_ShareWorkbook_ListChanges_LosingAction</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The history ends with the changes saved on %s at %s.</source>
+        <comment>TX_ShareWorkbook_ListChanges_HistoryEnds</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Changes were found with the specified properties.
+To highlight all changes, uncheck the When, Who, and Where options.</source>
+        <comment>TX_ShareWorkbook_ListChangesError_NoChangesFound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Only changes which have been saved can be listed on history sheet.</source>
+        <comment>TX_ShareWorkbook_ListChangesError_ChangesNotSaved</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The ranges in the formula do not intersect.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NULL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The formula or function used is dividing by zero or empty cells.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_DIV</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> A value used in the formula is of the wrong data type.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_VALUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_REF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The formula contains unrecognized text.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NAME</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> There is a problem with a number used in the formula.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> A value is not available to the formula or function.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> This cell contains a date string represented with only 2 digits for the year.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_TextDate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The number in this cells is formatted as text or preceded by an apostrophe.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NumberAsText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_InconsistentFormula</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_OmittedCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_UnlockedFormulaCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The formula in this cell refers to cells that are currently empty.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_EmptyCellReferences</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> The content does not conform to the preset limits</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_DataValidation</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error Checking &amp;Options</source>
+        <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;Calculation Steps</source>
+        <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We found a problem with one or more formula references in this worksheet.
+
+Check that the cell references, range names, defined names and links to other workbooks in your formulas are all correct.</source>
+        <comment>TX_Chart_LabelFormulaUpdate_Error</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Values: </source>
+        <comment>TX_CrossBookUpdateValuesTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not enough system resource is available to display this image.</source>
+        <comment>TX_SHEET_CANNOT_DISPLAY_BACKGROUND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ambiguous name detected: %s</source>
+        <comment>TX_App_Goto_Ambiguous_Procedure</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Data Sources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error saving file. </source>
+        <comment>TX_IO_ErrorState_Unknown</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error preparing file save. </source>
+        <comment>TX_IO_ErrorState_Prepare</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error exporting data to file. </source>
+        <comment>TX_IO_ErrorState_Export</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading file. </source>
+        <comment>TX_IO_ErrorState_Upload</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error updating shared workbook cache. </source>
+        <comment>TX_IO_ErrorState_CacheShared</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error replacing target file. </source>
+        <comment>TX_IO_ErrorState_Replace</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System error: &quot;%s&quot;. </source>
+        <comment>TX_IO_ErrorReason_LastError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The process cannot access the file because it is being used by another process.</source>
+        <comment>TX_IO_ErrorReason_SharingViolation</comment>
+        <translation type="unfinished">El proceso no puede obtener acceso al archivo porque está siendo utilizado en otro proceso.</translation>
+    </message>
+    <message>
+        <source>There is insufficient memory available to complete operation. </source>
+        <comment>TX_IO_ErrorReason_OutOfMemory</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A disk error occurred during a write operation. </source>
+        <comment>TX_IO_ErrorReason_WriteFault</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shared workbook on the disk is invalid. </source>
+        <comment>TX_IO_ErrorReason_InvalidSharedBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One or more internal arguments are invalid. </source>
+        <comment>TX_IO_ErrorReason_InvalidArgument</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try one of the following. 
+•Undo the previous operations and save it. 
+•Save it as text file. 
+•Copy/paste the contents to a new document.</source>
+        <comment>TX_IO_ErrorSuggest_General</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+•Give up the changes to this file.</source>
+        <comment>TX_IO_ErrorSuggest_GeneralAppend</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try again after closing some programs or web pages. </source>
+        <comment>TX_IO_ErrorSuggest_ReleaseMemory</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try saving it as a new file with a different name. </source>
+        <comment>TX_IO_ErrorSuggest_SaveCopy</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try saving file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_SaveToOtherDisk</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please try again later, or save file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_RetryOrSaveToOtherDisk</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please close it first in that program, or save it as a new file with a different name. </source>
+        <comment>TX_IO_ErrorSuggest_UnlockFileOrSaveAs</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make sure there is enough space on this disk, or try to save file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_CheckDisk</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Autofilter Favorite %1</source>
+        <comment>TX_AUTOFILTER_FAVORITE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheet may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_AXIS_TOO_MUCH_ITEM_COMPATIBLE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2923,37 +4296,216 @@ Modify the source data</source>
     <message>
         <source>None</source>
         <comment>TX_TableStyle_None</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ninguno</translation>
     </message>
     <message>
         <source>Table Style</source>
         <comment>TX_TableStyle_TableStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de tabla </translation>
     </message>
     <message>
         <source>Light</source>
         <comment>TX_TableStyle_Light</comment>
-        <translation type="unfinished"></translation>
+        <translation>Claro</translation>
     </message>
     <message>
         <source>Medium</source>
         <comment>TX_TableStyle_Medium</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>Dark</source>
         <comment>TX_TableStyle_Dark</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro</translation>
     </message>
     <message>
         <source>Column</source>
         <comment>TX_TableDefaultColumnName</comment>
-        <translation type="unfinished">Columna</translation>
+        <translation>Columna</translation>
     </message>
     <message>
         <source>Total</source>
         <comment>TX_TableSubtotal_Sum</comment>
-        <translation type="unfinished">Total</translation>
+        <translation>Total</translation>
+    </message>
+    <message>
+        <source>This type of reference cannot be used in a Conditional Formatting formula.
+
+Change the reference to a single cell, or use the reference with a worksheet function, such as =SUM(A1:E5).</source>
+        <comment>TX_CondFormat_MultiCells</comment>
+        <translation>No se puede usar este tipo de referencia en una fórmula formato condicional.
+
+Cambie la referencia a una única celda o use la referencia con una función de hoja de cálculo, como =SUMA(A1:E5).</translation>
+    </message>
+    <message>
+        <source>The value you entered is not a number, date, time, or string.</source>
+        <comment>TX_CondFormat_InvalidValue</comment>
+        <translation>El valor que ha especificado no es un número, fecha, hora o cadena válidos.</translation>
+    </message>
+    <message>
+        <source>Enter a value.</source>
+        <comment>TX_CondFormat_EnterAValue</comment>
+        <translation>Escribir un valor</translation>
+    </message>
+    <message>
+        <source>Enter a formula.</source>
+        <comment>TX_CondFormat_EnterAFormula</comment>
+        <translation>Introducir una fórmula.</translation>
+    </message>
+    <message>
+        <source>Cannot add the conditional formatting.</source>
+        <comment>TX_CondFormat_CannotAdd</comment>
+        <translation>No se puede agregar el formato condicional.</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 1000.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>Escriba un número entero entre 1 y 1.000.</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 100.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>Escriba un número entero entre 1 y 1000.</translation>
+    </message>
+    <message>
+        <source>One or more icon data ranges overlap. Adjust icon data range values so that the ranges do not overlap.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>Uno o varios rangos de datos de icono se superponen. Ajuste los valores de los rangos para que no se superpongan.</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>Uno o varios valores especificados no son un porcentaje válido.</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>Uno o varios valores especificados no son percentiles válidos.</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor mínimo especificado no es un percentil válido.</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor mínimo especificado no es un porcentaje válido.</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor de punto medio especificado no es un percentil válido.</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor de punto medio especificado no es un porcentaje válido.</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor máximo especificado no es un percentil válido.</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor máximo especificado no es un porcentaje válido.</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor especificado de la barra más corta no es un percentil válido.</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor especificado de la barra más corta no es un porcentaje válido.</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor especificado de la barra más larga no es un percentil válido.</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>El valor especificado de la barra más larga no es un porcentaje válido.</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan1</comment>
+        <translation>El valor máximo debe ser mayor que el valor mínimo.</translation>
+    </message>
+    <message>
+        <source>The value for the midpoint must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan2</comment>
+        <translation>El valor de punto medio debe ser mayor que el valor mínimo.</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the midpoint.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translation>El valor máximo debe ser mayor que el valor de punto medio.</translation>
+    </message>
+    <message>
+        <source>You cannot use relative references in Conditional Formatting criteria for color scales, data bars, and icon sets.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translation>No puede utilizar referencias relativas en criterios de fórmula formato para escalas de color, barras de datos o conjuntos de iconos.</translation>
+    </message>
+    <message>
+        <source>Pivot Style</source>
+        <comment>TX_TableStyle_PivotStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page%d</source>
+        <comment>TX_PivotTable_Consolidate_PageName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_PivotTable_Consolidate_RowField</comment>
+        <translation type="unfinished">Fila</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_PivotTable_Consolidate_ColField</comment>
+        <translation type="unfinished">Columna</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_PivotTable_Consolidate_ValueField</comment>
+        <translation type="unfinished">Valor</translation>
+    </message>
+    <message>
+        <source>Slicer Style</source>
+        <comment>TX_TableStyle_SlicerStyle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>TX_TableStyle_Other</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_AutoFilter_Analysis_ColumnLabel</comment>
+        <translation type="unfinished">Columna</translation>
+    </message>
+    <message>
+        <source>(Blank)</source>
+        <comment>TX_AutoFilter_Analysis_Blank</comment>
+        <translation type="unfinished">(Blanco)</translation>
+    </message>
+    <message>
+        <source>Row Auto-Insert</source>
+        <comment>TX_Revision_Type_InsertRow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Auto-Insert</source>
+        <comment>TX_Revision_Type_InsertColumn</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2974,6 +4526,16 @@ Valor:</translation>
         <source>Charts</source>
         <comment>TX_DESC_CharObjectDefaultName</comment>
         <translation>Gráficos</translation>
+    </message>
+    <message>
+        <source>Chart in WPS Writer</source>
+        <comment>TX_Chart_IN_WPS_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart in WPS Presentation</source>
+        <comment>TX_Chart_IN_WPP_TITLE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3088,26 +4650,31 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>All</source>
         <comment>TX_TABLE_RANGE_ALL</comment>
-        <translation type="unfinished">Todo</translation>
+        <translation>Todo</translation>
     </message>
     <message>
         <source>Data</source>
         <comment>TX_TABLE_RANGE_DATA</comment>
-        <translation type="unfinished">Datos</translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <source>Headers</source>
         <comment>TX_TABLE_RANGE_HEADERS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Encabezados</translation>
     </message>
     <message>
         <source>Totals</source>
         <comment>TX_TABLE_RANGE_TOTALS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Totales</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>TX_TABLE_PREFIX_NAME</comment>
+        <translation>Tabla</translation>
+    </message>
+    <message>
+        <source>The document is WPS security document, please open it in the wps client which support this format. If you edit it by using &apos;stop protecting&apos;, the content of this document will be destoryed. Please note.</source>
+        <comment>TX_SECDOC_REF_FORBIDDEN</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3151,57 +4718,57 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>%d-Quarter</source>
         <comment>TX_DAP_DroupFormat_Quarter</comment>
-        <translation>%d-Trimestre</translation>
+        <translation type="obsolete">%d-Trimestre</translation>
     </message>
     <message>
         <source>(All)</source>
         <comment>TX_DAP_SelectAll</comment>
-        <translation>(Todo)</translation>
+        <translation type="obsolete">(Todo)</translation>
     </message>
     <message>
         <source>(Multiple Items)</source>
         <comment>TX_DAP_MultiSelect</comment>
-        <translation>(Varios elementos)</translation>
+        <translation type="obsolete">(Varios elementos)</translation>
     </message>
     <message>
         <source>(blank)</source>
         <comment>TX_DAP_EmptyCell</comment>
-        <translation>(En blanco)</translation>
+        <translation type="obsolete">(En blanco)</translation>
     </message>
     <message>
         <source>A PivotTable cannot overlap another PivotTable.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadOtherPT</comment>
-        <translation>No se puede superponer la tabla dinámica sobre otra tabla dinámica.</translation>
+        <translation type="obsolete">No se puede superponer la tabla dinámica sobre otra tabla dinámica.</translation>
     </message>
     <message>
         <source>AutoSort must be turned off to move items in a field.</source>
         <comment>TX_DAP_DlgInfo_CannotMoveItemWithAutoSort</comment>
-        <translation>Para mover los elementos de un campo debe estar desactivada la opción Autoordenar.</translation>
+        <translation type="obsolete">Para mover los elementos de un campo debe estar desactivada la opción Autoordenar.</translation>
     </message>
     <message>
         <source>Average</source>
         <comment>TX_DAP_FunctionItem_Average</comment>
-        <translation>Promedio</translation>
+        <translation type="obsolete">Promedio</translation>
     </message>
     <message>
         <source>Average of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Average</comment>
-        <translation>Promedio de </translation>
+        <translation type="obsolete">Promedio de </translation>
     </message>
     <message>
         <source>Call Fail</source>
         <comment>TX_DAP_FunctionCallFail</comment>
-        <translation>Error de llamada</translation>
+        <translation type="obsolete">Error de llamada</translation>
     </message>
     <message>
         <source>Cannot change part of a merged cell.</source>
         <comment>TX_DAP_DlgInfo_CannotChangePartOfMergedCell</comment>
-        <translation>No se puede cambiar parte de una celda combinada.</translation>
+        <translation type="obsolete">No se puede cambiar parte de una celda combinada.</translation>
     </message>
     <message>
         <source>Cannot hide all the items of &apos;%s&apos; field in the  PivotTable report.</source>
         <comment>TX_DAP_DlgInfo_CannotHideAllFieldItems</comment>
-        <translation>No se puede ocultar todos los elementos del campo &apos;%s&apos; en el informe de tabla dinámica.</translation>
+        <translation type="obsolete">No se puede ocultar todos los elementos del campo &apos;%s&apos; en el informe de tabla dinámica.</translation>
     </message>
     <message>
         <source>Cannot open PivotTable source file.</source>
@@ -3211,102 +4778,102 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>Count</source>
         <comment>TX_DAP_FunctionItem_Count</comment>
-        <translation>Recuento</translation>
+        <translation type="obsolete">Recuento</translation>
     </message>
     <message>
         <source>Count Nums</source>
         <comment>TX_DAP_FunctionItem_CountNums</comment>
-        <translation>Cuenta núm.</translation>
+        <translation type="obsolete">Cuenta núm.</translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Count</comment>
-        <translation>Recuento de </translation>
+        <translation type="obsolete">Recuento de </translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_CountNums</comment>
-        <translation>Recuento de</translation>
+        <translation type="obsolete">Recuento de</translation>
     </message>
     <message>
         <source>Data</source>
         <comment>TX_DAP_DATASTR</comment>
-        <translation>Datos</translation>
+        <translation type="obsolete">Datos</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
         <comment>TX_DAP_DlgInfo_OverLoadCellsContent</comment>
-        <translation>¿Desea reemplazar el contenido de las celdas de destino?</translation>
+        <translation type="obsolete">¿Desea reemplazar el contenido de las celdas de destino?</translation>
     </message>
     <message>
         <source>Grand Total</source>
         <comment>TX_DAP_GrandTotal</comment>
-        <translation>Total general</translation>
+        <translation type="obsolete">Total general</translation>
     </message>
     <message>
         <source>Max</source>
         <comment>TX_DAP_FunctionItem_Max</comment>
-        <translation>Máx</translation>
+        <translation type="obsolete">Máx</translation>
     </message>
     <message>
         <source>Max of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Max</comment>
-        <translation>Máx de </translation>
+        <translation type="obsolete">Máx de </translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_DAP_FunctionItem_Min</comment>
-        <translation>Mín</translation>
+        <translation type="obsolete">Mín</translation>
     </message>
     <message>
         <source>Min of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Min</comment>
-        <translation>Mín de </translation>
+        <translation type="obsolete">Mín de </translation>
     </message>
     <message>
         <source>PivotTable</source>
         <comment>TX_DAP_PivotName</comment>
-        <translation>Tabla dinámica</translation>
+        <translation type="obsolete">Tabla dinámica</translation>
     </message>
     <message>
         <source>Product</source>
         <comment>TX_DAP_FunctionItem_Product</comment>
-        <translation>Producto</translation>
+        <translation type="obsolete">Producto</translation>
     </message>
     <message>
         <source>Product of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Product</comment>
-        <translation>Producto de</translation>
+        <translation type="obsolete">Producto de</translation>
     </message>
     <message>
         <source>StDev</source>
         <comment>TX_DAP_FunctionItem_StDev</comment>
-        <translation>DesvEst</translation>
+        <translation type="obsolete">DesvEst</translation>
     </message>
     <message>
         <source>StdDev of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_StDev</comment>
-        <translation>DesvEst de </translation>
+        <translation type="obsolete">DesvEst de </translation>
     </message>
     <message>
         <source>StdDevp</source>
         <comment>TX_DAP_FunctionItem_StDevp</comment>
-        <translation>Desvestp</translation>
+        <translation type="obsolete">Desvestp</translation>
     </message>
     <message>
         <source>StdDevp of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_StDevp</comment>
-        <translation>Desvestp de </translation>
+        <translation type="obsolete">Desvestp de </translation>
     </message>
     <message>
         <source>Sum</source>
         <comment>TX_DAP_FunctionItem_Sum</comment>
-        <translation>Suma</translation>
+        <translation type="obsolete">Suma</translation>
     </message>
     <message>
         <source>Sum of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Sum</comment>
-        <translation>Suma de</translation>
+        <translation type="obsolete">Suma de</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you want to change the name of a PivotTable field, you must type a new name for the field.</source>
@@ -3316,7 +4883,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
     <message>
         <source>The PivotTable will not fit on the sheet. Do you want to show as much as possible?</source>
         <comment>TX_DAP_DlgInfo_PTResultOverSheetBound</comment>
-        <translation>La tabla dinámica no se ajustará al tamaño de la hoja. ¿Desea ver lo máximo posible?</translation>
+        <translation type="obsolete">La tabla dinámica no se ajustará al tamaño de la hoja. ¿Desea ver lo máximo posible?</translation>
     </message>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
@@ -3324,24 +4891,24 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
   If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
   If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
         <comment>TX_DAP_DlgInfo_CannotCreatePivotTableInOneRow</comment>
-        <translation>Este comando requiere al menos dos filas de datos. No se puede usar en una selección con una única fila. Intente lo siguiente:•
+        <translation type="obsolete">Este comando requiere al menos dos filas de datos. No se puede usar en una selección con una única fila. Intente lo siguiente:•
  Si está usando un filtro avanzado, seleccione un rango de celdas con datos organizados en al menos dos filas. A continuación, haga clic en el comando Filtro avanzado.•
  Si está creando un informe de tabla dinámico, escriba una referencia de celda o seleccione un rango que incluya al menos dos filas de datos.</translation>
     </message>
     <message>
         <source>Total</source>
         <comment>TX_DAP_Total</comment>
-        <translation>Total</translation>
+        <translation type="obsolete">Total</translation>
     </message>
     <message>
         <source>Var of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Var</comment>
-        <translation>Var de </translation>
+        <translation type="obsolete">Var de </translation>
     </message>
     <message>
         <source>Varp of</source>
         <comment>TX_DAP_ConsolidationFunctionItem_Varp</comment>
-        <translation>Varp de </translation>
+        <translation type="obsolete">Varp de </translation>
     </message>
     <message>
         <source>You cannot change or move a certain part of a PivotTable, or insert cells in a PivotTable report. If you want to insert cells on the worksheet, drag the entire report out of the way. To move or add data to a report, do one of the following:
@@ -3350,7 +4917,7 @@ Do you want WPS Spreadsheets to recalculate all formulas when this workbook is o
   Hide or group items in a row or column field.
   Modify the source data.</source>
         <comment>TX_DAP_DlgInfo_CannotModifyPartOfThePivot</comment>
-        <translation>No se puede  modificar o mover parte de una tabla dinámica ni insertar celdas en un informe de la tabla dinámica.Si desea insertar celdas en la hoja de cálculo, arrastre el informe total a otro lugar. Para mover o agregar datos en un informe, intente lo siguiente:
+        <translation type="obsolete">No se puede  modificar o mover parte de una tabla dinámica ni insertar celdas en un informe de la tabla dinámica.Si desea insertar celdas en la hoja de cálculo, arrastre el informe total a otro lugar. Para mover o agregar datos en un informe, intente lo siguiente:
 Use el Asistente para tablas dinámicas a fin de agregar campos al informe.
 Oculte o agrupe elementos en un campo de columna o de fila.
 Modifique los datos de origen.</translation>
@@ -3358,6 +4925,13 @@ Modifique los datos de origen.</translation>
     <message>
         <source>A PivotTable report cannot overlap a table or XML mapping.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
+        <translation>No se puede superponer un informe de tablas dinámicas sobre una tabla o asignación XML.</translation>
+    </message>
+    <message>
+        <source>This shape represents a slicer.
+
+Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
+        <comment>TX_DAP_Fallback_Shape_Tip</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3753,7 +5327,7 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation>Todos los archivos(*.*)|*.*|Todos los orígenes de datos(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bases de datos de Access(*.mdb,*.accdb)|*.mdb;*.accdb|Base de datos de FoxPro(*.dbc)|*.dbc|Archivos de dBASE(*.dbf)|*.dbf|Archivos de Excel(*.xls)|*.xls|Archivos de WPS Spreadsheets(*.et)|*.et|Archivos de texto CSV(*.csv)|*.csv|Archivos de texto PRN(*.prn)|*.prn|Archivos de texto(*.txt)|*.txt|Conexiones de bases de datos(*.odc)|*.odc|Vínculos de datos de Microsoft(*.udl)|*.udl|DSN de archivo de ODBC:(*.dsn)|*.dsn|Archivo de consulta(*.dqy)|*.dqy||</translation>
+        <translation type="obsolete">Todos los archivos(*.*)|*.*|Todos los orígenes de datos(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bases de datos de Access(*.mdb,*.accdb)|*.mdb;*.accdb|Base de datos de FoxPro(*.dbc)|*.dbc|Archivos de dBASE(*.dbf)|*.dbf|Archivos de Excel(*.xls)|*.xls|Archivos de WPS Spreadsheets(*.et)|*.et|Archivos de texto CSV(*.csv)|*.csv|Archivos de texto PRN(*.prn)|*.prn|Archivos de texto(*.txt)|*.txt|Conexiones de bases de datos(*.odc)|*.odc|Vínculos de datos de Microsoft(*.udl)|*.udl|DSN de archivo de ODBC:(*.dsn)|*.dsn|Archivo de consulta(*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
@@ -3789,6 +5363,24 @@ Hay errores con la consulta generada.</translation>
         <source>A failure occurred while opening XML data file.  Maybe the file does not exist or XML syntax error.</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="obsolete">Hay un error al abrir el archivo xml. El archvo no existe o hay error de sintaxis xml. </translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">Todos los archivos(*.*)|*.*|Todos los orígenes de datos(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Bases de datos de Access(*.mdb,*.accdb)|*.mdb;*.accdb|Base de datos de FoxPro(*.dbc)|*.dbc|Archivos de dBASE(*.dbf)|*.dbf|Archivos de Excel(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|Archivos de WPS Spreadsheets(*.et)|*.et|Archivos de texto CSV(*.csv)|*.csv|Archivos de texto PRN(*.prn)|*.prn|Archivos de texto(*.txt)|*.txt|Conexiones de bases de datos(*.odc)|*.odc|Vínculos de datos de Microsoft(*.udl)|*.udl|DSN de archivo de ODBC:(*.dsn)|*.dsn|Archivo de consulta(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing connection(s) will separate this workbook from its data source(s), and data refresh operations in the workbook will no longer succeed. Click Cancel to keep connection(s), or click OK to proceed with connection removal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cannot open file. The file may have been moved, deleted or the file may be in use.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4031,7 +5623,7 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished">COMBINAT(número,tamaño)</translation>
+        <translation type="obsolete">COMBINAT(número,tamaño)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5091,7 +6683,7 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished">RecortarIzq(texto)</translation>
+        <translation type="obsolete">RecortarIzq(texto)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5516,7 +7108,7 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished">RecortarDer(texto)</translation>
+        <translation type="obsolete">RecortarDer(texto)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5531,12 +7123,12 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished">Quita espacios izquierdos de la cadena especificada de texto.</translation>
+        <translation type="obsolete">Quita espacios izquierdos de la cadena especificada de texto.</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation type="unfinished">Quita espacios derechos de la cadena especificada de texto.</translation>
+        <translation type="obsolete">Quita espacios derechos de la cadena especificada de texto.</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6356,7 +7948,7 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation type="unfinished">Devuelve el número de combinaciones para un número determinado de elementos. </translation>
+        <translation type="obsolete">Devuelve el número de combinaciones para un número determinado de elementos. </translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
@@ -7096,7 +8688,7 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>WIDECHAR(text)</source>
         <comment>WIDECHAR_GRAMMER</comment>
-        <translation>WIDECHAR(texto)</translation>
+        <translation type="obsolete">WIDECHAR(texto)</translation>
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
@@ -7635,47 +9227,47 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>DIALOGBOX(dialog_ref)</source>
         <comment>DIALOGBOX_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>CUADRO DE DIÁLOGO(ref_diálogo)</translation>
     </message>
     <message>
         <source>WORKBOOKINSERT(type_num)</source>
         <comment>WORKBOOKINSERT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INSERCIÓN DE LIBRO(núm_tipo)</translation>
     </message>
     <message>
         <source>SELECTION()</source>
         <comment>SELECTION_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>SELECCIÓN()</translation>
     </message>
     <message>
         <source>NAMES(document_text, type_num, match_text)</source>
         <comment>NAMES_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>NOMBRES(documento, núm_tipo, coincidir_texto)</translation>
     </message>
     <message>
         <source>GET.OBJECT(type_num, object_id_text, start_num, count_num, item_index)</source>
         <comment>GETOBJECT_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>INDICAR.OBJETO(núm_tipo, identificador_objeto, núm_inicial, núm_de_cuenta, elemento_índice)</translation>
     </message>
     <message>
         <source>Options.Lists.Get(list_num)</source>
         <comment>OPTIONSLISTSGET_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>OPCIONES.INDICAR.LISTAS(núm_lista)</translation>
     </message>
     <message>
         <source>DEREF(reference)</source>
         <comment>DEREF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>VALREF(referencia)</translation>
     </message>
     <message>
         <source>ABSREF(ref_text, reference)</source>
         <comment>ABSREF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>REFABS(ref_texto, referencia)</translation>
     </message>
     <message>
         <source>RELREF(reference, rel_to_ref)</source>
         <comment>RELREF_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>REFREL(referencia, relativa_a_ref)</translation>
     </message>
     <message>
         <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
@@ -7685,11 +9277,344 @@ Hay errores con la consulta generada.</translation>
     <message>
         <source>XNPV(rate, values, dates)</source>
         <comment>XNPV_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>VNA.NO.PER(tasa, valores, fechas)</translation>
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
         <comment>XNPV_DESCRIPTION</comment>
+        <translation>Devuelve el valor neto actual para un flujo de caja que no es necesariamente periódico.</translation>
+    </message>
+    <message>
+        <source>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</source>
+        <comment>NETWORKDAYS_INTL_GRAMMER</comment>
+        <translation>DIAS.LAB.INTL(fecha_inicial,fecha_final,fin_de_semana,días_no_laborables)</translation>
+    </message>
+    <message>
+        <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
+        <comment>NETWORKDAYS_INTL_REMARK</comment>
+        <translation>Devuelve el número de días laborables completos entre dos fechas con parámetros de fin de semana personalizados.</translation>
+    </message>
+    <message>
+        <source>GAMMALN.PRECISE(x)</source>
+        <comment>GAMMALN_PRECISE_SYNTAX</comment>
+        <translation>GAMMA.LN.EXACTO(x)</translation>
+    </message>
+    <message>
+        <source>STDEV.S(number1,number2,...)</source>
+        <comment>STDEVS_GRAMMER</comment>
+        <translation>DESVEST.M(número1,número2...)</translation>
+    </message>
+    <message>
+        <source>SPELLING.CHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation>REVISION.ORTOGRAFICA(palabra, dic_personalizado, omitir_mayúsculas)</translation>
+    </message>
+    <message>
+        <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
+        <comment>SUMMARYINFO_SYNTAX</comment>
+        <translation>RESUMEN(título, asunto, autor, palabras_clave, comentarios)</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>PivotTableValue</comment>
+        <translation type="unfinished">Valores</translation>
+    </message>
+    <message>
+        <source>BINOM.INV(trials,probability_s,alpha)</source>
+        <comment>BINOMINV_SYNTAX</comment>
+        <translation>INV.BINOM(ensayos,prob_éxito,alfa)</translation>
+    </message>
+    <message>
+        <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
+        <comment>BINOMINV_DESCRIPTION</comment>
+        <translation>Devuelve el menor valor cuya distribución binomial acumulativa es mayor o igual que un valor de criterio.</translation>
+    </message>
+    <message>
+        <source>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</source>
+        <comment>BINOMDISTRANGE_SYNTAX</comment>
+        <translation>DISTR.BINOM.SERIE(ensayos,prob_éxito,núm_éxito,[núm_éxito2])</translation>
+    </message>
+    <message>
+        <source>Returns the probability of a trial result using a binomial distribution.</source>
+        <translation>Devuelve la probabilidad de un resultado de prueba que usa una distribución binomial.</translation>
+    </message>
+    <message>
+        <source>ZOOM(magnification)</source>
+        <comment>ZOOM_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULA.FILL(formula_text, reference)</source>
+        <comment>FORMULAFILL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PROTECT.DOCUMENT(contents, windows, password, objects, scenarios)</source>
+        <comment>PROTECTDOCUMENT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DELETE.NAME(name_text)</source>
+        <comment>DELETENAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SEND.KEYS(key_text, wait_logical)</source>
+        <comment>SENDKEYS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SAVE.AS(document_text, type_num, prot_pwd, backup, write_res_pwd, read_only_rec)</source>
+        <comment>SAVEAS_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FILE.DELETE(file_text)</source>
+        <comment>FILEDELETE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FOPEN(file_text, access_num)</source>
+        <comment>FOPEN_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FCLOSE(file_num)</source>
+        <comment>FCLOSE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FSIZE(file_num)</source>
+        <comment>FSIZE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FREAD(file_num, num_chars)</source>
+        <comment>FREAD_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FREAD(file_num, num_chars)</source>
+        <comment>FWRITE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.COPY(name_array, dest_book, position_num)</source>
+        <comment>WORKBOOKCOPY_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.SELECT(name_array, active_name, replace)</source>
+        <comment>WORKBOOKSELECT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.ACTIVATE(sheet_name)</source>
+        <comment>WORKBOOKACTIVATE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOKHIDE()</source>
+        <comment>WORKBOOKHIDE_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WORKBOOK.NAME(oldname_text, newname_text)</source>
+        <comment>WORKBOOKNAME_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OPTIONS.EDIT(incell_edit, drag_drop, alert, entermove, fixed, decimals, copy_objects, update_links)</source>
+        <comment>OPTIONSEDIT_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
+        <comment>OPTIONSGENERAL_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FONT.PROPERTIES(font, font_style, size, strikethrough, superscript, subscript, outline, shadow, underline, color, normal, background, start_char, char_count)</source>
+        <comment>FONTPROPERTIES_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMAT.NUMBER(format_text)</source>
+        <comment>FORMATNUMBER_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CELL.PROTECTION(locked, hidden)</source>
+        <comment>CELLPROTECTION_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CHISQ.INV(probability,degrees_freedom)</source>
+        <comment>CHISQINV_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the inverse of the left-tailed probability of the chi-squared distribution.</source>
+        <comment>CHISQINV_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CHISQ.DIST(x,deg_freedom,cumulative)</source>
+        <comment>CHISQDIST_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the left-tailed probability of the chi-squared distribution.</source>
+        <comment>CHISQDIST_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CONCAT (text1,text2,...)</source>
+        <comment>CONCAT_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combines the text from multiple ranges and/or strings.</source>
+        <comment>CONCAT_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TEXTJOIN(delimiter,ignore_empty,text1,[text2],...)</source>
+        <comment>TEXTJOIN_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Combines the text from multiple ranges and/or strings, and includes a delimiter you specify between each text value that will be combined.</source>
+        <comment>TEXTJOIN_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BAHTTEXT(number)</source>
+        <comment>BAHTTEXT_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converts a number to text(baht).</source>
+        <comment>BAHTTEXT_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IFS(logical_test,value_if_true,...)</source>
+        <comment>IFS_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.</source>
+        <comment>IFS_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MAXIFS(max_range,criteria_range,criteria,...)</source>
+        <comment>MAXIFS_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the maximum value among cells specified by a given set of conditions or criteria.</source>
+        <comment>MAXIFS_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MINIFS(min_range,criteria_range,criteria,...)</source>
+        <comment>MINIFS_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the minimum value among cells specified by a given set of conditions or criteria.</source>
+        <comment>MINIFS_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SWITCH(expression,value1,result1,[default_or_value2,result2],...)</source>
+        <comment>SWITCH_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evaluates an expression against a list of values and returns the result corresponding to the first matching value. If there is no match, an optional default value is returned.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BITAND(number1,number2)</source>
+        <comment>BITAND_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;AND&apos; of two numbers.</source>
+        <comment>BITAND_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BITOR(number1,number2)</source>
+        <comment>BITOR_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;OR&apos; of two numbers.</source>
+        <comment>BITOR_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BITXOR(number1,number2)</source>
+        <comment>BITXOR_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;XOR&apos; of two numbers.</source>
+        <comment>BITXOR_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BITRSHIFT(number,shift_amount)</source>
+        <comment>BITRSHIFT_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns a number shifted right by the specified number of bits.</source>
+        <comment>BITRSHIFT_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BITLSHIFT(number,shift_amount)</source>
+        <comment>BITLSHIFT_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns a number shifted left by the specified number of bits.</source>
+        <comment>BITLSHIFT_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DBCS(text)</source>
+        <comment>WIDECHAR_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IFNA(value,value_if_na)</source>
+        <comment>IFNA_SYNTAX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns the value you specify if the formula returns the #N/A error value; otherwise returns the result of the formula.</source>
+        <comment>IFNA_DESCRIPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FORMULATEXT(reference)</source>
+        <comment>FORMULATEXT_GRAMMER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Returns a formula as a string.</source>
+        <comment>FORMULATEXT_REMARK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DATESTRING()</source>
+        <comment>DATESTRING_GRAMMER</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7845,32 +9770,32 @@ Para cambiar el nombre del rango al que se hace referencia en la fórmula u hoja
     <message>
         <source>Microsoft Excel 2007/2010 Macro-Enabled Workbook(*.xlsm)</source>
         <comment>TX_ssDesc_Beta_Xlsm_</comment>
-        <translation>Microsoft Excel 2007/2010 Libro habilitado para macros (*.xlsm)</translation>
+        <translation type="obsolete">Microsoft Excel 2007/2010 Libro habilitado para macros (*.xlsm)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook(*.xlsx)</source>
         <comment>TX_ssDesc_Beta_Xlsx_</comment>
-        <translation>Microsoft Excel 2007/2010 Libro(*.xlsx)</translation>
+        <translation type="obsolete">Microsoft Excel 2007/2010 Libro(*.xlsx)</translation>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Workbook(*.xlsx; *.xlsm)</source>
         <comment>TX_ssDesc_Xlsx_Open</comment>
-        <translation>Microsoft Excel 2007/2010 Libro(*.xlsx; *.xlsm)</translation>
+        <translation type="obsolete">Microsoft Excel 2007/2010 Libro(*.xlsx; *.xlsm)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template(*.xlt)</source>
         <comment>TX_ssDesc_XlsTemp_</comment>
-        <translation>Microsoft Excel97/2000/XP/2003 Plantilla(*.xlt)</translation>
+        <translation type="obsolete">Microsoft Excel97/2000/XP/2003 Plantilla(*.xlt)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook(*.xls)</source>
         <comment>TX_ssDesc_Xls_</comment>
-        <translation>Microsoft Excel97/2000/XP/2003 Libro(*.xls)</translation>
+        <translation type="obsolete">Microsoft Excel97/2000/XP/2003 Libro(*.xls)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Workbook(*.xls)</source>
         <comment>TX_ssDesc_Xls_Save</comment>
-        <translation>Microsoft Excel97/2000/XP/2003 Libro(*.xls)</translation>
+        <translation type="obsolete">Microsoft Excel97/2000/XP/2003 Libro(*.xls)</translation>
     </message>
     <message>
         <source>Microsoft Excel Workbook(*.xls; *.xlt)</source>
@@ -8180,21 +10105,105 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Archivos comunes(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</translation>
     </message>
     <message>
         <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
         <comment>TX_ssDesc_XLTX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de Excel (*.xltx)</translation>
     </message>
     <message>
         <source>Excel2007 XML Template(*.xltm)</source>
         <comment>TX_ssDesc_XLTM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plantilla de Excel habilitada para macros (*.xltm)</translation>
     </message>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>TX_ssDesc_Ofd_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_CustomDoc_</comment>
+        <translation>Formato de documento de seguridad público (*.xls)</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_Osd</comment>
+        <translation>Formato de documento de seguridad en línea de WPS (*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
+        <comment>TX_ssDesc_Xls_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Template(*.xlt)</source>
+        <comment>TX_ssDesc_XlsTemp_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
+        <comment>TX_ssDesc_Xls_Save</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook(*.xlsx)</source>
+        <comment>TX_ssDesc_Beta_Xlsx_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Workbook(*.xlsm)</source>
+        <comment>TX_ssDesc_Beta_Xlsm_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook(*.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Xlsx_Open</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Binary Workbook(*.xlsb)</source>
+        <comment>TX_ssDesc_Xlsb_Open</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SYLK Files(*.slk)</source>
+        <comment>TX_ssDesc_Slk</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenDocument Spreadsheet(*.ods)</source>
+        <comment>TX_ssDesc_Ods_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TX_ssDesc_Pdf_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Spreadsheets Files(*.etj)|*.etj</source>
+        <comment>TX_ssDesc_GPCrypt_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TX_ssDesc_All_WPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.csv)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cells:</source>
+        <comment>TX_ProgressBar_PasteCells</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8436,7 +10445,7 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Hyperlink</source>
         <comment>STR_STYLE_HYPERLINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hipervínculo</translation>
     </message>
     <message>
         <source>Followed Hyperlink</source>
@@ -8446,62 +10455,62 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Note</source>
         <comment>STR_STYLE_NOTE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nota</translation>
     </message>
     <message>
         <source>Warning Text</source>
         <comment>STR_STYLE_WARNING_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto de advertencia</translation>
     </message>
     <message>
         <source>Title</source>
         <comment>STR_STYLE_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Heading 1</source>
         <comment>STR_STYLE_HEADING_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
         <comment>STR_STYLE_HEADING_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
         <comment>STR_STYLE_HEADING_3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título 3</translation>
     </message>
     <message>
         <source>Heading 4</source>
         <comment>STR_STYLE_HEADING_4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título 4</translation>
     </message>
     <message>
         <source>Input</source>
         <comment>STR_STYLE_INPUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Entrada</translation>
     </message>
     <message>
         <source>Output</source>
         <comment>STR_STYLE_OUTPUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <source>Calculation</source>
         <comment>STR_STYLE_CALCULATION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cálculo</translation>
     </message>
     <message>
         <source>Check Cell</source>
         <comment>STR_STYLE_CHECK_CELL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celda de comprobación</translation>
     </message>
     <message>
         <source>Linked Cell</source>
         <comment>STR_STYLE_LINKED_CELL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Celda vinculada</translation>
     </message>
     <message>
         <source>Total</source>
@@ -8511,152 +10520,167 @@ This backup will be saved to (%s)</source>
     <message>
         <source>Good</source>
         <comment>STR_STYLE_GOOD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Correcto</translation>
     </message>
     <message>
         <source>Bad</source>
         <comment>STR_STYLE_BAD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Incorrecto</translation>
     </message>
     <message>
         <source>Neutral</source>
         <comment>STR_STYLE_NEUTRAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Neutro</translation>
     </message>
     <message>
         <source>Accent1</source>
         <comment>STR_STYLE_ACCENT1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis1</translation>
     </message>
     <message>
         <source>20% - Accent1</source>
         <comment>STR_STYLE_20P_ACCENT_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>20% - Énfasis1</translation>
     </message>
     <message>
         <source>40% - Accent1</source>
         <comment>STR_STYLE_40P_ACCENT_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>40% - Énfasis1</translation>
     </message>
     <message>
         <source>60% - Accent1</source>
         <comment>STR_STYLE_60P_ACCENT_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>60% - Énfasis1</translation>
     </message>
     <message>
         <source>Accent2</source>
         <comment>STR_STYLE_ACCENT2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis2</translation>
     </message>
     <message>
         <source>20% - Accent2</source>
         <comment>STR_STYLE_20P_ACCENT_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>20% - Énfasis2</translation>
     </message>
     <message>
         <source>40% - Accent2</source>
         <comment>STR_STYLE_40P_ACCENT_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>40% - Énfasis2</translation>
     </message>
     <message>
         <source>60% - Accent2</source>
         <comment>STR_STYLE_60P_ACCENT_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>60% - Énfasis2</translation>
     </message>
     <message>
         <source>Accent3</source>
         <comment>STR_STYLE_ACCENT3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis3</translation>
     </message>
     <message>
         <source>20% - Accent3</source>
         <comment>STR_STYLE_20P_ACCENT_3</comment>
-        <translation type="unfinished"></translation>
+        <translation>20% - Énfasis3</translation>
     </message>
     <message>
         <source>40% - Accent3</source>
         <comment>STR_STYLE_40P_ACCENT_3</comment>
-        <translation type="unfinished"></translation>
+        <translation>40% - Énfasis3</translation>
     </message>
     <message>
         <source>60% - Accent3</source>
         <comment>STR_STYLE_60P_ACCENT_3</comment>
-        <translation type="unfinished"></translation>
+        <translation>60% - Énfasis3</translation>
     </message>
     <message>
         <source>Accent4</source>
         <comment>STR_STYLE_ACCENT4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis4</translation>
     </message>
     <message>
         <source>20% - Accent4</source>
         <comment>STR_STYLE_20P_ACCENT_4</comment>
-        <translation type="unfinished"></translation>
+        <translation>20% - Énfasis4</translation>
     </message>
     <message>
         <source>40% - Accent4</source>
         <comment>STR_STYLE_40P_ACCENT_4</comment>
-        <translation type="unfinished"></translation>
+        <translation>40% - Énfasis4</translation>
     </message>
     <message>
         <source>60% - Accent4</source>
         <comment>STR_STYLE_60P_ACCENT_4</comment>
-        <translation type="unfinished"></translation>
+        <translation>60% - Énfasis4</translation>
     </message>
     <message>
         <source>Accent5</source>
         <comment>STR_STYLE_ACCENT5</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis5</translation>
     </message>
     <message>
         <source>20% - Accent5</source>
         <comment>STR_STYLE_20P_ACCENT_5</comment>
-        <translation type="unfinished"></translation>
+        <translation>20% - Énfasis5</translation>
     </message>
     <message>
         <source>40% - Accent5</source>
         <comment>STR_STYLE_40P_ACCENT_5</comment>
-        <translation type="unfinished"></translation>
+        <translation>40% - Énfasis5</translation>
     </message>
     <message>
         <source>60% - Accent5</source>
         <comment>STR_STYLE_60P_ACCENT_5</comment>
-        <translation type="unfinished"></translation>
+        <translation>60% - Énfasis5</translation>
     </message>
     <message>
         <source>Accent6</source>
         <comment>STR_STYLE_ACCENT6</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis6</translation>
     </message>
     <message>
         <source>20% - Accent6</source>
         <comment>STR_STYLE_20P_ACCENT_6</comment>
-        <translation type="unfinished"></translation>
+        <translation>20% - Énfasis6</translation>
     </message>
     <message>
         <source>40% - Accent6</source>
         <comment>STR_STYLE_40P_ACCENT_6</comment>
-        <translation type="unfinished"></translation>
+        <translation>40% - Énfasis6</translation>
     </message>
     <message>
         <source>60% - Accent6</source>
         <comment>STR_STYLE_60P_ACCENT_6</comment>
-        <translation type="unfinished"></translation>
+        <translation>60% - Énfasis6</translation>
     </message>
     <message>
         <source>CExplanatory Text</source>
         <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto explicativo</translation>
     </message>
     <message>
         <source>RowLevel</source>
         <comment>STR_STYLE_ROWLEVEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>NivelFila</translation>
     </message>
     <message>
         <source>ColLevel</source>
         <comment>STR_STYLE_COLLEVEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>NivelCol</translation>
+    </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>Coma [0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>Moneda [0]</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <comment>STR_PREFIX_STYLE_NAME</comment>
+        <translation>Estilo</translation>
     </message>
 </context>
 <context>
@@ -9254,7 +11278,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
         <comment>TX_ERROR_CutPasteRange</comment>
-        <translation>¿Desea reemplazar el contenido de las celdas de destino?</translation>
+        <translation type="obsolete">¿Desea reemplazar el contenido de las celdas de destino?</translation>
     </message>
     <message>
         <source>Draw Border</source>
@@ -14193,7 +16217,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
         <comment>TX_InCompatible_ShareBook</comment>
-        <translation>WPS Spreadsheets no soporta el normal libro compartido. Guarde el libro como formato de &quot;*.xls&quot; or &quot;*.et&quot;, y asígnalo como libro compartido tras abrirlo.  </translation>
+        <translation type="obsolete">WPS Spreadsheets no soporta el normal libro compartido. Guarde el libro como formato de &quot;*.xls&quot; or &quot;*.et&quot;, y asígnalo como libro compartido tras abrirlo.  </translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -15073,27 +17097,27 @@ Si desea usar referencia circular para calcular el resultado correcto, haga clic
     <message>
         <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
         <comment>TX_CHart_EmptyCell</comment>
-        <translation type="unfinished"></translation>
+        <translation>Para crear un gráfico, seleccione las celdas que contienen los datos que desea utilizar. Si tiene nombres para las filas y columnas que desea utilizar como etiquetas, inclúyalos en su selección.</translation>
     </message>
     <message>
         <source>New Excel 2007/2010 Workbook</source>
         <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo libro de Excel 2007/2010</translation>
     </message>
     <message>
         <source>New Excel 2003 Workbook</source>
         <comment>TX_NEWBLANKXLSFILECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo libro de Excel 2003</translation>
     </message>
     <message>
         <source>Format Shape</source>
         <comment>TX_SETSHAPECAPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formato de forma</translation>
     </message>
     <message>
         <source>Dialog_Ref</source>
         <comment>TX_ParaInfo_369</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ref_diálogo</translation>
     </message>
     <message>
         <source>Type_num</source>
@@ -15103,22 +17127,534 @@ Si desea usar referencia circular para calcular el resultado correcto, haga clic
     <message>
         <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
         <comment>TX_RemoveTable_ShareBook</comment>
-        <translation type="unfinished"></translation>
+        <translation>Este libro no puede compartirse porque contiene tablas de WPS o asignaciones XML. Para compartirlo, convierta las tablas en rangos y elimine las asignaciones XML.</translation>
     </message>
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>WP_NoSynonymsSuggestions_Caption</comment>
-        <translation type="obsolete">(Ningún sinónimo sugerido)</translation>
+        <translation>(Ningún sinónimo sugerido)</translation>
     </message>
     <message>
         <source>is the discount rate to apply to the cash flows.</source>
         <comment>TX_ParaDesc_549</comment>
-        <translation type="unfinished"></translation>
+        <translation>es la tasa de descuento para aplicar al efectivo.</translation>
     </message>
     <message>
         <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
         <comment>TX_ParaDesc_550</comment>
+        <translation>es un flujo de caja, no necesariamente periódico, que corresponde al plan de fechas de pagos.</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <comment>TX_ParaInfo_371</comment>
+        <translation>Fin de semana</translation>
+    </message>
+    <message>
+        <source>custom weekend</source>
+        <comment>TX_ParaDesc_551</comment>
+        <translation>Opcional. Fin de semana es un número o cadena que especifica cuándo es fin de semana.</translation>
+    </message>
+    <message>
+        <source>The shared workbook has been saved in a file format that is recognized by earlier versions of ET. To keep this workbook synchronized with changes that other shared workbook users make. you need to close and reopen the workbook.
+• Click OK to close and reopen the workbook in Compatibility mode.
+• Click Cancel to view the workbook as read-only.</source>
+        <comment>TX_ReOpenXls_ShareBook</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The shared workbook has saved in a file format that is  supported in the current of ET, To Keep this workbook synchronized with changes that other shared workbook users make by using the new file format, you need to colse and reopen the workbook.
+• Click OK to close and reopen the workbook.
+• Click Cancel to view it read-only.</source>
+        <comment>TX_ReOpenXlsx_ShareBook</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <comment>TXShell_InsertDropDownList_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Data is already exist here. Do you want to replace it?</source>
+        <comment>TX_ERROR_CutPasteRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(blank)</source>
+        <comment>TX_PivotTable_Blank_Tip</comment>
+        <translation type="unfinished">(En blanco)</translation>
+    </message>
+    <message>
+        <source>No Value</source>
+        <comment>TX_PivotTable_NoValue_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Row: %3</source>
+        <comment>TX_PivotTable_RowItem_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Column: %3</source>
+        <comment>TX_PivotTable_ColumnItem_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3&lt;br&gt;Column: %4</source>
+        <comment>TX_PivotTable_ValueItem_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Column: %3</source>
+        <comment>TX_PivotTable_ValueItemNoRow_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3</source>
+        <comment>TX_PivotTable_ValueItemNoCol_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2</source>
+        <comment>TX_PivotTable_ValueItemNoRowAndCol_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number_s2</source>
+        <comment>TX_ParaInfo_372</comment>
+        <translation>Núm_éxito2</translation>
+    </message>
+    <message>
+        <source>Optional. If provided, returns the probability that the number of successful trials will fall between Number_s and number_s2. Must be greater than or equal to Number_s and less than or equal to Trials.</source>
+        <comment>TX_ParaDesc_552</comment>
+        <translation>Opcional. Si se proporciona, devuelve la probabilidad de que el número de ensayos con éxito esté comprendido entre Núm_éxito y núm_éxito2. Debe ser mayor o igual que Número_éxito y menor o igual que Ensayos.</translation>
+    </message>
+    <message>
+        <source>Clear Filter(Alt+C)</source>
+        <comment>TX_Slicer_ClearFilter_Tip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column %1</source>
+        <comment>TX_AutoInput_ColumnName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approximate match</source>
+        <comment>TX_AutoInput_ApproximateMatch</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exact match</source>
+        <comment>TX_AutoInput_ExactMatch</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The name entered already exists. Enter a unique name.</source>
+        <comment>TX_Exist_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please exit editing cell or formula first before saving the file.</source>
+        <comment>TX_PROMPT_EXIT_EDIT_BEFORESAVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Axis Field Buttons On Chart</source>
+        <comment>TX_Hide_Axis_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons On Chart</source>
+        <comment>TX_Show_Axis_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On Chart</source>
+        <comment>TX_Hide_All_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show ALL Field Buttons On Chart</source>
+        <comment>TX_Show_All_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons On Chart</source>
+        <comment>TX_Hide_Value_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons On Chart</source>
+        <comment>TX_Show_Value_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Legend Field Buttons On Chart</source>
+        <comment>TX_Hide_Legend_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons On Chart</source>
+        <comment>TX_Show_Legend_Field_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Report Filter Buttons On Chart</source>
+        <comment>TX_Hide_Report_Filter_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Buttons On Chart</source>
+        <comment>TX_Show_Report_Filter_Buttons_On_Chart</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <comment>TX_PivotTable_Remove_Field</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Name:</source>
+        <comment>TX_PivotTableName_TableSuffex</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Name:</source>
+        <comment>TX_PivotTableName_ChartSuffex</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>TX_PivotTable_Des</comment>
+        <translation type="unfinished">Tabla dinámica</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <comment>TX_PivotChart_Des</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotTable Option</source>
+        <comment>TX_PivotTable_Option_Des</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotChart Option</source>
+        <comment>TX_PivotChart_Option_Des</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <comment>TX_NEWDEFAULTFILECAPTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <comment>TX_SHEETBACKGROUND</comment>
+        <translation type="unfinished">Fondo</translation>
+    </message>
+    <message>
+        <source>Delete
+Background</source>
+        <comment>TX_SHEETBACKGROUND_DELETE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet Background</source>
+        <comment>TX_SHEETBACKGROUND_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max_range</source>
+        <comment>TX_ParaInfo_373</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Min_range</source>
+        <comment>TX_ParaInfo_374</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expression</source>
+        <comment>TX_ParaInfo_375</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_376</comment>
+        <translation type="unfinished">Valor</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <comment>TX_ParaInfo_377</comment>
+        <translation type="unfinished">Resultado</translation>
+    </message>
+    <message>
+        <source>value_if_na</source>
+        <comment>TX_ParaInfo_378</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number1</source>
+        <comment>TX_ParaInfo_379</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>number2</source>
+        <comment>TX_ParaInfo_380</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>shift_amount</source>
+        <comment>TX_ParaInfo_381</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>delimiter</source>
+        <comment>TX_ParaInfo_382</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ignore_empty</source>
+        <comment>TX_ParaInfo_383</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_384</comment>
+        <translation type="obsolete">Referencia</translation>
+    </message>
+    <message>
+        <source>is the decimal representation of the binary number you want to compute</source>
+        <comment>TX_ParaDesc_554</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the bits you move number to the left</source>
+        <comment>TX_ParaDesc_555</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the bits you move number to the right</source>
+        <comment>TX_ParaDesc_556</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the character or string to insert between each text item</source>
+        <comment>TX_ParaDesc_557</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>if true (default), empty cells are ignored</source>
+        <comment>TX_ParaDesc_558</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
+        <comment>TX_ParaDesc_559</comment>
+        <translation type="unfinished">es el valor al que desea evaluar la distribución, un número no negativo.</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
+        <comment>TX_ParaDesc_553</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You already have a file named &apos;%1&apos;. Do you want to replace it with this one?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Office Database Connections(*.odc)|*.odc||</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <comment>TXShell_Connections_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <comment>TXShell_ExistingConnections_Caption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Office Data Connection</source>
+        <comment>TX_Connection_Detail_Type_ODC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Database Query</source>
+        <comment>TX_Connection_Detail_Type_ODBC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Access Database</source>
+        <comment>TX_Connection_Detail_Type_ACCESS_DB</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel File</source>
+        <comment>TX_Connection_Detail_Type_EXCEL_FILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OLE DB Query</source>
+        <comment>TX_Connection_Detail_Type_OLEDB</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web Query</source>
+        <comment>TX_Connection_Detail_Type_WEB_QUERY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text File</source>
+        <comment>TX_Connection_Detail_Type_TEXT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML File</source>
+        <comment>TX_Connection_Detail_Type_XML</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SharePoint List</source>
+        <comment>TX_Connection_Detail_Type_IQY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Sun) To 7(Sat)</source>
+        <comment>TX_AutoInput_NumberFrom1SunTo7Sat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Mon) To 7(Sun)</source>
+        <comment>TX_AutoInput_NumberFrom1MonTo7Sun</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 0(Mon) To 6(Sun)</source>
+        <comment>TX_AutoInput_NumberFrom0MonTo6Sun</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Mon) To 7(Sun)</source>
+        <comment>TX_AutoInput_NumberFromMonToSun</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Tues) To 7(Mon)</source>
+        <comment>TX_AutoInput_NumberFromTuesToMon</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Wed) To 7(Tues)</source>
+        <comment>TX_AutoInput_NumberFromWedToTues</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Thur) To 7(Wed)</source>
+        <comment>TX_AutoInput_NumberFromThurToWed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Fri) To 7(Thur)</source>
+        <comment>TX_AutoInput_NumberFromFriToThur</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Sat) To 7(Fri)</source>
+        <comment>TX_AutoInput_NumberFromSatToFri</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number From 1(Sun) To 7(Sat)</source>
+        <comment>TX_AutoInput_NumberFromSunToSat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ignore empty blank</source>
+        <comment>TX_AutoInput_IgnoreEmptyBlank</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>include empty blank</source>
+        <comment>TX_AutoInput_IncludeEmptyBlank</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cumulative distribution function</source>
+        <comment>TX_AutoInput_Cumulative</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>probability density function</source>
+        <comment>TX_AutoInput_Probability</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the maximum value.</source>
+        <comment>TX_ParaDesc_560</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the minimum value.</source>
+        <comment>TX_ParaDesc_561</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is an expression to be evaluated.</source>
+        <comment>TX_ParaDesc_562</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>value1,value2,... is a value to be compared with expression.</source>
+        <comment>TX_ParaDesc_563</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>result1,result2,... is a result to be returned if the corresponding value matches expression.</source>
+        <comment>TX_ParaDesc_564</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a reference to a formula.</source>
+        <comment>TX_ParaDesc_565</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is a number that you want to convert.</source>
+        <comment>TX_ParaDesc_566</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
+        <comment>TX_ParaDesc_567</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is the value that is returned if Logical_test is TRUE.</source>
+        <comment>TX_ParaDesc_568</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADO Recordset</source>
+        <comment>TX_Connection_Detail_Type_ADO_RECORDSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DAO Recordset</source>
+        <comment>TX_Connection_Detail_Type_DAO_RECORDSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed in locking title rows, please do it with freeze command in View tab.</source>
+        <comment>TX_AfLockTitleRowsFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <translation type="unfinished">El número debe estar comprendido entre 1 y 32767. Inserte un número perteneciente a este intervalo.</translation>
     </message>
 </context>
 <context>
@@ -15851,32 +18387,42 @@ Si desea usar referencia circular para calcular el resultado correcto, haga clic
     <message>
         <source>AutoFitSelection</source>
         <comment>TX_Undo_AutoFitSelection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajustar a la selección</translation>
     </message>
     <message>
         <source>Insert New Chart</source>
         <comment>TX_Undo_InsertNewChart</comment>
-        <translation type="unfinished"></translation>
+        <translation>Insertar nuevo gráfico</translation>
     </message>
     <message>
         <source>Table Resize</source>
         <comment>TX_Undo_ListObjectRBDrag</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar tamaño de la tabla</translation>
     </message>
     <message>
         <source>Delete Colunm</source>
         <comment>TX_Undo_ListColumnDelete</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar columna</translation>
     </message>
     <message>
         <source>Delete Row</source>
         <comment>TX_Undo_ListRowDelete</comment>
-        <translation type="unfinished">Eliminar fila</translation>
+        <translation>Eliminar fila</translation>
     </message>
     <message>
         <source>New Table Style</source>
         <comment>TX_Undo_NewTableStyle</comment>
+        <translation>Nuevo estilo de tabla</translation>
+    </message>
+    <message>
+        <source>PivotTable Refresh</source>
+        <comment>TX_Undo_PivotTableRefresh</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TX_Undo_PasteName</comment>
+        <translation type="unfinished">Pegar</translation>
     </message>
 </context>
 <context>
@@ -16235,7 +18781,7 @@ Si desea usar referencia circular para calcular el resultado correcto, haga clic
     <message>
         <source>Column Area</source>
         <comment>et_sColAreaText</comment>
-        <translation>Área de columnas</translation>
+        <translation type="obsolete">Área de columnas</translation>
     </message>
     <message>
         <source>Column width must be between %d and %d.</source>
@@ -16345,7 +18891,7 @@ Si desea usar referencia circular para calcular el resultado correcto, haga clic
     <message>
         <source>Data Area</source>
         <comment>et_sDataAreaText</comment>
-        <translation>Área con datos</translation>
+        <translation type="obsolete">Área con datos</translation>
     </message>
     <message>
         <source>Data range is not valid.</source>
@@ -16840,7 +19386,7 @@ Para mantener la imagen existente, presione Cancelar.</translation>
     <message>
         <source>Page Area</source>
         <comment>et_sPageAreaText</comment>
-        <translation>Área de página</translation>
+        <translation type="obsolete">Área de página</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -16985,7 +19531,7 @@ Para mantener la imagen existente, presione Cancelar.</translation>
     <message>
         <source>Row Area</source>
         <comment>et_sRowAreaText</comment>
-        <translation>Área Fila</translation>
+        <translation type="obsolete">Área Fila</translation>
     </message>
     <message>
         <source>Row height must be between %d and %d.</source>
@@ -17686,16 +20232,184 @@ Utilice alguno de los formatos de número integrados. En el menú Formato, haga 
     </message>
     <message>
         <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se produjo un error inesperado. No se pueden guardar los cambios realizados en los datos.</translation>
     </message>
     <message>
         <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
         <comment>et_sListObjectPublishSuccessed</comment>
-        <translation type="unfinished"></translation>
+        <translation>La tabla se publicó correctamente y se puede ver en: &lt;a href=&quot;%s&quot;&gt;%s</translation>
     </message>
     <message>
         <source>Cannot connect to the server at this time. Your table cannot be published.</source>
         <comment>et_sListobjectPublishHostNotFound</comment>
+        <translation>No se puede conectar al servidor en este momento. No se puede publicar la tabla.</translation>
+    </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>et_sComma0</comment>
+        <translation>Coma [0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>et_sCurrency0</comment>
+        <translation>Moneda [0]</translation>
+    </message>
+    <message>
+        <source>Ranges selected</source>
+        <comment>et_sPivotConsolidatePrompt_Ok</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No ranges selected</source>
+        <comment>et_sPivotConsolidatePrompt_NotOk</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move PivotTable</source>
+        <comment>et_sPivotTableMoveDlgName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change PivotTable Data Source</source>
+        <comment>et_sPivotTableChangeSourceDlgName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <comment>et_sPivotTableClearFilter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <comment>et_sPivotTableSelectThis</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To apply value filtering, the Value area must contain at least one field.</source>
+        <comment>et_sPivotTableValueFilterNoFieldError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The fields that are being moved cannot be placed in that PivotTable area.</source>
+        <comment>et_sPivotTableMoveFieldError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This field has not item</source>
+        <comment>et_sPivotTableFieldHasNoItemError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
+        <comment>et_sPivotTableFieldOver10000Item</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can not apply data validation validation to a cell in a PivotTable</source>
+        <comment>et_sDataValidationOnPivotCell</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PivotChart Areas</source>
+        <comment>et_sPivotChartAreasCaption</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create PivotTable</source>
+        <comment>et_sPivotTableCreateDlgName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create PivotChart</source>
+        <comment>et_sPivotChartCreateDlgName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Sum</comment>
+        <translation type="unfinished">Suma</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Count</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Average</comment>
+        <translation type="unfinished">Promedio</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Max</comment>
+        <translation type="unfinished">Máx</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Min</comment>
+        <translation type="unfinished">Mín</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Product</comment>
+        <translation type="unfinished">Producto</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <comment>et_sAnalysisPaneChartSubtotal_CountN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>et_sAnalysisPaneChartSubtotal_StdDev</comment>
+        <translation type="unfinished">Desvest</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>et_sAnalysisPaneChartSubtotal_StdDevp</comment>
+        <translation type="unfinished">Desvestp</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Var</comment>
+        <translation type="unfinished">Var</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Varp</comment>
+        <translation type="unfinished">Varp</translation>
+    </message>
+    <message>
+        <source>Number Overflow</source>
+        <comment>et_sAnalysisPaneNumberOverflow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Connections to external data sources has been disabled, you can change the settings in the options dialog.</source>
+        <comment>et_sExternalContentDisabled</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All WPS Spreadsheets Files(*.et;*.ett)|*.et;*.ett|All Excel Files(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</source>
+        <comment>et_sPivotBrowseFilters</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
+        <comment>et_sChartLabelFormulaNotValid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Because of some following conditions, SplitSheet can not be finished! 
+•ArrayFomular. 
+•PivotTable. 
+•Other features that affects SplitSheet.</source>
+        <comment>et_sSplitSheetError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Entire Workbook directly</source>
+        <comment>et_sRecentPrint_PrintEntireDirect</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

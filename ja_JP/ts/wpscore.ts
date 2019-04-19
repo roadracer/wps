@@ -82,7 +82,7 @@
     <message>
         <source>Author</source>
         <comment>IO_String_Author</comment>
-        <translation>作者</translation>
+        <translation type="obsolete">作者</translation>
     </message>
 </context>
 <context>
@@ -207,13 +207,13 @@ Try one or more of the following:
 3. Make sure that the source file is in the appropriate directory.
 4. Make sure that the source file&apos;s format is supported by WPS.</source>
         <comment>TX_FIELD_ERR_UPDATESOURCEFAIL</comment>
-        <translation>Kingsoft Writer はソースファイルを更新する時にエラーが発生しました。
+        <translation>WPS Writer はソースファイルを更新する時にエラーが発生しました。
 以下のいずれかの操作をお試しください。
 
 1.　ソースファイルが開いているか、他のプログラムで使用されていないか確認してください。
 2.　ソースファイルは保護されているかどうか確認してください。
 3.　ソースファイルの保存先が正しいかどうか確認してください。
-4.　ソースファイルがKingsoft Writerに対応する形式であるか確認してください。</translation>
+4.　ソースファイルがWPS Writerに対応する形式であるか確認してください。</translation>
     </message>
     <message>
         <source>Error! Number cannot be represented in specified format.</source>
@@ -238,7 +238,7 @@ Try one or more of the following:
     <message>
         <source>Error! The style has no specified text.</source>
         <comment>TX_FIELD_ERR_STYLE_NO_SPECIFIED_STYLE_TEXT</comment>
-        <translation type="unfinished"></translation>
+        <translation>エラー： ドキュメントに指定されたスタイルがありません</translation>
     </message>
 </context>
 <context>
@@ -334,12 +334,12 @@ Try one or more of the following:
     <message>
         <source>Error! No property name supplied</source>
         <comment>TX_FIELD_ERR_DOCPROPERTY_UNSPECIFIED_PROPERTY</comment>
-        <translation>错误！未提供属性名称</translation>
+        <translation>エラーです。プロパティ名前が未指定です。</translation>
     </message>
     <message>
         <source>Error! Unknown document property name</source>
         <comment>TX_FIELD_ERR_DOCPROPERTY_UNKNOWN_PROPERTY</comment>
-        <translation>错误！未知的文档属性名称</translation>
+        <translation>エラーです。不明なドキュメントプロパティ名前です。</translation>
     </message>
 </context>
 <context>
@@ -438,6 +438,30 @@ Try one or more of the following:
         <source>Fields are nested too deeply.</source>
         <comment>TX_FIELD_ERR_NESTED_TOO_MUCH</comment>
         <translation>域嵌套太深。</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of contents?</source>
+        <comment>TX_REPLACE_TABLE_OF_CONTENT</comment>
+        <translation>選択した目次を置換しますか。</translation>
+    </message>
+    <message>
+        <source>No table of contents in the file</source>
+        <comment>TX_NO_TOC_IN_FILE</comment>
+        <translation>ファイルには目次がありません。</translation>
+    </message>
+    <message>
+        <source>Error! No table of figures entries found.</source>
+        <comment>TX_FIELD_ERR_NOT_TABLE_OF_FIGURES_ENTRIES_FOUND</comment>
+        <translation>エラー!図表目次が見つかりません。</translation>
+    </message>
+    <message>
+        <source>Cannot create automatic table of contents since no heading style or outline level has been set. 
+
+Replace with a manual table?</source>
+        <comment>TX_TOC_REPLACE_TO_MANUALCONTENT</comment>
+        <translation>自動目次を作成できません。自動目次を作成するには、目次の内容にタイトルスタイルまたはアウトラインを設定する必要があります。
+
+手動目次に切り替えますか？</translation>
     </message>
 </context>
 <context>
@@ -542,6 +566,16 @@ Try one or more of the following:
         <source>Same as the previous section</source>
         <comment>TxPropmpt_Same_as_Previous</comment>
         <translation>前のセクションと同じ</translation>
+    </message>
+    <message>
+        <source>View More Replies</source>
+        <comment>TxPropmpt_ViewMoreReplies</comment>
+        <translation>もっとリプライ</translation>
+    </message>
+    <message>
+        <source>View More Comments / Revisions</source>
+        <comment>TxPropmpt_ViewMoreCommentsRevisions</comment>
+        <translation>もっとコメント/変更履歴</translation>
     </message>
 </context>
 <context>
@@ -741,6 +775,11 @@ Try one or more of the following:
         <source>Top Margin</source>
         <comment>TxToolTip_Top_Margin</comment>
         <translation>上余白</translation>
+    </message>
+    <message>
+        <source> (Press Enter Insert)</source>
+        <comment>TxToolTip_Entery_Insert</comment>
+        <translation> (Enterを押して入力)</translation>
     </message>
 </context>
 <context>
@@ -2292,7 +2331,7 @@ Do you want to replace it?</source>
     <message>
         <source>Unit: inch</source>
         <comment>_TxStatusBar_Inches</comment>
-        <translation>単位: インチ</translation>
+        <translation>単位: inch</translation>
     </message>
     <message>
         <source>Unit: mm</source>
@@ -2446,7 +2485,7 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer document data</source>
         <comment>_TxClipboardDesc_Xml</comment>
-        <translation>Kingsoft Writer ドキュメントデータ</translation>
+        <translation>WPS Writer ドキュメントデータ</translation>
     </message>
     <message>
         <source>Invalid e-mail address, sending failed.</source>
@@ -2506,7 +2545,7 @@ Do you want to replace it?</source>
     <message>
         <source>WPS Writer</source>
         <comment>_TxApp_Name</comment>
-        <translation>Kingsoft Writer</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>The Replace With text contains a group number which is out of range.</source>
@@ -2521,7 +2560,7 @@ Do you want to replace it?</source>
     <message>
         <source>Cannot Load this Add-In.</source>
         <comment>_TxAddin_CannotLoadAddIn</comment>
-        <translation>Kingsoft Officeはこのアドインをロードできません。</translation>
+        <translation>WPS Officeはこのアドインをロードできません。</translation>
     </message>
     <message>
         <source>WPS Writer cannot merge the main document with the data source, because the date record is empty or unmatched with the inquiry.</source>
@@ -2554,7 +2593,7 @@ Do you want to replace it?</source>
     <message>
         <source>Make office work easier</source>
         <comment>_TxDlg_EmptyStringPreview</comment>
-        <translation>Kingsoft Officeは事務処理をより簡単にします</translation>
+        <translation>WPS Officeは事務処理をより簡単にします</translation>
     </message>
     <message>
         <source>(no proofing)</source>
@@ -2585,7 +2624,7 @@ Do you want to replace it?</source>
         <source>WPS Writer could not open %s as a data or header source because it is the active mail merge main document.</source>
         <comment>_TxMailMerge_CannotOpenActiveMainDoc</comment>
         <translatorcomment>Kingsoft Writerは %sをデータまたはヘッダーのソースとして開くことができません。当該ファイルは差し込み印刷が機能しているためです。</translatorcomment>
-        <translation>Kingsoft Writerは、ファイル内に差し込みが行われているため %sをデータやヘッダーのソースとして開くことができません。</translation>
+        <translation>WPS Writerは、ファイル内に差し込みが行われているため %sをデータやヘッダーのソースとして開くことができません。</translation>
     </message>
     <message>
         <source>You cannot compare these documents because the document contain XML Nodes</source>
@@ -2635,7 +2674,7 @@ Do you want to replace it?</source>
     <message>
         <source>Black;Dark Teal;Dark Blue;Indigo;Blue;Light Blue;Blue-Gray;Lavender;Gray-80%;Teal;Aqua;Sky Blue;Pale Blue;Light Turquoise;Pink;Rose;%Gray-50%;Sea Green;Turquoise;Light Green;White;Light Yellow;Tan;Violet;Gray-40%;Dark Green;Bright Green;Yellow;Gold;Light Orange;Red;Plum;Gray-25%;Green;Lime;Dark Yellow;Olive Green;Orange;Brown;Dark Red;Dark Red;Orange;Light Green;Green;Light Blue;Blue;Dark Blue;Purple;Dark1;Light1;Dark2;Light2;Accent1;Accent2;Accent3;Accent4;Accent5;Accent6;Hyperlink;FollowedHyperlink;Background1;Text1;Background2;Text2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</source>
         <comment>TxRevision_Color_ColorNameReplacedList</comment>
-        <translation>黒;濃い緑;濃い青;濃い青緑;ブルー;薄い青;ブール-グレー;薄い紫;灰色ー80%;青緑;アクア;スカイブルー;ペールブルー;薄い水色;ピンク;ローズ;灰色ー50%;シーグリーン;水色;薄い緑;白;薄い黄;ベージュ;紫;灰色-40%;濃い緑;明るい緑;黄;ゴールド;薄いオレンジ;赤;プラム;灰色-25%;緑;ライム;濃い黄;オリーブ;オレンジ;茶;濃い赤;オレンジ;薄いミドリ;ミドリ;薄い青;青;濃い青;紫;文字/背景1;文字/背景2;文字/背景3;着色1;着色2;着色3;着色4;着色5;着色6;ハイパーリンク;アクセスしたハイパーリンク;背景1;背景2;文字1;文字2;000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</translation>
+        <translation>黒;濃い緑;濃い青;濃い青緑;ブルー;薄い青;ブール-グレー;薄い紫;灰色ー80%;青緑;アクア;スカイブルー;ペールブルー;薄い水色;ピンク;ローズ;灰色ー50%;シーグリーン;水色;薄い緑;白;薄い黄;ベージュ;紫;灰色-40%;濃い緑;明るい緑;黄;ゴールド;薄いオレンジ;赤;プラム;灰色-25%;緑;ライム;濃い黄;オリーブ;オレンジ;茶;濃い赤;濃い赤;オレンジ;薄いミドリ;ミドリ;薄い青;青;濃い青;紫;文字/背景1;文字/背景2;文字/背景3;文字/背景4;着色1;着色2;着色3;着色4;着色5;着色6;ハイパーリンク;アクセスしたハイパーリンク;背景1;背景2;文字1;文字2:000000;003366;000080;333399;0000FF;3366FF;666699;CC99FF;333333;008080;33CCCC;00CCFF;99CCFF;CCFFFF;FF00FF;FF99CC;808080;339966;00FFFF;CCFFCC;FFFFFF;FFFF99;FFCC99;800080;969696;003300;00FF00;FFFF00;FFCC00;FF9900;FF0000;993366;C0C0C0;008000;99CC00;808000;333300;FF6600;993300;800000;C00000;FFC000;92D050;00B050;00B0F0;0070C0;002060;7030A0;dark1;light1;dark2;light2;accent1;accent2;accent3;accent4;accent5;accent6;hyperlink;followedHyperlink;background1;text1;background2;text2</translation>
     </message>
     <message>
         <source>Check box controls</source>
@@ -2920,7 +2959,7 @@ Do you want to replace it?</source>
     <message>
         <source>Text Outline</source>
         <comment>TxRevision_Chp_TextOutline_Effect</comment>
-        <translation>輪郭</translation>
+        <translation>文字の輪郭</translation>
     </message>
     <message>
         <source>There are one or all documents contain revsions, continue compare or not?</source>
@@ -2933,7 +2972,7 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>WPS Writer AaBbCc</source>
-        <translation>Kingsoft Writer AaBbCc</translation>
+        <translation>WPS Writer AaBbCc</translation>
     </message>
     <message>
         <source>WPS Writer cannot merge the main document with the data source because the data record is empty or no data records matched the query options.</source>
@@ -2968,6 +3007,85 @@ Do you want to replace it?</source>
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
+        <translation>ドキュメント内のオブジェクトは、存在しないファイルへのリンクを含んでいます。リンク情報を更新できません。</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <comment>TxUserInfo_DefaultUserName</comment>
+        <translation>未知</translation>
+    </message>
+    <message>
+        <source>Tips: WPS formula content found temporarily unable to resolve in this document, in order to avoid the impact of your work, place documents into .doc format before using WPS Now!</source>
+        <comment>TxBBCheckNewFormulaTip</comment>
+        <translation>注記: このファイル内に解析できない数式が見つかりました。WPS Officeで使用する前に、ファイルを docx.形式に変更してください。</translation>
+    </message>
+    <message>
+        <source>You cannot compare these documents because the document contain Math</source>
+        <translation>数式が含まれているため、これらのファイルを比較できません。</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <comment>TxSortFieldNumber_Paragraphs</comment>
+        <translation>段落数</translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <comment>TxSortFieldNumber_Headings</comment>
+        <translation>見出し</translation>
+    </message>
+    <message>
+        <source>Outlook is not installed or configured correctly, sending failed.</source>
+        <comment>_TxMailMerge_Outlook_Not_Available</comment>
+        <translation>Outlookがインストールされないまたは設定が正しくないため、メールを送信できませんでした。</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>_TxMailMerge_FieldName</comment>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <comment>_TxMailMerge_FieldCompany</comment>
+        <translation>会社名</translation>
+    </message>
+    <message>
+        <source>JobTitle</source>
+        <comment>_TxMailMerge_FieldJobTitle</comment>
+        <translation>職務</translation>
+    </message>
+    <message>
+        <source>PostalCode</source>
+        <comment>_TxMailMerge_FieldPostalCode</comment>
+        <translation>郵便番号</translation>
+    </message>
+    <message>
+        <source>Address</source>
+        <comment>_TxMailMerge_FieldAddress</comment>
+        <translation>アドレス</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <comment>_TxMailMerge_FieldPhone</comment>
+        <translation>電話番号</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <comment>TxRevision_Comment_Author</comment>
+        <translation>作者</translation>
+    </message>
+    <message>
+        <source>WPS cannot save changeds to the global template, because it was opened with read-only access.</source>
+        <comment>TxNormalReadOnlyMessageBoxText</comment>
+        <translation>読み取り専用で開いているため、WPS は変更した内容を共有テンプレートに保存できません。</translation>
+    </message>
+    <message>
+        <source>%s Not Privilege</source>
+        <comment>_TxTemplate_Not_Privilege</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%s Medium Full</source>
+        <comment>_TxTemplate_MediumFull</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3194,12 +3312,12 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation type="obsolete">一般のファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
+        <translation type="unfinished">一般のファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx)</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>_TxDocument_SaveChangeMsg</comment>
-        <translation>&quot;%s&quot; は変更されました。保存しますか。</translation>
+        <translation>&quot;%s&quot; の変更を保存しますか？</translation>
     </message>
     <message>
         <source>Document</source>
@@ -3297,7 +3415,7 @@ Please try one of the following.
     <message>
         <source>Objects of the paste contents will be lost when pasting in text box, comment box, footnote and endnote.</source>
         <comment>_TxDocument_DrawingWillLost</comment>
-        <translation>テキストボックス、コメントボックス、脚注、文末脚注に貼り付けると、オブジェクトが失います。</translation>
+        <translation>テキストボックス、コメントボックス、脚注、文末脚注に貼り付けると、オブジェクトが失われます。</translation>
     </message>
     <message>
         <source>Opening the file, please wait...</source>
@@ -3412,7 +3530,7 @@ Do you want to continue?</source>
     <message>
         <source>WPS document in %s</source>
         <comment>_TxDocument_OnSetHostNames</comment>
-        <translation> %sの中に Kingsoft Writer ファイル</translation>
+        <translation type="obsolete"> %sの中に WPS Writer ファイル</translation>
     </message>
     <message>
         <source>WPSV6-TEXT</source>
@@ -3440,7 +3558,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>builtin.wpt</source>
         <comment>_TxDocument_BuiltInTemplate</comment>
-        <translation type="unfinished">builtin.wpt</translation>
+        <translation type="obsolete">builtin.wpt</translation>
     </message>
     <message>
         <source>templates</source>
@@ -3450,7 +3568,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</source>
         <comment>TxExts_AllWPS</comment>
-        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
+        <translation type="unfinished">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx</translation>
     </message>
     <message>
         <source>Errors occur when WPS Writer is opening this file.
@@ -3458,9 +3576,9 @@ Please try one of the following.
 •Make sure you are permitted to access this file or drive.
 •Make sure there is enough memory and disk space.</source>
         <comment>_TxDocument_OpenFailure</comment>
-        <translation>Kingsoft Writer はファイルを開こうとして、エラーが発生しました。
+        <translation>WPS Writer はファイルを開こうとして、エラーが発生しました。
 次の操作を行ってください。
-·文書またはドライブ のアクセス権を確認してください。
+·文書またはドライブ のアクセス権を確認してください。
 ·空きメモリおよびディスクの空き領域が十分にあることを確認してください。</translation>
     </message>
     <message>
@@ -3482,14 +3600,14 @@ If you are trying to open the file from your recently used file list on the File
 Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
 (%s)</source>
         <comment>_TxDocument_SaveFailure</comment>
-        <translation>Kingsoft Writer はこの文書を保存または作成できません。ディスクの空き領域が十分あるか、またディスクにエラーがないか、確認してください。
+        <translation type="obsolete">WPS Writer はこの文書を保存または作成できません。ディスクの空き領域が十分あるか、またディスクにエラーがないか、確認してください。
 (%s)</translation>
     </message>
     <message>
         <source>WPS Writer cannot save this file due to a file permission error.
 (%s)</source>
         <comment>_TxDocument_SaveFailurePermission</comment>
-        <translation>ファイル許可の間違いで、Kingsoft Writerは保存操作を完了できません。
+        <translation>ファイル許可の間違いで、WPS Writerは保存操作を完了できません。
 (%s)</translation>
     </message>
     <message>
@@ -3501,7 +3619,7 @@ Please make sure the file is not locked by another user, or the target disk is n
         <translation>%sには%s形式と互換性のない機能が含まれています。保存しますか。
 
 ·保存する場合は、「はい」をクリックしてください。
-·機能を保存する場合は、「いいえ」をクリックし、最新のKingsoft Wirter形式で保存してください。</translation>
+·機能を保存する場合は、「いいえ」をクリックし、最新のWPS Wirter形式で保存してください。</translation>
     </message>
     <message>
         <source>Your virus scanning program encounters errors when scanning this file(Error code: 0x%08X). Please contact the anti-virus software agent. 
@@ -3524,7 +3642,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>Permission for this file is currently restricted. Only WPS Writer file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
         <comment>_TxDocument_KRM_RightsWillLost</comment>
-        <translation>アクセス制限があります。アクセス権を確保するため、Kingsoft Writer形式でのみ使用可能です。
+        <translation>アクセス制限があります。アクセス権を確保するため、WPS Writer形式でのみ使用可能です。
 この形式で保存すれば、文書のいずれかのアクセス権が取り消されます。
 続けますか。</translation>
     </message>
@@ -3534,7 +3652,7 @@ Please try one of the following.
 •Switch to another user account.
 •Ask its creator to change the permissions control level of this file.</source>
         <comment>_TxDocument_KRM_RightsInsufficient</comment>
-        <translation>アクセス権が不足しているため、Kingsoft Writerはファイルを開けません。
+        <translation>アクセス権が不足しているため、WPS Writerはファイルを開けません。
 次の操作を行ってください。
 現在のユーザーを他のユーザーに変更してください。
 ファイルの作成者にこのファイルの権限を変更してもらうように連絡してください。
@@ -3552,7 +3670,7 @@ Please try one of the following.
 Type a different name for the document you want to save.
 (%s)</source>
         <comment>_TxDocument_SaveFailureShared</comment>
-        <translation>Kingsoft Writer はファイルに付ける名前と開かれたファイルの名前と同じではいけません。
+        <translation>WPS Writer はファイルに付ける名前と開かれたファイルの名前と同じではいけません。
 保存するファイルに他の名前を付けてください。
 (%s)</translation>
     </message>
@@ -3620,22 +3738,85 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Normal.dotm</source>
         <comment>_TxDocument_NormalTemplate</comment>
-        <translation type="unfinished">Normal.dotm</translation>
+        <translation type="obsolete">Normal.dotm</translation>
     </message>
     <message>
         <source>Common Files(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</source>
         <comment>TxDesc_AllWPS</comment>
-        <translation>標準ファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
+        <translation type="obsolete">一般のファイル(*.wps; *.wpt; *.doc; *.dot; *.rtf; *.docx; *.pdf)</translation>
     </message>
     <message>
         <source>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</source>
         <comment>TxExts_AllWPS</comment>
-        <translation>*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
+        <translation type="obsolete">*.wps;*.wpt;*.doc;*.dot;*.rtf; *.docx; *.pdf</translation>
     </message>
     <message>
         <source>Document has been locked by %s. Do you want to open it as read-only?
 (%s)</source>
         <comment>_TxDocument_SaveFailureLocked</comment>
+        <translation>ドキュメントは %s によりロックされています。閲覧専用で開きますか？</translation>
+    </message>
+    <message>
+        <source>The specified file “%s” is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>_TxDocument_FormatNotCompatible_ODT</comment>
+        <translation>指定したファイル“%s”は対応しません。[OK]をクリックして、他のファイル形式を選択してください。</translation>
+    </message>
+    <message>
+        <source>Document in %s</source>
+        <comment>_TxDocument_OnSetHostNames</comment>
+        <translation> %s内のファイル</translation>
+    </message>
+    <message>
+        <source>OFD Format(*.ofd)|*.ofd</source>
+        <comment>TxDescOFD</comment>
+        <translation>OFD 形式(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TxDescPDF</comment>
+        <translation>PDF 形式(*.pdf)|*.pdf</translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Document Files(*.wpsj)|*.wpsj</source>
+        <comment>TxDescGPCrypt</comment>
+        <translation>GongPu 暗号化ファイル(*.wpsj)|*.wpsj</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%s)</source>
+        <comment>_TxDocument_SaveFailure</comment>
+        <translation>WPS Writer はこのファイルを作成/保存できません。
+下記いずれかの原因を確認してください:
+1.読み取り専用ファイルです。
+2.他のユーザーがファイルを編集しています。
+3.ディスクは容量不足または壊れました。
+(%s)</translation>
+    </message>
+    <message>
+        <source>
+•Make sure this file is recognizable format.
+(%s)</source>
+        <comment>_TxDocument_UnSupportFileFormat</comment>
+        <translation>
+•ファイルが識別可能な形式を確保してください。
+(%s)</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TxDesc_AllWPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>_TxDocument_CheckInMsg</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4171,7 +4352,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Diagram</source>
         <comment>TxCrossRefType_Figure</comment>
-        <translation>グラフ</translation>
+        <translation>ダイアグラム</translation>
     </message>
     <message>
         <source>Do you overwhite the shortcut of [%s]? </source>
@@ -5419,7 +5600,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>User Feedback</source>
         <comment>wps_sFeedbackMailTitle</comment>
-        <translation>KingSoft Office Writerの改善要望</translation>
+        <translation>WPS Office Writerの改善要望</translation>
     </message>
     <message>
         <source>User templates             %s</source>
@@ -5494,7 +5675,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>WPS Writer cannot replace the found item with text containing a break.</source>
         <comment>wps_sCantReplaceBreak</comment>
-        <translation>Kingsoft Writer は検索の文字列が改ページを含むテキストに置換できません。</translation>
+        <translation>WPS Writer は検索の文字列が改ページを含むテキストに置換できません。</translation>
     </message>
     <message>
         <source>Incorrect dictionary. You cannot modify.</source>
@@ -5624,7 +5805,7 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>wps_sRemoveDefaultDict</comment>
-        <translation>ユーザー辞書を削除すると他のKingsoft office アプリケーション で使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
+        <translation>ユーザー辞書を削除すると他のWPS Office アプリケーション で使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
     </message>
     <message>
         <source>Do you overwrite the shortcut of [%s]?</source>
@@ -5791,12 +5972,12 @@ To follow this link, please hold down Ctrl and click.</source>
     <message>
         <source>.</source>
         <comment>TxAboutCaption</comment>
-        <translation type="unfinished">火を経歴して再度生まれたwps-v6</translation>
+        <translation type="obsolete">火を経歴して再度生まれたwps-v6</translation>
     </message>
     <message>
         <source>.</source>
         <comment>TxAboutText</comment>
-        <translation type="unfinished">略称: fenix -
+        <translation type="obsolete">略称: fenix -
 A bird in Egyptian mythology that lived in the desert for 500 years and then consumed itself by fire, later to rise renewed from its ashes.
 不死鳥。エジプト神話に登場する鳥です。砂漠で500年間暮らしてから体を燃やし、火の塵から再生すると言われています。</translation>
     </message>
@@ -5833,7 +6014,7 @@ A bird in Egyptian mythology that lived in the desert for 500 years and then con
     <message>
         <source>Accept Formatted Changes</source>
         <comment>TxCaption_AcceptFormat</comment>
-        <translation>書式変更を反映</translation>
+        <translation>書式の変更を承諾</translation>
     </message>
     <message>
         <source>Accept Insertion</source>
@@ -6003,12 +6184,12 @@ A bird in Egyptian mythology that lived in the desert for 500 years and then con
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxVersion_CannotRedo</comment>
-        <translation>やり直しできません</translation>
+        <translation>やり直し</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxVersion_CannotUndo</comment>
-        <translation>元に戻せません</translation>
+        <translation>元に戻す</translation>
     </message>
     <message>
         <source>Cannot go to TOC. TOC may not exist!</source>
@@ -6402,7 +6583,7 @@ Protection</source>
     <message>
         <source>Hide White Space</source>
         <comment>TxMessage_ToolTip_HideBlank</comment>
-        <translation>空白スペースを非表示</translation>
+        <translation type="obsolete">空白スペースを非表示</translation>
     </message>
     <message>
         <source>Highlight</source>
@@ -6933,7 +7114,7 @@ Protection</source>
     <message>
         <source>Reject Formatted Changes</source>
         <comment>TxCaption_RejectFormat</comment>
-        <translation>書式変更を元に戻す</translation>
+        <translation>書式の変更を元に戻す</translation>
     </message>
     <message>
         <source>Reject Insertion</source>
@@ -7013,7 +7194,7 @@ Protection</source>
     <message>
         <source>Show White Space</source>
         <comment>TxMessage_ToolTip_DisplayBlank</comment>
-        <translation>空白スペースを表示</translation>
+        <translation type="obsolete">空白スペースを表示</translation>
     </message>
     <message>
         <source>Show/Hide Formatting Marks</source>
@@ -7301,7 +7482,7 @@ Changes</source>
     <message>
         <source>WPS Spreadsheets Files(*.et) | *.et; |</source>
         <comment>TxDesc_DataSource_et</comment>
-        <translation>Kingsoft Spreadsheets ファイル(*.et) | *.et; |</translation>
+        <translation>WPS Spreadsheets ファイル(*.et) | *.et; |</translation>
     </message>
     <message>
         <source>Bullets/Numbering</source>
@@ -7332,7 +7513,7 @@ To add another text box to your document, click Text Box on the Insert menu and 
     <message>
         <source>This function is provided in WPS Office Professional.</source>
         <comment>TxMessage_ProVerOnly</comment>
-        <translation>このファンクションはKingsoft Office Professional版で提供します。</translation>
+        <translation>このファンクションはWPS Office Professional版で提供します。</translation>
     </message>
     <message>
         <source>Remove Cell Partition</source>
@@ -7349,7 +7530,7 @@ Check</source>
     <message>
         <source>Cannot update TOC. TOC may not exist.</source>
         <comment>TxVersion_CannotUpdateTOC</comment>
-        <translation>この文書には目次がありません。目次を作成するには[挿入]メニューで[参照]をポイントして、[目次]をクリックします!</translation>
+        <translation>この文書には目次がありません。目次を作成するには［参照］タブから［目次の挿入］をクリックしてください。</translation>
     </message>
     <message>
         <source>Formatted</source>
@@ -7374,7 +7555,7 @@ Check</source>
     <message>
         <source>WPS Writer 2007/2010 File(*.wpsx)</source>
         <comment>TxDesc_DataSource_wpsx</comment>
-        <translation>Kingsoft Writer 2007/2010ファイル(*.wpsx)</translation>
+        <translation>WPS Writer 2007/2010ファイル(*.wpsx)</translation>
     </message>
     <message>
         <source>Table Normal</source>
@@ -7609,7 +7790,7 @@ Check</source>
     <message>
         <source>WPS Writer 2007/2010 Template(*.wptx)</source>
         <comment>TxDesc_DataSource_wptx</comment>
-        <translation>Kingsoft Writer 2007/2010 テンプレートファイル(*.wptx)</translation>
+        <translation>WPS Writer 2007/2010 テンプレートファイル(*.wptx)</translation>
     </message>
     <message>
         <source>All Data Sources(*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf |*.mdb; *.dsn; *.et; *.xls; *.xlsx; *.xlsm; *.htm; *.html; *.asp; *.mht; *.mhtml; *.rtf; *.docx; *.doc; *.docm; *.dotx; *.dot; *.dotm; *.txt; *.csv; *.tab; *.db; *.dbf; |</source>
@@ -7629,7 +7810,7 @@ Check</source>
     <message>
         <source>All WPS Writer Documents(*.wps; *.wpt) | *.wps; *.wpt |</source>
         <comment>TxDesc_DataSource_allwps</comment>
-        <translation>すべての Kingsoft Writer ドキュメント(*.wps; *.wpt) | *.wps; *.wpt |</translation>
+        <translation>すべての WPS Writer ドキュメント(*.wps; *.wpt) | *.wps; *.wpt |</translation>
     </message>
     <message>
         <source>AutoFit to Content</source>
@@ -8129,7 +8310,7 @@ Check</source>
     <message>
         <source>Insert DocumentField</source>
         <comment>TxVersion_InsDocumentField</comment>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントフィールドを挿入</translation>
     </message>
     <message>
         <source>Outlook Personal Address Books(*.pab) | *.pab; |</source>
@@ -8169,7 +8350,7 @@ Check</source>
     <message>
         <source>Set as Default Shape</source>
         <comment>TxCaption_DmlShapeAutoShapeDefaults</comment>
-        <translation>既定の図形に設定</translation>
+        <translation>図形の既定値に設定</translation>
     </message>
     <message>
         <source>Set as Default Text Box</source>
@@ -8195,6 +8376,199 @@ Check</source>
         <source>The chart data grid is open in &quot;%s&quot;. To edit the data for this chart you need to close it first.</source>
         <comment>TxError_EditChartDataSource</comment>
         <translation>データグリッドが%sで開かれています。このグラフのデータを編集するには、データグリッドを閉じてください。</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>TxCaption_NoSynonymsSuggestions</comment>
+        <translation>類義語提案なし</translation>
+    </message>
+    <message>
+        <source>Insert PTab</source>
+        <comment>TxVersion_InsertPTab</comment>
+        <translation>タブを挿入</translation>
+    </message>
+    <message>
+        <source>Excel 97-2003 Files(*.xls) | *.xls; |</source>
+        <comment>TxDesc_DataSource_xls</comment>
+        <translation>Excel 97-2003 ファイル(*.xls) | *.xls; |</translation>
+    </message>
+    <message>
+        <source>Excel Files(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</source>
+        <comment>TxDesc_DataSource_xlsx</comment>
+        <translation>Excel ファイル(*.xlsx; *.xlsm) | *.xlsx; *.xlsm; |</translation>
+    </message>
+    <message>
+        <source>Align ThaiDistribute</source>
+        <comment>TxVersion_AlignThaiDistribute</comment>
+        <translation>タイ語の均等割り付け</translation>
+    </message>
+    <message>
+        <source>Double-click to edit header</source>
+        <comment>TxMessage_ToolTip_DblClickToEditHeader</comment>
+        <translation>ダブルクリックしてヘッダーを編集する</translation>
+    </message>
+    <message>
+        <source>Double-click to edit footer</source>
+        <comment>TxMessage_ToolTip_DblClickToEditFooter</comment>
+        <translation>ダブルクリックしてフッターを編集する</translation>
+    </message>
+    <message>
+        <source>Click to edit header</source>
+        <comment>TxMessage_ToolTip_ClickToEditHeader</comment>
+        <translation>クリックしてヘッダーを編集する</translation>
+    </message>
+    <message>
+        <source>Click to edit footer</source>
+        <comment>TxMessage_ToolTip_ClickToEditFooter</comment>
+        <translation>クリックしてフッターを編集する</translation>
+    </message>
+    <message>
+        <source>Insert TableOfContents</source>
+        <comment>TxVersion_InsTableOfContents</comment>
+        <translation>目次の挿入</translation>
+    </message>
+    <message>
+        <source>Insert TableOfFigures</source>
+        <comment>TxVersion_InsTableOfFigures</comment>
+        <translation>図表目次の挿入</translation>
+    </message>
+    <message>
+        <source>Change List Level</source>
+        <comment>TxVersion_ChangeListLevel</comment>
+        <translation>リストレベルの変更</translation>
+    </message>
+    <message>
+        <source>Cannot sort a table containing merged cells.</source>
+        <comment>TxSortError_ContainingMergedCells</comment>
+        <translation>テーブルには結合されたセルがあるため、並べ替えることができません。</translation>
+    </message>
+    <message>
+        <source>Word cannot sort this table or selection because all of its rows are table headings.</source>
+        <comment>TxSortError_RowsAreTableHeadings</comment>
+        <translation>このテーブルのすべての行がタイトル行のため、選択した範囲を並べ替えることができません。</translation>
+    </message>
+    <message>
+        <source>Reply</source>
+        <comment>TxVersion_Reply</comment>
+        <translation>リプライ</translation>
+    </message>
+    <message>
+        <source>Done</source>
+        <comment>TxVersion_Done</comment>
+        <translation>解決済み</translation>
+    </message>
+    <message>
+        <source>Move Table</source>
+        <comment>TxVersion_FrameMove</comment>
+        <translation>表の移動</translation>
+    </message>
+    <message>
+        <source>Resize Table</source>
+        <comment>TxVersion_FrameResize</comment>
+        <translation>テーブルのリサイズ</translation>
+    </message>
+    <message>
+        <source>Format Frame</source>
+        <comment>TxVersion_FormatFrame</comment>
+        <translation>書式フレーム</translation>
+    </message>
+    <message>
+        <source>Collated(Print copy by copy)</source>
+        <comment>TxPrintPreview_PrintCollated</comment>
+        <translation>部単位で印刷</translation>
+    </message>
+    <message>
+        <source>Uncollated(Print page by page)</source>
+        <comment>TxPrintPreview_PrintUncollated</comment>
+        <translation>ページ単位で印刷</translation>
+    </message>
+    <message>
+        <source>Print One Sided</source>
+        <comment>TxPrintPreview_PrintOneSided</comment>
+        <translation>片面印刷</translation>
+    </message>
+    <message>
+        <source>Flip Pages on Long Edge</source>
+        <comment>TxPrintPreview_FlipOnLongEdge</comment>
+        <translation>両面印刷-長辺を綴じる</translation>
+    </message>
+    <message>
+        <source>Flip Pages on Short Edge</source>
+        <comment>TxPrintPreview_FlipOnShortEdge</comment>
+        <translation>両面印刷-短辺を綴じる</translation>
+    </message>
+    <message>
+        <source>Manually Print on Both Sides</source>
+        <comment>TxPrintPreview_ManualDuplex</comment>
+        <translation>手動で両面印刷</translation>
+    </message>
+    <message>
+        <source>Click the right mouse button to get the list</source>
+        <comment>TxMessageField_AutoTextList</comment>
+        <translation>右クリックのリスト:</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <comment>TxMessage_Field_Text</comment>
+        <translation>テキスト</translation>
+    </message>
+    <message>
+        <source>Double-Click To Hide White Space</source>
+        <comment>TxMessage_ToolTip_HideBlank</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Click To Show White Space</source>
+        <comment>TxMessage_ToolTip_DisplayBlank</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxCaption_PasteOriginFormatted</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <comment>TxHint_PasteOriginFormatted</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxCaption_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keep Source Formating Paste</source>
+        <comment>TxHint_PasteOriginFormattedPopupMenu</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxCaption_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxHint_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update Content</source>
+        <comment>TxVersion_UpdateContent</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>wps_field_parser_autotext</name>
+    <message>
+        <source>Error! Unknown autotext entry</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNKNOWN_ENTRY</comment>
+        <translation>エラー!未定義な定型句です。</translation>
+    </message>
+    <message>
+        <source>Error! No autotext entry supplied</source>
+        <comment>TX_FIELD_ERR_AUTOTEXT_UNSPECIFIED_ENTRY</comment>
+        <translation>エラー!定型句が指定されません。</translation>
     </message>
 </context>
 </TS>

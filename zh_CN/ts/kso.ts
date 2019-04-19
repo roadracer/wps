@@ -552,6 +552,50 @@ Please check your system settings and ensure that the temporary directory under 
         <comment>CHART_CanNotWriteChartLinkPath</comment>
         <translation>若要插入图表，必须首先关闭任何打开的对话框，或者取消WPS表格的编辑模式</translation>
     </message>
+    <message>
+        <source>Size</source>
+        <comment>HINT_SIZE</comment>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Save Chart Template</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate</comment>
+        <translation>保存图表模板</translation>
+    </message>
+    <message>
+        <source>Chart Template Files(*.crtx)|*.crtx</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Filter</comment>
+        <translation>图表模板文件(*.crtx)|*.crtx</translation>
+    </message>
+    <message>
+        <source>Chart%d</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Name</comment>
+        <translation>图表%d</translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <comment>HINT_Addtext</comment>
+        <translation>添加文本</translation>
+    </message>
+    <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.Please try recreating it.</source>
+        <translation>无法应用此模板。它可能已损坏或不适合所选图表。请尝试重新创建它。</translation>
+    </message>
+    <message>
+        <source>To build a PivotChart, choose fields from the PivotChart Field List.</source>
+        <comment>CHART_PIVOT_EMPTY_ShowFieldList_DES</comment>
+        <translation>若要生成数据透视图，请从数据透视表字段列表中选择字段。</translation>
+    </message>
+    <message>
+        <source>Trun on the PivotChart Field List to work with the PivotChart.</source>
+        <comment>CHART_PIVOT_EMPTY_HideFieldList_DES</comment>
+        <translation>启用数据透视表字段列表以使用数据透视图。</translation>
+    </message>
+    <message>
+        <source>You cannot use an XY(Scatter), Bubble, or Stock chart type with a chart that has been created from PivotTbale data.Please select a different chart type.</source>
+        <comment>TX_PivotChart_NotSupport_ChartType</comment>
+        <translation>XY(散点图)，气泡图及股价图不能用于根据数据透视表数据创建的图表。请选择其他图表类型。</translation>
+    </message>
 </context>
 <context>
     <name>kso_copypaste</name>
@@ -808,12 +852,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation>WPS图形数据</translation>
+        <translation type="obsolete">WPS图形数据</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation>以“WPS图形数据”插入剪贴板的内容。</translation>
+        <translation type="obsolete">以“WPS图形数据”插入剪贴板的内容。</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as a JPG picture.</source>
@@ -828,12 +872,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of Kingsoft Drawing</source>
         <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
-        <translation>WPS图形数据</translation>
+        <translation type="obsolete">WPS图形数据</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation>以“WPS图形数据”插入剪贴板的内容。</translation>
+        <translation type="obsolete">以“WPS图形数据”插入剪贴板的内容。</translation>
     </message>
     <message>
         <source>New Data of Kingsoft Writer</source>
@@ -884,6 +928,26 @@ Please check your system settings and ensure that the temporary directory under 
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
         <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
         <translation></translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
+        <translation>WPS图形数据</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
+        <translation>以“WPS图形数据”插入剪贴板的内容。</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation>WPS图形数据</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation>以“WPS图形数据”插入剪贴板的内容。</translation>
     </message>
 </context>
 <context>
@@ -1306,7 +1370,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Graphics Interchange Format(*.gif)|*.gif</source>
         <comment>DgUil_GraphicsInterchangeFormat</comment>
-        <translation>图形交换格式(GIF)(*.gif)|*.gif</translation>
+        <translation>图形交换格式(*.gif)|*.gif</translation>
     </message>
     <message>
         <source>Group </source>
@@ -1989,6 +2053,61 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
         <source>There is not enough memory, Create Object Failed!</source>
         <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
         <translation>内存不足，对象创建失败</translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics(*.svg)|*.svg</source>
+        <comment>DgUil_SVGFormat</comment>
+        <translation>可缩放的向量图形(*.svg)|*.svg</translation>
+    </message>
+    <message>
+        <source>Diagram Conversion</source>
+        <comment>DgUil_PromptDiagramConversionTitle</comment>
+        <translation>图示转换</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to Shapes.</source>
+        <comment>DgUil_PromptDiagramConversion</comment>
+        <translation>若要编辑此图表，必须将其转换为形状</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg</source>
+        <comment>DgAllPicture</comment>
+        <translation>所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_AddPictureFrame</comment>
+        <translation>添加图片框</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetSize</comment>
+        <translation>重设图片和大小</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <comment>DgUil_KSO_Cmd_FormatComment</comment>
+        <translation>设置批注格式</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm</source>
+        <comment>DgAllPictureAddCgm</comment>
+        <translation>所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm</translation>
+    </message>
+    <message>
+        <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
+        <comment>DgUil_ComputerMetaFiles</comment>
+        <translation>计算机图形图元文件(*.cgm)|*.cgm</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm</source>
+        <comment>DgAllPictureAddCgmNoSvg</comment>
+        <translation>所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</source>
+        <comment>DgAllPictureNoSvg</comment>
+        <translation>所有图片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</translation>
     </message>
 </context>
 <context>
@@ -6255,12 +6374,12 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source> Light Color %1%</source>
         <comment>wpp_sTooltipGradientLightColour</comment>
-        <translation>浅色 %1</translation>
+        <translation type="obsolete">浅色 %1</translation>
     </message>
     <message>
         <source> Dark Color %1%</source>
         <comment>wpp_sTooltipGradientDarkColour</comment>
-        <translation>深色 %1</translation>
+        <translation type="obsolete">深色 %1</translation>
     </message>
     <message>
         <source> Fill-</source>
@@ -6280,7 +6399,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source> OutLine-</source>
         <comment>wpp_sTooltipArtWordOutLine</comment>
-        <translation>轮廊-</translation>
+        <translation>轮廓-</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -6540,7 +6659,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>OutlinedDiamond</source>
         <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
-        <translation>轮廊式菱形</translation>
+        <translation>轮廓式菱形</translation>
     </message>
     <message>
         <source>SolidDiamond</source>
@@ -6665,7 +6784,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>ColorOutLine-</source>
         <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
-        <translation>彩色轮廊-</translation>
+        <translation>彩色轮廓-</translation>
     </message>
     <message>
         <source>ColorFill-</source>
@@ -6675,7 +6794,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>LightColor_1_OutLine,Color Fill-</source>
         <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
-        <translation>浅色1 轮廊，彩色填充-</translation>
+        <translation>浅色1 轮廓，彩色填充-</translation>
     </message>
     <message>
         <source>SubtleEffect-</source>
@@ -7811,6 +7930,76 @@ Line-type: %3</source>
         <comment>DRAWING2STR_CANVAS</comment>
         <translation>画布</translation>
     </message>
+    <message>
+        <source> Light Color %1</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation>浅色 %1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation>深色 %1</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>DRAWING2STR_COMMENT</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>theme color</source>
+        <comment>DRAWING2_SMARTART_COLORS_ThemeColor</comment>
+        <translation>主题颜色（主色）</translation>
+    </message>
+    <message>
+        <source>multi color</source>
+        <comment>DRAWING2_SMARTART_COLORS_MultiColor</comment>
+        <translation>彩色</translation>
+    </message>
+    <message>
+        <source>color1</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color1</comment>
+        <translation>着色1</translation>
+    </message>
+    <message>
+        <source>color2</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color2</comment>
+        <translation>着色2</translation>
+    </message>
+    <message>
+        <source>color3</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color3</comment>
+        <translation>着色3</translation>
+    </message>
+    <message>
+        <source>color4</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color4</comment>
+        <translation>着色4</translation>
+    </message>
+    <message>
+        <source>color5</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color5</comment>
+        <translation>着色5</translation>
+    </message>
+    <message>
+        <source>color6</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color6</comment>
+        <translation>着色6</translation>
+    </message>
+    <message>
+        <source>sure change diagram num if lose text</source>
+        <comment>DRAWING2_SMARTDIAGRAM_CHANGENUM_MESSAGE</comment>
+        <translation>减少项目个数会丢失部分项目文本，确认要进行此更改吗?</translation>
+    </message>
+    <message>
+        <source>DarkColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor_1_OutLineFill</comment>
+        <translation>深色1 轮廓，彩色填充-</translation>
+    </message>
+    <message>
+        <source>Transparent_Fill</source>
+        <comment>wpp_sTooltipShapeStyleTransparentFill</comment>
+        <translation>透明</translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -8009,6 +8198,119 @@ Line-type: %3</source>
         <comment>_KsoDesc_07Xml</comment>
         <translation>Word XML 文档</translation>
     </message>
+    <message>
+        <source>Public Custom Document Format</source>
+        <comment>_KsoFileFormatDesc_CustomFile</comment>
+        <translation>公共自定义文档格式</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <comment>_KsoFileFormatDesc_OnlineSecurtyDocument</comment>
+        <translation>WPS加密文档格式</translation>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read this documnet!
+(%s)</source>
+        <comment>_KsoPrompt_NoFileReadPermission</comment>
+        <translation>对不起，你没有本文档的阅读权限!</translation>
+    </message>
+    <message>
+        <source>Failed to communicate with security document server!</source>
+        <comment>_KsoPrompt_SecurityDocumentServerFailed</comment>
+        <translation>与安全文档服务器通信失败!</translation>
+    </message>
+    <message>
+        <source>Saving the non-security document format will erase all permission settings, Continue?</source>
+        <comment>_KsoPrompt_LostDocumentSecurityInfo</comment>
+        <translation>保存为非安全文档格式会清除所有权限设置，是否继续？</translation>
+    </message>
+    <message>
+        <source>WPS Office Outward Document</source>
+        <comment>_KsoFileForamtDesc_WpsOutwardDocument</comment>
+        <translation>WPS外发文档格式</translation>
+    </message>
+    <message>
+        <source>Failed to overwrite the current document, choose another file name.</source>
+        <comment>_KsoPrompt_OverwriteTheOpenDocumnet</comment>
+        <translation>给文档所定的名称不能与打开的文档的名称相同。
+请为需要保存的文档键入其他名称。</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Please make sure the file is not locked by another user, or the target disk is not full or undamaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation type="obsolete">无法保存或创建此文件。
+请确认：文件是否可写，是否正被其他用户编辑；磁盘未满或未被破坏。
+(%1)</translation>
+    </message>
+    <message>
+        <source>%1 outward document  applicant : %2  approver : %3</source>
+        <comment>_KsoOutwardWaterMarkText</comment>
+        <translation>%1 外发文档  申请人:%2  审批人:%3</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <comment>_KsoDesc_MSWORD12</comment>
+        <translation>Microsoft Word 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <comment>_KsoDesc_MSWORD12DOTX</comment>
+        <translation>Microsoft Word 模板文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <comment>_KsoDesc_MSWORD12DOCM</comment>
+        <translation>Microsoft Word 宏可用文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <comment>_KsoDesc_MSWORD12DOTM</comment>
+        <translation>Microsoft Word 带宏的模板文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
+        <translation>Microsoft Word 97-2003 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Documents</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
+        <translation>Microsoft Word 97-2003 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Template</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
+        <translation>Microsoft Word 97-2003 模板文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Templates</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
+        <translation>Microsoft Word 97-2003 模板文件</translation>
+    </message>
+    <message>
+        <source>The document is a secret-label document and can not be opened.
+(%s)</source>
+        <comment>_KsoPrompt_SecretLabel</comment>
+        <translation>该文档为密标文档，无法打开
+(%s)</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenDocument Text</source>
+        <comment>_KsoFileFormatDesc_ODT_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_krm</name>
@@ -8054,6 +8356,26 @@ Line-type: %3</source>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
         <translation>另存为</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <comment>_kso_DocOperationCopy</comment>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>_kso_DocOperationPrint</comment>
+        <translation>打印</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <comment>_kso_DocOperationSaveAs</comment>
+        <translation>另存</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <comment>_kso_DocOperationAuth</comment>
+        <translation>授权</translation>
     </message>
 </context>
 <context>
@@ -9721,7 +10043,7 @@ This position may not be safe.</source>
     <message>
         <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation>本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+        <translation type="obsolete">本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
     </message>
     <message>
         <source>Opening</source>
@@ -9747,6 +10069,108 @@ This position may not be safe.</source>
         <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
         <comment>_kso_krim_Error_insertOleInvalid</comment>
         <translation>文件 %1 设置了限制权限，不能插入到该演示文稿中。</translation>
+    </message>
+    <message>
+        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
+        <comment>_kso_Error_MediaFlash_wpp</comment>
+        <translation>加载系统插件库失败，请确保系统Flash插件库被正确安装!</translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <comment>_kso_irmio_Error_NoPermissionEmail</comment>
+        <translation type="obsolete">此计算机上的时钟已被篡改。请重设系统时钟，稍后重试。</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation>文件 %1 设置了限制权限，不能插入到该文档中。</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation>本软件产品仅限于个人用户基于个人目的使用，禁止将本软件用于生产、经营等商业用途或者其它用途。||本软件包括：The FreeType Project，根据其The FreeType License的授权条款获得免费授权；哈工大信息检索研究中心提供中文分词、拼音标注和中文简繁转换技术；Hunspell拼写检查库，Hunspell源代码为适用 MPL 1.1/GPL 2.0/LGPL 2.1开源许可协议的开源代码。</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <comment>_kso_pdfProductName</comment>
+        <translation>金山PDF</translation>
+    </message>
+    <message>
+        <source>Pdf Thanks To</source>
+        <comment>_kso_pdfThanksTo</comment>
+        <translation type="unfinished">本软件包括：
+The FreeType Project 根据其The FreeType License的授权条款获得免费授权；
+JBig2	根据其免费商用许可，使用其二值图像编解码器开源代码；
+Lcms	根据其免费商用许可，使用颜色转换库开源代码；
+LibJPEG	根据其免费商用许可，使用其JPEG图像编解码器开源代码；
+OpenJPEG	根据其免费商用许可，使用其JPEG 2000编解码器开源代码；
+PDFium	根据其免费商用许可，使用其PDF阅读引擎开源代码；
+Zlib	根据其免费商用许可，使用其deflate压缩和解压缩算法库。</translation>
+    </message>
+    <message>
+        <source>Reading Data</source>
+        <comment>_kso_io_Progress_ReadingData</comment>
+        <translation>正在读取数据</translation>
+    </message>
+    <message>
+        <source>Delete all Ribbon customizations for this program?</source>
+        <comment>_kso_Delete_All_Ribbon_Customizations</comment>
+        <translation>是否删除此程序的全部功能区自定义项?</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file is being edited by other users.</source>
+        <comment>_kso_TX_FILE_EDITING_CONFLICT</comment>
+        <translation>其他用户正在编辑该文档，无法保存并上传至云文档</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload. This file has been updated by other users.</source>
+        <comment>_kso_TX_FILE_UPDATE_CONFLICT</comment>
+        <translation>其他用户已更新该文档，无法保存并上传至云文档</translation>
+    </message>
+    <message>
+        <source>Cannot save or upload due to bad network condition.</source>
+        <comment>_kso_TX_NET_CONDITION_BAD_INFO</comment>
+        <translation>当前网络状况较差，无法保存并上传至云文档</translation>
+    </message>
+    <message>
+        <source>Save as Copy</source>
+        <comment>_kso_TX_SAVEAS_COPY</comment>
+        <translation>另存为副本</translation>
+    </message>
+    <message>
+        <source>Cancel Save</source>
+        <comment>_kso_Tx_CANCLE_SAVE</comment>
+        <translation>放弃保存</translation>
+    </message>
+    <message>
+        <source>WPS Document</source>
+        <comment>_kso_TX_DESC_WPS_APP_NAME</comment>
+        <translation>WPS 文字</translation>
+    </message>
+    <message>
+        <source>WPP Presentation</source>
+        <comment>_kso_TX_DESC_WPP_APP_NAME</comment>
+        <translation>WPS 演示</translation>
+    </message>
+    <message>
+        <source>WPS SpreadSheet</source>
+        <comment>_kso_TX_DESC_ET_APP_NAME</comment>
+        <translation>WPS 表格</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <comment>_kso_Tx_COVER</comment>
+        <translation>强制覆盖</translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
+        <comment>_kso_ksoThanksTo_TH_PRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <comment>_kso_irmio_Error_ClockBeenTamper</comment>
+        <translation type="unfinished">此计算机上的时钟已被篡改。请重设系统时钟，稍后重试。</translation>
     </message>
 </context>
 <context>
@@ -9976,6 +10400,26 @@ This position may not be safe.</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
         <translation>m月d日</translation>
     </message>
+    <message>
+        <source>t$#,##0_);(t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_63</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0_);[Red](t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_64</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);(t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_65</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);[Red](t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_66</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -10058,7 +10502,7 @@ Do you want to continue?</source>
     <message>
         <source>Unable to find the cups library, make sure you have installed!</source>
         <comment>_ksoErr_Print_NoCupsLibrary</comment>
-        <translation type="unfinished">无法找到cups库，请确保您已安装！</translation>
+        <translation>无法找到cups库，请确保您已安装！</translation>
     </message>
     <message>
         <source>The printer does not support the current paper size. Continue printing may not result in satisfying quality.
@@ -10073,6 +10517,18 @@ Continue printing?</source>
         <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
         <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
         <translation>所有文件(*.*)|*.*|PDF文件(*.pdf)|*.pdf|Postscript文件(*.ps)|*.ps</translation>
+    </message>
+    <message>
+        <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
+If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
+        <comment>_ksoErr_Print_InvalidPrinter</comment>
+        <translation>WPS Office 无法启动打印作业，请检查打印机是否开机并且联机。
+如果问题没有解决，您可以通过系统的打印机属性打印测试页，检查打印机是否正确安装。</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <comment>TxPrintPreview_CopiesInvalid</comment>
+        <translation>数字必须在 1 与 32767 之间。请再次输入属于上述区域的数字。</translation>
     </message>
 </context>
 <context>
@@ -12824,6 +13280,31 @@ Download the XML expansion pack?</source>
         <comment>kso_sNnumberFormatter_style_09</comment>
         <translation>百分之几 (%s)</translation>
     </message>
+    <message>
+        <source>The file is modified
+Please save the file and create share link</source>
+        <comment>kso_h5_SaveFileTip</comment>
+        <translation>文档有修改尚未保存
+需要先保存才能生成链接</translation>
+    </message>
+    <message>
+        <source>Software Assurance Service has expired on %s.
+You cannot access to upgrades and technical support of this software. 
+If you have any problem, or want to renew the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiredTip</comment>
+        <translation>WPS服务已于%s到期，您已不能继续享有WPS升级和技术支持服务。
+如有疑问或续期服务，请咨询贵单位IT管理部门或拨打WPS客服热线400-677-5005</translation>
+    </message>
+    <message>
+        <source>Software Assurance Service will expire on %s.
+After expiration, you can no longer access to upgrades and technical support of this software. 
+If you have any problem, or want to prolong the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiringTip</comment>
+        <translation>WPS服务将于%s到期，届时，您将不能继续享有WPS升级和技术支持服务。
+如有疑问或续期服务，请咨询贵单位IT管理部门或拨打WPS客服热线400-677-5005</translation>
+    </message>
 </context>
 <context>
     <name>kso_theme</name>
@@ -13736,6 +14217,1444 @@ Download the XML expansion pack?</source>
         <source>NewsPrint</source>
         <comment>THEME_THEME_NEWSPRINT1</comment>
         <translation>新闻纸</translation>
+    </message>
+</context>
+<context>
+    <name>kso_smartart</name>
+    <message>
+        <source>All Pictures</source>
+        <comment>_kso_SmartArtAllPicture</comment>
+        <translation>所有图片</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <comment>_kso_SmartArtWinEnhMetaFile</comment>
+        <translation>Windows 增强型图元文件</translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <comment>_kso_SmartArtWinMetaFile</comment>
+        <translation>Windows 图元文件</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <comment>_kso_SmartArtJpegFormat</comment>
+        <translation>JPEG 文件交换格式</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <comment>_kso_SmartArtPngFormat</comment>
+        <translation>可移植网络图形</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <comment>_kso_SmartArtWinBitmapFormat</comment>
+        <translation>Windows 位图</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <comment>_kso_SmartArtGifFormat</comment>
+        <translation>图形交换格式(GIF)</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <comment>_kso_SmartArtTifFormat</comment>
+        <translation>Tag 图像文件格式</translation>
+    </message>
+    <message>
+        <source>[Text]</source>
+        <comment>_kso_SmartArtInputText</comment>
+        <translation>[文本]</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <comment>_kso_SmartArtCategoryAll</comment>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <comment>_kso_SmartArtCategoryList</comment>
+        <translation>列表</translation>
+    </message>
+    <message>
+        <source>Process</source>
+        <comment>_kso_SmartArtCategoryProcess</comment>
+        <translation>流程</translation>
+    </message>
+    <message>
+        <source>Cycle</source>
+        <comment>_kso_SmartArtCategoryCycle</comment>
+        <translation>循环</translation>
+    </message>
+    <message>
+        <source>Hierarchy</source>
+        <comment>_kso_SmartArtCategoryHierarchy</comment>
+        <translation>层次结构</translation>
+    </message>
+    <message>
+        <source>Relationship</source>
+        <comment>_kso_SmartArtCategoryRelationship</comment>
+        <translation>关系</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <comment>_kso_SmartArtCategoryMatrix</comment>
+        <translation>矩阵</translation>
+    </message>
+    <message>
+        <source>Pyramid</source>
+        <comment>_kso_SmartArtCategoryPyramid</comment>
+        <translation>棱锥图</translation>
+    </message>
+    <message>
+        <source>Picture</source>
+        <comment>_kso_SmartArtCategoryPicture</comment>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>Basic Block List</source>
+        <comment>_kso_SmartArtDefault</comment>
+        <translation>基本列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtDefault</comment>
+        <translation>用于显示非有序信息块或者分组信息块。可最大化形状的水平和垂直显示空间。</translation>
+    </message>
+    <message>
+        <source>Alternating Hexagons</source>
+        <comment>_kso_SmartArtAlternatinghexagons</comment>
+        <translation>交替六边形</translation>
+    </message>
+    <message>
+        <source>Use to represent a series of interconnected ideas. Level 1 text appears inside the hexagons. Level 2 text appears outside the shapes.</source>
+        <comment>_kso_SmartArtAlternatinghexagons</comment>
+        <translation>用于表示一系列相互关联的构思。级别 1 文本显示在六边形中。级别 2 文本显示在形状外面。</translation>
+    </message>
+    <message>
+        <source>Picture Caption List</source>
+        <comment>_kso_SmartArtPlist1</comment>
+        <translation>图片题注列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The top shapes are designed to contain pictures and pictures are emphasized over text. Works well for pictures with short text captions.</source>
+        <comment>_kso_SmartArtPlist1</comment>
+        <translation>用于显示非有序信息块或分组信息块。顶层形状可以包含图片，并且图片的重要性大于文本。适用于带简短文本题示的图片。</translation>
+    </message>
+    <message>
+        <source>Lined List</source>
+        <comment>_kso_SmartArtLinedlist</comment>
+        <translation>线型列表</translation>
+    </message>
+    <message>
+        <source>Use to show large amounts of text divided into categories and subcategories. Works well with multiple levels of text. Text at the same level is separated by lines.</source>
+        <comment>_kso_SmartArtLinedlist</comment>
+        <translation>用于显示划分为类别和子类别的大量文本。适用于多级别文本。相同级别的文本用线条分隔。</translation>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <comment>_kso_SmartArtVlist2</comment>
+        <translation>垂直项目符号列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <comment>_kso_SmartArtVlist2</comment>
+        <translation>用于显示非有序信息块或分组信息块。适用于标题较长的列表或顶层信息。</translation>
+    </message>
+    <message>
+        <source>Vertical Box List</source>
+        <comment>_kso_SmartArtList1</comment>
+        <translation>垂直框列表</translation>
+    </message>
+    <message>
+        <source>Use to show several groups of information, especially groups with large amounts of Level 2 text. A good choice for bulleted lists of information.</source>
+        <comment>_kso_SmartArtList1</comment>
+        <translation>用于显示多个信息组，特别是带有大量级别 2 文本的组。对于带项目符号的信息列表，这是个不错的选择。</translation>
+    </message>
+    <message>
+        <source>Horizontal Bullet List</source>
+        <comment>_kso_SmartArtHlist1</comment>
+        <translation>水平项目符号列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <comment>_kso_SmartArtHlist1</comment>
+        <translation>用于显示非顺序或分组信息列表。适用于大量文本。整个文本强调级别一致，且无方向性含意。</translation>
+    </message>
+    <message>
+        <source>Square Accent List</source>
+        <comment>_kso_SmartArtSquareaccentlist</comment>
+        <translation>方形重点列表</translation>
+    </message>
+    <message>
+        <source>Use to show lists of information divided into categories. Level 2 text appears beside a small square shape. Works well with large amounts of Level 2 text. </source>
+        <comment>_kso_SmartArtSquareaccentlist</comment>
+        <translation>用于显示按类别划分的信息列表。级别 2 文本显示在较小的方形旁。适用于有大量级别 2 文本的情况。</translation>
+    </message>
+    <message>
+        <source>Picture Accent List</source>
+        <comment>_kso_SmartArtHlist2</comment>
+        <translation>图片重点列表</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information. The small shapes on the upper corners are designed to contain pictures. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtHlist2</comment>
+        <translation>用于显示分组信息或相关信息。上角的小形状用于包含图片。强调级别 2 文本与级别 1 文本的对比，对于大量的级别 2 文本，这是个不错的选择。</translation>
+    </message>
+    <message>
+        <source>Bending Picture Accent List</source>
+        <comment>_kso_SmartArtBlist2</comment>
+        <translation>蛇形图片重点列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small circular shapes are designed to contain pictures. Works well for illustrating both Level 1 and Level 2 text. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBlist2</comment>
+        <translation>用于显示非有序信息块或分组信息块。小圆形用于包含图片。适用于演示级别 1 和级别 2 文本。可最大化形状的水平和垂直显示空间。</translation>
+    </message>
+    <message>
+        <source>Stacked List</source>
+        <comment>_kso_SmartArtHlist9</comment>
+        <translation>堆叠列表</translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Circular shapes contain Level 1 text, and the corresponding rectangles contain Level 2 text. Works well for numerous details and minimal Level 1 text.</source>
+        <comment>_kso_SmartArtHlist9</comment>
+        <translation>用于显示信息组，或者任务、流程或工作流中的步骤。圆形包含级别 1 文本，相应的矩形包含级别 2 文本。适用于大量详细信息和最少量的级别 1 文本。</translation>
+    </message>
+    <message>
+        <source>Increasing Circle Process</source>
+        <comment>_kso_SmartArtIncreasingcircleprocess</comment>
+        <translation>递增循环流程</translation>
+    </message>
+    <message>
+        <source>Use to show a series of steps, with the interior of the circle increasing with each step. Limited to seven Level 1 steps but unlimited Level 2 items. Works well with large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtIncreasingcircleprocess</comment>
+        <translation>用于显示一系列步骤，且圆的内部随每个步骤递增。限于七个级别 1 步骤但无限个级别 2 项目。与大量级别 2 文本一起使用时效果最佳。</translation>
+    </message>
+    <message>
+        <source>Pie Process</source>
+        <comment>_kso_SmartArtPieprocess</comment>
+        <translation>饼图流程</translation>
+    </message>
+    <message>
+        <source>Use to show steps in a process with each pie slice increasing in size up to seven shapes.  Level 1 text displays vertically.</source>
+        <comment>_kso_SmartArtPieprocess</comment>
+        <translation>用于显示每个饼图扇面的流程中的步骤，每个饼图扇面尺寸递增为七个形状。级别 1 文本垂直显示。</translation>
+    </message>
+    <message>
+        <source>Detailed Process</source>
+        <comment>_kso_SmartArtHprocess7</comment>
+        <translation>详细流程</translation>
+    </message>
+    <message>
+        <source>Use with large amounts of Level 2 text to show a progression through stages.</source>
+        <comment>_kso_SmartArtHprocess7</comment>
+        <translation>可与大量级别 2 文本一起使用，以便显示阶段中的行进。</translation>
+    </message>
+    <message>
+        <source>Grouped List</source>
+        <comment>_kso_SmartArtLprocess2</comment>
+        <translation>分组列表</translation>
+    </message>
+    <message>
+        <source>Use to show groups and sub-groups of information, or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top level horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape. Works well for emphasizing sub-groups or sub-steps, hierarchical information, or multiple lists of information.</source>
+        <comment>_kso_SmartArtLprocess2</comment>
+        <translation>用于显示信息组和信息子组，或者任务、流程或工作流中的步骤和子步骤。级别 1 文本与顶层水平形状相对应，级别 2 文本则与每个相关顶层形状下的垂直子步骤相对应。适用于强调子组或子步骤、分层信息或多信息列表。</translation>
+    </message>
+    <message>
+        <source>Horizontal Picture List</source>
+        <comment>_kso_SmartArtPlist2</comment>
+        <translation>水平图片列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped information with an emphasis on related pictures. The top shapes are designed to contain pictures.</source>
+        <comment>_kso_SmartArtPlist2</comment>
+        <translation>用于显示非有序信息或分组信息，并强调相关图片。顶层形状用于包含图片。</translation>
+    </message>
+    <message>
+        <source>Continuous Picture List</source>
+        <comment>_kso_SmartArtHlist7</comment>
+        <translation>连续图片列表</translation>
+    </message>
+    <message>
+        <source>Use to show groups of interconnected information. The circular shapes are designed to contain pictures.</source>
+        <comment>_kso_SmartArtHlist7</comment>
+        <translation>用于显示互连信息组。圆形用于包含图片。</translation>
+    </message>
+    <message>
+        <source>Picture Strips</source>
+        <comment>_kso_SmartArtPicturestrips</comment>
+        <translation>图片条纹</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures from top to bottom with Level 1 text beside each.</source>
+        <comment>_kso_SmartArtPicturestrips</comment>
+        <translation>用于从上到下显示一系列图片，级别 1  文本在各个图片旁边。</translation>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <comment>_kso_SmartArtVlist4</comment>
+        <translation>垂直图片列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <comment>_kso_SmartArtVlist4</comment>
+        <translation>用于显示非有序信息块或分组信息块。左侧小形状用于存放图片。</translation>
+    </message>
+    <message>
+        <source>Alternating Picture Blocks</source>
+        <comment>_kso_SmartArtAlternatingpictureblocks</comment>
+        <translation>交替图片块</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures from top to bottom. Text appears alternately on the right or left of the picture.</source>
+        <comment>_kso_SmartArtAlternatingpictureblocks</comment>
+        <translation>用于从上到下显示一系列图片。文本可显示在图片的右侧或左侧。</translation>
+    </message>
+    <message>
+        <source>Vertical Picture Accent List</source>
+        <comment>_kso_SmartArtVlist3</comment>
+        <translation>垂直图片重点列表</translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small circles are designed to contain pictures.</source>
+        <comment>_kso_SmartArtVlist3</comment>
+        <translation>用于显示非有序信息块或分组信息块。小圆形用于包含图片。</translation>
+    </message>
+    <message>
+        <source>Titled Picture Accent List</source>
+        <comment>_kso_SmartArtPictureaccentlist</comment>
+        <translation>图片重点列表</translation>
+    </message>
+    <message>
+        <source>Use to show lists of information with an accent picture for each Level 2 text. Level 1 text displays in a separate box at the top of the list.</source>
+        <comment>_kso_SmartArtPictureaccentlist</comment>
+        <translation>用于显示每个级别 2 文本都有重点图片的信息列表。级别 1 文本显示在列表上部的独立方框中。</translation>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <comment>_kso_SmartArtVlist5</comment>
+        <translation>垂直块列表</translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <comment>_kso_SmartArtVlist5</comment>
+        <translation>用于显示信息组，或者任务、流程或工作流中的步骤。适用于大量级别 2 文本。对于包含一个主点和多个子点的文本，这是个不错的选择。</translation>
+    </message>
+    <message>
+        <source>Vertical Chevron List</source>
+        <comment>_kso_SmartArtChevron2</comment>
+        <translation>垂直 V 形列表</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Emphasizes Level 2 text over Level 1 text, and is a good choice for large amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtChevron2</comment>
+        <translation>用于显示行进，或者任务、流程或工作流中的顺序步骤，或者用于强调运动或方向。强调级别 2 文本与级别 1 文本的对比，对于大量的级别 2 文本，这是个不错的选择。</translation>
+    </message>
+    <message>
+        <source>Vertical Accent List</source>
+        <comment>_kso_SmartArtVerticalaccentlist</comment>
+        <translation>垂直重点列表</translation>
+    </message>
+    <message>
+        <source>Use to show lists of information. Level 2 text appears in rectangular shapes over vertical chevrons. Emphasizes Level 2 text over Level 1 text, and is a good choice for medium amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtVerticalaccentlist</comment>
+        <translation>用于显示信息列表。级别 2 文本显示在垂直 V 型上的矩形中。在级别 1 文本上强调级别 2 文本，对于中等量级别 2 文本来说是不错的选择。</translation>
+    </message>
+    <message>
+        <source>Vertical Arrow List</source>
+        <comment>_kso_SmartArtVlist6</comment>
+        <translation>垂直箭头列表</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow that move toward a common goal. Works well for bulleted lists of information.</source>
+        <comment>_kso_SmartArtVlist6</comment>
+        <translation>用于显示具有共同目标的任务、流程或工作流中的行进或一系列步骤。适用于带项目符号的信息列表。</translation>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <comment>_kso_SmartArtHlist6</comment>
+        <translation>梯形列表</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArtHlist6</comment>
+        <translation>用于显示等值的分组信息或相关信息。适用于大量文本。</translation>
+    </message>
+    <message>
+        <source>Descending Block List</source>
+        <comment>_kso_SmartArtBlockdescendinglist</comment>
+        <translation>降序基本块列表</translation>
+    </message>
+    <message>
+        <source>Use to show groups of related ideas or lists of information. The text shapes decrease in height sequentially, and the Level 1 text displays vertically.</source>
+        <comment>_kso_SmartArtBlockdescendinglist</comment>
+        <translation>用于显示相关观点的组或信息列表。文本形状的高度按顺序递减，级别 1 文本垂直显示。</translation>
+    </message>
+    <message>
+        <source>Table List</source>
+        <comment>_kso_SmartArtHlist3</comment>
+        <translation>表格列表</translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <comment>_kso_SmartArtHlist3</comment>
+        <translation>用于显示等值的分组信息或相关信息。第一行级别 1 文本与顶层形状相对应，其级别 2 文本用于后续列表。</translation>
+    </message>
+    <message>
+        <source>Segmented Process</source>
+        <comment>_kso_SmartArtProcess4</comment>
+        <translation>分段流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Emphasizes Level 2 text, since each line appears in a separate shape.</source>
+        <comment>_kso_SmartArtProcess4</comment>
+        <translation>用于显示任务、流程或工作流中的进展过程或顺序步骤。因为每一行都用单独的形状显示，所以强调每一行第二层文字。</translation>
+    </message>
+    <message>
+        <source>Vertical Curved List</source>
+        <comment>_kso_SmartArtVerticalcurvedlist</comment>
+        <translation>垂直曲形列表</translation>
+    </message>
+    <message>
+        <source>Use to show a curved list of information. To add pictures to the accent circle shapes, apply a picture fill.</source>
+        <comment>_kso_SmartArtVerticalcurvedlist</comment>
+        <translation>用于显示弯曲的信息列表。要将图片添加到重点圆形，请应用图片填充功能。</translation>
+    </message>
+    <message>
+        <source>Pyramid List</source>
+        <comment>_kso_SmartArtPyramid2</comment>
+        <translation>棱锥型列表</translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships. Text appears in the rectangular shapes on top of the pyramid background.</source>
+        <comment>_kso_SmartArtPyramid2</comment>
+        <translation>用于显示比例关系、互连关系或分层关系。文本显示在棱锥形背景顶端的矩形中。</translation>
+    </message>
+    <message>
+        <source>Target List</source>
+        <comment>_kso_SmartArtTarget3</comment>
+        <translation>目标图列表</translation>
+    </message>
+    <message>
+        <source>Use to show interrelated or overlapping information. Each of the first seven lines of Level 1 text appears in the rectangular shape. Unused text does not appear, but remains available if you switch layouts. Works well with both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtTarget3</comment>
+        <translation>用于显示相关的信息或重叠的信息。前七行级别 1 文本的每一行均在矩形中显示。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。适用于级别 1 和级别 2 文本。</translation>
+    </message>
+    <message>
+        <source>Hierarchy List</source>
+        <comment>_kso_SmartArtHierarchy3</comment>
+        <translation>层次结构列表</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing across groups. Can also be used to group or list information.</source>
+        <comment>_kso_SmartArtHierarchy3</comment>
+        <translation>用于显示组之间的层次关系递进。还可用于对信息分组或列出信息。</translation>
+    </message>
+    <message>
+        <source>Vertical Circle List</source>
+        <comment>_kso_SmartArtVerticalcirclelist</comment>
+        <translation>垂直圆形列表</translation>
+    </message>
+    <message>
+        <source>Use to show sequential or grouped data. Works best for Level 1 text, which displays next to a large circular shape. Lower levels of text are separated with smaller circular shapes.</source>
+        <comment>_kso_SmartArtVerticalcirclelist</comment>
+        <translation>用于显示顺序或分组数据。适用于级别 1 文本(显示在较大的圆形旁边)。较低级别的文本以较小的圆形分隔。</translation>
+    </message>
+    <message>
+        <source>Table Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy4</comment>
+        <translation>表层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show groups of information built from top to bottom, and the hierarchies within each group. This layout does not contain connecting lines.</source>
+        <comment>_kso_SmartArtHierarchy4</comment>
+        <translation>用于显示从上到下构建的信息组，以及每个组内的层次结构。此布局不包含连接线。</translation>
+    </message>
+    <message>
+        <source>Basic Process</source>
+        <comment>_kso_SmartArtProcess1</comment>
+        <translation>基本流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow.</source>
+        <comment>_kso_SmartArtProcess1</comment>
+        <translation>用于显示行进，或者任务、流程或工作流中的顺序步骤。</translation>
+    </message>
+    <message>
+        <source>Step Up Process</source>
+        <comment>_kso_SmartArtStepupprocess</comment>
+        <translation>步骤上移流程</translation>
+    </message>
+    <message>
+        <source>Use to show an ascending series of steps or lists of information.</source>
+        <comment>_kso_SmartArtStepupprocess</comment>
+        <translation>用于按升序显示一系列步骤或信息列表。</translation>
+    </message>
+    <message>
+        <source>Step Down Process</source>
+        <comment>_kso_SmartArtStepdownprocess</comment>
+        <translation>步骤下移流程</translation>
+    </message>
+    <message>
+        <source>Use to show a descending process with multiple steps and sub-steps. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtStepdownprocess</comment>
+        <translation>用于按降序显示一系列具有多个步骤和子步骤的流程。适用于少量文本。</translation>
+    </message>
+    <message>
+        <source>Accent Process</source>
+        <comment>_kso_SmartArtProcess3</comment>
+        <translation>重点流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow. Works well for illustrating both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtProcess3</comment>
+        <translation>用于显示行进、日程表，或者任务、流程或工作流中的顺序步骤。适用于演示级别 1 和级别 2 文本。</translation>
+    </message>
+    <message>
+        <source>Picture Accent Process</source>
+        <comment>_kso_SmartArtHprocess10</comment>
+        <translation>图片重点流程</translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps in a task, process, or workflow. The rectangular shapes in the background are designed to contain pictures.</source>
+        <comment>_kso_SmartArtHprocess10</comment>
+        <translation>用于显示任务、流程或工作流中的顺序步骤。背景中的矩形可用于包含图片。</translation>
+    </message>
+    <message>
+        <source>Alternating Flow</source>
+        <comment>_kso_SmartArtHprocess4</comment>
+        <translation>交替流</translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or sequential steps in a task, process, or workflow. Emphasizes the interaction or relationships among the groups of information.</source>
+        <comment>_kso_SmartArtHprocess4</comment>
+        <translation>用于显示信息组，或者任务、流程或工作流中的顺序步骤。强调信息组之间的交互或关系。</translation>
+    </message>
+    <message>
+        <source>Continuous Block Process</source>
+        <comment>_kso_SmartArtHprocess9</comment>
+        <translation>连续块状流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Works best with minimal Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtHprocess9</comment>
+        <translation>用于显示行进，或者任务、流程或工作流中的顺序步骤。最适用于极少量级别 1 和级别 2 文本。</translation>
+    </message>
+    <message>
+        <source>Increasing Arrows Process</source>
+        <comment>_kso_SmartArtIncreasingarrowsprocess</comment>
+        <translation>递增箭头流程</translation>
+    </message>
+    <message>
+        <source>Use to show sequential and overlapping steps in a process. Limited to five Level 1 items. Level 2 can contain large amounts of text.</source>
+        <comment>_kso_SmartArtIncreasingarrowsprocess</comment>
+        <translation>用于显示流程中连续且重叠的步骤。限于五个级别 1 项目。级别 2 可包含大量文本。</translation>
+    </message>
+    <message>
+        <source>Continuous Arrow Process</source>
+        <comment>_kso_SmartArtHprocess3</comment>
+        <translation>连续箭头流程</translation>
+    </message>
+    <message>
+        <source>Use to show a timeline or sequential steps in a task, process, or workflow. Works best with Level 1 text because each line of Level 1 text appears inside the arrow shape. Level 2 text appears outside the arrow shape.</source>
+        <comment>_kso_SmartArtHprocess3</comment>
+        <translation>用于显示日程表，或者任务、流程或工作流中的顺序步骤。最适用于级别 1 文本，因为级别 1 文本的每一行均将显示在箭头形状的内部。级别 2 文本则显示在箭头形状的外部。</translation>
+    </message>
+    <message>
+        <source>Process Arrows</source>
+        <comment>_kso_SmartArtHprocess6</comment>
+        <translation>流程箭头</translation>
+    </message>
+    <message>
+        <source>Use to show information illustrating a process or workflow. Level 1 text appears in the circular shapes and Level 2 text appears in the arrow shapes. Works best for minimal text and to emphasize movement or direction.</source>
+        <comment>_kso_SmartArtHprocess6</comment>
+        <translation>用于显示演示流程或工作流的信息。级别 1 文本显示在圆形中，级别 2 文本显示在箭头形状中。最适用于最少量的文本以及要强调运动或方向的情况。</translation>
+    </message>
+    <message>
+        <source>Circle Accent Timeline</source>
+        <comment>_kso_SmartArtCircleaccenttimeline</comment>
+        <translation>圆形重点日程表</translation>
+    </message>
+    <message>
+        <source>Use to show a series of events or timeline information. Level 1 text appears next to larger circular shapes. Level 2 text appears next to smaller circular shapes.</source>
+        <comment>_kso_SmartArtCircleaccenttimeline</comment>
+        <translation>用于显示一系列事件或日程表信息。级别 1 文本显示在较大的圆形旁边。级别 2 文本显示在较小的圆形旁边。</translation>
+    </message>
+    <message>
+        <source>Basic Timeline</source>
+        <comment>_kso_SmartArtHprocess11</comment>
+        <translation>基本日程表</translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps in a task, process, or workflow, or to show timeline information. Works well with both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtHprocess11</comment>
+        <translation>用于显示任务、流程或工作流中的顺序步骤，或用于显示日程表信息。适用于级别 1 和级别 2 文本。</translation>
+    </message>
+    <message>
+        <source>Basic Chevron Process</source>
+        <comment>_kso_SmartArtChevron1</comment>
+        <translation>基本 V 形流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression; a timeline; sequential steps in a task, process, or workflow; or to emphasize movement or direction. Level 1 text appears inside an arrow shape while Level 2 text appears below the arrow shapes.</source>
+        <comment>_kso_SmartArtChevron1</comment>
+        <translation>用于显示行进、日程表，或者任务、流程或工作流中的顺序步骤，或者用于强调运动或方向。级别 1 文本显示在箭头形状内部，而级别 2 文本显示在箭头形状的下方。</translation>
+    </message>
+    <message>
+        <source>Closed Chevron Process</source>
+        <comment>_kso_SmartArtHchevron3</comment>
+        <translation>闭合 V 形流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow, or to emphasize movement or direction. Can be used to emphasize information in the starting shape. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtHchevron3</comment>
+        <translation>用于显示行进、日程表，或者任务、流程或工作流中的顺序步骤，或用于强调运动或方向。可用于强调开始形状中的信息。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Chevron List</source>
+        <comment>_kso_SmartArtLprocess3</comment>
+        <translation>V 型列表</translation>
+    </message>
+    <message>
+        <source>Use to show a progression through several processes that make up an overall workflow. Also works for illustrating contrasting processes. The Level 1 text corresponds to the first arrow shape on the left, while the Level 2 text corresponds to horizontal sub-steps for each shape that contains Level 1 text.</source>
+        <comment>_kso_SmartArtLprocess3</comment>
+        <translation>用于显示组成一个总工作流的几个流程的行进。也用于演示对比过程。级别 1 文本与左侧的第一个箭头形状相对应，而级别 2 文本与包含级别 1 文本的每个形状的水平子步骤相对应。</translation>
+    </message>
+    <message>
+        <source>Sub-Step Process</source>
+        <comment>_kso_SmartArtSubstepprocess</comment>
+        <translation>子步骤流程</translation>
+    </message>
+    <message>
+        <source>Use to show a multi-step process with sub-steps between each instance of Level 1 text. Works best with small amounts of text and is limited to seven Level 1 steps. Each Level 1 step can have unlimited sub-steps.</source>
+        <comment>_kso_SmartArtSubstepprocess</comment>
+        <translation>用于显示级别 1 文本的每个实例之间具有子步骤的多步骤流程。适用于少量文本，且限于七个级别 1 步骤。每个级别 1 步骤均可包含无限数量的子步骤。</translation>
+    </message>
+    <message>
+        <source>Phased Process</source>
+        <comment>_kso_SmartArtPhasedprocess</comment>
+        <translation>分阶段流程</translation>
+    </message>
+    <message>
+        <source>Use to show three phases of a process. Limited to three Level 1 items. The first two Level 1 items can each contain four Level 2 items, and the third Level 1 item can contain an unlimited number of Level 2 items.  Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtPhasedprocess</comment>
+        <translation>用于显示具有三个阶段的流程。限制为三个级别 1 项目。前两个级别 1 项目均可包含四个级别 2 项目，且第三个级别 1 项目可包括无限数量的级别 2 项目。适用于少量文本。</translation>
+    </message>
+    <message>
+        <source>Random to Result Process</source>
+        <comment>_kso_SmartArtRandomtoresultprocess</comment>
+        <translation>随机至结果流程</translation>
+    </message>
+    <message>
+        <source>Use to show, through a series of steps, how several chaotic  ideas can result in a unified goal or idea. Supports multiple items of Level 1 text, but the first and last Level 1 corresponding shapes are fixed. Works best with small amounts of Level 1 text and medium amounts of Level 2 text.</source>
+        <comment>_kso_SmartArtRandomtoresultprocess</comment>
+        <translation>通过一系列步骤可显示混乱观点如何带来的统一的目标和想法。支持级别 1 文本的多个项目，但第一个和最后一个级别 1 的相应形状是固定的。适用于少量级别 1 文本和中等量级别 2 文本。</translation>
+    </message>
+    <message>
+        <source>Vertical Process</source>
+        <comment>_kso_SmartArtProcess2</comment>
+        <translation>垂直流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow from top to bottom. Works best with Level 1 text, since the vertical space is limited.</source>
+        <comment>_kso_SmartArtProcess2</comment>
+        <translation>用于从上到下显示行进，或者任务、流程或工作流中的顺序步骤。由于垂直空间有限，因此最适用于级别 1 文本。</translation>
+    </message>
+    <message>
+        <source>Staggered Process</source>
+        <comment>_kso_SmartArtVprocess5</comment>
+        <translation>交错流程</translation>
+    </message>
+    <message>
+        <source>Use to show a downward progression through stages. Each of the first five lines of Level 1 text corresponds with a rectangle. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVprocess5</comment>
+        <translation>用于显示阶段的向下行进。前五行级别 1 文本的每一行都与某个矩形相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Process List</source>
+        <comment>_kso_SmartArtLprocess1</comment>
+        <translation>流程列表</translation>
+    </message>
+    <message>
+        <source>Use to show multiple groups of information or steps and sub-steps in a task, process, or workflow. Level 1 text corresponds to the top horizontal shapes, and Level 2 text corresponds to vertical sub-steps under each related top level shape.</source>
+        <comment>_kso_SmartArtLprocess1</comment>
+        <translation>用于显示多个信息组，或者任务、流程或工作流中的步骤和子步骤。级别 1 文本与顶层水平形状相对应，级别 2 文本则与每个相关顶层形状下的垂直子步骤相对应。</translation>
+    </message>
+    <message>
+        <source>Circle Arrow Process</source>
+        <comment>_kso_SmartArtCirclearrowprocess</comment>
+        <translation>圆箭头流程</translation>
+    </message>
+    <message>
+        <source>Use to show sequential items with supporting text for each item. This diagram works best with small amounts of Level 1 text.</source>
+        <comment>_kso_SmartArtCirclearrowprocess</comment>
+        <translation>用于显示每个项目带支持文本的连续项目。此图表在与少量级别 1 文本一起使用时效果最佳。</translation>
+    </message>
+    <message>
+        <source>Basic Bending Process</source>
+        <comment>_kso_SmartArtProcess5</comment>
+        <translation>基本蛇形流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtProcess5</comment>
+        <translation>用于显示行进，或者任务、流程或工作流中的顺序步骤。可最大化形状的水平和垂直显示空间。</translation>
+    </message>
+    <message>
+        <source>Repeating Bending Process</source>
+        <comment>_kso_SmartArtBprocess3</comment>
+        <translation>重复蛇形流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBprocess3</comment>
+        <translation>用于显示行进，或者任务、流程或工作流中的顺序步骤。可最大化形状的水平和垂直显示空间。</translation>
+    </message>
+    <message>
+        <source>Vertical Bending Process</source>
+        <comment>_kso_SmartArtBprocess4</comment>
+        <translation>垂直蛇形流程</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow. Maximizes both horizontal and vertical display space for shapes. Places more emphasis on the interrelationships among the shapes than on direction or movement.</source>
+        <comment>_kso_SmartArtBprocess4</comment>
+        <translation>用于显示任务、流程或工作流中的行进或顺序步骤。可最大化形状的水平和垂直显示空间。更侧重强调形状的内部关系而不是方向或运动。</translation>
+    </message>
+    <message>
+        <source>Ascending Picture Accent Process</source>
+        <comment>_kso_SmartArtAscendingpictureaccentprocess</comment>
+        <translation>升序图片重点流程</translation>
+    </message>
+    <message>
+        <source>Use to show an ascending series of pictures with descriptive text. Works best with a small amount of text.</source>
+        <comment>_kso_SmartArtAscendingpictureaccentprocess</comment>
+        <translation>用于按升序显示一系列带有描述性文字的图片。适用于少量文本。</translation>
+    </message>
+    <message>
+        <source>Upward Arrow</source>
+        <comment>_kso_SmartArtArrow2</comment>
+        <translation>向上箭头</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or steps that trend upward in a task, process, or workflow. Each of the first five lines of Level 1 text corresponds to a point on the arrow. Works best with minimal text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow2</comment>
+        <translation>用于显示任务、流程或工作流中趋势向上的行进或步骤。前五行级别 1 文本的每一行都与箭头上的某一点相对应。最适用于最少量的文本。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Descending Process</source>
+        <comment>_kso_SmartArtDescendingprocess</comment>
+        <translation>降序流程</translation>
+    </message>
+    <message>
+        <source>Use to show a descending series of events. The first Level 1 text is at the top of arrow, and the last Level 1 text displays at the bottom of the arrow. Only the first seven Level 1 items appear. Works best with small to medium amounts of text.</source>
+        <comment>_kso_SmartArtDescendingprocess</comment>
+        <translation>用于显示降序系列的事件。第一行级别 1 文本位于箭头顶部，最后一行级别 1 文本显示在箭头底部。仅显示前七个级别 1 项目。适用于中少量文本。</translation>
+    </message>
+    <message>
+        <source>Circular Bending Process</source>
+        <comment>_kso_SmartArtBprocess2</comment>
+        <translation>环状蛇形流程</translation>
+    </message>
+    <message>
+        <source>Use to show a long or non-linear sequence or steps in a task, process, or workflow. Works best with Level 1 text only. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtBprocess2</comment>
+        <translation>用于显示较长序列或非线性序列，或者任务、流程或工作流中的步骤。仅在与级别 1 文本一起使用时才能达到最佳效果。可最大化形状的水平和垂直显示空间。</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <comment>_kso_SmartArtEquation1</comment>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the equals sign (=).Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtEquation1</comment>
+        <translation>用于显示描述计划或结果的顺序步骤或任务。最后一行级别 1 文本在等号(=)后显示。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Vertical Equation</source>
+        <comment>_kso_SmartArtEquation2</comment>
+        <translation>垂直公式</translation>
+    </message>
+    <message>
+        <source>Use to show sequential steps or tasks that depict a plan or result. The last Level 1 line of text appears after the arrow. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtEquation2</comment>
+        <translation>用于显示描述计划或结果的顺序步骤或任务。最后一行级别 1 文本在箭头后显示。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Funnel</source>
+        <comment>_kso_SmartArtFunnel1</comment>
+        <translation>漏斗</translation>
+    </message>
+    <message>
+        <source>Use to show the filtering of information or how parts merge into a whole. Emphasizes the final outcome. Can contain up to four lines of Level 1 text; the last of these four Level 1 text lines appears below the funnel and the other lines  correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtFunnel1</comment>
+        <translation>用于显示信息的筛选，或者多个部分如何合并为一个整体。可包含最多四行级别 1 文本；这四行级别 1 文本的最后一行显示在漏斗下方，其他行与某一个圆形相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Gear</source>
+        <comment>_kso_SmartArtGear1</comment>
+        <translation>齿轮</translation>
+    </message>
+    <message>
+        <source>Use to show interlocking ideas. Each of the first three lines of Level 1 text corresponds to a gear shape, and their corresponding Level 2 text appears in rectangles next to the gear shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtGear1</comment>
+        <translation>用于显示互相紧密关联的观点。级别 1 文本前三行的每一行均与某一齿轮形状相对应，并且其对应的级别 2 文本会显示在齿轮形状旁边的矩形中。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Arrow Ribbon</source>
+        <comment>_kso_SmartArtArrow6</comment>
+        <translation>带形箭头</translation>
+    </message>
+    <message>
+        <source>Use to show either related or contrasting concepts with some connection, such as opposing forces. The first two lines of Level 1 text are used for text in the arrows. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow6</comment>
+        <translation>用于显示具有某些联系的相关概念或对比概念(如对立力量)。前两行级别 1 文本用于箭头中的文本。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Opposing Arrows</source>
+        <comment>_kso_SmartArtArrow4</comment>
+        <translation>反向箭头</translation>
+    </message>
+    <message>
+        <source>Use to show two opposing ideas, or ideas that diverge from a central point. Each of the first two lines of Level 1 text corresponds to an arrow. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow4</comment>
+        <translation>用于显示两个对立的观点，或从一个中心点分离出的两个观点。前两行级别 1 文本的每一行都与某一箭头相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Converging Arrows</source>
+        <comment>_kso_SmartArtArrow5</comment>
+        <translation>汇聚箭头</translation>
+    </message>
+    <message>
+        <source>Use to show ideas or concepts that converge to a central point. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtArrow5</comment>
+        <translation>用于显示聚合到一个中心点的观点或概念。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Diverging Arrows</source>
+        <comment>_kso_SmartArtArrow1</comment>
+        <translation>分叉箭头</translation>
+    </message>
+    <message>
+        <source>Use to show ideas or concepts that progress outward from a central source. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtArrow1</comment>
+        <translation>用于显示从一个中心源延伸而来的观点或概念。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Basic Cycle</source>
+        <comment>_kso_SmartArtCycle2</comment>
+        <translation>基本循环</translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle2</comment>
+        <translation>用于以循环流程表示阶段、任务或事件的连续序列。强调阶段或步骤，而不是连接箭头或流程。只能对级别 1 文本发挥最大作用。</translation>
+    </message>
+    <message>
+        <source>Text Cycle</source>
+        <comment>_kso_SmartArtCycle1</comment>
+        <translation>文本循环</translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the arrows or flow rather than the stages or steps. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle1</comment>
+        <translation>用于以循环流程表示阶段、任务或事件的连续序列。强调箭头或流程，而不是阶段或步骤。只能对级别 1 文本发挥最大作用。</translation>
+    </message>
+    <message>
+        <source>Block Cycle</source>
+        <comment>_kso_SmartArtCycle5</comment>
+        <translation>块循环</translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the stages or steps rather than the connecting arrows or flow.</source>
+        <comment>_kso_SmartArtCycle5</comment>
+        <translation>用于以循环流程表示阶段、任务或事件的连续序列。强调阶段或步骤，而不是连接箭头或流程。</translation>
+    </message>
+    <message>
+        <source>Nondirectional Cycle</source>
+        <comment>_kso_SmartArtCycle6</comment>
+        <translation>不定向循环</translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Each shape has the same level of importance. Works well when direction does not need to be indicated.</source>
+        <comment>_kso_SmartArtCycle6</comment>
+        <translation>用于在循环流程中表示阶段、任务或事件的连续序列。每一图形的重要级别相同。不需指示方向时适用。</translation>
+    </message>
+    <message>
+        <source>Continuous Cycle</source>
+        <comment>_kso_SmartArtCycle3</comment>
+        <translation>连续循环</translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events in a circular flow. Emphasizes the connection between all components. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtCycle3</comment>
+        <translation>用于以循环流程表示阶段、任务或事件的连续序列。强调所有组件之间的连接。只能对级别 1 文本发挥最大作用。</translation>
+    </message>
+    <message>
+        <source>Multidirectional Cycle</source>
+        <comment>_kso_SmartArtCycle7</comment>
+        <translation>多向循环</translation>
+    </message>
+    <message>
+        <source>Use to represent a continuing sequence of stages, tasks, or events that can occur in any direction.</source>
+        <comment>_kso_SmartArtCycle7</comment>
+        <translation>用于表示可在任何方向发生的阶段、任务或事件的连续序列。</translation>
+    </message>
+    <message>
+        <source>Segmented Cycle</source>
+        <comment>_kso_SmartArtCycle8</comment>
+        <translation>分段循环</translation>
+    </message>
+    <message>
+        <source>Use to show a progression or a sequence of stages, tasks, or events in a circular flow. Emphasizes the interconnected pieces. Each of the first seven lines of Level 1 text corresponds to a wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle8</comment>
+        <translation>用于以循环流程表示阶段、任务或事件的行进或连续序列。强调互连的部分。前七行级别 1 文本的每一行都与一个楔形或饼形相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Basic Pie</source>
+        <comment>_kso_SmartArtChart3</comment>
+        <translation>基本饼图</translation>
+    </message>
+    <message>
+        <source>Use to show how individual parts form a whole. The first seven lines of Level 1 text correspond to the evenly distributed wedge or pie shapes. The top Level 1 text shape appears outside of the rest of the pie for emphasis. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtChart3</comment>
+        <translation>用于显示单独的部分如何形成一个整体。前七行级别 1 文本与均匀分布的楔形或饼形相对应。首行级别 1 文本形状显示在其余饼形的外部，以表示强调。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Radial Cycle</source>
+        <comment>_kso_SmartArtRadial6</comment>
+        <translation>射线循环</translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea. Emphasizes both information in the center circle and how information in the outer ring of circles contributes to the central idea. The first Level 1 line of text corresponds to the central circle, and its Level 2 text corresponds to the outer ring of circles. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial6</comment>
+        <translation>用于显示与中心观点的关系。强调中心圆中的信息和圆外环中的信息对中心观点的支持方式。第一行级别 1 文本与中心圆形相对应，其级别 2 文本则与圆的外环相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Basic Radial</source>
+        <comment>_kso_SmartArtRadial1</comment>
+        <translation>基本射线图</translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape, and its Level 2 text corresponds to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial1</comment>
+        <translation>用于显示循环中与中心观点的关系。第一行级别 1 文本与中心形状相对应，级别 2 文本则与环绕的圆形相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Diverging Radial </source>
+        <comment>_kso_SmartArtRadial5</comment>
+        <translation>分离射线</translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The first Level 1 line of text corresponds to the central circular shape. Emphasizes the surrounding circles rather than the central idea. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial5</comment>
+        <translation>用于显示循环中与中心观点的关系。第一行级别 1 文本与中心圆形相对应。强调环绕的圆形，而不是中心观点。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Radial Venn</source>
+        <comment>_kso_SmartArtRadial3</comment>
+        <translation>射线维恩图</translation>
+    </message>
+    <message>
+        <source>Use to show both overlapping relationships and the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape and the lines of Level 2 text correspond to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial3</comment>
+        <translation>用于显示重叠关系，以及循环中与中心观点的关系。第一行级别 1 文本与中心形状相对应，级别 2 文本的行与环绕的圆形相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Cycle Matrix</source>
+        <comment>_kso_SmartArtCycle4</comment>
+        <translation>循环矩阵</translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle4</comment>
+        <translation>用于显示循环行进中与中央观点的关系。级别 1 文本前四行的每一行均与某一个楔形或饼形相对应，并且每行的级别 2 文本将显示在楔形或饼形旁边的矩形中。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Radial Cluster</source>
+        <comment>_kso_SmartArtRadialcluster</comment>
+        <translation>射线群集</translation>
+    </message>
+    <message>
+        <source>Use to show data that relates to a central idea or theme. The top Level 1 text appears in the center. Level 2 text appears in surrounding shapes. Can contain up to seven Level 2 shapes. Unused text does not appear, but remains available if you switch layouts. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtRadialcluster</comment>
+        <translation>用于显示与中心构思或主题相关的数据。最上层的级别 1 文本居中显示。级别 2 文本显示在周围的形状中。可包含最多七个级别 2 形状。未使用的文本不显示，但在切换布局时仍可用。适用于少量文本的情况。</translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <comment>_kso_SmartArtOrgchart1</comment>
+        <translation>组织结构图</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtOrgchart1</comment>
+        <translation>用于显示组织中的分层信息或上下级关系。此布局包含辅助形状和组织结构图悬挂布局。</translation>
+    </message>
+    <message>
+        <source>Name and Title Organization Chart</source>
+        <comment>_kso_SmartArtNameandtitleorganizationalchart</comment>
+        <translation>姓名和职务组织结构图</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. To enter text in the title box, type directly in the smaller rectangular shape. The assistant shape and Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtNameandtitleorganizationalchart</comment>
+        <translation>用于显示组织中的分层信息或报告关系。要在标题框中输入文本，请直接在较小的矩形中键入。此布局包含辅助形状和组织结构图悬挂布局。</translation>
+    </message>
+    <message>
+        <source>Half Circle Organization Chart</source>
+        <comment>_kso_SmartArtHalfcircleorganizationchart</comment>
+        <translation>半圆组织结构图</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shapes and Org Chart hanging layouts are available with this layout. </source>
+        <comment>_kso_SmartArtHalfcircleorganizationchart</comment>
+        <translation>用于显示组织中的分层信息或报告关系。此布局包含辅助形状和组织结构图悬挂布局。</translation>
+    </message>
+    <message>
+        <source>Circle Picture Hierarchy</source>
+        <comment>_kso_SmartArtCirclepicturehierarchy</comment>
+        <translation>圆形图片层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. Pictures appear in circles and corresponding text appears next to the pictures.</source>
+        <comment>_kso_SmartArtCirclepicturehierarchy</comment>
+        <translation>用于显示组织中的分层信息或上下级关系。图片显示在圆形中，对应的文本显示在图片旁。</translation>
+    </message>
+    <message>
+        <source>Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy1</comment>
+        <translation>层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing from top to bottom.</source>
+        <comment>_kso_SmartArtHierarchy1</comment>
+        <translation>用于从上到下显示层次关系递进。</translation>
+    </message>
+    <message>
+        <source>Labeled Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy6</comment>
+        <translation>标记的层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing from top to bottom and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and all subsequent lines of Level 1 text appear to the left of the long rectangles.</source>
+        <comment>_kso_SmartArtHierarchy6</comment>
+        <translation>用于从上到下和按层分组方式显示层次结构关系递进。强调标题或级别 1 文本。级别 1 文本的第一行显示在该层次结构开始处的形状中，其所有后续行均将显示在长矩形的左侧。</translation>
+    </message>
+    <message>
+        <source>Horizontal Organization Chart</source>
+        <comment>_kso_SmartArtHorizontalorganizationchart</comment>
+        <translation>水平组织结构图</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information horizontally or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtHorizontalorganizationchart</comment>
+        <translation>用于显示组织中的分层信息或上下级关系。此布局包含辅助形状和组织结构图悬挂布局。</translation>
+    </message>
+    <message>
+        <source>Horizontal Multi-Level Hierarchy</source>
+        <comment>_kso_SmartArtHorizontalmultilevelhierarchy</comment>
+        <translation>水平多层层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show large amounts of hierarchical information progressing horizontally. The top of the hierarchy is displayed vertically. This layout supports many levels in the hierarchy.</source>
+        <comment>_kso_SmartArtHorizontalmultilevelhierarchy</comment>
+        <translation>用于水平显示大量层次结构关系的递进。层次结构的最顶层垂直显示。该布局支持多级别层次结构。</translation>
+    </message>
+    <message>
+        <source>Horizontal Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy2</comment>
+        <translation>水平层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing horizontally. Works well for decision trees.</source>
+        <comment>_kso_SmartArtHierarchy2</comment>
+        <translation>用于水平显示层次关系递进。适用于决策树。</translation>
+    </message>
+    <message>
+        <source>Horizontal Labeled Hierarchy</source>
+        <comment>_kso_SmartArtHierarchy5</comment>
+        <translation>水平标记的层次结构</translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical relationships progressing horizontally and grouped hierarchically. Emphasizes heading or level 1 text. The first line of Level 1 text appears in the shape at the beginning of the hierarchy, and the second and all subsequent lines of Level 1 text appear at the top of the tall rectangles.</source>
+        <comment>_kso_SmartArtHierarchy5</comment>
+        <translation>用于以水平递进和按层分组方式显示层次结构关系。强调标题或级别 1 文本。级别 1 文本的第一行显示在该层次结构开始处的形状中，第二行和级别 1 文本的所有后续行都显示在高矩形的顶部。</translation>
+    </message>
+    <message>
+        <source>Balance</source>
+        <comment>_kso_SmartArtBalance1</comment>
+        <translation>平衡</translation>
+    </message>
+    <message>
+        <source>Use to compare or show the relationship between two ideas. Each of the first two lines of Level 1 text corresponds to text at the top of one side of the center point. Emphasizes Level 2 text, which is limited to four shapes on each side of the center point. The balance tips towards the side with the most shapes containing Level 2 text. Unused text does not appear, but remains available if you switch layouts. </source>
+        <comment>_kso_SmartArtBalance1</comment>
+        <translation>用于比较或显示两个观点之间的关系。前两行级别 1 文本的每一行都分别与显示在顶部中心点一侧的文本相对应。强调级别 2 文本，该文本限制为位于中心点侧部的四个形状。平衡指向包含级别 2 文本的多数形状的一侧。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Circle Relationship</source>
+        <comment>_kso_SmartArtCirclerelationship</comment>
+        <translation>循环关系</translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to or from a central idea. Level 2 text is added non-sequentially and is limited to five items. There can only be one Level 1 item.</source>
+        <comment>_kso_SmartArtCirclerelationship</comment>
+        <translation>用于显示与中心观点的关系。级别 2 文本以非连续方式添加且限于五项。只能有一个级别 1 项目。</translation>
+    </message>
+    <message>
+        <source>Hexagon Cluster</source>
+        <comment>_kso_SmartArtHexagoncluster</comment>
+        <translation>六边形群集</translation>
+    </message>
+    <message>
+        <source>Use to show pictures with associated descriptive text. Small hexagons indicate the picture and text pair. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtHexagoncluster</comment>
+        <translation>用于显示包含关联描述性文本的图片。小六边形指明图片和文本对。适用于少量文本的情况。</translation>
+    </message>
+    <message>
+        <source>Opposing Ideas</source>
+        <comment>_kso_SmartArtOpposingideas</comment>
+        <translation>对立观点</translation>
+    </message>
+    <message>
+        <source>Use to show two opposing or contrasting ideas. Can have one or two Level 1 items. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArtOpposingideas</comment>
+        <translation>用于显示两种对立或对比观点。可以包含一个或两个级别 1 项目。每个级别 1 文本可包含多个子级别。适用于大量文本。</translation>
+    </message>
+    <message>
+        <source>Plus and Minus</source>
+        <comment>_kso_SmartArtPlusandminus</comment>
+        <translation>加和减</translation>
+    </message>
+    <message>
+        <source>Use to show the pros and cons of  two ideas. Each Level 1 text can contain multiple sub-levels. Works well with large amounts of text. Limited to two Level 1 items.</source>
+        <comment>_kso_SmartArtPlusandminus</comment>
+        <translation>用于显示两种观点的利与弊。每个级别 1 文本可包含多个子级别。适用于大量文本。限于两个级别 1 项目。</translation>
+    </message>
+    <message>
+        <source>Reverse List</source>
+        <comment>_kso_SmartArtReverselist</comment>
+        <translation>反转列表</translation>
+    </message>
+    <message>
+        <source>Use to change between two items. Only the first two items of text display, and each item can contain a large amount of text. Works well to show a change between two items or shift in order.</source>
+        <comment>_kso_SmartArtReverselist</comment>
+        <translation>用于在两个项目之间切换。仅显示前两个文本项，每个项目均可以包含大量文本。适合显示两个项目之间的切换或按顺序转换。</translation>
+    </message>
+    <message>
+        <source>Counterbalance Arrows</source>
+        <comment>_kso_SmartArtArrow3</comment>
+        <translation>平衡箭头</translation>
+    </message>
+    <message>
+        <source>Use to show two opposing ideas or concepts. Each of the first two lines of Level 1 text corresponds to an arrow and works well with Level 2 text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtArrow3</comment>
+        <translation>用于显示两个对立的观点或概念。前两行级别 1 文本的每一行都与某一个箭头相对应，适合用于级别 2 文本。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Segmented Pyramid</source>
+        <comment>_kso_SmartArtPyramid4</comment>
+        <translation>分段棱锥图</translation>
+    </message>
+    <message>
+        <source>Use to show containment, proportional, or interconnected relationships. The first nine lines of Level 1 text appear in the triangular shapes. Unused text does not appear, but remains available if you switch layouts. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtPyramid4</comment>
+        <translation>用于显示包含关系、比例关系或互连关系。前九行级别 1 文本在三角形中显示。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Nested Target</source>
+        <comment>_kso_SmartArtTarget2</comment>
+        <translation>嵌套目标图</translation>
+    </message>
+    <message>
+        <source>Use to show containment relationships. Each of the first three lines of Level 1 text correspond to the upper left text in the shapes, and Level 2 text corresponds to the smaller shapes. Works best with minimal Level 2 lines of text. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtTarget2</comment>
+        <translation>用于显示包含关系。前三行级别 1 文本的每行都对应于形状中的左上侧文本，级别 2 文本行对应于较小的形状。最适用于最少量的级别 2 文本行。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Converging Radial</source>
+        <comment>_kso_SmartArtRadial4</comment>
+        <translation>聚合射线</translation>
+    </message>
+    <message>
+        <source>Use to show relationships of concepts or components to a central idea in a cycle. The first line of Level 1 text corresponds to the central circular shape and the lines of Level 2 text correspond to the surrounding rectangular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial4</comment>
+        <translation>用于显示循环中与中心观点的概念关系或组成关系。第一行级别 1 文本与中心圆形相对应，级别 2 的各行文本则与环绕的矩形相对应。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Radial List</source>
+        <comment>_kso_SmartArtRadial2</comment>
+        <translation>射线列表</translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The center shape can contain a picture. Level 1 text appears in the smaller circles and any related Level 2 text appears to the side of the smaller circles.</source>
+        <comment>_kso_SmartArtRadial2</comment>
+        <translation>用于显示循环中与中心观点的关系。中心形状可包含图片。小圆中显示前五行级别 1 文本，小圆旁边显示所有相关的级别 2 文本。</translation>
+    </message>
+    <message>
+        <source>Basic Target</source>
+        <comment>_kso_SmartArtTarget1</comment>
+        <translation>基本目标图</translation>
+    </message>
+    <message>
+        <source>Use to show containment, gradations, or hierarchical relationships. The first five lines of Level 1 text are associated with a circle. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtTarget1</comment>
+        <translation>用于显示包含关系、分级关系或分层关系。前五行级别 1 文本与某一圆形相关联。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Basic Venn</source>
+        <comment>_kso_SmartArtVenn1</comment>
+        <translation>基本维恩图</translation>
+    </message>
+    <message>
+        <source>Use to show overlapping or interconnected relationships. The first seven lines of Level 1 text correspond with a circle. If there are four or fewer lines of Level 1 text, the text is inside the circles. If there are more than four lines of Level 1 text, the text is outside of the circles. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVenn1</comment>
+        <translation>用于显示重叠关系或互连关系。前七行级别 1 文本对应于一个圆形。如果有四行或少于四行的级别 1 文本，则文本会位于圆形内部。如果有多于四行的级别 1 文本，则文本会位于圆形外部。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Linear Venn</source>
+        <comment>_kso_SmartArtVenn3</comment>
+        <translation>线性维恩图</translation>
+    </message>
+    <message>
+        <source>Use to show overlapping relationships in a sequence. Works best with Level 1 text only.</source>
+        <comment>_kso_SmartArtVenn3</comment>
+        <translation>用于显示序列中的重叠关系。仅在与级别 1 文本一起使用时才能达到最佳效果。</translation>
+    </message>
+    <message>
+        <source>Stacked Venn</source>
+        <comment>_kso_SmartArtVenn2</comment>
+        <translation>堆积维恩图</translation>
+    </message>
+    <message>
+        <source>Use to show overlapping relationships. A good choice for emphasizing growth or gradation. Works best with Level 1 text only. The first seven lines of Level 1 text correspond to a circular shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtVenn2</comment>
+        <translation>用于显示重叠关系。适用于强调增长或渐变。仅在与级别 1 文本一起使用时才能达到最佳效果。前七行级别 1 文本对应于一个圆形。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Basic Matrix</source>
+        <comment>_kso_SmartArtMatrix3</comment>
+        <translation>基本矩阵</translation>
+    </message>
+    <message>
+        <source>Use to show the relationship of components to a whole in quadrants. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix3</comment>
+        <translation>用于以象限的方式显示部分与整体的关系。各个象限中显示前四行级别 1 文本。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Titled Matrix</source>
+        <comment>_kso_SmartArtMatrix1</comment>
+        <translation>带标题的矩阵</translation>
+    </message>
+    <message>
+        <source>Use to show the relationships of four quadrants to a whole. The first line of Level 1 text corresponds to the central shape, and the first four lines of Level 2 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix1</comment>
+        <translation>用于显示四个象限与整体之间的关系。第一行级别 1 文本与中心形状相对应，前四行级别 2 文本则将显示在象限中。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Grid Matrix</source>
+        <comment>_kso_SmartArtMatrix2</comment>
+        <translation>网格矩阵</translation>
+    </message>
+    <message>
+        <source>Use to show the placement of concepts along two axes. Emphasizes the individual components rather than the whole. The first four lines of Level 1 text appear in the quadrants. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtMatrix2</comment>
+        <translation>用于显示沿两个坐标轴的概念布局。强调单独的部分而不是整体。前四行级别 1 文本在象限中显示。未使用的文本不会显示，但是，如果切换布局，这些文本仍将可用。</translation>
+    </message>
+    <message>
+        <source>Basic Pyramid</source>
+        <comment>_kso_SmartArtPyramid1</comment>
+        <translation>基本棱锥图</translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the bottom and narrowing up. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
+        <comment>_kso_SmartArtPyramid1</comment>
+        <translation>用于显示比例关系、互连关系或层次关系，最大的部分置于底部，向上渐窄。级别 1 文本显示在棱锥段中，级别 2 文本显示在每个段旁边的形状中。</translation>
+    </message>
+    <message>
+        <source>Inverted Pyramid</source>
+        <comment>_kso_SmartArtPyramid3</comment>
+        <translation>倒棱锥图</translation>
+    </message>
+    <message>
+        <source>Use to show proportional, interconnected, or hierarchical relationships with the largest component on the top and narrowing down. Level 1 text appears in the pyramid segments and Level 2 text appears in shapes alongside each segment.</source>
+        <comment>_kso_SmartArtPyramid3</comment>
+        <translation>用于显示比例关系、互连关系或层次关系，最大的部分置于顶端，向下渐窄。级别 1 文本显示在棱锥段中，级别 2 文本显示在每个段旁边的形状中。</translation>
+    </message>
+    <message>
+        <source>Accented Picture</source>
+        <comment>_kso_SmartArtAccentedpicture</comment>
+        <translation>重音图片</translation>
+    </message>
+    <message>
+        <source>Use to show a central, photographic idea with related ideas on the side. The top Level 1 text appears over the central picture. Corresponding text for other Level 1 shapes appear next to the small circular pictures. This layout also works well with no text.</source>
+        <comment>_kso_SmartArtAccentedpicture</comment>
+        <translation>用于居中显示以图片表示的构思，相关的构思显示在旁边。中间的图片上显示最高层的级别 1 文本，其他级别 1 形状对应的文本显示在较小的圆形图片旁。该布局也适用于没有文本的情况。</translation>
+    </message>
+    <message>
+        <source>Circular Picture Callout</source>
+        <comment>_kso_SmartArtCircularpicturecallout</comment>
+        <translation>圆形图片标注</translation>
+    </message>
+    <message>
+        <source>Use to show a central idea and sub-ideas or related items. The text for the first picture covers the lower portion of the picture. The corresponding text for other Level 1 shapes appears next to the small circular pictures. This diagram also works well with no text.</source>
+        <comment>_kso_SmartArtCircularpicturecallout</comment>
+        <translation>用于显示中心构思和子构思或相关项目。第一个图片的文本覆盖图片的下部。其他级别 1 形状对应的文本显示在圆形小图片旁边。该图也适用于没有文本的情况。</translation>
+    </message>
+    <message>
+        <source>Snapshot Picture List</source>
+        <comment>_kso_SmartArtSnapshotpicturelist</comment>
+        <translation>快照图片列表</translation>
+    </message>
+    <message>
+        <source>Use to show pictures with explanatory text. Level 2 text can display lists of information. Works well with a large amount of  text.</source>
+        <comment>_kso_SmartArtSnapshotpicturelist</comment>
+        <translation>用于显示具有说明文本的图片。级别 2 文本可显示信息列表。适用于大量文本。</translation>
+    </message>
+    <message>
+        <source>Spiral Picture</source>
+        <comment>_kso_SmartArtSpiralpicture</comment>
+        <translation>螺旋图</translation>
+    </message>
+    <message>
+        <source>Use to show a series of up to five pictures with corresponding Level 1 captions that spiral in to the center. </source>
+        <comment>_kso_SmartArtSpiralpicture</comment>
+        <translation>用于显示一系列其对应的级别 1 标题旋入中心的多达五个图片。</translation>
+    </message>
+    <message>
+        <source>Captioned Pictures</source>
+        <comment>_kso_SmartArtCaptionedpictures</comment>
+        <translation>题注图片</translation>
+    </message>
+    <message>
+        <source>Use to show pictures with multiple levels of text.  Works best with a small amount of Level 1 text and a medium amount of Level 2 text.</source>
+        <comment>_kso_SmartArtCaptionedpictures</comment>
+        <translation>用于显示具有多级别文本的图片。适用于具有少量级别 1 文本和中等数量级别 2 文本的情况。</translation>
+    </message>
+    <message>
+        <source>Bending Picture Caption</source>
+        <comment>_kso_SmartArtBendingpicturecaption</comment>
+        <translation>蛇形图片题注</translation>
+    </message>
+    <message>
+        <source>Use to show a sequential series of pictures. The box covering the bottom corner can contain small amounts of text.</source>
+        <comment>_kso_SmartArtBendingpicturecaption</comment>
+        <translation>用于按顺序显示一系列图片。覆盖底角的方框可包含少量文本。</translation>
+    </message>
+    <message>
+        <source>Bending Picture Semi-Transparent Text</source>
+        <comment>_kso_SmartArtBendingpicturesemitransparenttext</comment>
+        <translation>蛇形图片半透明文本</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. A semi-transparent box covers the lower portion of the picture and contains all levels of text.</source>
+        <comment>_kso_SmartArtBendingpicturesemitransparenttext</comment>
+        <translation>用于显示一系列图片。一个半透明框覆盖图片下部，包含所有级别的文本。</translation>
+    </message>
+    <message>
+        <source>Bending Picture Blocks</source>
+        <comment>_kso_SmartArtBendingpictureblocks</comment>
+        <translation>蛇形图片块</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. The box covering the bottom corner can contain small amounts of text.</source>
+        <comment>_kso_SmartArtBendingpictureblocks</comment>
+        <translation>用于显示一系列图片。覆盖底角的方框可包含少量文本。</translation>
+    </message>
+    <message>
+        <source>Bending Picture Caption List</source>
+        <comment>_kso_SmartArtBendingpicturecaptionlist</comment>
+        <translation>蛇形图片题注列表</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. The title and description appear in a callout shape under each picture.</source>
+        <comment>_kso_SmartArtBendingpicturecaptionlist</comment>
+        <translation>用于显示一系列图片。标题和描述显示在每张图片的标注形状中。</translation>
+    </message>
+    <message>
+        <source>Titled Picture Blocks</source>
+        <comment>_kso_SmartArtTitledpictureblocks</comment>
+        <translation>标题图片块</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. Level 1 text appears above each picture. Level 2 text appears to the side and slightly overlapping each picture.</source>
+        <comment>_kso_SmartArtTitledpictureblocks</comment>
+        <translation>用于显示一系列图片。级别 1 文本显示在各个图片的上方。级别 2 文本显示在侧面，并与图片稍有重叠。</translation>
+    </message>
+    <message>
+        <source>Picture Grid</source>
+        <comment>_kso_SmartArtPicturegrid</comment>
+        <translation>图片网格</translation>
+    </message>
+    <message>
+        <source>Use to show pictures laid out on a square grid. Best with a small amount of Level 1 text, which appears above the picture.</source>
+        <comment>_kso_SmartArtPicturegrid</comment>
+        <translation>用于在方形网格中显示图片布局。适用于少量级别 1 文本显示在图片上方的情况。</translation>
+    </message>
+    <message>
+        <source>Picture Accent Blocks</source>
+        <comment>_kso_SmartArtPictureaccentblocks</comment>
+        <translation>图片重点块</translation>
+    </message>
+    <message>
+        <source>Use to show a group of pictures in blocks starting from the corner. The corresponding text displays vertically. Works well as an accent on title or sub-title slides or for section breaks of a document.</source>
+        <comment>_kso_SmartArtPictureaccentblocks</comment>
+        <translation>用于从某个角落开始成块显示一组图片。对应的文本垂直显示。适用于强调标题或子标题幻灯片或文档的分节符。</translation>
+    </message>
+    <message>
+        <source>Alternating Picture Circles</source>
+        <comment>_kso_SmartArtAlternatingpicturecircles</comment>
+        <translation>交替图片圆形</translation>
+    </message>
+    <message>
+        <source>Use to show a set of pictures with text. The corresponding text appears in the central circles with the images alternating from left to right.</source>
+        <comment>_kso_SmartArtAlternatingpicturecircles</comment>
+        <translation>用于显示一组带文本的图片。对应的文本显示在居中的圆内，图像可以从左到右显示。</translation>
+    </message>
+    <message>
+        <source>Title Picture Lineup</source>
+        <comment>_kso_SmartArtTitlepicturelineup</comment>
+        <translation>标题图片排列</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures that each have their own title and description. Level 1 text appears in the box above the picture. Level 2 text appears below the picture.</source>
+        <comment>_kso_SmartArtTitlepicturelineup</comment>
+        <translation>用于显示分别有独立标题和描述的一系列图片。级别 1 文本显示在图片上方的方框中，级别 2 文本显示在图片下方。</translation>
+    </message>
+    <message>
+        <source>Picture Lineup</source>
+        <comment>_kso_SmartArtPicturelineup</comment>
+        <translation>图片排列</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures side by side. Level 1 text covers the top of the picture. Level 2 text appears below the picture.</source>
+        <comment>_kso_SmartArtPicturelineup</comment>
+        <translation>用于并排显示一系列图片。级别 1 文本显示在图片顶部，级别 2 文本显示在图片下方。</translation>
+    </message>
+    <message>
+        <source>Framed Text Picture</source>
+        <comment>_kso_SmartArtFramedtextpicture</comment>
+        <translation>带框架的文本图片</translation>
+    </message>
+    <message>
+        <source>Use to show pictures with corresponding Level 1 text displayed in a frame.</source>
+        <comment>_kso_SmartArtFramedtextpicture</comment>
+        <translation>用于显示在图文框中显示的具有对应的级别 1 文本的图片。</translation>
+    </message>
+    <message>
+        <source>Bubble Picture List</source>
+        <comment>_kso_SmartArtBubblepicturelist</comment>
+        <translation>气泡图片列表</translation>
+    </message>
+    <message>
+        <source>Use to show a series of pictures. Can contain up to eight Level 1 pictures. Unused text and pictures do not appear, but remain available if you switch layouts. Works best with small amounts of text.</source>
+        <comment>_kso_SmartArtBubblepicturelist</comment>
+        <translation>用于显示一系列图片。可包含最多八个级别 1 的图片。未使用的文本和图片不显示，但在切换布局时仍可用。适用于少量文本的情况。</translation>
+    </message>
+    <message>
+        <source>Smartart Resource Miss, please try to reinstall WPS to solve this problem.</source>
+        <comment>_kso_SmartArtResourceMiss</comment>
+        <translation>智能图形资源丢失或损坏，请尝试重新安装WPS解决问题。</translation>
     </message>
 </context>
 </TS>

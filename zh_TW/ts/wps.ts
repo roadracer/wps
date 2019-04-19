@@ -1005,6 +1005,10 @@
         <source>Style</source>
         <translation>樣式</translation>
     </message>
+    <message>
+        <source>No Style</source>
+        <translation>(無樣式)</translation>
+    </message>
 </context>
 <context>
     <name>KxAddUsersDlg</name>
@@ -1057,6 +1061,10 @@
     <message>
         <source>Writer</source>
         <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <translation>(無)</translation>
     </message>
 </context>
 <context>
@@ -2221,6 +2229,14 @@ use buttons to apply borders</source>
         <source>shallow vertical line</source>
         <translation type="obsolete">細直線</translation>
     </message>
+    <message>
+        <source>pt</source>
+        <translation>點</translation>
+    </message>
+    <message>
+        <source>A&amp;rt:</source>
+        <translation>花邊(&amp;R):</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgBulletsNumbering</name>
@@ -2290,7 +2306,7 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>None list</source>
-        <translation>無清單</translation>
+        <translation type="obsolete">無清單</translation>
     </message>
     <message>
         <source>O&amp;utline Numbered</source>
@@ -2307,6 +2323,10 @@ use buttons to apply borders</source>
     <message>
         <source>Whole list</source>
         <translation>整份清單</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>刪除(&amp;D)</translation>
     </message>
 </context>
 <context>
@@ -2436,6 +2456,18 @@ use buttons to apply borders</source>
     <message>
         <source>pt, -1, 0, 1584, 1</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>選項</translation>
+    </message>
+    <message>
+        <source>Cell &amp;Fit Text</source>
+        <translation type="obsolete">最適文字大小(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Fit Text</source>
+        <translation>最適文字大小(&amp;F)</translation>
     </message>
 </context>
 <context>
@@ -3400,79 +3432,79 @@ use buttons to apply borders</source>
     <name>KxDlgDocumentFields</name>
     <message>
         <source>DocumentField</source>
-        <translation type="unfinished"></translation>
+        <translation>公文欄位</translation>
     </message>
     <message>
         <source>&amp;Insert</source>
-        <translation type="unfinished">插入(&amp;I)</translation>
+        <translation>插入(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Rename</source>
-        <translation type="unfinished">重新命名(R)</translation>
+        <translation>重新命名(R)</translation>
     </message>
     <message>
         <source>&amp;Go To</source>
-        <translation type="unfinished">到(&amp;G)</translation>
+        <translation>到(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Marks Only</source>
-        <translation type="unfinished"></translation>
+        <translation>保留文字(&amp;M)</translation>
     </message>
     <message>
         <source>Sort by:</source>
-        <translation type="unfinished">排序依據:</translation>
+        <translation>排序依據:</translation>
     </message>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">名稱(&amp;N)</translation>
+        <translation>名稱(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Location</source>
-        <translation type="unfinished">位置(&amp;L)</translation>
+        <translation>位置(&amp;L)</translation>
     </message>
     <message>
         <source>DocumentField Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>公文欄位屬性</translation>
     </message>
     <message>
         <source>&amp;Hidden</source>
-        <translation type="unfinished">隱藏(&amp;H)</translation>
+        <translation>隱藏(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished"></translation>
+        <translation>列印(&amp;P)</translation>
     </message>
     <message>
         <source>Read &amp;Only</source>
-        <translation type="unfinished"></translation>
+        <translation>唯讀(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Apply All</source>
-        <translation type="unfinished"></translation>
+        <translation>套用至所有(&amp;A)</translation>
     </message>
     <message>
         <source>Insertion Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>輸入模式</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Document&amp;Field Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>公文欄位名稱(&amp;F):</translation>
     </message>
     <message>
         <source>When inserted at beginning and end, then &amp;counted in. </source>
-        <translation type="unfinished"></translation>
+        <translation>當在公文欄位首尾位置插入，則屬於公文欄位範圍(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -3831,12 +3863,16 @@ If unnecessary, please click Cancel.</source>
         <source>壹</source>
         <translation></translation>
     </message>
+    <message>
+        <source>√</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgEnvelopeOption</name>
     <message>
         <source>Envelope Options</source>
-        <translation type="obsolete">信封選項</translation>
+        <translation>信封選項</translation>
     </message>
     <message>
         <source>Envelope size:</source>
@@ -3844,7 +3880,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Delivery address</source>
-        <translation type="obsolete">收件者地址</translation>
+        <translation>收件者地址</translation>
     </message>
     <message>
         <source>From top:</source>
@@ -3860,11 +3896,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Return address</source>
-        <translation type="obsolete">寄件者地址</translation>
+        <translation>寄件者地址</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">預覽</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Printing Options</source>
@@ -3872,7 +3908,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Feed method</source>
-        <translation type="obsolete">進紙方式</translation>
+        <translation>進紙方式</translation>
     </message>
     <message>
         <source>Face up</source>
@@ -3896,7 +3932,63 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Printer:</source>
-        <translation type="obsolete">印表機:</translation>
+        <translation>印表機:</translation>
+    </message>
+    <message>
+        <source>&amp;Envelope Options</source>
+        <translation>信封選項</translation>
+    </message>
+    <message>
+        <source>Envelope &amp;size:</source>
+        <translation>信封大小</translation>
+    </message>
+    <message>
+        <source>From &amp;top:</source>
+        <translation>與頂端距離:</translation>
+    </message>
+    <message>
+        <source>From &amp;left:</source>
+        <translation>與左邊距離:</translation>
+    </message>
+    <message>
+        <source>Fro&amp;m left:</source>
+        <translation>與左邊距離:</translation>
+    </message>
+    <message>
+        <source>F&amp;rom top:</source>
+        <translation>與頂端距離:</translation>
+    </message>
+    <message>
+        <source>&amp;Printing Options</source>
+        <translation>列印選項</translation>
+    </message>
+    <message>
+        <source>Face &amp;up</source>
+        <translation>正面向上</translation>
+    </message>
+    <message>
+        <source>Face &amp;down</source>
+        <translation>正面向下</translation>
+    </message>
+    <message>
+        <source>&amp;Clockwise rotation</source>
+        <translation>向右旋轉</translation>
+    </message>
+    <message>
+        <source>&amp;Feed from:</source>
+        <translation>紙張來源:</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>重設(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Font...</source>
+        <translation>字型(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>F&amp;ont...</source>
+        <translation>字型(&amp;O)...</translation>
     </message>
 </context>
 <context>
@@ -3907,7 +3999,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Envelopes</source>
-        <translation type="obsolete">信封</translation>
+        <translation>信封</translation>
     </message>
     <message>
         <source>Delivery address:</source>
@@ -3915,7 +4007,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Add electronic postage</source>
-        <translation type="obsolete">新增電子郵資</translation>
+        <translation>新增電子郵資</translation>
     </message>
     <message>
         <source>Return address:</source>
@@ -3927,11 +4019,11 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="obsolete">預覽</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>Feed</source>
-        <translation type="obsolete">進紙</translation>
+        <translation>進紙</translation>
     </message>
     <message>
         <source>Print</source>
@@ -3955,7 +4047,7 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="obsolete">關閉</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Verify that an envelopes is loaded before printing:</source>
@@ -3967,7 +4059,43 @@ If unnecessary, please click Cancel.</source>
     </message>
     <message>
         <source>Verify that an envelopes is loaded before printing.</source>
-        <translation type="obsolete">列印之前，將信封插入下列的印表機紙匣.</translation>
+        <translation>列印之前，將信封插入下列的印表機紙匣.</translation>
+    </message>
+    <message>
+        <source>&amp;Envelopes</source>
+        <translation>信封及標籤</translation>
+    </message>
+    <message>
+        <source>&amp;Delivery address:</source>
+        <translation>收件者地址:</translation>
+    </message>
+    <message>
+        <source>&amp;Return address:</source>
+        <translation>寄件者地址:</translation>
+    </message>
+    <message>
+        <source>O&amp;mit</source>
+        <translation>省略</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <translation>列印</translation>
+    </message>
+    <message>
+        <source>&amp;Add Document</source>
+        <translation>新增至文件</translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation>選項(&amp;O)</translation>
+    </message>
+    <message>
+        <source>E-pos&amp;tage Properties</source>
+        <translation>電子郵資內容</translation>
+    </message>
+    <message>
+        <source>&amp;Labels</source>
+        <translation>標籤</translation>
     </message>
 </context>
 <context>
@@ -4184,6 +4312,30 @@ If unnecessary, please click Cancel.</source>
     <message>
         <source>Add &amp;path to filename</source>
         <translation>將路徑加到檔名(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Text &amp;Str</source>
+        <translation>新值(&amp;S):</translation>
+    </message>
+    <message>
+        <source>fieldDomainConte&amp;xt</source>
+        <translation>網域內容(&amp;X):</translation>
+    </message>
+    <message>
+        <source>to&amp;oltips</source>
+        <translation>工具提示(&amp;O):</translation>
+    </message>
+    <message>
+        <source>proma&amp;t:</source>
+        <translation>提示(&amp;T):</translation>
+    </message>
+    <message>
+        <source>BookMark&amp;Name:</source>
+        <translation>書籤名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;default response:</source>
+        <translation>對提示的預設反應(&amp;D):</translation>
     </message>
 </context>
 <context>
@@ -6521,7 +6673,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
-        <translation>調整可能包含病毒的檔案安全性，指定信任的巨集開發者名稱。</translation>
+        <translation type="obsolete">調整可能包含病毒的檔案安全性，指定信任的巨集開發者名稱。</translation>
     </message>
     <message>
         <source>Adjust the security level to open files that might contain macro viruses and specify the names of trusted developers.</source>
@@ -6761,7 +6913,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Document ma&amp;p:</source>
-        <translation>文件引導模式(&amp;P):</translation>
+        <translation type="obsolete">文件引導模式(&amp;P):</translation>
     </message>
     <message>
         <source>Document passw&amp;ord:</source>
@@ -6862,7 +7014,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Formatted text</source>
-        <translation>保持來源格式設定</translation>
+        <translation type="obsolete">保持來源格式設定</translation>
     </message>
     <message>
         <source>Formatting marks</source>
@@ -6874,7 +7026,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Free printing</source>
-        <translation>自由列印</translation>
+        <translation type="obsolete">自由列印</translation>
     </message>
     <message>
         <source>Front of the &amp;sheet</source>
@@ -6906,7 +7058,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished">幫助我們改進產品。</translation>
+        <translation type="obsolete">幫助我們改進產品。</translation>
     </message>
     <message>
         <source>Hidden</source>
@@ -7006,7 +7158,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation>低品質列印</translation>
+        <translation type="obsolete">低品質列印</translation>
     </message>
     <message>
         <source>Macro &amp;Security...</source>
@@ -7014,11 +7166,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Macro security</source>
-        <translation>巨集安全性</translation>
+        <translation type="obsolete">巨集安全性</translation>
     </message>
     <message>
         <source>Macros &amp;Security...</source>
-        <translation>巨集安全性(&amp;S)...</translation>
+        <translation type="obsolete">巨集安全性(&amp;S)...</translation>
     </message>
     <message>
         <source>Make hidden markup &amp;visible when opening or saving</source>
@@ -7146,7 +7298,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>P&amp;rinting permission</source>
-        <translation>列印權限(&amp;R)</translation>
+        <translation type="obsolete">列印權限(&amp;R)</translation>
     </message>
     <message>
         <source>Paragraph &amp;marks</source>
@@ -7170,19 +7322,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Permission settings</source>
-        <translation>權限設定 (設定權限密碼後生效)</translation>
+        <translation type="obsolete">權限設定 (設定權限密碼後生效)</translation>
     </message>
     <message>
         <source>Permit to add co&amp;mments</source>
-        <translation>允許新增註解(&amp;M)</translation>
+        <translation type="obsolete">允許新增註解(&amp;M)</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation>允許複製(&amp;Y)</translation>
+        <translation type="obsolete">允許複製(&amp;Y)</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation>允許修改(&amp;D)</translation>
+        <translation type="obsolete">允許修改(&amp;D)</translation>
     </message>
     <message>
         <source>Points</source>
@@ -7230,7 +7382,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation>不允許列印</translation>
+        <translation type="obsolete">不允許列印</translation>
     </message>
     <message>
         <source>Printing options</source>
@@ -7522,7 +7674,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
-        <translation>ch, 0, 0, 120, 1</translation>
+        <translation type="obsolete">ch, 0, 0, 120, 1</translation>
     </message>
     <message>
         <source>default &amp;paragraph style:</source>
@@ -7530,11 +7682,11 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>mi&amp;nutes</source>
-        <translation>分鐘(&amp;N)</translation>
+        <translation type="obsolete">分鐘(&amp;N)</translation>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
-        <translation>pt, 0, 0, 898.75, 1</translation>
+        <translation type="obsolete">pt, 0, 0, 898.75, 1</translation>
     </message>
     <message>
         <source>Set default target out&amp;put to:</source>
@@ -7558,7 +7710,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>F&amp;onts Preview Box</source>
-        <translation>字體預覽框（&amp;O）</translation>
+        <translation type="obsolete">字體預覽框（&amp;O）</translation>
     </message>
     <message>
         <source>AutoNumber</source>
@@ -7610,7 +7762,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation type="unfinished"></translation>
+        <translation>公文欄位標記(&amp;O)</translation>
     </message>
     <message>
         <source>Compatibility options</source>
@@ -7626,19 +7778,19 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation>訂閱 WPS 熱點</translation>
+        <translation type="obsolete">訂閱 WPS 熱點</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation>當日顯示(&amp;V)</translation>
+        <translation type="obsolete">當日顯示(&amp;V)</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation>一周後顯示(&amp;Y)</translation>
+        <translation type="obsolete">一周後顯示(&amp;Y)</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation>不要再顯示(&amp;A)</translation>
+        <translation type="obsolete">不要再顯示(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Font Preview Label</source>
@@ -7662,7 +7814,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;如何去除其他廣告？了解新的變化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;如何去除其他廣告？了解新的變化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -7670,23 +7822,23 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="obsolete">加入使用者經歷改進計劃，以幫助改進和完善 WPS Office。</translation>
+        <translation>加入使用者經歷改進計劃，以幫助改進和完善 WPS Office。</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="obsolete">語言</translation>
+        <translation>語言</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
-        <translation type="obsolete">自動下載與更新語言套件</translation>
+        <translation>自動下載與更新語言套件</translation>
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="obsolete">選擇顯示與說明語言</translation>
+        <translation>選擇顯示與說明語言</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="obsolete">選擇...</translation>
+        <translation>選擇...</translation>
     </message>
     <message>
         <source>&amp;FontPreview Label</source>
@@ -7718,11 +7870,263 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="obsolete">快速鍵</translation>
+        <translation>快速鍵</translation>
     </message>
     <message>
         <source>Custom Shortcuts:</source>
-        <translation type="obsolete">自訂快速鍵:</translation>
+        <translation>自訂快速鍵:</translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
+        <translation>快速鍵(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translation>功能區選項</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translation>按兩下標籤隱藏功能區(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translation>備份設定</translation>
+    </message>
+    <message>
+        <source>&amp;minutes</source>
+        <translation>分鐘</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translation>檢視備份檔案(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translation>硬體加密</translation>
+    </message>
+    <message>
+        <source>ch, 0, 0, 720, 1</source>
+        <translation>ch, 0, 0, 720, 1</translation>
+    </message>
+    <message>
+        <source>WhenSelected</source>
+        <translation>選取時顯示</translation>
+    </message>
+    <message>
+        <source>Do not &amp;use indent as numbering tabstop</source>
+        <translation>不使用首行凸排做為項目符號及編號的定位停駐點(&amp;U)</translation>
+    </message>
+    <message>
+        <source>No tab hang &amp;indent</source>
+        <translation>不要為首行凸排新增自動定位停駐點(&amp;I)</translation>
+    </message>
+    <message>
+        <source>This option is used for &quot;Print space of hidden text&quot; only.</source>
+        <translation>只有當您使用[列印隱藏文字]選項時才能套用。</translation>
+    </message>
+    <message>
+        <source>Print under&amp;line of hidden text</source>
+        <translation>列印隱藏文字的底線(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Double click tab to Clos&amp;e Documemt</source>
+        <translation>按二下標籤關閉文件(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Replace text as you type:</source>
+        <translation>自動取代字串(&amp;T)</translation>
+    </message>
+    <message>
+        <source>option</source>
+        <translation type="obsolete">選項</translation>
+    </message>
+    <message>
+        <source>&amp;Option</source>
+        <translation type="obsolete">選項</translation>
+    </message>
+    <message>
+        <source>Show c&amp;rop marks</source>
+        <translation>顯示裁剪標記(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Option…</source>
+        <translation type="obsolete">選項(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>登入</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation>)</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation>(</translation>
+    </message>
+    <message>
+        <source>Need Login</source>
+        <translation>請先登入再設定</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;檔案路徑:雲端檔案\我的雲端檔案\自動上傳檔案&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Set auto roaming &amp;mode and save file to cloud</source>
+        <translation>啟用自動漫遊以備份文件至雲端(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Option...</source>
+        <translation>選項(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>格式</translation>
+    </message>
+    <message>
+        <source>Format(&amp;J):</source>
+        <translation>格式(&amp;J):</translation>
+    </message>
+    <message>
+        <source>Track format setting(&amp;K)</source>
+        <translation>追蹤格式(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Set left- and first-indent with tabs and bac&amp;kspaces </source>
+        <translation>使用 Tab 和 Backspace 設定左邊縮排和第一層縮排(&amp;K)</translation>
+    </message>
+    <message>
+        <source>Draw underline on trailing &amp;spaces</source>
+        <translation>將行尾的空格畫上底線(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Enter header or footer tip (&amp;Q)</source>
+        <translation>進入頁首頁尾提示(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>Print &amp;background colors and images</source>
+        <translation>列印背景色彩及影像(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>備份中心</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 898.75, 1</source>
+        <translation>pt, 2, 0, 898.75, 1</translation>
+    </message>
+    <message>
+        <source>&amp;Using this user information</source>
+        <translation>在修訂時使用此使用者資訊(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Default HomePage(&amp;Y):</source>
+        <translation>預設首頁(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation>我的 WPS</translation>
+    </message>
+    <message>
+        <source>My CloudDocument</source>
+        <translation>雲端檔案</translation>
+    </message>
+    <message>
+        <source>Display &quot;autoco&amp;mplete&quot; tips</source>
+        <translation>顯示自動完成的建議(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Lay &amp;out footnotes the way Word6.x/95/97 does</source>
+        <translation type="obsolete">以 Word 6.x/95/97 的方式配置註腳(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Show &amp;plain watermark</source>
+        <translation>明文浮水印(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Password &amp;hint:</source>
+        <translation>密碼提示(&amp;H):</translation>
+    </message>
+    <message>
+        <source>Remove persona&amp;l information from file properties on save</source>
+        <translation>存檔時自檔案摘要資訊中移除個人資訊(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Adjust line height to grid height in the ta&amp;ble</source>
+        <translation>將表格中的列高調整至格線高度(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Keep Source Formating</source>
+        <translation>保留來源格式</translation>
+    </message>
+    <message>
+        <source>Pasting between documents when st&amp;yles conflict:</source>
+        <translation>跨檔案貼上時，如果樣式定義衝突(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>Use Destination Styles</source>
+        <translation>使用目的位置的樣式</translation>
+    </message>
+    <message>
+        <source>Click the b&amp;ox to tick</source>
+        <translation>按一下方塊以打勾(&amp;O)</translation>
+    </message>
+    <message>
+        <source>ScreenSaver Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Live Pre&amp;view</source>
+        <translation>啟用即時預覽(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Account encryption</source>
+        <translation>賬戶加密</translation>
+    </message>
+    <message>
+        <source>Use WPS account to encrypt files, simple, convenient, safe and reliable! Colleagues can restrict designated users to use the document</source>
+        <translation>使用WPS賬戶加密檔案，簡單、便捷、安全、可靠，同時可限制其他用戶對文件的使用權限。</translation>
+    </message>
+    <message>
+        <source>Document icon</source>
+        <translation>文件圖示</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>文件名稱</translation>
+    </message>
+    <message>
+        <source>Use account encryption</source>
+        <translation>使用賬戶加密</translation>
+    </message>
+    <message>
+        <source>Navigation &amp;Pane:</source>
+        <translation>導覽窗格(&amp;P):</translation>
+    </message>
+    <message>
+        <source>F&amp;ont Substitution...</source>
+        <translation>字型替代(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>comments and revisions au&amp;thor:</source>
+        <translation>註解及修訂的檢閱者(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Print full name</source>
+        <translation>列印全名</translation>
+    </message>
+    <message>
+        <source>Print initials</source>
+        <translation>列印縮寫</translation>
+    </message>
+    <message>
+        <source>Do not print</source>
+        <translation>不列印</translation>
+    </message>
+    <message>
+        <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
+        <translation>以Word 6.x/95/97的方式配置註腳(&amp;O)</translation>
     </message>
 </context>
 <context>
@@ -8447,7 +8851,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Multiple, 2, 0.06, 132, 0.5</source>
-        <translation>多行</translation>
+        <translation type="obsolete">多行</translation>
     </message>
     <message>
         <source>Page &amp;break before</source>
@@ -8528,6 +8932,18 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>pt, 2, 0, 1584, 6</source>
         <translation>pt, 2, 0, 1584, 6</translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Thai Distributed</source>
+        <translation>泰文式分散對齊</translation>
+    </message>
+    <message>
+        <source>&amp;Set As Default</source>
+        <translation>設為預設(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -8786,6 +9202,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>How to solve problems of the printer?</source>
         <translation>如何解決印表機的問題？</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>新增接收者(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -9861,23 +10281,23 @@ check the maintain compatibility checkbox.</source>
     <name>KxDocumentFieldsDlg</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>The document field with this name has already existed. Do you want to cover it?</source>
-        <translation type="unfinished"></translation>
+        <translation>已存在使用此名稱的公文欄位，要覆寫嗎？</translation>
     </message>
     <message>
         <source>The name of the document field is illegal.</source>
-        <translation type="unfinished"></translation>
+        <translation>公文欄位名稱不合法。</translation>
     </message>
     <message>
         <source>The name of the document field has already existed, please rename it!</source>
-        <translation type="unfinished"></translation>
+        <translation>此公文欄位名稱已存在，請重新命名。</translation>
     </message>
 </context>
 <context>
@@ -9992,15 +10412,15 @@ check the maintain compatibility checkbox.</source>
     <name>KxEnvelopeOptionDlg</name>
     <message>
         <source>Use printer setting</source>
-        <translation type="obsolete">使用印表機設定</translation>
+        <translation>使用印表機設定</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="obsolete">確定</translation>
+        <translation>確定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="obsolete">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>You have changed WPS&apos;s default envelope handing method for this printer. These changes could be incorrect. Choose Reset to return to WPS defaults.</source>
@@ -10013,16 +10433,28 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>You have changed WPS Writer&apos;s default envelope handling method for this printer. These changes could be incorrect. Choose Reset to return to WPS Writer defaults.</source>
-        <translation type="obsolete">您已經改變 WPS Writer 在此印表機之預設信封控制方式 這些變更並不正確。請選擇 [重設] 以恢復 WPS 預設值。</translation>
+        <translation>您已經改變 WPS Writer 在此印表機之預設信封控制方式 這些變更並不正確。請選擇 [重設] 以恢復 WPS 預設值。</translation>
     </message>
     <message>
         <source>WPS Writer recommends feeding envelopes as shown above. If this method does not work for your printer, select the correct feed method.</source>
-        <translation type="obsolete">WPS Writer 建議如上放入信封。
+        <translation>WPS Writer 建議如上放入信封。
 若此方法不適用於您的印表機，請選擇正確的送紙方式。</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="obsolete">自動</translation>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>自訂</translation>
+    </message>
+    <message>
+        <source>Envelope Address</source>
+        <translation>收件人地址</translation>
+    </message>
+    <message>
+        <source>Envelope Return Address</source>
+        <translation>寄件人地址</translation>
     </message>
 </context>
 <context>
@@ -10030,6 +10462,14 @@ check the maintain compatibility checkbox.</source>
     <message>
         <source>Change Document</source>
         <translation type="obsolete">更改文件</translation>
+    </message>
+    <message>
+        <source>Ch&amp;ange Document</source>
+        <translation>更改文件</translation>
+    </message>
+    <message>
+        <source>Do you want to save the new return address as the default return address?</source>
+        <translation>是否要將新的寄件者地址儲存為預設地址?</translation>
     </message>
 </context>
 <context>
@@ -10063,90 +10503,90 @@ check the maintain compatibility checkbox.</source>
     <name>KxExportToOFDDlg</name>
     <message>
         <source>Please input the password of permission setting!</source>
-        <translation type="unfinished">請輸入權限設定密碼!</translation>
+        <translation>請輸入權限設定密碼!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation type="unfinished">確認密碼不相符。</translation>
+        <translation>確認密碼不相符。</translation>
     </message>
     <message>
         <source>Permission Password and Document Open Password must be different.</source>
-        <translation type="unfinished">權限設定密碼和文件開啟密碼不能相同。</translation>
+        <translation>權限設定密碼和文件開啟密碼不能相同。</translation>
     </message>
     <message>
         <source>Please specify the file name.</source>
-        <translation type="unfinished">請指定檔案名稱。</translation>
+        <translation>請指定檔案名稱。</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation type="unfinished">檔案與此目錄具有相同的名稱。</translation>
+        <translation>檔案與此目錄具有相同的名稱。</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation type="unfinished">指定的目錄不存在。</translation>
+        <translation>指定的目錄不存在。</translation>
     </message>
     <message>
         <source>You have no permission to write files into this directory.</source>
-        <translation type="unfinished">您無權在此目錄中寫入檔案。</translation>
+        <translation>您無權在此目錄中寫入檔案。</translation>
     </message>
     <message>
         <source>Save OFD File As</source>
-        <translation type="unfinished"></translation>
+        <translation>另存 OFD 檔案為</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd|All File(*.*)|*.*</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD 檔案 (*.ofd)|*.ofd|所有檔案(*.*)|*.*</translation>
     </message>
     <message>
         <source>The file you specified already exists. Are you sure to replace the existing file?</source>
-        <translation type="unfinished">您指定的檔案已存在，是否要取代現有檔案並繼續?</translation>
+        <translation>您指定的檔案已存在，是否要取代現有檔案並繼續?</translation>
     </message>
     <message>
         <source>This is not a valid page range.</source>
-        <translation type="unfinished">並非有效的頁面範圍。</translation>
+        <translation>並非有效的頁面範圍。</translation>
     </message>
 </context>
 <context>
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在準備匯出 OFD 檔案...</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟 OFD 檔案時發生錯誤!</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD 轉換器可能有記憶體配置問題，請縮小文件大小或者圖片大小。</translation>
     </message>
     <message>
         <source>WPS Writer encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 OFD 檔案的過程中發生錯誤!</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">關閉</translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">正在匯出摘要資訊...</translation>
+        <translation>正在匯出摘要資訊...</translation>
     </message>
     <message>
         <source>Exporting page %1...</source>
-        <translation type="unfinished">正在處理第 %1 頁...</translation>
+        <translation>正在處理第 %1 頁...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">正在匯出標籤...</translation>
+        <translation>正在匯出標籤...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在完成...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出完成。</translation>
     </message>
 </context>
 <context>
@@ -10215,6 +10655,30 @@ check the maintain compatibility checkbox.</source>
         <source>This is not a valid page range.</source>
         <translation>並非有效的頁面範圍。</translation>
     </message>
+    <message>
+        <source>failed to write distribution log!</source>
+        <translation>寫分發記錄失敗。</translation>
+    </message>
+    <message>
+        <source>The dirrectory name is the same as an existing file.</source>
+        <translation>資料夾與此目錄下的檔案具有相同的名稱。</translation>
+    </message>
+    <message>
+        <source>The directory you specified already have some files exists. Are you sure to replace the existing file?</source>
+        <translation>您指定的目錄下已有檔案存在。要覆寫這些檔案并繼續嗎？</translation>
+    </message>
+    <message>
+        <source>The directory you specified already have some files cannot be write. please specify the other file name.</source>
+        <translation>您指定的目錄下已有檔案存在並且正在被使用中。請指定另外的目錄。</translation>
+    </message>
+    <message>
+        <source>Edit receiver(&amp;R)</source>
+        <translation>編輯接收者(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>新增接收者(&amp;R)</translation>
+    </message>
 </context>
 <context>
     <name>KxExportToPDFProgressDlg</name>
@@ -10269,6 +10733,14 @@ check the maintain compatibility checkbox.</source>
     <message>
         <source>WPS Writer encountered an error while trying exporting to PDF.</source>
         <translation>匯出 PDF 檔案的過程中發生錯誤!</translation>
+    </message>
+    <message>
+        <source>receiver%1.pdf</source>
+        <translation>接收者%1.pdf</translation>
+    </message>
+    <message>
+        <source>receiverlist.pdf</source>
+        <translation>接收者清單.pdf</translation>
     </message>
 </context>
 <context>
@@ -10526,31 +10998,31 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished">/</translation>
+        <translation>/</translation>
     </message>
     <message>
         <source>root directory</source>
-        <translation type="unfinished"></translation>
+        <translation>根目錄</translation>
     </message>
     <message>
         <source>D:\\</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>D drive</source>
-        <translation type="unfinished"></translation>
+        <translation>D 磁碟機</translation>
     </message>
     <message>
         <source>Presume the KingSoft.wps is in %1. Field code:HYPERLINK %2KingSoft.wps</source>
-        <translation type="unfinished"></translation>
+        <translation>假設 %1 有 KingSoft.wps 檔案。功能變數代碼: HYPERLINK &quot;%2Kingsoft.wps&quot;</translation>
     </message>
     <message>
         <source>Open and activate the file KingSoft.wps under the %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟並啟動 %1 下的 KingSoft.wps 檔案。</translation>
     </message>
     <message>
         <source>Presume a picture&apos;s url is &quot;%1WPS.jpg&quot;.Field code:INCLUDEPICTURE &quot;%2WPS.jpg&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>假定圖片的路徑為&quot;%1WPS.jpg&quot;.功能變數代碼:&quot;INCLUDEPICTURE &quot;%2WPS.jpg&quot;</translation>
     </message>
     <message>
         <source>Presume the file name of this document is &quot;Doc1.doc&quot;. Field code: FILENAME</source>
@@ -10574,7 +11046,7 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Presume a file&apos;s url is &quot;%1wps.doc&quot;. Field code:INCLUDETEXT &quot;%2wps.doc&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>假定檔案的路徑為[%1wps.doc]. 功能變數代碼:INCLUDETEXT &quot;%2wps.doc&quot;</translation>
     </message>
     <message>
         <source>Insert Text</source>
@@ -10626,19 +11098,87 @@ check the maintain compatibility checkbox.</source>
     </message>
     <message>
         <source>Presume the file path of this document is</source>
-        <translation type="unfinished"></translation>
+        <translation>假定檔案路徑爲:</translation>
     </message>
     <message>
         <source>Field code:</source>
-        <translation type="unfinished"></translation>
+        <translation>功能變數代碼:</translation>
     </message>
     <message>
         <source>Link</source>
-        <translation type="unfinished"></translation>
+        <translation>連結</translation>
     </message>
     <message>
         <source>Insert part of a file by using OLE</source>
-        <translation type="unfinished"></translation>
+        <translation>使用 OLE 插入部份檔案</translation>
+    </message>
+    <message>
+        <source>Presume there are captions from Figure 1 to Figure 3. Field code:TOC \h \z \c &quot;Figure&quot;</source>
+        <translation>假設檔案中存在圖表1至圖表3標題。功能變數代碼: TOC \h \c &quot;圖表&quot;</translation>
+    </message>
+    <message>
+        <source>Figure</source>
+        <translation>圖表</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>Presume the AutoText of this document is AUTOTEXT autotext. Field code: AUTOTEXT autotext</source>
+        <translation>假設檔案中存在自動圖文集autotext。功能變數代碼: AUTOTEXT autotext</translation>
+    </message>
+    <message>
+        <source>AutoText</source>
+        <translation>自動圖文集</translation>
+    </message>
+    <message>
+        <source>Insert an AutoText entry</source>
+        <translation>插入自動圖文集項目</translation>
+    </message>
+    <message>
+        <source>Presume the AutoTextlist of this document is AUTOTEXTLIST autotextlist. Field code: AUTOTEXTLIST autotextlist</source>
+        <translation>假設檔案中存在自動圖文集清單autotextlist。功能變數代碼: AUTOTEXTLIST autotextlist</translation>
+    </message>
+    <message>
+        <source>AutoTextList</source>
+        <translation>自動圖文集清單</translation>
+    </message>
+    <message>
+        <source>Insert text based on style</source>
+        <translation>根據樣式插入文字</translation>
+    </message>
+    <message>
+        <source>Presume the set of this document is SET set. Field code: SET set</source>
+        <translation>假設檔案中存在書籤set。功能變數代碼: SET set</translation>
+    </message>
+    <message>
+        <source>Specify new text for bookmarks</source>
+        <translation>為書籤指定新文字</translation>
+    </message>
+    <message>
+        <source>Presume the ask of this document is ASK ask. Field code: ASK ask</source>
+        <translation>假設檔案中存在書籤ask。功能變數代碼: ASK ask</translation>
+    </message>
+    <message>
+        <source>Prompt the user to specify a bookmark</source>
+        <translation>提示使用者指定書籤文字</translation>
+    </message>
+    <message>
+        <source>AutoText&amp;Name:</source>
+        <translation>自動圖文集名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Newv&amp;alue:</source>
+        <translation>新值(&amp;A):</translation>
+    </message>
+    <message>
+        <source>BookMark&amp;Name:</source>
+        <translation>書籤名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>BookMark&amp;Text:</source>
+        <translation>文字(&amp;T):</translation>
     </message>
 </context>
 <context>
@@ -11299,6 +11839,10 @@ check the maintain compatibility checkbox.</source>
         <source>， Match Byte</source>
         <translation type="obsolete">,全半形須相符</translation>
     </message>
+    <message>
+        <source>&amp;Clipboard Contents</source>
+        <translation>[剪貼簿] 內容(&amp;C)</translation>
+    </message>
 </context>
 <context>
     <name>KxFindStyleDlg</name>
@@ -11662,6 +12206,10 @@ This change will affect all the new documents based on the %1 template.</source>
     <message>
         <source>Vietnamese</source>
         <translation>越南文</translation>
+    </message>
+    <message>
+        <source>Thai (Thailand)</source>
+        <translation>泰文 (泰國)</translation>
     </message>
 </context>
 <context>
@@ -12102,6 +12650,10 @@ This change will affect all the new documents based on the %1 template.</source>
         <source>WPS Writer cannot merge documents that can be distributed by mail without a valid mail address.</source>
         <translation>沒有確定的電子郵件地址，WPS Office 無法合併由郵件傳送的文件。</translation>
     </message>
+    <message>
+        <source>HTML</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxMergeToNewDocOrPrinterDlg</name>
@@ -12311,7 +12863,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation>無</translation>
+        <translation type="obsolete">無</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -12714,7 +13266,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>None</source>
-        <translation>無</translation>
+        <translation type="obsolete">無</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -13004,7 +13556,7 @@ Cancel:	Return to the dialog.</source>
     </message>
     <message>
         <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
-        <translation>調整巨集安全性時發生錯誤，可能是由於您沒有安裝 VBA 環境。</translation>
+        <translation type="obsolete">調整巨集安全性時發生錯誤，可能是由於您沒有安裝 VBA 環境。</translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -13025,6 +13577,34 @@ Cancel:	Return to the dialog.</source>
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>快速存取工具列</translation>
+    </message>
+    <message>
+        <source>Customize Ribbon</source>
+        <translation>自訂功能區</translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation>通知</translation>
+    </message>
+    <message>
+        <source>Trust Center</source>
+        <translation>信任中心</translation>
+    </message>
+    <message>
+        <source>All Opened Documents</source>
+        <translation>所有已開啟文件</translation>
+    </message>
+    <message>
+        <source>Advanced authorization</source>
+        <translation>進階授權</translation>
+    </message>
+    <message>
+        <source>Document ma&amp;p:</source>
+        <translation>文件引導模式(&amp;P):</translation>
     </message>
 </context>
 <context>
@@ -13331,6 +13911,18 @@ This change will affect all new documents based on the %1 template.</source>
         <source>This is not a valid measurement.</source>
         <translation type="obsolete">這是無效的度量單位。</translation>
     </message>
+    <message>
+        <source>Line spacing must be at least %1 %2.</source>
+        <translation type="obsolete">行距必須至少為 %1 %2。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between %1 %3 and %2 %3.</source>
+        <translation type="obsolete">度量值必須介於 %1 %3 和 %2 %3 之間。</translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation type="obsolete">變更失敗，Normal 範本被占用。</translation>
+    </message>
 </context>
 <context>
     <name>KxPhoneticGuideDlg</name>
@@ -13385,6 +13977,22 @@ This change will affect all new documents based on the %1 template.</source>
         <source>The printer &quot;%1&quot; returned an error!</source>
         <translation type="obsolete">印表機 &quot;%1&quot; 傳回錯誤!</translation>
     </message>
+    <message>
+        <source>failed to write distribution log!</source>
+        <translation>寫分發記錄失敗。</translation>
+    </message>
+    <message>
+        <source>Edit receiver(&amp;R)</source>
+        <translation>編輯接收者(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>新增接收者(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Print permissions error!</source>
+        <translation>列印權限錯誤</translation>
+    </message>
 </context>
 <context>
     <name>KxProtectDocumentDlg</name>
@@ -13424,15 +14032,15 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Edit Section Name</source>
-        <translation>編輯章節名稱</translation>
+        <translation type="obsolete">編輯章節名稱</translation>
     </message>
     <message>
         <source>Insert Section After</source>
-        <translation>插入節在後</translation>
+        <translation type="obsolete">插入節在後</translation>
     </message>
     <message>
         <source>Insert Section Before</source>
-        <translation>插入節在前</translation>
+        <translation type="obsolete">插入節在前</translation>
     </message>
     <message>
         <source>InsertSectionAfter</source>
@@ -13449,6 +14057,18 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>MergeToPrevious</source>
         <translation type="obsolete">合併到上一節</translation>
+    </message>
+    <message>
+        <source>Add Section</source>
+        <translation>新增章節</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>重新命名</translation>
+    </message>
+    <message>
+        <source>Merge to</source>
+        <translation>合併至</translation>
     </message>
 </context>
 <context>
@@ -13495,6 +14115,14 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Modify page number</source>
         <translation>修改頁碼</translation>
+    </message>
+    <message>
+        <source>Rebuild page number</source>
+        <translation>重啟頁碼</translation>
+    </message>
+    <message>
+        <source>Page number format</source>
+        <translation>頁碼格式</translation>
     </message>
 </context>
 <context>
@@ -14327,6 +14955,10 @@ to a Word XML document.</source>
         <source>Words</source>
         <translation>字數</translation>
     </message>
+    <message>
+        <source>Include textboxs,&amp;footnotes and endnotes</source>
+        <translation>包含文字方塊、註腳及章節附註(&amp;F)</translation>
+    </message>
 </context>
 <context>
     <name>KxWps3DColorModel</name>
@@ -14344,6 +14976,11 @@ to a Word XML document.</source>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation>插入的圖案顯示不完全,你要依圖案的大小自動調整行距嗎？</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14385,7 +15022,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Document Bookmark:</source>
-        <translation>文件書籤:</translation>
+        <translation>文件書籤</translation>
     </message>
     <message>
         <source>Document bookmarks:</source>
@@ -14462,6 +15099,22 @@ to a Word XML document.</source>
     <message>
         <source>Whether to delete all bookmarks?</source>
         <translation type="obsolete">是否刪除全部書籤?</translation>
+    </message>
+    <message>
+        <source>&amp;DeleteTheBk</source>
+        <translation>刪除此書籤(D)</translation>
+    </message>
+    <message>
+        <source>Delete&amp;AllBk</source>
+        <translation>刪除所有書籤(A)</translation>
+    </message>
+    <message>
+        <source>&amp;Show Bookmark</source>
+        <translation>顯示書籤標記(S)</translation>
+    </message>
+    <message>
+        <source>&amp;Hide Bookmark</source>
+        <translation>隱藏書籤標記(H)</translation>
     </message>
 </context>
 <context>
@@ -14651,6 +15304,10 @@ to a Word XML document.</source>
     <message>
         <source>Picture</source>
         <translation>圖片</translation>
+    </message>
+    <message>
+        <source>Update Table...</source>
+        <translation>更新目錄...</translation>
     </message>
 </context>
 <context>
@@ -15441,7 +16098,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Show even page header line(&amp;C)</source>
-        <translation>顯示偶數頁頁首橫線</translation>
+        <translation>顯示偶數頁頁首橫線(&amp;C)</translation>
     </message>
     <message>
         <source>Show first page hea&amp;der line</source>
@@ -15461,7 +16118,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Show odd page header line(&amp;B)</source>
-        <translation>顯示奇數頁頁首橫線</translation>
+        <translation>顯示奇數頁頁首橫線(&amp;B)</translation>
     </message>
     <message>
         <source>Surround &amp;footer</source>
@@ -15756,6 +16413,10 @@ to a Word XML document.</source>
         <source>No Color</source>
         <translation>無填滿</translation>
     </message>
+    <message>
+        <source>No Background</source>
+        <translation>無填滿</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsFontColorModel</name>
@@ -15768,105 +16429,105 @@ to a Word XML document.</source>
     <name>KxWpsFontDlg</name>
     <message>
         <source>(Use Asian text font)</source>
-        <translation type="unfinished">(使用中文字型)</translation>
+        <translation>(使用中文字型)</translation>
     </message>
     <message>
         <source>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</source>
-        <translation type="unfinished">5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
+        <translation>5 5.5 6.5 7.5 8 9 10 10.5 11 12 14 16 18 20 22 24 26 28 36 48 72</translation>
     </message>
     <message>
         <source>This is a TrueType font. This font will be used on both your printer and your screen.</source>
-        <translation type="unfinished">此為 TrueType 字型，該字型可用於印表機列印與螢幕顯示。</translation>
+        <translation>此為 TrueType 字型，該字型可用於印表機列印與螢幕顯示。</translation>
     </message>
     <message>
         <source>This font has not been installed. The most similar available font will be printed.</source>
-        <translation type="unfinished">尚未安裝此字型。列印時將採用最相近的有效字型。</translation>
+        <translation>尚未安裝此字型。列印時將採用最相近的有效字型。</translation>
     </message>
     <message>
         <source>+Heading Asian</source>
-        <translation type="unfinished">+標題中文字型</translation>
+        <translation>+標題中文字型</translation>
     </message>
     <message>
         <source>+Body Asian</source>
-        <translation type="unfinished">+本文中文字型</translation>
+        <translation>+本文中文字型</translation>
     </message>
     <message>
         <source>+Heading</source>
-        <translation type="unfinished">+標題</translation>
+        <translation>+標題</translation>
     </message>
     <message>
         <source>+Body</source>
-        <translation type="unfinished">+本文</translation>
+        <translation>+本文</translation>
     </message>
     <message>
         <source>Not Italic</source>
-        <translation type="unfinished">非斜體</translation>
+        <translation>非斜體</translation>
     </message>
     <message>
         <source>Not Bold</source>
-        <translation type="unfinished">非粗體</translation>
+        <translation>非粗體</translation>
     </message>
     <message>
         <source>Latin text &amp;font:</source>
-        <translation type="unfinished">英文字型(&amp;X):</translation>
+        <translation>英文字型(&amp;X):</translation>
     </message>
     <message>
         <source>Asian text fo&amp;nt:</source>
-        <translation type="unfinished">中文字型(&amp;T):</translation>
+        <translation>中文字型(&amp;T):</translation>
     </message>
     <message>
         <source>Regular</source>
-        <translation type="unfinished">標準</translation>
+        <translation>標準</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">斜體</translation>
+        <translation>斜體</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">粗體</translation>
+        <translation>粗體</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished">粗體 斜體</translation>
+        <translation>粗體 斜體</translation>
     </message>
     <message>
         <source>(None)</source>
-        <translation type="unfinished">(無)</translation>
+        <translation>(無)</translation>
     </message>
     <message>
         <source>The font %1 is not available on your system. The text will be shown in a substitute font. Do yo want to use it anyway?</source>
-        <translation type="unfinished">您的系統沒有 %1 字型，因此顯示的是替代字型，仍要使用該字型嗎?</translation>
+        <translation>您的系統沒有 %1 字型，因此顯示的是替代字型，仍要使用該字型嗎?</translation>
     </message>
     <message>
         <source>The number must be between %1 and %2.</source>
-        <translation type="unfinished">數字必須介於 %1 和 %2 之間。</translation>
+        <translation>數字必須介於 %1 和 %2 之間。</translation>
     </message>
     <message>
         <source>This is not a valid number.</source>
-        <translation type="unfinished"></translation>
+        <translation>這不是一個正確的號碼。</translation>
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished">字型樣式名稱不存在。</translation>
+        <translation>字型樣式名稱不存在。</translation>
     </message>
     <message>
         <source>Do you want to change the default settings for font?
 This change will affect all new documents based on the %1 template.</source>
-        <translation type="unfinished">您要變更預設的字型設定嗎?
+        <translation>您要變更預設的字型設定嗎?
 此變更將影響所有以 %1 為範本的新文件。</translation>
     </message>
     <message>
         <source>Save failed. Normal Template is occupied.</source>
-        <translation type="unfinished">變更失敗，Normal 範本被占用。</translation>
+        <translation>變更失敗，Normal 範本被占用。</translation>
     </message>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>這是無效的度量單位。</translation>
     </message>
     <message>
         <source>Measurement must be between %1 pt and %2 pt</source>
-        <translation type="unfinished">度量值必須介於 %1 點 和 %2 點之間。</translation>
+        <translation>度量值必須介於 %1 點 和 %2 點之間。</translation>
     </message>
 </context>
 <context>
@@ -15993,7 +16654,7 @@ This change will affect all new documents based on the %1 template.</source>
     <name>KxWpsGalleryFontComboBox</name>
     <message>
         <source>Simsun</source>
-        <translation>宋體</translation>
+        <translation type="obsolete">宋體</translation>
     </message>
 </context>
 <context>
@@ -16634,7 +17295,23 @@ to the picture size?</source>
     <name>KxWpsParagraphDlg</name>
     <message>
         <source>This is not a valid measurement.</source>
-        <translation type="unfinished"></translation>
+        <translation>這是無效的度量單位。</translation>
+    </message>
+    <message>
+        <source>Line spacing must be at least %1 %2.</source>
+        <translation>行距必須至少為 %1 %2。</translation>
+    </message>
+    <message>
+        <source>The measurement must be between %1 %3 and %2 %3.</source>
+        <translation>度量值必須介於 %1 %3 和 %2 %3 之間。</translation>
+    </message>
+    <message>
+        <source>li</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save failed. Normal Template is occupied.</source>
+        <translation>變更失敗，Normal 範本被占用。</translation>
     </message>
 </context>
 <context>
@@ -16837,16 +17514,28 @@ to the picture size?</source>
         <source>Revision: %1</source>
         <translation type="obsolete">修訂： %1 個</translation>
     </message>
+    <message>
+        <source>Reviewer: </source>
+        <translation>檢閱者:</translation>
+    </message>
+    <message>
+        <source>Review Time: </source>
+        <translation>檢閱時間</translation>
+    </message>
 </context>
 <context>
     <name>KxWpsSectNavViewItemSeperator</name>
     <message>
         <source>Insert Section Break</source>
-        <translation>點擊此處拆開章節</translation>
+        <translation type="obsolete">點擊此處拆開章節</translation>
     </message>
     <message>
         <source>Insert section break</source>
         <translation type="obsolete">點擊此處拆開章節</translation>
+    </message>
+    <message>
+        <source>Add Section Break</source>
+        <translation>按一下以新增章節</translation>
     </message>
 </context>
 <context>
@@ -16860,7 +17549,7 @@ to the picture size?</source>
     <name>KxWpsSectionToolboxModel</name>
     <message>
         <source>Cover Page (None)</source>
-        <translation>封面頁(未插入)</translation>
+        <translation type="obsolete">封面頁(未插入)</translation>
     </message>
     <message>
         <source>Table Content (None)</source>
@@ -16868,7 +17557,7 @@ to the picture size?</source>
     </message>
     <message>
         <source>Table of Contents (None)</source>
-        <translation>目錄頁(未插入)</translation>
+        <translation type="obsolete">目錄頁(未插入)</translation>
     </message>
 </context>
 <context>
@@ -16924,6 +17613,10 @@ to the picture size?</source>
     <message>
         <source>None HeaderLine</source>
         <translation type="obsolete">無線型</translation>
+    </message>
+    <message>
+        <source>Delete Line</source>
+        <translation>刪除線條</translation>
     </message>
 </context>
 <context>
@@ -17218,7 +17911,7 @@ to the picture size?</source>
     <name>KxWpsSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>公分</translation>
+        <translation type="obsolete">公分</translation>
     </message>
 </context>
 <context>
@@ -17237,6 +17930,18 @@ to the picture size?</source>
     <message>
         <source>Page: %1</source>
         <translation>頁面: %1</translation>
+    </message>
+    <message>
+        <source>The number of pages of a document. Click the open dialog</source>
+        <translation>文件的頁數。按一下以開啟[尋找]對話方塊。</translation>
+    </message>
+    <message>
+        <source>Screen: %1</source>
+        <translation>熒屏數: %1</translation>
+    </message>
+    <message>
+        <source>The number of screens in the document</source>
+        <translation>文件的熒屏數。</translation>
     </message>
 </context>
 <context>
@@ -17401,7 +18106,7 @@ to the picture size?</source>
     <name>KxWpsTabsDlg</name>
     <message>
         <source>All</source>
-        <translation type="unfinished">全部</translation>
+        <translation>全部</translation>
     </message>
 </context>
 <context>
@@ -18288,7 +18993,79 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">OFD 檔案格式(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Security Documents(*.doc)|*.doc</source>
+        <translation>Microsoft Word 安全文件(*.doc)|*.doc</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation type="obsolete">英吋</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="obsolete">公釐</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="obsolete">點</translation>
+    </message>
+    <message>
+        <source>Cancel Done Comment</source>
+        <translation>取消解決</translation>
+    </message>
+    <message>
+        <source>Done Comment</source>
+        <translation>解決</translation>
+    </message>
+    <message>
+        <source>UnChecked</source>
+        <translation type="obsolete">未偵測</translation>
+    </message>
+    <message>
+        <source>level open</source>
+        <translation>公開</translation>
+    </message>
+    <message>
+        <source>level internal</source>
+        <translation>內部</translation>
+    </message>
+    <message>
+        <source>level secret</source>
+        <translation>秘密</translation>
+    </message>
+    <message>
+        <source>level confidential</source>
+        <translation>機密</translation>
+    </message>
+    <message>
+        <source>predefine keyword</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>userdefine keyword</source>
+        <translation>自訂</translation>
+    </message>
+    <message>
+        <source>locate keyword</source>
+        <translation>尋找關鍵字</translation>
+    </message>
+    <message>
+        <source>delete this row</source>
+        <translation>刪除此關鍵字及偵測結果</translation>
+    </message>
+    <message>
+        <source>Click to turn on Proofread</source>
+        <translation>按一下以啟用校對</translation>
+    </message>
+    <message>
+        <source>Click to turn off Proofread</source>
+        <translation>按一下以停用校對</translation>
     </message>
 </context>
 <context>
@@ -18352,7 +19129,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>WpsContentTextbox</name>
     <message>
         <source>&amp;Vertical alignment</source>
-        <translation>垂直對齊方式(&amp;V)</translation>
+        <translation type="obsolete">垂直對齊方式(&amp;V)</translation>
     </message>
     <message>
         <source>Top</source>
@@ -18368,7 +19145,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Te&amp;xt direction</source>
-        <translation>文字方向(&amp;X)</translation>
+        <translation type="obsolete">文字方向(&amp;X)</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -18396,7 +19173,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Text margin</source>
-        <translation>文字邊界</translation>
+        <translation type="obsolete">文字邊界</translation>
     </message>
     <message>
         <source>Borderless</source>
@@ -18424,7 +19201,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation>自訂角度(&amp;U)</translation>
+        <translation type="obsolete">自訂角度(&amp;U)</translation>
     </message>
     <message>
         <source>°</source>
@@ -18456,15 +19233,39 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Do not rotate text</source>
-        <translation>不要旋轉文字</translation>
+        <translation type="obsolete">不要旋轉文字</translation>
     </message>
     <message>
         <source>Resize shape to fit text</source>
-        <translation>依照文字調整圖案的大小</translation>
+        <translation type="obsolete">依照文字調整圖案的大小</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
         <translation>圖案的文字自動換行(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical alignment:</source>
+        <translation>垂直對齊方式(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction:</source>
+        <translation>文字方向(&amp;X):</translation>
+    </message>
+    <message>
+        <source>T&amp;ext margin:</source>
+        <translation>文字邊界(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Text c&amp;ustom angle:</source>
+        <translation>自訂角度(&amp;U):</translation>
+    </message>
+    <message>
+        <source>D&amp;o not rotate text</source>
+        <translation>不要旋轉文字(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Re&amp;size shape to fit text</source>
+        <translation>依照文字調整圖案的大小(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -18478,159 +19279,159 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 OFD 檔案</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">一般</translation>
+        <translation>一般</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">儲存到(&amp;T)</translation>
+        <translation>儲存到(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">瀏覽(&amp;B)...</translation>
+        <translation>瀏覽(&amp;B)...</translation>
     </message>
     <message>
         <source>Page range</source>
-        <translation type="unfinished">指定範圍</translation>
+        <translation>頁面範圍</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished">全部</translation>
+        <translation>全部</translation>
     </message>
     <message>
         <source>Current page</source>
-        <translation type="unfinished">本頁</translation>
+        <translation>本頁</translation>
     </message>
     <message>
         <source>Selection</source>
-        <translation type="unfinished">選取範圍(&amp;L)</translation>
+        <translation>選取範圍(&amp;L)</translation>
     </message>
     <message>
         <source>Page(s)</source>
-        <translation type="unfinished">頁(&amp;G)</translation>
+        <translation>頁(&amp;G)</translation>
     </message>
     <message>
         <source>From:</source>
-        <translation type="unfinished">從：</translation>
+        <translation>從(&amp;F):</translation>
     </message>
     <message>
         <source>To:</source>
-        <translation type="unfinished">到(&amp;O):</translation>
+        <translation>到(&amp;O):</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">匯出選項</translation>
+        <translation>匯出選項</translation>
     </message>
     <message>
         <source>Summar&amp;y information</source>
-        <translation type="unfinished">摘要資訊(&amp;Y)</translation>
+        <translation>摘要資訊(&amp;Y)</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">註解(&amp;C)</translation>
+        <translation>註解(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Hyperlink</source>
-        <translation type="unfinished">超連結(&amp;H)</translation>
+        <translation>超連結(&amp;H)</translation>
     </message>
     <message>
         <source>Li&amp;nks of footnotes and endnotes</source>
-        <translation type="unfinished">註腳和章節附註的連結(&amp;N)</translation>
+        <translation>註腳和章節附註的連結(&amp;N)</translation>
     </message>
     <message>
         <source>Placeholder</source>
-        <translation type="unfinished"></translation>
+        <translation>預留位置</translation>
     </message>
     <message>
         <source>Boo&amp;kmark</source>
-        <translation type="unfinished">書籤(&amp;K)</translation>
+        <translation>書籤(&amp;K)</translation>
     </message>
     <message>
         <source>&amp;Revision</source>
-        <translation type="unfinished"></translation>
+        <translation>修訂(&amp;R)</translation>
     </message>
     <message>
         <source>Con&amp;vert title styles to bookmarks</source>
-        <translation type="unfinished">將標題樣式轉換為書籤(&amp;V)</translation>
+        <translation>將標題樣式轉換為書籤(&amp;V)</translation>
     </message>
     <message>
         <source>Convert other &amp;styles to bookmarks</source>
-        <translation type="unfinished">將其他樣式轉換為書籤(&amp;S)</translation>
+        <translation>將其他樣式轉換為書籤(&amp;S)</translation>
     </message>
     <message>
         <source>Convert c&amp;ustom styles to bookmarks</source>
-        <translation type="unfinished">將自訂樣式轉換為書籤(&amp;U)</translation>
+        <translation>將自訂樣式轉換為書籤(&amp;U)</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>權限設定</translation>
     </message>
     <message>
         <source>Password to prot&amp;ect permission settings</source>
-        <translation type="unfinished">權限設定(&amp;E)(使以下權限設定生效)</translation>
+        <translation>權限設定(&amp;E)(使以下權限設定生效)</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation type="unfinished">密碼(&amp;P):</translation>
+        <translation>密碼(&amp;P):</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation type="unfinished">確認(&amp;F):</translation>
+        <translation>確認(&amp;F):</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">備註: 只有設定了以上密碼，以下權限內容設定才會生效，並能防止這些設定被其他人變更。</translation>
+        <translation>備註: 只有設定了以上密碼，以下權限內容設定才會生效，並能防止這些設定被其他人變更。</translation>
     </message>
     <message>
         <source>Permit to mo&amp;dify</source>
-        <translation type="unfinished">允許修改(&amp;D)</translation>
+        <translation>允許修改(&amp;D)</translation>
     </message>
     <message>
         <source>Permit to c&amp;opy</source>
-        <translation type="unfinished">允許複製(&amp;O)</translation>
+        <translation>允許複製(&amp;O)</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">允許新增註解(&amp;A)</translation>
+        <translation>允許新增註解(&amp;A)</translation>
     </message>
     <message>
         <source>P&amp;rinting permission:</source>
-        <translation type="unfinished">列印權限(&amp;R):</translation>
+        <translation>列印權限(&amp;R):</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">列印權限</translation>
+        <translation>列印權限</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">不允許列印</translation>
+        <translation>不允許列印</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">低品質列印</translation>
+        <translation>低品質列印</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">自由列印</translation>
+        <translation>自由列印</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation type="unfinished">檔案開啟密碼:</translation>
+        <translation>檔案開啟密碼:</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">密碼(&amp;W):</translation>
+        <translation>密碼(&amp;W):</translation>
     </message>
     <message>
         <source>Conf&amp;irm:</source>
-        <translation type="unfinished">確認(&amp;I):</translation>
+        <translation>確認(&amp;I):</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation type="unfinished">匯出完成後自動關閉(&amp;X)</translation>
+        <translation>匯出完成後自動關閉(&amp;X)</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -18638,26 +19439,38 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Suwell&amp;K</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Foxit</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OFD Service Provider</source>
+        <translation>OFD 服務提供者</translation>
+    </message>
+    <message>
+        <source>Up&amp;dateFields</source>
+        <translation>更新欄位(&amp;D)</translation>
+    </message>
+    <message>
+        <source>E&amp;mbedFont</source>
+        <translation>內嵌字型(&amp;M)</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 OFD 檔案</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">開啟檔案(&amp;O)</translation>
+        <translation>開啟檔案(&amp;O)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -18844,7 +19657,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>From:</source>
-        <translation>從：</translation>
+        <translation>從(&amp;F)：</translation>
     </message>
     <message>
         <source>To:</source>
@@ -18861,6 +19674,10 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Password to protect pe&amp;rmission settings</source>
         <translation type="obsolete">權限設定(&amp;E)(使以下權限設定生效)</translation>
+    </message>
+    <message>
+        <source>Add receiver(&amp;R)</source>
+        <translation>新增接收者(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -18886,7 +19703,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">同義字</translation>
+        <translation>同義字</translation>
     </message>
     <message>
         <source>Current word:</source>
@@ -18903,6 +19720,26 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>Cancel</source>
         <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation>目前的文字(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation>語言(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation>替代(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation>取代(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation>取消(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -19077,6 +19914,2727 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <message>
         <source>waterMark</source>
         <translation type="obsolete">浮水印</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddKeyWordDlg</name>
+    <message>
+        <source>please enter keyword!</source>
+        <translation>請輸入關鍵字。</translation>
+    </message>
+    <message>
+        <source>The Key word length must be 1 to 40 char!</source>
+        <translation>機密等級關鍵字要小於40個字元。</translation>
+    </message>
+    <message>
+        <source>%1 is not a valid special character for the key word!</source>
+        <translation>%1 不是可用於搜尋內容的有效特殊字元。</translation>
+    </message>
+    <message>
+        <source>The Key word is aready exit!</source>
+        <translation>機密等級關鍵字已經存在。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddKeyWordDlg2</name>
+    <message>
+        <source>please enter keyword!</source>
+        <translation>請輸入關鍵字。</translation>
+    </message>
+    <message>
+        <source>The Key word length must be 1 to 40 char!</source>
+        <translation>機密等級關鍵字要小於40個字元。</translation>
+    </message>
+    <message>
+        <source>%1 is not a valid special character for the key word!</source>
+        <translation>%1 不是可用於搜尋內容的有效特殊字元。</translation>
+    </message>
+    <message>
+        <source>The Key word is aready exit!</source>
+        <translation>機密等級關鍵字已經存在。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAdjustNumberingIndentDlg</name>
+    <message>
+        <source>Bulleted position(&amp;P):</source>
+        <translation>項目編號位置(&amp;P):</translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation>字符</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplication</name>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation>無法載入公普密碼加密模組</translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation>您選取的格式與此檔案的原始格式不一致。要儲存為新格式嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxAutoCorrectOptionsDlg</name>
+    <message>
+        <source>Kingsoft WPS</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>An AutoCorrect entry for &apos;%1&apos; already exists. Do you want to redefine it?</source>
+        <translation>已經有一個 &apos;%1&apos; 的自動校正項目，是否要重新定義?</translation>
+    </message>
+    <message>
+        <source>Repl&amp;ace</source>
+        <translation>取代(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>新增(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupRoamingSettingTipWidget</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation>自動漫遊是什麼？</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>之後，當您在其他裝置登入時，也可以檢視和編輯該文件。</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>並且，系統會自動同步本機和雲端的修改。</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>啟用[自動漫遊]之後，系統將會自動將開啟過的本機文件儲存一份至雲端。</translation>
+    </message>
+</context>
+<context>
+    <name>KxBookmarkSelectionDlg</name>
+    <message>
+        <source>Bookmarks</source>
+        <translation>書籤</translation>
+    </message>
+</context>
+<context>
+    <name>KxBulletsNumberingDlg</name>
+    <message>
+        <source>None list</source>
+        <translation>無清單</translation>
+    </message>
+</context>
+<context>
+    <name>KxConfidentialityLevelKeyWordDlg</name>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation type="obsolete">找不到機密等級關鍵字。此文件不是機密等級文件。</translation>
+    </message>
+    <message>
+        <source>The Key word length must be 1 to 40 char!</source>
+        <translation type="obsolete">機密等級關鍵字要小於40個字元。</translation>
+    </message>
+    <message>
+        <source>%1 is not a valid special character for the key word!</source>
+        <translation type="obsolete">%1 不是可用於搜尋內容的有效特殊字元。</translation>
+    </message>
+    <message>
+        <source>The Key word is aready exit!</source>
+        <translation type="obsolete">機密等級關鍵字已經存在。</translation>
+    </message>
+    <message>
+        <source>UnChecked</source>
+        <translation type="obsolete">未偵測</translation>
+    </message>
+</context>
+<context>
+    <name>KxConfidentialityLevelKeyWordDlgV2</name>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation>偵測完毕，找不到涉密關鍵字。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomShortCutDlg</name>
+    <message>
+        <source>Customize keyboard</source>
+        <translation>自訂鍵盤</translation>
+    </message>
+    <message>
+        <source>Sa&amp;ve changes in:</source>
+        <translation>將自訂儲存於(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Specify a command</source>
+        <translation>指定命令</translation>
+    </message>
+    <message>
+        <source>&amp;Categories:</source>
+        <translation>類別(&amp;C):</translation>
+    </message>
+    <message>
+        <source>C&amp;ommands:</source>
+        <translation>命令(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Specify keyboard sequence</source>
+        <translation>指定鍵盤順序</translation>
+    </message>
+    <message>
+        <source>Press &amp;new shortcut key:</source>
+        <translation>按新設定的快速鍵(&amp;N):</translation>
+    </message>
+    <message>
+        <source>C&amp;urrent keys:</source>
+        <translation>現用代表鍵(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Explain</source>
+        <translation type="obsolete">描述</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>指定(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>移除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Currently assigned to: </source>
+        <translation>目前指定於: </translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>[文件]索引標籤</translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&quot;Tab</source>
+        <translation>&quot;索引標籤</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to reset the key assignments? This action will remove all keys currently assigned to macros and styles in %1.</source>
+        <translation>您確定要重設代表鍵設定嗎？此動作會移除%1中之所有巨集和樣式的代表鍵設定。</translation>
+    </message>
+    <message>
+        <source>[Underline]</source>
+        <translation>[未定義]</translation>
+    </message>
+    <message>
+        <source>Re&amp;set All...</source>
+        <translation>全部重設(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>Quits WPS and prompts to save the documents</source>
+        <translation>結束 WPS Office 時出現儲存文件的提示</translation>
+    </message>
+    <message>
+        <source>Opens New Document taskpane</source>
+        <translation>開啟[新增文件]工作窗格</translation>
+    </message>
+    <message>
+        <source>Opens an existing document or template</source>
+        <translation>開啟一份既有的文件或範本</translation>
+    </message>
+    <message>
+        <source>Saves the active document or template</source>
+        <translation>儲存使用中之文件或範本</translation>
+    </message>
+    <message>
+        <source>Save a copy of the document in a separate file</source>
+        <translation type="obsolete">將文件在另一個檔案儲存一份複本</translation>
+    </message>
+    <message>
+        <source>Save file as Word 97-2003 Document</source>
+        <translation>將檔案另存成 Word 97-2003 文件</translation>
+    </message>
+    <message>
+        <source>Save file as DOCX document</source>
+        <translation>將檔案另存成 DOCX 文件</translation>
+    </message>
+    <message>
+        <source>Sends the active document through electronic mail</source>
+        <translation>透過電子郵件傳送使用中文件</translation>
+    </message>
+    <message>
+        <source>Changes all the borders of the selected table cells</source>
+        <translation>更改選取之表格儲存格的所有框線</translation>
+    </message>
+    <message>
+        <source>Changes the bottom border of the selected paragraphs, table cells, and pictures</source>
+        <translation>更改選取段落、表格儲存格和圖片的下方框線</translation>
+    </message>
+    <message>
+        <source>Changes the inside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>變更選取段落、表格儲存格及圖片的內框線</translation>
+    </message>
+    <message>
+        <source>Changes the left border of the selected paragraphs, table cells, and pictures</source>
+        <translation>更改選取段落、表格儲存格及圖片的左框線</translation>
+    </message>
+    <message>
+        <source>Remove borders from the selected paragraphs, table cells, and pictures</source>
+        <translation type="obsolete">刪除選取段落、表格儲存格及圖片的框線</translation>
+    </message>
+    <message>
+        <source>Changes the outside borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>更改選取段落、表格儲存格及圖片的外框線</translation>
+    </message>
+    <message>
+        <source>Changes the right border of the selected paragraphs, table cells, and pictures</source>
+        <translation>更改選取段落、表格儲存格及圖片的右框線</translation>
+    </message>
+    <message>
+        <source>Changes the top borders of the selected paragraphs, table cells, and pictures</source>
+        <translation>更改選取段落、表格儲存格及圖片的上框線</translation>
+    </message>
+    <message>
+        <source>Jumps to a specified place in the active document</source>
+        <translation>跳至使用中文件的指定位置</translation>
+    </message>
+    <message>
+        <source>Inserts the Clipboard contents as a linked object, embedded object, or other format</source>
+        <translation>將[剪貼簿]內容當成連結物件、嵌入物件或其他格式插入</translation>
+    </message>
+    <message>
+        <source>Selects the entire document</source>
+        <translation>選取整份文件</translation>
+    </message>
+    <message>
+        <source>Creates a Quick style out of the currently selected text</source>
+        <translation type="obsolete">透過目前選取文字來建立快速樣式的樣式</translation>
+    </message>
+    <message>
+        <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
+        <translation>插入一空白文字方塊或將選取物件放入文字方塊中</translation>
+    </message>
+    <message>
+        <source>Inserts an empty vertical text box or encloses the selected item in a vertical textbox</source>
+        <translation>插入一直書空白文字方塊或將所選項目包含於一直書文字方塊種</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the bottom</source>
+        <translation>將選取的繪圖物件靠下對齊</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects horizontally to the center</source>
+        <translation>將選取的繪圖物件水平置中對齊</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects vertically to the center</source>
+        <translation>將選取的繪圖物件垂直置中對齊</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the left</source>
+        <translation>將選取的繪圖物件靠左對齊</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the right</source>
+        <translation>將選取的繪圖物件靠右對齊</translation>
+    </message>
+    <message>
+        <source>Aligns the selected drawing objects to the top</source>
+        <translation>將選取的繪圖物件靠上對齊</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects horizontally</source>
+        <translation>水平均分選取的繪圖物件</translation>
+    </message>
+    <message>
+        <source>Distribute the selected drawing objects vertically</source>
+        <translation>垂直均分選取的繪圖物件</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects backward</source>
+        <translation>將選取的繪圖物件往後推</translation>
+    </message>
+    <message>
+        <source>Sends the selected drawing objects to the back</source>
+        <translation>將選取的繪圖物件往後推至底層</translation>
+    </message>
+    <message>
+        <source>Removes Table of Contents building block from the document</source>
+        <translation>移除文件的目錄建置組塊</translation>
+    </message>
+    <message>
+        <source>Accepts all changes in document, ignoring filter settings</source>
+        <translation>接受文件中的所有修改，忽略篩選設定。</translation>
+    </message>
+    <message>
+        <source>Accepts all changes that are highlighted in the current filter settings</source>
+        <translation>接受目前篩選設定中所有以醒目提示的修改。</translation>
+    </message>
+    <message>
+        <source>Delete all comments in document, ignoring filter settings</source>
+        <translation type="obsolete">刪除文件中的所有註解，忽略篩選設定。</translation>
+    </message>
+    <message>
+        <source>Rejects all changes in document, ignoring filter settings</source>
+        <translation>拒絕文件中的所有修改，忽略篩選設定。</translation>
+    </message>
+    <message>
+        <source>Rejects all changes that are highlighted in the current filter settings</source>
+        <translation>拒絕目前篩選設定中所有以醒目提示的修改</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (horizontal)</source>
+        <translation>顯示/隱藏用於檢視與編輯文件修訂的摘要窗格(水平)</translation>
+    </message>
+    <message>
+        <source>Shows/hides a summary pane for viewing and editing document revisions (vertical)</source>
+        <translation>顯示/隱藏用於檢視與編輯文件修訂的摘要窗格(垂直)</translation>
+    </message>
+    <message>
+        <source>Show or hide comment balloons</source>
+        <translation>顯示或隱藏註解方塊</translation>
+    </message>
+    <message>
+        <source>Show or hide markup balloons</source>
+        <translation>顯示或隱藏標記註解方塊</translation>
+    </message>
+    <message>
+        <source>Scales the current view to 100%</source>
+        <translation>調整目前檢視大小為 100%</translation>
+    </message>
+    <message>
+        <source>Auto-Fit Table to the contents</source>
+        <translation>自動調整表格與內容大小相同</translation>
+    </message>
+    <message>
+        <source>Deletes the selected cells from the table</source>
+        <translation>從表格中刪除選取的儲存格</translation>
+    </message>
+    <message>
+        <source>Deletes the selected column from the table</source>
+        <translation type="obsolete">從表格中刪除選取的欄位</translation>
+    </message>
+    <message>
+        <source>Deletes the selected rows from the table</source>
+        <translation>從表格中刪除選取的列</translation>
+    </message>
+    <message>
+        <source>Deletes the selected table</source>
+        <translation>刪除選取的表格</translation>
+    </message>
+    <message>
+        <source>Selects the current cell in a table</source>
+        <translation>選取表格中目前的儲存格</translation>
+    </message>
+    <message>
+        <source>Selects the current column in a table</source>
+        <translation>選取表格中目前的欄</translation>
+    </message>
+    <message>
+        <source>Selects the current row in a table</source>
+        <translation>選取表格中目前的列</translation>
+    </message>
+    <message>
+        <source>Selects an entire table</source>
+        <translation>選取整個表格</translation>
+    </message>
+    <message>
+        <source>Opens a data source for mail merge of insert database</source>
+        <translation>開啟資料來源以供合併列印或插入資料庫</translation>
+    </message>
+    <message>
+        <source>Fill Color Picker</source>
+        <translation>填滿色彩選擇器</translation>
+    </message>
+    <message>
+        <source>Creates a new AutoText Building Block from the current selection</source>
+        <translation>從目前選取範圍建立新的自動圖文集建置組塊</translation>
+    </message>
+    <message>
+        <source>Always use balloons</source>
+        <translation>永远使用註解方塊</translation>
+    </message>
+    <message>
+        <source>Changes various categories of WPS options</source>
+        <translation>變更WPS Office的不同類別選項</translation>
+    </message>
+    <message>
+        <source>Macr&amp;os:</source>
+        <translation>巨集(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Macros</source>
+        <translation>巨集</translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation>刪除選取段落、表格儲存格及圖片的框線</translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation>透過目前選取文字來建立&quot;快速樣式&quot;的樣式</translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation>刪除文件中的所有註解，忽略篩選設定</translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation>從表格中刪除選取的欄位</translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation>複製選取範圍，並將它放到剪貼簿。</translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation>剪下選取範圍後放到剪貼簿。</translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation>新增選取的文字至索引。</translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation>新增關於選取範圍的註解。</translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation>在窗格中以清單的形式顯示您的文件中所有的修訂。</translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation>以大綱模式檢視文件，並顯示大綱工具。</translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation>縮放文件，讓您可以在視窗中看到多頁。</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation>平均分配所選欄的寬度。</translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation>平均分配所選列的高度。</translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation>顯示或隱藏文件中未配置框線的表格虛框。</translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation>顯示 [字型] 對話方塊。</translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation>顯示 [版面設定] 對話方塊。</translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation>顯示 [表格內容] 對話方塊以變更進階表格內容，例如縮排及文繞圖選項。</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>說明</translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation>將文件在另一個檔案儲存一份複本</translation>
+    </message>
+</context>
+<context>
+    <name>KxDeleteSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Delete page number</source>
+        <translation>刪除頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddKeyWord</name>
+    <message>
+        <source>Add Confidentiality Level KeyWord</source>
+        <translation type="obsolete">新增機密等級關鍵字</translation>
+    </message>
+    <message>
+        <source>confidential keyword</source>
+        <translation type="obsolete">機密等級關鍵字:</translation>
+    </message>
+    <message>
+        <source>confidential level</source>
+        <translation type="obsolete">機密等級:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Add secret keywords</source>
+        <translation>新增機密等級關鍵字</translation>
+    </message>
+    <message>
+        <source>keyword:</source>
+        <translation>關鍵字:</translation>
+    </message>
+    <message>
+        <source>confidential level:</source>
+        <translation>機密等級:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddKeyWord2</name>
+    <message>
+        <source>Add secret keywords</source>
+        <translation>新增機密等級關鍵字</translation>
+    </message>
+    <message>
+        <source>keyword:</source>
+        <translation>關鍵字:</translation>
+    </message>
+    <message>
+        <source>confidential level:</source>
+        <translation>機密等級:</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAdjustNumberingIndent</name>
+    <message>
+        <source>Adjust List Indent</source>
+        <translation>調整列表縮進</translation>
+    </message>
+    <message>
+        <source>Number position(&amp;P):</source>
+        <translation>編號位置(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Text position(&amp;T):</source>
+        <translation>文本縮進(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Tabel char position(&amp;B):</source>
+        <translation>製錶位添加位置(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Tab character</source>
+        <translation>定位字元</translation>
+    </message>
+    <message>
+        <source>Space</source>
+        <translation>間距</translation>
+    </message>
+    <message>
+        <source>Nothing</source>
+        <translation>不標示</translation>
+    </message>
+    <message>
+        <source>After numbering(&amp;W):</source>
+        <translation>編號之後(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>預覽</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAutoCorrectOptions</name>
+    <message>
+        <source>AutoCorrect</source>
+        <translation>自動校正</translation>
+    </message>
+    <message>
+        <source>Replace &amp;text as you type</source>
+        <translation>自動取代字串(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Replace:</source>
+        <translation>取代(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;With:</source>
+        <translation>成為(&amp;W):</translation>
+    </message>
+    <message>
+        <source>&amp;Plain text</source>
+        <translation>純文字(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Formatted text</source>
+        <translation>格式化文字(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Repl&amp;ace</source>
+        <translation>取代(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>刪除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Automatically use su&amp;ggestions from the spelling checker</source>
+        <translation>使用拼字檢查的自動建議功能(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Tab 2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>確定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgBookmarkSelection</name>
+    <message>
+        <source>Select Place in Document</source>
+        <translation>選擇於文件中的位置</translation>
+    </message>
+    <message>
+        <source>Select an existing p&amp;lace in the document:</source>
+        <translation>選取文件中的一個位置(&amp;L):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>涉密關鍵字檢查</translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation>正在檢查，請稍候...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation>停止檢查</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips2</name>
+    <message>
+        <source>clkw checking tips</source>
+        <translation>涉密關鍵字檢查</translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation>正在檢查，請稍候...</translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation>停止檢查</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWord</name>
+    <message>
+        <source>Confidentiality Level KeyWord</source>
+        <translation>機密等級關鍵字</translation>
+    </message>
+    <message>
+        <source>Confidentiality Level KeyWord(&amp;K):</source>
+        <translation type="obsolete">機密等級關鍵字(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="obsolete">新增(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="obsolete">刪除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Check</source>
+        <translation>開始偵測(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Goto</source>
+        <translation type="obsolete">到(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">關閉</translation>
+    </message>
+    <message>
+        <source>&amp;add keyword</source>
+        <translation>新增機密等級關鍵字(&amp;A)</translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWordV2</name>
+    <message>
+        <source>Management keyword</source>
+        <translation>管理關鍵字</translation>
+    </message>
+    <message>
+        <source>select all</source>
+        <translation>全選</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation>新增</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWordV3</name>
+    <message>
+        <source>Management keyword</source>
+        <translation>管理關鍵字</translation>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation>新增關鍵字</translation>
+    </message>
+    <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation>字庫為空，請新增關鍵字。</translation>
+    </message>
+    <message>
+        <source>select all</source>
+        <translation>全選</translation>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation>反向選擇</translation>
+    </message>
+    <message>
+        <source>delete keywords</source>
+        <translation>刪除關鍵字</translation>
+    </message>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation>偵測完毕，找不到涉密關鍵字。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFiguresOptions</name>
+    <message>
+        <source>Table of Figures Options</source>
+        <translation>插入圖表目錄選項</translation>
+    </message>
+    <message>
+        <source>&amp;Styles:</source>
+        <translation>樣式(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Table &amp;entry fields</source>
+        <translation>目錄項目功能變數(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Table &amp;identifier:</source>
+        <translation>目錄識別碼(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Build table of figures from:</source>
+        <translation>圖表目錄來源:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFrame</name>
+    <message>
+        <source>Frame</source>
+        <translation>圖文框</translation>
+    </message>
+    <message>
+        <source>Text wra&amp;pping</source>
+        <translation>文繞圖(&amp;P)</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+    <message>
+        <source>Around</source>
+        <translation>文繞圖</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>&amp;Width:</source>
+        <translation>寬(&amp;W):</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation>定值</translation>
+    </message>
+    <message>
+        <source>&amp;At:</source>
+        <translation>設定值(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Hei&amp;ght:</source>
+        <translation>高(&amp;G):</translation>
+    </message>
+    <message>
+        <source>At least</source>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>A&amp;t:</source>
+        <translation>設定值(&amp;T):</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0.05, 1584, 1</source>
+        <translation type="obsolete">pt, 2, 0.05, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <source>Po&amp;sition:</source>
+        <translation>位置(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>Inside</source>
+        <translation>內</translation>
+    </message>
+    <message>
+        <source>OutSide</source>
+        <translation>外</translation>
+    </message>
+    <message>
+        <source>Margin</source>
+        <translation>邊界</translation>
+    </message>
+    <message>
+        <source>Page</source>
+        <translation>頁面</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <translation>欄</translation>
+    </message>
+    <message>
+        <source>Distance from te&amp;xt:</source>
+        <translation>與文字距離(&amp;X):</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 1</source>
+        <translation>pt, 2, 0, 1584, 1</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>垂直</translation>
+    </message>
+    <message>
+        <source>Pos&amp;ition:</source>
+        <translation>位置(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>上</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>Outside</source>
+        <translation>外</translation>
+    </message>
+    <message>
+        <source>Paragraph</source>
+        <translation>段落</translation>
+    </message>
+    <message>
+        <source>Distance &amp;from text:</source>
+        <translation>與文字距離(&amp;F):</translation>
+    </message>
+    <message>
+        <source>R&amp;elative to:</source>
+        <translation>相對於(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Re&amp;lative to:</source>
+        <translation>相對於(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Move with text</source>
+        <translation>隨段落文字移動(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Loc&amp;k anchor</source>
+        <translation>鎖定定位點(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove Frame</source>
+        <translation>移除圖文框(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgIndexMarkEntry</name>
+    <message>
+        <source>Mark Index Entry</source>
+        <translation>索引項目標記</translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>Main &amp;entry:</source>
+        <translation>主要項目(&amp;E):</translation>
+    </message>
+    <message>
+        <source>&amp;Subentry:</source>
+        <translation>次要項目(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Heading:</source>
+        <translation>所屬音節項(&amp;H):</translation>
+    </message>
+    <message>
+        <source>Headin&amp;g:</source>
+        <translation>所屬音節項(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>選項</translation>
+    </message>
+    <message>
+        <source>Cross-&amp;reference:</source>
+        <translation>交互參照(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Current &amp;page</source>
+        <translation>目前頁面(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Page ra&amp;nge</source>
+        <translation>指定範圍(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Bookmark:</source>
+        <translation>書籤:</translation>
+    </message>
+    <message>
+        <source>Page number format</source>
+        <translation>頁碼格式</translation>
+    </message>
+    <message>
+        <source>&amp;Bold</source>
+        <translation>粗體(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Italic</source>
+        <translation>斜體(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Mark</source>
+        <translation>標記(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Mark &amp;all</source>
+        <translation>標記全部(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>關閉(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgInsertIndex</name>
+    <message>
+        <source>Indexes</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>Inde&amp;x</source>
+        <translation>索引(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>類型:</translation>
+    </message>
+    <message>
+        <source>In&amp;dented</source>
+        <translation>階層(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Ru&amp;n-in</source>
+        <translation>等階(&amp;N)</translation>
+    </message>
+    <message>
+        <source>C&amp;olumns:</source>
+        <translation>欄(&amp;O):</translation>
+    </message>
+    <message>
+        <source>&amp;Language:</source>
+        <translation>語言(國家/地區)(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Sort by:</source>
+        <translation>排序依據(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Stroke</source>
+        <translation>筆觸</translation>
+    </message>
+    <message>
+        <source>Syllable</source>
+        <translation>音節</translation>
+    </message>
+    <message>
+        <source>&amp;Right align page numbers</source>
+        <translation>頁碼靠右對齊(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ta&amp;b leader:</source>
+        <translation>定位點前置字元(&amp;B):</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+    <message>
+        <source>Print Pre&amp;view</source>
+        <translation>預覽列印(&amp;V)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Mar&amp;k Entry...</source>
+        <translation>項目標記(&amp;K)...</translation>
+    </message>
+    <message>
+        <source>A&amp;uto Mark...</source>
+        <translation>自動標記(&amp;U)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgParagraphSetAsDef</name>
+    <message>
+        <source>Do you want to set the default alignment, indentation, and spacing of the paragraphs for:</source>
+        <translation>您要為下列項目設定段落的預設對齊、縮排及間距嗎:</translation>
+    </message>
+    <message>
+        <source>&amp;This document only?</source>
+        <translation>僅此文件(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;All documents based on the Normal.dotm template?</source>
+        <translation>所有依據範本 Normal.dotm 的文件(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSort</name>
+    <message>
+        <source>Sort</source>
+        <translation>排序</translation>
+    </message>
+    <message>
+        <source>&amp;Sort by</source>
+        <translation>排序方式(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Descending</source>
+        <translation>遞減(&amp;D)</translation>
+    </message>
+    <message>
+        <source>T&amp;ype:</source>
+        <translation>類型(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>&amp;Ascending</source>
+        <translation>遞增(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <translation>段落數</translation>
+    </message>
+    <message>
+        <source>Using:</source>
+        <translation>使用:</translation>
+    </message>
+    <message>
+        <source>&amp;Then by</source>
+        <translation>次要排序方式(&amp;T)</translation>
+    </message>
+    <message>
+        <source>As&amp;cending</source>
+        <translation>遞增(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Desce&amp;nding</source>
+        <translation>遞減(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Ty&amp;pe:</source>
+        <translation>類型(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Then &amp;by</source>
+        <translation>次要排序方式(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Descendin&amp;g</source>
+        <translation>遞減(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Typ&amp;e:</source>
+        <translation>類型(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Ascend&amp;ing</source>
+        <translation>遞增(&amp;I)</translation>
+    </message>
+    <message>
+        <source>My List Has</source>
+        <translation>我的清單</translation>
+    </message>
+    <message>
+        <source>Header &amp;row</source>
+        <translation>有標題列(&amp;R)</translation>
+    </message>
+    <message>
+        <source>No header ro&amp;w</source>
+        <translation>沒有標題列(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Option...</source>
+        <translation>選項(&amp;O)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSortOptions</name>
+    <message>
+        <source>Sort Options</source>
+        <translation>排序選項</translation>
+    </message>
+    <message>
+        <source>Separate Fields at</source>
+        <translation>欄位區隔於</translation>
+    </message>
+    <message>
+        <source>&amp;Tabs</source>
+        <translation>定位點(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Co&amp;mmas</source>
+        <translation>逗號(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Other:</source>
+        <translation>其他(&amp;O):</translation>
+    </message>
+    <message>
+        <source>So&amp;rt column only</source>
+        <translation>僅排序指定欄位(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Case Sensitive</source>
+        <translation>大小寫視為相異(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Sorting &amp;language</source>
+        <translation>排序語言(國家/地區)(&amp;L)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSyAddReceiver</name>
+    <message>
+        <source>add receiver</source>
+        <translation>新增接收者</translation>
+    </message>
+    <message>
+        <source>Please fill in the recipient information in the order distributed:</source>
+        <translation>請按照分發的順序填寫接收者資訊:</translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation>新增</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation>刪除</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSyAddReceiverOL</name>
+    <message>
+        <source>add receiver</source>
+        <translation>新增接收者</translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation>新增</translation>
+    </message>
+    <message>
+        <source>please input key word to search info of receivers:</source>
+        <translation>請輸入關鍵字搜尋接收者:</translation>
+    </message>
+    <message>
+        <source>receivers:</source>
+        <translation>接收者:</translation>
+    </message>
+    <message>
+        <source>delete all</source>
+        <translation>全部刪除</translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation>搜尋</translation>
+    </message>
+    <message>
+        <source>are you sure to delete all receivers added?</source>
+        <translation>是否刪除所有已有的接收者?</translation>
+    </message>
+    <message>
+        <source>sytype</source>
+        <translation>類型</translation>
+    </message>
+    <message>
+        <source>chinese_sy_info</source>
+        <translation>中文浮水印資訊</translation>
+    </message>
+    <message>
+        <source>normal_sy_info</source>
+        <translation>非中文浮水印資訊</translation>
+    </message>
+    <message>
+        <source>self_sy_info</source>
+        <translation>浮水印資訊:</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>sy_normal</source>
+        <translation>指定浮水印</translation>
+    </message>
+    <message>
+        <source>sy_selfdefine</source>
+        <translation>自訂浮水印</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part1</source>
+        <translation>可以輸入數字、字母及中文，至多</translation>
+    </message>
+    <message>
+        <source>input chinese sy info tips part2</source>
+        <translation>個字/字元</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part1</source>
+        <translation>可以輸入數字及字母，至多</translation>
+    </message>
+    <message>
+        <source>input normal sy info tips part2</source>
+        <translation>個字元</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTableOfFigures</name>
+    <message>
+        <source>Table of Firgures</source>
+        <translation>圖表目錄</translation>
+    </message>
+    <message>
+        <source>Title &amp;label</source>
+        <translation>標題標籤(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Show page numbers</source>
+        <translation>顯示頁碼(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Right align page numbers</source>
+        <translation>頁碼靠右對齊(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Use &amp;hyperlinks</source>
+        <translation>使用超連結(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation>選項(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>預覽</translation>
+    </message>
+    <message>
+        <source>Ta&amp;b leader:</source>
+        <translation>定位點前置字元(&amp;B):</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation type="obsolete">無</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsAdvInsertPageNumber</name>
+    <message>
+        <source>Insert Page Number</source>
+        <translation>插入頁碼</translation>
+    </message>
+    <message>
+        <source>&amp;Format: </source>
+        <translation>樣式(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Po&amp;sition: </source>
+        <translation>位置(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Include chapter &amp;number</source>
+        <translation>包含章節編號(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Chapter starts with style:</source>
+        <translation>章節起始樣式(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Heading 1</source>
+        <translation>標題 1</translation>
+    </message>
+    <message>
+        <source>Heading 2</source>
+        <translation>標題 2</translation>
+    </message>
+    <message>
+        <source>Heading 3</source>
+        <translation>標題 3</translation>
+    </message>
+    <message>
+        <source>Heading 4</source>
+        <translation>標題 4</translation>
+    </message>
+    <message>
+        <source>Heading 5</source>
+        <translation>標題 5</translation>
+    </message>
+    <message>
+        <source>Heading 6</source>
+        <translation>標題 6</translation>
+    </message>
+    <message>
+        <source>Heading 7</source>
+        <translation>標題 7</translation>
+    </message>
+    <message>
+        <source>Heading 8</source>
+        <translation>標題 8</translation>
+    </message>
+    <message>
+        <source>Heading 9</source>
+        <translation>標題 9</translation>
+    </message>
+    <message>
+        <source>Use s&amp;eparator:</source>
+        <translation>使用分隔符號(&amp;E):</translation>
+    </message>
+    <message>
+        <source>-    (hyphen)</source>
+        <translation>- (連字號)</translation>
+    </message>
+    <message>
+        <source>.    (period)</source>
+        <translation>. (句號)</translation>
+    </message>
+    <message>
+        <source>:    (colon)</source>
+        <translation>: (冒號)</translation>
+    </message>
+    <message>
+        <source>—   (em-dash)</source>
+        <translation>— (長破折號)</translation>
+    </message>
+    <message>
+        <source>–   (en-dash)</source>
+        <translation>– (短破折號)</translation>
+    </message>
+    <message>
+        <source>Examples:</source>
+        <translation>範例:</translation>
+    </message>
+    <message>
+        <source>1-1, 1-A</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page numbering:</source>
+        <translation>頁碼編排方式</translation>
+    </message>
+    <message>
+        <source>Continue fr&amp;om previous section</source>
+        <translation>接續前一節(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Start &amp;at: </source>
+        <translation>起始頁碼(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Apply to:</source>
+        <translation>套用至:</translation>
+    </message>
+    <message>
+        <source>Entire &amp;document</source>
+        <translation>整份文件(&amp;D)</translation>
+    </message>
+    <message>
+        <source>From current &amp;page</source>
+        <translation>本頁及之後(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Curren&amp;t section</source>
+        <translation>本節(&amp;T)</translation>
+    </message>
+    <message>
+        <source>S&amp;how First PageNum</source>
+        <translation>顯示首頁頁碼(&amp;H)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWpsSmartPageNumRelayout</name>
+    <message>
+        <source>Page Number Relayout</source>
+        <translation>重排頁碼</translation>
+    </message>
+    <message>
+        <source>Rebuild document page number</source>
+        <translation>一鍵重排全文頁碼</translation>
+    </message>
+    <message>
+        <source>Content</source>
+        <translation>目錄</translation>
+    </message>
+    <message>
+        <source>page: %1</source>
+        <translation>頁面: %1</translation>
+    </message>
+    <message>
+        <source>Style:</source>
+        <translation>樣式:</translation>
+    </message>
+    <message>
+        <source>1, 2, 3...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>-1-, -2-, -3-...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>I, II, III...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page 1</source>
+        <translation>第 1 頁</translation>
+    </message>
+    <message>
+        <source>Page 1 of x</source>
+        <translation>第 1 頁 共 x 頁</translation>
+    </message>
+    <message>
+        <source>Main body</source>
+        <translation>本文</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Relayout</source>
+        <translation>一鍵重排</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontSubstitutionDlg</name>
+    <message>
+        <source>Font substitutions</source>
+        <translation>字型替代(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Convert &amp;Permanently...</source>
+        <translation>永久轉換(&amp;P)...</translation>
+    </message>
+    <message>
+        <source>&amp;Missing document font</source>
+        <translation>文件缺失的字型(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Subtituted font</source>
+        <translation>字型替代</translation>
+    </message>
+    <message>
+        <source>Missing document font:</source>
+        <translation>文件缺失的字型:</translation>
+    </message>
+    <message>
+        <source>&amp;Substituted font:</source>
+        <translation>替代字型(&amp;S):</translation>
+    </message>
+    <message>
+        <source>No font substitution is necessary. All fonts used in this document are available.</source>
+        <translation>不需要替換字型。此文件使用的所有字型都是可用的。</translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation>&quot;</translation>
+    </message>
+    <message>
+        <source>&quot; will be displayed and printed using &quot;</source>
+        <translation>&quot;將以&quot;</translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation>&quot;來顯示及列印。</translation>
+    </message>
+    <message>
+        <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
+        <translation>要將此文件中的所有缺失字型永久替換為替換字型嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxFrameDlg</name>
+    <message>
+        <source>Number must be between %1 and %2.</source>
+        <translation>度量值必須介於 %1 與 %2 之間。</translation>
+    </message>
+    <message>
+        <source>This is not a valid measurement.</source>
+        <translation>這是無效的度量單位。</translation>
+    </message>
+</context>
+<context>
+    <name>KxIndexMarkEntryDlg</name>
+    <message>
+        <source>See </source>
+        <translation>請參閱 </translation>
+    </message>
+    <message>
+        <source>The entry is empty.</source>
+        <translation>項目不存在。</translation>
+    </message>
+    <message>
+        <source>The bookmark name is not valid.</source>
+        <translation>書籤名稱不正確。</translation>
+    </message>
+    <message>
+        <source>No index entries were marked.</source>
+        <translation>找不到標記過的索引項目。</translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertIndexDlg</name>
+    <message>
+        <source>English (United States)</source>
+        <translation>英文 (美國)</translation>
+    </message>
+    <message>
+        <source>Chinese (PRC)</source>
+        <translation>中文 (中國)</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected index?</source>
+        <translation>是否取代既有的索引?</translation>
+    </message>
+    <message>
+        <source>No index entries were marked.</source>
+        <translation>找不到標記過的索引項目。</translation>
+    </message>
+    <message>
+        <source>Chinese (Taiwan)</source>
+        <translation>中文 (台灣)</translation>
+    </message>
+    <message>
+        <source>Japanese (Japan)</source>
+        <translation>日文 (日本)</translation>
+    </message>
+    <message>
+        <source>Vietnamese</source>
+        <translation>越南文</translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertPageNumberDlg</name>
+    <message>
+        <source>Page number</source>
+        <translation>頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxKeyCategoryCommand</name>
+    <message>
+        <source>Prompt</source>
+        <translation>提示</translation>
+    </message>
+    <message>
+        <source>The macros in this project are disabled.</source>
+        <translation>此專案中的巨集被禁止。</translation>
+    </message>
+</context>
+<context>
+    <name>KxKeyWordTableModel</name>
+    <message>
+        <source>keyword</source>
+        <translation>關鍵字</translation>
+    </message>
+    <message>
+        <source>type</source>
+        <translation>類型</translation>
+    </message>
+    <message>
+        <source>level</source>
+        <translation>機密等級</translation>
+    </message>
+    <message>
+        <source>result</source>
+        <translation>偵測結果</translation>
+    </message>
+    <message>
+        <source>operation</source>
+        <translation>作業</translation>
+    </message>
+</context>
+<context>
+    <name>KxMiniFindBox</name>
+    <message>
+        <source>Search</source>
+        <translation>尋找</translation>
+    </message>
+    <message>
+        <source>Result %1 of %2</source>
+        <translation>第%1/%2個結果</translation>
+    </message>
+    <message>
+        <source>No matches</source>
+        <translation>無相符的結果</translation>
+    </message>
+    <message>
+        <source>Search paused</source>
+        <translation>暫停搜尋</translation>
+    </message>
+    <message>
+        <source>Cannot exceed %1 characters</source>
+        <translation>不能超過%1個字元</translation>
+    </message>
+    <message>
+        <source>Contains invalid special character</source>
+        <translation>包含無效的特殊字元</translation>
+    </message>
+</context>
+<context>
+    <name>KxNotRestartSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Continue numbering</source>
+        <translation>頁碼編號接續前一節</translation>
+    </message>
+</context>
+<context>
+    <name>KxPTab</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對齊定位點</translation>
+    </message>
+    <message>
+        <source>PTabAlignment</source>
+        <translation>對齊方式</translation>
+    </message>
+    <message>
+        <source>PTabLeft</source>
+        <translation>靠左對齊(&amp;L)</translation>
+    </message>
+    <message>
+        <source>PTabCenter</source>
+        <translation>置中對齊(&amp;C)</translation>
+    </message>
+    <message>
+        <source>PTabRight</source>
+        <translation>靠右對齊(&amp;R)</translation>
+    </message>
+    <message>
+        <source>PTabAlignBased</source>
+        <translation>對齊相對於:</translation>
+    </message>
+    <message>
+        <source>pTabMargin</source>
+        <translation>邊界</translation>
+    </message>
+    <message>
+        <source>pTabIndent</source>
+        <translation>縮排</translation>
+    </message>
+    <message>
+        <source>PTabLeader</source>
+        <translation>前置字元</translation>
+    </message>
+    <message>
+        <source>PTabNone</source>
+        <translation>1 無(&amp;1)</translation>
+    </message>
+    <message>
+        <source>PTabDot</source>
+        <translation>2 .......(&amp;2)</translation>
+    </message>
+    <message>
+        <source>PTabHypen</source>
+        <translation>3 -------(&amp;3)</translation>
+    </message>
+    <message>
+        <source>PTabUnderscore</source>
+        <translation>4 _______(&amp;4)</translation>
+    </message>
+    <message>
+        <source>PTabMiddleDot</source>
+        <translation>5 ·······(&amp;5)</translation>
+    </message>
+</context>
+<context>
+    <name>KxParagraphSetAsDefDlg</name>
+    <message>
+        <source>&amp;All documents based on the %1 template?</source>
+        <translation>所有文件依據範本 %1？</translation>
+    </message>
+</context>
+<context>
+    <name>KxRestartSmartPageNumMenuItemCommand</name>
+    <message>
+        <source>Restart current page page number</source>
+        <translation>以本頁為1重啟頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartPageNumDeleteCommand</name>
+    <message>
+        <source>Current page</source>
+        <translation>本頁</translation>
+    </message>
+    <message>
+        <source>From current page</source>
+        <translation>本頁及之後</translation>
+    </message>
+    <message>
+        <source>Entire document</source>
+        <translation>整份文件</translation>
+    </message>
+    <message>
+        <source>To current page</source>
+        <translation>本頁及之前</translation>
+    </message>
+    <message>
+        <source>Current section</source>
+        <translation>本節</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartPageNumRebuildCommand</name>
+    <message>
+        <source>Continue numbering</source>
+        <translation>頁碼編號接續前一節</translation>
+    </message>
+    <message>
+        <source>Page numbering: </source>
+        <translation>頁碼設為: </translation>
+    </message>
+</context>
+<context>
+    <name>KxSortDlg</name>
+    <message>
+        <source>Stroke</source>
+        <translation>筆觸</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>數字</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Phonetic</source>
+        <translation>注音</translation>
+    </message>
+    <message>
+        <source>JIS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(無)</translation>
+    </message>
+    <message>
+        <source>Paragraphs</source>
+        <translation>段落數</translation>
+    </message>
+    <message>
+        <source>Headings</source>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <source>Sort Text</source>
+        <translation>排列文字順序</translation>
+    </message>
+    <message>
+        <source>Field %1</source>
+        <translation>欄位 %1</translation>
+    </message>
+    <message>
+        <source>Column %1</source>
+        <translation>欄 %1</translation>
+    </message>
+    <message>
+        <source>Word cannot sort fields in the selection.</source>
+        <translation>WPS Writer 無法在選取範圍內對欄位排序。</translation>
+    </message>
+    <message>
+        <source>The content cannot be sorted because it is part of a content control.</source>
+        <translation>無法排序內容，因為它是內容控制項的一部分。</translation>
+    </message>
+    <message>
+        <source>The content cannot be sorted.</source>
+        <translation>無法排序內容。</translation>
+    </message>
+</context>
+<context>
+    <name>KxSortOptionsDlg</name>
+    <message>
+        <source>You must type a character for the custom separator.</source>
+        <translation>你必須鍵入一個字元來自訂分隔符號。</translation>
+    </message>
+    <message>
+        <source>Chinese(PRC)</source>
+        <translation>中文 (中國)</translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation>中文 (台灣)</translation>
+    </message>
+    <message>
+        <source>Chinese(Hong Kong S.A.R)</source>
+        <translation>中文 (香港特別行政區)</translation>
+    </message>
+    <message>
+        <source>Chinese(Macao S.A.R)</source>
+        <translation>中文 (澳門特別行政區)</translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation>日文</translation>
+    </message>
+    <message>
+        <source>English (U.S.)</source>
+        <translation>英文 (美國)</translation>
+    </message>
+    <message>
+        <source>English (U.K.)</source>
+        <translation>英文 (英國)</translation>
+    </message>
+    <message>
+        <source>Thai</source>
+        <translation>泰文</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyAddedUsersTableModel</name>
+    <message>
+        <source>id</source>
+        <translation>ID</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>contactname</source>
+        <translation>連絡人</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyReceiverTableItemEdit</name>
+    <message>
+        <source>The input is out of range and the character length is between 0 and 255 characters</source>
+        <translation>輸入內容超出範圍，字元長度必須在0到255之間</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyReceiverTableModel</name>
+    <message>
+        <source>number</source>
+        <translation>編號</translation>
+    </message>
+    <message>
+        <source>receivername</source>
+        <translation>接收者資訊</translation>
+    </message>
+    <message>
+        <source>number of copies</source>
+        <translation>份號</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyReceiverTableViewHeaderView</name>
+    <message>
+        <source>Fill in here: Name, work number, code, etc. can 
+represent the recipient&apos;s information content</source>
+        <translation>這裡可填寫：名稱、員工ID、代號等可以代表接收者的資訊</translation>
+    </message>
+</context>
+<context>
+    <name>KxSyUsersTableViewHeaderView</name>
+    <message>
+        <source>select all</source>
+        <translation>全選</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation>刪除</translation>
+    </message>
+</context>
+<context>
+    <name>KxTableOfFiguresDlg</name>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the selected table of figures?</source>
+        <translation>是否要取代所選目錄?</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+    <message>
+        <source>Caption</source>
+        <translation>標號</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
+    <message>
+        <source>total check result:</source>
+        <translation>檢查結果:共</translation>
+    </message>
+    <message>
+        <source>total</source>
+        <translation>項</translation>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation> ，但並未完成全文檢查</translation>
+    </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation>全部展開(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation>全部摺疊(&amp;C)</translation>
+    </message>
+    <message>
+        <source>date already deleted!</source>
+        <translation>資料已刪除</translation>
+    </message>
+    <message>
+        <source>No data</source>
+        <translation>暫無資料，請按一下[重新檢查]</translation>
+    </message>
+    <message>
+        <source>This document has no confidential keywords</source>
+        <translation>未在本文件發現涉密關鍵字</translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateTableOfContentsDlg</name>
+    <message>
+        <source>Update Table of Figures</source>
+        <translation>更新圖表目錄</translation>
+    </message>
+    <message>
+        <source>WPS Writer is updating the table of figures. Select one of the following options:</source>
+        <translation>WPS Writer 正在更新圖表目錄，請選擇下列其中一個選項:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>keyword checking</source>
+        <translation>涉密關鍵字檢查</translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation>重新檢查</translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation>管理關鍵字</translation>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation>檢查結果</translation>
+    </message>
+    <message>
+        <source>No data</source>
+        <translation>暫無資料，請按一下[重新檢查]</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAddSameLevelContentEntry</name>
+    <message>
+        <source>InsertContentEntryBefore</source>
+        <translation>新增前方同級目錄</translation>
+    </message>
+    <message>
+        <source>InsertContentEntryAfter</source>
+        <translation>新增後方同級目錄</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAddSubContEntry</name>
+    <message>
+        <source>InsertSubContentEntry</source>
+        <translation>新增後方子目錄</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAdvInsertPageNumberDlg</name>
+    <message>
+        <source>Bottom Center</source>
+        <translation>底端置中</translation>
+    </message>
+    <message>
+        <source>Bottom Right</source>
+        <translation>底端右</translation>
+    </message>
+    <message>
+        <source>Bottom Left</source>
+        <translation>底端左</translation>
+    </message>
+    <message>
+        <source>Top Center</source>
+        <translation>頂端置中</translation>
+    </message>
+    <message>
+        <source>Top Right</source>
+        <translation>頂端右</translation>
+    </message>
+    <message>
+        <source>Top Left</source>
+        <translation>頂端左</translation>
+    </message>
+    <message>
+        <source>Bottom Outter</source>
+        <translation>底端外</translation>
+    </message>
+    <message>
+        <source>Bottom Inner</source>
+        <translation>底端內</translation>
+    </message>
+    <message>
+        <source>Top Outter</source>
+        <translation>底端外</translation>
+    </message>
+    <message>
+        <source>Top Inner</source>
+        <translation>頂端內</translation>
+    </message>
+    <message>
+        <source>Set page number format</source>
+        <translation>頁碼格式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAutoTextDlg</name>
+    <message>
+        <source>General</source>
+        <translation>一般</translation>
+    </message>
+    <message>
+        <source>Create New Category</source>
+        <translation>建立新類別...</translation>
+    </message>
+    <message>
+        <source>Insert content only</source>
+        <translation>只插入內容</translation>
+    </message>
+    <message>
+        <source>Insert content in its own paragraph</source>
+        <translation>插入內容到它自己的段落</translation>
+    </message>
+    <message>
+        <source>Insert content in its own page</source>
+        <translation>插入內容到它自己的頁面</translation>
+    </message>
+    <message>
+        <source>Do you want to redefine the building block entry?</source>
+        <translation>您要重新定義建置組塊項目嗎?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAutotextGalleryModelItem</name>
+    <message>
+        <source>insert to current Document</source>
+        <translation>插入到目前檔案</translation>
+    </message>
+    <message>
+        <source>insert to Page Header</source>
+        <translation>插入到頁首</translation>
+    </message>
+    <message>
+        <source>insert to Page Footer</source>
+        <translation>插入到頁尾</translation>
+    </message>
+    <message>
+        <source>insert to Section Begin</source>
+        <translation>插入到節開頭</translation>
+    </message>
+    <message>
+        <source>insert to Section End</source>
+        <translation>插入到節末尾</translation>
+    </message>
+    <message>
+        <source>insert to Document Begin</source>
+        <translation>插入到檔案開頭</translation>
+    </message>
+    <message>
+        <source>insert to Document End</source>
+        <translation>插入到檔案末尾</translation>
+    </message>
+    <message>
+        <source>edit AutoText Property</source>
+        <translation>編輯內容</translation>
+    </message>
+    <message>
+        <source>Delete AutoText Property</source>
+        <translation>刪除</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAutotextPopupMenuCommand</name>
+    <message>
+        <source>modify BuildingBlock</source>
+        <translation>修改建置組塊</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to delete the selected  building block?</source>
+        <translation>您確定要刪除選取的建置組塊嗎?</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCancelContentsSettings</name>
+    <message>
+        <source>CancelContentEntry</source>
+        <translation>取消目錄設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsChangeContentEntryLevel</name>
+    <message>
+        <source>UpgradeContentEntry</source>
+        <translation>升階</translation>
+    </message>
+    <message>
+        <source>DowngradeContentEntry</source>
+        <translation>降階</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsCustomPageNumStyleHelp</name>
+    <message>
+        <source>Page X of Y</source>
+        <translation>第 X 頁 共 Y 頁</translation>
+    </message>
+    <message>
+        <source>Page X of y</source>
+        <translation>第 X 頁 共 y 頁</translation>
+    </message>
+    <message>
+        <source>Page X</source>
+        <translation>第 X 頁</translation>
+    </message>
+    <message>
+        <source>Page 1 of x</source>
+        <translation>第 1 頁 共 x 頁</translation>
+    </message>
+    <message>
+        <source>Page 1</source>
+        <translation>第 1 頁</translation>
+    </message>
+    <message>
+        <source>Page 2 of X</source>
+        <translation>第 一 頁 共 X 頁</translation>
+    </message>
+    <message>
+        <source>Page 2</source>
+        <translation>第 一 頁</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDelContentEntry</name>
+    <message>
+        <source>DeleteCotentEntry</source>
+        <translation>刪除目錄項目</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDelContentEntryPopup</name>
+    <message>
+        <source>DeleteCotentEntry</source>
+        <translation>刪除目錄項目</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgAddCataryName</name>
+    <message>
+        <source>AddAutotextCatary</source>
+        <translation>新增自動圖文集類別</translation>
+    </message>
+    <message>
+        <source>Catary &amp;Name</source>
+        <translation>名稱(N):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgAskFieldName</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDlgAutoText</name>
+    <message>
+        <source>AddNewAutoText</source>
+        <translation>建立新建置組塊</translation>
+    </message>
+    <message>
+        <source>&amp;Name</source>
+        <translation>名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Gallery</source>
+        <translation>圖庫(G):</translation>
+    </message>
+    <message>
+        <source>&amp;Catary</source>
+        <translation>類別(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Description</source>
+        <translation>描述(&amp;D):</translation>
+    </message>
+    <message>
+        <source>&amp;Save in</source>
+        <translation>儲存於(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;options</source>
+        <translation>選項(&amp;O):</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocPane</name>
+    <message>
+        <source>Original Document</source>
+        <translation>原始文件</translation>
+    </message>
+    <message>
+        <source>Revised Document</source>
+        <translation>修訂的文件</translation>
+    </message>
+    <message>
+        <source>Compared Document</source>
+        <translation>比較的文件</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocPaneTitle</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt;便捷功能&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 建立連結以分享&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 匯出為 PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 列印/預覽列印&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsExportSyCodingLibCommand</name>
+    <message>
+        <source>Failed to export coding libary for trace.</source>
+        <translation>無法匯出追蹤程式碼程式庫檔案</translation>
+    </message>
+    <message>
+        <source>cannot export empty coding libary for trace.</source>
+        <translation>無法匯出。程式碼程式庫存在無效內容。</translation>
+    </message>
+    <message>
+        <source>Export coding libary for trace file as</source>
+        <translation>匯出 追蹤程式碼程式庫 檔案為</translation>
+    </message>
+    <message>
+        <source>All File(*.*)|*.*</source>
+        <translation>所有檔案(*.*)|*.*</translation>
+    </message>
+    <message>
+        <source>syCodingLibary</source>
+        <translation>追蹤程式碼程式庫</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertContentEntry</name>
+    <message>
+        <source>InsertContentEntry</source>
+        <translation>新增同級目錄項目</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsInsertTableOfContents</name>
+    <message>
+        <source>InsertTableOfContents</source>
+        <translation>插入目錄</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsNumberingModel</name>
+    <message>
+        <source>GalleryNumbering</source>
+        <translation>編號</translation>
+    </message>
+    <message>
+        <source>GalleryOutlineNumbering</source>
+        <translation>多級編號</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageMarginSingleSpinCommand</name>
+    <message>
+        <source>mm</source>
+        <translation>公釐</translation>
+    </message>
+    <message>
+        <source>the margin value is out of range.</source>
+        <translation>邊界對於紙張的長寬太大</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPageNumSomeFormatInitHelp</name>
+    <message>
+        <source>0;57;1</source>
+        <translation>0;57;1</translation>
+    </message>
+    <message>
+        <source>14;28;37;38;2;3;4;30;31;10;20;21;5;6;7</source>
+        <translation>14;28;37;38;2;3;4;30;31;10;20;21;5;6;7</translation>
+    </message>
+    <message>
+        <source>53;54;55</source>
+        <translation>53;54;55</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPagePositionInfoCommand</name>
+    <message>
+        <source>SetValue: %1</source>
+        <translation>設定值: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsPercentOnTBCommand</name>
+    <message>
+        <source>&amp;Whole Page</source>
+        <translation type="obsolete">整頁(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Page Width</source>
+        <translation type="obsolete">頁寬(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Text Width</source>
+        <translation type="obsolete">文字寬度(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Whole Page</source>
+        <translation>整頁</translation>
+    </message>
+    <message>
+        <source>Page Width</source>
+        <translation>頁寬</translation>
+    </message>
+    <message>
+        <source>Text Width</source>
+        <translation>文字寬度</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReadingDivisionListCommand</name>
+    <message>
+        <source>One column</source>
+        <translation>一欄</translation>
+    </message>
+    <message>
+        <source>Two column</source>
+        <translation>兩欄</translation>
+    </message>
+    <message>
+        <source>Auto fit</source>
+        <translation>自動調整</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewByTimeWidget</name>
+    <message>
+        <source>to</source>
+        <translation>到</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersComboBox</name>
+    <message>
+        <source>All Reviewers</source>
+        <translation>所有檢閱者</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterDelegate</name>
+    <message>
+        <source>Clear Filter</source>
+        <translation>清除篩選器</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation>僅選此項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterListView</name>
+    <message>
+        <source>Clear Filter</source>
+        <translation>清除篩選器</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation>僅選此項</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterModel</name>
+    <message>
+        <source>All Reviewers(&amp;A)</source>
+        <translation>所有檢閱者(A)</translation>
+    </message>
+    <message>
+        <source>All Reviewers</source>
+        <translation>所有檢閱者</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation>僅選此項</translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <translation>清除篩選器</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersWithSelectThisComboBox</name>
+    <message>
+        <source>All Reviewers</source>
+        <translation>所有檢閱者</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSectNavViewItemContent</name>
+    <message>
+        <source>Add Page</source>
+        <translation>新增空白頁</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartPageNumPane</name>
+    <message>
+        <source>Format: </source>
+        <translation>樣式:</translation>
+    </message>
+    <message>
+        <source>Position: </source>
+        <translation>位置:</translation>
+    </message>
+    <message>
+        <source>Apply to: </source>
+        <translation>套用至:</translation>
+    </message>
+    <message>
+        <source>Inner</source>
+        <translation>雙面列印 2</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右</translation>
+    </message>
+    <message>
+        <source>Outter</source>
+        <translation>雙面列印 1</translation>
+    </message>
+    <message>
+        <source>Entire document</source>
+        <translation>整份文件</translation>
+    </message>
+    <message>
+        <source>From current page</source>
+        <translation>本頁及之後</translation>
+    </message>
+    <message>
+        <source>Current section</source>
+        <translation>本節</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Set page number format</source>
+        <translation>設定頁碼樣式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsSmartPageNumRelayoutDlg</name>
+    <message>
+        <source>Relayout page number</source>
+        <translation>重排頁碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTableOfContentsModel</name>
+    <message>
+        <source>ManualTable</source>
+        <translation>手動目錄</translation>
+    </message>
+    <message>
+        <source>AutomaticTable</source>
+        <translation>自動目錄</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsTitleButton</name>
+    <message>
+        <source>Update Table...</source>
+        <translation>更新目錄...</translation>
+    </message>
+    <message>
+        <source>Remove Table Of Contents</source>
+        <translation>刪除目錄</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWebPreviewWinChangeThemeWidget</name>
+    <message>
+        <source>Select typesetting style:</source>
+        <translation type="obsolete">選取印刷樣式:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsWebPreviewWinDisplayWidget</name>
+    <message>
+        <source>only display part of the document, because the document is too large</source>
+        <translation type="obsolete">文件過大，僅可預覽部分內容。請進入共享視窗開啟連結以檢視完整頁面。</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsZoomSlider</name>
+    <message>
+        <source>Fit Page to current window</source>
+        <translation>最佳顯示比例</translation>
+    </message>
+</context>
+<context>
+    <name>kxWpsSectionMergeCmd</name>
+    <message>
+        <source>Merge to</source>
+        <translation>合併至</translation>
+    </message>
+    <message>
+        <source>Section %1 </source>
+        <translation type="obsolete">第 %1  節</translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation type="obsolete">節</translation>
+    </message>
+    <message>
+        <source>The first </source>
+        <translation>第 </translation>
+    </message>
+    <message>
+        <source> Section</source>
+        <translation>章節 </translation>
     </message>
 </context>
 </TS>

@@ -921,26 +921,24 @@ Haga clic en la flecha para seleccionar la configuración detallada del contorno
         <translation></translation>
     </message>
     <message id="ExportToPDF.title">
-        <source></source>
-        <oldsource>Export to PDF</oldsource>
+        <source>Export to PDF</source>
         <extracomment>ExportToPDF.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exportar a PDF</translation>
     </message>
     <message id="ExportToPDF.content">
-        <source></source>
-        <oldsource>Export the document to a PDF file.</oldsource>
+        <source>Export the document to a PDF file.</source>
         <extracomment>ExportToPDF.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Exportar el documento a un archivo PDF.</translation>
     </message>
     <message id="DocerURLEntranceTip.title">
         <source>Docer Entrance</source>
         <extracomment>DocerURLEntranceTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Docer</translation>
     </message>
     <message id="DocerURLEntranceTip.content">
         <source>Provide you the most professional online templates.</source>
         <extracomment>DocerURLEntranceTip.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Le proporciona las plantillas en línea más profesionales.</translation>
     </message>
     <message id="Protect_Eyes.title">
         <source>Eye Protection Mode</source>
@@ -980,326 +978,663 @@ Haga clic en la flecha para seleccionar la configuración detallada del contorno
     <message id="DonateMoney.title">
         <source>Donate</source>
         <extracomment>DonateMoney.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Donar</translation>
     </message>
     <message id="DonateMoney.content">
         <source>Donate to WPS Office.</source>
         <extracomment>DonateMoney.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aporte su donación para WPS Office.</translation>
     </message>
     <message id="QuickBarAddChartElement.title">
         <source>Chart Elements</source>
         <extracomment>QuickBarAddChartElement.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elementos de gráfico</translation>
     </message>
     <message id="QuickBarAddChartElement.content">
         <source>Add,remove or change chart elements such as the title,legend,gridlines,and data labels.</source>
         <extracomment>QuickBarAddChartElement.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agregue, elimine o cambie elementos del gráfico como el título, la leyenda, las líneas de cuadrícula o las etiquetas de datos.</translation>
     </message>
     <message id="QuickBarChartStyle.title">
         <source>Chart Styles</source>
         <extracomment>QuickBarChartStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de gráfico</translation>
     </message>
     <message id="QuickBarChartStyle.content">
         <source>Set a Style and color scheme for your chart.</source>
         <extracomment>QuickBarChartStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Defina un estilo y una combinación de colores para el gráfico.</translation>
     </message>
     <message id="QuickBarChartFilters.title">
         <source>Chart Filters</source>
         <extracomment>QuickBarChartFilters.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Filtros de gráfico</translation>
     </message>
     <message id="QuickBarChartFilters.content">
         <source>Edit what data points and names are visible on your chart.</source>
         <extracomment>QuickBarChartFilters.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Edite los puntos de datos y nombres que serán visibles en el gráfico.</translation>
     </message>
     <message id="QuickBarFormatChartArea.title">
         <source>Format Chart Area</source>
         <extracomment>QuickBarFormatChartArea.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formato del área del gráfico</translation>
     </message>
     <message id="QuickBarFormatChartArea.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
         <extracomment>QuickBarFormatChartArea.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Muestre el panel de tareas de Formato para ajustar el formato del elemento de gráfico seleccionado.</translation>
     </message>
     <message id="FormatObject.title">
         <source>Format Object</source>
         <extracomment>FormatObject.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formato de objeto</translation>
     </message>
     <message id="FormatObject.content">
         <source>Use&apos;Format Object‘task pane to fine tune the appearance of your shape</source>
         <extracomment>FormatObject.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Realice los ajustes necesarios en el aspecto de la forma mediante el panel de tareas Formato de forma.</translation>
     </message>
     <message id="ShapeHeight.title">
         <source>Shape Height</source>
         <extracomment>ShapeHeight.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Altura de forma</translation>
     </message>
     <message id="ShapeHeight.content">
         <source>Change the height of the shape or picture.</source>
         <extracomment>ShapeHeight.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la altura de la forma o imagen.</translation>
     </message>
     <message id="ShapeWidth.title">
         <source>Shape Width</source>
         <extracomment>ShapeWidth.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Ancho de forma</translation>
     </message>
     <message id="ShapeWidth.content">
         <source>Change the width of the shape or picture.</source>
         <extracomment>ShapeWidth.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie el ancho de la forma o imagen.</translation>
     </message>
     <message id="ShapeEffects.title">
         <source>Shape Effects</source>
         <extracomment>ShapeEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de forma</translation>
     </message>
     <message id="ShapeEffects.content">
         <source>Apply a visual effect to to the selected shape, such as shadow, glow, reflection, or 3-D rotation.</source>
         <extracomment>ShapeEffects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aplique un efecto visual a la forma seleccionada, como por ejemplo sombra, iluminación, reflejo o rotación 3D.</translation>
     </message>
     <message id="TextFontOutline.title">
         <source>Text Outline</source>
         <extracomment>TextFontOutline.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Contorno de texto</translation>
     </message>
     <message id="TextFontOutline.content">
         <source>Customize the outline of your text by choosing the color, width and line style.</source>
         <extracomment>TextFontOutline.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Personalice el contorno del texto eligiendo el color, el ancho y el estilo de línea.</translation>
     </message>
     <message id="FontEffects.title">
         <source>Text Effects</source>
         <extracomment>FontEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de texto</translation>
     </message>
     <message id="FontEffects.content">
         <source>Turn your work  into a work of art.
 
 add a visual effect such as shadow, glow or reflection to your text.</source>
         <extracomment>FontEffects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Convierta su trabajo en una obra de arte.
+
+Agregue un efecto visual como sombra, iluminado o reflejo al texto.</translation>
     </message>
     <message id="PictureEffects.title">
         <source>Picture Effects</source>
         <extracomment>PictureEffects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de imagen</translation>
     </message>
     <message id="PictureEffects.content">
         <source>Apply a visual effect to to the picture,such as shadow,glow, reflection, or 3-D rotation.</source>
         <extracomment>PictureEffects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aplique un efecto visual a la imagen, como por ejemplo sombra, iluminado, reflejo o rotación 3D.</translation>
     </message>
     <message id="WordArtStyles.title">
         <source>Format Text Effects: Text Box</source>
         <extracomment>WordArtStyles.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formato de efectos de texto: cuadro de texto</translation>
     </message>
     <message id="WordArtStyles.content">
         <source>Show the Format Text Effects task pane to change text properties.</source>
         <extracomment>WordArtStyles.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Muestre el panel de tareas de Formato de efectos de texto para cambiar las propiedades del texto.</translation>
     </message>
     <message id="FormatObjectSize.title">
         <source>Size and Properties</source>
         <extracomment>FormatObjectSize.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Tamaño y propiedades</translation>
     </message>
     <message id="FormatObjectSize.content">
         <source>Show the Size and Properties dialog box in which you can specify the size and position of the object ans specify alternative text.</source>
         <extracomment>FormatObjectSize.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Muestre el cuadro de diálogo Tamaño y propiedades, en el que podrá especificar el tamaño y la posición del objeto, así como especificar texto alternativo.</translation>
     </message>
     <message id="Themes.title">
         <source>Themes</source>
         <extracomment>Themes.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Temas</translation>
     </message>
     <message id="Themes.content">
         <source>Change the overall design of your document by colors, fonts and effects.</source>
         <extracomment>Themes.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie el diseño general de todo el documento, incluidos los colores, las fuentes y los efectos.</translation>
     </message>
     <message id="Theme Colors.title">
         <source>Theme Colors</source>
         <extracomment>Theme Colors.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Colores del tema</translation>
     </message>
     <message id="Theme Colors.content">
         <source>Change the colors of current theme.</source>
         <extracomment>Theme Colors.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie los colores del tema actual.</translation>
     </message>
     <message id="Theme Fonts.title">
         <source>Theme Fonts</source>
         <extracomment>Theme Fonts.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Fuentes de tema</translation>
     </message>
     <message id="Theme Fonts.content">
         <source>Change the fonts of current theme.</source>
         <extracomment>Theme Fonts.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie las fuentes del tema actual.</translation>
     </message>
     <message id="Theme Effects.title">
         <source>Theme Effects</source>
         <extracomment>Theme Effects.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Efectos de tema</translation>
     </message>
     <message id="Theme Effects.content">
         <source>Change the effect of current Theme.</source>
         <extracomment>Theme Effects.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie los efectos del tema actual.</translation>
     </message>
     <message id="EditShape.title">
         <source>Edit Shape</source>
         <extracomment>EditShape.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Editar forma</translation>
     </message>
     <message id="EditShape.content">
         <source>Change the shape of this drawing, convert it to a freeform shape, or edit the wrap points to determine how text wraps around the drawing.</source>
         <extracomment>EditShape.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie la forma del dibujo, conviértala en una forma libre, o edite los puntos de ajuste para determinar cómo se extenderá el texto alrededor del dibujo.</translation>
     </message>
     <message id="ShapeFormatStyle.title">
         <source>Shape Styles</source>
         <extracomment>ShapeFormatStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Estilos de forma</translation>
     </message>
     <message id="ShapeFormatStyle.content">
         <source>Apply different preset effect to the selected shape.</source>
         <extracomment>ShapeFormatStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aplique un efecto preestablecido diferente a la forma seleccionada.</translation>
     </message>
     <message id="AddChartElements.title">
         <source>Chart Elements</source>
         <extracomment>AddChartElements.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elementos de gráfico</translation>
     </message>
     <message id="AddChartElements.content">
         <source>Add chart elements such as the title,legend,gridlines,and data labels.</source>
         <extracomment>AddChartElements.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Agregue elementos del gráfico como un título, una leyenda, líneas de cuadrícula o etiquetas de datos.</translation>
     </message>
     <message id="SpeedLayout.title">
         <source>Quick Layout</source>
         <extracomment>SpeedLayout.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Diseño rápido</translation>
     </message>
     <message id="SpeedLayout.content">
         <source>Change the overall layout of the chart.</source>
         <extracomment>SpeedLayout.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie el diseño general del gráfico.</translation>
     </message>
     <message id="ChangeColor.title">
         <source>Chart Quick Colors</source>
         <extracomment>ChangeColor.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Colores rápidos de gráfico</translation>
     </message>
     <message id="ChangeColor.content">
         <source>Customize Color and Style</source>
         <extracomment>ChangeColor.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Personalizar color y estilo</translation>
     </message>
     <message id="SwitchRowCol.title">
         <source>Switch Row/Column</source>
         <extracomment>SwitchRowCol.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar fila/columna</translation>
     </message>
     <message id="SwitchRowCol.content">
         <source>Swap the data over the axis.
 
 Data being charted on the X axis will move to the Y axis and vice versa.</source>
         <extracomment>SwitchRowCol.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Intercambie los datos a lo largo del eje.
+
+Los datos que se representan sobre el eje X pasarán al eje Y y viceversa.</translation>
     </message>
     <message id="ChooseDataSource.title">
         <source>Select Data</source>
         <extracomment>ChooseDataSource.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar datos</translation>
     </message>
     <message id="ChooseDataSource.content">
         <source>Change the data range included in the chart.</source>
         <extracomment>ChooseDataSource.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie el rango de datos incluido en el gráfico.</translation>
     </message>
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
         <extracomment>ChangeChartType.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar tipo de gráfico</translation>
     </message>
     <message id="ChangeChartType.content">
         <source>Change to a different type of chart.</source>
         <extracomment>ChangeChartType.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Cambie a otro tipo de gráfico.</translation>
     </message>
     <message id="MoveChart.title">
         <source>Move Chart</source>
         <extracomment>MoveChart.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mover gráfico</translation>
     </message>
     <message id="MoveChart.content">
         <source>Move this chart to another sheet or tab in the workbook.</source>
         <extracomment>MoveChart.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mueva este gráfico a otra hoja o pestaña del libro.</translation>
     </message>
     <message id="ChartElements.title">
         <source>Chart Elements</source>
         <extracomment>ChartElements.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Elementos de gráfico</translation>
     </message>
     <message id="ChartElements.content">
         <source>Select a chart element so that you can format it.</source>
         <extracomment>ChartElements.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccione un elemento de gráfico para que pueda darle formato.</translation>
     </message>
     <message id="ChartElementFormat.title">
         <source>Format</source>
         <extracomment>ChartElementFormat.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message id="ChartElementFormat.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
         <extracomment>ChartElementFormat.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Muestre el panel de tareas de Formato para ajustar el formato del elemento de gráfico seleccionado.</translation>
     </message>
     <message id="ResetToFitStyle.title">
         <source>Reset Style</source>
         <extracomment>ResetToFitStyle.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer estilo</translation>
     </message>
     <message id="ResetToFitStyle.content">
         <source>Clear the custom formatting of the selected chart element back to the overall visual style applied to the chart.
 
 The ensures that selected chart element matches the overall theme of the document.</source>
         <extracomment>ResetToFitStyle.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Borre el formato personalizado del elemento del gráfico seleccionado para devolverle el estilo visual general aplicado al gráfico.
+
+Esto permite que el elemento del gráfico seleccionado coincida con el tema general del documento.</translation>
     </message>
     <message id="ksoTextFill.title">
         <source>Text Fill</source>
         <extracomment>ksoTextFill.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Relleno de texto</translation>
     </message>
     <message id="ksoTextFill.content">
         <source>Fill the text with a solid color, gradient, picture, or texture.</source>
         <extracomment>ksoTextFill.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Rellene el texto con un color sólido, un degradado, una imagen o una textura.</translation>
     </message>
     <message id="TouchUiMode.title">
         <source>Touch Mode</source>
-        <translation type="obsolete">Modo táctil</translation>
+        <translation>Modo táctil</translation>
     </message>
     <message id="TouchUiMode.content">
         <source>More space between commands. Optimized for use with touch.</source>
-        <translation type="obsolete">Más espacio entre comandos. Optimizado para uso táctil.</translation>
+        <translation>Más espacio entre comandos. Optimizado para uso táctil.</translation>
+    </message>
+    <message id="ImagePreview.title">
+        <source>Picture Preview</source>
+        <extracomment>ImagePreview.title</extracomment>
+        <translation>Vista previa de imagen</translation>
+    </message>
+    <message id="ImagePreview.content">
+        <source>View the selected picture in its original size or in window size.</source>
+        <extracomment>ImagePreview.content</extracomment>
+        <translation>Vea la imagen seleccionada en su tamaño original o en el tamaño de la ventana.</translation>
+    </message>
+    <message id="AddPicFrame.title">
+        <source>Add picture frames</source>
+        <extracomment>AddPicFrame.title</extracomment>
+        <translation>Agregar marcos de imagen</translation>
+    </message>
+    <message id="AddPicFrame.content">
+        <source>Choose a different border styles to meet the needs of individual pictures.</source>
+        <extracomment>AddPicFrame.content</extracomment>
+        <translation>Seleccione estilos de borde distintos para cumplir las necesidades de las imágenes individuales.</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TextTools.title</extracomment>
+        <translation>Configuración</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_TextTools.content</extracomment>
+        <translation>Cambiar la configuración del formato de texto.</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools.title</extracomment>
+        <translation>Configuración</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools.content</extracomment>
+        <translation>Cambiar la configuración del formato de imagen.</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.title">
+        <source>Docer</source>
+        <extracomment>DocerHomeEntranceTip.title</extracomment>
+        <translation>Docer</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.content">
+        <source>A platform for sharing various Office document resources.</source>
+        <extracomment>DocerHomeEntranceTip.content</extracomment>
+        <translation>Plataforma para compartir distintos recursos de documentos de Office.</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.title">
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Docer</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.content">
+        <source>Provide you the most professional online templates.</source>
+        <extracomment>IntranetVersion DocerURLEntranceTip.title</extracomment>
+        <translation>Le proporciona las plantillas en línea más profesionales.</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.title">
+        <source>File Roaming</source>
+        <extracomment>KOSRoamingfileTip_pro.title</extracomment>
+        <translation>Roaming de archivos</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.content">
+        <source>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</source>
+        <extracomment>KOSRoamingfileTip_pro.content</extracomment>
+        <translation>Se envía automáticamente los archivos abiertos a Cloud y todos los dispositivos suyos.
+
+Puede empezar el trabajo cuando y donde quiera.</translation>
+    </message>
+    <message id="KOSHomepageTip.title">
+        <source>My WPS</source>
+        <extracomment>KOSHomepageTip.title</extracomment>
+        <translation></translation>
+    </message>
+    <message id="KOSHomepageTip.content">
+        <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
+        <extracomment>KOSHomepageTip.content</extracomment>
+        <translation></translation>
+    </message>
+    <message id="XiuTangH5Tip.title">
+        <source>XiuTang H5</source>
+        <oldsource>XiuTang</oldsource>
+        <translation></translation>
+    </message>
+    <message id="XiuTangH5Tip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>XiuTangH5Tip.content</extracomment>
+        <translation>Disfrute de XiuTang.</translation>
+    </message>
+    <message id="DocPermission.title">
+        <source>Document Permission</source>
+        <extracomment>DocPermission.title</extracomment>
+        <translation>Permisos del documento</translation>
+    </message>
+    <message id="DocPermission.content">
+        <source>After setting permissions, only authorized users can open this document.</source>
+        <extracomment>DocPermission.content</extracomment>
+        <translation>Después de establecer los permisos, solo los usuarios autorizados pueden abrir este documento.</translation>
+    </message>
+    <message id="HardwareEncryption.title">
+        <source>Hardware Encryption</source>
+        <extracomment>HardwareEncryption.title</extracomment>
+        <translation>Cifrado con hardware</translation>
+    </message>
+    <message id="HardwareEncryption.content">
+        <source>Encrypt document with a USB Key to further ensure its security.</source>
+        <extracomment>HardwareEncryption.content</extracomment>
+        <translation>Cifre el documento con una llave USB para garantizar su seguridad aún más.</translation>
+    </message>
+    <message id="Auto_Backup.title">
+        <source>Backup Setting</source>
+        <extracomment>Auto_Backup.title</extracomment>
+        <translation>Configuración de la copia de seguridad</translation>
+    </message>
+    <message id="Auto_Backup.content">
+        <source>Setting backup interval and path</source>
+        <oldsource>Setting bakcup interval and path</oldsource>
+        <extracomment>Auto_Backup.content</extracomment>
+        <translation>Estableciendo intervalo y ruta de la copia de seguridad.</translation>
+    </message>
+    <message id="ExpandQuickBar.content">
+        <source>Expand the quick bar.</source>
+        <extracomment>ExpandQuickBar.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CollapseQuickBar.content">
+        <source>Collapse the quick bar.</source>
+        <extracomment>CollapseQuickBar.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WordArtQuickBarExpand.content">
+        <source>Expand the word art quick bar.</source>
+        <extracomment>WordArtQuickBarExpand.content
+----------
+WordArtQuickBarExpand.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WordArtQuickBarCollapse.content">
+        <source>Collapse the word art quick bar.</source>
+        <extracomment>WordArtQuickBarCollapse.content
+----------
+WordArtQuickBarCollapse.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WordArtGalleryQuickBar.title">
+        <source>Word art library.</source>
+        <extracomment>WordArtGalleryQuickBar.title
+----------
+WordArtGalleryQuickBar.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WordArtGalleryQuickBar.content">
+        <source>Select your favorite word art style.</source>
+        <extracomment>WordArtGalleryQuickBar.content
+----------
+WordArtGalleryQuickBar.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TransformQuickBar.title">
+        <source>Transform</source>
+        <extracomment>TransformQuickBar.title
+----------
+TransformQuickBar.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TransformQuickBar.content">
+        <source>The tansform style of word art.</source>
+        <extracomment>TransformQuickBar.content
+----------
+TransformQuickBar.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertMap.title">
+        <source>Insert map</source>
+        <extracomment>InsertMap.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertMap.content">
+        <source>Insert an online map</source>
+        <extracomment>InsertMap.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertQRCode.title">
+        <source>Insert QRCode</source>
+        <extracomment>InsertQRCode.title
+----------
+InsertQRCode.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertQRCode.content">
+        <source>Insert a QRCode</source>
+        <extracomment>InsertQRCode.content
+----------
+InsertQRCode.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TriggerExtendObject.title">
+        <source>Edit extend object content</source>
+        <extracomment>TriggerExtendObject.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TriggerExtendObject.content">
+        <source>Open an extend object editor dialog</source>
+        <extracomment>InsertQRCode.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineChart.title">
+        <source>Online Chart</source>
+        <extracomment>OnlineChart.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineChart.content">
+        <source>Including richer chart styles,this function requires to be connected to the net.</source>
+        <extracomment>OnlineChart.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XieDeTip.title">
+        <source>XieDe</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="XieDeTip.content">
+        <source>Create online documents to share to QQ or WeChat, in which you can add ready controls including audio, video, rating, time axis, map, mind map, etc.</source>
+        <extracomment>XieDeTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CloudFormTip.title">
+        <source>XiuTang H5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CloudFormTip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>CloudFormTip.content</extracomment>
+        <translation type="unfinished">Disfrute de XiuTang.</translation>
+    </message>
+    <message id="OnlineDiagramMoreTip.title">
+        <source>Insert Online Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineDiagramMoreTip.content">
+        <source>Diagram can make the text structure more clearly</source>
+        <extracomment>OnlineDiagramMoreTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextToDiagram.title">
+        <source>Show text with Diagram</source>
+        <extracomment>TextToDiagram.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="TextToDiagram.content">
+        <source>Auto using Diagram to show text</source>
+        <extracomment>TextToDiagram.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertRelationshipDiagram.title">
+        <source>Insert Relationship Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertRelationshipDiagram.content">
+        <source>Insert Relationship Diagram content</source>
+        <extracomment>InsertRelationshipDiagram.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LinkShareTip.title">
+        <source>Link Preview</source>
+        <extracomment>LinkShareTip.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LinkShareTip.content">
+        <source>Share documents in link to friend.</source>
+        <extracomment>LinkShareTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OneStepSaveTip.title">
+        <source>One Step Save</source>
+        <extracomment>OneStepSaveTip.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OneStepSaveTip.content">
+        <source>One step save local file to WPS cloud,multi terminal,anytime,anywhere to use documents.</source>
+        <extracomment>OneStepSaveTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Photo2Pdf.title">
+        <source>Photo to Pdf</source>
+        <extracomment>Photo2Pdf.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Photo2Pdf.content">
+        <source>Photo to Pdf Converter.</source>
+        <extracomment>Photo2Pdf.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSmartDiagram.title">
+        <source>Insert Smart Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSmartDiagram.content">
+        <source>Insert Smart Diagram content</source>
+        <extracomment>InsertSmartDiagram.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartGallery.title">
+        <source>Chart Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartGallery.content">
+        <source>Chart Gallery content</source>
+        <extracomment>ChartGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PPTCustom.title">
+        <source>PPTCustom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PPTCustom.content">
+        <source>PPTCustom content</source>
+        <extracomment>PPTCustom.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocerMall.title">
+        <source>Docer Mall</source>
+        <extracomment>DocerMall.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocerMall.content">
+        <source>DocerMall content</source>
+        <extracomment>DocerMall.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

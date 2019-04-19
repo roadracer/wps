@@ -21,12 +21,12 @@
     <name>BubbleWidget</name>
     <message>
         <source>Never show again</source>
-        <translation type="obsolete">Ne plus afficher</translation>
+        <translation>Ne plus afficher</translation>
     </message>
     <message>
         <source>You can also click here to switch to 
 Eye Protection Mode or Night Mode.</source>
-        <translation type="obsolete">Vous pouvez aussi cliquer ici pour ouvrir 
+        <translation>Vous pouvez aussi cliquer ici pour ouvrir 
 Mode de Protection des Yeux ou Mode Nocturne.</translation>
     </message>
 </context>
@@ -351,7 +351,7 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     </message>
     <message>
         <source>bgContains</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">bgContient</translation>
     </message>
     <message>
         <source>&amp;Series Name</source>
@@ -427,7 +427,7 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     </message>
     <message>
         <source>bgLabelPosition</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">bgPositionÉtiquette</translation>
     </message>
     <message>
         <source>&amp;Inside End</source>
@@ -468,6 +468,10 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     <message>
         <source>Clo&amp;ne Current Label</source>
         <translation>Cloner l’étiquette active</translation>
+    </message>
+    <message>
+        <source>Selec&amp;t Range...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -517,7 +521,7 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     </message>
     <message>
         <source>bgErrorBarDirection</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">bgErreurOrientationBarre</translation>
     </message>
     <message>
         <source>&amp;Minus</source>
@@ -537,7 +541,7 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     </message>
     <message>
         <source>bgErrorBarEndStyle</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">bgErreurStyleExtrémitéBarre</translation>
     </message>
     <message>
         <source>C&amp;ap</source>
@@ -553,7 +557,7 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     </message>
     <message>
         <source>bgErrorAmountType</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">bgErreurTypeQuantité</translation>
     </message>
     <message>
         <source>0.1</source>
@@ -767,6 +771,10 @@ Mode de Protection des Yeux ou Mode Nocturne.</translation>
     <message>
         <source>L&amp;inked to source</source>
         <translation>&amp;Lier à la source</translation>
+    </message>
+    <message>
+        <source>Calendar type:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1212,11 +1220,11 @@ mobile</translation>
     <name>KApplication</name>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation>L&apos;installation ou des correctifs de mise à jour sont en cours d&apos;exécution. %1 va s&apos;interrompre. Exécutez de nouveau %2 une fois l&apos;installation ou la mise à jour terminée.</translation>
+        <translation type="obsolete">L&apos;installation ou des correctifs de mise à jour sont en cours d&apos;exécution. %1 va s&apos;interrompre. Exécutez de nouveau %2 une fois l&apos;installation ou la mise à jour terminée.</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation>Les mises à jour de WPS Office ont été téléchargées. Voulez-vous les installer maintenant ?</translation>
+        <translation type="obsolete">Les mises à jour de WPS Office ont été téléchargées. Voulez-vous les installer maintenant ?</translation>
     </message>
 </context>
 <context>
@@ -1424,7 +1432,7 @@ mobile</translation>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation>Le document qui n&apos;a pas été enregistré lors de la dernière fermeture a été restauré. Si vous ne souhaitez pas restaurer le fichier, fermez-le et ouvrez de nouveau le fichier d&apos;origine.</translation>
+        <translation type="obsolete">Le document qui n&apos;a pas été enregistré lors de la dernière fermeture a été restauré. Si vous ne souhaitez pas restaurer le fichier, fermez-le et ouvrez de nouveau le fichier d&apos;origine.</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -1536,7 +1544,7 @@ mobile</translation>
     </message>
     <message>
         <source>You may have executed some wrong operations, we suggest you upload error files to help WPS solve such issues</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office a rencontré des erreurs inconnues. Nous vous suggérons de télécharger les fichiers d&apos;erreur afin d&apos;aider WPS à résoudre ses problèmes.</translation>
     </message>
 </context>
 <context>
@@ -1597,7 +1605,7 @@ mobile</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation type="obsolete">Noir Élégant 2013</translation>
+        <translation>Noir Élégant 2013</translation>
     </message>
     <message>
         <source>2013 Skin</source>
@@ -1645,11 +1653,11 @@ mobile</translation>
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="obsolete">à propos de:vide</translation>
+        <translation>à propos de:vide</translation>
     </message>
     <message>
         <source>Skin</source>
-        <translation type="obsolete">Apparence</translation>
+        <translation>Apparence</translation>
     </message>
     <message>
         <source>2016 White</source>
@@ -2079,7 +2087,7 @@ mobile</translation>
     </message>
     <message>
         <source>CustomLocation Button Title</source>
-        <translation>Ajouter un emplacement personnalisé</translation>
+        <translation type="obsolete">Ajouter un emplacement personnalisé</translation>
     </message>
     <message>
         <source>Custom Control Max Count Tip</source>
@@ -2087,31 +2095,67 @@ mobile</translation>
     </message>
     <message>
         <source>Search Waiting Text</source>
-        <translation>Recherche…</translation>
+        <translation type="obsolete">Recherche…</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>Nom</translation>
+        <translation type="obsolete">Nom</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>Chemin d&apos;accès</translation>
+        <translation type="obsolete">Chemin d&apos;accès</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>Type</translation>
+        <translation type="obsolete">Type</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>Taille</translation>
+        <translation type="obsolete">Taille</translation>
     </message>
     <message>
         <source>Last Modify Time</source>
-        <translation>Heure de dernière modification</translation>
+        <translation type="obsolete">Heure de dernière modification</translation>
     </message>
     <message>
         <source>Search Fail Text</source>
-        <translation>Échec de l&apos;initialisation des outils de recherche</translation>
+        <translation type="obsolete">Échec de l&apos;initialisation des outils de recherche</translation>
+    </message>
+    <message>
+        <source>CloudDisk</source>
+        <translation>DisqueCloud</translation>
+    </message>
+    <message>
+        <source>There is an extension of the data in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveCloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clouddisk shares received</source>
+        <translation>Liens de partage reçus</translation>
+    </message>
+    <message>
+        <source>PDFSaveOption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save encrypted document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last open path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2253,7 +2297,7 @@ mobile</translation>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished">Erreur réseau...</translation>
+        <translation type="obsolete">Erreur réseau...</translation>
     </message>
     <message>
         <source>Local Language Packs</source>
@@ -2332,7 +2376,7 @@ mobile</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
@@ -2372,7 +2416,7 @@ mobile</translation>
     </message>
     <message>
         <source>Fail to save the serial number. Please check whether you have the administrator permission or not.</source>
-        <translation type="unfinished">Échec de l&apos;enregistrement du numéro de série. Vérifiez que vous disposez de l&apos;autorisation administrateur.</translation>
+        <translation type="obsolete">Échec de l&apos;enregistrement du numéro de série. Vérifiez que vous disposez de l&apos;autorisation administrateur.</translation>
     </message>
 </context>
 <context>
@@ -2392,6 +2436,10 @@ mobile</translation>
     <message>
         <source>Password error, try again</source>
         <translation type="obsolete">Mot de passe incorrect,veuillez réessayer.</translation>
+    </message>
+    <message>
+        <source>Password Hint:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2538,6 +2586,10 @@ mobile</translation>
     <message>
         <source>Default Font</source>
         <translation>Police par défaut</translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2890,14 +2942,14 @@ mobile</translation>
     <name>KWordArtGalleryModel</name>
     <message>
         <source>No Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun style</translation>
     </message>
 </context>
 <context>
     <name>KWpsHostHelper</name>
     <message>
         <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
-        <translation>Un problème est survenu dans les fichiers système WPS Office. Impossible de démarrer %1 		tant que la réparation automatique n&apos;est pas exécutée. Lorsque vous y êtes invité, cliquez &quot;Oui&quot; pour terminer la réparation.</translation>
+        <translation type="obsolete">Un problème est survenu dans les fichiers système WPS Office. Impossible de démarrer %1 		tant que la réparation automatique n&apos;est pas exécutée. Lorsque vous y êtes invité, cliquez &quot;Oui&quot; pour terminer la réparation.</translation>
     </message>
 </context>
 <context>
@@ -2908,7 +2960,7 @@ mobile</translation>
     </message>
     <message>
         <source>%1(%2)</source>
-        <translation type="unfinished">%1(%2)</translation>
+        <translation type="obsolete">%1(%2)</translation>
     </message>
     <message>
         <source>About WPS Office</source>
@@ -2949,6 +3001,53 @@ mobile</translation>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
         <translation>Impossible de trouver le fichier d&apos;aide ou ce dernier a rencontré une erreur !</translation>
+    </message>
+    <message>
+        <source>About WPS Writer(Kingsoft Kylin WPS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets(Kingsoft Kylin WPS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About WPS Office(Kingsoft Kylin WPS)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>About Kingsoft PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copyright:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All rights reserved.</source>
+        <translation type="unfinished">Tous droits réservés.</translation>
+    </message>
+    <message>
+        <source>This product is licensed to:</source>
+        <translation type="unfinished">La licence de ce produit est accordée à :</translation>
+    </message>
+    <message>
+        <source>&amp;Technical Support...</source>
+        <translation type="unfinished">Suppor&amp;t technique...</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3079,18 +3178,18 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <name>KxAutoShapeInputBoxToShapes</name>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>Zone de texte horizontale</translation>
+        <translation type="obsolete">Zone de texte horizontale</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>Zone de texte verticale</translation>
+        <translation type="obsolete">Zone de texte verticale</translation>
     </message>
 </context>
 <context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation>Boutons d&apos;action</translation>
+        <translation type="obsolete">Boutons d&apos;action</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
@@ -3098,39 +3197,39 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation>Flèches pleines</translation>
+        <translation type="obsolete">Flèches pleines</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation>Légendes</translation>
+        <translation type="obsolete">Légendes</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation>Connecteurs</translation>
+        <translation type="obsolete">Connecteurs</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation>Organigramme</translation>
+        <translation type="obsolete">Organigramme</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>Lignes</translation>
+        <translation type="obsolete">Lignes</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>Étoiles et bannières</translation>
+        <translation type="obsolete">Étoiles et bannières</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>Formes de base</translation>
+        <translation type="obsolete">Formes de base</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>Rectangle</translation>
+        <translation type="obsolete">Rectangle</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>Formule</translation>
+        <translation type="obsolete">Formule</translation>
     </message>
 </context>
 <context>
@@ -3357,6 +3456,10 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
         <translation>Impossible de combiner Le type de graphique actuel avec d&apos;autres types de graphiques. Vous pouvez changer le type de graphique pour toutes les séries de données ou conserver le graphique actuel.</translation>
     </message>
+    <message>
+        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translation>Échec du changement de type de graphique. Les données choisies ne peuvent pas être modifiées dans ce type de graphique.</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialog</name>
@@ -3534,19 +3637,19 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Conn&apos;t support this data source transform to a combination chart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de prendre en charge la transformation de cette source de données en une combinaison de graphiques.</translation>
     </message>
     <message>
         <source>Create Combination Charts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer des combinaisons de graphiques.</translation>
     </message>
     <message>
         <source>To create this combination chart, please select at least two data series.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour créer cette combinaison de graphiques, sélectionnez au moins deux séries de données.</translation>
     </message>
     <message>
         <source>This type of chart is not supported now!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce type de graphique n&apos;est temporairement pas pris en charge.</translation>
     </message>
     <message>
         <source>Series name</source>
@@ -3562,7 +3665,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>Cann&apos;t support this data source transform to a combination chart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de prendre en charge la transformation de cette source de données en une combinaison de graphiques.</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order: high price, low price, closing price. Use dates or stock names as labels.</source>
@@ -3580,6 +3683,22 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
         <translation>Pour créer ce graphique boursier, organisez vos données sur la feuille de calcul dans l&apos;ordre suivant: volume de parts échangées, cours à l&apos;ouverture, cours maximal, cours minimal, cours à la clôture. Utilisez dates ou noms de valeurs comme étiquettes.</translation>
     </message>
+    <message>
+        <source>Chart previews can&apos;t be displayed for this selected data, but you can still insert this chart type. Click OK to insert.</source>
+        <translation>Les aperçus de graphiques ne peuvent pas être affichés pour les données sélectionnées, mais vous pouvez toujours insérer ce type de graphique. Cliquez sur OK pour insérer.</translation>
+    </message>
+    <message>
+        <source>OnlineChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation type="unfinished">Modèles</translation>
+    </message>
+    <message>
+        <source>3-D Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialogClass</name>
@@ -3589,7 +3708,7 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>TextLabelForGroupChart</source>
-        <translation type="unfinished"></translation>
+        <translation>Étiquette de texte pour grouper le graphique</translation>
     </message>
     <message>
         <source>Current Chart Name</source>
@@ -3598,6 +3717,14 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <message>
         <source>OK</source>
         <translation>OK</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Manage Templates...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3697,7 +3824,12 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     </message>
     <message>
         <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
-        <translation>Pour utiliser la boîte à outils Contrôles, acheter WPS Office Professionnel </translation>
+        <translation type="obsolete">Pour utiliser la boîte à outils Contrôles, acheter WPS Office Professionnel
+</translation>
+    </message>
+    <message>
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3767,51 +3899,51 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>(Default)</source>
-        <translation>(Par défaut)</translation>
+        <translation type="obsolete">(Par défaut)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation>Ajouter un dictionnaire personnel</translation>
+        <translation type="obsolete">Ajouter un dictionnaire personnel</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation>Une erreur s&apos;est produite lors de l&apos;ajout de &quot;%1&quot;. Vérifiez le format du fichier.</translation>
+        <translation type="obsolete">Une erreur s&apos;est produite lors de l&apos;ajout de &quot;%1&quot;. Vérifiez le format du fichier.</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation>Une erreur s&apos;est produite lors de l&apos;ajout de &quot;%1&quot;. Le fichier existe déjà.</translation>
+        <translation type="obsolete">Une erreur s&apos;est produite lors de l&apos;ajout de &quot;%1&quot;. Le fichier existe déjà.</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation>Créer un dictionnaire personnel</translation>
+        <translation type="obsolete">Créer un dictionnaire personnel</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation>Fichier dictionnaire (*.dic)|*.dic</translation>
+        <translation type="obsolete">Fichier dictionnaire (*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Full path: </source>
-        <translation>Chemin d&apos;accès : </translation>
+        <translation type="obsolete">Chemin d&apos;accès : </translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation>La suppression du dictionnaire personnel risque d&apos;affecter le dictionnaire personnel défini pour les autres programmes WPS Office. Voulez-vous continuer ?</translation>
+        <translation type="obsolete">La suppression du dictionnaire personnel risque d&apos;affecter le dictionnaire personnel défini pour les autres programmes WPS Office. Voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation>Le nombre de dictionnaires personnels a atteint la limite supérieure.</translation>
+        <translation type="obsolete">Le nombre de dictionnaires personnels a atteint la limite supérieure.</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation>Le dernier dictionnaire ne peut pas être supprimé !</translation>
+        <translation type="obsolete">Le dernier dictionnaire ne peut pas être supprimé !</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation>Fichier dictionnaire (*.dic)</translation>
+        <translation type="obsolete">Fichier dictionnaire (*.dic)</translation>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation>Tous les fichiers (*.*)</translation>
+        <translation type="obsolete">Tous les fichiers (*.*)</translation>
     </message>
 </context>
 <context>
@@ -4169,39 +4301,39 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>&amp;Add...</source>
-        <translation>&amp;Ajouter...</translation>
+        <translation type="obsolete">&amp;Ajouter...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation>&amp;Modifier...</translation>
+        <translation type="obsolete">&amp;Modifier...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation>&amp;Nouveau...</translation>
+        <translation type="obsolete">&amp;Nouveau...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>Supp&amp;rimer</translation>
+        <translation type="obsolete">Supp&amp;rimer</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation type="obsolete">Fermer</translation>
     </message>
     <message>
         <source>Custom Dictionary</source>
-        <translation>Dictionnaire personnel</translation>
+        <translation type="obsolete">Dictionnaire personnel</translation>
     </message>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation>&amp;Liste de dictionnaires</translation>
+        <translation type="obsolete">&amp;Liste de dictionnaires</translation>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation>Définir par défaut (&amp;C)</translation>
+        <translation type="obsolete">Définir par défaut (&amp;C)</translation>
     </message>
     <message>
         <source>Full Path</source>
-        <translation>Chemin d&apos;accès</translation>
+        <translation type="obsolete">Chemin d&apos;accès</translation>
     </message>
 </context>
 <context>
@@ -4219,23 +4351,23 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>&amp;Add</source>
-        <translation>&amp;Ajouter</translation>
+        <translation type="obsolete">&amp;Ajouter</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>S&amp;upprimer</translation>
+        <translation type="obsolete">S&amp;upprimer</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation>&amp;Mot :</translation>
+        <translation type="obsolete">&amp;Mot :</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Fermer</translation>
+        <translation type="obsolete">Fermer</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation>Di&amp;ctionnaire</translation>
+        <translation type="obsolete">Di&amp;ctionnaire</translation>
     </message>
     <message>
         <source>Edit Dictionary</source>
@@ -4243,7 +4375,7 @@ Contrôles), achetez WPS Office Professionnel.</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation>Modifier le dictionnaire</translation>
+        <translation type="obsolete">Modifier le dictionnaire</translation>
     </message>
 </context>
 <context>
@@ -4614,7 +4746,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>All text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tout le texte</translation>
     </message>
     <message>
         <source>Font &amp;color:</source>
@@ -5036,7 +5168,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
     <message>
         <source>&amp;Special:</source>
@@ -5153,6 +5285,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Tabs...</source>
         <translation>Onglets...</translation>
+    </message>
+    <message>
+        <source>cm, 2, 0, 142.24, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch, 2, 0, 100, 0.5</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5421,7 +5561,7 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KxEditDictionaryDlg</name>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation>Le mot contient des caractères non autorisés. Nous ne pouvons pas le gérer.</translation>
+        <translation type="obsolete">Le mot contient des caractères non autorisés. Nous ne pouvons pas le gérer.</translation>
     </message>
 </context>
 <context>
@@ -5470,11 +5610,11 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KxEulaDlg</name>
     <message>
         <source>WPS Office</source>
-        <translation type="unfinished">WPS Office</translation>
+        <translation type="obsolete">WPS Office</translation>
     </message>
     <message>
         <source>End-User License Agreement</source>
-        <translation type="unfinished">Contrat de Licence d&apos;Utilisateur Final</translation>
+        <translation type="obsolete">Contrat de Licence d&apos;Utilisateur Final</translation>
     </message>
     <message>
         <source>I &amp;Decline</source>
@@ -5490,15 +5630,15 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
-        <translation type="obsolete">WPS Office Contrat de Licence d&apos;Utilisateur Final</translation>
+        <translation>WPS Office Contrat de Licence d&apos;Utilisateur Final</translation>
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="obsolete">à propos de:vide</translation>
+        <translation>à propos de:vide</translation>
     </message>
     <message>
         <source>Join the experience improvement plan</source>
-        <translation type="obsolete">Rejoignez le Plan d&apos;amélioration du produit</translation>
+        <translation>Rejoignez le Plan d&apos;amélioration du produit</translation>
     </message>
 </context>
 <context>
@@ -5512,22 +5652,22 @@ Double-cliquez ou utilisez le menu contextuel pour ouvrir le fichier. Cela effac
     <name>KxFeedbackCommand</name>
     <message>
         <source>No E-Mail Client.</source>
-        <translation type="obsolete">Aucun client de messagerie.</translation>
+        <translation>Aucun client de messagerie.</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="obsolete">Commentaires</translation>
+        <translation>Commentaires</translation>
     </message>
 </context>
 <context>
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">Commentaires</translation>
+        <translation type="obsolete">Commentaires</translation>
     </message>
     <message>
         <source>No E-Mail Client.</source>
-        <translation type="unfinished">Aucun client de messagerie.</translation>
+        <translation type="obsolete">Aucun client de messagerie.</translation>
     </message>
 </context>
 <context>
@@ -5877,11 +6017,11 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     </message>
     <message>
         <source>This font style is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ce style de police n&apos;est pas disponible.</translation>
     </message>
     <message>
         <source>This font size is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette taille de police n&apos;est pas disponible.</translation>
     </message>
     <message>
         <source>This is not a valid integer.</source>
@@ -6208,45 +6348,45 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KxFormatProperty_Effects</name>
     <message>
         <source>Effects</source>
-        <translation>Effets</translation>
+        <translation>EFFETS</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty_FillAndLine</name>
     <message>
         <source>Text Fill &amp; Outline</source>
-        <translation>Remplissage et contour de texte</translation>
+        <translation>REMPLISSAGE ET CONTOUR DE TEXTE</translation>
     </message>
     <message>
         <source>Fill &amp; Line</source>
-        <translation>Remplissage et ligne</translation>
+        <translation>REMPLISSAGE ET LIGNE</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty_Picture</name>
     <message>
         <source>Picture</source>
-        <translation>Image</translation>
+        <translation>IMAGE</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty_SizePro</name>
     <message>
         <source>Size &amp; Properties</source>
-        <translation type="unfinished">Taille et propriétés</translation>
+        <translation type="obsolete">Taille et propriétés</translation>
     </message>
     <message>
         <source>Size &amp; 
 Properties</source>
-        <translation type="obsolete">Taille et 
-propriétés</translation>
+        <translation>TAILLE ET 
+PROPRIÉTÉS</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty_TextBox</name>
     <message>
         <source>TextBox</source>
-        <translation>Zone de texte</translation>
+        <translation>ZONE DE TEXTE</translation>
     </message>
 </context>
 <context>
@@ -6322,12 +6462,28 @@ propriétés</translation>
         <source>Show Task Window</source>
         <translation>Afficher la fenêtre des tâches</translation>
     </message>
+    <message>
+        <source>Show Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxHintWidget</name>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
         <translation>%1Impossible de trouver le document que vous voulez? Réessayez  %2 %3 Kingsoft Data Recovery Master %4</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished">Connexion</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation type="unfinished">Désolé, le programme a rencontré une erreur. Il est maintenant restauré.</translation>
     </message>
 </context>
 <context>
@@ -6509,11 +6665,11 @@ propriétés</translation>
     </message>
     <message>
         <source>Word Macro-Enabled Templates(*.docm)</source>
-        <translation>Modèles Word prenant en charge les macros (*.dotm)</translation>
+        <translation type="obsolete">Modèles Word prenant en charge les macros (*.dotm)</translation>
     </message>
     <message>
         <source>Word 97-2003 Templates(*.doc)</source>
-        <translation>Modèles Word 97-2003 (*.dot)</translation>
+        <translation type="obsolete">Modèles Word 97-2003 (*.dot)</translation>
     </message>
     <message>
         <source>Rich Text Format(*.rtf)</source>
@@ -6534,6 +6690,14 @@ propriétés</translation>
     <message>
         <source>Item:</source>
         <translation>Élément : </translation>
+    </message>
+    <message>
+        <source>Word Macro-Enabled Templates(*.dotm)</source>
+        <translation>Modèles Word prenant en charge les macros (*.dotm)</translation>
+    </message>
+    <message>
+        <source>Word 97-2003 Templates(*.dot)</source>
+        <translation>Modèles Word 97-2003 (*.dot)</translation>
     </message>
 </context>
 <context>
@@ -6567,7 +6731,7 @@ propriétés</translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <source>Source file</source>
@@ -6611,6 +6775,14 @@ propriétés</translation>
         <source>Cannot run the macro &apos;%1&apos;. The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation>Impossible d&apos;exécuter la macro « %1 ». Il se peut que la macro ne soit pas disponible dans ce classeur ou que toutes les macros soient désactivées.</translation>
     </message>
+    <message>
+        <source>Cannot find the macro, or the macro is disabled because of security settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Due to macro security settings, no macro or macro can be found to be disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxMacroCommand</name>
@@ -6629,7 +6801,7 @@ propriétés</translation>
     <message>
         <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation>Pour utiliser les macros, achetez WPS Office Professionnel.
+        <translation type="obsolete">Pour utiliser les macros, achetez WPS Office Professionnel.
 </translation>
     </message>
 </context>
@@ -6752,15 +6924,15 @@ En cas de problème urgent, contactez la hotline par téléphone au  400-667-500
     <name>KxMainWindow</name>
     <message>
         <source>New</source>
-        <translation>Nouveau</translation>
+        <translation type="obsolete">Nouveau</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>Rétablir</translation>
+        <translation type="obsolete">Rétablir</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation>Annuler</translation>
+        <translation type="obsolete">Annuler</translation>
     </message>
     <message>
         <source>Close all tabs or current tab</source>
@@ -6785,6 +6957,14 @@ En cas de problème urgent, contactez la hotline par téléphone au  400-667-500
     <message>
         <source>Compatibility Mode</source>
         <translation>Mode de compatibilité</translation>
+    </message>
+    <message>
+        <source>Can&apos;t launch application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please log on to use document source trace function.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6972,6 +7152,22 @@ En cas de problème urgent, contactez la hotline par téléphone au  400-667-500
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Excel Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel Template Macro Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PowerPoint Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PowerPoint Template Macro Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineFontController</name>
@@ -7046,7 +7242,7 @@ En cas de problème urgent, contactez la hotline par téléphone au  400-667-500
     </message>
     <message>
         <source>%1 membership has expired, please renew.</source>
-        <translation>%1 abonnement a expiré veuillez renouveler.</translation>
+        <translation type="obsolete">%1 abonnement a expiré veuillez renouveler.</translation>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
@@ -7055,6 +7251,18 @@ En cas de problème urgent, contactez la hotline par téléphone au  400-667-500
     <message>
         <source>WPS members can access to more than 300 cloud fonts, updated monthly. </source>
         <translation>Les membres de WPS peuvent accéder à plus de 300 polices du cloud, mises à jour tous les mois. </translation>
+    </message>
+    <message>
+        <source>Your font is expired. To continue using, please renew.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Membership has expired, please renew.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7141,7 +7349,7 @@ Cliquez sur l&apos;icône pour vous connecter maintenant.</translation>
     </message>
     <message>
         <source>More Fonts</source>
-        <translation>Autres polices</translation>
+        <translation type="obsolete">Autres polices</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
@@ -7150,12 +7358,12 @@ Cliquez sur l&apos;icône pour vous connecter maintenant.</translation>
     <message>
         <source>Upgrade to use VIP-only fonts.
 Click here to sign in.</source>
-        <translation>Mettre à niveau pour utiliser les polices réservées au VIP.
+        <translation type="obsolete">Mettre à niveau pour utiliser les polices réservées au VIP.
 Cliquez ici pour vous connecter.</translation>
     </message>
     <message>
         <source>Senior members can access to free cloud fonts. Click to sign in.</source>
-        <translation>Les membres senior peuvent accéder aux polices gratuites du cloud. Cliquez pour vous connecter.</translation>
+        <translation type="obsolete">Les membres senior peuvent accéder aux polices gratuites du cloud. Cliquez pour vous connecter.</translation>
     </message>
     <message>
         <source>Members can access to free cloud fonts. Click to sign in.</source>
@@ -7204,6 +7412,26 @@ Cliquez ici pour vous connecter.</translation>
     <message>
         <source>Downloading fonts, please wait...</source>
         <translation>Téléchargement en cours. Veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>Shuffle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View more Cloud fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document contains fonts that you have not installed. Click to see</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check fonts that are not installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to install vip cloud fonts</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7265,22 +7493,22 @@ Cliquez ici pour vous connecter.</translation>
     </message>
     <message>
         <source>You can also download</source>
-        <translation type="unfinished">Vous pouvez également télécharger</translation>
+        <translation type="obsolete">Vous pouvez également télécharger</translation>
     </message>
     <message>
         <source>Enter Viewer Mode</source>
-        <translation type="unfinished">Accéder à la visionneuse</translation>
+        <translation type="obsolete">Accéder à la visionneuse</translation>
     </message>
 </context>
 <context>
     <name>KxPDF2WordButton</name>
     <message id="NULL">
         <source>Loading the PDF To Word. Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Chargement d&apos;un document PDF vers Word. Veuillez patienter...</translation>
     </message>
     <message>
         <source>PDF Format to Word Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Format PDF vers format Word</translation>
     </message>
 </context>
 <context>
@@ -7455,28 +7683,32 @@ Cliquez ici pour vous connecter.</translation>
         <source>Printing %1 page of %2</source>
         <translation>Impression de %1 page sur %2</translation>
     </message>
+    <message>
+        <source>Printing %1 page of %2 in the copy of %3</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished">Vous utilisez une version gratuite. </translation>
+        <translation type="obsolete">Vous utilisez une version gratuite. </translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished">Un filigrane sera ajouté à votre document lors de l&apos;impression. Nous vous recommandons de cliquer sur Aperçu avant impression pour voir le résultat avant l&apos;impression.</translation>
+        <translation type="obsolete">Un filigrane sera ajouté à votre document lors de l&apos;impression. Nous vous recommandons de cliquer sur Aperçu avant impression pour voir le résultat avant l&apos;impression.</translation>
     </message>
     <message>
         <source>&amp;Print</source>
-        <translation type="unfinished">&amp;Imprimer</translation>
+        <translation type="obsolete">&amp;Imprimer</translation>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation type="unfinished">Aperçu a&amp;vant impression</translation>
+        <translation type="obsolete">Aperçu a&amp;vant impression</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Annuler</translation>
+        <translation type="obsolete">&amp;Annuler</translation>
     </message>
 </context>
 <context>
@@ -7575,6 +7807,18 @@ Cliquez ici pour vous connecter.</translation>
     <message>
         <source>Where:</source>
         <translation>Où :</translation>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7719,6 +7963,78 @@ Cliquez ici pour vous connecter.</translation>
         <source>yyyy-MM-dd</source>
         <translation>aaaa-MM-jj</translation>
     </message>
+    <message>
+        <source>Document id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security level and security time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxRbCustomDlg</name>
@@ -7855,7 +8171,7 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     </message>
     <message>
         <source>Open folder containing the file</source>
-        <translation>Ouvrir l&apos;emplacement du fichier</translation>
+        <translation type="obsolete">Ouvrir l&apos;emplacement du fichier</translation>
     </message>
 </context>
 <context>
@@ -8002,32 +8318,32 @@ Pour sélectionner les noms dans le Carnet d&apos;adresses, cliquez sur le bouto
     <name>KxRnFixSubTaskpaneCommand</name>
     <message>
         <source>fixSub</source>
-        <translation type="unfinished"></translation>
+        <translation>Fixer les sous-fenêtres</translation>
     </message>
 </context>
 <context>
     <name>KxRnPopSubTaskpaneCommand</name>
     <message>
         <source>popSub</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire apparaître les sous fenêtres</translation>
     </message>
 </context>
 <context>
     <name>KxRnTpTitle</name>
     <message>
         <source>(page to task pane)</source>
-        <translation type="unfinished"></translation>
+        <translation>(page vers volet Office)</translation>
     </message>
     <message>
         <source>(page to doc area)</source>
-        <translation type="unfinished"></translation>
+        <translation>(page vers zone de document)</translation>
     </message>
 </context>
 <context>
     <name>KxSelectSeriesDialog</name>
     <message>
         <source>KxAddTrendlineDialog</source>
-        <translation type="unfinished"></translation>
+        <translation>KxAjouterBoîteDialogueCourbeTendance</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -8154,7 +8470,7 @@ mais le package du système inclus est réservé.</translation>
     <name>KxSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
 </context>
 <context>
@@ -8172,7 +8488,7 @@ mais le package du système inclus est réservé.</translation>
     <name>KxSwitchSkinModel</name>
     <message>
         <source>2012 Style</source>
-        <translation>Style 2012</translation>
+        <translation type="obsolete">Style 2012</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
@@ -8355,7 +8671,7 @@ mais le package du système inclus est réservé.</translation>
     <name>KxTabsDlg</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
     <message>
         <source>All</source>
@@ -8370,7 +8686,7 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>(may be dragged to doc area)</source>
-        <translation type="unfinished"></translation>
+        <translation>(Peut être glissé vers la zone de document)</translation>
     </message>
 </context>
 <context>
@@ -8495,7 +8811,7 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation>Modifier la forme automatique</translation>
+        <translation type="obsolete">Modifier la forme automatique</translation>
     </message>
     <message>
         <source>Locate:</source>
@@ -8507,44 +8823,44 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>All Shapes</source>
-        <translation>Toutes les formes</translation>
+        <translation type="obsolete">Toutes les formes</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>Formes automatiques </translation>
+        <translation type="obsolete">Formes automatiques </translation>
     </message>
     <message>
         <source>Locate</source>
-        <translation>Localiser </translation>
+        <translation type="obsolete">Localiser </translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShapePersonalPanelModel</name>
     <message>
         <source>Online Shapes</source>
-        <translation>Forme en Ligne</translation>
+        <translation type="obsolete">Forme en Ligne</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation>Récemment Utilisés</translation>
+        <translation type="obsolete">Récemment Utilisés</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShapesDownloadFailedItem</name>
     <message>
         <source>Try refresh again</source>
-        <translation>Réessayez</translation>
+        <translation type="obsolete">Réessayez</translation>
     </message>
     <message>
         <source>Unable to connect to the server. Please check your network connection.</source>
-        <translation>Connexion impossible au serveur. Vérifiez votre connexion réseau.</translation>
+        <translation type="obsolete">Connexion impossible au serveur. Vérifiez votre connexion réseau.</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShapesDownloadingItem</name>
     <message>
         <source>Loading online shapes...</source>
-        <translation>Téléchargement des Formes en ligne...</translation>
+        <translation type="obsolete">Téléchargement des Formes en ligne...</translation>
     </message>
 </context>
 <context>
@@ -8567,7 +8883,7 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>Bouton-poussoir</translation>
+        <translation type="obsolete">Bouton-poussoir</translation>
     </message>
     <message>
         <source>Using the following file list to recover the previous working status before the unexpected exit.</source>
@@ -8608,6 +8924,14 @@ mais le package du système inclus est réservé.</translation>
         <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
         <translation>%1 Kingsoft Data Recovery Master %2 vous aide à récupérer les documents supprimés accidentallement.</translation>
     </message>
+    <message>
+        <source>4. %1 Kingsoft Document Recovery %2 helps you to open garbled documents.</source>
+        <translation>4. %1 Kingsoft Document Recovery %2 vous aide à ouvrir les documents déformés.</translation>
+    </message>
+    <message>
+        <source>1. WPS has created backup for each of your documents. You can also view more services %1 in the backup center %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -8626,6 +8950,26 @@ mais le package du système inclus est réservé.</translation>
     <message>
         <source>Category</source>
         <translation>Catégorie </translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished">Bouton-poussoir</translation>
+    </message>
+    <message>
+        <source>Import Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can import a clip art only when the category is custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Clip Art</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clip art can be removed only when the category is custom</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8709,7 +9053,7 @@ mais le package du système inclus est réservé.</translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation>Ouvrir l&apos;emplacement du fichier</translation>
+        <translation type="obsolete">Ouvrir l&apos;emplacement du fichier</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
@@ -8800,7 +9144,7 @@ Heure de modification : </translation>
     </message>
     <message>
         <source>Open file location</source>
-        <translation>Ouvrir l&apos;emplacement du fichier</translation>
+        <translation type="obsolete">Ouvrir l&apos;emplacement du fichier</translation>
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
@@ -8847,6 +9191,22 @@ Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
         <source>Shapes on this page</source>
         <translation>Formes sur cette page </translation>
     </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>TextLabel</translation>
+    </message>
+    <message>
+        <source>Experience</source>
+        <translation>Expérience</translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation>Téléchargement</translation>
+    </message>
+    <message>
+        <source>Poor image ? Convert to words, change as you wish!</source>
+        <translation>Vous n&apos;êtes pas satisfait de l&apos;image ? Convertissez-la en texte et modifiez-la.</translation>
+    </message>
 </context>
 <context>
     <name>KxTrialExpireDlg</name>
@@ -8892,15 +9252,19 @@ de services et de fonctionnalités.</translation>
     <name>KxUserShortcutsDlg</name>
     <message>
         <source>Warning</source>
-        <translation type="obsolete">Avertissement</translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <source>Reset all shortcuts?</source>
-        <translation type="obsolete">Réinitialiser tous les raccourcis ?</translation>
+        <translation>Réinitialiser tous les raccourcis ?</translation>
     </message>
     <message>
         <source>Press new shortcut key</source>
-        <translation type="obsolete">Nouvelle touche de raccourci</translation>
+        <translation>Appuyer sur la nouvelle touche de raccourci</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation>Autres</translation>
     </message>
 </context>
 <context>
@@ -9759,6 +10123,56 @@ Toujours effectuer cette action.</translation>
         <source>Theme Fonts</source>
         <translation>Polices du thème</translation>
     </message>
+    <message>
+        <source>The current document has been hardware encrypted and cannot be saved to Cloud.</source>
+        <translation>Le document actuel a été chiffré au niveau du matériel et ne peut pas être enregistré dans le Cloud.</translation>
+    </message>
+    <message>
+        <source>WPS ABNORMAL TIPS</source>
+        <translation type="obsolete">Exception WPS Office</translation>
+    </message>
+    <message>
+        <source>WPS server process possibly has been killed by 		antivirus-soft like 360,
+ then you could restart 		wps after stop this antivirus software</source>
+        <translation type="obsolete">Il est possible que le processus de service de WPS Office ait été arrêté par un programme antivirus 		tel que 360.
+Nous vous recommandons de fermer ce programme et de redémarrer WPS Office.</translation>
+    </message>
+    <message>
+        <source>I DO</source>
+        <translation type="obsolete">J&apos;ai compris</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation type="unfinished">pce</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation type="unfinished">cm</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation type="unfinished">mm</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation type="unfinished">pt</translation>
+    </message>
+    <message>
+        <source>WPS Office update service is broken. Do you want to fix it?</source>
+        <translation type="obsolete">Un problème s&apos;est produit dans le service de mise à jour de WPS Office. Voulez-vous le résoudre ?</translation>
+    </message>
+    <message>
+        <source>Enter %1 %2 to %3 %4 of value</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="unfinished">9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="unfinished">5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -9835,7 +10249,7 @@ Vous pouvez télécharger WPS Professionnel pour bénéficier de l&apos;interfac
     </message>
     <message>
         <source>&amp;Technical Support...</source>
-        <translation>Suppor&amp;t technique...</translation>
+        <translation type="obsolete">Suppor&amp;t technique...</translation>
     </message>
     <message>
         <source>2014 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
@@ -9843,29 +10257,29 @@ Vous pouvez télécharger WPS Professionnel pour bénéficier de l&apos;interfac
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation>Tous droits réservés.</translation>
+        <translation type="obsolete">Tous droits réservés.</translation>
     </message>
     <message>
         <source>Copyright </source>
-        <translation>Copyright </translation>
+        <translation type="obsolete">Copyright </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Product ID:</source>
-        <translation>ID de produit (Product ID) :</translation>
+        <translation type="obsolete">ID de produit (Product ID) :</translation>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation>La licence de ce produit est accordée à :</translation>
+        <translation type="obsolete">La licence de ce produit est accordée à :</translation>
     </message>
     <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
-        <translation>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+        <translation type="obsolete">xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
@@ -9875,7 +10289,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation>WPS</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>1988-2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
@@ -9883,7 +10297,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished">2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+        <translation type="obsolete">2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+    </message>
+    <message>
+        <source>2016</source>
+        <translation type="obsolete">2016</translation>
+    </message>
+    <message>
+        <source>&amp;License Agreement...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10152,31 +10574,31 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>No fill</source>
-        <translation>Aucun remplissage</translation>
+        <translation type="obsolete">Aucun remplissage</translation>
     </message>
     <message>
         <source>Solid fill</source>
-        <translation>Remplissage uni</translation>
+        <translation type="obsolete">Remplissage uni</translation>
     </message>
     <message>
         <source>Gradient fill</source>
-        <translation>Dégradé</translation>
+        <translation type="obsolete">Dégradé</translation>
     </message>
     <message>
         <source>Picture or texture fill</source>
-        <translation>Remplissage avec &amp;image ou texture</translation>
+        <translation type="obsolete">Remplissage avec image ou texture</translation>
     </message>
     <message>
         <source>Pattern fill</source>
-        <translation>Motifs de remplissage</translation>
+        <translation type="obsolete">Motifs de remplissage</translation>
     </message>
     <message>
         <source>Automatic fill</source>
-        <translation>Remplissage automatique</translation>
+        <translation type="obsolete">Remplissage automatique</translation>
     </message>
     <message>
         <source>Hide background graphics</source>
-        <translation>Masquer les graphiques d&apos;arrière-plan</translation>
+        <translation type="obsolete">Masquer les graphiques d&apos;arrière-plan</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -10372,7 +10794,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Stack and Scale &amp;width</source>
-        <translation type="unfinished"></translation>
+        <translation>Empiler et mettre à l&apos;échelle &amp;avec</translation>
     </message>
     <message>
         <source>Units/Picture</source>
@@ -10409,6 +10831,46 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>Background</source>
         <translation>Arrière-plan</translation>
+    </message>
+    <message>
+        <source>&amp;No fill</source>
+        <translation>&amp;Aucun remplissage</translation>
+    </message>
+    <message>
+        <source>&amp;Solid fill</source>
+        <translation>&amp;Remplissage uni</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient fill</source>
+        <translation>&amp;Dégradé</translation>
+    </message>
+    <message>
+        <source>&amp;Picture or texture fill</source>
+        <translation>Remplissage avec &amp;image ou texture</translation>
+    </message>
+    <message>
+        <source>P&amp;attern fill</source>
+        <translation>Moti&amp;fs de remplissage</translation>
+    </message>
+    <message>
+        <source>Slide &amp;background fill</source>
+        <translation>Remplissage de l&apos;&amp;arrière-plan de la diapositive</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic fill</source>
+        <translation>&amp;Remplissage automatique</translation>
+    </message>
+    <message>
+        <source>&amp;Hide background graphics</source>
+        <translation>Masquer les graphiques d&apos;&amp;arrière-plan</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Picture...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10450,19 +10912,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <name>contentLine</name>
     <message>
         <source>No line</source>
-        <translation>Aucune ligne</translation>
+        <translation type="obsolete">Aucune ligne</translation>
     </message>
     <message>
         <source>Solid line</source>
-        <translation>Trait plein</translation>
+        <translation type="obsolete">Trait plein</translation>
     </message>
     <message>
         <source>Gradient line</source>
-        <translation>Trait dégradé</translation>
+        <translation type="obsolete">Trait dégradé</translation>
     </message>
     <message>
         <source>Automatic line</source>
-        <translation>Trait automatique</translation>
+        <translation type="obsolete">Trait automatique</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -10583,6 +11045,22 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>°</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>&amp;No line</source>
+        <translation>&amp;Aucun trait</translation>
+    </message>
+    <message>
+        <source>&amp;Solid line</source>
+        <translation>&amp;Trait plein</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient line</source>
+        <translation>&amp;Trait dégradé</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic line</source>
+        <translation>&amp;Trait automatique</translation>
     </message>
 </context>
 <context>
@@ -10852,7 +11330,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Text &amp;margin</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Marge de texte</translation>
     </message>
     <message>
         <source>Borderless</source>
@@ -10864,7 +11342,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Standard Margins</source>
-        <translation type="unfinished"></translation>
+        <translation>Marges normales</translation>
     </message>
     <message>
         <source>Wide Margins</source>
@@ -11129,7 +11607,7 @@ document</translation>
     <name>kxDlgUserShortcuts</name>
     <message>
         <source>Shortcuts</source>
-        <translation type="obsolete">Raccourcis</translation>
+        <translation>Raccourcis</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -11145,15 +11623,15 @@ document</translation>
     </message>
     <message>
         <source>Shortcut currently used by:</source>
-        <translation type="obsolete">Raccourci utilisé actuellement par :</translation>
+        <translation>Raccourci utilisé actuellement par :</translation>
     </message>
     <message>
         <source>Category</source>
-        <translation type="obsolete">Catégorie</translation>
+        <translation>Catégorie</translation>
     </message>
     <message>
         <source>Command</source>
-        <translation type="obsolete">Commande</translation>
+        <translation>Commande</translation>
     </message>
     <message>
         <source>Reset All</source>
@@ -11165,7 +11643,7 @@ document</translation>
     </message>
     <message>
         <source>Current shortcut for selected command:</source>
-        <translation type="obsolete">Raccourci actuel pour la commande sélectionnée :</translation>
+        <translation>Raccourci actuel pour la commande sélectionnée :</translation>
     </message>
     <message>
         <source>Press new shortcut key:</source>
@@ -11177,27 +11655,27 @@ document</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="obsolete">Re&amp;chercher :</translation>
+        <translation>Re&amp;chercher :</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="obsolete">Supp&amp;rimer</translation>
+        <translation>Supp&amp;rimer</translation>
     </message>
     <message>
         <source>&amp;Press new shortcut key:</source>
-        <translation type="obsolete">&amp;Nouvelle touche de raccourci :</translation>
+        <translation>&amp;Nouvelle touche de raccourci :</translation>
     </message>
     <message>
         <source>&amp;Assign</source>
-        <translation type="obsolete">&amp;Attribuer</translation>
+        <translation>&amp;Attribuer</translation>
     </message>
     <message>
         <source>R&amp;eset All</source>
-        <translation type="obsolete">Ré&amp;tablir tout</translation>
+        <translation>Ré&amp;tablir tout</translation>
     </message>
     <message>
         <source>&amp;Close</source>
-        <translation type="obsolete">&amp;Fermer</translation>
+        <translation>&amp;Fermer</translation>
     </message>
 </context>
 <context>
@@ -11563,6 +12041,82 @@ document</translation>
         <source>property</source>
         <translation>propriétés</translation>
     </message>
+    <message>
+        <source>&amp;Calc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
@@ -11592,6 +12146,4944 @@ document</translation>
     <message>
         <source>WordArt Gallery</source>
         <translation>Galerie WordArt</translation>
+    </message>
+</context>
+<context>
+    <name>CustomBackstage::Control::TabControl</name>
+    <message>
+        <source>Custom Tab</source>
+        <translation type="unfinished">Onglet personnalisé</translation>
+    </message>
+</context>
+<context>
+    <name>KChartElementCommand</name>
+    <message>
+        <source>Button </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KH5LinkMgrWindow</name>
+    <message>
+        <source>H5 Link Manager</source>
+        <translation>Gérer les liens partagés</translation>
+    </message>
+</context>
+<context>
+    <name>KInputWritePasswordDlg2</name>
+    <message>
+        <source>Please enter the password, or %1 open in read-only mode %2:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Opening of read-only mode will no longer convert account-encrypted documents)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically converted to account-encrypted documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account encryption document is encrypted using the WPS account. This encryption method is more secure and reliable.
+(The original password will be cleared after the conversion is successful)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMessageBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Boîte de dialogue</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation type="unfinished">WPS</translation>
+    </message>
+    <message>
+        <source>内容
+内容</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPasswordDlgTitle</name>
+    <message>
+        <source>Document is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Recommended: Use an account to encrypt documents more securely)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeFlashNotify</name>
+    <message>
+        <source>Download Adobe Flash Player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beacause of undescribable reasons WPS doesnt build in flash anymore please download it yourself</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First step download and install flash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second step please restart wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second step restart WPS after installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download Flash</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProxySettingDlg</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation>Paramètres du proxy</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>Type :</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>Adresse:</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>Port :</translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation>Nom d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>Mot de passe :</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Tester</translation>
+    </message>
+    <message>
+        <source>Do not use proxy</source>
+        <translation>Ne pas utiliser le proxy</translation>
+    </message>
+    <message>
+        <source>HTTP proxy</source>
+        <translation>Proxy HTTP</translation>
+    </message>
+    <message>
+        <source>Internet Explorer Proxy</source>
+        <translation>Proxy de Internet Explorer</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Connected to proxy server correctly</source>
+        <translation>Connexion au serveur proxy réussie.</translation>
+    </message>
+    <message>
+        <source>Failed to connect to proxy server</source>
+        <translation>La connexion au serveur proxy a échoué</translation>
+    </message>
+</context>
+<context>
+    <name>KRepeatableInputPasswordDlg2</name>
+    <message>
+        <source>This document is an encrypted document, please enter the document open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically converted to account-encrypted documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account encryption document is encrypted using the WPS account. This encryption method is more secure and reliable.
+(The original password will be cleared after the conversion is successful)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonFindCmdWidget</name>
+    <message>
+        <source>find commands</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonItemModel</name>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tool Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>root</source>
+        <translation type="obsolete">racine</translation>
+    </message>
+    <message>
+        <source>header</source>
+        <translation type="obsolete">en-tête</translation>
+    </message>
+</context>
+<context>
+    <name>KSaveOOXMLTipDlg</name>
+    <message>
+        <source>Caption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The presence of extended data in the prompt file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t check file format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Directly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation type="unfinished">Enregistrer sous</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchEngine</name>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation>Recherche…</translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation>Échec de l&apos;initialisation des outils de recherche</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation>Chemin d&apos;accès</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Taille</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation>Heure de dernière modification</translation>
+    </message>
+</context>
+<context>
+    <name>KSetupPasswordDlg</name>
+    <message>
+        <source>Setup Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>please enter password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reenter password to confirm:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password length must between 8-20.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password shout not contains unvisible characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password must contains two kinds of Letters, numbers, special characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWidget</name>
+    <message>
+        <source>weixin scan QR Code 
+ Share To Your FriendsSS</source>
+        <translation>Scanner le code QR à l&apos;aide de WeChat
+Partager avec vos amis</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWindowShareBar</name>
+    <message>
+        <source>ShareToWeixin</source>
+        <translation>Partager sur WeChat</translation>
+    </message>
+    <message>
+        <source>ShareToWeibo</source>
+        <translation>Partager sur Weibo</translation>
+    </message>
+    <message>
+        <source>ShareToQzone</source>
+        <translation>Partager sur Qzone</translation>
+    </message>
+    <message>
+        <source>ShareToQQ</source>
+        <translation>Partager sur QQ</translation>
+    </message>
+    <message>
+        <source>Share to:</source>
+        <translation>Partager sur :</translation>
+    </message>
+    <message>
+        <source>H5Share_Defaut_Tips</source>
+        <translation>Je viens de convertir un document en page Web à l&apos;aide de WPS Office. Jetez-y un coup d&apos;oeil !</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewTinyQRCodeWidget</name>
+    <message>
+        <source>Use Wechat scan the code
+share with your friends</source>
+        <translation>Scanner le code QR à l&apos;aide de WeChat
+Partager avec vos amis</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindow</name>
+    <message>
+        <source>&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;Gérer les liens partagés&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;Gérer les liens partagés&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;Gérer les liens&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowHeaderWidget</name>
+    <message>
+        <source>Link preview</source>
+        <translation>Lien de partage</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowProgressWidget</name>
+    <message>
+        <source>Creating kink, please wait...</source>
+        <translation>Création de lien en cours. Veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
+        <translation>Échec de la création de lien.&lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Cliquez ici pour réessayer&lt;/a&gt;&lt;/b&gt; ou essayez plus tard.</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
+        <translation>Échec de la création de lien. &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;Cliquez ici pour réessayer&lt;/a&gt;&lt;/b&gt; ou essayez plus tard.</translation>
+    </message>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>Pour assurer un affichage correct, le lien contient uniquement les 50 premières pages du document.</translation>
+    </message>
+    <message>
+        <source>Link contains only top 20 pages</source>
+        <translation>Pour assurer un affichage correct, le lien contient uniquement les 20 premières pages du document.</translation>
+    </message>
+    <message>
+        <source>The left disk space is not enouth to creat link</source>
+        <translation>Le lien ne peut pas être créé, car vous n&apos;aurez plus suffisamment d&apos;espace disque.</translation>
+    </message>
+    <message>
+        <source>Network is unaccessable, can&apos;t creat link</source>
+        <translation>Le lien ne peut pas être créé en raison d&apos;un problème de réseau.</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowShareWidget</name>
+    <message>
+        <source>Link has been created, login and use it!</source>
+        <translation>Le lien a été créé.
+Connectez-vous pour l&apos;utiliser.</translation>
+    </message>
+    <message>
+        <source>For the link security, you need login to share link
+you can manage,delete,reshare the link</source>
+        <translation>Pour la sécurité du lien, connectez-vous pour pouvoir l&apos;utiliser.
+Lorsque vous êtes connecté, vous pouvez également gérer, supprimer et partager le lien avec d&apos;autres utilisateurs.</translation>
+    </message>
+    <message>
+        <source>Create link succeeded!</source>
+        <translation>Lien créé.</translation>
+    </message>
+    <message>
+        <source>Click to open the link</source>
+        <translation>Cliquer pour ouvrir le lien</translation>
+    </message>
+    <message>
+        <source>Creating QRCode...</source>
+        <translation>Création du code QR...</translation>
+    </message>
+    <message>
+        <source>WeChat</source>
+        <translation>WeChat</translation>
+    </message>
+    <message>
+        <source>QQ</source>
+        <translation>QQ</translation>
+    </message>
+    <message>
+        <source>QZone</source>
+        <translation>QZone</translation>
+    </message>
+    <message>
+        <source>Weibo</source>
+        <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Copy link succeeded!</source>
+        <translation>Lien copié.</translation>
+    </message>
+    <message>
+        <source>Copy QRCode succeeded!</source>
+        <translation>Code QR copié.</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>Créer un lien</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddTemplateDlg</name>
+    <message>
+        <source>Add permission template failed, you don&apos;t have full control of this document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAddTemplateModel</name>
+    <message>
+        <source>Template Id</source>
+        <translation>Identifiant de modèle</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>Type de modèle</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translation>Nom de modèle</translation>
+    </message>
+    <message>
+        <source>Maintainer Name : </source>
+        <translation>Nom du chargé de maintenance : </translation>
+    </message>
+    <message>
+        <source>Maintainer Account : </source>
+        <translation>Compte du chargé de maintenance : </translation>
+    </message>
+    <message>
+        <source>Maintainter Desc : </source>
+        <translation>Description du chargé de maintenance : </translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>Modèle personnel</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>Modèle public</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddUsersPermissionDlg</name>
+    <message>
+        <source>Loading, please wait....</source>
+        <translation>Chargement en cours. Veuillez patienter....</translation>
+    </message>
+    <message>
+        <source>Too many permission item, please grant permission by using department, group or permission template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyForwardCommand</name>
+    <message>
+        <source>Your outward application has been submitted to the administrator, please wait for approval.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View the application</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyOutwardDlg</name>
+    <message>
+        <source>Apply Reason can&apos;t be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password length should be greater than 8!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outward Receivers List can&apos;t be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not approved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Approval Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approval time:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="unfinished">Nom du document :</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation type="unfinished">Identifiant du document :</translation>
+    </message>
+    <message>
+        <source>Applicant: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Department: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input your reason</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Fermer</translation>
+    </message>
+    <message>
+        <source>Cancel &amp;Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Reapply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to cancel the outward applications for the selected document?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel application success!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Submit application</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionDlg</name>
+    <message>
+        <source>Not commited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the reason of apply the permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation type="obsolete">Demander une autorisation</translation>
+    </message>
+    <message>
+        <source>Apply willl take effect after approved.</source>
+        <translation type="obsolete">L&apos;autorisation devient effective dès que la demande est approuvée.</translation>
+    </message>
+    <message>
+        <source>File Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Id:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your apply reason for the next step of the operation!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your Apply has been canceled.</source>
+        <translation type="unfinished">Votre demande a été annulée.</translation>
+    </message>
+    <message>
+        <source>You has already canceled apply for this document.</source>
+        <translation type="unfinished">Vous avez déjà annulé la demande pour ce document.</translation>
+    </message>
+    <message>
+        <source>You already have all the permissions of this document, without permission to apply!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionTipDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation>Demander une autorisation</translation>
+    </message>
+    <message>
+        <source>Permission Warning</source>
+        <translation>Informations sur l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Verify Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying...please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verifying failed, please check your network.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Verified Again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save As permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Screen shot permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auth permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You already have %1 of this document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+</context>
+<context>
+    <name>KxApproverTableModel</name>
+    <message>
+        <source>Account</source>
+        <translation>Compte</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translation>Service</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupCenterButton</name>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxButtonTip</name>
+    <message>
+        <source>I already know</source>
+        <translation>Je le sais déjà</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckApproveDlg</name>
+    <message>
+        <source>Approve Permission</source>
+        <translation type="obsolete">Approuver une autorisation</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="obsolete">Nom du document :</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation type="obsolete">Identifiant du document :</translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translation type="obsolete">Autorisation de lecture</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="obsolete">Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="obsolete">Autorisation de copie</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="obsolete">Autorisation d&apos;impression</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="obsolete">Autorisation d&apos;enregistrement sous</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation type="obsolete">Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Current Permissions</source>
+        <translation type="obsolete">Autorisations actuelles</translation>
+    </message>
+    <message>
+        <source>Applied Permissions</source>
+        <translation type="obsolete">Demander une autorisation</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation type="obsolete">Approuver</translation>
+    </message>
+    <message>
+        <source>Disapprove</source>
+        <translation type="obsolete">Rejeter</translation>
+    </message>
+    <message>
+        <source>Document Name:%1</source>
+        <translation type="obsolete">Nom du document : %1</translation>
+    </message>
+    <message>
+        <source>Document Id:%1</source>
+        <translation type="obsolete">Identifiant du document : %1</translation>
+    </message>
+    <message>
+        <source>Permission Approved</source>
+        <translation type="obsolete">Résultat de l&apos;approbation</translation>
+    </message>
+    <message>
+        <source>Other approver might has approved.</source>
+        <translation type="obsolete">Approuvé par un autre approbateur.</translation>
+    </message>
+    <message>
+        <source>Approve agree, user permission application take effect.</source>
+        <translation type="obsolete">Approuvé. Les autorisations de l&apos;utilisateur sont effectives.</translation>
+    </message>
+    <message>
+        <source>Approve refuse, user permission application failed.</source>
+        <translation type="obsolete">Rejeté. La demande d&apos;autorisation de l&apos;utilisateur a échoué.</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckPermissionsDlg</name>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translation>%1 éléments au total.</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <translation>(Aucun)</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translation type="obsolete">Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>Upload user rights success.</source>
+        <translation>Les autorisations de l&apos;utilisateur ont été chargées.</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translation>L&apos;utilisateur actuel dispose d&apos;autres autorisations, ce qui rend impossible la suppression de l&apos;autorisation de lecture.</translation>
+    </message>
+    <message>
+        <source>Upload user rights failed</source>
+        <translation>Échec du chargement des autorisations de l&apos;utilisateur.</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have read permission, this document will be closed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rights is modified, you want to cancel without saving?</source>
+        <translation>Les autorisations ont été modifiées. Voulez-vous annuler sans enregistrer ?</translation>
+    </message>
+    <message>
+        <source>Too many permission item, please grant permission by using department, group or permission template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseOutwardDocTitleWidget</name>
+    <message>
+        <source>make outward doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseWatermarkProtectDlg</name>
+    <message>
+        <source>Choose one application
+ to make outward document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose outward watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxColorSnapperWidget</name>
+    <message>
+        <source>The color snapper failed to initialize.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddFromEnpRecievers</name>
+    <message>
+        <source>Phone:</source>
+        <translation type="unfinished">Téléphone :</translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translation type="unfinished">Effacer les critères de recherche</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="unfinished">Rechercher</translation>
+    </message>
+    <message>
+        <source>Clear selected recievers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Submit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Enterprise Recievers List</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddTemplate</name>
+    <message>
+        <source>Add Permission Template</source>
+        <translation>Ajouter un modèle d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translation>Type de modèle :</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Tout</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>Modèle personnel</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>Modèle public</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translation>Nom du modèle :</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>Re&amp;chercher</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsersPermission</name>
+    <message>
+        <source>Add User</source>
+        <translation>Ajouter un utilisateur</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>&amp;Organisation</translation>
+    </message>
+    <message>
+        <source>Please input department name</source>
+        <translation>Entrez le nom du service</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>&amp;Groupe</translation>
+    </message>
+    <message>
+        <source>Please input group name</source>
+        <translation>Entrez le nom du groupe</translation>
+    </message>
+    <message>
+        <source>Please input name or account</source>
+        <translation>Entrez le nom ou le compte de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>Re&amp;chercher</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translation>Utilisateurs sélectionnés</translation>
+    </message>
+    <message>
+        <source>Clear All Selected</source>
+        <translation>Effacer tous les éléments sélectionnés</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translation>&amp;Autoriser</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddVisibleRange</name>
+    <message>
+        <source>Add Group</source>
+        <translation>Ajouter un groupe</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>&amp;Organisation</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation>Entrez le nom du service</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>&amp;Groupe</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translation>Entrez le nom du groupe</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyOutward</name>
+    <message>
+        <source>Outward Application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outward Application Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="unfinished">Nom du document :</translation>
+    </message>
+    <message>
+        <source>Applicant:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application reason:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watermark Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation type="unfinished">Mot de passe :</translation>
+    </message>
+    <message>
+        <source>Recivers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add Reciver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add from enterprise &amp;Table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approval Comments:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Submit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyPermission</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation type="unfinished">Demander une autorisation</translation>
+    </message>
+    <message>
+        <source>Apply Permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation type="unfinished">Nom du document : </translation>
+    </message>
+    <message>
+        <source>Apply Information:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation type="unfinished">Sélectionner tout</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translation type="unfinished">Autorisation de lecture</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="unfinished">Autorisation d&apos;enregistrement sous</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="unfinished">Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="unfinished">Autorisation d&apos;impression</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="unfinished">Autorisation de copie</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation type="unfinished">Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Apply Reason:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Annuler</translation>
+    </message>
+    <message>
+        <source>Apply Permission Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation type="unfinished">&amp;Suivant</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckPermissions</name>
+    <message>
+        <source>Check Permissions</source>
+        <translation>Vérifier les autorisations de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>User ID:</source>
+        <translation>Compte d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>Nom d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Rechercher</translation>
+    </message>
+    <message>
+        <source>Add User</source>
+        <translation>Ajouter un utilisateur</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>User Id</source>
+        <translation>Compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation>Autorisation de lecture</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>Autorisation de copie</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>Autorisation d&apos;impression</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation>Autorisation d&apos;enregistrement sous</translation>
+    </message>
+    <message>
+        <source>Add Group</source>
+        <translation>Ajouter un groupe</translation>
+    </message>
+    <message>
+        <source>User/Dept Name</source>
+        <translation>Nom d&apos;utilisateur/de service</translation>
+    </message>
+    <message>
+        <source>Auth Type:</source>
+        <translation type="obsolete">Type d&apos;autorisation :</translation>
+    </message>
+    <message>
+        <source>All Type</source>
+        <translation type="obsolete">Tous les types</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translation type="obsolete">Autorisation de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Department Auth</source>
+        <translation type="obsolete">Autorisation du service</translation>
+    </message>
+    <message>
+        <source>User Group Auth</source>
+        <translation type="obsolete">Autorisation du groupe</translation>
+    </message>
+    <message>
+        <source>User Name/Account:</source>
+        <translation type="obsolete">Nom/Compte de l&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>Add &amp;Users</source>
+        <translation>Ajouter des &amp;utilisateurs</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+    <message>
+        <source>Permission List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translation type="obsolete">Modèle d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Add &amp;Organization</source>
+        <translation>Ajouter une &amp;organisation</translation>
+    </message>
+    <message>
+        <source>Add &amp;Template</source>
+        <translation>Ajouter un &amp;modèle</translation>
+    </message>
+    <message>
+        <source>Batch &amp;Modify</source>
+        <translation type="obsolete">Modifier en &amp;bloc</translation>
+    </message>
+    <message>
+        <source>Batch &amp;Remove</source>
+        <translation type="obsolete">Supprimer en &amp;bloc</translation>
+    </message>
+    <message>
+        <source>&amp;Save Changes</source>
+        <translation type="obsolete">&amp;Enregistrer les modifications</translation>
+    </message>
+    <message>
+        <source>Check Users Permission</source>
+        <translation type="obsolete">Vérifier les autorisations de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="obsolete">Re&amp;chercher</translation>
+    </message>
+    <message>
+        <source>&amp;Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgChooseOutwardDoc</name>
+    <message>
+        <source>Choose outward password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;make outward doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgChoosePassword</name>
+    <message>
+        <source>Choose outward password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose one password to make document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCurUserPermission</name>
+    <message>
+        <source>Check Current User Permission</source>
+        <translation>Vérifier les autorisations de l&apos;utilisateur actif</translation>
+    </message>
+    <message>
+        <source>Read Permission:</source>
+        <translation>Autorisation de lecture :</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>Aucun</translation>
+    </message>
+    <message>
+        <source>Save Permission:</source>
+        <translation>Autorisation d&apos;enregistrement sous :</translation>
+    </message>
+    <message>
+        <source>Edit Permission:</source>
+        <translation>Modifier l&apos;autorisation :</translation>
+    </message>
+    <message>
+        <source>Screen Permission:</source>
+        <translation>Autorisation de capture d&apos;écran :</translation>
+    </message>
+    <message>
+        <source>Copy Permission:</source>
+        <translation>Autorisation de copie :</translation>
+    </message>
+    <message>
+        <source>Grant Permission:</source>
+        <translation>Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Print Permission:</source>
+        <translation>Autorisation d&apos;impression :</translation>
+    </message>
+    <message>
+        <source>Privilege information</source>
+        <translation>Informations sur l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermer</translation>
+    </message>
+    <message>
+        <source>My Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation type="unfinished">Demander une autorisation</translation>
+    </message>
+    <message>
+        <source>Document Information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="unfinished">Nom du document :</translation>
+    </message>
+    <message>
+        <source>Creater:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Permission:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgDownloadAndUploadFile</name>
+    <message>
+        <source>Dialog</source>
+        <translation>Boîte de dialogue</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>TextLabel</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditOutwardMembers</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Boîte de dialogue</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation type="unfinished">Téléphone :</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Enregi&amp;strer</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditTemplate</name>
+    <message>
+        <source>Edit Template</source>
+        <translation>Modifier un modèle</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translation>Nom de modèle</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>Modèle public</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>Modèle personnel</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translation>Description de modèle</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>Type de modèle</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>Chargé de maintenance</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+    <message>
+        <source>Choose Visible Range</source>
+        <translation>Choisir une plage visible</translation>
+    </message>
+    <message>
+        <source>Clear Checked</source>
+        <translation>Effacer tous les éléments cochés</translation>
+    </message>
+    <message>
+        <source>Visible Range</source>
+        <translation>Plage visible</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExportDictionary</name>
+    <message>
+        <source>Custom Dictionary</source>
+        <translation type="unfinished">Dictionnaire personnel</translation>
+    </message>
+    <message>
+        <source>Dictionary list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished">Chemin d&apos;accès</translation>
+    </message>
+    <message>
+        <source>Full path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished">Fichier dictionnaire (*.dic)</translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation type="unfinished">Ajouter un dictionnaire personnel</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished">Tous les fichiers (*.*)</translation>
+    </message>
+    <message>
+        <source>The file has already existed. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation type="unfinished">La suppression du dictionnaire personnel risque d&apos;affecter le dictionnaire personnel défini pour les autres programmes WPS Office. Voulez-vous continuer ?</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantDeptPermission</name>
+    <message>
+        <source>Grant Department Permssion</source>
+        <translation>Accepter l&apos;autorisation de service</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation>Entrez le nom du service</translation>
+    </message>
+    <message>
+        <source>Search Next</source>
+        <translation>Rechercher le suivant</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>Service</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>Fermer</translation>
+    </message>
+    <message>
+        <source>Add Group</source>
+        <translation>Ajouter un groupe</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>&amp;Organisation</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>&amp;Groupe</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translation>Entrez le nom du groupe</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translation>&amp;Autoriser</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantPermission</name>
+    <message>
+        <source>Grand Permission</source>
+        <translation>Autoriser</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation>Autorisation de lecture</translation>
+    </message>
+    <message>
+        <source>Save Permission</source>
+        <translation>Autorisation d&apos;enregistrement</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>Screen Permission</source>
+        <translation>Autorisation de capture d&apos;écran</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>Autorisation de copie</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>Autorisation d&apos;impression</translation>
+    </message>
+    <message>
+        <source>Changes will take effect after document saved.</source>
+        <translation>Les changements d&apos;autorisations prendront effet dès l&apos;enregistrement du document.</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>Sélectionner tout</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+    <message>
+        <source>Offline Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantUsersPermission</name>
+    <message>
+        <source>Grant Users Permission</source>
+        <translation>Accepter les autorisations des utilisateurs</translation>
+    </message>
+    <message>
+        <source>Please input user name or user Id</source>
+        <translation>Entrez le nom ou le compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Rechercher</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation>Compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>Service</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translation>Utilisateurs sélectionnés</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflineKeyAuth</name>
+    <message>
+        <source>Account :</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Key :</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Offline login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your offline password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter your account</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflineManagement</name>
+    <message>
+        <source>Offline key cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline login management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline state:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline password management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create or modify password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache offline key to this computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflinePassword</name>
+    <message>
+        <source>Offline password </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter current password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter new password(at least eight digits)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOutwardApplications</name>
+    <message>
+        <source>My Outward Applications</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translation type="unfinished">d/m/yyyy</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation type="unfinished">à</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Tout</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Passed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watermark Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application Id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="unfinished">Nom du document :</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation type="unfinished">Identifiant du document :</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation type="unfinished">&amp;Réinitialiser</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="unfinished">Re&amp;chercher</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApply</name>
+    <message>
+        <source>My Permission Apply</source>
+        <translation>Mes demandes</translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translation>Date de la demande :</translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translation>d/m/yyyy</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>à</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>Nom du document : </translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation>Identifiant du document : </translation>
+    </message>
+    <message>
+        <source>Approval State:</source>
+        <translation>État de l&apos;approbation :</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Tout</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translation>En attente</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translation>Approuvé</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translation>Rejeté</translation>
+    </message>
+    <message>
+        <source>Clear All condition</source>
+        <translation>Effacer les critères de recherche</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>Re&amp;chercher</translation>
+    </message>
+    <message>
+        <source>Batch Cancel Apply</source>
+        <translation type="obsolete">Annuler les demandes en bloc</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>&amp;Fermer</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApplyDetail</name>
+    <message>
+        <source>Permission Apply Detail</source>
+        <translation>Détails de l&apos;acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Fermer</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation type="unfinished">Nom du document : </translation>
+    </message>
+    <message>
+        <source>Apply Information:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Modifier</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation type="unfinished">Copier</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished">Imprimer</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation type="unfinished">Enregistrer sous</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translation type="unfinished">Autoriser</translation>
+    </message>
+    <message>
+        <source>Apply Reason:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Permissions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation type="obsolete">Autorisation de lecture</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="obsolete">Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="obsolete">Autorisation de copie</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="obsolete">Autorisation d&apos;impression</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="obsolete">Autorisation d&apos;enregistrement sous</translation>
+    </message>
+    <message>
+        <source>Auth Permission</source>
+        <translation type="obsolete">Acceptation de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translation type="obsolete">Annuler la demande</translation>
+    </message>
+    <message>
+        <source>Apply Permission Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Hors connexion</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApprove</name>
+    <message>
+        <source>Permission Approve</source>
+        <translation>Demandes en attente</translation>
+    </message>
+    <message>
+        <source>Start Date:</source>
+        <translation>Date de la demande :</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>à</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>Nom d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>Nom du document :</translation>
+    </message>
+    <message>
+        <source>User Account:</source>
+        <translation type="obsolete">Compte d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>Identifiant du document :</translation>
+    </message>
+    <message>
+        <source>Clear Search Condition</source>
+        <translation>Effacer les critères de recherche</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Rechercher</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+    <message>
+        <source>Approve State:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">Tout</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRibbonControlRename</name>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished">Renommer</translation>
+    </message>
+    <message>
+        <source>Display name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSaveEncryptedFile</name>
+    <message>
+        <source>Save document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current document does not support account encryption.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create crypto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save current</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSelectApprover</name>
+    <message>
+        <source>Select Approver</source>
+        <translation>Sélectionner l&apos;approbateur</translation>
+    </message>
+    <message>
+        <source>Please input user account, name, or department</source>
+        <translation>Entrez le compte, le nom ou le service de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>Re&amp;chercher</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>&amp;Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrustedLocation</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">Boîte de dialogue</translation>
+    </message>
+    <message>
+        <source>This location will be treated as s trusted source.Make sure the location is secure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation type="unfinished">&amp;Parcourir...</translation>
+    </message>
+    <message>
+        <source>&amp;SubFolders of this location are also trusted</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgUserRightTemplate</name>
+    <message>
+        <source>My User Right Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translation>Type de modèle :</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>Rechercher</translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translation>Effacer les critères de recherche</translation>
+    </message>
+    <message>
+        <source>Template Desc:</source>
+        <translation>Description du modèle :</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>Tout</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>Modèle personnel</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>Modèle public</translation>
+    </message>
+    <message>
+        <source>Template Id:</source>
+        <translation>Identifiant du modèle :</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translation>Nom du modèle :</translation>
+    </message>
+    <message>
+        <source>&amp;New UserRight Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>Supprimer en bloc</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation type="unfinished">&amp;Fermer</translation>
+    </message>
+    <message>
+        <source>KxUserRightTemplateDlg</source>
+        <translation type="obsolete">Gestion des modèles d&apos;autorisations</translation>
+    </message>
+    <message>
+        <source>New UserRight Template</source>
+        <translation type="obsolete">Nouveau modèle d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWeChatCustomerService</name>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished">WPS Office</translation>
+    </message>
+    <message>
+        <source>WeChat QR Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discuss your problem with WPS customer service</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDocSecurityTipHelper</name>
+    <message>
+        <source>Please usse security document function after saving this document as security document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This function can not be used offline, please use it after security server connectable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDocumentIdCalcDlg</name>
+    <message>
+        <source>Title</source>
+        <translation type="unfinished">Titre</translation>
+    </message>
+    <message>
+        <source>FileOID:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OrganizationCode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubDepartment:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentYear:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocumentCode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SerialNumber:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.2.156.10</source>
+        <translation type="unfinished">1.2.156.10</translation>
+    </message>
+    <message>
+        <source>yyyy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>01</source>
+        <translation type="unfinished">01</translation>
+    </message>
+    <message>
+        <source>02</source>
+        <translation type="unfinished">02</translation>
+    </message>
+    <message>
+        <source>03</source>
+        <translation type="unfinished">03</translation>
+    </message>
+    <message>
+        <source>04</source>
+        <translation type="unfinished">04</translation>
+    </message>
+    <message>
+        <source>05</source>
+        <translation type="unfinished">05</translation>
+    </message>
+    <message>
+        <source>06</source>
+        <translation type="unfinished">06</translation>
+    </message>
+    <message>
+        <source>07</source>
+        <translation type="unfinished">07</translation>
+    </message>
+    <message>
+        <source>08</source>
+        <translation type="unfinished">08</translation>
+    </message>
+    <message>
+        <source>09</source>
+        <translation type="unfinished">09</translation>
+    </message>
+    <message>
+        <source>0A</source>
+        <translation type="unfinished">0A</translation>
+    </message>
+    <message>
+        <source>0B</source>
+        <translation type="unfinished">0B</translation>
+    </message>
+    <message>
+        <source>0C</source>
+        <translation type="unfinished">0C</translation>
+    </message>
+    <message>
+        <source>0D</source>
+        <translation type="unfinished">0D</translation>
+    </message>
+    <message>
+        <source>0E</source>
+        <translation type="unfinished">0E</translation>
+    </message>
+    <message>
+        <source>0F</source>
+        <translation type="unfinished">0F</translation>
+    </message>
+    <message>
+        <source>Please input the file oid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the organization code!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the subdepartment!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the document type!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input the serialnumber!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDownloadAndUploadFileDlg</name>
+    <message>
+        <source>Downloading</source>
+        <translation>Téléchargement</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <translation>Enregistrement</translation>
+    </message>
+    <message>
+        <source>Downloading: </source>
+        <translation>Téléchargement : </translation>
+    </message>
+    <message>
+        <source>Saving as: </source>
+        <translation>Enregistrement sous : </translation>
+    </message>
+</context>
+<context>
+    <name>KxDrTipContentWidget</name>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation type="unfinished">Désolé, le programme a rencontré une erreur. Il est maintenant restauré.</translation>
+    </message>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation type="unfinished">%1Impossible de trouver le document que vous voulez? Réessayez  %2 %3 Kingsoft Data Recovery Master %4</translation>
+    </message>
+    <message>
+        <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
+        <translation type="unfinished">Le document qui n&apos;a pas été enregistré lors de la dernière fermeture a été restauré. Si vous ne souhaitez pas restaurer le fichier, fermez-le et ouvrez de nouveau le fichier d&apos;origine.</translation>
+    </message>
+    <message>
+        <source>%1 Try %3 Document Repair %4 Repair the error encoding. %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>immediately fix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading the Document Fix. Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1Diagnose this exception%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This file has been opened as read-only. Enable edit?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>immediately recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2%3view the content of the report%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>send report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To avoid a problem that has not been discovered, The document was restored to a version with %1. Please send us an error report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2%3click here to install vba.%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2%3click here to view more details.%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>security warning:macros have been disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>enable macros</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEditOutwardMembersDlg</name>
+    <message>
+        <source>Add Forward Recievers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Forward Recievers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name can&apos;t be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email is invalid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone number is invalid!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Company can&apos;t be empty!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receiver already exists in your receivers list!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEditTemplateDlg</name>
+    <message>
+        <source>account</source>
+        <translation>Compte</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translation>Service</translation>
+    </message>
+    <message>
+        <source>Template Name can&apos;t be empty.</source>
+        <translation>Le nom du modèle ne peut pas être vide.</translation>
+    </message>
+    <message>
+        <source>Template Describe can&apos;t be empty.</source>
+        <translation>La description du modèle ne peut pas être vide.</translation>
+    </message>
+    <message>
+        <source>Public template must choose at least one organization or group.</source>
+        <translation>La plage visible d&apos;un modèle public doit être au moins une organisation ou un groupe.</translation>
+    </message>
+    <message>
+        <source>Edit Template</source>
+        <translation type="unfinished">Modifier un modèle</translation>
+    </message>
+    <message>
+        <source>The maximum length of template description can not exceeded 255 characters</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEncryptionHardware</name>
+    <message>
+        <source>unknown device</source>
+        <translation>Appareil inconnu</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnpRecieversModel</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEnterpriseDocSecurity</name>
+    <message>
+        <source>Can&apos;t complete such operation</source>
+        <translation>Impossible de terminer l&apos;opération.</translation>
+    </message>
+    <message>
+        <source>Please log on to use document security function.</source>
+        <translation>Connectez-vous pour utiliser la fonctionnalité de sécurité du document.</translation>
+    </message>
+    <message>
+        <source>Your WPS Office client hasn&apos;t configured document security server information, please contact technical support.</source>
+        <translation>Les informations du serveur de sécurité des documents n&apos;ont pas été configurées sur votre client WPS Office. Contactez le support technique.</translation>
+    </message>
+    <message>
+        <source>Cancel Permission Apply</source>
+        <translation>Annuler la demande</translation>
+    </message>
+    <message>
+        <source>Are you sure to cancel the selected document&apos;s permission apply?</source>
+        <translation>Voulez-vous vraiment annuler la demande d&apos;autorisation pour le document sélectionné ?</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open document</source>
+        <translation>Impossible d&apos;ouvrir le document</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save document</source>
+        <translation>Impossible d&apos;enregistrer le document</translation>
+    </message>
+    <message>
+        <source>Can&apos;t copy</source>
+        <translation>Impossible de copier le document</translation>
+    </message>
+    <message>
+        <source>Can&apos;t print</source>
+        <translation>Impossible d&apos;imprimer le document</translation>
+    </message>
+    <message>
+        <source>can&apos;t print screen</source>
+        <translation>Impossible de faire une capture d&apos;écran</translation>
+    </message>
+    <message>
+        <source>Check Permission Failed</source>
+        <translation>Échec de la vérification de l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please open after connect avaliable.</source>
+        <translation>Réseau déconnecté. Ouvrez le document dès que la connexion est rétablie.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please save after connect avaliable.</source>
+        <translation>Réseau déconnecté. Enregistrez le document dès que la connexion est rétablie.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please copy after connect avaliable.</source>
+        <translation>Réseau déconnecté. Copiez le document dès que la connexion est rétablie.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print after connect avaliable.</source>
+        <translation>Réseau déconnecté. Imprimez le document dès que la connexion est rétablie.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print screen after connect avaliable.</source>
+        <translation>Réseau déconnecté. Faites la capture d&apos;écran dès que la connexion est rétablie.</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, check permission failed.</source>
+        <translation>Réseau déconnecté. Échec de la vérification de l&apos;autorisation.</translation>
+    </message>
+    <message>
+        <source>This document is WPS security document, security document format that supports WPS client to open.</source>
+        <translation>Ce document est de type Sécurisation de document en ligne WPS. Ouvrez-le à l&apos;aide d&apos;un client WPS Office qui prend en charge le format Security Document.</translation>
+    </message>
+    <message>
+        <source>Security Server authenticating failed to current identifier, please login again.</source>
+        <translation>Le serveur de sécurité n&apos;a pas réussi à vérifier le compte actuel. Reconnectez-vous.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no full control permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation complète pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no auth permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas d&apos;autorisation pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no read permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation de lecture pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no edit permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation de modification pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no save as permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation d&apos;enregistrement pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no copy permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation de copie pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation d&apos;impression pour ce document.</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print screen permission for this document!</source>
+        <translation>Désolé, vous n&apos;avez pas l&apos;autorisation de capture d&apos;écran pour ce document.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, may be tampering or corrupted!</source>
+        <translation>Impossible d&apos;ouvrir ce document de sécurité. Il peut être falsifié ou corrompu.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, it&apos;s not belong our enterprise.</source>
+        <translation>Impossible d&apos;ouvrir ce document de sécurité. Il n&apos;appartient pas à notre organisation.</translation>
+    </message>
+    <message>
+        <source>Access Security Document Server Failed.</source>
+        <translation>Échec de l&apos;accès au serveur du document de sécurité. Vérifiez votre réseau.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this document</source>
+        <translation>Impossible d&apos;ouvrir ce document</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save this document</source>
+        <translation>Impossible d&apos;enregistrer ce document</translation>
+    </message>
+    <message>
+        <source>Please log on to verify your permission</source>
+        <translation>Connectez-vous.</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translation>Ce document est de type Sécurisation de document en ligne WPS. Connectez-vous pour vérifier vos autorisations.</translation>
+    </message>
+    <message>
+        <source>You are saving a WPS Online Security Document, Please logon to complete operation.</source>
+        <translation>Vous êtes en train d&apos;enregistrer un document de type Sécurisation de document en ligne WPS. Connectez-vous pour terminer cette action.</translation>
+    </message>
+    <message>
+        <source>You already has apply for this document, Please wait.</source>
+        <translation>Vous avez déjà envoyé une demande pour ce document. Attendez l&apos;approbation avant d&apos;envoyer une autre demande.</translation>
+    </message>
+    <message>
+        <source>The param of this approve is error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The apply has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The applied rights has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The applicant has already canceled this apply.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to approve this application, you don&apos;t have auth permission.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone already exists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email already exists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email and phone alread exists!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone param format wrong!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Email param format wrong!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Security document format mismatch: %1.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to save this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to use this function, please contact your enterprise&apos;s administrator or WPS customer service. (Server API mismatch: %1.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation type="unfinished">Oui</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation type="unfinished">Non</translation>
+    </message>
+    <message>
+        <source>Your application has been approved, cancel failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current password is wrong!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have not set the offline password yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document is not support offline, please retry after update online.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create security document offline is not suppoted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Such operation is not supported when you security document is offline.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You outward application is out of expired, please apply again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security document server exception, please contact the enterprise administrator or try again later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sorry, you don&apos;t have read permission of this document(%1).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have offline permission for this document or no offline cache data found on this computer, please use this document after connecting to the security server.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline permission verified</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Can&apos;t launch application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>configure error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>show tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>get enterprise list failed,please login</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFontPreviewLabel</name>
+    <message>
+        <source>Simsun</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContentChartNumber</name>
+    <message>
+        <source>Western</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai Buddhist</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontPreviewComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryShapesCommand</name>
+    <message>
+        <source>Recommand</source>
+        <translation>Recommandé</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation>Prédéfinir</translation>
+    </message>
+</context>
+<context>
+    <name>KxGallerySyFontComboBox</name>
+    <message>
+        <source> (Headings)</source>
+        <translation type="unfinished"> (Titres)</translation>
+    </message>
+    <message>
+        <source> (Body)</source>
+        <translation type="unfinished"> (Corps)</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5RemindDialog</name>
+    <message>
+        <source>Copy Finished</source>
+        <translation>Copié</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareContiueWidget</name>
+    <message>
+        <source>Share Finished!</source>
+        <translation>Partagé.</translation>
+    </message>
+    <message>
+        <source>Continue Share &gt;&gt;</source>
+        <translation>Poursuivre le partage &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Manage Shared Link &gt;&gt;</source>
+        <translation>Gérer les liens partagés &gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareLoginWidget</name>
+    <message>
+        <source>Link has been generated, 
+you can use the login!</source>
+        <translation>Le lien a été créé.
+Connectez-vous pour l&apos;utiliser.</translation>
+    </message>
+    <message>
+        <source>For document security needs, please log in,
+you can also enjoy the link after the link to manage, delete, and then share privileges</source>
+        <translation>Connectez-vous pour utiliser le lien.
+Lorsque vous êtes connecté, vous pouvez également gérer, supprimer et partager le lien avec d&apos;autres utilisateurs.</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5hareCreateLinkWidget</name>
+    <message>
+        <source>creating a link...</source>
+        <translation>Création de lien...</translation>
+    </message>
+    <message>
+        <source>Mobile scan two-dimensional code</source>
+        <translation>Numérisez le code QR pour envoyer le lien vers votre appareil mobile.</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionAlert</name>
+    <message>
+        <source>It is not supported for Data Encryption/Decryption on this platform.</source>
+        <translation>Le système actuel ne prend pas en charge le chiffrement/déchiffrement de données.</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>Informations</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionDialog</name>
+    <message>
+        <source>Document Encryption</source>
+        <translation>Chiffrement de document</translation>
+    </message>
+    <message>
+        <source>Document Decryption</source>
+        <translation>Déchiffrement de document</translation>
+    </message>
+    <message>
+        <source>The file requires hardware encryption.</source>
+        <translation>Le fichier exige un chiffrement matériel.</translation>
+    </message>
+    <message>
+        <source>The file has been hardware encrypted.</source>
+        <translation>Le fichier a été chiffré au niveau matériel.</translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware encryption service is about to expire, please renew in time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionInfoWidget</name>
+    <message>
+        <source>Not found USB-KEY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>If you have plugged in USB-KEY,try redetecting or re-plugging.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Detecting USB-KEY...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>renewal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Found </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> has expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The encryption service </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> has expired, Available after renewal.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The encryption service will </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> expired, Leaving only </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> days.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionItemModel</name>
+    <message>
+        <source>Found</source>
+        <translation>Trouvé</translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translation>Non chiffré</translation>
+    </message>
+    <message>
+        <source>Save As </source>
+        <translation>Enregistrer sous </translation>
+    </message>
+    <message>
+        <source>Security Format</source>
+        <translation>Format de sécurité</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionService</name>
+    <message>
+        <source>Need to update the USB-KEY driver,Please update the driver!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionWidget</name>
+    <message>
+        <source>Apply for hardware.</source>
+        <translation>Demander du matériel</translation>
+    </message>
+    <message>
+        <source>Start detection</source>
+        <translation>Démarrer la détection</translation>
+    </message>
+    <message>
+        <source>Cannot find USB Key. If you have plugged it in, please try again or redetect.</source>
+        <translation type="obsolete">Clé USB introuvable. Si vous l&apos;avez branchée, réessayez ou recommencez la détection.</translation>
+    </message>
+    <message>
+        <source>Detecting USB Key...</source>
+        <translation type="obsolete">Détection de la clé USB...</translation>
+    </message>
+    <message>
+        <source>Redetect</source>
+        <translation>Redétecter</translation>
+    </message>
+    <message>
+        <source>Plug in a USB Key to hardware encrypt the file&apos;s open access. 
+Password protection and document permissions will become invalid.</source>
+        <translation>Branchez une clé USB pour chiffrer l&apos;accès ouvert du fichier au niveau matériel. 
+La protection par mot de passe et les autorisations du document ne seront plus valides.</translation>
+    </message>
+</context>
+<context>
+    <name>KxImageQQStylePreViewer</name>
+    <message>
+        <source>Real Size</source>
+        <translation>Taille actuelle</translation>
+    </message>
+    <message>
+        <source>Full Screen</source>
+        <translation>Plein écran</translation>
+    </message>
+    <message>
+        <source>Close Full Screen</source>
+        <translation>Quitter le mode plein écran</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>Capture d&apos;écran</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>Précédent</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>Suivant</translation>
+    </message>
+</context>
+<context>
+    <name>KxLoadingTreeModel</name>
+    <message>
+        <source>Loading, please wait...</source>
+        <translation>Chargement en cours. Veuillez patienter...</translation>
+    </message>
+    <message>
+        <source>Loading failed...</source>
+        <translation>Échec du chargement...</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeNoProtectDocCommand</name>
+    <message>
+        <source>You have not applied for no protect yet or last application is out of expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocCommand</name>
+    <message>
+        <source>Current document has unsaved changes, please make outward document after saving changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Outward document is created, open now?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocEntranceCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have outgoing permissions for this document. Please contact the administrator.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMakePasswordDocCommand</name>
+    <message>
+        <source>You have not applied for password protect yet or last application is out of expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeWatermarkDocCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMembersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translation>Nom d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation>Compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>Service</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineKeyAuthDlg</name>
+    <message>
+        <source>User account can&apos;t be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrong account(please enter full name account) or offline cache not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagement</name>
+    <message id="false">
+        <source>Please close all security document before log out.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Your offline account doesn&apos;t match the online account, please log again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline log in will log out the online account, are you sure want to log in?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>all security document will be closed after you log in,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>log in continue (data will be lost if file mark dirty)?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account, please login again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagementDlg</name>
+    <message>
+        <source>Not logged in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logged in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation type="unfinished">Nom d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>User account:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User department:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Log out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Sign in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security server is reachable, offline login is disabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download offline data successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download offline data failed, please retry later.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You don&apos;t have any document&apos;s offline permission, download offline data failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflinePasswordDlg</name>
+    <message>
+        <source>Current password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Confirm new password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current password can&apos;t be empty.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password&apos;s length must greater than 8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have enter two different passwords.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset password successfully.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set password successfully</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonQatTab</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Customize the Quick Access Toolbar</source>
+        <translation>Personnaliser la barre d&apos;outils Accès rapide</translation>
+    </message>
+    <message>
+        <source>Choose Commands</source>
+        <translation>Choisir les commandes</translation>
+    </message>
+    <message>
+        <source>&amp;Add &gt;&gt;</source>
+        <translation>&amp;Ajouter &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Remove</source>
+        <translation>&lt;&lt; Supp&amp;rimer</translation>
+    </message>
+    <message>
+        <source>Customize Quick Access Toolbar</source>
+        <translation>Options actuellement affichées</translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation>Réinitialis&amp;er</translation>
+    </message>
+    <message>
+        <source>You already have this on Quick Access Toolbar.</source>
+        <translation>La barre d&apos;outils Accès rapide contient déjà cette option.</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>Barre d&apos;outils Accès rapide</translation>
+    </message>
+    <message>
+        <source>&amp;Choose commands from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Popular Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonTabsTab</name>
+    <message>
+        <source>Form</source>
+        <translation>Formulaire</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">Rétablir</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="obsolete">Bouton-poussoir</translation>
+    </message>
+    <message>
+        <source>Cutomize the Ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Choose commands from:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Popular Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Commands Not in the Ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Main Tabs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished">&amp;Ajouter</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customize the Ri&amp;bbon:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ne&amp;w Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rena&amp;me...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Customizations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation type="unfinished">Réinitialis&amp;er</translation>
+    </message>
+    <message>
+        <source>Reset only selected Ribbon tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset all customizations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Keyboard shortcuts:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cus&amp;tomize...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardApplicationsDlg</name>
+    <message>
+        <source>Do you want to cancel the outward applications for the selected document?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardApplicationsModel</name>
+    <message>
+        <source>Application time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation type="unfinished">Nom du document</translation>
+    </message>
+    <message>
+        <source>Protect type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opeartion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translation type="unfinished">Date de la demande :</translation>
+    </message>
+    <message>
+        <source>Doc Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approval Status:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Application detail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Watermark protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not approved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardDocTableModel</name>
+    <message>
+        <source>Authorize Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OutwardType_NoProtect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OutwardType_WaterMark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OutwardType_Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPDF2WordEntryList</name>
+    <message>
+        <source>Loading the PDF To Word. Please wait...</source>
+        <translation type="obsolete">Chargement d&apos;un document PDF vers Word. Veuillez patienter...</translation>
+    </message>
+</context>
+<context>
+    <name>KxPasswordListModel</name>
+    <message>
+        <source>Apply id:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Passowrd:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyDetailDlg</name>
+    <message>
+        <source>Current Permission</source>
+        <translation>Autorisation actuelle</translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation>Demander une autorisation</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished">%1(%2) {1?}</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translation type="unfinished">En attente</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translation type="unfinished">Approuvé</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translation type="unfinished">Rejeté</translation>
+    </message>
+    <message>
+        <source>Apply canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver Information:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver Opinion:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Agree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disagree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission Approved</source>
+        <translation type="unfinished">Résultat de l&apos;approbation</translation>
+    </message>
+    <message>
+        <source>Approve agree, user permission application take effect.</source>
+        <translation type="unfinished">Approuvé. Les autorisations de l&apos;utilisateur sont effectives.</translation>
+    </message>
+    <message>
+        <source>Approve refuse, user permission application failed.</source>
+        <translation type="unfinished">Rejeté. La demande d&apos;autorisation de l&apos;utilisateur a échoué.</translation>
+    </message>
+    <message>
+        <source>File Name: %1</source>
+        <translation type="obsolete">Nom du document : %1</translation>
+    </message>
+    <message>
+        <source>File Id: %1</source>
+        <translation type="obsolete">Identifiant du document : %1</translation>
+    </message>
+    <message>
+        <source>File Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Id:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Status:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Id:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Time:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Time:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approve Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyDlg</name>
+    <message>
+        <source>Your Apply has been canceled.</source>
+        <translation type="obsolete">Votre demande a été annulée.</translation>
+    </message>
+    <message>
+        <source>You has already canceled apply for this document.</source>
+        <translation type="obsolete">Vous avez déjà annulé la demande pour ce document.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translation>Date de la demande</translation>
+    </message>
+    <message>
+        <source>File Id</source>
+        <translation type="obsolete">Identifiant du document</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>Nom du fichier</translation>
+    </message>
+    <message>
+        <source>Apply State</source>
+        <translation>État de l&apos;approbation</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>Opération</translation>
+    </message>
+    <message>
+        <source>Apply Detail</source>
+        <translation>Détails de la demande</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translation>Annuler la demande</translation>
+    </message>
+    <message>
+        <source>wait for approve</source>
+        <translation>En attente</translation>
+    </message>
+    <message>
+        <source>apply passed</source>
+        <translation>Approuvé</translation>
+    </message>
+    <message>
+        <source>apply unpassed</source>
+        <translation>Rejeté</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>apply canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveDlg</name>
+    <message>
+        <source>Totally %1 records</source>
+        <translation type="obsolete">%1 enregistrements au total</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveModel</name>
+    <message>
+        <source>Application Date</source>
+        <translation>Date de la demande</translation>
+    </message>
+    <message>
+        <source>Document Id</source>
+        <translation type="obsolete">Identifiant du document</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>Nom du document</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation type="obsolete">Compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translation>Nom d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>Opération</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation>Approuver</translation>
+    </message>
+    <message>
+        <source>Approve State</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approved</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionLoginTipDlg</name>
+    <message>
+        <source>Offline log on</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionTipDlg</name>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Annuler</translation>
+    </message>
+    <message>
+        <source>Cannot open this document</source>
+        <translation>Impossible d&apos;ouvrir ce document</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translation>Ce document est de type Sécurisation de document en ligne WPS. Connectez-vous pour vérifier vos autorisations.</translation>
+    </message>
+    <message>
+        <source>Log on</source>
+        <translation type="obsolete">Connexion</translation>
+    </message>
+    <message>
+        <source>Online log on</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionsTableModel</name>
+    <message>
+        <source>Auth Type</source>
+        <translation>Type d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translation>Nom d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation type="obsolete">Compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>ReadOnly</source>
+        <translation>Lire</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Modifier</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>Copier</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>Imprimer</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation>Enregistrer sous</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translation>Autoriser</translation>
+    </message>
+    <message>
+        <source>UniquePrincipal</source>
+        <translation>Principal unique</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translation>Autorisation de l&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Group Auth</source>
+        <translation>Autorisation du groupe</translation>
+    </message>
+    <message>
+        <source>Company Auth</source>
+        <translation>Autorisation du service</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>Opération</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Supprimer</translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translation>Modèle d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation type="unfinished">Hors connexion</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRecentFileListCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxReciversModel</name>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Nom</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation type="unfinished">Opération</translation>
+    </message>
+    <message>
+        <source>Receiver Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receiver Phone:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receiver Email:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Receiver Company:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="unfinished">Modifier</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+</context>
+<context>
+    <name>KxReportContainerWidget</name>
+    <message>
+        <source>double click to view more</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRnSettingsProxyCommand</name>
+    <message>
+        <source>settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSaveEncryptedFileDlg</name>
+    <message>
+        <source>• Click &quot;Generate encryption&quot; to generate an encrypted copy.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>• Click &quot;Save current&quot; to ignore the account encryption and continue to save in the current format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxScreenSaverCenterButton</name>
+    <message>
+        <source>ScreenSaver Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSelUsersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translation>Nom d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation>Compte d&apos;utilisateur</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>Service</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectApproverDlg</name>
+    <message>
+        <source>Permission Application</source>
+        <translation>Demande d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Your Apply has sumbited, please wait.</source>
+        <translation>Votre demande a été envoyée. Attendez l&apos;approbation.</translation>
+    </message>
+    <message>
+        <source>You has already sumbited one apply for this document.</source>
+        <translation>Vous avez déjà envoyé une demande pour ce document.</translation>
+    </message>
+</context>
+<context>
+    <name>KxServerConnectableTipDlg</name>
+    <message id="0">
+        <source>Offline use hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security server is connectable, please log in to use security document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online log in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account, please login again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxServerDownTipDlg</name>
+    <message>
+        <source>Access security document server failed, offline log in</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>if you have offline permission of this document, otherwise</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>use it after connection available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline use</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxShapePaneTitle</name>
+    <message>
+        <source>More</source>
+        <translation>Plus</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDlgWidget</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertPreviewWidget</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KxSpinBoxCommand</name>
+    <message>
+        <source>Copies:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSuperTabSwitchWidget</name>
+    <message>
+        <source>Can&apos;t display the directory of current document not saved.</source>
+        <translation>Impossible d&apos;afficher l&apos;emplacement du fichier, car ce fichier n&apos;a pas été enregistré.</translation>
+    </message>
+    <message>
+        <source>Directory:</source>
+        <translation>Emplacement :</translation>
+    </message>
+    <message>
+        <source>Opened Documents:</source>
+        <translation>Documents ouverts :</translation>
+    </message>
+</context>
+<context>
+    <name>KxTabNotification</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Formulaire</translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Receive Help and QA notices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do&amp;n&apos;t remind me</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTabTrustCenter</name>
+    <message>
+        <source>TrustCenter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macro security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Macros &amp;Security...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trusted Locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change or add a location that treated as tructed sources, make sure that the new location is secure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Locations:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sub Folders:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add new location...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished">&amp;Modifier...</translation>
+    </message>
+    <message>
+        <source>&amp;Disable all Trusted Locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trusted Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trusted Documents open without any secutiy prompts for macros add ActiveX.Make sure you trust the source.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Auto add as Trusted document.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable Trusted &amp;Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear all Trusted Documents so that they are no longer trusted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTemplateInfoDlg</name>
+    <message>
+        <source>Permission Template Infomation</source>
+        <translation>Informations sur le modèle d&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translation type="obsolete">Autorisation de modification</translation>
+    </message>
+    <message>
+        <source>ensure tips</source>
+        <translation>Remarque</translation>
+    </message>
+    <message>
+        <source>Do you want to save the rights for the template before exiting</source>
+        <translation>Enregistrer les modifications apportées au modèle d&apos;autorisation avant de quitter ?</translation>
+    </message>
+    <message>
+        <source>Do you want to remove this user right?</source>
+        <translation>Voulez-vous supprimer cette autorisation ?</translation>
+    </message>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translation type="obsolete">%1 éléments au total.</translation>
+    </message>
+    <message>
+        <source>user rights saved</source>
+        <translation>Autorisations enregistrées.</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translation type="unfinished">L&apos;utilisateur actuel dispose d&apos;autres autorisations, ce qui rend impossible la suppression de l&apos;autorisation de lecture.</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrustCenterTab</name>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Allowed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disallowed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Trusted Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Trusted Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear your Trusted Documents list so that they are no longer trusted?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trusted Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The specified path aleady been added to your Trusted Locations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTrustedLocationDlg</name>
+    <message>
+        <source>Select Folder:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The path you have Select is not allowed. Please select other path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateHelper</name>
+    <message numerus="yes">
+        <source>WPS Office Exception</source>
+        <translation type="obsolete">
+            <numerusform>Exception WPS Office</numerusform>
+            <numerusform>Exception WPS Office</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>WPS Office update service cannot work properly, and you will not be able to access to new and improved features brought out in new versions. We recommend that you reinstalled WPS Office to solve this problem.</source>
+        <translation type="obsolete">
+            <numerusform>Le service de mise à jour de WPS Office ne fonctionne pas correctement et vous ne pourrez pas accéder aux nouvelles fonctionnalités offertes dans les nouvelles versions. Pour résoudre ce problème, nous vous recommandons de réinstaller WPS Office.</numerusform>
+            <numerusform>Le service de mise à jour de WPS Office ne fonctionne pas correctement et vous ne pourrez pas accéder aux nouvelles fonctionnalités offertes dans les nouvelles versions. Pour résoudre ce problème, nous vous recommandons de réinstaller WPS Office.</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Reinstall</source>
+        <translation type="obsolete">
+            <numerusform>Réinstaller</numerusform>
+            <numerusform>Réinstaller</numerusform>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateDlg</name>
+    <message>
+        <source>ensure tips</source>
+        <translation>Remarque</translation>
+    </message>
+    <message>
+        <source>After you delete the template, all documents associated with this template will be affected.Are you sure to remove this template?</source>
+        <translation>Si vous supprimez ce modèle, tous les documents qui lui sont associés seront affectés. Voulez-vous continuer la suppression ?</translation>
+    </message>
+    <message>
+        <source>New Template</source>
+        <translation>Nouveau modèle d&apos;autorisation</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateModel</name>
+    <message>
+        <source>Template Name</source>
+        <translation>Nom de modèle</translation>
+    </message>
+    <message>
+        <source>Template Id</source>
+        <translation type="obsolete">Identifiant de modèle</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>Type de modèle</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>Chargé de maintenance</translation>
+    </message>
+    <message>
+        <source>Maintainer Account</source>
+        <translation type="obsolete">Compte de chargé de maintenance</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translation>Description de modèle</translation>
+    </message>
+    <message>
+        <source>Template Operation</source>
+        <translation>Opération</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>Modifier</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>Informations sur l&apos;autorisation</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>Supprimer</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>Modèle personnel</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>Modèle public</translation>
+    </message>
+    <message>
+        <source>Template Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Id:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVisibleRangeModel</name>
+    <message>
+        <source>Type</source>
+        <translation>Type</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>Nom</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation>Personnel</translation>
+    </message>
+    <message>
+        <source>User Group</source>
+        <translation>Groupe</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>Service</translation>
+    </message>
+</context>
+<context>
+    <name>KxWatermarkTableModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translation type="unfinished">Date de la demande</translation>
+    </message>
+    <message>
+        <source>Apply Id</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply reason:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ProxySetting</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation>Paramètres du proxy</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>Mot de passe :</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>Port :</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>Adresse:</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>Nom d&apos;utilisateur :</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>Type :</translation>
+    </message>
+    <message>
+        <source>Proxy Setting</source>
+        <translation>Paramètres du proxy</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>Tester</translation>
+    </message>
+</context>
+<context>
+    <name>QDialogButtonBox</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>QMainWindow</name>
+    <message>
+        <source>Document List</source>
+        <translation>Liste de documents</translation>
+    </message>
+</context>
+<context>
+    <name>ResourceFinder</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished">Enregi&amp;strer</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">&amp;Ouvrir</translation>
+    </message>
+    <message>
+        <source>Yes (&amp;Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yes To All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No (&amp;N)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No To All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Abort (&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry (&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore (&amp;I)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fermer</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="unfinished">Appliquer</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="unfinished">Rétablir</translation>
+    </message>
+    <message>
+        <source>ResetDefaults</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>diagramConversion</name>
+    <message>
+        <source>Diagram Conversion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to a SmartArt graphic or Shapes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>G</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SmartArt graphics can be displayed in previous versions, but not edited, in versions prior to WPS 2016. Any cell references previously applied to this diagram will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shapes do not provide diagramming functionality, but you can edit them in all version of WPS Office, Any animation previously applied to this diagram will be removed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation type="unfinished">Convertir</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>Pour assurer un affichage correct, le lien contient uniquement les 50 premières pages du document.</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
+    <message>
+        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
+        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;Accéder à l&apos;aperçu&lt;/a&gt;&gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
+    <message>
+        <source>Export Pdf</source>
+        <translation>Exporter au format PDF</translation>
+    </message>
+    <message>
+        <source>Print/Preview</source>
+        <translation>Imprimer/Aperçu</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>Dossier</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
+    <message>
+        <source>Property</source>
+        <translation>Propriété</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
+    <message>
+        <source>Creating Link...</source>
+        <translation>Création de lien...</translation>
+    </message>
+    <message>
+        <source>Scan QRCode</source>
+        <translation>Numériser le code QR</translation>
+    </message>
+    <message>
+        <source>Network error, can not create link
+Please check your network your firewall configuration</source>
+        <translation>Impossible de créer le lien en raison d&apos;une erreur réseau.
+Vérifiez la configuration de votre réseau et de votre pare-feu.</translation>
+    </message>
+    <message>
+        <source>Server not respondingT_T
+Click to retry, or try it later~</source>
+        <translation>Le serveur ne répond pas.
+Cliquez ici pour recommencer ou réessayez plus tard.</translation>
+    </message>
+    <message>
+        <source>Create link failedT_T
+Click to retry, or try it later~</source>
+        <translation>Échec de la création de lien.
+Cliquez ici pour recommencer ou réessayez plus tard.</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>Copier le lien</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>Créer un lien</translation>
+    </message>
+    <message>
+        <source>Scan the QRCode
+send document link to mobile</source>
+        <translation>Numérisez le code QR
+et envoyez le lien vers votre appareil mobile.</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
+    <message>
+        <source>Share link:</source>
+        <translation>Partager un lien :</translation>
+    </message>
+    <message>
+        <source>Share to WeChat</source>
+        <translation>Partager sur WeChat</translation>
+    </message>
+    <message>
+        <source>Share to Weibo</source>
+        <translation>Partager sur Weibo</translation>
+    </message>
+    <message>
+        <source>Share to QQ</source>
+        <translation>Partager sur QQ</translation>
+    </message>
+    <message>
+        <source>Share to QZone</source>
+        <translation>Partager sur QZone</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>Copier le lien</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>Copier le lien</translation>
     </message>
 </context>
 </TS>

@@ -118,11 +118,11 @@
     </message>
     <message>
         <source>Chinese Font</source>
-        <translation>FonteChinesa</translation>
+        <translation>Fonte Chinesa</translation>
     </message>
     <message>
         <source>Western Font</source>
-        <translation>FonteOcidental</translation>
+        <translation>Fonte Ocidental</translation>
     </message>
     <message>
         <source>Text Box</source>

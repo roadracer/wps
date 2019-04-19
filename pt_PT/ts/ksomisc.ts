@@ -117,22 +117,34 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Pin to tas&amp;kbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Afixar na barra de &amp;tarefas</translation>
     </message>
     <message>
         <source>Unpin from tas&amp;kbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Remover da barra de &amp;tarefas</translation>
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="obsolete">WPS Office.lnk</translation>
+        <translation>WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>WPS 2019.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF.lnk</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KHomePage</name>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
-        <translation>Desbloquear a home page do IE poderá fazer com que a home page seja modificada maliciosamente por Trojans. Tem a certeza de que pretende desbloqueá-la?</translation>
+        <translation type="obsolete">Desbloquear a home page do IE poderá fazer com que a home page seja modificada maliciosamente por Trojans. Tem a certeza de que pretende desbloqueá-la?</translation>
+    </message>
+    <message>
+        <source>Unlock the browser homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
+        <translation>Desbloquear a home page do browser poderá fazer com que a home page seja modificada maliciosamente por Trojans. Tem a certeza de que pretende desbloqueá-la?</translation>
     </message>
 </context>
 <context>
@@ -154,6 +166,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>The serial number is invalid. Please confirm it.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an invalid SN.</extracomment>
         <translation>O número de série é inválido. Confirme-o.</translation>
+    </message>
+    <message>
+        <source>&lt;a href = &apos;%1&apos; style=&apos;color: #1BADEA;&apos;&gt;Purchase&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -252,15 +268,55 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office Configuration Tools.lnk</source>
-        <translation type="obsolete">Ferramentas de Configuração do WPS Office.lnk</translation>
+        <translation>Ferramentas de Configuração do WPS Office.lnk</translation>
     </message>
     <message>
         <source>Check for WPS Office Updates.lnk</source>
-        <translation type="obsolete">Procurar Atualizações do WPS Office.lnk</translation>
+        <translation>Procurar Atualizações do WPS Office.lnk</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
-        <translation type="obsolete">Desinstalar o WPS Office.lnk</translation>
+        <translation>Desinstalar o WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Photo.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Xiutang.lnk</source>
+        <translation type="unfinished">WPS Xiutang.lnk</translation>
+    </message>
+    <message>
+        <source>Make polished HTML5 pages with WPS Xiutang and share to WeChat Moments.</source>
+        <translation>Crie páginas HTML5 impecáveis com o WPS Xiutang e partilhe no WeChat Moments.</translation>
+    </message>
+    <message>
+        <source>WPS ProcessOn.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS ProcessOn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS 2019.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -325,20 +381,88 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation>Ocorreu um erro ao reparar, volte a tentar.</translation>
     </message>
+    <message>
+        <source>Repair WPS Update Service</source>
+        <translation type="obsolete">Reparar Serviço de Atualização do WPS</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation type="obsolete">São necessários privilégios de administrador para reparar o &quot;Serviço de Atualização do WPS&quot;. Utilize a conta de administrador para reiniciar as &quot;Ferramentas de Configuração&quot;.</translation>
+    </message>
 </context>
 <context>
     <name>KOther</name>
     <message>
         <source>Others</source>
-        <translation type="obsolete">Outros</translation>
+        <translation>Outros</translation>
     </message>
     <message>
         <source>WPS Office Cloud</source>
-        <translation type="obsolete">WPS Office Cloud</translation>
+        <translation>WPS Office Cloud</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
-        <translation type="obsolete">Ative &quot;Carregar para o WPS Office Cloud&quot; no Menu de Contexto.</translation>
+        <translation>Ative &quot;Carregar para o WPS Office Cloud&quot; no Menu de Contexto.</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation>Software recomendado:</translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation>&amp;Recomendar software após a conclusão da atualização.</translation>
+    </message>
+    <message>
+        <source>WPS Today and push message:</source>
+        <translation>Novas versões recomendadas</translation>
+    </message>
+    <message>
+        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
+        <translation>Procurar atualizações, mas permitir-me escolher se as quero &amp;transferir e instalar</translation>
+    </message>
+    <message>
+        <source>&amp;Receive push messages</source>
+        <translation>Atualizar Itens:</translation>
+    </message>
+    <message>
+        <source>Enable entry, show WPS Cloud virutal disk on &quot;My Computer&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear WPS Cloud cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cache clear finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some files is in use, please save and close. Then try again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running Mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS is running under %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;Switch to multi module mode&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch to All-in-One mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multi module mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All-in-One mode</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -549,18 +673,26 @@ produza efeito.</translation>
     </message>
     <message>
         <source>WPS Writer new documents saved as *.&amp;docx format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar novos documentos do WPS Writer no formato *.&amp;docx por predefinição</translation>
     </message>
     <message>
         <source>WPS Spreadsheets new documents saved as *.&amp;xlsx format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar novos documentos do WPS Spreadsheets no formato *.&amp;xlsx por predefinição</translation>
     </message>
     <message>
         <source>WPS Presentation new documents saved as *.pp&amp;tx format by default</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar novos documentos do WPS Presentation no formato *.pp&amp;tx por predefinição</translation>
     </message>
     <message>
         <source>PD&amp;F Documents (*.pdf files)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation>Portable Document &amp;Format(*.pdf)</translation>
+    </message>
+    <message>
+        <source>Pict&amp;ure Files(*.jpg, *.png, *.gif,...)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -589,7 +721,13 @@ produza efeito.</translation>
     <message>
         <source>You can change the IE homepage anytime.
 Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation>Pode alterar a home page do IE em qualquer altura.
+        <translation type="obsolete">Pode alterar a home page do IE em qualquer altura.
+Lembre-se de que fica exposto a riscos relacionados com vírus e pirataria informática caso o faça.</translation>
+    </message>
+    <message>
+        <source>You can change the browser homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation>Pode alterar a home page do browser em qualquer altura.
 Lembre-se de que fica exposto a riscos relacionados com vírus e pirataria informática caso o faça.</translation>
     </message>
 </context>
@@ -770,6 +908,22 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <translation> WPS Spreadsheets não encontrado
 </translation>
     </message>
+    <message>
+        <source>WPS Office if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset &amp;Plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset plugins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resetting plugins completed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPageRepair</name>
@@ -862,6 +1016,14 @@ O ícone do botão, o grupo de comandos e a posição da janela de tarefas de ca
     <message>
         <source>WPS Office Configuration Tools</source>
         <translation>Ferramentas de Configuração do WPS Office</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1238,6 +1400,70 @@ O ícone do botão, o grupo de comandos e a posição da janela de tarefas de ca
         <source>WPS Presentation Preview Handler</source>
         <translation>Processador de Pré-visualização do WPS Presentation</translation>
     </message>
+    <message>
+        <source>WPS Writer Security Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer Outward Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Security Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Outward Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Security Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation Outward Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Binary Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK Data Import Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Add-In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOC Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOCX Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XLS Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XLSX Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPT Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPTX Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1290,7 +1516,7 @@ O ícone do botão, o grupo de comandos e a posição da janela de tarefas de ca
     </message>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation type="unfinished">&amp;Transferir atualizações, mas deixa-me escolher se as instalo</translation>
+        <translation type="obsolete">&amp;Transferir atualizações, mas deixa-me escolher se as instalo</translation>
     </message>
     <message>
         <source>Get the latest product news during updates(&amp;K)</source>
@@ -1330,11 +1556,11 @@ O ícone do botão, o grupo de comandos e a posição da janela de tarefas de ca
     </message>
     <message>
         <source>Software recommend：</source>
-        <translation>Software recomendado:</translation>
+        <translation type="obsolete">Software recomendado:</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
-        <translation>&amp;Recomendar software após a conclusão da atualização.</translation>
+        <translation type="obsolete">&amp;Recomendar software após a conclusão da atualização.</translation>
     </message>
     <message>
         <source>To improve the quality, reliability, and capability of WPS Office and its service, you are invited to participate in User Experience Improvement Activity.</source>
@@ -1367,19 +1593,43 @@ O ícone do botão, o grupo de comandos e a posição da janela de tarefas de ca
     </message>
     <message>
         <source>Check for update, but let me choose whether to &amp;download and install them</source>
-        <translation type="obsolete">Procurar atualizações, mas permitir-me escolher se as quero &amp;transferir e instalar</translation>
+        <translation>Procurar atualizações, mas permitir-me escolher se as quero &amp;transferir e instalar</translation>
     </message>
     <message>
         <source>Update Items:</source>
-        <translation type="obsolete">Atualizar Itens:</translation>
+        <translation>Atualizar Itens:</translation>
     </message>
     <message>
         <source>All new releases</source>
-        <translation type="obsolete">Todas as novas versões</translation>
+        <translation>Todas as novas versões</translation>
     </message>
     <message>
         <source>Recommended new releases</source>
+        <translation>Novas versões recomendadas</translation>
+    </message>
+    <message>
+        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
+        <translation type="obsolete">Procurar atualizações, mas permitir-me escolher se as quero &amp;transferir e instalar</translation>
+    </message>
+    <message>
+        <source>&amp;Receive push messages</source>
+        <translation type="obsolete">Atualizar Itens:</translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation type="obsolete">Todas as novas versões</translation>
+    </message>
+    <message>
+        <source>WPS Today and push message:</source>
         <translation type="obsolete">Novas versões recomendadas</translation>
+    </message>
+    <message>
+        <source>Use a &amp;background service to install updates</source>
+        <translation type="obsolete">Use um serviço de fundo para instalar atualizações</translation>
+    </message>
+    <message>
+        <source>Do not &amp;update automatically (not recommended)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1395,6 +1645,228 @@ O ícone do botão, o grupo de comandos e a posição da janela de tarefas de ca
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
         <translation>O WPS Office está em execução, volte a abrir as ferramentas de configuração depois de fechar o programa.</translation>
+    </message>
+    <message>
+        <source>WPS Office Configuration Tools</source>
+        <translation>Ferramentas de Configuração do WPS Office</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Do you want to relaunch &quot;Configuration Tools&quot; in Administrator mode?</source>
+        <translation>Privilégios de administrador são necessários.
+Você quer reiniciar &quot;Ferramentas de Configuração&quot; no modo de administração?</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation>Privilégios de administrador são necessários.
+Utilize a conta de administrador para reiniciar as &quot;Ferramentas de Configuração&quot;.</translation>
+    </message>
+</context>
+<context>
+    <name>KFileAsso</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>Use WPS Writer to write reports and make up articles.</source>
+        <translation>Utilize o WPS Writer para escrever relatórios e criar artigos.</translation>
+    </message>
+    <message>
+        <source>Use WPS Spreadsheets to analyze and manage data.</source>
+        <translation>Utilize o WPS Spreadsheets para analisar e gerir dados.</translation>
+    </message>
+    <message>
+        <source>Use WPS Presentation to edit and play presentations.</source>
+        <translation>Utilize o WPS Presentation para editar e reproduzir apresentações.</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Standalone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileAssoForCurUser</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="obsolete">WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="obsolete">WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="obsolete">WPS Presentation</translation>
+    </message>
+</context>
+<context>
+    <name>KProcessExistsAlertDlg</name>
+    <message>
+        <source>Restart WPS to see changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The settings you have changed require restarting WPS to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KQingExitTip</name>
+    <message>
+        <source>WPS Cloud is working. Please exit at tray and continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear WPS Cloud cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchAllInOneDlg</name>
+    <message>
+        <source>Switch window manage mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Support multi-window multi-label depart or group by free, Support saving label list as workspace and sync cross devices</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organize file label in different window filter by file type, Do not support workspace feature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old Multi-Component Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switching WPS 2019 to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait for swiching...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not close you computer before finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successful switch to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All-in-One Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old Multi Component Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Traditional Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchToClassicInterfaceDlg</name>
+    <message>
+        <source>Switch to Classic Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Classic interface, files opened by Writer, Spreadsheet, and Presentation will be shown in different windows rather than sharing one window. And Working Area feature is not supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switching to Classic Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please do not turn off your computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Successfully switch to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Classic Interface</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start WPS</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

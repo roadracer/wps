@@ -25,23 +25,27 @@
     </message>
     <message>
         <source>The probation period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translation>El período de prueba está a punto de expirar.</translation>
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation>Comprar ahora &gt;&gt;</translation>
+        <translation type="obsolete">Comprar ahora &gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
-        <translation type="unfinished"></translation>
+        <translation>El período de uso autorizado del producto indica que quedan %1 .&lt;br/&gt;Una vez finalizado el período de uso autorizado, su versión de WPS Office dejará de funcionar correctamente. &lt;br/&gt;Renueve si desea seguir usando el producto.</translation>
     </message>
     <message>
         <source>The Authorize period is about to expire</source>
-        <translation type="unfinished"></translation>
+        <translation>El período de uso autorizado está a punto de expirar.</translation>
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation>Renovar ahora &gt;&gt;</translation>
+        <translation type="obsolete">Renovar ahora &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -109,6 +113,14 @@
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
         <translation type="obsolete">Falló al guardar el número de serie. Compruebe si tiene el permiso del administrador o no.</translation>
     </message>
+    <message>
+        <source>* Unit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please Choose</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KUserCenterMenuCommand</name>
@@ -151,18 +163,26 @@
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Authorize Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The original license has expired,please renew.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;La licencia original ha expirado. Renuévela.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>preview mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo de vista previa</translation>
     </message>
     <message>
         <source>Buy/renew Now</source>
+        <translation type="obsolete">Comprar/Renovar ahora</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -208,35 +228,35 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgQingRestrict</name>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation type="unfinished">Funciones deshabilitadas de WPS Office</translation>
+        <translation type="obsolete">Funciones deshabilitadas de WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Limited Features</source>
-        <translation type="unfinished">Funciones limitadas de WPS Office</translation>
+        <translation type="obsolete">Funciones limitadas de WPS Office</translation>
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation type="unfinished">La característica no está disponible en la versión gratis </translation>
+        <translation type="obsolete">La característica no está disponible en la versión gratis </translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation type="unfinished">Si es un abonado pagado, puede usar esta función también:</translation>
+        <translation type="obsolete">Si es un abonado pagado, puede usar esta función también:</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished">Iniciar sesión</translation>
+        <translation type="obsolete">Iniciar sesión</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation type="unfinished">Si ha comprado una suscripción para individuos, inicie sesión a usar WPS Office.</translation>
+        <translation type="obsolete">Si ha comprado una suscripción para individuos, inicie sesión a usar WPS Office.</translation>
     </message>
     <message>
         <source>Enter your activation code</source>
-        <translation type="unfinished">Escriba el código de activación</translation>
+        <translation type="obsolete">Escriba el código de activación</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished">Si ya tiene un código de activación, utilícelo a activar WPS Office.</translation>
+        <translation type="obsolete">Si ya tiene un código de activación, utilícelo a activar WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -313,26 +333,34 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Trial Period Expiration&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&apos;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Expiración del período de prueba&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;El período de prueba de WPS Office ha expirado. Accederá al modo de vista previa, con el que WPS Office no podrá funcionar correctamente. Para reanudar el funcionamiento normal, adquiera WPS Office.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>preview mode</source>
-        <translation type="unfinished"></translation>
+        <translation>modo de vista previa</translation>
     </message>
     <message>
         <source>Buy Now</source>
         <translation>Comprar ahora</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KxDlgTrialReminder</name>
     <message>
         <source>WPS Office Trial Reminder</source>
-        <translation type="unfinished"></translation>
+        <translation>Recordatorio de prueba de WPS Office</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
@@ -340,11 +368,15 @@ p, li { white-space: pre-wrap; }
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;You can try the WPS Office for 30 days&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&apos;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;SimSun&apos;; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600; color:#1f1f1f;&quot;&gt;Puede probar WPS Office durante 30 días&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;To buy the WPS office, can continue to normal use after the probation period&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Si compra WPS Office, podrá seguir utilizando el producto con normalidad tras el período de prueba&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Buy Now</source>
@@ -352,7 +384,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Try it out</source>
-        <translation type="unfinished"></translation>
+        <translation>Pruébelo</translation>
     </message>
 </context>
 <context>
@@ -392,6 +424,10 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Download</source>
         <translation>&amp;Descargar</translation>
     </message>
+    <message>
+        <source>Never show again</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgVbaReminder</name>
@@ -409,11 +445,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>LEARN MORE</source>
-        <translation type="obsolete">MÁS INFORMACIÓN</translation>
+        <translation>MÁS INFORMACIÓN</translation>
     </message>
     <message>
         <source>Learn More</source>
@@ -448,11 +484,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Get a 30-day trial.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenga una prueba de 30 días.</translation>
     </message>
     <message>
         <source>Enter Serial Number/Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca el número de serie o código de activación</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
@@ -461,6 +497,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
         <translation type="obsolete">Si ya tiene un código de activación, utilícelo a activar WPS Office.</translation>
+    </message>
+    <message>
+        <source>Enter Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate WPS Office with existing Serial Number.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -479,23 +523,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Personal Edition(Free)</source>
-        <translation type="obsolete">Personal Edition (gratuita)</translation>
+        <translation>Personal Edition (gratuita)</translation>
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
-        <translation type="obsolete">Incluye una versión de evaluación gratuita de %1 días de WPS Office Business Edition. %2Comenzar &gt;&gt;%3</translation>
+        <translation>Incluye una versión de evaluación gratuita de %1 días de WPS Office Business Edition. %2Comenzar &gt;&gt;%3</translation>
     </message>
     <message>
         <source>Did you purchase WPS Office?</source>
-        <translation type="obsolete">¿Compró WPS Office?</translation>
+        <translation>¿Compró WPS Office?</translation>
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
-        <translation type="obsolete">Haga clic aquí para %1iniciar sesión%2 o %3introducir el código de activación%4.</translation>
+        <translation>Haga clic aquí para %1iniciar sesión%2 o %3introducir el código de activación%4.</translation>
     </message>
     <message>
         <source>Need Help?</source>
-        <translation type="obsolete">¿Necesita ayuda?</translation>
+        <translation>¿Necesita ayuda?</translation>
     </message>
 </context>
 <context>
@@ -506,7 +550,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as docx format</source>
-        <translation>Guardar como formato de docx</translation>
+        <translation type="obsolete">Guardar como formato de docx</translation>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
@@ -582,7 +626,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as xlsx/xlsm format</source>
-        <translation>Guardar como formato de  xlsx/xlsm </translation>
+        <translation type="obsolete">Guardar como formato de  xlsx/xlsm </translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -639,6 +683,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
         <translation type="obsolete">Buscar el valor óptimo de una celda de destino por cambiar valores en celdas usadas para calcular la celda de destino. </translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -720,11 +772,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WPS Office Serial Number/Activation Code</source>
-        <translation type="unfinished"></translation>
+        <translation>Número de serie o código de activación de WPS Office</translation>
     </message>
     <message>
         <source>Please enter your serial number or activation code</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca el número de serie o código de activación</translation>
     </message>
     <message>
         <source>How to get an enterprise activation code?</source>
@@ -756,27 +808,27 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Invalid serial number or activation code.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de serie o código de activación no es válido.</translation>
     </message>
     <message>
         <source>The serial number or activation code has exceeded the maximum number of activations.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de serie o código de activación ha superado el número máximo de activaciones.</translation>
     </message>
     <message>
         <source>The serial number has expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de serie ha expirado.</translation>
     </message>
     <message>
         <source>The serial number is invalid. Please confirm it.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de serie no es válido. Confírmelo.</translation>
     </message>
     <message>
         <source>The serial number you entered already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>El número de serie que escribió ya existe.</translation>
     </message>
     <message>
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para activar WPS Office necesita permiso de UAC (control de cuentas de usuario) del sistema. Vuelva a intentarlo.</translation>
     </message>
     <message>
         <source>Enter your activation code here:</source>
@@ -804,11 +856,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activation code expires on: %1</source>
-        <translation type="obsolete">El código de activación caduca el: %1</translation>
+        <translation>El código de activación caduca el: %1</translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation type="obsolete">LICENCIA PERPETUA</translation>
+        <translation>LICENCIA PERPETUA</translation>
+    </message>
+    <message>
+        <source>The serial number is not support this platform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please check your network connection or %1configure proxy%2 and try again.</source>
+        <translation>Compruebe la conexión a la red o %1configure el proxy%2 y vuelva a intentarlo.</translation>
+    </message>
+    <message>
+        <source>WPS Office Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;u&gt;Use other SN or Activation codes&lt;/u&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation/SN code expires on: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add SN Succeed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -908,12 +984,36 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
         <source>Cannot connect to the server, thus activation fails. Please check your network connection and try again.</source>
         <translation>No se puede conectar al servidor. Falló la activación. Compruebe la conexión de red o inténtelo de nuevo más tarde.</translation>
     </message>
+    <message>
+        <source>Upgrade to WPS Office Business Edition</source>
+        <translation type="obsolete">Actualizar a WPS Office Business Edition</translation>
+    </message>
+    <message>
+        <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
+        <translation type="obsolete">Para disfrutar de las características premium como VBA, actualice su versión a WPS Office Business Edition. Para obtener más información, haga clic aquí para visitar la página de compra.</translation>
+    </message>
+    <message>
+        <source>Buy</source>
+        <translation>Comprar</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Activar</translation>
+    </message>
+    <message>
+        <source>Purchase License</source>
+        <translation>Comprar licencia</translation>
+    </message>
+    <message>
+        <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
+        <translation>Puede adquirir una licencia para quitar los anuncios y disfrutar de servicios adicionales.</translation>
+    </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
     <message>
         <source>Buy/Renew Now</source>
-        <translation type="unfinished">Comprar/Renovar ahora</translation>
+        <translation type="obsolete">Comprar/Renovar ahora</translation>
     </message>
 </context>
 <context>
@@ -1081,6 +1181,46 @@ Después de la expiración, unas funciones no funcionarán correctamente. Renuev
     <message>
         <source>Form</source>
         <translation type="obsolete">Formulario</translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterMenuButton</name>
+    <message>
+        <source>abnormal network status, turn to be offline status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPromeExpireReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaDownloadGuiderDlg</name>
+    <message>
+        <source>tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>download</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

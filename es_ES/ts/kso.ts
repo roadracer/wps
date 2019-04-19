@@ -82,57 +82,57 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>Chart Area</source>
         <comment>HINT_CHARTAREA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Área del gráfico</translation>
     </message>
     <message>
         <source>Plot Area</source>
         <comment>HINT_PLOTAREA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Área de trazado</translation>
     </message>
     <message>
         <source>Data Table</source>
         <comment>HINT_DATATABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tabla de datos</translation>
     </message>
     <message>
         <source>Chart Title</source>
         <comment>HINT_CHARTTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título del gráfico</translation>
     </message>
     <message>
         <source>Legend</source>
         <comment>HINT_LEGEND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Leyenda</translation>
     </message>
     <message>
         <source>Legend Entry</source>
         <comment>HINT_LEGENDENTRY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Entrada de leyenda</translation>
     </message>
     <message>
         <source>Series</source>
         <comment>HINT_SERIES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serie</translation>
     </message>
     <message>
         <source>Point</source>
         <comment>HINT_POINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto</translation>
     </message>
     <message>
         <source>Data Label</source>
         <comment>HINT_DATALABEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de datos</translation>
     </message>
     <message>
         <source>Value</source>
         <comment>HINT_VALUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valor</translation>
     </message>
     <message>
         <source>Trendline</source>
         <comment>HINT_TRENDLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea de tendencia</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -142,92 +142,92 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>Error Bar</source>
         <comment>HINT_ERRORBAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Barra de error</translation>
     </message>
     <message>
         <source>Leader Line</source>
         <comment>HINT_LEADERLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea guía</translation>
     </message>
     <message>
         <source>Unit Label</source>
         <comment>HINT_UNITLABEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de unidad</translation>
     </message>
     <message>
         <source>Category Label</source>
         <comment>HINT_CATEGORYLABEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Etiqueta de categoría</translation>
     </message>
     <message>
         <source>Secondary</source>
         <comment>HINT_SECONDARY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Secundario</translation>
     </message>
     <message>
         <source>Vertical</source>
         <comment>HINT_VERTICAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>Horizontal</source>
         <comment>HINT_HORIZONTAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Category</source>
         <comment>HINT_CATEGORY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoría</translation>
     </message>
     <message>
         <source>Axis</source>
         <comment>HINT_AXIS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Eje</translation>
     </message>
     <message>
         <source>Major Gridline</source>
         <comment>HINT_MAJORGRIDLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea de división principal</translation>
     </message>
     <message>
         <source>Minor Gridline</source>
         <comment>HINT_MINORGRIDLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea de división secundaria</translation>
     </message>
     <message>
         <source>Title</source>
         <comment>HINT_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título</translation>
     </message>
     <message>
         <source>Series Lines</source>
         <comment>HINT_SERIESLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Líneas de la serie</translation>
     </message>
     <message>
         <source>Drop Lines</source>
         <comment>HINT_DROPLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Líneas de unión</translation>
     </message>
     <message>
         <source>High-Low Lines</source>
         <comment>HINT_HIGTLOWLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Líneas de máximos y mínimos</translation>
     </message>
     <message>
         <source>Up-Bars</source>
         <comment>HINT_UPBARS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Barras ascendentes</translation>
     </message>
     <message>
         <source>Down-Bars</source>
         <comment>HINT_DOWNBARS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Barras descendentes</translation>
     </message>
     <message>
         <source>Radar</source>
         <comment>HINT_RADAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Radial</translation>
     </message>
     <message>
         <source>Text</source>
@@ -237,202 +237,202 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>Gridline</source>
         <comment>HINT_GRIDLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea de cuadrícula</translation>
     </message>
     <message>
         <source> OPTIONS</source>
         <comment>CHART_FORMATTING_OPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation> OPCIONES</translation>
     </message>
     <message>
         <source>CAHRT</source>
         <comment>CHART_FORMATTING_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation>GRÁFICO</translation>
     </message>
     <message>
         <source>TITLE</source>
         <comment>CHART_FORMATTING_TITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>TÍTULO</translation>
     </message>
     <message>
         <source>AXIS</source>
         <comment>CHART_FORMATTING_AXIS</comment>
-        <translation type="unfinished"></translation>
+        <translation>EJE</translation>
     </message>
     <message>
         <source>LEGEND</source>
         <comment>CHART_FORMATTING_LEGEND</comment>
-        <translation type="unfinished"></translation>
+        <translation>LEYENDA</translation>
     </message>
     <message>
         <source>PLOT AREA</source>
         <comment>CHART_FORMATTING_PLOTAREA</comment>
-        <translation type="unfinished"></translation>
+        <translation>ÁREA DE TRAZADO</translation>
     </message>
     <message>
         <source>MAJOR GRIDLINES</source>
         <comment>CHART_FORMATTING_MAJORGRIDLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEAS DE DIVISIÓN PRINCIPALES</translation>
     </message>
     <message>
         <source>SERIES</source>
         <comment>CHART_FORMATTING_SERIES</comment>
-        <translation type="unfinished"></translation>
+        <translation>SERIE</translation>
     </message>
     <message>
         <source>MINOR GRIDLINES</source>
         <comment>CHART_FORMATTING_MINORGRIDLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEAS DE DIVISIÓN SECUNDARIAS</translation>
     </message>
     <message>
         <source>LEGEND ENTRY</source>
         <comment>CHART_FORMATTING_LEGENDENTRY</comment>
-        <translation type="unfinished"></translation>
+        <translation>ENTRADA DE LEYENDA</translation>
     </message>
     <message>
         <source>POINT</source>
         <comment>CHART_FORMATTING_POINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>PUNTO</translation>
     </message>
     <message>
         <source>DATA LABEL</source>
         <comment>CHART_FORMATTING_DATALABEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>ETIQUETA DE DATOS</translation>
     </message>
     <message>
         <source>TRENDLINE</source>
         <comment>CHART_FORMATTING_TRENDLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEA DE TENDENCIA</translation>
     </message>
     <message>
         <source>ERROR BAR</source>
         <comment>CHART_FORMATTING_ERRORBAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>BARRA DE ERROR</translation>
     </message>
     <message>
         <source>LEADER LINE</source>
         <comment>CHART_FORMATTING_LEADERLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEA GUÍA</translation>
     </message>
     <message>
         <source>CATEGORY LABEL</source>
         <comment>CHART_FORMATTING_CATEGORYLABEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>ETIQUETA DE CATEGORÍA</translation>
     </message>
     <message>
         <source>SERIES LINE</source>
         <comment>CHART_FORMATTING_SERIESLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEA DE SERIE</translation>
     </message>
     <message>
         <source>DROP LINE</source>
         <comment>CHART_FORMATTING_DROPLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEA DE UNIÓN</translation>
     </message>
     <message>
         <source>HIGH_LOW LINE</source>
         <comment>CHART_FORMATTING_HIGTLOWLINES</comment>
-        <translation type="unfinished"></translation>
+        <translation>LÍNEA DE MÁXIMOS Y MÍNIMOS</translation>
     </message>
     <message>
         <source>UP-BARS</source>
         <comment>CHART_FORMATTING_UPBARS</comment>
-        <translation type="unfinished"></translation>
+        <translation>BARRAS ASCENDENTES</translation>
     </message>
     <message>
         <source>DOWN-BARS</source>
         <comment>CHART_FORMATTING_DOWNBARS</comment>
-        <translation type="unfinished"></translation>
+        <translation>BARRAS DESCENDENTES</translation>
     </message>
     <message>
         <source>LABEL</source>
         <comment>CHART_FORMATTING_LABEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>ETIQUETA</translation>
     </message>
     <message>
         <source>TABEL</source>
         <comment>CHART_FORMATTING_TABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>TABLA</translation>
     </message>
     <message>
         <source>Chart Title</source>
         <comment>CHART_DEFAULTTEXT_CHARTTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título del gráfico</translation>
     </message>
     <message>
         <source>Axis Title</source>
         <comment>CHART_DEFAULTTEXT_AXISTITLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Título del eje</translation>
     </message>
     <message>
         <source>Sales</source>
         <comment>CHART_DEFAULTTEXT_SALES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ventas</translation>
     </message>
     <message>
         <source>1st Qtr</source>
         <comment>CHART_DEFAULTTEXT_FIRSTQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>1er trim.</translation>
     </message>
     <message>
         <source>2nd Qtr</source>
         <comment>CHART_DEFAULTTEXT_SECONDQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>2do trim.</translation>
     </message>
     <message>
         <source>3rd Qtr</source>
         <comment>CHART_DEFAULTTEXT_THIRDQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>3er trim.</translation>
     </message>
     <message>
         <source>4th Qtr</source>
         <comment>CHART_DEFAULTTEXT_FOURTHQUARTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>4to trim.</translation>
     </message>
     <message>
         <source>Series 1</source>
         <comment>CHART_DEFAULTTEXT_SERIES1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serie 1</translation>
     </message>
     <message>
         <source>Series 2</source>
         <comment>CHART_DEFAULTTEXT_SERIES2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serie 2</translation>
     </message>
     <message>
         <source>Series 3</source>
         <comment>CHART_DEFAULTTEXT_SERIES3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serie 3</translation>
     </message>
     <message>
         <source>Series 4</source>
         <comment>CHART_DEFAULTTEXT_SERIES4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Serie 4</translation>
     </message>
     <message>
         <source>Category 1</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoría 1</translation>
     </message>
     <message>
         <source>Category 2</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoría 2</translation>
     </message>
     <message>
         <source>Category 3</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY3</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoría 3</translation>
     </message>
     <message>
         <source>Category 4</source>
         <comment>CHART_DEFAULTTEXT_CATEGORY4</comment>
-        <translation type="unfinished"></translation>
+        <translation>Categoría 4</translation>
     </message>
     <message>
         <source>Volume</source>
         <comment>CHART_DEFAULTTEXT_STOCK_VOLUME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <source>Open</source>
@@ -442,12 +442,12 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>High</source>
         <comment>CHART_DEFAULTTEXT_STOCK_HIGH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alto</translation>
     </message>
     <message>
         <source>Low</source>
         <comment>CHART_DEFAULTTEXT_STOCK_LOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bajo</translation>
     </message>
     <message>
         <source>Close</source>
@@ -457,62 +457,62 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>Y-Values</source>
         <comment>CHART_DEFAULTTEXT_Y_VALUES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Valores de Y</translation>
     </message>
     <message>
         <source>Expon</source>
         <comment>CHART_DEFAULTTEXT_LINE_EXPON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Exponencial</translation>
     </message>
     <message>
         <source>Linear</source>
         <comment>CHART_DEFAULTTEXT_LINE_LINEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lineal</translation>
     </message>
     <message>
         <source>Log</source>
         <comment>CHART_DEFAULTTEXT_LINE_LOG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Logarítmico</translation>
     </message>
     <message>
         <source>Poly</source>
         <comment>CHART_DEFAULTTEXT_LINE_POLY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Polinómico</translation>
     </message>
     <message>
         <source>Power </source>
         <comment>CHART_DEFAULTTEXT_LINE_POWER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Potencia </translation>
     </message>
     <message>
         <source>per. Mov. Avg.</source>
         <comment>CHART_DEFAULTTEXT_LINE_AVGMOV</comment>
-        <translation type="unfinished"></translation>
+        <translation>per. media móvil</translation>
     </message>
     <message>
         <source>Hundreds</source>
         <comment>CHART_UNITLABEL_HUNDREDS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cientos</translation>
     </message>
     <message>
         <source>Thousands</source>
         <comment>CHART_UNITLABEL_THOUSANDS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Millares</translation>
     </message>
     <message>
         <source>Millions</source>
         <comment>CHART_UNITLABEL_MILLIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Millones</translation>
     </message>
     <message>
         <source>Billions</source>
         <comment>CHART_UNITLABEL_BILLIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Miles de millones</translation>
     </message>
     <message>
         <source>Trillions</source>
         <comment>CHART_UNITLABEL_TRILLIONS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Billones</translation>
     </message>
     <message>
         <source>None</source>
@@ -522,16 +522,60 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>Other</source>
         <comment>CHART_DATALABELTEXT_OTHER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otro</translation>
     </message>
     <message>
         <source>The linked file is not available.</source>
         <comment>CHART_UnavailableChartLinkPath</comment>
-        <translation type="unfinished"></translation>
+        <translation>El archivo vinculado no está disponible.</translation>
     </message>
     <message>
         <source>To Insert a Chart,you must first close any open dialog boxes or cancel editing mode in WPS Spreadsheets.</source>
         <comment>CHART_CanNotWriteChartLinkPath</comment>
+        <translation>Para insertar un gráfico, cierre primero cualquier cuadro de diálogo que tenga abierto o cancele el modo de edición en WPS Spreadsheets.</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <comment>HINT_SIZE</comment>
+        <translation>Tamaño</translation>
+    </message>
+    <message>
+        <source>Save Chart Template</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Template Files(*.crtx)|*.crtx</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Filter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart%d</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <comment>HINT_Addtext</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.Please try recreating it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To build a PivotChart, choose fields from the PivotChart Field List.</source>
+        <comment>CHART_PIVOT_EMPTY_ShowFieldList_DES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trun on the PivotChart Field List to work with the PivotChart.</source>
+        <comment>CHART_PIVOT_EMPTY_HideFieldList_DES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use an XY(Scatter), Bubble, or Stock chart type with a chart that has been created from PivotTbale data.Please select a different chart type.</source>
+        <comment>TX_PivotChart_NotSupport_ChartType</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -555,7 +599,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished">Datos de WPS Drawing</translation>
+        <translation type="obsolete">Datos de WPS Drawing</translation>
     </message>
     <message>
         <source>Data of WPS Mail</source>
@@ -650,7 +694,7 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished">Los contenidos del portapapeles van a ser insertados como Datos de WPS Drawing.</translation>
+        <translation type="obsolete">Los contenidos del portapapeles van a ser insertados como Datos de WPS Drawing.</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Mail.</source>
@@ -755,32 +799,32 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
     <message>
         <source>New Data of Kingsoft Writer</source>
         <comment>TX_KSO_CF_WPS_DOCX_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nuevos datos de WPS Writer</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as New Data of Kingsoft Writer.</source>
         <comment>TX_KSO_CF_WPS_DOCX_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del Portapapeles como nuevos datos de WPS Writer.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Presentation Slide.</source>
         <comment>TX_KSO_CF_SLIDES_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diapositiva de WPS Presentation</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Presentation Slide.</source>
         <comment>TX_KSO_CF_SLIDES_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inserta el contenido del Portapapeles como diapositiva de WPS Presentation.</translation>
     </message>
     <message>
         <source>ET Drag Drawing</source>
         <comment>TX_KSO_CF_ET_DRAG_SHAPE_DISPNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets Drag Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drag Drawing.</source>
         <comment>TX_KSO_CF_ET_DRAG_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>El contenido del Portapapeles se insertará como datos de Kingsoft Drag Drawing.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Drawing</source>
@@ -791,6 +835,26 @@ Por favor, compruebe la configuración del sistema y asegúrese de que el direct
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
+        <translation>Objeto gráfico de WPS Office</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
+        <translation>Inserta el contenido del Portapapeles como objeto gráfico de WPS Office.</translation>
+    </message>
+    <message>
+        <source>WPS Office Graphic Object</source>
+        <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
+        <translation>Objeto gráfico de WPS Office</translation>
+    </message>
+    <message>
+        <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
+        <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
+        <translation>Inserta el contenido del Portapapeles como objeto gráfico de WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -1830,51 +1894,86 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
         <comment>DgAllPicture</comment>
-        <translation type="unfinished"></translation>
+        <translation>Todas las imágenes (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</translation>
     </message>
     <message>
         <source>Change To Autoshape</source>
         <comment>DgUil_KSO_Cmd_ChangeAutoShape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar a autoforma</translation>
     </message>
     <message>
         <source>Lines</source>
         <comment>DgUil_KSO_Cmd_DynamicShape</comment>
-        <translation type="unfinished"></translation>
+        <translation>Líneas</translation>
     </message>
     <message>
         <source>Reset Picture And Size</source>
         <comment>DgUil_KSO_Cmd_ResetPictureAndSize</comment>
-        <translation type="unfinished"></translation>
+        <translation>Restablecer imagen y tamaño</translation>
     </message>
     <message>
         <source>Edit Series</source>
         <comment>DgUil_KSO_Cmd_EditChartDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>Editar serie</translation>
     </message>
     <message>
         <source>Select Data</source>
         <comment>DgUil_KSO_Cmd_ChooseChartDataSource</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seleccionar datos</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
         <comment>DgUil_KSO_Cmd_PictureScaleCrop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Relación de aspecto</translation>
     </message>
     <message>
         <source>Crop to Shape</source>
         <comment>DgUil_KSO_Cmd_PictureShapeCrop</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar según la forma</translation>
     </message>
     <message>
         <source>Other Layout Options</source>
         <comment>DgUil_KSO_Cmd_LayoutObject</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otras opciones de diseño</translation>
     </message>
     <message>
         <source>There is not enough memory, Create Object Failed!</source>
         <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
+        <translation>Error al crear el objeto por falta de memoria.</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_AddPictureFrame</comment>
+        <translation>Agregar marco de imagen</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetSize</comment>
+        <translation>Restablecer imagen y tamaño</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <comment>DgUil_KSO_Cmd_FormatComment</comment>
+        <translation>Comentario de formato</translation>
+    </message>
+    <message>
+        <source>Diagram Conversion</source>
+        <comment>DgUil_PromptDiagramConversionTitle</comment>
+        <translation>Conversión de diagrama</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to Shapes.</source>
+        <comment>DgUil_PromptDiagramConversion</comment>
+        <translation>Para editar este diagrama, debe convertirlo en Formas.</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</source>
+        <comment>DgAllPictureAddCgm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
+        <comment>DgUil_ComputerMetaFiles</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3533,7 +3632,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>WordArt</source>
         <comment>DRAWINGSTR_WORDART</comment>
-        <translation type="unfinished"></translation>
+        <translation>WordArt</translation>
     </message>
     <message>
         <source>Straight Connector</source>
@@ -3588,7 +3687,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Heptagon</source>
         <comment>DRAWING2STR_HEPTAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Heptágono</translation>
     </message>
     <message>
         <source>Octagon</source>
@@ -3598,12 +3697,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Decagon</source>
         <comment>DRAWING2STR_DECAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Decágono</translation>
     </message>
     <message>
         <source>Dodecagon</source>
         <comment>DRAWING2STR_DODECAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodecágono</translation>
     </message>
     <message>
         <source>4-Point Star</source>
@@ -3663,37 +3762,37 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Round Single Corner Rectangle</source>
         <comment>DRAWING2STR_ROUND_SINGLE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina sencilla</translation>
     </message>
     <message>
         <source>Round Same Side Corner Rectangle</source>
         <comment>DRAWING2STR_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina del mismo lado</translation>
     </message>
     <message>
         <source>Round Diagonal Corner Rectangle</source>
         <comment>DRAWING2STR_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina diagonal</translation>
     </message>
     <message>
         <source>Snip and Round Single Corner Rectangle</source>
         <comment>DRAWING2STR_SNIP_AND_ROUND_SINGLE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar y redondear rectángulo de esquina sencilla</translation>
     </message>
     <message>
         <source>Snip Single Corner Rectangle</source>
         <comment>DRAWING2STR_SNIP_SINGLE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar rectángulo de esquina sencilla</translation>
     </message>
     <message>
         <source>Snip Same Side Corner Rectangle</source>
         <comment>DRAWING2STR_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar rectángulo de esquina del mismo lado</translation>
     </message>
     <message>
         <source>Snip Diagonal Corner Rectangle</source>
         <comment>DRAWING2STR_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar rectángulo de esquina diagonal</translation>
     </message>
     <message>
         <source>Plaque</source>
@@ -3708,7 +3807,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Teardrop</source>
         <comment>DRAWING2STR_TEARDROP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lágrima</translation>
     </message>
     <message>
         <source>Pentagon</source>
@@ -3723,7 +3822,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Pie</source>
         <comment>DRAWING2STR_PIE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Circular</translation>
     </message>
     <message>
         <source>Block Arc</source>
@@ -3738,7 +3837,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>&quot;No&quot; Symbol</source>
         <comment>DRAWING2STR_NO_SYMBOL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Señal de prohibido</translation>
     </message>
     <message>
         <source>Right Arrow</source>
@@ -3903,7 +4002,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Smiley Face</source>
         <comment>DRAWING2STR_SMILEY_FACE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cara sonriente</translation>
     </message>
     <message>
         <source>Explosion 1</source>
@@ -3928,17 +4027,17 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Frame</source>
         <comment>DRAWING2STR_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <source>Half Frame</source>
         <comment>DRAWING2STR_HALF_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medio marco</translation>
     </message>
     <message>
         <source>L-Shape</source>
         <comment>DRAWING2STR_L_SHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forma de L</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
@@ -3948,7 +4047,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Chord</source>
         <comment>DRAWING2STR_CHORD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acorde</translation>
     </message>
     <message>
         <source>Arc</source>
@@ -3988,7 +4087,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Straight Arrow Connector</source>
         <comment>DRAWING2STR_STRAIGHT_ARROW_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector recto de flecha</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -4333,32 +4432,32 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Plus</source>
         <comment>DRAWING2STR_PLUS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Más</translation>
     </message>
     <message>
         <source>Minus</source>
         <comment>DRAWING2STR_MINUS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Menos</translation>
     </message>
     <message>
         <source>Multiply</source>
         <comment>DRAWING2STR_MULTIPLY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicar</translation>
     </message>
     <message>
         <source>Division</source>
         <comment>DRAWING2STR_DIVISION</comment>
-        <translation type="unfinished"></translation>
+        <translation>División</translation>
     </message>
     <message>
         <source>Equal</source>
         <comment>DRAWING2STR_EQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Igual a</translation>
     </message>
     <message>
         <source>Not Equal</source>
         <comment>DRAWING2STR_NOT_EQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>No igual a</translation>
     </message>
     <message>
         <source>Group</source>
@@ -4368,7 +4467,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>TextBox</source>
         <comment>DRAWING2STR_TEXTBOX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de texto</translation>
     </message>
     <message>
         <source>Table</source>
@@ -4383,12 +4482,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Chart</source>
         <comment>DRAWING2STR_CHART</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gráfico</translation>
     </message>
     <message>
         <source>Ink</source>
         <comment>DRAWING2STR_INK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lápiz</translation>
     </message>
     <message>
         <source>Object</source>
@@ -4398,17 +4497,17 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Diagram</source>
         <comment>DRAWING2STR_DIAGRAM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama</translation>
     </message>
     <message>
         <source>Freeform</source>
         <comment>DRAWING2STR_FREEFORM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forma libre</translation>
     </message>
     <message>
         <source>Canvas</source>
         <comment>DRAWING2STR_CANVAS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lienzo</translation>
     </message>
     <message>
         <source>Line</source>
@@ -4418,12 +4517,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Arrow</source>
         <comment>DRAWING2_TOOLTIP_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha</translation>
     </message>
     <message>
         <source>Double Arrow</source>
         <comment>DRAWING2_TOOLTIP_ELBOW_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble flecha</translation>
     </message>
     <message>
         <source>Elbow Connector</source>
@@ -4433,12 +4532,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Elbow Arrow Connector</source>
         <comment>DRAWING2_TOOLTIP_ELBOW_ARROW_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector angular de flecha</translation>
     </message>
     <message>
         <source>Elbow Double Arrow Connector</source>
         <comment>DRAWING2_TOOLTIP_ELBOW_DOUBLE_ARROW_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector angular de dos flechas</translation>
     </message>
     <message>
         <source>Curved Connector</source>
@@ -4448,27 +4547,27 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Curved Arrow Connector</source>
         <comment>DRAWING2_TOOLTIP_CURVED_ARROW_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector curvado de flecha</translation>
     </message>
     <message>
         <source>Curved Double Arrow Connector</source>
         <comment>DRAWING2_TOOLTIP_CURVED_DOUBLE_ARROW_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Conector curvado de dos flechas</translation>
     </message>
     <message>
         <source>Curve</source>
         <comment>DRAWING2_TOOLTIP_CURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curva</translation>
     </message>
     <message>
         <source>Arbitrary Polygon</source>
         <comment>DRAWING2_TOOLTIP_ARBITRARY_POLYGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forma libre</translation>
     </message>
     <message>
         <source>Free Curve</source>
         <comment>DRAWING2_TOOLTIP_FREE_CURVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Escritura manual</translation>
     </message>
     <message>
         <source>Rectangle</source>
@@ -4483,52 +4582,52 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Snip Single Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_SNIP_SINGLE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar rectángulo de esquina sencilla</translation>
     </message>
     <message>
         <source>Snip Same Side Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_SNIP_SAME_SIDE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar rectángulo de esquina del mismo lado</translation>
     </message>
     <message>
         <source>Snip Diagonal Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_SNIP_DIAGONAL_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recortar rectángulo de esquina diagonal</translation>
     </message>
     <message>
         <source>Round Single Corner Rectangle 1</source>
         <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina sencilla 1</translation>
     </message>
     <message>
         <source>Round Single Corner Rectangle 2</source>
         <comment>DRAWING2_TOOLTIP_ROUND_SINGLE_CORNER_RECTANGLE_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina sencilla 2</translation>
     </message>
     <message>
         <source>Round Same Side Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_ROUND_SAME_SIDE_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina del mismo lado</translation>
     </message>
     <message>
         <source>Round Diagonal Corner Rectangle</source>
         <comment>DRAWING2_TOOLTIP_ROUND_DIAGONAL_CORNER_RECTANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondear rectángulo de esquina diagonal</translation>
     </message>
     <message>
         <source>TextBox</source>
         <comment>DRAWING2_TOOLTIP_TEXTBOX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de texto</translation>
     </message>
     <message>
         <source>Vertical TextBox</source>
         <comment>DRAWING2_TOOLTIP_VERTICALTEXTBOX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadro de texto vertical</translation>
     </message>
     <message>
         <source>Ellipse</source>
         <comment>DRAWING2_TOOLTIP_ELLIPSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Óvalo</translation>
     </message>
     <message>
         <source>Isosceles Triangle</source>
@@ -4568,7 +4667,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Heptagonal</source>
         <comment>DRAWING2_TOOLTIP_HEPTAGONAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Heptágono</translation>
     </message>
     <message>
         <source>Octagon</source>
@@ -4578,42 +4677,43 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Decagon</source>
         <comment>DRAWING2_TOOLTIP_DECAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Decágono</translation>
     </message>
     <message>
         <source>Dodecagon</source>
         <comment>DRAWING2_TOOLTIP_DODECAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dodecágono</translation>
     </message>
     <message>
         <source>Pie</source>
         <comment>DRAWING2_TOOLTIP_PIE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Circular
+</translation>
     </message>
     <message>
         <source>Chord</source>
         <comment>DRAWING2_TOOLTIP_CHORD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Acorde</translation>
     </message>
     <message>
         <source>Teardrop</source>
         <comment>DRAWING2_TOOLTIP_TEARDROP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lágrima</translation>
     </message>
     <message>
         <source>Frame</source>
         <comment>DRAWING2_TOOLTIP_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marco</translation>
     </message>
     <message>
         <source>Half Frame</source>
         <comment>DRAWING2_TOOLTIP_HALF_FRAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>Medio marco</translation>
     </message>
     <message>
         <source>L-Shape</source>
         <comment>DRAWING2_TOOLTIP_L_SHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forma de L</translation>
     </message>
     <message>
         <source>Diagonal Stripe</source>
@@ -4628,7 +4728,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Missing Corner Rectangular</source>
         <comment>DRAWING2_TOOLTIP_MISSING_CORNER_RECTANGULAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Placa</translation>
     </message>
     <message>
         <source>Can</source>
@@ -4643,32 +4743,32 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Frustum</source>
         <comment>DRAWING2_TOOLTIP_FRUSTUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bisel</translation>
     </message>
     <message>
         <source>Concentric Circle</source>
         <comment>DRAWING2_TOOLTIP_CONCENTRIC_CIRCLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Anillo</translation>
     </message>
     <message>
         <source>Forbidden Symbols</source>
         <comment>DRAWING2_TOOLTIP_FORBIDDENSYMBOLS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Señal de prohibido</translation>
     </message>
     <message>
         <source>Hollow Arc</source>
         <comment>DRAWING2_TOOLTIP_HOLLOW_ARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arco de bloque</translation>
     </message>
     <message>
         <source>Fold Angle</source>
         <comment>DRAWING2_TOOLTIP_FOLDA_NGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esquina doblada</translation>
     </message>
     <message>
         <source>Smiley Face</source>
         <comment>DRAWING2_TOOLTIP_SMILEY_FACE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cara sonriente</translation>
     </message>
     <message>
         <source>Heart</source>
@@ -4753,82 +4853,82 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Left And Right Arrow</source>
         <comment>DRAWING2_TOOLTIP_LEFT_AND_RIGHT_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha izquierda y derecha</translation>
     </message>
     <message>
         <source>Up And Down Arrow</source>
         <comment>DRAWING2_TOOLTIP_UP_AND_DOWN_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha arriba y abajo</translation>
     </message>
     <message>
         <source>Cross Arrow</source>
         <comment>DRAWING2_TOOLTIP_CROSS_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha cuádruple</translation>
     </message>
     <message>
         <source>J-shape Arrow</source>
         <comment>DRAWING2_TOOLTIP_J_SHAPE_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha izquierda, derecha y arriba</translation>
     </message>
     <message>
         <source>Fillet Right Arrow</source>
         <comment>DRAWING2_TOOLTIP_FILLET_RIGHT_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha doblada</translation>
     </message>
     <message>
         <source>Stick Arrow</source>
         <comment>DRAWING2_TOOLTIP_STICK_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha en U</translation>
     </message>
     <message>
         <source>Right Angle Two-way Arrow</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_TWOWAY_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha izquierda y arriba</translation>
     </message>
     <message>
         <source>Right Angle Up Arrow</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_ANGLE_UP_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha doblada hacia arriba</translation>
     </message>
     <message>
         <source>Left Curved Arrow</source>
         <comment>DRAWING2_TOOLTIP_LEFT_CURVED_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha curvada hacia la derecha</translation>
     </message>
     <message>
         <source>Right Curved Arrow</source>
         <comment>DRAWING2_TOOLTIP_RIGHT_CURVED_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha curvada hacia la izquierda</translation>
     </message>
     <message>
         <source>Down Curved Arrow</source>
         <comment>DRAWING2_TOOLTIP_DOWN_CURVED_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha curvada hacia arriba</translation>
     </message>
     <message>
         <source>Up Curved Arrow</source>
         <comment>DRAWING2_TOOLTIP_UP_CURVED_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha curvada hacia abajo</translation>
     </message>
     <message>
         <source>Virtual Tail Arrow</source>
         <comment>DRAWING2_TOOLTIP_VIRTUAL_TAIL_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha a la derecha con bandas</translation>
     </message>
     <message>
         <source>Dove Tail Arrow</source>
         <comment>DRAWING2_TOOLTIP_DOVE_TAIL_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha a la derecha con muesca</translation>
     </message>
     <message>
         <source>Arrow Pentagon</source>
         <comment>DRAWING2_TOOLTIP_ARROW_PENTAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pentágono</translation>
     </message>
     <message>
         <source>Dove Tail</source>
         <comment>DRAWING2_TOOLTIP_DOVE_TAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cheurón</translation>
     </message>
     <message>
         <source>Right Arrow Callout</source>
@@ -4858,42 +4958,42 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Cross Arrow Callout</source>
         <comment>DRAWING2_TOOLTIP_CROSS_ARROW_CALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Llamada de flecha cuádruple</translation>
     </message>
     <message>
         <source>Circular Arrow Callout</source>
         <comment>DRAWING2_TOOLTIP_CIRCULAR_ARROW_CALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha circular</translation>
     </message>
     <message>
         <source>Plus</source>
         <comment>DRAWING2_TOOLTIP_PLUS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Más</translation>
     </message>
     <message>
         <source>Minus</source>
         <comment>DRAWING2_TOOLTIP_MINUS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Menos</translation>
     </message>
     <message>
         <source>Multiply</source>
         <comment>DRAWING2_TOOLTIP_MULTIPLY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Multiplicar</translation>
     </message>
     <message>
         <source>Division</source>
         <comment>DRAWING2_TOOLTIP_DIVISION</comment>
-        <translation type="unfinished"></translation>
+        <translation>División</translation>
     </message>
     <message>
         <source>Equal</source>
         <comment>DRAWING2_TOOLTIP_EQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Igual a</translation>
     </message>
     <message>
         <source>Not Equal</source>
         <comment>DRAWING2_TOOLTIP_NOT_EQUAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>No igual a</translation>
     </message>
     <message>
         <source>Flowchart: Process</source>
@@ -4963,7 +5063,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Flowchart: Off-Page Connector</source>
         <comment>DRAWING2_TOOLTIP_FLOWCHART_OFF_PAGE_CONNECTOR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama de flujo: Conector fuera de página</translation>
     </message>
     <message>
         <source>Flowchart: Card</source>
@@ -5098,27 +5198,27 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Convex Strip</source>
         <comment>DRAWING2_TOOLTIP_CONVEX_STRIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cinta hacia arriba</translation>
     </message>
     <message>
         <source>Lordosis Strip</source>
         <comment>DRAWING2_TOOLTIP_LORDOSIS_TRIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cinta hacia abajo</translation>
     </message>
     <message>
         <source>Convex Curved Strip</source>
         <comment>DRAWING2_TOOLTIP_CONVEX_CURVED_STRIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cinta curvada hacia arriba</translation>
     </message>
     <message>
         <source>Lordosis Bending Strip</source>
         <comment>DRAWING2_TOOLTIP_Lordosis_Bending_Strip</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cinta curvada hacia abajo</translation>
     </message>
     <message>
         <source>VerticalS Scroll</source>
         <comment>DRAWING2_TOOLTIP_VERTICALS_SCROLL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pergamino vertical</translation>
     </message>
     <message>
         <source>Horizontal Scroll</source>
@@ -5278,7 +5378,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>LightPink</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BUTTON_LIGHTPINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rosa claro</translation>
     </message>
     <message>
         <source>Pink</source>
@@ -5288,42 +5388,42 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Crimson</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CRIMSON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Carmesí</translation>
     </message>
     <message>
         <source>LavenderBlush</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LAVENDERBLUSH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lavanda rubor</translation>
     </message>
     <message>
         <source>PaleVioletRed</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PALEVIOLETRED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rojo violeta pálido</translation>
     </message>
     <message>
         <source>HotPink</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_HOTPINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rosa cálido</translation>
     </message>
     <message>
         <source>DeepPink</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPPINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rosa profundo</translation>
     </message>
     <message>
         <source>MediumVioletRed</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMVIOLETRED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rojo violeta medio</translation>
     </message>
     <message>
         <source>Orchid</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ORCHID</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orquídea</translation>
     </message>
     <message>
         <source>Thistle</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_THISTLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cardo</translation>
     </message>
     <message>
         <source>Plum</source>
@@ -5338,37 +5438,37 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Magenta</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MAGENTA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Magenta</translation>
     </message>
     <message>
         <source>Fuchsia</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_FUCHSIA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fucsia</translation>
     </message>
     <message>
         <source>DarkMagenta</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKMAGENTA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Magenta oscuro</translation>
     </message>
     <message>
         <source>Purple</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PURPLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Púrpura</translation>
     </message>
     <message>
         <source>MediumOrchid</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMORCHID</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orquídea medio</translation>
     </message>
     <message>
         <source>DarkViolet</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKVIOLET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Violeta oscuro</translation>
     </message>
     <message>
         <source>DarkOrchid</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORCHID</comment>
-        <translation type="unfinished"></translation>
+        <translation>Orquídea oscuro</translation>
     </message>
     <message>
         <source>Indigo</source>
@@ -5378,27 +5478,27 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>BlueViolet</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BLUEVIOLET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul violeta</translation>
     </message>
     <message>
         <source>MediumPurple</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMPURPLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Púrpura medio</translation>
     </message>
     <message>
         <source>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSLATEBLUE</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul pizarra medio</translation>
     </message>
     <message>
         <source>SlateBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul pizarra</translation>
     </message>
     <message>
         <source>DarkSlateBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul pizarra oscuro</translation>
     </message>
     <message>
         <source>Lavender</source>
@@ -5408,7 +5508,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>GhostWhite</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GHOSTWHITE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blanco fantasma</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -5418,112 +5518,112 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>MediumBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul medio</translation>
     </message>
     <message>
         <source>MidnightBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MIDNIGHTBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul medianoche</translation>
     </message>
     <message>
         <source>DarkBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul oscuro</translation>
     </message>
     <message>
         <source>Navy</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_NAVY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul marino</translation>
     </message>
     <message>
         <source>RoyalBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ROYALBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul real</translation>
     </message>
     <message>
         <source>CornflowerBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CORNFLOWERBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul aciano</translation>
     </message>
     <message>
         <source>LightSteelBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSTEELBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul acero claro</translation>
     </message>
     <message>
         <source>LightSlateGray</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSLATEGRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris pizarra claro</translation>
     </message>
     <message>
         <source>SlateGray</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SLATEGRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris pizarra</translation>
     </message>
     <message>
         <source>DodgerBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DODGERBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul capota</translation>
     </message>
     <message>
         <source>AliceBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ALICEBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul Alicia</translation>
     </message>
     <message>
         <source>SteelBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_STEELBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul acero</translation>
     </message>
     <message>
         <source>LightSkyBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSKYBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul cielo claro</translation>
     </message>
     <message>
         <source>SkyBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SKYBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul cielo</translation>
     </message>
     <message>
         <source>DeepSkyBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DEEPSKYBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul cielo profundo</translation>
     </message>
     <message>
         <source>LightBlue</source>
         <comment>DRAWING2_TOOLTIP_ACTION_BUTTON_CUSTOM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul claro</translation>
     </message>
     <message>
         <source>PowderBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_POWDERBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul polvo</translation>
     </message>
     <message>
         <source>CadetBlue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CADETBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul cadete</translation>
     </message>
     <message>
         <source>Azure</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_AZURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul heráldico</translation>
     </message>
     <message>
         <source>LightCyan</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCYAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cian claro</translation>
     </message>
     <message>
         <source>PaleTurquoise</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PALETURQUOISE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Turquesa pálido</translation>
     </message>
     <message>
         <source>Cyan</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CYAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cian</translation>
     </message>
     <message>
         <source>Aqua</source>
@@ -5533,17 +5633,17 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>DarkTurquoise</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKTURQUOISE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Turquesa oscuro</translation>
     </message>
     <message>
         <source>DarkSlateGray</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSLATEGRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris pizarra oscuro</translation>
     </message>
     <message>
         <source>DarkCyan</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKCYAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cian oscuro</translation>
     </message>
     <message>
         <source>Teal</source>
@@ -5553,12 +5653,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>MediumTurquoise</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMTURQUOISE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Turquesa medio</translation>
     </message>
     <message>
         <source>LightSeaGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSEAGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde mar claro</translation>
     </message>
     <message>
         <source>Turquoise</source>
@@ -5568,62 +5668,62 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Aquamarine</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_AQUAMARINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aguamarina</translation>
     </message>
     <message>
         <source>MediumAquamarine</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMAQUAMARINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aguamarina medio</translation>
     </message>
     <message>
         <source>MediumSpringGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSPRINGGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde primavera medio</translation>
     </message>
     <message>
         <source>MintCream</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MINTCREAM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Crema de menta</translation>
     </message>
     <message>
         <source>SpringGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SPRINGGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde primavera</translation>
     </message>
     <message>
         <source>MediumSeaGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MEDIUMSEAGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde mar medio</translation>
     </message>
     <message>
         <source>SeaGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SEAGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde mar</translation>
     </message>
     <message>
         <source>Honeydew</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_HONEYDEW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ambrosía</translation>
     </message>
     <message>
         <source>LightGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde claro</translation>
     </message>
     <message>
         <source>PaleGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde pálido</translation>
     </message>
     <message>
         <source>DarkSeaGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSEAGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde mar oscuro</translation>
     </message>
     <message>
         <source>LimeGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIMEGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde lima</translation>
     </message>
     <message>
         <source>Lime</source>
@@ -5633,7 +5733,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>ForestGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_FORESTGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde bosque</translation>
     </message>
     <message>
         <source>Green</source>
@@ -5643,47 +5743,47 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>DarkGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde oscuro</translation>
     </message>
     <message>
         <source>Chartreuse</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CHARTREUSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde pálido</translation>
     </message>
     <message>
         <source>LawnGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LAWNGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde césped</translation>
     </message>
     <message>
         <source>GreenYellow</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GREENYELLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amarillo verdoso</translation>
     </message>
     <message>
         <source>DarkOliveGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKOLIVEGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde oliva oscuro</translation>
     </message>
     <message>
         <source>YellowGreen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_YELLOWGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde amarillento</translation>
     </message>
     <message>
         <source>OliveDrab</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVEDRAB</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde oliva militar</translation>
     </message>
     <message>
         <source>Beige</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BEIGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Beis</translation>
     </message>
     <message>
         <source>LightGoldenrodYellow</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGOLDENRODYELLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vara de oro amarilla claro</translation>
     </message>
     <message>
         <source>Ivory</source>
@@ -5693,7 +5793,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>LightYellow</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTYELLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amarillo claro</translation>
     </message>
     <message>
         <source>Yellow</source>
@@ -5703,27 +5803,27 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Olive</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_OLIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde oliva</translation>
     </message>
     <message>
         <source>DarkKhaki</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKKHAKI</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caqui oscuro</translation>
     </message>
     <message>
         <source>LemonChiffon</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LEMONCHIFFON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chiffon limón</translation>
     </message>
     <message>
         <source>PaleGoldenrod</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PALEGOLDENROD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vara de oro pálido</translation>
     </message>
     <message>
         <source>Khaki</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_KHAKI</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caqui</translation>
     </message>
     <message>
         <source>Gold</source>
@@ -5733,37 +5833,37 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Cornsilk</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CORNSILK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seda de grano</translation>
     </message>
     <message>
         <source>Goldenrod</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GOLDENROD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vara de oro</translation>
     </message>
     <message>
         <source>DarkGoldenrod</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGOLDENROD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vara de oro oscuro</translation>
     </message>
     <message>
         <source>FloralWhite</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_FLORALWHITE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blanco floral</translation>
     </message>
     <message>
         <source>OldLace</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_OLDLACE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cordón viejo</translation>
     </message>
     <message>
         <source>Wheat</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_WHEAT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trigo</translation>
     </message>
     <message>
         <source>Moccasin</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MOCCASIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mocasín</translation>
     </message>
     <message>
         <source>Orange</source>
@@ -5773,22 +5873,22 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>PapayaWhip</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PAPAYAWHIP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fusta de papaya</translation>
     </message>
     <message>
         <source>BlanchedAlmond</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BLANCHEDALMON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Almendra pálido</translation>
     </message>
     <message>
         <source>NavajoWhite</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_NAVAJOWHITE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blanco navajo</translation>
     </message>
     <message>
         <source>AntiqueWhite</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ANTIQUEWHITE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Blanco antiguo</translation>
     </message>
     <message>
         <source>Tan</source>
@@ -5798,62 +5898,62 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>BurlyWood</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BURLYWOOD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Burlywood</translation>
     </message>
     <message>
         <source>Bisque</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_BISQUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Miel</translation>
     </message>
     <message>
         <source>DarkOrange</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKORANGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Naranja oscuro</translation>
     </message>
     <message>
         <source>Linen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LINEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lino</translation>
     </message>
     <message>
         <source>Peru</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PERU</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perú</translation>
     </message>
     <message>
         <source>PeachPuff</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_PEACHPUFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hojaldre de melocotón</translation>
     </message>
     <message>
         <source>SandyBrown</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SANDYBROWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marrón arenoso</translation>
     </message>
     <message>
         <source>Chocolate</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_CHOCOLATE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chocolate</translation>
     </message>
     <message>
         <source>SaddleBrown</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SADDLEBROWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marrón montura</translation>
     </message>
     <message>
         <source>Seashell</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SEASHELL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Concha marina</translation>
     </message>
     <message>
         <source>Sienna</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SIENNA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Siena</translation>
     </message>
     <message>
         <source>LightSalmon</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTSALMON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salmón claro</translation>
     </message>
     <message>
         <source>Coral</source>
@@ -5863,47 +5963,47 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>OrangeRed</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ORANGERED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rojo anaranjado</translation>
     </message>
     <message>
         <source>DarkSalmon</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKSALMON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salmón oscuro</translation>
     </message>
     <message>
         <source>Tomato</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_TOMATO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tomate</translation>
     </message>
     <message>
         <source>MistyRose</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MISTYROSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rosa húmedo</translation>
     </message>
     <message>
         <source>Salmon</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SALMON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Salmón</translation>
     </message>
     <message>
         <source>Snow</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SNOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieve</translation>
     </message>
     <message>
         <source>LightCoral</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTCORAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Coral claro</translation>
     </message>
     <message>
         <source>RosyBrown</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_ROSYBROWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Marrón rosáceo</translation>
     </message>
     <message>
         <source>IndianRed</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_INDIANRED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rojo indio</translation>
     </message>
     <message>
         <source>Red</source>
@@ -5918,17 +6018,17 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>FireBrick</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_FIREBRICK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ladrillo refractario</translation>
     </message>
     <message>
         <source>DarkRed</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKRED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rojo oscuro</translation>
     </message>
     <message>
         <source>Maroon</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MAROON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Castaño</translation>
     </message>
     <message>
         <source>White</source>
@@ -5938,37 +6038,37 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>WhiteSmoke</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_WHITESMOKE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Humo blanco</translation>
     </message>
     <message>
         <source>Gainsboro</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GAINSBORO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul gainsboro</translation>
     </message>
     <message>
         <source>LightGrey</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_LIGHTGREY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris claro</translation>
     </message>
     <message>
         <source>Silver</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_SILVER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plata</translation>
     </message>
     <message>
         <source>DarkGray</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DARKGRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris oscuro</translation>
     </message>
     <message>
         <source>Gray</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_GRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris</translation>
     </message>
     <message>
         <source>DimGray</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_DIMGRAY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gris débil</translation>
     </message>
     <message>
         <source>Black</source>
@@ -5988,7 +6088,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Deep Red</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPRED</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rojo oscuro</translation>
     </message>
     <message>
         <source>Red</source>
@@ -6008,17 +6108,17 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Micro Green</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROGREEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lima</translation>
     </message>
     <message>
         <source>Greeen</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_GREEEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Verde</translation>
     </message>
     <message>
         <source>Micro Blue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_MICROBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul claro</translation>
     </message>
     <message>
         <source>Blue</source>
@@ -6028,7 +6128,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Deep Blue</source>
         <comment>DRAWING2_TOOLTIP_COLORNAME_MSO_DEEPBLUE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Azul marino</translation>
     </message>
     <message>
         <source>Violet</source>
@@ -6038,194 +6138,196 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Top-Left To Bottom-Right</source>
         <comment>wpp_sTooltipGradientLinearTopLefttoBottomRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal lineal - De parte superior izquierda a inferior derecha</translation>
     </message>
     <message>
         <source>To Down</source>
         <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lineal descendente</translation>
     </message>
     <message>
         <source>Top-Right To Bottom-Left</source>
         <comment>wpp_sTooltipGradientLinearTopRighttoBottomLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal lineal - De parte superior derecha a inferior izquierda</translation>
     </message>
     <message>
         <source>To Right</source>
         <comment>wpp_sTooltipGradientlinearRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lineal derecha</translation>
     </message>
     <message>
         <source>To Left</source>
         <comment>wpp_sTooltipGradientlinearLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lineal izquierda</translation>
     </message>
     <message>
         <source>Bottom-Left To Top-Right</source>
         <comment>wpp_sTooltipGradientLinearBottomLefttoTopRight</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal lineal - De parte inferior izquierda a superior derecha</translation>
     </message>
     <message>
         <source>To Up</source>
         <comment>wpp_sTooltipGradientLinearUp</comment>
-        <translation type="unfinished"></translation>
+        <translation>Lineal ascendente</translation>
     </message>
     <message>
         <source>Bottom-Right To Top-Left</source>
         <comment>wpp_sTooltipGradientLinearBottomRighttoTopLeft</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal lineal - De parte inferior derecha a superior izquierda</translation>
     </message>
     <message>
         <source>From Bottom-Right Corner</source>
         <comment>wpp_sTooltipGradientFromBottomRightCorner</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desde la esquina inferior derecha</translation>
     </message>
     <message>
         <source>From Bottom-Left Corne</source>
         <comment>wpp_sTooltipGradientFromBottomLeftCorner</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desde la esquina inferior izquierda</translation>
     </message>
     <message>
         <source>From Center</source>
         <comment>wpp_sTooltipGradientFromCenter</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desde el centro</translation>
     </message>
     <message>
         <source>From Top-Right Corner</source>
         <comment>wpp_sTooltipGradientFromTopRightCorner</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desde la esquina superior derecha</translation>
     </message>
     <message>
         <source>From Top-Left Corner</source>
         <comment>wpp_sTooltipGradientFromTopLeftCorner</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desde la esquina superior izquierda</translation>
     </message>
     <message>
         <source>Dark1</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro1</translation>
     </message>
     <message>
         <source>Light1</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Claro1</translation>
     </message>
     <message>
         <source>Dark2</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oscuro2</translation>
     </message>
     <message>
         <source>Light2</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Claro2</translation>
     </message>
     <message>
         <source>Accent1</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis1</translation>
     </message>
     <message>
         <source>Accent2</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis2</translation>
     </message>
     <message>
         <source>Accent3</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis3</translation>
     </message>
     <message>
         <source>Accent4</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis4</translation>
     </message>
     <message>
         <source>Accent5</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis5</translation>
     </message>
     <message>
         <source>Accent6</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis6</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hipervínculo</translation>
     </message>
     <message>
         <source>FollowedHyperlink1</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Seguir hipervínculo</translation>
     </message>
     <message>
         <source>Text1</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto1</translation>
     </message>
     <message>
         <source>Background1</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fondo1</translation>
     </message>
     <message>
         <source>Text2</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Texto2</translation>
     </message>
     <message>
         <source>Background2</source>
         <comment>wpp_sTooltipThemeColorDark1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fondo2</translation>
     </message>
     <message>
         <source> stop: %1(belong to %2)
  position:%3% 
  color: %4</source>
         <comment>wpp_sTooltipGradientStops</comment>
-        <translation type="unfinished"></translation>
+        <translation> Detener: %1(de %2)
+ Posición:%3% 
+ Color: %4</translation>
     </message>
     <message>
         <source> Fill-</source>
         <comment>wpp_sTooltipArtWordSolidFill</comment>
-        <translation type="unfinished"></translation>
+        <translation> Rellenar-</translation>
     </message>
     <message>
         <source> GradientFill-</source>
         <comment>wpp_sTooltipArtWordGradientFill</comment>
-        <translation type="unfinished"></translation>
+        <translation> Relleno degradado-</translation>
     </message>
     <message>
         <source> PatternFill-</source>
         <comment>wpp_sTooltipArtWordPatternFill</comment>
-        <translation type="unfinished"></translation>
+        <translation> Relleno de patrón-</translation>
     </message>
     <message>
         <source> OutLine-</source>
         <comment>wpp_sTooltipArtWordOutLine</comment>
-        <translation type="unfinished"></translation>
+        <translation> Contorno-</translation>
     </message>
     <message>
         <source>Horizontal</source>
         <comment>wpp_sTooltipPatternHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <source>Vertical</source>
         <comment>wpp_sTooltipPatternVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <source>ForwardDiagonal</source>
         <comment>wpp_sTooltipPatternForwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal de avance</translation>
     </message>
     <message>
         <source>BackwardDiagonal</source>
         <comment>wpp_sTooltipPatternBackwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal de retroceso</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -6235,7 +6337,7 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>DiagonalCross</source>
         <comment>wpp_sTooltipPatternDiagonalCross</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cruce diagonal</translation>
     </message>
     <message>
         <source>5%</source>
@@ -6300,337 +6402,337 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>LightDownwardDiagonal</source>
         <comment>wpp_sTooltipPatternLightDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia abajo clara</translation>
     </message>
     <message>
         <source>LightUpwardDiagonal</source>
         <comment>wpp_sTooltipPatternLightUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia arriba clara</translation>
     </message>
     <message>
         <source>DarkDownwardDiagonal	</source>
         <comment>wpp_sTooltipPatternDarkDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia abajo oscura	</translation>
     </message>
     <message>
         <source>DarkUpwardDiagonal</source>
         <comment>wpp_sTooltipPatternDarkUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia arriba oscura</translation>
     </message>
     <message>
         <source>WideDownwardDiagonal</source>
         <comment>wpp_sTooltipPatternWideDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia abajo ancha</translation>
     </message>
     <message>
         <source>WideUpwardDiagonal</source>
         <comment>wpp_sTooltipPatternWideUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia arriba ancha</translation>
     </message>
     <message>
         <source>LightVertical</source>
         <comment>wpp_sTooltipPatternLightVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical clara</translation>
     </message>
     <message>
         <source>LightHorizontal</source>
         <comment>wpp_sTooltipPatternLightHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal clara</translation>
     </message>
     <message>
         <source>NarrowVertical</source>
         <comment>wpp_sTooltipPatternNarrowVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical estrecha</translation>
     </message>
     <message>
         <source>NarrowHorizontal</source>
         <comment>wpp_sTooltipPatternDarkVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal estrecha</translation>
     </message>
     <message>
         <source>DarkVertical </source>
         <comment>wpp_sTooltipPatternDarkHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical oscura </translation>
     </message>
     <message>
         <source>DarkHorizontal</source>
         <comment>wpp_sTooltipPatternDarkHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal oscura</translation>
     </message>
     <message>
         <source>DashedDownwardDiagonal</source>
         <comment>wpp_sTooltipPatternDashedDownwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia abajo discontinua</translation>
     </message>
     <message>
         <source>DashedUpwardDiagonal	</source>
         <comment>wpp_sTooltipPatternDashedUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia arriba discontinua	</translation>
     </message>
     <message>
         <source>DashedHorizontal	</source>
         <comment>wpp_sTooltipPatternDashedHorizontal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal discontinua	</translation>
     </message>
     <message>
         <source>DashedVertical</source>
         <comment>wpp_sTooltipPatternDashedVertical</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vertical discontinua</translation>
     </message>
     <message>
         <source>SmallConfetti</source>
         <comment>wpp_sTooltipPatternSmallConfetti</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confeti pequeño</translation>
     </message>
     <message>
         <source>LargeConfetti</source>
         <comment>wpp_sTooltipPatternLargeConfetti</comment>
-        <translation type="unfinished"></translation>
+        <translation>Confeti grande</translation>
     </message>
     <message>
         <source>ZigZag</source>
         <comment>wpp_sTooltipPatternZigZag</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zig zag</translation>
     </message>
     <message>
         <source>Wave	</source>
         <comment>wpp_sTooltipPatternWave	</comment>
-        <translation type="unfinished"></translation>
+        <translation>Onda	</translation>
     </message>
     <message>
         <source>DiagonalBrick</source>
         <comment>wpp_sTooltipPatternDiagonalBrick</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ladrillos en diagonal</translation>
     </message>
     <message>
         <source>HorizontalBrick</source>
         <comment>wpp_sTooltipPatternHorizontalBrick</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ladrillos en horizontal</translation>
     </message>
     <message>
         <source>PatternWeave</source>
         <comment>wpp_sTooltipPatternWeave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tejidos</translation>
     </message>
     <message>
         <source>PatternPlaid</source>
         <comment>wpp_sTooltipPatternPlaid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tartán</translation>
     </message>
     <message>
         <source>PatternDivot</source>
         <comment>wpp_sTooltipPatternDivot</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ángulos</translation>
     </message>
     <message>
         <source>DottedGrid</source>
         <comment>wpp_sTooltipPatternDottedGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadrícula de puntos</translation>
     </message>
     <message>
         <source>DottedDiamond</source>
         <comment>wpp_sTooltipPatternDottedDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rombos punteados</translation>
     </message>
     <message>
         <source>PatternShingle</source>
         <comment>wpp_sTooltipPatternShingle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tejas</translation>
     </message>
     <message>
         <source>PatternTrellis</source>
         <comment>wpp_sTooltipPatternTrellis</comment>
-        <translation type="unfinished"></translation>
+        <translation>Trama</translation>
     </message>
     <message>
         <source>PatternSphere</source>
         <comment>wpp_sTooltipPatternSphere</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esfera</translation>
     </message>
     <message>
         <source>SmallGrid</source>
         <comment>wpp_sToolwpp_sTooltipPatternSmallGridtipPatternSmallGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadrícula pequeña</translation>
     </message>
     <message>
         <source>SmallCheckerBoard</source>
         <comment>wpp_sTooltipPatternSmallCheckerBoard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablero de damas pequeño</translation>
     </message>
     <message>
         <source>LargeCheckerBoard</source>
         <comment>wpp_sTooltipPatternLargeCheckerBoard</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tablero de damas grande</translation>
     </message>
     <message>
         <source>OutlinedDiamond</source>
         <comment>wpp_sTooltipPatternOutlinedDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rombos transparentes</translation>
     </message>
     <message>
         <source>SolidDiamond</source>
         <comment>wpp_sTooltipPatternSolidDiamond</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rombos opacos</translation>
     </message>
     <message>
         <source>DownwardDiagnal</source>
         <comment>wpp_sTooltipPatternDownwardDiagnal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia abajo</translation>
     </message>
     <message>
         <source>UpwardDiagonal</source>
         <comment>wpp_sTooltipPatternUpwardDiagonal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia arriba</translation>
     </message>
     <message>
         <source>LargeGrid</source>
         <comment>wpp_sTooltipPatternLargeGrid</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadrícula grande</translation>
     </message>
     <message>
         <source> InnerShadow</source>
         <comment>wpp_sTooltipEffectInnerShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation> Sombra interior</translation>
     </message>
     <message>
         <source> Shadow</source>
         <comment>wpp_sTooltipEffectInnerShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation> Sombra</translation>
     </message>
     <message>
         <source> ClearShadow-%1</source>
         <comment>wpp_sTooltipEffectClearShadow</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sombra dura-%1</translation>
     </message>
     <message>
         <source>Clear </source>
         <comment>wpp_sTooltipMaterialTypeClear</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borrar </translation>
     </message>
     <message>
         <source>DarkEdge </source>
         <comment>wpp_sTooltipMaterialTypeDarkEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borde oscuro</translation>
     </message>
     <message>
         <source>Flat </source>
         <comment>wpp_sTooltipMaterialTypeFlat</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plano </translation>
     </message>
     <message>
         <source>Matte </source>
         <comment>wpp_sTooltipMaterialTypeLegacyMatte</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mate </translation>
     </message>
     <message>
         <source>Metal </source>
         <comment>wpp_sTooltipMaterialTypeLegacyMetal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metal </translation>
     </message>
     <message>
         <source>Plastic </source>
         <comment>wpp_sTooltipMaterialTypeLegacyPlastic</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plástico </translation>
     </message>
     <message>
         <source>Wireframe </source>
         <comment>wpp_sTooltipMaterialTypeLegacyWireframe</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estructura de alambre</translation>
     </message>
     <message>
         <source>Matte </source>
         <comment>wpp_sTooltipMaterialTypeMatte</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mate </translation>
     </message>
     <message>
         <source>Metal </source>
         <comment>wpp_sTooltipMaterialTypeMetal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metal </translation>
     </message>
     <message>
         <source>Plastic </source>
         <comment>wpp_sTooltipMaterialTypePlastic</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plástico </translation>
     </message>
     <message>
         <source>Powder </source>
         <comment>wpp_sTooltipMaterialTypePowder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Polvo </translation>
     </message>
     <message>
         <source>SoftEdge </source>
         <comment>wpp_sTooltipMaterialTypeSoftEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borde suave</translation>
     </message>
     <message>
         <source>SoftMetal </source>
         <comment>wpp_sTooltipMaterialTypeSoftMetal</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metal blando</translation>
     </message>
     <message>
         <source>TranslucentPowder </source>
         <comment>wpp_sTooltipMaterialTypeTranslucentPowder</comment>
-        <translation type="unfinished"></translation>
+        <translation>Polvo translúcido</translation>
     </message>
     <message>
         <source>WarmMatte </source>
         <comment>wpp_sTooltipMaterialTypeWarmMatte</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mate cálido</translation>
     </message>
     <message>
         <source>DarkColor%1</source>
         <comment>wpp_sTooltipShapeStyleDarkColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Color oscuro%1</translation>
     </message>
     <message>
         <source>HightLight%1</source>
         <comment>wpp_sTooltipShapeStyleHightlightColor</comment>
-        <translation type="unfinished"></translation>
+        <translation>Énfasis %1</translation>
     </message>
     <message>
         <source>ColorOutLine-</source>
         <comment>wpp_sTooltipShapeStyleColorOutLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contorno coloreado -</translation>
     </message>
     <message>
         <source>ColorFill-</source>
         <comment>wpp_sTooltipShapeStyleColorFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>Relleno coloreado - </translation>
     </message>
     <message>
         <source>LightColor_1_OutLine,Color Fill-</source>
         <comment>wpp_sTooltipShapeStyleLightColor_1_OutLineFill</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contorno claro 1, relleno coloreado - </translation>
     </message>
     <message>
         <source>SubtleEffect-</source>
         <comment>wpp_sTooltipShapeStyleSubtleEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Efecto sutil -</translation>
     </message>
     <message>
         <source>ModerateEffect-</source>
         <comment>wpp_sTooltipShapeStyleModerateEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Efecto moderado -</translation>
     </message>
     <message>
         <source>IntenseEffect-</source>
         <comment>wpp_sTooltipShapeStyleIntenseEffect</comment>
-        <translation type="unfinished"></translation>
+        <translation>Efecto intenso -</translation>
     </message>
     <message>
         <source>SubtleLine-</source>
         <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea sutil -</translation>
     </message>
     <message>
         <source>ModerateLine-</source>
         <comment>wpp_sTooltipShapeStyleModerateLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea moderada -</translation>
     </message>
     <message>
         <source>IntenseLine-</source>
         <comment>wpp_sTooltipShapeStyleIntenseLine</comment>
-        <translation type="unfinished"></translation>
+        <translation>Barra de énfasis - </translation>
     </message>
     <message>
         <source>No Shadow</source>
@@ -6640,167 +6742,167 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Right-Down Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento diagonal arriba a la derecha</translation>
     </message>
     <message>
         <source>Down Offset	</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_DOWNOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento abajo	</translation>
     </message>
     <message>
         <source>Left-Down Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento diagonal arriba a la izquierda</translation>
     </message>
     <message>
         <source>Right Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento a la derecha</translation>
     </message>
     <message>
         <source>Center Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_CENTEROFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento al centro</translation>
     </message>
     <message>
         <source>Left Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento a la izquierda</translation>
     </message>
     <message>
         <source>Right-Up Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento diagonal arriba a la derecha</translation>
     </message>
     <message>
         <source>Up Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_UPOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento arriba</translation>
     </message>
     <message>
         <source>Left-Up Offset</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPOFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento diagonal arriba a la izquierda</translation>
     </message>
     <message>
         <source>Inner Left-UP Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior diagonal arriba a la izquierda</translation>
     </message>
     <message>
         <source>InnerUp</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior arriba</translation>
     </message>
     <message>
         <source>Inner Right-Up Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior diagonal arriba a la derecha</translation>
     </message>
     <message>
         <source>Inner Left</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior a la izquierda</translation>
     </message>
     <message>
         <source>Inner Center</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERCENTER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior al centro</translation>
     </message>
     <message>
         <source>Inner Right</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior a la derecha</translation>
     </message>
     <message>
         <source>Inner Left-Down Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERLEFTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior diagonal abajo a la izquierda</translation>
     </message>
     <message>
         <source>Inner Down</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior abajo</translation>
     </message>
     <message>
         <source>Inner Right-Down Corner</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_INNERRIGHTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Interior diagonal abajo a la derecha</translation>
     </message>
     <message>
         <source>Left-Up Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTUPCORNERPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva diagonal parte inferior izquierda</translation>
     </message>
     <message>
         <source>Right-Up Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTUPCORNERPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva diagonal parte superior derecha</translation>
     </message>
     <message>
         <source>Down</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_DOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bajar</translation>
     </message>
     <message>
         <source>Left-Down Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_LEFTDOWNCORNERPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva diagonal parte inferior izquierda</translation>
     </message>
     <message>
         <source>Right-Down Corner Perspective</source>
         <comment>DRAWING2_TOOLTIP_SHADOW_RIGHTDOWNCORNERPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva diagonal parte inferior derecha</translation>
     </message>
     <message>
         <source>No Reflection</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sin reflejo</translation>
     </message>
     <message>
         <source>Close-Image,Touch</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_TOUCH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo ajustado, contacto</translation>
     </message>
     <message>
         <source>Hla-fImage,Touch</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_TOUCH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo medio, contacto</translation>
     </message>
     <message>
         <source>Whole-Iamge,Touch</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_TOUCH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo total, contacto</translation>
     </message>
     <message>
         <source>Close-Image,4 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_4PT_OFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo ajustado, desplazamiento de 4 puntos</translation>
     </message>
     <message>
         <source>Hlaf-Image,4 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_4PT_OFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo medio, desplazamiento de 4 puntos</translation>
     </message>
     <message>
         <source>Whole-Iamge,4 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_4PT_OFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo total, desplazamiento de 4 puntos</translation>
     </message>
     <message>
         <source>Close-Image,8 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_CLOSEIMAGE_8PT_OFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo ajustado, desplazamiento de 8 puntos</translation>
     </message>
     <message>
         <source>Hlaf-Image,8 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_HLAFIMAGE_8PT_OFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo medio, desplazamiento de 8 puntos</translation>
     </message>
     <message>
         <source>Whole-Iamge,8 Pt Offset</source>
         <comment>DRAWING2_TOOLTIP_REFLECTION_WHOLEIAMGE_8PT_OFFSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Reflejo total, desplazamiento de 8 puntos</translation>
     </message>
     <message>
         <source>None</source>
@@ -6810,27 +6912,27 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Up Arc</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_UPARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia arriba</translation>
     </message>
     <message>
         <source>Down Arc</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_DOWNARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia abajo</translation>
     </message>
     <message>
         <source>Circle</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_CIRCLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <source>Button</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_PATH_BUTTON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Botón</translation>
     </message>
     <message>
         <source>Rectuangle</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RECTUANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadrado</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -6840,142 +6942,142 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Triangle</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TRIANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo</translation>
     </message>
     <message>
         <source>Inverted Triangle</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRIANGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Triángulo hacia abajo</translation>
     </message>
     <message>
         <source>V-shape</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_VSHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cheurón hacia arriba</translation>
     </message>
     <message>
         <source>Inverted V-shape</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDVSHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cheurón hacia abajo</translation>
     </message>
     <message>
         <source>Clockwise</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CLOCKWISE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sentido de las agujas del reloj</translation>
     </message>
     <message>
         <source>Anti-Clockwise</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_ANTICLOCKWISE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sentido opuesto a las agujas del reloj</translation>
     </message>
     <message>
         <source>UpArc</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_UPARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia arriba</translation>
     </message>
     <message>
         <source>DownArc</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOWNARC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Arco hacia abajo</translation>
     </message>
     <message>
         <source>Circle</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_CIRCLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <source>Button</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BUTTON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Botón</translation>
     </message>
     <message>
         <source>Left Horn</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTHORN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curva hacia arriba</translation>
     </message>
     <message>
         <source>Right Horn</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTHORN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Curva hacia abajo</translation>
     </message>
     <message>
         <source>Both Ends Near</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSNEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convexo</translation>
     </message>
     <message>
         <source>Both Ends Far</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BOTHENDSFAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cóncavo</translation>
     </message>
     <message>
         <source>Wave1</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Onda1</translation>
     </message>
     <message>
         <source>Wave2</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAVE2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Onda2</translation>
     </message>
     <message>
         <source>DoubleWave1</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE1</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble onda1</translation>
     </message>
     <message>
         <source>DoubleWave2</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLEWAVE2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble onda2</translation>
     </message>
     <message>
         <source>Waist Drum</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_WAISTDRUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inflar</translation>
     </message>
     <message>
         <source>korean Drum</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_KOREANDRUM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar</translation>
     </message>
     <message>
         <source>Top-Shape</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_TOPSHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inflar parte inferior</translation>
     </message>
     <message>
         <source>Brige-Shape</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_BRIGESHAPE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar parte inferior</translation>
     </message>
     <message>
         <source>Mountain</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_MOUNTAIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inflar parte superior</translation>
     </message>
     <message>
         <source>Groove</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_GROOVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar parte superior</translation>
     </message>
     <message>
         <source>Sigle Tunnel</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_SIGLETUNNEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar inflar</translation>
     </message>
     <message>
         <source>Double Turnnel</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_DOUBLETURNNEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desinflar inflar desinflar</translation>
     </message>
     <message>
         <source>Left-Near Right-Far</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTNEARRIGHTFAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por la derecha</translation>
     </message>
     <message>
         <source>Left-Far Right-Near</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTFARRIGHTNEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por la izquierda</translation>
     </message>
     <message>
         <source>Trapezoid</source>
@@ -6985,42 +7087,42 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Inverted Trapezoid</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_INVERTEDTRAPEZOID</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desaparecer por abajo</translation>
     </message>
     <message>
         <source>Left Collar</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_LEFTCOLLAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia arriba</translation>
     </message>
     <message>
         <source>Right Collar</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_RIGHTCOLLAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagonal hacia abajo</translation>
     </message>
     <message>
         <source>Forward-Near BakckWord-Far</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDNEARBAKCKWORDFAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia arriba</translation>
     </message>
     <message>
         <source>Forward-Far BakckWord-Near</source>
         <comment>DRAWING2_TOOLTIP_TEXTTURN_WARP_FORWARDFARBAKCKWORDNEAR</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cascada hacia abajo</translation>
     </message>
     <message>
         <source>No Bevel</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_None</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sin bisel</translation>
     </message>
     <message>
         <source>Circle</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Circle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Círculo</translation>
     </message>
     <message>
         <source>Loose Embedded</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_LooseEmbedded</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bajorrelieve relajado</translation>
     </message>
     <message>
         <source>Cross</source>
@@ -7030,82 +7132,82 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>CoolSlope</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_CoolSlope</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borde inclinado de color frío</translation>
     </message>
     <message>
         <source>Angle</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Angle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ángulo</translation>
     </message>
     <message>
         <source>Soft Circle	</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_SoftCircle</comment>
-        <translation type="unfinished"></translation>
+        <translation>Redondeado suave</translation>
     </message>
     <message>
         <source>Heave</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Heave</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convexo</translation>
     </message>
     <message>
         <source>Slope</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Slope</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pendiente</translation>
     </message>
     <message>
         <source>Turf</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Turf</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ángulos</translation>
     </message>
     <message>
         <source>Ribbed</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_Ribbed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Costillas</translation>
     </message>
     <message>
         <source>Hard Edge</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_HardEdge</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borde grueso</translation>
     </message>
     <message>
         <source>Art Decoration</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_BELVEL_ArtDecoration</comment>
-        <translation type="unfinished"></translation>
+        <translation>Art Decó</translation>
     </message>
     <message>
         <source>Matt Effect</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MATT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mate</translation>
     </message>
     <message>
         <source>Warm Rough</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_WARMROUGH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mate cálido</translation>
     </message>
     <message>
         <source>Plastic Effect</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLASTICEFFECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plástico</translation>
     </message>
     <message>
         <source>MetalEffect</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_METALEFFECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metal</translation>
     </message>
     <message>
         <source>Hard Edge</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_HARDEDGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borde grueso</translation>
     </message>
     <message>
         <source>Soft Edge</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_SOFTEDGE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borde suave</translation>
     </message>
     <message>
         <source>Plane</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_PLANE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plano</translation>
     </message>
     <message>
         <source>Wire Frame</source>
@@ -7115,92 +7217,92 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Powder</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_POWDER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Polvo</translation>
     </message>
     <message>
         <source>Translucent Powder</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_TRANSLUCENTPOWDER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Polvo translúcido</translation>
     </message>
     <message>
         <source>MostsSperficial</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_MATERIAL_MOSTSSPERFICIAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>Three Points</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_THREEPOINTS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tres puntos</translation>
     </message>
     <message>
         <source>Blance</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BLANCE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Equilibrio</translation>
     </message>
     <message>
         <source>Soft</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SOFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Suave</translation>
     </message>
     <message>
         <source>Rough</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ROUGH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Duro</translation>
     </message>
     <message>
         <source>Strong</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_STRONG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inundación</translation>
     </message>
     <message>
         <source>Contrast</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_CONTRAST</comment>
-        <translation type="unfinished"></translation>
+        <translation>Contraste</translation>
     </message>
     <message>
         <source>Mornning</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_MORNNING</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mañana</translation>
     </message>
     <message>
         <source>SunRise</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNRISE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Amanecer</translation>
     </message>
     <message>
         <source>SunSet</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_SUNSET</comment>
-        <translation type="unfinished"></translation>
+        <translation>Puesta de sol</translation>
     </message>
     <message>
         <source>Cold</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_COLD</comment>
-        <translation type="unfinished"></translation>
+        <translation>Frío</translation>
     </message>
     <message>
         <source>Ice Cold</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_ICE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Congelado</translation>
     </message>
     <message>
         <source>Plane</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_PLANE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Avión</translation>
     </message>
     <message>
         <source>Two Points</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_TWOPOINTS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dos puntos</translation>
     </message>
     <message>
         <source>Glow</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_GLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Iluminado</translation>
     </message>
     <message>
         <source>Bright Room</source>
         <comment>DRAWING2_TOOLTIP_3D_FROAMT_LIGHTING_BRIGHTROOM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sala iluminada</translation>
     </message>
     <message>
         <source>No</source>
@@ -7210,82 +7312,82 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Isometric Lft-Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICLFTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isométrico izquierda y abajo</translation>
     </message>
     <message>
         <source>Isometric Right-Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_ISOMETRICRIGHTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isométrico derecha y arriba</translation>
     </message>
     <message>
         <source>Equiaxial Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIALUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isométrico parte superior y arriba</translation>
     </message>
     <message>
         <source>Equiaxia Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_EQUIAXIADOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Isométrico parte inferior y abajo</translation>
     </message>
     <message>
         <source>Off-Axis 1 Left</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1LEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento eje 1 izquierda</translation>
     </message>
     <message>
         <source>Off-Axis 1 Right</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1RIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento eje 1 derecha</translation>
     </message>
     <message>
         <source>Off-Axis 1 Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS1UP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento eje 1 arriba</translation>
     </message>
     <message>
         <source>Off-Axis 2 Left</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2LEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento eje 2 izquierda</translation>
     </message>
     <message>
         <source>Off-Axis 2 Right</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2RIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento eje 2 derecha</translation>
     </message>
     <message>
         <source>Off-Axis 2 Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_OFFAXIS2UP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Desplazamiento eje 2 arriba</translation>
     </message>
     <message>
         <source>Forwoar Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_FORWOARPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva frontal</translation>
     </message>
     <message>
         <source>Left Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva izquierda</translation>
     </message>
     <message>
         <source>Right Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva derecha</translation>
     </message>
     <message>
         <source>Down Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_DOWNPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva inferior</translation>
     </message>
     <message>
         <source>Up Perspective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_UPPERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva superior</translation>
     </message>
     <message>
         <source>ModeratelyLoose</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MODERATELYLOOSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva moderadamente relajada</translation>
     </message>
     <message>
         <source>Loose</source>
@@ -7295,42 +7397,42 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Left Right Compare Pespective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_LEFTRIGHTCOMPAREPESPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva con contraste a la izquierda</translation>
     </message>
     <message>
         <source>Right Compare Pespective</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_RIGHTCOMPAREPESPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva con contraste a la derecha</translation>
     </message>
     <message>
         <source>Most Left Most Big</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTLEFTMOSTBIG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva heroica extrema izquierda</translation>
     </message>
     <message>
         <source>MostRightMostBig</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_MOSTRIGHTMOSTBIG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva heroica extrema derecha</translation>
     </message>
     <message>
         <source>Tilt Left Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oblicuo parte superior izquierda</translation>
     </message>
     <message>
         <source>Tilt Right Up</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oblicuo parte superior derecha</translation>
     </message>
     <message>
         <source>Tilt Left Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTLEFTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Inclinado izquierda abajo</translation>
     </message>
     <message>
         <source>Tilt Right Down</source>
         <comment>DRAWING2_TOOLTIP_3D_RAOTATION_TILTRIGHTDOWN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oblicuo parte inferior derecha</translation>
     </message>
     <message>
         <source>Solid</source>
@@ -7340,12 +7442,12 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>System Dot</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDOT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto del sistema</translation>
     </message>
     <message>
         <source>System Dash</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_SYSDASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión del sistema</translation>
     </message>
     <message>
         <source>Dash</source>
@@ -7375,34 +7477,36 @@ Comprimir las imágenes puede reducir la cualidad de sus imágenes. ¿Desea comp
     <message>
         <source>Single</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_SINGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sencillo</translation>
     </message>
     <message>
         <source>Double</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_DOUBLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble</translation>
     </message>
     <message>
         <source>Thick-Thin </source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_THICKTHIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grueso Fino</translation>
     </message>
     <message>
         <source>Thin-Thick</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_THINTHICK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fino Grueso</translation>
     </message>
     <message>
         <source>Triple Line</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_TRIPLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Triple</translation>
     </message>
     <message>
         <source>Line-Style: %1
 Line-Width: %2 pt
 Line-type: %3</source>
         <comment>DRAWING2_TOOLTIP_SHAPELINE_SHOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Estilo de línea: %1
+Ancho de línea: %2 puntos
+Tipo de línea: %3</translation>
     </message>
     <message>
         <source>Line</source>
@@ -7417,237 +7521,237 @@ Line-type: %3</source>
     <message>
         <source>Base Shape</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_NORMAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formas básicas</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_ARROW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flechas de bloque</translation>
     </message>
     <message>
         <source>Formula</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_FORMULA</comment>
-        <translation type="unfinished"></translation>
+        <translation>Formas de ecuaciones</translation>
     </message>
     <message>
         <source>Process</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_PROCESS</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diagrama de flujo</translation>
     </message>
     <message>
         <source>Star And Flag</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_STARANDFLAG</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cintas y estrellas</translation>
     </message>
     <message>
         <source>Callout</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_CALLOUT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Llamadas</translation>
     </message>
     <message>
         <source>Action Button</source>
         <comment>DRAWING2_SHAPE_GROUPTYPE_ACTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>Botón de acción</translation>
     </message>
     <message>
         <source>Single Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_SINGLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sencillo</translation>
     </message>
     <message>
         <source>Double Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_DOUBLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble</translation>
     </message>
     <message>
         <source>Heavy Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grueso</translation>
     </message>
     <message>
         <source>Dot Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_DOT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Puntos</translation>
     </message>
     <message>
         <source>Heavy Dot Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punteado grueso</translation>
     </message>
     <message>
         <source>Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión</translation>
     </message>
     <message>
         <source>Heavy Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión grueso</translation>
     </message>
     <message>
         <source>Long Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_LONG_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo Guión</translation>
     </message>
     <message>
         <source>Heavy Long Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY_LONG_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión Línea gruesa larga</translation>
     </message>
     <message>
         <source>Dot Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_DOT_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guiones</translation>
     </message>
     <message>
         <source>Heavy Dot Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOT_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto Guión grueso</translation>
     </message>
     <message>
         <source>Double Dot Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_DOT_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto Punto Guión Línea</translation>
     </message>
     <message>
         <source>Heavy Double Dot Dash Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY_DOUBLE_DOT_DASH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto Punto Guión Línea gruesa</translation>
     </message>
     <message>
         <source>Wavy Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_WAVY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Onda</translation>
     </message>
     <message>
         <source>Heavy Wavy Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_HEAVY_WAVY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Onda gruesa</translation>
     </message>
     <message>
         <source>Double Wavy Line</source>
         <comment>DRAWING2_FONT_LINE_NAME_DOUBLE_WAVY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble onda</translation>
     </message>
     <message>
         <source>Solid Line</source>
         <comment>DRAWING2_LINE_NAME_SOLID</comment>
-        <translation type="unfinished"></translation>
+        <translation>Línea continua</translation>
     </message>
     <message>
         <source>Circle Point</source>
         <comment>DRAWING2_LINE_NAME_CIRCLEPOINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto redondo</translation>
     </message>
     <message>
         <source>Square Point</source>
         <comment> DRAWING2_LINE_NAME_SQUAREPOINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punto cuadrado</translation>
     </message>
     <message>
         <source>Dash line</source>
         <comment>DRAWING2_LINE_NAME_DASHLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión</translation>
     </message>
     <message>
         <source>Dash Line-Point</source>
         <comment>DRAWING2_LINE_NAME_DASHLINEPOINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión Punto</translation>
     </message>
     <message>
         <source>Lone Dash Line</source>
         <comment>DRAWING2_LINE_NAME_LONGDASHLINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo</translation>
     </message>
     <message>
         <source>Lone Dash Line-Point</source>
         <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo Punto</translation>
     </message>
     <message>
         <source>Lone Dash Line-Point-Point</source>
         <comment>DRAWING2_LINE_NAME_LONGDASHLINEPOINTPOINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Guión largo Punto Punto</translation>
     </message>
     <message>
         <source>Sigle Line</source>
         <comment>DRAWING2_LINE_TYPE_SIGLELINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sencillo</translation>
     </message>
     <message>
         <source>Double Lines</source>
         <comment>DRAWING2_LINE_TYPE_DOUBLEINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Doble</translation>
     </message>
     <message>
         <source>Coarse To Fine</source>
         <comment>DRAWING2_LINE_TYPE_COARSETOFINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Grueso Fino</translation>
     </message>
     <message>
         <source>Fine To Coarse</source>
         <comment>DRAWING2_LINE_TYPE_FINETOCOARSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fino Grueso</translation>
     </message>
     <message>
         <source>Three Lines</source>
         <comment>DRAWING2_LINE_TYPE_THREELINE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Triple</translation>
     </message>
     <message>
         <source>No Arrow</source>
         <comment>DRAWING2_LINE_ARROW_TYPE_NONE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Sin flecha</translation>
     </message>
     <message>
         <source>Arrow</source>
         <comment>DRAWING2_LINE_ARROW_TYPE_ARROE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flechas de bloque</translation>
     </message>
     <message>
         <source>Open Arrow</source>
         <comment>DRAWING2_LINE_ARROW_TYPE_OPEN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha abierta</translation>
     </message>
     <message>
         <source>Dovetail Arrow</source>
         <comment>DRAWING2_LINE_ARROW_TYPE_DOVETAIL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha a la derecha con muesca</translation>
     </message>
     <message>
         <source>Diamond Arrow</source>
         <comment>DRAWING2_LINE_ARROW_TYPE_DIAMOND</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diamante Flecha</translation>
     </message>
     <message>
         <source>Circle Arrow</source>
         <comment>DRAWING2_LINE_ARROW_TYPE_CIRCLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Óvalo Flecha</translation>
     </message>
     <message>
         <source>Left Arrow %1</source>
         <comment>DRAWING2_LINE_ARROW_LEFT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha a la izquierda %1</translation>
     </message>
     <message>
         <source>Right Arrow %1</source>
         <comment>DRAWING2_LINE_ARROW_RIGHT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flecha a la derecha %1</translation>
     </message>
     <message>
         <source>The font &apos;</source>
         <comment>DRAWING2_FontNameNotExisitFirstHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation>La fuente &apos;</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
         <comment>DRAWING2_FontNameNotExisitSecondHalf</comment>
-        <translation type="unfinished"></translation>
+        <translation>&apos; no está disponible en el sistema. ¿Desea utilizarla de todas maneras?</translation>
     </message>
     <message>
         <source>Convert OLE Object</source>
         <comment>DRAWING2_CONVERTOLEOBJECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Convertir objeto</translation>
     </message>
     <message>
         <source> Light Color %1%</source>
@@ -7657,6 +7761,66 @@ Line-type: %3</source>
     <message>
         <source> Dark Color %1%</source>
         <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Light Color %1</source>
+        <comment>wpp_sTooltipGradientLightColour</comment>
+        <translation> Color claro %1</translation>
+    </message>
+    <message>
+        <source> Dark Color %1</source>
+        <comment>wpp_sTooltipGradientDarkColour</comment>
+        <translation> Color oscuro %1</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>DRAWING2STR_COMMENT</comment>
+        <translation>Comentario</translation>
+    </message>
+    <message>
+        <source>theme color</source>
+        <comment>DRAWING2_SMARTART_COLORS_ThemeColor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi color</source>
+        <comment>DRAWING2_SMARTART_COLORS_MultiColor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color1</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color2</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color3</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color4</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color5</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color6</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sure change diagram num if lose text</source>
+        <comment>DRAWING2_SMARTDIAGRAM_CHANGENUM_MESSAGE</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7715,42 +7879,42 @@ Line-type: %3</source>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
         <comment>_KsoDesc_MSWORD12</comment>
-        <translation>Documento de Microsoft Word 2007/2010</translation>
+        <translation type="obsolete">Documento de Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Document</source>
         <comment>_KsoDesc_MSWORD12DOCM</comment>
-        <translation>Documento de Microsoft Word 2007/2010 con macros habilitadas</translation>
+        <translation type="obsolete">Documento de Microsoft Word 2007/2010 con macros habilitadas</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
         <comment>_KsoDesc_MSWORD12DOTM</comment>
-        <translation>Plantilla de Microsoft Word 2007/2010 con macros habilitadas</translation>
+        <translation type="obsolete">Plantilla de Microsoft Word 2007/2010 con macros habilitadas</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Template</source>
         <comment>_KsoDesc_MSWORD12DOTX</comment>
-        <translation>Plantilla de Microsoft Word 2007/2010</translation>
+        <translation type="obsolete">Plantilla de Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
         <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
-        <translation>Documento de Microsoft Word 97/2000/XP/2003</translation>
+        <translation type="obsolete">Documento de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Documents</source>
         <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
-        <translation>Documentos de Microsoft Word 97/2000/XP/2003</translation>
+        <translation type="obsolete">Documentos de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Template</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
-        <translation>Plantilla de Microsoft Word 97/2000/XP/2003</translation>
+        <translation type="obsolete">Plantilla de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Templates</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
-        <translation>Plantillas de Microsoft Word 97/2000/XP/2003</translation>
+        <translation type="obsolete">Plantillas de Microsoft Word 97/2000/XP/2003</translation>
     </message>
     <message>
         <source>RTF File</source>
@@ -7815,11 +7979,114 @@ Line-type: %3</source>
     <message>
         <source>Word XML Document</source>
         <comment>_KsoDesc_07Xml</comment>
-        <translation type="unfinished"></translation>
+        <translation>Documento XML de Word</translation>
     </message>
     <message>
         <source>Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public Custom Document Format</source>
+        <comment>_KsoFileFormatDesc_CustomFile</comment>
+        <translation>Formato de documento personalizado público</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <comment>_KsoFileFormatDesc_OnlineSecurtyDocument</comment>
+        <translation>Formato de documento de seguridad en línea de WPS</translation>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read this documnet!
+(%s)</source>
+        <comment>_KsoPrompt_NoFileReadPermission</comment>
+        <translation>No tiene permisos para leer este documento.
+(%s)</translation>
+    </message>
+    <message>
+        <source>Failed to communicate with security document server!</source>
+        <comment>_KsoPrompt_SecurityDocumentServerFailed</comment>
+        <translation>No se pudo comunicar con el servidor de documentos de seguridad.</translation>
+    </message>
+    <message>
+        <source>Saving the non-security document format will erase all permission settings, Continue?</source>
+        <comment>_KsoPrompt_LostDocumentSecurityInfo</comment>
+        <translation>Guardarlo con formato de documento sin seguridad borrará toda la configuración de permisos, ¿desea continuar?</translation>
+    </message>
+    <message>
+        <source>WPS Office Outward Document</source>
+        <comment>_KsoFileForamtDesc_WpsOutwardDocument</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to overwrite the current document, choose another file name.</source>
+        <comment>_KsoPrompt_OverwriteTheOpenDocumnet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 outward document  applicant : %2  approver : %3</source>
+        <comment>_KsoOutwardWaterMarkText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
+        <translation type="unfinished">Documento de Microsoft Word 2007/2010 {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Documents</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Template</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
+        <translation type="unfinished">Plantilla de Microsoft Word 2007/2010 {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Templates</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <comment>_KsoDesc_MSWORD12</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <comment>_KsoDesc_MSWORD12DOTX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <comment>_KsoDesc_MSWORD12DOCM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <comment>_KsoDesc_MSWORD12DOTM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document is a secret-label document and can not be opened.
+(%s)</source>
+        <comment>_KsoPrompt_SecretLabel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenDocument Text</source>
+        <comment>_KsoFileFormatDesc_ODT_File</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7857,6 +8124,26 @@ Line-type: %3</source>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
         <translation>Guardar como</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <comment>_kso_DocOperationCopy</comment>
+        <translation>Copiar</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>_kso_DocOperationPrint</comment>
+        <translation>Imprimir</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <comment>_kso_DocOperationSaveAs</comment>
+        <translation>Guardar como</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <comment>_kso_DocOperationAuth</comment>
+        <translation>Autorizar</translation>
     </message>
 </context>
 <context>
@@ -9074,11 +9361,11 @@ Para utilizar IRM, instale el cliente de Windows Rights Management. Si ya tiene 
     <message>
         <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="unfinished">Diese Software is nur für persönliche Benutzung angesichts persönlicher Absicht. Die kaufmännische Absicht ist streng verboten. ||Este software incluye: The FreeType Project, y obtiene su autorización gratuita según las cláusulas de la licencia de autorización; Segmento de palabra china, Anotaciones fonéticas chinas, y la tecnología para Conversación entre chino sencillo y chino tradicional proporcionados por el Centro de Recuperación de Información, Instituto de tecnología de Harbin; comprobador de ortografía Hunspell, código de origen en Hunspell está aplicado para código de origen en el acuerdo de licencia de fuente abierta de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Diese Software is nur für persönliche Benutzung angesichts persönlicher Absicht. Die kaufmännische Absicht ist streng verboten. ||Este software incluye: The FreeType Project, y obtiene su autorización gratuita según las cláusulas de la licencia de autorización; Segmento de palabra china, Anotaciones fonéticas chinas, y la tecnología para Conversación entre chino sencillo y chino tradicional proporcionados por el Centro de Recuperación de Información, Instituto de tecnología de Harbin; comprobador de ortografía Hunspell, código de origen en Hunspell está aplicado para código de origen en el acuerdo de licencia de fuente abierta de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>Ribbon Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichas de cinta</translation>
     </message>
     <message>
         <source>Opening</source>
@@ -9103,32 +9390,78 @@ Para utilizar IRM, instale el cliente de Windows Rights Management. Si ya tiene 
     <message>
         <source>Permission of (%1)</source>
         <comment>_kso_krim_RestrictedAccess_Template</comment>
-        <translation type="unfinished"></translation>
+        <translation>Permiso de (%1)</translation>
     </message>
     <message>
         <source>Permission is currently restricted by a permission policy. Do you want to stop using a permission policy and specify permission for individual users or groups?</source>
         <comment>_kso_kirm_PermissionPolicyToIndividual</comment>
-        <translation type="unfinished"></translation>
+        <translation>Los permisos están actualmente restringidos por una directiva de permisos. ¿Desea dejar de utilizar una directiva de permisos y especificar los permisos para los diferentes usuarios o grupos?</translation>
     </message>
     <message>
         <source>Selecting a permission policy will replace any existing permission that you&apos;ve set for this document. Do you want to continue?</source>
         <comment>_kso_kirm_PermissionIndividualToPolicy</comment>
-        <translation type="unfinished"></translation>
+        <translation>Al seleccionar una directiva de permisos se sustituirá cualquier permiso existente que haya definido para este documento. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>WPS office has identified a potential safety problems.
 This position may not be safe.</source>
         <comment>_kso_Warnning_MessageBox_HyperLinksSend_Title</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office ha identificado posibles problemas de seguridad.
+Esta posición podría no ser segura.</translation>
     </message>
     <message>
         <source>Hyperlinks may harm your computer and data. For the protection of computer, super link please click only trusted sources. Do you want to continue?</source>
         <comment>_kso_Warnning_MessageBox_HyperLinksSend_Content</comment>
-        <translation type="unfinished"></translation>
+        <translation>Los hipervínculos pueden dañar su equipo y sus datos. Para proteger su equipo, haga clic únicamente en hipervínculos que procedan de orígenes de confianza. ¿Desea continuar?</translation>
     </message>
     <message>
         <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this presentation.</source>
         <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation>El permiso para %1  está actualmente restringido. Los archivos con permiso restringido no pueden insertarse en esta presentación.</translation>
+    </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_PER</comment>
+        <translation>Este software solo puede utilizarlo un usuario individual para uso personal, por lo que no puede utilizarse para fines comerciales como producción, negocios, etc. ||Este software incluye: The FreeType Project, y obtiene su autorización gratuita según las cláusulas de autorización de la licencia de The FreeType; Segmento de palabra china, Anotaciones fonéticas chinas, y la tecnología para Conversión entre chino simplificado y chino tradicional proporcionados por el Centro de Recuperación de Información del Instituto de tecnología de Harbin; corrector ortográfico Hunspell; el código fuente en Hunspell es aplicable al código fuente en el acuerdo de licencia de fuente abierta de MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+    </message>
+    <message>
+        <source>Delete all Ribbon customizations for this program?</source>
+        <comment>_kso_Delete_All_Ribbon_Customizations</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Data</source>
+        <comment>_kso_io_Progress_ReadingData</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <comment>_kso_pdfProductName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
+        <comment>_kso_ksoThanksTo_TH_PRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
+        <comment>_kso_Error_MediaFlash_wpp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Thanks To</source>
+        <comment>_kso_pdfThanksTo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <comment>_kso_irmio_Error_ClockBeenTamper</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9147,32 +9480,32 @@ This position may not be safe.</source>
     <message>
         <source>#,##0</source>
         <comment>TX_NUMFMTApi_BuildIn_03</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0.00</source>
         <comment>TX_NUMFMTApi_BuildIn_04</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0_);($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_05</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0_);[Red]($#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_06</comment>
-        <translation type="unfinished"></translation>
+        <translation>$#,##0_);[Rojo]($#,##0)</translation>
     </message>
     <message>
         <source>$#,##0.00_);($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_07</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>$#,##0.00_);[Red]($#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_08</comment>
-        <translation type="unfinished"></translation>
+        <translation>$#,##0,00_);[Rojo]($#,##0,00)</translation>
     </message>
     <message>
         <source>0.00%</source>
@@ -9182,181 +9515,201 @@ This position may not be safe.</source>
     <message>
         <source>0.00E+00</source>
         <comment>TX_NUMFMTApi_BuildIn_11</comment>
-        <translation type="unfinished"></translation>
+        <translation>0,00E+00</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_14</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>d-mmm-yy</source>
         <comment>TX_NUMFMTApi_BuildIn_15</comment>
-        <translation type="unfinished"></translation>
+        <translation>d-mmm-aa</translation>
     </message>
     <message>
         <source>d-mmm</source>
         <comment>TX_NUMFMTApi_BuildIn_16</comment>
-        <translation type="unfinished"></translation>
+        <translation>d-mmm</translation>
     </message>
     <message>
         <source>h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_20</comment>
-        <translation type="unfinished"></translation>
+        <translation>h:mm</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_21</comment>
-        <translation type="unfinished"></translation>
+        <translation>h:mm:ss</translation>
     </message>
     <message>
         <source>m/d/yyyy h:mm</source>
         <comment>TX_NUMFMTApi_BuildIn_22</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa h:mm</translation>
     </message>
     <message>
         <source>\$#,##0_);(\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_23</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>\$#,##0_);[Red](\$#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_24</comment>
-        <translation type="unfinished"></translation>
+        <translation>\$#,##0_);[Rojo](\$#,##0)</translation>
     </message>
     <message>
         <source>\$#,##0.00_);(\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_25</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>\$#,##0.00_);[Red](\$#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_26</comment>
-        <translation type="unfinished"></translation>
+        <translation>\$#,##0,00_);[Rojo](\$#,##0,00)</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_30</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32</comment>
-        <translation type="unfinished"></translation>
+        <translation>h:mm:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33</comment>
-        <translation type="unfinished"></translation>
+        <translation>h:mm:ss</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_31_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_32_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>h:mm:ss</translation>
     </message>
     <message>
         <source>h:mm:ss</source>
         <comment>TX_NUMFMTApi_BuildIn_33_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>h:mm:ss</translation>
     </message>
     <message>
         <source>#,##0_);(#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_37</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0_);[Red](#,##0)</source>
         <comment>TX_NUMFMTApi_BuildIn_38</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0_);[Rojo](#,##0)</translation>
     </message>
     <message>
         <source>#,##0.00_);(#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_39</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>#,##0.00_);[Red](#,##0.00)</source>
         <comment>TX_NUMFMTApi_BuildIn_40</comment>
-        <translation type="unfinished"></translation>
+        <translation>#,##0,00_);[Rojo](#,##0,00)</translation>
     </message>
     <message>
         <source>_(* #,##0_);_(* (#,##0);_(* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_41</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_($* #,##0_);_($* (#,##0);_($* &quot;-&quot;_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_42</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_(* #,##0.00_);_(* (#,##0.00);_(* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_43</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>_($* #,##0.00_);_($* (#,##0.00);_($* &quot;-&quot;??_);_(@_)</source>
         <comment>TX_NUMFMTApi_BuildIn_44</comment>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>mm:ss.0</source>
         <comment>TX_NUMFMTApi_BuildIn_45</comment>
-        <translation type="unfinished"></translation>
+        <translation>mm:ss.0</translation>
     </message>
     <message>
         <source>##0.0E+0</source>
         <comment>TX_NUMFMTApi_BuildIn_48</comment>
-        <translation type="unfinished"></translation>
+        <translation>##0,0E+0</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_55_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_56_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_57_2</comment>
-        <translation type="unfinished"></translation>
+        <translation>m/d/aaaa</translation>
     </message>
     <message>
         <source>m/d/yyyy</source>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
+        <translation>m/d/aaaa</translation>
+    </message>
+    <message>
+        <source>t$#,##0_);(t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_63</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0_);[Red](t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_64</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);(t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_65</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);[Red](t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_66</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9434,6 +9787,11 @@ Puede agregar el papel personalizado %dmm x %dmm en Propiedades de impresora y l
     <message>
         <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
         <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <comment>TxPrintPreview_CopiesInvalid</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11961,46 +12319,68 @@ Download the XML expansion pack?</source>
     <message>
         <source>Up to one digit (%s)</source>
         <comment>kso_sNnumberFormatter_style_01</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hasta un dígito (%s)</translation>
     </message>
     <message>
         <source>Up to two digits (%s)</source>
         <comment>kso_sNnumberFormatter_style_02</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hasta dos dígitos (%s)</translation>
     </message>
     <message>
         <source>Up to three digits (%s)</source>
         <comment>kso_sNnumberFormatter_style_03</comment>
-        <translation type="unfinished"></translation>
+        <translation>Hasta tres dígitos (%s)</translation>
     </message>
     <message>
         <source>As halves (%s)</source>
         <comment>kso_sNnumberFormatter_style_04</comment>
-        <translation type="unfinished"></translation>
+        <translation>Como medios (%s)</translation>
     </message>
     <message>
         <source>As quarters (%s)</source>
         <comment>kso_sNnumberFormatter_style_05</comment>
-        <translation type="unfinished"></translation>
+        <translation>Como cuartos (%s)</translation>
     </message>
     <message>
         <source>As eighths (%s)</source>
         <comment>kso_sNnumberFormatter_style_06</comment>
-        <translation type="unfinished"></translation>
+        <translation>Como octavos (%s)</translation>
     </message>
     <message>
         <source>As sixteenths (%s)</source>
         <comment>kso_sNnumberFormatter_style_07</comment>
-        <translation type="unfinished"></translation>
+        <translation>Como dieciseisavos (%s)</translation>
     </message>
     <message>
         <source>As tenths (%s)</source>
         <comment>kso_sNnumberFormatter_style_08</comment>
-        <translation type="unfinished"></translation>
+        <translation>Como décimas (%s)</translation>
     </message>
     <message>
         <source>As hundredths (%s)</source>
         <comment>kso_sNnumberFormatter_style_09</comment>
+        <translation>Como centésimas (%s)</translation>
+    </message>
+    <message>
+        <source>The file is modified
+Please save the file and create share link</source>
+        <comment>kso_h5_SaveFileTip</comment>
+        <translation>El archivo tiene cambios no guardados. Guarde los cambios y, a continuación, cree el vínculo.</translation>
+    </message>
+    <message>
+        <source>Software Assurance Service has expired on %s.
+You cannot access to upgrades and technical support of this software. 
+If you have any problem, or want to renew the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiredTip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software Assurance Service will expire on %s.
+After expiration, you can no longer access to upgrades and technical support of this software. 
+If you have any problem, or want to prolong the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiringTip</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12009,256 +12389,459 @@ Download the XML expansion pack?</source>
     <message>
         <source>Adjacency</source>
         <comment>THEME_THEME_ADJACENCY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Adyacencia</translation>
     </message>
     <message>
         <source>Angles</source>
         <comment>THEME_THEME_ANGLES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ángulos</translation>
     </message>
     <message>
         <source>Apex</source>
         <comment>THEME_THEME_APEX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ápice</translation>
     </message>
     <message>
         <source>Apothecary</source>
         <comment>THEME_THEME_APOTHECARY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Boticario</translation>
     </message>
     <message>
         <source>Aspect</source>
         <comment>THEME_THEME_ASPECT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aspecto</translation>
     </message>
     <message>
         <source>Austin</source>
         <comment>THEME_THEME_AUSTIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Austin</translation>
     </message>
     <message>
         <source>BlackTie</source>
         <comment>THEME_THEME_BLACKTIE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esmoquin</translation>
     </message>
     <message>
         <source>Calligraphy</source>
         <comment>THEME_THEME_CALLIGRAPHY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Caligrafía</translation>
     </message>
     <message>
         <source>Civic</source>
         <comment>THEME_THEME_CIVIC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cívico</translation>
     </message>
     <message>
         <source>Clarity</source>
         <comment>THEME_THEME_CLARITY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Claridad</translation>
     </message>
     <message>
         <source>Composite</source>
         <comment>THEME_THEME_COMPOSITE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Compuesto</translation>
     </message>
     <message>
         <source>Concourse</source>
         <comment>THEME_THEME_CONCOURSE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Vestíbulo</translation>
     </message>
     <message>
         <source>Couture</source>
         <comment>THEME_THEME_COUTURE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Alta costura</translation>
     </message>
     <message>
         <source>Dragon</source>
         <comment>THEME_THEME_DRAGON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dragón</translation>
     </message>
     <message>
         <source>Elemental</source>
         <comment>THEME_THEME_ELEMENTAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Elemental</translation>
     </message>
     <message>
         <source>Equity</source>
         <comment>THEME_THEME_EQUITY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Recursos propios</translation>
     </message>
     <message>
         <source>Essential</source>
         <comment>THEME_THEME_ESSENTIAL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esencial</translation>
     </message>
     <message>
         <source>Executive</source>
         <comment>THEME_THEME_EXECUTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutivo</translation>
     </message>
     <message>
         <source>Fan</source>
         <comment>THEME_THEME_FAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ventilador</translation>
     </message>
     <message>
         <source>Flow</source>
         <comment>THEME_THEME_FLOW</comment>
-        <translation type="unfinished"></translation>
+        <translation>Flujo</translation>
     </message>
     <message>
         <source>Foundry</source>
         <comment>THEME_THEME_FOUNDRY</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fundición</translation>
     </message>
     <message>
         <source>Grid</source>
         <comment>THEME_THEME_GRID</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cuadrícula</translation>
     </message>
     <message>
         <source>Hardcover</source>
         <comment>THEME_THEME_HARDCOVER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Cartoné</translation>
     </message>
     <message>
         <source>Horizon</source>
         <comment>THEME_THEME_HORIZON</comment>
-        <translation type="unfinished"></translation>
+        <translation>Horizonte</translation>
     </message>
     <message>
         <source>Median</source>
         <comment>THEME_THEME_MEDIAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mediana</translation>
     </message>
     <message>
         <source>Metro</source>
         <comment>THEME_THEME_METRO</comment>
-        <translation type="unfinished"></translation>
+        <translation>Metro</translation>
     </message>
     <message>
         <source>Module</source>
         <comment>THEME_THEME_MODULE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Módulo</translation>
     </message>
     <message>
         <source>Opulent</source>
         <comment>THEME_THEME_OPULENT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Opulento</translation>
     </message>
     <message>
         <source>Oriel</source>
         <comment>THEME_THEME_ORIEL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Mirador</translation>
     </message>
     <message>
         <source>Origin</source>
         <comment>THEME_THEME_ORIGIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Origen</translation>
     </message>
     <message>
         <source>Paper</source>
         <comment>THEME_THEME_PAPER</comment>
-        <translation type="unfinished"></translation>
+        <translation>Papel</translation>
     </message>
     <message>
         <source>Perspective</source>
         <comment>THEME_THEME_PERSPECTIVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Perspectiva</translation>
     </message>
     <message>
         <source>Phoenix</source>
         <comment>THEME_THEME_PHOENIX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fénix</translation>
     </message>
     <message>
         <source>Pushpin</source>
         <comment>THEME_THEME_PUSHPIN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chincheta</translation>
     </message>
     <message>
         <source>Slipstream</source>
         <comment>THEME_THEME_SLIPSTREAM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Instalación integrada</translation>
     </message>
     <message>
         <source>Solstice</source>
         <comment>THEME_THEME_SOLSTICE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Solsticio</translation>
     </message>
     <message>
         <source>Technic</source>
         <comment>THEME_THEME_TECHNIC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Técnica</translation>
     </message>
     <message>
         <source>Thatch</source>
         <comment>THEME_THEME_THATCH</comment>
-        <translation type="unfinished"></translation>
+        <translation>Techo de paja</translation>
     </message>
     <message>
         <source>Trek</source>
         <comment>THEME_THEME_TREK</comment>
-        <translation type="unfinished"></translation>
+        <translation>Excursión</translation>
     </message>
     <message>
         <source>Urban</source>
         <comment>THEME_THEME_URBAN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Urbano</translation>
     </message>
     <message>
         <source>Verve</source>
         <comment>THEME_THEME_VERVE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brío</translation>
     </message>
     <message>
         <source>Waveform</source>
         <comment>THEME_THEME_WAVEFORM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Forma de onda</translation>
     </message>
     <message>
         <source>Grayscale</source>
         <comment>THEME_THEMECOLORS_GRAYSCALE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Escala de grises</translation>
     </message>
     <message>
         <source>Office 2</source>
         <comment>THEME_THEMEFONTS_OFFICE2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Office 2</translation>
     </message>
     <message>
         <source>Office Classic 2</source>
         <comment>THEME_THEMEFONTS_OFFICECLASSIC2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Office clásico 2</translation>
     </message>
     <message>
         <source>Office Classic</source>
         <comment>THEME_THEMEFONTS_OFFICECLASSIC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Office clásico</translation>
     </message>
     <message>
         <source>Black Tie</source>
         <comment>THEME_THEME_BLACK_TIE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Esmoquin</translation>
     </message>
     <message>
         <source>Office Theme</source>
         <comment>THEME_NAME_OFFICE_2007_2010</comment>
-        <translation type="unfinished"></translation>
+        <translation>Tema de Office</translation>
     </message>
     <message>
         <source>Office</source>
         <comment>THEME_NAME_OFFICE</comment>
-        <translation type="unfinished"></translation>
+        <translation>Oficina</translation>
     </message>
     <message>
         <source>Newsprint</source>
         <comment>THEME_THEME_NEWSPRINT</comment>
-        <translation type="unfinished"></translation>
+        <translation>Papel de periódico</translation>
     </message>
     <message>
         <source>NewsPrint</source>
         <comment>THEME_THEME_NEWSPRINT1</comment>
+        <translation>Papel de periódico</translation>
+    </message>
+</context>
+<context>
+    <name>kso_smartart</name>
+    <message>
+        <source>All</source>
+        <comment>_kso_SmartArtCategoryAll</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Block List</source>
+        <comment>_kso_SmartArtDefaultName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtDefaultDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <comment>_kso_SmartArtvList2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <comment>_kso_SmartArtvList2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Box List</source>
+        <comment>_kso_SmartArtList1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show several groups of information, especially groups with large amounts of Level 2 text. A good choice for bulleted lists of information.</source>
+        <comment>_kso_SmartArtList1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <comment>_kso_SmartArtvList51Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <comment>_kso_SmartArtvList5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List</source>
+        <comment>_kso_SmartArthList3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <comment>_kso_SmartArthList3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horzontal Bullet List</source>
+        <comment>_kso_SmartArthList1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <comment>_kso_SmartArthList1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <comment>_kso_SmartArtvList4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <comment>_kso_SmartArthList6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Process</source>
+        <comment>_kso_SmartArtProcess1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow.</source>
+        <comment>_kso_SmartArtProcess1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent Process</source>
+        <comment>_kso_SmartArtProcess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow. Works well for illustrating both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtProcess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Venn</source>
+        <comment>_kso_SmartArtRadial3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converging Radial</source>
+        <comment>_kso_SmartArtRadial4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show relationships of concepts or components to a central idea in a cycle. The first line of Level 1 text corresponds to the central circular shape and the lines of Level 2 text correspond to the surrounding rectangular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diverging Radial</source>
+        <comment>_kso_SmartArtRadial5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The first Level 1 line of text corresponds to the central circular shape. Emphasizes the surrounding circles rather than the central idea. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <comment>_kso_SmartArtOrgChart1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtOrgChart1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crycle Matrix</source>
+        <comment>_kso_SmartArtCycle4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <comment>_kso_SmartArtAllPicture</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <comment>_kso_SmartArtWinEnhMetaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <comment>_kso_SmartArtWinMetaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <comment>_kso_SmartArtJpegFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <comment>_kso_SmartArtPngFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <comment>_kso_SmartArtWinBitmapFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <comment>_kso_SmartArtGifFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <comment>_kso_SmartArtTifFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <comment>_kso_SmartArtvList4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Text]</source>
+        <comment>_kso_SmartArtInputText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArthList6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show both overlapping relationships and the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape and the lines of Level 2 text correspond to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle4Description</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -169,6 +169,51 @@
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
         <translation>此功能在 WPS Office 2013 專業版 中提供!</translation>
     </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_HIDE</comment>
+        <translation>隱藏</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_LOOP</comment>
+        <translation>重複播放</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_REWIND</comment>
+        <translation>倒帶</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_FULLSCREEN</comment>
+        <translation>全螢幕</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_VOL</comment>
+        <translation>音量</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_PLAYMODE</comment>
+        <translation>播放其他</translation>
+    </message>
+    <message>
+        <source>: Straight Connector </source>
+        <comment>AEO_STRAIGHT_CONNECTOR_SHAPE</comment>
+        <translation>: 直線連接器</translation>
+    </message>
+    <message>
+        <source>: Bend Connector </source>
+        <comment>AEO_BEND_CONNECTOR_SHAPE</comment>
+        <translation>: 肘形接點</translation>
+    </message>
+    <message>
+        <source>: Curve Connector </source>
+        <comment>AEO_CURVE_CONNECTOR_SHAPE</comment>
+        <translation>: 曲線連接器</translation>
+    </message>
 </context>
 <context>
     <name>wpp_aeoengine</name>
@@ -391,6 +436,21 @@ Would you like to open this file?
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
         <comment>WpWPSOffice2007</comment>
         <translation>創新·學習·客戶·結果·誠信  WPS Office 2013</translation>
+    </message>
+    <message>
+        <source>Capture Player</source>
+        <comment>WpPlayCapture</comment>
+        <translation>演講實錄</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <comment>WpPlayCaptureInReady</comment>
+        <translation>載入中...</translation>
+    </message>
+    <message>
+        <source>Failed Loading</source>
+        <comment>WpPlayCaptureFailed</comment>
+        <translation>無法載入</translation>
     </message>
 </context>
 <context>
@@ -2796,7 +2856,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
         <comment>WP_PASTEWARNING</comment>
-        <translation>抱歉，出現問題，可能導致 WPS Presentation 不穩定。請儲存您的簡報，再重新啟動 WPS Presentation。</translation>
+        <translation type="obsolete">抱歉，出現問題，可能導致 WPS Presentation 不穩定。請儲存您的簡報，再重新啟動 WPS Presentation。</translation>
     </message>
     <message>
         <source>default</source>
@@ -3125,23 +3185,157 @@ To continue saving as a macro-free workbook, click Yes.
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>找不到這份文件中的物件所連結的檔案。連結資訊將不會更新。</translation>
     </message>
     <message>
         <source>The linked file is unavailable and can&apos;t be updated.</source>
         <comment>WP_LINKEDFILENOTAVALILABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>所連結的檔案無法使用，而且無法開啟。</translation>
     </message>
     <message>
         <source>Document has been locked by %s, Do you want to open it as read-only?
 (%s)</source>
         <comment>WP_SaveFailureLockedByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>此文件已由[%s]鎖定，您是否要以唯讀方式開啟?
+(%s)</translation>
     </message>
     <message>
         <source>Click to edit Master subtitle style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
         <translation>按一下以編輯母片副標題樣式</translation>
+    </message>
+    <message>
+        <source>Slide%1.%2</source>
+        <comment>WP_EXPORTSLIDENAME</comment>
+        <translation>投影片 %1.%2</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Title Here</source>
+        <comment>WP_ENTERTITLETIP</comment>
+        <translation>請在此輸入您的標題</translation>
+    </message>
+    <message>
+        <source>Please Enter Your SubTitle Here</source>
+        <comment>WP_ENTERSUBTITLETIP</comment>
+        <translation>請在此輸入您的副標題</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Text Here.</source>
+        <comment>WP_ENTERTEXTTIP</comment>
+        <translation>請在此輸入您的文字</translation>
+    </message>
+    <message>
+        <source>PresetLayout</source>
+        <comment>WP_PRESETLAYOUT</comment>
+        <translation>預設版面配置</translation>
+    </message>
+    <message>
+        <source>Default Section</source>
+        <comment>WP_DEFAULT_SECTION</comment>
+        <translation>預設章節</translation>
+    </message>
+    <message>
+        <source>(%d slide)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDE</comment>
+        <translation>(%d 張投影片)</translation>
+    </message>
+    <message>
+        <source>(%d slides)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDES</comment>
+        <translation>(%d 張投影片)</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WP_UNTITLED_SECTION</comment>
+        <translation>未命名的章節</translation>
+    </message>
+    <message>
+        <source>The sections in this version of WPS Presentation will be lost</source>
+        <comment>WP_COMPATIBILITYCHECKER_SECTIONS</comment>
+        <translation>在此 WPS Presentation 版本中的章節資料將會遺失</translation>
+    </message>
+    <message>
+        <source>The table and any text in it cannot be edited when using earlier version of WPS Presentation (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_OBJTABLES</comment>
+        <translation>使用舊版的 WPS Presentation 時，無法編輯表格及表格中的文字。(投影片 %1)</translation>
+    </message>
+    <message>
+        <source>These embed font(s) in this file has not loaded because they are preview and print only.
+
+</source>
+        <comment>WP_PreviewOnlyEmbedFonts</comment>
+        <translation>下列唯讀內嵌字型未能載入:
+
+</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <comment>WP_CONVERTDIAGRAMTITLE</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>To continue saving as a WPS Presentation, you must convert all diagrams either to SmartArt graphics or to shapes.
+
+When converting to SmartArt graphics, any cell references previously applied to the diagrams will be removed. When converting to shapes, any animation previously applied to the diagrams will be removed.</source>
+        <comment>WP_CONVERTDIAGRAMCONTENT</comment>
+        <translation>若要繼續儲存為 WPS Presentation 簡報，您必須將所有圖表轉換成 SmartArt 圖形或圖案。
+
+轉換成 SmartArt 圖形時，將移除先前套用到圖表的任何儲存格參照。轉換成圖案時，將移除先前套用到圖表的任何動畫。</translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt Graphic</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP1</comment>
+        <translation>轉換成 SmartArt 圖形</translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP2</comment>
+        <translation>轉換成圖案</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP3</comment>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error when trying to paste picture. There may be an error in picture data.</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation>WPS Presentation 嘗試貼上圖片時發生錯誤。這可能是因為圖片資料中含有錯誤。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error when trying to paste picture. This error can be caused by one of the following:
+• There may be an error in picture data.
+• Some opened files may be consuming too many system resources. Save and reopen these files, and try again.</source>
+        <comment>WP_PASTEWARNINGWITHMEMORY</comment>
+        <translation>WPS Presentation 嘗試貼上圖片時發生錯誤。這可能是因為：
+• 圖片資料中含有錯誤。
+• 已經開啟的檔案佔用了較多系統資源。請儲存後重新開啟檔案再試。</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <comment>WP_TITLE_SLIDE_LAYOUT_NAME</comment>
+        <translation>標題投影片</translation>
+    </message>
+    <message>
+        <source>The specified file %s is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>WP_SAVE_FORMAT_NOT_COMPATIBLE_ODP</comment>
+        <translation>指定的檔案 「%s」 屬於不支援的檔案類型，請按一下 [確定] 按鈕，在 [另存新檔] 對話方塊中重新指定儲存的檔案類型。</translation>
+    </message>
+    <message>
+        <source>Sorry, you can not load the %1 add-in for some reason.</source>
+        <translation>抱歉，因為某些原因，無法載入 %1 增益集。</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all the notes in this presentation?</source>
+        <translation>要刪除這份簡報內的所有附註？</translation>
+    </message>
+    <message>
+        <source>There is already an open addin named %1</source>
+        <translation>已有名稱為 %1 的開啟增益集</translation>
+    </message>
+    <message>
+        <source>Lack of files for this function, please contact the administrator for configuration file.</source>
+        <translation>缺少此功能必須的關聯檔案。請聯繫管理員設定檔案至相應目錄下。</translation>
     </message>
 </context>
 <context>
@@ -6335,17 +6529,17 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
         <comment>DgExts_MovieFiles</comment>
-        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
+        <translation type="obsolete">*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>*.au;*.snd</source>
         <comment>DgExts_AIFFAudioFile</comment>
-        <translation>*.au;*.snd</translation>
+        <translation type="obsolete">*.au;*.snd</translation>
     </message>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
         <comment>DgExts_SoundFiles</comment>
-        <translation>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax</translation>
+        <translation type="obsolete">*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -6360,12 +6554,12 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>*.mp3;*.m3u</source>
         <comment>DgExts_Mp3AudioFile</comment>
-        <translation>*.mp3;*.m3u</translation>
+        <translation type="obsolete">*.mp3;*.m3u</translation>
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
         <comment>DgExts_MovieFileMpeg</comment>
-        <translation>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
+        <translation type="obsolete">*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
     </message>
     <message>
         <source>*.swf</source>
@@ -6380,7 +6574,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>*.wma;*.waw</source>
         <comment>DgExts_WindowsMediaAudioFile</comment>
-        <translation>*.wma;*.wax</translation>
+        <translation type="obsolete">*.wma;*.wax</translation>
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
@@ -6445,7 +6639,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
         <comment>DgDesc_AIFFAudioFile</comment>
-        <translation>AU 音訊檔 (au) (*.au;*.snd)</translation>
+        <translation type="obsolete">AU 音訊檔 (au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -6952,7 +7146,7 @@ Spelling</source>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
         <comment>DgDesc_Mp3AudioFile</comment>
-        <translation>MP3 Audio file (mp3) (*.mp3;*.m3u)</translation>
+        <translation type="obsolete">MP3 Audio file (mp3) (*.mp3;*.m3u)</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -6972,12 +7166,12 @@ Spelling</source>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
         <comment>DgDesc_MovieFileMpeg</comment>
-        <translation>Movie file (mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
+        <translation type="obsolete">Movie file (mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
         <comment>DgDesc_MovieFiles</comment>
-        <translation>視訊檔案 (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
+        <translation type="obsolete">視訊檔案 (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -7209,7 +7403,7 @@ Layout</source>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
         <comment>DgDesc_SoundFiles</comment>
-        <translation>音訊檔案 (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax)</translation>
+        <translation type="obsolete">音訊檔案 (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -7304,7 +7498,7 @@ Layout</source>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
         <comment>DgDesc_WindowsMediaAudioFile</comment>
-        <translation>Windows Media Audio file (wma) (*.wma;*.wax)</translation>
+        <translation type="obsolete">Windows Media Audio file (wma) (*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
@@ -7389,7 +7583,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>所有檔案 (*.*)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
@@ -7404,32 +7598,32 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
+        <translation>中文 Office 文件格式 (*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>中文 Office 文件格式 2.0 (*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG 檔案交換格式 (*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
+        <translation>可攜式網路圖形格式 (*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIF 格式檔 (*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>與裝置無關點陣圖 (*.bmp)</translation>
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder
@@ -7496,7 +7690,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)|*.potx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)|*.potm|Microsoft PowerPoint 2007/2010 Show(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)|*.ppsm</source>
         <comment>WP_SAVEFILE</comment>
-        <translation type="obsolete">WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps|Microsoft PowerPoint 2007/2010 簡報(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 啟用巨集的簡報 (*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 範本 (*.potx)|*.potx|Microsoft PowerPoint 2007/2010 啟用巨集的範本 (*.potm)|*.potm|Microsoft PowerPoint 2007/2010 播放檔 (*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 啟用巨集的播放檔 (*.ppsm)|*.ppsm</translation>
+        <translation>WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 播放檔 (*.pps)|*.pps|Microsoft PowerPoint 2007/2010 簡報(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 啟用巨集的簡報 (*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 範本 (*.potx)|*.potx|Microsoft PowerPoint 2007/2010 啟用巨集的範本 (*.potm)|*.potm|Microsoft PowerPoint 2007/2010 播放檔 (*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 啟用巨集的播放檔 (*.ppsm)|*.ppsm</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
@@ -7551,47 +7745,47 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Update Link</source>
         <comment>WpUPDATELINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>更新連結</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_WPP_CF_HYPERLINK</comment>
-        <translation type="unfinished">超連結</translation>
+        <translation>超連結</translation>
     </message>
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>WP_NoSynonymsSuggestions_Caption</comment>
-        <translation type="obsolete">(無同義字建議)</translation>
+        <translation>(無同義字建議)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
         <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
+        <translation>常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</source>
         <comment>WpDescCommonEX</comment>
-        <translation type="unfinished"></translation>
+        <translation>常用檔案 (*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescDps</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 簡報 (*.dps)</translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescDpt</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 範本 (*.dpt)</translation>
     </message>
     <message>
         <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
         <comment>WpDescDpsx</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 2007/2010 簡報 (*.dpsx)</translation>
     </message>
     <message>
         <source>WPS Presentation 2007/2010 Templates(*.dptx)</source>
         <comment>WpDescDptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 2007/2010 範本 (*.dptx)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
@@ -7646,7 +7840,367 @@ This backup will be saved to(%s)</source>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>WpDescOFD</comment>
-        <translation type="unfinished"></translation>
+        <translation>OFD 格式 (*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)|*.uof</source>
+        <comment>WP_SAVEFILE_UOF</comment>
+        <translation type="obsolete">中文 Office 文件格式(*.uof)|*.uof</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>WpMOVE</comment>
+        <translation>移動</translation>
+    </message>
+    <message>
+        <source>Expand Section</source>
+        <comment>WpExpandSection</comment>
+        <translation>展開章節</translation>
+    </message>
+    <message>
+        <source>Collapse Section</source>
+        <comment>WpCollapseSection</comment>
+        <translation>摺疊章節</translation>
+    </message>
+    <message>
+        <source>AddSection</source>
+        <comment>WpAddSection</comment>
+        <translation>新增章節</translation>
+    </message>
+    <message>
+        <source>RenameSection</source>
+        <comment>WpRenameSection</comment>
+        <translation>重新命名章節​​</translation>
+    </message>
+    <message>
+        <source>DeleteSection</source>
+        <comment>WpDeleteSection</comment>
+        <translation>刪除章節​​</translation>
+    </message>
+    <message>
+        <source>DeleteAllSections</source>
+        <comment>WpDeleteAllSections</comment>
+        <translation>刪除所有章節</translation>
+    </message>
+    <message>
+        <source>MoveSection</source>
+        <comment>WpMoveSection</comment>
+        <translation>移動章節</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WpSectionName</comment>
+        <translation>未命名的章節</translation>
+    </message>
+    <message>
+        <source>You have selected slides in a collapsed section. These slides wiil be deleted. Do you want to continue?</source>
+        <comment>WpDeleteSectionMsg</comment>
+        <translation>您已在摺疊章節中選取投影片。將刪除這些投影片。是否要繼續?</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Security Presentations(*.spptx)|*.spptx</source>
+        <comment>WP_SAVEFILE_SECURITY_SUPPORT</comment>
+        <translation>Microsoft PowerPoint 安全簡報(*.spptx)|*.spptx</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
+        <comment>WP_SAVEFILE_OSD</comment>
+        <translation>WPS 線上安全文件格式(*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>Change Movie</source>
+        <comment>DgDesc_ChangeMovie</comment>
+        <translation>變更視訊</translation>
+    </message>
+    <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob)</source>
+        <comment>DgDesc_MovieFiles</comment>
+        <translation>電影檔 (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob)</translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob</source>
+        <comment>DgExts_MovieFiles</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>QuickTime Movie File (*.mov)</source>
+        <comment>DgDesc_QuickTimeMovieFile</comment>
+        <translation>QuickTime 影片檔案 (*.mov)</translation>
+    </message>
+    <message>
+        <source>*.mov</source>
+        <comment>DgExts_QuickTimeMoviefile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MP4 Video(*.mp4;*.m4v;*.mp4v)</source>
+        <comment>DgDesc_MP4VideoFile</comment>
+        <translation>MP4 視訊 (*.mp4;*.m4v;*.mp4v)</translation>
+    </message>
+    <message>
+        <source>*.mp4;*.m4v;*.mp4v</source>
+        <comment>DgExts_MP4Videofile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Movie File(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa)</source>
+        <comment>DgDesc_MovieFileMpeg</comment>
+        <translation>影片檔案 (mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa)</translation>
+    </message>
+    <message>
+        <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa</source>
+        <comment>DgExts_MovieFileMpeg</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MPEG-2 TS Video File (*.m2ts;*.m2t;*.ts;*.tts)</source>
+        <comment>DgDesc_MPEG2TSVideoFile</comment>
+        <translation>MPEG-2 TS 視訊檔案 (*.m2ts;*.m2t;*.ts;*.tts)</translation>
+    </message>
+    <message>
+        <source>*.m2ts;*.m2t;*.ts;*.tts</source>
+        <comment>DgExts_MPEG2TSVideoFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Adobe Falsh Media (*.flv;*.f4v)</source>
+        <comment>DgDesc_AdobeFalshMediaFile</comment>
+        <translation>Adobe Flash Media (*.flv;*.f4v)</translation>
+    </message>
+    <message>
+        <source>*.flv;*.f4v</source>
+        <comment>DgExts_AdobeFalshMediafile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>DVD Video File(*.vob)</source>
+        <comment>DgDesc_DVDVideoFile</comment>
+        <translation>DVD 視訊檔案 (*.vob)</translation>
+    </message>
+    <message>
+        <source>*.vob</source>
+        <comment>DgExts_DVDVideofile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles</comment>
+        <translation>音效檔 (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ADTS Audio File (*.adts;*.adt;*aac)</source>
+        <comment>DgDesc_ADTSAudioFile</comment>
+        <translation>ADTS 音訊檔 (*.adts;*.adt;*aac)</translation>
+    </message>
+    <message>
+        <source>*.adts;*.adt;*aac</source>
+        <comment>DgExts_ADTSAudioFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
+        <comment>DgDesc_AIFFAudioFile</comment>
+        <translation>AIFF 音訊檔 (aiff) (*.aif;*.aifc;*.aiff)</translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff</source>
+        <comment>DgExts_AIFFAudioFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AU Audio File(au) (*.au;*.snd)</source>
+        <comment>DgDesc_AUAudioFile</comment>
+        <translation>AU 音訊檔 (au) (*.au;*.snd)</translation>
+    </message>
+    <message>
+        <source>*.au;*.snd</source>
+        <comment>DgExts_AUAudioFile</comment>
+        <translation>*.au;*.snd</translation>
+    </message>
+    <message>
+        <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
+        <comment>DgDesc_Mp3AudioFile</comment>
+        <translation>MP3 音訊檔 (mp3) (*.mp3;*.mp2;*.m3u)</translation>
+    </message>
+    <message>
+        <source>*.mp3;*.mp2;*.m3u</source>
+        <comment>DgExts_Mp3AudioFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MP4 Audio (*.m4a)</source>
+        <comment>DgDesc_Mp4AudioFile</comment>
+        <translation>MP4 音訊 (*.m4a)</translation>
+    </message>
+    <message>
+        <source>*.m4a</source>
+        <comment>DgExts_Mp4AudioFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
+        <comment>DgDesc_WindowsMediaAudioFile</comment>
+        <translation>Windows Media 音訊檔 (wma) (*.wma;*.wax)</translation>
+    </message>
+    <message>
+        <source>*.wma;*.wax</source>
+        <comment>DgExts_WindowsMediaAudioFile</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Play Audio</source>
+        <translation>播放音訊</translation>
+    </message>
+    <message>
+        <source>Pause Audio</source>
+        <translation>暫停音訊</translation>
+    </message>
+    <message>
+        <source>Single Web Page Files(*.mht; *.mhtml)</source>
+        <comment>WPDescMHT</comment>
+        <translation>單一檔案網頁 (*.mht, *.mhtml)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation>Microsoft PowerPoint 簡報 (*.pptx; *.ppsx; *.pptm; *.ppsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation>Microsoft PowerPoint 簡報 (*.pptx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation>Microsoft PowerPoint 啟用巨集的簡報 (*.pptm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation>Microsoft PowerPoint 播放檔 (*.ppsx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation>Microsoft PowerPoint 啟用巨集的播放檔 (*.ppsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation>Microsoft PowerPoint 範本 (*.potx; *.potm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation>Microsoft PowerPoint 範本 (*.potx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation>Microsoft PowerPoint 啟用巨集的範本 (*.potm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation(*.pptx)|*.pptx</source>
+        <translation>Microsoft PowerPoint 簡報(*.pptx)|*.pptx</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)|*.pptm</source>
+        <translation>Microsoft PowerPoint 啟用巨集的簡報 (*.pptm)|*.pptm</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation>Microsoft PowerPoint 97-2003 簡報 (*.ppt; *.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation>Microsoft PowerPoint 97-2003 簡報 (*.ppt)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation>Microsoft PowerPoint 97-2003 播放檔 (*.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation>Microsoft PowerPoint 97-2003 範本 (*.pot)</translation>
+    </message>
+    <message>
+        <source>\WPS Capture\WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation>\WPS 演講實錄\WPS 演講實錄</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm;</source>
+        <comment>WP_OPENFILE</comment>
+        <translation>所有檔案 (*.*)|*.*|常用檔案 (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation 簡報 (*.dps)|*.dps|WPS Presentation 範本 (*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 簡報 (*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 範本 (*.pot)|*.pot|Microsoft PowerPoint 2007/2010 簡報 (*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 範本(*.potx; *.potm)|*.potx; *.potm</translation>
+    </message>
+    <message>
+        <source>Picture Format(*.jpg,*.png,*.tif,*.bmp)|*.pic</source>
+        <comment>WP_SAVEFILE_ALLIMAGES</comment>
+        <translation>圖片格式(*.jpg,*.png,*.tif,*.bmp)|*.pic</translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>WpDescPDF</comment>
+        <translation>PDF 格式(*.pdf)|*.pdf</translation>
+    </message>
+    <message>
+        <source>OpenDocument Presentation(*.odp)|*.odp</source>
+        <comment>WpDescODP</comment>
+        <translation>OpenDocument 簡報(*.odp)|*.odp</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Addins(*.ppam; *.ppa)</source>
+        <comment>WPDescMPA</comment>
+        <translation>Microsoft PowerPoint 增益集(*.ppam; *.ppa)</translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Presentation Files(*.dpsj)|*.dpsj</source>
+        <comment>WpDescGPCrypt</comment>
+        <translation>公普安全簡報 檔案(*.dpsj)|*.dpsj</translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles_Linux</comment>
+        <translation>音效檔 (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles_Linux</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change the source link file</source>
+        <comment>DgUil_KSO_Cmd_ChangeLinkSource</comment>
+        <translation>變更來源連結檔案</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Presentations and screenings(*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm)|*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm</source>
+        <comment>DgUil_KSO_Cmd_ChangeLinkSourceFile</comment>
+        <translation>所有檔案(*.*)|*.*|簡報及放映(*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm)|*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>WpDescAllWPSOffice</comment>
+        <translation>常用檔案(Writer/Word格式;Spreadsheets/Excel格式;Presentation/PowerPoint格式;PDF檔)</translation>
+    </message>
+    <message>
+        <source>Custom paper</source>
+        <translation>自訂</translation>
+    </message>
+    <message>
+        <source>Before you check in the, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>WpCheckInSharepoint</comment>
+        <translation>在您簽入之前，其他使用者看不到您的變更。要現在簽入嗎？</translation>
     </message>
 </context>
 </TS>

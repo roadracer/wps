@@ -373,7 +373,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
         <source>Apply single line spacing to the selected paragraphs and snap to the grid.</source>
         <oldsource>Apply single line spacing to the selected paragraph and snap to the grid.</oldsource>
         <extracomment>CleanLineSpacing.content</extracomment>
-        <translation>對所選段落套用單行间距，且與格線對齊。</translation>
+        <translation>對所選段落套用單行間距，且與格線對齊。</translation>
     </message>
     <message id="CloseHeaderAndFooter.title">
         <source>Close</source>
@@ -559,62 +559,62 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation>DetailedSettings DrawingTools Title</translation>
+        <translation>詳細設定</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
         <extracomment>DetailedSettings_DrawingTools.content</extracomment>
-        <translation>DetailedSettings DrawingTools Content</translation>
+        <translation>變更圖案格式設定。</translation>
     </message>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation>DetailedSettings Home Title</translation>
+        <translation>詳細設定</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font, paragraph, and styles and formatting.</source>
         <extracomment>DetailedSettings_Home.content</extracomment>
-        <translation>DetailedSettings Home Content</translation>
+        <translation>變更字型、段落、樣式及格式的設定。</translation>
     </message>
     <message id="DetailedSettings_PageLayout.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PageLayout.title</extracomment>
-        <translation>DetailedSettings PageLayout Title</translation>
+        <translation>詳細設定</translation>
     </message>
     <message id="DetailedSettings_PageLayout.content">
         <source>Change the settings of page setup and paragraph.</source>
         <extracomment>DetailedSettings_PageLayout.content</extracomment>
-        <translation>DetailedSettings PageLayout Content</translation>
+        <translation>變更頁面及段落的設定。</translation>
     </message>
     <message id="DetailedSettings_Paragraph.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Paragraph.title</extracomment>
-        <translation>DetailedSettings Paragraph Title</translation>
+        <translation>詳細設定</translation>
     </message>
     <message id="DetailedSettings_Paragraph.content">
         <source>Change the settings of paragraph, page setup, and styles and formatting.</source>
         <extracomment>DetailedSettings_Paragraph.content</extracomment>
-        <translation>DetailedSettings Paragraph Content</translation>
+        <translation>變更段落、頁面、樣式及格式的設定。</translation>
     </message>
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation>DetailedSettings PictureTools Title</translation>
+        <translation type="obsolete">DetailedSettings PictureTools Title</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
         <extracomment>DetailedSettings_PictureTools.content</extracomment>
-        <translation>DetailedSettings PictureTools Content</translation>
+        <translation type="obsolete">DetailedSettings PictureTools Content</translation>
     </message>
     <message id="DetailedSettings_Section.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Section.title</extracomment>
-        <translation>DetailedSettings Section Title</translation>
+        <translation>詳細設定</translation>
     </message>
     <message id="DetailedSettings_Section.content">
         <source>Change the settings of page setup, and header and footer.</source>
         <extracomment>DetailedSettings_Section.content</extracomment>
-        <translation>DetailedSettings Section Content</translation>
+        <translation>變更頁面與頁首及頁尾的設定。</translation>
     </message>
     <message id="DetailedSettings_TableTools.title">
         <source>Table Tools Detailed Settings</source>
@@ -630,12 +630,12 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_WordArt.title</extracomment>
-        <translation>DetailedSettings WordArt Title</translation>
+        <translation>詳細設定</translation>
     </message>
     <message id="DetailedSettings_WordArt.content">
         <source>Change the settings of WordArt formatting.</source>
         <extracomment>DetailedSettings_WordArt.content</extracomment>
-        <translation>DetailedSettings WordArt Content</translation>
+        <translation>變更文字藝術師格式設定。</translation>
     </message>
     <message id="DevelopmentTools.title">
         <source>Developer Tools</source>
@@ -700,12 +700,12 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DoublePages.title">
         <source>Two Pages</source>
         <extracomment>DoublePages.title</extracomment>
-        <translation>兩頁</translation>
+        <translation type="obsolete">兩頁</translation>
     </message>
     <message id="DoublePages.content">
         <source>Zoom the document so that two pages fit in the window.</source>
         <extracomment>DoublePages.content</extracomment>
-        <translation>縮放文件，使視窗顯示兩張頁面。</translation>
+        <translation type="obsolete">縮放文件，使視窗顯示兩張頁面。</translation>
     </message>
     <message id="DrawTable.title">
         <source>Draw Table</source>
@@ -2537,22 +2537,22 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ReviewPaneTip.title">
         <source></source>
         <extracomment>ReviewPaneTip.title</extracomment>
-        <translation></translation>
+        <translation>檢閱窗格</translation>
     </message>
     <message id="ReviewPaneTip.content">
         <source></source>
         <extracomment>ReviewPaneTip.content</extracomment>
-        <translation></translation>
+        <translation>在窗格中以清單的形式顯示您的文件中所有的修訂。</translation>
     </message>
     <message id="ReviewPaneTip2.title">
         <source></source>
         <extracomment>ReviewPaneTip2.title</extracomment>
-        <translation></translation>
+        <translation>檢閱窗格</translation>
     </message>
     <message id="ReviewPaneTip2.content">
         <source></source>
         <extracomment>ReviewPaneTip2.content</extracomment>
-        <translation></translation>
+        <translation>按一下箭號以選擇窗格的位置：檔案右側（垂直檢閱窗格）、檔案下方（水平檢閱窗格）。</translation>
     </message>
     <message id="Ruler.title">
         <source>Ruler</source>
@@ -2639,22 +2639,22 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowDocumentMap.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap.title</extracomment>
-        <translation>文件引導模式</translation>
+        <translation type="obsolete">文件引導模式</translation>
     </message>
     <message id="ShowDocumentMap.content">
         <source>Show or hide the Document Map pane.</source>
         <extracomment>ShowDocumentMap.content</extracomment>
-        <translation>顯示或隱藏 [文件引導模式] 窗格。</translation>
+        <translation type="obsolete">顯示或隱藏 [文件引導模式] 窗格。</translation>
     </message>
     <message id="ShowDocumentMap2.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap2.title</extracomment>
-        <translation>文件引導模式</translation>
+        <translation type="obsolete">文件引導模式</translation>
     </message>
     <message id="ShowDocumentMap2.content">
         <source>Click here to choose which position to display the Document Map pane.</source>
         <extracomment>ShowDocumentMap2.content</extracomment>
-        <translation>按一下此處可選擇 [文件引導模式] 窗格的顯示位置。</translation>
+        <translation type="obsolete">按一下此處可選擇 [文件引導模式] 窗格的顯示位置。</translation>
     </message>
     <message id="ShowFirstLineOnly.title">
         <source>Show First Line Only</source>
@@ -2709,12 +2709,12 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowHideEditMark.title">
         <source>Show/Hide Editing Marks</source>
         <extracomment>ShowHideEditMark.title</extracomment>
-        <translation type="unfinished">顯示/隱藏編輯標記</translation>
+        <translation>顯示/隱藏編輯標記</translation>
     </message>
     <message id="ShowHideEditMark.content">
         <source>Show or hide format marks and paragraph layout buttons in the document.</source>
         <extracomment>ShowHideEditMark.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>顯示或隱藏文件中的格式標記及段落配置按鈕。</translation>
     </message>
     <message id="ShowHideFormattingMarks.title">
         <source>Show/Hide Editing Marks</source>
@@ -2783,23 +2783,23 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitSection.title">
         <source>Split Section</source>
         <extracomment>SplitSection.title</extracomment>
-        <translation>分節符號</translation>
+        <translation type="obsolete">分節符號</translation>
     </message>
     <message id="SplitSection.content">
         <source>Insert a section break into the document.</source>
         <oldsource>Insert the next section break into the document.</oldsource>
         <extracomment>SplitSection.content</extracomment>
-        <translation>新增分節符號至文件。</translation>
+        <translation type="obsolete">新增分節符號至文件。</translation>
     </message>
     <message id="SplitSection2.title">
         <source>Split Section</source>
         <extracomment>SplitSection2.title</extracomment>
-        <translation>分節符號</translation>
+        <translation type="obsolete">分節符號</translation>
     </message>
     <message id="SplitSection2.content">
         <source>Click here to choose section break types.</source>
         <extracomment>SplitSection2.content</extracomment>
-        <translation>按一下此處可選擇插入的分節符號類型。</translation>
+        <translation type="obsolete">按一下此處可選擇插入的分節符號類型。</translation>
     </message>
     <message id="SplitTable.title">
         <source>Split Table</source>
@@ -3082,7 +3082,7 @@ Click the arrow to select different shading colors.</source>
         <translation>朗讀文字</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
         <translation>將文字轉變為人聲朗讀并播放出來。您可以免費使用此功能2天。</translation>
     </message>
@@ -3662,6 +3662,647 @@ When grouped, a text range cannot be edited, except in regions containing editab
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
         <translation type="obsolete">顯示 [格式化物件] 對話方塊。</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translation>轉換圖片為文字</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translation>將圖片中的文字轉為文字格式</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>同義字</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>建議與您選取的單字意義相近的其他單字。</translation>
+    </message>
+    <message id="InsertEnvelopes.title">
+        <source>Create Envelopes</source>
+        <extracomment>InsertEnvelopes.title</extracomment>
+        <translation>建立信封</translation>
+    </message>
+    <message id="InsertEnvelopes.content">
+        <source>Create and print envelopes.</source>
+        <extracomment>InsertEnvelopes.content</extracomment>
+        <translation>建立並列印信封。</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.content">
+        <source>Change the settings of shape and shape&apos;s font formatting.</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.content</extracomment>
+        <translation>變更物件及物件文字的設定。</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_wps_PictureTools.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.content">
+        <source>Change the settings of object size and picture formatting.</source>
+        <extracomment>DetailedSettings_wps_PictureTools.content</extracomment>
+        <translation>變更物件大小及圖片格式的設定。</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.content</extracomment>
+        <translation>變更圖片格式設定。</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_HFTools.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.content">
+        <source>Change the settings of page setup.</source>
+        <extracomment>DetailedSettings_HFTools.content</extracomment>
+        <translation>變更頁面設定。</translation>
+    </message>
+    <message id="DetailedSettings_References.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_References.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_References.content">
+        <source>Change the settings of Footnotes and Endnotes.</source>
+        <extracomment>DetailedSettings_References.content</extracomment>
+        <translation>變更註腳及章節附註的設定。</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translation>變更表格格式設定。</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_vml.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_vml.content</extracomment>
+        <translation>變更圖片格式設定</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translation>建立並傳送連結</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translation>建立連結及 QR 碼，以分享至 WeChat、QQ、微博或 QQ 空間。</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translation>管理已分享的連結</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translation>按一下此處可管理、刪除，及傳送連結。</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>文件修復</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>快速修復包含亂碼、或由於其他原因無法開啟的文件。</translation>
+    </message>
+    <message id="MultiplePages.title">
+        <source>Multiple Pages</source>
+        <extracomment>MultiplePages.title</extracomment>
+        <translation>多頁</translation>
+    </message>
+    <message id="MultiplePages.content">
+        <source>Zoom the document so you can see multiple pages in the window.</source>
+        <extracomment>MultiplePages.content</extracomment>
+        <translation>縮放文件，讓您可以在視窗中看到多頁。</translation>
+    </message>
+    <message id="InsertPTab.title">
+        <source>Insert Alignment Tab</source>
+        <extracomment>InsertPTab.title</extracomment>
+        <translation>插入對齊索引標籤</translation>
+    </message>
+    <message id="InsertPTab.content">
+        <source>Insert a tab stop to help align content within the header or footer.</source>
+        <extracomment>InsertPTab.content</extracomment>
+        <translation>插入定位停駐點，協助您對齊頁首或頁尾的內容。</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>調整圖片大小時鎖定長寬比。</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>重設對選取圖片的大小所做的所有變更。</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>鎖定長寬比</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>重新設定大小</translation>
+    </message>
+    <message id="PictureStyleTip.title">
+        <source>Picture Style</source>
+        <extracomment>PictureStyleTip.title</extracomment>
+        <translation>圖片樣式</translation>
+    </message>
+    <message id="PictureStyleTip.content">
+        <source>Decide how one more more pictures are shown in the document.</source>
+        <extracomment>&quot;PictureStyleTip.content&quot;</extracomment>
+        <translation>可以設定文件中一張或多張圖片的樣式。</translation>
+    </message>
+    <message id="InsertGeogebra.title">
+        <source>Insert Geometry</source>
+        <extracomment>InsertGeogebra.title</extracomment>
+        <translation>插入幾何圖</translation>
+    </message>
+    <message id="InsertGeogebra.content">
+        <source>A drawing tool with algebra, calculus, statistics, 3D math functions.</source>
+        <oldsource>IA drawing tool with algebra, calculus, statistics, 3D math functions.</oldsource>
+        <extracomment>InsertGeogebra.content</extracomment>
+        <translation>一款包含代數、微積分、統計學、3D數學功能的繪圖工具。</translation>
+    </message>
+    <message id="IndexMarkEntry.title">
+        <source>Mark Entry</source>
+        <extracomment>IndexMarkEntry.title</extracomment>
+        <translation>項目標記</translation>
+    </message>
+    <message id="IndexMarkEntry.content">
+        <source>Add the selected text to the index.</source>
+        <extracomment>IndexMarkEntry.content</extracomment>
+        <translation>新增選取的文字至索引。</translation>
+    </message>
+    <message id="InsertIndex.title">
+        <source>Insert Index</source>
+        <extracomment>InsertIndex.title</extracomment>
+        <translation>插入索引</translation>
+    </message>
+    <message id="InsertIndex.content">
+        <source>Add an index listing key words and the page numbers they appear on.</source>
+        <extracomment>InsertIndex.content</extracomment>
+        <translation>新增索引並列出關鍵字及其所在的頁碼。</translation>
+    </message>
+    <message id="UpdateIndex.title">
+        <source>Update Index</source>
+        <extracomment>UpdateIndex.title</extracomment>
+        <translation>更新索引</translation>
+    </message>
+    <message id="UpdateIndex.content">
+        <source>Update the index so that all the entries refer to the correct page number.</source>
+        <extracomment>UpdateIndex.content</extracomment>
+        <translation>更新索引，讓所有項目參照至正確的頁碼。</translation>
+    </message>
+    <message id="FormatAlignThaiDistributed.title">
+        <source>Thai Distributed</source>
+        <extracomment>FormatAlignThaiDistributed.title</extracomment>
+        <translation>泰文式分散對齊</translation>
+    </message>
+    <message id="FormatAlignThaiDistributed.content">
+        <source>Align paragraph to both the left and right margins by adding extra space between each two characters for languages with tone mark and vowel mark.
+
+This creates a document with clean look.</source>
+        <extracomment>FormatAlignThaiDistributed.content</extracomment>
+        <translation>針對具有音調符號及母音符號的語言，在每兩個字元間加入額外的空間，使段落兩側同時對齊左右邊界。
+
+如此可建立一份具有整齊外觀的文件。</translation>
+    </message>
+    <message id="ChangeDiagramNum.title">
+        <source>Change Num</source>
+        <extracomment>ChangeDiagramNum.title</extracomment>
+        <translation>變更數量</translation>
+    </message>
+    <message id="ChangeDiagramNum.content">
+        <source>Change the number of items</source>
+        <extracomment>ChangeDiagramNum.content</extracomment>
+        <translation>變更項目數量</translation>
+    </message>
+    <message id="ChangeDiagramColor.title">
+        <source>Change Color</source>
+        <extracomment>ChangeDiagramColor.title</extracomment>
+        <translation>變更色彩</translation>
+    </message>
+    <message id="ChangeDiagramColor.content">
+        <source>Choose a variety of color schemes</source>
+        <extracomment>ChangeDiagramColor.content</extracomment>
+        <translation>選擇多種色彩配置</translation>
+    </message>
+    <message id="TableofFigures.title">
+        <source>Insert Table of Figures</source>
+        <extracomment>TableofFigures.title</extracomment>
+        <translation>插入圖表目錄</translation>
+    </message>
+    <message id="TableofFigures.content">
+        <source>Add a list of captioned objects and their page numbers for quick reference.</source>
+        <extracomment>TableofFigures.content</extracomment>
+        <translation>新增標號物件清單及其頁碼，以供快速參考。</translation>
+    </message>
+    <message id="InsertSmartArt.title">
+        <source>Insert a SmartArt Graphic</source>
+        <extracomment>InsertSmartArt.title</extracomment>
+        <translation>插入 SmartArt 圖形</translation>
+    </message>
+    <message id="InsertSmartArt.content">
+        <source>Insert a SmartArt graphic to visually communicate information.
+
+SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
+        <extracomment>InsertSmartArt.content</extracomment>
+        <translation>插入 SmartArt 圖形，以視覺方式溝通資訊。
+
+SmartArt 圖形的範圍包括圖形清單及流程圖，甚至於更複雜的圖形，例如文氏圖表及組織圖。</translation>
+    </message>
+    <message id="Sort.title">
+        <source>Sort</source>
+        <extracomment>Sort.title</extracomment>
+        <translation>排序</translation>
+    </message>
+    <message id="Sort.content">
+        <source>Arrange the current selection in alphabetical or numerical order.
+
+This is expecially useful if you&apos;re trying to organize data in a table.</source>
+        <extracomment>Sort.content</extracomment>
+        <translation>依字母順序或數字順序排列目前選取範圍。
+
+如果您正嘗試以表格組織資料，此功能特別有幫助。</translation>
+    </message>
+    <message id="FooterDistance.title">
+        <source>Footer distance from bottom</source>
+        <extracomment>FooterDistance.title</extracomment>
+        <translation>頁尾到頁面底端的位置</translation>
+    </message>
+    <message id="FooterDistance.content">
+        <source>Modify footer distance from bottom.</source>
+        <extracomment>FooterDistance.content</extracomment>
+        <translation>指定頁尾區域的高度。</translation>
+    </message>
+    <message id="HeaderDistance.title">
+        <source>Header distance from bottom</source>
+        <extracomment>HeaderDistance.title</extracomment>
+        <translation>頁首到頁面頂端的位置</translation>
+    </message>
+    <message id="HeaderDistance.content">
+        <source>Modify Header distance from bottom.</source>
+        <extracomment>HeaderDistance.content</extracomment>
+        <translation>指定頁首區域的高度。</translation>
+    </message>
+    <message id="InsertDocumentField.title">
+        <source>Insert Document Field</source>
+        <extracomment>InsertDocumentField.title</extracomment>
+        <translation>插入公文欄位</translation>
+    </message>
+    <message id="InsertDocumentField.content">
+        <source>Insert a Document field into the document.</source>
+        <extracomment>InsertDocumentField.content</extracomment>
+        <translation>在文件中插入公文欄位。</translation>
+    </message>
+    <message id="QuickParts.title">
+        <source>QuickParts</source>
+        <translation>快速組件</translation>
+    </message>
+    <message id="QuickParts.content">
+        <source>Inserts the default formatting text autotext and fields in the document.</source>
+        <extracomment>QuickParts.content</extracomment>
+        <translation>在文件中插入預設格式的文字、自動圖文集和欄位。</translation>
+    </message>
+    <message id="CellFitText.title">
+        <source>Cell fit text</source>
+        <extracomment>CellFitText.title</extracomment>
+        <translation type="obsolete">最適文字大小</translation>
+    </message>
+    <message id="CellFitText.content">
+        <source>Automatically adjust the character scaling and spacing in the paragraph according to the cell width.</source>
+        <extracomment>CellFitText.content</extracomment>
+        <translation type="obsolete">根據儲存格的寬度，自動調整段落中的字元比例及間距。</translation>
+    </message>
+    <message id="Pdf2PhotoCmd.title">
+        <source>PDF Export Photo</source>
+        <extracomment>Pdf2PhotoCmd.title</extracomment>
+        <translation>將 PDF 匯出為圖片格式。</translation>
+    </message>
+    <message id="Pdf2PhotoCmd.content">
+        <source>PDF Export Photo</source>
+        <extracomment>Pdf2PhotoCmd.content</extracomment>
+        <translation>轉換 PDF 為圖片</translation>
+    </message>
+    <message id="Proofread.title">
+        <source>Proofread</source>
+        <extracomment>Proofread.title</extracomment>
+        <translation>拼字檢查</translation>
+    </message>
+    <message id="Proofread.content">
+        <source>Professional document proofread tool</source>
+        <extracomment>Proofread.content</extracomment>
+        <translation>專業校對文件內容，精準解決錯字漏字問題。</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCn.title">
+        <source>Insert table of contents</source>
+        <extracomment>InsertIndexTables4ZhCn.title</extracomment>
+        <translation>插入目錄</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCn.content">
+        <source>Manual table of contents is for you to fill out.
+
+Automatic table of contents includes text formatted with Heading styles.</source>
+        <extracomment>InsertIndexTables4ZhCn.content</extracomment>
+        <translation>插入手動目錄，不需要預先設定目錄階層。
+
+若設定了目錄階層，可選擇插入自動目錄。</translation>
+    </message>
+    <message id="PrinterName.title">
+        <source>The name of printer</source>
+        <extracomment>PrinterName.title</extracomment>
+        <translation>印表機</translation>
+    </message>
+    <message id="PrinterName.content">
+        <source>choose a printer to print.</source>
+        <extracomment>PrinterName.content</extracomment>
+        <translation>選擇列印使用的印表機。</translation>
+    </message>
+    <message id="PrintCopies.title">
+        <source>The copies of printer</source>
+        <extracomment>PrintCopies.title</extracomment>
+        <translation>份數</translation>
+    </message>
+    <message id="PrintCopies.content">
+        <source>assign copies to print.</source>
+        <extracomment>PrintCopies.content</extracomment>
+        <translation>指定列印的份數。</translation>
+    </message>
+    <message id="PrintOrder.title">
+        <source>The Collate of printer</source>
+        <extracomment>PrintOrder.title</extracomment>
+        <translation>列印順序</translation>
+    </message>
+    <message id="PrintOrder.content">
+        <source>Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed, or not.</source>
+        <extracomment>PrintOrder.content</extracomment>
+        <translation>指定列印的順序，為自動分頁(123123)，或不自動分頁(112233)。</translation>
+    </message>
+    <message id="DuplexPrint.title">
+        <source>The Duplex of printer</source>
+        <extracomment>DuplexPrint.title</extracomment>
+        <translation>雙面列印</translation>
+    </message>
+    <message id="DuplexPrint.content">
+        <source>Determines whether duplex print or nonDuplex print.</source>
+        <extracomment>DuplexPrint.content</extracomment>
+        <translation>指定列印方式，是否雙面列印。</translation>
+    </message>
+    <message id="MorePrintSettings.title">
+        <source>More setting of printer</source>
+        <extracomment>MorePrintSettings.title</extracomment>
+        <translation>更多列印設定</translation>
+    </message>
+    <message id="MorePrintSettings.content">
+        <source>could config more detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</source>
+        <extracomment>MorePrintSettings.content</extracomment>
+        <translation>詳細的列印設定，如選擇印表機、列印份數、雙面列印、縮放，等等。</translation>
+    </message>
+    <message id="ReadingView.title">
+        <source>Reading View</source>
+        <extracomment>ReadingView.title</extracomment>
+        <translation>閱讀檢視</translation>
+    </message>
+    <message id="ReadingView.content">
+        <source>Automatically layout content, easily flip through documents.</source>
+        <extracomment>ReadingView.content</extracomment>
+        <translation>自動配置版面內容，輕鬆翻閱文件。</translation>
+    </message>
+    <message id="ShowComments.title">
+        <source>Show Comments</source>
+        <extracomment>ShowComments.title</extracomment>
+        <translation>顯示註解</translation>
+    </message>
+    <message id="ShowComments.content">
+        <source>Display or hide Comments in a document.</source>
+        <extracomment>ShowComments.content</extracomment>
+        <translation>顯示或隱藏文件中的註解。</translation>
+    </message>
+    <message id="ReadingFind.title">
+        <source>Reading Find</source>
+        <extracomment>ReadingFind.title</extracomment>
+        <translation>尋找</translation>
+    </message>
+    <message id="ReadingFind.content">
+        <source>Search for text or other content in a document.</source>
+        <extracomment>ReadingFind.content</extracomment>
+        <translation>尋找文件中的文字或其他內容。</translation>
+    </message>
+    <message id="ReadingDivision.title">
+        <source>Reading Division</source>
+        <extracomment>ReadingDivision.title</extracomment>
+        <translation>分欄設定</translation>
+    </message>
+    <message id="ReadingDivision.content">
+        <source>Set the number of automatic typesetting columns in reading mode.</source>
+        <extracomment>ReadingDivision.content</extracomment>
+        <translation>設定閱讀檢視下自動版面配置的分欄數量。</translation>
+    </message>
+    <message id="OnlineCooperation.title">
+        <source>Online Cooperation</source>
+        <extracomment>OnlineCooperation.title</extracomment>
+        <translation>線上協作</translation>
+    </message>
+    <message id="OnlineCooperation.content">
+        <source>Open the document with Web Office for multiple user collaborative editing.</source>
+        <oldsource>Open the document with WebOffice for multiple user collaborative editing.</oldsource>
+        <extracomment>OnlineCooperation.content</extracomment>
+        <translation>用Web Office開啟文件，以實現多人協作編輯</translation>
+    </message>
+    <message id="DocTranslate.title">
+        <source>Full text translation</source>
+        <extracomment>DocTranslate.title</extracomment>
+        <translation>全文翻譯</translation>
+    </message>
+    <message id="DocTranslate.content">
+        <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
+        <extracomment>DocTranslate.content</extracomment>
+        <translation>精準、快速地將文件翻譯成不同語言，同時保留文件原來的版面配置。</translation>
+    </message>
+    <message id="AddSection.title">
+        <source>Add Section</source>
+        <extracomment>AddSection.title</extracomment>
+        <translation>新增章節</translation>
+    </message>
+    <message id="AddSection.content">
+        <source>Insert a section break into the document.</source>
+        <extracomment>AddSection.content</extracomment>
+        <translation>新增分節符號至文件。</translation>
+    </message>
+    <message id="AddSection2.title">
+        <source>Split Section</source>
+        <extracomment>AddSection2.title</extracomment>
+        <translation>分節符號</translation>
+    </message>
+    <message id="AddSection2.content">
+        <source>Click here to choose section break types.</source>
+        <extracomment>AddSection2.content</extracomment>
+        <translation>按一下此處可選擇插入的分節符號類型。</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCnPage.title">
+        <source>Insert table of contents Page</source>
+        <extracomment>InsertIndexTables4ZhCnPage.title</extracomment>
+        <translation>插入目錄頁</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCnPage.content">
+        <source>Manual table of contents is for you to fill out.
+
+Automatic table of contents includes text formatted with Heading styles.</source>
+        <extracomment>InsertIndexTables4ZhCnPage.content</extracomment>
+        <translation>插入手動目錄，不需要預先設定目錄階層。
+
+若設定了目錄階層，可選擇插入自動目錄。</translation>
+    </message>
+    <message id="NavigationPane2.title">
+        <source>Navigation Pane</source>
+        <extracomment>NavigationPane2.title</extracomment>
+        <translation type="obsolete">導覽窗格</translation>
+    </message>
+    <message id="PageDiffOddEven.title">
+        <source>PageDiff OddEven</source>
+        <extracomment>PageDiffOddEven.title</extracomment>
+        <translation>奇偶頁不同</translation>
+    </message>
+    <message id="PageDiffOddEven.content">
+        <source>Specify odd and small pages to use different headers and footers.</source>
+        <extracomment>PageDiffOddEven.content</extracomment>
+        <translation>設定奇數頁及偶數頁分別使用不同的頁首及頁尾。</translation>
+    </message>
+    <message id="ShowNavigationPane.title">
+        <source>ShowNavigation Pane</source>
+        <extracomment>ShowNavigationPane.title</extracomment>
+        <translation>導覽窗格</translation>
+    </message>
+    <message id="ShowNavigationPane.content">
+        <source>Show or hide the Navigation Pane.</source>
+        <extracomment>ShowNavigationPane.content</extracomment>
+        <translation>顯示或隱藏導覽窗格。</translation>
+    </message>
+    <message id="ShowNavigationPane2.title">
+        <source>ShowNavigation Pane</source>
+        <extracomment>ShowNavigationPane2.title</extracomment>
+        <translation>導覽窗格</translation>
+    </message>
+    <message id="ShowNavigationPane2.content">
+        <source>Click to choose display navigation pane display location.</source>
+        <oldsource>Click here to choose to display a table of contents, a chapter, or a bookmark pane.</oldsource>
+        <extracomment>ShowNavigationPane2.content</extracomment>
+        <translation>按一下以選取導覽窗格的顯示位置。</translation>
+    </message>
+    <message id="ShowTocNavigationPane.title">
+        <source>Toc navigation</source>
+        <extracomment>ShowTocNavigationPane.title</extracomment>
+        <translation>目錄導覽</translation>
+    </message>
+    <message id="ShowTocNavigationPane.content">
+        <source>Displays or concealment Toc navigation in the navigation pane.</source>
+        <extracomment>ShowTocNavigationPane.content</extracomment>
+        <translation>顯示或隱藏導覽窗格中的目錄導覽。</translation>
+    </message>
+    <message id="SectionNavigationPane.title">
+        <source>Section navigation</source>
+        <extracomment>SectionNavigationPane.title</extracomment>
+        <translation>章節導覽</translation>
+    </message>
+    <message id="SectionNavigationPane.content">
+        <source>displays or hides chapter navigation in navigation pane..</source>
+        <extracomment>SectionNavigationPane.content</extracomment>
+        <translation>顯示或隱藏導覽窗格中的章節導覽。</translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation>表格列高</translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation>設定選取儲存格的高度。</translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation>表格欄寬</translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation>設定選取儲存格的寬度。</translation>
+    </message>
+    <message id="ReviewTip.title">
+        <source></source>
+        <extracomment>ReviewTip.title</extracomment>
+        <translation>檢閱</translation>
+    </message>
+    <message id="ReviewTip.content">
+        <source></source>
+        <extracomment>ReviewTip.content</extracomment>
+        <translation>在窗格中以清單的形式顯示您的文件中所有的修訂。</translation>
+    </message>
+    <message id="ReviewTip2.title">
+        <source></source>
+        <extracomment>ReviewTip2.title</extracomment>
+        <translation>檢閱</translation>
+    </message>
+    <message id="ReviewTip2.content">
+        <source></source>
+        <extracomment>ReviewTip2.content</extracomment>
+        <translation>按一下箭號進行檢閱者、檢閱時間篩選，以及選擇窗格的位置。</translation>
+    </message>
+    <message id="LTRTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation>從左至右文字方向</translation>
+    </message>
+    <message id="LTRTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation>將文字讀取方向設定成從左至右。</translation>
+    </message>
+    <message id="RTLTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation>從右至左文字方向</translation>
+    </message>
+    <message id="RTLTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <translation>將文字讀取方向設定成從右至左。</translation>
+    </message>
+    <message id="Handwriting.title">
+        <source>Handwriting</source>
+        <extracomment>Handwriting.title</extracomment>
+        <translation>手寫註解</translation>
+    </message>
+    <message id="Handwriting.content">
+        <source>Add a handwriting to the document.</source>
+        <extracomment>Handwriting.content</extracomment>
+        <translation>加上手寫註解到文件。</translation>
     </message>
 </context>
 </TS>

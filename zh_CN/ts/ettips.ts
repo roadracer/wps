@@ -519,12 +519,12 @@ For instance, choose Euros instead of Dollars.</source>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation></translation>
+        <translation>详细设置</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of cell formatting.</source>
         <extracomment>DetailedSettings_Home.content</extracomment>
-        <translation></translation>
+        <translation>改变单元格格式设置。</translation>
     </message>
     <message id="DetailedSettings_Layout.title">
         <source>Settings</source>
@@ -1086,7 +1086,7 @@ The information in the header or footer will appear at the top or bottom of each
     <message id="InsertComment.title">
         <source>New Comment</source>
         <extracomment>InsertComment.title</extracomment>
-        <translation>插入批注</translation>
+        <translation>插入批注(Shift+F2)</translation>
     </message>
     <message id="InsertComment.content">
         <source>Add a comment to the worksheet about the selection.</source>
@@ -1220,7 +1220,7 @@ Page breaks are inserted above and to the left of the selection.</source>
     <message id="LoadMacro.title">
         <source>Add-Ins</source>
         <extracomment>LoadMacro.title</extracomment>
-        <translation>加载宏</translation>
+        <translation>加载项</translation>
     </message>
     <message id="LoadMacro.content">
         <source>Manage the Add-Ins available for use with this file.</source>
@@ -1521,7 +1521,7 @@ For example: </source>
     <message id="PTFieldSettings.content">
         <source>Show the Field Settings dialog box.</source>
         <extracomment>PTFieldSettings.content</extracomment>
-        <translation>可以为数据透视表字段选择汇总方式，如求和、计数等。</translation>
+        <translation>显示&quot;字段设置&quot;对话框。</translation>
     </message>
     <message id="PTHide.title">
         <source>Hide</source>
@@ -1568,7 +1568,7 @@ The field list allows you to add and remove fields.</oldsource>
     <message id="PTRefreshData.content">
         <source>Update the information from the data source in the workbook.</source>
         <extracomment>PTRefreshData.content</extracomment>
-        <translation>更新工作簿中来自数据源的信息。</translation>
+        <translation>通过刷新工作簿中的所有源获取最新的数据。</translation>
     </message>
     <message id="PTShowDetail.title">
         <source>Show Detail</source>
@@ -1608,7 +1608,7 @@ The field list allows you to add and remove fields.</oldsource>
     <message id="PTTableOptions.content">
         <source>Show the PivotTable Options dialog box.</source>
         <extracomment>PTTableOptions.content</extracomment>
-        <translation>弹出“数据透视表选项”对话框。</translation>
+        <translation>显示&quot;数据透视表选项&quot;对话框。</translation>
     </message>
     <message id="PageBreakPreview.title">
         <source>Page Break Preview</source>
@@ -1869,7 +1869,7 @@ Column headings are the letters or numbers that appear above the columns on a sh
 
 The password will prevent others from turning off change tracking.</source>
         <extracomment>ProtectAndShare.content</extracomment>
-        <translation>使用密码保护共享的工作簿，防止他人关闭修订，丢失修订记录。</translation>
+        <translation>共享工作簿并使用密码保护修订。</translation>
     </message>
     <message id="ProtectSheet.title">
         <source>Protect Sheet</source>
@@ -1991,7 +1991,7 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Refresh.content">
         <source>Update all the information in the workbook that is coming from a data source.</source>
         <extracomment>Refresh.content</extracomment>
-        <translation>更新工作簿中来自数据源的信息。</translation>
+        <translation>通过刷新工作簿中的所有源获取最新的数据。</translation>
     </message>
     <message id="RefreshAll.title">
         <source>Refresh All</source>
@@ -2087,12 +2087,12 @@ This is only necessary if automatic calculation has been turned off.</source>
     <message id="Scientific.title">
         <source>Scientific Style</source>
         <extracomment>Scientific.title</extracomment>
-        <translation>科学计数样式</translation>
+        <translation>科学记数样式</translation>
     </message>
     <message id="Scientific.content">
         <source>Format as a number in scientific notation, with 2 decimal places.</source>
         <extracomment>Scientific.content</extracomment>
-        <translation>为选中的单元格的数值设置为科学计数样式，小数位数为2.</translation>
+        <translation>为选中的单元格的数值设置为科学记数样式，小数位数为2.</translation>
     </message>
     <message id="Security.title">
         <source>Macro Security</source>
@@ -2375,9 +2375,9 @@ Click the currently selected text orientation again to reset the text back to no
         <translation>朗读</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation>将文本用人声朗读出来，用户可免费试用2天。</translation>
+        <translation>将文本用人声朗读出来，每天均可免费体验。</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
@@ -2960,6 +2960,650 @@ This banding can make tables easier to read.</source>
         <translation>显示镶边列，这些列上的偶数列和奇数列的格式互不相同。
 
 这种镶边方式使表格的可读性更强。</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>同义词库</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>不知道说什么好？让我们为您建议另外一种表达意思的方式。</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>文档修复</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>快速修复乱码、无法打开等疑难杂症文档。</translation>
+    </message>
+    <message id="PTRefreshAllData.title">
+        <source>Refresh All</source>
+        <extracomment>PTRefreshAllData.title</extracomment>
+        <translation>全部刷新</translation>
+    </message>
+    <message id="PTRefreshAllData.content">
+        <source>Get the latest data by refreshing all sources in the workbook.</source>
+        <extracomment>PTRefreshAllData.content</extracomment>
+        <translation>通过刷新工作簿中的所有源获取最新的数据。</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>重设大小</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>取消对选中图片所做的所有大小更改。</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <oldsource>rLockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>锁定纵横比</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>调整图片大小时锁定高度和宽度的比例。</translation>
+    </message>
+    <message id="DocumentSlimming.title">
+        <source>File Slimming</source>
+        <translation>文件瘦身</translation>
+    </message>
+    <message id="DocumentSlimming.content">
+        <source>&quot;file slimming&quot; feature can help you reduce the file size.</source>
+        <translation>&quot;文件瘦身&quot;功能可帮您减小文件体积。</translation>
+    </message>
+    <message id="NumberFormatGallery.title">
+        <source>Number Format.</source>
+        <oldsource>Number Format</oldsource>
+        <translation>数字格式</translation>
+    </message>
+    <message id="NumberFormatGallery.content">
+        <source>Select the number format of cells, such as Percentage, Currency, date or time..</source>
+        <oldsource>Select the number format of cells, such as Percentage, Currency, date or time.</oldsource>
+        <translation>选择单元格的格式，例如百分比、货币、日期或时间。</translation>
+    </message>
+    <message id="CmpSideBySide.title">
+        <source>View Side by Side.</source>
+        <oldsource>View Side by Side</oldsource>
+        <translation>并排查看</translation>
+    </message>
+    <message id="CmpSideBySide.content">
+        <source>View two documents side-by-side to compare their contents.</source>
+        <translation>并排查看两个工作簿，以便比较其内容。</translation>
+    </message>
+    <message id="LockSideBySide.title">
+        <source>Synchronous Scrolling.</source>
+        <oldsource>Synchronous Scrolling</oldsource>
+        <translation>同步滚动</translation>
+    </message>
+    <message id="LockSideBySide.content">
+        <source>Synchronize the scrolling of two documents so that they scroll together. To enable this feature, turn on View Side by Side.</source>
+        <oldsource>Synchronize the scrolling of two documents so that they scroll together.
+
+To enable this feature, turn on View Side by Side.</oldsource>
+        <translation>使两个文档在滚动页面时同时进行滚动。
+
+若要使用此功能，请先启用“并排查看”。</translation>
+    </message>
+    <message id="VerbSideBySide.title">
+        <source>Reset Window Position.</source>
+        <oldsource>Reset Window Position</oldsource>
+        <translation>重设窗口位置</translation>
+    </message>
+    <message id="VerbSideBySide.content">
+        <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally. To enable this feature, turn on View Side by Side.</source>
+        <oldsource>Reset the window position of the documents being compared side-by-side so that they share the screen equally.
+
+To enable this feature, turn on View Side by Side.</oldsource>
+        <translation>重设正在并排查看的文档窗口位置，使他们平分屏幕显示。
+
+若要使用此功能，请先启用“并排查看”。</translation>
+    </message>
+    <message id="ConditionalFormatting.title">
+        <source>Conditional Formatting</source>
+        <translation>条件格式</translation>
+    </message>
+    <message id="ConditionalFormatting.content">
+        <source>Easily spot trends and patterns in your data using bars, colors, and icons to visually highlight important values.</source>
+        <translation>使用条、颜色和图标轻松地浏览趋势和模式，以直观地突出显示重要值。</translation>
+    </message>
+    <message id="ResetCommentAnchor.title">
+        <source>Reset current comment.</source>
+        <translation>重置当前批注</translation>
+    </message>
+    <message id="ResetCommentAnchor.content">
+        <source>Reset current comment&apos;s anchor and size.</source>
+        <translation>把当前批注的位置和大小调整为默认位置和合适大小。</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.title">
+        <source>Reset all comments of current sheet.</source>
+        <translation>重置当前工作表的所有批注</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.content">
+        <source>Reset all comments&apos;s anchor and size of current sheet.</source>
+        <translation>把当前工作表的所有批注的位置和大小调整为默认位置和合适大小。</translation>
+    </message>
+    <message id="PreviousComment.title">
+        <source>Previous.</source>
+        <translation>上一条</translation>
+    </message>
+    <message id="PreviousComment.content">
+        <source>Select the previous comment in the sheet.</source>
+        <translation>跳转到上一条批注。</translation>
+    </message>
+    <message id="NextComment.title">
+        <source>Next.</source>
+        <translation>下一条</translation>
+    </message>
+    <message id="NextComment.content">
+        <source>Navigate to the next comment in the document.</source>
+        <translation>跳转到下一条批注。</translation>
+    </message>
+    <message id="ShowOrHideComment.title">
+        <source>Show/Hide Comment.</source>
+        <translation>显示/隐藏批注</translation>
+    </message>
+    <message id="ShowOrHideComment.content">
+        <source>Show or hide the comment attached to the selected cell.</source>
+        <translation>显示或隐藏活动单元格中的批注。</translation>
+    </message>
+    <message id="ShowAllComments.title">
+        <source>Show All Comments.</source>
+        <translation>显示所有批注</translation>
+    </message>
+    <message id="ShowAllComments.content">
+        <source>Display all comments in the sheet.</source>
+        <translation>显示工作表中的所有批注。</translation>
+    </message>
+    <message id="ShowPrecedents.title">
+        <source>Trace Precedents.</source>
+        <translation>追踪引用单元格</translation>
+    </message>
+    <message id="ShowPrecedents.content">
+        <source>Show arrows that indicate which cells affect the value of the currently selected cell.</source>
+        <translation>显示箭头，用于指明影响当前所选单元格值的单元格。</translation>
+    </message>
+    <message id="ShowDependents.title">
+        <source>Trace Dependents.</source>
+        <translation>追踪从属单元格</translation>
+    </message>
+    <message id="ShowDependents.content">
+        <source>Show arrows that indicate which cells are affected by the value of the currently selected cell.</source>
+        <translation>显示箭头，用于指明受当前所选单元格值影响的单元格。</translation>
+    </message>
+    <message id="ClearArrows.title">
+        <source>Clear All Arrows</source>
+        <translation>删除所有箭头</translation>
+    </message>
+    <message id="ClearArrows.content">
+        <source>Remove the arrows drawn by Trace Precedents or Dependents.</source>
+        <translation>删除“追踪引用单元格”或“追踪从属单元格”绘制的箭头。</translation>
+    </message>
+    <message id="InsertDropDownList.title">
+        <source>Insert Dropdown List</source>
+        <translation>插入下拉列表</translation>
+    </message>
+    <message id="InsertDropDownList.content">
+        <source>Create a dropdown list and customize choices drop down.</source>
+        <translation>快速创建下拉列表，自定义下拉选项。</translation>
+    </message>
+    <message id="InsertPictureFromFile2.title">
+        <source>Insert Picture</source>
+        <extracomment>InsertPictureFromFile2.title</extracomment>
+        <translation>插入图片</translation>
+    </message>
+    <message id="InsertPictureFromFile2.content">
+        <source>Click here to insert a picture in local folder or from a scanner.</source>
+        <extracomment>InsertPictureFromFile2.content</extracomment>
+        <translation>插入本地文件夹中的图片。</translation>
+    </message>
+    <message id="Slicer.title">
+        <source>Slicer</source>
+        <translation>切片器</translation>
+    </message>
+    <message id="Slicer.content">
+        <source>Use a Slicer to filter data visually.
+
+Slicers make it faster and easier to filter PivotTables.</source>
+        <translation>使用切片器直观地筛选数据。
+
+切片器使得能够更快且更容易地筛选数据透视表。</translation>
+    </message>
+    <message id="InsertSlicer.title">
+        <source>Insert Slicer</source>
+        <translation>插入切片器</translation>
+    </message>
+    <message id="InsertSlicer.content">
+        <source>Use a Slicer to filter data visually.
+
+Slicers make it faster and easier to filter PivotTables.</source>
+        <translation>使用切片器直观地筛选数据。
+
+切片器使得能够更快且更容易地筛选数据透视表。</translation>
+    </message>
+    <message id="PTFilterConnections.title">
+        <source>Filter Connections</source>
+        <translation>筛选器连接</translation>
+    </message>
+    <message id="PTFilterConnections.content">
+        <source>Manage which filters the PivotTable is connected to.</source>
+        <translation>管理数据透视表连接到哪些筛选器。</translation>
+    </message>
+    <message id="SlicerCaption.title">
+        <source>Slicer Caption</source>
+        <translation>切片器题注</translation>
+    </message>
+    <message id="SlicerCaption.content">
+        <source>Change the caption that is displayed in the header of the slicer.</source>
+        <translation>更改显示在切片器页眉的标题。</translation>
+    </message>
+    <message id="SlicerReportConnection.title">
+        <source>Report Connections</source>
+        <translation>报表连接</translation>
+    </message>
+    <message id="SlicerReportConnection.content">
+        <source>Manage which PivotTables the slicer is connected to.</source>
+        <translation>管理切片器连接至哪些数据透视表。</translation>
+    </message>
+    <message id="SlicerSetting.title">
+        <source>Slicer Settings</source>
+        <translation>切片器设置</translation>
+    </message>
+    <message id="SlicerSetting.content">
+        <source>Change the display settings of the slicer.</source>
+        <translation>更改切片器的显示设置。</translation>
+    </message>
+    <message id="SlicerColumn.title">
+        <source>Columns</source>
+        <translation>列宽</translation>
+    </message>
+    <message id="SlicerColumn.content">
+        <source>Change the number of columns in the slicer.</source>
+        <translation>更改切片器中的列数。</translation>
+    </message>
+    <message id="SlicerItemHeight.title">
+        <source>Button Height</source>
+        <translation>按钮高度</translation>
+    </message>
+    <message id="SlicerItemHeight.content">
+        <source>Change the height of the slicer buttons.</source>
+        <translation>更改切片器按钮的高度。</translation>
+    </message>
+    <message id="SlicerItemWidth.title">
+        <source>Button Width</source>
+        <translation>按钮宽度</translation>
+    </message>
+    <message id="SlicerItemWidth.content">
+        <source>Change the width of the slicer buttons.</source>
+        <translation>更改切片器按钮的宽度。</translation>
+    </message>
+    <message id="SheetBackground.title">
+        <source>Background</source>
+        <translation>背景图片</translation>
+    </message>
+    <message id="SheetBackground.content">
+        <source>Choose a picture for your background, and add some personality to your worksheet.</source>
+        <translation>选择一张图片为背景，为您的工作表增加一些个性。</translation>
+    </message>
+    <message id="PivotChart.title">
+        <source>PivotChart</source>
+        <translation>数据透视图</translation>
+    </message>
+    <message id="PivotChart.content">
+        <source>Use PivotCharts to graphically summarize data and explore complicated data.</source>
+        <translation>使用数据透视图以图形方式汇总数据，并浏览复杂数据。</translation>
+    </message>
+    <message id="ExportWeiboImageCmd.title">
+        <source>Export as Image</source>
+        <extracomment>ExportWeiboImageCmd.title</extracomment>
+        <translation>输出为图片</translation>
+    </message>
+    <message id="ExportWeiboImageCmd.content">
+        <source>Export the document to an image</source>
+        <extracomment>ExportWeiboImageCmd.content</extracomment>
+        <translation>将文档输出在一张图片中。</translation>
+    </message>
+    <message id="ShowFormulas.title">
+        <source>Show Formulas</source>
+        <extracomment>ShowFormulas.title</extracomment>
+        <translation>显示公式</translation>
+    </message>
+    <message id="ShowFormulas.content">
+        <source>Display the formula in each cell instead of the resulting value.</source>
+        <extracomment>ShowFormulas.content</extracomment>
+        <translation>在每个单元格中显示公式，而不是结果值。</translation>
+    </message>
+    <message id="HideWindow.title">
+        <source>Hide Window</source>
+        <translation>隐藏窗口</translation>
+    </message>
+    <message id="HideWindow.content">
+        <source>Hide the current window.
+
+To bring the window back, click the Unhide button.</source>
+        <translation type="unfinished">隐藏当前窗口，使其不可见。
+
+若要重新显示该窗口，请单击“取消隐藏”按钮。</translation>
+    </message>
+    <message id="UnhideWindow.title">
+        <source>Unhide Window</source>
+        <translation>取消隐藏</translation>
+    </message>
+    <message id="UnhideWindow.content">
+        <source>Unhide any windows hidden by the Hide Window feature.</source>
+        <translation>取消隐藏由“隐藏”功能隐藏的所有窗口。</translation>
+    </message>
+    <message id="Connections.title">
+        <source>Connections</source>
+        <extracomment>Connections.title</extracomment>
+        <translation>连接</translation>
+    </message>
+    <message id="Connections.content">
+        <source>Display all data connections for the workbook.
+
+Data Connections are links to data outside of this workbook which can be updated if the source data changes.</source>
+        <extracomment>Connections.content</extracomment>
+        <translation>显示工作簿的所有数据连接。
+
+数据连接是指向此工作簿以外的数据的链接。如果数据源发生更改，可更新这些链接。</translation>
+    </message>
+    <message id="ExistingConnections.title">
+        <source>Get Data Using an Existing Connection</source>
+        <extracomment>ExistingConnections.title</extracomment>
+        <translation>使用现有连接获取数据</translation>
+    </message>
+    <message id="ExistingConnections.content">
+        <source>Import data from common sources.</source>
+        <extracomment>ExistingConnections.content</extracomment>
+        <translation>从常用来源中导入数据。</translation>
+    </message>
+    <message id="EditConnectionProperties.title">
+        <source>Edit Connection Properties</source>
+        <extracomment>EditConnectionProperties.title</extracomment>
+        <translation>编辑外部连接</translation>
+    </message>
+    <message id="EditConnectionProperties.content">
+        <source>Select the command type, input a relevant query statement and filter the data imported.</source>
+        <extracomment>EditConnectionProperties.content</extracomment>
+        <translation>选择命令类型后，输入相应的查询语句对导入的数据进行筛选查询。</translation>
+    </message>
+    <message id="AutoFilterFavorite.title">
+        <source>Filter Condition Favorites</source>
+        <extracomment>AutoFilterFavorite.title</extracomment>
+        <translation>条件收藏夹</translation>
+    </message>
+    <message id="AutoFilterFavorite.content">
+        <source>Filter the table in one step by clicking the condition in Favorites. No more trouble with condition settings.</source>
+        <extracomment>AutoFilterFavorite.content</extracomment>
+        <translation>单击收藏夹中的条件，一键完成对当前表格的筛选，无须再次经历繁琐的设置。</translation>
+    </message>
+    <message id="AddFavorite.title">
+        <source>Add Filter Conditions to Favorites</source>
+        <extracomment>AddFavorite.title</extracomment>
+        <translation>收藏筛选条件</translation>
+    </message>
+    <message id="AddFavorite.content">
+        <source>Add the current filter conditions to Favorites so you can use them directly next time.</source>
+        <extracomment>AddFavorite.content</extracomment>
+        <translation>将当前的筛选条件保存到收藏夹中，方便快速应用到当前表格或其他类似的表格中。</translation>
+    </message>
+    <message id="SplitSheet.title">
+        <source>Split Table</source>
+        <extracomment>SplitSheet.title</extracomment>
+        <translation>拆分表格</translation>
+    </message>
+    <message id="SplitSheet.content">
+        <source>Split the current table into several files or sheets according to its content.</source>
+        <extracomment>SplitSheet.content</extracomment>
+        <translation>将当前表格，按不同的内容拆分成若干的文件或者sheet。</translation>
+    </message>
+    <message id="PivotTableAnalysis.title">
+        <source>Statistical Analysis</source>
+        <extracomment>PivotTableAnalysis.title</extracomment>
+        <translation>插入汇总表</translation>
+    </message>
+    <message id="PivotTableAnalysis.content">
+        <source>Classify and sum up data easily.</source>
+        <extracomment>PivotTableAnalysis.content</extracomment>
+        <translation>轻松实现数据的分类、汇总。</translation>
+    </message>
+    <message id="PivotChartAnalysis.title">
+        <source>Statistical Chart</source>
+        <extracomment>PivotChartAnalysis.title</extracomment>
+        <translation>插入统计图</translation>
+    </message>
+    <message id="PivotChartAnalysis.content">
+        <source>Classify and sum up data, and create charts with the results.</source>
+        <extracomment>PivotChartAnalysis.content</extracomment>
+        <translation>轻松实现数据的分类、汇总，并生成图表。</translation>
+    </message>
+    <message id="AutoFilterAnalysis.title">
+        <source>Monitor Pane</source>
+        <extracomment>AutoFilterAnalysis.title</extracomment>
+        <translation>监控窗格</translation>
+    </message>
+    <message id="AutoFilterAnalysis.content">
+        <source>Observe changes of summarized data in time when there are different filter conditions.</source>
+        <extracomment>AutoFilterAnalysis.content</extracomment>
+        <translation>设置不同筛选条件时，实时观察汇总数据的变化。</translation>
+    </message>
+    <message id="LockTitleRows.title">
+        <source>Freeze Title Row</source>
+        <extracomment>LockTitleRows.title</extracomment>
+        <translation>锁定标题行</translation>
+    </message>
+    <message id="LockTitleRows.content">
+        <source>Make the title row always show for constant reference when reading large amounts of data.</source>
+        <extracomment>LockTitleRows.content</extracomment>
+        <translation>让表格的筛选标题行始终保持显示，避免在浏览大量数据时只能看到数据而看不到标题。</translation>
+    </message>
+    <message id="ExportFilterResult.title">
+        <source>Export Filter Results</source>
+        <extracomment>ExportFilterResult.title</extracomment>
+        <translation>导出筛选结果</translation>
+    </message>
+    <message id="ExportFilterResult.content">
+        <source>Save the filter results as a new file or a new sheet.</source>
+        <extracomment>ExportFilterResult.content</extracomment>
+        <translation>将筛选后的表格，一键保存到新的文件或者sheet中。</translation>
+    </message>
+    <message id="HighlightDisplay.title">
+        <source>Highlight</source>
+        <extracomment>HighlightDisplay.title</extracomment>
+        <translation>高亮显示</translation>
+    </message>
+    <message id="HighlightDisplay.content">
+        <source>Highlight similar records to compare them more easily.</source>
+        <extracomment>HighlightDisplay.content</extracomment>
+        <translation>将相似的记录高亮显示，方便对相似记录进行观察、比较。</translation>
+    </message>
+    <message id="OnlineCooperation.title">
+        <source>Online Cooperation</source>
+        <extracomment>OnlineCooperation.title</extracomment>
+        <translation>在线协作</translation>
+    </message>
+    <message id="OnlineCooperation.content">
+        <source>Open the document with Web Office for multiple user collaborative editing.</source>
+        <extracomment>OnlineCooperation.content</extracomment>
+        <translation>用Web Office打开文档，进行多人协作编辑</translation>
+    </message>
+    <message id="Printer.title">
+        <source>Printer</source>
+        <extracomment>Printer.title</extracomment>
+        <translation>打印机</translation>
+    </message>
+    <message id="Printer.content">
+        <source>Choose a printer to execute print.</source>
+        <extracomment>Printer.content</extracomment>
+        <translation>选择用哪台打印机打印。</translation>
+    </message>
+    <message id="PrinterPaperSize.title">
+        <source>PrinterPaperSize</source>
+        <extracomment>PrinterPaperSize.title</extracomment>
+        <translation>纸张类型</translation>
+    </message>
+    <message id="PrinterPaperSize.content">
+        <source>Specify which size of paper to print, for example A3, A4, etc.</source>
+        <extracomment>PrinterPaperSize.content</extracomment>
+        <translation>指定工作表的纸张类型，例如A4、A3等。</translation>
+    </message>
+    <message id="PrinterCopies.title">
+        <source>PrinterCopies</source>
+        <extracomment>PrinterCopies.title</extracomment>
+        <translation>份数</translation>
+    </message>
+    <message id="PrinterCopies.content">
+        <source>Specify the number of copies to print.</source>
+        <extracomment>PrinterCopies.content</extracomment>
+        <translation>指定打印的份数。</translation>
+    </message>
+    <message id="PrinterCollate.title">
+        <source>PrinterCollate</source>
+        <extracomment>PrinterCollate.title</extracomment>
+        <translation>顺序</translation>
+    </message>
+    <message id="PrinterCollate.content">
+        <source>Specify whether the printed document is collated.</source>
+        <extracomment>PrinterCollate.content</extracomment>
+        <translation>指定打印的顺序，是逐份打印（如 123123）、还是逐页打印（如 112233）。</translation>
+    </message>
+    <message id="PrinterSide.title">
+        <source>PrinterSide</source>
+        <extracomment>PrinterSide.title</extracomment>
+        <translation>方式</translation>
+    </message>
+    <message id="PrinterSide.content">
+        <source>Specify whether the way is duplex.</source>
+        <extracomment>PrinterSide.content</extracomment>
+        <translation>指定打印的方式，是单面打印、还是双面打印。</translation>
+    </message>
+    <message id="PrinterMoreSetup.title">
+        <source>PrinterMoreSetup</source>
+        <extracomment>PrinterMoreSetup.title</extracomment>
+        <translation>更多设置</translation>
+    </message>
+    <message id="PrinterMoreSetup.content">
+        <source>Open the print dialog to setup more detailedly, including choose the printer, number of copies, duplex mode, etc.</source>
+        <extracomment>PrinterMoreSetup.content</extracomment>
+        <translation>可对打印做详细设置，如 选择打印机、打印页数、双面打印、缩放并打等。</translation>
+    </message>
+    <message id="CustomViews.title">
+        <source>Custom Views</source>
+        <extracomment>CustomViews.title</extracomment>
+        <translation>自定义视图</translation>
+    </message>
+    <message id="CustomViews.content">
+        <source>Save your current display and print settings as a custom view that you can quickly apply in the future.</source>
+        <extracomment>CustomViews.content</extracomment>
+        <translation>将当前显示和打印设置保存为您将来可以快速应用的自定义视图。</translation>
+    </message>
+    <message id="EnableMacro.title">
+        <source>Enable Macro Instructions</source>
+        <extracomment>EnableMacro.title</extracomment>
+        <translation>启用宏说明</translation>
+    </message>
+    <message id="EnableMacro.content">
+        <source>To enable macro functions, you need to install VAB support library. Click to know details.</source>
+        <extracomment>EnableMacro.content</extracomment>
+        <translation>启用宏功能，需要安装VBA支持库。点击了解详情</translation>
+    </message>
+    <message id="FlashFill.title">
+        <source>Flash Fill</source>
+        <extracomment>FlashFill.title</extracomment>
+        <translation>智能填充</translation>
+    </message>
+    <message id="FlashFill.content">
+        <source>Based on the existing example results, the relationship between the result and the original data is intelligently analyzed, and other cells in the same column are filled accordingly.</source>
+        <extracomment>FlashFill.content</extracomment>
+        <translation>根据已有的示例结果，智能分析出结果与原始数据之间的关系，据此填充同列的其他单元格。</translation>
+    </message>
+    <message id="MergeSheet.title">
+        <source>Merge Tables</source>
+        <extracomment>MergeSheet.title</extracomment>
+        <translation>合并表格</translation>
+    </message>
+    <message id="MergeSheet.content">
+        <source>Merge multiple sheets to one sheet.</source>
+        <extracomment>MergeSheet.content</extracomment>
+        <translation>将多个表格合并成一个表格。</translation>
+    </message>
+    <message id="DuplicateItemsManager.title">
+        <source>Manage Duplicates</source>
+        <extracomment>DuplicateItemsManager.title</extracomment>
+        <translation>数据对比</translation>
+    </message>
+    <message id="DuplicateItemsManager.content">
+        <source>Compares data in one or two regions (including multiple columns) and identifies or extracts duplicate values and unique values in the data.</source>
+        <extracomment>DuplicateItemsManager.content</extracomment>
+        <translation>对一个或两个区域（包括多列）中的数据进行对比，并标识或提取出数据中的重复值及唯一值。</translation>
+    </message>
+    <message id="GraphicFillColor.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor.title</extracomment>
+        <translation>图形填充</translation>
+    </message>
+    <message id="GraphicFillColor.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor.content</extracomment>
+        <translation>使用颜色对所选图形进行填充
+
+单击箭头选择不同的方式进行填充。</translation>
+    </message>
+    <message id="GraphicFillColor2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor2.title</extracomment>
+        <translation>图形填充</translation>
+    </message>
+    <message id="GraphicFillColor2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor2.content</extracomment>
+        <translation>单击箭头选择不同的方式进行填充。</translation>
+    </message>
+    <message id="GraphicLineColor.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor.title</extracomment>
+        <translation>图形轮廓</translation>
+    </message>
+    <message id="GraphicLineColor.content">
+        <source>Set the color, width, and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor.content</extracomment>
+        <translation>对所选图形设置轮廓的颜色、粗细和线条样式。
+
+单击箭头选择图形轮廓的详细设置。</translation>
+    </message>
+    <message id="GraphicLineColor2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor2.title</extracomment>
+        <translation>图形轮廓</translation>
+    </message>
+    <message id="GraphicLineColor2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor2.content</extracomment>
+        <translation>单击箭头选择图形轮廓的详细设置。</translation>
+    </message>
+    <message id="InteractiveChart.title">
+        <source>Insert Interactive Chart</source>
+        <extracomment>InteractiveChart.title</extracomment>
+        <translation>演示图表</translation>
+    </message>
+    <message id="InteractiveChart.content">
+        <source>Create cool, dynamic, interactive charts to enhance presentation performance.</source>
+        <extracomment>InteractiveChart.content</extracomment>
+        <translation>制作酷炫的动态交互式图表，提升图表演示表现力。</translation>
     </message>
 </context>
 </TS>

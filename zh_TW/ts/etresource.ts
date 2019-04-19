@@ -1007,7 +1007,15 @@ OLE DB 查詢</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>更新資料</translation>
+        <translation type="obsolete">更新資料</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
     </message>
 </context>
 <context>
@@ -1213,16 +1221,17 @@ Center</source>
     <name>classics.list</name>
     <message>
         <source>Convert to Range</source>
-        <translation type="unfinished"></translation>
+        <translation>轉換為範圍</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>資料範圍內容</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯
+OLE DB 查詢</translation>
     </message>
     <message>
         <source>Edit Query</source>
@@ -1230,31 +1239,39 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出表格至 SharePoint 清單</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"></translation>
+        <translation>外部資料</translation>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>清單</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部重新整理</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>更新資料</translation>
     </message>
     <message>
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>調整表格大小</translation>
     </message>
     <message>
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>合計列</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
     </message>
 </context>
 <context>
@@ -1438,12 +1455,16 @@ OLE DB Query</source>
         <source>Washout</source>
         <translation>刷淡</translation>
     </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation type="obsolete">圖片預覽</translation>
+    </message>
 </context>
 <context>
     <name>classics.pivot_table</name>
     <message>
         <source>Always Display Items</source>
-        <translation>永遠顯示項目</translation>
+        <translation type="obsolete">永遠顯示項目</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -1455,7 +1476,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Format Report</source>
-        <translation>報表格式</translation>
+        <translation type="obsolete">報表格式</translation>
     </message>
     <message>
         <source>Group and Show Detail</source>
@@ -1471,11 +1492,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Hide Field List</source>
-        <translation>隱藏欄位清單</translation>
+        <translation type="obsolete">隱藏欄位清單</translation>
     </message>
     <message>
         <source>Include Hidden Items in Totals</source>
-        <translation>總計中包括隱藏的項目</translation>
+        <translation type="obsolete">總計中包括隱藏的項目</translation>
     </message>
     <message>
         <source>Move Down</source>
@@ -1483,11 +1504,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>向左移動</translation>
+        <translation type="obsolete">向左移動</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>向右移動</translation>
+        <translation type="obsolete">向右移動</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -1519,7 +1540,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Show Field List</source>
-        <translation>顯示欄位清單</translation>
+        <translation type="obsolete">顯示欄位清單</translation>
     </message>
     <message>
         <source>Sort and Top 10</source>
@@ -1532,6 +1553,82 @@ OLE DB Query</source>
     <message>
         <source>Table Options</source>
         <translation type="obsolete">表格選項</translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation>計算的欄位</translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation>計算的項</translation>
+    </message>
+    <message>
+        <source>Chart Wizard</source>
+        <translation>圖表精靈</translation>
+    </message>
+    <message>
+        <source>Enable Selection</source>
+        <translation>樞紐分析表選取模式</translation>
+    </message>
+    <message>
+        <source>Entire PivotTable</source>
+        <translation>整個樞紐分析表</translation>
+    </message>
+    <message>
+        <source>Field List</source>
+        <translation>字段列表</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>群組</translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On PivotChart</source>
+        <translation>在樞紐分析圖上隱藏座標軸欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation>標籤</translation>
+    </message>
+    <message>
+        <source>Labels And Values</source>
+        <translation>標籤及值</translation>
+    </message>
+    <message>
+        <source>List Formulas</source>
+        <translation>顯示公式</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation>樞紐分析圖</translation>
+    </message>
+    <message>
+        <source>PivotTable Wizard</source>
+        <translation>樞紐分析表精靈</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation>選取</translation>
+    </message>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation>顯示報表篩選頁面</translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <translation>求解順序</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消群組</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation>值</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +2030,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>購買序列號</translation>
+        <translation>購買序號</translation>
     </message>
     <message>
         <source>Reapply</source>
@@ -2050,6 +2147,18 @@ OLE DB Query</source>
     <message>
         <source>Zoom</source>
         <translation>顯示比例</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>線上範本</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation>服務已過期</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WPS Office 客戶服務 WeChat</translation>
     </message>
 </context>
 <context>
@@ -2445,7 +2554,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>清單</translation>
     </message>
     <message>
         <source>Menu Bar</source>
@@ -2519,6 +2628,26 @@ OLE DB Query</source>
         <source>Worksheet Menu Bar</source>
         <translation>工作表功能表列</translation>
     </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>文件修復</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">將PDF匯出為Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>將PDF匯出為Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>轉換圖片為文字</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>朗讀</translation>
+    </message>
 </context>
 <context>
     <name>etcommon.mainwindow.commands</name>
@@ -2536,7 +2665,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="obsolete">快取圖案</translation>
+        <translation>快取圖案</translation>
     </message>
     <message>
         <source>Axis Popup Menu</source>
@@ -2560,11 +2689,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>帶狀欄</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>帶狀列</translation>
     </message>
     <message>
         <source>Bold</source>
@@ -2648,7 +2777,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>剪貼簿</translation>
+        <translation type="obsolete">剪貼簿</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
@@ -2856,7 +2985,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Eye Protection Night Mode</source>
-        <translation>夜間眼部防護模式</translation>
+        <translation type="obsolete">夜間眼部防護模式</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2896,7 +3025,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首欄</translation>
     </message>
     <message>
         <source>Form Control Popup Menu</source>
@@ -2964,7 +3093,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Header Row</source>
-        <translation type="unfinished"></translation>
+        <translation>標題列</translation>
     </message>
     <message>
         <source>Help</source>
@@ -2984,7 +3113,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>High Resolution Setting</source>
-        <translation>顯示設定</translation>
+        <translation type="obsolete">顯示設定</translation>
     </message>
     <message>
         <source>High-Low Line</source>
@@ -3040,7 +3169,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>末欄</translation>
     </message>
     <message>
         <source>Lead Line</source>
@@ -3068,7 +3197,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>List Range Popup</source>
-        <translation type="unfinished"></translation>
+        <translation>清單範圍快顯功能表</translation>
     </message>
     <message>
         <source>Macros</source>
@@ -3152,7 +3281,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>New Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>新增表格樣式</translation>
     </message>
     <message>
         <source>New Workbook</source>
@@ -3276,7 +3405,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Night Mode</source>
-        <translation>夜間模式</translation>
+        <translation type="obsolete">夜間模式</translation>
     </message>
     <message>
         <source>No Tab Page</source>
@@ -3325,7 +3454,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>選項</translation>
+        <translation type="obsolete">選項</translation>
     </message>
     <message>
         <source>Page Break Preview</source>
@@ -3446,7 +3575,7 @@ Directly</source>
     </message>
     <message>
         <source>Recently File Management</source>
-        <translation type="unfinished">最近使用的活頁簿</translation>
+        <translation>最近使用的檔案清單</translation>
     </message>
     <message>
         <source>Record Macro Statusbar</source>
@@ -3463,7 +3592,7 @@ Directly</source>
     <message>
         <source>Refresh
 Data</source>
-        <translation>重新整理資料</translation>
+        <translation type="obsolete">重新整理資料</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -3568,7 +3697,7 @@ Data</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">圖案</translation>
+        <translation>圖案</translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
@@ -3576,7 +3705,7 @@ Data</source>
     </message>
     <message>
         <source>Share</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">分享</translation>
     </message>
     <message>
         <source>Sheet</source>
@@ -3637,7 +3766,7 @@ Data</source>
     <message>
         <source>Table</source>
         <comment>Table</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -3645,11 +3774,11 @@ Data</source>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="unfinished"></translation>
+        <translation>表格樣式選項</translation>
     </message>
     <message>
         <source>Table Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>表格樣式</translation>
     </message>
     <message>
         <source>Task
@@ -3666,7 +3795,7 @@ Window</source>
     </message>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">同義字</translation>
+        <translation>同義字</translation>
     </message>
     <message>
         <source>ToolBars</source>
@@ -3682,7 +3811,7 @@ Window</source>
     </message>
     <message>
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>合計列</translation>
     </message>
     <message>
         <source>Trendline</source>
@@ -3767,6 +3896,354 @@ Window</source>
     <message>
         <source>statusbar</source>
         <translation type="obsolete">狀態列</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>新增圖片框</translation>
+    </message>
+    <message>
+        <source>Auto Backup Menu</source>
+        <translation>自動備份功能表</translation>
+    </message>
+    <message>
+        <source>AutoFilter</source>
+        <translation>自動篩選</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>備份中心</translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translation type="obsolete">備份設定</translation>
+    </message>
+    <message>
+        <source>Cells Dialog</source>
+        <translation>儲存格對話方塊</translation>
+    </message>
+    <message>
+        <source>Clear Contents</source>
+        <translation>清除內容</translation>
+    </message>
+    <message>
+        <source>Clear Filter from Slicers</source>
+        <translation>清除交叉分析篩選器的篩選</translation>
+    </message>
+    <message>
+        <source>Cloud Page</source>
+        <translation>雲端頁面</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>共享​​</translation>
+    </message>
+    <message>
+        <source>Column Header</source>
+        <translation>欄標題</translation>
+    </message>
+    <message>
+        <source>Comment Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Comment Text Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation>刪除儲存格</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>文件修復</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>版本歷程記錄</translation>
+    </message>
+    <message>
+        <source>Editing is limited</source>
+        <translation>編輯受限</translation>
+    </message>
+    <message>
+        <source>Enable Macro</source>
+        <translation>啟用巨集</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>匯出為圖片</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation>匯出為 OFD</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>匯出為 PDF</translation>
+    </message>
+    <message>
+        <source>ExtendObjectTrigger</source>
+        <translation>編輯擴充物件</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="obsolete">檔案漫遊</translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation>傳送至手機</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>共享​​</translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation>填滿色彩</translation>
+    </message>
+    <message>
+        <source>Format as Table</source>
+        <translation>表格樣式</translation>
+    </message>
+    <message>
+        <source>Freeze First Column</source>
+        <translation>凍結首欄</translation>
+    </message>
+    <message>
+        <source>Freeze Panes</source>
+        <translation>凍結窗格</translation>
+    </message>
+    <message>
+        <source>Freeze Top Row</source>
+        <translation>凍結頂端列</translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation>GeoGebra</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>全文檢索</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>硬體加密</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>說明及問答</translation>
+    </message>
+    <message>
+        <source>Image Preview Float</source>
+        <translation>預覽</translation>
+    </message>
+    <message>
+        <source>Insert Cells</source>
+        <translation>插入儲存格</translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation>插入註解</translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>插入手機圖片</translation>
+    </message>
+    <message>
+        <source>Insert Sheet</source>
+        <translation>插入工作表</translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation>條形碼</translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation>流程圖</translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation>思維導圖</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>線上範本</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>產生連結以共享</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation>地圖</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Files</source>
+        <translation>Excel 97-2003 活頁簿(*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Templates</source>
+        <translation>Excel 97-2003 範本(*.xlt)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Files</source>
+        <translation>Excel 活頁簿（*.xlsx）</translation>
+    </message>
+    <message>
+        <source>New Excel Workbook</source>
+        <translation>新增 Excel 活頁簿</translation>
+    </message>
+    <message>
+        <source>New Excel Workbook(E)</source>
+        <translation>新增 Excel 活頁簿</translation>
+    </message>
+    <message>
+        <source>New File Menu</source>
+        <translation>建立新檔案功能表</translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>新增樞紐分析表樣式</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation>線上圖表</translation>
+    </message>
+    <message>
+        <source>Other Formats</source>
+        <translation>其他格式</translation>
+    </message>
+    <message>
+        <source>PasteAsValues</source>
+        <translation>貼上為數值</translation>
+    </message>
+    <message>
+        <source>Permission Protected</source>
+        <translation>已啟動權限保護</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>將圖片匯出為PDF</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>轉換檔案中所有圖片</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>轉換選取的圖片</translation>
+    </message>
+    <message>
+        <source>Pivot Table Style Options</source>
+        <translation>樞紐分析表樣式選項</translation>
+    </message>
+    <message>
+        <source>PivotTable Context Menu</source>
+        <translation>樞紐分析表快顯功能表</translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation>QR 碼</translation>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation>查詢</translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation>推薦</translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation>Docer 推薦範本</translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation>全部重新整理</translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation>重新整理資料</translation>
+    </message>
+    <message>
+        <source>Report Connections</source>
+        <translation>報表連線</translation>
+    </message>
+    <message>
+        <source>Row Header</source>
+        <translation>列標題</translation>
+    </message>
+    <message>
+        <source>Save a Copy of the Document</source>
+        <translation>儲存文件的複本</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>安全</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation>傳送郵件</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>傳送郵件</translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>傳送圖片</translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation>傳送給QQ好友</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation>設定權限并共享</translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation>QQ聯絡人</translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation>WeChat聯絡人</translation>
+    </message>
+    <message>
+        <source>Show Formulas</source>
+        <translation>顯示公式</translation>
+    </message>
+    <message>
+        <source>Slicer Settings</source>
+        <translation>交叉分析篩選器設定</translation>
+    </message>
+    <message>
+        <source>Timing Backup Menu</source>
+        <translation>定時備份清單</translation>
+    </message>
+    <message>
+        <source>Unfreeze Panes</source>
+        <translation>取消凍結窗格</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation>WPS Spreadsheets 2007/2010 活頁簿(*.etx)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files</source>
+        <translation>WPS Spreadsheets 活頁簿(*.et)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Templates</source>
+        <translation>WPS Spreadsheets 範本(*.ett)</translation>
     </message>
 </context>
 <context>
@@ -3881,7 +4358,7 @@ Window</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="obsolete">隱藏功能區</translation>
+        <translation>隱藏功能區</translation>
     </message>
     <message>
         <source>Home</source>
@@ -3925,7 +4402,7 @@ Window</source>
     </message>
     <message>
         <source>News</source>
-        <translation>新聞</translation>
+        <translation type="obsolete">新聞</translation>
     </message>
     <message>
         <source>Office Space</source>
@@ -3945,7 +4422,7 @@ Window</source>
     </message>
     <message>
         <source>Personal Center</source>
-        <translation>使用者中心</translation>
+        <translation type="obsolete">使用者中心</translation>
     </message>
     <message>
         <source>Picture Tools</source>
@@ -3957,7 +4434,7 @@ Window</source>
     </message>
     <message>
         <source>PivotTable Tools</source>
-        <translation>樞紐分析表工具</translation>
+        <translation type="obsolete">樞紐分析表工具</translation>
     </message>
     <message>
         <source>Popup Menu</source>
@@ -3985,7 +4462,7 @@ Window</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>最近使用的活頁簿</translation>
+        <translation type="obsolete">最近使用的活頁簿</translation>
     </message>
     <message>
         <source>Recently used files</source>
@@ -4013,7 +4490,7 @@ Window</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="obsolete">顯示功能區</translation>
+        <translation>顯示功能區</translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
@@ -4029,7 +4506,7 @@ Window</source>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>登出</translation>
+        <translation type="obsolete">登出</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -4037,7 +4514,7 @@ Window</source>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="obsolete">固定功能區</translation>
+        <translation>固定功能區</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -4049,7 +4526,7 @@ Window</source>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation>朗讀</translation>
+        <translation>設計</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -4061,7 +4538,7 @@ Window</source>
     </message>
     <message>
         <source>Touch Mode</source>
-        <translation type="obsolete">觸控模式</translation>
+        <translation>觸控模式</translation>
     </message>
     <message>
         <source>User Sign in</source>
@@ -4131,12 +4608,379 @@ Window</source>
         <source>test Rb Tab Widget</source>
         <translation>testRbTabWidget</translation>
     </message>
+    <message>
+        <source>Account Upgrade</source>
+        <translation>賬戶升級</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>靠左對齊</translation>
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translation>所有框線</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation>自動加總</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>備份中心</translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation>下框線</translation>
+    </message>
+    <message>
+        <source>Bottom Double Border</source>
+        <translation>底端雙框線</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>購買訂閱</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>置中</translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation>跨欄置中</translation>
+    </message>
+    <message>
+        <source>Cloud File Management</source>
+        <translation>管理雲端檔案</translation>
+    </message>
+    <message>
+        <source>Cloud Service</source>
+        <translation>雲服務</translation>
+    </message>
+    <message>
+        <source>Cloud Space</source>
+        <translation>雲端空間</translation>
+    </message>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation>相容模式</translation>
+    </message>
+    <message>
+        <source>Convenient Sharing</source>
+        <translation>便捷分享</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>計數</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation>進入 Docer</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>文件修復</translation>
+    </message>
+    <message>
+        <source>Drawing Tools - Compatibility Mode</source>
+        <translation>繪圖工具​​ - 相容模式</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>匯出為圖片</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation>檔案漫遊</translation>
+    </message>
+    <message>
+        <source>Filter Tools(Trial)</source>
+        <translation type="obsolete">篩選工具 (試用)</translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translation>複製格式</translation>
+    </message>
+    <message>
+        <source>Formats - Compatibility Mode</source>
+        <translation>格式​​ - 相容模式</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>説明</translation>
+    </message>
+    <message>
+        <source>Interface Settings</source>
+        <translation>介面設定</translation>
+    </message>
+    <message>
+        <source>Join and
+Center</source>
+        <translation>合併及置中</translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation>左框線​​</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>Merge Across</source>
+        <translation>合併同列儲存格</translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translation>合併儲存格</translation>
+    </message>
+    <message>
+        <source>Merge Content</source>
+        <translation>合併內容</translation>
+    </message>
+    <message>
+        <source>Merge Same Cells</source>
+        <translation>合併相同儲存格</translation>
+    </message>
+    <message>
+        <source>Merge Settings</source>
+        <translation>設定預設合併方式</translation>
+    </message>
+    <message>
+        <source>Merge and Center</source>
+        <translation>合併及置中</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>More Borders</source>
+        <translation>其他框線</translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation>其他函數</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>我的訂閱</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation>無框線</translation>
+    </message>
+    <message>
+        <source>Online Editing</source>
+        <translation>線上編輯</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation>外框線​​</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation>PDF 合併</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation>PDF 分割</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">將PDF匯出為Word</translation>
+    </message>
+    <message>
+        <source>PDF to Excel</source>
+        <translation>將PDF匯出為Excel</translation>
+    </message>
+    <message>
+        <source>PDF to PPT</source>
+        <translation>將PDF匯出為PPT</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>將PDF匯出為Word</translation>
+    </message>
+    <message>
+        <source>Package</source>
+        <translation type="obsolete">紅包</translation>
+    </message>
+    <message>
+        <source>Picture Tools - Compatibility Mode</source>
+        <translation>圖片工具​​ - 相容模式</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>轉換圖片為文字</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation>樞紐分析表</translation>
+    </message>
+    <message>
+        <source>PivotTable Design</source>
+        <translation>設計</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>分析</translation>
+    </message>
+    <message>
+        <source>Quick Access Menu</source>
+        <translation>快速存取選單</translation>
+    </message>
+    <message>
+        <source>Quick Retrieve</source>
+        <translation>快速擷取</translation>
+    </message>
+    <message>
+        <source>Ribbon Auto Show/Hide</source>
+        <translation>功能區摺疊時自動顯示/隱藏</translation>
+    </message>
+    <message>
+        <source>Ribbon center alignment</source>
+        <translation>功能區按鈕置中排列</translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation>右框線</translation>
+    </message>
+    <message>
+        <source>ScreenSaver</source>
+        <translation type="obsolete">螢幕保護</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>安全性</translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation>半透明陰影</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation>服務已過期</translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation>陰影設定</translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <translation>圖案</translation>
+    </message>
+    <message>
+        <source>Show Taskpane</source>
+        <translation>顯示任務窗格</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>登出</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation>交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Slicer Tools</source>
+        <translation>交叉分析篩選器工具</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>加總</translation>
+    </message>
+    <message>
+        <source>Thick Bottom Border</source>
+        <translation>粗下框線</translation>
+    </message>
+    <message>
+        <source>Thick Box Border</source>
+        <translation>粗外框線</translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation>上框線</translation>
+    </message>
+    <message>
+        <source>Top and Bottom Border</source>
+        <translation>上框線及下框線</translation>
+    </message>
+    <message>
+        <source>Top and Double Bottom Border</source>
+        <translation>上框線及雙下框線</translation>
+    </message>
+    <message>
+        <source>Top and Thick Bottom Border</source>
+        <translation>上框線及粗下框線</translation>
+    </message>
+    <message>
+        <source>UnMerge and Fill</source>
+        <translation>取消合併并填滿</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation>取消合併儲存格</translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation>垂直置中</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WPS Office 客戶服務 WeChat</translation>
+    </message>
+    <message>
+        <source>WordArt Compatibility Mode</source>
+        <translation>文字藝術師​​ - 相容模式</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>搶紅包</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>自動換列​​</translation>
+    </message>
+    <message>
+        <source>accout info</source>
+        <translation>賬戶資訊</translation>
+    </message>
+    <message>
+        <source>accout secure</source>
+        <translation>賬戶安全</translation>
+    </message>
+    <message>
+        <source>enterprise Center</source>
+        <translation>企業中心</translation>
+    </message>
+    <message>
+        <source>member Center</source>
+        <translation>成員中心</translation>
+    </message>
+    <message>
+        <source>message Center</source>
+        <translation>訊息中心</translation>
+    </message>
 </context>
 <context>
     <name>etongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
     <message>
         <source>Switch UI</source>
-        <translation>切換介面</translation>
+        <translation type="obsolete">切換介面</translation>
     </message>
     <message>
         <source>Switch UI</source>
@@ -4155,6 +4999,11 @@ Window</source>
     <message>
         <source>true</source>
         <translation>確定</translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <comment>Personal Version</comment>
+        <translation type="obsolete">進入 Docer</translation>
     </message>
 </context>
 <context>
@@ -4303,7 +5152,7 @@ Window</source>
     </message>
     <message>
         <source>PivotTable Tools</source>
-        <translation>樞紐分析表工具</translation>
+        <translation type="obsolete">樞紐分析表工具</translation>
     </message>
     <message>
         <source>Popup Menu</source>
@@ -4391,7 +5240,7 @@ Window</source>
     </message>
     <message>
         <source>Table Tools</source>
-        <translation>朗讀</translation>
+        <translation>設計</translation>
     </message>
     <message>
         <source>Text Speech</source>
@@ -4448,6 +5297,34 @@ Window</source>
     <message>
         <source>test Rb Tab Widget</source>
         <translation>testRbTabWidget</translation>
+    </message>
+    <message>
+        <source>Filter Tools</source>
+        <translation type="obsolete">篩選工具</translation>
+    </message>
+    <message>
+        <source>Package</source>
+        <translation type="obsolete">紅包</translation>
+    </message>
+    <message>
+        <source>PivotTable Design</source>
+        <translation>設計</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>分析</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation>服務已過期</translation>
+    </message>
+    <message>
+        <source>Slicer Tools</source>
+        <translation>交叉分析篩選器工具</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>搶紅包</translation>
     </message>
 </context>
 <context>
@@ -4834,7 +5711,7 @@ Row</source>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>圖表類型</translation>
+        <translation type="obsolete">圖表類型</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -4851,6 +5728,10 @@ Row</source>
     <message>
         <source>speedLayout</source>
         <translation>快速版面配置</translation>
+    </message>
+    <message>
+        <source>More Option...</source>
+        <translation>其他選項...</translation>
     </message>
 </context>
 <context>
@@ -5005,7 +5886,7 @@ All</source>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation>更新資料</translation>
+        <translation type="obsolete">更新資料</translation>
     </message>
     <message>
         <source>Reject Duplicate Entries</source>
@@ -5099,6 +5980,98 @@ Columns</source>
     <message>
         <source>What-If Analysis</source>
         <translation>模擬分析</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation>圈選錯誤資料</translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
+        <translation>清除錯誤圈選</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation>連線</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation>現有連線</translation>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation>擷取重複值</translation>
+    </message>
+    <message>
+        <source>Fetch duplicates2</source>
+        <translation>擷取兩個範圍中重複值</translation>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation>擷取唯一值</translation>
+    </message>
+    <message>
+        <source>Fetch unique values2</source>
+        <translation>擷取兩個範圍中唯一值</translation>
+    </message>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation>標記重複值</translation>
+    </message>
+    <message>
+        <source>Highlight duplicates2</source>
+        <translation>標記兩個區域中重複值</translation>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation>標記唯一值</translation>
+    </message>
+    <message>
+        <source>Highlight unique values2</source>
+        <translation>標記兩個範圍中唯一值</translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation>插入下拉式清單</translation>
+    </message>
+    <message>
+        <source>Manage Duplicates</source>
+        <translation>數據對比</translation>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation>合併表格</translation>
+    </message>
+    <message>
+        <source>Merge workbooks</source>
+        <translation>多個活頁簿
+合併成一個活頁簿</translation>
+    </message>
+    <message>
+        <source>Merge worksheets</source>
+        <translation>多個工作表
+合併成一個工作表</translation>
+    </message>
+    <message>
+        <source>Merge worksheets 
+with same name in workbooks</source>
+        <translation>合併多個活頁簿中
+同名工作表</translation>
+    </message>
+    <message>
+        <source>Outline Settings</source>
+        <translation type="obsolete">外框設定</translation>
+    </message>
+    <message>
+        <source>Summary Direction</source>
+        <translation>摘要方向</translation>
     </message>
 </context>
 <context>
@@ -5617,7 +6590,7 @@ On</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -5842,7 +6815,15 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -6077,7 +7058,7 @@ On/Off</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -6233,7 +7214,23 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation>對齊</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -6252,7 +7249,7 @@ On/Off</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>備份管理和資料修復</translation>
+        <translation type="obsolete">備份管理和資料修復</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
@@ -6260,11 +7257,11 @@ On/Off</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">切換版本</translation>
+        <translation>切換版本</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>檢查更新</translation>
+        <translation type="obsolete">檢查更新</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -6280,7 +7277,7 @@ On/Off</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation>進入 Docer</translation>
+        <translation type="obsolete">進入 Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -6292,11 +7289,11 @@ On/Off</source>
     </message>
     <message>
         <source>Encryption</source>
-        <translation>檔案加密</translation>
+        <translation type="obsolete">檔案加密</translation>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>輸入啟用代碼</translation>
+        <translation type="obsolete">輸入啟用代碼</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -6308,7 +7305,7 @@ On/Off</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>匯出為 PDF</translation>
+        <translation type="obsolete">匯出為 PDF</translation>
     </message>
     <message>
         <source>Feedback and Product Information</source>
@@ -6376,15 +7373,15 @@ On/Off</source>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Files</source>
-        <translation>Excel 2007/2010 活頁簿（*.xlsx）</translation>
+        <translation type="obsolete">Excel 2007/2010 活頁簿（*.xlsx）</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Excel 活頁簿(*.xls)</translation>
+        <translation type="obsolete">Excel 活頁簿(*.xls)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Excel 範本(*.xlt)</translation>
+        <translation type="obsolete">Excel 範本(*.xlt)</translation>
     </message>
     <message>
         <source>New</source>
@@ -6428,7 +7425,7 @@ On/Off</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>從線上範本新增</translation>
+        <translation type="obsolete">從線上範本新增</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -6456,7 +7453,7 @@ On/Off</source>
     </message>
     <message>
         <source>Other Formats</source>
-        <translation>其他格式</translation>
+        <translation type="obsolete">其他格式</translation>
     </message>
     <message>
         <source>Print</source>
@@ -6480,7 +7477,7 @@ On/Off</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>購買序列號</translation>
+        <translation>購買序號</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -6504,7 +7501,7 @@ On/Off</source>
     </message>
     <message>
         <source>Save As</source>
-        <translation>另存新檔</translation>
+        <translation type="obsolete">另存新檔</translation>
     </message>
     <message>
         <source>Save As Et</source>
@@ -6540,7 +7537,7 @@ On/Off</source>
     </message>
     <message>
         <source>Save a Copy of the Document</source>
-        <translation>儲存文件的複本</translation>
+        <translation type="obsolete">儲存文件的複本</translation>
     </message>
     <message>
         <source>Save to Klive</source>
@@ -6548,7 +7545,7 @@ On/Off</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>微博求助</translation>
+        <translation type="obsolete">微博求助</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -6560,7 +7557,7 @@ On/Off</source>
     </message>
     <message>
         <source>Support WPS</source>
-        <translation>支援 WPS Office</translation>
+        <translation type="obsolete">支援 WPS Office</translation>
     </message>
     <message>
         <source>Unrestricted Access</source>
@@ -6580,7 +7577,7 @@ On/Off</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>WPS 論譠</translation>
+        <translation type="obsolete">WPS 論譠</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -6608,7 +7605,7 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>WPS Office 首頁</translation>
+        <translation type="obsolete">WPS Office 首頁</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
@@ -6616,7 +7613,7 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>WPS Office 產品中心</translation>
+        <translation type="obsolete">WPS Office 產品中心</translation>
     </message>
     <message>
         <source>WPS Online</source>
@@ -6624,15 +7621,63 @@ On/Off</source>
     </message>
     <message>
         <source>WPS Spreadsheets 2007/2010 Files</source>
-        <translation>WPS Spreadsheets 2007/2010 活頁簿（*.etx）</translation>
+        <translation type="obsolete">WPS Spreadsheets 2007/2010 活頁簿（*.etx）</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>WPS Spreadsheets 活頁簿(*.et)</translation>
+        <translation type="obsolete">WPS Spreadsheets 活頁簿(*.et)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>WPS Spreadsheets 範本(*.ett)</translation>
+        <translation type="obsolete">WPS Spreadsheets 範本(*.ett)</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>賬戶加密</translation>
+    </message>
+    <message>
+        <source>Backup and Recovery</source>
+        <translation>備份與復原</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>文件修復</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>版本歷程記錄</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">文件權限</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>文件安全</translation>
+    </message>
+    <message>
+        <source>Document Slimming</source>
+        <translation>文件瘦身</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>硬體加密</translation>
+    </message>
+    <message>
+        <source>PassWord Encryption</source>
+        <translation>密碼加密</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation>密碼加密</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation>使用者意見反應</translation>
     </message>
 </context>
 <context>
@@ -6707,7 +7752,7 @@ Time</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>定義</translation>
+        <translation type="obsolete">定義</translation>
     </message>
     <message>
         <source>Define Names</source>
@@ -6866,6 +7911,30 @@ Used</source>
         <source>Text</source>
         <translation>文字</translation>
     </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation>移除箭號</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation>新名稱</translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation>移除從屬參照箭號</translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation>移除前導參照箭號</translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation>追蹤從屬參照</translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation>追蹤前導參照</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_home</name>
@@ -6916,7 +7985,7 @@ Center</source>
     </message>
     <message>
         <source>Align Left</source>
-        <translation>靠左對齊</translation>
+        <translation type="obsolete">靠左對齊</translation>
     </message>
     <message>
         <source>Align Right</source>
@@ -6932,7 +8001,7 @@ Center</source>
     </message>
     <message>
         <source>All Borders</source>
-        <translation>所有框線</translation>
+        <translation type="obsolete">所有框線</translation>
     </message>
     <message>
         <source>Angle Clockwise</source>
@@ -6976,7 +8045,7 @@ Center</source>
     </message>
     <message>
         <source>AutoSum</source>
-        <translation>自動加總</translation>
+        <translation type="obsolete">自動加總</translation>
     </message>
     <message>
         <source>Automatic Filter</source>
@@ -6984,11 +8053,11 @@ Center</source>
     </message>
     <message>
         <source>Average</source>
-        <translation>平均值</translation>
+        <translation type="obsolete">平均值</translation>
     </message>
     <message>
         <source>Begin with</source>
-        <translation>開頭是</translation>
+        <translation type="obsolete">開頭是</translation>
     </message>
     <message>
         <source>Below Average</source>
@@ -7004,19 +8073,19 @@ Center</source>
     </message>
     <message>
         <source>Bottom 10</source>
-        <translation>最後 10 項</translation>
+        <translation type="obsolete">最後 10 項</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation>最後 10% 項</translation>
+        <translation type="obsolete">最後 10% 項</translation>
     </message>
     <message>
         <source>Bottom Border</source>
-        <translation>下框線</translation>
+        <translation type="obsolete">下框線</translation>
     </message>
     <message>
         <source>Bottom Double Border</source>
-        <translation>底端雙框線</translation>
+        <translation type="obsolete">底端雙框線</translation>
     </message>
     <message>
         <source>Buttom Border</source>
@@ -7032,11 +8101,11 @@ Center</source>
     </message>
     <message>
         <source>Center</source>
-        <translation>置中</translation>
+        <translation type="obsolete">置中</translation>
     </message>
     <message>
         <source>Center Across</source>
-        <translation>跨欄置中</translation>
+        <translation type="obsolete">跨欄置中</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -7080,7 +8149,7 @@ Center</source>
     </message>
     <message>
         <source>Contain</source>
-        <translation>包含</translation>
+        <translation type="obsolete">包含</translation>
     </message>
     <message>
         <source>Contents</source>
@@ -7100,7 +8169,7 @@ Center</source>
     </message>
     <message>
         <source>Count</source>
-        <translation>計數</translation>
+        <translation type="obsolete">計數</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -7108,7 +8177,7 @@ Center</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>自訂條件格式</translation>
+        <translation type="obsolete">自訂條件格式</translation>
     </message>
     <message>
         <source>Custom Sort</source>
@@ -7124,7 +8193,7 @@ Center</source>
     </message>
     <message>
         <source>Date</source>
-        <translation>日期</translation>
+        <translation type="obsolete">日期</translation>
     </message>
     <message>
         <source>Decrease Decimal</source>
@@ -7168,7 +8237,7 @@ Center</source>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation>不包含</translation>
+        <translation type="obsolete">不包含</translation>
     </message>
     <message>
         <source>Down</source>
@@ -7192,15 +8261,15 @@ Center</source>
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation>空的儲存格</translation>
+        <translation type="obsolete">空的儲存格</translation>
     </message>
     <message>
         <source>End with</source>
-        <translation>結尾是</translation>
+        <translation type="obsolete">結尾是</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation>等於</translation>
+        <translation type="obsolete">等於</translation>
     </message>
     <message>
         <source>Erase Border</source>
@@ -7212,7 +8281,7 @@ Center</source>
     </message>
     <message>
         <source>Error Value </source>
-        <translation>错误值</translation>
+        <translation type="obsolete">错误值</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -7224,7 +8293,7 @@ Center</source>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation>數列</translation>
+        <translation type="obsolete">數列</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -7271,7 +8340,7 @@ Replace</source>
     <message>
         <source>Format 
 Painter</source>
-        <translation>複製格式</translation>
+        <translation type="obsolete">複製格式</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -7279,7 +8348,7 @@ Painter</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"></translation>
+        <translation>格式為表格</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -7291,7 +8360,7 @@ Painter</source>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>凍結窗格</translation>
+        <translation type="obsolete">凍結窗格</translation>
     </message>
     <message>
         <source>Go To</source>
@@ -7303,7 +8372,7 @@ Painter</source>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>大於</translation>
+        <translation type="obsolete">大於</translation>
     </message>
     <message>
         <source>Height</source>
@@ -7335,11 +8404,11 @@ Painter</source>
     </message>
     <message>
         <source>Highlight</source>
-        <translation>醒目提示</translation>
+        <translation type="obsolete">醒目提示</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation>過去 7 日內</translation>
+        <translation type="obsolete">過去 7 日內</translation>
     </message>
     <message>
         <source>Increase Decimal</source>
@@ -7400,11 +8469,11 @@ Center</source>
     </message>
     <message>
         <source>Last month</source>
-        <translation>上個月</translation>
+        <translation type="obsolete">上個月</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>上週</translation>
+        <translation type="obsolete">上週</translation>
     </message>
     <message>
         <source>Left</source>
@@ -7412,11 +8481,11 @@ Center</source>
     </message>
     <message>
         <source>Left Border</source>
-        <translation>左框線</translation>
+        <translation type="obsolete">左框線</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation>小於</translation>
+        <translation type="obsolete">小於</translation>
     </message>
     <message>
         <source>Line Color</source>
@@ -7432,15 +8501,15 @@ Center</source>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大值</translation>
+        <translation type="obsolete">最大值</translation>
     </message>
     <message>
         <source>Merge Across</source>
-        <translation>合併欄</translation>
+        <translation type="obsolete">合併欄</translation>
     </message>
     <message>
         <source>Merge Cells</source>
-        <translation>合併儲存格</translation>
+        <translation type="obsolete">合併儲存格</translation>
     </message>
     <message>
         <source>Merge Columns</source>
@@ -7457,7 +8526,7 @@ Center</source>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小值</translation>
+        <translation type="obsolete">最小值</translation>
     </message>
     <message>
         <source>More Border Colors</source>
@@ -7477,11 +8546,11 @@ Center</source>
     </message>
     <message>
         <source>More Functions</source>
-        <translation>其他函數</translation>
+        <translation type="obsolete">其他函數</translation>
     </message>
     <message>
         <source>More Symbols</source>
-        <translation type="unfinished"></translation>
+        <translation>其他符號</translation>
     </message>
     <message>
         <source>Move or Copy Sheet</source>
@@ -7493,15 +8562,15 @@ Center</source>
     </message>
     <message>
         <source>New Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>新增表格樣式</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation>下個月</translation>
+        <translation type="obsolete">下個月</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>下週</translation>
+        <translation type="obsolete">下週</translation>
     </message>
     <message>
         <source>No Border</source>
@@ -7521,7 +8590,7 @@ Center</source>
     </message>
     <message>
         <source>Outside Borders</source>
-        <translation>外框線</translation>
+        <translation type="obsolete">外框線</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -7573,7 +8642,7 @@ Center</source>
     </message>
     <message>
         <source>Right Border</source>
-        <translation>右框線</translation>
+        <translation type="obsolete">右框線</translation>
     </message>
     <message>
         <source>Rotate Text Down</source>
@@ -7606,7 +8675,7 @@ Columns</source>
     </message>
     <message>
         <source>Scientific</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">科學記號</translation>
     </message>
     <message>
         <source>Select Objects</source>
@@ -7642,7 +8711,7 @@ Columns</source>
     </message>
     <message>
         <source>Special Value</source>
-        <translation>特殊值</translation>
+        <translation type="obsolete">特殊值</translation>
     </message>
     <message>
         <source>Standard Width</source>
@@ -7658,11 +8727,11 @@ Columns</source>
     </message>
     <message>
         <source>Sum</source>
-        <translation>加總</translation>
+        <translation type="obsolete">加總</translation>
     </message>
     <message>
         <source>Symbol</source>
-        <translation type="unfinished"></translation>
+        <translation>符號</translation>
     </message>
     <message>
         <source>Tab Color</source>
@@ -7670,7 +8739,7 @@ Columns</source>
     </message>
     <message>
         <source>Text</source>
-        <translation>文字</translation>
+        <translation type="obsolete">文字</translation>
     </message>
     <message>
         <source>Text Color</source>
@@ -7678,43 +8747,43 @@ Columns</source>
     </message>
     <message>
         <source>Thick Bottom Border</source>
-        <translation>粗下框線</translation>
+        <translation type="obsolete">粗下框線</translation>
     </message>
     <message>
         <source>Thick Box Border</source>
-        <translation>粗外框線</translation>
+        <translation type="obsolete">粗外框線</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>本月</translation>
+        <translation type="obsolete">本月</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>本週</translation>
+        <translation type="obsolete">本週</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>今天</translation>
+        <translation type="obsolete">今天</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>明天</translation>
+        <translation type="obsolete">明天</translation>
     </message>
     <message>
         <source>Top 10</source>
-        <translation>前 10 項</translation>
+        <translation type="obsolete">前 10 項</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation>前 10% 項</translation>
+        <translation type="obsolete">前 10% 項</translation>
     </message>
     <message>
         <source>Top Border</source>
-        <translation>上框線</translation>
+        <translation type="obsolete">上框線</translation>
     </message>
     <message>
         <source>Top and Bottom Border</source>
-        <translation>上框線及下框線</translation>
+        <translation type="obsolete">上框線及下框線</translation>
     </message>
     <message>
         <source>Top and Dlouble Bottom Border</source>
@@ -7722,11 +8791,11 @@ Columns</source>
     </message>
     <message>
         <source>Top and Double Bottom Border</source>
-        <translation>上框線及雙下框線</translation>
+        <translation type="obsolete">上框線及雙下框線</translation>
     </message>
     <message>
         <source>Top and Thick Bottom Border</source>
-        <translation>上框線及粗下框線</translation>
+        <translation type="obsolete">上框線及粗下框線</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -7738,7 +8807,7 @@ Columns</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">取消凍結</translation>
     </message>
     <message>
         <source>Unhide Columns</source>
@@ -7758,7 +8827,7 @@ Columns</source>
     </message>
     <message>
         <source>Unmerge Cells</source>
-        <translation>取消合併儲存格</translation>
+        <translation type="obsolete">取消合併儲存格</translation>
     </message>
     <message>
         <source>Unprotect Sheet</source>
@@ -7774,7 +8843,7 @@ Columns</source>
     </message>
     <message>
         <source>Value</source>
-        <translation>數值</translation>
+        <translation type="obsolete">數值</translation>
     </message>
     <message>
         <source>Values</source>
@@ -7782,7 +8851,7 @@ Columns</source>
     </message>
     <message>
         <source>Vertical Center</source>
-        <translation>置中對齊</translation>
+        <translation type="obsolete">置中對齊</translation>
     </message>
     <message>
         <source>Vertical Text </source>
@@ -7790,7 +8859,7 @@ Columns</source>
     </message>
     <message>
         <source>Weekend</source>
-        <translation>週末</translation>
+        <translation type="obsolete">週末</translation>
     </message>
     <message>
         <source>Width</source>
@@ -7806,11 +8875,160 @@ Columns</source>
     </message>
     <message>
         <source>Wrap Text</source>
-        <translation>自動換列</translation>
+        <translation type="obsolete">自動換列</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>昨天</translation>
+        <translation type="obsolete">昨天</translation>
+    </message>
+    <message>
+        <source>A Date Occurring</source>
+        <translation>發生的日期</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation>全部使用來源佈景主題</translation>
+    </message>
+    <message>
+        <source>Bottom 10 Items</source>
+        <translation>最後 10 個項目</translation>
+    </message>
+    <message>
+        <source>Bottom 10%</source>
+        <translation>最後 10%</translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation>計算的欄位</translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation>計算的項</translation>
+    </message>
+    <message>
+        <source>Clear Rules</source>
+        <translation>清除規則</translation>
+    </message>
+    <message>
+        <source>Clear Rules from Entire Sheet</source>
+        <translation>清除整張工作表的規則</translation>
+    </message>
+    <message>
+        <source>Clear Rules from Selected Cells</source>
+        <translation>清除選取儲存格的規則</translation>
+    </message>
+    <message>
+        <source>Clear Rules from This Table</source>
+        <translation>清除​​此表格的​​規則</translation>
+    </message>
+    <message>
+        <source>Color Scales</source>
+        <translation>色階</translation>
+    </message>
+    <message>
+        <source>Data Bars</source>
+        <translation>資料橫條</translation>
+    </message>
+    <message>
+        <source>Duplicate Value</source>
+        <translation>重複的值</translation>
+    </message>
+    <message>
+        <source>Equal To</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <translation>設定格式</translation>
+    </message>
+    <message>
+        <source>Greater Than</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>Highlight Cells Rules</source>
+        <translation>醒目提示​​儲存格規則​​</translation>
+    </message>
+    <message>
+        <source>IconSets</source>
+        <translation>圖示集</translation>
+    </message>
+    <message>
+        <source>Insert Cell (Entire Row/Entire Column)</source>
+        <translation>插入儲存格(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Insert Cells Dialog</source>
+        <translation>插入儲存格對話方塊</translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells (Entire Row/Entire Column)</source>
+        <translation>插入複製的儲存格(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells Dialog</source>
+        <translation>插入複製的儲存格對話方塊</translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells (Entire Row/Entire Column)</source>
+        <translation>插入剪下的儲存格(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells Dialog</source>
+        <translation>插入剪下的儲存格對話方塊</translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>Manage Rules</source>
+        <translation>管理規則</translation>
+    </message>
+    <message>
+        <source>More Rules</source>
+        <translation>其他規則</translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>新增樞紐分析表樣式</translation>
+    </message>
+    <message>
+        <source>New Rule</source>
+        <translation>新增規則</translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translation>貼上格式化文字</translation>
+    </message>
+    <message>
+        <source>Paste values to visible cells</source>
+        <translation>貼上值至可見儲存格</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation>數列</translation>
+    </message>
+    <message>
+        <source>SheetTool</source>
+        <translation>智能工具箱</translation>
+    </message>
+    <message>
+        <source>Text that Contains</source>
+        <translation>包含下列的文字</translation>
+    </message>
+    <message>
+        <source>Top 10 Items</source>
+        <translation>前 10 個項目</translation>
+    </message>
+    <message>
+        <source>Top 10%</source>
+        <translation>前 10%</translation>
+    </message>
+    <message>
+        <source>Top/Bottom Rules</source>
+        <translation>頂端/底端​​項目規則</translation>
     </message>
 </context>
 <context>
@@ -7946,11 +9164,11 @@ Footer</source>
     </message>
     <message>
         <source>Header and Footer</source>
-        <translation type="obsolete">頁首/頁尾</translation>
+        <translation>頁首及頁尾</translation>
     </message>
     <message>
         <source>Header/Footer</source>
-        <translation type="obsolete">頁首/頁尾</translation>
+        <translation type="obsolete">頁首及頁尾</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -7986,7 +9204,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>插入線上圖片</translation>
+        <translation>線上圖片</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -8083,7 +9301,7 @@ Pane</source>
     </message>
     <message>
         <source>Text</source>
-        <translation type="obsolete">文字</translation>
+        <translation>文字</translation>
     </message>
     <message>
         <source>Text Box</source>
@@ -8104,6 +9322,34 @@ Pane</source>
     <message>
         <source>WordArt</source>
         <translation>文字藝術師</translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation>圖庫</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation>篩選</translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation>從檔案</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>從手機</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>插入圖片</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation>樞紐分析圖</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation>交叉分析篩選器</translation>
     </message>
 </context>
 <context>
@@ -8386,6 +9632,14 @@ Backward</source>
         <source>Zoom:</source>
         <translation>縮放比例</translation>
     </message>
+    <message>
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation type="obsolete">位置</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetool</name>
@@ -8529,7 +9783,7 @@ Pictures</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">壓縮圖案</translation>
+        <translation>壓縮圖案</translation>
     </message>
     <message>
         <source>Crop</source>
@@ -8605,7 +9859,7 @@ Pictures</source>
     </message>
     <message>
         <source>Format Object</source>
-        <translation type="obsolete">格式化物件</translation>
+        <translation>格式化物件</translation>
     </message>
     <message>
         <source>Format Painter</source>
@@ -8633,7 +9887,7 @@ Pictures</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -8794,7 +10048,7 @@ Size</source>
     </message>
     <message>
         <source>Picture Styles</source>
-        <translation type="obsolete">圖片樣式</translation>
+        <translation>圖片樣式</translation>
     </message>
     <message>
         <source>Reflection</source>
@@ -8803,7 +10057,7 @@ Size</source>
     <message>
         <source>Reset
 Picture</source>
-        <translation>重設圖片</translation>
+        <translation type="obsolete">重設圖片</translation>
     </message>
     <message>
         <source>Reset Picture</source>
@@ -8811,7 +10065,7 @@ Picture</source>
     </message>
     <message>
         <source>Reset Picture and Size</source>
-        <translation>重設圖片與大小</translation>
+        <translation type="obsolete">重設圖片與大小</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -8851,7 +10105,7 @@ Picture</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">詳細配置</translation>
+        <translation>詳細配置</translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -8940,7 +10194,39 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation>依比例裁剪</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation>依圖案裁剪</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>從手機</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation type="obsolete">圖片預覽</translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translation>鎖定長寬比</translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translation>重設大小</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -9046,7 +10332,7 @@ On/Off</source>
     </message>
     <message>
         <source>Arrange</source>
-        <translation>排列</translation>
+        <translation type="obsolete">排列</translation>
     </message>
     <message>
         <source>Bring Forward</source>
@@ -9142,7 +10428,7 @@ On/Off</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -9339,7 +10625,31 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation>圖片調整</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>從手機</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Image Previewer</source>
+        <translation type="obsolete">圖片預覽</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation>插入圖片</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -9369,15 +10679,15 @@ On/Off</source>
     <name>ongmani.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
-        <translation>作用中欄位</translation>
+        <translation type="obsolete">作用中欄位</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>資料</translation>
+        <translation type="obsolete">資料</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>刪除</translation>
+        <translation type="obsolete">刪除</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -9386,12 +10696,12 @@ On/Off</source>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translation>不重複項目標籤</translation>
+        <translation type="obsolete">不重複項目標籤</translation>
     </message>
     <message>
         <source>Field
 Settings</source>
-        <translation>欄位設定</translation>
+        <translation type="obsolete">欄位設定</translation>
     </message>
     <message>
         <source>Field Settings</source>
@@ -9399,17 +10709,17 @@ Settings</source>
     </message>
     <message>
         <source>Hide</source>
-        <translation>隱藏</translation>
+        <translation type="obsolete">隱藏</translation>
     </message>
     <message>
         <source>Hide
 Detail</source>
-        <translation>隱藏詳細資料</translation>
+        <translation type="obsolete">隱藏詳細資料</translation>
     </message>
     <message>
         <source>Hide 
 Field List</source>
-        <translation>隱藏欄位清單</translation>
+        <translation type="obsolete">隱藏欄位清單</translation>
     </message>
     <message>
         <source>Hide Detail</source>
@@ -9421,12 +10731,12 @@ Field List</source>
     </message>
     <message>
         <source>Layout</source>
-        <translation>版面配置</translation>
+        <translation type="obsolete">版面配置</translation>
     </message>
     <message>
         <source>Modify
 PivotTable</source>
-        <translation>修改樞紐分析表</translation>
+        <translation type="obsolete">修改樞紐分析表</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
@@ -9434,31 +10744,31 @@ PivotTable</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>下移</translation>
+        <translation type="obsolete">下移</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>左移</translation>
+        <translation type="obsolete">左移</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>右移</translation>
+        <translation type="obsolete">右移</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>上移</translation>
+        <translation type="obsolete">上移</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>移動到開頭</translation>
+        <translation type="obsolete">移動到開頭</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>移動到最後</translation>
+        <translation type="obsolete">移動到最後</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
+        <translation type="obsolete">順序</translation>
     </message>
     <message>
         <source>Page Layout</source>
@@ -9467,7 +10777,7 @@ PivotTable</source>
     <message>
         <source>PivotTable
 Options</source>
-        <translation>樞紐分析表選項</translation>
+        <translation type="obsolete">樞紐分析表選項</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -9489,17 +10799,17 @@ Data</source>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation>重複所有項目標籤</translation>
+        <translation type="obsolete">重複所有項目標籤</translation>
     </message>
     <message>
         <source>Show
 Detail</source>
-        <translation>顯示詳細資料</translation>
+        <translation type="obsolete">顯示詳細資料</translation>
     </message>
     <message>
         <source>Show 
 Field List</source>
-        <translation>顯示欄位清單</translation>
+        <translation type="obsolete">顯示欄位清單</translation>
     </message>
     <message>
         <source>Show Detail</source>
@@ -9511,11 +10821,11 @@ Field List</source>
     </message>
     <message>
         <source>Sort</source>
-        <translation>排序</translation>
+        <translation type="obsolete">排序</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>小計</translation>
+        <translation type="obsolete">小計</translation>
     </message>
 </context>
 <context>
@@ -9642,6 +10952,42 @@ Directly</source>
     <message>
         <source>Show</source>
         <translation>顯示</translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <translation>自動分頁</translation>
+    </message>
+    <message>
+        <source>More Setup</source>
+        <translation>更多列印設定</translation>
+    </message>
+    <message>
+        <source>Paper Copies</source>
+        <translation>份數</translation>
+    </message>
+    <message>
+        <source>Paper Size</source>
+        <translation>紙張大小</translation>
+    </message>
+    <message>
+        <source>Print Entire Workbook Directly</source>
+        <translation>列印整個活頁簿</translation>
+    </message>
+    <message>
+        <source>Printer</source>
+        <translation>印表機</translation>
+    </message>
+    <message>
+        <source>Side</source>
+        <translation>雙面列印</translation>
+    </message>
+    <message>
+        <source>Workbook Views</source>
+        <translation>活頁簿檢視</translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation>顯示比例</translation>
     </message>
 </context>
 <context>
@@ -9794,6 +11140,50 @@ Sheet</source>
         <source>Unprotect 
 Workbook</source>
         <translation>撤消活頁簿保護</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>檢視我的權限</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>檢視使用者權限</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>文件安全</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation type="obsolete">硬體加密</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>下一個</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>上一個</translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation>重設所有註解</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation>重設註解</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation>顯示所有註解</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>顯示/隱藏註解</translation>
     </message>
 </context>
 <context>
@@ -10217,16 +11607,17 @@ On/Off</source>
     <name>ongmani.ct_tabletool</name>
     <message>
         <source>Convert to Range</source>
-        <translation type="unfinished"></translation>
+        <translation>轉換為範圍</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>資料範圍屬性</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯
+OLE DB 查詢</translation>
     </message>
     <message>
         <source>Edit Query</source>
@@ -10234,39 +11625,47 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出表格至 SharePoint 清單</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"></translation>
+        <translation>外部資料</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>屬性</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部重新整理</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>更新資料</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>移除重複</translation>
     </message>
     <message>
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>調整表格大小</translation>
     </message>
     <message>
         <source>Table Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>表格名稱:</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>工具</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
     </message>
 </context>
 <context>
@@ -10547,6 +11946,18 @@ OLE DB Query</source>
         <source>WordArt Styles</source>
         <translation>文字藝術師樣式</translation>
     </message>
+    <message>
+        <source>Format Object</source>
+        <translation>格式化物件</translation>
+    </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation>快速樣式​​</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>設定</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -10582,7 +11993,7 @@ Other Window</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>開發人員</translation>
+        <translation type="obsolete">開發人員</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -10606,7 +12017,7 @@ Other Window</source>
     </message>
     <message>
         <source>Freeze</source>
-        <translation>凍結窗格</translation>
+        <translation type="obsolete">凍結窗格</translation>
     </message>
     <message>
         <source>Full 
@@ -10714,7 +12125,7 @@ Layout</source>
     </message>
     <message>
         <source>Unfreeze</source>
-        <translation>取消凍結窗格</translation>
+        <translation type="obsolete">取消凍結窗格</translation>
     </message>
     <message>
         <source>Unsplit</source>
@@ -10764,13 +12175,62 @@ Layout</source>
         <source>edit cloumns</source>
         <translation type="obsolete">資料編輯列</translation>
     </message>
+    <message>
+        <source>Compare</source>
+        <translation>比較</translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation>自訂檢視</translation>
+    </message>
+    <message>
+        <source>Freeze First Column</source>
+        <translation>凍結首欄</translation>
+    </message>
+    <message>
+        <source>Freeze Panes</source>
+        <translation>凍結窗格</translation>
+    </message>
+    <message>
+        <source>Freeze Top Row</source>
+        <translation>凍結頂端列</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>隱藏</translation>
+    </message>
+    <message>
+        <source>Protect Eyes</source>
+        <translation>護眼</translation>
+    </message>
+    <message>
+        <source>Reset Window Position</source>
+        <translation>重設視窗位置</translation>
+    </message>
+    <message>
+        <source>Synchronous Scrolling</source>
+        <translation>同步捲動</translation>
+    </message>
+    <message>
+        <source>Unfreeze Panes</source>
+        <translation>取消凍結窗格</translation>
+    </message>
+    <message>
+        <source>Unhide</source>
+        <translation>取消隱藏</translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
+        <translation>並排檢視</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view.COMAddIns</name>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>COM 增益集</translation>
+        <translation type="obsolete">COM 增益集</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -11415,7 +12875,7 @@ Spacing</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="obsolete">文字藝術師</translation>
+        <translation>文字藝術師</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -11805,7 +13265,7 @@ Shape</source>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>檔案漫遊</translation>
+        <translation>最近開啟</translation>
     </message>
     <message>
         <source>Guide</source>
@@ -12007,6 +13467,112 @@ Shape</source>
         <source>login</source>
         <translation type="obsolete">登錄</translation>
     </message>
+    <message>
+        <source>Cloud File Guid</source>
+        <translation>雲文件導引</translation>
+    </message>
+    <message>
+        <source>Docer Mall</source>
+        <translation>Docer商城</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>版本歷程記錄</translation>
+    </message>
+    <message>
+        <source>Document Slimming</source>
+        <translation>文件瘦身</translation>
+    </message>
+    <message>
+        <source>Document security</source>
+        <translation>文件安全</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>匯出為圖片</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>personal</comment>
+        <translation type="obsolete">檔案漫遊</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translation>檔案漫遊</translation>
+    </message>
+    <message>
+        <source>File Tools</source>
+        <translation>檔案工具</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>全文檢索</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>線上範本</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>共享</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation>我的 WPS</translation>
+    </message>
+    <message>
+        <source>OneStep Save</source>
+        <translation>一鍵快傳</translation>
+    </message>
+    <message>
+        <source>Online Co-edit</source>
+        <translation>線上協作</translation>
+    </message>
+    <message>
+        <source>RB_Document Slimming</source>
+        <translation>文件瘦身</translation>
+    </message>
+    <message>
+        <source>Roaming File</source>
+        <translation>漫遊檔案</translation>
+    </message>
+    <message>
+        <source>Send File</source>
+        <translation>傳送至手機</translation>
+    </message>
+    <message>
+        <source>Sharing File</source>
+        <translation>與我共享</translation>
+    </message>
+    <message>
+        <source>Special Tools</source>
+        <translation>特殊功能</translation>
+    </message>
+    <message>
+        <source>Star File</source>
+        <translation type="obsolete">加星號的文件</translation>
+    </message>
+    <message>
+        <source>Team File</source>
+        <translation>群組文件</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation>WPS 雲表單</translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translation>秀堂</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translation>秀堂 H5</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
@@ -12041,6 +13607,238 @@ Shape</source>
     <message>
         <source>What-If Analysis</source>
         <translation>模擬分析</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>賬戶加密</translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation>快取圖案</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>備份中心</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>我的權限</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>權限清單</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>協作</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation>文件加密</translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>文件修復</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation>版本歷程記錄</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>捐贈</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>匯出為圖片</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>意見反應</translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation>意見反應與建議</translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation>傳送檔案</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation>從手機</translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation>GeoGebra</translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>全文檢索</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation>硬體加密</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>説明</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>說明及問答</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>插入手機圖片</translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation>條形碼</translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation>流程圖</translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation>思維導圖</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>預覽連結</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation>地圖</translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation>新聞</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation>線上圖表</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation>PDF 合併</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation>PDF 分割</translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation>將PDF匯出為Excel</translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation>將PDF匯出為PPT</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>將PDF匯出為Word</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation>密碼加密</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>將圖片匯出為PDF</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>轉換檔案中所有圖片</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>轉換選取的圖片</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>轉換圖片為文字</translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation>QR 碼</translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation>推薦</translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation>Docer 推薦範本</translation>
+    </message>
+    <message>
+        <source>ScreenSaver</source>
+        <translation type="obsolete">螢幕保護</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation>傳送郵件</translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation>傳送郵件</translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>傳送圖片</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation>設定連結</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>圖案</translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation>QQ聯絡人</translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation>WeChat聯絡人</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>網頁預覽</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation>WPS 雲表單</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12171,7 +13969,7 @@ Shape</source>
     </message>
     <message>
         <source>Activate WPS Office</source>
-        <translation>序列號管理</translation>
+        <translation type="obsolete">序列號管理</translation>
     </message>
     <message>
         <source>Add Axis</source>
@@ -12533,7 +14331,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Chart Type</source>
-        <translation type="unfinished">圖表類型</translation>
+        <translation>圖表類型</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -12565,7 +14363,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clear Contents</source>
-        <translation>清除內容</translation>
+        <translation type="obsolete">清除內容</translation>
     </message>
     <message>
         <source>Clear Highlight Repeat Items</source>
@@ -12593,7 +14391,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>剪貼簿</translation>
+        <translation type="obsolete">剪貼簿</translation>
     </message>
     <message>
         <source>Close</source>
@@ -12681,7 +14479,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Convert To Range</source>
-        <translation type="unfinished"></translation>
+        <translation>轉換為範圍</translation>
     </message>
     <message>
         <source>Copy</source>
@@ -12893,11 +14691,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>輸入啟用代碼</translation>
+        <translation type="obsolete">輸入啟用代碼</translation>
     </message>
     <message>
         <source>Entire Table Column</source>
-        <translation type="unfinished"></translation>
+        <translation>整個表格欄</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -12973,7 +14771,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出為 OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -13021,7 +14819,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Fill Left</source>
-        <translation>向左填滿</translation>
+        <translation type="obsolete">向左填滿</translation>
     </message>
     <message>
         <source>Fill Months</source>
@@ -13034,7 +14832,7 @@ Add-Ins</source>
     <message>
         <source>Fill Series</source>
         <comment>Fill</comment>
-        <translation>數列</translation>
+        <translation type="obsolete">數列</translation>
     </message>
     <message>
         <source>Fill Weekdays</source>
@@ -13399,7 +15197,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Insert Comment</source>
-        <translation>插入註解</translation>
+        <translation type="obsolete">插入註解</translation>
     </message>
     <message>
         <source>Insert Copied Cells</source>
@@ -13543,7 +15341,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>List</source>
-        <translation type="unfinished"></translation>
+        <translation>清單</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -13736,7 +15534,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Order</source>
-        <translation>順序</translation>
+        <translation type="obsolete">順序</translation>
     </message>
     <message>
         <source>Other Borders</source>
@@ -13824,7 +15622,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>PivotTable</source>
-        <translation>樞紐分析表</translation>
+        <translation type="obsolete">樞紐分析表</translation>
     </message>
     <message>
         <source>Primary Horizontal</source>
@@ -13892,7 +15690,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>購買序列號</translation>
+        <translation>購買序號</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -13972,7 +15770,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>調整表格大小</translation>
     </message>
     <message>
         <source>Restrict Permission by People</source>
@@ -14044,7 +15842,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Scientific</source>
-        <translation type="unfinished"></translation>
+        <translation>科學符號</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -14080,7 +15878,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation>選取</translation>
     </message>
     <message>
         <source>Select All Sheets</source>
@@ -14197,7 +15995,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>註銷</translation>
+        <translation type="obsolete">註銷</translation>
     </message>
     <message>
         <source>Smooth Point</source>
@@ -14237,7 +16035,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Stacking Order</source>
-        <translation>堆疊順序</translation>
+        <translation type="obsolete">堆疊順序</translation>
     </message>
     <message>
         <source>Standard Deviation</source>
@@ -14281,7 +16079,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>WPS Office 學習社區</translation>
+        <translation type="obsolete">WPS Office 學習社區</translation>
     </message>
     <message>
         <source>Style</source>
@@ -14305,7 +16103,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Synonyms</source>
-        <translation type="obsolete">同義字</translation>
+        <translation>同義字</translation>
     </message>
     <message>
         <source>Tab Color</source>
@@ -14313,31 +16111,31 @@ Add-Ins</source>
     </message>
     <message>
         <source>Table</source>
-        <translation type="unfinished">表格</translation>
+        <translation>表格</translation>
     </message>
     <message>
         <source>Table Column Data</source>
-        <translation type="unfinished"></translation>
+        <translation>表格欄資料</translation>
     </message>
     <message>
         <source>Table Column to the Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右側表格欄</translation>
     </message>
     <message>
         <source>Table Columns to the Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左側表格欄</translation>
     </message>
     <message>
         <source>Table Row</source>
-        <translation type="unfinished"></translation>
+        <translation>表格列</translation>
     </message>
     <message>
         <source>Table Row Above</source>
-        <translation type="unfinished"></translation>
+        <translation>上方表格列</translation>
     </message>
     <message>
         <source>Table Row Below</source>
-        <translation type="unfinished"></translation>
+        <translation>下方表格列</translation>
     </message>
     <message>
         <source>Table Style</source>
@@ -14389,7 +16187,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>合計列</translation>
     </message>
     <message>
         <source>Track Changes</source>
@@ -14465,7 +16263,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>User Feedback by mail</source>
@@ -14578,12 +16376,583 @@ Add-Ins</source>
     <message>
         <source>table</source>
         <comment>Delete Columns</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格欄</translation>
     </message>
     <message>
         <source>table</source>
         <comment>Delete Rows</comment>
-        <translation type="unfinished"></translation>
+        <translation>表格列</translation>
+    </message>
+    <message>
+        <source>% Difference From</source>
+        <translation>差異百分比</translation>
+    </message>
+    <message>
+        <source>% Of</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>% Running Total In</source>
+        <translation>計算加總至百分比</translation>
+    </message>
+    <message>
+        <source>% of Column Total</source>
+        <translation>欄總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Grand Total</source>
+        <translation>總計百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Column Total</source>
+        <translation>父項欄總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Row Total</source>
+        <translation>父項列總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Total</source>
+        <translation>父項總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Row Total</source>
+        <translation>列總和百分</translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation>立體設定</translation>
+    </message>
+    <message>
+        <source>Align Middle and Center</source>
+        <translation>中間置中對齊</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation>全部使用來源佈景主題</translation>
+    </message>
+    <message>
+        <source>Apply Forward</source>
+        <translation type="obsolete">請求寄出</translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">請求權限</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation>遞增</translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation>自動加總</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>備份中心</translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation>框線</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>購買訂閱</translation>
+    </message>
+    <message>
+        <source>Cells (Entire Row/Entire Column)</source>
+        <translation>儲存格(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>檢視我的權限</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>檢視使用者權限</translation>
+    </message>
+    <message>
+        <source>Clear Filter From</source>
+        <translation>清除篩選</translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation>清除文字藝術師</translation>
+    </message>
+    <message>
+        <source>Collapse</source>
+        <translation>摺疊​​</translation>
+    </message>
+    <message>
+        <source>Collapse Entire Field</source>
+        <translation>摺疊整個欄位</translation>
+    </message>
+    <message>
+        <source>Control Toolbox</source>
+        <translation>控制工具箱</translation>
+    </message>
+    <message>
+        <source>Custom Sort</source>
+        <translation>自訂排序</translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation>資料範圍內容</translation>
+    </message>
+    <message>
+        <source>Date Filters</source>
+        <translation>日期篩選</translation>
+    </message>
+    <message>
+        <source>Define Name</source>
+        <comment>NewName</comment>
+        <translation>定義名稱</translation>
+    </message>
+    <message>
+        <source>Delete (Entire Row/Entire Column)</source>
+        <translation>刪除(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Delete Dialog</source>
+        <translation>刪除對話方塊</translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translation>刪除物件</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation>遞減</translation>
+    </message>
+    <message>
+        <source>Difference From</source>
+        <translation>差異</translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation>繪圖</translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation>編輯
+OLE DB 查詢</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
+    </message>
+    <message>
+        <source>Entire Sheet Row</source>
+        <translation>工作表整列</translation>
+    </message>
+    <message>
+        <source>Expand</source>
+        <translation>展開​​</translation>
+    </message>
+    <message>
+        <source>Expand Entire Field</source>
+        <translation>展開整個欄位</translation>
+    </message>
+    <message>
+        <source>Expand/Collapse</source>
+        <translation>展開/摺疊</translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>匯出為圖片</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation>欄位設定</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>共享​​</translation>
+    </message>
+    <message>
+        <source>Format Comment...</source>
+        <translation>註解格式...</translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <translation>格式</translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation>表單</translation>
+    </message>
+    <message>
+        <source>Formula Auditing Mode</source>
+        <translation>公式稽核模式</translation>
+    </message>
+    <message>
+        <source>Formulas &amp; Number Formatting</source>
+        <translation>公式與數字設定</translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons on Chart</source>
+        <translation>在圖表上隱藏所有欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Hide Comment</source>
+        <translation>隱藏註解</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translation type="obsolete">隱藏欄位清單</translation>
+    </message>
+    <message>
+        <source>Hide Selected Items</source>
+        <translation>隱藏選取項目</translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons on Chart</source>
+        <translation>在圖表上隱藏值欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells (Entire Row/Entire Column)</source>
+        <translation>插入複製的儲存格(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells Dialog</source>
+        <translation>插入複製的儲存格對話方塊</translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells (Entire Row/Entire Column)</source>
+        <translation>插入剪下的儲存格(整列/整欄)</translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells Dialog</source>
+        <translation>插入剪下的儲存格對話方塊</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>線上範本</translation>
+    </message>
+    <message>
+        <source>Keep Only Selected Items</source>
+        <translation>僅保留選取項目</translation>
+    </message>
+    <message>
+        <source>Keep Source Column Widths</source>
+        <translation>保持原始欄寬</translation>
+    </message>
+    <message>
+        <source>Label Filters</source>
+        <translation>標籤篩選</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>ChartLegend</comment>
+        <translation>左</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>FillLeft</comment>
+        <translation>向左填滿</translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation>製作寄出文件</translation>
+    </message>
+    <message>
+        <source>Match Destination Formatting</source>
+        <translation>符合目的格式設定</translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation>其他函數</translation>
+    </message>
+    <message>
+        <source>More Options</source>
+        <translation>其他選項</translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation>其他符號</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>移動</translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation>下移</translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation>移動交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation>上移</translation>
+    </message>
+    <message>
+        <source>Move to Axis Fields (Categories)</source>
+        <translation>移至座標軸欄位 (類別)</translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation>移動至開頭</translation>
+    </message>
+    <message>
+        <source>Move to Columns</source>
+        <translation>移動至欄</translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation>移動至結尾</translation>
+    </message>
+    <message>
+        <source>Move to Left</source>
+        <translation>向左移動</translation>
+    </message>
+    <message>
+        <source>Move to Legend Fields (Series)</source>
+        <translation>移至圖例欄位 (數列)</translation>
+    </message>
+    <message>
+        <source>Move to Report Filter</source>
+        <translation>移到報表篩選</translation>
+    </message>
+    <message>
+        <source>Move to Right</source>
+        <translation>向右移動</translation>
+    </message>
+    <message>
+        <source>Move to Rows</source>
+        <translation>移動至列</translation>
+    </message>
+    <message>
+        <source>Move to Values</source>
+        <translation>移到值</translation>
+    </message>
+    <message>
+        <source>My Outward Applications</source>
+        <translation type="obsolete">我的寄出請求</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">我的等候核准</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">我的權限請求</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>我的訂閱</translation>
+    </message>
+    <message>
+        <source>New Blank Workbook</source>
+        <translation>新增</translation>
+    </message>
+    <message>
+        <source>No Calculation</source>
+        <translation>無計算</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation type="obsolete">無保護</translation>
+    </message>
+    <message>
+        <source>Number Format</source>
+        <translation>數字格式</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation>離線管理</translation>
+    </message>
+    <message>
+        <source>PTCustom Sort</source>
+        <translation>其他排序選項</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="obsolete">密碼保護</translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translation>貼上格式化文字</translation>
+    </message>
+    <message>
+        <source>Paste values to visible cells</source>
+        <translation>貼上值至可見儲存格</translation>
+    </message>
+    <message>
+        <source>PasteAsValues</source>
+        <translation type="obsolete">貼上為數值</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvert</source>
+        <translation>轉換為PDF</translation>
+    </message>
+    <message>
+        <source>PivotChart Options</source>
+        <translation>樞紐分析圖選項</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>Top 10</comment>
+        <translation>前 10 項</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>樞紐分析表選項</translation>
+    </message>
+    <message>
+        <source>PivotTableAndChart</source>
+        <translation>樞紐分析表及樞紐分析圖</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <translation>乘積</translation>
+    </message>
+    <message>
+        <source>Protection</source>
+        <translation>保護</translation>
+    </message>
+    <message>
+        <source>Rank Largest to Smallest</source>
+        <translation>最大到最小排列</translation>
+    </message>
+    <message>
+        <source>Rank Smallest to Largest</source>
+        <translation>最小到最大排列</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>重新整理</translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <translation>移除欄位</translation>
+    </message>
+    <message>
+        <source>Remove Grand Total</source>
+        <translation>移除總計</translation>
+    </message>
+    <message>
+        <source>Remove Slicers</source>
+        <translation>移除交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Remove Values</source>
+        <translation>移除值</translation>
+    </message>
+    <message>
+        <source>Running Total In</source>
+        <translation>計算加總至</translation>
+    </message>
+    <message>
+        <source>Save as Template</source>
+        <translation>儲存為範本</translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation>傳送給QQ好友</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation>數列</translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation>設定 Proxy</translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation>陰影設定</translation>
+    </message>
+    <message>
+        <source>Show Details</source>
+        <translation>顯示詳細資料</translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation>顯示欄位清單</translation>
+    </message>
+    <message>
+        <source>Show Values As</source>
+        <translation>值的顯示方式</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>顯示/隱藏註解</translation>
+    </message>
+    <message>
+        <source>Show/Hide Crop Panel</source>
+        <translation>顯示/隱藏裁剪面板</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>登出</translation>
+    </message>
+    <message>
+        <source>Size and Properties</source>
+        <translation>大小與內容</translation>
+    </message>
+    <message>
+        <source>Sort Largest to Smallest</source>
+        <translation>從Z到A排序</translation>
+    </message>
+    <message>
+        <source>Sort Smallest to Largest</source>
+        <translation>從A到Z排序</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation>標準</translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation>小計</translation>
+    </message>
+    <message>
+        <source>Summarize Values By</source>
+        <translation>摘要值方式</translation>
+    </message>
+    <message>
+        <source>Task Window</source>
+        <translation>工作窗格</translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">權限範本管理</translation>
+    </message>
+    <message>
+        <source>Using Source Theme</source>
+        <translation>使用來源佈景主題</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <translation type="obsolete">值欄位設定</translation>
+    </message>
+    <message>
+        <source>Value Filters</source>
+        <translation>值篩選</translation>
+    </message>
+    <message>
+        <source>Values &amp; Number Formatting</source>
+        <translation>值與數字格式</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation type="obsolete">浮水印保護</translation>
     </message>
 </context>
 <context>
@@ -15105,7 +17474,7 @@ OLE DB 查詢</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation>全部重新整理</translation>
+        <translation type="obsolete">全部重新整理</translation>
     </message>
     <message>
         <source>Refresh Data</source>
@@ -15198,6 +17567,34 @@ OLE DB 查詢</translation>
     <message>
         <source>What-If Analysis</source>
         <translation>模擬分析</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation>圈選錯誤資料</translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
+        <translation>清除錯誤圈選</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation>連線</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation>現有連線</translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation>插入下拉式清單</translation>
     </message>
 </context>
 <context>
@@ -15663,7 +18060,7 @@ AddIns</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -15867,7 +18264,15 @@ AddIns</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -16106,7 +18511,7 @@ AddIns</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Horizontal Text Box</source>
@@ -16266,7 +18671,15 @@ AddIns</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -16293,7 +18706,7 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">切換版本</translation>
+        <translation>切換版本</translation>
     </message>
     <message>
         <source>Check for Updates</source>
@@ -16313,7 +18726,7 @@ AddIns</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation>進入 Docer</translation>
+        <translation type="obsolete">進入 Docer</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -16333,7 +18746,7 @@ AddIns</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出為 OFD</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -16361,7 +18774,7 @@ AddIns</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation>檔案資訊</translation>
+        <translation type="obsolete">檔案資訊</translation>
     </message>
     <message>
         <source>File Menu Help</source>
@@ -16505,7 +18918,7 @@ AddIns</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation>購買序列號</translation>
+        <translation>購買序號</translation>
     </message>
     <message>
         <source>Reload</source>
@@ -16667,6 +19080,14 @@ AddIns</source>
         <source>WPS Spreadsheets Templates</source>
         <translation>WPS Spreadsheets 範本(*.ett)</translation>
     </message>
+    <message>
+        <source>File Protection</source>
+        <translation>文件安全</translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation>使用者意見反應</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
@@ -16740,7 +19161,7 @@ Time</source>
     </message>
     <message>
         <source>Define Name</source>
-        <translation>定義</translation>
+        <translation type="obsolete">定義</translation>
     </message>
     <message>
         <source>Define Names</source>
@@ -16845,7 +19266,7 @@ Trig</source>
     </message>
     <message>
         <source>Name Manager</source>
-        <translation>名稱管理員</translation>
+        <translation type="obsolete">名稱管理員</translation>
     </message>
     <message>
         <source>Paste</source>
@@ -16878,6 +19299,36 @@ Trig</source>
     <message>
         <source>Text</source>
         <translation>文字</translation>
+    </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation>移除箭號</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation>名稱
+管理員</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation>新名稱</translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation>移除從屬參照箭號</translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation>移除前導參照箭號</translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation>追蹤從屬參照</translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation>追蹤前導參照</translation>
     </message>
 </context>
 <context>
@@ -17220,7 +19671,7 @@ Trig</source>
     </message>
     <message>
         <source>Fill Series</source>
-        <translation>數列</translation>
+        <translation type="obsolete">數列</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -17264,7 +19715,7 @@ Trig</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation type="unfinished"></translation>
+        <translation>格式為表格</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -17466,7 +19917,7 @@ Center</source>
     </message>
     <message>
         <source>New Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>新增表格樣式</translation>
     </message>
     <message>
         <source>Next month</source>
@@ -17760,6 +20211,19 @@ Center</source>
         <source>Yesterday</source>
         <translation>昨天</translation>
     </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation>全部使用來源佈景主題</translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>新增樞紐分析表樣式</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation>數列</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_home.Alignment</name>
@@ -17980,6 +20444,10 @@ Center</source>
     <message>
         <source>WordArt</source>
         <translation>文字藝術師</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation>樞紐分析圖</translation>
     </message>
 </context>
 <context>
@@ -18228,6 +20696,10 @@ Center</source>
         <source>Ungroup</source>
         <translation>取消群組</translation>
     </message>
+    <message>
+        <source>Background</source>
+        <translation>背景</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_picturetool</name>
@@ -18469,7 +20941,7 @@ Center</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -18758,7 +21230,15 @@ Size</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -18956,7 +21436,7 @@ Size</source>
     </message>
     <message>
         <source>Height</source>
-        <translation>高度</translation>
+        <translation type="obsolete">高度</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -19148,7 +21628,15 @@ Size</source>
     </message>
     <message>
         <source>Width</source>
-        <translation>寬度</translation>
+        <translation type="obsolete">寬度</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 <context>
@@ -19178,15 +21666,15 @@ Size</source>
     <name>rainbow.ct_pivottabletools</name>
     <message>
         <source>Active Field</source>
-        <translation>作用中欄位</translation>
+        <translation type="obsolete">作用中欄位</translation>
     </message>
     <message>
         <source>Data</source>
-        <translation>資料</translation>
+        <translation type="obsolete">資料</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>刪除</translation>
+        <translation type="obsolete">刪除</translation>
     </message>
     <message>
         <source>Delete PivotTable</source>
@@ -19195,24 +21683,24 @@ Size</source>
     <message>
         <source>Do Not 
 Repeat Item Labels</source>
-        <translation>不重複
+        <translation type="obsolete">不重複
 項目標籤</translation>
     </message>
     <message>
         <source>Field Settings</source>
-        <translation>欄位設定</translation>
+        <translation type="obsolete">欄位設定</translation>
     </message>
     <message>
         <source>Hide</source>
-        <translation>隱藏</translation>
+        <translation type="obsolete">隱藏</translation>
     </message>
     <message>
         <source>Hide Detail</source>
-        <translation>隱藏詳細資料</translation>
+        <translation type="obsolete">隱藏詳細資料</translation>
     </message>
     <message>
         <source>Hide Field List</source>
-        <translation>隱藏欄位清單</translation>
+        <translation type="obsolete">隱藏欄位清單</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -19220,43 +21708,43 @@ Repeat Item Labels</source>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation>修改樞紐分析表</translation>
+        <translation type="obsolete">修改樞紐分析表</translation>
     </message>
     <message>
         <source>Move Down</source>
-        <translation>下移</translation>
+        <translation type="obsolete">下移</translation>
     </message>
     <message>
         <source>Move Left</source>
-        <translation>左移</translation>
+        <translation type="obsolete">左移</translation>
     </message>
     <message>
         <source>Move Right</source>
-        <translation>右移</translation>
+        <translation type="obsolete">右移</translation>
     </message>
     <message>
         <source>Move Up</source>
-        <translation>上移</translation>
+        <translation type="obsolete">上移</translation>
     </message>
     <message>
         <source>Move to Beginning</source>
-        <translation>移動到開頭</translation>
+        <translation type="obsolete">移動到開頭</translation>
     </message>
     <message>
         <source>Move to End</source>
-        <translation>移動到最後</translation>
+        <translation type="obsolete">移動到最後</translation>
     </message>
     <message>
         <source>Order</source>
-        <translation>樞紐分析表順序</translation>
+        <translation type="obsolete">樞紐分析表順序</translation>
     </message>
     <message>
         <source>Page Layout</source>
-        <translation>版面配置</translation>
+        <translation type="obsolete">版面配置</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
-        <translation>樞紐分析表選項</translation>
+        <translation type="obsolete">樞紐分析表選項</translation>
     </message>
     <message>
         <source>PivotTable Order</source>
@@ -19269,23 +21757,23 @@ Repeat Item Labels</source>
     <message>
         <source>Repeat All 
 Item Labels</source>
-        <translation>重複所有項目標籤</translation>
+        <translation type="obsolete">重複所有項目標籤</translation>
     </message>
     <message>
         <source>Show Detail</source>
-        <translation>顯示詳細資料</translation>
+        <translation type="obsolete">顯示詳細資料</translation>
     </message>
     <message>
         <source>Show Field List</source>
-        <translation>顯示欄位清單</translation>
+        <translation type="obsolete">顯示欄位清單</translation>
     </message>
     <message>
         <source>Sort</source>
-        <translation>排序</translation>
+        <translation type="obsolete">排序</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>小計</translation>
+        <translation type="obsolete">小計</translation>
     </message>
 </context>
 <context>
@@ -19504,6 +21992,30 @@ Item Labels</source>
     <message>
         <source>Unprotect Workbook</source>
         <translation>撤消活頁簿保護</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>下一個</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>上一個</translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation>重設所有註解</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation>重設註解</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation>顯示所有註解</translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation>顯示/隱藏註解</translation>
     </message>
 </context>
 <context>
@@ -19908,24 +22420,25 @@ Item Labels</source>
     <name>rainbow.ct_tabletool</name>
     <message>
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>帶狀欄</translation>
     </message>
     <message>
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>帶狀列</translation>
     </message>
     <message>
         <source>Convert to Range</source>
-        <translation type="unfinished"></translation>
+        <translation>轉換為範圍</translation>
     </message>
     <message>
         <source>Data Range Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>資料範圍屬性</translation>
     </message>
     <message>
         <source>Edit
 OLE DB Query</source>
-        <translation type="unfinished"></translation>
+        <translation>編輯
+OLE DB 查詢</translation>
     </message>
     <message>
         <source>Edit Query</source>
@@ -19933,59 +22446,67 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出表格至 SharePoint 清單</translation>
     </message>
     <message>
         <source>External Data</source>
-        <translation type="unfinished"></translation>
+        <translation>外部資料</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首欄</translation>
     </message>
     <message>
         <source>Header Row</source>
-        <translation type="unfinished"></translation>
+        <translation>標題列</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>末欄</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>屬性</translation>
     </message>
     <message>
         <source>Refresh All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部重新整理</translation>
     </message>
     <message>
         <source>Refresh Data</source>
-        <translation type="unfinished"></translation>
+        <translation>更新資料</translation>
     </message>
     <message>
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>移除重複</translation>
     </message>
     <message>
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>調整表格大小</translation>
     </message>
     <message>
         <source>Table Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>表格名稱:</translation>
     </message>
     <message>
         <source>Table Style Options</source>
-        <translation type="unfinished"></translation>
+        <translation>表格樣式選項</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>工具</translation>
     </message>
     <message>
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>合計列</translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation>編輯連線內容</translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation>編輯文字檔匯入</translation>
     </message>
 </context>
 <context>
@@ -20234,6 +22755,10 @@ OLE DB Query</source>
         <source>WordArt Styles</source>
         <translation>文字藝術師樣式</translation>
     </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation>快速樣式​​</translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_view</name>
@@ -20271,7 +22796,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>開發人員</translation>
+        <translation type="obsolete">開發人員</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -20428,6 +22953,18 @@ Other Windows</source>
     <message>
         <source>edit cloumns</source>
         <translation type="obsolete">資料編輯列</translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation>自訂檢視</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>隱藏</translation>
+    </message>
+    <message>
+        <source>Unhide</source>
+        <translation>取消隱藏</translation>
     </message>
 </context>
 <context>
@@ -21561,7 +24098,7 @@ Color</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>使用者意見反應</translation>
+        <translation type="obsolete">使用者意見反應</translation>
     </message>
     <message>
         <source>User Guide</source>
@@ -21590,6 +24127,10 @@ Color</source>
     <message>
         <source>login</source>
         <translation type="obsolete">登錄</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation>WPS 雲表單</translation>
     </message>
 </context>
 <context>
@@ -21625,6 +24166,50 @@ Color</source>
     <message>
         <source>What-If Analysis</source>
         <translation>模擬分析</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation>捐贈</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation>條形碼</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation>地圖</translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation>QR 碼</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -27832,7 +30417,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>File Roaming</source>
-        <translation>檔案漫遊</translation>
+        <translation>最近開啟</translation>
     </message>
     <message>
         <source>Highlight Duplicates</source>
@@ -27932,7 +30517,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Sign out</source>
-        <translation>登出</translation>
+        <translation type="obsolete">登出</translation>
     </message>
     <message>
         <source>Start Reading Layout</source>
@@ -27961,6 +30546,1039 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>WPS Business Version</source>
         <translation type="obsolete">商業授權</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation>賬戶加密</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>購買訂閱</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">文件權限</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>我的訂閱</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation>我的 WPS</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>登出</translation>
+    </message>
+</context>
+<context>
+    <name>classics.proxycommands</name>
+    <message>
+        <source>Account Encryption</source>
+        <translation>賬戶加密</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation>線上圖片</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_autofiltertools</name>
+    <message>
+        <source>Add Favorite</source>
+        <translation>新增到我的最愛篩選條件</translation>
+    </message>
+    <message>
+        <source>AutoFilter View</source>
+        <translation>篩選檢視</translation>
+    </message>
+    <message>
+        <source>Cancel Highlight</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Collect Filter Condition</source>
+        <translation>新增到我的最愛篩選條件</translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation>色彩設定</translation>
+    </message>
+    <message>
+        <source>Export Data</source>
+        <translation>匯出資料</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation>匯出篩選結果</translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation>至新活頁簿</translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation>至新工作表</translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation>我的最愛篩選條件</translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation>監視窗格</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation>醒目提示</translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation>醒目提示同類記錄</translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation>鎖定標題列</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation>其他色彩</translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation>統計圖表</translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>統計分析</translation>
+    </message>
+    <message>
+        <source>Reading Mode</source>
+        <translation>閱讀模式</translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation>分割工作表</translation>
+    </message>
+    <message>
+        <source>Statistical Analysis</source>
+        <translation>統計分析</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_pivottabledesign</name>
+    <message>
+        <source>Blank Rows</source>
+        <translation>空白資料列</translation>
+    </message>
+    <message>
+        <source>Disable Row Column Grand Totals</source>
+        <translation>關閉列與欄</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation>不重複項目標籤</translation>
+    </message>
+    <message>
+        <source>Do Not Show Subtotals</source>
+        <translation>不要顯示小計</translation>
+    </message>
+    <message>
+        <source>Enable Only Column Grand Totals</source>
+        <translation>僅開啟欄</translation>
+    </message>
+    <message>
+        <source>Enable Only Row Grand Totals</source>
+        <translation>僅開啟列</translation>
+    </message>
+    <message>
+        <source>Enable Row Column Grand Totals</source>
+        <translation>開啟列與欄</translation>
+    </message>
+    <message>
+        <source>Grand Totals</source>
+        <translation>總計</translation>
+    </message>
+    <message>
+        <source>Insert Blank Line after Each Item</source>
+        <translation>每一項之後插入空白行</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>​​版面配置</translation>
+    </message>
+    <message>
+        <source>Remove Blank Line after Each Item</source>
+        <translation>每一項之後移除空白行</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation>重複所有項目標籤</translation>
+    </message>
+    <message>
+        <source>Report Layout</source>
+        <translation>報表​​版面配置</translation>
+    </message>
+    <message>
+        <source>Show all Subtotals at Bottom of Group</source>
+        <translation>在群組的底端顯示所有小計</translation>
+    </message>
+    <message>
+        <source>Show all Subtotals at Top of Group</source>
+        <translation>在群組的頂端顯示所有小計</translation>
+    </message>
+    <message>
+        <source>Show in Compact Form</source>
+        <translation>以壓縮模式顯示​​</translation>
+    </message>
+    <message>
+        <source>Show in Outline Form</source>
+        <translation>以大綱模式顯示</translation>
+    </message>
+    <message>
+        <source>Show in Tabular Form</source>
+        <translation>以列表方式顯示​​</translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation>小計</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_pivottableoptions</name>
+    <message>
+        <source>+/- 
+Buttons</source>
+        <translation>+/- 按鈕</translation>
+    </message>
+    <message>
+        <source>Active Field</source>
+        <translation>作用中欄位</translation>
+    </message>
+    <message>
+        <source>Active Field:</source>
+        <translation>作用中欄位:</translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation>計算的欄位</translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation>計算的項</translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <translation>計算</translation>
+    </message>
+    <message>
+        <source>Change Data 
+Source</source>
+        <translation>變更​​資料來源</translation>
+    </message>
+    <message>
+        <source>Change Data Source</source>
+        <translation>變更​​資料來源</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>清除</translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation>全部清除</translation>
+    </message>
+    <message>
+        <source>Clear Filters</source>
+        <translation>清除篩選​​</translation>
+    </message>
+    <message>
+        <source>Collapse Entire Field</source>
+        <translation>摺疊整個欄位</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation>資料</translation>
+    </message>
+    <message>
+        <source>Delete PivotTable</source>
+        <translation>刪除樞紐分析表</translation>
+    </message>
+    <message>
+        <source>Enable Selection</source>
+        <translation>樞紐分析表選取模式</translation>
+    </message>
+    <message>
+        <source>Entire PivotTable</source>
+        <translation>整個樞紐分析表</translation>
+    </message>
+    <message>
+        <source>Expand Entire Field</source>
+        <translation>展開整個欄位</translation>
+    </message>
+    <message>
+        <source>Field 
+Headers</source>
+        <translation>欄位標題</translation>
+    </message>
+    <message>
+        <source>Field 
+List</source>
+        <translation>欄位清單</translation>
+    </message>
+    <message>
+        <source>Field Buttons</source>
+        <translation>欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation>欄位設定</translation>
+    </message>
+    <message>
+        <source>Fields,Items</source>
+        <translation>欄位、項目</translation>
+    </message>
+    <message>
+        <source>Filter Connections</source>
+        <translation>篩選連線</translation>
+    </message>
+    <message>
+        <source>Generate GetPivotData</source>
+        <translation>產生 GetPivotData</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>群組</translation>
+    </message>
+    <message>
+        <source>Group Selection</source>
+        <translation>群組選取</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>隱藏</translation>
+    </message>
+    <message>
+        <source>Hide All</source>
+        <translation>全部隱藏</translation>
+    </message>
+    <message>
+        <source>Insert Slicer</source>
+        <translation>插入​​交叉分析篩選器​​</translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation>標籤</translation>
+    </message>
+    <message>
+        <source>Labels And Values</source>
+        <translation>標籤及值</translation>
+    </message>
+    <message>
+        <source>List Formulas</source>
+        <translation>顯示公式</translation>
+    </message>
+    <message>
+        <source>Move 
+PivotTable</source>
+        <translation>移動​​樞紐分析表​​</translation>
+    </message>
+    <message>
+        <source>MoveChart</source>
+        <translation>移動圖表</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>選項</translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>樞紐分析表</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation>樞紐分析圖</translation>
+    </message>
+    <message>
+        <source>PivotTable Name:</source>
+        <translation>樞紐分析表名稱:</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>重新整理</translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation>選取</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>顯示</translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons</source>
+        <translation>顯示座標軸欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons</source>
+        <translation>顯示圖例欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Show Report Filter Field Buttons</source>
+        <translation>顯示報表篩選欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation>顯示報表篩選頁面</translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons</source>
+        <translation>顯示值欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <translation>求解順序</translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation>工具</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消群組</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation>值</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Forward</source>
+        <translation type="obsolete">請求寄出</translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">請求權限</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>檢視我的權限</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>檢視使用者權限</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="obsolete">文件安全</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>轉寄</translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation>製作寄出文件</translation>
+    </message>
+    <message>
+        <source>My Outward Applications</source>
+        <translation type="obsolete">我的寄出請求</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">我的等候核准</translation>
+    </message>
+    <message>
+        <source>My Permissions</source>
+        <translation type="obsolete">我的權限</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">我的權限請求</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation type="obsolete">無保護</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation>離線管理</translation>
+    </message>
+    <message>
+        <source>Password</source>
+        <translation type="obsolete">密碼保護</translation>
+    </message>
+    <message>
+        <source>Permissions</source>
+        <translation>權限</translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">權限範本管理</translation>
+    </message>
+    <message>
+        <source>Watermark</source>
+        <translation type="obsolete">浮水印保護</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_sliceroptions</name>
+    <message>
+        <source>Align</source>
+        <translation>對齊</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>靠下對齊</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平置中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>靠左對齊</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直置中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>靠右對齊</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>靠上對齊</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>排列</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>上移一層</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>移到最上層</translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation>按鈕高度:</translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation>按鈕寬度:</translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation>按鈕</translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation>欄數:</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>水平均分</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>垂直均分</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>等寬</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>水平翻轉</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>垂直翻轉</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>群組</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>移動</translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation>移動交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋轉</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>向左旋轉 90 度</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>向右旋轉 90 度</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>選取窗格</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>下移一層</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>移到最下層</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>顯示格線</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation>交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation>交叉分析篩選器標題:</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>貼齊格線</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消群組</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_smartartdesign</name>
+    <message>
+        <source>Backward</source>
+        <translation>下移</translation>
+    </message>
+    <message>
+        <source>Both</source>
+        <translation>兩側</translation>
+    </message>
+    <message>
+        <source>Change Colors</source>
+        <translation>變更色彩</translation>
+    </message>
+    <message>
+        <source>Change Styles</source>
+        <translation>變更樣式</translation>
+    </message>
+    <message>
+        <source>Create Graph</source>
+        <translation>建立圖形</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>上移</translation>
+    </message>
+    <message>
+        <source>Increase Level</source>
+        <translation>升階</translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation>新增圖案</translation>
+    </message>
+    <message>
+        <source>Insert assist</source>
+        <translation>新增助理</translation>
+    </message>
+    <message>
+        <source>Insert shape in after</source>
+        <translation>新增後方圖案</translation>
+    </message>
+    <message>
+        <source>Insert shape in before</source>
+        <translation>新增前方圖案</translation>
+    </message>
+    <message>
+        <source>Insert shape on above</source>
+        <translation>新增上方圖案</translation>
+    </message>
+    <message>
+        <source>Insert shape on below</source>
+        <translation>新增下方圖案</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>​​版面配置</translation>
+    </message>
+    <message>
+        <source>Left Hang</source>
+        <translation>首行由左開始</translation>
+    </message>
+    <message>
+        <source>Reduce Level</source>
+        <translation>降階</translation>
+    </message>
+    <message>
+        <source>Right Hang</source>
+        <translation>首行由右開始</translation>
+    </message>
+    <message>
+        <source>RightToLeft Layout</source>
+        <translation>從右至左</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation>一般</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_autofiltertools</name>
+    <message>
+        <source>Add Favorite</source>
+        <translation>新增到我的最愛篩選條件</translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation>色彩設定</translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation>匯出篩選結果</translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation>至新活頁簿</translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation>至新工作表</translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation>我的最愛篩選條件</translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation>監視窗格</translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation>醒目提示同類記錄</translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation>鎖定標題列</translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation>其他色彩</translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation>統計圖表</translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>統計分析</translation>
+    </message>
+    <message>
+        <source>Reading Mode</source>
+        <translation>閱讀模式</translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation>分割工作表</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_pivottableoptions</name>
+    <message>
+        <source>Active Field</source>
+        <translation>作用中欄位</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation>資料</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation>不重複項目標籤</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation>欄位設定</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>隱藏</translation>
+    </message>
+    <message>
+        <source>Hide Detail</source>
+        <translation>隱藏詳細資料</translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translation>隱藏欄位清單</translation>
+    </message>
+    <message>
+        <source>Modify PivotTable</source>
+        <translation>修改樞紐分析表</translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation>下移</translation>
+    </message>
+    <message>
+        <source>Move Left</source>
+        <translation>左移</translation>
+    </message>
+    <message>
+        <source>Move Right</source>
+        <translation>右移</translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation>上移</translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation>移動至開頭</translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation>移動至結尾</translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation>順序</translation>
+    </message>
+    <message>
+        <source>Page Layout</source>
+        <translation>版面配置</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>樞紐分析表選項</translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation>重複所有項目標籤</translation>
+    </message>
+    <message>
+        <source>Show Detail</source>
+        <translation>顯示詳細資料</translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation>顯示欄位清單</translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation>排序</translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation>小計</translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_sliceroptions</name>
+    <message>
+        <source>Align</source>
+        <translation>對齊</translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation>靠下對齊</translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation>水平置中</translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation>靠左對齊</translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation>垂直置中</translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation>靠右對齊</translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation>靠上對齊</translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation>排列</translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation>上移一層</translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation>移到最上層</translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation>按鈕高度:</translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation>按鈕寬度:</translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation>按鈕</translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation>欄寬:</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation>水平均分</translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation>垂直均分</translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation>等高</translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation>等尺寸</translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation>等寬</translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation>水平翻轉</translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation>垂直翻轉</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>群組</translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation>高度:</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation>移動</translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation>移動交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation>旋轉</translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation>向左旋轉 90 度</translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation>向右旋轉 90 度</translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation>選取窗格</translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation>下移一層</translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation>移到最下層</translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation>顯示格線</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation>交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation>交叉分析篩選器標題:</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation>貼齊格線</translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation>取消群組</translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation>寬度:</translation>
     </message>
 </context>
 </TS>

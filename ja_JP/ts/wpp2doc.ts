@@ -70,7 +70,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Kingsoft Writerに変換</translation>
+        <translation>WPS Writerファイルに変換</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
@@ -249,7 +249,7 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Kingsoft Writerに変換</translation>
+        <translation>WPS Writerファイルに変換</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>Converting to WPS Writer document encountered an error.</source>
-        <translation>Kingsoft Writerに変換中にエラーが発生しました。</translation>
+        <translation>WPS Writerファイルに変換中にエラーが発生しました。</translation>
     </message>
 </context>
 <context>
@@ -344,11 +344,11 @@ For example, 1,3,5-9.</source>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>Kingsoft Presentation</translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS Writer Document(*.wps)</source>
-        <translation>Kingsoft Writer　ファイル(*.wps)</translation>
+        <translation>WPS Writer ファイル(*.wps)</translation>
     </message>
     <message>
         <source>The name already exists. You cannot save the file with the same name as another open file. Choose a different name, or close the open file before saving.</source>

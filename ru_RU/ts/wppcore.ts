@@ -159,6 +159,51 @@
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
         <translation>Эта функция доступна в WPS Office 2009 Professional.</translation>
     </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_HIDE</comment>
+        <translation>Скрывать, когда нет воспроизведения</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_LOOP</comment>
+        <translation>Непрерывное воспроизведение</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_REWIND</comment>
+        <translation>Перемотать назад после воспроизведения</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_FULLSCREEN</comment>
+        <translation>Полноэкранный вид</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_VOL</comment>
+        <translation>Громкость</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_PLAYMODE</comment>
+        <translation>Воспроизвести</translation>
+    </message>
+    <message>
+        <source>: Straight Connector </source>
+        <comment>AEO_STRAIGHT_CONNECTOR_SHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>: Bend Connector </source>
+        <comment>AEO_BEND_CONNECTOR_SHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>: Curve Connector </source>
+        <comment>AEO_CURVE_CONNECTOR_SHAPE</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_aeoengine</name>
@@ -366,6 +411,21 @@ Would you like to open this file?
 
 Хотите открыть файл?
 </translation>
+    </message>
+    <message>
+        <source>Capture Player</source>
+        <comment>WpPlayCapture</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <comment>WpPlayCaptureInReady</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed Loading</source>
+        <comment>WpPlayCaptureFailed</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2746,7 +2806,7 @@ To continue saving as a macro-free workbook, click Yes.
     <message>
         <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
         <comment>WP_PASTEWARNING</comment>
-        <translation>Извините! Что-то пошло не так, и WPS Presentation может быть неустойчивым. Сохраните презентации и перезагрузите WPS Presentation.</translation>
+        <translation type="obsolete">Извините! Что-то пошло не так, и WPS Presentation может быть неустойчивым. Сохраните презентации и перезагрузите WPS Presentation.</translation>
     </message>
     <message>
         <source>The media clips in this version of WPS Presentation will be lost (slide %1)</source>
@@ -3038,6 +3098,135 @@ To continue saving as a macro-free workbook, click Yes.
         <source>Click to edit Master subtitle style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
         <translation>Образец подзаголовка</translation>
+    </message>
+    <message>
+        <source>Slide%1.%2</source>
+        <comment>WP_EXPORTSLIDENAME</comment>
+        <translation>Слайд %1.%2</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Title Here</source>
+        <comment>WP_ENTERTITLETIP</comment>
+        <translation>Введите здесь заголовок</translation>
+    </message>
+    <message>
+        <source>Please Enter Your SubTitle Here</source>
+        <comment>WP_ENTERSUBTITLETIP</comment>
+        <translation>Введите здесь подзаголовок</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Text Here.</source>
+        <comment>WP_ENTERTEXTTIP</comment>
+        <translation>Введите здесь текст.</translation>
+    </message>
+    <message>
+        <source>PresetLayout</source>
+        <comment>WP_PRESETLAYOUT</comment>
+        <translation>Предварительно настроенная структура</translation>
+    </message>
+    <message>
+        <source>Default Section</source>
+        <comment>WP_DEFAULT_SECTION</comment>
+        <translation>Раздел по умолчанию</translation>
+    </message>
+    <message>
+        <source>(%d slide)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDE</comment>
+        <translation>(%d слайд)</translation>
+    </message>
+    <message>
+        <source>(%d slides)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDES</comment>
+        <translation>(слайдов: %d)</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WP_UNTITLED_SECTION</comment>
+        <translation>Раздел без заголовка</translation>
+    </message>
+    <message>
+        <source>The sections in this version of WPS Presentation will be lost</source>
+        <comment>WP_COMPATIBILITYCHECKER_SECTIONS</comment>
+        <translation>Разделы в этой версии презентации WPS будут утеряны</translation>
+    </message>
+    <message>
+        <source>The table and any text in it cannot be edited when using earlier version of WPS Presentation (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_OBJTABLES</comment>
+        <translation>Таблицу и текст в таблице невозможно изменить, если используется более ранняя версия презентации WPS (слайд %1)</translation>
+    </message>
+    <message>
+        <source>These embed font(s) in this file has not loaded because they are preview and print only.
+
+</source>
+        <comment>WP_PreviewOnlyEmbedFonts</comment>
+        <translation>Следующие шрифты не загрузились:</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <comment>WP_CONVERTDIAGRAMTITLE</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>To continue saving as a WPS Presentation, you must convert all diagrams either to SmartArt graphics or to shapes.
+
+When converting to SmartArt graphics, any cell references previously applied to the diagrams will be removed. When converting to shapes, any animation previously applied to the diagrams will be removed.</source>
+        <comment>WP_CONVERTDIAGRAMCONTENT</comment>
+        <translation>Для продолжения сохранения в формате презентации WPS необходимо преобразовать все схемы либо в графические элементы SmartArt, либо в фигуры.
+
+При преобразовании в графические элементы SmartArt все ссылки на ячейки, ранее примененные к схемам, будут удалены. При преобразовании в фигуры все эффекты анимации, ранее примененные к схемам, будут удалены.</translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt Graphic</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP1</comment>
+        <translation>Преобразовать в графический элемент SmartArt</translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP2</comment>
+        <translation>Преобразовать в фигуры</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP3</comment>
+        <translation>Отмена</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error when trying to paste picture. There may be an error in picture data.</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error when trying to paste picture. This error can be caused by one of the following:
+• There may be an error in picture data.
+• Some opened files may be consuming too many system resources. Save and reopen these files, and try again.</source>
+        <comment>WP_PASTEWARNINGWITHMEMORY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The specified file %s is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>WP_SAVE_FORMAT_NOT_COMPATIBLE_ODP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <comment>WP_TITLE_SLIDE_LAYOUT_NAME</comment>
+        <translation type="unfinished">Титульный слайд</translation>
+    </message>
+    <message>
+        <source>Sorry, you can not load the %1 add-in for some reason.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to delete all the notes in this presentation?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is already an open addin named %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lack of files for this function, please contact the administrator for configuration file.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6868,12 +7057,12 @@ Layout</source>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
         <comment>DgDesc_MovieFiles</comment>
-        <translation>Файлы фильмов (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
+        <translation type="obsolete">Файлы фильмов (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
         <comment>DgExts_MovieFiles</comment>
-        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
+        <translation type="obsolete">*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
@@ -6898,12 +7087,12 @@ Layout</source>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
         <comment>DgDesc_MovieFileMpeg</comment>
-        <translation>Файл фильма (mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
+        <translation type="obsolete">Файл фильма (mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
         <comment>DgExts_MovieFileMpeg</comment>
-        <translation>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
+        <translation type="obsolete">*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
     </message>
     <message>
         <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
@@ -6923,32 +7112,32 @@ Layout</source>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
         <comment>DgDesc_SoundFiles</comment>
-        <translation>Звуковые файлы (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</translation>
+        <translation type="obsolete">Звуковые файлы (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
         <comment>DgExts_SoundFiles</comment>
-        <translation>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</translation>
+        <translation type="obsolete">*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</translation>
     </message>
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
         <comment>DgDesc_AIFFAudioFile</comment>
-        <translation>Звуковой файл AU (au) (*.au;*.snd)</translation>
+        <translation type="obsolete">Звуковой файл AU (au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>*.au;*.snd</source>
         <comment>DgExts_AIFFAudioFile</comment>
-        <translation>*.au;*.snd</translation>
+        <translation type="obsolete">*.au;*.snd</translation>
     </message>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
         <comment>DgDesc_Mp3AudioFile</comment>
-        <translation>Звуковой файл MP3 (mp3) (*.mp3;*.m3u)</translation>
+        <translation type="obsolete">Звуковой файл MP3 (mp3) (*.mp3;*.m3u)</translation>
     </message>
     <message>
         <source>*.mp3;*.m3u</source>
         <comment>DgExts_Mp3AudioFile</comment>
-        <translation>*.mp3;*.m3u</translation>
+        <translation type="obsolete">*.mp3;*.m3u</translation>
     </message>
     <message>
         <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
@@ -6973,12 +7162,12 @@ Layout</source>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
         <comment>DgDesc_WindowsMediaAudioFile</comment>
-        <translation>Файл Windows Media Audio (WMA) (*.wma;*.waw)</translation>
+        <translation type="obsolete">Файл Windows Media Audio (WMA) (*.wma;*.waw)</translation>
     </message>
     <message>
         <source>*.wma;*.waw</source>
         <comment>DgExts_WindowsMediaAudioFile</comment>
-        <translation>*.wma;*.waw</translation>
+        <translation type="obsolete">*.wma;*.waw</translation>
     </message>
     <message>
         <source>Click to add notes</source>
@@ -7353,7 +7542,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)|*.potx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)|*.potm|Microsoft PowerPoint 2007/2010 Show(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)|*.ppsm</source>
         <comment>WP_SAVEFILE</comment>
-        <translation type="obsolete">Файлы WPS Presentation(*.dps)|*.dps|Шаблоны WPS Presentation(*.dpt)|*.dpt|Презентации Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt|Шаблоны презентации Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Демонстрация Microsoft PowerPoint 97/2000/XP/2003(*.pps)|*.pps|Презентация Microsoft PowerPoint 2007/2010(*.pptx)|*.pptx|Презентация Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.pptm)|*.pptm|Шаблон презентации Microsoft PowerPoint 2007/2010(*.potx)|*.potx|Шаблон презентации Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.potm)|*.potm|Демонстрация Microsoft PowerPoint 2007/2010(*.ppsx)|*.ppsx|Демонстрация Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.ppsm)|*.ppsm</translation>
+        <translation type="unfinished">Файлы WPS Presentation(*.dps)|*.dps|Шаблоны WPS Presentation(*.dpt)|*.dpt|Презентации Microsoft PowerPoint 97/2000/XP/2003 (*.ppt)|*.ppt|Шаблоны презентации Microsoft PowerPoint 97/2000/XP/2003(*.pot)|*.pot|Демонстрация Microsoft PowerPoint 97/2000/XP/2003(*.pps)|*.pps|Презентация Microsoft PowerPoint 2007/2010(*.pptx)|*.pptx|Презентация Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.pptm)|*.pptm|Шаблон презентации Microsoft PowerPoint 2007/2010(*.potx)|*.potx|Шаблон презентации Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.potm)|*.potm|Демонстрация Microsoft PowerPoint 2007/2010(*.ppsx)|*.ppsx|Демонстрация Microsoft PowerPoint 2007/2010 с поддержкой макросов(*.ppsm)|*.ppsm</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
@@ -7418,7 +7607,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>(no synonyms suggestions)</source>
         <comment>WP_NoSynonymsSuggestions_Caption</comment>
-        <translation type="obsolete">(нет предложений синонимов)</translation>
+        <translation>(нет предложений синонимов)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
@@ -7503,6 +7692,356 @@ This backup will be saved to(%s)</source>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>WpDescOFD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>WpMOVE</comment>
+        <translation>Переместить</translation>
+    </message>
+    <message>
+        <source>Expand Section</source>
+        <comment>WpExpandSection</comment>
+        <translation>Развернуть раздел</translation>
+    </message>
+    <message>
+        <source>Collapse Section</source>
+        <comment>WpCollapseSection</comment>
+        <translation>Свернуть раздел</translation>
+    </message>
+    <message>
+        <source>AddSection</source>
+        <comment>WpAddSection</comment>
+        <translation>Добавить раздел</translation>
+    </message>
+    <message>
+        <source>RenameSection</source>
+        <comment>WpRenameSection</comment>
+        <translation>Переименовать раздел</translation>
+    </message>
+    <message>
+        <source>DeleteSection</source>
+        <comment>WpDeleteSection</comment>
+        <translation>Удалить раздел</translation>
+    </message>
+    <message>
+        <source>DeleteAllSections</source>
+        <comment>WpDeleteAllSections</comment>
+        <translation>Удалить все разделы</translation>
+    </message>
+    <message>
+        <source>MoveSection</source>
+        <comment>WpMoveSection</comment>
+        <translation>Переместить раздел</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WpSectionName</comment>
+        <translation>Раздел без заголовка</translation>
+    </message>
+    <message>
+        <source>You have selected slides in a collapsed section. These slides wiil be deleted. Do you want to continue?</source>
+        <comment>WpDeleteSectionMsg</comment>
+        <translation>В свернутом разделе есть выбранные слайды. Они будут удалены. Продолжить?</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Security Presentations(*.spptx)|*.spptx</source>
+        <comment>WP_SAVEFILE_SECURITY_SUPPORT</comment>
+        <translation>Презентации Microsoft PowerPoint Security (*.spptx)|*.spptx</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
+        <comment>WP_SAVEFILE_OSD</comment>
+        <translation>Формат защищенного в Интернете документа WPS (*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>Change Movie</source>
+        <comment>DgDesc_ChangeMovie</comment>
+        <translation>Изменить фильм</translation>
+    </message>
+    <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob)</source>
+        <comment>DgDesc_MovieFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob</source>
+        <comment>DgExts_MovieFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QuickTime Movie File (*.mov)</source>
+        <comment>DgDesc_QuickTimeMovieFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mov</source>
+        <comment>DgExts_QuickTimeMoviefile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4 Video(*.mp4;*.m4v;*.mp4v)</source>
+        <comment>DgDesc_MP4VideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mp4;*.m4v;*.mp4v</source>
+        <comment>DgExts_MP4Videofile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie File(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa)</source>
+        <comment>DgDesc_MovieFileMpeg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa</source>
+        <comment>DgExts_MovieFileMpeg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG-2 TS Video File (*.m2ts;*.m2t;*.ts;*.tts)</source>
+        <comment>DgDesc_MPEG2TSVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.m2ts;*.m2t;*.ts;*.tts</source>
+        <comment>DgExts_MPEG2TSVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adobe Falsh Media (*.flv;*.f4v)</source>
+        <comment>DgDesc_AdobeFalshMediaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.flv;*.f4v</source>
+        <comment>DgExts_AdobeFalshMediafile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DVD Video File(*.vob)</source>
+        <comment>DgDesc_DVDVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.vob</source>
+        <comment>DgExts_DVDVideofile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADTS Audio File (*.adts;*.adt;*aac)</source>
+        <comment>DgDesc_ADTSAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.adts;*.adt;*aac</source>
+        <comment>DgExts_ADTSAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
+        <comment>DgDesc_AIFFAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff</source>
+        <comment>DgExts_AIFFAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AU Audio File(au) (*.au;*.snd)</source>
+        <comment>DgDesc_AUAudioFile</comment>
+        <translation type="unfinished">Звуковой файл AU (au) (*.au;*.snd)</translation>
+    </message>
+    <message>
+        <source>*.au;*.snd</source>
+        <comment>DgExts_AUAudioFile</comment>
+        <translation type="unfinished">*.au;*.snd</translation>
+    </message>
+    <message>
+        <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
+        <comment>DgDesc_Mp3AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mp3;*.mp2;*.m3u</source>
+        <comment>DgExts_Mp3AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4 Audio (*.m4a)</source>
+        <comment>DgDesc_Mp4AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.m4a</source>
+        <comment>DgExts_Mp4AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
+        <comment>DgDesc_WindowsMediaAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wma;*.wax</source>
+        <comment>DgExts_WindowsMediaAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Web Page Files(*.mht; *.mhtml)</source>
+        <comment>WPDescMHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>\WPS Capture\WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation(*.pptx)|*.pptx</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)|*.pptm</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture Format(*.jpg,*.png,*.tif,*.bmp)|*.pic</source>
+        <comment>WP_SAVEFILE_ALLIMAGES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm;</source>
+        <comment>WP_OPENFILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>WpDescAllWPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>WpDescPDF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenDocument Presentation(*.odp)|*.odp</source>
+        <comment>WpDescODP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Addins(*.ppam; *.ppa)</source>
+        <comment>WPDescMPA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Presentation Files(*.dpsj)|*.dpsj</source>
+        <comment>WpDescGPCrypt</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles_Linux</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles_Linux</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change the source link file</source>
+        <comment>DgUil_KSO_Cmd_ChangeLinkSource</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Presentations and screenings(*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm)|*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm</source>
+        <comment>DgUil_KSO_Cmd_ChangeLinkSourceFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom paper</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

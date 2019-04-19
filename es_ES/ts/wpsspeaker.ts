@@ -34,8 +34,7 @@
     <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
-        <translation>¿Está activado el altavoz del PC?
-Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</translation>
+        <translation>¿Está activado el altavoz del PC? Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
@@ -43,7 +42,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation>No me avise de nuevo</translation>
+        <translation>No volver a avisarme sobre esto</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
@@ -51,7 +50,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Click here to open the Text Reading tool box.</source>
-        <translation>Haga clic aquí para abrir el cuadro de control de Lectura de textos.</translation>
+        <translation>Haga clic aquí para abrir la barra de herramientas de Lectura de textos.</translation>
     </message>
     <message>
         <source>Your </source>
@@ -67,7 +66,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>More about VIP</source>
-        <translation>Conviértase en VIP para seguir usando la característica y disfrutar de más servicios.</translation>
+        <translation>Conviértase en VIP para seguir usando la función y disfrutar de más servicios.</translation>
     </message>
     <message>
         <source>Text Reading</source>
@@ -84,8 +83,28 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     <message>
         <source>A sound file of this document is currently being exported. 
 Are you sure to close?</source>
-        <translation>Se está exportando un archivo de sonido de este documento. 
+        <translation>Se está exportando un archivo de sonido de este documento.
 ¿Está seguro de que desea cerrar?</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>La versión de prueba de hoy finaliza pronto. 
+Conviértase en VIP para obtener un uso ilimitado de esta función.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>La versión de prueba ha finalizado. 
+Conviértase en VIP para continuar su uso.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>Solo los usuarios VIP disfrutan de un uso ilimitado del texto leído.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>Conviértase en VIP para disfrutar de 14 funciones exclusivas, entre las que se incluye la de texto leído.</translation>
     </message>
 </context>
 <context>
@@ -96,7 +115,7 @@ Are you sure to close?</source>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation>Archivos de audio de forma de onda (*.wav)</translation>
+        <translation>Archivo de audio de Windows (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -104,8 +123,7 @@ Are you sure to close?</source>
     <message>
         <source>Is PC&apos;s speaker on?
 Check the horn icon at the bottom-right corner of Desktop.</source>
-        <translation>¿Está activado el altavoz del PC?
-Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</translation>
+        <translation>¿Está activado el altavoz del PC? Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</translation>
     </message>
     <message>
         <source>There is no content to read.</source>
@@ -113,11 +131,23 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation>No me avise de nuevo</translation>
+        <translation>No volver a avisarme sobre esto</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>El contenido seleccionado no se puede transferir a voz. Vuelva a seleccionar.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>La versión de prueba de hoy finaliza pronto. 
+Conviértase en VIP para obtener un uso ilimitado de esta función.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>La versión de prueba ha finalizado. 
+Conviértase en VIP para continuar su uso.</translation>
     </message>
 </context>
 <context>
@@ -144,7 +174,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Pause</source>
-        <translation>Pausa</translation>
+        <translation>Pausar</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -156,7 +186,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Voice Pitch</source>
-        <translation>Tono de voz</translation>
+        <translation>Tono de la voz</translation>
     </message>
     <message>
         <source>By Return</source>
@@ -164,7 +194,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation>Presionar Entrar para iniciar la lectura</translation>
+        <translation>Presione Entrar para iniciar la lectura</translation>
     </message>
     <message>
         <source>Export Speech</source>
@@ -176,15 +206,15 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Low speed</source>
-        <translation>Velocidad lenta</translation>
+        <translation>Lento</translation>
     </message>
     <message>
         <source>Medium speed</source>
-        <translation>Velocidad media</translation>
+        <translation>Medio</translation>
     </message>
     <message>
         <source>High speed</source>
-        <translation>Velocidad alta</translation>
+        <translation>Rápido</translation>
     </message>
     <message>
         <source>Low pitch</source>
@@ -230,7 +260,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     </message>
     <message>
         <source>Pause</source>
-        <translation>Pausa</translation>
+        <translation>Pausar</translation>
     </message>
     <message>
         <source>Setting</source>
@@ -436,7 +466,7 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>configuración del altavoz</translation>
+        <translation>Configuración de altavoz</translation>
     </message>
     <message>
         <source>Voice Properties</source>
@@ -553,6 +583,24 @@ Compruebe el icono de la bocina en la esquina inferior derecha del escritorio.</
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="obsolete">¿El altavoz del equipo está encendido?
 Compruebe el icono de bocina en la esquina inferior derecha del escritorio.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Cerrar</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Convertirse en VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Conviértase en VIP para seguir usando la función y disfrutar de más servicios.</translation>
     </message>
 </context>
 </TS>

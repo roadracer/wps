@@ -278,6 +278,10 @@ Please do disk cleanup first.</source>
         <translation>磁盘空间不足，输出失败。
 请清理磁盘后再次尝试本操作。</translation>
     </message>
+    <message>
+        <source>ReadMeBeforeTransmittingVideo_tutorial of playing WebM video.docx</source>
+        <translation>传输视频前必读：WebM视频播放教程.docx</translation>
+    </message>
 </context>
 <context>
     <name>KxWppEncodeStation</name>
@@ -347,6 +351,135 @@ Please do disk cleanup first.</source>
     <message>
         <source>FFMpeg[VSrc] - failed to read for </source>
         <translation>FFMpeg[VSrc] - 无法读取数据帧 </translation>
+    </message>
+</context>
+<context>
+    <name>KxEncoderInstallDlg</name>
+    <message>
+        <source>Download and install WebM video related decoder plug-ins (Extension) </source>
+        <translation>下载与安装WebM视频解码器插件（扩展）</translation>
+    </message>
+    <message>
+        <source>This software is currently only supporting the export of WebM format video. You need to install the decoder plug-in DirectShowFilters and audio plug-in Xiph to play on the local Windows Media Player. </source>
+        <translation>本软件当前仅支持导出WebM格式视频。需要安装解码器插件DirecShowFilters及音频插件Xiph，才能在本机Windows Media Player播放。</translation>
+    </message>
+    <message>
+        <source>The installation is successful, so you can play the video in WebM format on this machine. However, if the video is transferred to other computers, it may not be able to play. To solve it, please refer to </source>
+        <translation>安装成功，您可在本机播放WebM格式视频。但传输到其他电脑上可能无法播放，解决办法请参照</translation>
+    </message>
+    <message>
+        <source>MoreHelp</source>
+        <translation>更多帮助</translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation>。</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation>完成</translation>
+    </message>
+    <message>
+        <source>Failed to download or install the plugin, please try again later or refer to </source>
+        <translation>下载或安装失败，请稍后重新尝试，或查看</translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation>重新尝试</translation>
+    </message>
+</context>
+<context>
+    <name>KxEncoderIntallProgreddBarWidget</name>
+    <message>
+        <source>It is being installed, Please wait a moment...</source>
+        <translation>正在安装，请稍候...</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>It is being download, Please wait a moment...</source>
+        <translation>正在下载，请稍后...</translation>
+    </message>
+</context>
+<context>
+    <name>KxEncoderReadMeWidget</name>
+    <message>
+        <source>I Have Read!</source>
+        <translation>我已阅读</translation>
+    </message>
+    <message>
+        <source>WebM Video Coding License Agreement</source>
+        <translation>WebM视频编码许可协议</translation>
+    </message>
+    <message>
+        <source>Audio Coding License Agreement</source>
+        <translation>音频编码协议</translation>
+    </message>
+    <message>
+        <source>Decoder Plugin ReadMe Documents</source>
+        <translation>解码器插件Readme文档</translation>
+    </message>
+    <message>
+        <source> and </source>
+        <translation>与</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>下载并安装</translation>
+    </message>
+    <message>
+        <source> ,</source>
+        <translation>、</translation>
+    </message>
+</context>
+<context>
+    <name>KxOpenVideoButtonWidget</name>
+    <message>
+        <source>Open Video</source>
+        <translation>打开视频</translation>
+    </message>
+    <message>
+        <source>Open the folder</source>
+        <translation>打开所在文件夹</translation>
+    </message>
+</context>
+<context>
+    <name>KxRetryButtonWidget</name>
+    <message>
+        <source>Retry</source>
+        <translation>重新尝试</translation>
+    </message>
+</context>
+<context>
+    <name>KxVideoOutputCancelButtonWidget</name>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxVideoOutputDialog</name>
+    <message>
+        <source>Unable to play video in WebM format, Please refer to </source>
+        <translation>无法播放WebM格式的视频，请参考</translation>
+    </message>
+    <message>
+        <source>detailed strategy </source>
+        <translation>详细攻略</translation>
+    </message>
+    <message>
+        <source>Video in WebM format is being output</source>
+        <translation>正在输出视频格式（WebM格式）</translation>
+    </message>
+    <message>
+        <source>Video output has been completed</source>
+        <translation>输出视频完成</translation>
+    </message>
+    <message>
+        <source>Video output is failed</source>
+        <translation>输出视频失败</translation>
     </message>
 </context>
 </TS>

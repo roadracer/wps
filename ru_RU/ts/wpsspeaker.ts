@@ -43,15 +43,15 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation>Больше не выводить этот запрос</translation>
+        <translation>Больше не спрашивать</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation>Выбранный материал не может быть переведен в речь. Пожалуйста, повторно выберите.</translation>
+        <translation>Выбранное содержимое не может быть переведено в речь. Измените свой выбор.</translation>
     </message>
     <message>
         <source>Click here to open the Text Reading tool box.</source>
-        <translation>Щелкните здесь, чтобы открыть инструмент для чтения текста.</translation>
+        <translation>Щелкните здесь, чтобы открыть панель инструментов для чтения текста.</translation>
     </message>
     <message>
         <source>Your </source>
@@ -67,7 +67,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>More about VIP</source>
-        <translation>Больше о VIP</translation>
+        <translation>Станьте пользователем со статусом VIP, чтобы продолжить работу с этой функцией и воспользоваться другими службами.</translation>
     </message>
     <message>
         <source>Text Reading</source>
@@ -79,24 +79,44 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Exporting Audio </source>
-        <translation>Экспорт в аудио</translation>
+        <translation>Экспорт звукового файла </translation>
     </message>
     <message>
         <source>A sound file of this document is currently being exported. 
 Are you sure to close?</source>
-        <translation>Звуковой файл этого документа экспортируется.
-Вы уверены, что закрыть?</translation>
+        <translation>Звуковой файл этого документа сейчас экспортируется.
+Вы действительно хотите закрыть его?</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Ваш пробный период скоро завершится. 
+Станьте пользователем со статусом VIP, чтобы работать с этой функцией без ограничений.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Ваш пробный период завершился. 
+Станьте пользователем со статусом VIP, чтобы продолжить работу с этой функцией.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>Только пользователи со статусом VIP могут без ограничений работать с функцией преобразования текста в речь.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>Станьте пользователем со статусом VIP, чтобы получить 14 эксклюзивных функций, включая преобразование текста в речь.</translation>
     </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
     <message>
         <source>WPS Audio</source>
-        <translation>Аудио WPS</translation>
+        <translation>Аудиофайл WPS</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation>Waveform Audio Files (*.wav)</translation>
+        <translation>Аудиофайл Windows (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -113,11 +133,23 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation>Больше не выводить этот запрос</translation>
+        <translation>Больше не спрашивать</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
-        <translation>Выбранный материал не может быть переведен в речь. Пожалуйста, повторно выберите.</translation>
+        <translation>Выбранное содержимое не может быть переведено в речь. Измените свой выбор.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Ваш пробный период скоро завершится. 
+Станьте пользователем со статусом VIP, чтобы работать с этой функцией без ограничений.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Ваш пробный период завершился. 
+Станьте пользователем со статусом VIP, чтобы продолжить работу с этой функцией.</translation>
     </message>
 </context>
 <context>
@@ -132,7 +164,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Mute</source>
-        <translation>Без звука</translation>
+        <translation>Отключить звук</translation>
     </message>
     <message>
         <source>Unmute</source>
@@ -148,31 +180,31 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Stop</source>
-        <translation>Стоп</translation>
+        <translation>Остановить</translation>
     </message>
     <message>
         <source>Voice Speed</source>
-        <translation>Скорость голоса</translation>
+        <translation>Скорость речи</translation>
     </message>
     <message>
         <source>Voice Pitch</source>
-        <translation>Тон голоса</translation>
+        <translation>Тон речи</translation>
     </message>
     <message>
         <source>By Return</source>
-        <translation>Читать при введении клавиши &quot;ВВОД&quot;</translation>
+        <translation>При нажатии клавиши ВВОД</translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
-        <translation>Начинать читать при введении клавиши &quot;ВВОД&quot;</translation>
+        <translation>Нажмите клавишу ВВОД, чтобы начать читать</translation>
     </message>
     <message>
         <source>Export Speech</source>
-        <translation>Экспорт в речь</translation>
+        <translation>Экспорт речи</translation>
     </message>
     <message>
         <source>Cancel Export</source>
-        <translation>Отменить экспорт</translation>
+        <translation>Отмена экспорта</translation>
     </message>
     <message>
         <source>Low speed</source>
@@ -188,7 +220,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Low pitch</source>
-        <translation>низкий тон</translation>
+        <translation>Низкий тон</translation>
     </message>
     <message>
         <source>Medium pitch</source>
@@ -234,7 +266,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Setting</source>
-        <translation>Параметр</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>About</source>
@@ -262,47 +294,47 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Failed to connect with speech service client.</source>
-        <translation>Не удалось соединиться с клиентом речи обслуживания.</translation>
+        <translation>Не удалось соединиться с клиентом службы речи.</translation>
     </message>
     <message>
         <source>Failed to start local reading engine.</source>
-        <translation>Не удалось запустить локальную подсистему для чтения.</translation>
+        <translation>Не удалось запустить локальный обработчик чтения.</translation>
     </message>
     <message>
         <source>Failed to acquire certification from speech server.</source>
-        <translation>Не удалось получить сертификат от речи сервера.</translation>
+        <translation>Не удалось получить сертификат от сервера речи.</translation>
     </message>
     <message>
         <source>Start TCP Client Connection.</source>
-        <translation>Начать подключение клиента TCP.</translation>
+        <translation>Начать подключение TCP-клиента.</translation>
     </message>
     <message>
         <source>Failed to request reading content again.</source>
-        <translation>Не удалось запросить читать содержание снова.</translation>
+        <translation>Ошибка запроса на повторное прочтение содержимого.</translation>
     </message>
     <message>
         <source>Local speech engine has been closed.</source>
-        <translation>Местное речевой движок был закрыт.</translation>
+        <translation>Локальный обработчик речи закрыт.</translation>
     </message>
     <message>
         <source>Close connection with speech server.</source>
-        <translation>Порвать связь с речью сервере.</translation>
+        <translation>Прервать соединение с сервером речи.</translation>
     </message>
     <message>
         <source>File export is interrupted: </source>
-        <translation>Экспорт файла прерывается:</translation>
+        <translation>Экспорт файла прерван: </translation>
     </message>
     <message>
         <source>TCP Client Connected.</source>
-        <translation>Клиент TCP подключен.</translation>
+        <translation>TCP-клиент подключен.</translation>
     </message>
     <message>
         <source>TCP Client Disconnected.</source>
-        <translation>Клиент TCP отключен.</translation>
+        <translation>TCP-клиент отключен.</translation>
     </message>
     <message>
         <source>Failed connection with TCP Client: </source>
-        <translation>Не удалось соединиться с клиентом TCP:</translation>
+        <translation>Не удалось соединиться с TCP-клиентом: </translation>
     </message>
     <message>
         <source>Connection Denied.</source>
@@ -314,11 +346,11 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>TCP Client Connection Error.</source>
-        <translation>Ошибка подключения клиента TCP.</translation>
+        <translation>Ошибка подключения TCP-клиента.</translation>
     </message>
     <message>
         <source>Failed to request next reading content.</source>
-        <translation>Не удалось запросить читать следующее содержание.</translation>
+        <translation>Ошибка запроса на дальнейшее прочтение содержимого.</translation>
     </message>
     <message>
         <source>Failed to read content.</source>
@@ -326,11 +358,11 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Start</source>
-        <translation>Запуск</translation>
+        <translation>Начало</translation>
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
-        <translation>Клиент чтения текста WPS.</translation>
+        <translation>Клиент для чтения текста WPS.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -389,7 +421,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>IVTTS - failed to assign reader.</source>
-        <translation>IVTTS: не удалось назначить устройство чтения.</translation>
+        <translation>IVTTS: не удалось назначить средство чтения.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare sound engine.</source>
@@ -397,7 +429,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>IVTTS - failed to prepare file export.</source>
-        <translation>IVTTS - не удалось готовить экспорт файла.</translation>
+        <translation>IVTTS: не удалось подготовить экспорт файла.</translation>
     </message>
     <message>
         <source>IVTTS - failed to destroy TTS session.</source>
@@ -409,11 +441,11 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
-        <translation>IVTTS - не удалось создать речи для текста.</translation>
+        <translation>IVTTS: не удалось добавить речь для текста.</translation>
     </message>
     <message>
         <source>IVTTS - failed to add text to the export file.</source>
-        <translation>IVTTS - не удалось добавить текст в файл экспорта.</translation>
+        <translation>IVTTS: не удалось добавить текст в файл экспорта.</translation>
     </message>
     <message>
         <source>IVTTS - failed to set voice volume: </source>
@@ -429,22 +461,22 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>IVTTS - failed to set preferences for number pronunciation: </source>
-        <translation>IVTTS - не удалось установить предпочтения для числа произношения:</translation>
+        <translation>IVTTS: не удалось задать настройки для произношения чисел: </translation>
     </message>
 </context>
 <context>
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>параметр динамика</translation>
+        <translation>Настройки динамика</translation>
     </message>
     <message>
         <source>Voice Properties</source>
-        <translation>Свойства голоса</translation>
+        <translation>Свойства речи</translation>
     </message>
     <message>
         <source>Volume:</source>
-        <translation>громкость:</translation>
+        <translation>Громкость:</translation>
     </message>
     <message>
         <source>Pitch:</source>
@@ -456,23 +488,23 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Voice Mode</source>
-        <translation>Режим звука</translation>
+        <translation>Режим голоса</translation>
     </message>
     <message>
         <source>Voice Role:</source>
-        <translation>Роль звука:</translation>
+        <translation>Роль голоса:</translation>
     </message>
     <message>
         <source>Female Chinese</source>
-        <translation>Женский - Китайский</translation>
+        <translation>Женский, китайский</translation>
     </message>
     <message>
         <source>Read Digits as Number</source>
-        <translation>Объединить цифры,читать номер</translation>
+        <translation>Читать цифры как число</translation>
     </message>
     <message>
         <source>Export sound file</source>
-        <translation>Экспорт в звуковой файл</translation>
+        <translation>Экспорт звукового файла</translation>
     </message>
     <message>
         <source>Close</source>
@@ -553,6 +585,24 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="obsolete">Включен ли динамик компьютера?
 Проверьте значок в виде динамика в правом нижнем углу рабочего стола.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Закрыть</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Стать пользователем со статусом VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Станьте пользователем со статусом VIP, чтобы продолжить работу с этой функцией и воспользоваться другими службами.</translation>
     </message>
 </context>
 </TS>

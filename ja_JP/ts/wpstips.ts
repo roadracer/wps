@@ -444,7 +444,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="ConvertTabletoText.title">
         <source>Convert Table to Text</source>
         <extracomment>ConvertTabletoText.title</extracomment>
-        <translation>表を文字列にする</translation>
+        <translation>表の解除</translation>
     </message>
     <message id="ConvertTabletoText.content">
         <source>Convert table to text paragraph using commas, space or other characters as separators.</source>
@@ -560,7 +560,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
         <extracomment>DetailedSettings_DrawingTools.content</extracomment>
-        <translation>オブジェクトの書式を変更します。</translation>
+        <translation>▼「オブジェクトの書式設定」、「サイズ」を変更します。</translation>
     </message>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
@@ -570,7 +570,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font, paragraph, and styles and formatting.</source>
         <extracomment>DetailedSettings_Home.content</extracomment>
-        <translation>「フォント」、「段落」、「スタイルと書式」などの書式を変更します。</translation>
+        <translation>▼「フォント」、「段落」、「スタイルと書式」などの書式を変更します。</translation>
     </message>
     <message id="DetailedSettings_PageLayout.title">
         <source>Settings</source>
@@ -580,7 +580,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_PageLayout.content">
         <source>Change the settings of page setup and paragraph.</source>
         <extracomment>DetailedSettings_PageLayout.content</extracomment>
-        <translation>ページ設定、段落の書式などを変更します。</translation>
+        <translation>▼「ページ設定」などを変更します。</translation>
     </message>
     <message id="DetailedSettings_Paragraph.title">
         <source>Settings</source>
@@ -590,7 +590,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DetailedSettings_Paragraph.content">
         <source>Change the settings of paragraph, page setup, and styles and formatting.</source>
         <extracomment>DetailedSettings_Paragraph.content</extracomment>
-        <translation>段落設定、ページ設定、そしてスタイルと書式を変更します。</translation>
+        <translation>▼「段落設定」、「ページ設定」、「そしてスタイルと書式」を変更します。</translation>
     </message>
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
@@ -616,7 +616,7 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
         <source>Table Tools Detailed Settings</source>
         <oldsource>DetailedSettings TableTools Title</oldsource>
         <extracomment>DetailedSettings_TableTools.title</extracomment>
-        <translation>詳細設定</translation>
+        <translation>設定</translation>
     </message>
     <message id="DetailedSettings_TableTools.content">
         <source>DetailedSettings TableTools Content</source>
@@ -696,12 +696,12 @@ Click the arrow to choose Phonetic Guide, Enclose Characters, and Character Bord
     <message id="DoublePages.title">
         <source>Two Pages</source>
         <extracomment>DoublePages.title</extracomment>
-        <translation>2ページ</translation>
+        <translation type="obsolete">2ページ</translation>
     </message>
     <message id="DoublePages.content">
         <source>Zoom the document so that two pages fit in the window.</source>
         <extracomment>DoublePages.content</extracomment>
-        <translation>2ページがウィンドウに表示されるよう文書を拡大/縮小します</translation>
+        <translation type="obsolete">2ページがウィンドウに表示されるよう文書を拡大/縮小します</translation>
     </message>
     <message id="DrawTable.title">
         <source>Draw Table</source>
@@ -948,7 +948,7 @@ Click the arrow to choose a different text color.</source>
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
         <oldsource>Align text to both the left and right margins by adding extra space between words as necessary.</oldsource>
         <extracomment>FormatAlignJustify.content</extracomment>
-        <translation>文字列を両端に揃えて配置します</translation>
+        <translation>文字列を両端に揃えて配置します。必要に応じて文字列の間隔が調整されます。</translation>
     </message>
     <message id="FormatAlignLeft.title">
         <source>Align Text Left</source>
@@ -1312,9 +1312,9 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
 
 When WPS Spreadsheets closed, the chart in document can display normally. Double-click the chart if you want to edit it.</oldsource>
         <extracomment>InsertChart.content</extracomment>
-        <translation>挿入されたグラフは、Kingsoft Spreadsheets上で編集する必要があります。
+        <translation>「グラフの挿入」ダイアログが表示されます。
 
-Kingsoft Spreadsheetsを閉じると、設定が反映されたグラフが標準表示になります。</translation>
+グラフを作成し、その詳細設定を行うことができます。</translation>
     </message>
     <message id="InsertClipArt.title">
         <source>Insert Clip Art</source>
@@ -2631,22 +2631,22 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowDocumentMap.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap.title</extracomment>
-        <translation>見出し構成</translation>
+        <translation type="obsolete">見出し構成</translation>
     </message>
     <message id="ShowDocumentMap.content">
         <source>Show or hide the Document Map pane.</source>
         <extracomment>ShowDocumentMap.content</extracomment>
-        <translation>見出し構成ウィンドウの表示/非表示を切り替えます</translation>
+        <translation type="obsolete">見出し構成ウィンドウの表示/非表示を切り替えます</translation>
     </message>
     <message id="ShowDocumentMap2.title">
         <source>Document Map</source>
         <extracomment>ShowDocumentMap2.title</extracomment>
-        <translation>見出し構成</translation>
+        <translation type="obsolete">見出し構成</translation>
     </message>
     <message id="ShowDocumentMap2.content">
         <source>Click here to choose which position to display the Document Map pane.</source>
         <extracomment>ShowDocumentMap2.content</extracomment>
-        <translation>▼をクリックすると、見出し構成ウィンドウを表示する位置を選択できます</translation>
+        <translation type="obsolete">▼をクリックすると、見出し構成ウィンドウを表示する位置を選択できます</translation>
     </message>
     <message id="ShowFirstLineOnly.title">
         <source>Show First Line Only</source>
@@ -2701,12 +2701,12 @@ You can prevent formatting changes, force all changes to be tracked, or enable c
     <message id="ShowHideEditMark.title">
         <source>Show/Hide Editing Marks</source>
         <extracomment>ShowHideEditMark.title</extracomment>
-        <translation type="unfinished">書式マークの表示/非表示</translation>
+        <translation>書式マークの表示/非表示</translation>
     </message>
     <message id="ShowHideEditMark.content">
         <source>Show or hide format marks and paragraph layout buttons in the document.</source>
         <extracomment>ShowHideEditMark.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>書式のマークと段落レイアウトのボダンを表示/非表示にします。</translation>
     </message>
     <message id="ShowHideFormattingMarks.title">
         <source>Show/Hide Editing Marks</source>
@@ -2775,23 +2775,23 @@ The selected level and all higher levels will be visible.</source>
     <message id="SplitSection.title">
         <source>Split Section</source>
         <extracomment>SplitSection.title</extracomment>
-        <translation>セクションの分割</translation>
+        <translation type="obsolete">セクションの分割</translation>
     </message>
     <message id="SplitSection.content">
         <source>Insert a section break into the document.</source>
         <oldsource>Insert the next section break into the document.</oldsource>
         <extracomment>SplitSection.content</extracomment>
-        <translation>セクションを挿入します</translation>
+        <translation type="obsolete">セクションを挿入します</translation>
     </message>
     <message id="SplitSection2.title">
         <source>Split Section</source>
         <extracomment>SplitSection2.title</extracomment>
-        <translation>セクションの分割</translation>
+        <translation type="obsolete">セクションの分割</translation>
     </message>
     <message id="SplitSection2.content">
         <source>Click here to choose section break types.</source>
         <extracomment>SplitSection2.content</extracomment>
-        <translation>▼をクリックすると、セクションの位置を選択して挿入できます</translation>
+        <translation type="obsolete">▼をクリックすると、セクションの位置を選択して挿入できます</translation>
     </message>
     <message id="SplitTable.title">
         <source>Split Table</source>
@@ -2874,9 +2874,7 @@ Click the arrow to add an emphasis mark.</source>
     <message id="Superscript.content">
         <source>Create small letters above the line of text.</source>
         <extracomment>Superscript.content</extracomment>
-        <translation>選択した文字の上に飾り文字を配置します。
-
-▼をクリックすると「下付き」を選択できます。</translation>
+        <translation>選択した文字の上に飾り文字を配置します。</translation>
     </message>
     <message id="Superscript2.title">
         <source>Other Options</source>
@@ -3073,7 +3071,8 @@ Click the arrow to select different shading colors.</source>
         <translation>朗読</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
+        <oldsource>Turn the text into speech. You enjoy a 2-day trial of this function.</oldsource>
         <extracomment>TextSpeech.content</extracomment>
         <translation>テキスト内容を朗読します。この機能は2日の体験期間があります。</translation>
     </message>
@@ -3173,9 +3172,7 @@ Click the arrow to select different underlining styles.</source>
 
 To enable this feature, turn on View Side by Side.</source>
         <extracomment>VerbSideBySide.content</extracomment>
-        <translation>べて比較していた文書の位置がずれてしまった際、クリックすると元の並びに戻ります。
-
-この機能を有効にするには、「並べて比較」をオンにして下さい。</translation>
+        <translation>ウィンドウの位置を元に戻します。この機能を有効にする場合、「並べて比較」をオンにしてください。</translation>
     </message>
     <message id="ViewMergedData.title">
         <source>View Merged Data</source>
@@ -3655,6 +3652,647 @@ When grouped, a text range cannot be edited, except in regions containing editab
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
         <translation type="obsolete">「オブジェクトの書式」のダイアログボックスが表示されます</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.content">
+        <source>Change the settings of object size and picture formatting.</source>
+        <oldsource>Change the settings of picture formatting.</oldsource>
+        <extracomment>DetailedSettings_wps_PictureTools.content</extracomment>
+        <translation>▼「サイズ」、「オブジェクトの書式設定」を変更します。</translation>
+    </message>
+    <message id="DetailedSettings_wps_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_wps_PictureTools.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_HFTools.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_HFTools.content">
+        <source>Change the settings of page setup.</source>
+        <extracomment>DetailedSettings_HFTools.content</extracomment>
+        <translation>▼をクリックすると「ページ設定」のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="DetailedSettings_References.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_References.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_References.content">
+        <source>Change the settings of Footnotes and Endnotes.</source>
+        <extracomment>DetailedSettings_References.content</extracomment>
+        <translation>▼をクリックすると「脚注/文末脚注」のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <oldsource>Change the settings of Table&apos;s formatting.</oldsource>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translation>▼をクリックすると「表のプロパティ」、「行列」、「フォント]のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_vml.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_vml.content</extracomment>
+        <translation>▼をクリックすると「オブジェクトの書式を設定」のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_DrawingTools_Vml.content">
+        <source>Change the settings of shape and shape&apos;s font formatting.</source>
+        <extracomment>DetailedSettings_DrawingTools_Vml.content</extracomment>
+        <translation>をクリックすると「オブジェクトの書式設定」、「フォント」のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools_Vml.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools_Vml.content</extracomment>
+        <translation>▼をクリックすると「オブジェクトの書式設定」のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translation>図をテキストに変換</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translation>図内の文字列をテキスト形式に変換</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>類義語ライブラリ</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>類義語ライブラリを開く</translation>
+    </message>
+    <message id="InsertEnvelopes.title">
+        <source>Create Envelopes</source>
+        <extracomment>InsertEnvelopes.title</extracomment>
+        <translation>封筒の作成</translation>
+    </message>
+    <message id="InsertEnvelopes.content">
+        <source>Create and print envelopes.</source>
+        <extracomment>InsertEnvelopes.content</extracomment>
+        <translation>封筒の作成と印刷</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translation>リンクで共有</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translation>ファイルをリンクまたはQRコードに保存し、WechatまたはQQへ送信することができます。</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translation>送信したリンクを管理</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translation>ここで送信したリンクの削除、再送信などを操作できます。</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>ドキュメントフィックス</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>ドキュメントの文字化けや、ファイルが開けないなどの問題を素早く解決します。</translation>
+    </message>
+    <message id="MultiplePages.title">
+        <source>Multiple Pages</source>
+        <extracomment>MultiplePages.title</extracomment>
+        <translation>2ページ</translation>
+    </message>
+    <message id="MultiplePages.content">
+        <source>Zoom the document so you can see multiple pages in the window.</source>
+        <extracomment>MultiplePages.content</extracomment>
+        <translation>ウィンドウに2ページが表示されるように文書を拡大/縮小します。</translation>
+    </message>
+    <message id="InsertPTab.title">
+        <source>Insert Alignment Tab</source>
+        <extracomment>InsertPTab.title</extracomment>
+        <translation>整列タブの挿入</translation>
+    </message>
+    <message id="InsertPTab.content">
+        <source>Insert a tab stop to help align content within the header or footer.</source>
+        <extracomment>InsertPTab.content</extracomment>
+        <translation>タブを挿入して、ヘッダーやフッターの内容を揃えます。</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>図のサイズを変更する時、縦横比を固定します。</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>この図に行ったサイズ変更をすべて取り消します。</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>縦横比の固定</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>サイズのリセット</translation>
+    </message>
+    <message id="PictureStyleTip.title">
+        <source>Picture Style</source>
+        <extracomment>PictureStyleTip.title</extracomment>
+        <translation>図のスタイル</translation>
+    </message>
+    <message id="PictureStyleTip.content">
+        <source>Decide how one more more pictures are shown in the document.</source>
+        <extracomment>&quot;PictureStyleTip.content&quot;</extracomment>
+        <translation>ドキュメント内の1つ、または複数の図の表示方法を設定します。</translation>
+    </message>
+    <message id="InsertGeogebra.title">
+        <source>Insert Geometry</source>
+        <extracomment>InsertGeogebra.title</extracomment>
+        <translation>幾何学図の挿入</translation>
+    </message>
+    <message id="InsertGeogebra.content">
+        <source>A drawing tool with algebra, calculus, statistics, 3D math functions.</source>
+        <oldsource>IA drawing tool with algebra, calculus, statistics, 3D math functions.</oldsource>
+        <extracomment>InsertGeogebra.content</extracomment>
+        <translation>代数、微積分学、統計学や3D数学の機能を搭載する描画ツールです。</translation>
+    </message>
+    <message id="IndexMarkEntry.title">
+        <source>Mark Entry</source>
+        <extracomment>IndexMarkEntry.title</extracomment>
+        <translation>索引登録</translation>
+    </message>
+    <message id="IndexMarkEntry.content">
+        <source>Add the selected text to the index.</source>
+        <extracomment>IndexMarkEntry.content</extracomment>
+        <translation>選択した文字列を索引に追加します。</translation>
+    </message>
+    <message id="InsertIndex.title">
+        <source>Insert Index</source>
+        <extracomment>InsertIndex.title</extracomment>
+        <translation>索引の挿入</translation>
+    </message>
+    <message id="InsertIndex.content">
+        <source>Add an index listing key words and the page numbers they appear on.</source>
+        <extracomment>InsertIndex.content</extracomment>
+        <translation>索引一覧の語句と、その語句が記載されているページ番号を追加します。</translation>
+    </message>
+    <message id="UpdateIndex.title">
+        <source>Update Index</source>
+        <extracomment>UpdateIndex.title</extracomment>
+        <translation>索引の更新</translation>
+    </message>
+    <message id="UpdateIndex.content">
+        <source>Update the index so that all the entries refer to the correct page number.</source>
+        <extracomment>UpdateIndex.content</extracomment>
+        <translation>索引を更新して、現在のページ番号を反映します。</translation>
+    </message>
+    <message id="ChangeDiagramNum.title">
+        <source>Change Num</source>
+        <extracomment>ChangeDiagramNum.title</extracomment>
+        <translation>個数の変更</translation>
+    </message>
+    <message id="ChangeDiagramNum.content">
+        <source>Change the number of items</source>
+        <extracomment>ChangeDiagramNum.content</extracomment>
+        <translation>アイテム数を変更</translation>
+    </message>
+    <message id="ChangeDiagramColor.title">
+        <source>Change Color</source>
+        <extracomment>ChangeDiagramColor.title</extracomment>
+        <translation>色の変更</translation>
+    </message>
+    <message id="ChangeDiagramColor.content">
+        <source>Choose a variety of color schemes</source>
+        <extracomment>ChangeDiagramColor.content</extracomment>
+        <translation>複数の配色パターンを選択</translation>
+    </message>
+    <message id="FormatAlignThaiDistributed.title">
+        <source>Thai Distributed</source>
+        <extracomment>FormatAlignThaiDistributed.title</extracomment>
+        <translation>タイ語均等割付</translation>
+    </message>
+    <message id="FormatAlignThaiDistributed.content">
+        <source>Align paragraph to both the left and right margins by adding extra space between each two characters for languages with tone mark and vowel mark.
+
+This creates a document with clean look.</source>
+        <extracomment>FormatAlignThaiDistributed.content</extracomment>
+        <translation>段落全体を左右の余白の端に揃えて配置します。(声調記号および母音記号を使用する言語の場合、2 文字ごとに文字間隔が調整されます)。</translation>
+    </message>
+    <message id="TableofFigures.title">
+        <source>Insert Table of Figures</source>
+        <extracomment>TableofFigures.title</extracomment>
+        <translation>図表目次の挿入</translation>
+    </message>
+    <message id="TableofFigures.content">
+        <source>Add a list of captioned objects and their page numbers for quick reference.</source>
+        <extracomment>TableofFigures.content</extracomment>
+        <translation>図表番号付きのオブジェクトとそのページ番号の一覧を追加して、すばやく参照できるようにします。</translation>
+    </message>
+    <message id="InsertSmartArt.title">
+        <source>Insert a SmartArt Graphic</source>
+        <extracomment>InsertSmartArt.title</extracomment>
+        <translation>SmartArt 図形の挿入</translation>
+    </message>
+    <message id="InsertSmartArt.content">
+        <source>Insert a SmartArt graphic to visually communicate information.
+
+SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
+        <extracomment>InsertSmartArt.content</extracomment>
+        <translation>SmartArt 図形を挿入して、情報を視覚的に表現します。
+
+図形リストや手順図から、ベン図や組織図などの複雑な図形まで、さまざまな SmartArt 図形が用意されています。</translation>
+    </message>
+    <message id="Sort.title">
+        <source>Sort</source>
+        <extracomment>Sort.title</extracomment>
+        <translation>並べ替え</translation>
+    </message>
+    <message id="Sort.content">
+        <source>Arrange the current selection in alphabetical or numerical order.
+
+This is expecially useful if you&apos;re trying to organize data in a table.</source>
+        <extracomment>Sort.content</extracomment>
+        <translation>英文字または数字の順序で選択した内容を並べ替えます。
+
+表にデータを編集する時、データの並べ替えでもっと便利になります。</translation>
+    </message>
+    <message id="FooterDistance.title">
+        <source>Footer distance from bottom</source>
+        <extracomment>FooterDistance.title</extracomment>
+        <translation>フッターエリアの高さ</translation>
+    </message>
+    <message id="FooterDistance.content">
+        <source>Modify footer distance from bottom.</source>
+        <extracomment>FooterDistance.content</extracomment>
+        <translation>フッターエリアの高さを変更します。</translation>
+    </message>
+    <message id="HeaderDistance.title">
+        <source>Header distance from bottom</source>
+        <extracomment>HeaderDistance.title</extracomment>
+        <translation>ヘッダーエリアの高さ</translation>
+    </message>
+    <message id="HeaderDistance.content">
+        <source>Modify Header distance from bottom.</source>
+        <extracomment>HeaderDistance.content</extracomment>
+        <translation>ヘッダーエリアの高さを変更します。</translation>
+    </message>
+    <message id="InsertDocumentField.title">
+        <source>Insert Document Field</source>
+        <extracomment>InsertDocumentField.title</extracomment>
+        <translation>ドキュメントフィールドの挿入</translation>
+    </message>
+    <message id="InsertDocumentField.content">
+        <source>Insert a Document field into the document.</source>
+        <extracomment>InsertDocumentField.content</extracomment>
+        <translation>文書にドキュメントフィールドを挿入します。</translation>
+    </message>
+    <message id="QuickParts.title">
+        <source>QuickParts</source>
+        <translation>クイックパーツ</translation>
+    </message>
+    <message id="QuickParts.content">
+        <source>Inserts the default formatting text autotext and fields in the document.</source>
+        <extracomment>QuickParts.content</extracomment>
+        <translation>文書に既定書式のテキスト、定型句やフィールドを挿入します。</translation>
+    </message>
+    <message id="CellFitText.title">
+        <source>Cell fit text</source>
+        <extracomment>CellFitText.title</extracomment>
+        <translation type="obsolete">テキストに合わせる</translation>
+    </message>
+    <message id="CellFitText.content">
+        <source>Automatically adjust the character scaling and spacing in the paragraph according to the cell width.</source>
+        <extracomment>CellFitText.content</extracomment>
+        <translation type="obsolete">セルの幅によって、段落内の文字列サイズと間隔を自動的に調整します。</translation>
+    </message>
+    <message id="Pdf2PhotoCmd.title">
+        <source>PDF Export Photo</source>
+        <extracomment>Pdf2PhotoCmd.title</extracomment>
+        <translation>PDFファイルを画像として出力します。</translation>
+    </message>
+    <message id="Pdf2PhotoCmd.content">
+        <source>PDF Export Photo</source>
+        <extracomment>Pdf2PhotoCmd.content</extracomment>
+        <translation>PDFを画像として出力</translation>
+    </message>
+    <message id="Proofread.title">
+        <source>Proofread</source>
+        <extracomment>Proofread.title</extracomment>
+        <translation>文章校正</translation>
+    </message>
+    <message id="Proofread.content">
+        <source>Professional document proofread tool</source>
+        <extracomment>Proofread.content</extracomment>
+        <translation>素早くに文書の内容をプロフェッショナル校正を行います。</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCn.title">
+        <source>Insert table of contents</source>
+        <extracomment>InsertIndexTables4ZhCn.title</extracomment>
+        <translation>目次の挿入</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCn.content">
+        <source>Manual table of contents is for you to fill out.
+
+Automatic table of contents includes text formatted with Heading styles.</source>
+        <extracomment>InsertIndexTables4ZhCn.content</extracomment>
+        <translation>手動目次を挿入します。
+
+選択した段落に目次のレベルを設定して、手動目次を挿入できます。</translation>
+    </message>
+    <message id="PrinterName.title">
+        <source>The name of printer</source>
+        <extracomment>PrinterName.title</extracomment>
+        <translation>プリンタ</translation>
+    </message>
+    <message id="PrinterName.content">
+        <source>choose a printer to print.</source>
+        <extracomment>PrinterName.content</extracomment>
+        <translation>印刷するプリンタを指定します。</translation>
+    </message>
+    <message id="PrintCopies.title">
+        <source>The copies of printer</source>
+        <extracomment>PrintCopies.title</extracomment>
+        <translation>部数</translation>
+    </message>
+    <message id="PrintCopies.content">
+        <source>assign copies to print.</source>
+        <extracomment>PrintCopies.content</extracomment>
+        <translation>印刷する部数を指定します。</translation>
+    </message>
+    <message id="PrintOrder.title">
+        <source>The Collate of printer</source>
+        <extracomment>PrintOrder.title</extracomment>
+        <translation>順序</translation>
+    </message>
+    <message id="PrintOrder.content">
+        <source>Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed, or not.</source>
+        <extracomment>PrintOrder.content</extracomment>
+        <translation>印刷順序を部単位（例えば:123123）またはページ単位（例えば:112233）と指定します。</translation>
+    </message>
+    <message id="DuplexPrint.title">
+        <source>The Duplex of printer</source>
+        <extracomment>DuplexPrint.title</extracomment>
+        <translation>方式</translation>
+    </message>
+    <message id="DuplexPrint.content">
+        <source>Determines whether duplex print or nonDuplex print.</source>
+        <extracomment>DuplexPrint.content</extracomment>
+        <translation>印刷する方式を片面印刷または両面印刷と指定します。</translation>
+    </message>
+    <message id="MorePrintSettings.title">
+        <source>More setting of printer</source>
+        <extracomment>MorePrintSettings.title</extracomment>
+        <translation>その他</translation>
+    </message>
+    <message id="MorePrintSettings.content">
+        <source>could config more detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</source>
+        <extracomment>MorePrintSettings.content</extracomment>
+        <translation>詳しい印刷のオプションを設定します。例えば、プリンタの選択、印刷部数、両面印刷などを設定します。</translation>
+    </message>
+    <message id="ReadingView.title">
+        <source>Reading View</source>
+        <extracomment>ReadingView.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingView.content">
+        <source>Automatically layout content, easily flip through documents.</source>
+        <extracomment>ReadingView.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowComments.title">
+        <source>Show Comments</source>
+        <extracomment>ShowComments.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowComments.content">
+        <source>Display or hide Comments in a document.</source>
+        <extracomment>ShowComments.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingFind.title">
+        <source>Reading Find</source>
+        <extracomment>ReadingFind.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingFind.content">
+        <source>Search for text or other content in a document.</source>
+        <extracomment>ReadingFind.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingDivision.title">
+        <source>Reading Division</source>
+        <extracomment>ReadingDivision.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReadingDivision.content">
+        <source>Set the number of automatic typesetting columns in reading mode.</source>
+        <extracomment>ReadingDivision.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.title">
+        <source>Online Cooperation</source>
+        <extracomment>OnlineCooperation.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.content">
+        <source>Open the document with Web Office for multiple user collaborative editing.</source>
+        <oldsource>Open the document with WebOffice for multiple user collaborative editing.</oldsource>
+        <extracomment>OnlineCooperation.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.title">
+        <source>Full text translation</source>
+        <extracomment>DocTranslate.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.content">
+        <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
+        <extracomment>DocTranslate.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddSection.title">
+        <source>Add Section</source>
+        <extracomment>AddSection.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddSection.content">
+        <source>Insert a section break into the document.</source>
+        <extracomment>AddSection.content</extracomment>
+        <translation type="unfinished">セクションを挿入します</translation>
+    </message>
+    <message id="AddSection2.title">
+        <source>Split Section</source>
+        <extracomment>AddSection2.title</extracomment>
+        <translation type="unfinished">セクションの分割</translation>
+    </message>
+    <message id="AddSection2.content">
+        <source>Click here to choose section break types.</source>
+        <extracomment>AddSection2.content</extracomment>
+        <translation type="unfinished">▼をクリックすると、セクションの位置を選択して挿入できます</translation>
+    </message>
+    <message id="InsertIndexTables4ZhCnPage.title">
+        <source>Insert table of contents Page</source>
+        <extracomment>InsertIndexTables4ZhCnPage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertIndexTables4ZhCnPage.content">
+        <source>Manual table of contents is for you to fill out.
+
+Automatic table of contents includes text formatted with Heading styles.</source>
+        <extracomment>InsertIndexTables4ZhCnPage.content</extracomment>
+        <translation type="unfinished">手動目次を挿入します。
+
+選択した段落に目次のレベルを設定して、手動目次を挿入できます。</translation>
+    </message>
+    <message id="NavigationPane2.title">
+        <source>Navigation Pane</source>
+        <extracomment>NavigationPane2.title</extracomment>
+        <translation type="obsolete">ナビゲーションウィンドウ</translation>
+    </message>
+    <message id="PageDiffOddEven.title">
+        <source>PageDiff OddEven</source>
+        <extracomment>PageDiffOddEven.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PageDiffOddEven.content">
+        <source>Specify odd and small pages to use different headers and footers.</source>
+        <extracomment>PageDiffOddEven.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane.title">
+        <source>ShowNavigation Pane</source>
+        <extracomment>ShowNavigationPane.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane.content">
+        <source>Show or hide the Navigation Pane.</source>
+        <extracomment>ShowNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane2.title">
+        <source>ShowNavigation Pane</source>
+        <extracomment>ShowNavigationPane2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowNavigationPane2.content">
+        <source>Click to choose display navigation pane display location.</source>
+        <oldsource>Click here to choose to display a table of contents, a chapter, or a bookmark pane.</oldsource>
+        <extracomment>ShowNavigationPane2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowTocNavigationPane.title">
+        <source>Toc navigation</source>
+        <extracomment>ShowTocNavigationPane.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowTocNavigationPane.content">
+        <source>Displays or concealment Toc navigation in the navigation pane.</source>
+        <extracomment>ShowTocNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SectionNavigationPane.title">
+        <source>Section navigation</source>
+        <extracomment>SectionNavigationPane.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SectionNavigationPane.content">
+        <source>displays or hides chapter navigation in navigation pane..</source>
+        <extracomment>SectionNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip.title">
+        <source></source>
+        <extracomment>ReviewTip.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip.content">
+        <source></source>
+        <extracomment>ReviewTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip2.title">
+        <source></source>
+        <extracomment>ReviewTip2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip2.content">
+        <source></source>
+        <extracomment>ReviewTip2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Handwriting.title">
+        <source>Handwriting</source>
+        <extracomment>Handwriting.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Handwriting.content">
+        <source>Add a handwriting to the document.</source>
+        <extracomment>Handwriting.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

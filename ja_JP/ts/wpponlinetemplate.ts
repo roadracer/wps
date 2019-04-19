@@ -47,15 +47,15 @@
     <name>QApplication</name>
     <message>
         <source>\WPS Office\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Desktop.ini name.</translation>
+        <translation>\WPS Office\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Office Space\Desktop.ini name.</translation>
+        <translation>\WPS Office\Office Space\Desktop.ini name.</translation>
     </message>
     <message>
         <source>\WPS Office\Office Space\My Templates\Desktop.ini name.</source>
-        <translation>\Kingsoft Office\Office Space\My Templates\Desktop.ini name.</translation>
+        <translation>\WPS Office\Office Space\My Templates\Desktop.ini name.</translation>
     </message>
 </context>
 </TS>

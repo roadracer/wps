@@ -87,6 +87,26 @@ Are you sure to close?</source>
         <translation>Eine Audiodatei dieses Dokuments wird momentan exportiert. 
 Möchten Sie wirklich schließen?</translation>
     </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Ihre Testversion für heute läuft in Kürze ab. 
+Werden Sie VIP, um diese Funktion unbegrenzt verwenden zu können.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Ihre Testversion ist abgelaufen.
+Werden Sie VIP, um sie auch weiterhin verwenden zu können.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>Nur VIPs können Textsprache unbegrenzt verwenden.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>Werden Sie VIP und erhalten Sie 14 exklusive Funktionen, einschließlich Textsprache!</translation>
+    </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
@@ -96,7 +116,7 @@ Möchten Sie wirklich schließen?</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation>Waveform-Audiodateien (*.wav)</translation>
+        <translation>Waveform-Audiodatei (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -113,11 +133,23 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>Do not prompt me again</source>
-        <translation>Nicht erneut nachfragen</translation>
+        <translation>-tägige Testversion ist abgelaufen.</translation>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>Der ausgewählte Inhalt kann nicht in Sprache übertragen werden. Wählen Sie erneut aus.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>Ihre Testversion für heute läuft in Kürze ab. 
+Werden Sie VIP, um diese Funktion unbegrenzt verwenden zu können.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>Ihre Testversion ist abgelaufen.
+Werden Sie VIP, um sie auch weiterhin verwenden zu können.</translation>
     </message>
 </context>
 <context>
@@ -203,7 +235,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     <name>KxWpsSpeakStation</name>
     <message>
         <source>Cannot start reading.</source>
-        <translation>Lesen kann nicht begonnen werden</translation>
+        <translation>Lesen kann nicht begonnen werden.</translation>
     </message>
     <message>
         <source>Cannot start local reading client.</source>
@@ -266,7 +298,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>Failed to start local reading engine.</source>
-        <translation>Fehler beim lokalen Lese Motor zu starten.</translation>
+        <translation>Fehler beim Starten der lokalen Lese-Engine.</translation>
     </message>
     <message>
         <source>Failed to acquire certification from speech server.</source>
@@ -322,15 +354,15 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>Failed to read content.</source>
-        <translation>Nicht in der Lage, um den Klang des Absatzes Inhalte zu konvertieren.</translation>
+        <translation>Fehler beim Lesen des Inhalts.</translation>
     </message>
     <message>
         <source>Start</source>
-        <translation>start</translation>
+        <translation>Start</translation>
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
-        <translation>WPS-Text-Reading-Client</translation>
+        <translation>WPS-Text-Lese-Client.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -353,7 +385,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     <name>SpeakerIv</name>
     <message>
         <source>IVTTS - failed to allocate heap memory for content.</source>
-        <translation>IVTTS - versäumt, Heap-Speicher für den Inhalt zu zuweisen.</translation>
+        <translation>IVTTS - Fehler beim Zuweisen von Heap-Speicher für den Inhalt.</translation>
     </message>
     <message>
         <source>IVTTS - invalid role index: </source>
@@ -369,7 +401,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>IVTTS - failed to create TTS session.</source>
-        <translation>IVTTS - versäumt, TTS-Sitzung zu erstellen.</translation>
+        <translation>IVTTS - Fehler beim Erstellen der TTS-Sitzung.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign output callback.</source>
@@ -385,11 +417,11 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>IVTTS - failed to assign normal reading style.</source>
-        <translation>IVTTS - versäumt, normalen Lese Stil zu zuordnen.</translation>
+        <translation>IVTTS - Fehler beim Zuweisen eines normalen Lesestils.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign reader.</source>
-        <translation>IVTTS - versäumt, Leser zu zuweisen.</translation>
+        <translation>IVTTS - Fehler beim Zuweisen eines Lesers.</translation>
     </message>
     <message>
         <source>IVTTS - failed to prepare sound engine.</source>
@@ -405,7 +437,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>IVTTS - failed to read text.</source>
-        <translation>IVTTS - versäumt, Text zu lesen.</translation>
+        <translation>IVTTS - Fehler beim Lesen des Texts.</translation>
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
@@ -436,11 +468,11 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>Lautsprechereinstellung</translation>
+        <translation>Lautsprechereinstellungen</translation>
     </message>
     <message>
         <source>Voice Properties</source>
-        <translation>Stimmeneigenschaften</translation>
+        <translation>Stimmeigenschaften</translation>
     </message>
     <message>
         <source>Volume:</source>
@@ -456,7 +488,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>Voice Mode</source>
-        <translation>Stimmenmodus</translation>
+        <translation>Stimmmodus</translation>
     </message>
     <message>
         <source>Voice Role:</source>
@@ -495,7 +527,7 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
     </message>
     <message>
         <source>SAPI - failed to set Token category ID.</source>
-        <translation>SAPI - versäumt, Token Kategorie ID gesetzt.</translation>
+        <translation>SAPI - Fehler beim Festlegen von Token-Kategorie-ID.</translation>
     </message>
     <message>
         <source>SAPI - failed to enumerate Voice Tokens.</source>
@@ -549,6 +581,24 @@ Klicken Sie hierzu auf das Lautsprechersymbol unten rechts auf dem Desktop.</tra
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="obsolete">Ist PC-Lautsprecher auf?
 Überprüfen Sie die Lautsprechersymbol in der unteren rechten Ecke des Desktops.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Schließen</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Werden Sie VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Werden Sie VIP, um auch weiterhin die Funktion verwenden zu können und von noch mehr Diensten zu profitieren!</translation>
     </message>
 </context>
 </TS>

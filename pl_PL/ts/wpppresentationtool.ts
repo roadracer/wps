@@ -122,7 +122,7 @@
     </message>
     <message>
         <source>Unbold</source>
-        <translation>Niepogrubiona</translation>
+        <translation>Bez pogrubienia</translation>
     </message>
     <message>
         <source>Underline</source>
@@ -130,7 +130,7 @@
     </message>
     <message>
         <source>Un-underline</source>
-        <translation>Niepodkreślona</translation>
+        <translation>Bez podkreślenia</translation>
     </message>
     <message>
         <source>Italic</source>
@@ -138,7 +138,7 @@
     </message>
     <message>
         <source>Unitalicize</source>
-        <translation>Nie kursywa</translation>
+        <translation>Bez kursywy</translation>
     </message>
     <message>
         <source>Font Color</source>
@@ -146,23 +146,23 @@
     </message>
     <message>
         <source>Font Size:</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar czcionki:</translation>
     </message>
     <message>
         <source>Bold:</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogrubienie:</translation>
     </message>
     <message>
         <source>Underline:</source>
-        <translation type="unfinished"></translation>
+        <translation>Podkreślenie:</translation>
     </message>
     <message>
         <source>Italic:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kursywa:</translation>
     </message>
     <message>
         <source>Font Color:</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor czcionki:</translation>
     </message>
 </context>
 <context>
@@ -235,7 +235,10 @@
     <name>KxInsertPicturesToMultiSlide</name>
     <message>
         <source>Unidentifiable picture format.</source>
-        <translation type="obsolete">Niezidentyfikowany format obrazu.</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Niezidentyfikowany format obrazu.</lengthvariant>
+            <lengthvariant>Nieidentyfikowalny format obrazu.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The picture you inserted is too large. Please compress it to save the disk space.
@@ -288,7 +291,10 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     <name>QObject</name>
     <message>
         <source>There is no %1 font on your system,the text will be shown in a substitute font, do you want to use it anyway?</source>
-        <translation type="obsolete">W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce zastępczej. Czy chcesz mimo tego zastosować tę czcionkę?</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce zastępczej. Czy chcesz mimo tego zastosować tę czcionkę?</lengthvariant>
+            <lengthvariant>W tym systemie czcionka %1 jest niedostępna. Tekst zostanie wyświetlony w czcionce podstawianej. Czy chcesz mimo tego zastosować tę czcionkę?</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>All Fonts</source>
@@ -336,11 +342,11 @@ Należy zauważyć, że kompresowanie obrazów może obniżyć ich jakość. Czy
     </message>
     <message>
         <source>UnderLine</source>
-        <translation type="unfinished"></translation>
+        <translation>Podkreślenie</translation>
     </message>
     <message>
         <source>LineSpace</source>
-        <translation type="unfinished"></translation>
+        <translation>Interlinia</translation>
     </message>
 </context>
 </TS>

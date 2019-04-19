@@ -71,12 +71,12 @@ Vous pouvez également centrer ou répartir les objets de manière homogène sur
     <message id="AlignDistributed.title">
         <source>Distributed</source>
         <extracomment>AlignDistributed.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paragraphe réparti</translation>
     </message>
     <message id="AlignDistributed.content">
         <source>Align paragraph to both the left and right margins by adding extra space between characters as necessary.</source>
         <extracomment>AlignDistributed.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Aligner le paragraphe sur les marges gauche et droite en ajoutant l&apos;espace supplémentaire nécessaire entre les caractères.</translation>
     </message>
     <message id="AlignmentFormatCells.title">
         <source>Format Cells: Alignment</source>
@@ -728,13 +728,13 @@ Vous pouvez spécifier les colonnes dans lesquelles vous souhaitez vérifier la 
     <message id="EditOleDBQuery.title">
         <source>Edit OLE DB query</source>
         <extracomment>EditOleDBQuery.title</extracomment>
-        <translation>Modifier la requête de base de données OLE</translation>
+        <translation type="obsolete">Modifier la requête de base de données OLE</translation>
     </message>
     <message id="EditOleDBQuery.content">
         <source>Select the command type, input a relevant query statement and filter the data imported.</source>
         <oldsource>Select the command type, input a relevent query statement and filter the data imported.</oldsource>
         <extracomment>EditOleDBQuery.content</extracomment>
-        <translation>Permet de sélectionner le type de commande, d&apos;entrer une instruction de requête pertinente et de filtrer les données importées.</translation>
+        <translation type="obsolete">Permet de sélectionner le type de commande, d&apos;entrer une instruction de requête pertinente et de filtrer les données importées.</translation>
     </message>
     <message id="EquationEditor.title">
         <source>Insert Equation</source>
@@ -889,7 +889,7 @@ Cliquez sur la flèche pour sélectionner une autre couleur de texte.</translati
         <source>Font Settings</source>
         <oldsource>Format Cells: Font</oldsource>
         <extracomment>FontFormatCells.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de polices</translation>
     </message>
     <message id="FontFormatCells.content">
         <source>Show the Font dialog box.</source>
@@ -2128,12 +2128,12 @@ Cette opération n&apos;est nécessaire que si le calcul automatique a été dé
     <message id="Scientific.title">
         <source>Scientific Style</source>
         <extracomment>Scientific.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Style scientifique</translation>
     </message>
     <message id="Scientific.content">
         <source>Format as a number in scientific notation, with 2 decimal places.</source>
         <extracomment>Scientific.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Mettre au format nombre en notation en notation scientifique, avec deux positions décimales.</translation>
     </message>
     <message id="Security.title">
         <source>Macro Security</source>
@@ -2420,7 +2420,7 @@ Cliquez à nouveau sur l&apos;orientation du texte sélectionné pour rétablir 
         <translation>Lire le texte</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
         <translation>Convertissez le texte en données vocales. Profitez d&apos;une version d&apos;évaluation de 2 jours offrant cette fonction.</translation>
     </message>
@@ -2767,223 +2767,251 @@ Data Tables allow you to see the results of many different possible inputs at th
     </message>
     <message id="ChartColumn.title">
         <source>Insert Column Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un histogramme</translation>
     </message>
     <message id="ChartColumn.content">
         <source>Use this chart type to visually compare values across a few categories.
 
 Click the arrow to see the different types of column charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour comparer visuellement les valeurs de quelques catégories.
+
+Cliquez sur la flèche pour voir les différents types d&apos;histogrammes disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de votre document.</translation>
     </message>
     <message id="ChartBar.title">
         <source>Insert Bar Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un graphique en barres</translation>
     </message>
     <message id="ChartBar.content">
         <source>Use this chart type to visually compare values across a few categories when the chart shows duration or the category text is long.
 
 Click the arrow to see the different types of bar charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour comparer visuellement les valeurs de plusieurs catégories, pour représenter une durée ou lorsque le texte de la catégorie est long.
+
+Cliquez sur la flèche pour voir les différents types de graphiques à barres disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message id="ChartLine.title">
         <source>Insert Line Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un graphique en courbes</translation>
     </message>
     <message id="ChartLine.content">
         <source>Use this chart type to show trends over time (years, months, and days) or categories.
 
 Click the arrow to see the different types of line charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour afficher des tendances dans le temps (années, mois et jours) ou des catégories.
+
+Cliquez sur la flèche pour voir les différents types de graphiques en courbes disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message id="ChartRadar.title">
         <source>Insert Stock or Radar Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un graphique boursier ou en radar</translation>
     </message>
     <message id="ChartRadar.content">
         <source>Click the arrow to see the different types of stock or radar charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cliquez sur la flèche pour voir les différents types de graphiques boursiers ou en radar disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message id="ChartArea.title">
         <source>Insert Area Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un graphique en aires</translation>
     </message>
     <message id="ChartArea.content">
         <source>Use this chart type to show trends over time (years, months, and days) or categories. Use it to highlight the magnitude of change over time.
 
 Click the arrow to see the different types of area charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour voir des tendances dans le temps (années, mois et jours) ou des catégories. Utilisez-le pour mettre en évidence l&apos;ampleur d&apos;un changement dans le temps.
+
+Cliquez sur la flèche pour voir les différents types de graphiques en aires disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de votre document.</translation>
     </message>
     <message id="ChartCombination.title">
         <source>Insert Combo Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un graphique combiné</translation>
     </message>
     <message id="ChartCombination.content">
         <source>Use this chart type to highlight different types of information. Use it when the range of values in the chart varies widely or you have mixed types of data.
 
 Click the arrow to see pre-set combo charts and pause over the icons to see a preview in your document. Click Create Custom Combo Chart to choose different chart types to combine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour mettre en évidence différent types d&apos;informations, lorsque la plage de valeurs du graphique varie beaucoup ou lorsque les types de données sont mélangés.
+
+Cliquez sur la flèche pour afficher différents graphiques combinés prédéfinis, et faire glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document. Cliquez sur Créer un graphique combiné personnalisé pour choisir différents types de graphiques à combiner.</translation>
     </message>
     <message id="ChartPie.title">
         <source>Insert Pie or Doughnut Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un graphique en secteurs ou en anneau</translation>
     </message>
     <message id="ChartPie.content">
         <source>Use this chart type to show proportions of a whole. Use it when the total of your numbers is 100%.
 
 Click the arrow to see the different types of pie and doughnut charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour afficher les proportions d&apos;un tout, ou un total égal à 100 %.
+
+Cliquez sur la flèche pour voir les différents types de graphiques à secteurs et en anneau disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message id="ChartScatter.title">
         <source>Insert Scatter (X, Y) or Bubble Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer un nuage de points (X, Y) ou un graphique en bulles</translation>
     </message>
     <message id="ChartScatter.content">
         <source>Use this chart type to show the relationship between sets of values.
 
 Click the arrow to see the different types of scatter and bubble charts available and pause the pointer on the icons to see a preview in your document.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser ce type de graphique pour représenter les relations entre plusieurs ensembles de valeurs.
+
+Cliquez sur la flèche pour afficher les différents types de graphiques en bulles et en nuages de points disponibles, et faites glisser le pointeur sur les icônes pour afficher un aperçu de ces graphiques dans votre document.</translation>
     </message>
     <message id="Accounting.title">
         <source>Accounting</source>
-        <translation type="unfinished"></translation>
+        <translation>Comptabilité</translation>
     </message>
     <message id="Accounting.content">
         <source>Choose an alternate Accounting format for the selected cell, and allowing the currency symbol aligned to the left.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez un autre format de devise pour la cellule sélectionnée, pour permettre au symbole de devise d&apos;être aligné à gauche.</translation>
     </message>
     <message id="CellStyleGallery.title">
         <source>Cell Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Styles de cellules</translation>
     </message>
     <message id="CellStyleGallery.content">
         <source>Selecting a predefined style or fast setting cell types. You can also customize styles.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélectionnez un style prédéfini pour les cellules. Vous pouvez également personnaliser les styles.</translation>
     </message>
     <message id="Table.title">
         <source>Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Tableau</translation>
     </message>
     <message id="Table.content">
         <source>Create a table to manage and analyze related data.
 
 Tables make it easy to sort, filter, and format data within a sheet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Créer un tableau pour gérer et analyser des données connexes.
+
+Les tableaux facilitent le tri, le filtrage et le le formatage des données dans une feuille.</translation>
     </message>
     <message id="FormatAsTable.title">
         <source>Format As Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre sous forme de tableau</translation>
     </message>
     <message id="FormatAsTable.content">
         <source>Quickly convert a range of cells to a table with its own style.</source>
-        <translation type="unfinished"></translation>
+        <translation>Effectuer une conversion rapide d&apos;une plage de cellules en un tableau à l&apos;aide de son propre style.</translation>
     </message>
     <message id="TableName.title">
         <source>Table Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du tableau</translation>
     </message>
     <message id="TableName.content">
         <source>Edit the name of this table used to refer to it in formulas.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le nom de ce tableau, qui sert de référence dans les formules.</translation>
     </message>
     <message id="ResizeTable.title">
         <source>Resize Table</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionner le tableau</translation>
     </message>
     <message id="ResizeTable.content">
         <source>Resize this table by adding or removing rows and columns.</source>
-        <translation type="unfinished"></translation>
+        <translation>Redimensionner ce tableau en ajoutant ou en supprimant des lignes et des colonnes.</translation>
     </message>
     <message id="RemoveDuplicates.title">
         <source>Remove Duplicates</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les doublons</translation>
     </message>
     <message id="RemoveDuplicates.content">
         <source>Delete duplicate rows from a sheet.
 
 You can pick which columns should be checked for duplicate information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer les lignes en double dans une feuille de données.
+
+Vous pouvez sélectionner les colonnes dans lesquelles vous souhaitez vérifier la présence d&apos;informations en double.</translation>
     </message>
     <message id="ConvertToRange.title">
         <source>Convert to Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir en plage</translation>
     </message>
     <message id="ConvertToRange.content">
         <source>Convert this table into a normal range of cells.
 
 All of the data is preserved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Convertir ce tableau en plage normale de cellules.
+
+Toutes les données sont conservées.</translation>
     </message>
     <message id="TableMenuRefresh.title">
         <source>Refresh</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualiser</translation>
     </message>
     <message id="TableMenuRefresh.content">
         <source>Get the latest data from the source connected to the active cell.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obtenir les dernières données de la source connectée à la cellule active.</translation>
     </message>
     <message id="PublishToSharePoint.title">
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter le tableau vers une liste SharePoint</translation>
     </message>
     <message id="PublishToSharePoint.content">
         <source>Export the data in this table to a SharePoint list or Visio diagram.</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter les données de ce tableau vers une liste SharePoint ou un diagramme Visio.</translation>
     </message>
     <message id="HeaderRow.title">
         <source>Header Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne d&apos;en-tête</translation>
     </message>
     <message id="HeaderRow.content">
         <source>Turn on or off the header row the table.
 
 A header row formats the top row of the table specially.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer ou désactiver la ligne d&apos;en-tête du tableau.
+
+Une ligne d&apos;en-tête met en forme spécialement la ligne du haut du tableau.</translation>
     </message>
     <message id="FirstColumn.title">
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Première colonne</translation>
     </message>
     <message id="FirstColumn.content">
         <source>Display special formatting for the first column of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher une mise en forme spéciale pour la première colonne du tableau.</translation>
     </message>
     <message id="TotalRow.title">
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre total de lignes</translation>
     </message>
     <message id="TotalRow.content">
         <source>Trun on or off the total row of the table.
 
 The total row is a row at the end of the table which displays totals for each column.</source>
-        <translation type="unfinished"></translation>
+        <translation>Activer ou désactiver la ligne des totaux du tableau.
+
+La ligne des totaux est une ligne à la fin du tableau, qui affiche les totaux de chaque colonne.</translation>
     </message>
     <message id="LastColumn.title">
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>Dernière colonne</translation>
     </message>
     <message id="LastColumn.content">
         <source>Display special formatting for the last column of the table.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher une mise en forme spéciale pour la dernière colonne du tableau.</translation>
     </message>
     <message id="BandedRows.title">
         <source>Banded Rows</source>
-        <translation type="unfinished"></translation>
+        <translation>Lignes à bandes</translation>
     </message>
     <message id="BandedRows.content">
         <source>Display banded rows, in which even rows are formatted differently from odd rows.
 
 This banding can make tables easier to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher des bandes de lignes dans lesquelles les lignes paires et impaires sont mises en forme différemment.
+
+Ces bandes permettent de faciliter la lecture des tableaux.</translation>
     </message>
     <message id="BandedColumns.title">
         <source>Banded Columns</source>
-        <translation type="unfinished"></translation>
+        <translation>Colonnes à bandes</translation>
     </message>
     <message id="BandedColumns.content">
         <source>Display banded columns, in which even columns are formatted differently from odd columns.
 
 This banding can make tables easier to read.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichez des colonnes à bandes, dans lesquels les colonnes paires sont formatées différemment des colonnes impaires.
+
+Ces bandes peuvent faciliter la lecture du tableau.</translation>
     </message>
     <message id="ChangeChartType.title">
         <source>Change Chart Type</source>
@@ -3004,6 +3032,543 @@ This banding can make tables easier to read.</source>
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
         <translation type="obsolete">Affiche la boîte de dialogue Format d&apos;objet.</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>Dictionnaire des synonymes</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>Suggère d&apos;autres mots dont la signification est semblable au mot sélectionné.</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>Correctif de document.</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>Corrigez rapidement des documents déformés ou qui ne peuvent pas s&apos;ouvrir pour l&apos;une ou l&apos;autre raison.</translation>
+    </message>
+    <message id="PTRefreshAllData.title">
+        <source>Refresh All</source>
+        <extracomment>PTRefreshAllData.title</extracomment>
+        <translation>Actualiser tout</translation>
+    </message>
+    <message id="PTRefreshAllData.content">
+        <source>Get the latest data by refreshing all sources in the workbook.</source>
+        <extracomment>PTRefreshAllData.content</extracomment>
+        <translation>Obtenez les dernières données en actualisant toutes les sources du classeur.</translation>
+    </message>
+    <message id="DocumentSlimming.title">
+        <source>File Slimming</source>
+        <translation>Réduction de fichier</translation>
+    </message>
+    <message id="DocumentSlimming.content">
+        <source>&quot;file slimming&quot; feature can help you reduce the file size.</source>
+        <translation>La fonctionnalité &quot;Réduction de fichier&quot; peut vous aider à réduire la taille du fichier.</translation>
+    </message>
+    <message id="ConditionalFormatting.title">
+        <source>Conditional Formatting</source>
+        <translation>Mise en forme conditionnelle</translation>
+    </message>
+    <message id="ConditionalFormatting.content">
+        <source>Easily spot trends and patterns in your data using bars, colors, and icons to visually highlight important values.</source>
+        <translation>Repérez rapidement les motifs et les tendances de vos données à l&apos;aide de barres, de couleurs et d&apos;icônes permettant de mettre en surbrillance les valeurs importantes.</translation>
+    </message>
+    <message id="ResetCommentAnchor.title">
+        <source>Reset current comment.</source>
+        <translation>Réinitialisez le commentaire actuel.</translation>
+    </message>
+    <message id="ResetCommentAnchor.content">
+        <source>Reset current comment&apos;s anchor and size.</source>
+        <translation>Réinitialisez l&apos;ancre et la taille du commentaire actuel.</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.title">
+        <source>Reset all comments of current sheet.</source>
+        <translation>Réinitialisez tous les commentaires de la feuille actuelle.</translation>
+    </message>
+    <message id="ResetAllCommentsAnchor.content">
+        <source>Reset all comments&apos;s anchor and size of current sheet.</source>
+        <translation>Réinitialisez toutes les ancres et les tailles des commentaires de la feuille actuelle.</translation>
+    </message>
+    <message id="PreviousComment.title">
+        <source>Previous.</source>
+        <translation>Précédent.</translation>
+    </message>
+    <message id="PreviousComment.content">
+        <source>Select the previous comment in the sheet.</source>
+        <translation>Revenez au commentaire précédent.</translation>
+    </message>
+    <message id="NextComment.title">
+        <source>Next.</source>
+        <translation>Suivant.</translation>
+    </message>
+    <message id="NextComment.content">
+        <source>Navigate to the next comment in the document.</source>
+        <translation>Passez au commentaire suivant.</translation>
+    </message>
+    <message id="ShowOrHideComment.title">
+        <source>Show/Hide Comment.</source>
+        <translation>Affichez/Masquez le commentaire.</translation>
+    </message>
+    <message id="ShowOrHideComment.content">
+        <source>Show or hide the comment attached to the selected cell.</source>
+        <translation>Affichez ou masquez le commentaire de la cellule active.</translation>
+    </message>
+    <message id="ShowAllComments.title">
+        <source>Show All Comments.</source>
+        <translation>Afficher les commentaires.</translation>
+    </message>
+    <message id="ShowAllComments.content">
+        <source>Display all comments in the sheet.</source>
+        <translation>Affichez tous les commentaires dans la feuille.</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>Lock aspect ratio when adjusting picture.</source>
+        <oldsource>LockAspectRatio</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>Conservez les proportions de l&apos;image lorsque vous l&apos;ajustez.</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>Reset all changes to the size of the selected picture.</source>
+        <oldsource>ResetSize</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>Réinitialisez toutes les modifications à la taille de l&apos;image sélectionnée.</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>Conserver les proportions</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>Réinitialiser la taille</translation>
+    </message>
+    <message id="NumberFormatGallery.title">
+        <source>Number Format.</source>
+        <translation>Format de nombre.</translation>
+    </message>
+    <message id="NumberFormatGallery.content">
+        <source>Select the number format of cells, such as Percentage, Currency, date or time..</source>
+        <translation>Choisissez le format de vos cellules comme le pourcentage, la devise, la date ou l&apos;heure.</translation>
+    </message>
+    <message id="CmpSideBySide.title">
+        <source>View Side by Side.</source>
+        <translation>Afficher côte à côte.</translation>
+    </message>
+    <message id="CmpSideBySide.content">
+        <source>View two documents side-by-side to compare their contents.</source>
+        <translation>Au lieu de passer sans cesse d&apos;un document à l&apos;autre, affichez-les côte à côte. La comparaison en est facilitée.</translation>
+    </message>
+    <message id="LockSideBySide.title">
+        <source>Synchronous Scrolling.</source>
+        <translation>Défilement synchrone.</translation>
+    </message>
+    <message id="LockSideBySide.content">
+        <source>Synchronize the scrolling of two documents so that they scroll together. To enable this feature, turn on View Side by Side.</source>
+        <translation>Synchronisez le défilement de deux documents.
+
+Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côte.</translation>
+    </message>
+    <message id="VerbSideBySide.title">
+        <source>Reset Window Position.</source>
+        <translation>Rétablissez la position de la fenêtre.</translation>
+    </message>
+    <message id="VerbSideBySide.content">
+        <source>Reset the window position of the documents being compared side-by-side so that they share the screen equally. To enable this feature, turn on View Side by Side.</source>
+        <translation>Rétablissez la position des fenêtres des documents comparés en côte à côte afin que l&apos;écran soit divisé en deux parties égales.
+
+Pour activer cette fonctionnalité, activez l&apos;option Afficher côte à côte.</translation>
+    </message>
+    <message id="ShowPrecedents.title">
+        <source>Trace Precedents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowPrecedents.content">
+        <source>Show arrows that indicate which cells affect the value of the currently selected cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowDependents.title">
+        <source>Trace Dependents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowDependents.content">
+        <source>Show arrows that indicate which cells are affected by the value of the currently selected cell.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ClearArrows.title">
+        <source>Clear All Arrows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ClearArrows.content">
+        <source>Remove the arrows drawn by Trace Precedents or Dependents.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertDropDownList.title">
+        <source>Insert Dropdown List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertDropDownList.content">
+        <source>Create a dropdown list and customize choices drop down.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertPictureFromFile2.title">
+        <source>Insert Picture</source>
+        <extracomment>InsertPictureFromFile2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertPictureFromFile2.content">
+        <source>Click here to insert a picture in local folder or from a scanner.</source>
+        <extracomment>InsertPictureFromFile2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Slicer.title">
+        <source>Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Slicer.content">
+        <source>Use a Slicer to filter data visually.
+
+Slicers make it faster and easier to filter PivotTables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSlicer.title">
+        <source>Insert Slicer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSlicer.content">
+        <source>Use a Slicer to filter data visually.
+
+Slicers make it faster and easier to filter PivotTables.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PTFilterConnections.title">
+        <source>Filter Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PTFilterConnections.content">
+        <source>Manage which filters the PivotTable is connected to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerCaption.title">
+        <source>Slicer Caption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerCaption.content">
+        <source>Change the caption that is displayed in the header of the slicer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerReportConnection.title">
+        <source>Report Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerReportConnection.content">
+        <source>Manage which PivotTables the slicer is connected to.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerSetting.title">
+        <source>Slicer Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerSetting.content">
+        <source>Change the display settings of the slicer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerColumn.title">
+        <source>Columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerColumn.content">
+        <source>Change the number of columns in the slicer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerItemHeight.title">
+        <source>Button Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerItemHeight.content">
+        <source>Change the height of the slicer buttons.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerItemWidth.title">
+        <source>Button Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SlicerItemWidth.content">
+        <source>Change the width of the slicer buttons.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PivotChart.title">
+        <source>PivotChart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PivotChart.content">
+        <source>Use PivotCharts to graphically summarize data and explore complicated data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExportWeiboImageCmd.title">
+        <source>Export as Image</source>
+        <extracomment>ExportWeiboImageCmd.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExportWeiboImageCmd.content">
+        <source>Export the document to an image</source>
+        <extracomment>ExportWeiboImageCmd.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowFormulas.title">
+        <source>Show Formulas</source>
+        <extracomment>ShowFormulas.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ShowFormulas.content">
+        <source>Display the formula in each cell instead of the resulting value.</source>
+        <extracomment>ShowFormulas.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AutoFilterFavorite.title">
+        <source>Filter Condition Favorites</source>
+        <extracomment>AutoFilterFavorite.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AutoFilterFavorite.content">
+        <source>Filter the table in one step by clicking the condition in Favorites. No more trouble with condition settings.</source>
+        <extracomment>AutoFilterFavorite.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddFavorite.title">
+        <source>Add Filter Conditions to Favorites</source>
+        <extracomment>AddFavorite.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddFavorite.content">
+        <source>Add the current filter conditions to Favorites so you can use them directly next time.</source>
+        <extracomment>AddFavorite.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SplitSheet.title">
+        <source>Split Table</source>
+        <extracomment>SplitSheet.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SplitSheet.content">
+        <source>Split the current table into several files or sheets according to its content.</source>
+        <extracomment>SplitSheet.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PivotTableAnalysis.title">
+        <source>Statistical Analysis</source>
+        <extracomment>PivotTableAnalysis.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PivotTableAnalysis.content">
+        <source>Classify and sum up data easily.</source>
+        <extracomment>PivotTableAnalysis.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PivotChartAnalysis.title">
+        <source>Statistical Chart</source>
+        <extracomment>PivotChartAnalysis.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PivotChartAnalysis.content">
+        <source>Classify and sum up data, and create charts with the results.</source>
+        <extracomment>PivotChartAnalysis.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AutoFilterAnalysis.title">
+        <source>Monitor Pane</source>
+        <extracomment>AutoFilterAnalysis.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AutoFilterAnalysis.content">
+        <source>Observe changes of summarized data in time when there are different filter conditions.</source>
+        <extracomment>AutoFilterAnalysis.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LockTitleRows.title">
+        <source>Freeze Title Row</source>
+        <extracomment>LockTitleRows.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LockTitleRows.content">
+        <source>Make the title row always show for constant reference when reading large amounts of data.</source>
+        <extracomment>LockTitleRows.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExportFilterResult.title">
+        <source>Export Filter Results</source>
+        <extracomment>ExportFilterResult.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExportFilterResult.content">
+        <source>Save the filter results as a new file or a new sheet.</source>
+        <extracomment>ExportFilterResult.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HighlightDisplay.title">
+        <source>Highlight</source>
+        <extracomment>HighlightDisplay.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HighlightDisplay.content">
+        <source>Highlight similar records to compare them more easily.</source>
+        <extracomment>HighlightDisplay.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EditConnectionProperties.title">
+        <source>Edit Connection Properties</source>
+        <extracomment>EditConnectionProperties.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EditConnectionProperties.content">
+        <source>Select the command type, input a relevant query statement and filter the data imported.</source>
+        <extracomment>EditConnectionProperties.content</extracomment>
+        <translation type="unfinished">Permet de sélectionner le type de commande, d&apos;entrer une instruction de requête pertinente et de filtrer les données importées.</translation>
+    </message>
+    <message id="SheetBackground.title">
+        <source>Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="SheetBackground.content">
+        <source>Choose a picture for your background, and add some personality to your worksheet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HideWindow.title">
+        <source>Hide Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HideWindow.content">
+        <source>Hide the current window.
+
+To bring the window back, click the Unhide button.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="UnhideWindow.title">
+        <source>Unhide Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="UnhideWindow.content">
+        <source>Unhide any windows hidden by the Hide Window feature.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Connections.title">
+        <source>Connections</source>
+        <extracomment>Connections.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Connections.content">
+        <source>Display all data connections for the workbook.
+
+Data Connections are links to data outside of this workbook which can be updated if the source data changes.</source>
+        <extracomment>Connections.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExistingConnections.title">
+        <source>Get Data Using an Existing Connection</source>
+        <extracomment>ExistingConnections.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ExistingConnections.content">
+        <source>Import data from common sources.</source>
+        <extracomment>ExistingConnections.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.title">
+        <source>Online Cooperation</source>
+        <extracomment>OnlineCooperation.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="OnlineCooperation.content">
+        <source>Open the document with Web Office for multiple user collaborative editing.</source>
+        <oldsource>Open the document with WebOffice for multiple user collaborative editing.</oldsource>
+        <extracomment>OnlineCooperation.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Printer.title">
+        <source>Printer</source>
+        <extracomment>Printer.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Printer.content">
+        <source>Choose a printer to execute print.</source>
+        <extracomment>Printer.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterPaperSize.title">
+        <source>PrinterPaperSize</source>
+        <extracomment>PrinterPaperSize.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterPaperSize.content">
+        <source>Specify which size of paper to print, for example A3, A4, etc.</source>
+        <extracomment>PrinterPaperSize.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterCopies.title">
+        <source>PrinterCopies</source>
+        <extracomment>PrinterCopies.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterCopies.content">
+        <source>Specify the number of copies to print.</source>
+        <extracomment>PrinterCopies.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterCollate.title">
+        <source>PrinterCollate</source>
+        <extracomment>PrinterCollate.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterCollate.content">
+        <source>Specify whether the printed document is collated.</source>
+        <extracomment>PrinterCollate.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterSide.title">
+        <source>PrinterSide</source>
+        <extracomment>PrinterSide.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterSide.content">
+        <source>Specify whether the way is duplex.</source>
+        <extracomment>PrinterSide.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterMoreSetup.title">
+        <source>PrinterMoreSetup</source>
+        <extracomment>PrinterMoreSetup.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterMoreSetup.content">
+        <source>Open the print dialog to setup more detailedly, including choose the printer, number of copies, duplex mode, etc.</source>
+        <extracomment>PrinterMoreSetup.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CustomViews.title">
+        <source>Custom Views</source>
+        <extracomment>CustomViews.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CustomViews.content">
+        <source>Save your current display and print settings as a custom view that you can quickly apply in the future.</source>
+        <extracomment>CustomViews.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EnableMacro.title">
+        <source>Enable Macro Instructions</source>
+        <extracomment>EnableMacro.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EnableMacro.content">
+        <source>To enable macro functions, you need to install VAB support library. Click to know details.</source>
+        <extracomment>EnableMacro.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

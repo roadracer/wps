@@ -6,7 +6,7 @@
     <name>DownloadBubbleWidget</name>
     <message>
         <source>Download failed due to possible network problems. Please try again later.</source>
-        <translation>ネットワークの問題によりダウンロードに失敗しました。再試行してください。</translation>
+        <translation>ネットワークの問題でダウンロードに失敗しました。再試行してください。</translation>
     </message>
 </context>
 <context>
@@ -22,6 +22,10 @@
     <message>
         <source>Trial Version</source>
         <translation>体験版</translation>
+    </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>閲覧専用</translation>
     </message>
 </context>
 <context>
@@ -65,7 +69,7 @@
     <name>KColorCombobox</name>
     <message>
         <source>&amp;Fill effects...</source>
-        <translation>効果の塗りつぶし(&amp;F)...</translation>
+        <translation>塗りつぶし効果(&amp;F)...</translation>
     </message>
     <message>
         <source>&amp;More Color...</source>
@@ -73,7 +77,7 @@
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">色なし</translation>
+        <translation>色なし</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
@@ -85,11 +89,11 @@
     </message>
     <message>
         <source>Recent Colors</source>
-        <translation>最近使用している色</translation>
+        <translation>最近使用した色</translation>
     </message>
     <message>
         <source>Snapper Color(&amp;E)</source>
-        <translation>スナッパーの色(&amp;E)...</translation>
+        <translation>スポイト(&amp;E)...</translation>
     </message>
     <message>
         <source>Standard Colors</source>
@@ -321,15 +325,15 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Add to</source>
-        <translation>追加</translation>
+        <translation type="obsolete">追加</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
-        <translation>クイックメニューバーカスタム設定</translation>
+        <translation type="obsolete">クイックメニューバーカスタム設定</translation>
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>クイックメニューバー設定を非表示(&amp;H)</translation>
+        <translation type="obsolete">クイックメニューバー設定を非表示(&amp;H)</translation>
     </message>
 </context>
 <context>
@@ -482,6 +486,10 @@
         <source>Style</source>
         <translation>スタイル</translation>
     </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation>複合スタイル</translation>
+    </message>
 </context>
 <context>
     <name>KGalleryAbstractModel</name>
@@ -563,7 +571,7 @@
     </message>
     <message>
         <source>Warp</source>
-        <translation>ワープ</translation>
+        <translation>形状</translation>
     </message>
 </context>
 <context>
@@ -722,12 +730,12 @@
     <message>
         <source>Last time encounter abnormal shutdown!</source>
         <translatorcomment>エラーのため、前回で異常終了されました。</translatorcomment>
-        <translation>前回プログラムの異常終了となりました。</translation>
+        <translation>前回起動時にプログラムが異常終了となりました。</translation>
     </message>
     <message>
         <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
         <translatorcomment>WPSよりファイルを回復する場合、回復する必要ないのファイルのチェックをキャンセルできません。</translatorcomment>
-        <translation>WPSは回復不要なファイルについてはチェックを外して、回復します</translation>
+        <translation>WPSはファイルの回復を行います。回復不要なファイルからチェックを外してください</translation>
     </message>
     <message>
         <source>FileName</source>
@@ -739,7 +747,7 @@
     </message>
     <message>
         <source>Recover</source>
-        <translation>回復</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -748,6 +756,10 @@
     <message>
         <source>Modified time: </source>
         <translation>更新日時:</translation>
+    </message>
+    <message>
+        <source>Super Recover</source>
+        <translation>強力回復</translation>
     </message>
 </context>
 <context>
@@ -870,15 +882,15 @@
     <name>KRbQuickToolbar</name>
     <message>
         <source>&amp;Remove from Quick Access Toolbar</source>
-        <translation>クリックメニューバーカスタム設定を解除(&amp;R)</translation>
+        <translation>クイックメニューバーから削除(&amp;R)</translation>
     </message>
     <message>
         <source>More commands</source>
-        <translation>そのほか</translation>
+        <translation>その他</translation>
     </message>
     <message>
         <source>&amp;Show Quick Access Toolbar</source>
-        <translation>クイックメニューバー設定を表示する(&amp;S)</translation>
+        <translation>クイックメニューバーを表示する(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -1031,6 +1043,10 @@ the file may be renamed,deleted or moved the location.</source>
         <source>Preset Texture</source>
         <translation>標準テクスチャ</translation>
     </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation>このコンピュータから(&amp;P)...</translation>
+    </message>
 </context>
 <context>
     <name>KToolTipWidget</name>
@@ -1147,31 +1163,31 @@ mm=mm;m
 %=%
 
 [Character]
-ch=char
+ch=字
 
 [Degree]
 degree=°
 
 [Row]
-line=line
+line=行
 
 [Auto]
-auto=auto
+auto=自動
 
 [Multiple]
-multiple=multiple</translation>
+multiple=倍</translation>
     </message>
 </context>
 <context>
     <name>KWPSCloudSetup</name>
     <message>
         <source>WPS Office</source>
-        <translation>Kingsoft Office</translation>
+        <translation>WPS Office</translation>
     </message>
     <message>
         <source>Some components are not installed correctly.
 Please reinstall WPS Office!</source>
-        <translation>一部コンポーネントが正常にインストールできませんでした。Kingsoft Officeの再インストールを行ってください。</translation>
+        <translation>一部コンポーネントが正常にインストールできませんでした。WPS Officeの再インストールを行ってください。</translation>
     </message>
     <message>
         <source>Some components are not installed correctly,
@@ -1210,7 +1226,7 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>Pattern Fill</source>
-        <translation>塗りつぶし(パータン)</translation>
+        <translation>塗りつぶし（パターン）</translation>
     </message>
     <message>
         <source>Picture or texture Fill</source>
@@ -1262,7 +1278,7 @@ please reinstall WPS Office!</source>
     <name>QMainWindow</name>
     <message>
         <source>Document List</source>
-        <translation>ドキュメントのリスト</translation>
+        <translation type="obsolete">ドキュメントのリスト</translation>
     </message>
     <message>
         <source>Next Document</source>
@@ -1390,6 +1406,10 @@ please reinstall WPS Office!</source>
         <source>Clear Record from List</source>
         <translation type="obsolete">リストから削除</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
@@ -1407,7 +1427,7 @@ please reinstall WPS Office!</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation>透過性(&amp;T)</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
     <message>
         <source>Add Gradient Aperture</source>
@@ -1428,6 +1448,194 @@ please reinstall WPS Office!</source>
     <message>
         <source>P&amp;osition</source>
         <translation>位置(&amp;O)</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>ファイル容量が大きいため、バックアップに時間がかかります。</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation>ESCを押すと、キャンセルされます。</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>バックアップ間隔の設定</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation>ファイルを検索</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>フォルダを開く</translation>
+    </message>
+</context>
+<context>
+    <name>KMRUCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">“%1”を開けません。ファイルは名前が変更されたか、削除されたか、場所の移動が行われました。</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation>その他のコマンド</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation>クイックメニューバーから削除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translation type="obsolete">クイックメニューバーのユーザー設定(&amp;C)...</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>クイックメニューバーのユーザー設定</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>クイックメニューバーのユーザー設定</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation type="obsolete">同期失敗</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>その他のコマンド(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">ログイン</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">ツールバーの設定を行う前にログインしてください。</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">ログイン</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation>%1, ...</translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>セルの挿入</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation>サービスがまもなく期限切れ</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation>サービスが期限切れ</translation>
     </message>
 </context>
 </TS>

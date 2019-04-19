@@ -23,6 +23,10 @@
         <source>Trial Version</source>
         <translation>试用版</translation>
     </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>只读模式</translation>
+    </message>
 </context>
 <context>
     <name>KBevelModel</name>
@@ -66,7 +70,7 @@
     <name>KColorCombobox</name>
     <message>
         <source>&amp;No Color</source>
-        <translation>无颜色(&amp;N)</translation>
+        <translation type="obsolete">无颜色(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Fill effects...</source>
@@ -107,6 +111,10 @@
     <message>
         <source>Snapper Color(&amp;E)</source>
         <translation>取色器(&amp;E)</translation>
+    </message>
+    <message>
+        <source>No Color</source>
+        <translation>没有颜色</translation>
     </message>
 </context>
 <context>
@@ -321,6 +329,34 @@
         <source>Uploading file...</source>
         <translation type="obsolete">文件正在同步...</translation>
     </message>
+    <message>
+        <source>document %1.docx</source>
+        <translation type="obsolete">文档 %1.docx</translation>
+    </message>
+    <message>
+        <source>sheet %1.xlsx</source>
+        <translation type="obsolete">表格 %1.xlsx</translation>
+    </message>
+    <message>
+        <source>presentation %1.pptx</source>
+        <translation type="obsolete">演示 %1.pptx</translation>
+    </message>
+    <message>
+        <source>document %1</source>
+        <translation>文字文稿 %1</translation>
+    </message>
+    <message>
+        <source>sheet %1</source>
+        <translation>工作簿 %1</translation>
+    </message>
+    <message>
+        <source>presentation %1</source>
+        <translation>演示文稿 %1</translation>
+    </message>
+    <message>
+        <source>%1month%2day%3hour%4minute%5second</source>
+        <translation>%1月%2日%3时%4分%5秒</translation>
+    </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
@@ -497,7 +533,11 @@
     <name>KFormatStylesWidget</name>
     <message>
         <source>Style</source>
-        <translation>样式</translation>
+        <translation>预设样式</translation>
+    </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation>复合样式</translation>
     </message>
 </context>
 <context>
@@ -777,6 +817,10 @@
     <message>
         <source>Modified time: </source>
         <translation>修改时间:</translation>
+    </message>
+    <message>
+        <source>Super Recover</source>
+        <translation>强力恢复</translation>
     </message>
 </context>
 <context>
@@ -1116,7 +1160,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>From &amp;Online Picture</source>
-        <translation>在线图片(&amp;O)</translation>
+        <translation>在线图片(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation>本地图片(&amp;P)...</translation>
     </message>
 </context>
 <context>
@@ -1357,7 +1405,7 @@ Please reinstall WPS Office!</source>
     <name>QMainWindow</name>
     <message>
         <source>Document List</source>
-        <translation>标签列表</translation>
+        <translation type="obsolete">标签列表</translation>
     </message>
     <message>
         <source>Next Document</source>
@@ -1587,6 +1635,10 @@ Always take this action.</source>
         <source>Glow Variations</source>
         <translation type="obsolete">发光变体</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">自动</translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
@@ -1626,6 +1678,283 @@ Always take this action.</source>
     <message>
         <source>Delete Gradient Aperture</source>
         <translation>删除渐变光圈</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation>智能识别目录</translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation>自动识别正文的段落结构，生成对应目录节省手动设置标题格式的时间</translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation>限时免费</translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>此文件较大，备份需耗时一段时间</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation>若不希望备份，可按ESC取消，或</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>设置备份时间间隔</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageShareButton</name>
+    <message>
+        <source>share the file</source>
+        <translation>分享文档</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation>找回文档</translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation>打开文件所在文件夹</translation>
+    </message>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
+        <translation type="obsolete">无法找到“%1”。请检查文件名的拼写，并检查文件位置是否正确。
+如果你正试图从“文件”菜单上最近使用的文件列表中打开文件，请确认文件未被重命名、移动或删除。</translation>
+    </message>
+</context>
+<context>
+    <name>KLocalFileStatePanel</name>
+    <message>
+        <source>File Protection</source>
+        <translation type="obsolete">文档安全</translation>
+    </message>
+    <message>
+        <source>Share Link</source>
+        <translation type="obsolete">链接分享</translation>
+    </message>
+    <message>
+        <source>Source Path:</source>
+        <translation type="obsolete">本地路径：</translation>
+    </message>
+    <message>
+        <source>Save As Cloud File</source>
+        <translation type="obsolete">上传至云文档</translation>
+    </message>
+    <message>
+        <source>Have change not been saved</source>
+        <translation type="obsolete">文档尚未保存</translation>
+    </message>
+    <message>
+        <source>Had been saved in local</source>
+        <translation type="obsolete">文档已保存至本地</translation>
+    </message>
+</context>
+<context>
+    <name>KLocalSaveToolTip</name>
+    <message>
+        <source>Document had been saved to lock disk, advice</source>
+        <translation type="obsolete">文档保存至本地，建议</translation>
+    </message>
+    <message>
+        <source>save it as cloud file</source>
+        <translation type="obsolete">上传至云文档</translation>
+    </message>
+    <message>
+        <source>，using more safety.</source>
+        <translation type="obsolete">，更安全。</translation>
+    </message>
+    <message>
+        <source>,using more safety.</source>
+        <translation type="obsolete">，更安全。</translation>
+    </message>
+</context>
+<context>
+    <name>KMRUCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">无法打开 “%1”。
+此文件可能被重命名、删除或移动了位置。</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation>%1打开文件所在文件夹%2</translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation>查找备份</translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation>文件恢复</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+</context>
+<context>
+    <name>KOrganizerDescription</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation>查找命令、搜索模板</translation>
+    </message>
+    <message>
+        <source>Find Commands</source>
+        <translation>查找命令</translation>
+    </message>
+</context>
+<context>
+    <name>KxTabbarQAndAWidget</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation>查找命令、搜索模板</translation>
+    </message>
+    <message>
+        <source>Find Commands</source>
+        <translation>查找命令</translation>
+    </message>
+    <message>
+        <source>Enter function or template keywords here to quickly locate commands, find portals, get templates.</source>
+        <translation>在此输入功能或模板关键字以快速定位命令、查找入口、获取模板。</translation>
+    </message>
+    <message>
+        <source>Enter a feature name to find relative commands.</source>
+        <translation>在此输入功能名称以快速定位命令、查找入口。</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation>其他命令</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation>从快速访问工具栏删除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translation type="obsolete">自定义快速访问工具栏(&amp;C)...</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>自定义快速访问工具栏</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>自定义快速访问工具栏</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>其他命令...</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation type="obsolete">同步失败</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation>放置在顶端</translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation>放置在功能区之下</translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation>作为浮动工具栏显示</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation>快速自定义(&amp;Q)</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">请登录</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">当前操作仅本机有效，登录后可同步到其他设备。</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">登录</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">关闭</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation>文件</translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>插入单元格</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation>服务即将到期</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation>服务已到期</translation>
     </message>
 </context>
 </TS>

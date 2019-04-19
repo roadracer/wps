@@ -25,12 +25,12 @@
     <name>BubbleWidget</name>
     <message>
         <source>Never show again</source>
-        <translation type="obsolete">次回から表示しない</translation>
+        <translation>次回から表示しない</translation>
     </message>
     <message>
         <source>You can also click here to switch to 
 Eye Protection Mode or Night Mode.</source>
-        <translation type="obsolete">ここをクリックすることで、視覚保護モード、
+        <translation>ここをクリックすることで、視覚保護モード、
 またはナイトモードに切り替えることができます。</translation>
     </message>
 </context>
@@ -57,7 +57,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>100</source>
-        <translation>100</translation>
+        <translation>百</translation>
     </message>
     <message>
         <source>A&amp;utomatic</source>
@@ -81,7 +81,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Label Position</source>
-        <translation>ラベルの位置</translation>
+        <translation>軸ラベル</translation>
     </message>
     <message>
         <source>Low</source>
@@ -124,7 +124,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Values in reverse order</source>
-        <translation>対数目盛を反転する(&amp;V)</translation>
+        <translation>軸を反転する(&amp;V)</translation>
     </message>
     <message>
         <source>0.1</source>
@@ -144,23 +144,23 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>10</source>
-        <translation>10</translation>
+        <translation>十</translation>
     </message>
     <message>
         <source>10000</source>
-        <translation>10000</translation>
+        <translation>万</translation>
     </message>
     <message>
         <source>100000</source>
-        <translation>100000</translation>
+        <translation>十万</translation>
     </message>
     <message>
         <source>10000000</source>
-        <translation>10000000</translation>
+        <translation>千万</translation>
     </message>
     <message>
         <source>100000000</source>
-        <translation>100000000</translation>
+        <translation>億</translation>
     </message>
     <message>
         <source>1900/1/1</source>
@@ -212,7 +212,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Base</source>
-        <translation>標準</translation>
+        <translation>基数</translation>
     </message>
     <message>
         <source>Bet&amp;ween dates</source>
@@ -224,7 +224,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Billions</source>
-        <translation>10億</translation>
+        <translation>十億</translation>
     </message>
     <message>
         <source>Bounds</source>
@@ -240,7 +240,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Display units</source>
-        <translation>単位の表示</translation>
+        <translation>表示単位</translation>
     </message>
     <message>
         <source>Form</source>
@@ -252,27 +252,28 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Hunndreds</source>
-        <translation>100</translation>
+        <translation>百</translation>
     </message>
     <message>
         <source>Major</source>
-        <translation>メジャー</translation>
+        <translation>目盛間隔</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation>最大項目</translation>
+        <translation>最大値</translation>
     </message>
     <message>
         <source>Millinons</source>
-        <translation>100万</translation>
+        <translation>百万</translation>
     </message>
     <message>
         <source>Minimum</source>
-        <translation>最小項目</translation>
+        <translation>最小値</translation>
     </message>
     <message>
         <source>Minor</source>
-        <translation>マイナー</translation>
+        <translation>補助目盛間隔
+</translation>
     </message>
     <message>
         <source>Months</source>
@@ -292,7 +293,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Thousands</source>
-        <translation>1000</translation>
+        <translation>千</translation>
     </message>
     <message>
         <source>Trillions</source>
@@ -355,15 +356,15 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Interval between marks</source>
-        <translation>マークの間隔</translation>
+        <translation>目盛の間隔</translation>
     </message>
     <message>
         <source>Major type</source>
-        <translation>多種類</translation>
+        <translation>目盛の種類</translation>
     </message>
     <message>
         <source>Minor type</source>
-        <translation>少種類</translation>
+        <translation>補助目盛の種類</translation>
     </message>
     <message>
         <source>None</source>
@@ -434,11 +435,11 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>,(comma)</source>
-        <translation> (カンマ)</translation>
+        <translation>,(カンマ)</translation>
     </message>
     <message>
         <source>.(period)</source>
-        <translation> (ピリオド)</translation>
+        <translation>.(ピリオド)</translation>
     </message>
     <message>
         <source>;(semicolon)</source>
@@ -462,7 +463,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Clo&amp;ne Current Label</source>
-        <translation>現在のラベルの分岐(&amp;N)</translation>
+        <translation>現在のラベルの複製を作成(&amp;N)</translation>
     </message>
     <message>
         <source>Data Label Series</source>
@@ -482,7 +483,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Label Position</source>
-        <translation>ラベルの位置</translation>
+        <translation>軸ラベル</translation>
     </message>
     <message>
         <source>Le&amp;ft</source>
@@ -502,11 +503,15 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>bgContains</source>
-        <translation>内容</translation>
+        <translation type="obsolete">内容</translation>
     </message>
     <message>
         <source>bgLabelPosition</source>
-        <translation>ラベルの位置</translation>
+        <translation type="obsolete">軸ラベル</translation>
+    </message>
+    <message>
+        <source>Selec&amp;t Range...</source>
+        <translation>範囲の選択(&amp;T)...</translation>
     </message>
 </context>
 <context>
@@ -544,7 +549,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Both</source>
-        <translation>両方(&amp;B)</translation>
+        <translation>両方向(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Custom</source>
@@ -556,11 +561,11 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Minus</source>
-        <translation>負数(&amp;M)</translation>
+        <translation>負方向(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;No Cap</source>
-        <translation>先端なし(&amp;N)</translation>
+        <translation>ギャップなし(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Percentage</source>
@@ -584,7 +589,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>C&amp;ap</source>
-        <translation>線の先端(&amp;A)</translation>
+        <translation>ギャップあり(&amp;A)</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -604,27 +609,27 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>P&amp;lus</source>
-        <translation>正数(&amp;L)</translation>
+        <translation>正方向(&amp;L)</translation>
     </message>
     <message>
         <source>Specify &amp;Value</source>
-        <translation>指定値(&amp;V)</translation>
+        <translation>値の指定(&amp;V)</translation>
     </message>
     <message>
         <source>Standard &amp;error</source>
-        <translation>標準偏差(&amp;E)</translation>
+        <translation>標準誤差(&amp;E)</translation>
     </message>
     <message>
         <source>bgErrorAmountType</source>
-        <translation>エラー計のスタイル</translation>
+        <translation type="obsolete">種類</translation>
     </message>
     <message>
         <source>bgErrorBarDirection</source>
-        <translation>エラーバーの方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>bgErrorBarEndStyle</source>
-        <translation>バーの終点スタイル</translation>
+        <translation type="obsolete">終点のスタイル</translation>
     </message>
     <message>
         <source>icon</source>
@@ -643,7 +648,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Right</source>
-        <translation></translation>
+        <translation>右(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Show the legend without overlapping the chart</source>
@@ -705,7 +710,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Use 10000 Separator(,)</source>
-        <translation>10000区切りで使用する(&amp;U)</translation>
+        <translation>桁区切り(,)を使用する(&amp;U)</translation>
     </message>
     <message>
         <source>*(2001/3/14)</source>
@@ -721,11 +726,11 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Category</source>
-        <translation>カテゴリー</translation>
+        <translation>分類</translation>
     </message>
     <message>
         <source>Chinese(RPC)</source>
-        <translation>中国（人民元）</translation>
+        <translation type="obsolete">中国（人民元）</translation>
     </message>
     <message>
         <source>Currency</source>
@@ -749,7 +754,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Format Code</source>
-        <translation>書式のコード</translation>
+        <translation>表示形式コード</translation>
     </message>
     <message>
         <source>Fraction</source>
@@ -761,15 +766,15 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>L&amp;inked to source</source>
-        <translation>ソースへリンク(&amp;I)</translation>
+        <translation>シートとリンクする(&amp;I)</translation>
     </message>
     <message>
         <source>Local(Location)</source>
-        <translation>言語設定(地域)</translation>
+        <translation type="obsolete">言語設定(地域)</translation>
     </message>
     <message>
         <source>Negative numbers:</source>
-        <translation>負数:</translation>
+        <translation>負の数の表示形式:</translation>
     </message>
     <message>
         <source>Number</source>
@@ -789,15 +794,15 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Symbol:</source>
-        <translation>シンボル:</translation>
+        <translation>記号:</translation>
     </message>
     <message>
         <source>Text</source>
-        <translation>テキスト</translation>
+        <translation>文字列</translation>
     </message>
     <message>
         <source>Time</source>
-        <translation>時間</translation>
+        <translation>時刻</translation>
     </message>
     <message>
         <source>Type</source>
@@ -805,7 +810,15 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>新建项目</source>
-        <translation>新規項目</translation>
+        <translation type="obsolete">新規項目</translation>
+    </message>
+    <message>
+        <source>Calendar type:</source>
+        <translation>カレンダーの種類:</translation>
+    </message>
+    <message>
+        <source>Locale Setting(Country/Area):</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -828,7 +841,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Primary Axis</source>
-        <translation>主軸(上/左側)(&amp;P)</translation>
+        <translation>主軸(下/左側)(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Secondary Axis</source>
@@ -880,7 +893,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Plot Series On</source>
-        <translation>系列の分割</translation>
+        <translation>使用する軸</translation>
     </message>
     <message>
         <source>Point Belongs to</source>
@@ -924,7 +937,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Split Series By</source>
-        <translation>系列の分割</translation>
+        <translation>使用する軸</translation>
     </message>
     <message>
         <source>Value</source>
@@ -948,7 +961,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>&amp;Gap Width</source>
-        <translation>空白幅(&amp;G)</translation>
+        <translation>要素の間隔(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Angle of first slice</source>
@@ -975,7 +988,7 @@ Eye Protection Mode or Night Mode.</source>
     <name>ContentChartTrendlineOptions</name>
     <message>
         <source>Automatic</source>
-        <translation>自動</translation>
+        <translation>自動(&amp;A)</translation>
     </message>
     <message>
         <source>Backward</source>
@@ -983,7 +996,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation>ユーザー設定</translation>
+        <translation>ユーザー設定(&amp;C)</translation>
     </message>
     <message>
         <source>Display Equation on chart</source>
@@ -995,7 +1008,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Exponential</source>
-        <translation>指数(&amp;X)</translation>
+        <translation>指数近似(&amp;X)</translation>
     </message>
     <message>
         <source>Forecast</source>
@@ -1011,7 +1024,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation>線形(&amp;L)</translation>
+        <translation>線形近似(&amp;L)</translation>
     </message>
     <message>
         <source>Linear(Series1)</source>
@@ -1043,7 +1056,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>Set Intercept</source>
-        <translation>切片 </translation>
+        <translation>切片(&amp;S)</translation>
     </message>
     <message>
         <source>Trendline Name</source>
@@ -1168,11 +1181,11 @@ Average</source>
     </message>
     <message>
         <source>Offset &amp;X</source>
-        <translation>X補正 (&amp;O)</translation>
+        <translation>横方向に移動 (&amp;O)</translation>
     </message>
     <message>
         <source>Offset &amp;Y</source>
-        <translation>Y 補正 (&amp;E)</translation>
+        <translation>縦方向に移動 (&amp;E)</translation>
     </message>
     <message>
         <source>Picture position</source>
@@ -1219,7 +1232,7 @@ Average</source>
     </message>
     <message>
         <source>Diagram Style Gallery</source>
-        <translation></translation>
+        <translation>図表スタイルのギャラリー</translation>
     </message>
     <message>
         <source>&amp;Select a diagram style:</source>
@@ -1271,7 +1284,7 @@ Average</source>
     </message>
     <message>
         <source>Text encoding:</source>
-        <translation>テキスト番号:</translation>
+        <translation>エンコード方法:</translation>
     </message>
     <message>
         <source>&amp;Line end:</source>
@@ -1293,7 +1306,7 @@ Average</source>
     <name>KAlphaPanel</name>
     <message>
         <source>&amp;Transparence</source>
-        <translation>透過性(&amp;T)</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
 </context>
 <context>
@@ -1308,11 +1321,11 @@ Average</source>
     </message>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation>インストールやアップデート パッチが実行中です。%1 を終了する予定です。インストールやアップデートの作業が終わったら、%2 を実行してください。</translation>
+        <translation type="obsolete">インストール、またはアップデートパッチが実行中のため、%1 を起動できません。インストールやアップデートの完了後に実行してください。</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation>Kingsoft Officeの更新ファイルがダウンロードされました。今すぐインストールしますか？</translation>
+        <translation type="obsolete">WPS Officeの更新ファイルがダウンロードされました。今すぐインストールしますか？</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
@@ -1417,7 +1430,7 @@ Average</source>
     </message>
     <message>
         <source>QuickLayout</source>
-        <translation>クイックレイアウト</translation>
+        <translation>グラフのレイアウト</translation>
     </message>
 </context>
 <context>
@@ -1526,7 +1539,7 @@ Average</source>
     </message>
     <message>
         <source>&amp;Colors:</source>
-        <translation>色(&amp;C):</translation>
+        <translation>カラー(&amp;C):</translation>
     </message>
     <message>
         <source>Advanced</source>
@@ -1567,7 +1580,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation>保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
+        <translation type="obsolete">保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -1600,7 +1613,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>インターフェースの変更は再起動で有効になります。</translation>
     </message>
     <message>
         <source>Downloading online font &quot;%1&quot;. Click the font list to see more detail. (Restart to take effect)</source>
@@ -1709,7 +1722,7 @@ Try to switch user interface!</source>
     <message>
         <source>You may have executed some wrong operations, we suggest you upload error files to help WPS solve such issues</source>
         <translatorcomment>未知のエラーが発生されました、 エラレポートを WPSに送付してください。</translatorcomment>
-        <translation>プログラムが強制終了されました。問題解決のためエラーファイルを送信してください。</translation>
+        <translation>プログラムが強制終了されました。ファイルの回復を行ってください。</translation>
     </message>
 </context>
 <context>
@@ -1893,7 +1906,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="obsolete">空白</translation>
+        <translation>空白</translation>
     </message>
     <message>
         <source>Layout will be changed at next start time</source>
@@ -1905,7 +1918,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>2016 White</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">2016UI（白）</translation>
     </message>
     <message>
         <source>2016 Skin</source>
@@ -1914,6 +1927,22 @@ Try to switch user interface!</source>
     <message>
         <source>2016 Black</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skin</source>
+        <translation>スキン</translation>
+    </message>
+    <message>
+        <source>2016 Excellent White</source>
+        <translation type="obsolete">2016UI (白)</translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2019</source>
+        <translation type="unfinished">2019UI (白)</translation>
     </message>
 </context>
 <context>
@@ -2171,7 +2200,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>CustomLocation Button Title</source>
-        <translation>ユーザー設定位置ボタンのタイトル</translation>
+        <translation type="obsolete">ユーザー設定位置ボタンのタイトル</translation>
     </message>
     <message>
         <source>Folder Select</source>
@@ -2235,31 +2264,71 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Search Waiting Text</source>
-        <translation>待機テキストの検索</translation>
+        <translation type="obsolete">待機テキストの検索</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation>名前</translation>
+        <translation type="obsolete">名前</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation>種類</translation>
+        <translation type="obsolete">種類</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation>サイズ</translation>
+        <translation type="obsolete">サイズ</translation>
     </message>
     <message>
         <source>Last Modify Time</source>
-        <translation>最終更新日時</translation>
+        <translation type="obsolete">最終更新日時</translation>
     </message>
     <message>
         <source>Search Fail Text</source>
-        <translation>失敗テキストの検索</translation>
+        <translation type="obsolete">失敗テキストの検索</translation>
+    </message>
+    <message>
+        <source>CloudDisk</source>
+        <translation>クラウド</translation>
+    </message>
+    <message>
+        <source>There is an extension of the data in the document</source>
+        <translation>ファイルには拡張データがあります。再度拡張データを編集するには、ファイルを%1で保存することをお勧めします。</translation>
+    </message>
+    <message>
+        <source>SaveCloud</source>
+        <translation>クラウドに保存</translation>
+    </message>
+    <message>
+        <source>Clouddisk shares received</source>
+        <translation>受信した共有</translation>
+    </message>
+    <message>
+        <source>Export Image</source>
+        <translation type="obsolete">画像として出力</translation>
+    </message>
+    <message>
+        <source>PDFSaveOption</source>
+        <translation>PDF 保存オプション</translation>
+    </message>
+    <message>
+        <source>Save encrypted document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last open path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original file path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2459,7 +2528,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished">言語パッケージのダウンロードに失敗しました</translation>
+        <translation type="obsolete">言語パッケージのダウンロードに失敗しました</translation>
     </message>
     <message>
         <source>Download language packs failed.</source>
@@ -2516,11 +2585,11 @@ Try to switch user interface!</source>
     <name>KPPDOptionsEditor</name>
     <message>
         <source>This option has conflict with other option.</source>
-        <translation type="unfinished"></translation>
+        <translation>このオプションは他のオプションと衝突しています。</translation>
     </message>
     <message>
         <source>Property</source>
-        <translation type="unfinished">プロパティ</translation>
+        <translation>プロパティ</translation>
     </message>
 </context>
 <context>
@@ -2634,6 +2703,10 @@ Try to switch user interface!</source>
     <message>
         <source>Password error, try again</source>
         <translation type="obsolete">パスワードが正しくありません。再入力してください</translation>
+    </message>
+    <message>
+        <source>Password Hint:</source>
+        <translation>パスワード提示:</translation>
     </message>
 </context>
 <context>
@@ -2902,6 +2975,10 @@ Try to switch user interface!</source>
         <source>Default Font</source>
         <translation>既定のフォント</translation>
     </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation>%1形式に保存することをお勧めします。</translation>
+    </message>
 </context>
 <context>
     <name>KUnderLineCombox</name>
@@ -3098,7 +3175,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Hiragana</source>
-        <translation>ひらがら</translation>
+        <translation>ひらがな</translation>
     </message>
     <message>
         <source>IPA Extensions</source>
@@ -3260,7 +3337,7 @@ Try to switch user interface!</source>
     <name>KWpsHostHelper</name>
     <message>
         <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
-        <translation>WPS Officeのシステムファイルに %1の問題が発生しているため起動できず、自動修復を行います。実行してよろしければ、「はい」をクリックしてください。</translation>
+        <translation type="obsolete">WPS Officeのシステムファイルに %1の問題が発生しているため起動できず、自動修復を行います。実行してよろしければ、「はい」をクリックしてください。</translation>
     </message>
 </context>
 <context>
@@ -3271,7 +3348,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>%1(%2)</source>
-        <translation type="unfinished">%1(%2)</translation>
+        <translation type="obsolete">%1(%2)</translation>
     </message>
     <message>
         <source>About Kingsoft Office</source>
@@ -3308,7 +3385,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>Product ID: </source>
-        <translation>プロダクトID</translation>
+        <translation type="obsolete">プロダクトID</translation>
     </message>
     <message>
         <source>res:/icons/kxshare/%1.png</source>
@@ -3328,7 +3405,7 @@ Try to switch user interface!</source>
     </message>
     <message>
         <source>About WPS Office</source>
-        <translation>Kingsoftについて</translation>
+        <translation>WPS Office について</translation>
     </message>
     <message>
         <source>Cannot find help file or help file encountered an error!</source>
@@ -3337,6 +3414,68 @@ Try to switch user interface!</source>
     <message>
         <source>Cannot find help file or help file error!</source>
         <translation type="obsolete">ヘルプファイルが存在しないか、破損している可能性があります</translation>
+    </message>
+    <message>
+        <source>About WPS Writer(Kingsoft Kylin WPS)</source>
+        <translation>WPS Writer について</translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets(Kingsoft Kylin WPS)</source>
+        <translation>WPS Spreadsheets について</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
+        <translation>WPS Presentation について</translation>
+    </message>
+    <message>
+        <source>About WPS Office(Kingsoft Kylin WPS)</source>
+        <translation>WPS Office について</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd. &amp;&amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">Beijing Kingsoft Office Software Co., Ltd. &amp;&amp; Zhuhai Kingsoft Office Software Co., Ltd.</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.</translation>
+    </message>
+    <message>
+        <source>About Kingsoft PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copyright:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All rights reserved.</source>
+        <translation type="unfinished">All rights reserved.</translation>
+    </message>
+    <message>
+        <source>This product is licensed to:</source>
+        <translation type="unfinished">本製品は以下の方にライセンスされています</translation>
+    </message>
+    <message>
+        <source>&amp;Technical Support...</source>
+        <translation type="unfinished">技術サポート(&amp;T)...</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
     </message>
 </context>
 <context>
@@ -3495,11 +3634,11 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxAutoShapeInputBoxToShapes</name>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>横書きテキストボックス</translation>
+        <translation type="obsolete">横書きテキストボックス</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>縦書きテキストボックス</translation>
+        <translation type="obsolete">縦書きテキストボックス</translation>
     </message>
     <message>
         <source>HorTextBox</source>
@@ -3514,35 +3653,35 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation>動作設定ボタン</translation>
+        <translation type="obsolete">動作設定ボタン</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation>ブロック矢印</translation>
+        <translation type="obsolete">ブロック矢印</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation>吹き出し</translation>
+        <translation type="obsolete">吹き出し</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation>コネクタ</translation>
+        <translation type="obsolete">コネクタ</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation>フローチャート</translation>
+        <translation type="obsolete">フローチャート</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>線</translation>
+        <translation type="obsolete">線</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>基本図形</translation>
+        <translation type="obsolete">基本図形</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>星とリボン</translation>
+        <translation type="obsolete">星とリボン</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
@@ -3550,11 +3689,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Formula</source>
-        <translation>数式図形</translation>
+        <translation type="obsolete">数式図形</translation>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>長方形</translation>
+        <translation type="obsolete">長方形</translation>
     </message>
 </context>
 <context>
@@ -3797,6 +3936,10 @@ To select names from the Address book, click the Read or Change button.</source>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
         <translation>現在のグラフを複合グラフすることができません。グラフの種類を変更するか、現在のグラフを保持してください。</translation>
     </message>
+    <message>
+        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translation>グラフの種類の変更に失敗しました。選択されたデータはこのグラフに適用できません。</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialog</name>
@@ -3987,7 +4130,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>To create this combination chart, please select at least two data series.</source>
-        <translation>組合せグラフヲ作成するには、少なくとも2つのデータ系列を選択してください。</translation>
+        <translation>組合せグラフを作成するには、少なくとも2つのデータ系列を選択してください。</translation>
     </message>
     <message>
         <source>To create this stock chart, arrange the data on your sheet in this order:high price, low price, closing price.Use dates or stock namas as labels.</source>
@@ -4037,6 +4180,22 @@ To select names from the Address book, click the Read or Change button.</source>
         <source>To create this stock chart, arrange the data on your sheet in this order: volume traded, opening price, high price, low price, closing price. Use dates or stock names as labels.</source>
         <translation>この株価グラフを作成するには、出来高、始値、高値、安値、終値の順でシートのデータを配置してください。ラベルには、日付または銘柄を使用してください。</translation>
     </message>
+    <message>
+        <source>Chart previews can&apos;t be displayed for this selected data, but you can still insert this chart type. Click OK to insert.</source>
+        <translation>選択されたデータのグラフプレビューを表示できません。「OK」をクリックすると、このグラフの挿入を続行できます。</translation>
+    </message>
+    <message>
+        <source>OnlineChart</source>
+        <translation>オンライングラフ</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>テンプレート</translation>
+    </message>
+    <message>
+        <source>3-D Bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialogClass</name>
@@ -4055,6 +4214,14 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>OK</source>
         <translation>OK</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation>テンプレートの削除、移動、または名称変更</translation>
+    </message>
+    <message>
+        <source>&amp;Manage Templates...</source>
+        <translation>テンプレートの管理(&amp;M)...</translation>
     </message>
 </context>
 <context>
@@ -4159,7 +4326,11 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
         <translatorcomment>コントロールツールボックスを利用すれば、WPS Office Professionalを購入してください</translatorcomment>
-        <translation>コントロールツールボックスを利用する場合は、Kingsoft Office VBA対応版をご購入下さい。</translation>
+        <translation type="obsolete">コントロールツールボックスを利用する場合は、WPS Office VBA対応版をご購入下さい。</translation>
+    </message>
+    <message>
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.</source>
+        <translation>コントロールツールボックスを利用する場合は、WPS Office VBA対応版をご購入下さい。</translation>
     </message>
 </context>
 <context>
@@ -4180,7 +4351,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxConvertLinkedObjectDlg</name>
     <message>
         <source>A linked object must be converted at the source.</source>
-        <translation type="unfinished"></translation>
+        <translation>リンクされたオブジェクトはデータソースに変換されます。</translation>
     </message>
 </context>
 <context>
@@ -4229,7 +4400,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>(Default)</source>
-        <translation>（既定）</translation>
+        <translation type="obsolete">（既定）</translation>
     </message>
     <message>
         <source>Add dictionary file</source>
@@ -4237,11 +4408,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation>すべてファイル(*.*)</translation>
+        <translation type="obsolete">すべてファイル(*.*)</translation>
     </message>
     <message>
         <source>Full path: </source>
-        <translation>すべてのパス:</translation>
+        <translation type="obsolete">すべてのパス:</translation>
     </message>
     <message>
         <source>New dictionary file</source>
@@ -4253,39 +4424,39 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation>カスタマイズ辞書の数が上限に達しました。</translation>
+        <translation type="obsolete">カスタマイズ辞書の数が上限に達しました。</translation>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation>辞書ファイル(*.dic)|*.dic</translation>
+        <translation type="obsolete">辞書ファイル(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation>新しい辞書ファイル</translation>
+        <translation type="obsolete">新しい辞書ファイル</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation>辞書ファイル(*.dic)</translation>
+        <translation type="obsolete">辞書ファイル(*.dic)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation>辞書ファイルの追加</translation>
+        <translation type="obsolete">辞書ファイルの追加</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation> %1を追加する際にエラーが発生しました。ファイルがすでに存在しています。</translation>
+        <translation type="obsolete"> %1を追加する際にエラーが発生しました。ファイルがすでに存在しています。</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation> %1を追加する際にエラーが発生しました。ファイル形式を確認して下さい。</translation>
+        <translation type="obsolete"> %1を追加する際にエラーが発生しました。ファイル形式を確認して下さい。</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation>最後の辞書を削除できません</translation>
+        <translation type="obsolete">最後の辞書を削除できません</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation>ユーザー設定を削除すると、その他のプログラムに影響を与える可能性があります。続行しますか？</translation>
+        <translation type="obsolete">ユーザー設定を削除すると、その他のプログラムに影響を与える可能性があります。続行しますか？</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -4318,7 +4489,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomRibbonEx_Menu</name>
     <message>
         <source>Customize menu</source>
-        <translation>カスタムメニュー</translation>
+        <translation>ユーザー設定メニュー</translation>
     </message>
 </context>
 <context>
@@ -4660,7 +4831,7 @@ Toolbox), please purchase WPS Office Professional.</source>
     <name>KxDlgCOMAddins</name>
     <message>
         <source>&amp;Add...</source>
-        <translation>追加(&amp;A)</translation>
+        <translation>追加(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -4741,31 +4912,31 @@ Toolbox), please purchase WPS Office Professional.</source>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>&amp;Add...</source>
-        <translation>追加(&amp;A)...</translation>
+        <translation type="obsolete">追加(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation>変更&apos;&amp;M)...</translation>
+        <translation type="obsolete">変更(&amp;M)...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation>新規作成(&amp;N)...</translation>
+        <translation type="obsolete">新規作成(&amp;N)...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>削除(&amp;R)</translation>
+        <translation type="obsolete">削除(&amp;R)</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Custom Dictionary</source>
-        <translation>ユーザー設定辞書</translation>
+        <translation type="obsolete">ユーザー設定辞書</translation>
     </message>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation>辞書リスト(&amp;L)</translation>
+        <translation type="obsolete">辞書リスト(&amp;L)</translation>
     </message>
     <message>
         <source>Set &amp;default</source>
@@ -4777,11 +4948,11 @@ Toolbox), please purchase WPS Office Professional.</source>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation>既定設定(&amp;D)</translation>
+        <translation type="obsolete">既定設定(&amp;D)</translation>
     </message>
     <message>
         <source>Full Path</source>
-        <translation>方向</translation>
+        <translation type="obsolete">方向</translation>
     </message>
     <message>
         <source>Set &amp;Default</source>
@@ -4803,23 +4974,23 @@ Toolbox), please purchase WPS Office Professional.</source>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>&amp;Add</source>
-        <translation>追加(&amp;A)</translation>
+        <translation type="obsolete">追加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>削除(&amp;D)</translation>
+        <translation type="obsolete">削除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation>単語(&amp;W):</translation>
+        <translation type="obsolete">単語(&amp;W):</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>閉じる</translation>
+        <translation type="obsolete">閉じる</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation>辞書(&amp;C)</translation>
+        <translation type="obsolete">辞書(&amp;C)</translation>
     </message>
     <message>
         <source>Edit Dictionary</source>
@@ -4827,7 +4998,7 @@ Toolbox), please purchase WPS Office Professional.</source>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation>辞書の編集</translation>
+        <translation type="obsolete">辞書の編集</translation>
     </message>
 </context>
 <context>
@@ -5123,7 +5294,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Rotate fill effect &amp;with shape</source>
-        <translation>図の回転による塗りつぶし効果(&amp;W)</translation>
+        <translation>図形に合わせて塗りつぶしを回転する(&amp;W)</translation>
     </message>
     <message>
         <source>Sample:</source>
@@ -5174,7 +5345,7 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgFont</name>
     <message>
         <source>&amp;By:</source>
-        <translation>間隔(&amp;B):</translation>
+        <translation>幅(&amp;B):</translation>
     </message>
     <message>
         <source>&amp;Font</source>
@@ -5182,7 +5353,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Kerning for fonts:</source>
-        <translation>カーンングを行う(&amp;K):</translation>
+        <translation>カーニングを行う(&amp;K):</translation>
     </message>
     <message>
         <source>&amp;Size:</source>
@@ -5218,7 +5389,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>C&amp;haracter Spacing</source>
-        <translation>文字間隔(&amp;H)</translation>
+        <translation>文字幅と間隔(&amp;H)</translation>
     </message>
     <message>
         <source>Condensed</source>
@@ -5226,7 +5397,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Doub&amp;le Strikethrough</source>
-        <translation>二種取り消し線</translation>
+        <translation>二重取り消し線(&amp;L)</translation>
     </message>
     <message>
         <source>E&amp;qualize Character Height</source>
@@ -5270,11 +5441,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Offse&amp;t:</source>
-        <translation>補正(&amp;T):</translation>
+        <translation>相対位置(&amp;T):</translation>
     </message>
     <message>
         <source>P&amp;oints and above</source>
-        <translation>等しいまたは等しいより以上(pt)(&amp;O)</translation>
+        <translation>ポイント以上の文字(pt)(&amp;O)</translation>
     </message>
     <message>
         <source>Regular</source>
@@ -5340,7 +5511,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;a href=&apos;urlonline&apos;&gt; WPS Online Store &lt;/a&gt;.</source>
-        <translation>Kingsoft オンラインストア</translation>
+        <translation>WPS オンラインストア</translation>
     </message>
 </context>
 <context>
@@ -5732,7 +5903,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>pushButton</source>
-        <translation type="unfinished"></translation>
+        <translation>プッシュボタン</translation>
     </message>
 </context>
 <context>
@@ -5755,7 +5926,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>&amp;Tabs...</source>
-        <translation>タプ設定(&amp;T)...</translation>
+        <translation>タブとリーダー(&amp;T)...</translation>
     </message>
     <message>
         <source>&amp;Use Asian rules for controlling first and last characters</source>
@@ -5831,7 +6002,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>First and last characters</source>
-        <translation>先頭と文末の文字</translation>
+        <translation>禁則文字</translation>
     </message>
     <message>
         <source>First line</source>
@@ -5883,7 +6054,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>T&amp;ypography...</source>
-        <translation>体裁&amp;Y)...</translation>
+        <translation>オプション(&amp;Y)...</translation>
     </message>
     <message>
         <source>Text &amp;alignment:</source>
@@ -5895,11 +6066,19 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
     <message>
         <source>pt</source>
         <translation>pt</translation>
+    </message>
+    <message>
+        <source>cm, 2, 0, 142.24, 0.1</source>
+        <translation>cm, 2, 0, 142.24, 0.1</translation>
+    </message>
+    <message>
+        <source>ch, 2, 0, 100, 0.5</source>
+        <translation>ch, 2, 0, 100, 0.5</translation>
     </message>
 </context>
 <context>
@@ -5936,7 +6115,7 @@ installed, or you are sure all documents you open are safe.</source>
     <name>KxDlgRbCustom</name>
     <message>
         <source>&amp;Add &gt;&gt;</source>
-        <translation>追加&gt;&gt;(&amp;A)</translation>
+        <translation>追加(&amp;A)&gt;&gt;</translation>
     </message>
     <message>
         <source>&amp;Choose command form:</source>
@@ -5956,7 +6135,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>Customize Quick Access</source>
-        <translation>クイックツールバーを設定</translation>
+        <translation>クイックメニューバーのユーザー設定</translation>
     </message>
     <message>
         <source>Only apply to the current document</source>
@@ -5968,7 +6147,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>Reset Quick Access:</source>
-        <translation>クイックツールバーをリセットしま:</translation>
+        <translation>クイックメニューバーをリセットする:</translation>
     </message>
     <message>
         <source>&amp;Choose command from:</source>
@@ -5976,7 +6155,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>Cust&amp;omize Quick Access:</source>
-        <translation>クイックツールバーを設定(&amp;O):</translation>
+        <translation>クイックメニューバーのユーザー設定(&amp;O):</translation>
     </message>
 </context>
 <context>
@@ -5999,7 +6178,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>Path</source>
-        <translation>方向</translation>
+        <translation>保存場所</translation>
     </message>
     <message>
         <source>Please select the records which you want to remove from the recent file list, then press OK button to commit.It will not delete the files but only remove the records.
@@ -6032,7 +6211,7 @@ Double-click or use the popup menu to open the file. This operation will clear t
         <source>Please select the files you wish to remove from the recent document list, then press Delete. 
 This will not permanently delete your file, but only remove them from your recent records.
 Double-click or use the popup menu to open the file. This will clear the selection of the items.</source>
-        <translation>最近使用したファイルのリストから削除したい項目を選択し、「OK」をクリックして下さい。一覧から項目のみが削除され、ファイルは削除されません。任意の項目をダブルクリックするとファイルを開くことや、ポップアップメニューを使用できます。ポップアップメニューでは、複数項目を削除できます</translation>
+        <translation>最近使用したファイルの一覧から削除したい項目を選択し、「削除」をクリックしてください。一覧からファイル名のみが削除され、実際のファイルは保存場所から削除されません。</translation>
     </message>
 </context>
 <context>
@@ -6212,7 +6391,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation>使用できない記号が含まれているため、処理できません</translation>
+        <translation type="obsolete">使用できない記号が含まれているため、処理できません</translation>
     </message>
 </context>
 <context>
@@ -6289,11 +6468,15 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
-        <translation type="obsolete">Kingsoft Office 製品使用許諾書</translation>
+        <translation>WPS Office 製品使用許諾書</translation>
     </message>
     <message>
         <source>about:blank</source>
-        <translation type="obsolete">空白</translation>
+        <translation>空白</translation>
+    </message>
+    <message>
+        <source>Join the experience improvement plan</source>
+        <translation>体験改善計画に参加する</translation>
     </message>
 </context>
 <context>
@@ -6307,18 +6490,18 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxFeedbackCommand</name>
     <message>
         <source>No E-Mail Client.</source>
-        <translation type="obsolete">Eメール クライアントなし!</translation>
+        <translation>メールソフトが設定されていません。</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation type="obsolete">改善要望</translation>
+        <translation>改善要望</translation>
     </message>
 </context>
 <context>
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation type="unfinished">改善要望</translation>
+        <translation type="obsolete">改善要望</translation>
     </message>
     <message>
         <source>No E-Mail Client!</source>
@@ -6326,7 +6509,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>No E-Mail Client.</source>
-        <translation type="unfinished">Eメール クライアントなし!</translation>
+        <translation type="obsolete">Eメール クライアントなし!</translation>
     </message>
 </context>
 <context>
@@ -6341,7 +6524,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>Warning: Saving as a text file will cause all formatting, pictures, and objects in your file to be lost.</source>
-        <translation>警告　テキスト形式で保存すると、すべての書式や図、オブジェクトが失われます</translation>
+        <translation>警告　テキスト形式で保存すると、ファイルに含まれる書式、図、およびオブジェクトはすべて失われます。</translation>
     </message>
 </context>
 <context>
@@ -6369,6 +6552,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <message>
         <source>Maintain compatibility with previous versions of Word</source>
         <translation>旧バージョンのWordとの互換性を保留します</translation>
+    </message>
+    <message>
+        <source>&amp;Display Tutorial for Video-Playing after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6865,51 +7053,51 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxFormatGroupContent_TextBox</name>
     <message>
         <source>Bottom</source>
-        <translation>下揃え</translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>Bottom Centered</source>
-        <translation>下中央揃え</translation>
+        <translation>下中央</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>中央揃え</translation>
+        <translation>中央</translation>
     </message>
     <message>
         <source>Center Middle</source>
-        <translation>上下中央揃え</translation>
+        <translation>上下中央</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>左揃え</translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Left Middle</source>
-        <translation>左中央揃え</translation>
+        <translation>左中央</translation>
     </message>
     <message>
         <source>Middle</source>
-        <translation>中央揃え</translation>
+        <translation>上下中央</translation>
     </message>
     <message>
         <source>Middle Centered</source>
-        <translation>上下中央揃え</translation>
+        <translation>中心</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>右揃え</translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Right Middle</source>
-        <translation>右中央揃え</translation>
+        <translation>右中央</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>上揃え</translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Top Centered</source>
-        <translation>上中央揃え</translation>
+        <translation>上中央</translation>
     </message>
 </context>
 <context>
@@ -6948,7 +7136,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>3-D ROTATION</source>
-        <translation>3-D 書式</translation>
+        <translation>3-D 回転</translation>
     </message>
     <message>
         <source>ALIGNMENT</source>
@@ -7047,7 +7235,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>HORIZONTAL ERROR BAR</source>
-        <translation>水平誤差線</translation>
+        <translation>横軸誤差範囲</translation>
     </message>
     <message>
         <source>LABELS</source>
@@ -7063,7 +7251,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>NUMBER</source>
-        <translation>数字</translation>
+        <translation>表示形式</translation>
     </message>
     <message>
         <source>SERIES OPTIONS</source>
@@ -7071,7 +7259,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>TICK MARKS</source>
-        <translation>目盛のマーカー</translation>
+        <translation>目盛</translation>
     </message>
     <message>
         <source>TRENDLINE OPTIONS</source>
@@ -7079,7 +7267,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>VERTICAL ERROR BAR</source>
-        <translation>垂直誤差線</translation>
+        <translation>縦軸誤差範囲</translation>
     </message>
 </context>
 <context>
@@ -7093,7 +7281,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxFormatProperty_FillAndLine</name>
     <message>
         <source>Fill &amp; Line</source>
-        <translation>塗りつぶしと線の種類</translation>
+        <translation>塗りつぶしと線</translation>
     </message>
     <message>
         <source>Text Fill &amp; Outline</source>
@@ -7111,7 +7299,12 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxFormatProperty_SizePro</name>
     <message>
         <source>Size &amp; Properties</source>
-        <translation type="unfinished">サイズとプロパティ</translation>
+        <translation type="obsolete">サイズとプロパティ</translation>
+    </message>
+    <message>
+        <source>Size &amp; 
+Properties</source>
+        <translation>サイズとプロパティ</translation>
     </message>
 </context>
 <context>
@@ -7145,7 +7338,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Typography</source>
-        <translation>体裁</translation>
+        <translation>レイアウト</translation>
     </message>
 </context>
 <context>
@@ -7279,22 +7472,22 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxGalleryFontComboBox</name>
     <message>
         <source> (Body)</source>
-        <translation> (正文)</translation>
+        <translation> (本文)</translation>
     </message>
     <message>
         <source> (Headings)</source>
-        <translation> (タイトル)</translation>
+        <translation> (見出し)</translation>
     </message>
 </context>
 <context>
     <name>KxGalleryModelThemeFontItem</name>
     <message>
         <source>(Headings)</source>
-        <translation>(タイトル)</translation>
+        <translation>(見出し)</translation>
     </message>
     <message>
         <source>Body</source>
-        <translation>(正文)</translation>
+        <translation>(本文)</translation>
     </message>
 </context>
 <context>
@@ -7314,12 +7507,28 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
         <source>Hide Task Window</source>
         <translation>ワークウィンドウを閉じる</translation>
     </message>
+    <message>
+        <source>Show Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Navigator Window</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxHintWidget</name>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
         <translation>%1 検索しているファイルが見つかりませんでした。%2 %3 Kingsoft Data Recovery %4 をお試しください。</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation>ログイン</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation>申し訳ありませんが、ファイルを回復できませんでした。</translation>
     </message>
 </context>
 <context>
@@ -7361,11 +7570,11 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxInputDialogCommand</name>
     <message>
         <source>Custom</source>
-        <translation>設定</translation>
+        <translation>ユーザー設定</translation>
     </message>
     <message>
         <source>Custom:</source>
-        <translation>設定:</translation>
+        <translation>ユーザー設定:</translation>
     </message>
 </context>
 <context>
@@ -7463,15 +7672,15 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>WPS Presentation cannot access %1. The file name is invalid.</source>
-        <translation>Kingsoft Presentationは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+        <translation>WPS Presentationは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
     </message>
     <message>
         <source>WPS Writer cannot access %1. The file name is invalid.</source>
-        <translation>Kingsoft Writerは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+        <translation>WPS Writerは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot access %1. The file name is invalid.</source>
-        <translation>Kingsoft Spreadsheetsは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
+        <translation>WPS Spreadsheetsは %1 ファイルにアクセスできません。ファイル名が無効です</translation>
     </message>
     <message>
         <source>WPS Presentation cannot access %1, the file name is invalid.</source>
@@ -7543,27 +7752,27 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <name>KxLinksObjectChangeSourceDlg</name>
     <message>
         <source>All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのファイル(*.*)</translation>
     </message>
     <message>
         <source>It&amp;em</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテム(&amp;E)</translation>
     </message>
     <message>
         <source>Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテム:</translation>
     </message>
     <message>
         <source>Rich Text Format(*.rtf)</source>
-        <translation type="unfinished"></translation>
+        <translation>RTF 形式(*.rtf)</translation>
     </message>
     <message>
         <source>Text files(*.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>テキストファイル(*.txt)</translation>
     </message>
     <message>
         <source>Word 97-2003 Documents(*.doc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Word 97-2003 ドキュメント(*.doc)</translation>
     </message>
     <message>
         <source>Word 97-2003 Templates(*.doc)</source>
@@ -7571,11 +7780,11 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Word Documents(*.docx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Word ドキュメント(*.docx)</translation>
     </message>
     <message>
         <source>Word Macro-Enabled Documents(*.docm)</source>
-        <translation type="unfinished"></translation>
+        <translation>Word マクロ有効文書(*.docm)</translation>
     </message>
     <message>
         <source>Word Macro-Enabled Templates(*.docm)</source>
@@ -7583,69 +7792,79 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>Word Templates(*.dotx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Word テンプレート(*.dotx)</translation>
     </message>
     <message>
         <source>XML files(*.xml)</source>
-        <translation type="unfinished"></translation>
+        <translation>XML ファイル(*.xml)</translation>
+    </message>
+    <message>
+        <source>Word 97-2003 Templates(*.dot)</source>
+        <translation>Word 97-2003 テンプレート(*.dot)</translation>
+    </message>
+    <message>
+        <source>Word Macro-Enabled Templates(*.dotm)</source>
+        <translation>Word マクロ有効テンプレート(*.dotm)</translation>
     </message>
 </context>
 <context>
     <name>KxLinksObjectContextDlg</name>
     <message>
         <source>Are you sure you want to break the selectd links?</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたリンクを切断してもよろしいですか？</translation>
     </message>
     <message>
         <source>close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
 </context>
 <context>
     <name>KxLinksObjectContextHelper</name>
     <message>
         <source>---</source>
-        <translation type="unfinished"></translation>
+        <translation>---</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished">自動</translation>
+        <translation>自動</translation>
     </message>
     <message>
         <source>Item</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテム</translation>
     </message>
     <message>
         <source>Lock</source>
-        <translation type="unfinished"></translation>
+        <translation>ロック</translation>
     </message>
     <message>
         <source>Man</source>
-        <translation type="unfinished"></translation>
+        <translation>手動</translation>
     </message>
     <message>
         <source>N/A</source>
-        <translation type="unfinished"></translation>
+        <translation>N/A</translation>
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found.										 The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>オブジェクトに不存在のリンクを含めているため、更新できなくなります。</translatorcomment>
+        <translation>このドキュメント内のオブジェクトには、存在しないファイルへのリンクが含まれています。リンクされた情報は更新されません。</translation>
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found.								 The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>オブジェクトに不存在のリンクを含めているため、更新できなくなります。</translatorcomment>
+        <translation>このドキュメント内のオブジェクトには、存在しないファイルへのリンクが含まれています。リンクされた情報は更新されません。</translation>
     </message>
     <message>
         <source>Source file</source>
-        <translation type="unfinished"></translation>
+        <translation>ソースファイル</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">種類</translation>
+        <translation>種類</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">更新</translation>
+        <translation>更新</translation>
     </message>
 </context>
 <context>
@@ -7672,6 +7891,14 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation type="obsolete">マクロ&quot;%1&quot;を実行できません。マクロがこのブック内で利用できないか、すべてのマクロが無効になっている可能性があります</translation>
+    </message>
+    <message>
+        <source>Cannot find the macro, or the macro is disabled because of security settings.</source>
+        <translation>マクロが無効になるか、セキュリティの設定で、マクロが見つかりません。</translation>
+    </message>
+    <message>
+        <source>Due to macro security settings, no macro or macro can be found to be disabled.</source>
+        <translation>セキュリティの設定で、マクロが見つかりません。</translation>
     </message>
 </context>
 <context>
@@ -7700,7 +7927,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     <message>
         <source>To work with macros, please purchase WPS Office Professional.
 </source>
-        <translation>マクロを利用したい場合ではKingsoft Office VBAバージョンをご購入するお勧めます。</translation>
+        <translation type="obsolete">マクロを利用したい場合ではWPS Office VBAバージョンをご購入することをお勧めます。</translation>
     </message>
 </context>
 <context>
@@ -7838,7 +8065,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>New</source>
-        <translation>新規作成</translation>
+        <translation type="obsolete">新規作成</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -7850,7 +8077,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation>やり直し</translation>
+        <translation type="obsolete">やり直し</translation>
     </message>
     <message>
         <source>Save</source>
@@ -7866,27 +8093,39 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>元に戻す</translation>
+        <translation type="obsolete">元に戻す</translation>
     </message>
     <message>
         <source>Close all tabs or current tab</source>
-        <translation type="unfinished"></translation>
+        <translation>すべてのタブか、現在のタブを閉じますか？</translation>
     </message>
     <message>
         <source>Close all</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて閉じる</translation>
     </message>
     <message>
         <source>Close current</source>
-        <translation type="unfinished"></translation>
+        <translation>このタブを閉じる</translation>
     </message>
     <message>
         <source>cancel Close</source>
-        <translation type="unfinished"></translation>
+        <translation>タブ閉じるをキャンセル</translation>
     </message>
     <message>
         <source>Compatibility Mode</source>
-        <translation>互換性モード</translation>
+        <translation>互換モード</translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation type="obsolete">タッチモード</translation>
+    </message>
+    <message>
+        <source>Can&apos;t launch application</source>
+        <translation>アプリケーションを起動できません。</translation>
+    </message>
+    <message>
+        <source>Please log on to use document source trace function.</source>
+        <translation>機能を使用するには、ログインしてください。</translation>
     </message>
 </context>
 <context>
@@ -8072,26 +8311,42 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>import templates</source>
-        <translation type="unfinished"></translation>
+        <translation>テンプレートの導入</translation>
     </message>
     <message>
         <source>template file</source>
-        <translation type="unfinished"></translation>
+        <translation>テンプレートファイル</translation>
     </message>
     <message>
         <source>Kingsoft Presentation Template</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation テンプレートファイル（*.dpt）</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Template</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft PowerPoint 97/2000/XP/2003 テンプレートファイル（*.pot）</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Templates</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets テンプレートファイル（*.ett）</translation>
     </message>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
+        <translation>Microsoft Excel 97/2000/XP/2003 テンプレートファイル（*.xlt）</translation>
+    </message>
+    <message>
+        <source>PowerPoint Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PowerPoint Template Macro Enabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel Template Macro Enabled</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8168,7 +8423,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>%1 membership has expired, please renew.</source>
-        <translation>Vip %1の有効期限が切れます。更新してください</translation>
+        <translation type="obsolete">Vip %1の有効期限が切れます。更新してください</translation>
     </message>
     <message>
         <source>WPS members can access to more than 300 cloud fonts, updated monthly.</source>
@@ -8197,6 +8452,18 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>WPS members enjoy more than 300 cloud font, monthly not regularly updated new font, let your document colorful!</source>
         <translation type="obsolete">WPS会員は300種類のクラウドフォントを利用できます、毎月で新しいフォントを更新し、ドキュメントのフォント編集が便利なります</translation>
+    </message>
+    <message>
+        <source>Your font is expired. To continue using, please renew.</source>
+        <translation>フォントが期限切れになりました。使用するには、継続課金を行ってください。</translation>
+    </message>
+    <message>
+        <source>Renew Now</source>
+        <translation>継続課金</translation>
+    </message>
+    <message>
+        <source>Membership has expired, please renew.</source>
+        <translation>会員オプションが期限切れになりました。継続課金してください。</translation>
     </message>
 </context>
 <context>
@@ -8281,7 +8548,7 @@ Click the icon to sign in now.</source>
     </message>
     <message>
         <source>More Fonts</source>
-        <translation>その他のフォント</translation>
+        <translation type="obsolete">その他のフォント</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
@@ -8290,11 +8557,11 @@ Click the icon to sign in now.</source>
     <message>
         <source>Upgrade to use VIP-only fonts.
 Click here to sign in.</source>
-        <translation>クリックするとオンラインフォントをシャッフルにします。</translation>
+        <translation type="obsolete">クリックするとオンラインフォントをシャッフルにします。</translation>
     </message>
     <message>
         <source>Senior members can access to free cloud fonts. Click to sign in.</source>
-        <translation>シニアメンバーはVIP クラウドフォントを利用できます。クリックしてログインしてください</translation>
+        <translation type="obsolete">シニアメンバーはVIP クラウドフォントを利用できます。クリックしてログインしてください</translation>
     </message>
     <message>
         <source>Members can access to free cloud fonts. Click to sign in.</source>
@@ -8416,6 +8683,26 @@ Click here to sign in now.</source>
         <source></source>
         <translation></translation>
     </message>
+    <message>
+        <source>Shuffle</source>
+        <translation>シャッフル</translation>
+    </message>
+    <message>
+        <source>View more Cloud fonts</source>
+        <translation>もっとフォントを表示</translation>
+    </message>
+    <message>
+        <source>The document contains fonts that you have not installed. Click to see</source>
+        <translation>ファイルには未インストールフォントがあります。クリックして表示します。</translation>
+    </message>
+    <message>
+        <source>Check fonts that are not installed</source>
+        <translation>未インストールフォントを表示</translation>
+    </message>
+    <message>
+        <source>Click to install vip cloud fonts</source>
+        <translation>クリックして有料クラウドフォントを表示</translation>
+    </message>
 </context>
 <context>
     <name>KxOnlineShapesGalleryModel</name>
@@ -8515,7 +8802,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>PDF Format to Word Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">PDFを Wordに変換 </translation>
     </message>
 </context>
 <context>
@@ -8538,7 +8825,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>Kingsoftヘルプ</translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
@@ -8708,16 +8995,20 @@ Click here to sign in now.</source>
         <source>Printing %1 page of %2</source>
         <translation>%2 ページ中 %1 を印刷中</translation>
     </message>
+    <message>
+        <source>Printing %1 page of %2 in the copy of %3</source>
+        <translation>部数%3 の%2 ページ中 %1 を印刷中</translation>
+    </message>
 </context>
 <context>
     <name>KxPrintRestrictDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation type="unfinished">ご利用中のKingsoft Officeは無料版です</translation>
+        <translation type="obsolete">ご利用中のKingsoft Officeは無料版です</translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. We recommend that you click Print Preview to see effects before printing.</source>
-        <translation type="unfinished">印刷すると、透かしがファイル内に追加されます。印刷プレビューをクリックし、印刷前に効果を確認することを推奨いたします</translation>
+        <translation type="obsolete">印刷すると、透かしがファイル内に追加されます。印刷プレビューをクリックし、印刷前に効果を確認することを推奨いたします</translation>
     </message>
     <message>
         <source>&amp;Print</source>
@@ -8725,7 +9016,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>Print Pre&amp;view</source>
-        <translation type="unfinished">印刷プレビュー(&amp;V)</translation>
+        <translation type="obsolete">印刷プレビュー(&amp;V)</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
@@ -8736,7 +9027,7 @@ Click here to sign in now.</source>
     <name>KxPrintWatermarkDlg</name>
     <message>
         <source>You are using a free version. </source>
-        <translation>ご利用中のKingsoft Officeは無料版です</translation>
+        <translation>ご利用中のWPS Officeは無料版です</translation>
     </message>
     <message>
         <source>A watermark will be added to your document when printing. </source>
@@ -8837,6 +9128,26 @@ Click here to sign in now.</source>
         <source>The printer &quot;%1&quot; encountered an error!</source>
         <translation>%1 プリンターからエラーが返されました</translation>
     </message>
+    <message>
+        <source>Duple&amp;x printing:</source>
+        <translation type="obsolete">両面印刷(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Print one sided</source>
+        <translation type="obsolete">片面印刷</translation>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation>長辺を綴じる</translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation>短辺を綴じる</translation>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation>手差し両面印刷</translation>
+    </message>
 </context>
 <context>
     <name>KxPrinterProperties</name>
@@ -8881,7 +9192,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>Document Number</source>
-        <translation>文書番号</translation>
+        <translation>ファイル番号</translation>
     </message>
     <message>
         <source>Editor</source>
@@ -9003,6 +9314,78 @@ Click here to sign in now.</source>
         <source>N&amp;o</source>
         <translation type="obsolete">いいえ(&amp;N)</translation>
     </message>
+    <message>
+        <source>Document id</source>
+        <translation>ファイルID</translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation>種類</translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation>コピー番号</translation>
+    </message>
+    <message>
+        <source>Document security level and security time</source>
+        <translation>セキュリティレベルと時間</translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation>緊急レベル</translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation>発行機関フラグ</translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation>配布番号</translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation>発行者</translation>
+    </message>
+    <message>
+        <source>Document title</source>
+        <translation>タイトル</translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation>送信機関</translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation>添付説明</translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation>発行機関または発行人署名</translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation>作成日付</translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation>添付ノート</translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation>カーボンコピー機関</translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation>発行機関</translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation>発行日付</translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation>発行レベル</translation>
+    </message>
 </context>
 <context>
     <name>KxRbCustomDlg</name>
@@ -9060,7 +9443,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>The selected command is already on the Quick Access Toolbar!</source>
-        <translation>選択されたメニューはすでにクイックツールバー上にあります。</translation>
+        <translation>選択されたメニューはすでにクイックメニューバーに存在します。</translation>
     </message>
     <message>
         <source>Undo</source>
@@ -9068,7 +9451,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>Are you sure to reset Quick Access Toolbar to return to the default state?</source>
-        <translation>クイックツールバーをリセットしてもよろしいですか？</translation>
+        <translation>クイックメニューバーをリセットしますか？</translation>
     </message>
 </context>
 <context>
@@ -9099,7 +9482,7 @@ Click here to sign in now.</source>
     </message>
     <message>
         <source>Clear in one click</source>
-        <translation>どれかキーを押すとクリアします</translation>
+        <translation>クリックすると選択ファイルを削除します</translation>
     </message>
     <message>
         <source>Clear &amp;all selected records</source>
@@ -9164,7 +9547,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Open folder containing the file</source>
-        <translation>ファイルが保存されているフォルダを開く</translation>
+        <translation type="obsolete">ファイルが保存されているフォルダを開く</translation>
     </message>
     <message>
         <source>
@@ -9206,7 +9589,7 @@ This record is invalid, the file may be renamed,deleted or moved the location</s
     </message>
     <message>
         <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
-        <translation>&quot;%1&quot; フォルダは削除されたか、移動されたか、ファイル名が変更されたため開けません</translation>
+        <translation>&quot;%1&quot; フォルダは削除されたか、移動されたか、ファイル名が変更されたため、開けません</translation>
     </message>
 </context>
 <context>
@@ -9383,7 +9766,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxSelectSeriesDialog</name>
     <message>
         <source>Accept</source>
-        <translation>承認</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>AddTrendLine</source>
@@ -9518,7 +9901,7 @@ but the included system package is reserved.</source>
     <name>KxSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
 </context>
 <context>
@@ -9544,7 +9927,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
-        <translation>モーダル ​​ダイアログ ボックス! ファイルは処理できません!</translation>
+        <translation>ダイアログ画面が開いているため、起動できません。</translation>
     </message>
 </context>
 <context>
@@ -9559,7 +9942,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>2012 Style</source>
-        <translation>2012インターフェース</translation>
+        <translation type="obsolete">2012インターフェース</translation>
     </message>
     <message>
         <source>Classic Style</source>
@@ -9567,7 +9950,11 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>2016 White</source>
-        <translation type="unfinished"></translation>
+        <translation>2016UI（白）</translation>
+    </message>
+    <message>
+        <source>2016</source>
+        <translation type="obsolete">2016UI (白)</translation>
     </message>
 </context>
 <context>
@@ -9611,7 +9998,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>The layout will take effect after restart or logoff computer</source>
-        <translation type="unfinished"></translation>
+        <translation>インターフェースの変更は、再起動またはPCのログオフ後に有効となります。</translation>
     </message>
 </context>
 <context>
@@ -9668,7 +10055,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Some formula symbols might not be displayed correctly due to missing fonts %1.</source>
-        <translation>システムに %1 フォントが存在しないため、Kingsoft Officeでは一部の記号（数式）を表示できないことがあります。</translation>
+        <translation>システムに %1 フォントが存在しないため、WPS Officeでは一部の記号（数式）を表示できないことがあります。</translation>
     </message>
     <message>
         <source>Missing Cups libraries. Cannot access the printer.</source>
@@ -9676,7 +10063,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>System DPI is asymmetric. WPS Office may have display issues.</source>
-        <translation>Kingsoft Office for Linuxの非対称解像度画面はテストされていません</translation>
+        <translation>WPS Office for Linuxの非対称解像度画面はテストされていません</translation>
     </message>
     <message>
         <source>Missing Cups libraries. Cannot access the printer!</source>
@@ -9816,7 +10203,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
 </context>
 <context>
@@ -9893,7 +10280,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>browse templates location</source>
-        <translation type="unfinished"></translation>
+        <translation>テンプレート場所を参照</translation>
     </message>
 </context>
 <context>
@@ -9929,11 +10316,11 @@ but the included system package is reserved.</source>
     <name>KxThemeFontGalleryModelItem</name>
     <message>
         <source>A</source>
-        <translation>A</translation>
+        <translation>亜</translation>
     </message>
     <message>
         <source>a</source>
-        <translation>a</translation>
+        <translation>あ</translation>
     </message>
 </context>
 <context>
@@ -9954,11 +10341,11 @@ but the included system package is reserved.</source>
     <name>KxThemesGalleryModelItem</name>
     <message>
         <source>A</source>
-        <translation>A</translation>
+        <translation>亜</translation>
     </message>
     <message>
         <source>a</source>
-        <translation>a</translation>
+        <translation>あ</translation>
     </message>
 </context>
 <context>
@@ -9969,15 +10356,15 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Sorry! Error occured just now. After making efforts to repair, it has now returned to the scene.</source>
-        <translation type="obsolete">申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
+        <translation type="obsolete">申し訳ありませんが、ファイルを回復できませんでした。</translation>
     </message>
     <message>
         <source>Sorry! An error occured just now. After making efforts to repair, it has now been restored.</source>
-        <translation type="obsolete">申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
+        <translation type="obsolete">申し訳ありませんが、ファイルを回復できませんでした。</translation>
     </message>
     <message>
         <source>Sorry! An error occurred just now. Now it has been fixed.</source>
-        <translation>申し訳ごありませんが失敗しました。修正を試みましたが、画面に戻ります</translation>
+        <translation>申し訳ありませんが、ファイルを回復できませんでした。</translation>
     </message>
     <message>
         <source>test</source>
@@ -9992,7 +10379,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation>図形選択の変更</translation>
+        <translation type="obsolete">図形選択の変更</translation>
     </message>
     <message>
         <source>Locate:</source>
@@ -10008,26 +10395,26 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>All Shapes</source>
-        <translation>すべての図形</translation>
+        <translation type="obsolete">すべての図形</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>図形選択</translation>
+        <translation type="obsolete">図形選択</translation>
     </message>
     <message>
         <source>Locate</source>
-        <translation>図形選択の指定</translation>
+        <translation type="obsolete">図形選択の指定</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShapePersonalPanelModel</name>
     <message>
         <source>Online Shapes</source>
-        <translation>オンライン図形</translation>
+        <translation type="obsolete">オンライン図形</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation>最近使用した</translation>
+        <translation type="obsolete">最近使用した</translation>
     </message>
     <message>
         <source>Recently Use</source>
@@ -10038,11 +10425,11 @@ but the included system package is reserved.</source>
     <name>KxTpAutoShapesDownloadFailedItem</name>
     <message>
         <source>Try refresh again</source>
-        <translation>再更新してください</translation>
+        <translation type="obsolete">再更新してください</translation>
     </message>
     <message>
         <source>Unable to connect to the server. Please check your network connection.</source>
-        <translation>サーバーに接続できません。ネットワーク接続を確認してください。</translation>
+        <translation type="obsolete">サーバーに接続できません。ネットワーク接続を確認してください。</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check the network.</source>
@@ -10053,7 +10440,7 @@ but the included system package is reserved.</source>
     <name>KxTpAutoShapesDownloadingItem</name>
     <message>
         <source>Loading online shapes...</source>
-        <translation>オンライン図形を読み込んでいます...</translation>
+        <translation type="obsolete">オンライン図形を読み込んでいます...</translation>
     </message>
     <message>
         <source>Loading the online shapes...</source>
@@ -10104,11 +10491,11 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation>ボタン</translation>
+        <translation type="obsolete">ボタン</translation>
     </message>
     <message>
         <source>Recently edited documents recovered from unexpected exit.</source>
-        <translation>強制終了されたファイルは、下記のファイルリストから回復できますす。</translation>
+        <translation>強制終了されたファイルは、上記のファイルリストから回復できますす。</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -10169,6 +10556,14 @@ but the included system package is reserved.</source>
         <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
         <translation>%1 Kingsoft Data Recovery %2 は突然消えてしまったファイルを復元できます。</translation>
     </message>
+    <message>
+        <source>4. %1 Kingsoft Document Recovery %2 helps you to open garbled documents.</source>
+        <translation>4. ファイルが文字化けで開けないと、%1 Kingsoft Document Recovery %2 を使って、解決できます。</translation>
+    </message>
+    <message>
+        <source>1. WPS has created backup for each of your documents. You can also view more services %1 in the backup center %2.</source>
+        <translation>1.WPSはスマートにファイルをバックアップしました。バックアップセンター%1にもっとサービス%2を表示できます。</translation>
+    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -10191,6 +10586,26 @@ but the included system package is reserved.</source>
     <message>
         <source>Category</source>
         <translation>クリップアート</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation>ボタン</translation>
+    </message>
+    <message>
+        <source>Import Clip Art</source>
+        <translation>クリップアートのインポート</translation>
+    </message>
+    <message>
+        <source>You can import a clip art only when the category is custom</source>
+        <translation>ユーザー設定のカテゴリのみにクリップアートをインポートできます。</translation>
+    </message>
+    <message>
+        <source>Delete Clip Art</source>
+        <translation>クリップアートの削除</translation>
+    </message>
+    <message>
+        <source>Clip art can be removed only when the category is custom</source>
+        <translation>ユーザー設定のカテゴリのみにクリップアートを削除できます</translation>
     </message>
 </context>
 <context>
@@ -10328,7 +10743,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>新規空白</translation>
+        <translation>新規作成</translation>
     </message>
     <message>
         <source>New From Other Templates...</source>
@@ -10376,7 +10791,7 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>Open file location</source>
-        <translation>ファイルの場所を開く</translation>
+        <translation type="obsolete">ファイルの場所を開く</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
@@ -10479,7 +10894,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>New Blank Document</source>
-        <translation>新規空白</translation>
+        <translation>新規作成</translation>
     </message>
     <message>
         <source>New From Other Templates...</source>
@@ -10531,7 +10946,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Open file location</source>
-        <translation>フィアルの場所を開く</translation>
+        <translation type="obsolete">フィアルの場所を開く</translation>
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
@@ -10599,6 +11014,22 @@ This file may be renamed , deleted or moved the location.</source>
     <message>
         <source>Shapes on this page</source>
         <translation>このページ内の図形</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>テキストラベル</translation>
+    </message>
+    <message>
+        <source>Experience</source>
+        <translation>体験</translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation>ダウンロードしています</translation>
+    </message>
+    <message>
+        <source>Poor image ? Convert to words, change as you wish!</source>
+        <translation>画像の表示効果がまずい？文字列を変換して任意で調整します</translation>
     </message>
 </context>
 <context>
@@ -10675,7 +11106,7 @@ of services and features.</source>
     </message>
     <message>
         <source>&amp;Transparency:</source>
-        <translation>透過性(&amp;T):</translation>
+        <translation>透明度(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Weight:</source>
@@ -11024,7 +11455,7 @@ of services and features.</source>
     </message>
     <message>
         <source>Do&amp;cument</source>
-        <translation>ドキュメント</translation>
+        <translation>ドキュメント(&amp;C)</translation>
     </message>
     <message>
         <source>Form</source>
@@ -11057,7 +11488,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished">ボタン</translation>
+        <translation>ボタン</translation>
     </message>
 </context>
 <context>
@@ -11587,13 +12018,13 @@ Always take this action</source>
     <message>
         <source>There are errors in your system registry which will disable the use of some objects. Do you want to repair?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation>システムレジストリの異常により、複数のオブジェクトが使用できません。修復しますか？
-（%1 ファイルを開くプログラムとして、Kingsoft Officeを既定にします）</translation>
+        <translation>オフィス関連ファイルについて、WPS Officeを優先的に起動するプログラムに設定してよろしいですか？
+（%1 ファイルなどを開くプログラムとして、WPS Officeを既定にします）</translation>
     </message>
     <message>
         <source>WPS Office is not the default office software. Do you want to set it as the default one?
 (The system uses WPS Office as the default one to open %1 files)</source>
-        <translation>Kingsoft Officeを既定のオフィスソフトに設定しますか？（%1 ファイルがKingsoft Officeで開くようになります）</translation>
+        <translation>WPS Officeを既定のオフィスソフトに設定しますか？（%1 ファイルがWPS Officeで開くようになります）</translation>
     </message>
     <message>
         <source>Rose</source>
@@ -11605,16 +12036,16 @@ Always take this action</source>
     </message>
     <message>
         <source>Do not show this message again.</source>
-        <translation>次回から表示しません</translation>
+        <translation>次回からこの画面を表示しない</translation>
     </message>
     <message>
         <source>Don&apos;t show this message again. 
 Always take this action.</source>
-        <translation>次回より表示しません</translation>
+        <translation>次回からこの画面を表示しない</translation>
     </message>
     <message>
         <source>Do not check this when starting WPS Office next time</source>
-        <translation>次回から起動時に確認しません</translation>
+        <translation>次回からこの画面を表示しない</translation>
     </message>
     <message>
         <source>Auto Backup</source>
@@ -11640,6 +12071,55 @@ Always take this action.</source>
     <message>
         <source>Theme Fonts</source>
         <translation>テーマのフォント</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation type="obsolete">クイックメニューバー</translation>
+    </message>
+    <message>
+        <source>The current document has been hardware encrypted and cannot be saved to Cloud.</source>
+        <translation>このファイルはハードウェア暗号化されました。クラウドファイルに保存できません。</translation>
+    </message>
+    <message>
+        <source>WPS ABNORMAL TIPS</source>
+        <translation type="obsolete">WPS異常通知</translation>
+    </message>
+    <message>
+        <source>WPS server process possibly has been killed by 		antivirus-soft like 360,
+ then you could restart 		wps after stop this antivirus software</source>
+        <translation type="obsolete">WPSのサービスプロセスがクリアされました。アンチウイルスソフトを終了して、WPSを再起動することをお勧めします。</translation>
+    </message>
+    <message>
+        <source>I DO</source>
+        <translation type="obsolete">了解しました</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>cm</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>pt</translation>
+    </message>
+    <message>
+        <source>9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72UI (白)</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72UI (白)</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation>inch</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation>mm</translation>
+    </message>
+    <message>
+        <source>Enter %1 %2 to %3 %4 of value</source>
+        <translation> %1%2 から %3%4までの値を入力</translation>
     </message>
 </context>
 <context>
@@ -11724,12 +12204,12 @@ The settings will take effect after restarting the application.</source>
     <message>
         <source>WPS Office Free only supports classic style interface.
 You can download WPS Office Professional to enjoy the 2012 style interface.</source>
-        <translation>Kingsoft Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
+        <translation>WPS Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
     </message>
     <message>
         <source>
 The settings will take effect after restarting WPS Office.</source>
-        <translation>Kingsoft Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
+        <translation>WPS Office 2012 では2つのインターフェースがあるので。お好みのものをお選びください。途中で切り替えることも可能です。次回から起動時に有効になります。</translation>
     </message>
     <message>
         <source>WPS Office Professional supports switching between two interface styles.
@@ -11775,23 +12255,23 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation>All rights reserved.</translation>
+        <translation type="obsolete">All rights reserved.</translation>
     </message>
     <message>
         <source>Copyright </source>
-        <translation>Copyright</translation>
+        <translation type="obsolete">Copyright</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Product ID:</source>
-        <translation>プロダクトID</translation>
+        <translation type="obsolete">プロダクトID</translation>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation>本製品は以下の方にライセンスされています</translation>
+        <translation type="obsolete">本製品は以下の方にライセンスされています</translation>
     </message>
     <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -11805,7 +12285,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
-        <translation>技術サポート(&amp;T)...</translation>
+        <translation type="obsolete">技術サポート(&amp;T)...</translation>
     </message>
     <message>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
@@ -11813,7 +12293,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>WPS</source>
-        <translation>!NO_TRANS!</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>1988-2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
@@ -11821,7 +12301,27 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="unfinished">2016  中国・北京金山軟件有限公司および珠海金山軟件有限公司。</translation>
+        <translation type="obsolete">2016 Kingsoft Office Software Co., Ltd.</translation>
+    </message>
+    <message>
+        <source>2017 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">2016 Kingsoft Office Software Co., Ltd. {2017 ?}</translation>
+    </message>
+    <message>
+        <source>2016</source>
+        <translation type="obsolete">2016UI (白)</translation>
+    </message>
+    <message>
+        <source>2017</source>
+        <translation type="obsolete">2017UI (白)</translation>
+    </message>
+    <message>
+        <source> 2018 </source>
+        <translation type="obsolete"> 2018 </translation>
+    </message>
+    <message>
+        <source>&amp;License Agreement...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12041,15 +12541,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>X Rotation</source>
-        <translation>X</translation>
+        <translation>X方向に回転</translation>
     </message>
     <message>
         <source>Y Rotation</source>
-        <translation>Y</translation>
+        <translation>Y方向に回転</translation>
     </message>
     <message>
         <source>Z Rotation</source>
-        <translation>Z</translation>
+        <translation>Z方向に回転</translation>
     </message>
 </context>
 <context>
@@ -12106,15 +12606,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Offset X</source>
-        <translation>X補正 (&amp;O)</translation>
+        <translation>横方向に移動(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation>透過性(&amp;T)</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
     <message>
         <source>A&amp;lignment</source>
-        <translation>配置(&amp;L)</translation>
+        <translation>基準位置(&amp;L)</translation>
     </message>
     <message>
         <source>Angl&amp;e</source>
@@ -12130,15 +12630,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Automatic fill</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>Both</source>
-        <translation>両方</translation>
+        <translation>縦横両方向</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>下</translation>
+        <translation>中央下</translation>
     </message>
     <message>
         <source>Bottom left</source>
@@ -12198,23 +12698,23 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Gradient fill</source>
-        <translation>塗りつぶし(グラデーション)</translation>
+        <translation type="obsolete">塗りつぶし(グラデーション)</translation>
     </message>
     <message>
         <source>Hide background graphics</source>
-        <translation>背景の画像を非表示にする</translation>
+        <translation type="obsolete">背景の画像を非表示にする</translation>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>横書き</translation>
+        <translation>横方向</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation>左</translation>
+        <translation>中央左</translation>
     </message>
     <message>
         <source>No fill</source>
-        <translation>塗りつぶしなし</translation>
+        <translation type="obsolete">塗りつぶしなし</translation>
     </message>
     <message>
         <source>None</source>
@@ -12222,7 +12722,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Offs&amp;et Y</source>
-        <translation>Y 補正 (&amp;E)</translation>
+        <translation>縦方向に移動(&amp;E)</translation>
     </message>
     <message>
         <source>Offset &amp;left</source>
@@ -12242,19 +12742,19 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Pattern fill</source>
-        <translation>塗りつぶし(パータン)</translation>
+        <translation type="obsolete">塗りつぶし(パターン)</translation>
     </message>
     <message>
         <source>Picture From</source>
-        <translation>図の挿入</translation>
+        <translation type="obsolete">図の挿入</translation>
     </message>
     <message>
         <source>Picture or texture fill</source>
-        <translation>塗りつぶし(図またはテクスチャ)</translation>
+        <translation type="obsolete">塗りつぶし(図またはテクスチャ)</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation>右</translation>
+        <translation>中央右</translation>
     </message>
     <message>
         <source>Rotate &amp;with shape</source>
@@ -12266,15 +12766,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Scale &amp;X</source>
-        <translation>Xメモリ (&amp;X)</translation>
+        <translation>幅の調整 (&amp;X)</translation>
     </message>
     <message>
         <source>Scale &amp;Y</source>
-        <translation>Y目盛り (&amp;Y)</translation>
+        <translation>高さの調整 (&amp;Y)</translation>
     </message>
     <message>
         <source>Solid fill</source>
-        <translation>塗りつぶし(単色)</translation>
+        <translation type="obsolete">塗りつぶし(単色)</translation>
     </message>
     <message>
         <source>T&amp;ile picture as texture</source>
@@ -12286,7 +12786,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Top</source>
-        <translation>上</translation>
+        <translation>中央上</translation>
     </message>
     <message>
         <source>Top left</source>
@@ -12338,11 +12838,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Vary colors by slice</source>
-        <translation>部分によって色を変更(&amp;V)</translation>
+        <translation>要素を塗り分ける(&amp;V)</translation>
     </message>
     <message>
         <source>&amp;Vary colors by point</source>
-        <translation>ポイントによって色を変更(&amp;V)</translation>
+        <translation>要素を塗り分ける(&amp;V)</translation>
     </message>
     <message>
         <source>Background</source>
@@ -12350,11 +12850,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation type="unfinished">クリップボード</translation>
+        <translation>クリップボード</translation>
     </message>
     <message>
         <source>File...</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル...</translation>
     </message>
     <message>
         <source>Foreground</source>
@@ -12362,7 +12862,47 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Online...</source>
-        <translation type="unfinished">オンライン</translation>
+        <translation>オンライン...</translation>
+    </message>
+    <message>
+        <source>&amp;No fill</source>
+        <translation>塗りつぶしなし(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Solid fill</source>
+        <translation>塗りつぶし(単色)(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient fill</source>
+        <translation>塗りつぶし(グラデーション)(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Picture or texture fill</source>
+        <translation>塗りつぶし(図またはテクスチャ)(&amp;P)</translation>
+    </message>
+    <message>
+        <source>P&amp;attern fill</source>
+        <translation>塗りつぶし(パターン)(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Slide &amp;background fill</source>
+        <translation>スライド背景の塗りつぶし(&amp;B)</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic fill</source>
+        <translation>自動(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Hide background graphics</source>
+        <translation>背景の画像を非表示にする(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Picture...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12381,7 +12921,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation>透過性(&amp;T)</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
     <message>
         <source>Enter 0 to 150 Pounds of value</source>
@@ -12424,7 +12964,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation>透過性(&amp;T)</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Width</source>
@@ -12436,7 +12976,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Automatic line</source>
-        <translation>自動</translation>
+        <translation type="obsolete">自動</translation>
     </message>
     <message>
         <source>B&amp;egin Arrow</source>
@@ -12492,7 +13032,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Gradient line</source>
-        <translation>線（グラデーション）</translation>
+        <translation type="obsolete">線(グラデーション)</translation>
     </message>
     <message>
         <source>Miter</source>
@@ -12500,7 +13040,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>No line</source>
-        <translation>線なし</translation>
+        <translation type="obsolete">線なし</translation>
     </message>
     <message>
         <source>Round</source>
@@ -12516,7 +13056,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Solid line</source>
-        <translation>線(単色)</translation>
+        <translation type="obsolete">線(単色)</translation>
     </message>
     <message>
         <source>Square</source>
@@ -12545,6 +13085,22 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>G&amp;radient Style</source>
         <translation>グラデーションの種類</translation>
+    </message>
+    <message>
+        <source>&amp;No line</source>
+        <translation>線なし(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Solid line</source>
+        <translation>実線(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient line</source>
+        <translation>線（グラデーション）(&amp;G)</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic line</source>
+        <translation>自動(&amp;U)</translation>
     </message>
 </context>
 <context>
@@ -12578,7 +13134,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation>透過性(&amp;T)</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
     <message>
         <source>Enter 0 to 100 Pounds of value</source>
@@ -12629,7 +13185,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation>透過性</translation>
+        <translation>透明度(&amp;T)</translation>
     </message>
     <message>
         <source>Enter 0 to 100 Pounds of value</source>
@@ -12778,7 +13334,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Bottom margin</source>
-        <translation>上(&amp;B)</translation>
+        <translation>下(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Columns...</source>
@@ -12790,11 +13346,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Left Margin</source>
-        <translation>左(&amp;L)</translation>
+        <translation>左(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Right margin</source>
-        <translation>右(&amp;R)</translation>
+        <translation>右(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Shrink text on overflow</source>
@@ -12802,11 +13358,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Top margin</source>
-        <translation>上(&amp;T)</translation>
+        <translation>上(&amp;T):</translation>
     </message>
     <message>
         <source>&amp;Vertical alignment</source>
-        <translation>垂直方向の配置(&amp;V)</translation>
+        <translation>垂直方向の配置(&amp;V):</translation>
     </message>
     <message>
         <source>&amp;Wrap text in shape</source>
@@ -12814,7 +13370,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Borderless</source>
-        <translation>なし</translation>
+        <translation>余白なし</translation>
     </message>
     <message>
         <source>Custom...</source>
@@ -12854,11 +13410,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Rotate all text 270°</source>
-        <translation>すべての文字列を270度回転</translation>
+        <translation>すべての文字列を左へ90度回転</translation>
     </message>
     <message>
         <source>Rotate all text 90°</source>
-        <translation>すべての文字列を90度回転</translation>
+        <translation>すべての文字列を右へ90度回転</translation>
     </message>
     <message>
         <source>Stacked</source>
@@ -12870,15 +13426,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Te&amp;xt direction</source>
-        <translation>文字列の方向(&amp;X)</translation>
+        <translation>文字列の方向(&amp;X):</translation>
     </message>
     <message>
         <source>Text &amp;margin</source>
-        <translation>文字列の余白(&amp;M)</translation>
+        <translation>内部の余白(&amp;M):</translation>
     </message>
     <message>
         <source>Text c&amp;ustom angle</source>
-        <translation>角度のユーザー設定(&amp;U)</translation>
+        <translation>ユーザー設定の角度(&amp;U):</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -12890,7 +13446,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Widening Margins</source>
-        <translation>広さ</translation>
+        <translation>さらに広い</translation>
     </message>
     <message>
         <source>cm</source>
@@ -12905,35 +13461,35 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <name>convertLinkedObject</name>
     <message>
         <source>&amp;Activate as:</source>
-        <translation type="unfinished"></translation>
+        <translation>アクティブ種類(&amp;A):</translation>
     </message>
     <message>
         <source>&amp;Convert to:</source>
-        <translation type="unfinished"></translation>
+        <translation>変換種類(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Display as icon</source>
-        <translation type="unfinished">アイコンで表示(&amp;D)</translation>
+        <translation>アイコンで表示(&amp;D)</translation>
     </message>
     <message>
         <source>Change &amp;Icon</source>
-        <translation type="unfinished">アイコンの変更(&amp;I)...</translation>
+        <translation>アイコンの変更(&amp;I)...</translation>
     </message>
     <message>
         <source>Convert</source>
-        <translation type="unfinished"></translation>
+        <translation>変換</translation>
     </message>
     <message>
         <source>Current type:</source>
-        <translation type="unfinished"></translation>
+        <translation>現在の種類:</translation>
     </message>
     <message>
         <source>Object type:</source>
-        <translation type="unfinished"></translation>
+        <translation>オブジェクトの種類:</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished">説明</translation>
+        <translation>結果</translation>
     </message>
 </context>
 <context>
@@ -12978,11 +13534,11 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Translation by &amp;Character</source>
-        <translation>文字列に変換</translation>
+        <translation>文字列に変換(&amp;C)</translation>
     </message>
     <message>
         <source>Translation by &amp;Word</source>
-        <translation>単語に変換</translation>
+        <translation>単語に変換(&amp;W)</translation>
     </message>
     <message>
         <source>W&amp;hole Document</source>
@@ -13060,6 +13616,10 @@ or Web Page</source>
         <source>Re&amp;cently used E-mail addresses:</source>
         <translation>最近使用したEメールアドレス(&amp;C):</translation>
     </message>
+    <message>
+        <source>B&amp;ookmark...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxDlgPlgpfCrash</name>
@@ -13115,97 +13675,137 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="obsolete">削除(&amp;R)</translation>
+        <translation>削除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation>ショートカットキー</translation>
+    </message>
+    <message>
+        <source>Shortcut currently used by:</source>
+        <translation>ショートカットキーが以下の項目より使用されています:</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>類別</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>コマンド</translation>
+    </message>
+    <message>
+        <source>Current shortcut for selected command:</source>
+        <translation>現在のショートカットキー:</translation>
+    </message>
+    <message>
+        <source>&amp;Search:</source>
+        <translation>検索(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Press new shortcut key:</source>
+        <translation>新しいショートカットキーを押す(&amp;P):</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>指定(&amp;A)</translation>
+    </message>
+    <message>
+        <source>R&amp;eset All</source>
+        <translation>全てリセット(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
     </message>
 </context>
 <context>
     <name>linksObjectContext</name>
     <message>
         <source>&amp;Automatic update</source>
-        <translation type="unfinished"></translation>
+        <translation>自動更新(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Break Link</source>
-        <translation type="unfinished"></translation>
+        <translation>リンク切断(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Manual update</source>
-        <translation type="unfinished"></translation>
+        <translation>手動更新(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Open Source</source>
-        <translation type="unfinished"></translation>
+        <translation>オープンソース(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Update Now</source>
-        <translation type="unfinished"></translation>
+        <translation>今すぐ更新(&amp;U)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>Cha&amp;nge Source</source>
-        <translation type="unfinished"></translation>
+        <translation>ソースの変更(&amp;N)</translation>
     </message>
     <message>
         <source>Item in file:</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル内のアイテム:</translation>
     </message>
     <message>
         <source>Link type:</source>
-        <translation type="unfinished"></translation>
+        <translation>リンクの種類:</translation>
     </message>
     <message>
         <source>Links</source>
-        <translation type="unfinished"></translation>
+        <translation>リンク</translation>
     </message>
     <message>
         <source>Loc&amp;ked</source>
-        <translation type="unfinished"></translation>
+        <translation>ロック(&amp;K)</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Options for selected link</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたリンクのオプション</translation>
     </message>
     <message>
         <source>Preserve &amp;formatting after update</source>
-        <translation type="unfinished"></translation>
+        <translation>更新後の書式を保持(&amp;F)</translation>
     </message>
     <message>
         <source>Save &amp;picture in document</source>
-        <translation type="unfinished"></translation>
+        <translation>図を文書に保存する(&amp;P)</translation>
     </message>
     <message>
         <source>Source file:</source>
-        <translation type="unfinished"></translation>
+        <translation>ソースファイル:</translation>
     </message>
     <message>
         <source>Source information for selected link</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたリンクのソース情報</translation>
     </message>
     <message>
         <source>Update method for selected link</source>
-        <translation type="unfinished"></translation>
+        <translation>選択されたリンクの更新方式</translation>
     </message>
 </context>
 <context>
     <name>linksObjectContextItemInput</name>
     <message>
         <source>Item:</source>
-        <translation type="unfinished"></translation>
+        <translation>アイテム:</translation>
     </message>
     <message>
         <source>Set Item </source>
-        <translation type="unfinished"></translation>
+        <translation>アイテムの設定</translation>
     </message>
     <message>
         <source>Type the bookmark name or range of Microsoft Excel cells you want to insert</source>
-        <translation type="unfinished"></translation>
+        <translation>ブックマーク名、または挿入したいセル範囲を入力してください。</translation>
     </message>
 </context>
 <context>
@@ -13264,7 +13864,7 @@ or Web Page</source>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished">元ファイルへのショートカットが作成され、ハイパーリンクとして貼り付けされます。元ファイルが変更されると、ドキュメントに反映されます</translation>
+        <translation>元ファイルへのショートカットが作成され、ハイパーリンクとして貼り付けされます。元ファイルが変更されると、ドキュメントに反映されます。</translation>
     </message>
 </context>
 <context>
@@ -13423,7 +14023,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Name</source>
-        <translation>プロパティ名(N):</translation>
+        <translation>プロパティ名</translation>
     </message>
     <message>
         <source>Number</source>
@@ -13507,7 +14107,83 @@ or Web Page</source>
     </message>
     <message>
         <source>Completion date</source>
-        <translation>完了日</translation>
+        <translation>完了日時</translation>
+    </message>
+    <message>
+        <source>&amp;Calc</source>
+        <translation>計算(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Document id</source>
+        <translation>ファイルID</translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation>ファイルの種類</translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation>ファイルの番号</translation>
+    </message>
+    <message>
+        <source>Document security level</source>
+        <translation>ファイルセキュリティレベル</translation>
+    </message>
+    <message>
+        <source>Document security time</source>
+        <translation>ファイルセキュリティ日時</translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation>緊急レベル</translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation>発行機関フラグ</translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation>発行番号</translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation>発行人</translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation>配布先</translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation>添付説明</translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation>発行機関または発行者署名</translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation>ファイル日付</translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation>添付メモ</translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation>カーボンコピー機関</translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation>発行機関</translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation>発行日付</translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation>発行レベル</translation>
     </message>
 </context>
 <context>
@@ -13538,6 +14214,5144 @@ or Web Page</source>
     <message>
         <source>WordArt Gallery</source>
         <translation>アート文字</translation>
+    </message>
+</context>
+<context>
+    <name>CheckInDlg</name>
+    <message>
+        <source>CheckIn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version annotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The check out state will be maintained, after you check in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+    <message>
+        <source>Check In Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The type will be Checked in	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary version (draft)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Main version (publish)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover current version</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>CustomBackstage::Control::TabControl</name>
+    <message>
+        <source>Custom Tab</source>
+        <translation>タブの設定</translation>
+    </message>
+</context>
+<context>
+    <name>KChartElementCommand</name>
+    <message>
+        <source>Button </source>
+        <translation>ボタン </translation>
+    </message>
+</context>
+<context>
+    <name>KH5LinkMgrWindow</name>
+    <message>
+        <source>H5 Link Manager</source>
+        <translation>リンクの管理</translation>
+    </message>
+</context>
+<context>
+    <name>KInputWritePasswordDlg2</name>
+    <message>
+        <source>Please enter the password, or %1 open in read-only mode %2:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Opening of read-only mode will no longer convert account-encrypted documents)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically converted to account-encrypted documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account encryption document is encrypted using the WPS account. This encryption method is more secure and reliable.
+(The original password will be cleared after the conversion is successful)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMessageBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation>ダイアログ</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation>WPS</translation>
+    </message>
+    <message>
+        <source>内容
+内容</source>
+        <translation>内容
+内容</translation>
+    </message>
+</context>
+<context>
+    <name>KPasswordDlgTitle</name>
+    <message>
+        <source>Document is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Recommended: Use an account to encrypt documents more securely)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeFlashNotify</name>
+    <message>
+        <source>Download Adobe Flash Player</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beacause of undescribable reasons WPS doesnt build in flash anymore please download it yourself</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>First step download and install flash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second step please restart wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Second step restart WPS after installation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download Flash</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KProxySettingDlg</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation>プロキシ設定</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>種類:</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>アドレス:</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>ポート:</translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation>ユーザー:</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>パスワード:</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>テスト</translation>
+    </message>
+    <message>
+        <source>Do not use proxy</source>
+        <translation>プロキシを使用しない</translation>
+    </message>
+    <message>
+        <source>HTTP proxy</source>
+        <translation>HTTP プロキシ</translation>
+    </message>
+    <message>
+        <source>Internet Explorer Proxy</source>
+        <translation>Internet Explorer プロキシ</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Connected to proxy server correctly</source>
+        <translation>プロキシサーバーに接続しました。</translation>
+    </message>
+    <message>
+        <source>Failed to connect to proxy server</source>
+        <translation>プロキシサーバーに接続できませんでした。</translation>
+    </message>
+</context>
+<context>
+    <name>KRepeatableInputPasswordDlg2</name>
+    <message>
+        <source>This document is an encrypted document, please enter the document open password:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically converted to account-encrypted documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account encryption document is encrypted using the WPS account. This encryption method is more secure and reliable.
+(The original password will be cleared after the conversion is successful)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonFindCmdWidget</name>
+    <message>
+        <source>find commands</source>
+        <translation>コマンドの検索</translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonItemModel</name>
+    <message>
+        <source>root</source>
+        <translation type="obsolete">ルート</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>ユーザー設定</translation>
+    </message>
+    <message>
+        <source>Tool Tab</source>
+        <translation>ツールタブ</translation>
+    </message>
+</context>
+<context>
+    <name>KSaveOOXMLTipDlg</name>
+    <message>
+        <source>Caption</source>
+        <translation>キャプション</translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation>%1を%2に保存することをお勧めします。</translation>
+    </message>
+    <message>
+        <source>The presence of extended data in the prompt file</source>
+        <translation>ファイルを%2形式に保存することをお勧めします。</translation>
+    </message>
+    <message>
+        <source>Don&apos;t check file format</source>
+        <translation>次回から形式チェックを行いません</translation>
+    </message>
+    <message>
+        <source>Save Directly</source>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>名前を付けて保存</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchEngine</name>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation>待機テキストの検索</translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation>失敗テキストの検索</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>種類</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>サイズ</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation>最終更新日時</translation>
+    </message>
+</context>
+<context>
+    <name>KSetupPasswordDlg</name>
+    <message>
+        <source>Setup Password</source>
+        <translation>パスワードの設定</translation>
+    </message>
+    <message>
+        <source>please enter password</source>
+        <translation>パスワードを入力してください:</translation>
+    </message>
+    <message>
+        <source>Enter password</source>
+        <translation>パスワードを入力:</translation>
+    </message>
+    <message>
+        <source>Reenter password to confirm:</source>
+        <translation>もう一度パスワードを入力:</translation>
+    </message>
+    <message>
+        <source>Password length must between 8-20.</source>
+        <translation>8から20文字までのパスワードを指定してください。</translation>
+    </message>
+    <message>
+        <source>Password shout not contains unvisible characters.</source>
+        <translation>パスワードには不可視文字を含むことができません。</translation>
+    </message>
+    <message>
+        <source>Password must contains two kinds of Letters, numbers, special characters.</source>
+        <translation>パスワードには英文字、数字や記号中の2種以上を指定してください。</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>パスワードと確認のパスワードが一致しません。</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWidget</name>
+    <message>
+        <source>weixin scan QR Code 
+ Share To Your FriendsSS</source>
+        <translation>Wechatでスキャンして友たち又はモーメンツに共有します</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWindowShareBar</name>
+    <message>
+        <source>ShareToWeixin</source>
+        <translation>Wechatに共有</translation>
+    </message>
+    <message>
+        <source>ShareToWeibo</source>
+        <translation>Weiboに共有</translation>
+    </message>
+    <message>
+        <source>ShareToQzone</source>
+        <translation>Qzoneに共有</translation>
+    </message>
+    <message>
+        <source>ShareToQQ</source>
+        <translation>QQに共有</translation>
+    </message>
+    <message>
+        <source>Share to:</source>
+        <translation>発送:</translation>
+    </message>
+    <message>
+        <source>H5Share_Defaut_Tips</source>
+        <translation>WPS Officeでドキュメントをウェブページに変換しました、試してみましょう</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewTinyQRCodeWidget</name>
+    <message>
+        <source>Use Wechat scan the code
+share with your friends</source>
+        <translation>Wechatでスキャンして友たち又はモーメンツに共有します</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindow</name>
+    <message>
+        <source>&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;リンクの管理&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;リンクの管理&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;リンクの管理&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowHeaderWidget</name>
+    <message>
+        <source>Link preview</source>
+        <translation>リンクの共有</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowProgressWidget</name>
+    <message>
+        <source>Creating kink, please wait...</source>
+        <translation>リンクを作成中、しばらくお待ちください</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
+        <translation>リンクを作成できませんT_T &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;再実行をクリックしてください&lt;/a&gt;&lt;/b&gt;または、後て実行します。</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
+        <translation>リンクを作成できませんT_T &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;再実行をクリックしてください&lt;/a&gt;&lt;/b&gt;または、後で実行します</translation>
+    </message>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>流暢に表示するために、このリンクに先頭の50ページを含めます</translation>
+    </message>
+    <message>
+        <source>Link contains only top 20 pages</source>
+        <translation>流暢に表示するために、このリンクに先頭の20ページを含めます</translation>
+    </message>
+    <message>
+        <source>The left disk space is not enouth to creat link</source>
+        <translation>ディスクの空き領域が不足ため、リンクを作成できなくなります</translation>
+    </message>
+    <message>
+        <source>Network is unaccessable, can&apos;t creat link</source>
+        <translation>ネットワークへアクセスできません、リンクを作成できません。</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowShareWidget</name>
+    <message>
+        <source>Link has been created, login and use it!</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>For the link security, you need login to share link
+you can manage,delete,reshare the link</source>
+        <translation>ログインしてからリンクを使用できます。
+ログインしてから共有したリンクの管理、削除、再共有などを操作できます。</translation>
+    </message>
+    <message>
+        <source>Create link succeeded!</source>
+        <translation>リンクを作成しました</translation>
+    </message>
+    <message>
+        <source>Click to open the link</source>
+        <translation>クリックしてウェブページを開きます</translation>
+    </message>
+    <message>
+        <source>Creating QRCode...</source>
+        <translation> QRコードを作成中...</translation>
+    </message>
+    <message>
+        <source>WeChat</source>
+        <translation>WeChat</translation>
+    </message>
+    <message>
+        <source>QQ</source>
+        <translation>QQ</translation>
+    </message>
+    <message>
+        <source>QZone</source>
+        <translation>QZone</translation>
+    </message>
+    <message>
+        <source>Weibo</source>
+        <translation>Weibo</translation>
+    </message>
+    <message>
+        <source>Copy link succeeded!</source>
+        <translation>リンクをコピーしました</translation>
+    </message>
+    <message>
+        <source>Copy QRCode succeeded!</source>
+        <translation> QRコードをコピーしました</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>リンクを作成</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddTemplateDlg</name>
+    <message>
+        <source>Add permission template failed, you don&apos;t have full control of this document.</source>
+        <translation>このファイルのすべての権限がないため、権限テンプレートの追加に失敗しました。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddTemplateModel</name>
+    <message>
+        <source>Template Id</source>
+        <translation>テンプレートID</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>テンプレートの種類</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translation>テンプレートの名前</translation>
+    </message>
+    <message>
+        <source>Maintainer Name : </source>
+        <translation>管理者の名前:</translation>
+    </message>
+    <message>
+        <source>Maintainer Account : </source>
+        <translation>管理者アカウント:</translation>
+    </message>
+    <message>
+        <source>Maintainter Desc : </source>
+        <translation>テンプレートの説明:</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>個人テンプレート</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>パブリックテンプレート</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddUsersPermissionDlg</name>
+    <message>
+        <source>Loading, please wait....</source>
+        <translation>ロードしています。しばらくお待ちください...</translation>
+    </message>
+    <message>
+        <source>Too many permission item, please grant permission by using department, group or permission template.</source>
+        <translation>追加するユーザーが多すぎます。部署、グループ、権限テンプレートを使って、権限を付与してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyForwardCommand</name>
+    <message>
+        <source>Your outward application has been submitted to the administrator, please wait for approval.</source>
+        <translation>アウトウォード申請は管理者に提出しました。お待ちください。</translation>
+    </message>
+    <message>
+        <source>View the application</source>
+        <translation>申請の表示</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyOutwardDlg</name>
+    <message>
+        <source>Apply Reason can&apos;t be empty!</source>
+        <translation>申請理由を入力してください。</translation>
+    </message>
+    <message>
+        <source>Password length should be greater than 8!</source>
+        <translation>パスワードを8文字以上の数字と英文字で指定してください。</translation>
+    </message>
+    <message>
+        <source>Outward Receivers List can&apos;t be empty!</source>
+        <translation>アウトウォード受信リストを指定してください。</translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation>未提出</translation>
+    </message>
+    <message>
+        <source>Not approved</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation>承認済み</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>拒否済み</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Approval Status:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>Application id:</source>
+        <translation>申請番号:</translation>
+    </message>
+    <message>
+        <source>Application time:</source>
+        <translation>申請時間:</translation>
+    </message>
+    <message>
+        <source>Approval time:</source>
+        <translation>審査時間:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>ファイルID:</translation>
+    </message>
+    <message>
+        <source>Applicant: </source>
+        <translation>申請人:</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation>アカウント:</translation>
+    </message>
+    <message>
+        <source>Department: </source>
+        <translation>部署:</translation>
+    </message>
+    <message>
+        <source>Please input your reason</source>
+        <translation>申請理由を入力してください。</translation>
+    </message>
+    <message>
+        <source>Approver: </source>
+        <translation>審査人:</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Cancel &amp;Application</source>
+        <translation>申請をキャンセル(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Reapply</source>
+        <translation>再度申請(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Do you want to cancel the outward applications for the selected document?</source>
+        <translation>これらのファイルのアウトウォード申請をキャンセルしますか？</translation>
+    </message>
+    <message>
+        <source>Cancel application success!</source>
+        <translation>申請をキャンセルしました。</translation>
+    </message>
+    <message>
+        <source>&amp;Submit application</source>
+        <translation>提出(&amp;S)</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation type="obsolete">権限を申請</translation>
+    </message>
+    <message>
+        <source>Apply willl take effect after approved.</source>
+        <translation type="obsolete">権限申請は審査通った後有効になります。</translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation>未提出</translation>
+    </message>
+    <message>
+        <source>Please input the reason of apply the permission</source>
+        <translation>申請理由を入力してください。</translation>
+    </message>
+    <message>
+        <source>Apply Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>Apply Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+    <message>
+        <source>File Name:	%1</source>
+        <translation>ファイル名: %1</translation>
+    </message>
+    <message>
+        <source>File Id:	%1</source>
+        <translation>ファルID: %1</translation>
+    </message>
+    <message>
+        <source>Please enter your apply reason for the next step of the operation!</source>
+        <translation>申請理由を入力して次の操作を行ってくだだい。</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+    <message>
+        <source>Your Apply has been canceled.</source>
+        <translation>選択したファイルの権限申請をキャンセルしました。</translation>
+    </message>
+    <message>
+        <source>You has already canceled apply for this document.</source>
+        <translation>このファイルの申請をキャンセルしたことがあります。</translation>
+    </message>
+    <message>
+        <source>You already have all the permissions of this document, without permission to apply!</source>
+        <translation>このファイルのすべての権限があるため、申請する必要がありません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionTipDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation>権限を申請</translation>
+    </message>
+    <message>
+        <source>Permission Warning</source>
+        <translation>権限提示</translation>
+    </message>
+    <message>
+        <source>Verify Permission</source>
+        <translation>権限認証</translation>
+    </message>
+    <message>
+        <source>Verifying...please wait...</source>
+        <translation>認証中、お待ちください...</translation>
+    </message>
+    <message>
+        <source>Verifying failed, please check your network.</source>
+        <translation>権限認証に失敗しました。ネットワークを確認してください。</translation>
+    </message>
+    <message>
+        <source>Verified Again</source>
+        <translation>再度認証</translation>
+    </message>
+    <message>
+        <source>Read permission</source>
+        <translation>閲覧権限</translation>
+    </message>
+    <message>
+        <source>Edit permission</source>
+        <translation>編集権限</translation>
+    </message>
+    <message>
+        <source>Copy permission</source>
+        <translation>コピー権限</translation>
+    </message>
+    <message>
+        <source>Print permission</source>
+        <translation>印刷権限</translation>
+    </message>
+    <message>
+        <source>Save As permission</source>
+        <translation>名前を付けて保存権限</translation>
+    </message>
+    <message>
+        <source>Screen shot permission</source>
+        <translation>スクリーンショット権限</translation>
+    </message>
+    <message>
+        <source>Auth permission</source>
+        <translation>権限認証</translation>
+    </message>
+    <message>
+        <source>You already have %1 of this document</source>
+        <translation>あなたはこのファイルの%1を持っています。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+</context>
+<context>
+    <name>KxApproverTableModel</name>
+    <message>
+        <source>Account</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translation>部署</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupCenterButton</name>
+    <message>
+        <source>Backup Center</source>
+        <translation>バックアップセンター</translation>
+    </message>
+</context>
+<context>
+    <name>KxButtonTip</name>
+    <message>
+        <source>I already know</source>
+        <translation>OK</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckApproveDlg</name>
+    <message>
+        <source>Approve Permission</source>
+        <translation type="obsolete">権限審査</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="obsolete">ファイル名:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation type="obsolete">ファイル番号:</translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translation type="obsolete">閲覧権限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="obsolete">編集権限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="obsolete">コピー権限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="obsolete">印刷権限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="obsolete">名前を付けて保存権限</translation>
+    </message>
+    <message>
+        <source>Screenshot Permission</source>
+        <translation type="obsolete">スクリーンショット権限</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation type="obsolete">権限分配</translation>
+    </message>
+    <message>
+        <source>Current Permissions</source>
+        <translation type="obsolete">現在の権限</translation>
+    </message>
+    <message>
+        <source>Applied Permissions</source>
+        <translation type="obsolete">権限を申請</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation type="obsolete">許可</translation>
+    </message>
+    <message>
+        <source>Disapprove</source>
+        <translation type="obsolete">許可しない</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckPermissionsDlg</name>
+    <message>
+        <source>Modify Permission</source>
+        <translation type="obsolete">権限を変更</translation>
+    </message>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translation>%1の項目があります。</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <translation>(なし)</translation>
+    </message>
+    <message>
+        <source>Upload user rights success.</source>
+        <translation>権限を保存しました。</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translation>このユーザーは他の権限情報があるため、閲覧権限をキャンセルできません。</translation>
+    </message>
+    <message>
+        <source>Upload user rights failed</source>
+        <translation>権限の保存に失敗しました。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have read permission, this document will be closed.</source>
+        <translation>あなたはこのファイルの閲覧権限がないため、ファイルが閉じられます。</translation>
+    </message>
+    <message>
+        <source>Rights is modified, you want to cancel without saving?</source>
+        <translation>権限変更を保存しますか？</translation>
+    </message>
+    <message>
+        <source>Too many permission item, please grant permission by using department, group or permission template.</source>
+        <translation>権限リストが多すぎます。部署、グループ、権限テンプレートを使って、権限を付与してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseOutwardDocTitleWidget</name>
+    <message>
+        <source>make outward doc</source>
+        <translation>アウトウォードファイルの作成</translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseWatermarkProtectDlg</name>
+    <message>
+        <source>Choose one application
+ to make outward document</source>
+        <translation>複数の透かし保護のアウトウォード申請から一つの申請を
+選択して、アウトウォードファイルを作成してます。</translation>
+    </message>
+    <message>
+        <source>Choose outward watermark</source>
+        <translation>アウトフォワード透かしの選択</translation>
+    </message>
+</context>
+<context>
+    <name>KxColorSnapperWidget</name>
+    <message>
+        <source>The color snapper failed to initialize.</source>
+        <translation>カラーピッカーの初期化に失敗しました。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddFromEnpRecievers</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="obsolete">ダイアログ</translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation>電話:</translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation>企業:</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>名前:</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>メールアドレス:</translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translation>検索をクリア</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>Clear selected recievers</source>
+        <translation>選択した受取人をクリア</translation>
+    </message>
+    <message>
+        <source>Submit</source>
+        <translation>追加</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Enterprise Recievers List</source>
+        <translation>受取人リスト</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddTemplate</name>
+    <message>
+        <source>Add Permission Template</source>
+        <translation>権限テンプレートを追加</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translation>テンプレートの種類:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>個人テンプレート</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>パブリックテンプレート</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translation>テンプレート名称:</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>検索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsersPermission</name>
+    <message>
+        <source>Add User</source>
+        <translation>ユーザーを追加</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>組織化(&amp;O)</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>グループ(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>検索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translation>選択したユーザー</translation>
+    </message>
+    <message>
+        <source>Clear All Selected</source>
+        <translation>選択したユーザーをクリア</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translation>権限分配(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Please input department name</source>
+        <translation>部署の名前を入力してください</translation>
+    </message>
+    <message>
+        <source>Please input group name</source>
+        <translation>グループの名前を入力してください</translation>
+    </message>
+    <message>
+        <source>Please input name or account</source>
+        <translation>名前またはアカウントを入力してください</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddVisibleRange</name>
+    <message>
+        <source>Add Group</source>
+        <translation>グループを追加</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>組織(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation>部署名を入力してください。</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>グループ(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translation>グループ名を入力してください。</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyOutward</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="obsolete">ダイアログ</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">テキストラベル</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">キャンセル</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation type="obsolete">2</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation type="obsolete">値</translation>
+    </message>
+    <message>
+        <source>Outward Application</source>
+        <translation>アウトウォードの申請</translation>
+    </message>
+    <message>
+        <source>Outward Application Information</source>
+        <translation>アウトウォード申請情報</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>Applicant:</source>
+        <translation>申請人:</translation>
+    </message>
+    <message>
+        <source>Application reason:</source>
+        <translation>申請原因:</translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation>セキュリティ保護:</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation>保護なし</translation>
+    </message>
+    <message>
+        <source>Watermark Protect</source>
+        <translation>透かし保護</translation>
+    </message>
+    <message>
+        <source>Password Protect</source>
+        <translation>パスワード保護</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>パスワード:</translation>
+    </message>
+    <message>
+        <source>Recivers</source>
+        <translation>受信者</translation>
+    </message>
+    <message>
+        <source>&amp;Add Reciver</source>
+        <translation>新規(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Add from enterprise &amp;Table</source>
+        <translation>企業リストから追加(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Approver Information</source>
+        <translation>審査人情報</translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation>審査人:</translation>
+    </message>
+    <message>
+        <source>Approval Comments:</source>
+        <translation>審査コメント:</translation>
+    </message>
+    <message>
+        <source>&amp;Submit</source>
+        <translation>提出(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyPermission</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation>権限の申請</translation>
+    </message>
+    <message>
+        <source>Apply Permissions:</source>
+        <translation>権限の申請:</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>ファイルの名前:</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation type="obsolete">ファイルID:</translation>
+    </message>
+    <message>
+        <source>Apply Information:</source>
+        <translation>申請人情報:</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>すべてを選択</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translation>閲覧権限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation>名前を付けて保存権限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>編集権限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>印刷権限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>コピー権限</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>権限の付与</translation>
+    </message>
+    <message>
+        <source>Apply Reason:</source>
+        <translation>申請理由:</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Apply Permission Info</source>
+        <translation>申請情報</translation>
+    </message>
+    <message>
+        <source>Offline Permission</source>
+        <translation>オフライン権限</translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation>次へ(&amp;N)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckPermissions</name>
+    <message>
+        <source>Check Users Permission</source>
+        <translation type="obsolete">ユーザーの権限を表示</translation>
+    </message>
+    <message>
+        <source>Auth Type:</source>
+        <translation type="obsolete">権限タイプ:</translation>
+    </message>
+    <message>
+        <source>All Type</source>
+        <translation type="obsolete">すべてのタイプ</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translation type="obsolete">ユーザー権限</translation>
+    </message>
+    <message>
+        <source>Department Auth</source>
+        <translation type="obsolete">部署権限</translation>
+    </message>
+    <message>
+        <source>User Group Auth</source>
+        <translation type="obsolete">グループ権限</translation>
+    </message>
+    <message>
+        <source>User Name/Account:</source>
+        <translation type="obsolete">ユーザー名/アカウント:</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="obsolete">検索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Add &amp;Users</source>
+        <translation>ユーザーを追加(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Add &amp;Group</source>
+        <translation type="obsolete">グループを追加(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Modify Permission</source>
+        <translation type="obsolete">権限を変更(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Check Permissions</source>
+        <translation>ユーザーの権限を表示</translation>
+    </message>
+    <message>
+        <source>User ID:</source>
+        <translation>ユーザーID:</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>名前:</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>Add User</source>
+        <translation>ユーザーを追加</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>権限分配</translation>
+    </message>
+    <message>
+        <source>User Id</source>
+        <translation>ユーザーID:</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation>閲覧権限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>編集権限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>コピー権限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>印刷権限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation>名前を付けて保存権限</translation>
+    </message>
+    <message>
+        <source>Add Group</source>
+        <translation>グループを追加</translation>
+    </message>
+    <message>
+        <source>User/Dept Name</source>
+        <translation>ユーザー/部署名</translation>
+    </message>
+    <message>
+        <source>Permission List</source>
+        <translation>権限リスト</translation>
+    </message>
+    <message>
+        <source>Add &amp;Organization</source>
+        <translation>組織の追加(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Add &amp;Template</source>
+        <translation>テンプレートの追加(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Apply</source>
+        <translation>適用(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgChooseOutwardDoc</name>
+    <message>
+        <source>Choose outward password</source>
+        <translation>アウトウォードパスワードの選択</translation>
+    </message>
+    <message>
+        <source>&amp;make outward doc</source>
+        <translation>アウトウォードファイルの作成</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgChoosePassword</name>
+    <message>
+        <source>Choose outward password</source>
+        <translation>アウトウォードパスワードの選択</translation>
+    </message>
+    <message>
+        <source>Choose one password to make document:</source>
+        <translation>パスワードを選択し、アウトウォードファイルを作成する:</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCurUserPermission</name>
+    <message>
+        <source>Check Current User Permission</source>
+        <translation>自分の権限を表示</translation>
+    </message>
+    <message>
+        <source>Privilege information</source>
+        <translation>権限情報</translation>
+    </message>
+    <message>
+        <source>Grant Permission:</source>
+        <translation>権限分配:</translation>
+    </message>
+    <message>
+        <source>Print Permission:</source>
+        <translation>印刷権限:</translation>
+    </message>
+    <message>
+        <source>Save Permission:</source>
+        <translation>保存権限:</translation>
+    </message>
+    <message>
+        <source>Edit Permission:</source>
+        <translation>編集権限:</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>なし</translation>
+    </message>
+    <message>
+        <source>Read Permission:</source>
+        <translation>閲覧権限:</translation>
+    </message>
+    <message>
+        <source>Copy Permission:</source>
+        <translation>コピー権限:</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Screen Permission:</source>
+        <translation>スクリーンショット権限:</translation>
+    </message>
+    <message>
+        <source>My Permissions</source>
+        <translation>マイ権限</translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation>権限の申請</translation>
+    </message>
+    <message>
+        <source>Document Information</source>
+        <translation>ファイル情報</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>ファイルの名前:</translation>
+    </message>
+    <message>
+        <source>Creater:</source>
+        <translation>作成者:</translation>
+    </message>
+    <message>
+        <source>Offline Permission:</source>
+        <translation>オフライン権限</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgDownloadAndUploadFile</name>
+    <message>
+        <source>Dialog</source>
+        <translation>ダイアログ</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>テキストラベル</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditOutwardMembers</name>
+    <message>
+        <source>Dialog</source>
+        <translation>ダイアログ</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>名前:</translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation>会社:</translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation>電話:</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>メールアドレス:</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>上書き保存</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditTemplate</name>
+    <message>
+        <source>Edit Template</source>
+        <translation>権限テンプレートを編集</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translation>テンプレートの名称:</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>パブリックテンプレート</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>個人テンプレート</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translation>テンプレート説明</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>テンプレートの種類</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>管理者</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Choose Visible Range</source>
+        <translation>可視範囲を選択</translation>
+    </message>
+    <message>
+        <source>Clear Checked</source>
+        <translation>選択した項目をクリア</translation>
+    </message>
+    <message>
+        <source>Visible Range</source>
+        <translation>可視範囲</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExportDictionary</name>
+    <message>
+        <source>Custom Dictionary</source>
+        <translation>ユーザー設定辞書</translation>
+    </message>
+    <message>
+        <source>Dictionary list</source>
+        <translation>辞書リスト</translation>
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation>追加...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation>フルパス</translation>
+    </message>
+    <message>
+        <source>Full path</source>
+        <translation>フルパス</translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation>辞書ファイル(*.dic)</translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation>辞書ファイルの追加</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation>すべてのファイル(*.*)</translation>
+    </message>
+    <message>
+        <source>The file has already existed. Do you want to continue?</source>
+        <translation>同じ名前の辞書が既に存在します。続行しますか？</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation>ユーザー設定辞書を削除すると、その他のプログラムに影響を与える可能性があります。続行しますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantDeptPermission</name>
+    <message>
+        <source>Add Group</source>
+        <translation>グループを追加</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>組織化(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation>部署名を入力してください。</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>グループ(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translation>グループ名を入力してください。</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translation>権限分配(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Grant Department Permssion</source>
+        <translation>部署権限の分配</translation>
+    </message>
+    <message>
+        <source>Search Next</source>
+        <translation>次へ</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>事業部</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>権限分配</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantPermission</name>
+    <message>
+        <source>Grand Permission</source>
+        <translation>権限分配</translation>
+    </message>
+    <message>
+        <source>Changes will take effect after document saved.</source>
+        <translation>権限変更はファイルを保存した後有効になります。</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>すべてを選択</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation>閲覧権限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>編集権限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>コピー権限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>印刷権限</translation>
+    </message>
+    <message>
+        <source>Save Permission</source>
+        <translation>保存権限</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>権限分配</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Screen Permission</source>
+        <translation>スクリーンショット権限</translation>
+    </message>
+    <message>
+        <source>Offline Permission</source>
+        <translation>オフライン権限</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantUsersPermission</name>
+    <message>
+        <source>Grant Users Permission</source>
+        <translation>ユーザー権限分配</translation>
+    </message>
+    <message>
+        <source>Please input user name or user Id</source>
+        <translation>ユーザー名/アカウントを入力してください。</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>権限分配</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>事業部</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translation>選択したユーザー</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflineKeyAuth</name>
+    <message>
+        <source>Account :</source>
+        <translation>アカウント:</translation>
+    </message>
+    <message>
+        <source>Offline Key :</source>
+        <translation>オフラインパスワード:</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Please enter your account</source>
+        <translation>アカウントを入力してください</translation>
+    </message>
+    <message>
+        <source>Please enter your offline password</source>
+        <translation>オフラインパスワードを入力してください</translation>
+    </message>
+    <message>
+        <source>Offline login</source>
+        <translation>オフラインログイン</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflineManagement</name>
+    <message>
+        <source>Offline key cache</source>
+        <translation>オフラインパスワードのキャッシュ</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation type="obsolete">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">キャンセル</translation>
+    </message>
+    <message>
+        <source>Offline management</source>
+        <translation>オフライン管理</translation>
+    </message>
+    <message>
+        <source>Offline login management</source>
+        <translation>オフラインログイン管理</translation>
+    </message>
+    <message>
+        <source>Offline state:</source>
+        <translation>オフライン状態:</translation>
+    </message>
+    <message>
+        <source>&amp;Sign in</source>
+        <translation>オフラインログイン(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Offline password management</source>
+        <translation>オフラインパスワード管理</translation>
+    </message>
+    <message>
+        <source>Create or modify password</source>
+        <translation>オフラインパスワードの作成と変更</translation>
+    </message>
+    <message>
+        <source>&amp;Password</source>
+        <translation>オフラインパスワードの管理(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Cache offline key to this computer</source>
+        <translation>オフラインパスワードをローカルにキャッシュ</translation>
+    </message>
+    <message>
+        <source>&amp;Download</source>
+        <translation>ダウンロード(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflinePassword</name>
+    <message>
+        <source>Offline password </source>
+        <translation>オフラインパスワード</translation>
+    </message>
+    <message>
+        <source>Please enter current password</source>
+        <translation>オフラインパスワードを入力してください</translation>
+    </message>
+    <message>
+        <source>Please enter new password(at least eight digits)</source>
+        <translation>新しいパスワード（8文字以上）を入力してください</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOutwardApplications</name>
+    <message>
+        <source>My Outward Applications</source>
+        <translation>マイアウトウォード申請</translation>
+    </message>
+    <message>
+        <source>Application date:</source>
+        <translation>申請日時:</translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translation>yyyy/M/d</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>まで</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Passed</source>
+        <translation>承認済み</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>拒否済み</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation>セキュリティ保護:</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation>保護なし</translation>
+    </message>
+    <message>
+        <source>Watermark Protect</source>
+        <translation>透かし保護</translation>
+    </message>
+    <message>
+        <source>Password Protect</source>
+        <translation>パスワード保護</translation>
+    </message>
+    <message>
+        <source>Application Id:</source>
+        <translation>申請番号:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>ファイル番号:</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>リセット(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>検索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApply</name>
+    <message>
+        <source>My Permission Apply</source>
+        <translation>権限申請</translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translation>申請日時:</translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translation>yyyy/M/d</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>まで</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation>ファイルID:</translation>
+    </message>
+    <message>
+        <source>Approval State:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translation>審査通った</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translation>審査通らない</translation>
+    </message>
+    <message>
+        <source>Clear All condition</source>
+        <translation>すべての検索条件をクリア</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>検索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Batch Cancel Apply</source>
+        <translation type="obsolete">一括で申請をキャンセル</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation>申請番号:</translation>
+    </message>
+    <message>
+        <source>Apply canceled</source>
+        <translation>キャンセル済み</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApplyDetail</name>
+    <message>
+        <source>Permission Apply Detail</source>
+        <translation>権限申請の詳細</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation type="obsolete">閲覧権限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="obsolete">編集権限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="obsolete">コピー権限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="obsolete">印刷権限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="obsolete">名前を付けて保存権限</translation>
+    </message>
+    <message>
+        <source>Auth Permission</source>
+        <translation type="obsolete">権限分配</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translation type="obsolete">申請をキャンセル</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">閉じる</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation type="obsolete">ファイルID:</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>Apply Information:</source>
+        <translation>申請人情報:</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>閲覧</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編集</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>コピー</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>印刷</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation>名前を付けて保存</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translation>認証</translation>
+    </message>
+    <message>
+        <source>Apply Reason:</source>
+        <translation>申請理由:</translation>
+    </message>
+    <message>
+        <source>Apply Permissions:</source>
+        <translation>申請権限:</translation>
+    </message>
+    <message>
+        <source>Apply Permission Info</source>
+        <translation>申請情報</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>オフライン</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApprove</name>
+    <message>
+        <source>Permission Approve</source>
+        <translation>権限審査</translation>
+    </message>
+    <message>
+        <source>Start Date:</source>
+        <translation>申請日時:</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>まで</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>ユーザー名:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>ファイル名:</translation>
+    </message>
+    <message>
+        <source>User Account:</source>
+        <translation type="obsolete">アカウント:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>ファイルID:</translation>
+    </message>
+    <message>
+        <source>Clear Search Condition</source>
+        <translation>すべての検索条件をクリア</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Approve State:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Approved</source>
+        <translation>承認済み</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>拒否済み</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation>申請番号:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRibbonControlRename</name>
+    <message>
+        <source>Rename</source>
+        <translation>名前の変更</translation>
+    </message>
+    <message>
+        <source>Display name:</source>
+        <translation>表示名:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSaveEncryptedFile</name>
+    <message>
+        <source>Save document</source>
+        <translation>ファイルを保存</translation>
+    </message>
+    <message>
+        <source>The current document does not support account encryption.</source>
+        <translation>このファイル書式はアカウントの暗号化に対応しません。</translation>
+    </message>
+    <message>
+        <source>Create crypto</source>
+        <translation>暗号化</translation>
+    </message>
+    <message>
+        <source>Save current</source>
+        <translation>現在を保存</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSelectApprover</name>
+    <message>
+        <source>Select Approver</source>
+        <translation>審査人を選択</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>検索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Please input user account, name, or department</source>
+        <translation>アカウント、名前または部署を入力してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrustedLocation</name>
+    <message>
+        <source>Dialog</source>
+        <translation>ダイアログ</translation>
+    </message>
+    <message>
+        <source>This location will be treated as s trusted source.Make sure the location is secure.</source>
+        <translation>このフォルダからファイルを開くと信頼されたパスと認められます。新しいフォルダのセキュリティを確保してください。</translation>
+    </message>
+    <message>
+        <source>&amp;Path:</source>
+        <translation>パス(&amp;E):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>参照(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;SubFolders of this location are also trusted</source>
+        <translation>サブフォルダを信頼する(&amp;S)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgUserRightTemplate</name>
+    <message>
+        <source>My User Right Template</source>
+        <translation>マイ権限テンプレート</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translation>テンプレートの種類:</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>検索</translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translation>検索条件をクリア</translation>
+    </message>
+    <message>
+        <source>Template Desc:</source>
+        <translation>テンプレート説明:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>個人テンプレート</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>パブリックテンプレート</translation>
+    </message>
+    <message>
+        <source>Template Id:</source>
+        <translation>テンプレート番号:</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translation>テンプレートの名前:</translation>
+    </message>
+    <message>
+        <source>&amp;New UserRight Template</source>
+        <translation>新規テンプレート(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>一括削除</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>閉じる(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWaitLoading</name>
+    <message>
+        <source>Loading,please wait for a moment...</source>
+        <translation type="obsolete">ロードしています。しばらくお待ちください...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWeChatCustomerService</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WeChat scan, focus on WPS after-sales service, customer service is your solution.</source>
+        <translation type="obsolete">Wechatでスキャンして、WPSサポートセンターに連絡することができます。</translation>
+    </message>
+    <message>
+        <source>WeChat QR Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Discuss your problem with WPS customer service</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDocSecurityTipHelper</name>
+    <message>
+        <source>Please usse security document function after saving this document as security document.</source>
+        <translation>セキュリティファイルの機能を使用するには、ファイルをセキュリティファイルとして保存してください。</translation>
+    </message>
+    <message>
+        <source>This function can not be used offline, please use it after security server connectable.</source>
+        <translation>オフラインでこの機能を使用できません。</translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation>ネットワークに接続していません。ネットワークを確認して、お試しください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDocumentIdCalcDlg</name>
+    <message>
+        <source>Title</source>
+        <translation>タイトル</translation>
+    </message>
+    <message>
+        <source>FileOID:</source>
+        <translation>ファイルOID:</translation>
+    </message>
+    <message>
+        <source>OrganizationCode:</source>
+        <translation>組織コード:</translation>
+    </message>
+    <message>
+        <source>SubDepartment:</source>
+        <translation>サブ部署:</translation>
+    </message>
+    <message>
+        <source>DocumentYear:</source>
+        <translation>記録の年:</translation>
+    </message>
+    <message>
+        <source>DocumentCode:</source>
+        <translation>ファイルコード:</translation>
+    </message>
+    <message>
+        <source>SerialNumber:</source>
+        <translation>シリアル番号:</translation>
+    </message>
+    <message>
+        <source>1.2.156.10</source>
+        <translation>1.2.156.10UI (白)</translation>
+    </message>
+    <message>
+        <source>yyyy</source>
+        <translation>yyyy</translation>
+    </message>
+    <message>
+        <source>01</source>
+        <translation>01UI (白)</translation>
+    </message>
+    <message>
+        <source>02</source>
+        <translation>02UI (白)</translation>
+    </message>
+    <message>
+        <source>03</source>
+        <translation>03UI (白)</translation>
+    </message>
+    <message>
+        <source>04</source>
+        <translation>04UI (白)</translation>
+    </message>
+    <message>
+        <source>05</source>
+        <translation>05UI (白)</translation>
+    </message>
+    <message>
+        <source>06</source>
+        <translation>06UI (白)</translation>
+    </message>
+    <message>
+        <source>07</source>
+        <translation>07UI (白)</translation>
+    </message>
+    <message>
+        <source>08</source>
+        <translation>08UI (白)</translation>
+    </message>
+    <message>
+        <source>09</source>
+        <translation>09UI (白)</translation>
+    </message>
+    <message>
+        <source>0A</source>
+        <translation>0AUI (白)</translation>
+    </message>
+    <message>
+        <source>0B</source>
+        <translation>0BUI (白)</translation>
+    </message>
+    <message>
+        <source>0C</source>
+        <translation>0CUI (白)</translation>
+    </message>
+    <message>
+        <source>0D</source>
+        <translation>0DUI (白)</translation>
+    </message>
+    <message>
+        <source>0E</source>
+        <translation>0EUI (白)</translation>
+    </message>
+    <message>
+        <source>0F</source>
+        <translation>0FUI (白)</translation>
+    </message>
+    <message>
+        <source>Please input the file oid!</source>
+        <translation>ファイルOIDを入力してください。</translation>
+    </message>
+    <message>
+        <source>Please input the organization code!</source>
+        <translation>組織コードを入力してください。</translation>
+    </message>
+    <message>
+        <source>Please input the subdepartment!</source>
+        <translation>サブ部署を入力してください。</translation>
+    </message>
+    <message>
+        <source>Please input the document type!</source>
+        <translation>ファイルの種類を入力してください。</translation>
+    </message>
+    <message>
+        <source>Please input the serialnumber!</source>
+        <translation>シリアル番号を入力してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDownloadAndUploadFileDlg</name>
+    <message>
+        <source>Downloading</source>
+        <translation>ダウンロード中</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <translation>保存中</translation>
+    </message>
+    <message>
+        <source>Downloading: </source>
+        <translation>ダウンロード中:</translation>
+    </message>
+    <message>
+        <source>Saving as: </source>
+        <translation>名前を付けて保存中:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDrTipContentWidget</name>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation>強制終了時のファイルを回復することができませんでした。</translation>
+    </message>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation>%1 検索しているファイルが見つかりませんでした。%2 %3 Kingsoft Data Recovery %4 をお試しください。</translation>
+    </message>
+    <message>
+        <source>immediately recovery</source>
+        <translation>回復</translation>
+    </message>
+    <message>
+        <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
+        <translation>保存されずに終了したファイルが復元できます。（ファイルを復元する必要がない場合は、この画面を閉じて、元ファイルを開いて下さい）</translation>
+    </message>
+    <message>
+        <source>%1 Try %3 Document Repair %4 Repair the error encoding. %2</source>
+        <translation>%1 、 %3 ファイル回復 %4 を使用して、文字化けを修正することをお勧めします。 %2</translation>
+    </message>
+    <message>
+        <source>immediately fix</source>
+        <translation>すぐ回復</translation>
+    </message>
+    <message>
+        <source>Loading the Document Fix. Please wait...</source>
+        <translation>回復されたファイルを読み込んでいます。少々お待ち下さい...</translation>
+    </message>
+    <message>
+        <source>%1Diagnose this exception%2</source>
+        <translation>%1この異常を診断%2</translation>
+    </message>
+    <message>
+        <source>This file has been opened as read-only. Enable edit?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To avoid a problem that has not been discovered, The document was restored to a version with %1. Please send us an error report.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2%3view the content of the report%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>send report</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2%3click here to install vba.%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1%2%3click here to view more details.%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>security warning:macros have been disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>enable macros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find some keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check key word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can only edit under read-only mode since other users are editing this file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEditOutwardMembersDlg</name>
+    <message>
+        <source>Add Forward Recievers</source>
+        <translation>受信者を追加</translation>
+    </message>
+    <message>
+        <source>Edit Forward Recievers</source>
+        <translation>受信者を編集</translation>
+    </message>
+    <message>
+        <source>Name can&apos;t be empty!</source>
+        <translation>名前を入力してください。</translation>
+    </message>
+    <message>
+        <source>Email is invalid!</source>
+        <translation>メールアドレスが正しくありません。</translation>
+    </message>
+    <message>
+        <source>Phone number is invalid!</source>
+        <translation>電話番号が正しくありません。</translation>
+    </message>
+    <message>
+        <source>Company can&apos;t be empty!</source>
+        <translation>企業名を入力してください。</translation>
+    </message>
+    <message>
+        <source>Receiver already exists in your receivers list!</source>
+        <translation>受信者は既に受信者リストに存在します。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditTemplateDlg</name>
+    <message>
+        <source>account</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translation>部署</translation>
+    </message>
+    <message>
+        <source>Template Name can&apos;t be empty.</source>
+        <translation>テンプレートの名前を入力してください。</translation>
+    </message>
+    <message>
+        <source>Template Describe can&apos;t be empty.</source>
+        <translation>テンプレートの説明を入力してください。</translation>
+    </message>
+    <message>
+        <source>Public template must choose at least one organization or group.</source>
+        <translation>パブリックテンプレートの可視範囲では少なくとて、一つの部署またはグループを指定する必要があります。</translation>
+    </message>
+    <message>
+        <source>Edit Template</source>
+        <translation>テンプレートの編集</translation>
+    </message>
+    <message>
+        <source>The maximum length of template description can not exceeded 255 characters</source>
+        <translation>テンプレートの説明内容を255以下の文字で入力してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEncryptionHardware</name>
+    <message>
+        <source>unknown device</source>
+        <translation>未知のデバイス</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnpRecieversModel</name>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation>スマホ</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>Eメール</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation>会社</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnterpriseDocSecurity</name>
+    <message>
+        <source>Can&apos;t complete such operation</source>
+        <translation>この操作を完了できません。</translation>
+    </message>
+    <message>
+        <source>Please log on to use document security function.</source>
+        <translation>ログインしてセキュリティファイルの機能を使用してください。</translation>
+    </message>
+    <message>
+        <source>Your WPS Office client hasn&apos;t configured document security server information, please contact technical support.</source>
+        <translation>使用中のWPS Officeはセキュリティサーバーとの連携がありません。サポートセンターに連絡してください。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open document</source>
+        <translation>ファイルを開けません</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save document</source>
+        <translation>ファイルを保存できません</translation>
+    </message>
+    <message>
+        <source>Can&apos;t copy</source>
+        <translation>コピーできません</translation>
+    </message>
+    <message>
+        <source>Can&apos;t print</source>
+        <translation>印刷できません</translation>
+    </message>
+    <message>
+        <source>Check Permission Failed</source>
+        <translation>権限情報の読み取りに失敗しました</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please open after connect avaliable.</source>
+        <translation>ネットワークが切断されました。ネットワークに接続してお試しください。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please save after connect avaliable.</source>
+        <translation>ネットワークが切断されました。ネットワークに接続して保存してください。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please copy after connect avaliable.</source>
+        <translation>ネットワークが切断されました。ネットワークに接続してコピーしてください。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print after connect avaliable.</source>
+        <translation>ネットワークが切断されました。ネットワークに接続して印刷してください。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, check permission failed.</source>
+        <translation>ネットワークが切断されました。権限情報の取得に失敗しました。</translation>
+    </message>
+    <message>
+        <source>This document is WPS security document, security document format that supports WPS client to open.</source>
+        <translation>このファイルはWPSのセキュリティファイルです。セキュリティファイルに対応するWPS Officeで開いてください。</translation>
+    </message>
+    <message>
+        <source>Security Server authenticating failed to current identifier, please login again.</source>
+        <translation>セキュリティサーバーは現在のアカウントを認証できませんでした。もう一度ログインしてください。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no full control permission for this document!</source>
+        <translation>このファイルのすべての権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no auth permission for this document!</source>
+        <translation>このファイルの権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no read permission for this document!</source>
+        <translation>このファイルの閲覧権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no edit permission for this document!</source>
+        <translation>このファイルの編集権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no save as permission for this document!</source>
+        <translation>このファイルを名前を付けて保存する権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no copy permission for this document!</source>
+        <translation>このファイルのコピー権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print permission for this document!</source>
+        <translation>このファイルの印刷権限がありません。</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print screen permission for this document!</source>
+        <translation>このファイルの印刷権限がありません。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, may be tampering or corrupted!</source>
+        <translation>このセキュリティファイルは壊れる、編集されたか、開くと保存ができません。</translation>
+    </message>
+    <message>
+        <source>Access Security Document Server Failed.</source>
+        <translation>セキュリティサーバーに繋がりません。ネットワークを確認してください。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this document</source>
+        <translation>ファイルを開けません</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save this document</source>
+        <translation>ファイルを保存できません</translation>
+    </message>
+    <message>
+        <source>Please log on to verify your permission</source>
+        <translation>アカウントをログインしてください。</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translation>このファイルはWPSのオンラインセキュリティファイルです。ログインして権限を認証してください。</translation>
+    </message>
+    <message>
+        <source>You are saving a WPS Online Security Document, Please logon to complete operation.</source>
+        <translation>WPSオンラインセキュリティファイルを保存するには、WPSアカウントでログインしてください。</translation>
+    </message>
+    <message>
+        <source>Cancel Permission Apply</source>
+        <translation>権限申請をキャンセル</translation>
+    </message>
+    <message>
+        <source>Are you sure to cancel the selected document&apos;s permission apply?</source>
+        <translation>今回の申請をキャンセルしますか？</translation>
+    </message>
+    <message>
+        <source>can&apos;t print screen</source>
+        <translation>スクリーンショットできません</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print screen after connect avaliable.</source>
+        <translation>ネットワークが切断されました。ネットワークに接続してスクリーンショットしてください。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, it&apos;s not belong our enterprise.</source>
+        <translation>このセキュリティファイルは社内のファイルではないため、開けません。</translation>
+    </message>
+    <message>
+        <source>You already has apply for this document, Please wait.</source>
+        <translation>審査待ちの申請があります。審査完了または申請をキャンセルして新しい申請を提出してください。</translation>
+    </message>
+    <message>
+        <source>The param of this approve is error.</source>
+        <translation>審査引数エラーです。</translation>
+    </message>
+    <message>
+        <source>The apply has already existed.</source>
+        <translation>申請は既に存在します。</translation>
+    </message>
+    <message>
+        <source>The applied rights has already existed.</source>
+        <translation>申請する権限が既に存在します。</translation>
+    </message>
+    <message>
+        <source>The applicant has already canceled this apply.</source>
+        <translation>申請人はこの申請をキャンセルしました。</translation>
+    </message>
+    <message>
+        <source>Failed to approve this application, you don&apos;t have auth permission.</source>
+        <translation>審査に失敗しました。このファイルの権限がありません。</translation>
+    </message>
+    <message>
+        <source>Phone already exists!</source>
+        <translation>電話番号は既に受信者リストに存在します。</translation>
+    </message>
+    <message>
+        <source>Email already exists!</source>
+        <translation>メールアドレスは既に受信者リストに存在します。</translation>
+    </message>
+    <message>
+        <source>Email and phone alread exists!</source>
+        <translation>メールアドレスと電話番号は既に受信者リストに存在します。</translation>
+    </message>
+    <message>
+        <source>Phone param format wrong!</source>
+        <translation>電話番号が正しくありません。</translation>
+    </message>
+    <message>
+        <source>Email param format wrong!</source>
+        <translation>メールアドレスが正しくありません。</translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation>ネットワークが切断されます。ネットワークに接続してお試しください。</translation>
+    </message>
+    <message>
+        <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Security document format mismatch: %1.)</source>
+        <translation>セキュリティファイルを開けません。管理者またはWPSサポートセンターに連絡してください。（セキュリティ書式が一致しない：%1）</translation>
+    </message>
+    <message>
+        <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
+        <translation>セキュリティファイルを開けません。管理者またはWPSサポートセンターに連絡してください。（サーバー側 Transform API が一致しない：%1）</translation>
+    </message>
+    <message>
+        <source>Failed to save this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
+        <translation>セキュリティファイルを保存できません。管理者またはWPSサポートセンターに連絡してください。（サーバー側 Transform API が一致しない：%1）</translation>
+    </message>
+    <message>
+        <source>Failed to use this function, please contact your enterprise&apos;s administrator or WPS customer service. (Server API mismatch: %1.)</source>
+        <translation>この機能を使用できません。管理者またはWPSサポートセンターに連絡してください。（サーバー側 API が一致しない：%1）</translation>
+    </message>
+    <message>
+        <source>The current password is wrong!</source>
+        <translation>オフラインパスワードが正しくありません。</translation>
+    </message>
+    <message>
+        <source>You have not set the offline password yet.</source>
+        <translation>オフラインパスワードが設定されていません。</translation>
+    </message>
+    <message>
+        <source>This document is not support offline, please retry after update online.</source>
+        <translation>このセキュリティファイルはオフラインで使用できません。オンライン編集してお試しください。</translation>
+    </message>
+    <message>
+        <source>Create security document offline is not suppoted.</source>
+        <translation>オフラインでセキュリティファイルを新規作成できません。</translation>
+    </message>
+    <message>
+        <source>Such operation is not supported when you security document is offline.</source>
+        <translation>オフラインファイルはこの操作に対応しません。</translation>
+    </message>
+    <message>
+        <source>Sorry, you don&apos;t have read permission of this document(%1).</source>
+        <translation>ファイル（%1）の閲覧権限がありません。</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>はい</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>いいえ</translation>
+    </message>
+    <message>
+        <source>Your application has been approved, cancel failed.</source>
+        <translation>申請は審査済みのため、キャンセルすることができません。</translation>
+    </message>
+    <message>
+        <source>You outward application is out of expired, please apply again.</source>
+        <translation>選択したアウトウォード申請が期限きれました。もう一度申請してください。</translation>
+    </message>
+    <message>
+        <source>Security document server exception, please contact the enterprise administrator or try again later.</source>
+        <translation>セキュリティサーバーが異常になりました。管理者に連絡または後でお試しください。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have offline permission for this document or no offline cache data found on this computer, please use this document after connecting to the security server.</source>
+        <translation>オフライン権限またはオフラインパスワードのキャッシュがありません。ネットワークに接続して、お試しください。</translation>
+    </message>
+    <message>
+        <source>Offline permission verified</source>
+        <translation>オフライン権限認証通知</translation>
+    </message>
+    <message>
+        <source>Offline hint</source>
+        <translation>オフラインヒント</translation>
+    </message>
+    <message>
+        <source>Can&apos;t launch application</source>
+        <translation>アプリケーションを起動できません。</translation>
+    </message>
+    <message>
+        <source>configure error</source>
+        <translation>アプリが起動できません。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>show tips</source>
+        <translation>ヒントの表示</translation>
+    </message>
+    <message>
+        <source>get enterprise list failed,please login</source>
+        <translation>企業リストの取得に失敗しました。ログインしてお試しください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontPreviewLabel</name>
+    <message>
+        <source>Simsun</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFormatGroupContentChartNumber</name>
+    <message>
+        <source>Western</source>
+        <translation>西暦</translation>
+    </message>
+    <message>
+        <source>Thai Buddhist</source>
+        <translation>タイ仏暦</translation>
+    </message>
+    <message>
+        <source>Chinese(Simple)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(United States)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(United Kingdom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(Australia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(New Zealand)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(Canada)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese(Japan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vietnamese(Vietnam)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese Year</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontPreviewComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryShapesCommand</name>
+    <message>
+        <source>Recommand</source>
+        <translation>推奨</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation>プリセット</translation>
+    </message>
+</context>
+<context>
+    <name>KxGallerySyFontComboBox</name>
+    <message>
+        <source> (Headings)</source>
+        <translation> (見出し)</translation>
+    </message>
+    <message>
+        <source> (Body)</source>
+        <translation> (本文)</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5FailedTip</name>
+    <message>
+        <source>Network connection exception, can not generate Preview,</source>
+        <translation type="obsolete">ネットワークへ接続できません、プレピューできません。</translation>
+    </message>
+    <message>
+        <source>please check your network connection or firewall settings and</source>
+        <translation type="obsolete">ネットワークへの接続または、ファイアーウォールの設定をチェックしてください。</translation>
+    </message>
+    <message>
+        <source>try agin!</source>
+        <translation type="obsolete">更新して再実行</translation>
+    </message>
+    <message>
+        <source>No response to the server T_T, can not generate web pages,</source>
+        <translation type="obsolete">サーバーが応答しないT_T、ウェブページが作成できません</translation>
+    </message>
+    <message>
+        <source>or later</source>
+        <translation type="obsolete">後で実行します</translation>
+    </message>
+    <message>
+        <source>Your disk space is full, 
+Close me and seize the time to clean up.</source>
+        <translation type="obsolete">空き領域が不足ので、アリアしてください</translation>
+    </message>
+    <message>
+        <source>To display the flow, the generated link contains only the first 50 slides.</source>
+        <translation type="obsolete">作成したリンクは先頭の50ページだけ表示できます。</translation>
+    </message>
+    <message>
+        <source>To display the flow, the generated link contains only the first 20 pages.</source>
+        <translation type="obsolete">作成したリンクは先頭の20ページだけ表示できます。</translation>
+    </message>
+    <message>
+        <source>only display part of the document, because the document is too large</source>
+        <translation type="obsolete">ドキュメントのサイズが大きすぎ、部分内容だけプレピューできることになります。共有ウィンドウへ入ってリンクを開いて完全の内容を閲覧します。</translation>
+    </message>
+    <message>
+        <source>Generate web pages Fail T_T,</source>
+        <translation type="obsolete">ウェブページを作成できませんT_T，</translation>
+    </message>
+    <message>
+        <source>or Go to download the latest version and try again.</source>
+        <translation type="obsolete">修復してから再実行します。新しいバージョンのダウンロード先：</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5RemindDialog</name>
+    <message>
+        <source>Copy Finished</source>
+        <translation>コピーしました</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareContiueWidget</name>
+    <message>
+        <source>Share Finished!</source>
+        <translation>共有しました</translation>
+    </message>
+    <message>
+        <source>Continue Share &gt;&gt;</source>
+        <translation>継続共有</translation>
+    </message>
+    <message>
+        <source>Manage Shared Link &gt;&gt;</source>
+        <translation>共有したリンクの管理</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareLoginWidget</name>
+    <message>
+        <source>Link has been generated, 
+you can use the login!</source>
+        <translation>リンクを作成しました、ログインしてから使用できます</translation>
+    </message>
+    <message>
+        <source>For document security needs, please log in,
+you can also enjoy the link after the link to manage, delete, and then share privileges</source>
+        <translation>ログインしてからリンクを使用できます。
+ログインしてから共有したリンクの管理、削除、再共有などを操作できます。</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5hareCreateLinkWidget</name>
+    <message>
+        <source>creating a link...</source>
+        <translation>リンクを作成中</translation>
+    </message>
+    <message>
+        <source>Mobile scan two-dimensional code</source>
+        <translation>QRコードをスキャンしてドキュメントリンクをスマホに転送します</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionAlert</name>
+    <message>
+        <source>It is not supported for Data Encryption/Decryption on this platform.</source>
+        <translation>現在のシステム環境ではハードウェアの暗号化に対応しません。</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>情報</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionDialog</name>
+    <message>
+        <source>Document Encryption</source>
+        <translation>ファイル暗号化</translation>
+    </message>
+    <message>
+        <source>Document Decryption</source>
+        <translation>暗号化解除</translation>
+    </message>
+    <message>
+        <source>The file requires hardware encryption.</source>
+        <translation>このファイルはハードウェア暗号化が必要です。</translation>
+    </message>
+    <message>
+        <source>The file has been hardware encrypted.</source>
+        <translation>このファイルはハードウェア暗号化されます。</translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Hardware encryption service is about to expire, please renew in time.</source>
+        <translation>ハードウェア暗号化サービスがまもなく期限切れます。継続課金することをお勧めします。</translation>
+    </message>
+    <message>
+        <source>Continue to use</source>
+        <translation>継続使用</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionInfoWidget</name>
+    <message>
+        <source>Not found USB-KEY</source>
+        <translation>USB-KEYが検出されません</translation>
+    </message>
+    <message>
+        <source>If you have plugged in USB-KEY,try redetecting or re-plugging.</source>
+        <translation>USB-KEYを挿入している場合、もう一度検測してください。</translation>
+    </message>
+    <message>
+        <source>Detecting USB-KEY...</source>
+        <translation>USB-KEYを検測しています...</translation>
+    </message>
+    <message>
+        <source>renewal</source>
+        <translation>継続課金</translation>
+    </message>
+    <message>
+        <source>Found </source>
+        <translation>検出</translation>
+    </message>
+    <message>
+        <source> has expired</source>
+        <translation>期限切れ</translation>
+    </message>
+    <message>
+        <source>The encryption service </source>
+        <translation>暗号化サービス</translation>
+    </message>
+    <message>
+        <source> has expired, Available after renewal.</source>
+        <translation>期限切れ,継続課金して使用できます。</translation>
+    </message>
+    <message>
+        <source>The encryption service will </source>
+        <translation>暗号化サービス</translation>
+    </message>
+    <message>
+        <source> expired, Leaving only </source>
+        <translation>期限切れ,後</translation>
+    </message>
+    <message>
+        <source> days.</source>
+        <translation>日。</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionItemModel</name>
+    <message>
+        <source>Found</source>
+        <translation>発見</translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translation>暗号化されない</translation>
+    </message>
+    <message>
+        <source>Save As </source>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>Security Format</source>
+        <translation>暗号化書式</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionService</name>
+    <message>
+        <source>Need to update the USB-KEY driver,Please update the driver!</source>
+        <translation>USB-KEYの更新が必要です。ドライブを更新してお試しください。</translation>
+    </message>
+    <message>
+        <source>update</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionWidget</name>
+    <message>
+        <source>Apply for hardware.</source>
+        <translation>ハードウェアの申請</translation>
+    </message>
+    <message>
+        <source>Start detection</source>
+        <translation>検測開始</translation>
+    </message>
+    <message>
+        <source>Redetect</source>
+        <translation>再度検測</translation>
+    </message>
+    <message>
+        <source>Plug in a USB Key to hardware encrypt the file&apos;s open access. 
+Password protection and document permissions will become invalid.</source>
+        <translation>USB-KEYを挿入してファイルの開く権限を暗号化します。
+パスワード保護などが無効になります。</translation>
+    </message>
+</context>
+<context>
+    <name>KxImageQQStylePreViewer</name>
+    <message>
+        <source>Real Size</source>
+        <translation>実際のサイズ</translation>
+    </message>
+    <message>
+        <source>Full Screen</source>
+        <translation>フルスクリーン</translation>
+    </message>
+    <message>
+        <source>Close Full Screen</source>
+        <translation>フルスクリーンを終了</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>スクリーンショット</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>前へ</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>次へ</translation>
+    </message>
+</context>
+<context>
+    <name>KxLoadingTreeModel</name>
+    <message>
+        <source>Loading, please wait...</source>
+        <translation>ロードしています。しばらくお待ちください...</translation>
+    </message>
+    <message>
+        <source>Loading failed...</source>
+        <translation>ロードに失敗しました...</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeNoProtectDocCommand</name>
+    <message>
+        <source>You have not applied for no protect yet or last application is out of expired.</source>
+        <translation>保護なしのアウトウォード申請がない、または前回の申請が期限切れです。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocCommand</name>
+    <message>
+        <source>Current document has unsaved changes, please make outward document after saving changes.</source>
+        <translation>保存されない変更があります。ファイルを保存してアウトウォードファイルを作成してください。</translation>
+    </message>
+    <message>
+        <source>Outward document is created, open now?</source>
+        <translation>アウトウォードファイルを作成しました。開きますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocEntranceCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation>透かし保護のアウトウォード申請がない、または前回の申請が期限切れです。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have outgoing permissions for this document. Please contact the administrator.</source>
+        <translation>このファイルのアウトウォード権限がありません。管理者に連絡してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakePasswordDocCommand</name>
+    <message>
+        <source>You have not applied for password protect yet or last application is out of expired.</source>
+        <translation>パスワード保護のアウトウォード申請がない、または前回の申請が期限切れです。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeWatermarkDocCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation>透かし保護のアウトウォード申請がない、または前回の申請が期限切れです。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMembersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translation>ユーザー名</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>事業部</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineKeyAuthDlg</name>
+    <message>
+        <source>User account can&apos;t be empty.</source>
+        <translation>アカウントを入力してください。</translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation>パスワードが正しくありません</translation>
+    </message>
+    <message>
+        <source>Wrong account(please enter full name account) or offline cache not found.</source>
+        <translation>アカウントが正しくない、またはパスワードがキャッシュされません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagement</name>
+    <message id="false">
+        <source>Please close all security document before log out.</source>
+        <translation>オフラインをログアウトする前に、すべてのセキュリティファイルを閉じてください。</translation>
+    </message>
+    <message>
+        <source>Your offline account doesn&apos;t match the online account, please log again.</source>
+        <translation>ログインするオフラインアカウントは現在のオンラインアカウントと一致しません。もう一度ログインしてください。</translation>
+    </message>
+    <message>
+        <source>Login hint</source>
+        <translation>ログインヒント</translation>
+    </message>
+    <message>
+        <source>Offline log in will log out the online account, are you sure want to log in?</source>
+        <translation>オフラインログインすると、オンラインログインがログアウトされます。続行しますか？</translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account,</source>
+        <translation>ログインするアカウントは現在のオフラインと一致しません。</translation>
+    </message>
+    <message>
+        <source>all security document will be closed after you log in,</source>
+        <translation>ログインすると、すべてのファイルを強制に閉じます。</translation>
+    </message>
+    <message>
+        <source>log in continue (data will be lost if file mark dirty)?</source>
+        <translation>続いてログインしますか？</translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account, please login again.</source>
+        <translation>ログインするオンラインアカウントは現在のオフラインアカウントと一致しません。もう一度ログインしてください。</translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before sign out</source>
+        <translation>オンラインログインをログアウトする前に、開いているファイルを閉じてください。</translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation>警告</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagementDlg</name>
+    <message>
+        <source>User account:</source>
+        <translation>アカウント:</translation>
+    </message>
+    <message>
+        <source>Not logged in</source>
+        <translation>未ログイン</translation>
+    </message>
+    <message>
+        <source>Logged in</source>
+        <translation>ログイン済み</translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation>名前:</translation>
+    </message>
+    <message>
+        <source>User department:</source>
+        <translation>部署:</translation>
+    </message>
+    <message>
+        <source>&amp;Log out</source>
+        <translation>ログアウト(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Sign in</source>
+        <translation>オフラインログイン(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Security server is reachable, offline login is disabled.</source>
+        <translation>セキュリティファイルサーバーに接続しているため、オフラインログインできません。</translation>
+    </message>
+    <message>
+        <source>Download offline data successfully.</source>
+        <translation>オフラインパスワードをキャッシュしました。</translation>
+    </message>
+    <message>
+        <source>Download offline data failed, please retry later.</source>
+        <translation>オフラインパスワードのキャッシュに失敗しました。後でお試しください。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have any document&apos;s offline permission, download offline data failed.</source>
+        <translation>オフライン権限がないため、オフラインパスワードのキャッシュに失敗しました。</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflinePasswordDlg</name>
+    <message>
+        <source>Current password:</source>
+        <translation>現在のパスワード:</translation>
+    </message>
+    <message>
+        <source>New password:</source>
+        <translation>新しいパスワード:</translation>
+    </message>
+    <message>
+        <source>Confirm new password:</source>
+        <translation>新しいパスワードの確認:</translation>
+    </message>
+    <message>
+        <source>Current password can&apos;t be empty.</source>
+        <translation>現在のパスワードを入力してください。</translation>
+    </message>
+    <message>
+        <source>Password&apos;s length must greater than 8</source>
+        <translation>8文字以上のパスワードを指定してください。</translation>
+    </message>
+    <message>
+        <source>You have enter two different passwords.</source>
+        <translation>二回入力したパスワードが一致しません。</translation>
+    </message>
+    <message>
+        <source>Reset password successfully.</source>
+        <translation>パスワードをリセットしました。</translation>
+    </message>
+    <message>
+        <source>Set password successfully</source>
+        <translation>パスワードを設定しました。</translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonQatTab</name>
+    <message>
+        <source>Form</source>
+        <translation>から</translation>
+    </message>
+    <message>
+        <source>Customize the Quick Access Toolbar</source>
+        <translation>クイックメニューバーのユーザー設定</translation>
+    </message>
+    <message>
+        <source>Choose Commands</source>
+        <translation>コマンドの選択</translation>
+    </message>
+    <message>
+        <source>&amp;Add &gt;&gt;</source>
+        <translation>追加(&amp;A)&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Remove</source>
+        <translation>&lt;&lt;削除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Customize Quick Access Toolbar</source>
+        <translation>クイックメニューバーのユーザー設定</translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation>リセット(&amp;E)</translation>
+    </message>
+    <message>
+        <source>You already have this on Quick Access Toolbar.</source>
+        <translation>これはクイックメニューバーに存在します。</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>クイックメニューバー</translation>
+    </message>
+    <message>
+        <source>&amp;Choose commands from:</source>
+        <translation>コマンドの選択(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Popular Commands</source>
+        <translation>最近使用したコマンド</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation>マクロ</translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonTabsTab</name>
+    <message>
+        <source>Form</source>
+        <translation>から</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation type="obsolete">リセット</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="obsolete">ボタン</translation>
+    </message>
+    <message>
+        <source>Cutomize the Ribbon</source>
+        <translation>メニュータブのユーザー設定</translation>
+    </message>
+    <message>
+        <source>&amp;Choose commands from:</source>
+        <translation>コマンドの選択(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Popular Commands</source>
+        <translation>最近使用したコマンド</translation>
+    </message>
+    <message>
+        <source>Commands Not in the Ribbon</source>
+        <translation>メニュータブにないコマンド</translation>
+    </message>
+    <message>
+        <source>All Commands</source>
+        <translation>すべてのコマンド</translation>
+    </message>
+    <message>
+        <source>File Menu</source>
+        <translation>ファイルメニュー</translation>
+    </message>
+    <message>
+        <source>All Tabs</source>
+        <translation>すべてのタブ</translation>
+    </message>
+    <message>
+        <source>Main Tabs</source>
+        <translation>メインタブ</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>追加(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>削除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Customize the Ri&amp;bbon:</source>
+        <translation>メニュータブのユーザー設定(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Ne&amp;w Tab</source>
+        <translation>新しいタブ(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;New Group</source>
+        <translation>新しいグループ(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Rena&amp;me...</source>
+        <translation>名称変更(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Customizations:</source>
+        <translation>ユーザー設定:</translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation>リセット(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Reset only selected Ribbon tab</source>
+        <translation>選択したメニュータブのみをリセット</translation>
+    </message>
+    <message>
+        <source>Reset all customizations</source>
+        <translation>すべてのユーザー設定をリセット</translation>
+    </message>
+    <message>
+        <source>New Group</source>
+        <translation>新しいグループ</translation>
+    </message>
+    <message>
+        <source>New Tab</source>
+        <translation>新しいタブ</translation>
+    </message>
+    <message>
+        <source>Classic menu</source>
+        <translation>クラッシックメニュー</translation>
+    </message>
+    <message>
+        <source>Tab</source>
+        <translation>タブ</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>ファイルメニュー</translation>
+    </message>
+    <message>
+        <source>Popup Menu</source>
+        <translation>ポップアップ メニュー</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation>マクロ</translation>
+    </message>
+    <message>
+        <source>Keyboard shortcuts:</source>
+        <translation>キーボードショートカット:</translation>
+    </message>
+    <message>
+        <source>Cus&amp;tomize...</source>
+        <translation>ユーザー設定(&amp;T)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardApplicationsDlg</name>
+    <message>
+        <source>Do you want to cancel the outward applications for the selected document?</source>
+        <translation>選択したファイルのアウトウォード申請をキャンセルしますか？</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardApplicationsModel</name>
+    <message>
+        <source>Application time</source>
+        <translation>申請時間</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>ファイル名前</translation>
+    </message>
+    <message>
+        <source>Protect type</source>
+        <translation>保護の種類</translation>
+    </message>
+    <message>
+        <source>Approve status</source>
+        <translation>審査状態</translation>
+    </message>
+    <message>
+        <source>Opeartion</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation>申請ID:</translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translation>申請日時:</translation>
+    </message>
+    <message>
+        <source>Doc Name:</source>
+        <translation>ファイル名前:</translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation>保護の種類:</translation>
+    </message>
+    <message>
+        <source>Approval Status:</source>
+        <translation>審査状態:</translation>
+    </message>
+    <message>
+        <source>Application detail</source>
+        <translation>申請詳細</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation>もう一度申請</translation>
+    </message>
+    <message>
+        <source>Cancel application</source>
+        <translation>申請をキャンセル</translation>
+    </message>
+    <message>
+        <source>No protect</source>
+        <translation>保護なし</translation>
+    </message>
+    <message>
+        <source>Watermark protect</source>
+        <translation>透かし保護</translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation>パスワード保護</translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation>未提出</translation>
+    </message>
+    <message>
+        <source>Not approved</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation>承認済み</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>拒否済み</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardDocTableModel</name>
+    <message>
+        <source>Authorize Id</source>
+        <translation>オーソライズID</translation>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation>保護の種類</translation>
+    </message>
+    <message>
+        <source>description</source>
+        <translation>説明</translation>
+    </message>
+    <message>
+        <source>OutwardType_NoProtect</source>
+        <translation>保護なし</translation>
+    </message>
+    <message>
+        <source>OutwardType_WaterMark</source>
+        <translation>透かし保護</translation>
+    </message>
+    <message>
+        <source>OutwardType_Password</source>
+        <translation>パスワード保護</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardMembersModel</name>
+    <message>
+        <source>Operation</source>
+        <translation type="obsolete">操作</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="obsolete">削除</translation>
+    </message>
+</context>
+<context>
+    <name>KxPDF2WordEntryList</name>
+    <message>
+        <source>Loading the PDF To Word. Please wait...</source>
+        <translation type="obsolete">PDFをWord.に変換中です。しばらくお待ちください</translation>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation type="obsolete">PDFをWordに変換</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="obsolete">PDFファイルの抽出/結合</translation>
+    </message>
+</context>
+<context>
+    <name>KxPasswordListModel</name>
+    <message>
+        <source>Apply id:</source>
+        <translation>申請ID:</translation>
+    </message>
+    <message>
+        <source>Apply date:</source>
+        <translation>申請時間:</translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation>審査時間:</translation>
+    </message>
+    <message>
+        <source>Passowrd:</source>
+        <translation>パスワード:</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyDetailDlg</name>
+    <message>
+        <source>File Name: %1</source>
+        <translation type="obsolete">ファイル名: %1</translation>
+    </message>
+    <message>
+        <source>File Id: %1</source>
+        <translation type="obsolete">ファイルID: %1</translation>
+    </message>
+    <message>
+        <source>Current Permission</source>
+        <translation>現在の権限</translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation>権限申請</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation>%1</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translation>承認済み</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translation>拒否済み</translation>
+    </message>
+    <message>
+        <source>Apply canceled</source>
+        <translation>キャンセル済み</translation>
+    </message>
+    <message>
+        <source>Approver Information:</source>
+        <translation>審査人情報:</translation>
+    </message>
+    <message>
+        <source>Approver Opinion:</source>
+        <translation>審査結果:</translation>
+    </message>
+    <message>
+        <source>Cancel apply</source>
+        <translation>申請をキャンセル</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Agree</source>
+        <translation>同意</translation>
+    </message>
+    <message>
+        <source>Disagree</source>
+        <translation>同意しない</translation>
+    </message>
+    <message>
+        <source>Second apply</source>
+        <translation>再度申請</translation>
+    </message>
+    <message>
+        <source>Apply again</source>
+        <translation>もう一度申請</translation>
+    </message>
+    <message>
+        <source>Apply Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>Apply Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+    <message>
+        <source>Approve Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>Approve Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>Approve Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+    <message>
+        <source>Permission Approved</source>
+        <translation>審査結果</translation>
+    </message>
+    <message>
+        <source>Approve agree, user permission application take effect.</source>
+        <translation>審査が承認済みです。ユーザー権限が有効になりました。</translation>
+    </message>
+    <message>
+        <source>Approve refuse, user permission application failed.</source>
+        <translation>審査が拒否済みです。申請した権限が有効になりません。</translation>
+    </message>
+    <message>
+        <source>File Name:	%1</source>
+        <translation>ファイル名前: %1</translation>
+    </message>
+    <message>
+        <source>File Id:	%1</source>
+        <translation>ファイルID: %1</translation>
+    </message>
+    <message>
+        <source>Approve Status:	%1</source>
+        <translation>審査状態: %1</translation>
+    </message>
+    <message>
+        <source>Apply Id:	%1</source>
+        <translation>申請ID: %1</translation>
+    </message>
+    <message>
+        <source>Apply Time:	%1</source>
+        <translation>申請時間: %1</translation>
+    </message>
+    <message>
+        <source>Approve Time:	%1</source>
+        <translation>審査時間: %1</translation>
+    </message>
+    <message>
+        <source>Approve Info</source>
+        <translation>審査情報</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translation>申請日時</translation>
+    </message>
+    <message>
+        <source>File Id</source>
+        <translation type="obsolete">ファイルID</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>ファイル名</translation>
+    </message>
+    <message>
+        <source>Apply State</source>
+        <translation>審査状態</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Apply Detail</source>
+        <translation>申請詳細</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translation>申請をキャンセル</translation>
+    </message>
+    <message>
+        <source>wait for approve</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>apply passed</source>
+        <translation>審査通った</translation>
+    </message>
+    <message>
+        <source>apply unpassed</source>
+        <translation>審査通らない</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation>もう一度申請</translation>
+    </message>
+    <message>
+        <source>apply canceled</source>
+        <translation>キャンセル済み</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveDlg</name>
+    <message>
+        <source>Totally %1 records</source>
+        <translation type="obsolete">%1個の項目があります</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveModel</name>
+    <message>
+        <source>Application Date</source>
+        <translation>申請日時</translation>
+    </message>
+    <message>
+        <source>Document Id</source>
+        <translation type="obsolete">ファイルID</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>ファイル名</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation type="obsolete">アカウント</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translation>ユーザー名</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation>審査</translation>
+    </message>
+    <message>
+        <source>Approve State</source>
+        <translation>審査状態</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation>表示</translation>
+    </message>
+    <message>
+        <source>Approved</source>
+        <translation>承認済み</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>審査待ち</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>拒否済み</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionLoginTipDlg</name>
+    <message>
+        <source>Offline log on</source>
+        <translation>オフラインログイン</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionTipDlg</name>
+    <message>
+        <source>Cannot open this document</source>
+        <translation>このドキュメントは開けません。</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translation>このファイルはWPSオンラインセキュリティファイルです。ログインして権限を認証してください。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Online log on</source>
+        <translation>オンラインログイン</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionsTableModel</name>
+    <message>
+        <source>Auth Type</source>
+        <translation>認証種類</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation type="obsolete">アカウント</translation>
+    </message>
+    <message>
+        <source>ReadOnly</source>
+        <translation>閲覧</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編集</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>コピー</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>印刷</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation>名前を付けて保存</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translation>認証</translation>
+    </message>
+    <message>
+        <source>UniquePrincipal</source>
+        <translation>唯一責任者</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translation>ユーザー権限</translation>
+    </message>
+    <message>
+        <source>Group Auth</source>
+        <translation>グループ認証</translation>
+    </message>
+    <message>
+        <source>Company Auth</source>
+        <translation>部署認証</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translation>権限テンプレート</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>オフライン</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxRecentFileListCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation>&quot;%1&quot;.を開くことができません。
+このドキュメントは、名前が変更されたか、削除されたか、または移動しています。</translation>
+    </message>
+</context>
+<context>
+    <name>KxReciversModel</name>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation>スマホ</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Receiver Name:</source>
+        <translation>名前:</translation>
+    </message>
+    <message>
+        <source>Receiver Phone:</source>
+        <translation>電話番号:</translation>
+    </message>
+    <message>
+        <source>Receiver Email:</source>
+        <translation>メールアドレス:</translation>
+    </message>
+    <message>
+        <source>Receiver Company:</source>
+        <translation>企業:</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編集</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>削除</translation>
+    </message>
+</context>
+<context>
+    <name>KxReportContainerWidget</name>
+    <message>
+        <source>double click to view more</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRnSettingsProxyCommand</name>
+    <message>
+        <source>settings</source>
+        <translation>設定</translation>
+    </message>
+</context>
+<context>
+    <name>KxSaveEncryptedFileDlg</name>
+    <message>
+        <source>• Click &quot;Generate encryption&quot; to generate an encrypted copy.</source>
+        <translation>• [暗号化]をクリックすると、暗号化されたコピーが作成されます。</translation>
+    </message>
+    <message>
+        <source>• Click &quot;Save current&quot; to ignore the account encryption and continue to save in the current format.</source>
+        <translation>• [上書き保存]をクリックすると、現在の書式でファイルを保存します。</translation>
+    </message>
+</context>
+<context>
+    <name>KxScreenSaverCenterButton</name>
+    <message>
+        <source>ScreenSaver Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSelUsersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translation>ユーザー名</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation>アカウント</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>事業部</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectApproverDlg</name>
+    <message>
+        <source>Permission Application</source>
+        <translation>権限申請</translation>
+    </message>
+    <message>
+        <source>Your Apply has sumbited, please wait.</source>
+        <translation>提出した申請は審査人に転送されました。お待ちください。</translation>
+    </message>
+    <message>
+        <source>You has already sumbited one apply for this document.</source>
+        <translation>このファイルの申請を提出したことがあります。</translation>
+    </message>
+</context>
+<context>
+    <name>KxServerConnectableTipDlg</name>
+    <message id="0">
+        <source>Offline use hint</source>
+        <oldsource>WPS Office system files encountered a problem. %1 cannot be 	started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</oldsource>
+        <translation>オフライン使用ヒント</translation>
+    </message>
+    <message>
+        <source>Security server is connectable, please log in to use security document.</source>
+        <translation>セキュリティサーバーに繋がっています。オンラインログインして使用してください。</translation>
+    </message>
+    <message>
+        <source>Online log in</source>
+        <translation>オンラインログイン</translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account, please login again.</source>
+        <translation>ログインするアカウントはオフラインアカウントと一致しません。もう一度ログインしてください。</translation>
+    </message>
+    <message>
+        <source>Login hint</source>
+        <translation>ログインヒント</translation>
+    </message>
+</context>
+<context>
+    <name>KxServerDownTipDlg</name>
+    <message>
+        <source>Access security document server failed, offline log in</source>
+        <translation>セキュリティファイルサーバーに繋がっていません。</translation>
+    </message>
+    <message>
+        <source>if you have offline permission of this document, otherwise</source>
+        <translation>オフライン権限がない場合、ネットワークに接続したら、お試しください。</translation>
+    </message>
+    <message>
+        <source>use it after connection available.</source>
+        <translation>続いてこのファイルを使用します。</translation>
+    </message>
+    <message>
+        <source>Offline use</source>
+        <translation>オフライン使用</translation>
+    </message>
+</context>
+<context>
+    <name>KxShapePaneTitle</name>
+    <message>
+        <source>More</source>
+        <translation>その他</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDialog</name>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">キャンセル(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Insert Smartart Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDlgWidget</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation type="obsolete">スマート図形の選択</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDlgWidget_OldTemp</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation type="unfinished">スマート図形の選択</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertPreviewWidget</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation>スマート図形の選択</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+</context>
+<context>
+    <name>KxSpinBoxCommand</name>
+    <message>
+        <source>Copies:</source>
+        <translation>部数:</translation>
+    </message>
+</context>
+<context>
+    <name>KxSuperTabSwitchWidget</name>
+    <message>
+        <source>Directory:</source>
+        <translation>場所:</translation>
+    </message>
+    <message>
+        <source>Opened Documents:</source>
+        <translation>開かれているファイル:</translation>
+    </message>
+    <message>
+        <source>Can&apos;t display the directory of current document not saved.</source>
+        <translation>このファイルは保存されていないため、ファイルの保存先が表示できません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTabNotification</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation>通知</translation>
+    </message>
+    <message>
+        <source>&amp;Receive Help and QA notices</source>
+        <translation>ヘルプとQAの通知を受信する(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Do&amp;n&apos;t remind me</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxTabTrustCenter</name>
+    <message>
+        <source>TrustCenter</source>
+        <translation>セキュリティセンター</translation>
+    </message>
+    <message>
+        <source>Macro security</source>
+        <translation>マクロセキュリティ</translation>
+    </message>
+    <message>
+        <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
+        <translation>マクロ ウィルスが含まれている可能性のあるファイルのセキュリティ レベルを調整し、信頼できるマクロ開発者の名前を特定するようにします。</translation>
+    </message>
+    <message>
+        <source>Macros &amp;Security...</source>
+        <translation>マクロセキュリティ(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>Trusted Locations</source>
+        <translation>信頼できる場所</translation>
+    </message>
+    <message>
+        <source>Change or add a location that treated as tructed sources, make sure that the new location is secure.</source>
+        <translation>場所を変更する場合は、その場所が安全であることを確認してください。</translation>
+    </message>
+    <message>
+        <source>User Locations:</source>
+        <translation>ユーザー指定の場所:</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>パス:</translation>
+    </message>
+    <message>
+        <source>Sub Folders:</source>
+        <translation>サブフォルダ:</translation>
+    </message>
+    <message>
+        <source>&amp;Add new location...</source>
+        <translation>新しい場所の追加(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>削除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation>変更(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>&amp;Disable all Trusted Locations</source>
+        <translation>すべての信頼できる場所を無効にする(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Trusted Documents</source>
+        <translation>信頼済みドキュメント</translation>
+    </message>
+    <message>
+        <source>Trusted Documents open without any secutiy prompts for macros add ActiveX.Make sure you trust the source.</source>
+        <translation>信頼済みドキュメントを開くとき、セキュリティメッセージが表示されません。発行元が信頼できることを確認してください。</translation>
+    </message>
+    <message>
+        <source>&amp;Auto add as Trusted document.</source>
+        <translation>マクロを有効にする時、自動的に信頼済みドキュメントにします(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Disable Trusted &amp;Documents</source>
+        <translation>信頼済みドキュメントを無効にする(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Clear all Trusted Documents so that they are no longer trusted.</source>
+        <translation>信頼済みドキュメントをすべてクリアして、信頼されていない状態にする</translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation>クリア(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxTemplateInfoDlg</name>
+    <message>
+        <source>Permission Template Infomation</source>
+        <translation>権限テンプレート情報</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translation type="obsolete">権限を変更</translation>
+    </message>
+    <message>
+        <source>ensure tips</source>
+        <translation>確認提示</translation>
+    </message>
+    <message>
+        <source>Do you want to save the rights for the template before exiting</source>
+        <translation>このテンプレートへの権限変更を保存しますか？</translation>
+    </message>
+    <message>
+        <source>Do you want to remove this user right?</source>
+        <translation>このユーザーの権限を削除しますか？</translation>
+    </message>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translation type="obsolete">%1の項目があります。</translation>
+    </message>
+    <message>
+        <source>user rights saved</source>
+        <translation>ユーザー権限が保存済み</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translation>他の権限があるため、閲覧権限を取り消すことができません。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrustCenterTab</name>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
+        <translation>マクロのセキュリティを調整する時、エラーが発生しました。VBA版がインストールされているか、確認してください。</translation>
+    </message>
+    <message>
+        <source>Allowed</source>
+        <translation>許可</translation>
+    </message>
+    <message>
+        <source>Disallowed</source>
+        <translation>許可しない</translation>
+    </message>
+    <message>
+        <source>Add Trusted Location</source>
+        <translation>信頼できる場所の追加</translation>
+    </message>
+    <message>
+        <source>Modify Trusted Location</source>
+        <translation>信頼できる場所の変更</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear your Trusted Documents list so that they are no longer trusted?</source>
+        <translation>信頼済みドキュメントのリストをクリアして、ドキュメントを信頼できない状態にしてもよろしいですか?</translation>
+    </message>
+    <message>
+        <source>Trusted Documents</source>
+        <translation>リストのクリア</translation>
+    </message>
+    <message>
+        <source>The specified path aleady been added to your Trusted Locations.</source>
+        <translation>指定したパスは、信頼出できる場所に既に追加されています。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrustedLocationDlg</name>
+    <message>
+        <source>Select Folder:</source>
+        <translation>フォルダを選択:</translation>
+    </message>
+    <message>
+        <source>The path you have Select is not allowed. Please select other path.</source>
+        <translation>指定されるパスが有効場所ではありません。他のパスを指定してください。</translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateHelper</name>
+    <message numerus="yes">
+        <source>WPS Office Exception</source>
+        <translation type="obsolete">
+            <numerusform>WPS Office 異常通知</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>WPS Office update service cannot work properly, and you will not be able to access to new and improved features brought out in new versions. We recommend that you reinstalled WPS Office to solve this problem.</source>
+        <translation type="obsolete">
+            <numerusform>WPS Officeのアップデートサービスに異常が発生しました。問題解決のため、WPS Office再インストールを推奨します。</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Reinstall</source>
+        <translation type="obsolete">
+            <numerusform>再インストール</numerusform>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateDlg</name>
+    <message>
+        <source>ensure tips</source>
+        <translation>確認提示</translation>
+    </message>
+    <message>
+        <source>After you delete the template, all documents associated with this template will be affected.Are you sure to remove this template?</source>
+        <translation>テンプレートを削除すると、このテンプレートを適用したファイルへ影響を与えます。削除しますか？</translation>
+    </message>
+    <message>
+        <source>New Template</source>
+        <translation>新しいテンプレート</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateModel</name>
+    <message>
+        <source>Template Name</source>
+        <translation>テンプレートの名前</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>テンプレートの種類</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>管理者</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translation>テンプレートの説明</translation>
+    </message>
+    <message>
+        <source>Template Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>編集</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>設定</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>個人テンプレート</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>パブリックテンプレート</translation>
+    </message>
+    <message>
+        <source>Template Name:	%1</source>
+        <translation>テンプレート名前: %1</translation>
+    </message>
+    <message>
+        <source>Template Id:	%1</source>
+        <translation>テンプレートID: %1</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>名前: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>アカウント: %1</translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation>部署: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserShortcutsDlg</name>
+    <message>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>Reset all shortcuts?</source>
+        <translation>すべてのショートカットキーをリセットしますか？</translation>
+    </message>
+    <message>
+        <source>Press new shortcut key</source>
+        <translation>新しいショートカットキーを押してください。</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation>その他</translation>
+    </message>
+</context>
+<context>
+    <name>KxVisibleRangeModel</name>
+    <message>
+        <source>Type</source>
+        <translation>種類</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名前</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation>個人</translation>
+    </message>
+    <message>
+        <source>User Group</source>
+        <translation>グループ</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>事業部</translation>
+    </message>
+</context>
+<context>
+    <name>KxWatermarkTableModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translation>申請日時</translation>
+    </message>
+    <message>
+        <source>Apply Id</source>
+        <translation>申請ID</translation>
+    </message>
+    <message>
+        <source>Apply reason:</source>
+        <translation>申請理由:</translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation>審査日時:</translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation>審査人:</translation>
+    </message>
+</context>
+<context>
+    <name>ProxySetting</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation>プロキシ設定</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>パスワード:</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>ポート:</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>アドレス:</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>ユーザー:</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>タイプ:</translation>
+    </message>
+    <message>
+        <source>Proxy Setting</source>
+        <translation>プロキシ設定</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>テスト</translation>
+    </message>
+</context>
+<context>
+    <name>QDialogButtonBox</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>QMainWindow</name>
+    <message>
+        <source>Document List</source>
+        <translation>ファイル一覧</translation>
+    </message>
+</context>
+<context>
+    <name>ResourceFinder</name>
+    <message>
+        <source>Ok</source>
+        <translation>OK</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>上書き保存</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation>すべて保存</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>開く</translation>
+    </message>
+    <message>
+        <source>Yes (&amp;Y)</source>
+        <translation>はい (&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Yes To All</source>
+        <translation>すべてはい</translation>
+    </message>
+    <message>
+        <source>No (&amp;N)</source>
+        <translation>いいえ(&amp;N)</translation>
+    </message>
+    <message>
+        <source>No To All</source>
+        <translation>すべていいえ</translation>
+    </message>
+    <message>
+        <source>Abort (&amp;A)</source>
+        <translation>中止 (&amp;A)</translation>
+    </message>
+    <message>
+        <source>Retry (&amp;R)</source>
+        <translation>再試行 (&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ignore (&amp;I)</source>
+        <translation>無視 (&amp;I)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation>廃棄</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>ヘルプ</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>適用</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>リセット</translation>
+    </message>
+    <message>
+        <source>ResetDefaults</source>
+        <translation>既定値にリセット</translation>
+    </message>
+</context>
+<context>
+    <name>diagramConversion</name>
+    <message>
+        <source>Diagram Conversion</source>
+        <translation>図表の変換</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to a SmartArt graphic or Shapes.</source>
+        <translation>この図表を編集するには、図表をスマート図形または図形に変換する必要があります。</translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt graphic</source>
+        <translation>スマート図形に変換(&amp;G)</translation>
+    </message>
+    <message>
+        <source>G</source>
+        <translation>G</translation>
+    </message>
+    <message>
+        <source>SmartArt graphics can be displayed in previous versions, but not edited, in versions prior to WPS 2016. Any cell references previously applied to this diagram will be removed.</source>
+        <translation>スマート図形オブジェクトは、WPS Officeの旧バージョンで表示することは可能ですが、編集ができません。このダイアグラムに適用されたすべての参照が削除されます。</translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <translation>図形に変換(&amp;S)</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation>S</translation>
+    </message>
+    <message>
+        <source>Shapes do not provide diagramming functionality, but you can edit them in all version of WPS Office, Any animation previously applied to this diagram will be removed.</source>
+        <translation>図形の場合、図表機能を使用することはできませんが、WPS Office のすべてのバージョンで編集可能です。WPS Presentation を使用してこの図表に適用したアニメーションはすべて削除されます。</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>変換</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>流暢に表示するために、このリンクに先頭の50ページを含めます</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
+    <message>
+        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
+        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;プレピューに入る&lt;/a&gt;&gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
+    <message>
+        <source>Export Pdf</source>
+        <translation>PDFファイルとして出力</translation>
+    </message>
+    <message>
+        <source>Print/Preview</source>
+        <translation>印刷/プレピュー</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>フォルダ</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
+    <message>
+        <source>Property</source>
+        <translation>プロパティ</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
+    <message>
+        <source>Creating Link...</source>
+        <translation>リンクを作成中...</translation>
+    </message>
+    <message>
+        <source>Scan QRCode</source>
+        <translation>QRコードをスキャン</translation>
+    </message>
+    <message>
+        <source>Network error, can not create link
+Please check your network your firewall configuration</source>
+        <translation>ネットワークへの接続または、ファイアーウォールの設定をチェックしてください。</translation>
+    </message>
+    <message>
+        <source>Server not respondingT_T
+Click to retry, or try it later~</source>
+        <translation>サーバーが応答しないT_T、ウェブページが作成できません</translation>
+    </message>
+    <message>
+        <source>Create link failedT_T
+Click to retry, or try it later~</source>
+        <translation>リンクを作成できません、再実行あるいは後で再実行してください</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>リンクをコピー</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>リンクを作成</translation>
+    </message>
+    <message>
+        <source>Scan the QRCode
+send document link to mobile</source>
+        <translation>QRコードをスキャンしてドキュメントリンクをスマホに転送します</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
+    <message>
+        <source>Share link:</source>
+        <translation>リンクを共有:</translation>
+    </message>
+    <message>
+        <source>Share to WeChat</source>
+        <translation>WeChatに共有</translation>
+    </message>
+    <message>
+        <source>Share to Weibo</source>
+        <translation>Weiboに共有</translation>
+    </message>
+    <message>
+        <source>Share to QQ</source>
+        <translation>QQに共有</translation>
+    </message>
+    <message>
+        <source>Share to QZone</source>
+        <translation>QZoneに共有</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>リンクをコピー</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>リンクをコピー</translation>
     </message>
 </context>
 </TS>

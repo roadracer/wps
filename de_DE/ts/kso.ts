@@ -4131,6 +4131,50 @@ Please check your system settings and ensure that the temporary directory under 
         <comment>CHART_CanNotWriteChartLinkPath</comment>
         <translation>Um ein Diagramm einzufügen, müssen Sie zunächst alle geöffneten Dialogfelder schließen oder den Bearbeitungsmodus in WPS Spreadsheets beenden.</translation>
     </message>
+    <message>
+        <source>Size</source>
+        <comment>HINT_SIZE</comment>
+        <translation>Größe</translation>
+    </message>
+    <message>
+        <source>Save Chart Template</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Template Files(*.crtx)|*.crtx</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Filter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart%d</source>
+        <comment>CHART_KSO_Cmd_SaveAsChartTemplate_Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add text</source>
+        <comment>HINT_Addtext</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This template can&apos;t be applied.It&apos;s either damaged or won&apos;t work for the selected chart.Please try recreating it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To build a PivotChart, choose fields from the PivotChart Field List.</source>
+        <comment>CHART_PIVOT_EMPTY_ShowFieldList_DES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trun on the PivotChart Field List to work with the PivotChart.</source>
+        <comment>CHART_PIVOT_EMPTY_HideFieldList_DES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You cannot use an XY(Scatter), Bubble, or Stock chart type with a chart that has been created from PivotTbale data.Please select a different chart type.</source>
+        <comment>TX_PivotChart_NotSupport_ChartType</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_copypaste</name>
@@ -4187,12 +4231,12 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>Data of WPS Drawing</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="unfinished">Daten von WPS-Drawing</translation>
+        <translation type="obsolete">Daten von WPS-Drawing</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as Data of WPS Drawing.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von WPS-Drawing eingefügt.</translation>
+        <translation type="obsolete">Inhalte der Zwischenablage werden als Daten von WPS-Drawing eingefügt.</translation>
     </message>
     <message>
         <source>%s Object</source>
@@ -4377,7 +4421,7 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>The contents of the clipboard will be inserted as Data of Kingsoft Drawing.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation type="unfinished">Inhalte der Zwischenablage werden als Daten von Kingsoft Drawing eingefügt.</translation>
+        <translation type="obsolete">Inhalte der Zwischenablage werden als Daten von Kingsoft Drawing eingefügt.</translation>
     </message>
     <message>
         <source>ET Drag Drawing</source>
@@ -4392,22 +4436,22 @@ Please check your system settings and ensure that the temporary directory under 
     <message>
         <source>WPS Office Graphic Object</source>
         <comment>TX_KSO_CF_SHAPE_DISPNAME</comment>
-        <translation type="obsolete">Grafisches WPS Office-Objekt</translation>
+        <translation>Grafisches WPS Office-Objekt</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_SHAPE_RESULTNAME</comment>
-        <translation type="obsolete">Fügt die Inhalte aus der Zwischenablage als grafisches WPS Office-Objekt ein.</translation>
+        <translation>Fügt die Inhalte aus der Zwischenablage als grafisches WPS Office-Objekt ein.</translation>
     </message>
     <message>
         <source>WPS Office Graphic Object</source>
         <comment>TX_KSO_CF_DRAWING_DISPNAME</comment>
-        <translation type="obsolete">Grafisches WPS Office-Objekt</translation>
+        <translation>Grafisches WPS Office-Objekt</translation>
     </message>
     <message>
         <source>The contents of the clipboard will be inserted as WPS Office Graphic Object.</source>
         <comment>TX_KSO_CF_DRAWING_RESULTNAME</comment>
-        <translation type="obsolete">Fügt die Inhalte aus der Zwischenablage als grafisches WPS Office-Objekt ein.</translation>
+        <translation>Fügt die Inhalte aus der Zwischenablage als grafisches WPS Office-Objekt ein.</translation>
     </message>
     <message>
         <source>Data of Kingsoft Drawing</source>
@@ -5498,6 +5542,41 @@ Komprimieren von Bildern kann die Bildqualität beeinträchtigen. Möchten Sie d
         <source>There is not enough memory, Create Object Failed!</source>
         <comment>DgUil_KSO_Cmd_OleCreateFailedByOutOfMemory</comment>
         <translation>Objekterstellung aufgrund von wenig Arbeitsspeicher fehlgeschlagen.</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <comment>DgUil_KSO_Cmd_AddPictureFrame</comment>
+        <translation>Bildrahmen hinzufügen</translation>
+    </message>
+    <message>
+        <source>Reset Picture And Size</source>
+        <comment>DgUil_KSO_Cmd_ResetSize</comment>
+        <translation>Bild und Größe zurücksetzen</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <comment>DgUil_KSO_Cmd_FormatComment</comment>
+        <translation>Kommentar formatieren</translation>
+    </message>
+    <message>
+        <source>Diagram Conversion</source>
+        <comment>DgUil_PromptDiagramConversionTitle</comment>
+        <translation>Diagrammkonvertierung</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to Shapes.</source>
+        <comment>DgUil_PromptDiagramConversion</comment>
+        <translation>Zum Bearbeiten dieses Diagramms müssen Sie es in Formen konvertieren.</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</source>
+        <comment>DgAllPictureAddCgm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
+        <comment>DgUil_ComputerMetaFiles</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11288,12 +11367,12 @@ Linientyp: %3</translation>
     <message>
         <source> Light Color %1</source>
         <comment>wpp_sTooltipGradientLightColour</comment>
-        <translation type="obsolete"> Helle Farbe %1</translation>
+        <translation> Helle Farbe %1</translation>
     </message>
     <message>
         <source> Dark Color %1</source>
         <comment>wpp_sTooltipGradientDarkColour</comment>
-        <translation type="obsolete"> Dunkle Farbe %1</translation>
+        <translation> Dunkle Farbe %1</translation>
     </message>
     <message>
         <source> Light Color %1%</source>
@@ -11304,6 +11383,56 @@ Linientyp: %3</translation>
         <source> Dark Color %1%</source>
         <comment>wpp_sTooltipGradientDarkColour</comment>
         <translation type="unfinished"> Dunkle Farbe %1%</translation>
+    </message>
+    <message>
+        <source>Comment</source>
+        <comment>DRAWING2STR_COMMENT</comment>
+        <translation>Kommentar</translation>
+    </message>
+    <message>
+        <source>theme color</source>
+        <comment>DRAWING2_SMARTART_COLORS_ThemeColor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multi color</source>
+        <comment>DRAWING2_SMARTART_COLORS_MultiColor</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color1</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color2</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color3</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color4</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color5</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>color6</source>
+        <comment>DRAWING2_SMARTART_COLORS_Color6</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sure change diagram num if lose text</source>
+        <comment>DRAWING2_SMARTDIAGRAM_CHANGENUM_MESSAGE</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11331,22 +11460,22 @@ Linientyp: %3</translation>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Document</source>
         <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
-        <translation>Microsoft Word 97/2000/XP/2003 Dokument</translation>
+        <translation type="obsolete">Microsoft Word 97/2000/XP/2003 Dokument</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Documents</source>
         <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
-        <translation>Microsoft Word 97/2000/XP/2003 Dokumente</translation>
+        <translation type="obsolete">Microsoft Word 97/2000/XP/2003 Dokumente</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Template</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
-        <translation>Microsoft Word 97/2000/XP/2003 Vorlage</translation>
+        <translation type="obsolete">Microsoft Word 97/2000/XP/2003 Vorlage</translation>
     </message>
     <message>
         <source>Microsoft Word 97/2000/XP/2003 Templates</source>
         <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
-        <translation>Microsoft Word 97/2000/XP/2003 Vorlagen</translation>
+        <translation type="obsolete">Microsoft Word 97/2000/XP/2003 Vorlagen</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -11416,17 +11545,17 @@ Linientyp: %3</translation>
     <message>
         <source>Microsoft Word 2007/2010 Document</source>
         <comment>_KsoDesc_MSWORD12</comment>
-        <translation>Microsoft Word 2007/2010 Dokument</translation>
+        <translation type="obsolete">Microsoft Word 2007/2010 Dokument</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Template</source>
         <comment>_KsoDesc_MSWORD12DOTX</comment>
-        <translation>Vorlage von Microsoft Word 2007/2010</translation>
+        <translation type="obsolete">Vorlage von Microsoft Word 2007/2010</translation>
     </message>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Document</source>
         <comment>_KsoDesc_MSWORD12DOCM</comment>
-        <translation>Microsoft Word 2007/2010 Vorlage mit Makros</translation>
+        <translation type="obsolete">Microsoft Word 2007/2010 Vorlage mit Makros</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format</source>
@@ -11446,7 +11575,7 @@ Linientyp: %3</translation>
     <message>
         <source>Microsoft Word 2007/2010 Macro-Enabled Template</source>
         <comment>_KsoDesc_MSWORD12DOTM</comment>
-        <translation>Microsoft Word 2007/2010 Vorlage mit Makros</translation>
+        <translation type="obsolete">Microsoft Word 2007/2010 Vorlage mit Makros</translation>
     </message>
     <message>
         <source>Chinese Office Software Document Format 2.0</source>
@@ -11466,6 +11595,109 @@ Linientyp: %3</translation>
     <message>
         <source>Single Web Page File</source>
         <comment>_KsoFileFormatDesc_MHT_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Public Custom Document Format</source>
+        <comment>_KsoFileFormatDesc_CustomFile</comment>
+        <translation>Öffentliches benutzerdefiniertes Dokumentformat</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <comment>_KsoFileFormatDesc_OnlineSecurtyDocument</comment>
+        <translation>WPS Online-Sicherheitsdokumentformat</translation>
+    </message>
+    <message>
+        <source>Sorry, you has no permission to read this documnet!
+(%s)</source>
+        <comment>_KsoPrompt_NoFileReadPermission</comment>
+        <translation>Sie haben leider keine Leseberechtigung für dieses Dokument.
+(%s)</translation>
+    </message>
+    <message>
+        <source>Failed to communicate with security document server!</source>
+        <comment>_KsoPrompt_SecurityDocumentServerFailed</comment>
+        <translation>Es konnte nicht mit dem Server für Sicherheitsdokumente kommuniziert werden.</translation>
+    </message>
+    <message>
+        <source>Saving the non-security document format will erase all permission settings, Continue?</source>
+        <comment>_KsoPrompt_LostDocumentSecurityInfo</comment>
+        <translation>Wenn das Dokument in einem Nicht-Sicherheitsdokumentformat gespeichert wird, gehen alle Berechtigungseinstellungen verloren. Möchten Sie fortfahren?</translation>
+    </message>
+    <message>
+        <source>WPS Office Outward Document</source>
+        <comment>_KsoFileForamtDesc_WpsOutwardDocument</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to overwrite the current document, choose another file name.</source>
+        <comment>_KsoPrompt_OverwriteTheOpenDocumnet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 outward document  applicant : %2  approver : %3</source>
+        <comment>_KsoOutwardWaterMarkText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_File</comment>
+        <translation type="unfinished">Microsoft Word 2007/2010 Dokument {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Documents</source>
+        <comment>_KsoFileFormatDesc_MSWORD8_Files</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Template</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_File</comment>
+        <translation type="unfinished">Vorlage von Microsoft Word 2007/2010 {97-2003 ?}</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Templates</source>
+        <comment>_KsoFileFormatDesc_MSWORD8DOT_Files</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <comment>_KsoDesc_MSWORD12</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Template</source>
+        <comment>_KsoDesc_MSWORD12DOTX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Document</source>
+        <comment>_KsoDesc_MSWORD12DOCM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft Word Macro-Enabled Template</source>
+        <comment>_KsoDesc_MSWORD12DOTM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document is a secret-label document and can not be opened.
+(%s)</source>
+        <comment>_KsoPrompt_SecretLabel</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save or create this file.
+Possible reasons:
+1.The file is read-only.
+2.The file is being edited by others.
+3.Disk full or damaged.
+(%1)</source>
+        <comment>_KsoPrompt_SaveOutwardFileFailed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenDocument Text</source>
+        <comment>_KsoFileFormatDesc_ODT_File</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11513,6 +11745,26 @@ Linientyp: %3</translation>
         <source>Save as</source>
         <comment>_kso_SaveDiagTitle</comment>
         <translation>Speichern unter</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <comment>_kso_DocOperationCopy</comment>
+        <translation>Kopieren</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <comment>_kso_DocOperationPrint</comment>
+        <translation>Drucken</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <comment>_kso_DocOperationSaveAs</comment>
+        <translation>Speichern unter</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <comment>_kso_DocOperationAuth</comment>
+        <translation>Autorisieren</translation>
     </message>
 </context>
 <context>
@@ -12737,7 +12989,7 @@ Um IRM verwenden zu können, müssen Sie den Windows Rights Management-Client in
     <message>
         <source>This software is for personal use based on personal purpose only. It is strictly forbidden to use this software on production, business operation and other commercial purposes. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="unfinished">Diese Software is nur für persönliche Benutzung angesichts persönlicher Absicht. Die kaufmännische Absicht ist streng verboten. ||Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
+        <translation type="obsolete">Diese Software is nur für persönliche Benutzung angesichts persönlicher Absicht. Die kaufmännische Absicht ist streng verboten. ||Das Software enthält: Das FreeType-Projekt, und nach Genehmigungsklauseln von FreeType-Lizenz verfügen wir über die freie Genehmigung; chinesiche Wortsegmentierung, chinesische phonetische Anmerkung und Techinik für chinesische Konvertierung werden von Information Retrieval Center, Harbin Institute of Technology unterstützt; Hunspell-Rechtschreibprüfung, Quellcode in Hunspell ist verfügbare Quellcode für Open-Source-Lizenzvereinbarung von MPL 1.1/GPL 2.0/LGPL 2.1.</translation>
     </message>
     <message>
         <source>Ribbon Tabs</source>
@@ -12798,7 +13050,47 @@ Diese Position ist möglicherweise nicht sicher.</translation>
     <message>
         <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
         <comment>_kso_ksoThanksTo_PER</comment>
-        <translation type="obsolete">Diese Software darf nur von einem einzelnen Benutzer für den privaten Gebrauch verwendet werden. Sie darf nicht für gewerbliche Zwecke verwendet werden, wie z. B. Produktion, Handel o.ä. ||Diese Software umfasst: Das FreeType-Projekt: Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurde vom Information Retrieval Center, Harbin Institute of Technology, bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar.</translation>
+        <translation>Diese Software darf nur von einem einzelnen Benutzer für den privaten Gebrauch verwendet werden. Sie darf nicht für gewerbliche Zwecke verwendet werden, wie z. B. Produktion, Handel o.ä. ||Diese Software umfasst: Das FreeType-Projekt: Die kostenlose Autorisierung erhält sie gemäß den Autorisierungsbestimmungen der FreeType-Lizenz. Die chinesische Wortsegmentierung, die chinesischen phonetischen Annotationen und die Technologie für die Konvertierung zwischen vereinfachtem und traditionellem Chinesisch wurde vom Information Retrieval Center, Harbin Institute of Technology, bereitgestellt. Die Hunspell-Rechtschreibprüfung, Quellcode in Hunspell, ist für den Quellcode in einer Open Source-Lizenzvereinbarung nach MPL 1.1/GPL 2.0/LGPL 2.1 verfügbar.</translation>
+    </message>
+    <message>
+        <source>Permission for %1 is currently restricted. Files with restricted permission cannot be inserted into this document.</source>
+        <comment>_kso_krim_Error_insertOleInvalid</comment>
+        <translation>Berechtigung %1 ist momentan eingeschränkt. Dateien mit eingeschränkter Berechtigung können nicht in diese Präsentation eingefügt werden,</translation>
+    </message>
+    <message>
+        <source>Delete all Ribbon customizations for this program?</source>
+        <comment>_kso_Delete_All_Ribbon_Customizations</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Data</source>
+        <comment>_kso_io_Progress_ReadingData</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <comment>_kso_pdfProductName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
+        <comment>_kso_ksoThanksTo_TH_PRO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load system plugins failed, please make sure your system&apos;s flash plugins be correct install!</source>
+        <comment>_kso_Error_MediaFlash_wpp</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Thanks To</source>
+        <comment>_kso_pdfThanksTo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The clock on this computer has been tampered with. Please reset the system clock and try again later</source>
+        <comment>_kso_irmio_Error_ClockBeenTamper</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13028,6 +13320,26 @@ Diese Position ist möglicherweise nicht sicher.</translation>
         <comment>TX_NUMFMTApi_BuildIn_58_2</comment>
         <translation>T/M/JJJJ</translation>
     </message>
+    <message>
+        <source>t$#,##0_);(t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_63</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0_);[Red](t$#,##0)</source>
+        <comment>TX_NUMFMTApi_BuildIn_64</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);(t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_65</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>t$#,##0.00_);[Red](t$#,##0.00)</source>
+        <comment>TX_NUMFMTApi_BuildIn_66</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_print</name>
@@ -13093,6 +13405,11 @@ Mit dem Drucken fortfahren?</translation>
     <message>
         <source>All Files(*.*)|*.*|PDF Files(*.pdf)|*.pdf|Postscript Files(*.ps)|*.ps</source>
         <comment>_kso_Print_OutputFileDialog_Linux_Filter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <comment>TxPrintPreview_CopiesInvalid</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15761,6 +16078,28 @@ XML-Erweiterungspaket herunterladen?</translation>
         <comment>kso_sNnumberFormatter_style_09</comment>
         <translation>Als Hundertstel (%s)</translation>
     </message>
+    <message>
+        <source>The file is modified
+Please save the file and create share link</source>
+        <comment>kso_h5_SaveFileTip</comment>
+        <translation>Ihre Datei weist nicht gespeicherte Änderungen auf. Speichern Sie die Änderungen und erstellen Sie anschließend die Verknüpfung.</translation>
+    </message>
+    <message>
+        <source>Software Assurance Service has expired on %s.
+You cannot access to upgrades and technical support of this software. 
+If you have any problem, or want to renew the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiredTip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software Assurance Service will expire on %s.
+After expiration, you can no longer access to upgrades and technical support of this software. 
+If you have any problem, or want to prolong the service, 
+please consult the IT department of your company, or call WPS customer service: 400-677-5005</source>
+        <comment>kso_ServiceExpiringTip</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_theme</name>
@@ -18255,6 +18594,209 @@ XML-Erweiterungspaket herunterladen?</translation>
     <message>
         <source>please click the&amp;Register WPS Passport&amp; first;\r\n2. Click the &amp;WPS Passport&amp; under &amp;Help&amp; menu.</source>
         <translation type="obsolete">wählen Sie zunächst &amp;Für WPS Passport registrieren&amp;;\r\n2. Wählen Sie &amp;WPS Passport&amp; im &amp;Hilfe&amp; Menü.</translation>
+    </message>
+</context>
+<context>
+    <name>kso_smartart</name>
+    <message>
+        <source>All</source>
+        <comment>_kso_SmartArtCategoryAll</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Block List</source>
+        <comment>_kso_SmartArtDefaultName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.</source>
+        <comment>_kso_SmartArtDefaultDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Bullet List</source>
+        <comment>_kso_SmartArtvList2Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. Works well for lists with long headings or top level information.</source>
+        <comment>_kso_SmartArtvList2Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Box List</source>
+        <comment>_kso_SmartArtList1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show several groups of information, especially groups with large amounts of Level 2 text. A good choice for bulleted lists of information.</source>
+        <comment>_kso_SmartArtList1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Block List</source>
+        <comment>_kso_SmartArtvList51Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show groups of information or steps in a task, process, or workflow. Works well with large amounts of Level 2 text. A good choice for text with a main point and multiple sub-points.</source>
+        <comment>_kso_SmartArtvList5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table List</source>
+        <comment>_kso_SmartArthList3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. The first Level 1 line of text corresponds to the top shape and its Level 2 text is used for the subsequent lists.</source>
+        <comment>_kso_SmartArthList3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horzontal Bullet List</source>
+        <comment>_kso_SmartArthList1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped lists of information. Works well with large amounts of text. All text has the same level of emphasis, and direction is not implied.</source>
+        <comment>_kso_SmartArthList1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show non-sequential or grouped blocks of information. The small shapes on the left are designed to contain pictures.</source>
+        <comment>_kso_SmartArtvList4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trapezoid List</source>
+        <comment>_kso_SmartArthList6Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Process</source>
+        <comment>_kso_SmartArtProcess1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression or sequential steps in a task, process, or workflow.</source>
+        <comment>_kso_SmartArtProcess1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accent Process</source>
+        <comment>_kso_SmartArtProcess3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show a progression, a timeline, or sequential steps in a task, process, or workflow. Works well for illustrating both Level 1 and Level 2 text.</source>
+        <comment>_kso_SmartArtProcess3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radial Venn</source>
+        <comment>_kso_SmartArtRadial3Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Converging Radial</source>
+        <comment>_kso_SmartArtRadial4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show relationships of concepts or components to a central idea in a cycle. The first line of Level 1 text corresponds to the central circular shape and the lines of Level 2 text correspond to the surrounding rectangular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial4Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diverging Radial</source>
+        <comment>_kso_SmartArtRadial5Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show relationships to a central idea in a cycle. The first Level 1 line of text corresponds to the central circular shape. Emphasizes the surrounding circles rather than the central idea. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial5Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Organization Chart</source>
+        <comment>_kso_SmartArtOrgChart1Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show hierarchical information or reporting relationships in an organization. The assistant shape and the Org Chart hanging layouts are available with this layout.</source>
+        <comment>_kso_SmartArtOrgChart1Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crycle Matrix</source>
+        <comment>_kso_SmartArtCycle4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures</source>
+        <comment>_kso_SmartArtAllPicture</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile</source>
+        <comment>_kso_SmartArtWinEnhMetaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Metafile</source>
+        <comment>_kso_SmartArtWinMetaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format</source>
+        <comment>_kso_SmartArtJpegFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics</source>
+        <comment>_kso_SmartArtPngFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Bitmap</source>
+        <comment>_kso_SmartArtWinBitmapFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format</source>
+        <comment>_kso_SmartArtGifFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tag Image File Format</source>
+        <comment>_kso_SmartArtTifFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Picture List</source>
+        <comment>_kso_SmartArtvList4Name</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>[Text]</source>
+        <comment>_kso_SmartArtInputText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show grouped or related information of equal value. Works well with large amounts of text.</source>
+        <comment>_kso_SmartArthList6Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show both overlapping relationships and the relationship to a central idea in a cycle. The first line of Level 1 text corresponds to the central shape and the lines of Level 2 text correspond to the surrounding circular shapes. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtRadial3Description</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use to show the relationship to a central idea in a cyclical progression. Each of the first four lines of Level 1 text corresponds to a wedge or pie shape, and Level 2 text appears in a rectangular shape to the side of the wedge or pie shape. Unused text does not appear, but remains available if you switch layouts.</source>
+        <comment>_kso_SmartArtCycle4Description</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -471,6 +471,10 @@
         <source>bgLabelPosition</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Selec&amp;t Range...</source>
+        <translation>选择范围(&amp;T)...</translation>
+    </message>
 </context>
 <context>
     <name>ContentChartDataTableOptions</name>
@@ -769,6 +773,14 @@
     <message>
         <source>新建项目</source>
         <translation>新建项目</translation>
+    </message>
+    <message>
+        <source>Locale Setting(Country/Area):</source>
+        <translation>区域设置(国家/地区):</translation>
+    </message>
+    <message>
+        <source>Calendar type:</source>
+        <translation>日历类型：</translation>
     </message>
 </context>
 <context>
@@ -1288,11 +1300,11 @@ Average</source>
     </message>
     <message>
         <source>The installation or update patches are running now. %1 will exit. Please run %2 again after the installation or updating completes.</source>
-        <translation>安装包或升级包正在运行中，%1 将退出，请等待安装或升级结束后再运行 %2。</translation>
+        <translation type="obsolete">安装包或升级包正在运行中，%1 将退出，请等待安装或升级结束后再运行 %2。</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded. Do you want to install them now?</source>
-        <translation>最新版本的升级包已为您准备好，是否立即安装？</translation>
+        <translation type="obsolete">最新版本的升级包已为您准备好，是否立即安装？</translation>
     </message>
     <message>
         <source>WPS Office updates have been downloaded, do you want to install them now?</source>
@@ -1550,7 +1562,7 @@ Average</source>
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation>:(我们发现上一次退出时该文件未保存，现已恢复。  （如果您不需要恢复的文件，可以直接关闭，然后重新打开原文件。）</translation>
+        <translation type="obsolete">:(我们发现上一次退出时该文件未保存，现已恢复。  （如果您不需要恢复的文件，可以直接关闭，然后重新打开原文件。）</translation>
     </message>
     <message>
         <source>The layout will take effect after restarting WPS Office.</source>
@@ -1558,8 +1570,7 @@ Average</source>
     </message>
     <message>
         <source>Click here to change your interface style.</source>
-        <translation>嗨，点击这里。
-可以更改不同的界面风格！</translation>
+        <translation>在这里可更换界面风格和系统皮肤。</translation>
     </message>
     <message>
         <source>Downloading the online font &quot;%1&quot;  failed.</source>
@@ -1608,7 +1619,7 @@ Average</source>
     </message>
     <message>
         <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
-        <translation>正在下载云字体，点击字体列表可查看详情(重启生效)</translation>
+        <translation>下载云字体 &quot;%1&quot; 成功(重启生效)</translation>
     </message>
 </context>
 <context>
@@ -1695,19 +1706,19 @@ Average</source>
     <name>KCustomCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation>重命名</translation>
+        <translation type="unfinished">重命名</translation>
     </message>
     <message>
         <source>Delete Control</source>
-        <translation>删除位置</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1802,7 +1813,7 @@ Average</source>
     </message>
     <message>
         <source>Change Interface Style</source>
-        <translation>更改界面</translation>
+        <translation>更改皮肤</translation>
     </message>
     <message>
         <source>Classic Style Interface</source>
@@ -1902,131 +1913,163 @@ Average</source>
     </message>
     <message>
         <source>2016 Skin</source>
-        <translation>2016 皮肤</translation>
+        <translation type="obsolete">2016 皮肤</translation>
     </message>
     <message>
         <source>2016 White</source>
-        <translation>2016 卓越白</translation>
+        <translation type="obsolete">2016 卓越白</translation>
     </message>
     <message>
         <source>2016 Black</source>
-        <translation>2016 黑</translation>
+        <translation type="obsolete">2016 黑</translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Skin</source>
+        <translation>皮肤</translation>
+    </message>
+    <message>
+        <source>2016 Excellent White</source>
+        <translation type="obsolete">2016 卓越白</translation>
+    </message>
+    <message>
+        <source>2019</source>
+        <translation>2019</translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation>经典</translation>
     </message>
 </context>
 <context>
     <name>KDrawBrowserWnd</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
     <message>
         <source>Browse for folder</source>
-        <translation>浏览文件夹</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="unfinished">关闭</translation>
     </message>
 </context>
 <context>
     <name>KDrawButton</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
 </context>
 <context>
     <name>KDrawCheckBox</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
 </context>
 <context>
     <name>KDrawComboBox</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
 </context>
 <context>
     <name>KDrawMenu</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
 </context>
 <context>
     <name>KDrawMsgBox</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
     <message>
         <source>Instant Recovery</source>
-        <translation>直接恢复</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>KDrawSearchListCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
     <message>
         <source>UAC Fail Message</source>
-        <translation>搜索失败，搜索工具初始化未获得您的许可。\r\n重新搜索后若再出现提示对话框，请点击是来完成搜索。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>No Result Message</source>
-        <translation>抱歉，未搜索到与“%s”匹配的结果。\r\n请在调整关键字后，重新搜索。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Can&apos;t open this file</source>
-        <translation>WPS%s无法打开此文件类型</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>wps</source>
+        <translation type="obsolete">文字</translation>
+    </message>
+    <message>
+        <source>et</source>
+        <translation type="obsolete">表格</translation>
+    </message>
+    <message>
+        <source>wpp</source>
+        <translation type="obsolete">演示</translation>
     </message>
 </context>
 <context>
     <name>KDrawTreeCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
 </context>
 <context>
@@ -2074,83 +2117,83 @@ Average</source>
     <name>KFileDialogEx</name>
     <message>
         <source>Super Icon</source>
-        <translation>超大图标(&amp;X)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Big Icon</source>
-        <translation>大图标(&amp;R)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Middle Icon</source>
-        <translation>中图标(&amp;M)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Small Icon</source>
-        <translation>小图标(&amp;N)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Report View</source>
-        <translation>列表(&amp;L)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Detail View</source>
-        <translation>详细信息(&amp;D)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Thumbnail</source>
-        <translation>缩略图(&amp;H)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Tile</source>
-        <translation>平铺(&amp;S)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Icon</source>
-        <translation>图标(&amp;N)</translation>
+        <translation type="unfinished">图标</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation>打开(&amp;O)</translation>
+        <translation type="unfinished">打开</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation>保存(&amp;S)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encrypt</source>
-        <translation>加密(&amp;E)...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Local Document</source>
-        <translation>本地文档</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Recent Visit</source>
-        <translation>最近访问</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation>桌面</translation>
+        <translation type="unfinished">桌面</translation>
     </message>
     <message>
         <source>My Documents</source>
-        <translation>我的文档</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Computer</source>
-        <translation>计算机</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Network</source>
-        <translation>网络</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Remote</source>
-        <translation>WPS云文档</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Document Roaming</source>
@@ -2158,39 +2201,39 @@ Average</source>
     </message>
     <message>
         <source>Private Space</source>
-        <translation>私人空间</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>My Circle</source>
-        <translation>我的圈子</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Quick Disk</source>
-        <translation>快盘</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Folder Select</source>
-        <translation>查找范围(I)：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save At</source>
-        <translation>保存在(I)：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation>文件名(N)：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>File Type</source>
-        <translation>文件类型(T)：</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
     </message>
     <message>
         <source>Title Open</source>
@@ -2198,43 +2241,43 @@ Average</source>
     </message>
     <message>
         <source>Title Save</source>
-        <translation>另存为</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="unfinished">关闭</translation>
     </message>
     <message>
         <source>Maximum</source>
-        <translation>最大化</translation>
+        <translation type="unfinished">最大值</translation>
     </message>
     <message>
         <source>Restore</source>
-        <translation>还原</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward Folder</source>
-        <translation>转到访问的上一个文件夹</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Forward</source>
-        <translation>向上一级</translation>
+        <translation type="unfinished">向前</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation>创建新文件夹</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>View Menu</source>
-        <translation> &quot;查看&quot; 菜单</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Invalid file name, please enter the correct file name</source>
-        <translation>文件名无效,请输入正确格式的文件名</translation>
+        <translation type="unfinished">文件名无效,请输入正确格式的文件名</translation>
     </message>
     <message>
         <source>DataMaster Button Title</source>
-        <translation>帮您找回因为磁盘损坏或误删除丢失的文件</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PDFToWord Button Title</source>
@@ -2250,7 +2293,7 @@ Average</source>
     </message>
     <message>
         <source>Custom Control Max Count Tip</source>
-        <translation>最多可自定义添加%1个位置。</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Kingsoft PDFToWord</source>
@@ -2258,7 +2301,7 @@ Average</source>
     </message>
     <message>
         <source>Search Title</source>
-        <translation>&quot;计算机&quot; 中的搜索结果</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Search Waiting Text</source>
@@ -2288,12 +2331,64 @@ Average</source>
         <source>Last Modify Time</source>
         <translation>最后修改时间</translation>
     </message>
+    <message>
+        <source>CloudDisk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clouddisk shares received</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is an extension of the data in the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveCloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Image</source>
+        <translation type="obsolete">输出图片</translation>
+    </message>
+    <message>
+        <source>PDFSaveOption</source>
+        <translation>PDF 保存选项</translation>
+    </message>
+    <message>
+        <source>Original file path</source>
+        <translation>文档原始位置</translation>
+    </message>
+    <message>
+        <source>Last open path</source>
+        <translation>上次保存位置</translation>
+    </message>
+    <message>
+        <source>Save encrypted document</source>
+        <translation>保存为加密文档</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <translation>WPS加密文档格式</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.doc)|*.doc</source>
+        <translation>WPS加密文档格式(*.doc)|*.doc</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
+        <translation>WPS加密文档格式(*.ppt)|*.ppt</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)|*.xls</source>
+        <translation>WPS加密文档格式(*.xls)|*.xls</translation>
+    </message>
 </context>
 <context>
     <name>KFileDlgAssitantTool</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
 </context>
 <context>
@@ -2515,7 +2610,7 @@ Average</source>
     </message>
     <message>
         <source>Network error...</source>
-        <translation type="unfinished">网络错误...</translation>
+        <translation type="obsolete">网络错误...</translation>
     </message>
     <message>
         <source>Download language packs failed.</source>
@@ -2532,6 +2627,14 @@ Average</source>
     <message>
         <source>Online Language Packs</source>
         <translation>在线语言包</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -2855,16 +2958,20 @@ Average</source>
         <source>Incorrect password. Please re-enter.</source>
         <translation>密码不正确，请重新输入。</translation>
     </message>
+    <message>
+        <source>Password Hint:</source>
+        <translation>密码提示：</translation>
+    </message>
 </context>
 <context>
     <name>KSearchCtrl</name>
     <message>
         <source>Search</source>
-        <translation>搜索</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation>清空</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3139,11 +3246,15 @@ Average</source>
     <name>KTooltipCtrl</name>
     <message>
         <source>Microsoft Yahei</source>
-        <translation>微软雅黑</translation>
+        <translation type="unfinished">微软雅黑</translation>
     </message>
     <message>
         <source>Default Font</source>
-        <translation>宋体</translation>
+        <translation type="unfinished">宋体</translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation>建议另存为%1格式。</translation>
     </message>
 </context>
 <context>
@@ -3503,7 +3614,7 @@ Average</source>
     <name>KWpsHostHelper</name>
     <message>
         <source>WPS Office system files encountered a problem. %1 cannot be 		started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</source>
-        <translation>WPS系统文件遇到问题需要自动修复，否则无法启动%1。若出现系统提示对话框，请点击“是”完成修复。</translation>
+        <translation type="obsolete">WPS系统文件遇到问题需要自动修复，否则无法启动%1。若出现系统提示对话框，请点击“是”完成修复。</translation>
     </message>
 </context>
 <context>
@@ -3550,7 +3661,7 @@ Average</source>
     </message>
     <message>
         <source>Product ID: </source>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>About WPS Writer</source>
@@ -3575,6 +3686,76 @@ Average</source>
     <message>
         <source>Cannot find help file or help file error!</source>
         <translation type="obsolete">没有找到帮助文件或帮助文件出错！</translation>
+    </message>
+    <message>
+        <source>About WPS Writer(Kingsoft Kylin WPS)</source>
+        <translation>关于 WPS文字（金山麒麟WPS）</translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets(Kingsoft Kylin WPS)</source>
+        <translation>关于 WPS表格（金山麒麟WPS）</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation(Kingsoft Kylin WPS)</source>
+        <translation>关于 WPS演示（金山麒麟WPS）</translation>
+    </message>
+    <message>
+        <source>About WPS Office(Kingsoft Kylin WPS)</source>
+        <translation>关于 WPS Office（金山麒麟WPS）</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd. &amp;&amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
+    </message>
+    <message>
+        <source>About Kingsoft PDF</source>
+        <translation>关于金山PDF</translation>
+    </message>
+    <message>
+        <source>Copyright:</source>
+        <translation>版权所有: </translation>
+    </message>
+    <message>
+        <source>All rights reserved.</source>
+        <translation>保留所有权利。</translation>
+    </message>
+    <message>
+        <source>This product is licensed to:</source>
+        <translation>本产品使用权属于：</translation>
+    </message>
+    <message>
+        <source>&amp;Technical Support...</source>
+        <translation>技术支持(&amp;T)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确认</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation>北京金山办公软件股份有限公司
+珠海金山办公软件有限公司
+天津麒麟信息技术有限公司</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation>北京金山办公软件股份有限公司
+珠海金山办公软件有限公司
+武汉金山办公软件有限公司
+天津麒麟信息技术有限公司</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.</source>
+        <translation>北京金山办公软件股份有限公司
+珠海金山办公软件有限公司
+武汉金山办公软件有限公司</translation>
     </message>
 </context>
 <context>
@@ -3728,51 +3909,123 @@ To select names from the Address book, click the Read or Change button.</source>
         <source>Loading the UI XML document failed. Please read the logs for more details or use KDebugConsole.</source>
         <translation type="obsolete">加载UI XML文档失败！详情请查阅日志或使用KDebugConsole。</translation>
     </message>
+    <message>
+        <source>WPS/Word Files</source>
+        <translation>文字/Word格式</translation>
+    </message>
+    <message>
+        <source>ET/Excel Files</source>
+        <translation>表格/Excel格式</translation>
+    </message>
+    <message>
+        <source>WPP/PowerPoint Files</source>
+        <translation>演示/PowerPoint格式</translation>
+    </message>
+    <message>
+        <source>Single Web Page Files</source>
+        <translation>单一网页文件</translation>
+    </message>
+    <message>
+        <source>Web Pages</source>
+        <translation>网页文件</translation>
+    </message>
+    <message>
+        <source>Text Files</source>
+        <translation>文本文件</translation>
+    </message>
+    <message>
+        <source>Pdf Files</source>
+        <translation>PDF文件</translation>
+    </message>
+    <message>
+        <source>Rtf Files</source>
+        <translation>RTF文件</translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation>XML文件/表格</translation>
+    </message>
+    <message>
+        <source>DBase Files</source>
+        <translation>dBase文件</translation>
+    </message>
+    <message>
+        <source>DIF Files</source>
+        <translation>DIF (数据交换文件)</translation>
+    </message>
+    <message>
+        <source>All Data Sources</source>
+        <translation>所有数据源</translation>
+    </message>
+    <message>
+        <source>Query Files</source>
+        <translation>查询文件</translation>
+    </message>
+    <message>
+        <source>Access Databases</source>
+        <translation>Access数据库</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <translation>常用文件</translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation>所有文件</translation>
+    </message>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation type="obsolete">公普密码模块加载失败!</translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation type="obsolete">您选择的保存模式与本文档原保存模式不一致，确定以新的模式保存文档吗?</translation>
+    </message>
 </context>
 <context>
     <name>KxAutoShapeInputBoxToShapes</name>
     <message>
         <source>Horizontal Text Box</source>
-        <translation>横向文本框</translation>
+        <translation type="obsolete">横向文本框</translation>
     </message>
     <message>
         <source>Vertical Text Box</source>
-        <translation>竖向文本框</translation>
+        <translation type="obsolete">竖向文本框</translation>
     </message>
 </context>
 <context>
     <name>KxAutoShapePanel</name>
     <message>
         <source>Action Buttons</source>
-        <translation>动作按钮</translation>
+        <translation type="obsolete">动作按钮</translation>
     </message>
     <message>
         <source>Block Arrows</source>
-        <translation>箭头总汇</translation>
+        <translation type="obsolete">箭头总汇</translation>
     </message>
     <message>
         <source>Callouts</source>
-        <translation>标注</translation>
+        <translation type="obsolete">标注</translation>
     </message>
     <message>
         <source>Connectors</source>
-        <translation>连接符</translation>
+        <translation type="obsolete">连接符</translation>
     </message>
     <message>
         <source>Flowchart</source>
-        <translation>流程图</translation>
+        <translation type="obsolete">流程图</translation>
     </message>
     <message>
         <source>Lines</source>
-        <translation>线条</translation>
+        <translation type="obsolete">线条</translation>
     </message>
     <message>
         <source>Simple Shapes</source>
-        <translation>基本形状</translation>
+        <translation type="obsolete">基本形状</translation>
     </message>
     <message>
         <source>Stars and Banners</source>
-        <translation>星与旗帜</translation>
+        <translation type="obsolete">星与旗帜</translation>
     </message>
     <message>
         <source>Basic Shapes</source>
@@ -3780,11 +4033,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Rectangle</source>
-        <translation>矩形</translation>
+        <translation type="obsolete">矩形</translation>
     </message>
     <message>
         <source>Formula</source>
-        <translation>公式形状</translation>
+        <translation type="obsolete">公式形状</translation>
     </message>
 </context>
 <context>
@@ -4041,6 +4294,10 @@ To select names from the Address book, click the Read or Change button.</source>
         <source>The current chart type can&apos;t be combined with other chart types.You can either change the chart type of all data series, or you can keep the current chart.</source>
         <translation>当前图表类型不能与其他图表类型组合。您可以更改所有数据系列的图表类型，也可以保留当前的图表。</translation>
     </message>
+    <message>
+        <source>Change the chart type fails, the data do not allow the conversion into this chart type!</source>
+        <translation>更改图表类型失败，您选择的数据不能更改为此种图表类型！</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialog</name>
@@ -4174,7 +4431,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>3-D Bubble</source>
-        <translation type="obsolete">三维气泡图</translation>
+        <translation>三维气泡图</translation>
     </message>
     <message>
         <source>High-Low-Close</source>
@@ -4280,6 +4537,18 @@ To select names from the Address book, click the Read or Change button.</source>
         <source>Cann&apos;t support this data source transform to a combination chart.</source>
         <translation>不支持此种数据源转为组合图表。</translation>
     </message>
+    <message>
+        <source>Chart previews can&apos;t be displayed for this selected data, but you can still insert this chart type. Click OK to insert.</source>
+        <translation>无法显示选定数据的图表预览，但是您仍然可以插入此图表类型。单击“确定”插入。</translation>
+    </message>
+    <message>
+        <source>OnlineChart</source>
+        <translation>在线图表</translation>
+    </message>
+    <message>
+        <source>Templates</source>
+        <translation>模板</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeDialogClass</name>
@@ -4298,6 +4567,14 @@ To select names from the Address book, click the Read or Change button.</source>
     <message>
         <source>OK</source>
         <translation>确定</translation>
+    </message>
+    <message>
+        <source>&amp;Manage Templates...</source>
+        <translation>管理模板(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Delete, move, or rename your templates.</source>
+        <translation>删除、移动或重命名模板。</translation>
     </message>
 </context>
 <context>
@@ -4395,6 +4672,10 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxControlToolboxToolBarViewCommand</name>
     <message>
         <source>若要使用控件工具箱，请购买 WPS Office 专业版。</source>
+        <translation type="obsolete">若要使用控件工具箱，请购买 WPS Office 专业版。</translation>
+    </message>
+    <message>
+        <source>To work with Control Toolbox, please purchase WPS Office Professional.</source>
         <translation>若要使用控件工具箱，请购买 WPS Office 专业版。</translation>
     </message>
 </context>
@@ -4465,7 +4746,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxCustomDictionaryDlg</name>
     <message>
         <source>(Default)</source>
-        <translation>（默认）</translation>
+        <translation type="obsolete">（默认）</translation>
     </message>
     <message>
         <source>A error occurred when adding &quot;%1&quot;, please check the file format.</source>
@@ -4477,7 +4758,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>All Files(*.*)</source>
-        <translation>所有文件(*.*)</translation>
+        <translation type="obsolete">所有文件(*.*)</translation>
     </message>
     <message>
         <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
@@ -4497,7 +4778,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Full path: </source>
-        <translation>完整路径: </translation>
+        <translation type="obsolete">完整路径: </translation>
     </message>
     <message>
         <source>New dictionary file</source>
@@ -4513,7 +4794,7 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>The number of custom dictionaries has reached the upper limit.</source>
-        <translation>自定义词典数已达到上限.</translation>
+        <translation type="obsolete">自定义词典数已达到上限.</translation>
     </message>
     <message>
         <source>dictionary file(*.dic)|*.dic</source>
@@ -4525,35 +4806,35 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Dictionary file(*.dic)|*.dic</source>
-        <translation>词典文件(*.dic)|*.dic</translation>
+        <translation type="obsolete">词典文件(*.dic)|*.dic</translation>
     </message>
     <message>
         <source>Create Custom Dictionary</source>
-        <translation>创建自定义词典</translation>
+        <translation type="obsolete">创建自定义词典</translation>
     </message>
     <message>
         <source>Dictionary File(*.dic)</source>
-        <translation>词典文件(*.dic)</translation>
+        <translation type="obsolete">词典文件(*.dic)</translation>
     </message>
     <message>
         <source>Add Custom Dictionary</source>
-        <translation>添加自定义词典</translation>
+        <translation type="obsolete">添加自定义词典</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
-        <translation>添加词典 %1 时遇到错误，该文件已经存在。</translation>
+        <translation type="obsolete">添加词典 %1 时遇到错误，该文件已经存在。</translation>
     </message>
     <message>
         <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
-        <translation>添加词典 %1 时遇到错误，请检查文件格式。</translation>
+        <translation type="obsolete">添加词典 %1 时遇到错误，请检查文件格式。</translation>
     </message>
     <message>
         <source>The last dictionary cannot be deleted!</source>
-        <translation>不能删除最后一个词典！</translation>
+        <translation type="obsolete">不能删除最后一个词典！</translation>
     </message>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
-        <translation>删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
+        <translation type="obsolete">删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
     </message>
     <message>
         <source>All Files (*.*)</source>
@@ -5017,7 +5298,7 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxDlgCustomDictionary</name>
     <message>
         <source>&amp;Add...</source>
-        <translation>添加(&amp;A)...</translation>
+        <translation type="obsolete">添加(&amp;A)...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -5029,27 +5310,27 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>&amp;Modify...</source>
-        <translation>修改(&amp;M)...</translation>
+        <translation type="obsolete">修改(&amp;M)...</translation>
     </message>
     <message>
         <source>&amp;New...</source>
-        <translation>新建(&amp;N)...</translation>
+        <translation type="obsolete">新建(&amp;N)...</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation>删除(&amp;R)</translation>
+        <translation type="obsolete">删除(&amp;R)</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="obsolete">关闭</translation>
     </message>
     <message>
         <source>Custom Dictionary</source>
-        <translation>自定义词典</translation>
+        <translation type="obsolete">自定义词典</translation>
     </message>
     <message>
         <source>Dictionary &amp;list</source>
-        <translation>词典列表(&amp;L)</translation>
+        <translation type="obsolete">词典列表(&amp;L)</translation>
     </message>
     <message>
         <source>Set &amp;default</source>
@@ -5061,11 +5342,11 @@ To select names from the Address book, click the Read or Change button.</source>
     </message>
     <message>
         <source>Set Default(&amp;C)</source>
-        <translation>更改默认设置(&amp;C)</translation>
+        <translation type="obsolete">更改默认设置(&amp;C)</translation>
     </message>
     <message>
         <source>Full Path</source>
-        <translation>完整路径</translation>
+        <translation type="obsolete">完整路径</translation>
     </message>
     <message>
         <source>Set &amp;Default</source>
@@ -5087,27 +5368,27 @@ To select names from the Address book, click the Read or Change button.</source>
     <name>KxDlgEditDictionary</name>
     <message>
         <source>&amp;Add</source>
-        <translation>添加(&amp;A)</translation>
+        <translation type="obsolete">添加(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
-        <translation>删除(&amp;D)</translation>
+        <translation type="obsolete">删除(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Word:</source>
-        <translation>词汇(&amp;W):</translation>
+        <translation type="obsolete">词汇(&amp;W):</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>关闭</translation>
+        <translation type="obsolete">关闭</translation>
     </message>
     <message>
         <source>Di&amp;ctionary</source>
-        <translation>词典(&amp;C)</translation>
+        <translation type="obsolete">词典(&amp;C)</translation>
     </message>
     <message>
         <source>编辑字典</source>
-        <translation>编辑字典</translation>
+        <translation type="obsolete">编辑字典</translation>
     </message>
 </context>
 <context>
@@ -5590,7 +5871,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>C&amp;haracter Spacing</source>
-        <translation>字体间距(&amp;H)</translation>
+        <translation>字符间距(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Spacing:</source>
@@ -6045,7 +6326,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>pushButton</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6096,7 +6377,7 @@ installed, or you are sure all documents you open are safe.</source>
     </message>
     <message>
         <source>cm</source>
-        <translation>厘米</translation>
+        <translation type="obsolete">厘米</translation>
     </message>
     <message>
         <source>&amp;Special:</source>
@@ -6213,6 +6494,14 @@ installed, or you are sure all documents you open are safe.</source>
     <message>
         <source>T&amp;ypography...</source>
         <translation>版式(&amp;Y)...</translation>
+    </message>
+    <message>
+        <source>cm, 2, 0, 142.24, 0.1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ch, 2, 0, 100, 0.5</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6567,7 +6856,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>The word contains unallowable characters. We cannot handle it.</source>
-        <translation>单词中有非法字符，无法处理！</translation>
+        <translation type="obsolete">单词中有非法字符，无法处理！</translation>
     </message>
 </context>
 <context>
@@ -6672,11 +6961,15 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>WPS Office End-User License Agreement</source>
-        <translation type="obsolete">WPS Office 最终用户许可协议</translation>
+        <translation>WPS Office 最终用户许可协议</translation>
     </message>
     <message>
         <source>Join the experience improvement plan</source>
-        <translation type="obsolete">加入用户体验改进计划</translation>
+        <translation>加入用户体验改进计划</translation>
+    </message>
+    <message>
+        <source>about:blank</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6690,7 +6983,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     <name>KxFeekbackCommand</name>
     <message>
         <source>Feedback</source>
-        <translation>反馈</translation>
+        <translation type="obsolete">反馈</translation>
     </message>
     <message>
         <source>No E-Mail Client!</source>
@@ -6698,7 +6991,7 @@ Double-click or use the popup menu to open the file. This will clear the selecti
     </message>
     <message>
         <source>No E-Mail Client.</source>
-        <translation>未安装邮件客户端！</translation>
+        <translation type="obsolete">未安装邮件客户端！</translation>
     </message>
 </context>
 <context>
@@ -6751,6 +7044,11 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>&amp;Open Video after Export</source>
         <comment>OpenSaved checkbox in filedialog</comment>
         <translation>导出视频后自动播放(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Display Tutorial for Video-Playing after Export</source>
+        <comment>OpenSaved checkbox in filedialog</comment>
+        <translation>同时导出WebM视频播放教程</translation>
     </message>
 </context>
 <context>
@@ -7211,6 +7509,62 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>Custom</source>
         <translation type="obsolete">自定义</translation>
     </message>
+    <message>
+        <source>Western</source>
+        <translation>公历</translation>
+    </message>
+    <message>
+        <source>Thai Buddhist</source>
+        <translation>泰国佛历</translation>
+    </message>
+    <message>
+        <source>Japanese Year</source>
+        <translation>日本年号</translation>
+    </message>
+    <message>
+        <source>Chinese(Simple)</source>
+        <translation>中文(中国)</translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation>中文(中国台湾)</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation>中文(中国香港)</translation>
+    </message>
+    <message>
+        <source>English(United States)</source>
+        <translation>英语(美国)</translation>
+    </message>
+    <message>
+        <source>English(United Kingdom)</source>
+        <translation>英语(英国)</translation>
+    </message>
+    <message>
+        <source>English(Australia)</source>
+        <translation>英语(澳大利亚)</translation>
+    </message>
+    <message>
+        <source>English(Canada)</source>
+        <translation>英语(加拿大)</translation>
+    </message>
+    <message>
+        <source>Japanese(Japan)</source>
+        <translation>日本语(日本)</translation>
+    </message>
+    <message>
+        <source>English(New Zealand)</source>
+        <translation>英语(新西兰)</translation>
+    </message>
+    <message>
+        <source>Vietnamese(Vietnam)</source>
+        <translation>越南语</translation>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation>泰语</translation>
+    </message>
 </context>
 <context>
     <name>KxFormatGroupContentChartSeriesOptions</name>
@@ -7268,6 +7622,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Select Texture</source>
         <translation>选择纹理</translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics</source>
+        <translation>可缩放的向量图形</translation>
     </message>
 </context>
 <context>
@@ -7342,6 +7700,10 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Left Middle</source>
         <translation>中部靠左</translation>
+    </message>
+    <message>
+        <source>Enter 0 to %1 %2 of value</source>
+        <translation type="obsolete">输入从 0%2 到 %1%2的值</translation>
     </message>
 </context>
 <context>
@@ -7668,6 +8030,11 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>Size &amp; Properties</source>
         <translation>大小与属性</translation>
     </message>
+    <message>
+        <source>Size &amp; 
+Properties</source>
+        <translation>大小与属性</translation>
+    </message>
 </context>
 <context>
     <name>KxFormatProperty_Text</name>
@@ -7818,6 +8185,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <translation>点击关闭
 任务窗格</translation>
     </message>
+    <message>
+        <source>Show Navigator Window</source>
+        <translation>点击展开导航窗格</translation>
+    </message>
+    <message>
+        <source>Hide Navigator Window</source>
+        <translation>点击关闭导航窗格</translation>
+    </message>
 </context>
 <context>
     <name>KxHintWidget</name>
@@ -7828,6 +8203,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
         <translation>%1 没找到您的文件？ 试试 %2 %3 金山数据恢复大师 %4</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation>去登录</translation>
+    </message>
+    <message>
+        <source>Sorry! An error occurred just now. Now it has been fixed.</source>
+        <translation>非常抱歉，刚才发生故障。经努力抢修，现已基本恢复现场。</translation>
     </message>
 </context>
 <context>
@@ -8150,6 +8533,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
         <source>Open Type:</source>
         <translation type="obsolete">打开方式:</translation>
     </message>
+    <message>
+        <source>Word Macro-Enabled Templates(*.dotm)</source>
+        <translation>启用宏的 Word 模板(*.dotm)</translation>
+    </message>
+    <message>
+        <source>Word 97-2003 Templates(*.dot)</source>
+        <translation>Word 97-2003 模板(*.dot)</translation>
+    </message>
 </context>
 <context>
     <name>KxLinksObjectContextDlg</name>
@@ -8202,15 +8593,15 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>---</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found.										 The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文档中的对象包含有到无法找到的文件的链接。									所链接信息将不会被更新。</translation>
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found.								 The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>此文档中的对象包含有到无法找到的文件的链接。								所链接信息将不会被更新。</translation>
     </message>
 </context>
 <context>
@@ -8237,6 +8628,14 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Cannot run the macro &apos;%1&apos;.The macro may not be available in this workbook, or all macros may have been disabled.</source>
         <translation type="obsolete">无法运行“%1”宏。可能是因为该宏在此工作簿中不可用，或者所有的宏都被禁用。</translation>
+    </message>
+    <message>
+        <source>Cannot find the macro, or the macro is disabled because of security settings.</source>
+        <translation>找不到该宏，或者由于安全设置，禁用了该宏。</translation>
+    </message>
+    <message>
+        <source>Due to macro security settings, no macro or macro can be found to be disabled.</source>
+        <translation>由于宏安全设置，无法找到宏或宏被禁用。</translation>
     </message>
 </context>
 <context>
@@ -8381,11 +8780,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>New</source>
-        <translation>新建</translation>
+        <translation type="obsolete">新建</translation>
     </message>
     <message>
         <source>Redo</source>
-        <translation>恢复</translation>
+        <translation type="obsolete">恢复</translation>
     </message>
     <message>
         <source>To find a file which is closed abnormally, please go to &quot;Backup Management&quot;.</source>
@@ -8393,7 +8792,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Undo</source>
-        <translation>撤销</translation>
+        <translation type="obsolete">撤销</translation>
     </message>
     <message>
         <source>Close all tabs or current tab</source>
@@ -8418,6 +8817,30 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Touch Mode</source>
         <translation type="obsolete">触摸模式</translation>
+    </message>
+    <message>
+        <source>Can&apos;t complete such operation</source>
+        <translation type="obsolete">无法完成该操作</translation>
+    </message>
+    <message>
+        <source>Please log on to use document source trace function.</source>
+        <translation>程序在未登录的情况下无法正常启动</translation>
+    </message>
+    <message>
+        <source>this is %1 file, do you want open in %2?</source>
+        <translation>检测到你的文件是“%1”格式，请使用“%2”打开。</translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation>PDF</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>金山PDF</translation>
+    </message>
+    <message>
+        <source>Can&apos;t launch application</source>
+        <translation>无法启动应用程序</translation>
     </message>
 </context>
 <context>
@@ -8635,6 +9058,22 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Microsoft Excel 97/2000/XP/2003 Template</source>
         <translation>Microsoft Excel 97/2000/XP/2003 模板文件（*.xlt）</translation>
+    </message>
+    <message>
+        <source>Excel Template</source>
+        <translation>Excel 模板文件（*.xltx）</translation>
+    </message>
+    <message>
+        <source>Excel Template Macro Enabled</source>
+        <translation>Excel 启用宏的模板文件（*.xltm）</translation>
+    </message>
+    <message>
+        <source>PowerPoint Template</source>
+        <translation>PowerPoint 模板文件（*.potx）</translation>
+    </message>
+    <message>
+        <source>PowerPoint Template Macro Enabled</source>
+        <translation>PowerPoint 启用宏的模板文件（*.potm）</translation>
     </message>
 </context>
 <context>
@@ -9163,7 +9602,7 @@ Click here to sign in.</source>
     </message>
     <message>
         <source>PDF Format to Word Format</source>
-        <translation type="unfinished">PDF 转文字文档</translation>
+        <translation type="obsolete">PDF 转文字文档</translation>
     </message>
 </context>
 <context>
@@ -9397,6 +9836,10 @@ Click here to sign in.</source>
         <source>Tag Image File Format</source>
         <translation>Tag 图像文件格式</translation>
     </message>
+    <message>
+        <source>Scalable Vector Graphics</source>
+        <translation>可缩放的向量图形</translation>
+    </message>
 </context>
 <context>
     <name>KxPicksolutionDlg</name>
@@ -9429,6 +9872,10 @@ Click here to sign in.</source>
     <message>
         <source>Printing %1 page of %2</source>
         <translation>正在打印第 %1 页，总共 %2 页</translation>
+    </message>
+    <message>
+        <source>Printing %1 page of %2 in the copy of %3</source>
+        <translation>正在打印第 %3 份中的第 %1 页，总共 %2 页</translation>
     </message>
 </context>
 <context>
@@ -9562,6 +10009,30 @@ Click here to sign in.</source>
     <message>
         <source>The printer &quot;%1&quot; encountered an error!</source>
         <translation>打印机 &quot;%1&quot; 遇到了错误！</translation>
+    </message>
+    <message>
+        <source>&amp;Fast Print</source>
+        <translation>快速打印(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Duple&amp;x printing:</source>
+        <translation type="obsolete">双面打印(&amp;X):</translation>
+    </message>
+    <message>
+        <source>Print one sided</source>
+        <translation type="obsolete">单面打印</translation>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation>长边翻页</translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation>短边翻页</translation>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation>手动翻页</translation>
     </message>
 </context>
 <context>
@@ -9740,6 +10211,78 @@ Click here to sign in.</source>
     <message>
         <source>N&amp;o</source>
         <translation type="obsolete">否</translation>
+    </message>
+    <message>
+        <source>Document id</source>
+        <translation>公文标识</translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation>文种</translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation>份号</translation>
+    </message>
+    <message>
+        <source>Document security level and security time</source>
+        <translation>密级和保密期限</translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation>紧急程度</translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation>发文机关标志</translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation>发文字号</translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation>签发人</translation>
+    </message>
+    <message>
+        <source>Document title</source>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation>主送机关</translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation>附件说明</translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation>发文机关或签发人署名</translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation>成文日期</translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation>附注</translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation>抄送机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation>印发机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation>印发日期</translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation>发布层次</translation>
     </message>
 </context>
 <context>
@@ -9935,7 +10478,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Open folder containing the file</source>
-        <translation>打开文件所在文件夹</translation>
+        <translation type="obsolete">打开文件所在文件夹</translation>
     </message>
 </context>
 <context>
@@ -10369,7 +10912,7 @@ Do you want to override it?</source>
     <name>KxSpinboxCommand</name>
     <message>
         <source>cm</source>
-        <translation>厘米</translation>
+        <translation type="obsolete">厘米</translation>
     </message>
 </context>
 <context>
@@ -10411,7 +10954,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>2012 Style</source>
-        <translation>2012 风格</translation>
+        <translation type="obsolete">2012 风格</translation>
     </message>
     <message>
         <source>Classic Style</source>
@@ -10420,6 +10963,10 @@ Do you want to override it?</source>
     <message>
         <source>2016 White</source>
         <translation>2016 卓越白</translation>
+    </message>
+    <message>
+        <source>2016</source>
+        <translation type="obsolete">2016</translation>
     </message>
 </context>
 <context>
@@ -10730,7 +11277,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>cm</source>
-        <translation>厘米</translation>
+        <translation type="obsolete">厘米</translation>
     </message>
 </context>
 <context>
@@ -10886,7 +11433,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation>更改自选图形</translation>
+        <translation type="obsolete">更改自选图形</translation>
     </message>
     <message>
         <source>Locate:</source>
@@ -10902,15 +11449,15 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Locate</source>
-        <translation>定位到</translation>
+        <translation type="obsolete">定位到</translation>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation>自选图形</translation>
+        <translation type="obsolete">自选图形</translation>
     </message>
     <message>
         <source>All Shapes</source>
-        <translation>全部</translation>
+        <translation type="obsolete">全部</translation>
     </message>
 </context>
 <context>
@@ -10921,18 +11468,18 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Online Shapes</source>
-        <translation>在线形状</translation>
+        <translation type="obsolete">在线形状</translation>
     </message>
     <message>
         <source>Recently Used</source>
-        <translation>最近使用</translation>
+        <translation type="obsolete">最近使用</translation>
     </message>
 </context>
 <context>
     <name>KxTpAutoShapesDownloadFailedItem</name>
     <message>
         <source>Try refresh again</source>
-        <translation>刷新试试</translation>
+        <translation type="obsolete">刷新试试</translation>
     </message>
     <message>
         <source>Unable to connect to server, please check the network.</source>
@@ -10940,7 +11487,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Unable to connect to the server. Please check your network connection.</source>
-        <translation>无法连接到服务器，请检查网络。</translation>
+        <translation type="obsolete">无法连接到服务器，请检查网络。</translation>
     </message>
 </context>
 <context>
@@ -10951,7 +11498,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Loading online shapes...</source>
-        <translation>正在加载在线形状...</translation>
+        <translation type="obsolete">正在加载在线形状...</translation>
     </message>
 </context>
 <context>
@@ -11018,7 +11565,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Recently edited documents recovered from unexpected exit.</source>
-        <translation>您可以通过以下文件列表，恢复异常退出之前的工作状态。</translation>
+        <translation>您可以通过以上文件列表，恢复异常退出之前的工作状态。</translation>
     </message>
     <message>
         <source>TextLabel</source>
@@ -11099,6 +11646,14 @@ Do you want to override it?</source>
         <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
         <translation>3.文档误删不用怕，%1金山数据恢复大师%2轻松帮您找回。</translation>
     </message>
+    <message>
+        <source>4. %1 Kingsoft Document Recovery %2 helps you to open garbled documents.</source>
+        <translation>4.文档乱码打不开，%1金山文档修复%2轻松帮您解决。</translation>
+    </message>
+    <message>
+        <source>1. WPS has created backup for each of your documents. You can also view more services %1 in the backup center %2.</source>
+        <translation>1.WPS已为您智能备份每份文档，您还可在%1备份中心%2查看更多服务。</translation>
+    </message>
 </context>
 <context>
     <name>KxTpClipArt</name>
@@ -11121,6 +11676,30 @@ Do you want to override it?</source>
     <message>
         <source>Category</source>
         <translation>类别</translation>
+    </message>
+    <message>
+        <source>custom</source>
+        <translation type="obsolete">自定义</translation>
+    </message>
+    <message>
+        <source>Import Clip Art</source>
+        <translation>导入剪贴画</translation>
+    </message>
+    <message>
+        <source>Delete Clip Art</source>
+        <translation>删除剪贴画</translation>
+    </message>
+    <message>
+        <source>Clip art can be removed only when the category is custom</source>
+        <translation>只有类别是自定义时才可删除剪贴画</translation>
+    </message>
+    <message>
+        <source>You can import a clip art only when the category is custom</source>
+        <translation>只有类别是自定义时才可导入剪贴画</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -11398,7 +11977,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Open file location</source>
-        <translation>打开文件所在文件夹</translation>
+        <translation type="obsolete">打开文件所在文件夹</translation>
     </message>
     <message>
         <source>Open Recent File Management dialog box, and remove some or all of the recent files.</source>
@@ -11537,7 +12116,7 @@ This file may be renamed , deleted or moved the location.</source>
     </message>
     <message>
         <source>Open file location</source>
-        <translation>打开文件所在文件夹</translation>
+        <translation type="obsolete">打开文件所在文件夹</translation>
     </message>
     <message>
         <source>Open File Management to remove some or all of your recent documents.</source>
@@ -11589,6 +12168,23 @@ This file may be renamed, deleted or moved.</source>
     <message>
         <source>Shapes on this page</source>
         <translation>文档中的对象</translation>
+    </message>
+    <message>
+        <source>Experience</source>
+        <translation>立即体验</translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation>正在下载</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>提示信息</translation>
+    </message>
+    <message>
+        <source>Poor image ? Convert to words, change as you wish!</source>
+        <translation>图片展现效果差？
+转换为文字，随你调整！</translation>
     </message>
 </context>
 <context>
@@ -12029,7 +12625,7 @@ cannot be previewed.</source>
     </message>
     <message>
         <source>PushButton</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -12663,6 +13259,56 @@ Always take this action.</source>
         <source>None</source>
         <translation>无</translation>
     </message>
+    <message>
+        <source>The current document has been hardware encrypted and cannot be saved to Cloud.</source>
+        <translation>当前文档已进行硬件加密。暂时无法保存至云文档。</translation>
+    </message>
+    <message>
+        <source>WPS ABNORMAL TIPS</source>
+        <translation type="obsolete">WPS异常提醒</translation>
+    </message>
+    <message>
+        <source>WPS server process possibly has been killed by 		antivirus-soft like 360,
+ then you could restart 		wps after stop this antivirus software</source>
+        <translation type="obsolete">WPS服务进程丢失，可能是由于360等杀毒软件误杀所致，
+我们建议您关闭此杀毒软件，重启WPS后可正常使用。</translation>
+    </message>
+    <message>
+        <source>I DO</source>
+        <translation type="obsolete">我知道了</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>厘米</translation>
+    </message>
+    <message>
+        <source>pt</source>
+        <translation>磅</translation>
+    </message>
+    <message>
+        <source>in</source>
+        <translation>英寸</translation>
+    </message>
+    <message>
+        <source>mm</source>
+        <translation>毫米</translation>
+    </message>
+    <message>
+        <source>9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>初号;小初;一号;小一;二号;小二;三号;小三;四号;小四;五号;小五:42;36;26;24;22;18;16;15;14;12;10.5;9:9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation>初号;小初;一号;小一;二号;小二;三号;小三;四号;小四;五号;小五;六号;小六;七号;八号:42;36;26;24;22;18;16;15;14;12;10.5;9;7.5;6.5;5.5;5:5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</translation>
+    </message>
+    <message>
+        <source>Enter 0 to %1 %2 of value</source>
+        <translation type="obsolete">输入从 0%2 到 %1%2的值</translation>
+    </message>
+    <message>
+        <source>Enter %1 %2 to %3 %4 of value</source>
+        <translation>输入从 %1%2 到 %3%4的值</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -12794,15 +13440,15 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>All rights reserved.</source>
-        <translation>保留所有权利。</translation>
+        <translation type="obsolete">保留所有权利。</translation>
     </message>
     <message>
         <source>Copyright </source>
-        <translation>版权所有 </translation>
+        <translation type="obsolete">版权所有 </translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
     <message>
         <source>Product ID:</source>
@@ -12810,7 +13456,7 @@ The settings will take effect after restarting the application.</source>
     </message>
     <message>
         <source>This product is licensed to:</source>
-        <translation>本产品使用权属于：</translation>
+        <translation type="obsolete">本产品使用权属于：</translation>
     </message>
     <message>
         <source>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -12824,19 +13470,47 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>&amp;Technical Support...</source>
-        <translation>技术支持(&amp;T)...</translation>
+        <translation type="obsolete">技术支持(&amp;T)...</translation>
     </message>
     <message>
         <source>2015 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
-        <translation type="obsolete"> 2014 北京金山办公软件有限公司和珠海金山办公软件有限公司。 {2015 ?}</translation>
+        <translation type="obsolete"> 2015 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
     </message>
     <message>
         <source>WPS</source>
-        <translation>WPS</translation>
+        <translation type="obsolete">WPS</translation>
     </message>
     <message>
         <source>2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
         <translation> 2016 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete">北京金山办公软件股份有限公司和珠海金山办公软件有限公司。</translation>
+    </message>
+    <message>
+        <source>2017 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete"> 2017 北京金山办公软件股份有限公司和珠海金山办公软件有限公司。</translation>
+    </message>
+    <message>
+        <source>1988-2016 Beijing Kingsoft Office Software Co., Ltd. &amp; Zhuhai Kingsoft Office Software Co., Ltd.</source>
+        <translation type="obsolete"> 1988-2016 北京金山办公软件有限公司和珠海金山办公软件有限公司。</translation>
+    </message>
+    <message>
+        <source>2016</source>
+        <translation type="obsolete">2016</translation>
+    </message>
+    <message>
+        <source> 2018 </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2017</source>
+        <translation type="obsolete">2017</translation>
+    </message>
+    <message>
+        <source>&amp;License Agreement...</source>
+        <translation>开源声明(&amp;L)...</translation>
     </message>
 </context>
 <context>
@@ -13197,27 +13871,27 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>No fill</source>
-        <translation>无填充</translation>
+        <translation type="obsolete">无填充</translation>
     </message>
     <message>
         <source>Solid fill</source>
-        <translation>纯色填充</translation>
+        <translation type="obsolete">纯色填充</translation>
     </message>
     <message>
         <source>Gradient fill</source>
-        <translation>渐变填充</translation>
+        <translation type="obsolete">渐变填充</translation>
     </message>
     <message>
         <source>Picture or texture fill</source>
-        <translation>图片或纹理填充</translation>
+        <translation type="obsolete">图片或纹理填充</translation>
     </message>
     <message>
         <source>Pattern fill</source>
-        <translation>图案填充</translation>
+        <translation type="obsolete">图案填充</translation>
     </message>
     <message>
         <source>Hide background graphics</source>
-        <translation>隐藏背景图形</translation>
+        <translation type="obsolete">隐藏背景图形</translation>
     </message>
     <message>
         <source>Color</source>
@@ -13381,7 +14055,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Automatic fill</source>
-        <translation>自动填充</translation>
+        <translation type="obsolete">自动填充</translation>
     </message>
     <message>
         <source>°</source>
@@ -13425,7 +14099,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Picture From</source>
-        <translation>图片来源</translation>
+        <translation type="obsolete">图片来源</translation>
     </message>
     <message>
         <source>Gradient Type</source>
@@ -13539,6 +14213,46 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
         <source>Background</source>
         <translation>背景</translation>
     </message>
+    <message>
+        <source>&amp;No fill</source>
+        <translation>无填充(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Solid fill</source>
+        <translation>纯色填充(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient fill</source>
+        <translation>渐变填充(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Picture or texture fill</source>
+        <translation>图片或纹理填充(&amp;P)</translation>
+    </message>
+    <message>
+        <source>P&amp;attern fill</source>
+        <translation>图案填充(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Slide &amp;background fill</source>
+        <translation>幻灯片背景填充(&amp;B)</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic fill</source>
+        <translation>自动(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Hide background graphics</source>
+        <translation>隐藏背景图形(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Picture Fill</source>
+        <translation>图片填充</translation>
+    </message>
+    <message>
+        <source>Select Picture...</source>
+        <translation>请选择图片</translation>
+    </message>
 </context>
 <context>
     <name>contentGlow</name>
@@ -13587,15 +14301,15 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>No line</source>
-        <translation>无线条</translation>
+        <translation type="obsolete">无线条</translation>
     </message>
     <message>
         <source>Solid line</source>
-        <translation>实线</translation>
+        <translation type="obsolete">实线</translation>
     </message>
     <message>
         <source>Gradient line</source>
-        <translation>渐变线</translation>
+        <translation type="obsolete">渐变线</translation>
     </message>
     <message>
         <source>Color</source>
@@ -13679,7 +14393,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     </message>
     <message>
         <source>Automatic line</source>
-        <translation>自动</translation>
+        <translation type="obsolete">自动</translation>
     </message>
     <message>
         <source>Begin Arrow</source>
@@ -13800,6 +14514,26 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</source>
     <message>
         <source>G&amp;radient Style</source>
         <translation>渐变样式(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;No line</source>
+        <translation>无线条(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Solid line</source>
+        <translation>实线(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Gradient line</source>
+        <translation>渐变线(&amp;G)</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic line</source>
+        <translation>自动(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Rounded corners</source>
+        <translation>圆角(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -14562,6 +15296,10 @@ or Web Page</source>
         <source>Re&amp;cently used E-mail addresses:</source>
         <translation>最近用过的电子邮件地址(&amp;C):</translation>
     </message>
+    <message>
+        <source>B&amp;ookmark...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kxDlgSetSpellcheckLanguage</name>
@@ -14619,6 +15357,50 @@ or Web Page</source>
     <message>
         <source>Close</source>
         <translation type="obsolete">关闭</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation>快捷键</translation>
+    </message>
+    <message>
+        <source>Shortcut currently used by:</source>
+        <translation>快捷键当前正在被以下质量占用:</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>类别</translation>
+    </message>
+    <message>
+        <source>Command</source>
+        <translation>命令</translation>
+    </message>
+    <message>
+        <source>Current shortcut for selected command:</source>
+        <translation>当前快捷键:</translation>
+    </message>
+    <message>
+        <source>&amp;Search:</source>
+        <translation>搜索(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>删除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Press new shortcut key:</source>
+        <translation>请按新快捷键(&amp;P):</translation>
+    </message>
+    <message>
+        <source>&amp;Assign</source>
+        <translation>指定(&amp;A)</translation>
+    </message>
+    <message>
+        <source>R&amp;eset All</source>
+        <translation>全部重设(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -14814,7 +15596,7 @@ or Web Page</source>
     </message>
     <message>
         <source>Set Item </source>
-        <translation type="unfinished"></translation>
+        <translation>设置项目</translation>
     </message>
 </context>
 <context>
@@ -14885,7 +15667,7 @@ or Web Page</source>
     </message>
     <message>
         <source>A shortcut will be created to the source file when pasted as hyperlink. Changes to the source file will be reflected in your document.</source>
-        <translation type="unfinished">粘贴链接将创建一个到源文件的快捷方式，对源文件的更改将反映到您的文档中。</translation>
+        <translation>粘贴链接将创建一个到源文件的快捷方式，对源文件的更改将反映到您的文档中。</translation>
     </message>
 </context>
 <context>
@@ -15162,6 +15944,10 @@ or Web Page</source>
         <source>Completion date</source>
         <translation>完成日期</translation>
     </message>
+    <message>
+        <source>&amp;Calc</source>
+        <translation>计算(&amp;B)</translation>
+    </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
@@ -15185,6 +15971,22 @@ or Web Page</source>
         <source>Ignore it</source>
         <translation>忽略此版本</translation>
     </message>
+    <message>
+        <source>Application update</source>
+        <translation>应用更新</translation>
+    </message>
+    <message>
+        <source>A new version is available. Do you want to update it?</source>
+        <translation>发现新版本，是否更新？</translation>
+    </message>
+    <message>
+        <source>Next time</source>
+        <translation>下次再说</translation>
+    </message>
+    <message>
+        <source>Update now</source>
+        <translation>立即更新</translation>
+    </message>
 </context>
 <context>
     <name>wordartdlg</name>
@@ -15207,6 +16009,5970 @@ or Web Page</source>
     <message>
         <source>WordArt Gallery</source>
         <translation>艺术字库</translation>
+    </message>
+</context>
+<context>
+    <name>BubbleWidget</name>
+    <message>
+        <source>Never show again</source>
+        <translation>不再提醒</translation>
+    </message>
+    <message>
+        <source>You can also click here to switch to 
+Eye Protection Mode or Night Mode.</source>
+        <translation>您也可以单击此处开启/关闭护眼模式
+或夜间模式</translation>
+    </message>
+</context>
+<context>
+    <name>CheckInDlg</name>
+    <message>
+        <source>Check In Type</source>
+        <translation>签入类型</translation>
+    </message>
+    <message>
+        <source>The type will be Checked in	</source>
+        <translation>要签入哪种类型</translation>
+    </message>
+    <message>
+        <source>Secondary version (draft)</source>
+        <translation>次版本（草稿）</translation>
+    </message>
+    <message>
+        <source>Main version (publish)</source>
+        <translation>主版本（发布）</translation>
+    </message>
+    <message>
+        <source>Cover current version</source>
+        <translation>覆盖当前次版本</translation>
+    </message>
+    <message>
+        <source>Version annotation</source>
+        <translation>版本注释</translation>
+    </message>
+    <message>
+        <source>The check out state will be maintained, after you check in.</source>
+        <translation>签入此版本后保持文档的签出状态</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>CheckIn</source>
+        <translation>签入</translation>
+    </message>
+</context>
+<context>
+    <name>CustomBackstage::Control::TabControl</name>
+    <message>
+        <source>Custom Tab</source>
+        <translation type="unfinished">自定义</translation>
+    </message>
+</context>
+<context>
+    <name>KChartElementCommand</name>
+    <message>
+        <source>Button </source>
+        <translation>按钮 </translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileDialog</name>
+    <message>
+        <source>Save as</source>
+        <translation>另存为</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>打开</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation>我的云文档</translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation>我的团队</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudTreeCtrlWidget</name>
+    <message>
+        <source>Local Document</source>
+        <translation>本地文档</translation>
+    </message>
+    <message>
+        <source>My Documents</source>
+        <translation>我的文档</translation>
+    </message>
+    <message>
+        <source>WPS Remote</source>
+        <translation>WPS云文档</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation>我的云文档</translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation>我的团队</translation>
+    </message>
+</context>
+<context>
+    <name>KGraphLoadingDialog</name>
+    <message>
+        <source>Downloading: </source>
+        <translation>正在下载：</translation>
+    </message>
+    <message>
+        <source>Uploading: </source>
+        <translation>正在上传：</translation>
+    </message>
+</context>
+<context>
+    <name>KH5LinkMgrWindow</name>
+    <message>
+        <source>H5 Link Manager</source>
+        <translation>管理发送的链接</translation>
+    </message>
+</context>
+<context>
+    <name>KInputWritePasswordDlg2</name>
+    <message>
+        <source>Please enter the password, or %1 open in read-only mode %2:</source>
+        <translation>请输入密码，或者%1只读模式打开%2：</translation>
+    </message>
+    <message>
+        <source>Read-only mode open</source>
+        <translation type="obsolete">只读模式打开文件</translation>
+    </message>
+    <message>
+        <source>(Opening of read-only mode will no longer convert account-encrypted documents)</source>
+        <translation>(只读模式打开将不再进行账号加密文档的转化)</translation>
+    </message>
+    <message>
+        <source>(Recommended)</source>
+        <translation>(推荐)</translation>
+    </message>
+    <message>
+        <source>Experience WPS account encryption</source>
+        <translation>体验WPS账号加密功能</translation>
+    </message>
+    <message>
+        <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
+        <translation>WPS账号加密是使用WPS登录账号对文档进行加密，加密后文档需联网验证账号正确后方可打开</translation>
+    </message>
+</context>
+<context>
+    <name>KMessageBox</name>
+    <message>
+        <source>Dialog</source>
+        <translation>对话框</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <translation>WPS</translation>
+    </message>
+    <message>
+        <source>内容
+内容</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KPasswordDlgTitle</name>
+    <message>
+        <source>Document is encrypted</source>
+        <translation>文档已加密</translation>
+    </message>
+</context>
+<context>
+    <name>KPromeFlashNotify</name>
+    <message>
+        <source>Download Adobe Flash Player</source>
+        <translation>下载Adobe Flash Player</translation>
+    </message>
+    <message>
+        <source>Beacause of undescribable reasons WPS doesnt build in flash anymore please download it yourself</source>
+        <translation>由于版权原因，WPS 将不再内置 Flash 插件，请按以下步骤安装 Flash 插件以便得到完整的体验。</translation>
+    </message>
+    <message>
+        <source>First step download and install flash</source>
+        <translation>&lt;font color=#777777&gt;第一步 &lt;b&gt;下载并安装 Flash 插件&lt;/b&gt; &lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>Second step restart WPS after installation</source>
+        <translation>&lt;font color=#777777&gt;第二步 &lt;b&gt;安装完成后重启WPS&lt;/b&gt; &lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>Second step please restart wps</source>
+        <translation>&lt;font color=#777777&gt;第二步 &lt;b&gt;已完成安装Flash插件，请&lt;/b&gt; &lt;/font&gt;&lt;font color=#4A90E2&gt; &lt;b&gt;重新启动WPS&lt;/b&gt; &lt;/font&gt;</translation>
+    </message>
+    <message>
+        <source>Installed</source>
+        <translation>已安装PPAPI Flash</translation>
+    </message>
+    <message>
+        <source>Download Flash</source>
+        <translation>下载PPAPI Flash</translation>
+    </message>
+</context>
+<context>
+    <name>KProxySettingDlg</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation>代理设置</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>类型:</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>地址：</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>端口：</translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation>用户姓名：</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>密码：</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>测试</translation>
+    </message>
+    <message>
+        <source>Do not use proxy</source>
+        <translation>不使用代理</translation>
+    </message>
+    <message>
+        <source>HTTP proxy</source>
+        <translation>HTTP 代理</translation>
+    </message>
+    <message>
+        <source>Internet Explorer Proxy</source>
+        <translation>Internet Explorer 代理</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Connected to proxy server correctly</source>
+        <translation>成功连接至代理服务器</translation>
+    </message>
+    <message>
+        <source>Failed to connect to proxy server</source>
+        <translation>无法连接至代理服务器</translation>
+    </message>
+</context>
+<context>
+    <name>KRepeatableInputPasswordDlg2</name>
+    <message>
+        <source>This document is an encrypted document, please enter the document open password:</source>
+        <translation>此文档为加密文档，请输入文档打开密码：</translation>
+    </message>
+    <message>
+        <source>(Recommended)</source>
+        <translation>(推荐)</translation>
+    </message>
+    <message>
+        <source>Experience WPS account encryption</source>
+        <translation>体验WPS账号加密功能</translation>
+    </message>
+    <message>
+        <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
+        <translation>WPS账号加密是使用WPS登录账号对文档进行加密，加密后文档需联网验证账号正确后方可打开</translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonFindCmdWidget</name>
+    <message>
+        <source>find commands</source>
+        <translation>查找命令</translation>
+    </message>
+</context>
+<context>
+    <name>KRibbonItemModel</name>
+    <message>
+        <source>Custom</source>
+        <translation>自定义</translation>
+    </message>
+    <message>
+        <source>Tool Tab</source>
+        <translation>工具选项卡</translation>
+    </message>
+</context>
+<context>
+    <name>KSaveOOXMLTipDlg</name>
+    <message>
+        <source>Caption</source>
+        <translation>保存格式确认</translation>
+    </message>
+    <message>
+        <source>Recommended save as specify format</source>
+        <translation>%1建议另存为%2格式。</translation>
+    </message>
+    <message>
+        <source>The presence of extended data in the prompt file</source>
+        <translation>文档中存在扩展数据，建议您将文档保存为%2格式，否则扩展数据将不支持再次修改。</translation>
+    </message>
+    <message>
+        <source>Don&apos;t check file format</source>
+        <translation>不再进行格式检查</translation>
+    </message>
+    <message>
+        <source>Save Directly</source>
+        <translation>继续保存</translation>
+    </message>
+    <message>
+        <source>Save As</source>
+        <translation>另存文档</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchEngine</name>
+    <message>
+        <source>Search Waiting Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Search Fail Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Path</source>
+        <translation type="unfinished">文件路径</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation type="unfinished">类型</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished">大小</translation>
+    </message>
+    <message>
+        <source>Last Modify Time</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSetupPasswordDlg</name>
+    <message>
+        <source></source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Password length must between 8-20.</source>
+        <translation>密码长度必须在8到20位之间!</translation>
+    </message>
+    <message>
+        <source>Password shout not contains unvisible characters.</source>
+        <translation>密码不能包含不可见字符!</translation>
+    </message>
+    <message>
+        <source>Password must contains two kinds of Letters, numbers, special characters.</source>
+        <translation>密码至少包含字母，数字，符号中的两种！</translation>
+    </message>
+    <message>
+        <source>Confirmation password does not match.</source>
+        <translation>两次密码输入不一致!</translation>
+    </message>
+    <message>
+        <source>please enter password</source>
+        <translation>请输入密码:</translation>
+    </message>
+    <message>
+        <source>Enter password</source>
+        <translation>请输入新密码:</translation>
+    </message>
+    <message>
+        <source>Reenter password to confirm:</source>
+        <translation>再次输入密码:</translation>
+    </message>
+    <message>
+        <source>Setup Password</source>
+        <translation>设置密码</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewEntranceShareWidgeRightContent</name>
+    <message>
+        <source>Copy Link</source>
+        <translation type="obsolete">复制链接</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareItemPopup</name>
+    <message>
+        <source>Weixin</source>
+        <translation type="obsolete">微信</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWidget</name>
+    <message>
+        <source>weixin scan QR Code Share 
+		To Your FriendsSS</source>
+        <translation type="obsolete">微信扫描二维码\n分享给好友</translation>
+    </message>
+    <message>
+        <source>weixin scan QR Code 
+ Share To Your FriendsSS</source>
+        <translation>微信扫一扫
+分享至好友或朋友圈</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewShareWindowShareBar</name>
+    <message>
+        <source>ShareToWeixin</source>
+        <translation>分享到微信</translation>
+    </message>
+    <message>
+        <source>ShareToWeibo</source>
+        <translation>分享到新浪微博</translation>
+    </message>
+    <message>
+        <source>ShareToQzone</source>
+        <translation>分享到QQ空间</translation>
+    </message>
+    <message>
+        <source>ShareToQQ</source>
+        <translation>分享到QQ好友</translation>
+    </message>
+    <message>
+        <source>Share to:</source>
+        <translation>发送至</translation>
+    </message>
+    <message>
+        <source>H5Share_Defaut_Tips</source>
+        <translation>我刚在WPS中将文档转化成网页，快来看看！</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewTinyQRCodeWidget</name>
+    <message>
+        <source>Use Wechat scan the code
+share with your friends</source>
+        <translation>微信扫一扫
+分享至好友或朋友圈</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindow</name>
+    <message>
+        <source>&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#bbbbbb;cursor:default;text-decoration:none&apos;&gt;管理已分享的链接&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#0066cc;cursor:default;text-decoration:none&apos;&gt;管理已分享的链接&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;Link management&lt;/p&gt;</source>
+        <translation type="obsolete">&lt;p style=&apos;color:#0066cc;cursor:pointer;text-decoration:underline&apos;&gt;管理已分享的链接&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowHeaderWidget</name>
+    <message>
+        <source>Link preview</source>
+        <translation>网页分享</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowProgressWidget</name>
+    <message>
+        <source>Creating kink, please wait...</source>
+        <translation>正在生成链接，请稍候...</translation>
+    </message>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>为了显示流畅，链接只包含前50页</translation>
+    </message>
+    <message>
+        <source>Link contains only top 20 pages</source>
+        <translation>为了显示流畅，链接只包含前20页</translation>
+    </message>
+    <message>
+        <source>The left disk space is not enouth to creat link</source>
+        <translation>剩余磁盘空间不足,无法生成链接</translation>
+    </message>
+    <message>
+        <source>Network is unaccessable, can&apos;t creat link</source>
+        <translation>网络不可访问,无法生成链接</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
+        <translation type="obsolete">生成链接失败T_T &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;点击重试&lt;/a&gt;&lt;/b&gt;, 或稍后再试</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/b&gt;&lt;/a&gt;, or try it later</source>
+        <translation>生成链接失败T_T &lt;a style=&apos;color:red;cursor:pointer;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;点击重试&lt;/a&gt;&lt;/b&gt;, 或稍后再试</translation>
+    </message>
+    <message>
+        <source>Creating link failedT_T, &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;click to retry&lt;/a&gt;&lt;/b&gt;, or try it later</source>
+        <translation>生成链接失败T_T &lt;a style=&apos;color:red;cursor:default;text-decoration:underline&apos; href=&quot;1&quot;&gt;&lt;b&gt;点击重试&lt;/a&gt;&lt;/b&gt;, 或稍后再试</translation>
+    </message>
+</context>
+<context>
+    <name>KWebPreviewWindowShareWidget</name>
+    <message>
+        <source>Link has been created, login and use it!</source>
+        <translation>链接已经生成，登录即可使用!</translation>
+    </message>
+    <message>
+        <source>For the link security, you need login to share link
+you can manage,delete,reshare the link</source>
+        <translation>为了链接的安全，需要先登录才可以使用
+登录后还可以对已分享的链接进行管理、删除、再分享等操作</translation>
+    </message>
+    <message>
+        <source>Create link succeeded!</source>
+        <translation>链接生成成功!</translation>
+    </message>
+    <message>
+        <source>Creating QRCode...</source>
+        <translation>正在生成二维码...</translation>
+    </message>
+    <message>
+        <source>WeChat</source>
+        <translation>微信好友</translation>
+    </message>
+    <message>
+        <source>QQ</source>
+        <translation>QQ好友</translation>
+    </message>
+    <message>
+        <source>QZone</source>
+        <translation>QQ空间</translation>
+    </message>
+    <message>
+        <source>Weibo</source>
+        <translation>新浪微博</translation>
+    </message>
+    <message>
+        <source>Copy link succeeded!</source>
+        <translation>链接复制成功!</translation>
+    </message>
+    <message>
+        <source>Copy QRCode succeeded!</source>
+        <translation>二维码复制成功!</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>创建链接</translation>
+    </message>
+    <message>
+        <source>Click to open the link</source>
+        <translation>点击链接打开网页</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddTemplateDlg</name>
+    <message>
+        <source>Add permission template failed, you don&apos;t have full control of this document.</source>
+        <translation>添加权限模板失败，您没有本文档的全部权限。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddTemplateModel</name>
+    <message>
+        <source>Template Id</source>
+        <translation>模板编号</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>模板类型</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translation>模板名称</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>个人模板</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>公共模板</translation>
+    </message>
+    <message>
+        <source>Maintainer Name : </source>
+        <translation>维护人姓名：</translation>
+    </message>
+    <message>
+        <source>Maintainer Account : </source>
+        <translation>维护人账号：</translation>
+    </message>
+    <message>
+        <source>Maintainter Desc : </source>
+        <translation>模板描述：</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddUsersPermissionDlg</name>
+    <message>
+        <source>Loading, please wait....</source>
+        <translation>努力加载数据中，请稍等。</translation>
+    </message>
+    <message>
+        <source>Too many permission item, please grant permission by using department, group or permission template.</source>
+        <translation>您添加的用户个数过多，请尽量使用部门、组、权限模板进行授权。</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyForwardCommand</name>
+    <message>
+        <source>Your outward application has been submitted to the administrator, please wait for approval.</source>
+        <translation>您的外发申请已经提交到管理员，请等候审批。</translation>
+    </message>
+    <message>
+        <source>View the application</source>
+        <translation>查看申请</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyForwardDlg</name>
+    <message>
+        <source>Enterprise Recievers List</source>
+        <translation type="obsolete">企业外发收件人列表</translation>
+    </message>
+    <message>
+        <source>Apply Forward Application</source>
+        <translation type="obsolete">外发申请</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyOutwardDlg</name>
+    <message>
+        <source>The results of this application have come out!</source>
+        <translation type="obsolete">您的外发申请已经被审批，无法取消。</translation>
+    </message>
+    <message>
+        <source>Cancel apply successfully!</source>
+        <translation type="obsolete">取消外发申请成功！</translation>
+    </message>
+    <message>
+        <source>Outward Receivers List can&apos;t be empty!</source>
+        <translation>外发收件人列表不能为空！</translation>
+    </message>
+    <message>
+        <source>Apply Reason can&apos;t be empty!</source>
+        <translation>申请理由不能为空！</translation>
+    </message>
+    <message>
+        <source>Password can&apos;t be empty!</source>
+        <translation type="obsolete">密码不能为空！</translation>
+    </message>
+    <message>
+        <source>Password length should be between 8 to 32!</source>
+        <translation type="obsolete">安全密码为8-32位数字或字母组合</translation>
+    </message>
+    <message>
+        <source>Password length should be greater than 8!</source>
+        <translation>安全密码为8位及以上数字或字母组合！</translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation>未提交</translation>
+    </message>
+    <message>
+        <source>Not approved</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>已取消</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>文档名称：</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>文档编号：</translation>
+    </message>
+    <message>
+        <source>Applicant: </source>
+        <translation>申请人：</translation>
+    </message>
+    <message>
+        <source>Account: </source>
+        <translation>账号：</translation>
+    </message>
+    <message>
+        <source>Department: </source>
+        <translation>所属部门：</translation>
+    </message>
+    <message>
+        <source>Please input your reason</source>
+        <translation>请输入您的申请理由</translation>
+    </message>
+    <message>
+        <source>Approval Status:</source>
+        <translation>审批状态：</translation>
+    </message>
+    <message>
+        <source>Application id:</source>
+        <translation>申请编号：</translation>
+    </message>
+    <message>
+        <source>Application time:</source>
+        <translation>申请时间：</translation>
+    </message>
+    <message>
+        <source>Approval time:</source>
+        <translation>审批时间：</translation>
+    </message>
+    <message>
+        <source>Approver: </source>
+        <translation>审批人：</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Cancel &amp;Application</source>
+        <translation>取消申请(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Reapply</source>
+        <translation>重新申请(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Cancel application success!</source>
+        <translation>您已经成功取消申请。</translation>
+    </message>
+    <message>
+        <source>&amp;Submit application</source>
+        <translation>提交(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Do you want to cancel the outward applications for the selected document?</source>
+        <translation>您是否要取消所选文档的外发申请？</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation type="obsolete">申请权限</translation>
+    </message>
+    <message>
+        <source>Apply willl take effect after approved.</source>
+        <translation type="obsolete">权限申请将会在审批通过之后生效。</translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation>未提交</translation>
+    </message>
+    <message>
+        <source>Apply Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>Apply Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+    <message>
+        <source>Please input the reason of apply the permission</source>
+        <translation>请输入申请的理由</translation>
+    </message>
+    <message>
+        <source>Permission Application</source>
+        <translation type="obsolete">权限申请</translation>
+    </message>
+    <message>
+        <source>Your Apply has sumbited, please wait.</source>
+        <translation type="obsolete">您的申请已经提交给审批人，请等候审批。</translation>
+    </message>
+    <message>
+        <source>You has already sumbited one apply for this document.</source>
+        <translation type="obsolete">您已经提交过对该文档的申请。</translation>
+    </message>
+    <message>
+        <source>File Name:	%1</source>
+        <translation>文档名称: %1</translation>
+    </message>
+    <message>
+        <source>File Id:	%1</source>
+        <translation>文档编号: %1</translation>
+    </message>
+    <message>
+        <source>Please enter your apply reason for the next step of the operation!</source>
+        <translation>请填写申请理由后进行下一步操作！</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+    <message>
+        <source>Your Apply has been canceled.</source>
+        <translation>您已成功取消所选文档的权限申请。</translation>
+    </message>
+    <message>
+        <source>You has already canceled apply for this document.</source>
+        <translation>您已经取消过对该文档的申请。</translation>
+    </message>
+    <message>
+        <source>You already have all the permissions of this document, without permission to apply!</source>
+        <translation>您已经拥有本文档全部权限，无需进行权限申请！</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionTipDlg</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation>申请权限</translation>
+    </message>
+    <message>
+        <source>Permission Warning</source>
+        <translation>权限提示</translation>
+    </message>
+    <message>
+        <source>Verify Permission</source>
+        <translation>权限验证</translation>
+    </message>
+    <message>
+        <source>Verifying...please wait...</source>
+        <translation>权限验证中，请耐心等候。</translation>
+    </message>
+    <message>
+        <source>Verifying failed, please check your network.</source>
+        <translation>权限验证失败，请检查网络。</translation>
+    </message>
+    <message>
+        <source>Read permission</source>
+        <translation>阅读权限</translation>
+    </message>
+    <message>
+        <source>Edit permission</source>
+        <translation>编辑权限</translation>
+    </message>
+    <message>
+        <source>Copy permission</source>
+        <translation>复制权限</translation>
+    </message>
+    <message>
+        <source>Print permission</source>
+        <translation>打印权限</translation>
+    </message>
+    <message>
+        <source>Save As permission</source>
+        <translation>另存权限</translation>
+    </message>
+    <message>
+        <source>Screen shot permission</source>
+        <translation>截屏权限</translation>
+    </message>
+    <message>
+        <source>Auth permission</source>
+        <translation>授权权限</translation>
+    </message>
+    <message>
+        <source>You already have %1 of this document.(this dialog will be closed in %2 seconds.)</source>
+        <translation type="obsolete">您已经有本文档的%1。（本对话框将在%2秒后关闭）</translation>
+    </message>
+    <message>
+        <source>Verified Again</source>
+        <translation>再次验证</translation>
+    </message>
+    <message>
+        <source>You already have %1 of this document</source>
+        <translation>您已经有本文档的%1！</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">确定</translation>
+    </message>
+</context>
+<context>
+    <name>KxApplyPermissionsCommand</name>
+    <message>
+        <source>You already have all the permissions of this document, without permission to apply!</source>
+        <translation type="obsolete">您已经拥有本文档全部权限，无需进行权限申请！</translation>
+    </message>
+</context>
+<context>
+    <name>KxApproverTableModel</name>
+    <message>
+        <source>Account</source>
+        <translation>用户账号</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>用户姓名</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translation>所属部门</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupCenterButton</name>
+    <message>
+        <source>Backup Center</source>
+        <translation>备份中心</translation>
+    </message>
+</context>
+<context>
+    <name>KxButtonTip</name>
+    <message>
+        <source>I already know</source>
+        <translation>我知道了</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckApproveDlg</name>
+    <message>
+        <source>Approve Permission</source>
+        <translation type="obsolete">审批权限</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation type="obsolete">文档名称：</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation type="obsolete">文档编号：</translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translation type="obsolete">阅读权限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="obsolete">编辑权限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="obsolete">复制权限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="obsolete">打印权限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="obsolete">另存权限</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation type="obsolete">授权权限</translation>
+    </message>
+    <message>
+        <source>Current Permissions</source>
+        <translation type="obsolete">当前权限</translation>
+    </message>
+    <message>
+        <source>Applied Permissions</source>
+        <translation type="obsolete">申请权限</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation type="obsolete">同意</translation>
+    </message>
+    <message>
+        <source>Disapprove</source>
+        <translation type="obsolete">不同意</translation>
+    </message>
+    <message>
+        <source>Document Name:%1</source>
+        <translation type="obsolete">文档名称：%1</translation>
+    </message>
+    <message>
+        <source>Document Id:%1</source>
+        <translation type="obsolete">文档编号：%1</translation>
+    </message>
+    <message>
+        <source>Permission Approved</source>
+        <translation type="obsolete">审批结果</translation>
+    </message>
+    <message>
+        <source>Other approver might has approved.</source>
+        <translation type="obsolete">其它审批人已经完成此次审批</translation>
+    </message>
+    <message>
+        <source>Approve agree, user permission application take effect.</source>
+        <translation type="obsolete">审批通过，用户权限申请已生效。</translation>
+    </message>
+    <message>
+        <source>Approve refuse, user permission application failed.</source>
+        <translation type="obsolete">审批不通过，用户权限申请失败。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCheckPermissionsDlg</name>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translation>一共 %1 条记录。</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translation type="obsolete">修改权限</translation>
+    </message>
+    <message>
+        <source>(none)</source>
+        <translation>(空)</translation>
+    </message>
+    <message>
+        <source>Rights is modified, you want to cancel without saving?</source>
+        <translation>是否保存权限修改？</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translation>该用户还有其它权限信息，无法取消阅读权限。</translation>
+    </message>
+    <message>
+        <source>Upload user rights success.</source>
+        <translation>权限保存成功。</translation>
+    </message>
+    <message>
+        <source>Upload user rights failed</source>
+        <translation>权限保存失败。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have read permission, this document will be closed.</source>
+        <translation>您没有该文档的阅读权限，文档将会被关闭。</translation>
+    </message>
+    <message>
+        <source>Too many permission item, please grant permission by using department, group or permission template.</source>
+        <translation>权限列表个数过多，请尽量使用部门、组、权限模板进行授权。</translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseOutwardDocDlg</name>
+    <message>
+        <source>Choose outward watermark</source>
+        <translation type="obsolete">选择外发水印</translation>
+    </message>
+    <message>
+        <source>make outward doc</source>
+        <translation type="obsolete">制作外发文档</translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseOutwardDocTitleWidget</name>
+    <message>
+        <source>make outward doc</source>
+        <translation type="unfinished">制作外发文档</translation>
+    </message>
+</context>
+<context>
+    <name>KxChooseWatermarkProtectDlg</name>
+    <message>
+        <source>Please choose one application to make outward document</source>
+        <translation type="obsolete">请在多个水印保护的外发申请中选择一个制作外发文档。</translation>
+    </message>
+    <message>
+        <source>Choose outward watermark</source>
+        <translation>选择外发水印</translation>
+    </message>
+    <message>
+        <source>Choose one application
+ to make outward document</source>
+        <translation>请在多个水印保护的外发申请中选择一个
+制作外发文档</translation>
+    </message>
+</context>
+<context>
+    <name>KxColorSnapperWidget</name>
+    <message>
+        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
+        <translation>取色器初始化失败，当前系统不支持。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddFromEnpRecievers</name>
+    <message>
+        <source>Name:</source>
+        <translation>姓名:</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>邮箱:</translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation>手机:</translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation>公司:</translation>
+    </message>
+    <message>
+        <source>Clear selected recievers</source>
+        <translation>清除已选择收件人</translation>
+    </message>
+    <message>
+        <source>Clear searchText</source>
+        <translation type="obsolete">清空搜索条件</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>搜索</translation>
+    </message>
+    <message>
+        <source>Submit</source>
+        <translation>添加</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translation>清空搜索条件</translation>
+    </message>
+    <message>
+        <source>Enterprise Recievers List</source>
+        <translation>企业外发收件人列表</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddTemplate</name>
+    <message>
+        <source>Add Permission Template</source>
+        <translation>添加权限模板</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translation>模板名称：</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translation>模板类型：</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>个人模板</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>公共模板</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="obsolete">查找</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddUsersPermission</name>
+    <message>
+        <source>Add User</source>
+        <translation>添加用户</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>组织架构(&amp;O)</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>用户组(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translation>已选择用户</translation>
+    </message>
+    <message>
+        <source>Clear All Selected</source>
+        <translation>清除全部已选中的用户</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translation>授予权限(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Please input department name</source>
+        <translation>请输入部门名称</translation>
+    </message>
+    <message>
+        <source>Please input group name</source>
+        <translation>请输入用户组名称</translation>
+    </message>
+    <message>
+        <source>Please input name or account</source>
+        <translation>请输入用户姓名或账号</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddVisibleRange</name>
+    <message>
+        <source>Add Group</source>
+        <translation>添加组织</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>组织架构(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation>请输入部门名称</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>用户组(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translation>请输入用户组名称</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确认(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyForward</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="obsolete">对话框</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>applyState :</source>
+        <translation type="obsolete">申请状态：</translation>
+    </message>
+    <message>
+        <source>forwardId :</source>
+        <translation type="obsolete">外发申请编号：</translation>
+    </message>
+    <message>
+        <source>docName :</source>
+        <translation type="obsolete">文档名称：</translation>
+    </message>
+    <message>
+        <source>docId :</source>
+        <translation type="obsolete">文档编号：</translation>
+    </message>
+    <message>
+        <source>apply date :</source>
+        <translation type="obsolete">申请时间：</translation>
+    </message>
+    <message>
+        <source>applicant :</source>
+        <translation type="obsolete">申请人姓名：</translation>
+    </message>
+    <message>
+        <source>applicant account :</source>
+        <translation type="obsolete">申请人账号：</translation>
+    </message>
+    <message>
+        <source>applicant deptment :</source>
+        <translation type="obsolete">所属部门：</translation>
+    </message>
+    <message>
+        <source>Clear selected Recievers</source>
+        <translation type="obsolete">清除已选择收件人</translation>
+    </message>
+    <message>
+        <source>security policy :</source>
+        <translation type="obsolete">安全保护：</translation>
+    </message>
+    <message>
+        <source>Secure Password :</source>
+        <translation type="obsolete">安全密码：</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">提示信息</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">姓名</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation type="obsolete">手机</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="obsolete">邮箱</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation type="obsolete">公司</translation>
+    </message>
+    <message>
+        <source>Security Key :</source>
+        <translation type="obsolete">安全密码：</translation>
+    </message>
+    <message>
+        <source>approval date :</source>
+        <translation type="obsolete">审批时间：</translation>
+    </message>
+    <message>
+        <source>approver :</source>
+        <translation type="obsolete">审批人姓名：</translation>
+    </message>
+    <message>
+        <source>approver account :</source>
+        <translation type="obsolete">审批人账号：</translation>
+    </message>
+    <message>
+        <source>Submit</source>
+        <translation type="obsolete">提交申请</translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation type="obsolete">制作外发文档</translation>
+    </message>
+    <message>
+        <source>ReApply</source>
+        <translation type="obsolete">重新申请</translation>
+    </message>
+    <message>
+        <source>Cancel apply</source>
+        <translation type="obsolete">取消申请</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>apply reason :</source>
+        <translation type="obsolete">申请理由：</translation>
+    </message>
+    <message>
+        <source>noPolicy</source>
+        <translation type="obsolete">无保护</translation>
+    </message>
+    <message>
+        <source>watermark</source>
+        <translation type="obsolete">水印保护</translation>
+    </message>
+    <message>
+        <source>secure key</source>
+        <translation type="obsolete">密码保护</translation>
+    </message>
+    <message>
+        <source>recievers</source>
+        <translation type="obsolete">外发收件人</translation>
+    </message>
+    <message>
+        <source>add from enterprise recievers</source>
+        <translation type="obsolete">从企业外发收件人列表中添加</translation>
+    </message>
+    <message>
+        <source>add recievers</source>
+        <translation type="obsolete">添加外发收件人</translation>
+    </message>
+    <message>
+        <source>approver dept :</source>
+        <translation type="obsolete">所属部门：</translation>
+    </message>
+    <message>
+        <source>approval comments :</source>
+        <translation type="obsolete">审批意见：</translation>
+    </message>
+    <message>
+        <source>recievers :</source>
+        <translation type="obsolete">外发收件人：</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyOutward</name>
+    <message>
+        <source>1</source>
+        <translation type="obsolete">1</translation>
+    </message>
+    <message>
+        <source>applyState :</source>
+        <translation type="obsolete">申请状态:</translation>
+    </message>
+    <message>
+        <source>forwardId :</source>
+        <translation type="obsolete">外发申请编号:</translation>
+    </message>
+    <message>
+        <source>apply date :</source>
+        <translation type="obsolete">申请时间：</translation>
+    </message>
+    <message>
+        <source>applicant :</source>
+        <translation type="obsolete">申请人姓名：</translation>
+    </message>
+    <message>
+        <source>applicant account :</source>
+        <translation type="obsolete">申请人账号：</translation>
+    </message>
+    <message>
+        <source>applicant deptment :</source>
+        <translation type="obsolete">所属部门：</translation>
+    </message>
+    <message>
+        <source>Secure Password :</source>
+        <translation type="obsolete">安全密码:</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation type="obsolete">手机</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="obsolete">邮箱</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation type="obsolete">公司</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">提示信息</translation>
+    </message>
+    <message>
+        <source>approval date :</source>
+        <translation type="obsolete">审批时间：</translation>
+    </message>
+    <message>
+        <source>approver :</source>
+        <translation type="obsolete">审批人姓名：</translation>
+    </message>
+    <message>
+        <source>approver account :</source>
+        <translation type="obsolete">审批人账号：</translation>
+    </message>
+    <message>
+        <source>approver dept :</source>
+        <translation type="obsolete">所属部门：</translation>
+    </message>
+    <message>
+        <source>Outward Application</source>
+        <translation>申请外发</translation>
+    </message>
+    <message>
+        <source>Outward Application Information</source>
+        <translation>外发申请信息</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>审批状态:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>文档名称：</translation>
+    </message>
+    <message>
+        <source>Applicant:</source>
+        <translation>申请人：</translation>
+    </message>
+    <message>
+        <source>Application reason:</source>
+        <translation>申请原因：</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation>无保护</translation>
+    </message>
+    <message>
+        <source>Watermark Protect</source>
+        <translation>水印保护</translation>
+    </message>
+    <message>
+        <source>Password Protect</source>
+        <translation>密码保护</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>安全密码：</translation>
+    </message>
+    <message>
+        <source>Recivers</source>
+        <translation>收件人</translation>
+    </message>
+    <message>
+        <source>&amp;Add Reciver</source>
+        <translation>新建(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Add from enterprise &amp;Table</source>
+        <translation>从企业列表中添加(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Approver Information</source>
+        <translation>审批人信息</translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation>审批人：</translation>
+    </message>
+    <message>
+        <source>Approval Comments:</source>
+        <translation>审批意见：</translation>
+    </message>
+    <message>
+        <source>&amp;Submit</source>
+        <translation>提交(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation>安全保护：</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgApplyPermission</name>
+    <message>
+        <source>Apply Permission</source>
+        <translation>申请权限</translation>
+    </message>
+    <message>
+        <source>Apply Permissions:</source>
+        <translation>申请权限:</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation type="obsolete">权限申请编号:</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>文档名称:</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation type="obsolete">文档编号:</translation>
+    </message>
+    <message>
+        <source>Apply Information:</source>
+        <translation>申请人信息:</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>全选</translation>
+    </message>
+    <message>
+        <source>Deselect</source>
+        <translation type="obsolete">反选</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>审批状态:</translation>
+    </message>
+    <message>
+        <source>Apply Reason:</source>
+        <translation>申请理由:</translation>
+    </message>
+    <message>
+        <source>Reading Permission</source>
+        <translation>阅读权限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation>另存权限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>编辑权限</translation>
+    </message>
+    <message>
+        <source>ScreenShot Permission</source>
+        <translation type="obsolete">截屏权限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>复制权限</translation>
+    </message>
+    <message>
+        <source>Offline Permission</source>
+        <translation>离线权限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>打印权限</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>授权权限</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">确认(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Apply Permission Info</source>
+        <translation>申请信息</translation>
+    </message>
+    <message>
+        <source>Select Approver</source>
+        <translation type="obsolete">选择审批人</translation>
+    </message>
+    <message>
+        <source>Please input user account, name, or department</source>
+        <translation type="obsolete">请输入账号，姓名或者部门</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="obsolete">搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Next</source>
+        <translation>下一步(&amp;N)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckPermissions</name>
+    <message>
+        <source>Check Permissions</source>
+        <translation>查看用户权限</translation>
+    </message>
+    <message>
+        <source>User ID:</source>
+        <translation>用户账号：</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>用户姓名：</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation type="obsolete">搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Add User</source>
+        <translation>添加用户</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>授权权限</translation>
+    </message>
+    <message>
+        <source>User Id</source>
+        <translation>用户账号</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation>阅读权限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>编辑权限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>复制权限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>打印权限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation>另存权限</translation>
+    </message>
+    <message>
+        <source>User/Dept Name</source>
+        <translation>用户/部门</translation>
+    </message>
+    <message>
+        <source>Check Users Permission</source>
+        <translation type="obsolete">查看用户权限</translation>
+    </message>
+    <message>
+        <source>Auth Type:</source>
+        <translation type="obsolete">授权类型:</translation>
+    </message>
+    <message>
+        <source>All Type</source>
+        <translation type="obsolete">全部</translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translation type="obsolete">用户授权</translation>
+    </message>
+    <message>
+        <source>Department Auth</source>
+        <translation type="obsolete">部门授权</translation>
+    </message>
+    <message>
+        <source>User Group Auth</source>
+        <translation type="obsolete">用户组授权</translation>
+    </message>
+    <message>
+        <source>Add &amp;Users</source>
+        <translation>添加用户(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">确认(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+    <message>
+        <source>User Name/Account:</source>
+        <translation type="obsolete">名称/账号：</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>搜索</translation>
+    </message>
+    <message>
+        <source>Add Group</source>
+        <translation>添加组织</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="obsolete">名称：</translation>
+    </message>
+    <message>
+        <source>User Account:</source>
+        <translation type="obsolete">用户账号：</translation>
+    </message>
+    <message>
+        <source>Save Changes</source>
+        <translation type="obsolete">保存修改</translation>
+    </message>
+    <message>
+        <source>Add &amp;Organization</source>
+        <translation>添加组织(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Add Template</source>
+        <translation type="obsolete">添加权限模板</translation>
+    </message>
+    <message>
+        <source>Batch Modify</source>
+        <translation type="obsolete">批量修改权限</translation>
+    </message>
+    <message>
+        <source>Batch Remove</source>
+        <translation type="obsolete">批量删除</translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translation type="obsolete">权限模板</translation>
+    </message>
+    <message>
+        <source>Add &amp;Template</source>
+        <translation>添加权限模板(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Batch &amp;Modify</source>
+        <translation type="obsolete">批量修改(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Batch &amp;Remove</source>
+        <translation type="obsolete">批量删除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Save Changes</source>
+        <translation type="obsolete">保存修改(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Permission List</source>
+        <translation>权限列表</translation>
+    </message>
+    <message>
+        <source>&amp;Apply</source>
+        <translation>应用(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgChooseOutwardDoc</name>
+    <message>
+        <source>Choose outward password</source>
+        <translation type="unfinished">选择外发密码</translation>
+    </message>
+    <message>
+        <source>&amp;make outward doc</source>
+        <translation type="unfinished">制作外发文档</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgChoosePassword</name>
+    <message>
+        <source>Choose outward password</source>
+        <translation>选择外发密码</translation>
+    </message>
+    <message>
+        <source>Please choose one password to make document:</source>
+        <translation type="obsolete">请选择外发密码制作外发文档：</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Choose one password to make document:</source>
+        <translation>请选择外发密码制作外发文档</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCurUserPermission</name>
+    <message>
+        <source>Check Current User Permission</source>
+        <translation>查看我的权限</translation>
+    </message>
+    <message>
+        <source>none</source>
+        <translation>无</translation>
+    </message>
+    <message>
+        <source>Privilege information</source>
+        <translation>权限信息</translation>
+    </message>
+    <message>
+        <source>Read Permission:</source>
+        <translation>阅读权限：</translation>
+    </message>
+    <message>
+        <source>Save Permission:</source>
+        <translation>另存权限：</translation>
+    </message>
+    <message>
+        <source>Edit Permission:</source>
+        <translation>编辑权限：</translation>
+    </message>
+    <message>
+        <source>Copy Permission:</source>
+        <translation>复制权限：</translation>
+    </message>
+    <message>
+        <source>Grant Permission:</source>
+        <translation>授权权限：</translation>
+    </message>
+    <message>
+        <source>Print Permission:</source>
+        <translation>打印权限：</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Screen Permission:</source>
+        <translation>截屏权限：</translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation>申请权限</translation>
+    </message>
+    <message>
+        <source>My Permissions</source>
+        <translation>我的权限</translation>
+    </message>
+    <message>
+        <source>Document Information</source>
+        <translation>安全文档信息</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>文档名称:</translation>
+    </message>
+    <message>
+        <source>Creater:</source>
+        <translation>创建人:</translation>
+    </message>
+    <message>
+        <source>Offline Permission:</source>
+        <translation>离线权限：</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgDownloadAndUploadFile</name>
+    <message>
+        <source>Dialog</source>
+        <translation>对话框</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>提示信息</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditForwardMembers</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="obsolete">对话框</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation type="obsolete">姓名：</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation type="obsolete">邮箱：</translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation type="obsolete">手机：</translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation type="obsolete">公司：</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="obsolete">确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditOutwardMembers</name>
+    <message>
+        <source>Dialog</source>
+        <translation>对话框</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Name:</source>
+        <translation>姓名：</translation>
+    </message>
+    <message>
+        <source>Email:</source>
+        <translation>邮箱：</translation>
+    </message>
+    <message>
+        <source>Phone:</source>
+        <translation>手机：</translation>
+    </message>
+    <message>
+        <source>Company:</source>
+        <translation>公司：</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditTemplate</name>
+    <message>
+        <source>Edit Template</source>
+        <translation>修改权限模板</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>模板类型:</translation>
+    </message>
+    <message>
+        <source>Template Name</source>
+        <translation>模板名称:</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>维护人:</translation>
+    </message>
+    <message>
+        <source>Visible Range</source>
+        <translation>可见范围:</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translation>模板描述:</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>公共模板</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>个人模板</translation>
+    </message>
+    <message>
+        <source>Change Maintainer</source>
+        <translation type="obsolete">更改维护人</translation>
+    </message>
+    <message>
+        <source>Choose Visible Range</source>
+        <translation>选择可见范围</translation>
+    </message>
+    <message>
+        <source>Clear Checked</source>
+        <translation>清除勾选对象</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确认(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgExportDictionary</name>
+    <message>
+        <source>Add dictionary file</source>
+        <translation type="obsolete">添加自定义词典</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation>所有文件(*.*)</translation>
+    </message>
+    <message>
+        <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic</source>
+        <translation type="obsolete">所有文件(*.*)|*.*|词典文件(*.dic)|*.dic</translation>
+    </message>
+    <message>
+        <source>All files(*.*)|*.*|dictionary file(*.dic)|*.dic||</source>
+        <translation type="obsolete">所有文件(*.*)|*.*|词典文件(*.dic)|*.dic||</translation>
+    </message>
+    <message>
+        <source>Dictionary Files(*.dic)</source>
+        <translation type="obsolete">词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Dictionary Files(*.dic);;All files(*.*)</source>
+        <translation type="obsolete">所有文件(*.*);;词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Full path</source>
+        <translation>完整路径: </translation>
+    </message>
+    <message>
+        <source>New dictionary file</source>
+        <translation type="obsolete">创建自定义词典</translation>
+    </message>
+    <message>
+        <source>Open dictionary file</source>
+        <translation type="obsolete">创建自定义词典</translation>
+    </message>
+    <message>
+        <source>Removing this custom dictionary might affect other programs of Kingsoft Office, do you want to continue?</source>
+        <translation type="obsolete">删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
+    </message>
+    <message>
+        <source>dictionary file(*.dic)|*.dic</source>
+        <translation type="obsolete">词典文件(*.dic)|*.dic</translation>
+    </message>
+    <message>
+        <source>dictionary file(*.dic)|*.dic|All files(*)|*</source>
+        <translation type="obsolete">词典文件(*.dic)|*.dic|所有文件(*)|*</translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation type="obsolete">词典文件(*.dic)|*.dic</translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation>词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation>添加自定义词典</translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="obsolete">不能删除最后一个词典！</translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation>删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
+    </message>
+    <message>
+        <source>All Files (*.*)</source>
+        <translation type="obsolete">所有文件(*.*)</translation>
+    </message>
+    <message>
+        <source>All files(*.*)|*.*|Dictionary file(*.dic)|*.dic</source>
+        <translation type="obsolete">所有文件(*.*)|*.*|词典文件(*.dic)|*.dic</translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, the file has already existed.</source>
+        <translation type="obsolete">添加词典 %1 时遇到错误，该文件已经存在。</translation>
+    </message>
+    <message>
+        <source>Dictionary File (*.dic)</source>
+        <translation type="obsolete">词典文件(*.dic)</translation>
+    </message>
+    <message>
+        <source>Removing this custom dictionary might affect other programs of WPS Office, do you want to continue?</source>
+        <translation type="obsolete">删除该自定义词典可能会影响其它 WPS Office 程序所用的自定义词典。是否继续？</translation>
+    </message>
+    <message>
+        <source>Add...</source>
+        <translation>添加...</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Dictionary list</source>
+        <translation>词典列表</translation>
+    </message>
+    <message>
+        <source>Custom Dictionary</source>
+        <translation>自定义词典库</translation>
+    </message>
+    <message>
+        <source>The file has already existed. Do you want to continue?</source>
+        <translation>自定义词典库已经有相同名字的词典，是否继续？</translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished">完整路径</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantDeptPermission</name>
+    <message>
+        <source>Add Group</source>
+        <translation>添加组织</translation>
+    </message>
+    <message>
+        <source>Please enter department name</source>
+        <translation>请输入部门名称</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation type="obsolete">搜索</translation>
+    </message>
+    <message>
+        <source>Organization</source>
+        <translation type="obsolete">组织架构</translation>
+    </message>
+    <message>
+        <source>&amp;Organization</source>
+        <translation>组织架构(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Authorize</source>
+        <translation>授予权限(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Search Next</source>
+        <translation>查找下一个</translation>
+    </message>
+    <message>
+        <source>User Group</source>
+        <translation type="obsolete">用户组</translation>
+    </message>
+    <message>
+        <source>User &amp;Group</source>
+        <translation>用户组(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Please enter group name</source>
+        <translation>请输入用户组名称</translation>
+    </message>
+    <message>
+        <source>Grant Department Permssion</source>
+        <translation>给部门授权</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>部门</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>授权权限</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantPermission</name>
+    <message>
+        <source>Grand Permission</source>
+        <translation>授予权限</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation>阅读权限</translation>
+    </message>
+    <message>
+        <source>Save Permission</source>
+        <translation>另存权限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation>编辑权限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation>复制权限</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>授权权限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation>打印权限</translation>
+    </message>
+    <message>
+        <source>Changes will take effect after document saved.</source>
+        <translation>权限修改将在文档保存后生效。</translation>
+    </message>
+    <message>
+        <source>Select All</source>
+        <translation>全选</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Screen Permission</source>
+        <translation>截屏权限</translation>
+    </message>
+    <message>
+        <source>Offline Permission</source>
+        <translation>离线权限</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgGrantUsersPermission</name>
+    <message>
+        <source>Grant Users Permission</source>
+        <translation>授予用户权限</translation>
+    </message>
+    <message>
+        <source>Please input user name or user Id</source>
+        <translation>请输入用户姓名/用户账号</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>搜索</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>姓名</translation>
+    </message>
+    <message>
+        <source>User ID</source>
+        <translation>用户账号</translation>
+    </message>
+    <message>
+        <source>Grant Permission</source>
+        <translation>授权权限</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Selected Users</source>
+        <translation>已选中用户</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>部门</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflineKeyAuth</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="obsolete">对话框</translation>
+    </message>
+    <message>
+        <source>Account :</source>
+        <translation>用户账号：</translation>
+    </message>
+    <message>
+        <source>Offline Key :</source>
+        <translation>离线密码：</translation>
+    </message>
+    <message>
+        <source>Ok</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Please enter your account</source>
+        <translation>请输入您的账号</translation>
+    </message>
+    <message>
+        <source>Please enter your offline password</source>
+        <translation>请输入您的离线密码</translation>
+    </message>
+    <message>
+        <source>Offline login</source>
+        <translation>离线登录</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflineManagement</name>
+    <message>
+        <source>Offline key cache</source>
+        <translation>离线密钥缓存</translation>
+    </message>
+    <message>
+        <source>Offline login management</source>
+        <translation>离线登录管理</translation>
+    </message>
+    <message>
+        <source>Offline management</source>
+        <translation>离线管理</translation>
+    </message>
+    <message>
+        <source>Offline state:</source>
+        <translation>离线状态：</translation>
+    </message>
+    <message>
+        <source>&amp;Sign in</source>
+        <translation>离线登录(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Offline password management</source>
+        <translation>离线密码管理</translation>
+    </message>
+    <message>
+        <source>Create or modify password</source>
+        <translation>创建或修改您的离线密码</translation>
+    </message>
+    <message>
+        <source>&amp;Password</source>
+        <translation>管理离线密码(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Cache offline key to this computer</source>
+        <translation>缓存离线密钥到本计算机</translation>
+    </message>
+    <message>
+        <source>&amp;Download</source>
+        <translation>缓存离线密钥(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOfflinePassword</name>
+    <message>
+        <source>Offline password </source>
+        <translation>离线密码</translation>
+    </message>
+    <message>
+        <source>Please enter current password</source>
+        <translation>请输入当前离线密码</translation>
+    </message>
+    <message>
+        <source>Please enter new password(at least eight digits)</source>
+        <translation>请输入新密码（至少8位）</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgOutwardApplications</name>
+    <message>
+        <source>My Outward Applications</source>
+        <translation>我的外发申请</translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>到</translation>
+    </message>
+    <message>
+        <source>Application date:</source>
+        <translation>申请时间：</translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation>安全保护：</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>文档名称：</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>审批状态：</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>文档编号：</translation>
+    </message>
+    <message>
+        <source>Application Id:</source>
+        <translation>申请编号：</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>清空搜索条件(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>Waiting</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Passed</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>已取消</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation>无保护</translation>
+    </message>
+    <message>
+        <source>Watermark Protect</source>
+        <translation>水印保护</translation>
+    </message>
+    <message>
+        <source>Password Protect</source>
+        <translation>密码保护</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApply</name>
+    <message>
+        <source>My Permission Apply</source>
+        <translation>我的权限申请</translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translation>申请时间:</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>到</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>文档名称:</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation>文档编号:</translation>
+    </message>
+    <message>
+        <source>Approval State:</source>
+        <translation>审批状态:</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Clear All condition</source>
+        <translation>清空搜索条件</translation>
+    </message>
+    <message>
+        <source>Batch Cancel Apply</source>
+        <translation type="obsolete">批量取消申请</translation>
+    </message>
+    <message>
+        <source>yyyy/M/d</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation>权限申请编号:</translation>
+    </message>
+    <message>
+        <source>Apply canceled</source>
+        <translation>已取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApplyDetail</name>
+    <message>
+        <source>Permission Apply Detail</source>
+        <translation>权限申请详情</translation>
+    </message>
+    <message>
+        <source>Read Permission</source>
+        <translation type="obsolete">阅读权限</translation>
+    </message>
+    <message>
+        <source>Edit Permission</source>
+        <translation type="obsolete">编辑权限</translation>
+    </message>
+    <message>
+        <source>Copy Permission</source>
+        <translation type="obsolete">复制权限</translation>
+    </message>
+    <message>
+        <source>Print Permission</source>
+        <translation type="obsolete">打印权限</translation>
+    </message>
+    <message>
+        <source>SaveAs Permission</source>
+        <translation type="obsolete">另存权限</translation>
+    </message>
+    <message>
+        <source>Auth Permission</source>
+        <translation type="obsolete">授权权限</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translation type="obsolete">取消申请</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">关闭</translation>
+    </message>
+    <message>
+        <source>File Id:</source>
+        <translation type="obsolete">文档编号:</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>文档名称:</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation type="obsolete">权限申请编号:</translation>
+    </message>
+    <message>
+        <source>Apply Information:</source>
+        <translation>申请人信息:</translation>
+    </message>
+    <message>
+        <source>Approver Opinion:</source>
+        <translation type="obsolete">审批人意见:</translation>
+    </message>
+    <message>
+        <source>Approve Status:</source>
+        <translation>审批状态:</translation>
+    </message>
+    <message>
+        <source>Approver Information:</source>
+        <translation type="obsolete">审批人信息:</translation>
+    </message>
+    <message>
+        <source>Read</source>
+        <translation>阅读</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>打印</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation>另存</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translation>授权</translation>
+    </message>
+    <message>
+        <source>Apply Reason:</source>
+        <translation>申请理由:</translation>
+    </message>
+    <message>
+        <source>Apply Permissions:</source>
+        <translation>申请权限:</translation>
+    </message>
+    <message>
+        <source>Apply Permission Info</source>
+        <translation>申请信息</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>离线</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionApprove</name>
+    <message>
+        <source>Permission Approve</source>
+        <translation>我的权限审批</translation>
+    </message>
+    <message>
+        <source>Start Date:</source>
+        <translation>申请时间:</translation>
+    </message>
+    <message>
+        <source>to</source>
+        <translation>到</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>申请人:</translation>
+    </message>
+    <message>
+        <source>Document Name:</source>
+        <translation>文档名称:</translation>
+    </message>
+    <message>
+        <source>User Account:</source>
+        <translation type="obsolete">用户账号:</translation>
+    </message>
+    <message>
+        <source>Document Id:</source>
+        <translation>文档编号:</translation>
+    </message>
+    <message>
+        <source>Clear Search Condition</source>
+        <translation>清空搜索条件</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="obsolete">确认</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Approved</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Approve State:</source>
+        <translation>审批状态:</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation>权限申请编号:</translation>
+    </message>
+    <message>
+        <source>Canceled</source>
+        <translation type="obsolete">已取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPermissionTip</name>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">确认</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRibbonControlRename</name>
+    <message>
+        <source>Rename</source>
+        <translation>重命名</translation>
+    </message>
+    <message>
+        <source>Display name:</source>
+        <translation>显示名称:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSaveEncryptedFile</name>
+    <message>
+        <source>Save document</source>
+        <translation>保存文件</translation>
+    </message>
+    <message>
+        <source>The current document does not support account encryption.</source>
+        <translation>当前格式不支持账号加密。</translation>
+    </message>
+    <message>
+        <source>Create crypto</source>
+        <translation>生成加密</translation>
+    </message>
+    <message>
+        <source>Save current</source>
+        <translation>保存当前</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSelectApprover</name>
+    <message>
+        <source>Select Approver</source>
+        <translation>选择审批人</translation>
+    </message>
+    <message>
+        <source>&amp;Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Please input user account, name, or department</source>
+        <translation>请输入账号，姓名或者部门</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgTrustedLocation</name>
+    <message>
+        <source>Dialog</source>
+        <translation>对话框</translation>
+    </message>
+    <message>
+        <source>This location will be treated as s trusted source.Make sure the location is secure.</source>
+        <translation>此位置将被视为打开文件的可信任来源，请确保新位置是安全的。</translation>
+    </message>
+    <message>
+        <source>&amp;Path:</source>
+        <translation>路径(&amp;E):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>浏览(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;SubFolders of this location are also trusted</source>
+        <translation>同时信任此位置的子文件夹(&amp;S)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgUserRightTemplate</name>
+    <message>
+        <source>KxUserRightTemplateDlg</source>
+        <translation type="obsolete">权限模板管理</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>搜索(&amp;S)</translation>
+    </message>
+    <message>
+        <source>maintainer:</source>
+        <translation type="obsolete">维护人姓名：</translation>
+    </message>
+    <message>
+        <source>maintainer account:</source>
+        <translation type="obsolete">维护人账号：</translation>
+    </message>
+    <message>
+        <source>Clear Search</source>
+        <translation>清空搜索条件</translation>
+    </message>
+    <message>
+        <source>Template Name:</source>
+        <translation>模板名称：</translation>
+    </message>
+    <message>
+        <source>Template Id:</source>
+        <translation>模板编号：</translation>
+    </message>
+    <message>
+        <source>Template Desc:</source>
+        <translation>模板描述：</translation>
+    </message>
+    <message>
+        <source>Template Type:</source>
+        <translation>模板类型：</translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation>全部</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>个人模板</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>公共模板</translation>
+    </message>
+    <message>
+        <source>Batch Delete</source>
+        <translation>批量删除</translation>
+    </message>
+    <message>
+        <source>My User Right Template</source>
+        <translation>我的权限模板</translation>
+    </message>
+    <message>
+        <source>&amp;New UserRight Template</source>
+        <translation>新建权限模板(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>关闭(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWaitLoading</name>
+    <message>
+        <source>Loading,please wait for a moment...</source>
+        <translation type="obsolete">加载数据中，请稍等。。。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgWeChatCustomerService</name>
+    <message>
+        <source>WPS Office</source>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>WeChat scan, focus on WPS after-sales service, customer service is your solution.</source>
+        <translation>微信扫一扫，关注“WPS售后服务”，专属客服为您解答问题。</translation>
+    </message>
+    <message>
+        <source>WeChat QR Code</source>
+        <translation>微信扫一扫</translation>
+    </message>
+    <message>
+        <source>Discuss your problem with WPS customer service</source>
+        <translation>扫码关注，专属客服为您解答问题</translation>
+    </message>
+</context>
+<context>
+    <name>KxDocSecurityTipHelper</name>
+    <message>
+        <source>Please usse security document function after saving this document as security document.</source>
+        <translation>请先将文档保存为安全文档，再使用安全文档相关功能！</translation>
+    </message>
+    <message>
+        <source>This function can not be used offline, please use it after security server connectable.</source>
+        <translation>离线状态下无法使用此功能，请在安全服务器正常通信后重试！</translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation>本地网络连接中断，请在网络可用后重试。</translation>
+    </message>
+</context>
+<context>
+    <name>KxDocumentIdCalcDlg</name>
+    <message>
+        <source>Title</source>
+        <translation>公文标识计算</translation>
+    </message>
+    <message>
+        <source>FileOID:</source>
+        <translation>文件OID:</translation>
+    </message>
+    <message>
+        <source>OrganizationCode:</source>
+        <translation>机构代码:</translation>
+    </message>
+    <message>
+        <source>SubDepartment:</source>
+        <translation>内属单位:</translation>
+    </message>
+    <message>
+        <source>DocumentYear:</source>
+        <translation>发文年份:</translation>
+    </message>
+    <message>
+        <source>DocumentCode:</source>
+        <translation>代字编码:</translation>
+    </message>
+    <message>
+        <source>SerialNumber:</source>
+        <translation>流水号:</translation>
+    </message>
+    <message>
+        <source>Electronic document</source>
+        <translation type="obsolete">电子公文</translation>
+    </message>
+    <message>
+        <source>Please input the file oid!</source>
+        <translation>请输入文件OID!</translation>
+    </message>
+    <message>
+        <source>Please input the organization code!</source>
+        <translation>请输入机构代码!</translation>
+    </message>
+    <message>
+        <source>Please input the subdepartment!</source>
+        <translation>请输入内属单位!</translation>
+    </message>
+    <message>
+        <source>Please input the document type!</source>
+        <translation>请输入代字编码!</translation>
+    </message>
+    <message>
+        <source>Please input the serialnumber!</source>
+        <translation>请输入流水号!</translation>
+    </message>
+    <message>
+        <source>1.2.156.10</source>
+        <translation type="unfinished">1.2.156.10</translation>
+    </message>
+    <message>
+        <source>yyyy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>01</source>
+        <translation type="unfinished">01</translation>
+    </message>
+    <message>
+        <source>02</source>
+        <translation type="unfinished">02</translation>
+    </message>
+    <message>
+        <source>03</source>
+        <translation type="unfinished">03</translation>
+    </message>
+    <message>
+        <source>04</source>
+        <translation type="unfinished">04</translation>
+    </message>
+    <message>
+        <source>05</source>
+        <translation type="unfinished">05</translation>
+    </message>
+    <message>
+        <source>06</source>
+        <translation type="unfinished">06</translation>
+    </message>
+    <message>
+        <source>07</source>
+        <translation type="unfinished">07</translation>
+    </message>
+    <message>
+        <source>08</source>
+        <translation type="unfinished">08</translation>
+    </message>
+    <message>
+        <source>09</source>
+        <translation type="unfinished">09</translation>
+    </message>
+    <message>
+        <source>0A</source>
+        <translation type="unfinished">0A</translation>
+    </message>
+    <message>
+        <source>0B</source>
+        <translation type="unfinished">0B</translation>
+    </message>
+    <message>
+        <source>0C</source>
+        <translation type="unfinished">0C</translation>
+    </message>
+    <message>
+        <source>0D</source>
+        <translation type="unfinished">0D</translation>
+    </message>
+    <message>
+        <source>0E</source>
+        <translation type="unfinished">0E</translation>
+    </message>
+    <message>
+        <source>0F</source>
+        <translation type="unfinished">0F</translation>
+    </message>
+    <message>
+        <source>Document id</source>
+        <translation>公文标识</translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation>文种</translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation type="unfinished">份号</translation>
+    </message>
+    <message>
+        <source>Document security level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation type="unfinished">紧急程度</translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation type="unfinished">发文机关标志</translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation type="unfinished">发文字号</translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation type="unfinished">签发人</translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation type="unfinished">主送机关</translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation type="unfinished">附件说明</translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation type="unfinished">发文机关或签发人署名</translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation type="unfinished">成文日期</translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation type="unfinished">附注</translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation type="unfinished">抄送机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation type="unfinished">印发机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation type="unfinished">印发日期</translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation type="unfinished">发布层次</translation>
+    </message>
+</context>
+<context>
+    <name>KxDownloadAndUploadFileDlg</name>
+    <message>
+        <source>Downloading</source>
+        <translation>正在下载</translation>
+    </message>
+    <message>
+        <source>Saving</source>
+        <translation>正在保存</translation>
+    </message>
+    <message>
+        <source>Downloading: </source>
+        <translation>正在下载：</translation>
+    </message>
+    <message>
+        <source>Saving as: </source>
+        <translation>正在另存为：</translation>
+    </message>
+</context>
+<context>
+    <name>KxDrTipContentWidget</name>
+    <message>
+        <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
+        <translation>%1 如没有找到您的文件， 建议使用 %2 %3 金山数据恢复大师 %4</translation>
+    </message>
+    <message>
+        <source>You can only edit under read-only mode since other users are editing this file.</source>
+        <translation>其他用户正在编辑该文档，已进入“只读”模式</translation>
+    </message>
+    <message>
+        <source>%1 Try %3 Document Repair %4 Repair the error encoding. %2</source>
+        <translation>%1 建议使用 %3 金山文档修复 %4 ，修复当前文档中的乱码。%2</translation>
+    </message>
+    <message>
+        <source>immediately recovery</source>
+        <translation>立即恢复</translation>
+    </message>
+    <message>
+        <source>immediately fix</source>
+        <translation>立即修复</translation>
+    </message>
+    <message>
+        <source>Loading the Document Fix. Please wait...</source>
+        <translation>正在加载文件修复，请稍后...</translation>
+    </message>
+    <message>
+        <source>%1Diagnose this exception%2</source>
+        <translation>%1诊断此异常%2</translation>
+    </message>
+    <message>
+        <source>An error occurred on wps just now, The document was restored to a version with %1. </source>
+        <translation>上一次未正常关闭，已经恢复到 %1 的版本。</translation>
+    </message>
+    <message>
+        <source>some keywords</source>
+        <translation>处涉密</translation>
+    </message>
+    <message>
+        <source>check key word</source>
+        <translation>查看详情</translation>
+    </message>
+    <message>
+        <source>To avoid a problem that has not been discovered, The document was restored to a version with %1. Please send us an error report.</source>
+        <translation>刚才崩溃了，文档恢复到了 %1 的版本。 请发送错误报告给我们。</translation>
+    </message>
+    <message>
+        <source>find some keywords</source>
+        <translation>文件已进行涉密检查，检查结果：共</translation>
+    </message>
+    <message>
+        <source>send report</source>
+        <translation>发送报告</translation>
+    </message>
+    <message>
+        <source>The VBA support library has not yet been installed,The macro contained in this workbook cannot run.If you want to start the macro function,</source>
+        <translation>未安装VBA支持库，无法运行文档中的宏。如需要启用宏功能，</translation>
+    </message>
+    <message>
+        <source>%1%2%3click here to view more details.%4</source>
+        <translation>%1%2%3请点击这里了解详情。%4</translation>
+    </message>
+    <message>
+        <source>security warning:macros have been disabled</source>
+        <translation>安全警告：宏已经被禁用</translation>
+    </message>
+    <message>
+        <source>enable macros</source>
+        <translation>启用宏</translation>
+    </message>
+    <message>
+        <source>%1%2%3click here to install vba.%4</source>
+        <translation>%1%2%3请点击这里下载安装VBA。%4</translation>
+    </message>
+    <message>
+        <source>The Document have font miss.</source>
+        <translation>此文稿缺少字体</translation>
+    </message>
+    <message>
+        <source>This file has been opened as read-only. Enable edit?</source>
+        <translation>此文件当前以只读模式打开，是否启动为可编辑。</translation>
+    </message>
+    <message>
+        <source>edit</source>
+        <translation>启动编辑</translation>
+    </message>
+    <message>
+        <source>An error occurred on wps just now, documents has been restored to the latest version.</source>
+        <translation>上一次未正常关闭，已恢复到最新版本。</translation>
+    </message>
+    <message>
+        <source>%1To find an earlier version, it is recommended to restore it from the backupcenter%2</source>
+        <translation>%1想找更早的版本，从备份中心恢复%2</translation>
+    </message>
+    <message>
+        <source>recover from backup</source>
+        <translation>从备份中恢复</translation>
+    </message>
+    <message>
+        <source>The document which was not saved upon last exit has now been restored(If you do not need the restored file, close it directly and reopen the original document).</source>
+        <translation>程序意外退出时文件未保存，现已恢复（如无需要恢复后文件，可退出重新打开原文档）。</translation>
+    </message>
+    <message>
+        <source>view more backup</source>
+        <translation>查看更多备份</translation>
+    </message>
+    <message>
+        <source>%1To find an earlier version%2</source>
+        <translation>%1想找更早的版本%2</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditForwardMembersDlg</name>
+    <message>
+        <source>Add Forward Recievers</source>
+        <translation type="obsolete">添加外发收件人</translation>
+    </message>
+    <message>
+        <source>Edit Forward Recievers</source>
+        <translation type="obsolete">编辑外发收件人</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditOutwardMembersDlg</name>
+    <message>
+        <source>Add Forward Recievers</source>
+        <translation>添加外发收件人</translation>
+    </message>
+    <message>
+        <source>Edit Forward Recievers</source>
+        <translation>编辑外发收件人</translation>
+    </message>
+    <message>
+        <source>Phone number is invalid!</source>
+        <translation>手机号码格式错误！</translation>
+    </message>
+    <message>
+        <source>Email is invalid!</source>
+        <translation>邮箱格式错误！</translation>
+    </message>
+    <message>
+        <source>Name can&apos;t be empty!</source>
+        <translation>姓名不能为空！</translation>
+    </message>
+    <message>
+        <source>Company can&apos;t be empty!</source>
+        <translation>公司不能为空！</translation>
+    </message>
+    <message>
+        <source>Receiver already exists in your receivers list!</source>
+        <translation>收件人已经存在于你的外发收件人列表中！</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditTemplateDlg</name>
+    <message>
+        <source>name</source>
+        <translation>用户姓名</translation>
+    </message>
+    <message>
+        <source>account</source>
+        <translation>用户账号</translation>
+    </message>
+    <message>
+        <source>department</source>
+        <translation>所属部门</translation>
+    </message>
+    <message>
+        <source>Template Name can&apos;t be empty.</source>
+        <translation>模板名称不能为空。</translation>
+    </message>
+    <message>
+        <source>Template Describe can&apos;t be empty.</source>
+        <translation>模板描述不能为空。</translation>
+    </message>
+    <message>
+        <source>Public template must choose at least one organization or group.</source>
+        <translation>公共模板可见范围必须至少选择一个部门或者用户组。</translation>
+    </message>
+    <message>
+        <source>Edit Template</source>
+        <translation>修改权限模板</translation>
+    </message>
+    <message>
+        <source>The maximum length of template description can not exceeded 255 characters</source>
+        <translation>模板描述的最大输入字符数不能超过255个</translation>
+    </message>
+</context>
+<context>
+    <name>KxEncryptionHardware</name>
+    <message>
+        <source>unknown device</source>
+        <translation>未知设备</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnpRecieversModel</name>
+    <message>
+        <source>Name</source>
+        <translation>姓名</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation>手机</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation>邮箱</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation>公司</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnterpriseDocSecurity</name>
+    <message>
+        <source>Sorry, You has no full control permission for this document!</source>
+        <translation>对不起，你没有本文档的完全权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no auth permission for this document!</source>
+        <translation>对不起，你没有本文档的授权权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no read permission for this document!</source>
+        <translation>对不起，你没有本文档的阅读权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no edit permission for this document!</source>
+        <translation>对不起，你没有本文档的编辑权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no save as permission for this document!</source>
+        <translation>对不起，你没有本文档的另存权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no copy permission for this document!</source>
+        <translation>对不起，你没有本文档的复制权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print permission for this document!</source>
+        <translation>对不起，你没有本文档的打印权限！</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no print screen permission for this document!</source>
+        <translation>对不起，你没有本文档的打印权限！</translation>
+    </message>
+    <message>
+        <source>Access Security Document Server Failed.</source>
+        <translation>与安全服务器通信失败，请检测网络状况！</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">确认</translation>
+    </message>
+    <message>
+        <source>This document is WPS security document, security document format that supports WPS client to open.</source>
+        <translation>该文档是WPS安全文档，请使用支持安全文档格式的WPS客户端打开。</translation>
+    </message>
+    <message>
+        <source>Security Server authenticating failed to current identifier, please login again.</source>
+        <translation>安全服务器对当前账号认证失败，请尝试重新登录.</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, may be tampering or corrupted!</source>
+        <translation>无法打开或者保存该安全文档，文件可能已损坏或被篡改!</translation>
+    </message>
+    <message>
+        <source>Can&apos;t complete such operation</source>
+        <translation>无法完成该操作</translation>
+    </message>
+    <message>
+        <source>Please log on to use document security function.</source>
+        <translation>请登录您的账号来使用安全文档的功能。</translation>
+    </message>
+    <message>
+        <source>Your WPS Office client hasn&apos;t configured document security server information, please contact technical support.</source>
+        <translation>您的WPS Office客户端尚未配置文档安全服务器信息，请联系技术支持人员进行配置。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save document</source>
+        <translation>无法保存文件</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please save after connect avaliable.</source>
+        <translation>网络中断，请连接网络后保存。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this document</source>
+        <translation>无法打开文件</translation>
+    </message>
+    <message>
+        <source>Can&apos;t save this document</source>
+        <translation>无法保存文件</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translation>该文件是WPS在线安全文档，请登录账号来验证您的权限。</translation>
+    </message>
+    <message>
+        <source>You are saving a WPS Online Security Document, Please logon to complete operation.</source>
+        <translation>您正在保存WPS在线安全文档，请先登录账号来完成该操作。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open document</source>
+        <translation>无法打开文档</translation>
+    </message>
+    <message>
+        <source>Can&apos;t copy</source>
+        <translation>无法复制</translation>
+    </message>
+    <message>
+        <source>Can&apos;t print</source>
+        <translation>无法打印</translation>
+    </message>
+    <message>
+        <source>Check Permission Failed</source>
+        <translation>读取权限信息失败</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please open after connect avaliable.</source>
+        <translation>网络中断，请连接网络后打开。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please copy after connect avaliable.</source>
+        <translation>网络中断，请连接网络后复制。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print after connect avaliable.</source>
+        <translation>网络中断，请连接网络后打印。</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, check permission failed.</source>
+        <translation>网络中断，读取权限信息失败。</translation>
+    </message>
+    <message>
+        <source>Please log on to verify your permission</source>
+        <translation>请登录您的账号。</translation>
+    </message>
+    <message>
+        <source>Cancel Permission Apply</source>
+        <translation>取消权限申请</translation>
+    </message>
+    <message>
+        <source>Are you sure to cancel the selected document&apos;s permission apply?</source>
+        <translation>是否取消本次申请？</translation>
+    </message>
+    <message>
+        <source>can&apos;t print screen</source>
+        <translation>无法截屏</translation>
+    </message>
+    <message>
+        <source>Local network disconnect, please print screen after connect avaliable.</source>
+        <translation>网络中断，请连接网络后截屏。</translation>
+    </message>
+    <message>
+        <source>You already has apply for this document, Please wait.</source>
+        <translation>您对于当前文档还有未经审批的申请，请耐心等候审批结果或取消申请后再次提交申请。</translation>
+    </message>
+    <message>
+        <source>Can&apos;t open this security file, it&apos;s not belong our enterprise.</source>
+        <translation>此安全文档非本公司所有，无法打开。</translation>
+    </message>
+    <message>
+        <source>Phone already exists!</source>
+        <translation>手机号码已经存在于企业外发收件人列表中！</translation>
+    </message>
+    <message>
+        <source>Email already exists!</source>
+        <translation>邮箱已经存在于企业外发收件人列表中！</translation>
+    </message>
+    <message>
+        <source>Email and phone alread exists!</source>
+        <translation>邮箱和手机已经存在于企业外发收件人列表中！</translation>
+    </message>
+    <message>
+        <source>Phone param format wrong!</source>
+        <translation>手机号码格式错误！</translation>
+    </message>
+    <message>
+        <source>Email param format wrong!</source>
+        <translation>邮箱格式错误！</translation>
+    </message>
+    <message>
+        <source>Local network disconneted, please retry after connection available.</source>
+        <translation>本地网络连接中断，请在网络可用后重试。</translation>
+    </message>
+    <message>
+        <source>The applicant has already canceled this apply.</source>
+        <translation>申请人已取消此次申请。</translation>
+    </message>
+    <message>
+        <source>The param of this approve is error.</source>
+        <translation>审批参数错误</translation>
+    </message>
+    <message>
+        <source>The apply has already dealed</source>
+        <translation type="obsolete">申请已经被处理</translation>
+    </message>
+    <message>
+        <source>The apply has already existed.</source>
+        <translation>申请已存在</translation>
+    </message>
+    <message>
+        <source>The applied rights has already existed.</source>
+        <translation>申请的权限已存在</translation>
+    </message>
+    <message>
+        <source>Failed to approve this application, you don&apos;t have auth permission.</source>
+        <translation>审批失败，您没有该文档的授权权限。</translation>
+    </message>
+    <message>
+        <source>Sorry, you don&apos;t have read permission of this document(%1).</source>
+        <translation>对不起，您没有文档（%1）的阅读权限。</translation>
+    </message>
+    <message>
+        <source>This document is not support offline, please retry after update online.</source>
+        <translation>该安全文档不支持离线使用，请在线编辑更新文档后再重新尝试。</translation>
+    </message>
+    <message>
+        <source>Create security document offline is not suppoted.</source>
+        <translation>离线暂不支持创建安全文档。</translation>
+    </message>
+    <message>
+        <source>Such operation is not supported when you security document is offline.</source>
+        <translation>离线文档暂不支持该操作。</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>是</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>否</translation>
+    </message>
+    <message>
+        <source>The current password is wrong!</source>
+        <translation>当前离线密码错误！</translation>
+    </message>
+    <message>
+        <source>You have not set the offline password yet.</source>
+        <translation>您还没有设置离线密码。</translation>
+    </message>
+    <message>
+        <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Security document format mismatch: %1.)</source>
+        <translation>无法打开安全文档，请联系您所在企业的管理员或WPS客服。（安全格式不匹配：%1）</translation>
+    </message>
+    <message>
+        <source>Failed to use this function, please contact your enterprise&apos;s administrator or WPS customer service. (Server API mismatch: %1.)</source>
+        <translation>无法使用该功能，请联系您所在企业的管理员或WPS客服。（服务端API不匹配：%1）</translation>
+    </message>
+    <message>
+        <source>Failed to open this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
+        <translation>无法打开安全文档，请联系您所在企业的管理员或WPS客服。（服务端 Transform API 不匹配：%1）</translation>
+    </message>
+    <message>
+        <source>Failed to save this security document, please contact your enterprise&apos;s administrator or WPS customer service. (Server Transform API mismatch: %1.)</source>
+        <translation>无法保存安全文档，请联系您所在企业的管理员或WPS客服。（服务端 Transform API 不匹配：%1）</translation>
+    </message>
+    <message>
+        <source>You outward application is out of expired, please apply again.</source>
+        <translation>您选择的外发申请已过有效期，请重新申请。</translation>
+    </message>
+    <message>
+        <source>Security document server exception, please contact the enterprise administrator or try again later.</source>
+        <translation>安全服务器异常，请联系企业管理员或稍后重试。</translation>
+    </message>
+    <message>
+        <source>Your application has been approved, cancel failed.</source>
+        <translation>您的申请已经被审批，无法取消。</translation>
+    </message>
+    <message>
+        <source>Offline permission verified</source>
+        <translation>离线权限验证提示</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have offline permission for this document or no offline cache data found on this computer, please use this document after connecting to the security server.</source>
+        <translation>您没有本安全文档的离线权限或没有缓存离线密钥到本计算机，请等待网络恢复后继续使用此文档。</translation>
+    </message>
+    <message>
+        <source>Offline hint</source>
+        <translation>离线提示</translation>
+    </message>
+    <message>
+        <source>Can&apos;t launch application</source>
+        <translation type="unfinished">无法启动应用程序</translation>
+    </message>
+    <message>
+        <source>configure error</source>
+        <translation type="unfinished">检测到配置出错,无法启动应用程序。如果此问题仍然存在，请与管理员联系</translation>
+    </message>
+    <message>
+        <source>show tips</source>
+        <translation type="unfinished">提示</translation>
+    </message>
+    <message>
+        <source>get enterprise list failed,please login</source>
+        <translation type="unfinished">获取企业列表失败，请登录后使用</translation>
+    </message>
+</context>
+<context>
+    <name>KxFeedbackCommand</name>
+    <message>
+        <source>No E-Mail Client.</source>
+        <translation>未安装邮件客户端！</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation>反馈</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontPreviewLabel</name>
+    <message>
+        <source>Simsun</source>
+        <translation>宋体</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation>WPS让办公更轻松</translation>
+    </message>
+</context>
+<context>
+    <name>KxForwardMembersModel</name>
+    <message>
+        <source>Phone</source>
+        <translation type="obsolete">手机</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="obsolete">邮箱</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation type="obsolete">公司</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation type="obsolete">操作</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryFontPreviewComboBox</name>
+    <message>
+        <source>Simsun</source>
+        <translation>宋体</translation>
+    </message>
+</context>
+<context>
+    <name>KxGalleryShapesCommand</name>
+    <message>
+        <source>Recommand</source>
+        <translation>推荐</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation>预设</translation>
+    </message>
+</context>
+<context>
+    <name>KxGallerySyFontComboBox</name>
+    <message>
+        <source> (Headings)</source>
+        <translation type="unfinished"> (标题)</translation>
+    </message>
+    <message>
+        <source> (Body)</source>
+        <translation type="unfinished"> (正文)</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5RemindDialog</name>
+    <message>
+        <source>Copy Finished</source>
+        <translation>复制完成</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareContiueWidget</name>
+    <message>
+        <source>Share Finished!</source>
+        <translation>分享成功</translation>
+    </message>
+    <message>
+        <source>Continue Share &gt;&gt;</source>
+        <translation>继续分享 &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Manage Shared Link &gt;&gt;</source>
+        <translation>管理分享链接 &gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5ShareLoginWidget</name>
+    <message>
+        <source>Link has been generated, 
+you can use the login!</source>
+        <translation>链接已生成，
+登录即可用</translation>
+    </message>
+    <message>
+        <source>For document security needs, please log in,
+you can also enjoy the link after the link to manage, delete, and then share privileges</source>
+        <translation>为了安全的需要请先登录，
+登录后还可以享有对链接进行管理、删除、再分享的特权</translation>
+    </message>
+</context>
+<context>
+    <name>KxH5hareCreateLinkWidget</name>
+    <message>
+        <source>Click Copy QRCode</source>
+        <translation type="obsolete">点击可复制二维码</translation>
+    </message>
+    <message>
+        <source>creating a link...</source>
+        <translation>正在生成链接</translation>
+    </message>
+    <message>
+        <source>Mobile scan two-dimensional code</source>
+        <translation>手机扫一扫，链接立刻传至手机</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation type="obsolete">创建链接</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation type="obsolete">复制链接</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionAlert</name>
+    <message>
+        <source>It is not supported for Data Encryption/Decryption on this platform.</source>
+        <translation>当前系统环境不支持硬件加密。</translation>
+    </message>
+    <message>
+        <source>Information</source>
+        <translation>提示</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionDialog</name>
+    <message>
+        <source>Document Encryption</source>
+        <translation>文档加密</translation>
+    </message>
+    <message>
+        <source>Document Decryption</source>
+        <translation>文档解密</translation>
+    </message>
+    <message>
+        <source>The file has been hardware encrypted.</source>
+        <translation>本文档已进行了硬件加密处理。</translation>
+    </message>
+    <message>
+        <source>The file requires hardware encryption.</source>
+        <translation>本文档需要进行硬件加密处理。</translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Hardware encryption service is about to expire, please renew in time.</source>
+        <translation>硬件加密服务即将过期，请即时续费。</translation>
+    </message>
+    <message>
+        <source>Continue to use</source>
+        <translation>继续使用</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionInfoWidget</name>
+    <message>
+        <source>renewal</source>
+        <translation>立即续费</translation>
+    </message>
+    <message>
+        <source>Found </source>
+        <translation>发现 </translation>
+    </message>
+    <message>
+        <source> has expired</source>
+        <translation> 已过期</translation>
+    </message>
+    <message>
+        <source>The encryption service </source>
+        <translation>加密服务于 </translation>
+    </message>
+    <message>
+        <source> has expired, Available after renewal.</source>
+        <translation> 过期，续费后可用。</translation>
+    </message>
+    <message>
+        <source>The encryption service will </source>
+        <translation>加密服务将于 </translation>
+    </message>
+    <message>
+        <source> expired, Leaving only </source>
+        <translation> 过期，仅剩 </translation>
+    </message>
+    <message>
+        <source> days.</source>
+        <translation> 天。</translation>
+    </message>
+    <message>
+        <source>Not found USB-KEY</source>
+        <translation>未检测到 USB-KEY</translation>
+    </message>
+    <message>
+        <source>If you have plugged in USB-KEY,try redetecting or re-plugging.</source>
+        <translation>若已插入了USB-KEY，请尝试重新检测或重新插拔。</translation>
+    </message>
+    <message>
+        <source>Detecting USB-KEY...</source>
+        <translation>正在检测USB-KEY...</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionItemModel</name>
+    <message>
+        <source>Found</source>
+        <translation>发现</translation>
+    </message>
+    <message>
+        <source>Save As </source>
+        <translation>保存为</translation>
+    </message>
+    <message>
+        <source>Security Format</source>
+        <translation>加密格式</translation>
+    </message>
+    <message>
+        <source>Unencrypted</source>
+        <translation>未加密</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionService</name>
+    <message>
+        <source>Need to update the USB-KEY driver,Please update the driver!</source>
+        <translation>需要更新USB-KEY驱动，请更新驱动后继续使用！</translation>
+    </message>
+    <message>
+        <source>update</source>
+        <translation>更新</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxHardwareEncryptionWidget</name>
+    <message>
+        <source>Plug in a USB Key to hardware encrypt the file&apos;s open access. 
+Password protection will become invalid.</source>
+        <translation type="obsolete">插入硬件USB-KEY对文件进行打开权限加密。密码保护将失效。</translation>
+    </message>
+    <message>
+        <source>Apply for hardware.</source>
+        <translation>申请硬件</translation>
+    </message>
+    <message>
+        <source>Redetect</source>
+        <translation>重新检测</translation>
+    </message>
+    <message>
+        <source>Start detection</source>
+        <translation>开始检测</translation>
+    </message>
+    <message>
+        <source>Plug in a USB Key to hardware encrypt the file&apos;s open access. 
+Password protection and document permissions will become invalid.</source>
+        <translation>插入硬件USB-KEY对文件进行打开权限加密。密码保护及文档权限将失效。</translation>
+    </message>
+</context>
+<context>
+    <name>KxHintWidgetLocalBackupItem</name>
+    <message>
+        <source>immediately recovery</source>
+        <translation type="obsolete">立即恢复</translation>
+    </message>
+</context>
+<context>
+    <name>KxImageQQStylePreViewer</name>
+    <message>
+        <source>Real Size</source>
+        <translation>实际大小</translation>
+    </message>
+    <message>
+        <source>Full Screen</source>
+        <translation>全屏预览</translation>
+    </message>
+    <message>
+        <source>Close Full Screen</source>
+        <translation>退出全屏</translation>
+    </message>
+    <message>
+        <source>Screen Grab</source>
+        <translation>屏幕截图</translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation>上一张</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation>下一张</translation>
+    </message>
+</context>
+<context>
+    <name>KxLoadingTreeModel</name>
+    <message>
+        <source>Loading, please wait...</source>
+        <translation>正在加载，请稍等...</translation>
+    </message>
+    <message>
+        <source>Loading failed...</source>
+        <translation>加载失败...</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeNoProtectDocCommand</name>
+    <message>
+        <source>You have not applied for no protect yet or last application is out of expired.</source>
+        <translation>您还没有申请无保护类型的外发或者上一次申请已经过期。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocCommand</name>
+    <message>
+        <source>Current document has unsaved changes, please make outward document after saving changes.</source>
+        <translation>当前文档有未保存的修改，请保存后再制作外发文档。</translation>
+    </message>
+    <message>
+        <source>Outward document is created, open now?</source>
+        <translation>外发文档已经制作完成，是否打开查看？</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeOutwardDocEntranceCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation>您还没有申请水印保护类型的外发或者上一次申请已经过期。</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have outgoing permissions for this document. Please contact the administrator.</source>
+        <translation>您没有本文档的外发权限，请联系管理员。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakePasswordDocCommand</name>
+    <message>
+        <source>You have not applied for password protect yet or last application is out of expired.</source>
+        <translation>您还没有申请密码保护的外发或者上一次申请已经过期。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMakeWatermarkDocCommand</name>
+    <message>
+        <source>You have not applied for watermark protect yet or last application is out of expired.</source>
+        <translation>您还没有申请水印保护类型的外发或者上一次申请已经过期。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMembersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translation>用户姓名</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation>用户账号</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>所属部门</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineKeyAuthDlg</name>
+    <message>
+        <source>User account can&apos;t be empty.</source>
+        <translation>用户账号不能为空</translation>
+    </message>
+    <message>
+        <source>Wrong password</source>
+        <translation>密码错误</translation>
+    </message>
+    <message>
+        <source>Offline data has not been cached to this computer.</source>
+        <translation type="obsolete">离线数据没有缓存到本计算机</translation>
+    </message>
+    <message>
+        <source>Wrong account(please enter full name account) or offline cache not found.</source>
+        <translation>账号错误（请输入账号全称）或没有缓存密钥</translation>
+    </message>
+    <message>
+        <source>Offline key has expired, please login online and cache again.</source>
+        <translation>离线密钥已过期，请在线登录并重新缓存</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagement</name>
+    <message>
+        <source>Offline log in will log out the online account, are you sure want to log in?</source>
+        <translation>离线登录会注销在线登录，是否继续登录？</translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account,</source>
+        <translation>您登录的用户与当前离线账户不一致，</translation>
+    </message>
+    <message>
+        <source>all security document will be closed after you log in,</source>
+        <translation>登录后会强制关闭已打开的全部安全文档，</translation>
+    </message>
+    <message>
+        <source>log in continue (data will be lost if file mark dirty)?</source>
+        <translation>是否继续登录（已标脏的文件将丢失数据）？</translation>
+    </message>
+    <message>
+        <source>Your offline account doesn&apos;t match the online account, please log again.</source>
+        <translation>您登录的离线账户与当前在线账户不一致，请重新登录。</translation>
+    </message>
+    <message>
+        <source>Login hint</source>
+        <translation>登录提示</translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account, please login again.</source>
+        <translation>您登录的在线账户与当前离线账户不一致，请重新登录。</translation>
+    </message>
+    <message id="false">
+        <source>Please close all security document before log out.</source>
+        <translation>注销离线登录前请先关闭所有安全文档。</translation>
+    </message>
+    <message>
+        <source>Close the currently opened document before sign out</source>
+        <translation type="unfinished">注销在线登陆前请关闭当前用户打开的文档</translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished">警告</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflineManagementDlg</name>
+    <message>
+        <source>User account:</source>
+        <translation>用户账号：</translation>
+    </message>
+    <message>
+        <source>Not logged in</source>
+        <translation>未登录</translation>
+    </message>
+    <message>
+        <source>Logged in</source>
+        <translation>已登录</translation>
+    </message>
+    <message>
+        <source>User name:</source>
+        <translation>用户姓名：</translation>
+    </message>
+    <message>
+        <source>User department:</source>
+        <translation>所属部门：</translation>
+    </message>
+    <message>
+        <source>Download offline data successfully.</source>
+        <translation>缓存离线密钥成功。</translation>
+    </message>
+    <message>
+        <source>Download offline data failed, please retry later.</source>
+        <translation>缓存离线密钥失败，请稍候重试。</translation>
+    </message>
+    <message>
+        <source>&amp;Log out</source>
+        <translation>注销(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Sign in</source>
+        <translation>离线登录(&amp;S)</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have any document&apos;s offline permission, download offline data failed.</source>
+        <translation>您没有任何文档的离线权限，缓存离线密钥失败。</translation>
+    </message>
+    <message>
+        <source>Security server is reachable, offline login is disabled.</source>
+        <translation>安全文档服务器可连接，无法使用离线登录。</translation>
+    </message>
+</context>
+<context>
+    <name>KxOfflinePasswordDlg</name>
+    <message>
+        <source>You have enter two different passwords.</source>
+        <translation>两次输入密码不一致</translation>
+    </message>
+    <message>
+        <source>Reset password successfully.</source>
+        <translation>重置密码成功。</translation>
+    </message>
+    <message>
+        <source>Set password successfully</source>
+        <translation>设置密码成功。</translation>
+    </message>
+    <message>
+        <source>Current password:</source>
+        <translation>当前离线密码：</translation>
+    </message>
+    <message>
+        <source>New password:</source>
+        <translation>新离线密码：</translation>
+    </message>
+    <message>
+        <source>Confirm new password:</source>
+        <translation>确认新密码：</translation>
+    </message>
+    <message>
+        <source>Password&apos;s length must greater than 8</source>
+        <translation>密码长度不得少于8位</translation>
+    </message>
+    <message>
+        <source>Current password can&apos;t be empty.</source>
+        <translation>当前密码不能为空</translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonQatTab</name>
+    <message>
+        <source>Form</source>
+        <translation>从</translation>
+    </message>
+    <message>
+        <source>Customize the Quick Access Toolbar</source>
+        <translation>自定义快速访问工具栏</translation>
+    </message>
+    <message>
+        <source>Choose Commands</source>
+        <translation>可以选择的选项</translation>
+    </message>
+    <message>
+        <source>&amp;Add &gt;&gt;</source>
+        <translation>添加(&amp;A) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;&lt; &amp;Remove</source>
+        <translation>&lt;&lt; 删除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Customize Quick Access Toolbar</source>
+        <translation>当前显示的选项</translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation>重置(&amp;E)</translation>
+    </message>
+    <message>
+        <source>You already have this on Quick Access Toolbar.</source>
+        <translation>该选项在快速工具栏中已存在</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>快速访问工具栏</translation>
+    </message>
+    <message>
+        <source>&amp;Choose commands from:</source>
+        <translation>从下列位置选择命令(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Popular Commands</source>
+        <translation>常用命令</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation>宏</translation>
+    </message>
+</context>
+<context>
+    <name>KxOptionsRibbonTabsTab</name>
+    <message>
+        <source>Form</source>
+        <translation>从</translation>
+    </message>
+    <message>
+        <source>Cutomize the Ribbon</source>
+        <translation>自定义功能区</translation>
+    </message>
+    <message>
+        <source>&amp;Choose commands from:</source>
+        <translation>从下列位置选择命令(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Popular Commands</source>
+        <translation>常用命令</translation>
+    </message>
+    <message>
+        <source>Commands Not in the Ribbon</source>
+        <translation>不在功能区中的命令</translation>
+    </message>
+    <message>
+        <source>All Commands</source>
+        <translation>所有命令</translation>
+    </message>
+    <message>
+        <source>File Menu</source>
+        <translation>文件菜单</translation>
+    </message>
+    <message>
+        <source>All Tabs</source>
+        <translation>所有选项卡</translation>
+    </message>
+    <message>
+        <source>Main Tabs</source>
+        <translation>主选项卡</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>添加(&amp;A) &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>&lt;&lt; 删除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Customize the Ri&amp;bbon:</source>
+        <translation>自定义功能区(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Ne&amp;w Tab</source>
+        <translation>新建选项卡(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;New Group</source>
+        <translation>新建组(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Rena&amp;me...</source>
+        <translation>重命名(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>Customizations:</source>
+        <translation>自定义:</translation>
+    </message>
+    <message>
+        <source>R&amp;eset</source>
+        <translation>重置(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Reset only selected Ribbon tab</source>
+        <translation>仅重置所选功能区选项卡</translation>
+    </message>
+    <message>
+        <source>Reset all customizations</source>
+        <translation>重置所有自定义项</translation>
+    </message>
+    <message>
+        <source>New Group</source>
+        <translation>新建组</translation>
+    </message>
+    <message>
+        <source>New Tab</source>
+        <translation>新建选项卡</translation>
+    </message>
+    <message>
+        <source>Classic menu</source>
+        <translation>经典菜单</translation>
+    </message>
+    <message>
+        <source>Tab</source>
+        <translation>选项卡</translation>
+    </message>
+    <message>
+        <source>File menu</source>
+        <translation>文件菜单</translation>
+    </message>
+    <message>
+        <source>Popup Menu</source>
+        <translation>弹出菜单</translation>
+    </message>
+    <message>
+        <source>Macro name</source>
+        <translation>宏</translation>
+    </message>
+    <message>
+        <source>Keyboard shortcuts:</source>
+        <translation>键盘快捷方式:</translation>
+    </message>
+    <message>
+        <source>Cus&amp;tomize...</source>
+        <translation>自定义(&amp;T)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardApplicationsDlg</name>
+    <message>
+        <source>Do you want to cancel the outward applications for the selected document?</source>
+        <translation>您是否要取消所选文档的外发申请？</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardApplicationsModel</name>
+    <message>
+        <source>Application time</source>
+        <translation>申请时间</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>文档名称</translation>
+    </message>
+    <message>
+        <source>Protect type</source>
+        <translation>安全保护</translation>
+    </message>
+    <message>
+        <source>Approve status</source>
+        <translation>审批状态</translation>
+    </message>
+    <message>
+        <source>Opeartion</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Application detail</source>
+        <translation>申请详情</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation>重新申请</translation>
+    </message>
+    <message>
+        <source>Cancel application</source>
+        <translation>取消申请</translation>
+    </message>
+    <message>
+        <source>No protect</source>
+        <translation>无保护</translation>
+    </message>
+    <message>
+        <source>Watermark protect</source>
+        <translation>水印保护</translation>
+    </message>
+    <message>
+        <source>Password protect</source>
+        <translation>密码保护</translation>
+    </message>
+    <message>
+        <source>Not commited</source>
+        <translation>未提交</translation>
+    </message>
+    <message>
+        <source>Not approved</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Accepted</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Rejected</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>已取消</translation>
+    </message>
+    <message>
+        <source>Apply Id:</source>
+        <translation>申请编号：</translation>
+    </message>
+    <message>
+        <source>Apply Time:</source>
+        <translation>申请时间：</translation>
+    </message>
+    <message>
+        <source>Doc Name:</source>
+        <translation>文档名称：</translation>
+    </message>
+    <message>
+        <source>Protect Type:</source>
+        <translation>安全保护：</translation>
+    </message>
+    <message>
+        <source>Approval Status:</source>
+        <translation>审批状态：</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardDocTableModel</name>
+    <message>
+        <source>Authorize Id</source>
+        <translation type="unfinished">授权编号</translation>
+    </message>
+    <message>
+        <source>Protect Type</source>
+        <translation type="unfinished">外发类型</translation>
+    </message>
+    <message>
+        <source>description</source>
+        <translation type="unfinished">说明</translation>
+    </message>
+    <message>
+        <source>Apply reason:</source>
+        <translation type="obsolete">申请理由：</translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation type="obsolete">审批时间：</translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation type="obsolete">审批人：</translation>
+    </message>
+    <message>
+        <source>OutwardType_NoProtect</source>
+        <translation type="unfinished">无保护</translation>
+    </message>
+    <message>
+        <source>OutwardType_WaterMark</source>
+        <translation type="unfinished">水印保护</translation>
+    </message>
+    <message>
+        <source>OutwardType_Password</source>
+        <translation type="unfinished">密码保护</translation>
+    </message>
+</context>
+<context>
+    <name>KxOutwardMembersModel</name>
+    <message>
+        <source>Name</source>
+        <translation type="obsolete">姓名</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation type="obsolete">手机</translation>
+    </message>
+    <message>
+        <source>Email</source>
+        <translation type="obsolete">邮箱</translation>
+    </message>
+    <message>
+        <source>Company</source>
+        <translation type="obsolete">公司</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation type="obsolete">操作</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation type="obsolete">修改</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="obsolete">删除</translation>
+    </message>
+    <message>
+        <source>Phone already Exists!</source>
+        <translation type="obsolete">手机号码已经存在于企业收件人列表中！</translation>
+    </message>
+    <message>
+        <source>Email already Exists!</source>
+        <translation type="obsolete">邮箱已经存在于企业收件人列表中！</translation>
+    </message>
+    <message>
+        <source>Email and Phone already Exists!</source>
+        <translation type="obsolete">手机号码和邮箱已经存在于企业收件人列表中！</translation>
+    </message>
+    <message>
+        <source>Email param error</source>
+        <translation type="obsolete">邮箱格式错误！</translation>
+    </message>
+    <message>
+        <source>Phone param error</source>
+        <translation type="obsolete">手机号码格式错误！</translation>
+    </message>
+</context>
+<context>
+    <name>KxPDF2WordEntryList</name>
+    <message>
+        <source>Loading the PDF To Word. Please wait...</source>
+        <translation type="obsolete">正在载入 PDF 转 WORD，请稍候...</translation>
+    </message>
+    <message>
+        <source>PDF2Word</source>
+        <translation type="obsolete">PDF转Word</translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="obsolete">PDF拆分/合并</translation>
+    </message>
+</context>
+<context>
+    <name>KxPasswordListModel</name>
+    <message>
+        <source>Apply id:</source>
+        <translation>申请编号：</translation>
+    </message>
+    <message>
+        <source>Apply date:</source>
+        <translation>申请时间：</translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation>审批时间：</translation>
+    </message>
+    <message>
+        <source>Passowrd:</source>
+        <translation>密码：</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyDetailDlg</name>
+    <message>
+        <source>File Name: %1</source>
+        <translation type="obsolete">文档名称：%1</translation>
+    </message>
+    <message>
+        <source>File Id: %1</source>
+        <translation type="obsolete">文档编号：%1</translation>
+    </message>
+    <message>
+        <source>Current Permission</source>
+        <translation>原有权限</translation>
+    </message>
+    <message>
+        <source>Apply Permission</source>
+        <translation>申请权限</translation>
+    </message>
+    <message>
+        <source>Wait for approve</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Approve passed</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Approve unpassed</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Cancel apply</source>
+        <translation>取消申请</translation>
+    </message>
+    <message>
+        <source>Second apply</source>
+        <translation>再次申请</translation>
+    </message>
+    <message>
+        <source>Apply again</source>
+        <translation>重新申请</translation>
+    </message>
+    <message>
+        <source>Apply Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>Apply Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+    <message>
+        <source>Approve Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>Approve Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>Approve Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Approver Information:</source>
+        <translation>审批人信息:</translation>
+    </message>
+    <message>
+        <source>Approver Opinion:</source>
+        <translation>审批意见:</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Agree</source>
+        <translation>同意</translation>
+    </message>
+    <message>
+        <source>Disagree</source>
+        <translation>不同意</translation>
+    </message>
+    <message>
+        <source>Permission Approved</source>
+        <translation>审批结果</translation>
+    </message>
+    <message>
+        <source>Other approver might has approved.</source>
+        <translation type="obsolete">其它审批人已经完成此次审批</translation>
+    </message>
+    <message>
+        <source>Approve agree, user permission application take effect.</source>
+        <translation>审批通过，用户权限申请已生效。</translation>
+    </message>
+    <message>
+        <source>Approve refuse, user permission application failed.</source>
+        <translation>审批已驳回，所申请的权限未生效！</translation>
+    </message>
+    <message>
+        <source>Apply canceled</source>
+        <translation>已取消</translation>
+    </message>
+    <message>
+        <source>Approve Info</source>
+        <translation>审批信息</translation>
+    </message>
+    <message>
+        <source>File Name:	%1</source>
+        <translation>文档名称: %1</translation>
+    </message>
+    <message>
+        <source>File Id:	%1</source>
+        <translation>文档编号: %1</translation>
+    </message>
+    <message>
+        <source>Approve Status:	%1</source>
+        <translation>审批状态:     %1</translation>
+    </message>
+    <message>
+        <source>Apply Id:	%1</source>
+        <translation>权限申请编号: %1</translation>
+    </message>
+    <message>
+        <source>Apply Time:	%1</source>
+        <translation>申请时间:     %1</translation>
+    </message>
+    <message>
+        <source>Approve Time:	%1</source>
+        <translation>审批时间:     %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyDlg</name>
+    <message>
+        <source>Your Apply has been canceled.</source>
+        <translation type="obsolete">您已成功取消所选文档的权限申请。</translation>
+    </message>
+    <message>
+        <source>You has already canceled apply for this document.</source>
+        <translation type="obsolete">您已经取消过对该文档的申请。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApplyModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translation>申请时间</translation>
+    </message>
+    <message>
+        <source>File Name</source>
+        <translation>文档名称</translation>
+    </message>
+    <message>
+        <source>File Id</source>
+        <translation type="obsolete">文档编号</translation>
+    </message>
+    <message>
+        <source>Apply State</source>
+        <translation>审批状态</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Cancel Apply</source>
+        <translation>取消申请</translation>
+    </message>
+    <message>
+        <source>wait for approve</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>apply passed</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>apply unpassed</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Apply Detail</source>
+        <translation>申请详情</translation>
+    </message>
+    <message>
+        <source>Apply Id</source>
+        <translation type="obsolete">权限申请编号</translation>
+    </message>
+    <message>
+        <source>Reapply</source>
+        <translation>重新申请</translation>
+    </message>
+    <message>
+        <source>apply canceled</source>
+        <translation>已取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveDlg</name>
+    <message>
+        <source>Totally %1 records</source>
+        <translation type="obsolete">当前共%1条数据</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionApproveModel</name>
+    <message>
+        <source>Application Date</source>
+        <translation>申请时间</translation>
+    </message>
+    <message>
+        <source>Document Id</source>
+        <translation type="obsolete">文档编号</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>文档名称</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation type="obsolete">申请人账号</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translation>申请人</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Approve</source>
+        <translation>审批</translation>
+    </message>
+    <message>
+        <source>Apply Id</source>
+        <translation type="obsolete">权限申请编号</translation>
+    </message>
+    <message>
+        <source>Approve State</source>
+        <translation>审批状态</translation>
+    </message>
+    <message>
+        <source>User Dept</source>
+        <translation type="obsolete">申请人所属部门</translation>
+    </message>
+    <message>
+        <source>Approved</source>
+        <translation>审批通过</translation>
+    </message>
+    <message>
+        <source>Pending</source>
+        <translation>待审批</translation>
+    </message>
+    <message>
+        <source>Reject</source>
+        <translation>审批不通过</translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <translation>查看</translation>
+    </message>
+    <message>
+        <source>Canceled</source>
+        <translation type="obsolete">已取消</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation type="obsolete">所属部门: %1</translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionLoginTipDlg</name>
+    <message>
+        <source>Offline log on</source>
+        <translation>离线登录</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionTipDlg</name>
+    <message>
+        <source>Cannot open this document</source>
+        <translation>无法打开此文件</translation>
+    </message>
+    <message>
+        <source>This document is WPS Online Security Document.Please logon to verify your permissions.</source>
+        <translation>该文件是WPS在线安全文档，请登录账号来验证您的权限。</translation>
+    </message>
+    <message>
+        <source>Log on</source>
+        <translation type="obsolete">登录</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确认</translation>
+    </message>
+    <message>
+        <source>Sorry, You has no read permission for this document!</source>
+        <translation type="obsolete">对不起，你没有本文档的阅读权限！</translation>
+    </message>
+    <message>
+        <source>Access Security Document Server Failed.</source>
+        <translation type="obsolete">访问安全文档服务器失败！</translation>
+    </message>
+    <message>
+        <source>Online log on</source>
+        <translation>在线登录</translation>
+    </message>
+</context>
+<context>
+    <name>KxPermissionsTableModel</name>
+    <message>
+        <source>Auth Type</source>
+        <translation>授权类型</translation>
+    </message>
+    <message>
+        <source>User Name</source>
+        <translation>名称</translation>
+    </message>
+    <message>
+        <source>ReadOnly</source>
+        <translation>阅读</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>打印</translation>
+    </message>
+    <message>
+        <source>SaveAs</source>
+        <translation>另存</translation>
+    </message>
+    <message>
+        <source>Auth</source>
+        <translation>授权</translation>
+    </message>
+    <message>
+        <source>UniquePrincipal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Auth</source>
+        <translation>用户授权</translation>
+    </message>
+    <message>
+        <source>Group Auth</source>
+        <translation>用户组授权</translation>
+    </message>
+    <message>
+        <source>Company Auth</source>
+        <translation>部门授权</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation type="obsolete">用户账号</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Right Template</source>
+        <translation>权限模板</translation>
+    </message>
+    <message>
+        <source>Offline</source>
+        <translation>离线</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>Apply Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxRecentFileListCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation>无法找到“%1”。请检查文件名的拼写，并检查文件位置是否正确。
+如果你正试图从“文件”菜单上最近使用的文件列表中打开文件，请确认文件未被重命名、移动或删除。</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>无法打开 “%1”。
+此文件可能被重命名、删除或移动了位置。</translation>
+    </message>
+</context>
+<context>
+    <name>KxReciversModel</name>
+    <message>
+        <source>Name</source>
+        <translation>名字</translation>
+    </message>
+    <message>
+        <source>Phone</source>
+        <translation>手机</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>修改</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Receiver Name:</source>
+        <translation>姓名：</translation>
+    </message>
+    <message>
+        <source>Receiver Phone:</source>
+        <translation>手机：</translation>
+    </message>
+    <message>
+        <source>Receiver Email:</source>
+        <translation>邮箱：</translation>
+    </message>
+    <message>
+        <source>Receiver Company:</source>
+        <translation>公司：</translation>
+    </message>
+</context>
+<context>
+    <name>KxReportContainerWidget</name>
+    <message>
+        <source>double click to view more</source>
+        <translation>双击打开查看</translation>
+    </message>
+</context>
+<context>
+    <name>KxRnSettingsProxyCommand</name>
+    <message>
+        <source>settings</source>
+        <translation>设置</translation>
+    </message>
+</context>
+<context>
+    <name>KxSaveEncryptedFileDlg</name>
+    <message>
+        <source>• Click &quot;Generate encryption&quot; to generate an encrypted copy.</source>
+        <translation>• 点击“生成加密”生成一份加密的副本。</translation>
+    </message>
+    <message>
+        <source>• Click &quot;Save current&quot; to ignore the account encryption and continue to save in the current format.</source>
+        <translation>• 点击“保存当前”忽略账号加密，继续以当前格式保存。</translation>
+    </message>
+</context>
+<context>
+    <name>KxScreenSaverCenterButton</name>
+    <message>
+        <source>ScreenSaver Center</source>
+        <translation>画报中心</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelUsersTableModel</name>
+    <message>
+        <source>User Name</source>
+        <translation>用户姓名</translation>
+    </message>
+    <message>
+        <source>User Account</source>
+        <translation>用户账号</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>所属部门</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectApproverDlg</name>
+    <message>
+        <source>Your Apply has sumbited, please wait.</source>
+        <translation>您的申请已经提交给审批人，请等候审批。</translation>
+    </message>
+    <message>
+        <source>You has already sumbited one apply for this document.</source>
+        <translation>您已经提交过对该文档的申请。</translation>
+    </message>
+    <message>
+        <source>Permission Application</source>
+        <translation>权限申请</translation>
+    </message>
+</context>
+<context>
+    <name>KxServerConnectableTipDlg</name>
+    <message>
+        <source>Security server is connectable, please log in to use security document.</source>
+        <translation>安全服务器恢复通讯，请在线登录后使用安全文档。</translation>
+    </message>
+    <message>
+        <source>Online log in</source>
+        <translation>在线登录</translation>
+    </message>
+    <message>
+        <source>Login hint</source>
+        <translation>登录提示</translation>
+    </message>
+    <message>
+        <source>The online account does not match the offline account, please login again.</source>
+        <translation>您登录的在线账户与当前离线账户不一致，请重新登录。</translation>
+    </message>
+    <message id="0">
+        <source>Offline use hint</source>
+        <oldsource>WPS Office system files encountered a problem. %1 cannot be 	started unless an automatic repair is performed. When prompted, click &quot;Yes&quot; to finish the repair.</oldsource>
+        <translation>离线使用提示</translation>
+    </message>
+</context>
+<context>
+    <name>KxServerDownTipDlg</name>
+    <message>
+        <source>Offline hint</source>
+        <translation type="obsolete">离线提示</translation>
+    </message>
+    <message>
+        <source>Access security document server failed, offline log in</source>
+        <translation>安全文档服务器通讯中断，若您有本文档的离线权限，请</translation>
+    </message>
+    <message>
+        <source>if you have offline permission of this document, otherwise</source>
+        <translation>离线登录后使用，若您没有离线权限，请等待网络恢复后</translation>
+    </message>
+    <message>
+        <source>use it after connection available.</source>
+        <translation>继续使用此文档。</translation>
+    </message>
+    <message>
+        <source>Offline use</source>
+        <translation>离线使用</translation>
+    </message>
+</context>
+<context>
+    <name>KxShapePaneTitle</name>
+    <message>
+        <source>More</source>
+        <translation>更多</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDialog</name>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Insert Smartart Dialog</source>
+        <translation>选择智能图形</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDlgWidget_OldTemp</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation type="obsolete">选择智能图形</translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertPreviewWidget</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation>选择智能图形</translation>
+    </message>
+    <message>
+        <source>&amp;OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="obsolete">帮助</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+</context>
+<context>
+    <name>KxSpinBoxCommand</name>
+    <message>
+        <source>Copies:</source>
+        <translation>份数：</translation>
+    </message>
+</context>
+<context>
+    <name>KxSuperTabSwitchWidget</name>
+    <message>
+        <source>Opened Documents:</source>
+        <translation>已打开文档：</translation>
+    </message>
+    <message>
+        <source>Directory:</source>
+        <translation>位置：</translation>
+    </message>
+    <message>
+        <source>Can&apos;t display the directory of current document not saved.</source>
+        <translation>当前文档未保存，无法显示当前文档所在位置</translation>
+    </message>
+</context>
+<context>
+    <name>KxTabNotification</name>
+    <message>
+        <source>Form</source>
+        <translation>从</translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation>消息提醒</translation>
+    </message>
+    <message>
+        <source>&amp;Receive Help and QA notices</source>
+        <translation>接收帮助与问答的消息提醒(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Do&amp;n&apos;t remind me</source>
+        <translation>不要提醒我(&amp;N)</translation>
+    </message>
+</context>
+<context>
+    <name>KxTabTrustCenter</name>
+    <message>
+        <source>TrustCenter</source>
+        <translation>信任中心</translation>
+    </message>
+    <message>
+        <source>Macro security</source>
+        <translation>宏安全性</translation>
+    </message>
+    <message>
+        <source>Adjust the security level for opening files that might contain macro viruses and specify the names of trusted macro developers.</source>
+        <translation>调整安全级别以打开可能包含宏病毒的文件，并指定可信任的宏创建者姓名。</translation>
+    </message>
+    <message>
+        <source>Macros &amp;Security...</source>
+        <translation>宏安全性(&amp;S)...</translation>
+    </message>
+    <message>
+        <source>Trusted Locations</source>
+        <translation>受信任位置</translation>
+    </message>
+    <message>
+        <source>Change or add a location that treated as tructed sources, make sure that the new location is secure.</source>
+        <translation>更改或添加受信任位置作为打开文件的受信任来源，请确保这些位置是安全的。</translation>
+    </message>
+    <message>
+        <source>User Locations:</source>
+        <translation>用户位置路径：</translation>
+    </message>
+    <message>
+        <source>Path:</source>
+        <translation>路径：</translation>
+    </message>
+    <message>
+        <source>Sub Folders:</source>
+        <translation>子文件夹：</translation>
+    </message>
+    <message>
+        <source>&amp;Add new location...</source>
+        <translation>添加新位置(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation>删除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation>修改(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>&amp;Disable all Trusted Locations</source>
+        <translation>禁用所有受信任位置(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Trusted Documents</source>
+        <translation>受信任的文档</translation>
+    </message>
+    <message>
+        <source>Trusted Documents open without any secutiy prompts for macros add ActiveX.Make sure you trust the source.</source>
+        <translation>打开受信任的文档时，不会出现任何宏、ActiveX等活动内容的安全提示。请确保受信任的文档是安全的。</translation>
+    </message>
+    <message>
+        <source>&amp;Auto add as Trusted document.</source>
+        <translation>启用宏后自动添加为受信任的文档(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Disable Trusted &amp;Documents</source>
+        <translation>禁用受信任的文档(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Clear all Trusted Documents so that they are no longer trusted.</source>
+        <translation>清除所有受信任的文档，这样他们将不再可信</translation>
+    </message>
+    <message>
+        <source>&amp;Clear</source>
+        <translation>清除(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxTemplateInfoDlg</name>
+    <message>
+        <source>Permission Template Infomation</source>
+        <translation>权限模板信息</translation>
+    </message>
+    <message>
+        <source>ensure tips</source>
+        <translation>确认提示</translation>
+    </message>
+    <message>
+        <source>Do you want to save the rights for the template before exiting</source>
+        <translation>是否保存对该模板的权限修改？</translation>
+    </message>
+    <message>
+        <source>Do you want to remove this user right?</source>
+        <translation>是否删除该权限？</translation>
+    </message>
+    <message>
+        <source>user rights saved</source>
+        <translation>权限已保存</translation>
+    </message>
+    <message>
+        <source>Modify Permission</source>
+        <translation type="obsolete">修改权限</translation>
+    </message>
+    <message>
+        <source>There are %1 Items in all</source>
+        <translation type="obsolete">一共 %1 条记录。</translation>
+    </message>
+    <message>
+        <source>User has other right, can&apos;t cancel his readonly right.</source>
+        <translation>该用户还有其它权限信息，无法取消阅读权限。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrustCenterTab</name>
+    <message>
+        <source>WPS Writer has encountered an error while adjusting the macro security. This could be because the VBA environment is not installed. Please contact your support technician.</source>
+        <translation>调整宏安全性时发生错误，可能是由于您没有安装 VBA 环境。</translation>
+    </message>
+    <message>
+        <source>Allowed</source>
+        <translation>允许</translation>
+    </message>
+    <message>
+        <source>Disallowed</source>
+        <translation>不允许</translation>
+    </message>
+    <message>
+        <source>Add Trusted Location</source>
+        <translation>添加受信任位置</translation>
+    </message>
+    <message>
+        <source>Modify Trusted Location</source>
+        <translation>修改受信任位置</translation>
+    </message>
+    <message>
+        <source>Are you sure you want to clear your Trusted Documents list so that they are no longer trusted?</source>
+        <translation>是否确定要清除您的受信任文档列表，这样它们将不再可信？</translation>
+    </message>
+    <message>
+        <source>Trusted Documents</source>
+        <translation>受信任的文档</translation>
+    </message>
+    <message>
+        <source>The specified path aleady been added to your Trusted Locations.</source>
+        <translation>已将指定路径添加到受信任位置。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTrustedLocationDlg</name>
+    <message>
+        <source>Select Folder:</source>
+        <translation>选择文件夹</translation>
+    </message>
+    <message>
+        <source>The path you have Select is not allowed. Please select other path.</source>
+        <translation>输入的路径不是有效位置，或出于安全原因，该路径不能用作受信任位置。请检查键入路径，或选择其他位置或特定文件夹。</translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateHelper</name>
+    <message numerus="yes">
+        <source>WPS Office Exception</source>
+        <translation type="obsolete">
+            <numerusform>WPS异常提醒</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>WPS Office update service cannot work properly, and you will not be able to access to new and improved features brought out in new versions. We recommend that you reinstalled WPS Office to solve this problem.</source>
+        <translation type="obsolete">
+            <numerusform>WPS升级服务异常，导致您将无法使用到新版中新增和改进的功能。我们建议您及时重装WPS，解决此问题。</numerusform>
+        </translation>
+    </message>
+    <message numerus="yes">
+        <source>Reinstall</source>
+        <translation type="obsolete">
+            <numerusform>重新安装</numerusform>
+        </translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateDlg</name>
+    <message>
+        <source>New Template</source>
+        <translation>新建权限模板</translation>
+    </message>
+    <message>
+        <source>ensure tips</source>
+        <translation>确认提示</translation>
+    </message>
+    <message>
+        <source>After you delete the template, all documents associated with this template will be affected.Are you sure to remove this template?</source>
+        <translation>删除权限模板后，已使用该模板的安全文档将会受到影响，是否要删除选中的文本权限？</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserRightTemplateModel</name>
+    <message>
+        <source>Template Name</source>
+        <translation>模板名称</translation>
+    </message>
+    <message>
+        <source>Template Id</source>
+        <translation type="obsolete">模板编号</translation>
+    </message>
+    <message>
+        <source>Template Desc</source>
+        <translation>模板描述</translation>
+    </message>
+    <message>
+        <source>Template Operation</source>
+        <translation>操作</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>模板信息</translation>
+    </message>
+    <message>
+        <source>Setting</source>
+        <translation>权限列表</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Template Type</source>
+        <translation>模板类型</translation>
+    </message>
+    <message>
+        <source>Maintainer</source>
+        <translation>维护人</translation>
+    </message>
+    <message>
+        <source>Maintainer Account</source>
+        <translation type="obsolete">维护人账号</translation>
+    </message>
+    <message>
+        <source>Personal Template</source>
+        <translation>个人模板</translation>
+    </message>
+    <message>
+        <source>Public Template</source>
+        <translation>公共模板</translation>
+    </message>
+    <message>
+        <source>Template Name:	%1</source>
+        <translation>模板名称: %1</translation>
+    </message>
+    <message>
+        <source>Template Id:	%1</source>
+        <translation>模板编号: %1</translation>
+    </message>
+    <message>
+        <source>Creator:	%1</source>
+        <translation type="obsolete">创建人:    %1</translation>
+    </message>
+    <message>
+        <source>User Name:	%1</source>
+        <translation>用户姓名: %1</translation>
+    </message>
+    <message>
+        <source>User Account:	%1</source>
+        <translation>用户账号: %1</translation>
+    </message>
+    <message>
+        <source>User Dept:	%1</source>
+        <translation>所属部门: %1</translation>
+    </message>
+</context>
+<context>
+    <name>KxUserShortcutsDlg</name>
+    <message>
+        <source>Warning</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>Reset all shortcuts?</source>
+        <translation>要重设所有的快捷键吗？</translation>
+    </message>
+    <message>
+        <source>Press new shortcut key</source>
+        <translation>请按新快捷键</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <translation>其他</translation>
+    </message>
+</context>
+<context>
+    <name>KxVisibleRangeModel</name>
+    <message>
+        <source>Type</source>
+        <translation>类型</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名称</translation>
+    </message>
+    <message>
+        <source>Personal</source>
+        <translation>个人</translation>
+    </message>
+    <message>
+        <source>User Group</source>
+        <translation>用户组</translation>
+    </message>
+    <message>
+        <source>Department</source>
+        <translation>部门</translation>
+    </message>
+</context>
+<context>
+    <name>KxVisibleRgItemDelegate</name>
+    <message>
+        <source>Delete</source>
+        <translation type="obsolete">删除</translation>
+    </message>
+</context>
+<context>
+    <name>KxWatermarkTableModel</name>
+    <message>
+        <source>Apply Date</source>
+        <translation>申请时间</translation>
+    </message>
+    <message>
+        <source>Apply Id</source>
+        <translation>申请编号</translation>
+    </message>
+    <message>
+        <source>Apply reason:</source>
+        <translation>申请理由：</translation>
+    </message>
+    <message>
+        <source>Approved date:</source>
+        <translation>审批时间：</translation>
+    </message>
+    <message>
+        <source>Approver:</source>
+        <translation>审批人：</translation>
+    </message>
+</context>
+<context>
+    <name>KxWebExtensionViewMenu</name>
+    <message>
+        <source>Select</source>
+        <translation>选择</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>Pay</source>
+        <translation>开通会员</translation>
+    </message>
+    <message>
+        <source>Expired date : </source>
+        <translation>试用到期时间 : </translation>
+    </message>
+    <message>
+        <source>yyyy-M-d h:m</source>
+        <translation>yyyy-M-d h:m</translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation>续费会员</translation>
+    </message>
+</context>
+<context>
+    <name>ProxySetting</name>
+    <message>
+        <source>Proxy settings</source>
+        <translation>代理设置</translation>
+    </message>
+    <message>
+        <source>Password:</source>
+        <translation>密码：</translation>
+    </message>
+    <message>
+        <source>Port:</source>
+        <translation>端口：</translation>
+    </message>
+    <message>
+        <source>Address:</source>
+        <translation>地址：</translation>
+    </message>
+    <message>
+        <source>User Name:</source>
+        <translation>用户姓名：</translation>
+    </message>
+    <message>
+        <source>Type:</source>
+        <translation>类型:</translation>
+    </message>
+    <message>
+        <source>Proxy Setting</source>
+        <translation>代理设置</translation>
+    </message>
+    <message>
+        <source>Test</source>
+        <translation>测试</translation>
+    </message>
+</context>
+<context>
+    <name>QDialogButtonBox</name>
+    <message>
+        <source>OK</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>QMainWindow</name>
+    <message>
+        <source>Document List</source>
+        <translation>文档列表</translation>
+    </message>
+</context>
+<context>
+    <name>ResourceFinder</name>
+    <message>
+        <source>Ok</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>Save All</source>
+        <translation>保存全部</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>打开</translation>
+    </message>
+    <message>
+        <source>Yes (&amp;Y)</source>
+        <translation>是 (&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Yes To All</source>
+        <translation>全部都是</translation>
+    </message>
+    <message>
+        <source>No (&amp;N)</source>
+        <translation>否 (&amp;N)</translation>
+    </message>
+    <message>
+        <source>No To All</source>
+        <translation>全部都否</translation>
+    </message>
+    <message>
+        <source>Abort (&amp;A)</source>
+        <translation>放弃 (&amp;A)</translation>
+    </message>
+    <message>
+        <source>Retry (&amp;R)</source>
+        <translation>重试 (&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ignore (&amp;I)</source>
+        <translation>忽略 (&amp;I)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Discard</source>
+        <translation>丢弃</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>应用</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <translation>重置</translation>
+    </message>
+    <message>
+        <source>ResetDefaults</source>
+        <translation>恢复到默认</translation>
+    </message>
+</context>
+<context>
+    <name>diagramConversion</name>
+    <message>
+        <source>Diagram Conversion</source>
+        <translation>图示转换</translation>
+    </message>
+    <message>
+        <source>warning</source>
+        <translation type="obsolete">警告</translation>
+    </message>
+    <message>
+        <source>To edit this diagram, you must convert it to a SmartArt graphic or Shapes.</source>
+        <translation>若要编辑此图表，必须将其转换为智能图形或者形状。</translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt graphic</source>
+        <translation>转换为智能图形(G)</translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <translation>转换为形状(S)</translation>
+    </message>
+    <message>
+        <source>Shapes do not provide diagramming functionality, but you can edit them in all version of WPS Office, Any animation previously applied to this diagram will be removed.</source>
+        <translation>形状不提供图示制作功能，但可在WPS Office的所有版本中对其进行编辑。任何在以前应用于此图示的动画均将被删除。</translation>
+    </message>
+    <message>
+        <source>Convert</source>
+        <translation>转换</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>G</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SmartArt graphics can be displayed in previous versions, but not edited, in versions prior to WPS 2016. Any cell references previously applied to this diagram will be removed.</source>
+        <translation>智能图形可在早期版本中显示，但不能进行编辑。任何以前应用于此图表的单元格引用均将被删除。</translation>
+    </message>
+    <message>
+        <source>S</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5DocTabPaneQRCodeTopTipWidget</name>
+    <message>
+        <source>Link contains only top 50 pages</source>
+        <translation>为了显示流畅，链接只包含前50页</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneEnterPreviewWidget</name>
+    <message>
+        <source>&lt;a style=&apos;text-decoration:underline&apos;&gt;Enter preview&lt;/a&gt;&gt;&gt;</source>
+        <translation>&lt;a style=&apos;text-decoration:underline&apos;&gt;进入预览&lt;/a&gt;&gt;&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneGeneralFuctionWidget</name>
+    <message>
+        <source>Export Pdf</source>
+        <translation>输出PDF</translation>
+    </message>
+    <message>
+        <source>Print/Preview</source>
+        <translation>打印/预览</translation>
+    </message>
+    <message>
+        <source>Folder</source>
+        <translation>所在文件夹</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPanePropertyBtn</name>
+    <message>
+        <source>Property</source>
+        <translation type="obsolete">属性</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPanePropertyWidget</name>
+    <message>
+        <source>Property</source>
+        <translation>属性</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneQRCodeAreaWidget</name>
+    <message>
+        <source>Copy</source>
+        <translation type="obsolete">复制</translation>
+    </message>
+    <message>
+        <source>Creating Link...</source>
+        <translation>正在生成链接...</translation>
+    </message>
+    <message>
+        <source>Scan QRCode</source>
+        <translation>扫描二维码</translation>
+    </message>
+    <message>
+        <source>Scan the QRCode
+send document link to mobile</source>
+        <translation>手机扫一扫
+文档链接立刻传至手机</translation>
+    </message>
+    <message>
+        <source>Network error, can not create link
+Please check your network your firewall configuration</source>
+        <translation>网络异常，无法生成
+请检查您的网络或防火墙设置</translation>
+    </message>
+    <message>
+        <source>Server not respondingT_T
+Click to retry, or try it later~</source>
+        <translation>服务器暂时无响应
+点击重试，或稍后再试</translation>
+    </message>
+    <message>
+        <source>Create link failedT_T
+Click to retry, or try it later~</source>
+        <translation>生成链接失败
+点击重试，或稍后再试</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>复制链接</translation>
+    </message>
+    <message>
+        <source>create link</source>
+        <translation>创建链接</translation>
+    </message>
+</context>
+<context>
+    <name>doctabh5::KH5ShareDocTabPaneShareLinkWidget</name>
+    <message>
+        <source>Share link:</source>
+        <translation>分享链接:</translation>
+    </message>
+    <message>
+        <source>Share to WeChat</source>
+        <translation>分享到微信</translation>
+    </message>
+    <message>
+        <source>Share to Weibo</source>
+        <translation>分享到微博</translation>
+    </message>
+    <message>
+        <source>Share to QQ</source>
+        <translation>分享到QQ</translation>
+    </message>
+    <message>
+        <source>Share to QZone</source>
+        <translation>分享到QQ空间</translation>
+    </message>
+    <message>
+        <source>Copy link</source>
+        <translation>复制链接</translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation>复制链接</translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateMessageDlg</name>
+    <message>
+        <source>Ignore it</source>
+        <translation>忽略此版本</translation>
+    </message>
+    <message>
+        <source>Next time</source>
+        <translation>下次再说</translation>
+    </message>
+    <message>
+        <source>Update now</source>
+        <translation>立即更新</translation>
     </message>
 </context>
 </TS>

@@ -370,6 +370,10 @@ please do disk-cleanup first.</source>
         <translation type="obsolete">не удалось экспортировать видео из-за нехватки места на диске. 
 сначала очистите диск.</translation>
     </message>
+    <message>
+        <source>ReadMeBeforeTransmittingVideo_tutorial of playing WebM video.docx</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWppEncodeStation</name>
@@ -451,6 +455,135 @@ please do disk-cleanup first.</source>
     <message>
         <source>FFMpeg[VSrc] - no appropriated decoder found: </source>
         <translation type="obsolete">FFMpeg[VSrc] — не удалось найти подходящий декодер: </translation>
+    </message>
+</context>
+<context>
+    <name>KxEncoderInstallDlg</name>
+    <message>
+        <source>Download and install WebM video related decoder plug-ins (Extension) </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This software is currently only supporting the export of WebM format video. You need to install the decoder plug-in DirectShowFilters and audio plug-in Xiph to play on the local Windows Media Player. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The installation is successful, so you can play the video in WebM format on this machine. However, if the video is transferred to other computers, it may not be able to play. To solve it, please refer to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MoreHelp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to download or install the plugin, please try again later or refer to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEncoderIntallProgreddBarWidget</name>
+    <message>
+        <source>It is being installed, Please wait a moment...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It is being download, Please wait a moment...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEncoderReadMeWidget</name>
+    <message>
+        <source>I Have Read!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WebM Video Coding License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decoder Plugin ReadMe Documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> and </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Coding License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> ,</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxOpenVideoButtonWidget</name>
+    <message>
+        <source>Open Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRetryButtonWidget</name>
+    <message>
+        <source>Retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVideoOutputCancelButtonWidget</name>
+    <message>
+        <source>cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVideoOutputDialog</name>
+    <message>
+        <source>Unable to play video in WebM format, Please refer to </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>detailed strategy </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video in WebM format is being output</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video output has been completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video output is failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

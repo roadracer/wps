@@ -119,4 +119,90 @@
         <translation>将此项目固定到列表。</translation>
     </message>
 </context>
+<context>
+    <name>clpbrd::BookmarkButton</name>
+    <message>
+        <source>Bookmark</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>clpbrd::FullTip</name>
+    <message>
+        <source>Collection is full. The oldest collection will be overlapped</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>clpbrd::LoginView</name>
+    <message>
+        <source>Login to enjoy bookmark convenience!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>clpbrd::MViewTitle</name>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>clpbrd::PreviewButton</name>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>clpbrd::SettingMenu</name>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Clipboard Automatically When Copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy multiple times to Show Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collect Data Without Showing Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto start</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set adsorption edge of the screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>clpbrd::TrayIcon</name>
+    <message>
+        <source>WPS Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collection is full.
+The oldest collection will be overlapped</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

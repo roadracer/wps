@@ -125,15 +125,23 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office.lnk</source>
-        <translation type="obsolete">WPS Office.lnk</translation>
+        <translation>WPS Office.lnk</translation>
     </message>
     <message>
         <source>Pin to tas&amp;kbar</source>
-        <translation type="unfinished"></translation>
+        <translation>釘選到工作列(&amp;K)</translation>
     </message>
     <message>
         <source>Unpin from tas&amp;kbar</source>
-        <translation type="unfinished"></translation>
+        <translation>從工作列取消釘選(&amp;K)</translation>
+    </message>
+    <message>
+        <source>WPS 2019.lnk</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF.lnk</source>
+        <translation>WPS PDF.lnk</translation>
     </message>
 </context>
 <context>
@@ -144,7 +152,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
-        <translation>解除IE主頁鎖定，您的主頁有可能被木馬惡意篡改，您確定要解除鎖定嗎？</translation>
+        <translation type="obsolete">解除IE主頁鎖定，您的主頁有可能被木馬惡意篡改，您確定要解除鎖定嗎？</translation>
+    </message>
+    <message>
+        <source>Unlock the browser homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
+        <translation>解除瀏覽器主頁鎖定，您的主頁有可能被木馬惡意篡改，您確定要解除鎖定嗎？</translation>
     </message>
 </context>
 <context>
@@ -166,6 +178,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>The serial number you entered already exists.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an already existed SN.</extracomment>
         <translation>您輸入的序號已經存在！</translation>
+    </message>
+    <message>
+        <source>&lt;a href = &apos;%1&apos; style=&apos;color: #1BADEA;&apos;&gt;Purchase&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -264,15 +280,55 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office Configuration Tools.lnk</source>
-        <translation type="obsolete">WPS Office 組態工具.lnk</translation>
+        <translation>WPS Office 組態工具.lnk</translation>
     </message>
     <message>
         <source>Check for WPS Office Updates.lnk</source>
-        <translation type="obsolete">檢查 WPS Office 更新.lnk</translation>
+        <translation>檢查 WPS Office 更新.lnk</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
-        <translation type="obsolete">解除安裝 WPS Office.lnk</translation>
+        <translation>解除安裝 WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Xiutang.lnk</source>
+        <translation>WPS H5.lnk</translation>
+    </message>
+    <message>
+        <source>Make polished HTML5 pages with WPS Xiutang and share to WeChat Moments.</source>
+        <translation>使用 WPS 秀堂製作精美 H5，并分享至 WeChat 朋友圈。</translation>
+    </message>
+    <message>
+        <source>WPS Photo.lnk</source>
+        <translation>WPS 看圖.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Photo</source>
+        <translation>WPS 看圖</translation>
+    </message>
+    <message>
+        <source>WPS ProcessOn.lnk</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS ProcessOn</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF.lnk</source>
+        <translation>WPS PDF.lnk</translation>
+    </message>
+    <message>
+        <source>WPS 2019.lnk</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation>一站式辦公平台</translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation>使用 WPS PDF 閱讀及編輯PDF文件。</translation>
     </message>
 </context>
 <context>
@@ -351,16 +407,89 @@ ksomisc -&gt; main dialog -&gt; repair succeed.</extracomment>
         <extracomment>ksomisc -&gt; main dialog -&gt; repair failed</extracomment>
         <translation>修補時出現異常，請重試！</translation>
     </message>
+    <message>
+        <source>Repair WPS Update Service</source>
+        <translation type="obsolete">修復 WPS Office 更新服務</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required to repair &quot;WPS Update Service&quot;. Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation type="obsolete">修復 [WPS Office 更新服務]需要系統管理員特殊權限。請使用系統管理員帳戶重新啟動[配定工具]。</translation>
+    </message>
 </context>
 <context>
     <name>KOther</name>
     <message>
         <source>Others</source>
-        <translation type="obsolete">其他</translation>
+        <translation>其他</translation>
     </message>
     <message>
         <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
-        <translation type="obsolete">在內容功能表中啟用[上載至 WPS Office Cloud]選項</translation>
+        <translation>在內容功能表中啟用[上載至 WPS Office Cloud]選項</translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation>推薦軟體：</translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation>升級完成後推薦精選軟體(&amp;T)</translation>
+    </message>
+    <message>
+        <source>WPS Today and push message:</source>
+        <translation>WPS Today 及推播訊息:</translation>
+    </message>
+    <message>
+        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
+        <translation>訂閱 [WPS Today](&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Receive push messages</source>
+        <translation>接收推播訊息(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Enable entry, show WPS Cloud virutal disk on &quot;My Computer&quot;.</source>
+        <translation>開啟入口，在[我的電腦]顯示WPS雲端檔案虛擬磁碟</translation>
+    </message>
+    <message>
+        <source>Clear WPS Cloud cache</source>
+        <translation>清理WPS雲端檔案快取</translation>
+    </message>
+    <message>
+        <source>cache clear finished.</source>
+        <translation>快取清理完成。</translation>
+    </message>
+    <message>
+        <source>Some files is in use, please save and close. Then try again.</source>
+        <translation>一些檔案正在使用中，請先儲存。
+關閉之後再嘗試清理。</translation>
+    </message>
+    <message>
+        <source>Running Mode:</source>
+        <translation>執行模式:</translation>
+    </message>
+    <message>
+        <source>WPS is running under %1</source>
+        <translation>WPS Office目前執行在%1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;Switch to multi module mode&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;切換到舊版本的多元件模式&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Switch to All-in-One mode</source>
+        <translation>升級到最新版的組合模式</translation>
+    </message>
+    <message>
+        <source>Multi module mode</source>
+        <translation>多元件模式</translation>
+    </message>
+    <message>
+        <source>All-in-One mode</source>
+        <translation>組合模式</translation>
     </message>
 </context>
 <context>
@@ -611,6 +740,14 @@ needs restarting Windows to take effect.</source>
         <source>PD&amp;F Documents (*.pdf files)</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation>可攜式文件格式(*.pdf)(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Pict&amp;ure Files(*.jpg, *.png, *.gif,...)</source>
+        <translation>圖片檔案(*.jpg, *.png, *.gif 等)(&amp;U)</translation>
+    </message>
 </context>
 <context>
     <name>KPageHomePage</name>
@@ -637,7 +774,13 @@ needs restarting Windows to take effect.</source>
     <message>
         <source>You can change the IE homepage anytime.
 Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation>如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、賬號被盜的風險。</translation>
+        <translation type="obsolete">如果你不喜歡金山網址大全，可解除IE主頁鎖定。溫馨提示：解除主頁鎖定將面臨感染病毒、賬號被盜的風險。</translation>
+    </message>
+    <message>
+        <source>You can change the browser homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation>如果你不喜歡金山網址大全，可解除瀏覽器主頁鎖定。
+溫馨提示：解除主頁鎖定將面臨感染病毒、賬號被盜的風險。</translation>
     </message>
 </context>
 <context>
@@ -817,6 +960,22 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <translation> 沒有找到WPS Spreadsheets
 </translation>
     </message>
+    <message>
+        <source>WPS Office if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation>WPS Office 若自動關閉或者一些外掛程式不能使用，可能是因為這些外掛程式安裝不完全。按一下下面的按鍵以修復錯誤。（重新開啟WPS後生效）</translation>
+    </message>
+    <message>
+        <source>Reset &amp;Plugins</source>
+        <translation>重置外掛程式(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Reset plugins</source>
+        <translation>重置外掛程式</translation>
+    </message>
+    <message>
+        <source>Resetting plugins completed.</source>
+        <translation>重置外掛程式完成</translation>
+    </message>
 </context>
 <context>
     <name>KPageRepair</name>
@@ -914,6 +1073,14 @@ The button icon, command group and task window position of each scheme are diffe
         <source>WPS Office Configuration Tools</source>
         <translation>WPS Office 配定工具</translation>
     </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
 </context>
 <context>
     <name>KRegistrarScriptResource</name>
@@ -927,7 +1094,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation>WPS 試算表</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -1107,7 +1274,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Microsoft PowerPoint 97-2003 Slide</source>
-        <translation>Microsoft PowerPoint 97-2003 Slide</translation>
+        <translation>Microsoft PowerPoint 97-2003 投影片</translation>
     </message>
     <message>
         <source>Microsoft Office PowerPoint 2007 Presentation</source>
@@ -1207,7 +1374,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation>WPS 簡報</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
@@ -1219,7 +1386,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation>WPS文字</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -1293,6 +1460,70 @@ The button icon, command group and task window position of each scheme are diffe
         <source>WPS Presentation Preview Handler</source>
         <translation>WPS Presentation 預覽器</translation>
     </message>
+    <message>
+        <source>WPS Writer Security Document</source>
+        <translation>WPS Writer 安全文件</translation>
+    </message>
+    <message>
+        <source>WPS Writer Outward Document</source>
+        <translation>WPS Writer 寄出文件</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Security Workbook</source>
+        <translation>WPS Spreadsheets 安全工作簿</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Outward Workbook</source>
+        <translation>WPS Spreadsheets 寄出工作簿</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Security Document</source>
+        <translation>WPS Presentation 安全簡報</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Outward Document</source>
+        <translation>WPS Presentation 寄出簡報</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Binary Worksheet</source>
+        <translation>Microsoft Excel 二進位工作表</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK Data Import Format</source>
+        <translation>Microsoft Excel SLK 資料匯入格式</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Add-In</source>
+        <translation>Microsoft PowerPoint 增益集</translation>
+    </message>
+    <message>
+        <source>DOC Document</source>
+        <translation>DOC 文件</translation>
+    </message>
+    <message>
+        <source>DOCX Document</source>
+        <translation>DOCX 文件</translation>
+    </message>
+    <message>
+        <source>XLS Worksheet</source>
+        <translation>XLS 工作表</translation>
+    </message>
+    <message>
+        <source>XLSX Worksheet</source>
+        <translation>XLSX 工作表</translation>
+    </message>
+    <message>
+        <source>PPT Presentation</source>
+        <translation>PPT 簡報</translation>
+    </message>
+    <message>
+        <source>PPTX Presentation</source>
+        <translation>PPTX 簡報</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1333,7 +1564,7 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KUpDate</name>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation type="unfinished">自動下載升級包，但是由我來决定什麼時候安裝(&amp;D)</translation>
+        <translation type="obsolete">自動下載升級包，但是由我來决定什麼時候安裝(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>
@@ -1426,11 +1657,11 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Software recommend：</source>
-        <translation>推薦軟體：</translation>
+        <translation type="obsolete">推薦軟體：</translation>
     </message>
     <message>
         <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
-        <translation>升級完成後推薦精選軟體(&amp;T)</translation>
+        <translation type="obsolete">升級完成後推薦精選軟體(&amp;T)</translation>
     </message>
     <message>
         <source>Do not check for updates automatically (not recommended)</source>
@@ -1442,19 +1673,43 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Update Items:</source>
-        <translation type="obsolete">升級內容:</translation>
+        <translation>升級內容:</translation>
     </message>
     <message>
         <source>All new releases</source>
-        <translation type="obsolete">所有新版本</translation>
+        <translation>所有新版本</translation>
     </message>
     <message>
         <source>Recommended new releases</source>
-        <translation type="obsolete">建議安裝的新版本</translation>
+        <translation>建議安裝的新版本</translation>
     </message>
     <message>
         <source>Check for update, but let me choose whether to &amp;download and install them</source>
-        <translation type="obsolete">檢查更新，但讓我選擇是否下載與安裝(&amp;D)</translation>
+        <translation>檢查更新，但讓我選擇是否下載與安裝(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
+        <translation type="obsolete">訂閱 [WPS Today](&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Receive push messages</source>
+        <translation type="obsolete">接收推播訊息(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Others</source>
+        <translation type="obsolete">其他</translation>
+    </message>
+    <message>
+        <source>WPS Today and push message:</source>
+        <translation type="obsolete">WPS Today 及推播訊息:</translation>
+    </message>
+    <message>
+        <source>Use a &amp;background service to install updates</source>
+        <translation type="obsolete">使用系統服務以安裝升級包</translation>
+    </message>
+    <message>
+        <source>Do not &amp;update automatically (not recommended)</source>
+        <translation>關閉自動升級(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1470,6 +1725,228 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
         <translation>WPS Office 正在執行程序，請關閉檔案後，重新開啟配定工具！</translation>
+    </message>
+    <message>
+        <source>WPS Office Configuration Tools</source>
+        <translation>WPS Office 配定工具</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Do you want to relaunch &quot;Configuration Tools&quot; in Administrator mode?</source>
+        <translation>系統管理員權限為必要項。
+要在系統管理員模式中重新啟動[配定工具]嗎？</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation>系統管理員權限為必要項。
+請使用系統管理員帳戶重新啟動[配定工具]。</translation>
+    </message>
+</context>
+<context>
+    <name>KFileAsso</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS Writer to write reports and make up articles.</source>
+        <translation>使用WPS Writer編寫報告、排版文章。</translation>
+    </message>
+    <message>
+        <source>Use WPS Spreadsheets to analyze and manage data.</source>
+        <translation>使用WPS Spreadsheets分析、管理資料。</translation>
+    </message>
+    <message>
+        <source>Use WPS Presentation to edit and play presentations.</source>
+        <translation>使用WPS Presentation編輯、播放簡報。</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>WPS PDF</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Standalone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation>使用 WPS PDF 閱讀及編輯PDF文件。</translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation>一站式辦公平台</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileAssoForCurUser</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="obsolete">WPS文字</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="obsolete">WPS 表格</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="obsolete">WPS 簡報</translation>
+    </message>
+</context>
+<context>
+    <name>KProcessExistsAlertDlg</name>
+    <message>
+        <source>Restart WPS to see changes</source>
+        <translation>重新啟動 WPS Office 以讓設定生效</translation>
+    </message>
+    <message>
+        <source>The settings you have changed require restarting WPS to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
+        <translation>這個設定需要重新啟動 WPS Office 才能生效。按一下[確定]以關閉本視窗，按一下[取消]則恢復此變更。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KQingExitTip</name>
+    <message>
+        <source>WPS Cloud is working. Please exit at tray and continue.</source>
+        <translation>WPS雲端檔案正在使用。請先托盤程式後再繼續。</translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Clear WPS Cloud cache</source>
+        <translation>清理WPS雲端檔案快取</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchAllInOneDlg</name>
+    <message>
+        <source>Switch window manage mode</source>
+        <translation>切換視窗管理模式</translation>
+    </message>
+    <message>
+        <source>Support multi-window multi-label depart or group by free, Support saving label list as workspace and sync cross devices</source>
+        <translation>支援多視窗及多標籤的自由分割及組合，支援標籤清單儲存為工作區跨設備同步</translation>
+    </message>
+    <message>
+        <source>Organize file label in different window filter by file type, Do not support workspace feature</source>
+        <translation>按檔案類型分視窗顯示文件標籤，不支援工作區功能</translation>
+    </message>
+    <message>
+        <source>Old Multi-Component Mode</source>
+        <translation>多元件模式</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
+        <translation>此作業需要重啟WPS，請提前關閉所有檔案以避免遺失資料。</translation>
+    </message>
+    <message>
+        <source>Switching WPS 2019 to %1</source>
+        <translation>正在切換WPS 2019到%1</translation>
+    </message>
+    <message>
+        <source>Please wait for swiching...</source>
+        <translation>正在切換，請稍候...</translation>
+    </message>
+    <message>
+        <source>Do not close you computer before finished</source>
+        <translation>切換前請不要關閉電腦</translation>
+    </message>
+    <message>
+        <source>Successful switch to </source>
+        <translation>現在已切換到</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Start WPS</source>
+        <translation>啟動 WPS Office</translation>
+    </message>
+    <message>
+        <source>All-in-One Mode</source>
+        <translation>組合模式</translation>
+    </message>
+    <message>
+        <source>Old Multi Component Mode</source>
+        <translation>多元件模式</translation>
+    </message>
+    <message>
+        <source>Traditional Mode</source>
+        <translation>傳統模式</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchToClassicInterfaceDlg</name>
+    <message>
+        <source>Switch to Classic Interface</source>
+        <translation>切換到經典風格介面模式</translation>
+    </message>
+    <message>
+        <source>In Classic interface, files opened by Writer, Spreadsheet, and Presentation will be shown in different windows rather than sharing one window. And Working Area feature is not supported.</source>
+        <translation>經典風格介面是多元件模式，既按檔案類型分視窗顯示文件標籤，不支援工作區功能。</translation>
+    </message>
+    <message>
+        <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
+        <translation>此作業需要重啟WPS，請提前關閉所有檔案以避免遺失資料。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Switching to Classic Interface</source>
+        <translation>正在切換經典風格介面多元件模式</translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>正在切換，請稍候...</translation>
+    </message>
+    <message>
+        <source>Please do not turn off your computer</source>
+        <translation>切換前請不要關閉電腦</translation>
+    </message>
+    <message>
+        <source>Successfully switch to </source>
+        <translation>現在已切換到</translation>
+    </message>
+    <message>
+        <source>Classic Interface</source>
+        <translation>經典風格介面</translation>
+    </message>
+    <message>
+        <source>Start WPS</source>
+        <translation>啟動 WPS Office</translation>
     </message>
 </context>
 </TS>

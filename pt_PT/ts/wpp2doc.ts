@@ -178,7 +178,7 @@
     </message>
     <message>
         <source>Table(&amp;L)</source>
-        <translation>Texto(&amp;T)</translation>
+        <translation>Tabela(&amp;L)</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
@@ -252,7 +252,7 @@
     </message>
     <message>
         <source>Save As</source>
-        <translation>Gravar Como</translation>
+        <translation>Guardar Como</translation>
     </message>
     <message>
         <source>The file &quot;</source>
@@ -292,7 +292,7 @@ Por exemplo, 1,3,5-9.</translation>
     </message>
     <message>
         <source>No Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Não Selecionar Diapositivo</translation>
     </message>
 </context>
 </TS>

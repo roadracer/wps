@@ -118,12 +118,16 @@
     </message>
     <message id="BackgroundMusic.title">
         <source>Insert Background Music</source>
-        <extracomment>BackgroundMusic.title</extracomment>
+        <extracomment>BackgroundMusic.title
+----------
+BackgroundMusic.title</extracomment>
         <translation>Hintergrundmusik einfügen</translation>
     </message>
     <message id="BackgroundMusic.content">
         <source>Insert an audio file from local folder. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
-        <extracomment>BackgroundMusic.content</extracomment>
+        <extracomment>BackgroundMusic.content
+----------
+BackgroundMusic.content</extracomment>
         <translation>Audiodatei aus einem lokalen Ordner einfügen. Die Präsentation gibt automatisch die Audiodatei wieder und diese wird bis zum Ende der Präsentation in Schleife abgespielt.</translation>
     </message>
     <message id="BordersFill.title">
@@ -504,13 +508,11 @@ Auf den Pfeil klicken, um eine andere Ausrichtung auszuwählen.</translation>
     </message>
     <message id="ExportWeiboImageCmd.title">
         <source>Export to Image</source>
-        <oldsource>ExportWeiboImageCmd Title</oldsource>
         <extracomment>ExportWeiboImageCmd.title</extracomment>
         <translation>ExportWeiboImageCmd – Titel</translation>
     </message>
     <message id="ExportWeiboImageCmd.content">
         <source>Export the document to an image.</source>
-        <oldsource>ExportWeiboImageCmd Content</oldsource>
         <extracomment>ExportWeiboImageCmd.content</extracomment>
         <translation>ExportWeiboImageCmd – Inhalt</translation>
     </message>
@@ -1026,9 +1028,7 @@ Wenn WPS Spreadsheets geschlossen wird, kann das Diagramm im Dokument automatisc
 
 Click the arrow to select different numbering formats.</source>
         <extracomment>Numbering.content</extracomment>
-        <translation>Markieren Absatz nummerieren.
-
-Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
+        <translation>Auf den Pfeil klicken, um andere Nummerierungsformate auszuwählen.</translation>
     </message>
     <message id="Numbering2.title">
         <source>Numbering</source>
@@ -1695,9 +1695,8 @@ Klicken Sie auf den Pfeil, um detaillierte Einstellungen für die Konturlinie au
     </message>
     <message id="SlideTransition.content">
         <source>Show the Slide Transition task window to set up transition effects to the selected slides or the entire presentation.</source>
-        <oldsource>Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.</oldsource>
         <extracomment>SlideTransition.content</extracomment>
-        <translation>Aufgabenfenster „Folienübergang“ anzeigen, um die Übergangseffekte auf die markierten Folien oder die gesamte Präsentation anzuwenden.</translation>
+        <translation>Aufgabenfenster &quot;Folienübergang&quot; anzeigen, um die Übergangseffekte auf die markierten Folien oder die gesamte Präsentation anzuwenden.</translation>
     </message>
     <message id="SmartChoice.title">
         <source>Smart Choice</source>
@@ -1903,7 +1902,7 @@ Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
         <translation>Text lesen</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
         <translation>Text in Sprache. Genießen Sie eine 2-tägige Testversion dieser Funktion.</translation>
     </message>
@@ -2185,22 +2184,22 @@ Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
     <message id="SlideLibrary.title">
         <source></source>
         <extracomment>SlideLibrary.title</extracomment>
-        <translation></translation>
+        <translation>Folienbibliothek</translation>
     </message>
     <message id="SlideLibrary.content">
         <source></source>
         <extracomment>SlideLibrary.content</extracomment>
-        <translation></translation>
+        <translation>Neue Folie von Online-Vorlagen in aktuelle Präsentation einfügen.</translation>
     </message>
     <message id="InsertOnlinePicture.title">
         <source></source>
         <extracomment>InsertOnlinePicture.title</extracomment>
-        <translation></translation>
+        <translation>Bilder einfügen</translation>
     </message>
     <message id="InsertOnlinePicture.content">
         <source></source>
         <extracomment>InsertOnlinePicture.content</extracomment>
-        <translation></translation>
+        <translation>Klicken Sie hier, um lokale oder Online-Bilder einzufügen.</translation>
     </message>
     <message id="cellphoneControl.title">
         <source>Cellphone Control</source>
@@ -2215,62 +2214,62 @@ Klicken Sie auf den Pfeil, um eine andere Textfarbe auszuwählen.</translation>
     <message id="SlideSize.title">
         <source></source>
         <extracomment>SlideSize.title</extracomment>
-        <translation></translation>
+        <translation>Foliengröße</translation>
     </message>
     <message id="SlideSize.content">
         <source></source>
         <extracomment>SlideSize.content</extracomment>
-        <translation></translation>
+        <translation>Ändern Sie die Größe der Folien in dieser Präsentation.</translation>
     </message>
     <message id="WpsAssistOnlineTemplate.title">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.title</extracomment>
-        <translation></translation>
+        <translation>Vorlage ändern</translation>
     </message>
     <message id="WpsAssistOnlineTemplate.content">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.content</extracomment>
-        <translation></translation>
+        <translation>Erstellen Sie eine einzigartige Präsentation mit Tausenden von originellen Vorlagen.</translation>
     </message>
     <message id="WpsAssistMagic.title">
         <source></source>
         <extracomment>WpsAssistMagic.title</extracomment>
-        <translation></translation>
+        <translation>Magisch</translation>
     </message>
     <message id="WpsAssistMagic.content">
         <source></source>
         <extracomment>WpsAssistMagic.content</extracomment>
-        <translation></translation>
+        <translation>Probieren Sie zufällig ausgewählte Vorlagen aus!</translation>
     </message>
     <message id="importtemplates.title">
         <source></source>
         <extracomment>importtemplates.title</extracomment>
-        <translation></translation>
+        <translation>Vorlagen importieren</translation>
     </message>
     <message id="importtemplates.content">
         <source></source>
         <extracomment>importtemplates.content</extracomment>
-        <translation></translation>
+        <translation>Lokale Vorlagen importieren.</translation>
     </message>
     <message id="InvolvedTemplate.title">
         <source></source>
         <extracomment>InvolvedTemplate.title</extracomment>
-        <translation></translation>
+        <translation>Verwendete Vorlage</translation>
     </message>
     <message id="InvolvedTemplate.content">
         <source></source>
         <extracomment>InvolvedTemplate.content</extracomment>
-        <translation></translation>
+        <translation>In aktueller Präsentation verwendete Vorlage anwenden.</translation>
     </message>
     <message id="wpp2doc.title">
         <source></source>
         <extracomment>wpp2doc.title</extracomment>
-        <translation></translation>
+        <translation>In Word-Format konvertieren</translation>
     </message>
     <message id="wpp2doc.content">
         <source></source>
         <extracomment>wpp2doc.content</extracomment>
-        <translation></translation>
+        <translation>Präsentation in eine Datei im Word-Format konvertieren.</translation>
     </message>
     <message id="presentationTool.title">
         <source>Presentation Tool</source>
@@ -2448,12 +2447,613 @@ Sie können das Design und Layout für den Handzettel auswählen, beispielsweise
     <message id="Thesaurus.title">
         <source>Thesaurus</source>
         <extracomment>Thesaurus.title</extracomment>
-        <translation type="obsolete">Thesaurus</translation>
+        <translation>Thesaurus</translation>
     </message>
     <message id="Thesaurus.content">
         <source>Open Thesaurus.</source>
         <extracomment>Thesaurus.content</extracomment>
-        <translation type="obsolete">Andere Wörter mit einer ähnlichen Bedeutung wie das ausgewählte Wort vorschlagen.</translation>
+        <translation>Andere Wörter mit einer ähnlichen Bedeutung wie das ausgewählte Wort vorschlagen.</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_WPP_TextTools.title</extracomment>
+        <translation>Einstellungen</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translation>Einstellungen der Tabellenformatierung ändern.</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_WPP_TextTools.content</extracomment>
+        <translation>Einstellungen der Textformatierung ändern.</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translation>Link erstellen und freigeben</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translation>Link und QR-Code erstellen und für Wechat, QQ, Weibo oder Qzone freigeben.</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translation>Freigegebene Links verwalten</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translation>Klicken Sie hier, um Links zu verwalten, löschen oder senden.</translation>
+    </message>
+    <message id="Section.title">
+        <source>Section</source>
+        <extracomment>Section.title</extracomment>
+        <translation>Abschnitt</translation>
+    </message>
+    <message id="Section.content">
+        <source>Organize your slides into Sections.</source>
+        <extracomment>Section.content</extracomment>
+        <translation>Organisieren Sie Ihre Folien in Abschnitten.</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>Einstellungen</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>Reparieren von Dokumenten.</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>Reparieren Sie schnell Dokumente, die beschädigt sind oder aus anderen Gründen nicht geöffnet werden können.</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translation>Bild in Text konvertieren</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translation>Bild in Textformat konvertieren.</translation>
+    </message>
+    <message id="TableEffects.title">
+        <source>TableEffects</source>
+        <extracomment>TableEffects.title</extracomment>
+        <translation>Effekte</translation>
+    </message>
+    <message id="TableEffects.content">
+        <source>Add visual effects to the table, such as a shadow or reflection.</source>
+        <extracomment>TableEffects.content</extracomment>
+        <translation>Der Tabelle grafische Effekte hinzufügen, z. B. einen Schatten oder eine Spiegelung.</translation>
+    </message>
+    <message id="TableFontEffects.title">
+        <source>TableFontEffects</source>
+        <extracomment>TableFontEffects.title</extracomment>
+        <translation>Texteffekte</translation>
+    </message>
+    <message id="TableFontEffects.content">
+        <source>Add a visual effect such as shadow, glow or reflection to your text.</source>
+        <extracomment>TableFontEffects.content</extracomment>
+        <translation>Verwandeln Sie Ihr Werk in ein Kunstwerk. Fügen Sie Ihrem Text einen Grafikeffekt hinzu, beispielsweise einen Schatten, einen Leuchteffekt oder eine Spiegelung.</translation>
+    </message>
+    <message id="MediaPlay.title">
+        <source>Play</source>
+        <extracomment>MediaPlay.title</extracomment>
+        <translation type="obsolete">Vorschau des Mediums</translation>
+    </message>
+    <message id="MediaPlay.content">
+        <source>Play Video</source>
+        <extracomment>MediaPlay.content</extracomment>
+        <translation type="obsolete">Eine Vorschau des Audio- oder Videoclips mit allen vorgenommenen Formatierungsänderungen anzeigen.</translation>
+    </message>
+    <message id="MediaPause.title">
+        <source>Pause</source>
+        <extracomment>MediaPause.title</extracomment>
+        <translation type="obsolete">Pause</translation>
+    </message>
+    <message id="MediaPause.content">
+        <source>Pause Video</source>
+        <extracomment>MediaPause.content</extracomment>
+        <translation type="obsolete">Eine Vorschau des Audio- oder Videoclips mit allen vorgenommenen Formatierungsänderungen anzeigen.</translation>
+    </message>
+    <message id="MediaVol.title">
+        <source>Volumn</source>
+        <oldsource>volumn</oldsource>
+        <extracomment>MediaVol.title</extracomment>
+        <translation>Lautstärke</translation>
+    </message>
+    <message id="MediaVol.content">
+        <source>media volumn.</source>
+        <oldsource>Media volumn</oldsource>
+        <extracomment>MediaVol.content</extracomment>
+        <translation type="unfinished">Die Lautstärke des Videoclips ändern.</translation>
+    </message>
+    <message id="MediaTrim.title">
+        <source>Trim Media</source>
+        <oldsource>Rrim Media</oldsource>
+        <extracomment>MediaTrim.title</extracomment>
+        <translation type="obsolete">Video kürzen</translation>
+    </message>
+    <message id="MediaTrim.content">
+        <source>Trim media with begin and start</source>
+        <oldsource>trim media with begin and start</oldsource>
+        <extracomment>MediaTrim.content</extracomment>
+        <translation type="obsolete">Den Videoclip durch Angeben der Start- und Endzeit beschneiden.</translation>
+    </message>
+    <message id="MediaBegin.title">
+        <source>Media Begin</source>
+        <oldsource>media begin</oldsource>
+        <extracomment>MediaBegin.title</extracomment>
+        <translation type="obsolete">Start</translation>
+    </message>
+    <message id="MediaBegin.content">
+        <source>Auto start or when click</source>
+        <oldsource>auto start or when click</oldsource>
+        <extracomment>MediaBegin.content</extracomment>
+        <translation type="obsolete">Den Videoclip automatisch wiedergeben, oder wenn darauf geklickt wird.</translation>
+    </message>
+    <message id="FullScreenPlay.title">
+        <source>Play Full Screen</source>
+        <oldsource>Fullscene Play</oldsource>
+        <extracomment>FullScreenPlay.title</extracomment>
+        <translation>Vollbildwiedergabe</translation>
+    </message>
+    <message id="FullScreenPlay.content">
+        <source>full screen play.</source>
+        <oldsource>Play the video full screen</oldsource>
+        <extracomment>FullScreenPlay.content</extracomment>
+        <translation type="unfinished">Das Video im Vollbild wiedergeben.</translation>
+    </message>
+    <message id="HideMedia.title">
+        <source>Hide While Not Playing</source>
+        <oldsource>Hide Media</oldsource>
+        <extracomment>HideMedia.title</extracomment>
+        <translation type="obsolete">Nur bei Wiedergabe anzeigen</translation>
+    </message>
+    <message id="HideMedia.content">
+        <source>Hide the video clip when it is not playing</source>
+        <oldsource>Hide when stop</oldsource>
+        <extracomment>HideMedia.content</extracomment>
+        <translation type="obsolete">Den Videoclip ausblenden, wenn er nicht wiedergegeben wird.</translation>
+    </message>
+    <message id="LoopMedia.title">
+        <source>Loop Media</source>
+        <oldsource>loop media</oldsource>
+        <extracomment>LoopMedia.title</extracomment>
+        <translation type="obsolete">Endloswiedergabe</translation>
+    </message>
+    <message id="LoopMedia.content">
+        <source>Loop play media</source>
+        <oldsource>loop play media</oldsource>
+        <extracomment>LoopMedia.content</extracomment>
+        <translation type="obsolete">Den Audio- oder Videoclip wiederholen, bis er angehalten wird.</translation>
+    </message>
+    <message id="RewindMedia.title">
+        <source>Rewind Media</source>
+        <oldsource>rewind media</oldsource>
+        <extracomment>RewindMedia.title</extracomment>
+        <translation type="obsolete">Nach Wiedergabe zurückspulen</translation>
+    </message>
+    <message id="RewindMedia.content">
+        <source>Rewind while stop</source>
+        <oldsource>Rewin while stop</oldsource>
+        <extracomment>RewindMedia.content</extracomment>
+        <translation type="obsolete">Den Audio- oder Videoclip zurückspulen, nachdem die Wiedergabe beendet wurde.</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>LockAspectRatio</source>
+        <oldsource>Lock aspect ratio when adjusting picture.</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation type="unfinished">Bei Bildanpassung Seitenverhältnis sperren.</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>ResetSize</source>
+        <oldsource>Reset all changes to the size of the selected picture.</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation type="unfinished">Alle Änderungen an der Größe des ausgewählten Bilds zurücksetzen.</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>Seitenverhältnis sperren</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>Größe zurücksetzen</translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="VideoPlay.title">
+        <source>Play</source>
+        <extracomment>VideoPlay.title</extracomment>
+        <translation type="unfinished">Vorschau des Mediums</translation>
+    </message>
+    <message id="VideoPlay.content">
+        <source>Play Video.</source>
+        <extracomment>VideoPlay.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="VideoPause.title">
+        <source>Pause</source>
+        <extracomment>VideoPause.title</extracomment>
+        <translation type="unfinished">Pause</translation>
+    </message>
+    <message id="VideoPause.content">
+        <source>Pause Video.</source>
+        <extracomment>VideoPause.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="VideoTrim.title">
+        <source>trim video</source>
+        <extracomment>VideoTrim.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="VideoTrim.content">
+        <source>trim video with begin and end.</source>
+        <extracomment>VideoTrim.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="VideoBegin.title">
+        <source>video begin</source>
+        <extracomment>VideoBegin.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="VideoBegin.content">
+        <source>auto start or when click.</source>
+        <extracomment>VideoBegin.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HideVideo.title">
+        <source>hide video</source>
+        <extracomment>HideVideo.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HideVideo.content">
+        <source>hide when stop.</source>
+        <extracomment>HideVideo.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LoopVideo.title">
+        <source>loop video</source>
+        <extracomment>LoopVideo.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LoopVideo.content">
+        <source>loop play video.</source>
+        <extracomment>LoopVideo.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RewindVideo.title">
+        <source>rewind video</source>
+        <extracomment>RewindVideo.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RewindVideo.content">
+        <source>rewind while stop.</source>
+        <extracomment>RewindVideo.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioPlay.title">
+        <source>Play</source>
+        <extracomment>AudioPlay.title</extracomment>
+        <translation type="unfinished">Vorschau des Mediums</translation>
+    </message>
+    <message id="AudioPlay.content">
+        <source>Play audio.</source>
+        <extracomment>AudioPlay.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioPause.title">
+        <source>Pause</source>
+        <extracomment>AudioPause.title</extracomment>
+        <translation type="unfinished">Pause</translation>
+    </message>
+    <message id="AudioPause.content">
+        <source>Pause audio.</source>
+        <extracomment>AudioPause.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioTrim.title">
+        <source>Trim audio</source>
+        <extracomment>AudioTrim.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioTrim.content">
+        <source>Trim audio with begin and end.</source>
+        <extracomment>AudioTrim.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioFadeIn.title">
+        <source>Fade in</source>
+        <extracomment>AudioFadeIn.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioFadeIn.content">
+        <source>Use the audio fade effect at the beginning of a few seconds.</source>
+        <extracomment>AudioFadeIn.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioFadeOut.title">
+        <source>Fade out</source>
+        <extracomment>AudioFadeOut.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioFadeOut.content">
+        <source>Use the audio fade effect at the end of a few seconds.</source>
+        <extracomment>AudioFadeOut.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioBegin.title">
+        <source>Audio begin</source>
+        <extracomment>AudioBegin.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioBegin.content">
+        <source>Auto start or when click.</source>
+        <extracomment>AudioBegin.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioCurPage.title">
+        <source>Play this page</source>
+        <extracomment>AudioCurPage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioCurPage.content">
+        <source>Play audio on this page.</source>
+        <extracomment>AudioCurPage.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioAcrossPage.title">
+        <source>Play across page</source>
+        <extracomment>AudioAcrossPage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AudioAcrossPage.content">
+        <source>Setting audio play from this page until specified page.</source>
+        <extracomment>AudioAcrossPage.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HideAudio.title">
+        <source>Hide audio</source>
+        <extracomment>HideAudio.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="HideAudio.content">
+        <source>Hide when stop.</source>
+        <extracomment>HideAudio.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LoopAudio.title">
+        <source>Loop audio</source>
+        <extracomment>LoopAudio.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LoopAudio.content">
+        <source>Loop play audio.</source>
+        <extracomment>LoopAudio.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RewindAudio.title">
+        <source>rewind audio</source>
+        <extracomment>RewindAudio.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RewindAudio.content">
+        <source>rewind while stop.</source>
+        <extracomment>RewindAudio.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertGeogebra.title">
+        <source>Insert Geometry</source>
+        <extracomment>InsertGeogebra.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertGeogebra.content">
+        <source>A drawing tool with algebra, calculus, statistics, 3D math functions.</source>
+        <oldsource>IA drawing tool with algebra, calculus, statistics, 3D math functions.</oldsource>
+        <extracomment>InsertGeogebra.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramNum.title">
+        <source>Change Num</source>
+        <extracomment>ChangeDiagramNum.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramNum.content">
+        <source>Change the number of items</source>
+        <extracomment>ChangeDiagramNum.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramStyle.title">
+        <source>Change Style</source>
+        <extracomment>ChangeDiagramStyle.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramStyle.content">
+        <source>Select a different style</source>
+        <extracomment>ChangeDiagramStyle.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramColor.title">
+        <source>Change Color</source>
+        <extracomment>ChangeDiagramColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChangeDiagramColor.content">
+        <source>Choose a variety of color schemes</source>
+        <extracomment>ChangeDiagramColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PlayerCapture.title">
+        <source>Capture SlideShow</source>
+        <extracomment>PlayerCapture.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PlayerCapture.content">
+        <source>Capture SlideShow of the document and save to a video.</source>
+        <extracomment>PlayerCapture.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSmartArt.title">
+        <source>Insert a SmartArt Graphic</source>
+        <extracomment>InsertSmartArt.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertSmartArt.content">
+        <source>Insert a SmartArt graphic to visually communicate information.
+
+SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
+        <extracomment>InsertSmartArt.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="L2RTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="L2RTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="R2LTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="R2LTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WppSharePlay.title">
+        <source>Share Play</source>
+        <extracomment>WppSharePlay.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WppSharePlay.content">
+        <source>Through the access code, quickly invite people to watch PPT live simultaneously.</source>
+        <extracomment>WppSharePlay.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WppSharePlay2.title">
+        <source>Share Play</source>
+        <extracomment>WppSharePlay2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="WppSharePlay2.content">
+        <source>Click here to initiate a shared play or enter an access code to enter a shared play.</source>
+        <extracomment>WppSharePlay2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="NoteViewVisible.content">
+        <source>Show/Hide Slide Note</source>
+        <extracomment>NoteViewVisible.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DeleteNotes.content">
+        <source>Click to delete notes.</source>
+        <extracomment>DeleteNotes.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="onlineMedia.title">
+        <source>Insert Movie</source>
+        <extracomment>onlineMedia.title</extracomment>
+        <translation type="unfinished">Film einfügen</translation>
+    </message>
+    <message id="onlineMedia.content">
+        <source>Insert a movie from local folder or internet</source>
+        <extracomment>onlineMedia.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterName.title">
+        <source>The name of printer</source>
+        <extracomment>PrinterName.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrinterName.content">
+        <source>choose a printer to print.</source>
+        <extracomment>PrinterName.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PaperSize.title">
+        <source>The size of paper</source>
+        <extracomment>PaperSize.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PaperSize.content">
+        <source>choose paper size for presentation. such as A4 A3 and so on.</source>
+        <extracomment>PaperSize.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintCopies.title">
+        <source>The copies of printer</source>
+        <extracomment>PrintCopies.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintCopies.content">
+        <source>assign copies to print.</source>
+        <extracomment>PrintCopies.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintCollate.title">
+        <source>The Collate of printer</source>
+        <extracomment>PrintCollate.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintCollate.content">
+        <source>Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed, or not.</source>
+        <extracomment>PrintCollate.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintDuplex.title">
+        <source>The Duplex of printer</source>
+        <extracomment>PrintDuplex.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PrintDuplex.content">
+        <source>Determines whether duplex print or nonDuplex print.</source>
+        <extracomment>PrintDuplex.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MorePrintSettings.title">
+        <source>More setting of printer</source>
+        <extracomment>MorePrintSettings.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MorePrintSettings.content">
+        <source>could config more detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</source>
+        <extracomment>MorePrintSettings.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.title">
+        <source>Full text translation</source>
+        <extracomment>DocTranslate.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.content">
+        <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
+        <extracomment>DocTranslate.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

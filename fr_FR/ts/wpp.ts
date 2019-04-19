@@ -872,6 +872,14 @@
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
     </message>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxBackgroundDlg</name>
@@ -1661,6 +1669,11 @@ Si nécessaire, cliquez sur Annuler</translation>
         <source>Enter 0.1 cm to 5.079 cm of value</source>
         <translation>Entrez une valeur comprise entre 0.1 et 5.079 cm</translation>
     </message>
+    <message>
+        <source>&amp;Display smart guides on screen</source>
+        <translatorcomment>Drop-down menu-&gt;View-&gt;Grid and Guides-&gt;dialog box</translatorcomment>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgHeaderFooter</name>
@@ -2084,7 +2097,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Help us to improve WPS Office</source>
         <translatorcomment>Drop-down menu-&gt;Tools-&gt;Options-&gt;Options dialog box-&gt;Privacy</translatorcomment>
-        <translation type="unfinished">Aidez-nous à améliorer WPS Office</translation>
+        <translation type="obsolete">Aidez-nous à améliorer WPS Office</translation>
     </message>
     <message>
         <source>Ignore words in &amp;uppercase</source>
@@ -2357,23 +2370,23 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation>A&amp;bonnez-vous dans le Minisite de WPS</translation>
+        <translation type="obsolete">A&amp;bonnez-vous dans le Minisite de WPS</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation>Afficher &amp;chaque jour</translation>
+        <translation type="obsolete">Afficher &amp;chaque jour</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation>&amp;Afficher après une semaine </translation>
+        <translation type="obsolete">&amp;Afficher après une semaine </translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation>Ne plus afficher à &amp;nouveau</translation>
+        <translation type="obsolete">Ne plus afficher à &amp;nouveau</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Trop de publicités? Vérifiez de nouveaux changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Trop de publicités? Vérifiez de nouveaux changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -2381,35 +2394,175 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="obsolete">Joignez le plan d&apos;amélioration de l&apos;expérience, contribuez à améliorer et perfectionner WPS office.</translation>
+        <translation>Joignez le plan d&apos;amélioration de l&apos;expérience, contribuez à améliorer et perfectionner WPS office.</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="obsolete">Langue</translation>
+        <translation>Langue</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
-        <translation type="obsolete">Téléchargez et mettez à jour automatiquement les packs de langues</translation>
+        <translation>Téléchargez et mettez à jour automatiquement les packs de langues</translation>
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="obsolete">Choisissez la langue de l&apos;affichage et de l&apos;aide</translation>
+        <translation>Choisissez la langue de l&apos;affichage et de l&apos;aide</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="obsolete">Choisissez…</translation>
+        <translation>Choisissez…</translation>
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="obsolete">Raccourcis</translation>
+        <translation>Raccourcis</translation>
     </message>
     <message>
         <source>Custom Shortcuts:</source>
-        <translation type="obsolete">Raccourcis personnalisés :</translation>
+        <translation>Raccourcis personnalisés :</translation>
     </message>
     <message>
         <source>&amp;Shortcuts</source>
-        <translation type="obsolete">Raccourcis</translation>
+        <translation>Raccourcis</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translation>Options du ruban</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translation>Double-cliquer sur l&apos;&amp;onglet pour masquer le ruban</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translation>Chiffrement matériel</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translation>Paramètres de sauvegarde</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translation>Ouvrir un fichier de &amp;sauvegarde</translation>
+    </message>
+    <message>
+        <source>Print scale to &amp;fit paper</source>
+        <translation>&amp;Mettre à l&apos;échelle de la feuille</translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation 97-2003</source>
+        <translation>Présentation PowerPoint 97-2003</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <translation>Format de sécurisation de document en ligne WPS</translation>
+    </message>
+    <message>
+        <source>&amp;Measurement units:</source>
+        <translation type="unfinished">Unités de &amp;mesure:</translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation type="unfinished">Pouces</translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="unfinished">Centimètres</translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="unfinished">Millimètres</translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="unfinished">Points</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set auto roaming &amp;mode and save file to cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ouble click tab to Close Documemt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default HomePage(&amp;Y):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My CloudDocument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password &amp;hint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra print setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;plain watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;hardware graphics acceleration, effecitve after restart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;live preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS account to encrypt files, simple, convenient, safe and reliable! Colleagues can restrict designated users to use the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use account encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2578,7 +2731,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>cm</source>
         <translatorcomment>Design tab-&gt;Page Setup-&gt;Page Setup dialog box</translatorcomment>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
@@ -2603,6 +2756,14 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Enter 2.54 to 142.22 cm of value</source>
         <translation>Entrez une valeur comprise entre 2.54 et 142.22 cm</translation>
+    </message>
+    <message>
+        <source>Enter 0.26 to 55.87 cm of value</source>
+        <translation>Entrez une valeur comprise entre 0.26 et 55.87 cm</translation>
+    </message>
+    <message>
+        <source>Phonescreen(9:16)</source>
+        <translation type="obsolete">Écran de téléphone (9:16)</translation>
     </message>
 </context>
 <context>
@@ -3381,6 +3542,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>How to solve problems of the printer?</source>
         <translation>Résolution des problèmes d&apos;imprimante</translation>
     </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWppScaleSlideMode</name>
@@ -4072,6 +4237,26 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>Vous n&apos;êtes pas autorisé à enregistrer les fichiers de sauvegarde dans &quot;%1&quot;.</translation>
     </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>Barre d&apos;outils Accès rapide</translation>
+    </message>
+    <message>
+        <source>Customize Ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
@@ -4543,15 +4728,23 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxTrimMediaDlg</name>
     <message>
         <source>Trim Movie</source>
-        <translation type="unfinished"></translation>
+        <translation>Découper la vidéo</translation>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>Découper le son</translation>
     </message>
     <message>
         <source>Duration : </source>
         <translation>Durée : </translation>
+    </message>
+    <message>
+        <source>Trim time less than fade time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -4653,7 +4846,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">Ouvrir</translation>
+        <translation>Ouvrir</translation>
     </message>
 </context>
 <context>
@@ -4763,21 +4956,21 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>&amp;Convert Object to Path</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths</translatorcomment>
-        <translation>&amp;Convertir l&apos;objet en chemin d&apos;accès</translation>
+        <translation type="obsolete">&amp;Convertir l&apos;objet en chemin d&apos;accès</translation>
     </message>
     <message>
         <source>&amp;Curve</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path</translatorcomment>
-        <translation>&amp;Courbe</translation>
+        <translation type="obsolete">&amp;Courbe</translation>
     </message>
     <message>
         <source>&amp;Draw Custom Path</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path</translatorcomment>
-        <translation>Tracer une tra&amp;jectoire personnalisée</translation>
+        <translation type="obsolete">Tracer une tra&amp;jectoire personnalisée</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>Modifi&amp;er</translation>
+        <translation type="obsolete">Modifi&amp;er</translation>
     </message>
     <message>
         <source>&amp;Edit Points</source>
@@ -4791,12 +4984,12 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>&amp;Entrance</source>
-        <translation>Appariti&amp;on</translation>
+        <translation type="obsolete">Appariti&amp;on</translation>
     </message>
     <message>
         <source>&amp;Freeform</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path</translatorcomment>
-        <translation>&amp;Forme libre</translation>
+        <translation type="obsolete">&amp;Forme libre</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
@@ -4806,7 +4999,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>&amp;Line</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path</translatorcomment>
-        <translation>&amp;Ligne</translation>
+        <translation type="obsolete">&amp;Ligne</translation>
     </message>
     <message>
         <source>&amp;Locked</source>
@@ -4815,21 +5008,21 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>&amp;More Effects ...</source>
-        <translation>Plus d&apos;e&amp;ffets...</translation>
+        <translation type="obsolete">Plus d&apos;e&amp;ffets...</translation>
     </message>
     <message>
         <source>&amp;More Motion Paths ...</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths</translatorcomment>
-        <translation>Plus de traje&amp;ctoires...</translation>
+        <translation type="obsolete">Plus de traje&amp;ctoires...</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Ouvrir</translation>
+        <translation type="obsolete">&amp;Ouvrir</translation>
     </message>
     <message>
         <source>&amp;Play</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path-&gt;Curve-&gt;draw a curve-&gt;click Play</translatorcomment>
-        <translation>L&amp;ire</translation>
+        <translation type="obsolete">L&amp;ire</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -4844,7 +5037,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>&amp;Scribble</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path</translatorcomment>
-        <translation>Des&amp;sin à main levée</translation>
+        <translation type="obsolete">Des&amp;sin à main levée</translation>
     </message>
     <message>
         <source>&amp;Show Advanced Timeline</source>
@@ -4863,7 +5056,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>&amp;View Slide Master</source>
-        <translation>Afficher le masque des diapositi&amp;ves</translation>
+        <translation type="obsolete">Afficher le masque des diapositi&amp;ves</translation>
     </message>
     <message>
         <source>Copy &amp;Effects to Slide</source>
@@ -4871,33 +5064,33 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>E&amp;mphasis</source>
-        <translation>E&amp;mphase</translation>
+        <translation type="obsolete">E&amp;mphase</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>&amp;Quitter</translation>
+        <translation type="obsolete">&amp;Quitter</translation>
     </message>
     <message>
         <source>Motion &amp;Paths</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths</translatorcomment>
-        <translation>Tra&amp;jectoires</translation>
+        <translation type="obsolete">Tra&amp;jectoires</translation>
     </message>
     <message>
         <source>Movie &amp;Actions</source>
-        <translation>&amp;Actions de séquence vidéo</translation>
+        <translation type="obsolete">&amp;Actions de séquence vidéo</translation>
     </message>
     <message>
         <source>Object Oper&amp;ate</source>
-        <translation>Fonctionnement de l&apos;o&amp;bjet</translation>
+        <translation type="obsolete">Fonctionnement de l&apos;o&amp;bjet</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
-        <translation>Pau&amp;se</translation>
+        <translation type="obsolete">Pau&amp;se</translation>
     </message>
     <message>
         <source>S&amp;top</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;Motion Paths-&gt;Draw Custom Path-&gt;Curve-&gt;draw a curve-&gt;click Play-&gt;Stop</translatorcomment>
-        <translation>Arrê&amp;ter</translation>
+        <translation type="obsolete">Arrê&amp;ter</translation>
     </message>
     <message>
         <source>Seconds</source>
@@ -4929,6 +5122,14 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <message>
         <source>Zoom &amp;Out</source>
         <translation>Z&amp;oom arrière</translation>
+    </message>
+    <message>
+        <source>View Slide &amp;Master</source>
+        <translation>Afficher le masque des diapositi&amp;ves</translation>
+    </message>
+    <message>
+        <source>View Slide &amp;Layout</source>
+        <translation>Afficher la disposition des diapositi&amp;ves</translation>
     </message>
 </context>
 <context>
@@ -5004,6 +5205,10 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
         <source>No Fill</source>
         <translation>Aucun remplissage</translation>
     </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation>Couleurs utilisées récemment</translation>
+    </message>
 </context>
 <context>
     <name>KxWppFontOutlineColorModel</name>
@@ -5023,7 +5228,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxWppFormatGroupContent_Fill</name>
     <message>
         <source>Slide background fill</source>
-        <translation>Remplissage de l&apos;arrière-plan de la diapositive</translation>
+        <translation type="obsolete">Remplissage de l&apos;arrière-plan de la diapositive</translation>
     </message>
 </context>
 <context>
@@ -5103,7 +5308,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>Setting</source>
-        <translation>Paramètre</translation>
+        <translation type="obsolete">Paramètre</translation>
     </message>
 </context>
 <context>
@@ -5157,7 +5362,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     <name>KxWppPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translation>Mon autorisation</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
@@ -5213,7 +5418,7 @@ Le bouton Avancé vous permet de choisir parmi les différents types de chiffrem
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/A)</translation>
     </message>
     <message>
         <source>Request additional permissions…</source>
@@ -5352,11 +5557,11 @@ Sure to close?</source>
     </message>
     <message>
         <source>Format OleObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre en forme l&apos;objet OLE</translation>
     </message>
     <message>
         <source>Format ControlObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre en forme l&apos;objet contrôle</translation>
     </message>
     <message>
         <source>Format Background</source>
@@ -5417,6 +5622,14 @@ Sure to close?</source>
     <message>
         <source>Outline</source>
         <translation>Plan</translation>
+    </message>
+    <message>
+        <source>Increase Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5923,6 +6136,14 @@ Sure to close?</source>
         <source>pt</source>
         <translation type="obsolete">pt</translation>
     </message>
+    <message>
+        <source>MasterLayout</source>
+        <translation>Mise en page du masque</translation>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -6056,6 +6277,10 @@ Sure to close?</source>
         <source>With Previous</source>
         <translatorcomment>Home tab-&gt;Shapes-&gt;insert a shape-&gt;Animation tab-&gt;Custom Animation-&gt;Task Window-&gt;Add Effects-&gt;add an effect-&gt;Start drop-down menu</translatorcomment>
         <translation>Avec la précédente</translation>
+    </message>
+    <message>
+        <source>OneKeyAnimation</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6275,6 +6500,14 @@ Sure to close?</source>
         <source>&amp;Foxit</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;mbedFont</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
@@ -6370,12 +6603,12 @@ Sure to close?</source>
     <message>
         <source>Color</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Normal tab</translatorcomment>
-        <translation>Couleur</translation>
+        <translation type="obsolete">Couleur</translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Normal tab</translatorcomment>
-        <translation>Couleur/Nuances de &amp;gris :</translation>
+        <translation type="obsolete">Couleur/Nuances de &amp;gris :</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
@@ -6395,7 +6628,7 @@ Sure to close?</source>
     <message>
         <source>Export &amp;what:</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Normal tab</translatorcomment>
-        <translation>E&amp;xporter :</translation>
+        <translation type="obsolete">E&amp;xporter :</translation>
     </message>
     <message>
         <source>Export PDF File</source>
@@ -6519,7 +6752,7 @@ Sure to close?</source>
     <message>
         <source>Pure black and white</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Normal tab-&gt;Color/Grayscale</translatorcomment>
-        <translation>Noir et blanc intégral</translation>
+        <translation type="obsolete">Noir et blanc intégral</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -6550,6 +6783,10 @@ Sure to close?</source>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translatorcomment>Presentation Button-&gt;Save as-&gt;Export to PDF-&gt;dialog box-&gt;Permission settings tab</translatorcomment>
         <translation>Remarque : les paramètres suivants deviennent effectifs et ne peuvent être modifiés par d&apos;autres personnes que si vous définissez un mot de passe.</translation>
+    </message>
+    <message>
+        <source>Export What:</source>
+        <translation>Exporter :</translation>
     </message>
 </context>
 <context>
@@ -6816,7 +7053,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Source From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Source à partir du &amp;fichier</translation>
     </message>
     <message>
         <source>&amp;File...</source>
@@ -6824,7 +7061,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Source From &amp;Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Source à partir de la &amp;texture</translation>
     </message>
     <message>
         <source>&amp;Pattern</source>
@@ -6847,7 +7084,7 @@ Sure to close?</source>
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">Dictionnaire des synonymes</translation>
+        <translation>Dictionnaire des synonymes</translation>
     </message>
     <message>
         <source>Current word:</source>
@@ -6867,23 +7104,23 @@ Sure to close?</source>
     </message>
     <message>
         <source>&amp;Current word:</source>
-        <translation type="obsolete">Mot a&amp;ctuel :</translation>
+        <translation>Mot a&amp;ctuel :</translation>
     </message>
     <message>
         <source>&amp;Language</source>
-        <translation type="obsolete">&amp;Langue :</translation>
+        <translation>&amp;Langue :</translation>
     </message>
     <message>
         <source>&amp;Alternatives:</source>
-        <translation type="obsolete">V&amp;ariantes :</translation>
+        <translation>V&amp;ariantes :</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="obsolete">&amp;Remplacer</translation>
+        <translation>&amp;Remplacer</translation>
     </message>
     <message>
         <source>Ca&amp;ncel</source>
-        <translation type="obsolete">A&amp;nnuler</translation>
+        <translation>A&amp;nnuler</translation>
     </message>
 </context>
 <context>
@@ -6964,6 +7201,555 @@ Sure to close?</source>
     <message>
         <source>F&amp;rom</source>
         <translation>D&amp;e :</translation>
+    </message>
+</context>
+<context>
+    <name>KAnimGalleryView</name>
+    <message>
+        <source>Cancel Fixed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 animations have been fixed. Please cancel some unnecessary animations and do it again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed to Recent used</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAddInsDlg</name>
+    <message>
+        <source>Sorry, you can not load the %1 add-in for some reason.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished">Tous les fichiers</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupRoamingSettingTipWidget</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomDictionaryDlg</name>
+    <message>
+        <source>Full path: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddIns</name>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;UnInstall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Supprimer</translation>
+    </message>
+    <message>
+        <source>Add-Ins available(&amp;V):</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCustomDictionary</name>
+    <message>
+        <source>Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary &amp;list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished">&amp;Nouveau...</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">Supp&amp;rimer</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fermer</translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDictionary</name>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Di&amp;ctionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Supprimer</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDictionaryDlg</name>
+    <message>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertOnlineVideoDlg</name>
+    <message>
+        <source>Insert Online Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>paste the URL...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Aperçu</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We only play the online video... copyright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disclaimer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty url!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid url!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertPicturesToMultiSlide</name>
+    <message>
+        <source>Insert Picture To Multiple Slides</source>
+        <translation>Insérer une image dans plusieurs diapositives.</translation>
+    </message>
+    <message>
+        <source>Unidentifiable picture format.</source>
+        <translation>Format d&apos;image non identifiable.</translation>
+    </message>
+    <message>
+        <source>The picture you inserted is too large. Please compress it to save the disk space.
+Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
+        <translation>L&apos;image que vous avez insérée est trop grande. Compressez-la pour économiser d&apos;espace disque.
+Remarquez que la compression d&apos;images peut réduire la qualité de vos images.Voulez-vous la(les) compresser?</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
+        <translation>Touts les Images(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
+        <comment>DgUil_EnhancedMetaFiles</comment>
+        <translation>Métafichier Windows (EMF)(*.emf)|*.emf</translation>
+    </message>
+    <message>
+        <source>Windows Metafile(*.wmf)|*.wmf</source>
+        <translation>Métafichier Windows(*.wmf)|*.wmf</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
+        <translation>Fichier d&apos;échange JPEG(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics(*.png)|*.png</source>
+        <translation>format PNG(*.png)|*.png</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)|*.bmp</source>
+        <translation>Bitmap Windows(*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format(*.gif)|*.gif</source>
+        <translation>Format d&apos;échange de fichiers GIF(*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
+        <translation>Format Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</translation>
+    </message>
+</context>
+<context>
+    <name>KxLoadFlashPluginWidget</name>
+    <message>
+        <source>You need install flash plug,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Annuler</translation>
+    </message>
+    <message>
+        <source>Download and Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMediaFadeInSpinBoxCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMediaFadeOutSpinBoxCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPreviewLoadFlashPluginWidget</name>
+    <message>
+        <source>Download and Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAnimGalleryModel</name>
+    <message>
+        <source>Draw Custom Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motion Paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scribble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Object to Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAudioPlayAcrossPageLineEdit</name>
+    <message>
+        <source>EndPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Fonctions pratiques&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Créer un lien de partage&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Exporter en tant que PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Imprimer/Aperçu avant impression&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translation>OMBRE</translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translation>RÉFLEXION</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaInfoTipPopup</name>
+    <message>
+        <source>Total Playing Time:</source>
+        <translation type="unfinished">Durée d&apos;écoute totale :</translation>
+    </message>
+    <message>
+        <source>File:</source>
+        <translation type="unfinished">Fichier :</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaPlayCommand</name>
+    <message>
+        <source>media play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished">Pause</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Lecture</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaStartModeCommand</name>
+    <message>
+        <source>Automatically</source>
+        <translation type="unfinished">Automatiquement</translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translation type="unfinished">Au clic</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppOnlineMeidiaWebView</name>
+    <message>
+        <source>The Page is Loading, please waiting...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerCaptureCtrl</name>
+    <message>
+        <source>Preparing for Video Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Capture.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrinterCollateCommand</name>
+    <message>
+        <source>Collate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnCollate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrinterDuplexCommand</name>
+    <message>
+        <source>Print one sided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSlideSmartWidget</name>
+    <message>
+        <source>Copy As Source Format, Switch To Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy As Current Format ,Switch To Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy As Source Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy As Current Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVideoPlayCommand</name>
+    <message>
+        <source>Pause</source>
+        <translation type="obsolete">Pause</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="obsolete">Lecture</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVideoStartModeCommand</name>
+    <message>
+        <source>Automatically</source>
+        <translation type="obsolete">Automatiquement</translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translation type="obsolete">Au clic</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppWebPreviewWinChangeThemeWidget</name>
+    <message>
+        <source>Select animation style:</source>
+        <translation type="obsolete">Sélectionner un style d&apos;animation :</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppWebPreviewWinDisplayWidget</name>
+    <message>
+        <source>To display the flow, the generated link contains only the first 50 slides.</source>
+        <translation type="obsolete">Le lien de partage peut seulement afficher les 50 premières pages d&apos;une présentation.</translation>
     </message>
 </context>
 </TS>

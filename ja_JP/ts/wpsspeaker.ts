@@ -87,6 +87,26 @@ Are you sure to close?</source>
         <translatorcomment>ファイルをオーディオに出力中で、終了していいですか？</translatorcomment>
         <translation>このドキュメントの音声ファイルを出力中です。終了してもよろしいですか？</translation>
     </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>試用期間はまもなく期限切れです。
+会員になると、この機能を無制限に使用できます。</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>試用期間が期限切れでした。
+会員になると、続行使用できます。</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>テキストスピーチは会員だけで無制限に利用できます。</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>会員になると、14個のオプション機能を使用可能です。</translation>
+    </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
@@ -118,6 +138,18 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>選択した内容を音声出力できません。再選択してください。</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>試用期間はまもなく期限切れです。
+会員になると、この機能を無制限に使用できます。</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>試用期間が期限切れでした。
+会員になると、続行使用できます。</translation>
     </message>
 </context>
 <context>
@@ -520,6 +552,24 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>SAPI - failed to set voice speed: </source>
         <translation>SAPI - 音声の速度を設定できません</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>閉じる</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>会員になる</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>会員について</translation>
     </message>
 </context>
 </TS>

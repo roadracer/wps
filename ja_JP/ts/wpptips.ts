@@ -121,12 +121,16 @@
     </message>
     <message id="BackgroundMusic.title">
         <source>Insert Background Music</source>
-        <extracomment>BackgroundMusic.title</extracomment>
+        <extracomment>BackgroundMusic.title
+----------
+BackgroundMusic.title</extracomment>
         <translation>BGM(音楽)</translation>
     </message>
     <message id="BackgroundMusic.content">
         <source>Insert an audio file from local folder. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
-        <extracomment>BackgroundMusic.content</extracomment>
+        <extracomment>BackgroundMusic.content
+----------
+BackgroundMusic.content</extracomment>
         <translation>スライドにBGM(音楽)を挿入します</translation>
     </message>
     <message id="BordersFill.title">
@@ -149,7 +153,9 @@
 
 Click the arrow to select different bullet styles.</source>
         <extracomment>Bullets.content</extracomment>
-        <translation>選択範囲に箇条書きの設定をします。▼をクリックするとスタイルを指定できます</translation>
+        <translation>選択範囲に箇条書きの設定をします。
+
+▼をクリックするとスタイルを指定できます</translation>
     </message>
     <message id="Bullets2.title">
         <source>Bullets</source>
@@ -732,9 +738,9 @@ When WPS Spreadsheets is closed, the chart in document can still display normall
 
 When WPS Spreadsheets closed, the chart in document can display normally. Double-click the chart if you want to edit it.</oldsource>
         <extracomment>InsertChart.content</extracomment>
-        <translation>挿入されているグラフは、Kingsoft Spreadsheetsで編集する必要があります。
+        <translation>「グラフの挿入」ダイアログが表示されます。
 
-Kingsoft Spreadsheetsを閉じると、ファイル内のグラフが正常に表示されます。編集したい時はグラフをダブルクリックしてください。</translation>
+グラフを作成し、その詳細設定を行うことができます。</translation>
     </message>
     <message id="InsertClipArt.title">
         <source>Insert Clip Art</source>
@@ -769,7 +775,7 @@ Kingsoft Spreadsheetsを閉じると、ファイル内のグラフが正常に�
     <message id="InsertDateTime.title">
         <source>Date and Time</source>
         <extracomment>InsertDateTime.title</extracomment>
-        <translation>日時</translation>
+        <translation>日付と時刻</translation>
     </message>
     <message id="InsertDateTime.content">
         <source>Show the Date and Time dialog box to insert the current date or time into the current document.</source>
@@ -865,7 +871,7 @@ Kingsoft Spreadsheetsを閉じると、ファイル内のグラフが正常に�
     <message id="Justify.content">
         <source>Align text to both the left and right margins, adding extra space between words as necessary.</source>
         <extracomment>Justify.content</extracomment>
-        <translation>文字列を両端に揃えて配置します</translation>
+        <translation>文字列を両端に揃えて配置します。必要に応じて文字列の間隔が調整されます。</translation>
     </message>
     <message id="Lighting.title">
         <source>Lighting</source>
@@ -1370,13 +1376,13 @@ The amount of time you spend on each slide is recorded and you can save those ti
     <message id="ResetSlide.title">
         <source>Reset Slide</source>
         <extracomment>ResetSlide.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>リセット</translation>
     </message>
     <message id="ResetSlide.content">
         <source>Reset the size, position and format of the presentation&apos;s placeholders to defaults.</source>
         <oldsource>Reset all of the changes in size, location and format made to the placeholder.</oldsource>
         <extracomment>ResetSlide.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>スライドのプレースホルダの位置、サイズ、書式を既定の設定に戻します。</translation>
     </message>
     <message id="Rotate.title">
         <source>Rotate</source>
@@ -1774,8 +1780,7 @@ When you want to make notes but do not wish to exit the slide show, right click 
     <message id="Superscript.content">
         <source>Create small letters above the line of text.</source>
         <extracomment>Superscript.content</extracomment>
-        <translation>選択した文字の上に飾り文字を配置します。
-▼をクリックすると「下付き」を選択できます</translation>
+        <translation>選択した文字の上に飾り文字を配置します。</translation>
     </message>
     <message id="Superscript2.title">
         <source>Other Options</source>
@@ -1907,7 +1912,7 @@ Click the arrow to select a different text color.</source>
         <translation>スピーチ</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
         <translation>テキスト内容を声に変換します。この機能は2日間の体験期間があります。</translation>
     </message>
@@ -1924,12 +1929,12 @@ Click the arrow to select a different text color.</source>
     <message id="ThemeColors.title">
         <source>Color Scheme</source>
         <extracomment>ThemeColors.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>配色</translation>
     </message>
     <message id="ThemeColors.content">
         <source>Change the color scheme of the presentation.</source>
         <extracomment>ThemeColors.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>現在のテーマの色を変更します。</translation>
     </message>
     <message id="TraditionalChinese.title">
         <source>Traditional</source>
@@ -2227,7 +2232,7 @@ Click the arrow to select a different text color.</source>
     <message id="SlideSize.content">
         <source></source>
         <extracomment>SlideSize.content</extracomment>
-        <translation></translation>
+        <translation>スライドサイズ</translation>
     </message>
     <message id="WpsAssistOnlineTemplate.title">
         <source></source>
@@ -2455,6 +2460,610 @@ Click the arrow to select a different text color.</source>
         <source>Show the Format Object dialog box.</source>
         <extracomment>FormatObject.content</extracomment>
         <translation type="obsolete">「オブジェクトの書式設定」のダイアログボックスを表示します</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <oldsource>Change the settings of Table&apos;s formatting.</oldsource>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translation>▼をクリックすると「フォント]のダイアログボックスが表示できます。</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_WPP_TextTools.title</extracomment>
+        <translation>設定</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_WPP_TextTools.content</extracomment>
+        <translation>▼「フォント]、「段落」、「オブジェクトの書式を設定」できます。</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>類義語</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>何と言って言っていますかわかりません、別の言い方で表現することを勧めさせていただきます。</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translation>リンクの作成</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translation>ドキュメントをリンクとQRコードで作成することでWeiChat、QQ、WeiBo、QZoneに共有できます。</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translation>発送したリンクを管理</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translation>ここをクリックすると発送したリンクを管理、削除、再送付することを操作できます。</translation>
+    </message>
+    <message id="Section.title">
+        <source>Section</source>
+        <extracomment>Section.title</extracomment>
+        <translation>セクション</translation>
+    </message>
+    <message id="Section.content">
+        <source>Organize your slides into Sections.</source>
+        <extracomment>Section.content</extracomment>
+        <translation>セクションにスライドを構成する</translation>
+    </message>
+    <message id="TableEffects.title">
+        <source>TableEffects</source>
+        <extracomment>TableEffects.title</extracomment>
+        <translation>表の効果</translation>
+    </message>
+    <message id="TableEffects.content">
+        <source>Add visual effects to the table, such as a shadow or reflection.</source>
+        <extracomment>TableEffects.content</extracomment>
+        <translation>表に影、反射などの効果を設定します。</translation>
+    </message>
+    <message id="TableFontEffects.title">
+        <source>TableFontEffects</source>
+        <extracomment>TableFontEffects.title</extracomment>
+        <translation>テキストの効果</translation>
+    </message>
+    <message id="TableFontEffects.content">
+        <source>Add a visual effect such as shadow, glow or reflection to your text.</source>
+        <extracomment>TableFontEffects.content</extracomment>
+        <translation>テキストに影、光彩、反射などの効果を設定します。</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>ドキュメントの修正</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>ドキュメントの文字化けや、ファイルが開けないなどの問題を素早く解決します。</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translation>図内の文字列をテキスト形式に変換</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translation>図内の文字列をテキスト形式に変換します。</translation>
+    </message>
+    <message id="MediaPlay.title">
+        <source>Play</source>
+        <extracomment>MediaPlay.title</extracomment>
+        <translation type="obsolete">再生</translation>
+    </message>
+    <message id="MediaPlay.content">
+        <source>Play Video</source>
+        <extracomment>MediaPlay.content</extracomment>
+        <translation type="obsolete">ビデオの再生</translation>
+    </message>
+    <message id="MediaPause.title">
+        <source>Pause</source>
+        <extracomment>MediaPause.title</extracomment>
+        <translation type="obsolete">一時停止</translation>
+    </message>
+    <message id="MediaPause.content">
+        <source>Pause Video</source>
+        <extracomment>MediaPause.content</extracomment>
+        <translation type="obsolete">ビデオの一時停止</translation>
+    </message>
+    <message id="MediaVol.title">
+        <source>Volumn</source>
+        <oldsource>volumn</oldsource>
+        <extracomment>MediaVol.title</extracomment>
+        <translation>音量</translation>
+    </message>
+    <message id="MediaVol.content">
+        <source>media volumn.</source>
+        <oldsource>meida volumn</oldsource>
+        <extracomment>MediaVol.content</extracomment>
+        <translation>ビデオクリップのボリュームを変更します。</translation>
+    </message>
+    <message id="MediaTrim.title">
+        <source>trim media</source>
+        <extracomment>MediaTrim.title</extracomment>
+        <translation type="obsolete">ビデオのトリミング</translation>
+    </message>
+    <message id="MediaTrim.content">
+        <source>trim media with begin and start</source>
+        <extracomment>MediaTrim.content</extracomment>
+        <translation type="obsolete">開始時刻と終了時刻を指定して、ビデオクリップをトリミングします。</translation>
+    </message>
+    <message id="MediaBegin.title">
+        <source>media begin</source>
+        <extracomment>MediaBegin.title</extracomment>
+        <translation type="obsolete">開始</translation>
+    </message>
+    <message id="MediaBegin.content">
+        <source>auto start or when click</source>
+        <extracomment>MediaBegin.content</extracomment>
+        <translation type="obsolete">ビデオクリップを自動再生するか、クリックした時に再生します。</translation>
+    </message>
+    <message id="FullScreenPlay.title">
+        <source>Play Full Screen</source>
+        <oldsource>Fullscene Play</oldsource>
+        <extracomment>FullScreenPlay.title</extracomment>
+        <translation>全画面再生</translation>
+    </message>
+    <message id="FullScreenPlay.content">
+        <source>full screen play.</source>
+        <oldsource>full screen play</oldsource>
+        <extracomment>FullScreenPlay.content</extracomment>
+        <translation>ビデオを全画面表示で再生します。</translation>
+    </message>
+    <message id="HideMedia.title">
+        <source>hide media</source>
+        <extracomment>HideMedia.title</extracomment>
+        <translation type="obsolete">再生中のみ表示</translation>
+    </message>
+    <message id="HideMedia.content">
+        <source>hide when stop</source>
+        <extracomment>HideMedia.content</extracomment>
+        <translation type="obsolete">ビデオクリップは再生中のみ表示します。</translation>
+    </message>
+    <message id="LoopMedia.title">
+        <source>loop media</source>
+        <extracomment>LoopMedia.title</extracomment>
+        <translation type="obsolete">停止するまで繰り返す</translation>
+    </message>
+    <message id="LoopMedia.content">
+        <source>loop play media</source>
+        <extracomment>LoopMedia.content</extracomment>
+        <translation type="obsolete">ビデオクリップを停止されるまで繰り返して再生します。</translation>
+    </message>
+    <message id="RewindMedia.title">
+        <source>rewind media</source>
+        <extracomment>RewindMedia.title</extracomment>
+        <translation type="obsolete">再生が終了したら巻き戻す</translation>
+    </message>
+    <message id="RewindMedia.content">
+        <source>rewin while stop</source>
+        <extracomment>RewindMedia.content</extracomment>
+        <translation type="obsolete">再生が終了したら、ビデオクリップを巻き戻します。</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>LockAspectRatio</source>
+        <oldsource>Lock aspect ratio when adjusting picture.</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>図のサイズ変更時に、縦横比を固定します。</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>ResetSize</source>
+        <oldsource>Reset all changes to the size of the selected picture.</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>この図で実行されたサイズ変更をすべて取り消します。</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>縦横比の固定</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>サイズのリセット</translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation>選択したセルの高さを設定します。</translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation>セルの高さ</translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation>選択したセルの幅を設定します。</translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation>セルの幅</translation>
+    </message>
+    <message id="VideoPlay.title">
+        <source>Play</source>
+        <extracomment>VideoPlay.title</extracomment>
+        <translation>再生</translation>
+    </message>
+    <message id="VideoPlay.content">
+        <source>Play Video.</source>
+        <extracomment>VideoPlay.content</extracomment>
+        <translation>ビデオの再生効果をプレビューします。</translation>
+    </message>
+    <message id="VideoPause.title">
+        <source>Pause</source>
+        <extracomment>VideoPause.title</extracomment>
+        <translation>一時停止</translation>
+    </message>
+    <message id="VideoPause.content">
+        <source>Pause Video.</source>
+        <extracomment>VideoPause.content</extracomment>
+        <translation>ビデオのプレビューを一時停止します。</translation>
+    </message>
+    <message id="VideoTrim.title">
+        <source>trim video</source>
+        <extracomment>VideoTrim.title</extracomment>
+        <translation>ビデオのトリミング</translation>
+    </message>
+    <message id="VideoTrim.content">
+        <source>trim video with begin and end.</source>
+        <extracomment>VideoTrim.content</extracomment>
+        <translation>指定した開始時間と終了時間でビデオをトリミングします。</translation>
+    </message>
+    <message id="VideoBegin.title">
+        <source>video begin</source>
+        <extracomment>VideoBegin.title</extracomment>
+        <translation>開始</translation>
+    </message>
+    <message id="VideoBegin.content">
+        <source>auto start or when click.</source>
+        <extracomment>VideoBegin.content</extracomment>
+        <translation>ビデオの自動再生、またはクリック時に再生を選択します。</translation>
+    </message>
+    <message id="HideVideo.title">
+        <source>hide video</source>
+        <extracomment>HideVideo.title</extracomment>
+        <translation>ビデオの非表示</translation>
+    </message>
+    <message id="HideVideo.content">
+        <source>hide when stop.</source>
+        <extracomment>HideVideo.content</extracomment>
+        <translation>スライドショー時にビデオアイコンを非表示にします。</translation>
+    </message>
+    <message id="LoopVideo.title">
+        <source>loop video</source>
+        <extracomment>LoopVideo.title</extracomment>
+        <translation>循環再生</translation>
+    </message>
+    <message id="LoopVideo.content">
+        <source>loop play video.</source>
+        <extracomment>LoopVideo.content</extracomment>
+        <translation>停止するまで、ビデオを繰り返し再生します。</translation>
+    </message>
+    <message id="RewindVideo.title">
+        <source>rewind video</source>
+        <extracomment>RewindVideo.title</extracomment>
+        <translation>再生完了時最初に戻る</translation>
+    </message>
+    <message id="RewindVideo.content">
+        <source>rewind while stop.</source>
+        <extracomment>RewindVideo.content</extracomment>
+        <translation>再生が完了したら、ビデオの先頭に戻ります。</translation>
+    </message>
+    <message id="AudioPlay.title">
+        <source>Play</source>
+        <extracomment>AudioPlay.title</extracomment>
+        <translation>再生</translation>
+    </message>
+    <message id="AudioPlay.content">
+        <source>Play audio.</source>
+        <extracomment>AudioPlay.content</extracomment>
+        <translation>オーディオの再生効果をプレビューします。</translation>
+    </message>
+    <message id="AudioPause.title">
+        <source>Pause</source>
+        <extracomment>AudioPause.title</extracomment>
+        <translation>一時停止</translation>
+    </message>
+    <message id="AudioPause.content">
+        <source>Pause audio.</source>
+        <extracomment>AudioPause.content</extracomment>
+        <translation>オーディオのプレビューを一時停止します。</translation>
+    </message>
+    <message id="AudioTrim.title">
+        <source>Trim audio</source>
+        <extracomment>AudioTrim.title</extracomment>
+        <translation>オーディオのトリミング</translation>
+    </message>
+    <message id="AudioTrim.content">
+        <source>Trim audio with begin and end.</source>
+        <extracomment>AudioTrim.content</extracomment>
+        <translation>指定した開始時間と終了時間でオーディオをトリミングします。</translation>
+    </message>
+    <message id="AudioFadeIn.title">
+        <source>Fade in</source>
+        <extracomment>AudioFadeIn.title</extracomment>
+        <translation>フェードイン</translation>
+    </message>
+    <message id="AudioFadeIn.content">
+        <source>Use the audio fade effect at the beginning of a few seconds.</source>
+        <extracomment>AudioFadeIn.content</extracomment>
+        <translation>一定の秒数のフェード効果を設定して、ビデオを開始します。</translation>
+    </message>
+    <message id="AudioFadeOut.title">
+        <source>Fade out</source>
+        <extracomment>AudioFadeOut.title</extracomment>
+        <translation>フェードアウト</translation>
+    </message>
+    <message id="AudioFadeOut.content">
+        <source>Use the audio fade effect at the end of a few seconds.</source>
+        <extracomment>AudioFadeOut.content</extracomment>
+        <translation>一定の秒数のフェード効果を設定して、ビデオを終了します。</translation>
+    </message>
+    <message id="AudioBegin.title">
+        <source>Audio begin</source>
+        <extracomment>AudioBegin.title</extracomment>
+        <translation>開始</translation>
+    </message>
+    <message id="AudioBegin.content">
+        <source>Auto start or when click.</source>
+        <extracomment>AudioBegin.content</extracomment>
+        <translation>オーディオの自動再生、またはクリック時に再生を選択します。</translation>
+    </message>
+    <message id="AudioCurPage.title">
+        <source>Play this page</source>
+        <extracomment>AudioCurPage.title</extracomment>
+        <translation>このページを適用</translation>
+    </message>
+    <message id="AudioCurPage.content">
+        <source>Play audio on this page.</source>
+        <extracomment>AudioCurPage.content</extracomment>
+        <translation>挿入したオーディオをこのページのみに適用します。</translation>
+    </message>
+    <message id="AudioAcrossPage.title">
+        <source>Play across page</source>
+        <extracomment>AudioAcrossPage.title</extracomment>
+        <translation>指定ページの再生</translation>
+    </message>
+    <message id="AudioAcrossPage.content">
+        <source>Setting audio play from this page until specified page.</source>
+        <extracomment>AudioAcrossPage.content</extracomment>
+        <translation>挿入したオーディオをこのページから指定ページまで再生します。</translation>
+    </message>
+    <message id="HideAudio.title">
+        <source>Hide audio</source>
+        <extracomment>HideAudio.title</extracomment>
+        <translation>オーディオの非表示</translation>
+    </message>
+    <message id="HideAudio.content">
+        <source>Hide when stop.</source>
+        <extracomment>HideAudio.content</extracomment>
+        <translation>スライドショー時にオーディオのアイコンを非表示にします。</translation>
+    </message>
+    <message id="LoopAudio.title">
+        <source>Loop audio</source>
+        <extracomment>LoopAudio.title</extracomment>
+        <translation>循環再生</translation>
+    </message>
+    <message id="LoopAudio.content">
+        <source>Loop play audio.</source>
+        <extracomment>LoopAudio.content</extracomment>
+        <translation>停止するまで、オーディオを繰り返し再生します。</translation>
+    </message>
+    <message id="RewindAudio.title">
+        <source>rewind audio</source>
+        <extracomment>RewindAudio.title</extracomment>
+        <translation>再生が完了したら、先頭に戻る</translation>
+    </message>
+    <message id="RewindAudio.content">
+        <source>rewind while stop.</source>
+        <extracomment>RewindAudio.content</extracomment>
+        <translation>再生が完了したら、先頭に戻ります。</translation>
+    </message>
+    <message id="InsertGeogebra.title">
+        <source>Insert Geometry</source>
+        <extracomment>InsertGeogebra.title</extracomment>
+        <translation>幾何学記号の挿入</translation>
+    </message>
+    <message id="InsertGeogebra.content">
+        <source>A drawing tool with algebra, calculus, statistics, 3D math functions.</source>
+        <oldsource>IA drawing tool with algebra, calculus, statistics, 3D math functions.</oldsource>
+        <extracomment>InsertGeogebra.content</extracomment>
+        <translation>代数、微積分学、統計学や3D数学の機能を搭載する描画ツールです。</translation>
+    </message>
+    <message id="ChangeDiagramNum.title">
+        <source>Change Num</source>
+        <extracomment>ChangeDiagramNum.title</extracomment>
+        <translation>個数の変更</translation>
+    </message>
+    <message id="ChangeDiagramNum.content">
+        <source>Change the number of items</source>
+        <extracomment>ChangeDiagramNum.content</extracomment>
+        <translation>アイテム数を変更します。</translation>
+    </message>
+    <message id="ChangeDiagramStyle.title">
+        <source>Change Style</source>
+        <extracomment>ChangeDiagramStyle.title</extracomment>
+        <translation>スタイルの変更</translation>
+    </message>
+    <message id="ChangeDiagramStyle.content">
+        <source>Select a different style</source>
+        <extracomment>ChangeDiagramStyle.content</extracomment>
+        <translation>ダイアグラムのスタイルを変更します。</translation>
+    </message>
+    <message id="ChangeDiagramColor.title">
+        <source>Change Color</source>
+        <extracomment>ChangeDiagramColor.title</extracomment>
+        <translation>色の変更</translation>
+    </message>
+    <message id="ChangeDiagramColor.content">
+        <source>Choose a variety of color schemes</source>
+        <extracomment>ChangeDiagramColor.content</extracomment>
+        <translation>複数のテーマの色を選択します。</translation>
+    </message>
+    <message id="PlayerCapture.title">
+        <source>Capture SlideShow</source>
+        <extracomment>PlayerCapture.title</extracomment>
+        <translation>講演記録</translation>
+    </message>
+    <message id="PlayerCapture.content">
+        <source>Capture SlideShow of the document and save to a video.</source>
+        <extracomment>PlayerCapture.content</extracomment>
+        <translation>PPTの再生過程を動画として保存します。</translation>
+    </message>
+    <message id="InsertSmartArt.title">
+        <source>Insert a SmartArt Graphic</source>
+        <extracomment>InsertSmartArt.title</extracomment>
+        <translation>SmartArt グラフィックの挿入</translation>
+    </message>
+    <message id="InsertSmartArt.content">
+        <source>Insert a SmartArt graphic to visually communicate information.
+
+SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
+        <extracomment>InsertSmartArt.content</extracomment>
+        <translation>SmartArt グラフィックを挿入して、情報を視覚的に表現します。
+
+グラフィカルなリストや手順図から、ペン図や組織図などの複雑なグラフィックまで、さまざまなSmartArt グラフィックが用意されています。</translation>
+    </message>
+    <message id="WppSharePlay.title">
+        <source>Share Play</source>
+        <extracomment>WppSharePlay.title</extracomment>
+        <translation>共有再生</translation>
+    </message>
+    <message id="WppSharePlay.content">
+        <source>Through the access code, quickly invite people to watch PPT live simultaneously.</source>
+        <extracomment>WppSharePlay.content</extracomment>
+        <translation>接続コードを利用し、複数の端末で同一PPTの再生を同期します。</translation>
+    </message>
+    <message id="WppSharePlay2.title">
+        <source>Share Play</source>
+        <extracomment>WppSharePlay2.title</extracomment>
+        <translation>共有再生</translation>
+    </message>
+    <message id="WppSharePlay2.content">
+        <source>Click here to initiate a shared play or enter an access code to enter a shared play.</source>
+        <extracomment>WppSharePlay2.content</extracomment>
+        <translation>ここをクリックして、共有再生を送信または接続コードを入力して共有再生に参加することができます。</translation>
+    </message>
+    <message id="NoteViewVisible.content">
+        <source>Show/Hide Slide Note</source>
+        <extracomment>NoteViewVisible.content</extracomment>
+        <translation>ノートペネルの表示/非表示</translation>
+    </message>
+    <message id="DeleteNotes.content">
+        <source>Click to delete notes.</source>
+        <extracomment>DeleteNotes.content</extracomment>
+        <translation>クリックして、ノートを削除します。</translation>
+    </message>
+    <message id="onlineMedia.title">
+        <source>Insert Movie</source>
+        <extracomment>onlineMedia.title</extracomment>
+        <translation>ビデオ</translation>
+    </message>
+    <message id="onlineMedia.content">
+        <source>Insert a movie from local folder or internet</source>
+        <extracomment>onlineMedia.content</extracomment>
+        <translation>PC内データまたはインターネットから動画を挿入します。</translation>
+    </message>
+    <message id="PrinterName.title">
+        <source>The name of printer</source>
+        <extracomment>PrinterName.title</extracomment>
+        <translation>プリンタ</translation>
+    </message>
+    <message id="PrinterName.content">
+        <source>choose a printer to print.</source>
+        <extracomment>PrinterName.content</extracomment>
+        <translation>印刷するプリンタを指定します。</translation>
+    </message>
+    <message id="PaperSize.title">
+        <source>The size of paper</source>
+        <extracomment>PaperSize.title</extracomment>
+        <translation>用紙サイズ</translation>
+    </message>
+    <message id="PaperSize.content">
+        <source>choose paper size for presentation. such as A4 A3 and so on.</source>
+        <extracomment>PaperSize.content</extracomment>
+        <translation>プレゼンテーションの用紙サイズ(A3やA4など)を指定します。</translation>
+    </message>
+    <message id="PrintCopies.title">
+        <source>The copies of printer</source>
+        <extracomment>PrintCopies.title</extracomment>
+        <translation>部数</translation>
+    </message>
+    <message id="PrintCopies.content">
+        <source>assign copies to print.</source>
+        <extracomment>PrintCopies.content</extracomment>
+        <translation>印刷する部数を指定します。</translation>
+    </message>
+    <message id="PrintCollate.title">
+        <source>The Collate of printer</source>
+        <extracomment>PrintCollate.title</extracomment>
+        <translation>順序</translation>
+    </message>
+    <message id="PrintCollate.content">
+        <source>Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed, or not.</source>
+        <extracomment>PrintCollate.content</extracomment>
+        <translation>印刷順序を部単位（例:123123）またはページ単位（例:112233）で指定します。</translation>
+    </message>
+    <message id="PrintDuplex.title">
+        <source>The Duplex of printer</source>
+        <extracomment>PrintDuplex.title</extracomment>
+        <translation>方式</translation>
+    </message>
+    <message id="PrintDuplex.content">
+        <source>Determines whether duplex print or nonDuplex print.</source>
+        <extracomment>PrintDuplex.content</extracomment>
+        <translation>印刷する方式を片面印刷または両面印刷と指定します。</translation>
+    </message>
+    <message id="MorePrintSettings.title">
+        <source>More setting of printer</source>
+        <extracomment>MorePrintSettings.title</extracomment>
+        <translation>その他</translation>
+    </message>
+    <message id="MorePrintSettings.content">
+        <source>could config more detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</source>
+        <extracomment>MorePrintSettings.content</extracomment>
+        <translation>詳しい印刷のオプションを設定します。(例：プリンタの選択、印刷部数、両面印刷など）</translation>
+    </message>
+    <message id="L2RTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="L2RTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="R2LTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="R2LTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.title">
+        <source>Full text translation</source>
+        <extracomment>DocTranslate.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DocTranslate.content">
+        <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
+        <extracomment>DocTranslate.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

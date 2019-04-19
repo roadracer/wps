@@ -121,7 +121,7 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation>WPS轻办公.lnk</translation>
+        <translation>WPS网盘.lnk</translation>
     </message>
     <message>
         <source>Pin to tas&amp;kbar</source>
@@ -130,6 +130,22 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     <message>
         <source>Unpin from tas&amp;kbar</source>
         <translation>从任务栏取消固定(&amp;K)</translation>
+    </message>
+    <message>
+        <source>WPS Office.lnk</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS 2019.lnk</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF.lnk</source>
+        <translation>金山PDF.lnk</translation>
+    </message>
+    <message>
+        <source>Kingsoft Standalone PDF.lnk</source>
+        <translation type="obsolete">金山PDF独立版.lnk</translation>
     </message>
 </context>
 <context>
@@ -140,7 +156,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>Unlock the IE homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
-        <translation>解除IE主页锁定，您的主页有可能被木马恶意篡改，您确定要解除锁定吗？</translation>
+        <translation type="obsolete">解除IE主页锁定，您的主页有可能被木马恶意篡改，您确定要解除锁定吗？</translation>
+    </message>
+    <message>
+        <source>Unlock the browser homepage may have the homepage maliciously modified by Trojans. Are you sure to unlock it?</source>
+        <translation>解除浏览器主页锁定，您的主页有可能被木马恶意篡改，您确定要解除锁定吗？</translation>
     </message>
 </context>
 <context>
@@ -162,6 +182,10 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
         <source>The serial number you entered already exists.</source>
         <extracomment>ksomisc -&gt; advanced -&gt; Product Management Center -&gt; add -&gt; add an already existed SN.</extracomment>
         <translation>您输入的序列号已经存在！</translation>
+    </message>
+    <message>
+        <source>&lt;a href = &apos;%1&apos; style=&apos;color: #1BADEA;&apos;&gt;Purchase&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -244,11 +268,11 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Cloud.lnk</source>
-        <translation>WPS轻办公.lnk</translation>
+        <translation>WPS网盘.lnk</translation>
     </message>
     <message>
         <source>Using WPS Office Cloud for a collaborated teamwork.</source>
-        <translation>使用WPS轻办公，轻松进行团队协作。</translation>
+        <translation>使用WPS网盘，轻松进行团队协作。</translation>
     </message>
     <message>
         <source>WPS Office.lnk</source>
@@ -260,15 +284,83 @@ ksomisc -&gt; Clear Backup Files -&gt; Start... -&gt; OK -&gt; Clean failed(such
     </message>
     <message>
         <source>WPS Office Configuration Tools.lnk</source>
-        <translation type="obsolete">WPS Office 配置工具.lnk</translation>
+        <translation>WPS Office 配置工具.lnk</translation>
     </message>
     <message>
         <source>Check for WPS Office Updates.lnk</source>
-        <translation type="obsolete">检查 WPS Office 更新.lnk</translation>
+        <translation>检查 WPS Office 更新.lnk</translation>
     </message>
     <message>
         <source>Uninstall WPS Office.lnk</source>
-        <translation type="obsolete">卸载 WPS Office.lnk</translation>
+        <translation>卸载 WPS Office.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Xiutang.lnk</source>
+        <translation>WPS H5.lnk</translation>
+    </message>
+    <message>
+        <source>Make polished HTML5 pages with WPS Xiutang and share to WeChat Moments.</source>
+        <translation>使用WPS秀堂创建精美H5，一键分享到朋友圈。</translation>
+    </message>
+    <message>
+        <source>WPS Photo.lnk</source>
+        <translation>WPS看图.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Photo</source>
+        <translation>WPS看图</translation>
+    </message>
+    <message>
+        <source>WPS ProcessOn.lnk</source>
+        <translation>WPS流程图.lnk</translation>
+    </message>
+    <message>
+        <source>WPS ProcessOn</source>
+        <translation>WPS流程图</translation>
+    </message>
+    <message>
+        <source>WPS Cloud Docs.lnk</source>
+        <translation type="obsolete">WPS网盘.lnk</translation>
+    </message>
+    <message>
+        <source>WPS Cloud Docs</source>
+        <translation type="obsolete">WPS网盘</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF.lnk</source>
+        <translation>金山PDF.lnk</translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation>使用WPS PDF 阅读编辑PDF文档。</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Reader</source>
+        <translation type="obsolete">金山PDF</translation>
+    </message>
+    <message>
+        <source>Kingsoft Standalone PDF.lnk</source>
+        <translation type="obsolete">金山PDF独立版.lnk</translation>
+    </message>
+    <message>
+        <source>Kingsoft Standalone PDF Reader</source>
+        <translation type="obsolete">金山PDF独立版</translation>
+    </message>
+    <message>
+        <source>Uninstall Kingsoft PDF</source>
+        <translation type="obsolete">卸载金山PDF</translation>
+    </message>
+    <message>
+        <source>Link to network to update Kingsoft PDF</source>
+        <translation type="obsolete">连接到网络 升级 金山PDF</translation>
+    </message>
+    <message>
+        <source>WPS 2019.lnk</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation>一站式办公平台</translation>
     </message>
 </context>
 <context>
@@ -596,7 +688,15 @@ needs restarting Windows to take effect.</source>
     </message>
     <message>
         <source>PD&amp;F Documents (*.pdf files)</source>
-        <translation>PDF文档(&amp;F)(*.pdf文件)</translation>
+        <translation type="obsolete">PDF文档(&amp;F)(*.pdf文件)</translation>
+    </message>
+    <message>
+        <source>Portable Document &amp;Format(*.pdf)</source>
+        <translation>PDF文档(*.pdf)(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Pict&amp;ure Files(*.jpg, *.png, *.gif,...)</source>
+        <translation>图片文件(*.jpg, *.png, *.gif 等)(&amp;U)</translation>
     </message>
 </context>
 <context>
@@ -624,7 +724,7 @@ needs restarting Windows to take effect.</source>
     <message>
         <source>You can change the IE homepage anytime.
 Notice that doing so exposes you to risks of virus infection and hacking.</source>
-        <translation>如果你不喜欢金山网址大全，可解除IE主页锁定。
+        <translation type="obsolete">如果你不喜欢金山网址大全，可解除IE主页锁定。
 温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
     </message>
     <message>
@@ -636,6 +736,12 @@ Note: unlock the homepage may have virus infection and your accounts hacked.</so
     <message>
         <source>WPS Office is a free software. Your support is necessary for its improvement.</source>
         <translation>WPS是免费软件，有你支持才能更好成长！</translation>
+    </message>
+    <message>
+        <source>You can change the browser homepage anytime.
+Notice that doing so exposes you to risks of virus infection and hacking.</source>
+        <translation>如果你不喜欢金山网址大全，可解除浏览器主页锁定。
+温馨提示：解除主页锁定将面临感染病毒、账号被盗的风险。</translation>
     </message>
 </context>
 <context>
@@ -815,6 +921,22 @@ ksomisc -&gt; advanced -&gt; Reset Toolbars -&gt; failed(such as wpstb2.cfg is l
         <translation> kso.dll注册失败
 </translation>
     </message>
+    <message>
+        <source>WPS Office if automatic shutdown or part of plug-in functionality is not available, it may be due to incomplete installation of the plug-in. Please click the button below to try to fix it. Restart WPS after effect.</source>
+        <translation>WPS Office如果出现自动关闭或部分插件功能不能使用的情况，可能是由于插件未完全安装导致。请单击下面按钮尝试修复错误。(重新启动WPS后生效)</translation>
+    </message>
+    <message>
+        <source>Reset &amp;Plugins</source>
+        <translation>重置插件(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Reset plugins</source>
+        <translation>重置插件</translation>
+    </message>
+    <message>
+        <source>Resetting plugins completed.</source>
+        <translation>重置插件完成！</translation>
+    </message>
 </context>
 <context>
     <name>KPageRepair</name>
@@ -911,6 +1033,14 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>WPS Office Configuration Tools</source>
         <translation>WPS Office 配置工具</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1299,6 +1429,70 @@ The button icon, command group and task window position of each scheme are diffe
         <source>WPS PDF Document</source>
         <translation>WPS PDF 文档</translation>
     </message>
+    <message>
+        <source>Microsoft PowerPoint Add-In</source>
+        <translation>Microsoft PowerPoint 加载项</translation>
+    </message>
+    <message>
+        <source>WPS Writer Security Document</source>
+        <translation>WPS文字 安全文档</translation>
+    </message>
+    <message>
+        <source>WPS Writer Outward Document</source>
+        <translation>WPS文字 外发文档</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Security Workbook</source>
+        <translation>WPS表格 安全工作簿</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Outward Workbook</source>
+        <translation>WPS表格 外发工作簿</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Security Document</source>
+        <translation>WPS演示 安全演示文稿</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Outward Document</source>
+        <translation>WPS演示 外发演示文稿</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel SLK Data Import Format</source>
+        <translation>Microsoft Office Excel SLK 数据导入格式</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Binary Worksheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOC Document</source>
+        <translation>DOC 文档</translation>
+    </message>
+    <message>
+        <source>DOCX Document</source>
+        <translation>DOCX 文档</translation>
+    </message>
+    <message>
+        <source>XLS Worksheet</source>
+        <translation>XLS 工作表</translation>
+    </message>
+    <message>
+        <source>XLSX Worksheet</source>
+        <translation>XLSX 工作表</translation>
+    </message>
+    <message>
+        <source>PPT Presentation</source>
+        <translation>PPT 演示文稿</translation>
+    </message>
+    <message>
+        <source>PPTX Presentation</source>
+        <translation>PPTX 演示文稿</translation>
+    </message>
 </context>
 <context>
     <name>KSNManagerDlg</name>
@@ -1339,7 +1533,7 @@ The button icon, command group and task window position of each scheme are diffe
     <name>KUpDate</name>
     <message>
         <source>&amp;Download updates but let me choose whether to install them</source>
-        <translation type="unfinished">自动下载升级包，但是由我来决定什么时候安装(&amp;D)</translation>
+        <translation type="obsolete">自动下载升级包，但是由我来决定什么时候安装(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Show information bar</source>
@@ -1448,15 +1642,23 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>Update Items:</source>
-        <translation type="obsolete">升级内容：</translation>
+        <translation>升级内容：</translation>
     </message>
     <message>
         <source>All new releases</source>
-        <translation type="obsolete">全部新版本</translation>
+        <translation>全部新版本</translation>
     </message>
     <message>
         <source>Recommended new releases</source>
-        <translation type="obsolete">推荐安装的新版本</translation>
+        <translation>推荐安装的新版本</translation>
+    </message>
+    <message>
+        <source>Check for update, but let me choose whether to &amp;download and install them</source>
+        <translation>检查升级，但是由我来决定什么时候下载与安装(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Do not &amp;update automatically (not recommended)</source>
+        <translation>关闭自动升级(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -1472,6 +1674,395 @@ The button icon, command group and task window position of each scheme are diffe
     <message>
         <source>WPS Office is running, please reopen configuration tools after closing the program.</source>
         <translation>有 WPS Office 的进程正在运行，请关闭后重新打开配置工具！</translation>
+    </message>
+    <message>
+        <source>WPS Office Configuration Tools</source>
+        <translation>WPS Office 配置工具</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Do you want to relaunch &quot;Configuration Tools&quot; in Administrator mode?</source>
+        <translation>需要系统管理员权限。
+要在管理员模式下重新打开“配置工具”吗？</translation>
+    </message>
+    <message>
+        <source>Administrator privileges are required.
+Please use administrator account to relaunch &quot;Configuration Tools&quot;.</source>
+        <translation>需要系统管理员权限。
+请在管理员模式下重新打开“配置工具”。</translation>
+    </message>
+</context>
+<context>
+    <name>KFileAsso</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation>WPS文字</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS表格</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation>WPS演示</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation>金山PDF</translation>
+    </message>
+    <message>
+        <source>Use WPS Writer to write reports and make up articles.</source>
+        <translation>使用WPS文字编写报告，排版文章。</translation>
+    </message>
+    <message>
+        <source>Use WPS Spreadsheets to analyze and manage data.</source>
+        <translation>使用WPS表格分析、管理数据。</translation>
+    </message>
+    <message>
+        <source>Use WPS Presentation to edit and play presentations.</source>
+        <translation>使用WPS演示编辑、播放演示文稿。</translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF Standalone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS PDF to read and edit pdf.</source>
+        <translation>使用WPS PDF 阅读编辑PDF文档。</translation>
+    </message>
+    <message>
+        <source>All-in-one office service</source>
+        <translation>一站式办公平台</translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KFileAssoForCurUser</name>
+    <message>
+        <source>WPS Writer</source>
+        <translation type="obsolete">WPS文字</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation type="obsolete">WPS表格</translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="obsolete">WPS演示</translation>
+    </message>
+</context>
+<context>
+    <name>KOther</name>
+    <message>
+        <source>Others</source>
+        <translation>其他选项</translation>
+    </message>
+    <message>
+        <source>WPS Office Cloud</source>
+        <translation>WPS网盘</translation>
+    </message>
+    <message>
+        <source>Enable &quot;Upload to WPS Office Cloud&quot; on Context Menu.</source>
+        <translation>右键菜单启用“上传至WPS网盘”</translation>
+    </message>
+    <message>
+        <source>Software recommend：</source>
+        <translation>软件推荐：</translation>
+    </message>
+    <message>
+        <source>Recommend sof&amp;tware to after the upgrade is complete.</source>
+        <translation>升级完成后推荐精选软件(&amp;T)</translation>
+    </message>
+    <message>
+        <source>WPS Today and push message:</source>
+        <translation>WPS热点及广告推送：</translation>
+    </message>
+    <message>
+        <source>Subscribe &quot;WPS Today&quot;(&amp;M)</source>
+        <translation>订阅WPS热点(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Receive push messages</source>
+        <translation>接受广告推送(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Enable entry, show WPS Cloud virutal disk on &quot;My Computer&quot;.</source>
+        <translation>开启入口，在“我的电脑”显示WPS网盘</translation>
+    </message>
+    <message>
+        <source>Clear WPS Cloud cache</source>
+        <translation>清理WPS网盘缓存</translation>
+    </message>
+    <message>
+        <source>cache clear finished.</source>
+        <translation>缓存清理完毕。</translation>
+    </message>
+    <message>
+        <source>Some files is in use, please save and close. Then try again.</source>
+        <translation>部分文件正在使用，请先保存。
+关闭后再尝试清理操作。</translation>
+    </message>
+    <message>
+        <source>Running Mode:</source>
+        <translation>运行模式：</translation>
+    </message>
+    <message>
+        <source>WPS is running under %1</source>
+        <translation>WPS当前运行在%1</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;Switch to multi module mode&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#444444;&quot;&gt;切换到旧版的多组件模式&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Switch to All-in-One mode</source>
+        <translation>升级到最新版的整合模式</translation>
+    </message>
+    <message>
+        <source>Multi module mode</source>
+        <translation>多组件模式</translation>
+    </message>
+    <message>
+        <source>All-in-One mode</source>
+        <translation>整合模式</translation>
+    </message>
+</context>
+<context>
+    <name>KProcessExistsAlertDlg</name>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Restart WPS to see changes</source>
+        <translation>重启WPS使设置生效</translation>
+    </message>
+    <message>
+        <source>The settings you have changed require restarting WPS to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
+        <translation>此设置需要重启WPS才能生效。点击确定关闭本窗口，点击取消则会撤销此变更。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+</context>
+<context>
+    <name>KQingExitTip</name>
+    <message>
+        <source>WPS Cloud is working. Please exit at tray and continue.</source>
+        <translation>WPS网盘正在使用，请先退出托盘程序再继续操作。</translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Clear WPS Cloud cache</source>
+        <translation>清理WPS网盘缓存</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchAllInOne</name>
+    <message>
+        <source>Switch runing mode</source>
+        <translation type="obsolete">切换运行模式</translation>
+    </message>
+    <message>
+        <source>Switch Mode</source>
+        <translation type="obsolete">切换运行模式</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchAllInOneDlg</name>
+    <message>
+        <source>Switch window manage mode</source>
+        <translation>切换窗口管理模式</translation>
+    </message>
+    <message>
+        <source>Support multi-window multi-label depart or group by free, Support saving label list as workspace and sync cross devices</source>
+        <translation>支持多窗口多标签自由拆分与组合，支持标签列表保存为工作区跨设备同步</translation>
+    </message>
+    <message>
+        <source>Organize file label in different window filter by file type, Do not support workspace feature</source>
+        <translation>按文件类型分窗口组织文档标签，不支持工作区特性</translation>
+    </message>
+    <message>
+        <source>Old Multi-Component Mode</source>
+        <translation>多组件模式</translation>
+    </message>
+    <message>
+        <source>default</source>
+        <translation>默认</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
+        <translation>此操作需要重启WPS，请提前关闭所有文件以免造成数据丢失</translation>
+    </message>
+    <message>
+        <source>Switching WPS 2019 to %1</source>
+        <translation>正在切换WPS 2019到%1</translation>
+    </message>
+    <message>
+        <source>Please wait for swiching...</source>
+        <translation>正在切换中，请稍后...</translation>
+    </message>
+    <message>
+        <source>Do not close you computer before finished</source>
+        <translation>切换前请勿关闭您的电脑</translation>
+    </message>
+    <message>
+        <source>Successful switch to </source>
+        <translation>当前已成功切换到</translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation>%1</translation>
+    </message>
+    <message>
+        <source>Start WPS</source>
+        <translation>启动WPS</translation>
+    </message>
+    <message>
+        <source>All-in-One Mode</source>
+        <translation>整合模式</translation>
+    </message>
+    <message>
+        <source>Old Multi Component Mode</source>
+        <translation>多组件模式</translation>
+    </message>
+    <message>
+        <source>Traditional Mode</source>
+        <translation>传统模式</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchMsgPage</name>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0055ff;&quot;&gt;Switching mode&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Switching to old &amp;quot;multi-module mode&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:6pt;&quot;/&gt;&lt;/p&gt;&lt;p&gt;It may cause partial dysfunction after switch to old multi-module mode.&lt;/p&gt;&lt;p&gt;Major changes after switch:&lt;/p&gt;&lt;p&gt;- Generate multiple launch ICONS by component.&lt;/p&gt;&lt;p&gt;- The start interface will change the old version of my WPS page.&lt;/p&gt;&lt;p&gt;- The document label will be displayed only in the window of the corresponding component.&lt;/p&gt;&lt;p&gt;- Do not split new Windows with drag and drop tags.&lt;/p&gt;&lt;p&gt;- Can only use the old version of multi-window mode (one label per window)&lt;/p&gt;&lt;p&gt;- New skins are not supported.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; color:#ec4949;&quot;&gt;It&apos;s not recommended to switch to the old mode.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0055ff;&quot;&gt;切换运行模式&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;即将切换到旧版的 &amp;quot;多组件模式&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:6pt;&quot;/&gt;&lt;/p&gt;&lt;p&gt;切换到旧版的多组件模式后，会有部分功能缺失.&lt;/p&gt;&lt;p&gt;切换后主要变化如下:&lt;/p&gt;&lt;p&gt;- 将按组件生成多个启动图标.&lt;/p&gt;&lt;p&gt;- 开始界面将变位旧版“我的WPS”页.&lt;/p&gt;&lt;p&gt;- 文档标签将只能显示在对应组件的窗口中.&lt;/p&gt;&lt;p&gt;- 不在支持拖放标签拆分新窗口.&lt;/p&gt;&lt;p&gt;- 只能使用旧版的多窗口模式（每窗口一标签）&lt;/p&gt;&lt;p&gt;- 不在支持新的界面皮肤.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;span style=&quot; color:#ec4949;&quot;&gt;不推荐普通用户切换到旧版的运行模式.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0055ff;&quot;&gt;Switching mode&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Switching to latest &amp;quot;All-in-One mode&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;Switch to the latest version will take the following convenience:&lt;/p&gt;&lt;p&gt;- A launch icon without the need to find the corresponding component.&lt;/p&gt;&lt;p&gt;- You can mix the tags of different document types in the same window.&lt;/p&gt;&lt;p&gt;- Flexible multi-label multi-window management mechanism can be dragged and released at will.&lt;/p&gt;&lt;p&gt;- New &amp;quot;Start&amp;quot; interface to integrate the most commonly used documents and services.&lt;/p&gt;&lt;p&gt;- New &amp;quot;New&amp;quot; interface, all documents can be created from here.&lt;/p&gt;&lt;p&gt;- New skin systems.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#21a634;&quot;&gt;All users are recommended to upgrade to this mode.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:18pt; color:#0055ff;&quot;&gt;切换运行模式&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;即将切换到最新版的&amp;quot;整合模式&amp;quot;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;切换到最新版将能享受到如下便利:&lt;/p&gt;&lt;p&gt;- 一个启动图标，无需寻找对应组件.&lt;/p&gt;&lt;p&gt;- 可以混合不同文档类型的标签在同一窗口中.&lt;/p&gt;&lt;p&gt;- 可随意拖放的的灵活的多标签多窗口管理机制.&lt;/p&gt;&lt;p&gt;- 全新&amp;quot;开始&amp;quot;界面，整合最常用的文档和服务.&lt;/p&gt;&lt;p&gt;- 全新 &amp;quot;新建&amp;quot;界面，一切文档都可以从这里创建.&lt;/p&gt;&lt;p&gt;- 全新的皮肤系统.&lt;br/&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; color:#21a634;&quot;&gt;推荐所有用户升级到此模式.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation type="obsolete">下一步</translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="obsolete">退出</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchProgressPage</name>
+    <message>
+        <source>Switching to old &quot;Multi-module mode&quot;</source>
+        <translation type="obsolete">正在切换到旧版&quot;多组件模式&quot;</translation>
+    </message>
+    <message>
+        <source>Switching to latest &quot;All-in-One mode&quot;</source>
+        <translation type="obsolete">正在升级到最新的&quot;整合模式&quot;</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchResultPage</name>
+    <message>
+        <source>To restore latest &quot;All-in-One mode&quot;, please run</source>
+        <translation type="obsolete">要还原到最新版的&quot;整合模式&quot;，请运行</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation type="obsolete">完成</translation>
+    </message>
+    <message>
+        <source>Switch to old &quot;Multi-module mode&quot; successful</source>
+        <translation type="obsolete">已切换到旧版的&quot;多组件模式&quot;</translation>
+    </message>
+    <message>
+        <source>Switch to latest &quot;All-in-One mode&quot; successful</source>
+        <translation type="obsolete">已升级到最新的&quot;整合模式&quot;</translation>
+    </message>
+    <message>
+        <source>Please launch each component with the following shortcuts</source>
+        <translation type="obsolete">请通过下列快捷方式启动各个组件</translation>
+    </message>
+    <message>
+        <source>Please use the following shortcut to launch the program</source>
+        <translation type="obsolete">请通过以下快捷方式启动程序</translation>
+    </message>
+</context>
+<context>
+    <name>KSwitchToClassicInterfaceDlg</name>
+    <message>
+        <source>Switch to Classic Interface</source>
+        <translation>切换经典界面模式</translation>
+    </message>
+    <message>
+        <source>In Classic interface, files opened by Writer, Spreadsheet, and Presentation will be shown in different windows rather than sharing one window. And Working Area feature is not supported.</source>
+        <translation>经典界面为多组件模式，即按文件类型分窗口组织文档标签，不支持工作区特性。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
+        <translation type="unfinished">此操作需要重启WPS，请提前关闭所有文件以免造成数据丢失。</translation>
+    </message>
+    <message>
+        <source>Switching to Classic Interface</source>
+        <translation>正在切换经典界面多组件模式</translation>
+    </message>
+    <message>
+        <source>Please do not turn off your computer</source>
+        <translation>切换前请勿关闭您的电脑</translation>
+    </message>
+    <message>
+        <source>Successfully switch to </source>
+        <translation>当前已成功切换到</translation>
+    </message>
+    <message>
+        <source>Classic Interface</source>
+        <translation>经典界面</translation>
+    </message>
+    <message>
+        <source>Start WPS</source>
+        <translation>启动WPS</translation>
+    </message>
+    <message>
+        <source>Please wait...</source>
+        <translation>正在切换中，请稍后...</translation>
+    </message>
+</context>
+<context>
+    <name>QObject</name>
+    <message>
+        <source>Downloading resources...</source>
+        <translation type="obsolete">正在下载多组件模式支持包...</translation>
+    </message>
+    <message>
+        <source>Creating links...</source>
+        <translation type="obsolete">正在创建快捷方式...</translation>
+    </message>
+    <message>
+        <source>Associating files...</source>
+        <translation type="obsolete">正在关联文件类型...</translation>
+    </message>
+    <message>
+        <source>Switch running mode succeed</source>
+        <translation type="obsolete">成功切换模式</translation>
+    </message>
+    <message>
+        <source>Cleaning up workingspace...</source>
+        <translation type="obsolete">正在清理环境...</translation>
     </message>
 </context>
 </TS>

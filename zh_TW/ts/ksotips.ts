@@ -279,7 +279,7 @@ Click the arrow to select from different 3-D colors.</source>
     <message id="Cut.content">
         <source>Cut the selection and put it on the system Clipboard.</source>
         <extracomment>Cut.content</extracomment>
-        <translation>剪下選取範圍后放到剪貼簿。</translation>
+        <translation>剪下選取範圍後放到剪貼簿。</translation>
     </message>
     <message id="EditPoints.title">
         <source>Edit Points</source>
@@ -879,62 +879,62 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="InsertOnlinePictureFromFile.title">
         <source></source>
         <extracomment>InsertOnlinePictureFromFile.title</extracomment>
-        <translation></translation>
+        <translation>線上圖片</translation>
     </message>
     <message id="InsertOnlinePictureFromFile.content">
         <source></source>
         <extracomment>InsertOnlinePictureFromFile.content</extracomment>
-        <translation></translation>
+        <translation>插入線上圖片。</translation>
     </message>
     <message id="ChangeAutoShape.title">
         <source></source>
         <extracomment>ChangeAutoShape.title</extracomment>
-        <translation></translation>
+        <translation>變更圖案</translation>
     </message>
     <message id="ChangeAutoShape.content">
         <source></source>
         <extracomment>ChangeAutoShape.content</extracomment>
-        <translation></translation>
+        <translation>變更選定的圖案。</translation>
     </message>
     <message id="DataRecover.title">
         <source></source>
         <extracomment>DataRecover.title</extracomment>
-        <translation></translation>
+        <translation>WPS Office 資料修復大師</translation>
     </message>
     <message id="DataRecover.content">
         <source></source>
         <extracomment>DataRecover.content</extracomment>
-        <translation></translation>
+        <translation>為您尋回因磁碟損毀或誤遭刪除而遺失的檔案。</translation>
     </message>
     <message id="ScreenGrab.title">
         <source></source>
         <extracomment>ScreenGrab.title</extracomment>
-        <translation></translation>
+        <translation>螢幕擷取畫面</translation>
     </message>
     <message id="ScreenGrab.content">
         <source></source>
         <extracomment>ScreenGrab.content</extracomment>
-        <translation></translation>
+        <translation>快速新增螢幕擷取畫面至文件。</translation>
     </message>
     <message id="ExportToPDF.title">
-        <source></source>
+        <source>Export to PDF</source>
         <extracomment>ExportToPDF.title</extracomment>
-        <translation></translation>
+        <translation>匯出為 PDF</translation>
     </message>
     <message id="ExportToPDF.content">
-        <source></source>
+        <source>Export the document to a PDF file.</source>
         <extracomment>ExportToPDF.content</extracomment>
-        <translation></translation>
+        <translation>匯出為 PDF 文件。</translation>
     </message>
     <message id="DocerURLEntranceTip.title">
         <source>Docer Entrance</source>
         <extracomment>DocerURLEntranceTip.title</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Docer</translation>
     </message>
     <message id="DocerURLEntranceTip.content">
         <source>Provide you the most professional online templates.</source>
         <extracomment>DocerURLEntranceTip.content</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>為您提供最專業、最優秀的線上範本</translation>
     </message>
     <message id="Protect_Eyes.title">
         <source>Eye Protection Mode</source>
@@ -1019,7 +1019,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="QuickBarFormatChartArea.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
         <extracomment>QuickBarFormatChartArea.content</extracomment>
-        <translation>顯示 [格式] 工作窗格，以微調選定圖表項目的格式設定。</translation>
+        <translation>顯示 [格式] 工作窗格以微調選定圖表項目的格式設定。</translation>
     </message>
     <message id="FormatObject.title">
         <source>Format Object</source>
@@ -1267,7 +1267,7 @@ Data being charted on the X axis will move to the Y axis and vice versa.</source
     <message id="ChartElementFormat.content">
         <source>Show the Format task pane to fine-tune formatting for the selected chart element.</source>
         <extracomment>ChartElementFormat.content</extracomment>
-        <translation>顯示 [格式] 工作窗格，以微調選定圖表項目的格式設定。</translation>
+        <translation>顯示 [格式] 工作窗格以微調選定圖表項目的格式設定。</translation>
     </message>
     <message id="ResetToFitStyle.title">
         <source>Reset Style</source>
@@ -1295,11 +1295,366 @@ The ensures that selected chart element matches the overall theme of the documen
     </message>
     <message id="TouchUiMode.title">
         <source>Touch Mode</source>
-        <translation type="obsolete">觸控模式</translation>
+        <translation>觸控模式</translation>
     </message>
     <message id="TouchUiMode.content">
         <source>More space between commands. Optimized for use with touch.</source>
-        <translation type="obsolete">增大了指令之間的距離，最佳化觸控使用</translation>
+        <translation>增大了指令之間的距離，最佳化觸控使用</translation>
+    </message>
+    <message id="ImagePreview.title">
+        <source>Picture Preview</source>
+        <extracomment>ImagePreview.title</extracomment>
+        <translation>圖片預覽</translation>
+    </message>
+    <message id="ImagePreview.content">
+        <source>View the selected picture in its original size or in window size.</source>
+        <extracomment>ImagePreview.content</extracomment>
+        <translation>以原始大小或視窗大小檢視選取的圖片。</translation>
+    </message>
+    <message id="AddPicFrame.title">
+        <source>Add picture frames</source>
+        <extracomment>AddPicFrame.title</extracomment>
+        <translation>新增圖片框</translation>
+    </message>
+    <message id="AddPicFrame.content">
+        <source>Choose a different border styles to meet the needs of individual pictures.</source>
+        <extracomment>AddPicFrame.content</extracomment>
+        <translation>選擇不同的框線樣式以滿足圖片的個人化需求。</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TextTools.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_TextTools.content</extracomment>
+        <translation>變更文字格式設定。</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_PictureTools.title</extracomment>
+        <translation>詳細設定</translation>
+    </message>
+    <message id="DetailedSettings_PictureTools.content">
+        <source>Change the settings of picture formatting.</source>
+        <extracomment>DetailedSettings_PictureTools.content</extracomment>
+        <translation>變更圖案的設定。</translation>
+    </message>
+    <message id="DocerHomeEntranceTip.title">
+        <source>Docer</source>
+        <extracomment>DocerHomeEntranceTip.title</extracomment>
+        <translation></translation>
+    </message>
+    <message id="DocerHomeEntranceTip.content">
+        <source>A platform for sharing various Office document resources.</source>
+        <extracomment>DocerHomeEntranceTip.content</extracomment>
+        <translation>Docer已移動到此處
+按一下以搜尋線上範本</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.title">
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>線上範本</translation>
+    </message>
+    <message id="IntranetVersion DocerURLEntranceTip.content">
+        <source>Provide you the most professional online templates.</source>
+        <extracomment>IntranetVersion DocerURLEntranceTip.title</extracomment>
+        <translation>為您提供最專業、最優秀的線上範本</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.title">
+        <source>File Roaming</source>
+        <extracomment>KOSRoamingfileTip_pro.title</extracomment>
+        <translation>檔案漫遊</translation>
+    </message>
+    <message id="KOSRoamingfileTip_pro.content">
+        <source>Files are automatically shared to WPS Office Cloud and to your PC and mobile devices using WPS Office.</source>
+        <extracomment>KOSRoamingfileTip_pro.content</extracomment>
+        <translation>自動將檔案漫遊至 WPS Office Cloud，您可以在公司、家中、電腦或電話上隨時隨地使用檔案。</translation>
+    </message>
+    <message id="KOSHomepageTip.title">
+        <source>My WPS</source>
+        <extracomment>KOSHomepageTip.title</extracomment>
+        <translation>我的 WPS</translation>
+    </message>
+    <message id="KOSHomepageTip.content">
+        <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
+        <extracomment>KOSHomepageTip.content</extracomment>
+        <translation></translation>
+    </message>
+    <message id="XiuTangH5Tip.title">
+        <source>XiuTang H5</source>
+        <oldsource>XiuTang</oldsource>
+        <translation>秀堂 H5</translation>
+    </message>
+    <message id="XiuTangH5Tip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>XiuTangH5Tip.content</extracomment>
+        <translation>免費製作精美的H5，并分享至 WeChat 朋友圈。</translation>
+    </message>
+    <message id="DocPermission.title">
+        <source>Document Permission</source>
+        <extracomment>DocPermission.title</extracomment>
+        <translation>文件權限</translation>
+    </message>
+    <message id="DocPermission.content">
+        <source>After setting permissions, only authorized users can open this document.</source>
+        <extracomment>DocPermission.content</extracomment>
+        <translation>設定權限后，僅有授權的使用者才可開啟此文件。</translation>
+    </message>
+    <message id="HardwareEncryption.title">
+        <source>Hardware Encryption</source>
+        <extracomment>HardwareEncryption.title</extracomment>
+        <translation>硬體加密</translation>
+    </message>
+    <message id="HardwareEncryption.content">
+        <source>Encrypt document with a USB Key to further ensure its security.</source>
+        <extracomment>HardwareEncryption.content</extracomment>
+        <translation>使用 USB 金鑰加密文件，以增強文件安全性。</translation>
+    </message>
+    <message id="Auto_Backup.title">
+        <source>Backup Setting</source>
+        <extracomment>Auto_Backup.title</extracomment>
+        <translation>備份設定</translation>
+    </message>
+    <message id="Auto_Backup.content">
+        <source>Setting backup interval and path</source>
+        <oldsource>Setting bakcup interval and path</oldsource>
+        <extracomment>Auto_Backup.content</extracomment>
+        <translation>設定備份的方式、備份間隔，及備份檔案路徑。</translation>
+    </message>
+    <message id="ExpandQuickBar.content">
+        <source>Expand the quick bar.</source>
+        <extracomment>ExpandQuickBar.content</extracomment>
+        <translation>展開​​快速工具列</translation>
+    </message>
+    <message id="CollapseQuickBar.content">
+        <source>Collapse the quick bar.</source>
+        <extracomment>CollapseQuickBar.content</extracomment>
+        <translation>摺疊​​快速工具列</translation>
+    </message>
+    <message id="WordArtQuickBarExpand.content">
+        <source>Expand the word art quick bar.</source>
+        <extracomment>WordArtQuickBarExpand.content
+----------
+WordArtQuickBarExpand.content</extracomment>
+        <translation>展開[文字藝術師]的快速工具列。</translation>
+    </message>
+    <message id="WordArtQuickBarCollapse.content">
+        <source>Collapse the word art quick bar.</source>
+        <extracomment>WordArtQuickBarCollapse.content
+----------
+WordArtQuickBarCollapse.content</extracomment>
+        <translation>摺疊[文字藝術師]的快速工具列。</translation>
+    </message>
+    <message id="WordArtGalleryQuickBar.title">
+        <source>Word art library.</source>
+        <extracomment>WordArtGalleryQuickBar.title
+----------
+WordArtGalleryQuickBar.title</extracomment>
+        <translation>文字藝術師圖庫</translation>
+    </message>
+    <message id="WordArtGalleryQuickBar.content">
+        <source>Select your favorite word art style.</source>
+        <extracomment>WordArtGalleryQuickBar.content
+----------
+WordArtGalleryQuickBar.content</extracomment>
+        <translation>選取您喜歡的文字藝術師樣式。</translation>
+    </message>
+    <message id="TransformQuickBar.title">
+        <source>Transform</source>
+        <extracomment>TransformQuickBar.title
+----------
+TransformQuickBar.title</extracomment>
+        <translation>轉換</translation>
+    </message>
+    <message id="TransformQuickBar.content">
+        <source>The tansform style of word art.</source>
+        <extracomment>TransformQuickBar.content
+----------
+TransformQuickBar.content</extracomment>
+        <translation>提供轉換的文字藝術師樣式。</translation>
+    </message>
+    <message id="InsertMap.title">
+        <source>Insert map</source>
+        <extracomment>InsertMap.title</extracomment>
+        <translation>地圖</translation>
+    </message>
+    <message id="InsertMap.content">
+        <source>Insert an online map</source>
+        <extracomment>InsertMap.content</extracomment>
+        <translation>插入線上地圖。</translation>
+    </message>
+    <message id="InsertQRCode.title">
+        <source>Insert QRCode</source>
+        <extracomment>InsertQRCode.title
+----------
+InsertQRCode.title</extracomment>
+        <translation>QR 碼</translation>
+    </message>
+    <message id="InsertQRCode.content">
+        <source>Insert a QRCode</source>
+        <extracomment>InsertQRCode.content
+----------
+InsertQRCode.content</extracomment>
+        <translation>插入 QR 碼</translation>
+    </message>
+    <message id="TriggerExtendObject.title">
+        <source>Edit extend object content</source>
+        <extracomment>TriggerExtendObject.title</extracomment>
+        <translation>編輯擴充物件</translation>
+    </message>
+    <message id="TriggerExtendObject.content">
+        <source>Open an extend object editor dialog</source>
+        <extracomment>InsertQRCode.content</extracomment>
+        <translation>開啟擴充物件編輯對話方塊。</translation>
+    </message>
+    <message id="OnlineChart.title">
+        <source>Online Chart</source>
+        <extracomment>OnlineChart.title</extracomment>
+        <translation>線上圖表</translation>
+    </message>
+    <message id="OnlineChart.content">
+        <source>Including richer chart styles,this function requires to be connected to the net.</source>
+        <extracomment>OnlineChart.content</extracomment>
+        <translation>提供豐富的圖表樣式。使用此功能需要連線到網路。</translation>
+    </message>
+    <message id="XieDeTip.title">
+        <source>XieDe</source>
+        <translation>寫得 (d.wps.cn)</translation>
+    </message>
+    <message id="XieDeTip.content">
+        <source>Create online documents to share to QQ or WeChat, in which you can add ready controls including audio, video, rating, time axis, map, mind map, etc.</source>
+        <extracomment>XieDeTip.content</extracomment>
+        <translation>寫得（d.wps.cn）
+一款強大好用的編輯器
+
+一鍵新增音視訊、投票報名、時間軸、地圖等控制項，并輕鬆共享至QQ、Wechat、微博。</translation>
+    </message>
+    <message id="CloudFormTip.title">
+        <source>XiuTang H5</source>
+        <translation>秀堂 H5</translation>
+    </message>
+    <message id="CloudFormTip.content">
+        <source>Enjoy XiuTang.</source>
+        <extracomment>CloudFormTip.content</extracomment>
+        <translation>免費製作精美的H5，并分享至 WeChat 朋友圈。</translation>
+    </message>
+    <message id="OnlineDiagramMoreTip.title">
+        <source>Insert Online Diagram</source>
+        <translation>插入線上圖表</translation>
+    </message>
+    <message id="OnlineDiagramMoreTip.content">
+        <source>Diagram can make the text structure more clearly</source>
+        <extracomment>OnlineDiagramMoreTip.content</extracomment>
+        <translation>圖表可讓文字結構關係更加清晰。</translation>
+    </message>
+    <message id="TextToDiagram.title">
+        <source>Show text with Diagram</source>
+        <extracomment>TextToDiagram.title</extracomment>
+        <translation>轉換成圖表</translation>
+    </message>
+    <message id="TextToDiagram.content">
+        <source>Auto using Diagram to show text</source>
+        <extracomment>TextToDiagram.title</extracomment>
+        <translation>將文本智慧轉換成對應的圖表。</translation>
+    </message>
+    <message id="InsertRelationshipDiagram.title">
+        <source>Insert Relationship Diagram</source>
+        <translation>插入關聯圖表</translation>
+    </message>
+    <message id="InsertRelationshipDiagram.content">
+        <source>Insert Relationship Diagram content</source>
+        <extracomment>InsertRelationshipDiagram.content</extracomment>
+        <translation>插入關聯圖表，以直觀的方式表示資訊關係。
+
+關聯圖表的類別有組織圖，SWOT，並排，流程，總分等。</translation>
+    </message>
+    <message id="LinkShareTip.title">
+        <source>Link Preview</source>
+        <extracomment>LinkShareTip.title</extracomment>
+        <translation>共享</translation>
+    </message>
+    <message id="LinkShareTip.content">
+        <source>Share documents in link to friend.</source>
+        <extracomment>LinkShareTip.content</extracomment>
+        <translation>通過產生連結，將檔案共享至他人。</translation>
+    </message>
+    <message id="OneStepSaveTip.title">
+        <source>One Step Save</source>
+        <extracomment>OneStepSaveTip.title</extracomment>
+        <translation>一鍵快傳</translation>
+    </message>
+    <message id="OneStepSaveTip.content">
+        <source>One step save local file to WPS cloud,multi terminal,anytime,anywhere to use documents.</source>
+        <extracomment>OneStepSaveTip.content</extracomment>
+        <translation>將本機檔案一鍵快傳至WPS雲端檔案，以隨時隨地在多終端上使用檔案。</translation>
+    </message>
+    <message id="Photo2Pdf.title">
+        <source>Photo to Pdf</source>
+        <extracomment>Photo2Pdf.title</extracomment>
+        <translation>將圖片匯出為PDF</translation>
+    </message>
+    <message id="Photo2Pdf.content">
+        <source>Photo to Pdf Converter.</source>
+        <extracomment>Photo2Pdf.content</extracomment>
+        <translation>將圖片格式的檔案批量轉換成PDF。</translation>
+    </message>
+    <message id="InsertSmartDiagram.title">
+        <source>Insert Smart Diagram</source>
+        <translation>插入關係圖表</translation>
+    </message>
+    <message id="InsertSmartDiagram.content">
+        <source>Insert Smart Diagram content</source>
+        <extracomment>InsertSmartDiagram.content</extracomment>
+        <translation>插入關係圖表，以直接的視覺方式表達資訊關係。
+
+關係圖表包括結構圖、四分色方塊、並排、流程、總分等分類</translation>
+    </message>
+    <message id="ChartGallery.title">
+        <source>Chart Gallery</source>
+        <translation>圖庫</translation>
+    </message>
+    <message id="ChartGallery.content">
+        <source>Chart Gallery content</source>
+        <extracomment>ChartGallery.content</extracomment>
+        <translation>圖庫中提供了多種類型圖片的線上製作工具，如 QR碼、條形碼、幾何圖等，以快速製作并插入圖片。</translation>
+    </message>
+    <message id="PPTCustom.title">
+        <source>PPTCustom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="PPTCustom.content">
+        <source>PPTCustom content</source>
+        <extracomment>PPTCustom.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertProcesson_Flow.title">
+        <source>InsertProcesson_Flow</source>
+        <translation>插入流程圖</translation>
+    </message>
+    <message id="InsertProcesson_Flow.content">
+        <source>InsertProcesson_Flow content</source>
+        <extracomment>InsertProcesson_Flow.content</extracomment>
+        <translation>在游標的目前位置插入流程圖，可以隨時進入以編輯</translation>
+    </message>
+    <message id="InsertProcesson_Mind.title">
+        <source>InsertProcesson_Mind</source>
+        <translation>插入思維導圖</translation>
+    </message>
+    <message id="InsertProcesson_Mind.content">
+        <source>InsertProcesson_Mind content</source>
+        <extracomment>InsertProcesson_Mind.content</extracomment>
+        <translation>在游標的目前位置插入思維導圖，可以隨時進入以編輯</translation>
+    </message>
+    <message id="DocerMall.title">
+        <source>Docer Mall</source>
+        <extracomment>DocerMall.title</extracomment>
+        <translation>Docer 商城</translation>
+    </message>
+    <message id="DocerMall.content">
+        <source>DocerMall content</source>
+        <extracomment>DocerMall.content</extracomment>
+        <translation>在新標籤頁中開啟 Docer 商城</translation>
     </message>
 </context>
 </TS>

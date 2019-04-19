@@ -58,7 +58,8 @@
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
+        <translatorcomment>Styl wstążki - Presentation-&gt;Funkcje specjalne-&gt;Konwertowanie do Word/WPs Writer - tak jest ok</translatorcomment>
+        <translation>Konwertowanie do dokumentu programu Word oraz WPS Writer</translation>
     </message>
     <message>
         <source>Still Need: being calculated</source>
@@ -73,15 +74,15 @@
     </message>
     <message>
         <source>All(&amp;A)</source>
-        <translation>Wszystkie (&amp;A)</translation>
+        <translation>&amp;Wszystkie</translation>
     </message>
     <message>
         <source>Selection(&amp;S)</source>
-        <translation>Zaznaczenie (&amp;S)</translation>
+        <translation>&amp;Zaznaczenie</translation>
     </message>
     <message>
         <source>Slides(&amp;P):</source>
-        <translation>Slajdy (&amp;P):</translation>
+        <translation>&amp;Slajdy:</translation>
     </message>
     <message>
         <source>Converted Layout</source>
@@ -89,7 +90,7 @@
     </message>
     <message>
         <source>According to original layout(&amp;O)</source>
-        <translation>Zgodnie z oryginalnym układem (&amp;O)</translation>
+        <translation>Zgodnie z &amp;oryginalnym układem</translation>
     </message>
     <message>
         <source>Add notes to slide:</source>
@@ -97,19 +98,19 @@
     </message>
     <message>
         <source>Right(&amp;R)</source>
-        <translation>Po prawej (&amp;R)</translation>
+        <translation>Po &amp;prawej</translation>
     </message>
     <message>
         <source>Below(&amp;B)</source>
-        <translation>Poniżej (&amp;B)</translation>
+        <translation>Po&amp;niżej</translation>
     </message>
     <message>
         <source>Below(&amp;N)</source>
-        <translation>Poniżej (&amp;N)</translation>
+        <translation>Pon&amp;iżej</translation>
     </message>
     <message>
         <source>Right(&amp;H)</source>
-        <translation>Po prawej (&amp;H)</translation>
+        <translation>Po p&amp;rawej</translation>
     </message>
     <message>
         <source>Add blank line to slide:</source>
@@ -141,19 +142,20 @@
     </message>
     <message>
         <source>Text(&amp;T)</source>
-        <translation>Tekst (&amp;T)</translation>
+        <translation>&amp;Tekst</translation>
     </message>
     <message>
         <source>Table(&amp;L)</source>
-        <translation>Tabela (&amp;L)</translation>
+        <translation>Tabe&amp;la</translation>
     </message>
     <message>
         <source>Picture(&amp;I)</source>
-        <translation>Obraz (&amp;I)</translation>
+        <translation>&amp;Obraz</translation>
     </message>
     <message>
         <source>Translate to WPS Writer Document</source>
-        <translation>Tłumacz do dokumentu programu WPS Writer</translation>
+        <translatorcomment>Presentation-&gt;Funkcje specjalne-&gt;Konwertuj do Word/WPS Writer - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Konwertowanie do dokumentu programu Word oraz WPS Writer</translation>
     </message>
     <message>
         <source>&amp;Current Slide</source>
@@ -235,7 +237,7 @@ Na przykład, 1,3,5-9.</translation>
     </message>
     <message>
         <source>No Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wybano slajdu</translation>
     </message>
 </context>
 </TS>

@@ -87,6 +87,26 @@ Are you sure to close?</source>
         <translation>正在匯出這個文件的一個音效檔。
 確定要關閉嗎？</translation>
     </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>您今日的試用即將結束。
+成為 VIP 即可無限制使用此功能。</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>您的試用已結束。
+開通 VIP 以繼續使用。</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>VIP 獨享無限制朗讀功能，匯出語音。</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>開通 VIP 還可尊享朗讀等14項專屬功能。</translation>
+    </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
@@ -118,6 +138,18 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>選取的內容不支援語音轉化。請再次選擇。</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>您今日的試用即將結束。
+成為 VIP 即可無限制使用此功能。</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>您的試用已結束。
+開通 VIP 以繼續使用。</translation>
     </message>
 </context>
 <context>
@@ -215,7 +247,7 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Failed to setup local reading client.</source>
-        <translation>無法加載本機語音服務。</translation>
+        <translation>無法載入本機語音服務。</translation>
     </message>
 </context>
 <context>
@@ -520,6 +552,24 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>SAPI - failed to set voice speed: </source>
         <translation>SAPI - 無法設定聲音的速度值：</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>開通VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>了解更多 VIP 相關資訊</translation>
     </message>
 </context>
 </TS>

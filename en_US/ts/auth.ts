@@ -44,6 +44,10 @@
         <source>Renew Now &gt;&gt;</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>Contact Email: gch@wps.cn</translation>
+    </message>
 </context>
 <context>
     <name>KCnCommonAuthManager</name>
@@ -102,6 +106,14 @@
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
         <translation type="obsolete">Fail to save the serial number. Please check whether you have the administrator permission or not.</translation>
     </message>
+    <message>
+        <source>* Unit:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please Choose</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KUserCenterMenuCommand</name>
@@ -148,7 +160,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy/renew Now</source>
-        <translation>Buy/Renew Now</translation>
+        <translation type="obsolete">Buy/Renew Now</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>Contact Email: gch@wps.cn</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -312,6 +332,10 @@ p, li { white-space: pre-wrap; }
         <source>Buy Now</source>
         <translation>Buy/Renew Now</translation>
     </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>Contact Email: gch@wps.cn</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTrialReminder</name>
@@ -377,6 +401,10 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Download</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Never show again</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgVbaReminder</name>
@@ -399,6 +427,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Learn More</source>
         <translation type="obsolete">LEARN MORE</translation>
+    </message>
+    <message>
+        <source>LEARN MORE</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -435,6 +467,14 @@ p, li { white-space: pre-wrap; }
         <source>Enter Serial Number/Activation Code</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Enter Serial Number</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Activate WPS Office with existing Serial Number.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWelcomePage</name>
@@ -448,11 +488,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Personal Edition(Free)</source>
-        <translation type="obsolete">Personal Edition (Free)</translation>
+        <translation>Personal Edition (Free)</translation>
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
-        <translation type="obsolete">Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3</translation>
+        <translation>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3</translation>
+    </message>
+    <message>
+        <source>Did you purchase WPS Office?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Need Help?</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -597,6 +649,14 @@ p, li { white-space: pre-wrap; }
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
         <translation type="obsolete">Allow you to see the results of many different possible inputs at the same time.</translation>
     </message>
+    <message>
+        <source>Print</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
@@ -735,6 +795,38 @@ p, li { white-space: pre-wrap; }
         <source>To activate WPS need to get the system UAC (user account control) allows, please try again.</source>
         <translation>Activating WPS Office requires system UAC (user account control) permission. Please try again.</translation>
     </message>
+    <message>
+        <source>Activation code expires on: %1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>LIFETIME LICENSE</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The serial number is not support this platform.</source>
+        <translation>This serial number is not for activating WPS Office for Windows.</translation>
+    </message>
+    <message>
+        <source>Please check your network connection or %1configure proxy%2 and try again.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Office Serial Number</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Add SN Succeed.</source>
+        <translation>Serial Number has been added successfully.</translation>
+    </message>
+    <message>
+        <source>&lt;u&gt;Use other SN or Activation codes&lt;/u&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Activation/SN code expires on: %1</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxQingActiveSucceedDialog</name>
@@ -829,6 +921,22 @@ After expiration, some features will not work properly. Please renew now. </sour
         <source>Cannot connect to the server, thus activation fails. Please check your network connection and try again.</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Buy</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Purchase License</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
@@ -915,6 +1023,57 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>We are also happy to provide you with one time additional accesses to remove watermarks.</source>
         <translation type="obsolete">We are also happy to provide you with one time additional access to remove watermarks.</translation>
+    </message>
+</context>
+<context>
+    <name>KLoginStatusTipWidget</name>
+    <message>
+        <source>IPC errors occured when Get login information</source>
+        <translation type="obsolete">IPC errors occured when getting sign in information</translation>
+    </message>
+    <message>
+        <source>RPC errors occured when Get login information</source>
+        <translation type="obsolete">RPC errors occured when getting sign in information</translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterMenuButton</name>
+    <message>
+        <source>abnormal network status, turn to be offline status</source>
+        <translation>Network error. Offline now.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPromeExpireReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaDownloadGuiderDlg</name>
+    <message>
+        <source>tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>download</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

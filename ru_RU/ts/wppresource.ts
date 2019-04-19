@@ -1065,6 +1065,10 @@
         <source>With Filling Effect Of Round-Shaped Bullets</source>
         <translation>Заполненные круглые маркеры</translation>
     </message>
+    <message>
+        <source>More DesignTemplates</source>
+        <translation>Дополнительные макеты</translation>
+    </message>
 </context>
 <context>
     <name>classics.formatting.Num</name>
@@ -1695,6 +1699,18 @@ Master</source>
     <message>
         <source>Zoom</source>
         <translation>Масштаб</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2461,7 +2477,7 @@ Effects</source>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>Тип диаграммы</translation>
+        <translation type="obsolete">Тип диаграммы</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -2479,6 +2495,10 @@ Effects</source>
         <source>speedLayout</source>
         <translation>Экспресс-макет</translation>
     </message>
+    <message>
+        <source>More Option...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_design</name>
@@ -2492,7 +2512,7 @@ Effects</source>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Массовая настройка шрифтов</translation>
+        <translation type="unfinished">Массовая настройка шрифтов</translation>
     </message>
     <message>
         <source>Color
@@ -2505,7 +2525,7 @@ Schemes</source>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation>Пользовательский формат текста</translation>
+        <translation type="unfinished">Пользовательский формат текста</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -2523,7 +2543,7 @@ Slide Master</source>
     </message>
     <message>
         <source>Effects</source>
-        <translation type="obsolete">Эффекты</translation>
+        <translation>Эффекты</translation>
     </message>
     <message>
         <source>Import Templates</source>
@@ -2541,7 +2561,7 @@ Template</source>
     </message>
     <message>
         <source>Landscape</source>
-        <translation>Альбомная</translation>
+        <translation type="obsolete">Альбомная</translation>
     </message>
     <message>
         <source>Layout</source>
@@ -2559,7 +2579,7 @@ Setup</source>
     </message>
     <message>
         <source>Portrait</source>
-        <translation>Книжная</translation>
+        <translation type="obsolete">Книжная</translation>
     </message>
     <message>
         <source>Presentation Tool</source>
@@ -2591,11 +2611,56 @@ Orientation</source>
     </message>
     <message>
         <source>Slide Orientation</source>
-        <translation>Ориентация слайда</translation>
+        <translation type="obsolete">Ориентация слайда</translation>
     </message>
     <message>
         <source>import templates</source>
         <translation type="obsolete">Импортировать шаблоны</translation>
+    </message>
+    <message>
+        <source>Colors</source>
+        <translation>Цвета</translation>
+    </message>
+    <message>
+        <source>Custom Size</source>
+        <translation>Нестандартный размер</translation>
+    </message>
+    <message>
+        <source>Edit Theme</source>
+        <translation>Изменить тему</translation>
+    </message>
+    <message>
+        <source>Fonts</source>
+        <translation>Шрифты</translation>
+    </message>
+    <message>
+        <source>Magic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phone Screen(9:16)</source>
+        <translation type="obsolete">Экран телефона (9:16)</translation>
+    </message>
+    <message>
+        <source>Slide Size</source>
+        <translation>Размер 
+слайда</translation>
+    </message>
+    <message>
+        <source>Stand Screen(4:3)</source>
+        <translation>Стандартный экран (4:3)</translation>
+    </message>
+    <message>
+        <source>Themes</source>
+        <translation>Темы</translation>
+    </message>
+    <message>
+        <source>Wide Screen(16:9)</source>
+        <translation>Широкий экран (16:9)</translation>
     </message>
 </context>
 <context>
@@ -2616,7 +2681,7 @@ Table Style</source>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="obsolete">Очистить стиль таблицы</translation>
+        <translation>Очистить стиль таблицы</translation>
     </message>
     <message>
         <source>Gradiant</source>
@@ -2665,6 +2730,131 @@ Table Style</source>
     <message>
         <source>Texture</source>
         <translation>Текстура</translation>
+    </message>
+    <message>
+        <source>0.25 pt</source>
+        <translation>0,25 пт</translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation>0,5 пт</translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation>0,75 пт</translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation>1 пт</translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation>1,5 пт</translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation>2,25 пт</translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation>3 пт</translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation>4,5 пт</translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation>6 пт</translation>
+    </message>
+    <message>
+        <source>Apply To :</source>
+        <translation>Применить к:</translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation>Очистить объект WordArt</translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation>Штрих</translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation>Штрихи</translation>
+    </message>
+    <message>
+        <source>Dash-Dot</source>
+        <translation>Штрих-пунктир</translation>
+    </message>
+    <message>
+        <source>Dash-Dot-Dot</source>
+        <translation>Длинный штрих-двойной пунктир</translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation>Подсветка</translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation>Длинный штрих</translation>
+    </message>
+    <message>
+        <source>Long Dash-Dot</source>
+        <translation>Длинный штрих-пунктир</translation>
+    </message>
+    <message>
+        <source>More Outline Colors</source>
+        <translation>Другие цвета структуры</translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation>Рисунок или текстура</translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation>Отражение</translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation>Круглая точка</translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation>Тень</translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation>Сплошной</translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation>Квадратная точка</translation>
+    </message>
+    <message>
+        <source>Table Effects</source>
+        <translation>Эффекты</translation>
+    </message>
+    <message>
+        <source>Text Effects</source>
+        <translation>Текстовые 
+эффекты</translation>
+    </message>
+    <message>
+        <source>Text Fill</source>
+        <translation>Заливка текста</translation>
+    </message>
+    <message>
+        <source>Text Outline</source>
+        <translation>Контур текста</translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation>Толщина</translation>
     </message>
 </context>
 <context>
@@ -2901,7 +3091,7 @@ On</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation>Выровнять шрифт</translation>
+        <translation type="obsolete">Выровнять шрифт</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -2917,7 +3107,7 @@ On</source>
     </message>
     <message>
         <source>Align Text</source>
-        <translation>Выровнять текст</translation>
+        <translation type="obsolete">Выровнять текст</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -2993,7 +3183,7 @@ On</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>Центрировать по вертикали</translation>
+        <translation type="obsolete">Центрировать по вертикали</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -3197,7 +3387,7 @@ On</source>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Интервал</translation>
+        <translation type="obsolete">Интервал</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -3257,7 +3447,7 @@ On</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Абзац</translation>
+        <translation type="obsolete">Абзац</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -3546,7 +3736,7 @@ On</source>
     </message>
     <message>
         <source>Align Font</source>
-        <translation>Выровнять шрифт</translation>
+        <translation type="obsolete">Выровнять шрифт</translation>
     </message>
     <message>
         <source>Align Left</source>
@@ -3562,7 +3752,7 @@ On</source>
     </message>
     <message>
         <source>Align Text</source>
-        <translation>Выровнять текст</translation>
+        <translation type="obsolete">Выровнять текст</translation>
     </message>
     <message>
         <source>Align Top</source>
@@ -3634,7 +3824,7 @@ On</source>
     </message>
     <message>
         <source>Center Vertically</source>
-        <translation>По центру по вертикали</translation>
+        <translation type="obsolete">По центру по вертикали</translation>
     </message>
     <message>
         <source>Centered</source>
@@ -3794,11 +3984,11 @@ On</source>
     </message>
     <message>
         <source>Line Break</source>
-        <translation>добавление разрыва строки</translation>
+        <translation type="obsolete">добавление разрыва строки</translation>
     </message>
     <message>
         <source>Line Spacing</source>
-        <translation>Междустрочный интервал</translation>
+        <translation type="obsolete">Междустрочный интервал</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -3846,7 +4036,7 @@ On</source>
     </message>
     <message>
         <source>Paragraph</source>
-        <translation>Абзац</translation>
+        <translation type="obsolete">Абзац</translation>
     </message>
     <message>
         <source>Pattern</source>
@@ -4023,7 +4213,7 @@ On</source>
     </message>
     <message>
         <source>Backup Management and Data Recovery</source>
-        <translation>Резервное копирование и восстановление данных</translation>
+        <translation type="obsolete">Резервное копирование и восстановление данных</translation>
     </message>
     <message>
         <source>Backup and Recover</source>
@@ -4031,11 +4221,11 @@ On</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Изменить версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>Проверить обновления</translation>
+        <translation type="obsolete">Проверить обновления</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -4051,7 +4241,7 @@ On</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation>Docer Entrance</translation>
+        <translation type="obsolete">Docer Entrance</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -4067,7 +4257,7 @@ On</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>Ввести код активации</translation>
+        <translation type="obsolete">Ввести код активации</translation>
     </message>
     <message>
         <source>Exit</source>
@@ -4079,7 +4269,7 @@ On</source>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation>Экспорт в PDF</translation>
+        <translation type="obsolete">Экспорт в PDF</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -4099,7 +4289,7 @@ On</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation>Информация о файле</translation>
+        <translation type="unfinished">Информация о файле</translation>
     </message>
     <message>
         <source>File Package</source>
@@ -4179,7 +4369,7 @@ On</source>
     </message>
     <message>
         <source>New from Online Templates</source>
-        <translation>Новый шаблон из раздела &quot;Шаблоны в Интернете&quot;</translation>
+        <translation type="obsolete">Новый шаблон из раздела &quot;Шаблоны в Интернете&quot;</translation>
     </message>
     <message>
         <source>New from Other Templates</source>
@@ -4271,11 +4461,11 @@ On</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>Запрос справочной информации из микроблога</translation>
+        <translation type="obsolete">Запрос справочной информации из микроблога</translation>
     </message>
     <message>
         <source>Send E-mail</source>
-        <translation>Отправить сообщение электронной почты</translation>
+        <translation type="unfinished">Отправить сообщение электронной почты</translation>
     </message>
     <message>
         <source>Study Online</source>
@@ -4283,7 +4473,7 @@ On</source>
     </message>
     <message>
         <source>Support WPS</source>
-        <translation>Поддержка WPS</translation>
+        <translation type="obsolete">Поддержка WPS</translation>
     </message>
     <message>
         <source>Transfer to WPS Writer Document</source>
@@ -4311,7 +4501,7 @@ On</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>WPS Office Forum</translation>
+        <translation type="obsolete">WPS Office Forum</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -4331,7 +4521,7 @@ On</source>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>Домашняя страница WPS Office</translation>
+        <translation type="obsolete">Домашняя страница WPS Office</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -4339,7 +4529,7 @@ On</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Центр управления продукцией</translation>
+        <translation type="obsolete">Центр управления продукцией</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
@@ -4352,6 +4542,42 @@ On</source>
     <message>
         <source>true</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup and Recovery</source>
+        <translation>Резервное копирование и восстановление</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Разрешения для документа</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interactive PPT on WeChat</source>
+        <translation>Интерактивная презентация в формате PPT в WeChat</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4470,6 +4696,10 @@ On</source>
     <message>
         <source>footer PlaceHolder</source>
         <translation>Нижний колонтитул</translation>
+    </message>
+    <message>
+        <source>Phone Screen(9:16)</source>
+        <translation type="obsolete">Экран телефона (9:16)</translation>
     </message>
 </context>
 <context>
@@ -4874,7 +5104,7 @@ Slide</source>
     </message>
     <message>
         <source>Group</source>
-        <translation>Группировать</translation>
+        <translation type="obsolete">Группировать</translation>
     </message>
     <message>
         <source>Hanging</source>
@@ -4890,7 +5120,7 @@ Slide</source>
     </message>
     <message>
         <source>Horizontal</source>
-        <translation>Горизонтальная</translation>
+        <translation type="obsolete">Горизонтальная</translation>
     </message>
     <message>
         <source>Horizontal direction</source>
@@ -4906,7 +5136,7 @@ Slide</source>
     </message>
     <message>
         <source>Increase Spacing</source>
-        <translation>Увеличить интервал</translation>
+        <translation type="obsolete">Увеличить интервал</translation>
     </message>
     <message>
         <source>Insert Online Picture</source>
@@ -5266,6 +5496,58 @@ Effects</source>
         <source>With Text Format</source>
         <translation type="obsolete">Текстовый формат</translation>
     </message>
+    <message>
+        <source>Add Section</source>
+        <translation>Добавить раздел</translation>
+    </message>
+    <message>
+        <source>Bulk Font Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation>Свернуть все</translation>
+    </message>
+    <message>
+        <source>Custom Text Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation>Развернуть все</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Presentation Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove All Sections</source>
+        <translation>Удалить все разделы</translation>
+    </message>
+    <message>
+        <source>Remove Section</source>
+        <translation>Удалить раздел</translation>
+    </message>
+    <message>
+        <source>Rename Section</source>
+        <translation>Переименовать раздел</translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Section</source>
+        <translation>Раздел</translation>
+    </message>
+    <message>
+        <source>Slide Show</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_home.Fill</name>
@@ -5354,7 +5636,7 @@ Music</source>
     </message>
     <message>
         <source>Catalog Slides</source>
-        <translation>Слайды каталога</translation>
+        <translation type="obsolete">Слайды каталога</translation>
     </message>
     <message>
         <source>Chart</source>
@@ -5370,7 +5652,7 @@ Music</source>
     </message>
     <message>
         <source>Cover Slides</source>
-        <translation>Титульные слайды</translation>
+        <translation type="obsolete">Титульные слайды</translation>
     </message>
     <message>
         <source>Data Table</source>
@@ -5390,7 +5672,7 @@ Music</source>
     </message>
     <message>
         <source>Ending Slides</source>
-        <translation>Завершающие слайды</translation>
+        <translation type="obsolete">Завершающие слайды</translation>
     </message>
     <message>
         <source>Equation</source>
@@ -5459,7 +5741,7 @@ Footer</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation>Вставить рисунки из Интернета</translation>
+        <translation type="unfinished">Вставить рисунки из Интернета</translation>
     </message>
     <message>
         <source>Insert Organization Chart</source>
@@ -5491,7 +5773,7 @@ Footer</source>
     </message>
     <message>
         <source>MainText Slides</source>
-        <translation>Слайды с основным текстом</translation>
+        <translation type="obsolete">Слайды с основным текстом</translation>
     </message>
     <message>
         <source>Media</source>
@@ -5511,7 +5793,7 @@ Footer</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>Рисунки из Интернета</translation>
+        <translation type="unfinished">Рисунки из Интернета</translation>
     </message>
     <message>
         <source>Organization
@@ -5525,7 +5807,7 @@ Chart</source>
     </message>
     <message>
         <source>Other</source>
-        <translation>Другие</translation>
+        <translation type="obsolete">Другие</translation>
     </message>
     <message>
         <source>Package File</source>
@@ -5554,12 +5836,12 @@ Chart</source>
     <message>
         <source>Slide
 Number</source>
-        <translation>Номер
+        <translation type="obsolete">Номер
 слайда</translation>
     </message>
     <message>
         <source>Slide Library</source>
-        <translation>Библиотека слайдов</translation>
+        <translation type="obsolete">Библиотека слайдов</translation>
     </message>
     <message>
         <source>Slide Number</source>
@@ -5567,11 +5849,11 @@ Number</source>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>Библиотека слайдов</translation>
+        <translation type="obsolete">Библиотека слайдов</translation>
     </message>
     <message>
         <source>Sound</source>
-        <translation>Звук</translation>
+        <translation type="obsolete">Звук</translation>
     </message>
     <message>
         <source>Symbol</source>
@@ -5579,7 +5861,7 @@ Number</source>
     </message>
     <message>
         <source>Symbols</source>
-        <translation>Символы</translation>
+        <translation type="obsolete">Символы</translation>
     </message>
     <message>
         <source>Table</source>
@@ -5587,7 +5869,7 @@ Number</source>
     </message>
     <message>
         <source>Tables</source>
-        <translation>Таблицы</translation>
+        <translation type="obsolete">Таблицы</translation>
     </message>
     <message>
         <source>Text</source>
@@ -5603,7 +5885,7 @@ Number</source>
     </message>
     <message>
         <source>Transition Slides</source>
-        <translation>Промежуточные слайды</translation>
+        <translation type="obsolete">Промежуточные слайды</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -5612,6 +5894,67 @@ Number</source>
     <message>
         <source>WordArt</source>
         <translation>Фигурный текст</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Smart Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link Background Music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link LocalVideo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link To Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Local Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Slide</source>
+        <translation>Новый 
+слайд</translation>
+    </message>
+    <message>
+        <source>Online Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>SmartArt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5695,6 +6038,10 @@ Number</source>
     <message>
         <source>footer Placeholder</source>
         <translation>Нижний колонтитул</translation>
+    </message>
+    <message>
+        <source>Phone Screen(9:16)</source>
+        <translation type="obsolete">Экран телефона (9:16)</translation>
     </message>
 </context>
 <context>
@@ -6496,7 +6843,7 @@ Picture</source>
     </message>
     <message>
         <source>Reset Picture and Size</source>
-        <translation>Сбросить рисунок и размер</translation>
+        <translation type="obsolete">Сбросить рисунок и размер</translation>
     </message>
     <message>
         <source>Rotate</source>
@@ -6623,6 +6970,30 @@ On/Off</source>
     <message>
         <source>Width</source>
         <translation>Толщина</translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation>Обрезать по масштабу</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation>Обрезать по форме</translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translation>Сохранить пропорции</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translation>Восстановить размер</translation>
     </message>
 </context>
 <context>
@@ -6788,6 +7159,54 @@ Order</source>
         <source>ZoomPercent</source>
         <translation type="obsolete">Масштаб (в процентах)</translation>
     </message>
+    <message>
+        <source>More Print Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paper Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paper Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Collate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Collate:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Copies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Copies:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Duplex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print Duplex:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printer Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printer Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printer Options</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_printpreview.PrevPrintHorizontal</name>
@@ -6819,11 +7238,13 @@ Order</source>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Преобразовать на упрощенный китайский</translation>
+        <translation>Преобразовать на 
+упрощенный китайский</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Преобразовать на традиционный китайский</translation>
+        <translation>Преобразовать на 
+традиционный китайский</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
@@ -6925,6 +7346,30 @@ Mark</source>
     <message>
         <source>Spell Check</source>
         <translation>Проверка правописания</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моих 
+разрешений</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений
+пользователя</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Разрешения 
+для документа</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>Защита 
+документа</translation>
     </message>
 </context>
 <context>
@@ -7288,7 +7733,7 @@ Layout</source>
     <message>
         <source>New Slide
 Master</source>
-        <translation>Создать образец
+        <translation type="obsolete">Создать образец
 слайдов</translation>
     </message>
     <message>
@@ -7303,7 +7748,7 @@ Master</source>
     </message>
     <message>
         <source>New Slide Master</source>
-        <translation>Создать образец
+        <translation type="obsolete">Создать образец
 слайдов</translation>
     </message>
     <message>
@@ -7365,6 +7810,10 @@ Background Picture</source>
     <message>
         <source>Underline</source>
         <translation>Подчеркнутый</translation>
+    </message>
+    <message>
+        <source>Master</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7476,7 +7925,7 @@ Timings</source>
     <message>
         <source>Slide
 Transition</source>
-        <translation>Смена
+        <translation type="obsolete">Смена
 слайдов</translation>
     </message>
     <message>
@@ -7806,7 +8255,7 @@ Cells</source>
     </message>
     <message>
         <source>Table</source>
-        <translation>Таблица</translation>
+        <translation type="obsolete">Таблица</translation>
     </message>
     <message>
         <source>Text
@@ -7853,6 +8302,18 @@ Direction</source>
     <message>
         <source>Wide</source>
         <translation>Широкие</translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7996,7 +8457,7 @@ Direction</source>
     </message>
     <message>
         <source>Font Fill Color</source>
-        <translation>Заливка текста</translation>
+        <translation type="obsolete">Заливка текста</translation>
     </message>
     <message>
         <source>Font Size</source>
@@ -8072,7 +8533,7 @@ Direction</source>
     </message>
     <message>
         <source>More Font Colors</source>
-        <translation>Другие цвета шрифта</translation>
+        <translation type="obsolete">Другие цвета шрифта</translation>
     </message>
     <message>
         <source>More Options...</source>
@@ -8194,6 +8655,22 @@ Direction</source>
         <source>WordArt Styles</source>
         <translation>Стили WordArt</translation>
     </message>
+    <message>
+        <source>Format Object</source>
+        <translation>Формат объекта</translation>
+    </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>Параметры</translation>
+    </message>
+    <message>
+        <source>Text To Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_texttool.Num</name>
@@ -8220,7 +8697,7 @@ All</source>
     <message>
         <source>COM
 Add-Ins</source>
-        <translation>Надстройки COM</translation>
+        <translation type="obsolete">Надстройки COM</translation>
     </message>
     <message>
         <source>COM Add-Ins</source>
@@ -8246,7 +8723,7 @@ Other Window</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>Разработчик</translation>
+        <translation type="obsolete">Разработчик</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -8952,7 +9429,7 @@ Spacing</source>
     </message>
     <message>
         <source>Insert WordArt</source>
-        <translation type="obsolete">Вставить фигурный текст</translation>
+        <translation>Вставить фигурный текст</translation>
     </message>
     <message>
         <source>Left Align</source>
@@ -9234,11 +9711,11 @@ Shape</source>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Массовая настройка шрифтов</translation>
+        <translation type="obsolete">Массовая настройка шрифтов</translation>
     </message>
     <message>
         <source>Cellphone Control</source>
-        <translation>Управление мобильным телефоном</translation>
+        <translation type="obsolete">Управление мобильным телефоном</translation>
     </message>
     <message>
         <source>CellphoneControl</source>
@@ -9250,7 +9727,7 @@ Shape</source>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation>Пользовательский формат текста</translation>
+        <translation type="obsolete">Пользовательский формат текста</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -9278,7 +9755,7 @@ Shape</source>
     </message>
     <message>
         <source>Export as Image</source>
-        <translation>Экспорт в рисунок</translation>
+        <translation type="obsolete">Экспорт в рисунок</translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -9322,7 +9799,7 @@ Shape</source>
     </message>
     <message>
         <source>Insert Picture To Multiple Slides</source>
-        <translation>Добавить рисунок в несколько слайдов</translation>
+        <translation type="obsolete">Добавить рисунок в несколько слайдов</translation>
     </message>
     <message>
         <source>KOS Change login</source>
@@ -9426,7 +9903,7 @@ Shape</source>
     </message>
     <message>
         <source>Presentation Tool</source>
-        <translation>Средство презентации</translation>
+        <translation type="obsolete">Средство презентации</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -9470,7 +9947,7 @@ Shape</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Отзывы пользователей</translation>
+        <translation>Отзывы пользователей</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -9491,6 +9968,104 @@ Shape</source>
     <message>
         <source>true</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Cloud File Guid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocTranslate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Mall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>personal</comment>
+        <translation type="obsolete">Роуминг файлов</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translation>Роуминг файлов</translation>
+    </message>
+    <message>
+        <source>File Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>H5 link Manager</source>
+        <translation type="obsolete">Управление общедоступными ссылками</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OneStep Save</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Player Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PomotedFeature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roaming File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharing File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Team File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation type="obsolete">Создать ссылку и передать</translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translation>XiuTang</translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translation>XiuTang H5</translation>
     </message>
 </context>
 <context>
@@ -9535,6 +10110,274 @@ Shape</source>
     <message>
         <source>Text Speech</source>
         <translation>Текст в речь</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocTranslate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter the access code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Materials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Model Essay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New Slide Online</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New from More Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Templates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>ProcessOnEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xie De</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9818,7 +10661,7 @@ Shape</source>
     </message>
     <message>
         <source>Background</source>
-        <translation>Фон</translation>
+        <translation type="obsolete">Фон</translation>
     </message>
     <message>
         <source>Background Music</source>
@@ -9923,7 +10766,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Change Picture</source>
-        <translation>Изменить рисунок</translation>
+        <translation type="obsolete">Изменить рисунок</translation>
     </message>
     <message>
         <source>Change Points</source>
@@ -9983,7 +10826,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Буфер обмена</translation>
+        <translation type="obsolete">Буфер обмена</translation>
     </message>
     <message>
         <source>Close</source>
@@ -10055,7 +10898,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Crop</source>
-        <translation>Обрезать</translation>
+        <translation type="obsolete">Обрезать</translation>
     </message>
     <message>
         <source>Crop By Scale</source>
@@ -10075,7 +10918,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Custom Animation</source>
-        <translation>Настройка анимации</translation>
+        <translation type="obsolete">Настройка анимации</translation>
     </message>
     <message>
         <source>Custom Slide Shows</source>
@@ -10179,7 +11022,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Delete Slide</source>
-        <translation>Удалить слайд</translation>
+        <translation type="obsolete">Удалить слайд</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -11059,7 +11902,7 @@ Master</source>
     </message>
     <message>
         <source>Order</source>
-        <translation>Расположение</translation>
+        <translation type="obsolete">Расположение</translation>
     </message>
     <message>
         <source>OrgChart</source>
@@ -11324,7 +12167,7 @@ Master</source>
     </message>
     <message>
         <source>Save as Picture</source>
-        <translation>Сохранить как рисунок</translation>
+        <translation type="obsolete">Сохранить как рисунок</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -11448,7 +12291,7 @@ Master</source>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Выйти</translation>
+        <translation type="obsolete">Выйти</translation>
     </message>
     <message>
         <source>Slide Layout</source>
@@ -11568,7 +12411,7 @@ Master</source>
     </message>
     <message>
         <source>Synonyms</source>
-        <translation type="obsolete">Синонимы</translation>
+        <translation>Синонимы</translation>
     </message>
     <message>
         <source>Table</source>
@@ -11753,6 +12596,202 @@ Master</source>
     <message>
         <source>true</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Add Section</source>
+        <translation>Добавить раздел</translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle and Center</source>
+        <translation>Выровнять по середине и по центру</translation>
+    </message>
+    <message>
+        <source>AlignCenter</source>
+        <translation>Выровнять по центру</translation>
+    </message>
+    <message>
+        <source>AlignLeft</source>
+        <translation>Выровнять по левому краю</translation>
+    </message>
+    <message>
+        <source>AlignRight</source>
+        <translation>Выровнять по правому краю</translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">Запрос разрешений</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Приобрести подписку</translation>
+    </message>
+    <message>
+        <source>Change Link Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моих разрешений</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений пользователя</translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collapse All</source>
+        <translation>Свернуть все</translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translation>Удалить объект</translation>
+    </message>
+    <message>
+        <source>Expand All</source>
+        <translation>Развернуть все</translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Smart Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert assist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape in after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape in before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape on above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape on below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Modify Movie Object</source>
+        <translation>Изменить данные мультимедиа</translation>
+    </message>
+    <message>
+        <source>More DesignTemplates</source>
+        <translation>Дополнительные макеты</translation>
+    </message>
+    <message>
+        <source>Move Section Down</source>
+        <translation>Переместить раздел вниз</translation>
+    </message>
+    <message>
+        <source>Move Section Up</source>
+        <translation>Переместить раздел вверх</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">Незавершенное утверждение</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">Мои запросы</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Мои подписки</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove All Sections</source>
+        <translation>Удалить все разделы</translation>
+    </message>
+    <message>
+        <source>Remove Section</source>
+        <translation>Удалить раздел</translation>
+    </message>
+    <message>
+        <source>Remove Section And Slides</source>
+        <translation>Удалить раздел и слайды</translation>
+    </message>
+    <message>
+        <source>Rename Section</source>
+        <translation>Переименовать раздел</translation>
+    </message>
+    <message>
+        <source>Save as Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation>Установить прокси</translation>
+    </message>
+    <message>
+        <source>Show/Hide Crop Panel</source>
+        <translation>Показать/скрыть панель обрезки</translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Выйти</translation>
+    </message>
+    <message>
+        <source>Text To Diagram</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">Управление шаблонами разрешений</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Создать ссылку и передать</translation>
     </message>
 </context>
 <context>
@@ -12253,7 +13292,7 @@ Master</source>
     </message>
     <message>
         <source>Bulk Font Setting</source>
-        <translation>Массовая настройка шрифтов</translation>
+        <translation type="obsolete">Массовая настройка шрифтов</translation>
     </message>
     <message>
         <source>Color
@@ -12270,7 +13309,7 @@ Schemes</source>
     </message>
     <message>
         <source>Custom Text Format</source>
-        <translation>Пользовательский формат текста</translation>
+        <translation type="obsolete">Пользовательский формат текста</translation>
     </message>
     <message>
         <source>Design Templates</source>
@@ -13518,11 +14557,11 @@ AddIns</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="obsolete">Изменить версию</translation>
+        <translation>Изменить версию</translation>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>Проверить обновления</translation>
+        <translation type="obsolete">Проверить обновления</translation>
     </message>
     <message>
         <source>Create CloudLink</source>
@@ -13538,7 +14577,7 @@ AddIns</source>
     </message>
     <message>
         <source>Docer Entrance</source>
-        <translation>Docer Entrance</translation>
+        <translation type="obsolete">Docer Entrance</translation>
     </message>
     <message>
         <source>Document Protection and Properties</source>
@@ -13554,7 +14593,7 @@ AddIns</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation>Ввести код активации</translation>
+        <translation type="obsolete">Ввести код активации</translation>
     </message>
     <message>
         <source>Export OFD Format</source>
@@ -13586,7 +14625,7 @@ AddIns</source>
     </message>
     <message>
         <source>File Information</source>
-        <translation>Информация о файле</translation>
+        <translation type="obsolete">Информация о файле</translation>
     </message>
     <message>
         <source>File Package</source>
@@ -13746,7 +14785,7 @@ AddIns</source>
     </message>
     <message>
         <source>Seek Help via Microblog</source>
-        <translation>Запрос справочной информации из микроблога</translation>
+        <translation type="obsolete">Запрос справочной информации из микроблога</translation>
     </message>
     <message>
         <source>Send E-mail</source>
@@ -13778,7 +14817,7 @@ AddIns</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="obsolete">Отзывы пользователей</translation>
+        <translation>Отзывы пользователей</translation>
     </message>
     <message>
         <source>View Permissions</source>
@@ -13810,11 +14849,11 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Office Forum</source>
-        <translation>Форум WPS Office</translation>
+        <translation type="obsolete">Форум WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>Домашняя страница WPS Office</translation>
+        <translation type="obsolete">Домашняя страница WPS Office</translation>
     </message>
     <message>
         <source>WPS Office New Features</source>
@@ -13822,7 +14861,7 @@ AddIns</source>
     </message>
     <message>
         <source>WPS Office Product Center</source>
-        <translation>Центр управления продукцией</translation>
+        <translation type="obsolete">Центр управления продукцией</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
@@ -13839,6 +14878,18 @@ AddIns</source>
     <message>
         <source>true</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14382,7 +15433,7 @@ Slide</source>
     </message>
     <message>
         <source>New Slide Online</source>
-        <translation>Новый слайд из Интернета</translation>
+        <translation type="obsolete">Новый слайд из Интернета</translation>
     </message>
     <message>
         <source>No 3-D</source>
@@ -15971,11 +17022,13 @@ Subordinate</source>
     </message>
     <message>
         <source>Convert to Simplified Chinese</source>
-        <translation>Преобразовать на упрощенный китайский</translation>
+        <translation>Преобразовать на 
+упрощенный китайский</translation>
     </message>
     <message>
         <source>Convert to Traditional Chinese</source>
-        <translation>Преобразовать на традиционный китайский</translation>
+        <translation>Преобразовать на 
+традиционный китайский</translation>
     </message>
     <message>
         <source>Covert to Simplified Chinese</source>
@@ -16853,6 +17906,10 @@ Settings</source>
         <source>WordArt Styles</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_texttool.Num</name>
@@ -16897,7 +17954,7 @@ Other Windows</source>
     </message>
     <message>
         <source>Developer</source>
-        <translation>Разработчик</translation>
+        <translation type="obsolete">Разработчик</translation>
     </message>
     <message>
         <source>Developer Tools</source>
@@ -17768,7 +18825,7 @@ Effects</source>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation type="obsolete">Управление мобильным телефоном</translation>
+        <translation type="unfinished">Управление мобильным телефоном</translation>
     </message>
     <message>
         <source>Cloud Link</source>
@@ -17932,7 +18989,7 @@ Effects</source>
     </message>
     <message>
         <source>Model Essay</source>
-        <translation>Проверка модели</translation>
+        <translation type="obsolete">Проверка модели</translation>
     </message>
     <message>
         <source>More from Microblog</source>
@@ -17972,7 +19029,7 @@ Effects</source>
     </message>
     <message>
         <source>SlideLibrary</source>
-        <translation>Библиотека слайдов</translation>
+        <translation type="obsolete">Библиотека слайдов</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -17996,7 +19053,7 @@ Effects</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Отзывы пользователей</translation>
+        <translation type="obsolete">Отзывы пользователей</translation>
     </message>
     <message>
         <source>Video Exporting</source>
@@ -18040,6 +19097,58 @@ Effects</source>
     <message>
         <source>Text Speech</source>
         <translation>Текст в речь</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share to Microblog Webpage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -20978,7 +22087,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Sign out</source>
-        <translation>Выйти</translation>
+        <translation type="obsolete">Выйти</translation>
     </message>
     <message>
         <source>Slide Library</source>
@@ -20998,7 +22107,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished">Отзывы пользователей</translation>
+        <translation type="obsolete">Отзывы пользователей</translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -21015,6 +22124,38 @@ Click the arrow to choose more outline styles.</source>
     <message>
         <source>true</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Приобрести подписку</translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Разрешения для документа</translation>
+    </message>
+    <message>
+        <source>H5 link Manager</source>
+        <translation type="obsolete">Управление общедоступными ссылками</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Мои подписки</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation>Выйти</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation type="obsolete">Создать ссылку и передать</translation>
     </message>
 </context>
 <context>
@@ -21102,6 +22243,26 @@ Click the arrow to choose more outline styles.</source>
         <source>Work Space</source>
         <translation type="obsolete">Рабочая область</translation>
     </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">PDF в Word</translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation>Текст в речь</translation>
+    </message>
 </context>
 <context>
     <name>wppclassics.mainwindow.commands.OrgChartAndDiagram</name>
@@ -21162,7 +22323,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>AutoShapes</source>
-        <translation type="obsolete">Автофигуры</translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>AutoShapes and Materials</source>
@@ -21194,7 +22355,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>CellphoneControl</source>
-        <translation>Управление мобильным телефоном</translation>
+        <translation type="unfinished">Управление мобильным телефоном</translation>
     </message>
     <message>
         <source>Center</source>
@@ -21202,7 +22363,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Change AutoShape</source>
-        <translation>Изменить автофигуру</translation>
+        <translation type="obsolete">Изменить автофигуру</translation>
     </message>
     <message>
         <source>ChangeAutoShape</source>
@@ -21234,11 +22395,11 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Clipboard</source>
-        <translation>Буфер обмена</translation>
+        <translation type="obsolete">Буфер обмена</translation>
     </message>
     <message>
         <source>Clipboard Pane</source>
-        <translation>Область буфера обмена</translation>
+        <translation type="obsolete">Область буфера обмена</translation>
     </message>
     <message>
         <source>Close</source>
@@ -21358,7 +22519,7 @@ Click the arrow to choose more outline styles.</source>
     </message>
     <message>
         <source>Dynamic Shapes</source>
-        <translation>Динамические формы</translation>
+        <translation type="obsolete">Динамические формы</translation>
     </message>
     <message>
         <source>DynamicShape</source>
@@ -21460,7 +22621,7 @@ Slide</source>
     </message>
     <message>
         <source>High Resolution Setting</source>
-        <translation>С высоким разрешением параметр</translation>
+        <translation type="obsolete">С высоким разрешением параметр</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -21556,7 +22717,7 @@ Slide</source>
     </message>
     <message>
         <source>Materials</source>
-        <translation type="obsolete">Автофигуры</translation>
+        <translation>Автофигуры</translation>
     </message>
     <message>
         <source>MoreEffects</source>
@@ -21632,7 +22793,7 @@ Slide</source>
     </message>
     <message>
         <source>New Next Slide</source>
-        <translation>Новый следующий слайд</translation>
+        <translation type="obsolete">Новый следующий слайд</translation>
     </message>
     <message>
         <source>New Presentation</source>
@@ -21640,7 +22801,7 @@ Slide</source>
     </message>
     <message>
         <source>New Slide</source>
-        <translation type="obsolete">Новый слайд</translation>
+        <translation>Новый слайд</translation>
     </message>
     <message>
         <source>New Slide From Library</source>
@@ -21777,7 +22938,7 @@ Slide</source>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Заметки</translation>
+        <translation type="obsolete">Заметки</translation>
     </message>
     <message>
         <source>Notes Pane</source>
@@ -21813,7 +22974,7 @@ Slide</source>
     </message>
     <message>
         <source>Options</source>
-        <translation>Параметры</translation>
+        <translation type="obsolete">Параметры</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -21954,7 +23115,7 @@ Slide</source>
     </message>
     <message>
         <source>Share</source>
-        <translation>Поделиться</translation>
+        <translation type="obsolete">Поделиться</translation>
     </message>
     <message>
         <source>Show / Hide Grid</source>
@@ -22070,11 +23231,11 @@ Slide</source>
     </message>
     <message>
         <source>Switch to next window</source>
-        <translation type="obsolete">Переключить на следующее окно</translation>
+        <translation>Переключить на следующее окно</translation>
     </message>
     <message>
         <source>Switch to previous window</source>
-        <translation type="obsolete">Переключить на предыдущее окно</translation>
+        <translation>Переключить на предыдущее окно</translation>
     </message>
     <message>
         <source>Symbol Toolbar</source>
@@ -22118,7 +23279,7 @@ Slide</source>
     </message>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">Тезаурус</translation>
+        <translation>Тезаурус</translation>
     </message>
     <message>
         <source>ToolBars</source>
@@ -22198,7 +23359,7 @@ Slide</source>
     </message>
     <message>
         <source>change template</source>
-        <translation>изменение шаблона</translation>
+        <translation type="obsolete">изменение шаблона</translation>
     </message>
     <message>
         <source>magic</source>
@@ -22207,6 +23368,346 @@ Slide</source>
     <message>
         <source>statusbar</source>
         <translation type="obsolete">строка состояния</translation>
+    </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation>Добавить рамку рисунка</translation>
+    </message>
+    <message>
+        <source>Auto Backup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation>Фон</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Settings</source>
+        <translation type="obsolete">Параметры резервного копирования</translation>
+    </message>
+    <message>
+        <source>Change Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Count</source>
+        <translation type="obsolete">Изменить число элементов</translation>
+    </message>
+    <message>
+        <source>Change Diagram</source>
+        <translation type="obsolete">Изменить схему</translation>
+    </message>
+    <message>
+        <source>Change Layout</source>
+        <translation type="obsolete">Изменить структуру</translation>
+    </message>
+    <message>
+        <source>Change Num</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Paste Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Изменить рисунок</translation>
+    </message>
+    <message>
+        <source>Change Style</source>
+        <translation>Изменить стиль</translation>
+    </message>
+    <message>
+        <source>Cloud Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation>Обрезать</translation>
+    </message>
+    <message>
+        <source>Delete All Notes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Note In Current Slide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Slide</source>
+        <translation>Удалить слайд</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление документа</translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>Экспорт в PDF</translation>
+    </message>
+    <message>
+        <source>ExtendObjectTrigger</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>Справка</translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation>Справка и часто задаваемые вопросы</translation>
+    </message>
+    <message>
+        <source>Image Preview Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Import Templates</source>
+        <translation>Импортировать шаблоны</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="obsolete">Вставить рисунок</translation>
+    </message>
+    <message>
+        <source>Insert Picture To Multiple Slides</source>
+        <translation type="obsolete">Вставить рисунок на нескольких слайдах</translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intelligent Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interactive PPT on WeChat</source>
+        <translation>Интерактивная презентация в формате PPT в WeChat</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Шаблоны из Интернета</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translation>Презентация Microsoft PowerPoint 97–2003 (*.ppt)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation Template</source>
+        <translation>Шаблон презентации Microsoft PowerPoint 97-2003 (*.pot)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Show</source>
+        <translation>Слайд-шоу Microsoft PowerPoint 97-2003 (*.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation>Презентация Microsoft PowerPoint (*.pptx)</translation>
+    </message>
+    <message>
+        <source>More Templates</source>
+        <translation>Другие шаблоны</translation>
+    </message>
+    <message>
+        <source>New Blank Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New File Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New From Design Template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NoteViewVisible DeleteNotes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Formats</source>
+        <translation>Другие форматы</translation>
+    </message>
+    <message>
+        <source>Permission Protected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="obsolete">Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>ProcessOnEntry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save a Copy of the Document</source>
+        <translation>Сохранить копию документа</translation>
+    </message>
+    <message>
+        <source>Save as Picture</source>
+        <translation>Сохранить как рисунок</translation>
+    </message>
+    <message>
+        <source>Section Miniature</source>
+        <translation>Миниатюра раздела</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Безопасность</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share Play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transfer to WPS Writer Document</source>
+        <translation>Перенаправление в документ WPS Writer</translation>
+    </message>
+    <message>
+        <source>WPS Presentation File</source>
+        <translation>Файл презентации WPS (*.dps)</translation>
+    </message>
+    <message>
+        <source>WPS Presentation Template</source>
+        <translation>Шаблон презентации WPS (*.dpt)</translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation>Создать ссылку и передать</translation>
+    </message>
+    <message>
+        <source>true</source>
+        <translation>истина</translation>
     </message>
 </context>
 <context>
@@ -22279,6 +23780,10 @@ Slide</source>
         <source>Slide Sorter</source>
         <translation>Сортировщик слайдов</translation>
     </message>
+    <message>
+        <source>Player Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wppongmani.mainwindow</name>
@@ -22343,7 +23848,7 @@ Slide</source>
     </message>
     <message>
         <source>Drawing Tool</source>
-        <translation>Инструменты рисования</translation>
+        <translation type="obsolete">Инструменты рисования</translation>
     </message>
     <message>
         <source>Drawing Tool - Compatibility Mode</source>
@@ -22367,7 +23872,7 @@ Slide</source>
     </message>
     <message>
         <source>Formats</source>
-        <translation>Форматы</translation>
+        <translation type="obsolete">Форматы</translation>
     </message>
     <message>
         <source>Handout Master</source>
@@ -22431,7 +23936,7 @@ Slide</source>
     </message>
     <message>
         <source>News</source>
-        <translation>Новости</translation>
+        <translation type="obsolete">Новости</translation>
     </message>
     <message>
         <source>Notes Master</source>
@@ -22455,7 +23960,7 @@ Slide</source>
     </message>
     <message>
         <source>Organization Chart</source>
-        <translation type="obsolete">Организационная диаграмма</translation>
+        <translation type="unfinished">Организационная диаграмма</translation>
     </message>
     <message>
         <source>Output Shape Thumbnail</source>
@@ -22463,7 +23968,7 @@ Slide</source>
     </message>
     <message>
         <source>Personal Center</source>
-        <translation>Личный центр</translation>
+        <translation type="obsolete">Личный центр</translation>
     </message>
     <message>
         <source>Picture Tool</source>
@@ -22547,7 +24052,7 @@ Slide</source>
     </message>
     <message>
         <source>Special Features</source>
-        <translation>Дополнительные возможности</translation>
+        <translation type="unfinished">Дополнительные возможности</translation>
     </message>
     <message>
         <source>Stick the ToolBar</source>
@@ -22575,7 +24080,7 @@ Slide</source>
     </message>
     <message>
         <source>Touch Mode</source>
-        <translation type="obsolete">Режим касания</translation>
+        <translation>Режим касания</translation>
     </message>
     <message>
         <source>User Sign In</source>
@@ -22623,7 +24128,7 @@ Slide</source>
     </message>
     <message>
         <source>WordArt</source>
-        <translation>Фигурный текст</translation>
+        <translation type="obsolete">Фигурный текст</translation>
     </message>
     <message>
         <source>WordArt Formats</source>
@@ -22635,7 +24140,7 @@ Slide</source>
     </message>
     <message>
         <source>formats</source>
-        <translation>Форматы</translation>
+        <translation type="obsolete">Форматы</translation>
     </message>
     <message>
         <source>setting</source>
@@ -22644,6 +24149,232 @@ Slide</source>
     <message>
         <source>testRbTabWidget</source>
         <translation>testRbTabWidget</translation>
+    </message>
+    <message>
+        <source>Account Upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation>Приобрести подписку</translation>
+    </message>
+    <message>
+        <source>Cellphone Control</source>
+        <translation>Управление мобильным телефоном</translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation>Изменить рисунок</translation>
+    </message>
+    <message>
+        <source>Cloud File Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convenient Sharing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocTranslate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Исправление 
+документа</translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation>Шрифт</translation>
+    </message>
+    <message>
+        <source>Font Fill Color</source>
+        <translation>Заливка текста</translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation>Формат
+по образцу</translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation>Группа</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>Горизонтальное текстовое поле</translation>
+    </message>
+    <message>
+        <source>Increase Spacing</source>
+        <translation>Увеличить интервал</translation>
+    </message>
+    <message>
+        <source>Interface Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation>Другие цвета шрифта</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>Мои подписки</translation>
+    </message>
+    <message>
+        <source>New Slide</source>
+        <translation>Новый слайд</translation>
+    </message>
+    <message>
+        <source>Online Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation type="obsolete">PDF в Word</translation>
+    </message>
+    <message>
+        <source>PDF to Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation>PDF в Word</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation>Рисунок в текст</translation>
+    </message>
+    <message>
+        <source>Quick Retrieve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon Auto Show/Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon center alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation>Безопасность</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Taskpane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SmartArt Design</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SmartArt Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation>Пипетка</translation>
+    </message>
+    <message>
+        <source>Stick the Toolbar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video Tools</source>
+        <translation>Инструменты для работы с видео</translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Денежный подарок</translation>
+    </message>
+    <message>
+        <source>Xie De</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>accout info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>accout secure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>enterprise Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>member Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>message Center</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22998,6 +24729,14 @@ Slide</source>
         <source>testRbTabWidget</source>
         <translation>testRbTabWidget</translation>
     </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Подключаемый модуль пакета WPS</translation>
+    </message>
 </context>
 <context>
     <name>wpprainbow.mainwindow.commands.Diagram</name>
@@ -23047,6 +24786,554 @@ Slide</source>
     <message>
         <source>Organization Chart</source>
         <translation type="obsolete">Организационная диаграмма</translation>
+    </message>
+</context>
+<context>
+    <name>classics.proxycommands</name>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Images</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Model Essay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Slide Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_audiotool</name>
+    <message>
+        <source>Audio Play Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Begin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade In</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fade Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hidden when play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loop until stopped</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media vol</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Audio Across Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play across page:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play current page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rewind movie when done playing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set background music</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Intensity</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trim Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">Запрос 
+разрешений</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Проверка моих 
+разрешений</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Проверка разрешений
+пользователя</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="obsolete">Защита 
+документа</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">Незавершенное 
+утверждение</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">Мои 
+запросы</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Permissions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">Управление шаблонами 
+разрешений</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_smartartdesign</name>
+    <message>
+        <source>Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Graph</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Bullet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert assist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape in after</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape in before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape on above</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert shape on below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Hang</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce Level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Hang</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RightToLeft Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>smart-art Shape pos</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>smart-art Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_smartartformattool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Formatting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pattern</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PicOrTexture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shape Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>smart-art Shape Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_videotool</name>
+    <message>
+        <source>Auto</source>
+        <translation>Авто</translation>
+    </message>
+    <message>
+        <source>Hide While Not Playing</source>
+        <translation type="obsolete">Скрывать, когда нет воспроизведения</translation>
+    </message>
+    <message>
+        <source>High</source>
+        <translation type="obsolete">Высокий</translation>
+    </message>
+    <message>
+        <source>Loop until Stopped</source>
+        <translation type="obsolete">Непрерывное воспроизведение</translation>
+    </message>
+    <message>
+        <source>Loop until stopped</source>
+        <translation>Непрерывное воспроизведение</translation>
+    </message>
+    <message>
+        <source>Low</source>
+        <translation type="obsolete">Низкий</translation>
+    </message>
+    <message>
+        <source>Media Play</source>
+        <translation type="obsolete">Воспроизвести</translation>
+    </message>
+    <message>
+        <source>Medium</source>
+        <translation type="obsolete">Средний</translation>
+    </message>
+    <message>
+        <source>Mute</source>
+        <translation type="obsolete">Отключить звук</translation>
+    </message>
+    <message>
+        <source>Play Full Screen</source>
+        <translation type="obsolete">Полноэкранный вид</translation>
+    </message>
+    <message>
+        <source>Rewind after Playing</source>
+        <translation type="obsolete">Перемотать назад после воспроизведения</translation>
+    </message>
+    <message>
+        <source>Rewind movie when done playing</source>
+        <translation>Перемотать назад после воспроизведения</translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation>Размер</translation>
+    </message>
+    <message>
+        <source>Start:</source>
+        <translation>Начало:</translation>
+    </message>
+    <message>
+        <source>Trim
+Video</source>
+        <translation type="obsolete">Обрезать
+видео</translation>
+    </message>
+    <message>
+        <source>Video Play Setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume</source>
+        <translation type="obsolete">Громкость</translation>
+    </message>
+    <message>
+        <source>full screen paly</source>
+        <translation>Полноэкранный вид</translation>
+    </message>
+    <message>
+        <source>hidden when stop</source>
+        <translation>Скрывать, когда нет воспроизведения</translation>
+    </message>
+    <message>
+        <source>hight</source>
+        <translation>Высокий</translation>
+    </message>
+    <message>
+        <source>low</source>
+        <translation>Низкий</translation>
+    </message>
+    <message>
+        <source>media play</source>
+        <translation>Воспроизвести</translation>
+    </message>
+    <message>
+        <source>media trim</source>
+        <translation>Обрезать 
+мультимедиа</translation>
+    </message>
+    <message>
+        <source>media vol</source>
+        <translation>Громкость</translation>
+    </message>
+    <message>
+        <source>mid</source>
+        <translation>Средний</translation>
+    </message>
+    <message>
+        <source>mute</source>
+        <translation>Отключить звук</translation>
     </message>
 </context>
 </TS>

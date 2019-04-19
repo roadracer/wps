@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation>立即購買 &gt;&gt;</translation>
+        <translation type="obsolete">立即購買 &gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
@@ -41,7 +41,11 @@
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation>立即續訂 &gt;&gt;</translation>
+        <translation type="obsolete">立即續訂 &gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>聯絡電子郵件: gch@wps.cn</translation>
     </message>
 </context>
 <context>
@@ -79,15 +83,15 @@
     </message>
     <message>
         <source>(&quot;Name&quot; is the name of the document&apos;s author and reviewer)</source>
-        <translation>（“姓名”將是您的檔案的作者名字和備註內容的備註名字）</translation>
+        <translation>（“名稱”將是您的檔案的作者名字和備註內容的備註名字）</translation>
     </message>
     <message>
         <source>Initials:</source>
-        <translation>縮寫(&amp;A)</translation>
+        <translation>縮寫(&amp;A):</translation>
     </message>
     <message>
         <source>Organization:</source>
-        <translation>公司：</translation>
+        <translation>公司(&amp;C):</translation>
     </message>
     <message>
         <source>* Serial No.:</source>
@@ -112,6 +116,14 @@
     <message>
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
         <translation type="obsolete">序號存檔失敗，請確認您是否有管理員許可權</translation>
+    </message>
+    <message>
+        <source>* Unit:</source>
+        <translation>* 單位:</translation>
+    </message>
+    <message>
+        <source>Please Choose</source>
+        <translation>請選取</translation>
     </message>
 </context>
 <context>
@@ -167,7 +179,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy/renew Now</source>
-        <translation>立即購買/立即續訂</translation>
+        <translation type="obsolete">立即購買/立即續訂</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>聯絡電子郵件: gch@wps.cn</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;非常抱歉地通知您，本軟體的授權已過期，即將轉為功能受限。請盡快聯絡貴單位IT管理員以獲得新的軟體授權。如有疑問，請撥打 WPS Office 客服熱線 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -212,35 +232,35 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgQingRestrict</name>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation type="unfinished">WPS Office 停用功能</translation>
+        <translation type="obsolete">WPS Office 停用功能</translation>
     </message>
     <message>
         <source>WPS Office Limited Features</source>
-        <translation type="unfinished">WPS Office 限制功能</translation>
+        <translation type="obsolete">WPS Office 限制功能</translation>
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation type="unfinished">免費版本無法使用這個功能。</translation>
+        <translation type="obsolete">免費版本無法使用這個功能。</translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation type="unfinished">如果您是付費用戶，可通過以下任一方式使用：</translation>
+        <translation type="obsolete">如果您是付費用戶，可通過以下任一方式使用：</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished">登入</translation>
+        <translation type="obsolete">登入</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation type="unfinished">如果您已經購買個人訂閱，請登入您的 WPS Office。</translation>
+        <translation type="obsolete">如果您已經購買個人訂閱，請登入您的 WPS Office。</translation>
     </message>
     <message>
         <source>Enter your activation code</source>
-        <translation type="unfinished">輸入您的啟用代碼</translation>
+        <translation type="obsolete">輸入您的啟用代碼</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished">如果您已經取得啟動代碼，請啟動 WPS Office。</translation>
+        <translation type="obsolete">如果您已經取得啟動代碼，請啟動 WPS Office。</translation>
     </message>
 </context>
 <context>
@@ -321,7 +341,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;Trial period is over.You will enter the preview mode that offer a unnormal funtion of WPS Office.If need to continue to use,please buy the WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; color:#343434;&quot;&gt;您使用的 WPS Office 已過試用期。您將進入瀏覽模式，無法正常使用 WPS Office。若要恢復正常使用，請購買 WPS Office&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>preview mode</source>
@@ -330,6 +350,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Buy Now</source>
         <translation>立即購買</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation>聯絡電子郵件: gch@wps.cn</translation>
     </message>
 </context>
 <context>
@@ -396,6 +420,10 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Download</source>
         <translation>立即下載(&amp;D)</translation>
     </message>
+    <message>
+        <source>Never show again</source>
+        <translation>不再提示</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgVbaReminder</name>
@@ -413,7 +441,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">確定</translation>
+        <translation type="obsolete">確定</translation>
     </message>
     <message>
         <source>Learn More</source>
@@ -421,7 +449,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>LEARN MORE</source>
-        <translation type="obsolete">更多資訊</translation>
+        <translation>更多資訊</translation>
     </message>
 </context>
 <context>
@@ -470,6 +498,14 @@ p, li { white-space: pre-wrap; }
         <source>&lt;u&gt;Buy WPS Professional&lt;/u&gt;</source>
         <translation type="obsolete">&lt;u&gt;購買 WPS 專業版&lt;/u&gt;</translation>
     </message>
+    <message>
+        <source>Enter Serial Number</source>
+        <translation>輸入啟用代碼</translation>
+    </message>
+    <message>
+        <source>Activate WPS Office with existing Serial Number.</source>
+        <translation>輸入啟動代碼以啟動 WPS Office。</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWelcomePage</name>
@@ -483,23 +519,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Personal Edition(Free)</source>
-        <translation type="obsolete">個人版(免費)</translation>
+        <translation>個人版(免費)</translation>
     </message>
     <message>
         <source>Did you purchase WPS Office?</source>
-        <translation type="obsolete">您是否已經購買了WPS Office?</translation>
+        <translation>您是否已經購買了WPS Office?</translation>
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
-        <translation type="obsolete">按一下這裡以%1登入%2或%3輸入啟用代碼%4</translation>
+        <translation>按一下這裡以%1登入%2或%3輸入啟用代碼%4</translation>
     </message>
     <message>
         <source>Need Help?</source>
-        <translation type="obsolete">需要協助嗎?</translation>
+        <translation>需要協助嗎?</translation>
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
-        <translation type="obsolete">包含 WPS Office 商業版的%1天免費試用期，%2開始試用&gt;&gt;%3</translation>
+        <translation>包含 WPS Office 商業版的%1天免費試用期，%2開始試用&gt;&gt;%3</translation>
     </message>
 </context>
 <context>
@@ -510,7 +546,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as docx format</source>
-        <translation>儲存格式為 docx</translation>
+        <translation type="obsolete">儲存格式為 docx</translation>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
@@ -586,7 +622,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as xlsx/xlsm format</source>
-        <translation>儲存格式為 xlsx/xlsm</translation>
+        <translation type="obsolete">儲存格式為 xlsx/xlsm</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -644,16 +680,24 @@ p, li { white-space: pre-wrap; }
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
         <translation type="obsolete">[規劃求解] 允許您同時查看許多可能的輸入所產生的結果。</translation>
     </message>
+    <message>
+        <source>Print</source>
+        <translation>列印</translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation>匯出 PDF 檔案</translation>
+    </message>
 </context>
 <context>
     <name>KxOverdueDlg</name>
     <message>
         <source>Your WPS Office trial period has expired and you are about to enter into Viewer mode. Please enter a valid serial number to continue using the application. If you do not have a valid serial number, please purchase one at the</source>
-        <translation>因為您使用的Kingsoft Office已過試用期，所以以後您本機的Kingsoft Office將變為不能進行編輯的瀏覽模式。如果您輸入購買的序號，將可以使用全部功能。您可以點擊下方連結，以查看最新的產品資訊</translation>
+        <translation>因為您使用的WPS Office已過試用期，所以以後您本機的WPS Office將變為不能進行編輯的瀏覽模式。如果您輸入購買的序號，將可以使用全部功能。您可以點擊下方連結，以查看最新的產品資訊</translation>
     </message>
     <message>
         <source>Your WPS Office trial period has expired and print will be disabled. Please enter a valid serial number to activate. If you do not have a valid serial number, you can purchase one at the</source>
-        <translation>您使用的Kingsoft Office已過試用期，將停止列印功能。請輸入正式的序號，或者點擊下方連結，購買正式序號</translation>
+        <translation>您使用的WPS Office已過試用期，將停止列印功能。請輸入正式的序號，或者點擊下方連結，購買正式序號</translation>
     </message>
     <message>
         <source>Thank you for using the trial version of our product.</source>
@@ -669,7 +713,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>WPS Online Store.</source>
-        <translation>Kingsoft線上服務</translation>
+        <translation>WPS線上服務</translation>
     </message>
     <message>
         <source>Input Serial Number</source>
@@ -712,7 +756,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activation code expires on:</source>
-        <translation type="unfinished">啟用代碼到期日</translation>
+        <translation type="obsolete">啟用代碼到期日</translation>
     </message>
     <message>
         <source>yyyy-mm-dd</source>
@@ -812,11 +856,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activation code expires on: %1</source>
-        <translation type="obsolete">啟用代碼失效日期: %1</translation>
+        <translation>啟用代碼失效日期: %1</translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation type="obsolete">終身授權</translation>
+        <translation>終身授權</translation>
+    </message>
+    <message>
+        <source>The serial number is not support this platform.</source>
+        <translation>無法用此序號啟動 Windows 版的 WPS Office.</translation>
+    </message>
+    <message>
+        <source>Please check your network connection or %1configure proxy%2 and try again.</source>
+        <translation>請檢查網路連線或%1 Proxy 設定%2，并再試一次。</translation>
+    </message>
+    <message>
+        <source>WPS Office Serial Number</source>
+        <translation>WPS Office 啟用代碼</translation>
+    </message>
+    <message>
+        <source>Add SN Succeed.</source>
+        <translation>新增序號成功</translation>
+    </message>
+    <message>
+        <source>&lt;u&gt;Use other SN or Activation codes&lt;/u&gt;</source>
+        <translation>&lt;u&gt;使用其他序號或啟用代碼&lt;/u&gt;</translation>
+    </message>
+    <message>
+        <source>Activation/SN code expires on: %1</source>
+        <translation>啟用代碼到期日: %1</translation>
     </message>
 </context>
 <context>
@@ -916,12 +984,36 @@ After expiration, some features will not work properly. Please renew now. </sour
         <source>Cannot connect to the server, thus activation fails. Please check your network connection and try again.</source>
         <translation>無法連線到伺服器造成它無法啟用。請檢查您的網路連線，然後再試一次。</translation>
     </message>
+    <message>
+        <source>Upgrade to WPS Office Business Edition</source>
+        <translation type="obsolete">升級為 WPS Office 商業版</translation>
+    </message>
+    <message>
+        <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
+        <translation type="obsolete">若要使用包含 VBA 在內的高級功能，您需要升級為 WPS Office 商業版。按一下這裡造訪購買頁面，以取得相關資訊。</translation>
+    </message>
+    <message>
+        <source>Buy</source>
+        <translation>購買</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>啟動</translation>
+    </message>
+    <message>
+        <source>Purchase License</source>
+        <translation>購買授權</translation>
+    </message>
+    <message>
+        <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
+        <translation>購買授權以移除廣告并享受額外服務。</translation>
+    </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
     <message>
         <source>Buy/Renew Now</source>
-        <translation type="unfinished">立即購買/立即續訂</translation>
+        <translation type="obsolete">立即購買/立即續訂</translation>
     </message>
 </context>
 <context>
@@ -1016,6 +1108,10 @@ After expiration, some features will not work properly. Please renew now. </sour
         <source>Print With Watermark</source>
         <translation type="obsolete">列印浮水印</translation>
     </message>
+    <message>
+        <source>Feature for Paid Users</source>
+        <translation type="obsolete">高級版本</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgRestriction</name>
@@ -1078,6 +1174,61 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Log Out</source>
         <translation type="obsolete">登出</translation>
+    </message>
+</context>
+<context>
+    <name>KLoginStatusTipWidget</name>
+    <message>
+        <source>Failed to launch Qing process</source>
+        <translation type="obsolete">無法啟動輕辦公程序</translation>
+    </message>
+    <message>
+        <source>IPC errors occured when Get login information</source>
+        <translation type="obsolete">登入期間發生了IPC錯誤</translation>
+    </message>
+    <message>
+        <source>RPC errors occured when Get login information</source>
+        <translation type="obsolete">登入期間發生了RPC錯誤</translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterMenuButton</name>
+    <message>
+        <source>abnormal network status, turn to be offline status</source>
+        <translation>網路連線錯誤。現在處於離線狀態。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPromeExpireReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation>授權已到期</translation>
+    </message>
+    <message>
+        <source>Preview Mode</source>
+        <translation>預覽模式</translation>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation>若有疑問請撥打WPS客服熱線400-677-5005，或掃描左邊客服QR碼</translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaDownloadGuiderDlg</name>
+    <message>
+        <source>tips</source>
+        <translation>提示</translation>
+    </message>
+    <message>
+        <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
+        <translation>啟動巨集功能，需要安裝VBA支援庫，按一下按鈕以下載VBA。如果已經安裝了VBA，請重新啟動WPS。</translation>
+    </message>
+    <message>
+        <source>download</source>
+        <translation>現在下載</translation>
     </message>
 </context>
 </TS>

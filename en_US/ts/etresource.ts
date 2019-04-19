@@ -892,6 +892,14 @@ OLE DB Query</source>
         <source>Refresh Data</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>classics.formatting</name>
@@ -1127,6 +1135,14 @@ OLE DB Query</source>
         <source>Total Row</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>classics.ole_options</name>
@@ -1356,6 +1372,82 @@ OLE DB Query</source>
         <source>Table Options</source>
         <translation type="obsolete">PivotTable Options</translation>
     </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chart Wizard</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable Selection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Entire PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On PivotChart</source>
+        <translation>Hide All Field Buttons on PivotChart</translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Labels And Values</source>
+        <translation>Labels and Values</translation>
+    </message>
+    <message>
+        <source>List Formulas</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable Wizard</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>classics.pivot_table.Order</name>
@@ -1446,7 +1538,8 @@ OLE DB Query</source>
     <name>classics.record_macro</name>
     <message>
         <source>Relative References</source>
-        <translation></translation>
+        <translation>Relative 
+References</translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -1756,11 +1849,11 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation></translation>
+        <translation>Convert to Simplified Chinese</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation></translation>
+        <translation>Convert to Traditional Chinese</translation>
     </message>
     <message>
         <source>Transpose</source>
@@ -1789,6 +1882,18 @@ OLE DB Query</source>
     <message>
         <source>Zoom</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Online Templates</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WPS Customer Service on WeChat</translation>
     </message>
 </context>
 <context>
@@ -2022,6 +2127,22 @@ OLE DB Query</source>
         <source>Worksheet Menu Bar</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Document Fix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text Speech</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>etcommon.mainwindow.commands</name>
@@ -2083,7 +2204,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation></translation>
+        <translation>Calculate 
+Sheet</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2447,7 +2569,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation>Picture Preview</translation>
+        <translation>Picture 
+Preview</translation>
     </message>
     <message>
         <source>Increase Font Size</source>
@@ -2539,7 +2662,7 @@ OLE DB Query</source>
     </message>
     <message>
         <source>New</source>
-        <translation></translation>
+        <translation>New Blank Workbook</translation>
     </message>
     <message>
         <source>New Blank Document</source>
@@ -2895,7 +3018,8 @@ Data</source>
     </message>
     <message>
         <source>Screen Grab</source>
-        <translation></translation>
+        <translation>Screen 
+Grab</translation>
     </message>
     <message>
         <source>Screen Grab</source>
@@ -2948,7 +3072,7 @@ Data</source>
     </message>
     <message>
         <source>Shapes</source>
-        <translation type="obsolete">Shapes</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shapes Popup Menu</source>
@@ -3128,6 +3252,355 @@ Window</source>
         <source>statusbar</source>
         <translation type="obsolete">Status Bar</translation>
     </message>
+    <message>
+        <source>Add Picture Frame</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Auto Backup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AutoFilter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cells Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Contents</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Filter from Slicers</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cloud Page</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation>Share</translation>
+    </message>
+    <message>
+        <source>Column Header</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Comment Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Comment Text Popup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete Cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Editing is limited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable Macro</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Export to Picture</translation>
+    </message>
+    <message>
+        <source>Export to OFD</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ExtendObjectTrigger</source>
+        <translation>Edit Extent Object</translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation>Share</translation>
+    </message>
+    <message>
+        <source>Fill Color</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format as Table</source>
+        <translation>Table Style</translation>
+    </message>
+    <message>
+        <source>Freeze First Column</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Freeze Panes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Freeze Top Row</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Full Text Search</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Image Preview Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>Insert Pictures from Phone</translation>
+    </message>
+    <message>
+        <source>Insert Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation>Insert Barcode</translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Online Templates</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>Create Share Link</translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Files</source>
+        <translation>Microsoft Excel 97-2003 Files (*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Templates</source>
+        <translation>Microsoft Excel 97-2003 Templates (*.xlt)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Files</source>
+        <translation>Microsoft Excel Files (*.xlsx)</translation>
+    </message>
+    <message>
+        <source>New Excel Workbook</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Excel Workbook(E)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New File Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>New PivotTable Style</translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Other Formats</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PasteAsValues</source>
+        <translation>Paste as Values</translation>
+    </message>
+    <message>
+        <source>Permission Protected</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Picture to PDF</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>Convert All Pictures</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>Convert Selected Picture</translation>
+    </message>
+    <message>
+        <source>Pivot Table Style Options</source>
+        <translation>PivotTable Style Options</translation>
+    </message>
+    <message>
+        <source>PivotTable Context Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation>QR Code</translation>
+    </message>
+    <message>
+        <source>Query</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation>Recommended</translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation>Recommend Templates from Docer</translation>
+    </message>
+    <message>
+        <source>Refresh All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh Data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Report Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Row Header</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save a Copy of the Document</source>
+        <translation>Save a Copy of the Document</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>Send Pictures</translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation>Send by QQ</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Formulas</source>
+        <translation>Show Formula</translation>
+    </message>
+    <message>
+        <source>Slicer Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Thesaurus</source>
+        <translatorcomment>Review→Thesaurus</translatorcomment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Timing Backup Menu</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unfreeze Panes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets 2007/2010 Files</source>
+        <translation>WPS Spreadsheets 2007/2010 Files (*.etx)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Files</source>
+        <translation>WPS Spreadsheets Files (*.et)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets Templates</source>
+        <translation>WPS Spreadsheets Templates (*.ett)</translation>
+    </message>
 </context>
 <context>
     <name>etcommon.mainwindow.commands.DataGroup</name>
@@ -3217,7 +3690,7 @@ Window</source>
     </message>
     <message>
         <source>Hide the Toolbar</source>
-        <translation type="obsolete">Hide Toolbar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Home</source>
@@ -3357,7 +3830,7 @@ Window</source>
     </message>
     <message>
         <source>Show the Toolbar</source>
-        <translation type="obsolete">Show Toolbar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Show/Hide Toolbar</source>
@@ -3385,7 +3858,7 @@ Window</source>
     </message>
     <message>
         <source>Stick the Toolbar</source>
-        <translation type="obsolete">Stick Toolbar</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Switch account</source>
@@ -3446,6 +3919,372 @@ Window</source>
     <message>
         <source>test Rb Tab Widget</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Account Upgrade</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All Borders</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bottom Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bottom Double Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Center Across</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cloud File Management</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cloud Service</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cloud Space</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Compatibility Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Convenient Sharing</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Docer Entrance</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation>Document 
+Fix</translation>
+    </message>
+    <message>
+        <source>Drawing Tools - Compatibility Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Export to Picture</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Filter Tools(Trial)</source>
+        <translation type="obsolete">Filter Tools (Trial)</translation>
+    </message>
+    <message>
+        <source>Format 
+Painter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Formats - Compatibility Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Interface Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join and
+Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Left Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Merge Across</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Merge Cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Merge Content</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Merge Same Cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Merge Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Merge and Center</source>
+        <translation>Merge and 
+Center</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Borders</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>My Subscriptions</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Editing</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Outside Borders</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF to Word</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture Tools - Compatibility Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable Design</source>
+        <translation>Design</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>Options</translation>
+    </message>
+    <message>
+        <source>Quick Access Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quick Retrieve</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ribbon Auto Show/Hide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon center alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>ScreenSaver</source>
+        <translation type="obsolete">Screen Saver</translation>
+    </message>
+    <message>
+        <source>Security</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Semitransparent Shadow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Taskpane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer Tools</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Thick Bottom Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Thick Box Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top and Bottom Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top and Double Bottom Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top and Thick Bottom Border</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Touch Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>UnMerge and Fill</source>
+        <translation>Unmerge and Fill</translation>
+    </message>
+    <message>
+        <source>Unmerge Cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Vertical Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WeChat Customer Service</source>
+        <translation>WPS Customer Service on WeChat</translation>
+    </message>
+    <message>
+        <source>WordArt Compatibility Mode</source>
+        <translation>WordArt - Compatibility Mode</translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Lucky Money</translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <translation>Wrap 
+Text</translation>
+    </message>
+    <message>
+        <source>accout info</source>
+        <translation>Account Information</translation>
+    </message>
+    <message>
+        <source>accout secure</source>
+        <translation>Account Security</translation>
+    </message>
+    <message>
+        <source>enterprise Center</source>
+        <translation>Enterprise Center</translation>
+    </message>
+    <message>
+        <source>member Center</source>
+        <translation>Personal Center</translation>
+    </message>
+    <message>
+        <source>message Center</source>
+        <translation>Message Center</translation>
     </message>
 </context>
 <context>
@@ -3708,7 +4547,8 @@ Window</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation></translation>
+        <translation>Text 
+Speech</translation>
     </message>
     <message>
         <source>Text Tool</source>
@@ -3736,6 +4576,26 @@ Window</source>
     </message>
     <message>
         <source>test Rb Tab Widget</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable Design</source>
+        <translation>Design</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation>Options</translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer Tools</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
         <translation></translation>
     </message>
 </context>
@@ -3806,7 +4666,8 @@ Window</source>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation>Add Chart Element</translation>
+        <translation>Add Chart 
+Element</translation>
     </message>
     <message>
         <source>AddChartLines</source>
@@ -3871,7 +4732,8 @@ Chart Type</translation>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation>Change Chart Type</translation>
+        <translation>Change 
+Chart Type</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -3940,7 +4802,8 @@ Chart Type</translation>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation>Move Chart</translation>
+        <translation>Move 
+Chart</translation>
     </message>
     <message>
         <source>Moving Average</source>
@@ -4030,7 +4893,8 @@ Data</translation>
     </message>
     <message>
         <source>Select Data</source>
-        <translation></translation>
+        <translation>Select 
+Data</translation>
     </message>
     <message>
         <source>SeriesLines</source>
@@ -4072,7 +4936,8 @@ Row</translation>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation>Switch Row/Column</translation>
+        <translation>Switch 
+Row/Column</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -4084,7 +4949,7 @@ Row</translation>
     </message>
     <message>
         <source>TypeSection</source>
-        <translation>Chart Type</translation>
+        <translation type="obsolete">Chart Type</translation>
     </message>
     <message>
         <source>WithLegendKeys</source>
@@ -4092,7 +4957,8 @@ Row</translation>
     </message>
     <message>
         <source>changeColor</source>
-        <translation>Change Color</translation>
+        <translation>Change 
+Color</translation>
     </message>
     <message>
         <source>layoutSection</source>
@@ -4100,7 +4966,12 @@ Row</translation>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation>Quick Layout</translation>
+        <translation>Quick 
+Layout</translation>
+    </message>
+    <message>
+        <source>More Option...</source>
+        <translation>More Options...</translation>
     </message>
 </context>
 <context>
@@ -4188,7 +5059,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Highlight Duplicates</source>
-        <translation></translation>
+        <translation>Highlight 
+Duplicates</translation>
     </message>
     <message>
         <source>Import 
@@ -4301,6 +5173,75 @@ Columns</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
+        <translation>What-If 
+Analysis</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation>Circle Invalid Data</translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
+        <translation>Clear Validation Circles</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fetch duplicates2</source>
+        <translation>Fetch duplicate in areas</translation>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fetch unique values2</source>
+        <translation>Fetch unique values in areas</translation>
+    </message>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Highlight duplicates2</source>
+        <translation>Highlight duplicates in areas</translation>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Highlight unique values2</source>
+        <translation>Highlight unique values in areas</translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation>Insert Drop-Down List</translation>
+    </message>
+    <message>
+        <source>Manage Duplicates</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Summary Direction</source>
         <translation></translation>
     </message>
 </context>
@@ -4379,7 +5320,8 @@ Properties</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation></translation>
+        <translation>Design 
+Mode</translation>
     </message>
     <message>
         <source>Exit
@@ -4425,11 +5367,13 @@ Design Mode</translation>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation></translation>
+        <translation>Record 
+Macro</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation></translation>
+        <translation>Relative 
+References</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -4453,7 +5397,8 @@ Design Mode</translation>
     </message>
     <message>
         <source>View Code</source>
-        <translation></translation>
+        <translation>View 
+Code</translation>
     </message>
     <message>
         <source>Visual Basic
@@ -4804,7 +5749,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -4828,11 +5774,11 @@ Add-Ins</source>
     </message>
     <message>
         <source>Shape Fill</source>
-        <translation>Fill</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shape Outline</source>
-        <translation>Outline</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shape Size</source>
@@ -4896,6 +5842,14 @@ Add-Ins</source>
     </message>
     <message>
         <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
         <translation></translation>
     </message>
 </context>
@@ -5183,7 +6137,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Selection Pane</translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -5277,6 +6232,22 @@ Add-Ins</source>
         <source>Width</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Alignment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Position</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file</name>
@@ -5366,15 +6337,15 @@ Add-Ins</source>
     </message>
     <message>
         <source>Microsoft Excel 2007/2010 Files</source>
-        <translation>Microsoft Excel 2007/2010 Files (*.xlsx)</translation>
+        <translation type="obsolete">Microsoft Excel 2007/2010 Files (*.xlsx)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Files</source>
-        <translation>Microsoft Excel 97-2003 Files (*.xls)</translation>
+        <translation type="obsolete">Microsoft Excel 97-2003 Files (*.xls)</translation>
     </message>
     <message>
         <source>Microsoft Excel 97-2003 Templates</source>
-        <translation>Microsoft Excel 97-2003 Templates (*.xlt)</translation>
+        <translation type="obsolete">Microsoft Excel 97-2003 Templates (*.xlt)</translation>
     </message>
     <message>
         <source>New</source>
@@ -5514,7 +6485,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>WPS BBS</source>
-        <translation>WPS Office BBS</translation>
+        <translation type="obsolete">WPS Office BBS</translation>
     </message>
     <message>
         <source>WPS Data Recovery Master</source>
@@ -5554,11 +6525,60 @@ Add-Ins</source>
     </message>
     <message>
         <source>WPS Spreadsheets Files</source>
-        <translation>WPS Spreadsheets Files (*.et)</translation>
+        <translation type="obsolete">WPS Spreadsheets Files (*.et)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Templates</source>
-        <translation>WPS Spreadsheets Templates (*.ett)</translation>
+        <translation type="obsolete">WPS Spreadsheets Templates (*.ett)</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Backup and Recovery</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Version</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Document 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PassWord Encryption</source>
+        <translation>Encryption</translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -5584,7 +6604,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation></translation>
+        <translation>Calculate 
+Sheet</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -5626,7 +6647,8 @@ Time</translation>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation></translation>
+        <translation>Edit 
+Links</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -5743,6 +6765,30 @@ Used</source>
     <message>
         <source>Text</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation>Remove Arrows</translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation>Remove Dependent Arrows</translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation>Remove Precedent Arrows</translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation>Trace Dependents</translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation>Trace Precedents</translation>
     </message>
 </context>
 <context>
@@ -5867,7 +6913,7 @@ Center</translation>
     </message>
     <message>
         <source>Bottom 10 %</source>
-        <translation>Bottom 10%</translation>
+        <translation type="obsolete">Bottom 10%</translation>
     </message>
     <message>
         <source>Bottom Border</source>
@@ -5920,7 +6966,8 @@ Center</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation></translation>
+        <translation>Conditional 
+Formatting</translation>
     </message>
     <message>
         <source>Contain</source>
@@ -6068,7 +7115,8 @@ Center</translation>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation></translation>
+        <translation>Find and 
+Replace</translation>
     </message>
     <message>
         <source>Find/Replace</source>
@@ -6103,7 +7151,8 @@ Painter</translation>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation></translation>
+        <translation>Format as 
+Table</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -6276,7 +7325,8 @@ Center</translation>
     </message>
     <message>
         <source>Merge and Center</source>
-        <translation></translation>
+        <translation>Merge and 
+Center</translation>
     </message>
     <message>
         <source>Min</source>
@@ -6414,7 +7464,8 @@ Columns</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Series</source>
@@ -6494,7 +7545,7 @@ Columns</translation>
     </message>
     <message>
         <source>Top 10 %</source>
-        <translation>Top 10%</translation>
+        <translation type="obsolete">Top 10%</translation>
     </message>
     <message>
         <source>Top Border</source>
@@ -6594,6 +7645,155 @@ Columns</translation>
     </message>
     <message>
         <source>Yesterday</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>A Date Occurring</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bottom 10 Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bottom 10%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Rules</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Rules from Entire Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Rules from Selected Cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Rules from This Table</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Color Scales</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Data Bars</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Duplicate Value</source>
+        <translation>Duplicate Values</translation>
+    </message>
+    <message>
+        <source>Equal To</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Greater Than</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Highlight Cells Rules</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>IconSets</source>
+        <translation>Icon Sets</translation>
+    </message>
+    <message>
+        <source>Insert Cell (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Cells Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Manage Rules</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Rules</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>New PivotTable Style</translation>
+    </message>
+    <message>
+        <source>New Rule</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Paste values to visible cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SheetTool</source>
+        <translation>Smart Toolbox</translation>
+    </message>
+    <message>
+        <source>Text that Contains</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top 10 Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top 10%</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top/Bottom Rules</source>
         <translation></translation>
     </message>
 </context>
@@ -6700,7 +7900,7 @@ Properties</translation>
     <message>
         <source>Header and 
 Footer</source>
-        <translation>Header/Footer</translation>
+        <translation type="obsolete">Header/Footer</translation>
     </message>
     <message>
         <source>Header/Footer</source>
@@ -6845,6 +8045,42 @@ Pane</source>
     </message>
     <message>
         <source>WordArt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chart Gallery</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Header and Footer</source>
+        <translation>Header/Footer</translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Text</source>
         <translation></translation>
     </message>
 </context>
@@ -7064,7 +8300,8 @@ Titles</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send
@@ -7129,6 +8366,10 @@ Backward</translation>
     <message>
         <source>edit cloumns</source>
         <translation type="obsolete">Formula Bar</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -7238,8 +8479,7 @@ Pictures</source>
     </message>
     <message>
         <source>Compress Pictures</source>
-        <translation type="obsolete">Compress
-Pictures</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Crop</source>
@@ -7323,7 +8563,8 @@ Pictures</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="obsolete">Picture Preview</translation>
+        <translation type="obsolete">Picture 
+Preview</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -7343,7 +8584,8 @@ Pictures</translation>
     </message>
     <message>
         <source>Insert Picture</source>
-        <translation></translation>
+        <translation>Insert 
+Picture</translation>
     </message>
     <message>
         <source>Insert online Picture</source>
@@ -7440,7 +8682,8 @@ Pictures</translation>
     <message>
         <source>Picture
 Size</source>
-        <translation>Size</translation>
+        <translation>Picture 
+Size</translation>
     </message>
     <message>
         <source>Picture Adjust</source>
@@ -7452,11 +8695,11 @@ Size</source>
     </message>
     <message>
         <source>Picture Fill</source>
-        <translation>Fill</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Picture Outline</source>
-        <translation>Outline</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Picture Size</source>
@@ -7503,7 +8746,8 @@ Pane</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -7519,7 +8763,7 @@ Pane</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="obsolete">Settings</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Shadow</source>
@@ -7594,6 +8838,42 @@ On/Off</translation>
     </message>
     <message>
         <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation>Crop by Scale</translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation>Crop by Shape</translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Lock rate</source>
+        <translation>Lock Aspect Ratio</translation>
+    </message>
+    <message>
+        <source>Picture Styles</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
         <translation></translation>
     </message>
 </context>
@@ -7792,7 +9072,8 @@ On/Off</translation>
     </message>
     <message>
         <source>Image Previewer</source>
-        <translation type="obsolete">Picture Preview</translation>
+        <translation type="obsolete">Picture 
+Preview</translation>
     </message>
     <message>
         <source>Insert</source>
@@ -7904,7 +9185,8 @@ On/Off</translation>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -7981,6 +9263,26 @@ On/Off</source>
     </message>
     <message>
         <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Adjust Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width: </source>
         <translation></translation>
     </message>
 </context>
@@ -8279,6 +9581,42 @@ Page</translation>
         <source>Show</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Collate</source>
+        <translation>Collated</translation>
+    </message>
+    <message>
+        <source>More Setup</source>
+        <translation>More Print Settings</translation>
+    </message>
+    <message>
+        <source>Paper Copies</source>
+        <translation>Copies</translation>
+    </message>
+    <message>
+        <source>Paper Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Print Entire Workbook Directly</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Printer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Side</source>
+        <translation>Duplex Print</translation>
+    </message>
+    <message>
+        <source>Workbook Views</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Zoom</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_review</name>
@@ -8399,7 +9737,8 @@ Workbook</translation>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation></translation>
+        <translation>Spell 
+Check</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -8417,11 +9756,13 @@ Changes</translation>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation></translation>
+        <translation>Convert to 
+Simplified Chinese</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation></translation>
+        <translation>Convert to 
+Traditional Chinese</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -8435,6 +9776,54 @@ Sheet</source>
     <message>
         <source>Unprotect 
 Workbook</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Check My 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Check User 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document Permissions</source>
+        <translation type="obsolete">Document 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation>Document 
+Security</translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation>Reset All Comments</translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation>Reset Comment</translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
         <translation></translation>
     </message>
 </context>
@@ -8649,7 +10038,7 @@ On/Off</translation>
     </message>
     <message>
         <source>144 pt.</source>
-        <translation>144 p</translation>
+        <translation>144 pt</translation>
     </message>
     <message>
         <source>288 pt.</source>
@@ -8834,7 +10223,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>External Data</source>
-        <translation></translation>
+        <translation>External 
+Data</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -8862,6 +10252,14 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Tools</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
         <translation></translation>
     </message>
 </context>
@@ -9135,6 +10533,18 @@ OLE DB Query</source>
         <source>WordArt Styles</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Format Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_view</name>
@@ -9319,6 +10729,55 @@ Layout</translation>
     </message>
     <message>
         <source>Zoom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Compare</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Freeze First Column</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Freeze Panes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Freeze Top Row</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Protect Eyes</source>
+        <translation>Eye Protection</translation>
+    </message>
+    <message>
+        <source>Reset Window Position</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Synchronous Scrolling</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unfreeze Panes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unhide</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>View
+Side by Side</source>
         <translation></translation>
     </message>
 </context>
@@ -9974,7 +11433,8 @@ Spacing</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -10139,6 +11599,10 @@ Gallery</translation>
         <source>WordArt Styles</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Insert WordArt</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_wordart.WordArtCharacterSpacing</name>
@@ -10155,7 +11619,7 @@ Gallery</translation>
     <name>ongmani.ct_workspace</name>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>Share File</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -10175,7 +11639,8 @@ Gallery</translation>
     </message>
     <message>
         <source>Export to PDF</source>
-        <translation></translation>
+        <translation>Export to 
+PDF</translation>
     </message>
     <message>
         <source>Feedback and Support</source>
@@ -10187,7 +11652,7 @@ Gallery</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation></translation>
+        <translation>Recent Files</translation>
     </message>
     <message>
         <source>File backup</source>
@@ -10231,15 +11696,18 @@ Gallery</translation>
     </message>
     <message>
         <source>Open from Cloud Docs</source>
-        <translation></translation>
+        <translation>Open from 
+Cloud Docs</translation>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation></translation>
+        <translation>Reading 
+Layout</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
-        <translation></translation>
+        <translation>Save to 
+Cloud Docs</translation>
     </message>
     <message>
         <source>Special Features</source>
@@ -10247,7 +11715,7 @@ Gallery</translation>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>View File Safe</source>
@@ -10260,6 +11728,108 @@ Gallery</translation>
     <message>
         <source>WorkSpace_Backup</source>
         <translation type="obsolete">File backup</translation>
+    </message>
+    <message>
+        <source>Cloud File Guid</source>
+        <translation>Cloud File Guide</translation>
+    </message>
+    <message>
+        <source>Docer Mall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Slimming</source>
+        <translation>Document 
+Slimming</translation>
+    </message>
+    <message>
+        <source>Document security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Export to Picture</translation>
+    </message>
+    <message>
+        <source>File Roaming</source>
+        <comment>professional</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Tools</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Full Text Search</translation>
+    </message>
+    <message>
+        <source>IntranetVersion Docer Entrance</source>
+        <translation>Online Templates</translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation>Share File</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OneStep Save</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Co-edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RB_Document Slimming</source>
+        <translation>Document Slimming</translation>
+    </message>
+    <message>
+        <source>Roaming File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sharing File</source>
+        <translation>Files Shared with Me</translation>
+    </message>
+    <message>
+        <source>Special Tools</source>
+        <translation>Special Features</translation>
+    </message>
+    <message>
+        <source>Star File</source>
+        <translation type="obsolete">Starred Files</translation>
+    </message>
+    <message>
+        <source>Team File</source>
+        <translation>Team Files</translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>XiuTang</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>XiuTang H5</source>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -10290,11 +11860,245 @@ Gallery</translation>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation></translation>
+        <translation>Text 
+Speech</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
+        <translation>What-If 
+Analysis</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AutoShapes</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Check My Permissions</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Check User Permissions</translation>
+    </message>
+    <message>
+        <source>Collaboration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Fix</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ever Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Export to Pictrue</translation>
+    </message>
+    <message>
+        <source>Feedback</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Feedback and Advice</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Send</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From Phone</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Geogebra</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Search</source>
+        <translation>Full Text Search</translation>
+    </message>
+    <message>
+        <source>Hardware Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Help And QA</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation>Insert Online Pictures</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Picture Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Pictures From Phone</source>
+        <translation>Insert Pictures from Phone</translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation>Insert Barcode</translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Link Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>News</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Chart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation>Online Pictures</translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PDF Merge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF To Word</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Password Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Picture to PDF</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertAll</source>
+        <translation>Convert All Pictures</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvertOne</source>
+        <translation>Convert Selected Picture</translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend Template From Docer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ScreenSaver</source>
+        <translation type="obsolete">Screen Saver</translation>
+    </message>
+    <message>
+        <source>Send By E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send E-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send pictures</source>
+        <translation>Send Pictures</translation>
+    </message>
+    <message>
+        <source>Setting Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Share To QQ</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share To Wechat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web Preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
+        <translation>Lucky Money</translation>
     </message>
 </context>
 <context>
@@ -10774,7 +12578,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation></translation>
+        <translation>Conditional Formatting</translation>
     </message>
     <message>
         <source>Consolidate</source>
@@ -11054,7 +12858,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -11616,7 +13420,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>More Option...</source>
-        <translation></translation>
+        <translation>More Options...</translation>
     </message>
     <message>
         <source>Move Chart</source>
@@ -12447,6 +14251,553 @@ Add-Ins</source>
         <translatorcomment>Insert table→Right click→Delete→Table Rows</translatorcomment>
         <translation>Table Rows</translation>
     </message>
+    <message>
+        <source>% Difference From</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% Of</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% Running Total In</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% of Column Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% of Grand Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% of Parent Column Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% of Parent Row Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% of Parent Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>% of Row Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>3-D Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Middle and Center</source>
+        <translation>Align Middle Center</translation>
+    </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">Apply for Permissions</translation>
+    </message>
+    <message>
+        <source>Ascending</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AutoSum</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Borders</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cells (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Check My Permissions</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Check User Permissions</translation>
+    </message>
+    <message>
+        <source>Clear Filter From</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear WordArt</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Collapse</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Collapse Entire Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Control Toolbox</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom Sort</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Data Range Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Date Filters</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Define Name</source>
+        <comment>NewName</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete Object</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Difference From</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Drawing</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit
+OLE DB Query</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Entire Sheet Row</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Expand</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Expand Entire Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Expand/Collapse</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export as Image</source>
+        <translation>Export to Picture</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format Comment...</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Formula Auditing Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Formulas &amp; Number Formatting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons on Chart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide Selected Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons on Chart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Copied Cells Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells (Entire Row/Entire Column)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Cut Cells Dialog</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>IntranetVersion Online Templates</source>
+        <translation>Online Templates</translation>
+    </message>
+    <message>
+        <source>Keep Only Selected Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Keep Source Column Widths</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Label Filters</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>ChartLegend</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>FillLeft</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation>Create Outward Document</translation>
+    </message>
+    <message>
+        <source>Match Destination Formatting</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Functions</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Symbols</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Axis Fields (Categories)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Columns</source>
+        <translation>Move to Column</translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Legend Fields (Series)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Report Filter</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Rows</source>
+        <translation>Move to Row</translation>
+    </message>
+    <message>
+        <source>Move to Values</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">My Applications</translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>My Subscriptions</translation>
+    </message>
+    <message>
+        <source>New Blank Workbook</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No Calculation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation type="obsolete">No Protection</translation>
+    </message>
+    <message>
+        <source>Number Format</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PTCustom Sort</source>
+        <translation>More Sort Options</translation>
+    </message>
+    <message>
+        <source>Paste as Formatted Text</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Paste values to visible cells</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PasteAsValues</source>
+        <translation type="obsolete">Paste as Values</translation>
+    </message>
+    <message>
+        <source>Photo2PdfConvert</source>
+        <translation>Picture to PDF</translation>
+    </message>
+    <message>
+        <source>PivotChart Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>Top 10</comment>
+        <translation>Top 10</translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTableAndChart</source>
+        <translation>PivotTable and PivotChart</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Protection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rank Largest to Smallest</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rank Smallest to Largest</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Grand Total</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Slicers</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Values</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Running Total In</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Save as Template</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>SendByQQ</source>
+        <translation>Send by QQ</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Set Proxy</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Shadow Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Details</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Values As</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show/Hide Crop Panel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size and Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sort Largest to Smallest</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sort Smallest to Largest</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Summarize Values By</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Synonyms</source>
+        <translatorcomment>Right click→Synonyms</translatorcomment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Task Window</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">Permission Template Management</translation>
+    </message>
+    <message>
+        <source>Using Source Theme</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Value Filters</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Values &amp; Number Formatting</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -12515,7 +14866,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>AddChartElements</source>
-        <translation>Add Chart Element</translation>
+        <translation>Add Chart 
+Element</translation>
     </message>
     <message>
         <source>AddChartLines</source>
@@ -12575,7 +14927,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>ChangeChartType</source>
-        <translation>Change Chart Type</translation>
+        <translation>Change 
+Chart Type</translation>
     </message>
     <message>
         <source>Chart Elements</source>
@@ -12644,7 +14997,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>MoveChart</source>
-        <translation>Move Chart</translation>
+        <translation>Move 
+Chart</translation>
     </message>
     <message>
         <source>Moving Average</source>
@@ -12728,7 +15082,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>Select Data</source>
-        <translation></translation>
+        <translation>Select 
+Data</translation>
     </message>
     <message>
         <source>SeriesLines</source>
@@ -12748,7 +15103,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>SwitchRowCol</source>
-        <translation>Switch Row/Column</translation>
+        <translation>Switch 
+Row/Column</translation>
     </message>
     <message>
         <source>Tag</source>
@@ -12768,7 +15124,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>changeColor</source>
-        <translation>Change Color</translation>
+        <translation>Change 
+Color</translation>
     </message>
     <message>
         <source>layoutSection</source>
@@ -12776,7 +15133,8 @@ Add-Ins</source>
     </message>
     <message>
         <source>speedLayout</source>
-        <translation>Quick Layout</translation>
+        <translation>Quick 
+Layout</translation>
     </message>
 </context>
 <context>
@@ -12928,7 +15286,36 @@ OLE DB Query</source>
     </message>
     <message>
         <source>What-If Analysis</source>
+        <translation>What-If 
+Analysis</translation>
+    </message>
+    <message>
+        <source>Circle Valid Data</source>
+        <translation>Circle Invalid Data</translation>
+    </message>
+    <message>
+        <source>Clear Validation Circles</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <translation>Insert Drop-Down List</translation>
     </message>
 </context>
 <context>
@@ -12986,7 +15373,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Design Mode</source>
-        <translation></translation>
+        <translation>Design 
+Mode</translation>
     </message>
     <message>
         <source>Exit Design Mode</source>
@@ -13018,11 +15406,13 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Record Macro</source>
-        <translation></translation>
+        <translation>Record 
+Macro</translation>
     </message>
     <message>
         <source>Relative References</source>
-        <translation></translation>
+        <translation>Relative 
+References</translation>
     </message>
     <message>
         <source>Scroll Bar</source>
@@ -13046,7 +15436,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>View Code</source>
-        <translation></translation>
+        <translation>View 
+Code</translation>
     </message>
     <message>
         <source>Visual Basic Editor</source>
@@ -13381,7 +15772,8 @@ AddIns</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -13473,6 +15865,14 @@ AddIns</source>
     </message>
     <message>
         <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
         <translation></translation>
     </message>
 </context>
@@ -13736,7 +16136,7 @@ AddIns</source>
     </message>
     <message>
         <source>Line Sytle Palette</source>
-        <translation>Line Style</translation>
+        <translation>Weight</translation>
     </message>
     <message>
         <source>Long Dash</source>
@@ -13764,7 +16164,8 @@ AddIns</source>
     </message>
     <message>
         <source>Object Select</source>
-        <translation>Selection Pane</translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -13862,6 +16263,14 @@ AddIns</source>
         <source>Width</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file</name>
@@ -13915,7 +16324,7 @@ AddIns</source>
     </message>
     <message>
         <source>Export to OFD</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Export to PDF</source>
@@ -13963,7 +16372,7 @@ AddIns</source>
     </message>
     <message>
         <source>New</source>
-        <translation></translation>
+        <translation>New Blank Workbook</translation>
     </message>
     <message>
         <source>New Blank Workbook</source>
@@ -14149,6 +16558,18 @@ AddIns</source>
         <source>WPS Spreadsheets Templates</source>
         <translation>WPS Spreadsheets Templates (*.ett)</translation>
     </message>
+    <message>
+        <source>Change Version</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File Protection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>User Feedback</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_file.Help</name>
@@ -14173,7 +16594,8 @@ AddIns</source>
     </message>
     <message>
         <source>Calculate Sheet</source>
-        <translation></translation>
+        <translation>Calculate 
+Sheet</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -14210,7 +16632,8 @@ Time</source>
     </message>
     <message>
         <source>Edit Links</source>
-        <translation></translation>
+        <translation>Edit 
+Links</translation>
     </message>
     <message>
         <source>Engineering</source>
@@ -14306,6 +16729,35 @@ Trig</source>
     <message>
         <source>Text</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>Clear Arrows</source>
+        <translation>Remove Arrows</translation>
+    </message>
+    <message>
+        <source>Name
+Manager</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Name</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Dependents</source>
+        <translation>Remove Dependent Arrows</translation>
+    </message>
+    <message>
+        <source>Remove Precedents</source>
+        <translation>Remove Precedent Arrows</translation>
+    </message>
+    <message>
+        <source>Show Dependents</source>
+        <translation>Trace Dependents</translation>
+    </message>
+    <message>
+        <source>Show Precedents</source>
+        <translation>Trace Precedents</translation>
     </message>
 </context>
 <context>
@@ -14464,7 +16916,8 @@ Trig</source>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation></translation>
+        <translation>Conditional 
+Formatting</translation>
     </message>
     <message>
         <source>Contain</source>
@@ -14608,7 +17061,8 @@ Trig</source>
     </message>
     <message>
         <source>Find and Replace</source>
-        <translation></translation>
+        <translation>Find and 
+Replace</translation>
     </message>
     <message>
         <source>Find/Replace</source>
@@ -14636,7 +17090,8 @@ Trig</source>
     </message>
     <message>
         <source>Format as Table</source>
-        <translation></translation>
+        <translation>Format as 
+Table</translation>
     </message>
     <message>
         <source>Formats</source>
@@ -15085,6 +17540,19 @@ Center</source>
         <source>Yesterday</source>
         <translation></translation>
     </message>
+    <message>
+        <source>All Using Source Theme</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>New Pivot Table Style</source>
+        <translation>New PivotTable Style</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <comment>Fill</comment>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_home.Alignment</name>
@@ -15282,6 +17750,10 @@ Center</source>
         <source>WordArt</source>
         <translation></translation>
     </message>
+    <message>
+        <source>PivotChart</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_layout</name>
@@ -15475,7 +17947,8 @@ Center</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -15515,6 +17988,10 @@ Center</source>
     </message>
     <message>
         <source>Ungroup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Background</source>
         <translation></translation>
     </message>
 </context>
@@ -15851,7 +18328,8 @@ Size</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -15907,6 +18385,14 @@ Size</source>
     </message>
     <message>
         <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
         <translation></translation>
     </message>
 </context>
@@ -16209,7 +18695,8 @@ Size</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Semitransparent Shadow</source>
@@ -16281,6 +18768,14 @@ Size</source>
     </message>
     <message>
         <source>Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
         <translation></translation>
     </message>
 </context>
@@ -16587,7 +19082,8 @@ Item Labels</source>
     </message>
     <message>
         <source>Spell Check</source>
-        <translation></translation>
+        <translation>Spell 
+Check</translation>
     </message>
     <message>
         <source>Spelling</source>
@@ -16599,11 +19095,13 @@ Item Labels</source>
     </message>
     <message>
         <source>Translate to Simplified Chinese</source>
-        <translation></translation>
+        <translation>Convert to 
+Simplified Chinese</translation>
     </message>
     <message>
         <source>Translate to Traditional Chinese</source>
-        <translation></translation>
+        <translation>Convert to 
+Traditional Chinese</translation>
     </message>
     <message>
         <source>Translation</source>
@@ -16615,6 +19113,30 @@ Item Labels</source>
     </message>
     <message>
         <source>Unprotect Workbook</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Next</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Previous</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset All Comments</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Reset Comment</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show All Comments</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show/Hide Comment</source>
         <translation></translation>
     </message>
 </context>
@@ -17009,7 +19531,8 @@ OLE DB Query</source>
     </message>
     <message>
         <source>External Data</source>
-        <translation></translation>
+        <translation>External 
+Data</translation>
     </message>
     <message>
         <source>First Column</source>
@@ -17057,6 +19580,14 @@ OLE DB Query</source>
     </message>
     <message>
         <source>Total Row</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Connection Properties</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Edit Text Import</source>
         <translation></translation>
     </message>
 </context>
@@ -17306,6 +19837,10 @@ OLE DB Query</source>
         <source>WordArt Styles</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Quick Styles</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.ct_view</name>
@@ -17400,7 +19935,8 @@ Other Windows</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation></translation>
+        <translation>Reading 
+Layout</translation>
     </message>
     <message>
         <source>Remove Split</source>
@@ -17464,6 +20000,18 @@ Other Windows</source>
     </message>
     <message>
         <source>Zoom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Custom Views</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unhide</source>
         <translation></translation>
     </message>
 </context>
@@ -18028,7 +20576,8 @@ Spacing</source>
     </message>
     <message>
         <source>Selection Pane</source>
-        <translation></translation>
+        <translation>Selection 
+Pane</translation>
     </message>
     <message>
         <source>Send Backward</source>
@@ -18203,7 +20752,7 @@ Spacing</source>
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>Share File</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -18279,7 +20828,8 @@ Spacing</source>
     </message>
     <message>
         <source>Reading Layout</source>
-        <translation></translation>
+        <translation>Reading 
+Layout</translation>
     </message>
     <message>
         <source>Save to Cloud Docs</source>
@@ -18321,6 +20871,10 @@ Spacing</source>
         <source>Workspace Backup</source>
         <translation type="obsolete">Workspace Backup</translation>
     </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>rainbow.proxycommands</name>
@@ -18350,10 +20904,56 @@ Spacing</source>
     </message>
     <message>
         <source>Text Speech</source>
-        <translation></translation>
+        <translation>Text 
+Speech</translation>
     </message>
     <message>
         <source>What-If Analysis</source>
+        <translation>What-If 
+Analysis</translation>
+    </message>
+    <message>
+        <source>Donate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>InsertBarcode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Map</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Photo2Pdf</source>
+        <translation>Picture to PDF</translation>
+    </message>
+    <message>
+        <source>QRCode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wps CloudForm</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>WpsPackagePlugin</source>
         <translation></translation>
     </message>
 </context>
@@ -24488,7 +27088,7 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     </message>
     <message>
         <source>Cloud Link</source>
-        <translation></translation>
+        <translation>Share File</translation>
     </message>
     <message>
         <source>Disable AutoBackup</source>
@@ -24613,6 +27213,1022 @@ In most cases, you can also use the zoom controls in the status bar at the botto
     <message>
         <source>login</source>
         <translation type="obsolete">Login</translation>
+    </message>
+    <message>
+        <source>Account Encryption</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation>My Subscriptions</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sign Out</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>classics.proxycommands</name>
+    <message>
+        <source>Account Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_autofiltertools</name>
+    <message>
+        <source>Add Favorite</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>AutoFilter View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Highlight</source>
+        <translation>Clear Highlight</translation>
+    </message>
+    <message>
+        <source>Collect Filter Condition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation>Favorites</translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation>Monitor Pane</translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation>Statistical Chart</translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>Statistical Analysis</translation>
+    </message>
+    <message>
+        <source>Reading Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Statistical Analysis</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_pivottabledesign</name>
+    <message>
+        <source>Blank Rows</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Disable Row Column Grand Totals</source>
+        <translation>Off for Rows and Columns</translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Do Not Show Subtotals</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable Only Column Grand Totals</source>
+        <translation>On for Columns Only</translation>
+    </message>
+    <message>
+        <source>Enable Only Row Grand Totals</source>
+        <translation>On for Rows Only</translation>
+    </message>
+    <message>
+        <source>Enable Row Column Grand Totals</source>
+        <translation>On for Rows and Columns</translation>
+    </message>
+    <message>
+        <source>Grand Totals</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Blank Line after Each Item</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Remove Blank Line after Each Item</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Report Layout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show all Subtotals at Bottom of Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show all Subtotals at Top of Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show in Compact Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show in Outline Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show in Tabular Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_pivottableoptions</name>
+    <message>
+        <source>+/- 
+Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Active Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Active Field:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calculated Fields</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calculated Items</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Calculation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Data 
+Source</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Data Source</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Clear Filters</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Collapse Entire Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable Selection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Entire PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Expand Entire Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field 
+Headers</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field 
+List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Fields,Items</source>
+        <translation>Fields, Items</translation>
+    </message>
+    <message>
+        <source>Filter Connections</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Generate GetPivotData</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group Selection</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide All</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Insert Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Labels And Values</source>
+        <translation>Labels and Values</translation>
+    </message>
+    <message>
+        <source>List Formulas</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move 
+PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>MoveChart</source>
+        <translation>Move Chart</translation>
+    </message>
+    <message>
+        <source>Operation</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>PivotTable</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable Name:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Field Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_security</name>
+    <message>
+        <source>Apply Permissions</source>
+        <translation type="obsolete">Apply for 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Check Mine Permission</source>
+        <translation>Check My 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Check Users Permissions</source>
+        <translation>Check User 
+Permissions</translation>
+    </message>
+    <message>
+        <source>Document Security</source>
+        <translation type="obsolete">Document 
+Security</translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Outward</translation>
+    </message>
+    <message>
+        <source>Make Forward Doc</source>
+        <translation>Create Outward Document</translation>
+    </message>
+    <message>
+        <source>My Pending Approval</source>
+        <translation type="obsolete">My Pending 
+Approval</translation>
+    </message>
+    <message>
+        <source>My Permssions Apply</source>
+        <translation type="obsolete">My 
+Applications</translation>
+    </message>
+    <message>
+        <source>No Protect</source>
+        <translation type="obsolete">No Protection</translation>
+    </message>
+    <message>
+        <source>Offline Management</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Permissions</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>UserRight Template Management</source>
+        <translation type="obsolete">Permission Template
+Management</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_sliceroptions</name>
+    <message>
+        <source>Align</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation>Button Height: </translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation>Columns:</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation>Slicer Caption:</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_smartartdesign</name>
+    <message>
+        <source>Backward</source>
+        <translation>Move Down</translation>
+    </message>
+    <message>
+        <source>Both</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Change Styles</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Create Graph</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Forward</source>
+        <translation>Move Up</translation>
+    </message>
+    <message>
+        <source>Increase Level</source>
+        <translation>Promote</translation>
+    </message>
+    <message>
+        <source>Insert Shape</source>
+        <translation>Add Shape</translation>
+    </message>
+    <message>
+        <source>Insert assist</source>
+        <translation>Add Assistant</translation>
+    </message>
+    <message>
+        <source>Insert shape in after</source>
+        <translation>Add Shape After</translation>
+    </message>
+    <message>
+        <source>Insert shape in before</source>
+        <translation>Add Shape Before</translation>
+    </message>
+    <message>
+        <source>Insert shape on above</source>
+        <translation>Add Shape Above</translation>
+    </message>
+    <message>
+        <source>Insert shape on below</source>
+        <translation>Add Shape Below</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Left Hang</source>
+        <translation>Left Hanging</translation>
+    </message>
+    <message>
+        <source>Reduce Level</source>
+        <translation>Demote</translation>
+    </message>
+    <message>
+        <source>Right Hang</source>
+        <translation>Right Hanging</translation>
+    </message>
+    <message>
+        <source>RightToLeft Layout</source>
+        <translation>Right to Left</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_autofiltertools</name>
+    <message>
+        <source>Add Favorite</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Color Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export Filter 
+Result</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export to Book</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Export to Sheet</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Favorite</source>
+        <translation>Favorites</translation>
+    </message>
+    <message>
+        <source>Filter Analysis</source>
+        <translation>Monitor Pane</translation>
+    </message>
+    <message>
+        <source>Highlight Same Records</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Lock Title</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>More Colors</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Pivot Chart</source>
+        <translation>Statistical Chart</translation>
+    </message>
+    <message>
+        <source>Pivot Table</source>
+        <translation>Statistical Analysis</translation>
+    </message>
+    <message>
+        <source>Reading Mode</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Split Sheet</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_pivottableoptions</name>
+    <message>
+        <source>Active Field</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Do Not 
+Repeat Item Labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide Detail</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Modify PivotTable</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Down</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Up</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to Beginning</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move to End</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Order</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Page Layout</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>PivotTable Options</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Repeat All 
+Item Labels</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Detail</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Sort</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>rainbow.ct_sliceroptions</name>
+    <message>
+        <source>Align</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Button Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Button Width: </source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Buttons</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Column Width:</source>
+        <translation>Columns:</translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Height:</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Move Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Send to Back</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Show Grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Slicer Captions:</source>
+        <translation>Slicer Caption:</translation>
+    </message>
+    <message>
+        <source>Snap to Grid</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Width: </source>
+        <translation></translation>
     </message>
 </context>
 </TS>

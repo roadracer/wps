@@ -85,6 +85,24 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
 Are you sure to close?</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
@@ -114,6 +132,16 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
         <translation></translation>
     </message>
 </context>
@@ -149,15 +177,15 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Voice Speed</source>
-        <translation>Speed</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Voice Pitch</source>
-        <translation>Tone</translation>
+        <translation></translation>
     </message>
     <message>
         <source>By Return</source>
-        <translation>By Enter</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Press Enter to Start Reading</source>
@@ -173,27 +201,27 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     </message>
     <message>
         <source>Low speed</source>
-        <translation>Slow</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Medium speed</source>
-        <translation>Medium</translation>
+        <translation></translation>
     </message>
     <message>
         <source>High speed</source>
-        <translation>Fast</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Low pitch</source>
-        <translation>Low tone</translation>
+        <translation></translation>
     </message>
     <message>
         <source>Medium pitch</source>
-        <translation>Medium tone</translation>
+        <translation></translation>
     </message>
     <message>
         <source>High pitch</source>
-        <translation>High tone</translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -517,6 +545,24 @@ Check the horn icon at the bottom-right corner of Desktop.</source>
     <message>
         <source>SAPI - failed to set voice speed: </source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Become a VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Become a VIP to continue using the function and enjoy more services!</translation>
     </message>
 </context>
 </TS>

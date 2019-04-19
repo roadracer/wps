@@ -34,18 +34,18 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation type="unfinished">Использование: %1 
+        <translation type="obsolete">Использование: %1 
 </translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation type="unfinished">    или %1 &lt;wps|wpp|et&gt; [путь_к_документу]
+        <translation type="obsolete">    или %1 &lt;wps|wpp|et&gt; [путь_к_документу]
 </translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation type="unfinished">:/qm/%1.qm</translation>
+        <translation type="obsolete">:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>

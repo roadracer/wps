@@ -502,7 +502,7 @@ Please specify the right files.</source>
     <message>
         <source>Do you want to save the changes you made to &quot;%s&quot;?</source>
         <comment>TX_Save_Modified_Book</comment>
-        <translation>“%s”は変更されました。保存しますか。</translation>
+        <translation>“%s” の変更を保存しますか？</translation>
     </message>
     <message>
         <source>Document has been locked by another application, do you want to open it as read-only?
@@ -552,7 +552,7 @@ Please specify the right files.</source>
     <message>
         <source>Error Checking &amp;Options...</source>
         <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
-        <translation>エラーチェックの設定(&amp;O)...</translation>
+        <translation type="obsolete">エラーチェックの設定(&amp;O)...</translation>
     </message>
     <message>
         <source>Error in Value</source>
@@ -1203,7 +1203,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     <message>
         <source>Show &amp;Calculation Steps...</source>
         <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
-        <translation>計算経過の表示(&amp;C)...</translation>
+        <translation type="obsolete">計算経過の表示(&amp;C)...</translation>
     </message>
     <message>
         <source>Show Iteration Results</source>
@@ -1277,7 +1277,7 @@ To highlight all track changes, uncheck the When, Who, and Where options.</sourc
     </message>
     <message>
         <source>Spreadsheets</source>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Status</source>
@@ -1537,7 +1537,7 @@ There are several possible reasons:
     <message>
         <source>The workbook has been updated with changes saved by other users.</source>
         <comment>TX_ShareWorkbook_MsgBookUpdated</comment>
-        <translation>ブックは他のユーザーによって保存された変更で更新されています。</translation>
+        <translation>ブックは他のユーザーの変更により更新されています。</translation>
     </message>
     <message>
         <source>The workbook is created by %s in exclusive mode.</source>
@@ -1684,7 +1684,7 @@ Remove the workbook from shared use?
     <message>
         <source>This operation will results in the document saving. Do you want to continue?</source>
         <comment>TX_ShareWorkbook_MsgResultInSaving</comment>
-        <translation>この操作を行うと、ブックはいったん保存されます。よろしいですか？</translation>
+        <translation>ブックの共有を行う場合は、ブックを一旦保存します。続行してよろしいですか？</translation>
     </message>
     <message>
         <source>This workbook cannot use any other format of cells.</source>
@@ -1838,7 +1838,7 @@ CTRL+ENDキーを押して最後の空白セルに移動し、そのセルとデ
     <message>
         <source>Workbook in %s</source>
         <comment>TX_OnSetHostNames_3</comment>
-        <translation>%sにあるブック</translation>
+        <translation type="obsolete">%sにあるブック</translation>
     </message>
     <message>
         <source>Worksheet</source>
@@ -2107,27 +2107,27 @@ Please try one of the following.
         <source>WPS Spreadsheets cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>TX_Workbook_OpenPasswordFailure</comment>
-        <translation>Kingsoft Spreadsheets　パスワードが正しくないため、ファイルが開けません
+        <translation>WPS Spreadsheets　パスワードが正しくないため、ファイルが開けません
 (%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot save or create this file. Please make sure the target disk is not full or undamaged.
 (%s)</source>
         <comment>TX_Workbook_SaveFailure</comment>
-        <translation>Kingsoft Spreadsheets　この文書を保存できません。または作成できません。ディスクに空き容量があるか、またはディスクエラーがないか、確認してください。
+        <translation>WPS Spreadsheets　この文書を保存できません。または作成できません。ディスクに空き容量があるか、またはディスクエラーがないか、確認してください。
 (%s)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot save this file due to a file permission error.
 (%s)</source>
         <comment>TX_Workbook_SaveFailurePermission</comment>
-        <translation>Kingsoft Spreadsheets　ファイルアクセス許可の設定が正しくありません。保存できません。
+        <translation>WPS Spreadsheets　ファイルアクセス許可の設定が正しくありません。保存できません。
 (%s)</translation>
     </message>
     <message>
         <source>All WPS Spreadsheets Files(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</source>
         <comment>TxDesc_AllETFiles</comment>
-        <translation>すべてのKingsoft Spreadsheets　ファイル(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
+        <translation>すべてのWPS Spreadsheets　ファイル(*.xml; *.et; *.xls; *.xlt; *.txt; *.mdb; *.dbf; *.csv; *.html; *.htm)</translation>
     </message>
     <message>
         <source>&quot;%s&quot; is read-only. If you want to save a copy, click OK, then give a new name for this workbook in the Save As dialog box.</source>
@@ -2141,7 +2141,7 @@ Please try one of the following.
 •Copy/paste the contents to a new document. 
 •Give up the changes to this file.</source>
         <comment>TX_Cannot_Write_File_Unknown_Error</comment>
-        <translation>保存時にエラーが発生しました。次の操作を行ってください。
+        <translation type="obsolete">保存時にエラーが発生しました。次の操作を行ってください。
 ·この操作の前の状態に[元に戻す]。そして[上書き保存]。
 ·テキスト形式（*.txt）として[名前を付けて保存]。
 ·内容を新しいファイルに[コピー/貼り付け]。
@@ -2195,7 +2195,7 @@ Note that data links can be used to access and share confidential information wi
     <message>
         <source>WPS Spreadsheets cannot finish this operation due to insufficient memory.</source>
         <comment>TX_MASS_CELLS_OPERATION_OUTOF_MEM</comment>
-        <translation>Kingsoft Spreadsheets　メモリが不十分のため、この操作を完了できません。</translation>
+        <translation>WPS Spreadsheets はメモリが不十分のため、この操作を完了できません。</translation>
     </message>
     <message>
         <source>The information cannot be pasted because the copy area and the paste area are not the same size and shape. Try one of the following: 
@@ -2217,14 +2217,14 @@ If you are trying to open the file from your recently used file list on the File
         <source>Some formulas or names of this file contain the built-in functions which WPS Spreadsheets does not support, and recalculation of these formulas or names may cause incorrect results.
 </source>
         <comment>TX_Open_File_UnkBuildInFunction_In_File</comment>
-        <translation>このファイル中の数式または名前には Kingsoft Spreadsheetsがサポートしていない関数があります。この関数を実行すると、計算結果が異なる可能性があります：
+        <translation>このファイル中の数式または名前には WPS Spreadsheetsがサポートしていない関数があります。この関数を実行すると、計算結果が異なる可能性があります：
    </translation>
     </message>
     <message>
         <source>Some formulas or names of this file contain the user-defined functions which WPS Spreadsheets does not support, and recalcation of these formulas or names may cause incorrect results.
 </source>
         <comment>TX_Open_File_UnkCustomFunction_In_File</comment>
-        <translation>このファイルにある数式または名前には Kingsoft Spreadsheets がサポートしないユーザー設定の関数があります。改めて計算する場合、計算結果は間違う可能性があります：
+        <translation>このファイルにある数式または名前には WPS Spreadsheets がサポートしないユーザー設定の関数があります。改めて計算する場合、計算結果は間違う可能性があります：
  </translation>
     </message>
     <message>
@@ -2241,12 +2241,12 @@ If you are trying to open the file from your recently used file list on the File
     <message>
         <source>Common Files(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
-        <translation>一般のファイル(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|Kingsoft Spreadsheets ファイル(*.et)|*.et|Microsoft Excel ファイル(*.xls)|*.xls|Microsoft Excel 2007/2010 ファイル(*.xlsx)|*.xlsx|すべてのファイル(*.*)|*.*||</translation>
+        <translation type="obsolete">一般のファイル(*.et;*.xls;*.xlsx)|*.et;*.xls;*.xlsx|WPS Spreadsheets ファイル(*.et)|*.et|Microsoft Excel ファイル(*.xls)|*.xls|Microsoft Excel 2007-2016 ファイル(*.xlsx)|*.xlsx|すべてのファイル(*.*)|*.*||</translation>
     </message>
     <message>
         <source>Common Files(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx)|*.xlsx|All Files(*.*)|*.*||</source>
         <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
-        <translation>一般のファイル(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|Kingsoft Spreadsheets Files(*.et)|*.et|Kingsoft Spreadsheets Files(*.etx)|*.etx|Microsoft Excelファイル(*.xls)|*.xls|Microsoft Excel 2007/2010 ファイル(*.xlsx)|*.xlsx|すべてのファイル(*.*)|*.*||</translation>
+        <translation type="obsolete">一般のファイル(*.et;*.etx;*.xls;*.xlsx)|*.et;*.etx;*.xls;*.xlsx|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excelファイル(*.xls)|*.xls|Microsoft Excel 2007-2016 ファイル(*.xlsx)|*.xlsx|すべてのファイル(*.*)|*.*||</translation>
     </message>
     <message>
         <source>The destination cells may contain some data values which will be lost when continue, do you want to continue?</source>
@@ -2282,17 +2282,17 @@ If you are trying to open the file from your recently used file list on the File
 Please open it with Microsoft Excel first, and then run &quot;Save&quot;, and then try to open it with WPS Spreadsheets.</source>
         <comment>TX_ShareWorkbook_WarnningTimedUpdate</comment>
         <translation>Excelの自動更新の共有ブックを開けません。
-Microsoft Excel でファイルを開い、保存した後Kingsoft Spreadsheetsで開いていください。</translation>
+Microsoft Excel でファイルを開い、保存した後WPS Spreadsheetsで開いていください。</translation>
     </message>
     <message>
         <source>The function you are using is invalid in WPS Spreadsheets.</source>
         <comment>TX_FunctionInvalid</comment>
-        <translation>使用する関数はKingsoft Spreadsheetsには無効です。</translation>
+        <translation>使用する関数はWPS Spreadsheetsには無効です。</translation>
     </message>
     <message>
         <source>You cannot open the shared workbook with WPS Spreadsheets and you can only open it with Read-only mode.</source>
         <comment>TX_ShareWorkbook_Xlsx</comment>
-        <translation>Kingsoft Spreadsheetsはこのブックを共有ブックとして開けないため、読み取り専用として開きます。</translation>
+        <translation>WPS Spreadsheetsはこのブックを共有ブックとして開けないため、読み取り専用として開きます。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot determine which row in your list or selection contains column labels, which are required for this command.
@@ -2435,7 +2435,7 @@ Please try one of the following.
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet on the Protection submenu of Tools menu. You may need to enter your password.</source>
         <comment>TX_CANNOTDELNUMFORMAT</comment>
         <translation>[%s]%s:
-このコマンドを保護されたシートに使用できません、保護シートをキャンセルするには、「ツール」→「保護」→「シート保護の解除」をクリックして、パスワーとを入力して、保護を解除できます。</translation>
+保護されたシートに対して、このコマンドは使用できません。このコマンドを使用するには、まずシートの保護を解除してください ([校閲] タブの [変更] グループにある [シート保護の解除] をクリックします)。パスワードの入力を要求されることもあります。</translation>
     </message>
     <message>
         <source>This workbook is currently referenced by another workbook and cannot be closed.</source>
@@ -2451,7 +2451,7 @@ Please try one of the following.
     <message>
         <source>To paste all cells from an worksheet into the current worksheet, you must paste into the first cell (A1 or R1C1).</source>
         <comment>TX_ERROR_INVALIDPASTERG_SHEET</comment>
-        <translation type="unfinished"></translation>
+        <translation>ワークシートのすべてのセルを現在のワークシートに貼り付けるには、最初のセル(A1 または R1C1)に貼り付ける必要があります。</translation>
     </message>
     <message>
         <source>Backup</source>
@@ -2461,12 +2461,12 @@ Please try one of the following.
     <message>
         <source>Spreadsheets</source>
         <comment>TX_DESC_APP_NAME</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>The text file contains more data than will fit on a single worksheet.</source>
         <comment>TX_TextToColumns_Tip2</comment>
-        <translation>データの長さが許容範囲を超えています。データを失う可能性があります。続けますか。</translation>
+        <translation>ファイル全体を読み込むことができません。データを失う可能性がありますが、続行しますか？</translation>
     </message>
     <message>
         <source>The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
@@ -2519,7 +2519,7 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>WPS Spreadsheets cannot find the data you&apos;re searching for. Please check your searching options.</source>
         <comment>TX_Find_DoNotExist</comment>
-        <translation>Kingsoft Spreadsheetsは探しているデータを見つけることができません。検索オプションを確認してください。</translation>
+        <translation>WPS Spreadsheetsは探しているデータを見つけることができません。検索オプションを確認してください。</translation>
     </message>
     <message>
         <source> [Compatibility Mode]</source>
@@ -2547,17 +2547,17 @@ To cancel the query, click Cancel.</source>
     <message>
         <source>WPS Spreadsheets</source>
         <comment>TX_DESC_APP_OBJECT_NAME</comment>
-        <translation>Kingsoft Spreadsheets</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>@Theme Text</source>
         <comment>TX_OPTIONDLG_THEME_Text</comment>
-        <translation>テーマテキスト</translation>
+        <translation>本文のフォント</translation>
     </message>
     <message>
         <source>@Theme Title</source>
         <comment>TX_OPTIONDLG_THEME_Title</comment>
-        <translation>デーマタイトル</translation>
+        <translation>見出しのフォント</translation>
     </message>
     <message>
         <source>DialogFrame</source>
@@ -2628,7 +2628,7 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     <message>
         <source>WPS Spreadsheets can not paste data.</source>
         <comment>TX_Can_Not_Paste_Data</comment>
-        <translation>Kingsoft Spreadsheetsはデータを貼り付けることができません</translation>
+        <translation>WPS Spreadsheetsはデータを貼り付けることができません</translation>
     </message>
     <message>
         <source>You cannot use this command on a protected sheet. To remove protection, select Unprotect Sheet command on the Protection submenu of Tools menu. You may be prompted for a password.</source>
@@ -2688,43 +2688,48 @@ To cancel the query, click &quot;Cancel&quot;.</source>
     </message>
     <message>
         <source>This operation is not allowed. The operation is attempting to shift cells in a table on your worksheet.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>この動作を行われません、この動作はシートからテーブルのセルを移動してみます。</translatorcomment>
+        <translation>この操作を行うことができません。シートのテーブル内のセルの変換を試みています。</translation>
     </message>
     <message>
         <source>The worksheet range for the table data must be on the same sheet as the table being created.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>テーブルの範囲は作成しているテーブルと同じワークシートにあるようにしてください。</translatorcomment>
+        <translation>テーブルデータのシート範囲は、テーブルを作成しようとしているシートと同じものにする必要があります。</translation>
     </message>
     <message>
         <source>That command cannot be used on multiple selections.</source>
-        <translation type="unfinished"></translation>
+        <translation>複数の選択範囲にこのコマンドを使用できません。</translation>
     </message>
     <message>
         <source>Multi-cell array formulas are not allowed in tables.</source>
-        <translation type="unfinished"></translation>
+        <translation>マルチセルの配列数式はテーブルに使用できません</translation>
     </message>
     <message>
         <source>A table cannot overlap a range that contains PivotTable report, query results, protected cells or another table.</source>
-        <translation type="unfinished"></translation>
+        <translation>ピボットテーブルレポート、クエリの結果、保護されているセル、その他のテーブルを含む範囲にテーブルを重ねることはできません。</translation>
     </message>
     <message>
         <source>A table cannot overlap another table.</source>
-        <translation type="unfinished"></translation>
+        <translation>テーブルは他のテーブルと重ねることはできません。</translation>
     </message>
     <message>
         <source>Cannot complete operation: A table cannot overlap with a PivotTable report, query results, a table, merged cells, or an XML mapping.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>動作完了できません：ピボットテーブルレポート、クエリの結果、テーブル、結合されたセルまたはXMLマップを重なることはできません。</translatorcomment>
+        <translation>操作を完了できませんでした。ピボットテーブルレポート、クエリの結果、テーブル、結合されたセル、XMLマップにテーブルを重ねることはできません。</translation>
     </message>
     <message>
         <source>Cannot make changes to a table or XML mapping when multiple sheet are selected.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>複数のテーブルを選択する場合、テーブル或いは XML マップに変更することはできません。</translatorcomment>
+        <translation>複数シートが選択されていると、テーブルやXMLマップに変更することができません。</translation>
     </message>
     <message>
         <source>Cannot complete operation: Operations that include cells both inside and outside a table range or XML mapping, and operations that affect cells that overlap multiple tables are not allowed.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>動作完了できません：テーブル範囲或いはXMLマップされた内部のセル、または、テーブル範囲或いはXMLマップされた外部のセルを含むことは許可できません、および、複数のテーブルを含むセルの操作の影響することを許可できません。</translatorcomment>
+        <translation>操作を完了できませんでした。テーブル範囲内外のセルを含む操作、XMLマッピング、セルに影響を与える複数テーブルに重なる操作は許可されていません。</translation>
     </message>
     <message>
         <source>The range you have specified is invalid.the headers must remain in the same row and the resulting table must overlap the original table.The table must contain a header row,and at least one row of data.Please specify a vaild table.</source>
-        <translation type="unfinished"></translation>
+        <translation>指定された範囲は正しくありません。テーブルの見出しは同じ列に残し、結果テーブルは元のテーブルに重なるようにしてください。テーブルは見出し行、に見出し行及び少なとも一つのデータを含む必要があります。新しいテーブル範囲を指定してください。</translation>
     </message>
     <message>
         <source>The name that you entered is not valid.
@@ -2733,49 +2738,1466 @@ Reasons for this can include:
  -The name does not begin with a letter or underscore
  -The name contains a space or other invalid characters
  -The name conflicts with an WPS built-in name or the name of another object in the workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>入力した名称が正しくありません。
+以下の理由が考えられます
+ -名前の先頭を文字、またはアンダースコアにすることができません。
+ -名前に空白または他の無効な文字が含まれています。
+ -名前が WPS の組み込み名、またはブック内の他のオブジェクト名と競合しています。</translation>
     </message>
     <message>
         <source>You cannot move a part of a PivotTable report,or insert worksheet cells,rows,or columns inside a PivotTable report.To insert worksheet cells,rows,or columns,first move the PivotTable report(with the PivotTable report selected,on the Options tab,in the Actions group,click Move PivotTable)To add,move,or remove cells within the report,do one of the following:
 Use the PivotTable Field List to add,move,or remove fields.
 Hide or froup items in a row or column field.
 Modify the source data</source>
-        <translation type="unfinished"></translation>
+        <translation>ピボットテーブルレポートの一部を移動したり、ピボットテーブルレポート内にワークシートのセル、行、または列を挿入することはできません。ワークシートのセル、行、または列を挿入するには、まずピボットテーブルレポートを移動してください(ピボットテーブルレポートを選択した状態で、「オプション」タブの「アクション」グールプにある「ピボットテーブルの移動」をクリックします。ピボットテーブルレポート内でセルを追加、移動、または削除するには、以下のいずれかをおこなってください。)
+.フィールドを追加、移動、または削除するには、ピボットテーブルフィールドリストを使用します。
+.行フィールドまたは列フィールドのアイテムを非表示またグールプ化します。
+.元のデータを編集します。</translation>
     </message>
     <message>
         <source>Cannot create a table in the last row of the workbook. A table must have at least two rows, one for the table header, and one for data.</source>
-        <translation type="unfinished"></translation>
+        <translation>ブックの最終行にテーブルを作成することはできません。テーブルを作成するには、テーブルの見出し用の行とデータ用の行の少なくとも2行が必要になります。</translation>
     </message>
     <message>
         <source>Cannot complete operation: You are attempting to change a portion of a table row or column in a way that is not allowed.  This may occur when attempting to re-arrange cells within a table that affect other table cells in an unexpected way.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>動作完了できません：正しい方式でテーブルの行或いは列の一部を変更しようとします。意外の方式として並べて、他のテーブルのセルに影響を与えることを発生するときに、この状況を発生する可能になります。</translatorcomment>
+        <translation>許可されていない方法にて、テーブルの行、または列の一部を変更しようとしたため動作を完了できませんでした。テーブル内のセルの再構築を行おうとすることにより、他のテーブルのセルに予期せぬ形で影響を与えることがあります。</translation>
     </message>
     <message>
         <source>This operation is attempting to change a filtered range on your worksheet and cannot be completed. To complete this operation, AutoFilters in the sheet need to be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>この操作はワークシートのフィルタ範囲を変更を試みているため、完了できません。この操作を完了するためには、ワークシート内のフィルタを削除してください。</translation>
     </message>
     <message>
         <source>The range you have specified is invalid.the top of table must remain in the same row, and the resulting table must overlap the original table.Specify a valid range.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>指定された範囲は正しくありません。テーブルの先頭に位置は変更できませんまた、新しいテーブル範囲が元のテーブル範囲に重なるようにしてください。新しいテーブル範囲を指定してください。</translatorcomment>
+        <translation>指定された範囲は正しくありません。テーブルの先頭が同じ行に残っており、結果範囲が元のテーブルに重なっている必要があります。正しい範囲を指定してください。</translation>
     </message>
     <message>
         <source>Formulas in the header row will be removed and converted to static text. Do you want to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation>見出し行の数式は削除されてテキストに変換されます。続行してもよろしいですか？</translation>
     </message>
     <message>
         <source>Your selection overlaps one or more external data ranges. Do you want to convert the selection to a table and remove all external connections?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>選択範囲は一つまたは複数の外部データ範囲と重なるため、選択範囲をテーブルを変換するし、または外部リンクをすべて削除しますか？</translatorcomment>
+        <translation>選択範囲が1つ以上の外部データ範囲と重なっています。すべての外部リンクを削除して、選択範囲をテーブルに変換してよろしいですか？</translation>
     </message>
     <message>
         <source>Converting this query range to a list query range may cause some macro code and/or formulas not to function properly. Do you still want to perform the conversion?</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>クエリ範囲ををリストクエリ範囲に変換するとあるマクロコード或いは、数式を正常に実行できなくなる可能です、この変換を実行しますか？</translatorcomment>
+        <translation>このクエリ範囲をリストクエリ範囲に変換することで、マクロコードや数式が正常に機能しなくなる可能性があります。変換を実行してもよろしいですか？</translation>
     </message>
     <message>
         <source>Failed to paste! The source data contains merge cells.</source>
-        <translation type="unfinished"></translation>
+        <translation>データソースに結合セルが含まれているため、貼り付けできません。</translation>
     </message>
     <message>
         <source>A table with that name already exists. Select a different name.</source>
+        <translation>このテーブルの名前がすでに存在しています。別の名前を選択してください。</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot open the security document! Please close the opened documents and try again.</source>
+        <comment>TX_SecurityDocumentOpenFailed_ExistOtherWorkbooks</comment>
+        <translation>開かれているファイルがあるため、セキュリティファイルを開けません。ファイルを閉じてからお試しください。</translation>
+    </message>
+    <message>
+        <source>Some documents are already open. You cannot save the security document! Please close the the other documents and try again.</source>
+        <comment>TX_SecurityDocumentSaveFailed_ExistOtherWorkbooks</comment>
+        <translation>開かれているファイルがあるため、セキュリティファイルを開けません。ファイルを閉じてからお試しください。</translation>
+    </message>
+    <message>
+        <source>Cell %s commented by %s User</source>
+        <comment>TX_CommentSelectStatus</comment>
+        <translation>セル %s 校閲者 %s</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets reached the end of the workbook. Do you want to continue reviewing from the beginning of the workbook?</source>
+        <comment>TX_CommentTravelToucheEnd</comment>
+        <translation>ブックの末尾に到達しました。ブックの先頭に戻って確認を続けますか？</translation>
+    </message>
+    <message>
+        <source>Cannot shift objects off sheet.</source>
+        <comment>TX_InsertRange_LoseShape</comment>
+        <translation>オブジェクトをシート以外に移動できません。</translation>
+    </message>
+    <message>
+        <source>The Remove Arrows command found no tracer arrows to remove.</source>
+        <translation>削除するトレース矢印はありません。</translation>
+    </message>
+    <message>
+        <source>The Trace Precedents command requires that the active cell contains a formula which includes valid references.</source>
+        <translation>アクティブセルに数式が入力されていないか、または無効な参照を含む数式がないため、参照元をトレースできません。</translation>
+    </message>
+    <message>
+        <source>The Trace Dependents command found no formulas that refer to the active cell.</source>
+        <translation>アクティブセルを参照している数式はありません。参照先はトレースできません。</translation>
+    </message>
+    <message>
+        <source>Content cannot contain &quot;,&quot;.</source>
+        <translation>リストの項目には、 &quot;,&quot; を入力しないでください。</translation>
+    </message>
+    <message>
+        <source>Please enter choice content.</source>
+        <translation>リストの項目を入力してください。</translation>
+    </message>
+    <message>
+        <source>There are duplicated choices. Continue?</source>
+        <translation>リストの内容には重複する項目があります。続行しますか？</translation>
+    </message>
+    <message>
+        <source>The Formula cannot be longer than 255 characters.</source>
+        <translation>255 以下の文字を入力してください。</translation>
+    </message>
+    <message>
+        <source>Choices drop down cannot be empty. Please add or select choices.</source>
+        <translation>ドロップダウン選択項目を空欄にすることはできません。リストの項目を追加するか、一覧から選択してください。</translation>
+    </message>
+    <message>
+        <source>This Operation cannot be used on a security document.</source>
+        <comment>TX_OPERATION_NOT_SUPPORTED_ON_SECDOC</comment>
+        <translation>この操作はセキュリティファイルに対応しません。</translation>
+    </message>
+    <message>
+        <source>The data will be saved with other pivot tables that share the same source data with this PivotTable.</source>
+        <comment>TX_MULTIPLE_PIVOTTABLE_SAVE_SOURCE</comment>
+        <translation>データはこのピボットテーブルと同じデータソースを使用している他のピボットテーブルにも保存されます。</translation>
+    </message>
+    <message>
+        <source>The data will not be saved with other pivot tables that share the same source data with this PivotTable.</source>
+        <comment>TX_MULTIPLE_PIVOTTABLE_NOT_SAVE_SOURCE</comment>
+        <translation>データはこのピボットテーブルと同じデータソースを使用している他のピボットテーブルには保存されません。</translation>
+    </message>
+    <message>
+        <source>Pivot table name is invalid.</source>
+        <comment>TX_ERROR_INVALID_PIVOTTABLE_NAME</comment>
+        <translation>ピポットテーブル名が正しくありません。</translation>
+    </message>
+    <message>
+        <source>You cannot use this command on a protected sheet</source>
+        <comment>TX_COMMAND_PROTECTED_SHEET</comment>
+        <translation>保護されたシートに対して、このコマンドは使用できません。このコマンドを使用するには、まずシートの保護を解除してください ([校閲] タブの [変更] グループにある [シート保護の解除] をクリックします)。パスワードの入力を要求されることもあります。</translation>
+    </message>
+    <message>
+        <source>An item name cannot be found.Check that you&apos;ve typed the name correctly and the item is present in the PivotTable.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotFound</comment>
+        <translation>アイテム名が見つかりません。入力した名前が正しいことと、ピボットテーブル レポートにアイテムがあることを確認してください。</translation>
+    </message>
+    <message>
+        <source>An item name is ambiguous.Another field in the PivotTable report may have an item with the same name.
+Use the syntax field[item].For example, if the item is Oranges and the field is Product,you would use Product[Oranges].</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemAmbiguous</comment>
+        <translation>アイテム名があいまいです。ピボットテーブル レポートのほかのフィールドに、同じ名前のアイテムがある可能性があります。
+構文 &quot;フィールド[アイテム]&quot; を使用してください。たとえば、アイテムが &quot;オレンジ&quot; でフィールドが &quot;生産物&quot; の場合、&quot;生産物[オレンジ]&quot; にします。</translation>
+    </message>
+    <message>
+        <source>PivotTable formulas can only refer to items in the same field as the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CPL_ItemNotInSpecField</comment>
+        <translation>ピボットテーブルの数式は、集計アイテムと同じフィールドのアイテムのみ参照できます。</translation>
+    </message>
+    <message>
+        <source>References to multiple item names per field cannot be included in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_ReferToMultiItems</comment>
+        <translation>フィールドごとの複数のアイテム名の参照は、ピボットテーブルの数式ではサポートされません。</translation>
+    </message>
+    <message>
+        <source>References,names,and arrays are not supported in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_HasRefNameArray</comment>
+        <translation>ピボットテーブルの数式では、参照、名前、および配列はサポートされません。</translation>
+    </message>
+    <message>
+        <source>Your formula includes a function that cannot be used in PivotTable formulas. You cannot use functions that return variable results, such as RAND and NOW, database functions, or the GETPIVOTDATA function in PivotTable formulas.</source>
+        <comment>TX_PIVOTTABLE_CPL_FunctionIllegal</comment>
+        <translation>数式には、ピボットテーブルの数式で使用できない関数が含まれています。RAND や NOW、データベース関数、またはピボットテーブル数式の GETPIVOTDATA 関数などの、変数の結果を返す関数は使用できません。</translation>
+    </message>
+    <message>
+        <source>The formula you typed contains an error.</source>
+        <comment>TX_PIVOTTABLE_CPL_FAIL</comment>
+        <translation>入力した数式にはエラーがあります。
+数式を入力していない場合は、入力した値の先頭にシングル クォーテーション マーク (&apos;) を入力してください。</translation>
+    </message>
+    <message>
+        <source>If one or more fields in the PivotTable have calculated items, no fields can be used in the data area two or more times, or in the data area and another area at the same time.If you are trying to add a field, remove the calculated items and add the field again.If you are trying to add a calculated item, change the PivotTable report so that no field is used more than once and then add the calculated item.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemMultiUsedField</comment>
+        <translation>ピボットテーブルのフィールドでアイテムを集計する場合、フィールドをデータ エリア内で複数回使用したり、データ エリアとその他のエリアで同時に使用したりすることはできません。フィールドを追加するには、集計アイテムを削除してから、再度フィールドを追加します。集計アイテムを追加するには、フィールドが複数回使用されないようにピボットテーブル レポートを変更してから、集計アイテムを追加します。</translation>
+    </message>
+    <message>
+        <source>Averages,standard deviations,and variances are not supported when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemValueSubtotal</comment>
+        <translation>ピボットテーブル レポートに集計アイテムがある場合、平均、標準偏差、および分散はサポートされません。</translation>
+    </message>
+    <message>
+        <source>Calculcated items do not work with custom subtotals.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemCustomSubtotal</comment>
+        <translation>ユーザー設定集計上では、計算アイテムは機能しません。</translation>
+    </message>
+    <message>
+        <source>PivotTable field name already exists</source>
+        <comment>TX_PIVOTTABLE_CONF_FieldNameExist</comment>
+        <translation>指定したフィールド名は既に使用されています。</translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than 8000 items in the column area.
+If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_COL_AXIS_MORE_THAN_8000</comment>
+        <translation>列エリアには、アイテム数が 8000 を超えているフィールドを配置することはできません。
+このフィールドをレポートで使用するには、[OK] をクリックして、そのフィールドを行エリアかページ エリアに移動します。</translation>
+    </message>
+    <message>
+        <source>You cannot place a field that has more than 16384 items in the column area.
+If you want to use this field in the report,click OK,and then move the field to either the row area or page area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_COL_AXIS_MORE_THAN_16384</comment>
+        <translation>列エリアには、アイテム数が 16384 を超えているフィールドを配置することはできません。
+このフィールドをレポートで使用するには、[OK] をクリックして、そのフィールドを行エリアかページ エリアに移動します。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report field is grouped. You cannot add a calculated item to a grouped field.
+
+To ungroup the field, make sure it is in the row or column area, select one of the items of the grouped field, click the Ungroup button in the Group group on the Option tab, and then insert the calculated item. After inserted, you can group the items of field again.</source>
+        <comment>TX_PIVOTTABLE_CONF_CalcItemGroupField</comment>
+        <translation>ピボットテーブル レポートのこのフィールドはグループ化されています。グループ化されているフィールドに集計アイテムを追加することはできません。
+フィールドのグループ化を解除するには、フィールドが行または列領域にあることを確認し、グループ化されているフィールドのいずれかのアイテムを選択します。次に、[分析] タブの [グループ] グループにある [グループ解除] をクリックし、集計アイテムを挿入します。挿入した後は、フィールドのアイテムを再度グループ化できます。</translation>
+    </message>
+    <message>
+        <source>You cannot edit the formulas in data cells for groups or for calculated fields.
+To change the formula for a calculated field,click OK,and then point to formulas on the PivotTable Options tab in the Tools group and click Calculated Field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_GroupOrCalcFld</comment>
+        <translation>グループ化したデータのセルまたは集計フィールドは編集できません。
+集計フィールドに対する数式を変更する場合は、[OK] をクリックして、ピボットテーブル ツールの [分析] タブの [ツール] グループにある [数式] をクリックし、[集計フィールド] をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>Cannot change this part of a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_ThisPart</comment>
+        <translation>ピボットテーブル レポートのその部分を変更することはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot edit PivotTable in group edit mode.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseGroupSheets</comment>
+        <translation>グループ編集モードでは、ピボットテーブルを編集できません。</translation>
+    </message>
+    <message>
+        <source>You cannot create or make changes to  PivotTable reports in a shared workbook. If you copy a report and paste it in a shared workbook, only the cell contents are pasted.
+To make a copy that you can edit and rearrage, in the same instance of Et, paste the report into a workbook that is not shared.</source>
+        <comment>TX_PIVOTTABLE_DENIED_Edit_BecauseSharedWorkbook</comment>
+        <translation>共有ブックでは、ピポットテーブルレポートを作成したり変更を加えることはできません。レポートをコピーして共有ブックに貼り付けても、セルの内容だけが貼り付けられます。
+編集および変更を加えることのできるコピーを作成するには、同じWPS Spreadsheets内で、共有されていないブックにレポートを貼り付けてください。</translation>
+    </message>
+    <message>
+        <source>The field you are moving cannot be placed in that PivotTable area.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MoveToThisAxis</comment>
+        <translation>移動中のフィールドは、ピボットテーブルのその領域には配置できません。</translation>
+    </message>
+    <message>
+        <source>Fields with calculated items can not be placed in the filter area.</source>
+        <comment>TX_PIVOTTABLE_CALCULATED_MoveToPage</comment>
+        <translation>計算アイテムを含むフィールドは、フィルタエリアに配置できません。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Please select a different location.</source>
+        <comment>TX_IVOTTABLE_DENIED_LOCATION_UNFIT</comment>
+        <translation>ピボットテーブル レポートがシートからはみ出します。別の場所を選択してください。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report will not fit on the sheet. Do you want to show as much as possible?</source>
+        <comment>TX_PIVOTTABLE_LAYOUT_EXCEED</comment>
+        <translation>ピボットテーブル レポートがシートからはみ出します。可能な限り表示しますか?</translation>
+    </message>
+    <message>
+        <source>Do you want to replace the contents of the destination cells in %s?</source>
+        <comment>TX_PIVOTTABLE_REPLACE_CELL_CONTENT</comment>
+        <translation>%s セルの内容を置き換えますか?</translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheets may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_GROUP_CONF_FieldTooManyItems</comment>
+        <translation>元のデータのフィールドには、ピボットテーブル レポートで使用できる個数より多い固有のアイテムがあります。レポートを作成できない、または、このフィールドからのデータがないレポートが作成される可能性があります。</translation>
+    </message>
+    <message>
+        <source>Cannot group or ungroup that selection.</source>
+        <comment>TX_PIVOTTABLE_GROUP_InvalidSelection</comment>
+        <translation>選択対象をグループ化することはできません。</translation>
+    </message>
+    <message>
+        <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you are changing of name of a PivotTable field, you must type a new name for the field.</source>
+        <translation>そのピボットテーブルのフィールド名は正しくありません。ピボットテーブル レポートを作成するには、ラベルの付いた列でリストとして編成されたデータを使用する必要があります。ピボットテーブルのフィールド名を変更する場合は、フィールドの新しい名前を入力する必要があります。</translation>
+    </message>
+    <message>
+        <source>Cannot show or hide detail for this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_SHOWDETAIL</comment>
+        <translation>選択されている範囲の詳細を表示または非表示にすることはできません。</translation>
+    </message>
+    <message>
+        <source>Must enter a number between 0 and 100. Please enter a number for this range and try again.</source>
+        <comment>TX_PIVOTTABLE_FILTER_VALUE_PERCENT_ERROR</comment>
+        <translation>数値は0から100の範囲でなければなりません。この数値の範囲で入力し直し、もう一度行ってください。</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_AVERAGE</comment>
+        <translation>平均</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNT</comment>
+        <translation>データの個数</translation>
+    </message>
+    <message>
+        <source>Count Nums</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_COUNTNUMS</comment>
+        <translation>数値の個数</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MAX</comment>
+        <translation>最大値</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_MIN</comment>
+        <translation>最小値</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_PRODUCT</comment>
+        <translation>積</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEV</comment>
+        <translation>標本標準偏差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_STDEVP</comment>
+        <translation>標準偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VAR</comment>
+        <translation>標本分散</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_VARP</comment>
+        <translation>分散</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_SUM</comment>
+        <translation>合計</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_DATA</comment>
+        <translation>データ</translation>
+    </message>
+    <message>
+        <source>Calculated Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedField</comment>
+        <translation>集計フィールド</translation>
+    </message>
+    <message>
+        <source>Calculated Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_CalculatedItem</comment>
+        <translation>集計アイテム</translation>
+    </message>
+    <message>
+        <source>Solve Order</source>
+        <comment>TX_PIVOTTABLE_ListFormula_SolveOrder</comment>
+        <translation>解決の順序</translation>
+    </message>
+    <message>
+        <source>Field</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Field</comment>
+        <translation>フィールド</translation>
+    </message>
+    <message>
+        <source>Item</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Item</comment>
+        <translation>アイテム</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Formula</comment>
+        <translation>数式</translation>
+    </message>
+    <message>
+        <source>Note:</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note</comment>
+        <translation>ノート:</translation>
+    </message>
+    <message>
+        <source>When a cell is updated by more than one formula,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note1</comment>
+        <translation>複数の数式によってセルが更新された時、</translation>
+    </message>
+    <message>
+        <source>he value is set by the formula with the last solve order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note2</comment>
+        <translation>最後の解決の順序の数式によって値が設定されます。</translation>
+    </message>
+    <message>
+        <source>To change the solve order for multiple calculated items or fields,</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note3</comment>
+        <translation>複数の集計アイテムや集計フィールドの解決の順序を変更するには、</translation>
+    </message>
+    <message>
+        <source>on the Options tab, in the Calculations group, click Fields, Items, &amp; Sets, and then click Solve Order.</source>
+        <comment>TX_PIVOTTABLE_ListFormula_Note4</comment>
+        <translation>[オプション] タブの [計算方法] グループにある [フィールド/アイテム/セット] をクリックし、次に [解決の順序] をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>Cannot open PivotTable source file %s.</source>
+        <comment>TX_PIVOTTABLE_Source_Invalid</comment>
+        <translation>ピボットテーブルの集計元ファイル %s を開くことができません。</translation>
+    </message>
+    <message>
+        <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
+
+  If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
+  If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
+        <comment>TX_PIVOTTABLE_Source_Single_Row</comment>
+        <translation>このコマンドにはデータソースが 2 行以上必要です。選択したセル範囲が 1 行だけの場合は、このコマンドを実行できません。次のいずれかの操作を行ってください。
+
+  フィルタオプションを使用している場合、2 行以上のデータで構成されるセル範囲を選択し、[フィルタオプションの設定]コマンドを再度クリックします。
+  ピボットテーブルレポートを作成している場合は、セル参照を入力するか、または 2 行以上のデータで構成されるセル範囲を選択します。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is invalid. Try refreshing the data(On the Operation tab, Click Refresh).</source>
+        <comment>TX_PIVOTTABLE_Report_Invalid_Need_Refresh</comment>
+        <translation>このピボットテーブル レポートは無効です。[分析] タブの [更新] をクリックして、データを更新してください。</translation>
+    </message>
+    <message>
+        <source>ET Could not get the source data for the PivotTable report from the disk.</source>
+        <comment>TX_PIVOTTABLE_Source_From_Disk_Invalid</comment>
+        <translation>ピボットテーブル レポートの元データをディスクから読み込むことができません。</translation>
+    </message>
+    <message>
+        <source>The PivotTable report was saved without the underlying data. Use the Refresh Data Command to update the report.</source>
+        <comment>TX_PIVOTTABLE_Source_Not_On_Disk</comment>
+        <translation>ピボットデーブル レポートは集計元データと共に保存されていません。レポートを更新するには、[データの更新] をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>When a protected worksheet contains other PivotTables that are based on the same source data, this command can not be executed. To revoke protection for worksheets that contain other PivotTables, click the tab for the worksheet, and then click Undo Sheet Protection in the Change group on the Review tab. And then retry the command.</source>
+        <comment>TX_PIVOTTABLE_Source_Sheet_Protect</comment>
+        <translation>保護されたシート上に同じデータソースを参照する他のピボットテーブルが存在する場合は、このコマンドを実行できません。他のピボットテーブルを含むシートの保護を解除するためには、シートタブを右クリックして「シート保護の解除」をクリックするか、「校閲」タブの「シート保護の解除」をクリックし、解除後にこのコマンドを再試行してください。</translation>
+    </message>
+    <message>
+        <source>Invalid workbook, worksheet or name.</source>
+        <translation>無効なワークブック、ワークシート、または名前です。</translation>
+    </message>
+    <message>
+        <source>Relative worksheet name is not supported in PivotTable.</source>
+        <translation>ピボットテーブルは相対ワークシートの名前には非対応です。</translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CannotHideSelected</comment>
+        <translation>現在選択されている範囲を隠すことはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot use empty value for field or item name in PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FieldItemName_Cannot_Empty</comment>
+        <translation>ピボットテーブルのフィールド、または項目名を入力してください。</translation>
+    </message>
+    <message>
+        <source>This PivotTable report is based on the same data as at least one other PivotTable report. Clearing the PivotTable report will remove the following from all the PivotTable reports:
+1.Group
+2.Calculated Items
+3.Calculated Fields
+4.Custom Items</source>
+        <comment>TX_PIVOTTABLE_ClearTable_Note</comment>
+        <translation>このピボットテーブル レポートと同じデータを共有している他のピボットテーブル レポートが少なくとも 1 つ存在します。このピボットテーブル レポートをクリアすると、他のピボットテーブル レポートすべてから次の内容が削除されます。
+1.グループ化
+2.集計項目
+3.集計フィールド
+4.ユーザー設定項目</translation>
+    </message>
+    <message>
+        <source>Text cannot be entered into a calculated item cell.</source>
+        <comment>TX_PIVOTTABLE_DENIED_InputText</comment>
+        <translation>集計アイテムのセルに文字列を入力することはできません。</translation>
+    </message>
+    <message>
+        <source>The PivotTable does not support OLAP. It will be Removed.</source>
+        <comment>TX_PIVOTTALE_Not_Support_OLAP</comment>
+        <translation>WPS Spreadsheetsは、OLAPピボットテーブルには非対応です。このファイル内からOLAPピボットテーブルが削除されます。</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>TX_PIVOT_TABLE_NAME</comment>
+        <translation>ピボットテーブル</translation>
+    </message>
+    <message>
+        <source>GROUP</source>
+        <comment>TX_PIVOT_GROUP</comment>
+        <translation>グループ</translation>
+    </message>
+    <message>
+        <source>Seconds</source>
+        <comment>TX_PIVOT_GROUP_SECONDS</comment>
+        <translation>秒</translation>
+    </message>
+    <message>
+        <source>Minutes</source>
+        <comment>TX_PIVOT_GROUP_MINUSTES</comment>
+        <translation>分</translation>
+    </message>
+    <message>
+        <source>Hours</source>
+        <comment>TX_PIVOT_GROUP_HOURS</comment>
+        <translation>時間</translation>
+    </message>
+    <message>
+        <source>Days</source>
+        <comment>TX_PIVOT_GROUP_DAYS</comment>
+        <translation>日</translation>
+    </message>
+    <message>
+        <source>Months</source>
+        <comment>TX_PIVOT_GROUP_MONTHS</comment>
+        <translation>月</translation>
+    </message>
+    <message>
+        <source>Quarters</source>
+        <comment>TX_PIVOT_GROUP_QUARTERS</comment>
+        <translation>四半期</translation>
+    </message>
+    <message>
+        <source>Years</source>
+        <comment>TX_PIVOT_GROUP_YEARS</comment>
+        <translation>年</translation>
+    </message>
+    <message>
+        <source>Qtr1</source>
+        <comment>TX_PIVOT_GROUP_QTR1</comment>
+        <translation>第1四半期</translation>
+    </message>
+    <message>
+        <source>Qtr2</source>
+        <comment>TX_PIVOT_GROUP_QTR2</comment>
+        <translation>第2四半期</translation>
+    </message>
+    <message>
+        <source>Qtr3</source>
+        <comment>TX_PIVOT_GROUP_QTR3</comment>
+        <translation>第3四半期</translation>
+    </message>
+    <message>
+        <source>Qtr4</source>
+        <comment>TX_PIVOT_GROUP_QTR4</comment>
+        <translation>第4四半期</translation>
+    </message>
+    <message>
+        <source>Or</source>
+        <comment>TX_PIVOT_GROUP_OR</comment>
+        <translation>OR</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PIVOT_VALUES</comment>
+        <translation>値</translation>
+    </message>
+    <message>
+        <source>Sum of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_SUM_SEED</comment>
+        <translation>合計:%s</translation>
+    </message>
+    <message>
+        <source>Count of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNT_SEED</comment>
+        <translation>データの個数:%s</translation>
+    </message>
+    <message>
+        <source>Average of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_AVERAGE_SEED</comment>
+        <translation>平均:%s</translation>
+    </message>
+    <message>
+        <source>Max of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_MAX_SEED</comment>
+        <translation>最大値:%s</translation>
+    </message>
+    <message>
+        <source>Min of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_MIN_SEED</comment>
+        <translation>最少値:%s</translation>
+    </message>
+    <message>
+        <source>Product of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_PRODUCT_SEED</comment>
+        <translation>積:%s</translation>
+    </message>
+    <message>
+        <source>Count of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNTN_SEED</comment>
+        <translation>数値の個数:%s</translation>
+    </message>
+    <message>
+        <source>StdDev of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEV_SEED</comment>
+        <translation>標本標準偏差:%s</translation>
+    </message>
+    <message>
+        <source>StdDevp of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEVP_SEED</comment>
+        <translation>標準偏差</translation>
+    </message>
+    <message>
+        <source>Var of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_VAR_SEED</comment>
+        <translation>標本分散:%s</translation>
+    </message>
+    <message>
+        <source>Varp of %s</source>
+        <comment>TX_PIVOT_SUBTOTAL_VARP_SEED</comment>
+        <translation>分散:%s</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>TX_PIVOT_SUBTOTAL_SUM</comment>
+        <translation>合計</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNT</comment>
+        <translation>データの個数</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>TX_PIVOT_SUBTOTAL_AVERAGE</comment>
+        <translation>平均</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>TX_PIVOT_SUBTOTAL_MAX</comment>
+        <translation>最大値</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>TX_PIVOT_SUBTOTAL_MIN</comment>
+        <translation>最小値</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>TX_PIVOT_SUBTOTAL_PRODUCT</comment>
+        <translation>積</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>TX_PIVOT_SUBTOTAL_COUNTN</comment>
+        <translation>数値の個数</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEV</comment>
+        <translation>標本標準偏差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>TX_PIVOT_SUBTOTAL_STDDEVP</comment>
+        <translation>標準偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>TX_PIVOT_SUBTOTAL_VAR</comment>
+        <translation>標本分散</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>TX_PIVOT_SUBTOTAL_VARP</comment>
+        <translation>分散</translation>
+    </message>
+    <message>
+        <source>Total %s</source>
+        <comment>TX_PIVOT_LABEL_GRAND_SEED</comment>
+        <translation>%s集計</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_LABEL_GRAND</comment>
+        <translation>総計</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_LABEL_GRAND2</comment>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>%s Total</source>
+        <comment>TX_PIVOT_LABEL_SUBTOTAL_AUTO_SEED</comment>
+        <translation>%s 集計</translation>
+    </message>
+    <message>
+        <source>(ALL)</source>
+        <comment>TX_PIVOT_PAGE_ITEM_ALL</comment>
+        <translation>(すべて)</translation>
+    </message>
+    <message>
+        <source>ALL</source>
+        <comment>TX_PIVOT_PAGE_ITEM_ALL2</comment>
+        <translation>すべて</translation>
+    </message>
+    <message>
+        <source>(previous)</source>
+        <comment>TX_PIVOT_BRACKETS_PREVIOUS</comment>
+        <translation>(前へ)</translation>
+    </message>
+    <message>
+        <source>(next)</source>
+        <comment>TX_PIVOT_BRACKETS_NEXT</comment>
+        <translation>(次へ)</translation>
+    </message>
+    <message>
+        <source>(Multiple Items)</source>
+        <comment>TX_PIVOT_PAGE_ITEM_MULIT</comment>
+        <translation>(複数のアイテム)</translation>
+    </message>
+    <message>
+        <source>Column Labels</source>
+        <comment>TX_PIVOT_COLUMN_FIELDS</comment>
+        <translation>列ラベル</translation>
+    </message>
+    <message>
+        <source>Row Labels</source>
+        <comment>TX_PIVOT_ROW_FIELDS</comment>
+        <translation>行ラベル</translation>
+    </message>
+    <message>
+        <source>(blank)</source>
+        <comment>TX_PIVOT_BLANK_WITH_BRACE</comment>
+        <translation>(空白)</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL</comment>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL_VERSION11</comment>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>Formula%d</source>
+        <comment>TX_PIVOT_CALCITEM_NAME_FORMULA</comment>
+        <translation>数式%d</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap a table.</source>
+        <comment>TX_PIVOTTABLE_OVERLAP_TABLE</comment>
+        <translation>ピボットテーブル レポートをテーブルに重ねることはできません。</translation>
+    </message>
+    <message>
+        <source>A PivotTable report cannot overlap another PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_OVERLAP_OTHER</comment>
+        <translation>ピポットテーブルレポートは、他のピポットテーブルレポートと重なり合うことはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot determine which PivotTable field to sort by.</source>
+        <comment>TX_PIVOT_CANNOT_SORT</comment>
+        <translation>並べ替えのキーとなるピボットテーブル フィールドが断定できません。</translation>
+    </message>
+    <message>
+        <source>We can&apos;t make this change for the selected cells because it will affect a PivotTable. Use the field list to chage the report. If you are trying to inset or delete cells, move the PivotTable and try again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_TEXTTOCOLUMNS</comment>
+        <translation>ピボットテーブルに影響するため、選択したセルに対してこの変更を行うことはできません。レポートを変更するには、フィールド リストを使ってください。セルを挿入または削除するには、ピボットテーブルを移動してからもう一度お試しください。</translation>
+    </message>
+    <message>
+        <source>PivotTable can not find item with this name,whether %s will renamed to %s</source>
+        <comment>TX_PIVOT_CHANGE_PAGEFIELD_ITEM_CAPTION</comment>
+        <translation>ピボットテーブル上にこの名前のアイテムが見つかりません。&quot;%s&quot;を&quot;%s&quot;に名称変更しますか？</translation>
+    </message>
+    <message>
+        <source>%s is not item of this field!</source>
+        <comment>TX_PIVOT_CANNOT_CHANGE_CURRENTPAGE_NOTE</comment>
+        <translation> %s はこのフィールドのアイテムではありません。</translation>
+    </message>
+    <message>
+        <source>Some PivotTable cells contain circular references.
+
+1.Check your calculated field and item formulas to make sure that none of the formulas refer to their own cells.
+2.Or,change the order of calculation by using the solve Order command.</source>
+        <comment>TX_PIVOTTABLE_CIRCLE_REFER</comment>
+        <translation>いくつかのピボットテーブルのセルに、循環参照が含まれています。
+
+1.集計フィールドとアイテムの数式に、それらのセル自体を参照する数式がないことを確認してください。
+2.[解決の順序] コマンドを使って、計算する順序を変更してください。</translation>
+    </message>
+    <message>
+        <source>Your formula cannot be entered because calculated fields cannot contain circular references. Change the formula to make sure that it doesn&apos;t refer to its own cells.</source>
+        <comment>TX_PIVOTTABLE_FIELD_CIRCLE_REFER</comment>
+        <translation>集計フィールドに循環参照を含むことはできないため、数式を入力できません。セルがそのセルものを参照していないことを確認し、数式を変更してください。</translation>
+    </message>
+    <message>
+        <source>Query can not run or database and table can not open.
+
+ Please check the server or or contact your database administrator,Verify that the external data is valid and not moved or reorganized, and then retry the operation.</source>
+        <comment>TX_PIVOT_DATABASE_NOT_EXISTS</comment>
+        <translation>クエリーが実行できない、またはデータベースとテーブルを開くことができません。
+
+サーバーを確認するか、データベースの管理者に連絡してください。外部データが有効であるか、移動されていないか、認識されているかを確認した後、再試行してください。</translation>
+    </message>
+    <message>
+        <source>Groups cannot be placed in the data area when a PivotTable report has calculated items.</source>
+        <comment>TX_PIVOTTABLE_CONF_CALCITEM_AND_GROUP_MOVE_VALUE</comment>
+        <translation>ピボットテーブル レポートに集計アイテムがある場合、データ エリアにグループを置くことはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot enter a formula for an item or field name in a PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_FMLA_CANNOT_BE_FIELDITEM_NAME</comment>
+        <translation>ピボットテーブル レポートのアイテムまたはフィールド名に数式を入力することはできません。</translation>
+    </message>
+    <message>
+        <source>The item cannot be added or modified. There may not be enough memory, the maximum number of items allowed in a field may have been reached, or if a Visual Basic macro is performming the operation, the macro may be incorrect.
+
+Simplify the PivotTable report or check the macro for errors, and then try the operation again.</source>
+        <comment>TX_PIVOTTABLE_DENIED_ADDITEM</comment>
+        <translation>アイテムを追加または変更できません。メモリが足りないか、フィールドに許されるアイテムが最大数に達している、または Visual Basic マクロを実行中の場合はそのマクロが正しくない可能性があります。
+
+ピボットテーブル レポートを簡単にするか、マクロのエラーを確認して再度実行してみてください。</translation>
+    </message>
+    <message>
+        <source>Workbook is protected and cannot be changed.</source>
+        <comment>TX_MODIFY_DEFIED_ON_PROTECTED_BOOK</comment>
+        <translation>ブックは保護されています。変更できません。</translation>
+    </message>
+    <message>
+        <source>Show Details has been turned off for this PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_SHOWDETAILS_DISABLED</comment>
+        <translation>このピボットテーブル レポートでは、詳細表示が無効になっています。</translation>
+    </message>
+    <message>
+        <source>You can create a PivotTable based on source data with more than 16384 columns. Reduce the number of columns and try again.</source>
+        <comment>TX_PIVOTTABLE_16384DENIED</comment>
+        <translation>16,384 以上の列を持つソース データに基づいてピボットテーブルを作成することはできません。列の数を減らして、再度実行してください。</translation>
+    </message>
+    <message>
+        <source>You cannot hide this selection.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_SELECTION</comment>
+        <translation>現在選択されている範囲を隠すことはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot hide the (All) item of a Report Filter field.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_PAGE_ALL</comment>
+        <translation>レポート フィルタ フィールドのアイテムを (すべて) 非表示することはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot hide all items of a field.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_ALLITEMS</comment>
+        <translation>フィールドのすべてのアイテムを非表示にすることはできません。</translation>
+    </message>
+    <message>
+        <source>Cannot hide all items of the &apos;%s&apos; field from the PivotTable report.</source>
+        <comment>TX_PIVOTTABLE_CANNOT_HIDE_ALLITEMS_FIELD</comment>
+        <translation>ピボットテーブル レポートの &apos;%s&apos; フィールドの全アイテムを非表示にすることはできません。</translation>
+    </message>
+    <message>
+        <source>To build a report, choose fields from the PivotTable Field List</source>
+        <comment>TX_PIVOTTABLE_SELECT_TIP_TEXT</comment>
+        <translation>レポートを作成するには、[ピボットテーブルのフィールド リスト] からフィールドを選択してください</translation>
+    </message>
+    <message>
+        <source>Chlick in this area to work with the PivotTable report</source>
+        <comment>TX_PIVOTTABLE_UNSELECT_TIP_TEXT</comment>
+        <translation>ピボットテーブルレポートを操作するには、この領域をクリックしてください</translation>
+    </message>
+    <message>
+        <source>Trun on the PivotTable Field List to work with the PivotTable</source>
+        <comment>TX_PIVOTTABLE_HIDDENFIELD_TIP_TEXT</comment>
+        <translation>ピボットテーブルを操作するには、ピボットテーブルのフィールド リストを表示してください</translation>
+    </message>
+    <message>
+        <source>Some calculated items was removed because new items of the same name appeared during refresh.</source>
+        <comment>TX_PIVOTTABLE_REMOVE_CALCITEM_BY_SAME_NAME</comment>
+        <translation>更新中に同じ名前の新しいアイテムがあったため、いくつかの集計アイテムは削除されました。</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>TX_PivotTable_Values</comment>
+        <translation>値</translation>
+    </message>
+    <message>
+        <source>Move %s to Beginning</source>
+        <comment>TX_PivotTable_MoveToBeginning</comment>
+        <translation>%s を先頭に移動</translation>
+    </message>
+    <message>
+        <source>Move %s Up</source>
+        <comment>TX_PivotTable_MoveUp</comment>
+        <translation> %s を上に移動</translation>
+    </message>
+    <message>
+        <source>Move %s Down</source>
+        <comment>TX_PivotTable_MoveDown</comment>
+        <translation>%s を下に移動</translation>
+    </message>
+    <message>
+        <source>Move %s to End</source>
+        <comment>TX_PivotTable_MoveToEnd</comment>
+        <translation>%s を末尾に移動</translation>
+    </message>
+    <message>
+        <source>Move %s to Rows</source>
+        <comment>TX_PivotTable_MoveToRows</comment>
+        <translation>%s を行に移動</translation>
+    </message>
+    <message>
+        <source>Move %s to Columns</source>
+        <comment>TX_PivotTable_MoveToColumns</comment>
+        <translation>%s を列に移動</translation>
+    </message>
+    <message>
+        <source>Remove %s</source>
+        <comment>TX_PivotTable_Remove</comment>
+        <translation>%s を削除</translation>
+    </message>
+    <message>
+        <source>Subtotals %s</source>
+        <comment>TX_PivotTable_Subtotals</comment>
+        <translation>集計%s </translation>
+    </message>
+    <message>
+        <source>Hide Field List</source>
+        <comment>TX_PivotTable_HideFieldList</comment>
+        <translation>フィールドリストの非表示</translation>
+    </message>
+    <message>
+        <source>Show Field List</source>
+        <comment>TX_PivotTable_ShowFieldList</comment>
+        <translation>フィールドリストの表示</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>TX_PivotTable_Move</comment>
+        <translation>移動</translation>
+    </message>
+    <message>
+        <source>Move Values</source>
+        <comment>TX_PivotTable_MoveValues</comment>
+        <translation>値の移動</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <comment>TX_PivotTable_FieldSettings</comment>
+        <translation>フィールドの設定</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <comment>TX_PivotTable_ValueFieldSettings</comment>
+        <translation>値フィールドの設定</translation>
+    </message>
+    <message>
+        <source>Clear Filter From %s</source>
+        <comment>TX_PivotTable_ClearFilterFrom</comment>
+        <translation>%s からフィルタをクリア</translation>
+    </message>
+    <message>
+        <source>Cannot move subtotals or block totals</source>
+        <comment>TX_PivotTable_CannotMoveSubtotalsGrand</comment>
+        <translation>小計またはブロック計を移動することはできません。</translation>
+    </message>
+    <message>
+        <source>This PivotTable&apos;s Connection has benn deleted</source>
+        <comment>TX_PivotTable_ConnectionIsDelete</comment>
+        <translation>このピポットテーブルの接続が削除されました。</translation>
+    </message>
+    <message>
+        <source>Too much data will generated and et can not conntinue with it.</source>
+        <comment>TX_Pivottable_Mass_Operation</comment>
+        <translation>生成されるデータが多すぎるため、WPS Spreadsheetsはこの操作を続行できません。</translation>
+    </message>
+    <message>
+        <source>This document can&apos;t be shared, it must be saved as another format before be shared.</source>
+        <translation>このファイル形式は、ブックの共有に対応していません。他の形式に変更し、名前を付けて保存してください。</translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <comment>TX_REFERENCE_NOT_VALID</comment>
+        <translation>参照が無効です。</translation>
+    </message>
+    <message>
+        <source>PivotTable %s  had some incorrect data,it had been deleted</source>
+        <comment>TX_PIVOTTABLE_DELTE_INVLIED_PIVOTTABLE</comment>
+        <translation>ピボットテーブル %s にはエラーデータが含まれているため削除されます。</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOTTABLE_GETPIVOTDATA_SUBTOTAL_TOTAL</comment>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>Slicer</source>
+        <comment>TX_PIVOT_SLICER_NAME</comment>
+        <translation>スライサー</translation>
+    </message>
+    <message>
+        <source>The data source of a PivotTable connected to filter controls that ara also connected to other PivotTables cannot be Changed.To change the data source, first disconnect the filter controls from this PivotTable or from the other PivotTables.</source>
+        <comment>TX_PIVOTTABLE_MULTI_SLICER_LINK</comment>
+        <translation>フィルタコントロールに接続されるピポットテーブルのデータソースを変更できません。データソースを変更するには、このピポットテーブル或いは他のピポットテーブルからフィルタコントロールとの接続を切断してください。</translation>
+    </message>
+    <message>
+        <source>Remove Slicers</source>
+        <comment>TX_PIVOT_REMOVE_ALL_SLICER</comment>
+        <translation>スライサーの削除</translation>
+    </message>
+    <message>
+        <source>Remove &quot;%s&quot;</source>
+        <comment>TX_PIVOT_REMOVE_SLICER</comment>
+        <translation> &quot;%s&quot;を削除</translation>
+    </message>
+    <message>
+        <source>Clear Filter from Slicers</source>
+        <comment>TX_PIVOT_ALL_SLICER_CLEAR_FILTER</comment>
+        <translation>スライサーからフィルタをクリア</translation>
+    </message>
+    <message>
+        <source>Clear Filter from &quot;%s&quot;</source>
+        <comment>TX_PIVOT_SLICER_CLEAR_FILTER</comment>
+        <translation>&quot;%s&quot; からフィルタをクリア</translation>
+    </message>
+    <message>
+        <source>All values ara filtered out.</source>
+        <comment>TX_PIVOT_SLICER_FILTERED_OUT</comment>
+        <translation>すべての値がフィルタ処理されました。</translation>
+    </message>
+    <message>
+        <source>Cannot update filter controls,PivotTables.
+
+Reasons for this can include:
+• The connection to the data source failed.
+• The worksheet is protected
+• A PivotTable cannot expand because is would overlap existing cell content</source>
+        <comment>TX_PIVOT_SLICER_REMOVE_FAILINFO</comment>
+        <translation>フィルター コントロール、ピボットテーブルを更新できません。以下の理由が考えられます。
+• データ ソースに接続できなかった
+• ワークシートが保護されている
+• データが設定されているセルの内容と重なるため、ピボットテーブルを展開できない</translation>
+    </message>
+    <message>
+        <source>History sheet cannot be renamed.</source>
+        <comment>TX_RenameSheet_Error_HistorySheet</comment>
+        <translation>履歴のシート名は変更できません。</translation>
+    </message>
+    <message>
+        <source>%s is a reserved name.</source>
+        <comment>TX_Reserved_SheetName</comment>
+        <translation>%s は予約語のため、シート名に使用できません。</translation>
+    </message>
+    <message>
+        <source>History</source>
+        <comment>TX_History_Reserved_SheetName</comment>
+        <translation>履歴</translation>
+    </message>
+    <message>
+        <source>Action
+Number</source>
+        <comment>TX_ShareWorkbook_ListChanges_ActionNumber</comment>
+        <translation>処理番号</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <comment>TX_ShareWorkbook_ListChanges_Date</comment>
+        <translation>日付</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <comment>TX_ShareWorkbook_ListChanges_Time</comment>
+        <translation>時刻</translation>
+    </message>
+    <message>
+        <source>Who</source>
+        <comment>TX_ShareWorkbook_ListChanges_Who</comment>
+        <translation>処理者</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <comment>TX_ShareWorkbook_ListChanges_Change</comment>
+        <translation>変更</translation>
+    </message>
+    <message>
+        <source>Sheet</source>
+        <comment>TX_ShareWorkbook_ListChanges_Sheet</comment>
+        <translation>シート</translation>
+    </message>
+    <message>
+        <source>Range</source>
+        <comment>TX_ShareWorkbook_ListChanges_Range</comment>
+        <translation>範囲</translation>
+    </message>
+    <message>
+        <source>New
+Value</source>
+        <comment>TX_ShareWorkbook_ListChanges_NewValue</comment>
+        <translation>変更後の値</translation>
+    </message>
+    <message>
+        <source>Old
+Value</source>
+        <comment>TX_ShareWorkbook_ListChanges_OldValue</comment>
+        <translation>変更前の値</translation>
+    </message>
+    <message>
+        <source>Action
+Type</source>
+        <comment>TX_ShareWorkbook_ListChanges_ActionType</comment>
+        <translation>処理の種類</translation>
+    </message>
+    <message>
+        <source>Losing
+Action</source>
+        <comment>TX_ShareWorkbook_ListChanges_LosingAction</comment>
+        <translation>破棄された処理</translation>
+    </message>
+    <message>
+        <source>The history ends with the changes saved on %s at %s.</source>
+        <comment>TX_ShareWorkbook_ListChanges_HistoryEnds</comment>
+        <translation>変更履歴は %s の %s に保存されました。</translation>
+    </message>
+    <message>
+        <source>No Changes were found with the specified properties.
+To highlight all changes, uncheck the When, Who, and Where options.</source>
+        <comment>TX_ShareWorkbook_ListChangesError_NoChangesFound</comment>
+        <translation>指定したプロパティによる変更は見つかりませんでした。すべての変更を強調表示するには、[変更箇所の指定] グループのオプションをすべてオフにしてください。</translation>
+    </message>
+    <message>
+        <source>Only changes which have been saved can be listed on history sheet.</source>
+        <comment>TX_ShareWorkbook_ListChangesError_ChangesNotSaved</comment>
+        <translation>保存された変更履歴のみを履歴シートに表示できます。</translation>
+    </message>
+    <message>
+        <source>Not enough system resource is available to display this image.</source>
+        <comment>TX_SHEET_CANNOT_DISPLAY_BACKGROUND</comment>
+        <translation>システムリソースが不足しているため、この画像を表示できません。</translation>
+    </message>
+    <message>
+        <source>[OBDC Driver Manager]The data source name was not found and the default driver was not specified.</source>
+        <comment>TX_DATABASE_ODBC_NO_DEFAULT</comment>
+        <translation>[ODBC ドライバ マネージャ]データソースの名称が見つかりません。デフォルトドライバが指定されていません。</translation>
+    </message>
+    <message>
+        <source>The content does not conform to the preset limits</source>
+        <comment>TX_ERRORCHECK_ERRDESC_DataValidation</comment>
+        <translation>内容はプリセット制限に一致しません。</translation>
+    </message>
+    <message>
+        <source>&amp;Add content to the list</source>
+        <comment>TX_ERRORCHECK_REPAIR_AddToDataValidation</comment>
+        <translation>内容をリストに追加(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Over list field length, list can only have up to 255 characters</source>
+        <comment>TX_VALIDATION_Tip_Add_Overlen_Error</comment>
+        <translation>リストの長さ上限を超えました。255文字以下で指定してください。</translation>
+    </message>
+    <message>
+        <source>The maximum number of data series per chart is 255.</source>
+        <comment>TX_PIVOT_Chart_Limit_Series</comment>
+        <translation>グラフに表示できるデータ系列の上限が255文字です。</translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <comment>TX_PIVOT_TOTAL_PivotChart</comment>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <comment>TX_PIVOT_GRANDTOTAL_PivotChart</comment>
+        <translation>総計</translation>
+    </message>
+    <message>
+        <source>You are attempting to create a chart by useing a PivotTable report in another workbok. This will result in a static chart that cannot be updated. To create a PivotChart report, or a chart that dynamically updates like the PivotTbale report, the chart must be located in the same workbook as its associated PivotTable report.</source>
+        <comment>TX_PIVOT_CHART_Attempt_Warning_Info</comment>
+        <translation>他のブック中のピポットテーブルを使用し、グラフを作成しています。作成されたグラフの更新ができません。ピポットテーブルのような更新可能なピポットグラフを作成するには、グラフとピポットテーブルが同一ブックであることが必要です。</translation>
+    </message>
+    <message>
+        <source>Open file failed: File path is too long more than %d characters!
+Please try to shorten the file path, or move the file to the desktop, and reopen it.</source>
+        <comment>TX_Workbook_OpenPathTooLongFailure</comment>
+        <translation>ファイルを開く際のエラー:ファイルパスが長すぎます。
+%d以下の文字で指定してください。或いは、ファイルをデスクトップに移動して、お試しください。</translation>
+    </message>
+    <message>
+        <source>The Document was saved successfully, but WPS cannot re-open it because of a sharing violation.
+Please close the document and try to open it again.</source>
+        <comment>TX_SavedButCannotReOpen</comment>
+        <translation>ファイルを保存しました。共有ブックのためSpreadsheesがファイルを開けません。ファイルを閉じて、もう一度開いてください。</translation>
+    </message>
+    <message>
+        <source>There is some formals in selection, only merge or unmerge normally, do you want to continue?</source>
+        <comment>TX_MergeCells_MergeNormallyForFormla</comment>
+        <translation>選択した範囲には数式があります。標準方式だけでセルを結合/分割できます。
+続行しますか？</translation>
+    </message>
+    <message>
+        <source>The selection contains too much cells, merge same cells will take a few minutes or more, continue?</source>
+        <comment>TX_MergeCells_MergeSameContainTooMuchCells</comment>
+        <translation>選択した範囲にはセルが多すぎるため、セルの結合は時間がかかります。
+続行しますか？</translation>
+    </message>
+    <message>
+        <source>&quot;%s&quot; is already open. Reopening will cause any changes you made to be discarded. Do you want to reopen &quot;%s&quot;?</source>
+        <comment>TX_DiscardChanges_ReopenWorkbook</comment>
+        <translation>&quot;%s&quot; は既に開いています。重複して開くと、これまでの変更内容は破棄されます。&quot;%s&quot; を開きますか？</translation>
+    </message>
+    <message>
+        <source>Cannot open a copy while the template &apos;%s&apos; is already open.</source>
+        <comment>TX_Template_IsOpen</comment>
+        <translation>テンプレート &apos;%s&apos;が開いている間は、コピーを開くことはできません。</translation>
+    </message>
+    <message>
+        <source>To do this, all the merged cells need to be the same size.</source>
+        <comment>TX_ERROR_MergeCell_NeedSameSize</comment>
+        <translation>この操作を行うには、すべての結合セルが同じサイズである必要があります。</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER</comment>
+        <translation>一般のファイル(*.et;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets ファイル(*.et)|*.et|Microsoft Excel ファイル(*.xls)|*.xls|Microsoft Excel 2007-2016 ファイル(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|すべてのファイル(*.*)|*.*||</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets Files(*.et)|*.et|WPS Spreadsheets Files(*.etx)|*.etx|Microsoft Excel Files(*.xls)|*.xls|Microsoft Excel 2007/2010 Files(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|All Files(*.*)|*.*||</source>
+        <comment>TX_SUPBOOK_FILE_TYPE_FILER_WITH_ETX</comment>
+        <translation>一般のファイル(*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb)|*.et;*.etx;*.xls;*.xlsx;*.xlsm;*.xlsb|WPS Spreadsheets ファイル(*.et)|*.et|WPS Spreadsheets ファイル(*.etx)|*.etx|Microsoft Excel ファイル(*.xls)|*.xls|Microsoft Excel 2007-2016 ファイル(*.xlsx;*.xlsm;*.xlsb)|*.xlsx;*.xlsm;*.xlsb|すべてのファイル(*.*)|*.*||</translation>
+    </message>
+    <message>
+        <source>Worksheet in %s</source>
+        <comment>TX_OnSetHostNames_3</comment>
+        <translation>%s にあるワークシート</translation>
+    </message>
+    <message>
+        <source>Shared workbook user list update faild! You can try to close and open this file again.
+If you ignore it, you cannot save this file, but you can use Save As to save to a different file.</source>
+        <comment>TX_ShareWorkbook_AddSharedWorkbookUserFaild</comment>
+        <translation>共有ブックのユーザーリストの更新に失敗しました。ファイルを閉じてからもう一度開いてください。無視すると、この共有ブックを保存できません。他のファイルとして名前を付けて保存してください。</translation>
+    </message>
+    <message>
+        <source> The ranges in the formula do not intersect.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NULL</comment>
+        <translation>数式の範囲が交差しません。</translation>
+    </message>
+    <message>
+        <source> The formula or function used is dividing by zero or empty cells.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_DIV</comment>
+        <translation>数式または関数が 0 または空のセルで除算されています。</translation>
+    </message>
+    <message>
+        <source> A value used in the formula is of the wrong data type.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_VALUE</comment>
+        <translation>数式で使用されるデータの形式が正しくありません。</translation>
+    </message>
+    <message>
+        <source> Moving or deleting cells caused an invalid cell reference, or function is returning reference error.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_REF</comment>
+        <translation>セルの移動または削除でセルの参照が無効になります。或いは、関数が参照エラーを返しています。</translation>
+    </message>
+    <message>
+        <source> The formula contains unrecognized text.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NAME</comment>
+        <translation>数式には未定義なテキストがあります。</translation>
+    </message>
+    <message>
+        <source> There is a problem with a number used in the formula.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NUM</comment>
+        <translation>数式には無効または大きすぎる値があります。</translation>
+    </message>
+    <message>
+        <source> A value is not available to the formula or function.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NA</comment>
+        <translation>数式には無効な値があります。</translation>
+    </message>
+    <message>
+        <source> This cell contains a date string represented with only 2 digits for the year.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_TextDate</comment>
+        <translation>この日付の書式はテキストです。</translation>
+    </message>
+    <message>
+        <source> The number in this cells is formatted as text or preceded by an apostrophe.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_NumberAsText</comment>
+        <translation>この数値はテキストの書式で、計算結果はエラーが発生する可能性があります。</translation>
+    </message>
+    <message>
+        <source> The formula in this cell differs from the formulas in this area of the spreadsheet.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_InconsistentFormula</comment>
+        <translation>このセルの数式は隣のセルと違います。</translation>
+    </message>
+    <message>
+        <source> The formula in this cell refers to a range that has additional numbers adjacent to it.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_OmittedCells</comment>
+        <translation>数式参照範囲の隣には、参照されない数字があります。</translation>
+    </message>
+    <message>
+        <source> This cell contains a formula and is not locked to protect it from being changed inadvertently.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_UnlockedFormulaCells</comment>
+        <translation>セルをロックしない場合、数式が編集される可能性があります。</translation>
+    </message>
+    <message>
+        <source> The formula in this cell refers to cells that are currently empty.</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_EmptyCellReferences</comment>
+        <translation>この数式の参照範囲に、空白セルがあります。</translation>
+    </message>
+    <message>
+        <source> The content does not conform to the preset limits</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_DataValidation</comment>
+        <translation>セルの内容はプリセット制限に一致しません。</translation>
+    </message>
+    <message>
+        <source>Error Checking &amp;Options</source>
+        <comment>TX_ERRORCHECK_REPAIR_ErrorCheckOption</comment>
+        <translation>エラーチェックのオプション(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Show &amp;Calculation Steps</source>
+        <comment>TX_ERRORCHECK_REPAIR_ShowCalcStep</comment>
+        <translation>計算ステップの表示(&amp;C)</translation>
+    </message>
+    <message>
+        <source>We found a problem with one or more formula references in this worksheet.
+
+Check that the cell references, range names, defined names and links to other workbooks in your formulas are all correct.</source>
+        <comment>TX_Chart_LabelFormulaUpdate_Error</comment>
+        <translation>このシートには複数箇所の数式参照エラーがあります。
+
+数式中のセル参照、範囲名称、定義された名称と他のブックへのリンクが正確であるかご確認ください。</translation>
+    </message>
+    <message>
+        <source>Update Values: </source>
+        <comment>TX_CrossBookUpdateValuesTitle</comment>
+        <translation>値の更新:</translation>
+    </message>
+    <message>
+        <source>Ambiguous name detected: %s</source>
+        <comment>TX_App_Goto_Ambiguous_Procedure</comment>
+        <translation>発見した曖昧名称: %s</translation>
+    </message>
+    <message>
+        <source>My Data Sources</source>
+        <translation>マイデータソース</translation>
+    </message>
+    <message>
+        <source>Error saving file. </source>
+        <comment>TX_IO_ErrorState_Unknown</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error preparing file save. </source>
+        <comment>TX_IO_ErrorState_Prepare</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error exporting data to file. </source>
+        <comment>TX_IO_ErrorState_Export</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Error uploading file. </source>
+        <comment>TX_IO_ErrorState_Upload</comment>
+        <translation type="unfinished">WPS Spreadsheetsはファイルをアップロードする時、エラーが発生しました。</translation>
+    </message>
+    <message>
+        <source>Error updating shared workbook cache. </source>
+        <comment>TX_IO_ErrorState_CacheShared</comment>
+        <translation type="unfinished">WPS Spreadsheetsは共有ブックのキャッシュを更新する時、エラーが発生しました。</translation>
+    </message>
+    <message>
+        <source>Error replacing target file. </source>
+        <comment>TX_IO_ErrorState_Replace</comment>
+        <translation type="unfinished">WPS Spreadsheetsはファイルを置換する時、エラーが発生しました。</translation>
+    </message>
+    <message>
+        <source>System error: &quot;%s&quot;. </source>
+        <comment>TX_IO_ErrorReason_LastError</comment>
+        <translation type="unfinished">システムエラー提示: &quot;%s&quot;. </translation>
+    </message>
+    <message>
+        <source>The process cannot access the file because it is being used by another process.</source>
+        <comment>TX_IO_ErrorReason_SharingViolation</comment>
+        <translation type="unfinished">このファイルは他のプログラムで使用されているため、アクセスできません。</translation>
+    </message>
+    <message>
+        <source>There is insufficient memory available to complete operation. </source>
+        <comment>TX_IO_ErrorReason_OutOfMemory</comment>
+        <translation type="unfinished">メモリ不足のため、この操作を完了できません。</translation>
+    </message>
+    <message>
+        <source>A disk error occurred during a write operation. </source>
+        <comment>TX_IO_ErrorReason_WriteFault</comment>
+        <translation type="unfinished">書き込み操作を実行する時、ディスクにエラーが発生しました。</translation>
+    </message>
+    <message>
+        <source>The shared workbook on the disk is invalid. </source>
+        <comment>TX_IO_ErrorReason_InvalidSharedBook</comment>
+        <translation type="unfinished">ディスク内の共有ブックは無効なファイルです。</translation>
+    </message>
+    <message>
+        <source>One or more internal arguments are invalid. </source>
+        <comment>TX_IO_ErrorReason_InvalidArgument</comment>
+        <translation type="unfinished">一つ以上の内部パラメーエラーがあります。</translation>
+    </message>
+    <message>
+        <source>Please try one of the following. 
+•Undo the previous operations and save it. 
+•Save it as text file. 
+•Copy/paste the contents to a new document.</source>
+        <comment>TX_IO_ErrorSuggest_General</comment>
+        <translation type="unfinished">以下いずれかの操作を行ってください。
+•前の操作を元に戻して、[保存]を実行します。
+•ファイルをテキストファイル(*.txt)として保存します。
+•内容を新しいファイルにコピーします。</translation>
+    </message>
+    <message>
+        <source>
+•Give up the changes to this file.</source>
+        <comment>TX_IO_ErrorSuggest_GeneralAppend</comment>
+        <translation type="unfinished">
+ファイルへの変更を破棄します。</translation>
+    </message>
+    <message>
+        <source>Try again after closing some programs or web pages. </source>
+        <comment>TX_IO_ErrorSuggest_ReleaseMemory</comment>
+        <translation type="unfinished">他のアプリ、ウェブページを閉じ、メモリを解放してお試しください。</translation>
+    </message>
+    <message>
+        <source>Try saving it as a new file with a different name. </source>
+        <comment>TX_IO_ErrorSuggest_SaveCopy</comment>
+        <translation type="unfinished">ファイルを別名で保存してください。</translation>
+    </message>
+    <message>
+        <source>Try saving file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_SaveToOtherDisk</comment>
+        <translation type="unfinished">ファイルを他のディスクに保存してください。</translation>
+    </message>
+    <message>
+        <source>Please try again later, or save file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_RetryOrSaveToOtherDisk</comment>
+        <translation type="unfinished">後でお試し、或いは、ファイルを他のディスクに保存してください。</translation>
+    </message>
+    <message>
+        <source>Please close it first in that program, or save it as a new file with a different name. </source>
+        <comment>TX_IO_ErrorSuggest_UnlockFileOrSaveAs</comment>
+        <translation type="unfinished">他のアプリでこのファイルを閉じるか、このファイルを別名で保存してください。</translation>
+    </message>
+    <message>
+        <source>Make sure there is enough space on this disk, or try to save file to another disk. </source>
+        <comment>TX_IO_ErrorSuggest_CheckDisk</comment>
+        <translation type="unfinished">空き容量を確認、或いは、ファイルを他のディスクに保存してください。</translation>
+    </message>
+    <message>
+        <source>Autofilter Favorite %1</source>
+        <comment>TX_AUTOFILTER_FAVORITE</comment>
+        <translation>オートフィルタ条件 %1</translation>
+    </message>
+    <message>
+        <source>A field in your source data has more unique items than can be used in a PivotTable report. WPS Spreadsheet may not be able to create the report, or may create the report without the data from this field.</source>
+        <comment>TX_PIVOTTABLE_DENIED_MOVE_TO_AXIS_TOO_MUCH_ITEM_COMPATIBLE</comment>
+        <translation>元のデータのフィールドには、ピボットテーブル レポートで使用できる個数より多い固有のアイテムがあります。WPS Spreadsheetsはレポートを作成できない、または、このフィールドからのデータがないレポートが作成される可能性があります。</translation>
+    </message>
+    <message>
+        <source>The sort operation will not be undone due to insufficient available resources. Do you want to continue?</source>
+        <comment>TX_INADEQUATE_RESOURCES_DISABLE_UNDO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>TX_CHECKINT_SHAREPOINT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3164,37 +4586,214 @@ Modify the source data</source>
     <message>
         <source>None</source>
         <comment>TX_TableStyle_None</comment>
-        <translation type="unfinished"></translation>
+        <translation>なし</translation>
     </message>
     <message>
         <source>Table Style</source>
         <comment>TX_TableStyle_TableStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>テーブルのスタイル</translation>
     </message>
     <message>
         <source>Light</source>
         <comment>TX_TableStyle_Light</comment>
-        <translation type="unfinished"></translation>
+        <translation>淡色</translation>
     </message>
     <message>
         <source>Medium</source>
         <comment>TX_TableStyle_Medium</comment>
-        <translation type="unfinished"></translation>
+        <translation>中間</translation>
     </message>
     <message>
         <source>Dark</source>
         <comment>TX_TableStyle_Dark</comment>
-        <translation type="unfinished"></translation>
+        <translation>濃色</translation>
     </message>
     <message>
         <source>Column</source>
         <comment>TX_TableDefaultColumnName</comment>
-        <translation type="unfinished">列</translation>
+        <translation>列</translation>
     </message>
     <message>
         <source>Total</source>
         <comment>TX_TableSubtotal_Sum</comment>
-        <translation type="unfinished">集計</translation>
+        <translation>集計</translation>
+    </message>
+    <message>
+        <source>This type of reference cannot be used in a Conditional Formatting formula.
+
+Change the reference to a single cell, or use the reference with a worksheet function, such as =SUM(A1:E5).</source>
+        <comment>TX_CondFormat_MultiCells</comment>
+        <translation>数式 条件付き書式 ではこの種類の参照は使用できません。次のいずれかを実行してください。単一セルの参照に変更する、または=SUM(A1:E5)のようなシート関数による参照を使います。</translation>
+    </message>
+    <message>
+        <source>The value you entered is not a number, date, time, or string.</source>
+        <comment>TX_CondFormat_InvalidValue</comment>
+        <translation>入力した値は、有効な数値、日付、時刻、または文字列ではありません。</translation>
+    </message>
+    <message>
+        <source>Enter a value.</source>
+        <comment>TX_CondFormat_EnterAValue</comment>
+        <translation>値を入力してください。</translation>
+    </message>
+    <message>
+        <source>Enter a formula.</source>
+        <comment>TX_CondFormat_EnterAFormula</comment>
+        <translation>有効な数式を入力してください。</translation>
+    </message>
+    <message>
+        <source>Cannot add the conditional formatting.</source>
+        <comment>TX_CondFormat_CannotAdd</comment>
+        <translation>条件付き書式を追加できません。</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 1000.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>1 ～ 1000 の整数を入力してください。</translation>
+    </message>
+    <message>
+        <source>Enter a whole number between 1 and 100.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>1 ～ 100 の整数を入力してください。</translation>
+    </message>
+    <message>
+        <source>One or more icon data ranges overlap. Adjust icon data range values so that the ranges do not overlap.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>1つ以上のアイコンデータ範囲が重なっています。アイコンデータ範囲を調整し、重ならないようにしてください。</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した値は有効なパーセントではありません。</translation>
+    </message>
+    <message>
+        <source>One or more of the specified values is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した値は有効な百分位ではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最小値は有効な百分位ではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Minimum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最小値は有効なパーセントではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した中間値は有効な百分位ではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Midpoint value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した中間値は有効なパーセントではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最大値は有効な百分位ではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Maximum value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最大値が無効なパーセンテージです。</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最短の棒の値は、有効な百分位ではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Shortest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最短の棒の値は、有効なパーセントではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentile.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最長の棒の値は、有効な百分位ではありません。</translation>
+    </message>
+    <message>
+        <source>The specified Longest Bar value is not a valid percentage.</source>
+        <comment>TX_CondFormat_Top10</comment>
+        <translation>指定した最長の棒の値は、有効なパーセントではありません。</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan1</comment>
+        <translation>最大値は、最小値より大きい値でなければなりません。</translation>
+    </message>
+    <message>
+        <source>The value for the midpoint must be greater than the value for the minimum.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan2</comment>
+        <translation>中間値は、最小値より大きい値でなければなりません。</translation>
+    </message>
+    <message>
+        <source>The value for the maximum must be greater than the value for the midpoint.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translation>最大値は、中間値より大きい値でなければなりません。</translation>
+    </message>
+    <message>
+        <source>You cannot use relative references in Conditional Formatting criteria for color scales, data bars, and icon sets.</source>
+        <comment>TX_CondFormat_ColorScaleGreatThan3</comment>
+        <translation>カラースケール、データバーやアイコンセットの条件付き書式には、相対参照は使用できません。</translation>
+    </message>
+    <message>
+        <source>Pivot Style</source>
+        <comment>TX_TableStyle_PivotStyle</comment>
+        <translation>ピポットテーブルスタイル</translation>
+    </message>
+    <message>
+        <source>Page%d</source>
+        <comment>TX_PivotTable_Consolidate_PageName</comment>
+        <translation>ページ%d</translation>
+    </message>
+    <message>
+        <source>Row</source>
+        <comment>TX_PivotTable_Consolidate_RowField</comment>
+        <translation>行</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_PivotTable_Consolidate_ColField</comment>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_PivotTable_Consolidate_ValueField</comment>
+        <translation>値</translation>
+    </message>
+    <message>
+        <source>Slicer Style</source>
+        <comment>TX_TableStyle_SlicerStyle</comment>
+        <translation>スライサースタイル</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>TX_TableStyle_Other</comment>
+        <translation>その他</translation>
+    </message>
+    <message>
+        <source>Row Auto-Insert</source>
+        <comment>TX_Revision_Type_InsertRow</comment>
+        <translation>行の自動挿入</translation>
+    </message>
+    <message>
+        <source>Column Auto-Insert</source>
+        <comment>TX_Revision_Type_InsertColumn</comment>
+        <translation>列の自動挿入</translation>
+    </message>
+    <message>
+        <source>Column</source>
+        <comment>TX_AutoFilter_Analysis_ColumnLabel</comment>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>(Blank)</source>
+        <comment>TX_AutoFilter_Analysis_Blank</comment>
+        <translation>(空白)</translation>
     </message>
 </context>
 <context>
@@ -3214,7 +4813,17 @@ Value: </source>
     <message>
         <source>Charts</source>
         <comment>TX_DESC_CharObjectDefaultName</comment>
-        <translation>図表</translation>
+        <translation>グラフ</translation>
+    </message>
+    <message>
+        <source>Chart in WPS Writer</source>
+        <comment>TX_Chart_IN_WPS_TITLE</comment>
+        <translation>Writer 中のグラフ</translation>
+    </message>
+    <message>
+        <source>Chart in WPS Presentation</source>
+        <comment>TX_Chart_IN_WPP_TITLE</comment>
+        <translation>Presentation 中のグラフ</translation>
     </message>
 </context>
 <context>
@@ -3363,27 +4972,32 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>All</source>
         <comment>TX_TABLE_RANGE_ALL</comment>
-        <translation type="unfinished">すべて表示</translation>
+        <translation>すべて表示</translation>
     </message>
     <message>
         <source>Data</source>
         <comment>TX_TABLE_RANGE_DATA</comment>
-        <translation type="unfinished">データ</translation>
+        <translation>データ</translation>
     </message>
     <message>
         <source>Headers</source>
         <comment>TX_TABLE_RANGE_HEADERS</comment>
-        <translation type="unfinished"></translation>
+        <translation>見出し</translation>
     </message>
     <message>
         <source>Totals</source>
         <comment>TX_TABLE_RANGE_TOTALS</comment>
-        <translation type="unfinished"></translation>
+        <translation>集計</translation>
     </message>
     <message>
         <source>Table</source>
         <comment>TX_TABLE_PREFIX_NAME</comment>
-        <translation type="unfinished"></translation>
+        <translation>テーブル</translation>
+    </message>
+    <message>
+        <source>The document is WPS security document, please open it in the wps client which support this format. If you edit it by using &apos;stop protecting&apos;, the content of this document will be destoryed. Please note.</source>
+        <comment>TX_SECDOC_REF_FORBIDDEN</comment>
+        <translation>セキュリティファイルは参照禁止です。</translation>
     </message>
 </context>
 <context>
@@ -3426,57 +5040,57 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>%d-Quarter</source>
         <comment>TX_DAP_DroupFormat_Quarter</comment>
-        <translation>%d-四半期</translation>
+        <translation type="obsolete">%d-四半期</translation>
     </message>
     <message>
         <source>(All)</source>
         <comment>TX_DAP_SelectAll</comment>
-        <translation>(すべて)</translation>
+        <translation type="obsolete">(すべて)</translation>
     </message>
     <message>
         <source>(Multiple Items)</source>
         <comment>TX_DAP_MultiSelect</comment>
-        <translation>(複数のアイテム)</translation>
+        <translation type="obsolete">(複数のアイテム)</translation>
     </message>
     <message>
         <source>(blank)</source>
         <comment>TX_DAP_EmptyCell</comment>
-        <translation>(空白)</translation>
+        <translation type="obsolete">(空白)</translation>
     </message>
     <message>
         <source>A PivotTable cannot overlap another PivotTable.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadOtherPT</comment>
-        <translation>ピボットテーブルレポートは、ほかのピボットテーブルレポートと重なり合うことができません。</translation>
+        <translation type="obsolete">ピボットテーブルレポートは、ほかのピボットテーブルレポートと重なり合うことができません。</translation>
     </message>
     <message>
         <source>AutoSort must be turned off to move items in a field.</source>
         <comment>TX_DAP_DlgInfo_CannotMoveItemWithAutoSort</comment>
-        <translation>フィールドでアイテムを移動するには、自動並べ替えオプションをオフにする必要があります。</translation>
+        <translation type="obsolete">フィールドでアイテムを移動するには、自動並べ替えオプションをオフにする必要があります。</translation>
     </message>
     <message>
         <source>Average</source>
         <comment>TX_DAP_FunctionItem_Average</comment>
-        <translation>平均値</translation>
+        <translation type="obsolete">平均値</translation>
     </message>
     <message>
         <source>Average of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Average</comment>
-        <translation>平均 / </translation>
+        <translation type="obsolete">平均 / </translation>
     </message>
     <message>
         <source>Call Fail</source>
         <comment>TX_DAP_FunctionCallFail</comment>
-        <translation>関数の使用に失敗しました。</translation>
+        <translation type="obsolete">関数の使用に失敗しました。</translation>
     </message>
     <message>
         <source>Cannot change part of a merged cell.</source>
         <comment>TX_DAP_DlgInfo_CannotChangePartOfMergedCell</comment>
-        <translation>結合されたセルの一部を変更することはできません。</translation>
+        <translation type="obsolete">結合されたセルの一部を変更することはできません。</translation>
     </message>
     <message>
         <source>Cannot hide all the items of &apos;%s&apos; field in the  PivotTable report.</source>
         <comment>TX_DAP_DlgInfo_CannotHideAllFieldItems</comment>
-        <translation>ピボットテーブルにはフィールド“%s”のすべてのデータアイテムを表示しないことができません。</translation>
+        <translation type="obsolete">ピボットテーブルにはフィールド“%s”のすべてのデータアイテムを表示しないことができません。</translation>
     </message>
     <message>
         <source>Cannot open PivotTable source file.</source>
@@ -3486,102 +5100,102 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>Count</source>
         <comment>TX_DAP_FunctionItem_Count</comment>
-        <translation>指数</translation>
+        <translation type="obsolete">指数</translation>
     </message>
     <message>
         <source>Count Nums</source>
         <comment>TX_DAP_FunctionItem_CountNums</comment>
-        <translation>数値指数</translation>
+        <translation type="obsolete">数値指数</translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Count</comment>
-        <translation>データの個数 / </translation>
+        <translation type="obsolete">データの個数 / </translation>
     </message>
     <message>
         <source>Count of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_CountNums</comment>
-        <translation>数値の個数 / </translation>
+        <translation type="obsolete">数値の個数 / </translation>
     </message>
     <message>
         <source>Data</source>
         <comment>TX_DAP_DATASTR</comment>
-        <translation>データ</translation>
+        <translation type="obsolete">データ</translation>
     </message>
     <message>
         <source>Do you want to replace the contents of the destination cells in %s?</source>
         <comment>TX_DAP_DlgInfo_OverLoadCellsContent</comment>
-        <translation>%s セルの内容を置き換えますか?</translation>
+        <translation type="obsolete">%s セルの内容を置き換えますか?</translation>
     </message>
     <message>
         <source>Grand Total</source>
         <comment>TX_DAP_GrandTotal</comment>
-        <translation>総計</translation>
+        <translation type="obsolete">総計</translation>
     </message>
     <message>
         <source>Max</source>
         <comment>TX_DAP_FunctionItem_Max</comment>
-        <translation>最大値</translation>
+        <translation type="obsolete">最大値</translation>
     </message>
     <message>
         <source>Max of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Max</comment>
-        <translation>最大値 / </translation>
+        <translation type="obsolete">最大値 / </translation>
     </message>
     <message>
         <source>Min</source>
         <comment>TX_DAP_FunctionItem_Min</comment>
-        <translation>最小値</translation>
+        <translation type="obsolete">最小値</translation>
     </message>
     <message>
         <source>Min of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Min</comment>
-        <translation>最小値 / </translation>
+        <translation type="obsolete">最小値 / </translation>
     </message>
     <message>
         <source>PivotTable</source>
         <comment>TX_DAP_PivotName</comment>
-        <translation>ピボットテーブル</translation>
+        <translation type="obsolete">ピボットテーブル</translation>
     </message>
     <message>
         <source>Product</source>
         <comment>TX_DAP_FunctionItem_Product</comment>
-        <translation>積</translation>
+        <translation type="obsolete">積</translation>
     </message>
     <message>
         <source>Product of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Product</comment>
-        <translation>積 / </translation>
+        <translation type="obsolete">積 / </translation>
     </message>
     <message>
         <source>StDev</source>
         <comment>TX_DAP_FunctionItem_StDev</comment>
-        <translation>StDev</translation>
+        <translation type="obsolete">StDev</translation>
     </message>
     <message>
         <source>StdDev of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_StDev</comment>
-        <translation>標本標準偏差 / </translation>
+        <translation type="obsolete">標本標準偏差 / </translation>
     </message>
     <message>
         <source>StdDevp</source>
         <comment>TX_DAP_FunctionItem_StDevp</comment>
-        <translation>StdDevp</translation>
+        <translation type="obsolete">StdDevp</translation>
     </message>
     <message>
         <source>StdDevp of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_StDevp</comment>
-        <translation>標本偏差 / </translation>
+        <translation type="obsolete">標本偏差 / </translation>
     </message>
     <message>
         <source>Sum</source>
         <comment>TX_DAP_FunctionItem_Sum</comment>
-        <translation>Sum</translation>
+        <translation type="obsolete">Sum</translation>
     </message>
     <message>
         <source>Sum of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Sum</comment>
-        <translation>合計 / </translation>
+        <translation type="obsolete">合計 / </translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. To create a PivotTable report, you must use data that is organized as a list with labeled columns. If you want to change the name of a PivotTable field, you must type a new name for the field.</source>
@@ -3591,7 +5205,7 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>The PivotTable will not fit on the sheet. Do you want to show as much as possible?</source>
         <comment>TX_DAP_DlgInfo_PTResultOverSheetBound</comment>
-        <translation>ピボットテーブルレポートがシートからはみ出します。可能な限り表示しますか?</translation>
+        <translation type="obsolete">ピボットテーブルレポートがシートからはみ出します。可能な限り表示しますか?</translation>
     </message>
     <message>
         <source>This command requires at least two rows of source data. You cannot use the command on a selection in only one row. Try one of the following:
@@ -3599,7 +5213,7 @@ Spreadsheetsを開き再計算を行いますか？</translation>
   If you&apos;re using advanced filter, select a range of cells that contains at least two rows of data. Then click the Advanced Filter command again.
   If you&apos;re creating a PivotTable report, type a cell reference or select a range that includes at least two rows of data.</source>
         <comment>TX_DAP_DlgInfo_CannotCreatePivotTableInOneRow</comment>
-        <translation>このコマンドにはデータソースが 2 行以上必要です。選択したセル範囲が 1 行だけの場合は、このコマンドを実行できません。次のいずれかの操作を行ってください。
+        <translation type="obsolete">このコマンドにはデータソースが 2 行以上必要です。選択したセル範囲が 1 行だけの場合は、このコマンドを実行できません。次のいずれかの操作を行ってください。
 
   フィルタオプションを使用している場合、2 行以上のデータで構成されるセル範囲を選択し、[フィルタオプションの設定]コマンドを再度クリックします。
   ピボットテーブルレポートを作成している場合は、セル参照を入力するか、または 2 行以上のデータで構成されるセル範囲を選択します。</translation>
@@ -3607,17 +5221,17 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>Total</source>
         <comment>TX_DAP_Total</comment>
-        <translation>集計</translation>
+        <translation type="obsolete">集計</translation>
     </message>
     <message>
         <source>Var of </source>
         <comment>TX_DAP_ConsolidationFunctionItem_Var</comment>
-        <translation>標本分散 / </translation>
+        <translation type="obsolete">標本分散 / </translation>
     </message>
     <message>
         <source>Varp of</source>
         <comment>TX_DAP_ConsolidationFunctionItem_Varp</comment>
-        <translation>分散 / </translation>
+        <translation type="obsolete">分散 / </translation>
     </message>
     <message>
         <source>You cannot change or move a certain part of a PivotTable, or insert cells in a PivotTable report. If you want to insert cells on the worksheet, drag the entire report out of the way. To move or add data to a report, do one of the following:
@@ -3626,7 +5240,7 @@ Spreadsheetsを開き再計算を行いますか？</translation>
   Hide or group items in a row or column field.
   Modify the source data.</source>
         <comment>TX_DAP_DlgInfo_CannotModifyPartOfThePivot</comment>
-        <translation>ピボットテーブルレポートに対して、変更、部分的な移動、セルの挿入は実行できません。ワークシートにセルを挿入する場合は、レポートをドラッグして挿入先に重ならないようにしてください。レポートのデータを移動または挿入するには、次のいずれかを行ってください。 
+        <translation type="obsolete">ピボットテーブルレポートに対して、変更、部分的な移動、セルの挿入は実行できません。ワークシートにセルを挿入する場合は、レポートをドラッグして挿入先に重ならないようにしてください。レポートのデータを移動または挿入するには、次のいずれかを行ってください。 
 
  レポートにフィールドを追加するには、ピボットテーブルウィザードを使用します。
  行フィールドまたは列フィールドのアイテムを非表示またはグループ化します。
@@ -3635,7 +5249,16 @@ Spreadsheetsを開き再計算を行いますか？</translation>
     <message>
         <source>A PivotTable report cannot overlap a table or XML mapping.</source>
         <comment>TX_DAP_DlgInfo_PTCannotOverloadListObj</comment>
-        <translation type="unfinished"></translation>
+        <translation>ピボットテーブルレポートはテーブルまたはXMLマップに重ねることはできません。</translation>
+    </message>
+    <message>
+        <source>This shape represents a slicer.
+
+Slicers can&apos;t be used in this version, please update to latest version of WPS Office.</source>
+        <comment>TX_DAP_Fallback_Shape_Tip</comment>
+        <translation>この図形はスライサーを表しています。
+
+ご利用中のプログラムはスライサーに非対応であるため、最新版のWPS Officeに更新してください。</translation>
     </message>
 </context>
 <context>
@@ -4015,7 +5638,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WPS Spreadsheets could not open or read this query file. Either the file has been damaged or the file format is not valid.</source>
         <comment>TX_ETDBE_QUERYINVALIDERROR</comment>
-        <translation>Kingsoft Spreadsheetsはクエリファイルを開いたり、読み込むことはできません。ファイルが破損しているか、ファイル形式が正しくありません。</translation>
+        <translation>WPS Spreadsheetsはクエリファイルを開いたり、読み込むことはできません。ファイルが破損しているか、ファイル形式が正しくありません。</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.xls,*.et,*.csv,*.txt)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt|Access Databases(*.mdb)|*.mdb|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|Text Files(*.txt)|*.txt||</source>
@@ -4050,7 +5673,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls)|*.xls|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
         <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
-        <translation>すべてのファイル(*.*)|*.*|全てのデータソース(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access データベース(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro データベース(*.dbc)|*.dbc|DBase ファイル(*.dbf)|*.dbf|Excel ファイル(*.xls)|*.xls|Spreadsheets ファイル(*.et)|*.et|CSV テキストファイル(*.csv)|*.csv|テキストファイル(*.txt)|*.txt|Office データベースコレクション(*.odc)|*.odc|Microsoft データベースコレクション(*.udl)|*.udl|ODBC データベース名前(*.dsn)|*.dsn|クエリファイル(*.dqy)|*.dqy||</translation>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|全てのデータソース(*.mdb,*.dbf,*.dbc,*.xls,*.et,*.csv,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access データベース(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro データベース(*.dbc)|*.dbc|DBase ファイル(*.dbf)|*.dbf|Excel ファイル(*.xls)|*.xls|Spreadsheets ファイル(*.et)|*.et|CSV テキストファイル(*.csv)|*.csv|テキストファイル(*.txt)|*.txt|Office データベースコレクション(*.odc)|*.odc|Microsoft データベースコレクション(*.udl)|*.udl|ODBC データベース名前(*.dsn)|*.dsn|クエリファイル(*.dqy)|*.dqy||</translation>
     </message>
     <message>
         <source>Running background query...(Click here to cancel)</source>
@@ -4108,6 +5731,24 @@ Notice: if the second operand queries the number as text, single quotes should b
         <source>map</source>
         <comment>TX_ETDBE_STR_MAP_DEFAULTNAME</comment>
         <translation type="obsolete">マップ</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|すべてのデータソース(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access データベース(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro データベース(*.dbc)|*.dbc|DBase ファイル(*.dbf)|*.dbf|Excel ファイル(*.xls,*.xlsx,*.xlsm)|*.xls;*.xlsx;*.xlsm|WPS Spreadsheets ファイル(*.et)|*.et|CSV テキスト ファイル(*.csv)|*.csv|PRN テキスト ファイル(*.prn)|*.prn|Text Files(*.txt)|*.txt|オフィス データソース(*.odc)|*.odc|Microsoft データリンク(*.udl)|*.udl|ODBC ファイル DSNs(*.dsn)|*.dsn|クエリファイル(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All Data Sources(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access Databases(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro Database(*.dbc)|*.dbc|DBase Files(*.dbf)|*.dbf|Excel Files(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets Files(*.et)|*.et|CSV Text Files(*.csv)|*.csv|PRN Text Files(*.prn)|*.prn|Text Files(*.txt)|*.txt|Office Database Connections(*.odc)|*.odc|Microsoft Data links(*.udl)|*.udl|ODBC File DSNs(*.dsn)|*.dsn|Query File(*.dqy)|*.dqy||</source>
+        <comment>TX_ETDBE_CONN_SUPPORTTYPE</comment>
+        <translation>すべてのファイル(*.*)|*.*|すべてのデータソース(*.mdb,*.dbf,*.dbc,*.xls,*.xlsx,*.xlsb,*.xlsm,*.et,*.csv,*.prn,*.txt,*.accdb,*.dqy,*.odc,*.udl,*.dsn)|*.mdb;*.dbf;*.xls;*.et;*.csv;*.txt;*.accdb|Access データベース(*.mdb,*.accdb)|*.mdb;*.accdb|FoxPro データベース(*.dbc)|*.dbc|DBase ファイル(*.dbf)|*.dbf|Excel ファイル(*.xls,*.xlsx,*.xlsb,*.xlsm)|*.xls;*.xlsx;*.xlsb;*.xlsm|WPS Spreadsheets ファイル(*.et)|*.et|CSV テキストファイル(*.csv)|*.csv|PRN テキストファイル(*.prn)|*.prn|テキストファイル(*.txt)|*.txt|Office データベース接続(*.odc)|*.odc|Microsoft データリンク(*.udl)|*.udl|ODBC ファイルデータソース名称(*.dsn)|*.dsn|クエリ ファイル(*.dqy)|*.dqy||</translation>
+    </message>
+    <message>
+        <source>Removing connection(s) will separate this workbook from its data source(s), and data refresh operations in the workbook will no longer succeed. Click Cancel to keep connection(s), or click OK to proceed with connection removal.</source>
+        <translation>接続を削除すると、このブックがデータ ソースから分離され、ブックのデータの更新が正しく機能しなくなります。接続を保持する場合は [キャンセル] をクリックしてください。接続を削除する場合は [OK] をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>Cannot open file. The file may have been moved, deleted or the file may be in use.</source>
+        <translation>ファイルが開けません。ファイルが移動、削除されているか、使用中の可能性があります。</translation>
     </message>
 </context>
 <context>
@@ -4350,7 +5991,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>COMBIN(number,number_chosen)</source>
         <comment>COMBIN_GRAMMER</comment>
-        <translation type="unfinished">COMBIN(number,number_chosen)</translation>
+        <translation type="obsolete">COMBIN(number,number_chosen)</translation>
     </message>
     <message>
         <source>COMBIN(number,number_chosen)</source>
@@ -5435,7 +7076,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>LTRIM(text)</source>
         <comment>LTRIM_GRAMMER</comment>
-        <translation type="unfinished">LTRIM(text)</translation>
+        <translation type="obsolete">LTRIM(text)</translation>
     </message>
     <message>
         <source>Logical</source>
@@ -5860,7 +7501,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>RTRIM(text)</source>
         <comment>RTRIM_GRAMMER</comment>
-        <translation type="unfinished">RTRIM(text)</translation>
+        <translation type="obsolete">RTRIM(text)</translation>
     </message>
     <message>
         <source>Recently Used</source>
@@ -5875,12 +7516,12 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Removes left spaces of the specified text string.</source>
         <comment>LTRIM_REMARK</comment>
-        <translation type="unfinished">テキストの左側の空白を削除します。</translation>
+        <translation type="obsolete">テキストの左側の空白を削除します。</translation>
     </message>
     <message>
         <source>Removes right spaces of the specified text string.</source>
         <comment>RTRIM_REMARK</comment>
-        <translation type="unfinished">テキストの右側の空白を削除します。</translation>
+        <translation type="obsolete">テキストの右側の空白を削除します。</translation>
     </message>
     <message>
         <source>Replaces characters within a text string with another different text string.</source>
@@ -6700,7 +8341,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Returns the number of combinations for a given number of elements.</source>
         <comment>COMBIN_REMARK</comment>
-        <translation type="unfinished">順不同で、指定された個数の対象から指定された数の対象を抽出する組み合わせを返します。</translation>
+        <translation type="obsolete">順不同で、指定された個数の対象から指定された数の対象を抽出する組み合わせを返します。</translation>
     </message>
     <message>
         <source>Returns the number of combinations for a given number of items.</source>
@@ -7445,7 +9086,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>WIDECHAR(text)</source>
         <comment>WIDECHAR_GRAMMER</comment>
-        <translation>WIDECHAR(text)</translation>
+        <translation type="obsolete">WIDECHAR(text)</translation>
     </message>
     <message>
         <source>WORKDAY(start_date,days,holidays)</source>
@@ -8048,17 +9689,350 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</source>
         <comment>SPELLINGCHECK_SYNTAX</comment>
-        <translation>SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
+        <translation type="obsolete">SPELLINGCHECK(word_text, custom_dic, ignore_uppercase)</translation>
     </message>
     <message>
         <source>XNPV(rate, values, dates)</source>
         <comment>XNPV_SYNTAX</comment>
-        <translation type="unfinished"></translation>
+        <translation>XNPV(rate, values, dates)</translation>
     </message>
     <message>
         <source>Returns the net present value for a schedule of crash flows.</source>
         <comment>XNPV_DESCRIPTION</comment>
-        <translation type="unfinished"></translation>
+        <translation>一連のキャッシュフロー（投資と収益の金額）に基づいて、投資の正味現在価値を計算します。</translation>
+    </message>
+    <message>
+        <source>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</source>
+        <comment>NETWORKDAYS_INTL_GRAMMER</comment>
+        <translation>NETWORKDAYS.INTL(start_date,end_date,weekend,holidays)</translation>
+    </message>
+    <message>
+        <source>Returns the number of whole workdays between two dates using parameters to indicate which and how many days are weekend days.</source>
+        <comment>NETWORKDAYS_INTL_REMARK</comment>
+        <translation>ユーザー設定の週末パラメーターを使用して、開始日と終了日の間にある週日の日数を計算します。</translation>
+    </message>
+    <message>
+        <source>GAMMALN.PRECISE(x)</source>
+        <comment>GAMMALN_PRECISE_SYNTAX</comment>
+        <translation>GAMMALN.PRECISE(x)</translation>
+    </message>
+    <message>
+        <source>SPELLING.CHECK(word_text, custom_dic, ignore_uppercase)</source>
+        <comment>SPELLINGCHECK_SYNTAX</comment>
+        <translation>SPELLING.CHECK(単語、ユーザー設定辞書、大文字小文字を区別しない)</translation>
+    </message>
+    <message>
+        <source>SUMMARY.INFO(title, subject, author, keywords, comments)</source>
+        <comment>SUMMARYINFO_SYNTAX</comment>
+        <translation>SUMMARY.INFO(タイトル, サブジェクト, 作者, キーワード, コメント)</translation>
+    </message>
+    <message>
+        <source>STDEV.S(number1,number2,...)</source>
+        <comment>STDEVS_GRAMMER</comment>
+        <translation>STDEV.S(number1,number2,...)</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <comment>PivotTableValue</comment>
+        <translation>値</translation>
+    </message>
+    <message>
+        <source>BINOM.INV(trials,probability_s,alpha)</source>
+        <comment>BINOMINV_SYNTAX</comment>
+        <translation>BINOM.INV(trials,probability_s,alpha)</translation>
+    </message>
+    <message>
+        <source>Returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value.</source>
+        <comment>BINOMINV_DESCRIPTION</comment>
+        <translation>累積二項分布が基準値以上の最小値を返します。</translation>
+    </message>
+    <message>
+        <source>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</source>
+        <comment>BINOMDISTRANGE_SYNTAX</comment>
+        <translation>BINOM.DIST.RANGE(trials,probability_s,number_s,[number_s2])</translation>
+    </message>
+    <message>
+        <source>Returns the probability of a trial result using a binomial distribution.</source>
+        <translation>二項分布の確率を返します。</translation>
+    </message>
+    <message>
+        <source>ZOOM(magnification)</source>
+        <comment>ZOOM_SYNTAX</comment>
+        <translation>ZOOM(magnification)</translation>
+    </message>
+    <message>
+        <source>FORMULA.FILL(formula_text, reference)</source>
+        <comment>FORMULAFILL_SYNTAX</comment>
+        <translation>FORMULA.FILL(formula_text, reference)</translation>
+    </message>
+    <message>
+        <source>PROTECT.DOCUMENT(contents, windows, password, objects, scenarios)</source>
+        <comment>PROTECTDOCUMENT_SYNTAX</comment>
+        <translation>PROTECT.DOCUMENT(contents, windows, password, objects, scenarios)</translation>
+    </message>
+    <message>
+        <source>DELETE.NAME(name_text)</source>
+        <comment>DELETENAME_SYNTAX</comment>
+        <translation>DELETE.NAME(name_text)</translation>
+    </message>
+    <message>
+        <source>SEND.KEYS(key_text, wait_logical)</source>
+        <comment>SENDKEYS_SYNTAX</comment>
+        <translation>SEND.KEYS(key_text, wait_logical)</translation>
+    </message>
+    <message>
+        <source>SAVE.AS(document_text, type_num, prot_pwd, backup, write_res_pwd, read_only_rec)</source>
+        <comment>SAVEAS_SYNTAX</comment>
+        <translation>SAVE.AS(document_text, type_num, prot_pwd, backup, write_res_pwd, read_only_rec)</translation>
+    </message>
+    <message>
+        <source>FILE.DELETE(file_text)</source>
+        <comment>FILEDELETE_SYNTAX</comment>
+        <translation>FILE.DELETE(file_text)</translation>
+    </message>
+    <message>
+        <source>FOPEN(file_text, access_num)</source>
+        <comment>FOPEN_SYNTAX</comment>
+        <translation>FOPEN(file_text, access_num)</translation>
+    </message>
+    <message>
+        <source>FCLOSE(file_num)</source>
+        <comment>FCLOSE_SYNTAX</comment>
+        <translation>FCLOSE(file_num)</translation>
+    </message>
+    <message>
+        <source>FSIZE(file_num)</source>
+        <comment>FSIZE_SYNTAX</comment>
+        <translation>FSIZE(file_num)</translation>
+    </message>
+    <message>
+        <source>FREAD(file_num, num_chars)</source>
+        <comment>FREAD_SYNTAX</comment>
+        <translation>FREAD(file_num, num_chars)</translation>
+    </message>
+    <message>
+        <source>FREAD(file_num, num_chars)</source>
+        <comment>FWRITE_SYNTAX</comment>
+        <translation>FREAD(file_num, num_chars)</translation>
+    </message>
+    <message>
+        <source>WORKBOOK.COPY(name_array, dest_book, position_num)</source>
+        <comment>WORKBOOKCOPY_SYNTAX</comment>
+        <translation>WORKBOOK.COPY(name_array, dest_book, position_num)</translation>
+    </message>
+    <message>
+        <source>WORKBOOK.SELECT(name_array, active_name, replace)</source>
+        <comment>WORKBOOKSELECT_SYNTAX</comment>
+        <translation>WORKBOOK.SELECT(name_array, active_name, replace)</translation>
+    </message>
+    <message>
+        <source>WORKBOOK.ACTIVATE(sheet_name)</source>
+        <comment>WORKBOOKACTIVATE_SYNTAX</comment>
+        <translation>WORKBOOK.ACTIVATE(sheet_name)</translation>
+    </message>
+    <message>
+        <source>WORKBOOKHIDE()</source>
+        <comment>WORKBOOKHIDE_SYNTAX</comment>
+        <translation>WORKBOOKHIDE()</translation>
+    </message>
+    <message>
+        <source>WORKBOOK.NAME(oldname_text, newname_text)</source>
+        <comment>WORKBOOKNAME_SYNTAX</comment>
+        <translation>WORKBOOK.NAME(oldname_text, newname_text)</translation>
+    </message>
+    <message>
+        <source>OPTIONS.EDIT(incell_edit, drag_drop, alert, entermove, fixed, decimals, copy_objects, update_links)</source>
+        <comment>OPTIONSEDIT_SYNTAX</comment>
+        <translation>OPTIONS.EDIT(incell_edit, drag_drop, alert, entermove, fixed, decimals, copy_objects, update_links)</translation>
+    </message>
+    <message>
+        <source>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</source>
+        <comment>OPTIONSGENERAL_SYNTAX</comment>
+        <translation>OPTIONS.GENERAL(R1C1_mode, dde_on, sum_info, tips, recent_files, old_menus, user_info, font_name, font_size, default_location, alternate_location, sheet_num, enable_under)</translation>
+    </message>
+    <message>
+        <source>FONT.PROPERTIES(font, font_style, size, strikethrough, superscript, subscript, outline, shadow, underline, color, normal, background, start_char, char_count)</source>
+        <comment>FONTPROPERTIES_SYNTAX</comment>
+        <translation>FONT.PROPERTIES(font, font_style, size, strikethrough, superscript, subscript, outline, shadow, underline, color, normal, background, start_char, char_count)</translation>
+    </message>
+    <message>
+        <source>FORMAT.NUMBER(format_text)</source>
+        <comment>FORMATNUMBER_SYNTAX</comment>
+        <translation>FORMAT.NUMBER(format_text)</translation>
+    </message>
+    <message>
+        <source>CELL.PROTECTION(locked, hidden)</source>
+        <comment>CELLPROTECTION_SYNTAX</comment>
+        <translation>CELL.PROTECTION(locked, hidden)</translation>
+    </message>
+    <message>
+        <source>DBCS(text)</source>
+        <comment>WIDECHAR_GRAMMER</comment>
+        <translation>DBCS(text)</translation>
+    </message>
+    <message>
+        <source>CHISQ.INV(probability,degrees_freedom)</source>
+        <comment>CHISQINV_SYNTAX</comment>
+        <translation>CHISQ.INV(probability,degrees_freedom)</translation>
+    </message>
+    <message>
+        <source>Returns the inverse of the left-tailed probability of the chi-squared distribution.</source>
+        <comment>CHISQINV_DESCRIPTION</comment>
+        <translation>カイ 2 乗分布の左側確率の逆関数の値を返します。</translation>
+    </message>
+    <message>
+        <source>CHISQ.DIST(x,deg_freedom,cumulative)</source>
+        <comment>CHISQDIST_SYNTAX</comment>
+        <translation>CHISQ.DIST(x,deg_freedom,cumulative)</translation>
+    </message>
+    <message>
+        <source>Returns the left-tailed probability of the chi-squared distribution.</source>
+        <comment>CHISQDIST_DESCRIPTION</comment>
+        <translation>カイ 2 乗分布の左側確率の値を返します。</translation>
+    </message>
+    <message>
+        <source>CONCAT (text1,text2,...)</source>
+        <comment>CONCAT_GRAMMER</comment>
+        <translation>CONCAT (text1,text2,...)</translation>
+    </message>
+    <message>
+        <source>Combines the text from multiple ranges and/or strings.</source>
+        <comment>CONCAT_REMARK</comment>
+        <translation>複数の範囲や文字列からのテキストを結合します。</translation>
+    </message>
+    <message>
+        <source>TEXTJOIN(delimiter,ignore_empty,text1,[text2],...)</source>
+        <comment>TEXTJOIN_GRAMMER</comment>
+        <translation>TEXTJOIN(delimiter,ignore_empty,text1,[text2],...)</translation>
+    </message>
+    <message>
+        <source>Combines the text from multiple ranges and/or strings, and includes a delimiter you specify between each text value that will be combined.</source>
+        <comment>TEXTJOIN_REMARK</comment>
+        <translation>複数の範囲や文字列からのテキストを結合し、結合する各テキスト値の間に、指定した区切り記号を挿入します。</translation>
+    </message>
+    <message>
+        <source>BAHTTEXT(number)</source>
+        <comment>BAHTTEXT_GRAMMER</comment>
+        <translation>BAHTTEXT(number)</translation>
+    </message>
+    <message>
+        <source>Converts a number to text(baht).</source>
+        <comment>BAHTTEXT_REMARK</comment>
+        <translation>数値を四捨五入し、バーツ通貨書式を設定した文字列に変換します。</translation>
+    </message>
+    <message>
+        <source>IFS(logical_test,value_if_true,...)</source>
+        <comment>IFS_GRAMMER</comment>
+        <translation>IFS(logical_test,value_if_true,...)</translation>
+    </message>
+    <message>
+        <source>Checks whether one or more conditions are met and returns a value that corresponds to the first TRUE condition.</source>
+        <comment>IFS_REMARK</comment>
+        <translation>1 つまたは複数の条件が満たされるかどうかをチェックして、最初の TRUE 条件に対応する値を返します。</translation>
+    </message>
+    <message>
+        <source>MAXIFS(max_range,criteria_range,criteria,...)</source>
+        <comment>MAXIFS_GRAMMER</comment>
+        <translation>MAXIFS(max_range,criteria_range,criteria,...)</translation>
+    </message>
+    <message>
+        <source>Returns the maximum value among cells specified by a given set of conditions or criteria.</source>
+        <comment>MAXIFS_REMARK</comment>
+        <translation>条件セットで指定されたセルの中の最大値を返します。</translation>
+    </message>
+    <message>
+        <source>MINIFS(min_range,criteria_range,criteria,...)</source>
+        <comment>MINIFS_GRAMMER</comment>
+        <translation>MINIFS(min_range,criteria_range,criteria,...)</translation>
+    </message>
+    <message>
+        <source>Returns the minimum value among cells specified by a given set of conditions or criteria.</source>
+        <comment>MINIFS_REMARK</comment>
+        <translation>条件セットで指定されたセルの中の最小値を返します。</translation>
+    </message>
+    <message>
+        <source>SWITCH(expression,value1,result1,[default_or_value2,result2],...)</source>
+        <comment>SWITCH_GRAMMER</comment>
+        <translation>SWITCH(expression,value1,result1,[default_or_value2,result2],...)</translation>
+    </message>
+    <message>
+        <source>Evaluates an expression against a list of values and returns the result corresponding to the first matching value. If there is no match, an optional default value is returned.</source>
+        <translation>値の一覧に対して式を評価し、最初に一致する値に対応する結果を返します。いずれにも一致しない場合は、任意指定の既定値が返されます。</translation>
+    </message>
+    <message>
+        <source>BITAND(number1,number2)</source>
+        <comment>BITAND_GRAMMER</comment>
+        <translation>BITAND(number1,number2)</translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;AND&apos; of two numbers.</source>
+        <comment>BITAND_REMARK</comment>
+        <translation>2 つの数値のビット単位の &apos;And&apos; を返します。</translation>
+    </message>
+    <message>
+        <source>BITOR(number1,number2)</source>
+        <comment>BITOR_GRAMMER</comment>
+        <translation>BITOR(number1,number2)</translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;OR&apos; of two numbers.</source>
+        <comment>BITOR_REMARK</comment>
+        <translation>2 つの数値のビット単位の &apos;OR&apos; を返します。</translation>
+    </message>
+    <message>
+        <source>BITXOR(number1,number2)</source>
+        <comment>BITXOR_GRAMMER</comment>
+        <translation>BITXOR(number1,number2)</translation>
+    </message>
+    <message>
+        <source>Returns a bitwise &apos;XOR&apos; of two numbers.</source>
+        <comment>BITXOR_REMARK</comment>
+        <translation>2 つの数値のビット単位の &apos;Exclusive Or&apos; を返します。</translation>
+    </message>
+    <message>
+        <source>BITRSHIFT(number,shift_amount)</source>
+        <comment>BITRSHIFT_GRAMMER</comment>
+        <translation>BITRSHIFT(number,shift_amount)</translation>
+    </message>
+    <message>
+        <source>Returns a number shifted right by the specified number of bits.</source>
+        <comment>BITRSHIFT_REMARK</comment>
+        <translation>shift_amount ビットだけ右へシフトした数値を返します。</translation>
+    </message>
+    <message>
+        <source>BITLSHIFT(number,shift_amount)</source>
+        <comment>BITLSHIFT_GRAMMER</comment>
+        <translation>BITLSHIFT(number,shift_amount)</translation>
+    </message>
+    <message>
+        <source>Returns a number shifted left by the specified number of bits.</source>
+        <comment>BITLSHIFT_REMARK</comment>
+        <translation>shift_amount ビットだけ左へシフトした数値を返します。</translation>
+    </message>
+    <message>
+        <source>IFNA(value,value_if_na)</source>
+        <comment>IFNA_SYNTAX</comment>
+        <translation>IFNA(value,value_if_na)</translation>
+    </message>
+    <message>
+        <source>Returns the value you specify if the formula returns the #N/A error value; otherwise returns the result of the formula.</source>
+        <comment>IFNA_DESCRIPTION</comment>
+        <translation>式が #N/A に解決される場合は、指定した値を返します。それ以外の場合は、式の結果を返します。</translation>
+    </message>
+    <message>
+        <source>FORMULATEXT(reference)</source>
+        <comment>FORMULATEXT_GRAMMER</comment>
+        <translation>FORMULATEXT(reference)</translation>
+    </message>
+    <message>
+        <source>Returns a formula as a string.</source>
+        <comment>FORMULATEXT_REMARK</comment>
+        <translation>数式を文字列として返します。</translation>
+    </message>
+    <message>
+        <source>DATESTRING()</source>
+        <comment>DATESTRING_GRAMMER</comment>
+        <translation>DATESTRING()</translation>
     </message>
 </context>
 <context>
@@ -8241,7 +10215,7 @@ Notice: if the second operand queries the number as text, single quotes should b
     <message>
         <source>Field</source>
         <comment>TX_Range_Value_Field</comment>
-        <translation>字段</translation>
+        <translation>フィールド</translation>
     </message>
     <message>
         <source>Kingsoft Spreadsheets Files(*.et)</source>
@@ -8472,22 +10446,22 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
         <comment>TX_ssDesc_AllET_</comment>
-        <translation>Kingsoft Spreadsheets ファイル(*.et; *.ett)</translation>
+        <translation>WPS Spreadsheets ファイル(*.et; *.ett)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et; *.ett)</source>
         <comment>TX_ssDesc_ET2003_</comment>
-        <translation>Kingsoft Spreadsheets ファイル(*.et; *.ett)</translation>
+        <translation>WPS Spreadsheets ファイル(*.et; *.ett)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Files(*.et)</source>
         <comment>TX_ssDesc_ET_</comment>
-        <translation>Kingsoft Spreadsheets ファイル(*.et)</translation>
+        <translation>WPS Spreadsheets ファイル(*.et)</translation>
     </message>
     <message>
         <source>WPS Spreadsheets Template(*.ett)</source>
         <comment>TX_ssDesc_ETTemp_</comment>
-        <translation>Kingsoft Spreadsheets テンプレート(*.ett)</translation>
+        <translation>WPS Spreadsheets テンプレート(*.ett)</translation>
     </message>
     <message>
         <source>The file you are trying to save may contain features that are not compatible with current file format. Do you want to keep the workbook in this format?
@@ -8495,15 +10469,15 @@ Note: some files may contain macro viruses and execution of them may cause damag
 ·To keep this format, which leaves out any incompatible features, click Yes. 
 ·To preserve the features, click No. Then save a copy in the latest WPS Spreadsheets format.</source>
         <comment>TX_Save_Txt_Backup</comment>
-        <translation>保存するファイルと交換性のない機能が含まれている可能性があります。この形式でブックを保存しますか。
+        <translation>保存するファイルと互換性のない機能が含まれている可能性があります。この形式でブックを保存しますか。
 
 ·このまま保存するには、[はい]をクリックします。
-·機能を保存するには、[いいえ]をクリックしてから、最新のKingsoft Spreadsheetsのファイル形式で保存します。</translation>
+·機能を保存するには、[いいえ]をクリックしてから、最新のWPS Spreadsheetsのファイル形式で保存します。</translation>
     </message>
     <message>
         <source>The current file is restricted by permission, which can only be protected when the format is WPS Spreadsheets. If the file is saved as the current format, any of the permission will be removed. Do you want to continue?</source>
         <comment>TX_Save_KRM_UnSuport_Format</comment>
-        <translation>このファイルはアクセス権に制限があり、現在のアクセス権を確保するため、Kingsoft Spreadsheetsの形式のみ使用できます。この形式で保存すれば、文書のいずれのアクセス権が取り消されます。続けますか。</translation>
+        <translation>このファイルはアクセス権に制限があり、現在のアクセス権を確保するため、WPS Spreadsheetsの形式のみ使用できます。この形式で保存すれば、文書のいずれのアクセス権が取り消されます。続けますか。</translation>
     </message>
     <message>
         <source>%s is a Microsoft Excel 5.0/95 Workbook. Do you want to overwrite it with the latest %s format?</source>
@@ -8513,7 +10487,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>WPS Spreadsheets Files(*.et)</source>
         <comment>TX_ssDesc_ET_Save</comment>
-        <translation>Kingsoft Spreadsheets ファイル(*.et)</translation>
+        <translation>WPS Spreadsheets ファイル(*.et)</translation>
     </message>
     <message>
         <source>.Range-based user permissions</source>
@@ -8566,7 +10540,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>WPS Spreadsheets 2007/2010 Files(*.etx)</source>
         <comment>TX_ssDesc_Etx</comment>
-        <translation>Kingsoft表格 2007/2010 文件(*.etx)</translation>
+        <translation>WPS Spreadsheets 2007/2010 文件(*.etx)</translation>
     </message>
     <message>
         <source>Query Files(*.iqy)</source>
@@ -8592,7 +10566,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>All Data Sources(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</source>
         <comment>TX_ssDesc_DataSrcFile_</comment>
-        <translation>すべてのデータ·ソース(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
+        <translation>すべてのデータソース(*.odc;*.udl;*.dsn;*.iqy;*.dqy;*.mdb;*.accdb;*.dbc)</translation>
     </message>
     <message>
         <source>DIF (Data Interchange Format)(*.dif)</source>
@@ -8637,7 +10611,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
     <message>
         <source>Chinese Office Document Format 2.0(*.uos)</source>
         <comment>TX_ssDesc_Uof2_</comment>
-        <translation type="unfinished"></translation>
+        <translation>中国語オフィスドキュメント形式 2.0(*.uos)</translation>
     </message>
     <message>
         <source>The following features cannot be saved in macro-free workbooks:</source>
@@ -8648,7 +10622,7 @@ Note: some files may contain macro viruses and execution of them may cause damag
         <source>To save a file with these features, click No, and then choose a macro-enabled file type in the File Type list.
 To continue saving as a macro-free workbook, click Yes.</source>
         <comment>TX_Save_Xlsx_Warning_2</comment>
-        <translation>この機能を保存する場合は、「いいえ」をクリックし、ファイルの種類から「「Microsoft Excel 2007/2010マクロ有効ブック(*.xlsm)」を選択してください。 
+        <translation>この機能を保存する場合は、「いいえ」をクリックし、ファイルの種類から「「Microsoft Excel 2007-2016マクロ有効ブック(*.xlsm)」を選択してください。 
 マクロ無効のブックで保存を続ける場合は、「はい」をクリックしてください。</translation>
     </message>
     <message>
@@ -8696,7 +10670,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>File Unsaved</source>
         <comment>TX_FILE_UNSAVED</comment>
-        <translation>未保存ファイル</translation>
+        <translation>ファイルを保存できませんでした。</translation>
     </message>
     <message>
         <source>Excel2007 XML Template</source>
@@ -8706,21 +10680,115 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm)</source>
         <comment>TX_ssDesc_Normal_</comment>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">一般のファイル(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm. *.xltx, *.xltm)</translation>
     </message>
     <message>
         <source>Excel2007 XML Template Macro Enabled(*.xltx)</source>
         <comment>TX_ssDesc_XLTX</comment>
-        <translation type="unfinished"></translation>
+        <translation>Excel テンプレート(*.xltx)</translation>
     </message>
     <message>
         <source>Excel2007 XML Template(*.xltm)</source>
         <comment>TX_ssDesc_XLTM</comment>
-        <translation type="unfinished"></translation>
+        <translation>Excel マクロ有効テンプレート(*.xltm)</translation>
     </message>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>TX_ssDesc_Ofd_</comment>
+        <translation>OFD 形式(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Public Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_CustomDoc_</comment>
+        <translation>パブリックセキュリティドキュメント(*.xls)</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <comment>TX_ssDesc_Osd</comment>
+        <translation>WPS オンラインセキュリティドキュメントフォーマット(*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook(*.xlsx)</source>
+        <comment>TX_ssDesc_Beta_Xlsx_</comment>
+        <translation>Microsoft Excel ファイル(*.xlsx)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Macro-Enabled Workbook(*.xlsm)</source>
+        <comment>TX_ssDesc_Beta_Xlsm_</comment>
+        <translation>Microsoft Excel マクロ有効ブック(*.xlsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook(*.xlsx; *.xlsm)</source>
+        <comment>TX_ssDesc_Xlsx_Open</comment>
+        <translation>Microsoft Excel ファイル(*.xlsx, *.xlsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
+        <comment>TX_ssDesc_Xls_</comment>
+        <translation>Microsoft Excel 97-2003 ファイル(*.xls)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Template(*.xlt)</source>
+        <comment>TX_ssDesc_XlsTemp_</comment>
+        <translation>Microsoft Excel 97-2003 テンプレート(*.xlt)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook(*.xls)</source>
+        <comment>TX_ssDesc_Xls_Save</comment>
+        <translation>Microsoft Excel 97-2003 ファイル(*.xls)</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation type="obsolete">一般のファイル(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Binary Workbook(*.xlsb)</source>
+        <comment>TX_ssDesc_Xlsb_Open</comment>
+        <translation>Microsoft Excel バイナリブック(*.xlsb)</translation>
+    </message>
+    <message>
+        <source>SYLK Files(*.slk)</source>
+        <comment>TX_ssDesc_Slk</comment>
+        <translation>SYLK ファイル(*.slk)</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets has detected that &apos;%1&apos; is a SYLK file, but cannot load it. Either the file has errors or it is not a SYLK file format. Click OK to try to open the file in a differenct format.</source>
+        <translation>WPS Spreadsheetsは &apos;%1&apos;がSYLKファイルだと検出しましたが、ロードできません。他の書式でファイルを開くには、[OK]をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>OpenDocument Spreadsheet(*.ods)</source>
+        <comment>TX_ssDesc_Ods_</comment>
+        <translation>OpenDocument スプレッドシート (*.ods)</translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>TX_ssDesc_Pdf_</comment>
+        <translation>PDF ファイル(*.pdf)|*.pdf</translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Spreadsheets Files(*.etj)|*.etj</source>
+        <comment>TX_ssDesc_GPCrypt_</comment>
+        <translation>GongPu セキュリティスプレッドシートファイル(*.etj)|*.etj</translation>
+    </message>
+    <message>
+        <source>Common Files(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.csv)</source>
+        <comment>TX_ssDesc_Normal_</comment>
+        <translation>一般のファイル(*.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.csv)</translation>
+    </message>
+    <message>
+        <source>Cells</source>
+        <comment>TX_ProgressBar_PasteCells</comment>
+        <translation type="obsolete">セル</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>TX_ssDesc_All_WPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cells:</source>
+        <comment>TX_ProgressBar_PasteCells</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8750,7 +10818,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Cell:</source>
         <comment>TX_PrintComment_Cell</comment>
-        <translation>セル：</translation>
+        <translation>セル:</translation>
     </message>
     <message>
         <source>Comment</source>
@@ -8868,7 +10936,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Italic</source>
         <comment>TX_FontName_Italic3</comment>
-        <translation>Italic</translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9058,7 +11126,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>CExplanatory Text</source>
         <comment>STR_STYLE_EXPLANATORY_TEXT</comment>
-        <translation>説明性テキスト</translation>
+        <translation>説明文</translation>
     </message>
     <message>
         <source>Calculation</source>
@@ -9068,7 +11136,7 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Check Cell</source>
         <comment>STR_STYLE_CHECK_CELL</comment>
-        <translation>セルの確認</translation>
+        <translation>チェックセル</translation>
     </message>
     <message>
         <source>ColLevel</source>
@@ -9108,22 +11176,22 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Heading 1</source>
         <comment>STR_STYLE_HEADING_1</comment>
-        <translation>タイトル 1</translation>
+        <translation>見出し 1</translation>
     </message>
     <message>
         <source>Heading 2</source>
         <comment>STR_STYLE_HEADING_2</comment>
-        <translation>タイトル 2</translation>
+        <translation>見出し 2</translation>
     </message>
     <message>
         <source>Heading 3</source>
         <comment>STR_STYLE_HEADING_3</comment>
-        <translation>タイトル 3</translation>
+        <translation>見出し 3</translation>
     </message>
     <message>
         <source>Heading 4</source>
         <comment>STR_STYLE_HEADING_4</comment>
-        <translation>タイトル 4</translation>
+        <translation>見出し 4</translation>
     </message>
     <message>
         <source>Hyperlink</source>
@@ -9133,17 +11201,17 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Input</source>
         <comment>STR_STYLE_INPUT</comment>
-        <translation>インプット</translation>
+        <translation>入力</translation>
     </message>
     <message>
         <source>Linked Cell</source>
         <comment>STR_STYLE_LINKED_CELL</comment>
-        <translation>リンクされたセル</translation>
+        <translation>リンクセル</translation>
     </message>
     <message>
         <source>Neutral</source>
         <comment>STR_STYLE_NEUTRAL</comment>
-        <translation>中間色</translation>
+        <translation>どちらでもない</translation>
     </message>
     <message>
         <source>Normal</source>
@@ -9153,12 +11221,12 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Note</source>
         <comment>STR_STYLE_NOTE</comment>
-        <translation>ノート</translation>
+        <translation>メモ</translation>
     </message>
     <message>
         <source>Output</source>
         <comment>STR_STYLE_OUTPUT</comment>
-        <translation>アウトプット</translation>
+        <translation>出力</translation>
     </message>
     <message>
         <source>Percent</source>
@@ -9183,7 +11251,22 @@ To continue saving as a macro-disabled workbook, click Yes.</source>
     <message>
         <source>Warning Text</source>
         <comment>STR_STYLE_WARNING_TEXT</comment>
-        <translation>警告テキスト</translation>
+        <translation>警告文</translation>
+    </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>STR_STYLE_COMMA0</comment>
+        <translation>桁区切り[0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>STR_STYLE_CURRENCY0</comment>
+        <translation>通貨[0]</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <comment>STR_PREFIX_STYLE_NAME</comment>
+        <translation>スタイル</translation>
     </message>
 </context>
 <context>
@@ -9255,7 +11338,7 @@ Continue ?</source>
     <message>
         <source>%d duplicates are found, which have been deleted; Only keep %d unique value.</source>
         <comment>TX_RepeatWord_Find_Counts</comment>
-        <translation>重複する %d 個の値が見つかり、削除されました。一意の値が %d 個残っています。</translation>
+        <translation>重複する %d 個の値が見つかりました。削除しますか？削除後も一意の値が %d 個残っています。</translation>
     </message>
     <message>
         <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
@@ -9453,7 +11536,7 @@ frequency = 1；半年単位として支払とfrequency = 2；四半期単位と
     <message>
         <source>Assign Macro</source>
         <comment>TXShell_AssignMacro_Caption</comment>
-        <translation>マクロの指定</translation>
+        <translation>マクロの登録</translation>
     </message>
     <message>
         <source>Average_range</source>
@@ -9631,7 +11714,7 @@ Spelling</source>
     <message>
         <source>Check spelling is complete.</source>
         <comment>TX_CHECKSPELLING_SHEETOK</comment>
-        <translation>Kingsoft Spreadsheets　スペル チェックを完了しました。</translation>
+        <translation>スペルチェックが完了しました。</translation>
     </message>
     <message>
         <source>Chinese Conversion</source>
@@ -9791,7 +11874,7 @@ Spelling</source>
     <message>
         <source>Do you want to replace the contents of the destination cells?</source>
         <comment>TX_ERROR_CutPasteRange</comment>
-        <translation>コピーまたは移動先のセルの内容を置換えますか。</translation>
+        <translation type="obsolete">コピーまたは移動先のセルの内容を置換えますか。</translation>
     </message>
     <message>
         <source>Draw Border</source>
@@ -10994,7 +13077,7 @@ Workbook</source>
     <message>
         <source>The command could not be completed by using the range specified. Select a single cell within the range and try the command again.</source>
         <comment>TX_DESC_Sort_singleCell_ET</comment>
-        <translation>Kingsoft Spreadsheets　指定された範囲でこのコマンドを使えません。範囲内のセルを1つ選択し、コマンドを再実行してください。</translation>
+        <translation>指定された範囲ではこの操作はできません。範囲内の1つのセルを選択してから、再実行してください。</translation>
     </message>
     <message>
         <source>The comment of </source>
@@ -11247,12 +13330,12 @@ There are several possible reasons:
     <message>
         <source>This command cannot be used on multiple selections.</source>
         <comment>TX_DESC_CopyPaste_MultiRange_ET</comment>
-        <translation>Kingsoft Spreadsheets そのコマンドは複数の選択範囲に対して実行できません。</translation>
+        <translation>WPS Spreadsheets そのコマンドは複数の選択範囲に対して実行できません。</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections.</source>
         <comment>TX_Noncontinue_Selected_Sheets_Cannot_Insert_Sheet</comment>
-        <translation>Kingsoft Spreadsheets 複数の選択範囲に対してこのコマンドを使用できません。</translation>
+        <translation>WPS Spreadsheets 複数の選択範囲に対してこのコマンドを使用できません。</translation>
     </message>
     <message>
         <source>This command cannot be used on multiple selections. Select a single region and then perform this command again.</source>
@@ -14547,7 +16630,7 @@ Workbook</source>
         <source>WPS Spreadsheets cannot create a chart on the selected regions. 
 Please make sure the selected regions are continuous cells.</source>
         <comment>TX_Chart_Cannot_Create</comment>
-        <translation>Kingsoft Spreadsheets 選択した範囲ではグラフを作成できません。
+        <translation>WPS Spreadsheets 選択した範囲ではグラフを作成できません。
 選択したセル範囲は連続していることを確認してください。</translation>
     </message>
     <message>
@@ -14579,17 +16662,17 @@ Please make sure the selected regions are continuous cells.</source>
     <message>
         <source>WPS Spreadsheets cannot find a default custom dictionary. Please select one from Settings and perform the command again.</source>
         <comment>TX_CHECKSPELLING_NODICTIONARY</comment>
-        <translation>Kingsoft Spreadsheets　既定のユーザー設定の辞書がないため、ユーザー設定の辞書を選択してからこのコマンドを実行してください。</translation>
+        <translation>WPS Spreadsheets　既定のユーザー設定の辞書がないため、ユーザー設定の辞書を選択してからこのコマンドを実行してください。</translation>
     </message>
     <message>
         <source>This function is provided in WPS Office 2009 Professional Edition.</source>
         <comment>TX_FUNCTION_PROHIBIT</comment>
-        <translation>このファンクションはKingsoft Office Professional版で提供します。</translation>
+        <translation>このファンクションはWPS Office Professionalで提供します。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has finished checking spelling in your selection. Do you want to check spelling in the entire sheet?</source>
         <comment>TX_CHECKSPELLING_SHEETYESNO</comment>
-        <translation>Kingsoft Spreadsheets　スペル チェックを完了しました。もう一度シートの全体をチェックしますか。</translation>
+        <translation>WPS Spreadsheets　スペル チェックを完了しました。もう一度シートの全体をチェックしますか。</translation>
     </message>
     <message>
         <source>Spell 
@@ -14646,7 +16729,7 @@ Check</source>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets, or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_165</comment>
-        <translation>には KingsoftOffice Spreadsheets で使用される日付/時刻コード、又は 16:48:00 や 4:48:00 PM　のような時刻形式のテキストを指定します</translation>
+        <translation>には WPS Spreadsheets で使用される日付/時刻コード、又は 16:48:00 や 4:48:00 PM　のような時刻形式のテキストを指定します</translation>
     </message>
     <message>
         <source>is the text string containing the characters you want to extract.</source>
@@ -14677,7 +16760,7 @@ Check</source>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:00 or 4:48:00 PM.</source>
         <comment>TX_ParaDesc_246</comment>
-        <translation>には KingsoftOffice Spreadsheets で使用される日付/時刻コード、又は 16:48:00 や 4:48:00 PM　のような時刻形式のテキストを指定します</translation>
+        <translation>には WPS Spreadsheets で使用される日付/時刻コード、又は 16:48:00 や 4:48:00 PM　のような時刻形式のテキストを指定します</translation>
     </message>
     <message>
         <source>is the number for which you want to find the remainder after the division is performed.</source>
@@ -14687,7 +16770,7 @@ Check</source>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
         <comment>TX_ParaDesc_255</comment>
-        <translation>には KingsoftOffice Spreadsheets で使用される日付/時刻コードを指定します</translation>
+        <translation>には WPS Spreadsheets で使用される日付/時刻コードを指定します</translation>
     </message>
     <message>
         <source>is a probability corresponding to the normal distribution, a number between 0 and 1 inclusive.</source>
@@ -14718,7 +16801,7 @@ Check</source>
     <message>
         <source>is a number in the date-time code used by WPS Spreadsheets or text in time format, such as 16:48:23 or 4:48:47 PM.</source>
         <comment>TX_ParaDesc_358</comment>
-        <translation>には KingsoftOffice Spreadsheets で使用される日付/時刻コード、又は 16:48:23 や 4:48:47 PM　のような時刻形式のテキストを指定します</translation>
+        <translation>には WPS Spreadsheets で使用される日付/時刻コード、又は 16:48:23 や 4:48:47 PM　のような時刻形式のテキストを指定します</translation>
     </message>
     <message>
         <source>is the text or the reference to a cell containing text in which you want to substitute characters.</source>
@@ -14733,7 +16816,7 @@ Check</source>
     <message>
         <source>is a text string that gives a time in any one of the WPS Spreadsheets time formats (date information in the string is ignored).</source>
         <comment>TX_ParaDesc_404</comment>
-        <translation>には時刻を表す文字列を、 KingsoftOffice Spreadsheets の組み込みの時刻表示形式で指定します。日付の情報は無視されます</translation>
+        <translation>には時刻を表す文字列を、 WPS Spreadsheets の組み込みの時刻表示形式で指定します。日付の情報は無視されます</translation>
     </message>
     <message>
         <source>is the probability associated with the two-tailed Student&apos;s t-distribution, a number between 0 and 1 inclusive.</source>
@@ -14743,7 +16826,7 @@ Check</source>
     <message>
         <source>is number in the date-time code used by WPS Spreadsheets.</source>
         <comment>TX_ParaDesc_445</comment>
-        <translation>には KingsoftOffice Spreadsheets で使用される日付/時刻コードを指定します</translation>
+        <translation>には WPS Spreadsheets で使用される日付/時刻コードを指定します</translation>
     </message>
     <message>
         <source>is an optional set of one or more serial date numbers to exclude from the working calendar, such as state and federal holidays and floating holidays.</source>
@@ -14807,7 +16890,7 @@ To modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>WPS Spreadsheets do not support the normal shared workbook. Please save the workbook as &quot;*.xls&quot; or &quot;*.et&quot; format, and then set as the shared workbook after opening it.</source>
         <comment>TX_InCompatible_ShareBook</comment>
-        <translation>通常形式での共有ブックを対応できません。「*.xls」「*.et」の形式で名前をつけて保存して開いて共有ブックを設定します。</translation>
+        <translation type="obsolete">このファイル形式はブックの共有に非対応となっています。「名前を付けて保存」から、ファイル形式を「*.xls」「*.et」のどちらかに変更してください。</translation>
     </message>
     <message>
         <source>Stop Recording</source>
@@ -15278,12 +17361,12 @@ There are several possible reasons:
     <message>
         <source>Data may exist in the sheet(s) selected for deletion. To permanently delete the data, click OK or press Enter on the keyboard.</source>
         <comment>TX_Sheet_DEL_ContainsData_ET</comment>
-        <translation>選択したシートに、データが存在する可能性があります。データを永遠に削除するには、「OK」をクリックしてください。</translation>
+        <translation>選択したシートには、データが存在している可能性があります。削除してもよろしいですか？</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot ungroup. To start an outline, select the detail rows or columns and group them.</source>
         <comment>TX_Data_Cannot_Ungroup</comment>
-        <translation>Kingsoft Spreadsheets　グループを解除できません。アウトラインを作成するには、まず詳細行または列を選択してからグループ化してください。</translation>
+        <translation>WPS Spreadsheets　グループを解除できません。アウトラインを作成するには、まず詳細行または列を選択してからグループ化してください。</translation>
     </message>
     <message>
         <source>The constant character string in the formula is too long. WPS Spreadsheets will automatically correct it as:
@@ -15351,7 +17434,7 @@ There are several possible reasons:
     <message>
         <source>The List Source must be a delimited list, or a reference to single row or column.</source>
         <comment>TX_DV_ListMustSingleLine</comment>
-        <translation>「リスト ソース」は区切られたデータの並び、または一つの行か列の参照でなければいけません。</translation>
+        <translation>リストは区切り文字で区切られたデータか、または単一の行または列の参照でなければなりません。</translation>
     </message>
     <message>
         <source>Arithmetic Mean</source>
@@ -15631,7 +17714,7 @@ There are several possible reasons:
 •If you do not want to create the circular reference, click OK, and correct the formula.
 •If you want to use circular reference to calculate the correct result, please click the Iteration check box in Settings on the Tools menu.</source>
         <comment>TX_FORMULA_RECURSION</comment>
-        <translation>Kingsoft Spreadsheets　この数式を計算できません。数式のセルの参照は計算結果を参照しているため、循環参照になります。次の操作を試してください。
+        <translation>WPS Spreadsheets　この数式を計算できません。数式のセルの参照は計算結果を参照しているため、循環参照になります。次の操作を試してください。
 
 · 循環参照を解決する場合は、[OK]をクリックしてください。
 ·[循環参照]ツールが表示されるので、ツールを使って数式を修正してください。</translation>
@@ -15859,12 +17942,12 @@ There are several possible reasons:
     <message>
         <source>New Excel 2007/2010 Workbook</source>
         <comment>TX_NEWBLANKXLSXFILECAPTION</comment>
-        <translation>Excel2007/2010 ワークブックの新規作成</translation>
+        <translation>Excel 2007/2010 ワークブックの新規作成</translation>
     </message>
     <message>
         <source>New Excel 2003 Workbook</source>
         <comment>TX_NEWBLANKXLSFILECAPTION</comment>
-        <translation>Excel2003 ワークブックの新規作成</translation>
+        <translation>Excel 2003 ワークブックの新規作成</translation>
     </message>
     <message>
         <source>To create a chart, select the cells that contain the data you&apos;d like to use. If you have names for the rows and columns and you&apos;d like to use them as labels, include them in you selection.</source>
@@ -15884,17 +17967,539 @@ There are several possible reasons:
     <message>
         <source>This workbook cannot be shared because it contains WPS tables or XML maps. To share this workbook, convert the tables to ranges and remove the XML maps.</source>
         <comment>TX_RemoveTable_ShareBook</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>このボックに WPS テーブルまたは XMLマップを含めるため、共有できません。このブックを共有するには、テーブルを範囲に変換したり、 XML マップを削除する必要があります。</translatorcomment>
+        <translation>WPSテーブル、またはXMPマップが含まれているため、このブックを共有できません。このブックを共有するためには、テーブルを通常範囲に変換しXMLマップを削除してください。</translation>
     </message>
     <message>
         <source>is the discount rate to apply to the cash flows.</source>
         <comment>TX_ParaDesc_549</comment>
-        <translation type="unfinished"></translation>
+        <translation>には、対象となるキャッシュフローに適用する割引率を指定します。</translation>
     </message>
     <message>
         <source>is a series of cash flows that correspond to a schedule of payments in dates.</source>
         <comment>TX_ParaDesc_550</comment>
-        <translation type="unfinished"></translation>
+        <translation>キャッシュフローに対応する一連の支払日を指定します。</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation>(類義語提案なし)</translation>
+    </message>
+    <message>
+        <source>Weekend</source>
+        <comment>TX_ParaInfo_371</comment>
+        <translation>週末</translation>
+    </message>
+    <message>
+        <source>custom weekend</source>
+        <comment>TX_ParaDesc_551</comment>
+        <translation>カスタム週末</translation>
+    </message>
+    <message>
+        <source>The shared workbook has been saved in a file format that is recognized by earlier versions of ET. To keep this workbook synchronized with changes that other shared workbook users make. you need to close and reopen the workbook.
+• Click OK to close and reopen the workbook in Compatibility mode.
+• Click Cancel to view the workbook as read-only.</source>
+        <comment>TX_ReOpenXls_ShareBook</comment>
+        <translation>共有ブックは、以前のバージョンの Spreadsheets で認識されるファイル形式で保存されました。この共有ブックを他のユーザーが加える変更と同期させるには、ブックを閉じて開き直す必要があります。
+• ブックを閉じて互換モードで開き直す場合は、[OK] をクリックしてください。
+• ブックを読み取り専用で表示する場合は、[キャンセル] をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>The shared workbook has saved in a file format that is  supported in the current of ET, To Keep this workbook synchronized with changes that other shared workbook users make by using the new file format, you need to colse and reopen the workbook.
+• Click OK to close and reopen the workbook.
+• Click Cancel to view it read-only.</source>
+        <comment>TX_ReOpenXlsx_ShareBook</comment>
+        <translation>共有ブックは、現在のバージョンの Spreadsheets でサポートされているファイル形式で保存されました。新しいファイル形式を使用して、この共有ブックを他のユーザーが加える変更と同期させるには、ブックを閉じて開き直す必要があります。
+• ブックを閉じて開き直す場合は、[OK] をクリックしてください。
+• ブックを読み取り専用で表示する場合は、[キャンセル] をクリックしてください。</translation>
+    </message>
+    <message>
+        <source>InsertDropDownList</source>
+        <comment>TXShell_InsertDropDownList_Caption</comment>
+        <translation>ドロップダウンリストを挿入</translation>
+    </message>
+    <message>
+        <source>Data is already exist here. Do you want to replace it?</source>
+        <comment>TX_ERROR_CutPasteRange</comment>
+        <translation>データが存在しています。置き換えますか？</translation>
+    </message>
+    <message>
+        <source>(blank)</source>
+        <comment>TX_PivotTable_Blank_Tip</comment>
+        <translation>(空白)</translation>
+    </message>
+    <message>
+        <source>No Value</source>
+        <comment>TX_PivotTable_NoValue_Tip</comment>
+        <translation>値なし</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Row: %3</source>
+        <comment>TX_PivotTable_RowItem_Tip</comment>
+        <translation>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;行: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;Column: %3</source>
+        <comment>TX_PivotTable_ColumnItem_Tip</comment>
+        <translation>&lt;b&gt;%1 (%2)&lt;/b&gt;&lt;br&gt;列: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3&lt;br&gt;Column: %4</source>
+        <comment>TX_PivotTable_ValueItem_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;値: %2&lt;br&gt;行: %3&lt;br&gt;列: %4</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Column: %3</source>
+        <comment>TX_PivotTable_ValueItemNoRow_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;値: %2&lt;br&gt;列: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2&lt;br&gt;Row: %3</source>
+        <comment>TX_PivotTable_ValueItemNoCol_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;値: %2&lt;br&gt;行: %3</translation>
+    </message>
+    <message>
+        <source>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;Value: %2</source>
+        <comment>TX_PivotTable_ValueItemNoRowAndCol_Tip</comment>
+        <translation>&lt;b&gt;%1&lt;/b&gt;&lt;br&gt;値: %2</translation>
+    </message>
+    <message>
+        <source>Number_s2</source>
+        <comment>TX_ParaInfo_372</comment>
+        <translation>成功数</translation>
+    </message>
+    <message>
+        <source>Optional. If provided, returns the probability that the number of successful trials will fall between Number_s and number_s2. Must be greater than or equal to Number_s and less than or equal to Trials.</source>
+        <comment>TX_ParaDesc_552</comment>
+        <translation>オプション。指定すると、成功試行数がNumber_s と number_s2の間に収まる確率を返します。Number_s以上、かつTrials以下の数値を指定してください。</translation>
+    </message>
+    <message>
+        <source>Clear Filter(Alt+C)</source>
+        <comment>TX_Slicer_ClearFilter_Tip</comment>
+        <translation>フィルタをクリア(Alt+C)</translation>
+    </message>
+    <message>
+        <source>Column %1</source>
+        <comment>TX_AutoInput_ColumnName</comment>
+        <translation>列 %1</translation>
+    </message>
+    <message>
+        <source>Approximate match</source>
+        <comment>TX_AutoInput_ApproximateMatch</comment>
+        <translation>近似一致</translation>
+    </message>
+    <message>
+        <source>Exact match</source>
+        <comment>TX_AutoInput_ExactMatch</comment>
+        <translation>完全一致</translation>
+    </message>
+    <message>
+        <source>The name entered already exists. Enter a unique name.</source>
+        <comment>TX_Exist_Name</comment>
+        <translation>入力された名前が既に存在します。他の名前を入力してください。</translation>
+    </message>
+    <message>
+        <source>Background</source>
+        <comment>TX_SHEETBACKGROUND</comment>
+        <translation>背景</translation>
+    </message>
+    <message>
+        <source>Delete
+Background</source>
+        <comment>TX_SHEETBACKGROUND_DELETE</comment>
+        <translation>背景の削除</translation>
+    </message>
+    <message>
+        <source>Sheet Background</source>
+        <comment>TX_SHEETBACKGROUND_TITLE</comment>
+        <translation>シートの背景</translation>
+    </message>
+    <message>
+        <source>Please exit editing cell or formula first before saving the file.</source>
+        <comment>TX_PROMPT_EXIT_EDIT_BEFORESAVE</comment>
+        <translation>ファイルを保存するには、セルの内容または数式の編集を終了してください。</translation>
+    </message>
+    <message>
+        <source>Hide Axis Field Buttons On Chart</source>
+        <comment>TX_Hide_Axis_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上の軸フィールドボタンを非表示</translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons On Chart</source>
+        <comment>TX_Show_Axis_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上の軸フィールドボタンを表示</translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On Chart</source>
+        <comment>TX_Hide_All_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上のすべてのフィールドボタンを非表示</translation>
+    </message>
+    <message>
+        <source>Show ALL Field Buttons On Chart</source>
+        <comment>TX_Show_All_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上のすべてのフィールドボタンを表示</translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons On Chart</source>
+        <comment>TX_Hide_Value_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上の値フィールドボタンを非表示</translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons On Chart</source>
+        <comment>TX_Show_Value_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上の値フィールドボタンを表示</translation>
+    </message>
+    <message>
+        <source>Hide Legend Field Buttons On Chart</source>
+        <comment>TX_Hide_Legend_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上の凡例フィールドボタンを非表示</translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons On Chart</source>
+        <comment>TX_Show_Legend_Field_Buttons_On_Chart</comment>
+        <translation>グラフ上の凡例フィールドボタンを表示</translation>
+    </message>
+    <message>
+        <source>Hide Report Filter Buttons On Chart</source>
+        <comment>TX_Hide_Report_Filter_Buttons_On_Chart</comment>
+        <translation>グラフ上のレポートフィルタボタンを非表示</translation>
+    </message>
+    <message>
+        <source>Show Report Filter Buttons On Chart</source>
+        <comment>TX_Show_Report_Filter_Buttons_On_Chart</comment>
+        <translation>グラフ上のレポートフィルタボタンを表示</translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <comment>TX_PivotTable_Remove_Field</comment>
+        <translation>フィールドを削除</translation>
+    </message>
+    <message>
+        <source>PivotTable Name:</source>
+        <comment>TX_PivotTableName_TableSuffex</comment>
+        <translation>ピポットテーブルの名前:</translation>
+    </message>
+    <message>
+        <source>Chart Name:</source>
+        <comment>TX_PivotTableName_ChartSuffex</comment>
+        <translation>グラフの名前:</translation>
+    </message>
+    <message>
+        <source>PivotTable</source>
+        <comment>TX_PivotTable_Des</comment>
+        <translation>ピボットテーブル</translation>
+    </message>
+    <message>
+        <source>PivotChart</source>
+        <comment>TX_PivotChart_Des</comment>
+        <translation>ピポットグラフ</translation>
+    </message>
+    <message>
+        <source>PivotTable Option</source>
+        <comment>TX_PivotTable_Option_Des</comment>
+        <translation>ピポットテーブルのオプション</translation>
+    </message>
+    <message>
+        <source>PivotChart Option</source>
+        <comment>TX_PivotChart_Option_Des</comment>
+        <translation>ピポットグラフのオプション</translation>
+    </message>
+    <message>
+        <source>New</source>
+        <comment>TX_NEWDEFAULTFILECAPTION</comment>
+        <translation>新規</translation>
+    </message>
+    <message>
+        <source>Max_range</source>
+        <comment>TX_ParaInfo_373</comment>
+        <translation>最大範囲</translation>
+    </message>
+    <message>
+        <source>Min_range</source>
+        <comment>TX_ParaInfo_374</comment>
+        <translation>最小範囲</translation>
+    </message>
+    <message>
+        <source>Expression</source>
+        <comment>TX_ParaInfo_375</comment>
+        <translation>式</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <comment>TX_ParaInfo_376</comment>
+        <translation>値</translation>
+    </message>
+    <message>
+        <source>Result</source>
+        <comment>TX_ParaInfo_377</comment>
+        <translation>結果</translation>
+    </message>
+    <message>
+        <source>value_if_na</source>
+        <comment>TX_ParaInfo_378</comment>
+        <translation>N/A値</translation>
+    </message>
+    <message>
+        <source>number1</source>
+        <comment>TX_ParaInfo_379</comment>
+        <translation>数値1</translation>
+    </message>
+    <message>
+        <source>number2</source>
+        <comment>TX_ParaInfo_380</comment>
+        <translation>数値2</translation>
+    </message>
+    <message>
+        <source>shift_amount</source>
+        <comment>TX_ParaInfo_381</comment>
+        <translation>shift_amount</translation>
+    </message>
+    <message>
+        <source>delimiter</source>
+        <comment>TX_ParaInfo_382</comment>
+        <translation>区切り文字</translation>
+    </message>
+    <message>
+        <source>ignore_empty</source>
+        <comment>TX_ParaInfo_383</comment>
+        <translation>空白セルを無視</translation>
+    </message>
+    <message>
+        <source>Reference</source>
+        <comment>TX_ParaInfo_384</comment>
+        <translation type="obsolete">範囲</translation>
+    </message>
+    <message>
+        <source>is the decimal representation of the binary number you want to compute</source>
+        <comment>TX_ParaDesc_554</comment>
+        <translation>は変換する2 進数の10 進表現です。</translation>
+    </message>
+    <message>
+        <source>is the bits you move number to the left</source>
+        <comment>TX_ParaDesc_555</comment>
+        <translation>は数値を左へ移動する ビット数です。</translation>
+    </message>
+    <message>
+        <source>is the bits you move number to the right</source>
+        <comment>TX_ParaDesc_556</comment>
+        <translation>は数値を右へ移動する ビット数です。</translation>
+    </message>
+    <message>
+        <source>the character or string to insert between each text item</source>
+        <comment>TX_ParaDesc_557</comment>
+        <translation>は各テキスト アイテム間に挿入される文字または文字列です。</translation>
+    </message>
+    <message>
+        <source>if true (default), empty cells are ignored</source>
+        <comment>TX_ParaDesc_558</comment>
+        <translation>TRUE (既定値) の場合、空白セルは無視されます。</translation>
+    </message>
+    <message>
+        <source>is the value at which you want to evaluate the distribution, a nonnegative number.</source>
+        <comment>TX_ParaDesc_559</comment>
+        <translation>には分布を評価する値 (正の数値) を指定します。</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
+        <comment>TX_ParaDesc_553</comment>
+        <translation>テキスト1%1 テキスト2%1... は結合される 1 から 253 のテキスト文字列または範囲です。</translation>
+    </message>
+    <message>
+        <source>You already have a file named &apos;%1&apos;. Do you want to replace it with this one?</source>
+        <translation>&apos;%1&apos;が既に存在します。このファイルで上書き保存しますか？</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Office Database Connections(*.odc)|*.odc||</source>
+        <translation>すべてのファイル(*.*)|*.*|Office データベース接続(*.odc)|*.odc||</translation>
+    </message>
+    <message>
+        <source>Connections</source>
+        <comment>TXShell_Connections_Caption</comment>
+        <translation>接続</translation>
+    </message>
+    <message>
+        <source>Existing Connections</source>
+        <comment>TXShell_ExistingConnections_Caption</comment>
+        <translation>既存の接続</translation>
+    </message>
+    <message>
+        <source>Office Data Connection</source>
+        <comment>TX_Connection_Detail_Type_ODC</comment>
+        <translation>Office データ接続</translation>
+    </message>
+    <message>
+        <source>Database Query</source>
+        <comment>TX_Connection_Detail_Type_ODBC</comment>
+        <translation>データベースクエリ</translation>
+    </message>
+    <message>
+        <source>Microsoft Access Database</source>
+        <comment>TX_Connection_Detail_Type_ACCESS_DB</comment>
+        <translation>Microsoft Access データベース</translation>
+    </message>
+    <message>
+        <source>Excel File</source>
+        <comment>TX_Connection_Detail_Type_EXCEL_FILE</comment>
+        <translation>Excel ファイル</translation>
+    </message>
+    <message>
+        <source>OLE DB Query</source>
+        <comment>TX_Connection_Detail_Type_OLEDB</comment>
+        <translation>OLE DB クエリ</translation>
+    </message>
+    <message>
+        <source>Web Query</source>
+        <comment>TX_Connection_Detail_Type_WEB_QUERY</comment>
+        <translation>Web クエリ</translation>
+    </message>
+    <message>
+        <source>Text File</source>
+        <comment>TX_Connection_Detail_Type_TEXT</comment>
+        <translation>テキストファイル</translation>
+    </message>
+    <message>
+        <source>XML File</source>
+        <comment>TX_Connection_Detail_Type_XML</comment>
+        <translation>XML ファイル</translation>
+    </message>
+    <message>
+        <source>SharePoint List</source>
+        <comment>TX_Connection_Detail_Type_IQY</comment>
+        <translation>SharePoint リスト</translation>
+    </message>
+    <message>
+        <source>Number From 1(Sun) To 7(Sat)</source>
+        <comment>TX_AutoInput_NumberFrom1SunTo7Sat</comment>
+        <translation>1(日曜) から 7(土曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Mon) To 7(Sun)</source>
+        <comment>TX_AutoInput_NumberFrom1MonTo7Sun</comment>
+        <translation>1(月曜) から 7(日曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 0(Mon) To 6(Sun)</source>
+        <comment>TX_AutoInput_NumberFrom0MonTo6Sun</comment>
+        <translation>1(月曜) から 7(日曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Mon) To 7(Sun)</source>
+        <comment>TX_AutoInput_NumberFromMonToSun</comment>
+        <translation>1(月曜) から 7(日曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Tues) To 7(Mon)</source>
+        <comment>TX_AutoInput_NumberFromTuesToMon</comment>
+        <translation>1(火曜) から 7(月曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Wed) To 7(Tues)</source>
+        <comment>TX_AutoInput_NumberFromWedToTues</comment>
+        <translation>1(水曜) から 7(火曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Thur) To 7(Wed)</source>
+        <comment>TX_AutoInput_NumberFromThurToWed</comment>
+        <translation>1(木曜) から 7(水曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Fri) To 7(Thur)</source>
+        <comment>TX_AutoInput_NumberFromFriToThur</comment>
+        <translation>1(金曜) から 7(木曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Sat) To 7(Fri)</source>
+        <comment>TX_AutoInput_NumberFromSatToFri</comment>
+        <translation>1(土曜) から 7(金曜)までの数値</translation>
+    </message>
+    <message>
+        <source>Number From 1(Sun) To 7(Sat)</source>
+        <comment>TX_AutoInput_NumberFromSunToSat</comment>
+        <translation>1(日曜) から 7(土曜)までの数値</translation>
+    </message>
+    <message>
+        <source>ignore empty blank</source>
+        <comment>TX_AutoInput_IgnoreEmptyBlank</comment>
+        <translation>空白セルを無視</translation>
+    </message>
+    <message>
+        <source>include empty blank</source>
+        <comment>TX_AutoInput_IncludeEmptyBlank</comment>
+        <translation>空白セルを含む</translation>
+    </message>
+    <message>
+        <source>cumulative distribution function</source>
+        <comment>TX_AutoInput_Cumulative</comment>
+        <translation>累積分布関数</translation>
+    </message>
+    <message>
+        <source>probability density function</source>
+        <comment>TX_AutoInput_Probability</comment>
+        <translation>確率密度関数</translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the maximum value.</source>
+        <comment>TX_ParaDesc_560</comment>
+        <translation>最大値を求めるセルです。</translation>
+    </message>
+    <message>
+        <source>the cells in which to determine the minimum value.</source>
+        <comment>TX_ParaDesc_561</comment>
+        <translation>最小値を求めるセルです。</translation>
+    </message>
+    <message>
+        <source>is an expression to be evaluated.</source>
+        <comment>TX_ParaDesc_562</comment>
+        <translation>評価の対象の式です。</translation>
+    </message>
+    <message>
+        <source>value1,value2,... is a value to be compared with expression.</source>
+        <comment>TX_ParaDesc_563</comment>
+        <translation>値1,値2,...式と比較される値となります。</translation>
+    </message>
+    <message>
+        <source>result1,result2,... is a result to be returned if the corresponding value matches expression.</source>
+        <comment>TX_ParaDesc_564</comment>
+        <translation>結果1,結果2,...その結果、対応する値が式に一致するかどうかが返されます</translation>
+    </message>
+    <message>
+        <source>is a reference to a formula.</source>
+        <comment>TX_ParaDesc_565</comment>
+        <translation>には数式への参照を指定します。</translation>
+    </message>
+    <message>
+        <source>is a number that you want to convert.</source>
+        <comment>TX_ParaDesc_566</comment>
+        <translation>変換したい数値を指定します。</translation>
+    </message>
+    <message>
+        <source>text1%1 text2%1... are 1 to 30 text strings to be joined into a single text string and can be text strings, numbers, or a range of cells.</source>
+        <comment>TX_ParaDesc_567</comment>
+        <translation>テキスト1%1 テキスト2%1... は結合される 1 から 253 のテキスト文字列または範囲です。</translation>
+    </message>
+    <message>
+        <source>is the value that is returned if Logical_test is TRUE.</source>
+        <comment>TX_ParaDesc_568</comment>
+        <translation>には論理式の結果がTRUEであった場合に返される値を指定します。</translation>
+    </message>
+    <message>
+        <source>ADO Recordset</source>
+        <comment>TX_Connection_Detail_Type_ADO_RECORDSET</comment>
+        <translation>レコードセット</translation>
+    </message>
+    <message>
+        <source>DAO Recordset</source>
+        <comment>TX_Connection_Detail_Type_DAO_RECORDSET</comment>
+        <translation>DAO レコードセット</translation>
+    </message>
+    <message>
+        <source>Failed in locking title rows, please do it with freeze command in View tab.</source>
+        <comment>TX_AfLockTitleRowsFailed</comment>
+        <translation>タイトル行のロックに失敗しました。[表示]タブに[固定]を選択し、行列をロックしてください。</translation>
+    </message>
+    <message>
+        <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
+        <translation>数値は 1 から 32767 の範囲でなければなりません。この数値の範囲で入力し直し、もう一度行ってください。</translation>
     </message>
 </context>
 <context>
@@ -15967,7 +18572,7 @@ There are several possible reasons:
     <message>
         <source>AutoFilter</source>
         <comment>TX_Undo_AutoFilter</comment>
-        <translation>オートフィルタ</translation>
+        <translation>自動フィルタ</translation>
     </message>
     <message>
         <source>AutoFit</source>
@@ -16442,7 +19047,7 @@ There are several possible reasons:
     <message>
         <source>Remove duplicates</source>
         <comment>TX_Undo_RepeatWord_Delete</comment>
-        <translation>删除重复项</translation>
+        <translation>重複する項目を削除</translation>
     </message>
     <message>
         <source>Rename Sheet</source>
@@ -16637,22 +19242,32 @@ There are several possible reasons:
     <message>
         <source>Table Resize</source>
         <comment>TX_Undo_ListObjectRBDrag</comment>
-        <translation type="unfinished"></translation>
+        <translation>テーブルのサイズ変更</translation>
     </message>
     <message>
         <source>Delete Colunm</source>
         <comment>TX_Undo_ListColumnDelete</comment>
-        <translation type="unfinished"></translation>
+        <translation>列の削除</translation>
     </message>
     <message>
         <source>Delete Row</source>
         <comment>TX_Undo_ListRowDelete</comment>
-        <translation type="unfinished">行の削除</translation>
+        <translation>行の削除</translation>
     </message>
     <message>
         <source>New Table Style</source>
         <comment>TX_Undo_NewTableStyle</comment>
-        <translation type="unfinished"></translation>
+        <translation>テーブルスタイルの作成</translation>
+    </message>
+    <message>
+        <source>PivotTable Refresh</source>
+        <comment>TX_Undo_PivotTableRefresh</comment>
+        <translation>ピポットテーブルを更新</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <comment>TX_Undo_PasteName</comment>
+        <translation>貼り付け</translation>
     </message>
 </context>
 <context>
@@ -17016,7 +19631,7 @@ There are several possible reasons:
     <message>
         <source>Column Area</source>
         <comment>et_sColAreaText</comment>
-        <translation>列範囲</translation>
+        <translation type="obsolete">列範囲</translation>
     </message>
     <message>
         <source>Column width must be between %d and %d.</source>
@@ -17131,7 +19746,7 @@ There are several possible reasons:
     <message>
         <source>Data Area</source>
         <comment>et_sDataAreaText</comment>
-        <translation>データ範囲</translation>
+        <translation type="obsolete">データ範囲</translation>
     </message>
     <message>
         <source>Data range is not valid.</source>
@@ -17691,7 +20306,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Page Area</source>
         <comment>et_sPageAreaText</comment>
-        <translation>ページ範囲</translation>
+        <translation type="obsolete">ページ範囲</translation>
     </message>
     <message>
         <source>Pages</source>
@@ -17841,7 +20456,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Row Area</source>
         <comment>et_sRowAreaText</comment>
-        <translation>行範囲</translation>
+        <translation type="obsolete">行範囲</translation>
     </message>
     <message>
         <source>Row height must be between %d and %d.</source>
@@ -17991,7 +20606,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>The changes to standard font and font size will not take effect until you create a new Workbook.</source>
         <comment>et_sFontChanged</comment>
-        <translation>標準フォントの設定が変更されました。設定を有効にするにはKingsoft Spreadsheetsを再起動する必要があります。</translation>
+        <translation>標準フォントの設定が変更されました。設定を有効にするにはWPS Spreadsheetsを再起動する必要があります。</translation>
     </message>
     <message>
         <source>The command you choose cannot be performed with multiple selections.
@@ -18199,7 +20814,7 @@ To enter a reference, click the cell in the sheet you want to refer to, or drag 
     <message>
         <source>User Feedback</source>
         <comment>et_sFeedbackMailTitle</comment>
-        <translation>Kingsoft Office Spreadsheetsの改善要望</translation>
+        <translation>WPS Office Spreadsheetsの改善要望</translation>
     </message>
     <message>
         <source>Value must be between %d and %d.</source>
@@ -18526,7 +21141,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>et_sRemoveDefaultDict</comment>
-        <translation>ユーザー辞書を削除すると他のKingsoft officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
+        <translation>ユーザー辞書を削除すると他のWPS officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find a match.</source>
@@ -18541,7 +21156,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>WPS Spreadsheets cannot use Go To command. It may be on a protected sheet.</source>
         <comment>et_sCannotGoto</comment>
-        <translation>Kingsoft Spreadsheets は指定したデータへ移動できません。当該のワークシートが保護されているかもしれません。</translation>
+        <translation>WPS Spreadsheets は指定したデータへ移動できません。当該のワークシートが保護されているかもしれません。</translation>
     </message>
     <message>
         <source>Connection string or SQL is error. WPS Spreadsheets cannot import the data.</source>
@@ -18560,17 +21175,193 @@ the category you want, and then choose the other options.</source>
     </message>
     <message>
         <source>An unexpected error has occurred, Changes to your data cannot be saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>予期せぬエラーが発生したため、テータの変更を保存できません。</translation>
     </message>
     <message>
         <source>Table has been published successfully, the site is: &lt;a href=&quot;%s&quot;&gt;%s</source>
         <comment>et_sListObjectPublishSuccessed</comment>
-        <translation type="unfinished"></translation>
+        <translation>テーブルを公開に成功しました。場所: &lt;a href=&quot;%s&quot;&gt;%s</translation>
     </message>
     <message>
         <source>Cannot connect to the server at this time. Your table cannot be published.</source>
         <comment>et_sListobjectPublishHostNotFound</comment>
-        <translation type="unfinished"></translation>
+        <translation>サーバーに接続できません。テーブルを公開できません。</translation>
+    </message>
+    <message>
+        <source>Comma [0]</source>
+        <comment>et_sComma0</comment>
+        <translation>桁区切り[0]</translation>
+    </message>
+    <message>
+        <source>Currency [0]</source>
+        <comment>et_sCurrency0</comment>
+        <translation>通貨[0]</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All WPS Spreadsheets Files(*.et;*.ett)|*.et;*.ett|All Excel Files(*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</source>
+        <comment>et_sPivotBrowseFilters</comment>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|すべてのWPS Spreadsheetsファイル(*.et;*.ett)|*.et;*.ett|すべてのMicrosoft Excelファイル(*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</translation>
+    </message>
+    <message>
+        <source>Ranges selected</source>
+        <comment>et_sPivotConsolidatePrompt_Ok</comment>
+        <translation>複数の計算アリアが選択されています。</translation>
+    </message>
+    <message>
+        <source>No ranges selected</source>
+        <comment>et_sPivotConsolidatePrompt_NotOk</comment>
+        <translation>選択したエリアが見つかりません。</translation>
+    </message>
+    <message>
+        <source>Move PivotTable</source>
+        <comment>et_sPivotTableMoveDlgName</comment>
+        <translation>ピポットテーブルの移動</translation>
+    </message>
+    <message>
+        <source>Change PivotTable Data Source</source>
+        <comment>et_sPivotTableChangeSourceDlgName</comment>
+        <translation>ピポットテーブルのデータソースの変更</translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <comment>et_sPivotTableClearFilter</comment>
+        <translation>フィルタのクリア</translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <comment>et_sPivotTableSelectThis</comment>
+        <translation>この項目のみ選択</translation>
+    </message>
+    <message>
+        <source>To apply value filtering, the Value area must contain at least one field.</source>
+        <comment>et_sPivotTableValueFilterNoFieldError</comment>
+        <translation>値フィルタを適用するためには、値エリアに1つ以上のフィールドを指定してください。</translation>
+    </message>
+    <message>
+        <source>The fields that are being moved cannot be placed in that PivotTable area.</source>
+        <comment>et_sPivotTableMoveFieldError</comment>
+        <translation>移動中のフィールドは、ピポットテーブルのその領域に配置できません。</translation>
+    </message>
+    <message>
+        <source>This field has not item</source>
+        <comment>et_sPivotTableFieldHasNoItemError</comment>
+        <translation>このフィールドにはアイテムがありません。</translation>
+    </message>
+    <message>
+        <source>The number of fields exceeds 10000 and only 10000 entries are displayed!</source>
+        <comment>et_sPivotTableFieldOver10000Item</comment>
+        <translation>フィールドのアイテム数が10,000を超えているため、最初の10,000のみ表示します。</translation>
+    </message>
+    <message>
+        <source>You can not apply data validation validation to a cell in a PivotTable</source>
+        <comment>et_sDataValidationOnPivotCell</comment>
+        <translation>ピボットテーブル内のセルに、データ検証を適用できません。</translation>
+    </message>
+    <message>
+        <source>Connections to external data sources has been disabled, you can change the settings in the options dialog.</source>
+        <comment>et_sExternalContentDisabled</comment>
+        <translation>外部データへの接続が停止されました。オプションからデータ接続のセキュリティ設定を変更できます。</translation>
+    </message>
+    <message>
+        <source>PivotChart Areas</source>
+        <comment>et_sPivotChartAreasCaption</comment>
+        <translation>ピポットグラフ範囲</translation>
+    </message>
+    <message>
+        <source>Create PivotTable</source>
+        <comment>et_sPivotTableCreateDlgName</comment>
+        <translation>ピポットテーブルの作成</translation>
+    </message>
+    <message>
+        <source>Create PivotChart</source>
+        <comment>et_sPivotChartCreateDlgName</comment>
+        <translation>ピポットグラフの作成</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Sum</comment>
+        <translation>合計</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Count</comment>
+        <translation>データの個数</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Average</comment>
+        <translation>平均</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Max</comment>
+        <translation>最大値</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Min</comment>
+        <translation>最小値</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Product</comment>
+        <translation>積</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <comment>et_sAnalysisPaneChartSubtotal_CountN</comment>
+        <translation>数値の個数</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <comment>et_sAnalysisPaneChartSubtotal_StdDev</comment>
+        <translation>標本標準偏差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <comment>et_sAnalysisPaneChartSubtotal_StdDevp</comment>
+        <translation>標準偏差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Var</comment>
+        <translation>標本分散</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <comment>et_sAnalysisPaneChartSubtotal_Varp</comment>
+        <translation>分散</translation>
+    </message>
+    <message>
+        <source>Number Overflow</source>
+        <comment>et_sAnalysisPaneNumberOverflow</comment>
+        <translation>数値がオーバーフローしました。</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|All WPS Spreadsheets Files(*.et;*.ett)|*.et;*.ett|All Excel Files(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</source>
+        <comment>et_sPivotBrowseFilters</comment>
+        <translation>すべてのファイル(*.*)|*.*|すべてのWPS Spreadsheets ファイル(*.et;*.ett)|*.et;*.ett|すべてのExcel ファイル(*.xlsx;*.xlsm;*.xlsb;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc)|*.xlsx;*.xlsm;*.xlam;*.xltx;*.xltm;*.xls;*.xlt;*.htm;*.html;*.mht;*.mhtml;*.xml;*.xla;*.xlm;*.odc</translation>
+    </message>
+    <message>
+        <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
+        <comment>et_sChartLabelFormulaNotValid</comment>
+        <translation>参照が正しくありません。タイトル、値、サイズまたはデータラベルに対する参照は単一のセル、行列でなければなりません。</translation>
+    </message>
+    <message>
+        <source>Because of some following conditions, SplitSheet can not be finished! 
+•ArrayFomular. 
+•PivotTable. 
+•Other features that affects SplitSheet.</source>
+        <comment>et_sSplitSheetError</comment>
+        <translation>以下いずれかの原因で、テーブルの分割に失敗しました。
+·配列数式
+·ピポットテーブル
+·その他のテーブル分割に影響する機能</translation>
+    </message>
+    <message>
+        <source>Print Entire Workbook directly</source>
+        <comment>et_sRecentPrint_PrintEntireDirect</comment>
+        <translation>ブック全体を印刷します</translation>
     </message>
 </context>
 </TS>

@@ -35,7 +35,7 @@
     <message>
         <source>Prompt</source>
         <extracomment>et -&gt; developer -&gt; Macros -&gt; chooice a macro -&gt; Options -&gt; Shortcut key: = -&gt; OK</extracomment>
-        <translation>Monituj</translation>
+        <translation>Podpowiedź</translation>
     </message>
     <message>
         <source>Shortcut key must be a letter.</source>
@@ -68,7 +68,8 @@
     <message>
         <source>&amp;Edit</source>
         <extracomment>wps -&gt; Developer -&gt; Macros</extracomment>
-        <translation>&amp;Edytuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Edycja</translation>
     </message>
     <message>
         <source>&amp;Create</source>
@@ -114,7 +115,8 @@ developer -&gt; Macros -&gt; delete
 Theoretically, will not displayed any where.
 ----------
 developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&gt; Create</extracomment>
-        <translation>Monituj</translation>
+        <translatorcomment>Monit</translatorcomment>
+        <translation>Podpowiedź</translation>
     </message>
     <message>
         <source>The macros in this project are disabled.</source>
@@ -147,7 +149,7 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>&quot;%1&quot; contains macros.</source>
         <extracomment>wps -&gt; Security -&gt; set to medium -&gt; open a file with macro</extracomment>
-        <translation>&quot;%1&quot; zawiera makra.</translation>
+        <translation>Plik &quot;%1&quot; zawiera makra.</translation>
     </message>
     <message>
         <source>Macros may contain viruses. It is always safe to disable macros, but if the macros are legitimate, you might lose some functionality.</source>
@@ -175,66 +177,79 @@ developer -&gt; Macros -&gt; Macro in:(choose 2nd) -&gt; Macro name:( xxx, ) -&g
     <message>
         <source>Security</source>
         <extracomment>developer -&gt; Security</extracomment>
-        <translation>Zabezpieczenia</translation>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Bezpieczeństwo makr</translation>
     </message>
     <message>
         <source>&amp;Security Level</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Poziom &amp;zabezpieczeń</translation>
     </message>
     <message>
         <source>Only macros installed in trusted locations will be allowed to run. All other signed and unsigned macros are disabled.</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Będą uruchamiane tylko makra zainstalowane w zaufanych lokalizacjach. Wszystkie inne zarejestrowane i niezarejestrowane makra zostaną wyłączone.</translation>
     </message>
     <message>
         <source>&amp;Very high</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>&amp;Bardzo wysokie</translation>
     </message>
     <message>
         <source>Only signed macros from trusted sources will be allowed to run. Unsigned macros are automatically disabled.</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Będą uruchamiane tylko podpisane makra pochodzące z zaufanych źródeł. Makra niepodpisane zostaną automatycznie wyłączone.</translation>
     </message>
     <message>
         <source>&amp;High</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>&amp;Wysokie</translation>
     </message>
     <message>
         <source>&amp;Medium</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Śre&amp;dnie</translation>
     </message>
     <message>
         <source>You can choose whether or not to run potentially unsafe macros.</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Możesz zdecydować, czy uruchamiać potencjalnie niebezpieczne makra.</translation>
     </message>
     <message>
         <source>You are not protected from potentially unsafe macros. Use this setting only if you have virus scanning software installed, or you have checked the safety of all documents you open.</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Użytkownik nie będzie chroniony przed potencjalnie niebezpiecznymi makrami. Użyj tego ustawienia tylko wtedy, gdy masz zainstalowane oprogramowanie skanujące w poszukiwaniu wirusów lub masz pewność, że wszystkie otwierane dokumenty są bezpieczne.</translation>
     </message>
     <message>
         <source>&amp;Low(not recommended)</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>&amp;Niskie (niezalecane)</translation>
     </message>
     <message>
         <source>&amp;Trusted Publishers</source>
         <extracomment>developer -&gt; Security</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>&amp;Zaufani wydawcy</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
         <extracomment>developer -&gt; Security -&gt; Trusted Publishers</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>&amp;Usuń</translation>
     </message>
     <message>
         <source>Trust access to &amp;Visual Basic Project</source>
         <extracomment>developer -&gt; Security -&gt; Trusted Publishers</extracomment>
+        <translatorcomment>Writer, Spreadsheet oraz Presentation Styl wstążki-&gt;Deweloper-&gt;Bezpieczeństwo makr lub Styl klasyczny-&gt;Narzędzia-&gt;Makra - tak jest ok</translatorcomment>
         <translation>Ufaj dostępowi do programu Visual Basic Proj&amp;ect</translation>
     </message>
 </context>

@@ -87,16 +87,36 @@ Are you sure to close?</source>
         <translation>Um ficheiro de som deste documento está a ser exportado. 
 Tem a certeza de que pretende fechar?</translation>
     </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>A avaliação de hoje está prestes a terminar. 
+Torne-se um VIP para desfrutar da utilização ilimitada desta funcionalidade.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>A sua avaliação terminou. 
+Torne-se um VIP para continuar a utilizar.</translation>
+    </message>
+    <message>
+        <source>Only VIP enjoy unlimited use of Text Speech.</source>
+        <translation>Apenas os VIP desfrutam de utilização ilimitada do Texto em Voz.</translation>
+    </message>
+    <message>
+        <source>Become a VIP and you can have 14 exclusive features including Text Speech!</source>
+        <translation>Torne-se um VIP e terá 14 funcionalidades exclusivas, incluindo o Texto em Voz!</translation>
+    </message>
 </context>
 <context>
     <name>KxSpeakAbstractOutputCommand</name>
     <message>
         <source>WPS Audio</source>
-        <translation>WPS Audio</translation>
+        <translation>Áudio do WPS</translation>
     </message>
     <message>
         <source>Waveform Audio Files (*.wav)</source>
-        <translation>Ficheiro Waveform Audio Format (*.wav)</translation>
+        <translation>Ficheiro de áudio do Windows (*.wav)</translation>
     </message>
 </context>
 <context>
@@ -118,6 +138,18 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     <message>
         <source>The selected content cannot be transferred to speech. Please reselect.</source>
         <translation>O conteúdo selecionado não pode ser transferido para voz. Volte a selecionar.</translation>
+    </message>
+    <message>
+        <source>Your trial for today is ending soon. 
+Become a VIP for unlimited use of this feature.</source>
+        <translation>A avaliação de hoje está prestes a terminar. 
+Torne-se um VIP para desfrutar da utilização ilimitada desta funcionalidade.</translation>
+    </message>
+    <message>
+        <source>Your trial has ended. 
+Become a VIP to continue using.</source>
+        <translation>A sua avaliação terminou. 
+Torne-se um VIP para continuar a utilizar.</translation>
     </message>
 </context>
 <context>
@@ -144,7 +176,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>Pause</source>
-        <translation>Pause</translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -230,7 +262,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>Pause</source>
-        <translation>Pause</translation>
+        <translation>Pausa</translation>
     </message>
     <message>
         <source>Setting</source>
@@ -266,7 +298,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>Failed to start local reading engine.</source>
-        <translation>Falha ao iniciar motor local de leitural.</translation>
+        <translation>Falha ao iniciar motor de leitura local.</translation>
     </message>
     <message>
         <source>Failed to acquire certification from speech server.</source>
@@ -318,7 +350,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>Failed to request next reading content.</source>
-        <translation>Falha ao pedir o conteúdo de leitura seguinte.</translation>
+        <translation>Falha ao pedir conteúdo de leitura seguinte.</translation>
     </message>
     <message>
         <source>Failed to read content.</source>
@@ -330,7 +362,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>WPS Text Reading Client.</source>
-        <translation>Cliente de leitura de texto do WPS.</translation>
+        <translation>Cliente de Leitura de Texto do WPS.</translation>
     </message>
     <message>
         <source>Warning</source>
@@ -353,7 +385,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     <name>SpeakerIv</name>
     <message>
         <source>IVTTS - failed to allocate heap memory for content.</source>
-        <translation>IVTTS - falha ao alocar memória da área de dados dinâmicos para o conteúdo.</translation>
+        <translation>IVTTS - falha ao alocar a memória da área dinâmica para dados para o conteúdo.</translation>
     </message>
     <message>
         <source>IVTTS - invalid role index: </source>
@@ -369,7 +401,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>IVTTS - failed to create TTS session.</source>
-        <translation>IVTTS - falha ao criar seção de TTS.</translation>
+        <translation>IVTTS - falha ao criar sessão de TTS.</translation>
     </message>
     <message>
         <source>IVTTS - failed to assign output callback.</source>
@@ -405,7 +437,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     </message>
     <message>
         <source>IVTTS - failed to read text.</source>
-        <translation>IVTTS - falha ao ler o texto.</translation>
+        <translation>IVTTS - falha ao ler texto.</translation>
     </message>
     <message>
         <source>IVTTS - failed to create speech for the text.</source>
@@ -436,7 +468,7 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
     <name>SpeakerSettingDlg</name>
     <message>
         <source>speaker setting</source>
-        <translation>definição do altifalante</translation>
+        <translation>Definições do Altifalante</translation>
     </message>
     <message>
         <source>Voice Properties</source>
@@ -560,6 +592,24 @@ Verifique o ícone de buzina no canto inferior direito do Ambiente de Trabalho.<
 Check the horn icon at the bottom-right corner of Desktop.</source>
         <translation type="obsolete">O Altifalante de PC foi ativado?
 Se necessário, verifica-o no canto inferior direito no ambiente de trabalho.</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipButtonGroup</name>
+    <message>
+        <source>Close</source>
+        <translation>Fechar</translation>
+    </message>
+    <message>
+        <source>Become a VIP</source>
+        <translation>Torne-se um VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxPeriodTipLink</name>
+    <message>
+        <source>More about VIP</source>
+        <translation>Torne-se um VIP para continuar a utilizar a função e desfrutar de mais serviços!</translation>
     </message>
 </context>
 </TS>

@@ -23,6 +23,10 @@
         <source>Trial Version</source>
         <translation>Demo-Version</translation>
     </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>Schreibgeschützter Modus</translation>
+    </message>
 </context>
 <context>
     <name>KBevelModel</name>
@@ -65,7 +69,7 @@
     <name>KColorCombobox</name>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">Keine Farbe</translation>
+        <translation>Keine Farbe</translation>
     </message>
     <message>
         <source>&amp;Fill effects...</source>
@@ -325,15 +329,15 @@
     </message>
     <message>
         <source>Add to</source>
-        <translation>Hinzufügen zu</translation>
+        <translation type="obsolete">Hinzufügen zu</translation>
     </message>
     <message>
         <source>Customize Quick Access</source>
-        <translation>Schnellzugriff anpassen</translation>
+        <translation type="obsolete">Schnellzugriff anpassen</translation>
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>Sc&amp;hnellzugriff verstecken</translation>
+        <translation type="obsolete">Sc&amp;hnellzugriff verstecken</translation>
     </message>
 </context>
 <context>
@@ -485,6 +489,10 @@
     <message>
         <source>Style</source>
         <translation>Formatvorlage</translation>
+    </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation>Mehrere Stile</translation>
     </message>
 </context>
 <context>
@@ -759,6 +767,10 @@
         <source>Modified time: </source>
         <translation>Zeitpunkt der Änderung: </translation>
     </message>
+    <message>
+        <source>Super Recover</source>
+        <translation>Superwiederherstellung</translation>
+    </message>
 </context>
 <context>
     <name>KOrientationCtrl</name>
@@ -999,7 +1011,7 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     </message>
     <message>
         <source>From &amp;Picture</source>
-        <translation>Aus &amp;Bild</translation>
+        <translation type="obsolete">Aus &amp;Bild</translation>
     </message>
     <message>
         <source>From &amp;Online Picture</source>
@@ -1008,6 +1020,10 @@ Ungültiger Datensatz. Diese Datei wurde möglicherweise umbenannt, gelöscht od
     <message>
         <source>Preset Texture</source>
         <translation>Voreingestellte Textur</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation>Von &amp;Bild...</translation>
     </message>
 </context>
 <context>
@@ -1231,7 +1247,7 @@ Installieren Sie WPS Office neu.</translation>
     <name>QMainWindow</name>
     <message>
         <source>Document List</source>
-        <translation>Dokumentliste</translation>
+        <translation type="obsolete">Dokumentliste</translation>
     </message>
     <message>
         <source>Next Document</source>
@@ -1303,6 +1319,10 @@ Installieren Sie WPS Office neu.</translation>
         <source>Delete from List</source>
         <translation>Aus Liste löschen</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automatisch</translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
@@ -1341,6 +1361,202 @@ Installieren Sie WPS Office neu.</translation>
     <message>
         <source>&amp;Color</source>
         <translation>&amp;Farbe</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>Da die Datei groß ist, nimmt der Sicherungsvorgang einige Zeit in Anspruch.</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation>Drücken Sie ESC, um die Sicherung abzubrechen oder</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>richten Sie ein Intervall für die automatische Sicherung ein</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished">Ordner öffnen</translation>
+    </message>
+</context>
+<context>
+    <name>KMRUCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">„%1“ kann nicht geöffnet werden.
+Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOrganizerDescription</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Abbrechen</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation>Mehr Befehle</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation>Von Schnellzug&amp;riff-Toolbar entfernen</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translation type="obsolete">Symbolleiste für den Schnellzugriff &amp;anpassen</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>Symbolleiste für den Schnellzugriff anpassen</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>Schnellzugriff anpassen</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation type="obsolete">Synchronisierung fehlgeschlagen</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>Weitere Befehle...</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Anmelden</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">Diese Aktion ist nur lokal wirksam. Melden Sie sich an, um weitere Geräte zu synchronisieren.</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Anmelden</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Schließen</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>ZellenInPopupEinfügen</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -168,7 +168,52 @@
         <source>This function is offered in WPS Office 2009 Professional.</source>
         <comment>AEO_SHIELD_ObjectPathConvert</comment>
         <translatorcomment>このファンクションがKingsoft Office プロフェッショナル版で提供します。</translatorcomment>
-        <translation>この機能はKingsoft Office 2009 Professional版に提供されています。</translation>
+        <translation>この機能はWPS Office 2009 Professional版に提供されています。</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_HIDE</comment>
+        <translation>ビデオ</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_LOOP</comment>
+        <translation>ビデオ</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_REWIND</comment>
+        <translation>ビデオ</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_VIDEO_FULLSCREEN</comment>
+        <translation>ビデオ</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_VOL</comment>
+        <translation>ビデオ</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <comment>AEO_MEDIA_PLAYMODE</comment>
+        <translation>ビデオ</translation>
+    </message>
+    <message>
+        <source>: Straight Connector </source>
+        <comment>AEO_STRAIGHT_CONNECTOR_SHAPE</comment>
+        <translation>:直線コネクタ</translation>
+    </message>
+    <message>
+        <source>: Bend Connector </source>
+        <comment>AEO_BEND_CONNECTOR_SHAPE</comment>
+        <translation>:ベンドコネクタ</translation>
+    </message>
+    <message>
+        <source>: Curve Connector </source>
+        <comment>AEO_CURVE_CONNECTOR_SHAPE</comment>
+        <translation>:曲線コネクタ</translation>
     </message>
 </context>
 <context>
@@ -384,13 +429,28 @@ Would you like to open this file?
     <message>
         <source>WPS Presentation cannot be found or start %s. </source>
         <comment>WpInvalidateProgram</comment>
-        <translation>Kingsoft Presentationが見つかりません。あるいは、%sを起動できません。</translation>
+        <translation>WPS Presentationが見つかりません。あるいは、%sを起動できません。</translation>
     </message>
     <message>
         <source>Innovation·Research·Customer·Result·Sincerity WPS Office 2010</source>
         <comment>WpWPSOffice2007</comment>
         <translatorcomment>創新·学習·客様·結果·信頼   Kingsoft Office 2010</translatorcomment>
-        <translation>革新 調査 ユーザー 結果・誠実 Kingsoft Office 2010</translation>
+        <translation>革新 調査 ユーザー 結果・誠実 WPS Office 2010</translation>
+    </message>
+    <message>
+        <source>Capture Player</source>
+        <comment>WpPlayCapture</comment>
+        <translation>講演記録</translation>
+    </message>
+    <message>
+        <source>Loading...</source>
+        <comment>WpPlayCaptureInReady</comment>
+        <translation>ロード中...</translation>
+    </message>
+    <message>
+        <source>Failed Loading</source>
+        <comment>WpPlayCaptureFailed</comment>
+        <translation>ロードに失敗しました</translation>
     </message>
 </context>
 <context>
@@ -866,7 +926,7 @@ Would you like to open this file?
     <message>
         <source>Click to edit Master subtitle Style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation type="obsolete">クリックしてマスタのサブタイトルスタイルを編集</translation>
+        <translation type="obsolete">マスタ サブタイトルの書式設定</translation>
     </message>
     <message>
         <source>Click to edit Master text styles
@@ -2564,7 +2624,7 @@ Please try one of the following.
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>WP_OpenFailure</comment>
-        <translation>Kingsoft Presentationは ファイルを開こうとしている時に、エラーが発生しました。
+        <translation>WPS Presentationは ファイルを開こうとしている時に、エラーが発生しました。
 次の操作を行ってください。
 
 ·文書またはドライブのアクセス権を確認してください。
@@ -2576,7 +2636,7 @@ Please try one of the following.
         <source>WPS Presentation cannot open this file, because the password is not correct.
 (%s)</source>
         <comment>WP_OpenPasswordFailure</comment>
-        <translation>パスワードが正しくないため、Kingsoft Presentationはファイルを開けません。
+        <translation>パスワードが正しくないため、WPS Presentationはファイルを開けません。
 (%s)</translation>
     </message>
     <message>
@@ -2600,7 +2660,7 @@ Note that some files may contain macro viruses and possibly perform other harmfu
     <message>
         <source>WPS Presentation Slide Show - </source>
         <comment>WPPlayerCation</comment>
-        <translation>Kingsoft Presentation スライドショー - </translation>
+        <translation>WPS Presentation スライドショー - </translation>
     </message>
     <message>
         <source>Permission for this file is currently restricted. Only WPS Presentation file format can keep those settings. If you save it as current file type, all permission settings will be lost. Do you want to continue?</source>
@@ -2614,7 +2674,7 @@ Please try one of the following.
 •Ask its creator to change the permission control level of this file.
 (%s)</source>
         <comment>WPPKRMOPENNOOWNER</comment>
-        <translation>アクセス権が十分でないため、Kingsoft Presentationはこのファイルを開けません。
+        <translation>アクセス権が十分でないため、WPS Presentationはこのファイルを開けません。
 以下の操作を行ってください。　
 別のユーザーに変更してください。
 ファイルの作成者にこのファイルの権限を変更してもらうように連絡してください。
@@ -2623,7 +2683,7 @@ Please try one of the following.
     <message>
         <source>The design template contains multiple masters. WPS Presentation has applied the first master in the template. Do you want to copy the other masters to the presentation for later use?</source>
         <comment>WP_APPLYMULTIPLEMASTERS</comment>
-        <translation>このテンプレートにはいくつかのマスタがあります。その中の最初のマスタをすでにKingsoft Presentationに適用しています。その他のマスタもプレゼンテーションにコピーし、後で使いますか。</translation>
+        <translation>このテンプレートにはいくつかのマスタがあります。その中の最初のマスタをすでにWPS Presentationに適用しています。その他のマスタもプレゼンテーションにコピーし、後で使いますか。</translation>
     </message>
     <message>
         <source>%s cannot play audio file “%s. Please make sure that the audio file is formatted with .wav, and that there is a normal audio system in your computer.</source>
@@ -2638,11 +2698,11 @@ Please try one of the following.
     <message>
         <source>Currently WPS Office only supports viewing Microsofot Office 2010 documents, you cannot save.</source>
         <comment>WP_OpenOoxmlLostEffect</comment>
-        <translation>Kingsoft Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
+        <translation>WPS Officeは、Microsoft Office 2010で作成したファイルを閲覧できますが、保存することはできません。</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;b&gt;WPS Office has identified a potential security concern.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;This presentation contains links to other files.&lt;/p&gt;&lt;p&gt;&amp;bull;If you update the links, WPS Presentation will attempt to retrieve the latest information.&lt;br&gt;&amp;bull;If you don&apos;t update the links, WPS Presentation will use the previous information.&lt;/p&gt;&lt;p&gt;Note that file links can be used to access and share confidential information without your permission and possibly perform other harmful actions. Do not update the links if you do not trust the source of this presentation.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;b&gt;Kingsoft Officeは隠れているセキュリティ問題を発見しました。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;このプレゼンテーションファイルはその他ファイルへのリンクを含めています。&lt;/p&gt;&lt;p&gt;&amp;bull;リンクを更新する場合、Presentationが最新情報を検索します。&lt;br&gt;&amp;bull;リンクを更新しない場合、Presentationが以前の情報を使用します。.&lt;/p&gt;&lt;p&gt;注意：ファイルリンクはアクセスと機密情報共有に許可なく利用できますが、実行すると影響が発生する可能性があります。このプレゼンテーションファイルのデータソースを信用しない場合は、リンクを更新しないでください。&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;b&gt;WPS Officeは隠れているセキュリティ問題を発見しました。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;このプレゼンテーションファイルはその他ファイルへのリンクを含めています。&lt;/p&gt;&lt;p&gt;&amp;bull;リンクを更新する場合、Presentationが最新情報を検索します。&lt;br&gt;&amp;bull;リンクを更新しない場合、Presentationが以前の情報を使用します。.&lt;/p&gt;&lt;p&gt;注意：ファイルリンクはアクセスと機密情報共有に許可なく利用できますが、実行すると影響が発生する可能性があります。このプレゼンテーションファイルのデータソースを信用しない場合は、リンクを更新しないでください。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>WPS Presentation cannot save or create this file.
@@ -2653,7 +2713,7 @@ Please make sure the file is not locked by another user, or the target disk is n
 ファイルは書き込みか、利用中か、デイスクが未満または破損しないかご確認ください。
 
 (%s)</translatorcomment>
-        <translation>Kingsoft Presentationはこのファイルを保存、作成できません。
+        <translation>WPS Presentationはこのファイルを保存、作成できません。
 このファイルが他のユーザーにより保護されていないか、ディスク容量がいっぱいでないか、破損していないか確認してください。
 (%s)</translation>
     </message>
@@ -2864,7 +2924,7 @@ VB項目
     <message>
         <source>We&apos;re sorry, something went wrong that might make WPS Presentation unstable. Please save your presentations and restart WPS Presentation</source>
         <comment>WP_PASTEWARNING</comment>
-        <translation>エラーが発生したため、WPS Presentationが不安定になっています。編集中のプレゼンテーションファイルを保存し、プログラムを再起動してください。</translation>
+        <translation type="obsolete">エラーが発生したため、WPS Presentationが不安定になっています。編集中のプレゼンテーションファイルを保存し、プログラムを再起動してください。</translation>
     </message>
     <message>
         <source>art_mountaineering</source>
@@ -3133,23 +3193,161 @@ VB項目
     </message>
     <message>
         <source>Objects in this document contain links to files that cannot be found. The linked information will not be updated.</source>
-        <translation type="unfinished"></translation>
+        <translation>このドキュメントのオブジェクトは、存在しないファイルへのリンクが含まれています。このリンク情報は更新されません。</translation>
     </message>
     <message>
         <source>The linked file is unavailable and can&apos;t be updated.</source>
         <comment>WP_LINKEDFILENOTAVALILABLE</comment>
-        <translation type="unfinished"></translation>
+        <translation>リンクされたファイルは利用できないため、更新できません。</translation>
     </message>
     <message>
         <source>Document has been locked by %s, Do you want to open it as read-only?
 (%s)</source>
         <comment>WP_SaveFailureLockedByUser</comment>
-        <translation type="unfinished"></translation>
+        <translation>ドキュメントは %s によりロックされています。読み取り専用で開きますか？</translation>
     </message>
     <message>
         <source>Click to edit Master subtitle style</source>
         <comment>WP_TEXT_OF_SUBTITLE_IN_MASTER</comment>
-        <translation>クリックしてマスタのサブタイトルスタイルを編集</translation>
+        <translation>マスタ サブタイトルの書式設定</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Title Here</source>
+        <comment>WP_ENTERTITLETIP</comment>
+        <translation>クリックしてタイトルを入力</translation>
+    </message>
+    <message>
+        <source>Please Enter Your SubTitle Here</source>
+        <comment>WP_ENTERSUBTITLETIP</comment>
+        <translation>クリックしてサブタイトルを入力</translation>
+    </message>
+    <message>
+        <source>Please Enter Your Text Here.</source>
+        <comment>WP_ENTERTEXTTIP</comment>
+        <translation>テキストを入力</translation>
+    </message>
+    <message>
+        <source>PresetLayout</source>
+        <comment>WP_PRESETLAYOUT</comment>
+        <translation>デフォルトレイアウト</translation>
+    </message>
+    <message>
+        <source>Slide%1.%2</source>
+        <comment>WP_EXPORTSLIDENAME</comment>
+        <translation>スライド%1.%2</translation>
+    </message>
+    <message>
+        <source>Default Section</source>
+        <comment>WP_DEFAULT_SECTION</comment>
+        <translation>既定のセクション</translation>
+    </message>
+    <message>
+        <source>(%d slide)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDE</comment>
+        <translation>（%d スライド）</translation>
+    </message>
+    <message>
+        <source>(%d slides)</source>
+        <comment>WP_SECTION_TOOLTIP_SLIDES</comment>
+        <translation>（%d スライド）</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WP_UNTITLED_SECTION</comment>
+        <translation>タイトルなしのセクション</translation>
+    </message>
+    <message>
+        <source>The sections in this version of WPS Presentation will be lost</source>
+        <comment>WP_COMPATIBILITYCHECKER_SECTIONS</comment>
+        <translation>このWPS Presentationバージョンに保存したセクションが失わる可能になります</translation>
+    </message>
+    <message>
+        <source>The table and any text in it cannot be edited when using earlier version of WPS Presentation (slide %1)</source>
+        <comment>WP_COMPATIBILITYCHECKER_OBJTABLES</comment>
+        <translation>WPS Presentationの古いバージョンを利用する場合、表とテキストを編集することができません。(スライド %1)</translation>
+    </message>
+    <message>
+        <source>These embed font(s) in this file has not loaded because they are preview and print only.
+
+</source>
+        <comment>WP_PreviewOnlyEmbedFonts</comment>
+        <translation>以下のフォントがロードできません:
+
+</translation>
+    </message>
+    <message>
+        <source>WPS</source>
+        <comment>WP_CONVERTDIAGRAMTITLE</comment>
+        <translation>WPS Office</translation>
+    </message>
+    <message>
+        <source>To continue saving as a WPS Presentation, you must convert all diagrams either to SmartArt graphics or to shapes.
+
+When converting to SmartArt graphics, any cell references previously applied to the diagrams will be removed. When converting to shapes, any animation previously applied to the diagrams will be removed.</source>
+        <comment>WP_CONVERTDIAGRAMCONTENT</comment>
+        <translation>WPS Presentationファイルに保存するには、すべてのダイアグラムをスマート図形または図形に変換する必要があります。
+		
+スマート図形に変換すると、ダイアグラムに適用したすべてのセル参照が削除されます。図形に変換すると、ダイアグラムに適用したすべてのアニメーションが削除されます。
+		</translation>
+    </message>
+    <message>
+        <source>Convert to SmartArt Graphic</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP1</comment>
+        <translation>スマート図形に変換(G)</translation>
+    </message>
+    <message>
+        <source>Convert to Shapes</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP2</comment>
+        <translation>図形に変換(S)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <comment>WP_CONVERTDIAGRAMBUTTONTIP3</comment>
+        <translation>キャンセル</translation>
+    </message>
+    <message>
+        <source>WPS Writer AaBbCc</source>
+        <translation type="obsolete">WPS Writer AaBbCc</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error when trying to paste picture. There may be an error in picture data.</source>
+        <comment>WP_PASTEWARNING</comment>
+        <translation>WPS Presentationは、画像の貼り付け時にエラーが発生しました。画像データ内でエラーが発生している可能性があります。</translation>
+    </message>
+    <message>
+        <source>WPS Presentation encountered an error when trying to paste picture. This error can be caused by one of the following:
+• There may be an error in picture data.
+• Some opened files may be consuming too many system resources. Save and reopen these files, and try again.</source>
+        <comment>WP_PASTEWARNINGWITHMEMORY</comment>
+        <translation>WPS Presentationは、画像の貼り付け時にエラーが発生しました。以下の原因が考えられます。
+・画像データ自体にエラーが発生している
+・複数ファイルを開いているシステムリソースを消費します。これらのファイルを保存して閉じてから、再試行してください。</translation>
+    </message>
+    <message>
+        <source>The specified file %s is unsupported. Please click OK and specify another file type in the Save As dialog box.</source>
+        <comment>WP_SAVE_FORMAT_NOT_COMPATIBLE_ODP</comment>
+        <translation>指定したファイル %sがサポートされません。[OK]をクリックして、他のファイル形式を選択してください。</translation>
+    </message>
+    <message>
+        <source>Title Slide</source>
+        <comment>WP_TITLE_SLIDE_LAYOUT_NAME</comment>
+        <translation>タイトル スライド</translation>
+    </message>
+    <message>
+        <source>Sorry, you can not load the %1 add-in for some reason.</source>
+        <translation>一部の原因で、アドイン %1をロードできません。</translation>
+    </message>
+    <message>
+        <source>Do you want to delete all the notes in this presentation?</source>
+        <translation>このスライド内のすべてのノートを削除しますか？</translation>
+    </message>
+    <message>
+        <source>There is already an open addin named %1</source>
+        <translation>名前が %1の開いているアドインが既に存在します。</translation>
+    </message>
+    <message>
+        <source>Lack of files for this function, please contact the administrator for configuration file.</source>
+        <translation>この機能の一部のファイルがありません。管理者に連絡してください。</translation>
     </message>
 </context>
 <context>
@@ -3207,12 +3405,12 @@ VB項目
     <message>
         <source>Footer Area</source>
         <comment>WpPLACEHOLDER_MST_FOOTER</comment>
-        <translation>フッター エリア</translation>
+        <translation>フッター</translation>
     </message>
     <message>
         <source>Header Area</source>
         <comment>WpPLACEHOLDER_MST_HEADER</comment>
-        <translation>ヘッダー エリア</translation>
+        <translation>ヘッダー</translation>
     </message>
     <message>
         <source>Number Area</source>
@@ -5224,7 +5422,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>On Click</source>
         <comment>wpp_sHintOnPageClick</comment>
-        <translation>左クリック時に</translation>
+        <translation>クリック時</translation>
     </message>
     <message>
         <source>On-screen Show</source>
@@ -6103,7 +6301,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>User Feedback</source>
         <comment>wpp_sFeedbackMailTitle</comment>
-        <translation>Kingsoft Office Presentationの改善要望</translation>
+        <translation>WPS Office Presentationの改善要望</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -6263,7 +6461,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
         <comment>wpp_sRemoveDefaultDict</comment>
-        <translation>ユーザー辞書を削除すると他のKingsoft Officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
+        <translation>ユーザー辞書を削除すると他のWPS Officeアプリケーションで使用されるユーザー辞書に影響を与える可能性があります。操作を続けますか?</translation>
     </message>
     <message>
         <source>Out Slightly</source>
@@ -6343,17 +6541,17 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</source>
         <comment>DgExts_MovieFiles</comment>
-        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
+        <translation type="obsolete">*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx</translation>
     </message>
     <message>
         <source>*.au;*.snd</source>
         <comment>DgExts_AIFFAudioFile</comment>
-        <translation>*.au;*.snd</translation>
+        <translation type="obsolete">*.au;*.snd</translation>
     </message>
     <message>
         <source>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw</source>
         <comment>DgExts_SoundFiles</comment>
-        <translation>*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax</translation>
+        <translation type="obsolete">*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax</translation>
     </message>
     <message>
         <source>*.avi</source>
@@ -6368,12 +6566,12 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>*.mp3;*.m3u</source>
         <comment>DgExts_Mp3AudioFile</comment>
-        <translation>*.mp3;*.m3u</translation>
+        <translation type="obsolete">*.mp3;*.m3u</translation>
     </message>
     <message>
         <source>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</source>
         <comment>DgExts_MovieFileMpeg</comment>
-        <translation>*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
+        <translation type="obsolete">*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa</translation>
     </message>
     <message>
         <source>*.swf</source>
@@ -6388,7 +6586,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>*.wma;*.waw</source>
         <comment>DgExts_WindowsMediaAudioFile</comment>
-        <translation>*.wma;*.wax</translation>
+        <translation type="obsolete">*.wma;*.wax</translation>
     </message>
     <message>
         <source>*.wmv;*.wvx</source>
@@ -6453,7 +6651,7 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>AU Audio File(au) (*.au;*.snd)</source>
         <comment>DgDesc_AIFFAudioFile</comment>
-        <translation>AU オーディオ ファイル(au) (*.au;*.snd)</translation>
+        <translation type="obsolete">AU オーディオ ファイル(au) (*.au;*.snd)</translation>
     </message>
     <message>
         <source>Action Settings</source>
@@ -6513,12 +6711,12 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
     <message>
         <source>Can&apos;t Redo</source>
         <comment>WpCANNOTREDO_CAPTION</comment>
-        <translation>やり直しできません</translation>
+        <translation>やり直し</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>WpCANNOTUNDO_CAPTION</comment>
-        <translation>元に戻せません</translation>
+        <translation>元に戻す</translation>
     </message>
     <message>
         <source>Change Case</source>
@@ -6625,7 +6823,7 @@ Spelling</source>
     <message>
         <source>Do you want to save the changes you made to %s?</source>
         <comment>WpPROMPTTOSAVE</comment>
-        <translation>“%s”は変更されました。保存しますか。</translation>
+        <translation>“%s” の変更を保存しますか？</translation>
     </message>
     <message>
         <source>Drag-and-Drop</source>
@@ -6961,7 +7159,7 @@ Spelling</source>
     <message>
         <source>MP3 Audio File(mp3) (*.mp3;*.m3u)</source>
         <comment>DgDesc_Mp3AudioFile</comment>
-        <translation>MP3 オーディオ ファイル(mp3) (*.mp3;*.m3u)</translation>
+        <translation type="obsolete">MP3 オーディオ ファイル(mp3) (*.mp3;*.m3u)</translation>
     </message>
     <message>
         <source>Master Layout</source>
@@ -6981,12 +7179,12 @@ Spelling</source>
     <message>
         <source>Movie File(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</source>
         <comment>DgDesc_MovieFileMpeg</comment>
-        <translation>ムービーファイル(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
+        <translation type="obsolete">ムービーファイル(mpeg) (*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa)</translation>
     </message>
     <message>
         <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</source>
         <comment>DgDesc_MovieFiles</comment>
-        <translation>ビデオ ファイル (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
+        <translation type="obsolete">ビデオ ファイル (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mpeg;*.mpg;*.mpe;*.m1v;*.mpv2;*.mp2v;*.mpa;*.wmv;*.wvx)</translation>
     </message>
     <message>
         <source>New Blank Presentation</source>
@@ -7220,7 +7418,7 @@ Layout</source>
     <message>
         <source>Sound Files (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.waw)</source>
         <comment>DgDesc_SoundFiles</comment>
-        <translation>サウンド ファイル (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax)</translation>
+        <translation type="obsolete">サウンド ファイル (*.au;*.snd;*.mp3;*.m3u;*.mid;*.midi;*.rmi;*.wav;*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Speaker Notes</source>
@@ -7315,7 +7513,7 @@ Layout</source>
     <message>
         <source>Windows Media Audio File(wma) (*.wma;*.waw)</source>
         <comment>DgDesc_WindowsMediaAudioFile</comment>
-        <translation>Windows メディア オーディオ ファイル(wma) (*.wma;*.wax)</translation>
+        <translation type="obsolete">Windows メディア オーディオ ファイル(wma) (*.wma;*.wax)</translation>
     </message>
     <message>
         <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz)</source>
@@ -7394,7 +7592,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>All Files(*.*)</source>
         <comment>WpDescAll</comment>
-        <translation type="unfinished"></translation>
+        <translation>すべてのファイル(*.*)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)</source>
@@ -7409,39 +7607,39 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Chinese Office Document Format(*.uof)</source>
         <comment>WpDescUOF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Office Document 形式(*.uof)</translation>
     </message>
     <message>
         <source>Chinese Office Document Format 2.0(*.uop)</source>
         <comment>WpDescUOF2</comment>
-        <translation type="unfinished"></translation>
+        <translation>Chinese Office Document 形式 2.0(*.uop)</translation>
     </message>
     <message>
         <source>JPEG File Interchange Format(*.jpg)</source>
         <comment>WpDescJPEG</comment>
-        <translation type="unfinished"></translation>
+        <translation>JPEG ファイル交換形式(*.jpg)</translation>
     </message>
     <message>
         <source>PNG Portable Network Graphics Format(*.png)</source>
         <comment>WpDescPNG</comment>
-        <translation type="unfinished"></translation>
+        <translation>PNG ポータブル ネットワーク形式(*.png)</translation>
     </message>
     <message>
         <source>TIFF Tag Image File Format(*.tif)</source>
         <comment>WpDescTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>TIFF 形式(*.tif)</translation>
     </message>
     <message>
         <source>Device Independent Bitmap(*.bmp)</source>
         <comment>WpDescBMP</comment>
-        <translation type="unfinished"></translation>
+        <translation>デバイスに依存しないビットマップ(*.bmp)</translation>
     </message>
     <message>
         <source>Each slide in your presentation has been saved as a separate file in the folder
 %s .</source>
         <comment>WpSAVEIMAGEHINT</comment>
         <translatorcomment>スライドは、個別のファイルとして %s フォルダに保存されました。</translatorcomment>
-        <translation>プレゼンテーション内の書くスライドは、%sフォルダに別々のファイルとして保存されました。</translation>
+        <translation>プレゼンテーション内の各スライドは、%sフォルダに別々のファイルとして保存されました。</translation>
     </message>
     <message>
         <source>AddPlaceholder</source>
@@ -7451,12 +7649,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</source>
         <comment>WP_OPENFILEEX</comment>
-        <translation type="obsolete">すべてのファイル(*.*)|*.*|一般のフィアル(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|WPS Presentation ファイル(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 テンプレート(*.dptx)|*.dptx|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)|*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx|Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation Templates(*.dpt)|*.dpt|Kingsoft Presentation 2007/2010 Files(*.dpsx)|*.dpsx|Kingsoft Presentation 2007-2016 テンプレート(*.dptx)|*.dptx|Microsoft PowerPoint 97-2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97-2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007-2016 Presentations(*.pptx; *.ppsx)|*.pptx; *.ppsx</translation>
     </message>
     <message>
         <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm</source>
         <comment>WP_OPENFILE</comment>
-        <translation type="obsolete">すべてのファイル(*.*)|*.*|一般のフィアル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation ファイル(*.dps)|*.dps|WPS Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation テンプレート(*.potx; *.potm)|*.potx; *.potm</translation>
+        <translation type="obsolete">すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|Kingsoft Presentation ファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 97-2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97-2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007-2016 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007-2016 Presentation テンプレート(*.potx; *.potm)|*.potx; *.potm</translation>
     </message>
     <message>
         <source>Audio Video Interleave(*.avi)|*.avi</source>
@@ -7466,7 +7664,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</source>
         <comment>WP_TEMPLATEFILE</comment>
-        <translation>一般ファイル(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</translation>
+        <translation>一般のファイル(*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*.potx;*.potm;*.thmx)|*.dps; *.dpt; *.ppt; *.pptm; *.pps; *.ppsm; *.ppsx; *.pot; *.pptx;*potx;*.potm;*.thmx</translation>
     </message>
     <message>
         <source>Edit Chart Datasource</source>
@@ -7516,7 +7714,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>WPS Presentation 2007/2010 Files(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 Templates(*.dptx)|*.dptx|WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
         <comment>WP_SAVEFILEEX</comment>
-        <translation type="obsolete">WPS Presentation 2007/2010 ファイル(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 テンプレート(*.dptx)|*.dptx|WPS Presentation Fファイル(*.dps)|*.dps|WPS Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 スライドショー(*.pps)|*.pps</translation>
+        <translation type="obsolete">Kingsoft Presentation 2007/2010 ファイル(*.dpsx)|*.dpsx|Kingsoft Presentation 2007/2010 テンプレート(*.dptx)|*.dptx|Kingsoft Presentation Fファイル(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 2000/XP/2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps</translation>
     </message>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps</source>
@@ -7526,7 +7724,7 @@ This backup will be saved to(%s)</source>
     <message>
         <source>WPS Presentation File(*.dps)|*.dps|WPS Presentation Template(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation Template(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 Show(*.pps)|*.pps|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation(*.pptm)|*.pptm|Microsoft PowerPoint 2007/2010 Presentation Template(*.potx)|*.potx|Microsoft PowerPoint 2007/2010 Macro Enabled Presentation Template(*.potm)|*.potm|Microsoft PowerPoint 2007/2010 Show(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007/2010 Macro Enabled Show(*.ppsm)|*.ppsm</source>
         <comment>WP_SAVEFILE</comment>
-        <translation type="obsolete">WPS Presentation 2007/2010 ファイル(*.dpsx)|*.dpsx|WPS Presentation 2007/2010 テンプレート(*.dptx)|*.dptx|WPS Presentation Fファイル(*.dps)|*.dps|WPS Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2007/2010 Presentation(*.pptx)|*.pptx|Microsoft PowerPoint 97/2000/XP/2003 Presentation(*.ppt)|*.ppt|Microsoft PowerPoint 97/2000/XP/2003 Presentation テンプレート(*.pot)|*.pot|Microsoft PowerPoint 97/2000/XP/2003 スライドショー(*.pps)|*.pps</translation>
+        <translation>Kingsoft Presentation(*.dps)|*.dps|Kingsoft Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 2000/XP/2003 ファイル(*.ppt)|*.ppt|Microsoft PowerPoint 2000/XP/2003 テンプレート(*.pot)|*.pot|Microsoft PowerPoint 2000/XP/2003 スライドショー(*.pps)|*.pps|Microsoft PowerPoint 2007-2016 ファイル(*.pptx)|*.pptx|Microsoft PowerPoint 2007-2016 マクロ有効プレゼンテーション(*.pptm)|*.pptm|Microsoft PowerPoint 2007-2016 テンプレート(*.potx)|*.potx|Microsoft PowerPoint 2007-2016 マクロ有効テンプレート(*.potm)|*.potm|Microsoft PowerPoint 2007-2016 スライドショー(*.ppsx)|*.ppsx|Microsoft PowerPoint 2007-2016 マクロ有効スライドショー(*.ppsm)|*.ppsm</translation>
     </message>
     <message>
         <source>Windows Media Video(*.wmv)|*.wmv</source>
@@ -7536,12 +7734,12 @@ This backup will be saved to(%s)</source>
     <message>
         <source>\WPS Image\WPS Image</source>
         <comment>WpImageSaveRelativePath</comment>
-        <translation>\Kingsoft 画像\Kingsoft 画像</translation>
+        <translation>\WPS 画像\WPS 画像</translation>
     </message>
     <message>
         <source>\WPS Video\WPS Video</source>
         <comment>WpVideoSaveRelativePath</comment>
-        <translation>\Kingsoft ビデオ\Kingsoft ビデオ</translation>
+        <translation>\WPS ビデオ\WPS ビデオ</translation>
     </message>
     <message>
         <source>|</source>
@@ -7556,42 +7754,42 @@ This backup will be saved to(%s)</source>
     <message>
         <source>Update Link</source>
         <comment>WpUPDATELINK</comment>
-        <translation type="unfinished"></translation>
+        <translation>リンク更新</translation>
     </message>
     <message>
         <source>Hyperlink</source>
         <comment>TX_WPP_CF_HYPERLINK</comment>
-        <translation type="unfinished">ハイパーリンク</translation>
+        <translation>ハイパーリンク</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</source>
         <comment>WpDescCommon</comment>
-        <translation type="unfinished"></translation>
+        <translation>一般のファイル (*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)</translation>
     </message>
     <message>
         <source>Common Files(*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</source>
         <comment>WpDescCommonEX</comment>
-        <translation type="unfinished"></translation>
+        <translation>一般のファイル (*.dps; *.dpt; *.dpsx; *.dptx; *.ppt; *.pps; *.pot; *.pptx)</translation>
     </message>
     <message>
         <source>WPS Presentation Files(*.dps)</source>
         <comment>WpDescDps</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation ファイル (*.dps)</translation>
     </message>
     <message>
         <source>WPS Presentation Templates(*.dpt)</source>
         <comment>WpDescDpt</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation テンプレート(*.dpt)</translation>
     </message>
     <message>
         <source>WPS Presentation 2007/2010 Files(*.dpsx)</source>
         <comment>WpDescDpsx</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 2007/2010 ファイル(*.dpsx)</translation>
     </message>
     <message>
         <source>WPS Presentation 2007/2010 Templates(*.dptx)</source>
         <comment>WpDescDptx</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation 2007/2010 テンプレート(*.dptx)</translation>
     </message>
     <message>
         <source>Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)</source>
@@ -7646,6 +7844,371 @@ This backup will be saved to(%s)</source>
     <message>
         <source>OFD Format(*.ofd)|*.ofd</source>
         <comment>WpDescOFD</comment>
+        <translation>OFD 形式(*.ofd)|*.ofd</translation>
+    </message>
+    <message>
+        <source>Chinese Office Document Format(*.uof)|*.uof</source>
+        <comment>WP_SAVEFILE_UOF</comment>
+        <translation type="obsolete">Chinese Office ドキュメント形式(*.uof)|*.uof</translation>
+    </message>
+    <message>
+        <source>(no synonyms suggestions)</source>
+        <comment>WP_NoSynonymsSuggestions_Caption</comment>
+        <translation>類義語の推奨がありません</translation>
+    </message>
+    <message>
+        <source>Move</source>
+        <comment>WpMOVE</comment>
+        <translation>移動</translation>
+    </message>
+    <message>
+        <source>Expand Section</source>
+        <comment>WpExpandSection</comment>
+        <translation>セクションの表示</translation>
+    </message>
+    <message>
+        <source>Collapse Section</source>
+        <comment>WpCollapseSection</comment>
+        <translation>セクションの非表示</translation>
+    </message>
+    <message>
+        <source>AddSection</source>
+        <comment>WpAddSection</comment>
+        <translation>追加</translation>
+    </message>
+    <message>
+        <source>RenameSection</source>
+        <comment>WpRenameSection</comment>
+        <translation>リネーム</translation>
+    </message>
+    <message>
+        <source>DeleteSection</source>
+        <comment>WpDeleteSection</comment>
+        <translation>削除</translation>
+    </message>
+    <message>
+        <source>DeleteAllSections</source>
+        <comment>WpDeleteAllSections</comment>
+        <translation>すべての削除</translation>
+    </message>
+    <message>
+        <source>MoveSection</source>
+        <comment>WpMoveSection</comment>
+        <translation>セクションの移動</translation>
+    </message>
+    <message>
+        <source>Untitled Section</source>
+        <comment>WpSectionName</comment>
+        <translation>タイトルなしのセクション</translation>
+    </message>
+    <message>
+        <source>You have selected slides in a collapsed section. These slides wiil be deleted. Do you want to continue?</source>
+        <comment>WpDeleteSectionMsg</comment>
+        <translation>非表示されたセクションにスライドを選択しましたが、これらのスライドを削除するようにします、続けますか？</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
+        <comment>WP_SAVEFILE_OSD</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Security Presentations(*.spptx)|*.spptx</source>
+        <comment>WP_SAVEFILE_SECURITY_SUPPORT</comment>
+        <translation>Microsoft PowerPoint セキュリティファイル(*.spptx)|*.spptx</translation>
+    </message>
+    <message>
+        <source>Change Movie</source>
+        <comment>DgDesc_ChangeMovie</comment>
+        <translation>ビデオを変更</translation>
+    </message>
+    <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob)</source>
+        <comment>DgDesc_MovieFiles</comment>
+        <translation>ムービー ファイル (*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.mp4;*.m4v;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob)</translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob</source>
+        <comment>DgExts_MovieFiles</comment>
+        <translation>*.asf;*.asx;*.dvr-ms;*.wpl;*.wm;*.wmx;*.wmd;*.wmz;*.avi;*.mov;*.MP4;*.m4v;*.mp4v;*.3gp2;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.wvx;*.flv;*.f4v;*.vob</translation>
+    </message>
+    <message>
+        <source>QuickTime Movie File (*.mov)</source>
+        <comment>DgDesc_QuickTimeMovieFile</comment>
+        <translation>QuickTime ムービー ファイル</translation>
+    </message>
+    <message>
+        <source>*.mov</source>
+        <comment>DgExts_QuickTimeMoviefile</comment>
+        <translation>*.mov</translation>
+    </message>
+    <message>
+        <source>MP4 Video(*.mp4;*.m4v;*.mp4v)</source>
+        <comment>DgDesc_MP4VideoFile</comment>
+        <translation>MP4 ビデオ (*.mp4;*.m4v;*.mp4v)</translation>
+    </message>
+    <message>
+        <source>*.mp4;*.m4v;*.mp4v</source>
+        <comment>DgExts_MP4Videofile</comment>
+        <translation>*.mp4;*.m4v;*.mp4v</translation>
+    </message>
+    <message>
+        <source>Movie File(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa)</source>
+        <comment>DgDesc_MovieFileMpeg</comment>
+        <translation>ムービーファイル(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa)</translation>
+    </message>
+    <message>
+        <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa</source>
+        <comment>DgExts_MovieFileMpeg</comment>
+        <translation>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.mpv;*.mpv2;*.mp2v;*.mpa</translation>
+    </message>
+    <message>
+        <source>MPEG-2 TS Video File (*.m2ts;*.m2t;*.ts;*.tts)</source>
+        <comment>DgDesc_MPEG2TSVideoFile</comment>
+        <translation>MPEG-2 TS ビデオ ファイル (*.m2ts;*.m2t;*.ts;*.tts)</translation>
+    </message>
+    <message>
+        <source>*.m2ts;*.m2t;*.ts;*.tts</source>
+        <comment>DgExts_MPEG2TSVideoFile</comment>
+        <translation>*.m2ts;*.m2t;*.ts;*.tts</translation>
+    </message>
+    <message>
+        <source>Adobe Falsh Media (*.flv;*.f4v)</source>
+        <comment>DgDesc_AdobeFalshMediaFile</comment>
+        <translation>Adobe Falsh メディア (*.flv;*.f4v)</translation>
+    </message>
+    <message>
+        <source>*.flv;*.f4v</source>
+        <comment>DgExts_AdobeFalshMediafile</comment>
+        <translation>*.flv;*.f4v</translation>
+    </message>
+    <message>
+        <source>DVD Video File(*.vob)</source>
+        <comment>DgDesc_DVDVideoFile</comment>
+        <translation>DVD ビデオファイル (*.vob)</translation>
+    </message>
+    <message>
+        <source>*.vob</source>
+        <comment>DgExts_DVDVideofile</comment>
+        <translation>*.vob</translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles</comment>
+        <translation>サウンド ファイル (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles</comment>
+        <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
+    </message>
+    <message>
+        <source>ADTS Audio File (*.adts;*.adt;*aac)</source>
+        <comment>DgDesc_ADTSAudioFile</comment>
+        <translation>ADTS オーディオ ファイル (*.adts;*.adt;*aac)</translation>
+    </message>
+    <message>
+        <source>*.adts;*.adt;*aac</source>
+        <comment>DgExts_ADTSAudioFile</comment>
+        <translation>*.adts;*.adt;*aac</translation>
+    </message>
+    <message>
+        <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
+        <comment>DgDesc_AIFFAudioFile</comment>
+        <translation>AIFF オーディオ ファイル(aiff) (*.aif;*.aifc;*.aiff)</translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff</source>
+        <comment>DgExts_AIFFAudioFile</comment>
+        <translation>*.aif;*.aifc;*.aiff</translation>
+    </message>
+    <message>
+        <source>AU Audio File(au) (*.au;*.snd)</source>
+        <comment>DgDesc_AUAudioFile</comment>
+        <translation>AU オーディオ ファイル(au) (*.au;*.snd)</translation>
+    </message>
+    <message>
+        <source>*.au;*.snd</source>
+        <comment>DgExts_AUAudioFile</comment>
+        <translation>*.au;*.snd</translation>
+    </message>
+    <message>
+        <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
+        <comment>DgDesc_Mp3AudioFile</comment>
+        <translation>MP3 オーディオ ファイル(mp3) (*.mp3;*.mp2;*.m3u)</translation>
+    </message>
+    <message>
+        <source>*.mp3;*.mp2;*.m3u</source>
+        <comment>DgExts_Mp3AudioFile</comment>
+        <translation>*.mp3;*.mp2;*.m3u</translation>
+    </message>
+    <message>
+        <source>MP4 Audio (*.m4a)</source>
+        <comment>DgDesc_Mp4AudioFile</comment>
+        <translation>MP4 オーディオ (*.m4a)</translation>
+    </message>
+    <message>
+        <source>*.m4a</source>
+        <comment>DgExts_Mp4AudioFile</comment>
+        <translation>*.m4a</translation>
+    </message>
+    <message>
+        <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
+        <comment>DgDesc_WindowsMediaAudioFile</comment>
+        <translation>Windows Media オーディオ ファイル (wma) (*.wma;*.wax)</translation>
+    </message>
+    <message>
+        <source>*.wma;*.wax</source>
+        <comment>DgExts_WindowsMediaAudioFile</comment>
+        <translation>*.wma;*.wax</translation>
+    </message>
+    <message>
+        <source>Play Audio</source>
+        <translation>オーディオの再生</translation>
+    </message>
+    <message>
+        <source>Pause Audio</source>
+        <translation>オーディオの一時停止</translation>
+    </message>
+    <message>
+        <source>Single Web Page Files(*.mht; *.mhtml)</source>
+        <comment>WPDescMHT</comment>
+        <translation>単一ウェブページ形式(*.mht; *.mhtml)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)</source>
+        <comment>WpDescMPP2010</comment>
+        <translation>Microsoft PowerPoint プレゼンテーション(*.pptx; *.ppsx; *.pptm; *.ppsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation(*.pptx)</source>
+        <comment>WpDescPptx</comment>
+        <translation>Microsoft PowerPoint プレゼンテーション(*.pptx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)</source>
+        <comment>WpDescPptm</comment>
+        <translation>Microsoft PowerPoint マクロ有効プレゼンテーション(*.pptm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Show(*.ppsx)</source>
+        <comment>WpDescPpsx</comment>
+        <translation>Microsoft PowerPoint ショー(*.ppsx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Show(*.ppsm)</source>
+        <comment>WpDescPpsm</comment>
+        <translation>Microsoft PowerPoint マクロ有効ショー(*.ppsm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation Templates(*.potx; *.potm)</source>
+        <comment>WpDescMPP2010Temp</comment>
+        <translation>Microsoft PowerPoint プレゼンテーションテンプレート(*.potx; *.potm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation Template(*.potx)</source>
+        <comment>WpDescPotx</comment>
+        <translation>Microsoft PowerPoint プレゼンテーションテンプレート(*.potx)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation Template(*.potm)</source>
+        <comment>WpDescPotm</comment>
+        <translation>Microsoft PowerPoint マクロ有効プレゼンテーションテンプレート(*.potm)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation(*.pptx)|*.pptx</source>
+        <translation>Microsoft PowerPoint プレゼンテーション(*.pptx)|*.pptx</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Macro Enabled Presentation(*.pptm)|*.pptm</source>
+        <translation>Microsoft PowerPoint マクロ有効プレゼンテーション(*.pptm)|*.pptm</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentations(*.ppt; *.pps)</source>
+        <comment>WpDescMPP2003</comment>
+        <translation>Microsoft PowerPoint 97-2003 プレゼンテーション(*.ppt; *.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation(*.ppt)</source>
+        <comment>WpDescPpt</comment>
+        <translation>Microsoft PowerPoint 97-2003 プレゼンテーション(*.ppt)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Show(*.pps)</source>
+        <comment>WpDescPps</comment>
+        <translation>Microsoft PowerPoint 97-2003 ショー(*.pps)</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation Templates(*.pot)</source>
+        <comment>WpDescPot</comment>
+        <translation>Microsoft PowerPoint 97-2003 プレゼンテーションテンプレート(*.pot)</translation>
+    </message>
+    <message>
+        <source>\WPS Capture\WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation>\WPS 講演記録\WPS 講演記録</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Common Files(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation Files(*.dps)|*.dps|WPS Presentation Templates(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 Presentations(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 Presentation Templates(*.pot)|*.pot|Microsoft PowerPoint 2007/2010 Presentations(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007/2010 Presentation Templates(*.potx; *.potm)|*.potx; *.potm;</source>
+        <comment>WP_OPENFILE</comment>
+        <translation>すべてのファイル(*.*)|*.*|一般のファイル(*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx)|*.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx|WPS Presentation ファイル(*.dps)|*.dps|WPS Presentation テンプレート(*.dpt)|*.dpt|Microsoft PowerPoint 97/2000/XP/2003 プレゼンテーション(*.ppt; *.pps)|*.ppt; *.pps|Microsoft PowerPoint 97/2000/XP/2003 プレゼンテーションテンプレート(*.pot)|*.pot|Microsoft PowerPoint 2007-2016 プレゼンテーション(*.pptx; *.ppsx; *.pptm; *.ppsm)|*.pptx; *.ppsx; *.pptm; *.ppsm|Microsoft PowerPoint 2007-2016 プレゼンテーションテンプレート(*.potx; *.potm)|*.potx; *.potm;</translation>
+    </message>
+    <message>
+        <source>Picture Format(*.jpg,*.png,*.tif,*.bmp)|*.pic</source>
+        <comment>WP_SAVEFILE_ALLIMAGES</comment>
+        <translation>図の形式(*.jpg,*.png,*.tif,*.bmp)|*.pic</translation>
+    </message>
+    <message>
+        <source>PDF Format(*.pdf)|*.pdf</source>
+        <comment>WpDescPDF</comment>
+        <translation>PDF 形式(*.pdf)|*.pdf</translation>
+    </message>
+    <message>
+        <source>OpenDocument Presentation(*.odp)|*.odp</source>
+        <comment>WpDescODP</comment>
+        <translation>OpenDocument プレゼンテーション(*.odp)|*.odp</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Addins(*.ppam; *.ppa)</source>
+        <comment>WPDescMPA</comment>
+        <translation>Microsoft PowerPoint アドイン(*.ppam; *.ppa)</translation>
+    </message>
+    <message>
+        <source>GongPu Encrypted Presentation Files(*.dpsj)|*.dpsj</source>
+        <comment>WpDescGPCrypt</comment>
+        <translation>GongPu セキュリティ プレゼンテーションファイル(*.dpsj)|*.dpsj</translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles_Linux</comment>
+        <translation>音声ファイル(*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles_Linux</comment>
+        <translation>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</translation>
+    </message>
+    <message>
+        <source>Change the source link file</source>
+        <comment>DgUil_KSO_Cmd_ChangeLinkSource</comment>
+        <translation>ソースリンクファイルの変更</translation>
+    </message>
+    <message>
+        <source>All Files(*.*)|*.*|Presentations and screenings(*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm)|*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm</source>
+        <comment>DgUil_KSO_Cmd_ChangeLinkSourceFile</comment>
+        <translation>すべてのファイル(*.*)|*.*|プレゼンテーションと放映(*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm)|*.ppt;*.pps;*.pptx;*.pptm;*.ppsx;*.ppsm</translation>
+    </message>
+    <message>
+        <source>Custom paper</source>
+        <translation>カスタム用紙</translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <comment>WpDescAllWPSOffice</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in the, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>WpCheckInSharepoint</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -26,7 +26,7 @@
     </message>
     <message>
         <source>Copyright©1988-2015 Zhuhai Kingsoft Office Software Co., Ltd</source>
-        <translation type="unfinished">Copyright©1988-2015 Zhuhai Kingsoft Office Software Co., Ltd</translation>
+        <translation type="obsolete">Copyright©1988-2015 Zhuhai Kingsoft Office Software Co., Ltd</translation>
     </message>
     <message>
         <source>&lt;a href=&quot;wpshome&quot; style=&quot;color:#5687F9;text-decoration:none&quot;&gt;WPS Office  Online&lt;/a&gt;</source>
@@ -87,136 +87,136 @@
     <name>KDetailGroupItem</name>
     <message>
         <source>Transfer details</source>
-        <translation>Detalles de transferencia</translation>
+        <translation type="obsolete">Detalles de transferencia</translation>
     </message>
     <message>
         <source>Delete failed. Please close the opened file and try again.</source>
-        <translation>Error al eliminar. Cierre el archivo abierto y vuelva a intentarlo.</translation>
+        <translation type="obsolete">Error al eliminar. Cierre el archivo abierto y vuelva a intentarlo.</translation>
     </message>
     <message>
         <source>Delete failed. Close the opened file and try again.</source>
-        <translation>Error al eliminar. Cierre el archivo abierto y vuelva a intentarlo.</translation>
+        <translation type="obsolete">Error al eliminar. Cierre el archivo abierto y vuelva a intentarlo.</translation>
     </message>
 </context>
 <context>
     <name>KDownloadingDetailItem</name>
     <message>
         <source>Stop</source>
-        <translation>Detener</translation>
+        <translation type="obsolete">Detener</translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Ver directorio</translation>
+        <translation type="obsolete">Ver directorio</translation>
     </message>
 </context>
 <context>
     <name>KErrorDetailItem</name>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation type="obsolete">Abrir</translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Ver directorio</translation>
+        <translation type="obsolete">Ver directorio</translation>
     </message>
     <message>
         <source>Continue</source>
-        <translation>Continuar</translation>
+        <translation type="obsolete">Continuar</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation>Eliminar</translation>
+        <translation type="obsolete">Eliminar</translation>
     </message>
     <message>
         <source>Upload failed. You do not have permission to save the file to this directory</source>
-        <translation>Error al cargar. No tiene permiso para guardar el archivo en este directorio</translation>
+        <translation type="obsolete">Error al cargar. No tiene permiso para guardar el archivo en este directorio</translation>
     </message>
     <message>
         <source>Operation refused. Please make sure you have permission to perform this operation.</source>
-        <translation>Operación rechazada. Asegúrese de que tiene permiso para realizar esta operación.</translation>
+        <translation type="obsolete">Operación rechazada. Asegúrese de que tiene permiso para realizar esta operación.</translation>
     </message>
     <message>
         <source>Upload failed. Insufficient disk space. Please increase capacity and try again.</source>
-        <translation>Error al cargar. Espacio en disco insuficiente. Aumente la capacidad y vuelva a intentarlo.</translation>
+        <translation type="obsolete">Error al cargar. Espacio en disco insuficiente. Aumente la capacidad y vuelva a intentarlo.</translation>
     </message>
     <message>
         <source>Upload failed. File name or path is too long. Please rename or save to another location.</source>
-        <translation>Error al cargar. El nombre de archivo o la ruta de acceso son demasiado largos. Cambie el nombre o guarde el archivo en otra ubicación.</translation>
+        <translation type="obsolete">Error al cargar. El nombre de archivo o la ruta de acceso son demasiado largos. Cambie el nombre o guarde el archivo en otra ubicación.</translation>
     </message>
     <message>
         <source>Upload failed. The directory does not exist. Please save the file to another directory.</source>
-        <translation>Error al cargar. El directorio no existe. Guarde el archivo en otro directorio.</translation>
+        <translation type="obsolete">Error al cargar. El directorio no existe. Guarde el archivo en otro directorio.</translation>
     </message>
     <message>
         <source>Upload failed. The directory has been deleted. Please save the file to another directory.</source>
-        <translation>Error al cargar. El directorio se ha eliminado. Guarde el archivo en otro directorio.</translation>
+        <translation type="obsolete">Error al cargar. El directorio se ha eliminado. Guarde el archivo en otro directorio.</translation>
     </message>
     <message>
         <source>The group has been closed.</source>
-        <translation>El grupo se ha cerrado.</translation>
+        <translation type="obsolete">El grupo se ha cerrado.</translation>
     </message>
     <message>
         <source>Task canceled. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation>Tarea cancelada. Haga clic en &apos;Continuar&apos; para volver a cargar el archivo.</translation>
+        <translation type="obsolete">Tarea cancelada. Haga clic en &apos;Continuar&apos; para volver a cargar el archivo.</translation>
     </message>
     <message>
         <source>Upload failed. Uploading files larger than 30M is currently not supported.</source>
-        <translation>Error al cargar. Actualmente no es compatible cargar archivos de más de 30 M.</translation>
+        <translation type="obsolete">Error al cargar. Actualmente no es compatible cargar archivos de más de 30 M.</translation>
     </message>
     <message>
         <source>Upload failed. Please click &apos;Continue&apos; to upload the file again.</source>
-        <translation>Error al cargar. Haga clic en &apos;Continuar&apos; para volver a cargar el archivo.</translation>
+        <translation type="obsolete">Error al cargar. Haga clic en &apos;Continuar&apos; para volver a cargar el archivo.</translation>
     </message>
     <message>
         <source>Upload failed. You are no longer a member of the group.</source>
-        <translation>Error al cargar. Ya no es miembro del grupo.</translation>
+        <translation type="obsolete">Error al cargar. Ya no es miembro del grupo.</translation>
     </message>
     <message>
         <source>Upload failed. The number of files in the group has reached its maximum limit.</source>
-        <translation>Error al cargar. El número de archivos del grupo ha alcanzado su límite máximo.</translation>
+        <translation type="obsolete">Error al cargar. El número de archivos del grupo ha alcanzado su límite máximo.</translation>
     </message>
     <message>
         <source>Upload failed. The number of files in the group has reached its maximum limit. Please contact the group creator to upgrade the group.</source>
-        <translation>Error al cargar. El número de archivos del grupo ha alcanzado su límite máximo. Póngase en contacto con el creador del grupo para actualizarlo.</translation>
+        <translation type="obsolete">Error al cargar. El número de archivos del grupo ha alcanzado su límite máximo. Póngase en contacto con el creador del grupo para actualizarlo.</translation>
     </message>
     <message>
         <source>Upload failed. This group no longer exists.</source>
-        <translation>Error al cargar. Este grupo ya no existe.</translation>
+        <translation type="obsolete">Error al cargar. Este grupo ya no existe.</translation>
     </message>
     <message>
         <source>Upload failed. The number of your share links has reached its maximum limit.</source>
-        <translation>Error al cargar. El número de sus vínculos compartidos ha alcanzado su límite máximo.</translation>
+        <translation type="obsolete">Error al cargar. El número de sus vínculos compartidos ha alcanzado su límite máximo.</translation>
     </message>
     <message>
         <source>Upload failed</source>
-        <translation>Error al cargar</translation>
+        <translation type="obsolete">Error al cargar</translation>
     </message>
     <message>
         <source>Download failed. The file properties are incomplete.</source>
-        <translation>Error al descargar. Las propiedades del archivo están incompletas.</translation>
+        <translation type="obsolete">Error al descargar. Las propiedades del archivo están incompletas.</translation>
     </message>
     <message>
         <source>Download canceled</source>
-        <translation>Descarga cancelada</translation>
+        <translation type="obsolete">Descarga cancelada</translation>
     </message>
     <message>
         <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
-        <translation>Error al descargar. Actualmente no es compatible descargar archivos de más de 30 M.</translation>
+        <translation type="obsolete">Error al descargar. Actualmente no es compatible descargar archivos de más de 30 M.</translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation>Error al descargar</translation>
+        <translation type="obsolete">Error al descargar</translation>
     </message>
 </context>
 <context>
     <name>KFinishedDetailItem</name>
     <message>
         <source>Open</source>
-        <translation>Abrir</translation>
+        <translation type="obsolete">Abrir</translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Ver directorio</translation>
+        <translation type="obsolete">Ver directorio</translation>
     </message>
 </context>
 <context>
@@ -442,7 +442,7 @@
     </message>
     <message>
         <source>&amp;WPS Office Cloud</source>
-        <translation>&amp;WPS Office Cloud</translation>
+        <translation type="obsolete">&amp;WPS Office Cloud</translation>
     </message>
     <message>
         <source>&amp;View On Website</source>
@@ -454,7 +454,7 @@
     </message>
     <message>
         <source>&amp;Upload to Cloud Docs</source>
-        <translation>&amp;Cargar a Cloud Docs</translation>
+        <translation type="obsolete">&amp;Cargar a Cloud Docs</translation>
     </message>
     <message>
         <source>Disable &amp;Right-click Upload</source>
@@ -466,11 +466,11 @@
     </message>
     <message>
         <source>Proxy &amp;Settings</source>
-        <translation>Configuración de &amp;proxy</translation>
+        <translation type="obsolete">Configuración de &amp;proxy</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation>&amp;Acerca de</translation>
+        <translation type="obsolete">&amp;Acerca de</translation>
     </message>
     <message>
         <source>&amp;Switch User</source>
@@ -482,7 +482,7 @@
     </message>
     <message>
         <source>&amp;Sign In</source>
-        <translation>&amp;Registrarse</translation>
+        <translation type="unfinished">&amp;Registrarse</translation>
     </message>
     <message>
         <source>&amp;Exit</source>
@@ -519,6 +519,84 @@
     <message>
         <source>Upgrade WPS Office Cloud to experience the latest version.</source>
         <translation>Actualice a WPS Office Cloud para experimentar la versión más reciente.</translation>
+    </message>
+    <message>
+        <source>Your Permission Denied</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please ensure your account is consistent with the Web page to log on locally, and have file permissions</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Try ReLogin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Try Relogin when recover network</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>network anomaly status, 
+ curl response code: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>have no access to account file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>account files have been encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to update user info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Vip upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Renewal fee</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Message Center</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Ignored</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source> have been updated.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> have been updated, close the
+ opennig document, and open again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Open WPS Cloud Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close settings dialog before sign out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send file success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send file failed</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -816,6 +894,22 @@ Fecha y hora de actualización: %1</translation>
         <source>Share link transfer failed. Please check your network connection and try again.</source>
         <translation>No se pudo compartir la transferencia de vínculo. Compruebe la conexión a la red y vuelva a intentarlo.</translation>
     </message>
+    <message>
+        <source>Download failed. The file properties are incomplete.</source>
+        <translation type="unfinished">Error al descargar. Las propiedades del archivo están incompletas.</translation>
+    </message>
+    <message>
+        <source>Download canceled</source>
+        <translation type="unfinished">Descarga cancelada</translation>
+    </message>
+    <message>
+        <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
+        <translation type="unfinished">Error al descargar. Actualmente no es compatible descargar archivos de más de 30 M.</translation>
+    </message>
+    <message>
+        <source>Download failed, please check your network setting</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KTotalDetailItem</name>
@@ -881,7 +975,7 @@ Fecha y hora de actualización: %1</translation>
     </message>
     <message>
         <source>View</source>
-        <translation>Ver</translation>
+        <translation type="obsolete">Ver</translation>
     </message>
 </context>
 <context>
@@ -892,38 +986,38 @@ Fecha y hora de actualización: %1</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Cerrar</translation>
+        <translation type="obsolete">Cerrar</translation>
     </message>
     <message>
         <source>Summary</source>
-        <translation>Resumen</translation>
+        <translation type="obsolete">Resumen</translation>
     </message>
     <message>
         <source>Uploading</source>
-        <translation>Cargando</translation>
+        <translation type="obsolete">Cargando</translation>
     </message>
     <message>
         <source>Downloading</source>
-        <translation>Descargando</translation>
+        <translation type="obsolete">Descargando</translation>
     </message>
     <message>
         <source>Completed tasks</source>
-        <translation>Tareas completadas</translation>
+        <translation type="obsolete">Tareas completadas</translation>
     </message>
     <message>
         <source>Failed tasks</source>
-        <translation>Tareas con errores</translation>
+        <translation type="obsolete">Tareas con errores</translation>
     </message>
 </context>
 <context>
     <name>KUploadingDetailItem</name>
     <message>
         <source>Stop</source>
-        <translation>Detener</translation>
+        <translation type="obsolete">Detener</translation>
     </message>
     <message>
         <source>View directory</source>
-        <translation>Ver directorio</translation>
+        <translation type="obsolete">Ver directorio</translation>
     </message>
 </context>
 <context>
@@ -1100,6 +1194,350 @@ Fecha y hora de actualización: %1</translation>
         <source>Share Link</source>
         <translation>Compartir vínculo</translation>
     </message>
+    <message>
+        <source> cloud file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS cloud service upgraded, please restart WPS!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to create file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to create folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to remove file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to rename file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to move file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to copy file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to copy folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to sync group list from server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to sync folder from server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to sync files shared by others</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>save file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is process of uploading or downloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is used by another application</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>permission denied</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>network error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>duplicate file name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>illegal filename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is removed on server but failed to be removed on local disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is renamed on server but failed to be renamed on local disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>folder is created on server but failed to be created on local disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file is moved on server but failed to be moved on local disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>space of cloud disk is full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file size too large</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file is not uploaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>has new version in service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud file is not downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloud file is downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Cloud Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old Private Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom Teams</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roaming File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Shared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload(%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download(%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finish(%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File size Limited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud space Limited</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgrade</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Network Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dear WPS super member, you are downloading at high speed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade members can enjoy high-speed download.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Task empty</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to exit link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to download file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload finished. Please check it out at Finish tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download finished. Please check it out at Finish tab</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation type="unfinished">Iniciar</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished">Detener</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Eliminar</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">Abrir</translation>
+    </message>
+    <message>
+        <source>Explore to</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload failed.You do not have permission to save the file to this directory</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operation refused. Please make sure you have permission to perform this operation.</source>
+        <translation type="unfinished">Operación rechazada. Asegúrese de que tiene permiso para realizar esta operación.</translation>
+    </message>
+    <message>
+        <source>Upload failed. Insufficient disk space. Please increase capacity and try again.</source>
+        <translation type="unfinished">Error al cargar. Espacio en disco insuficiente. Aumente la capacidad y vuelva a intentarlo.</translation>
+    </message>
+    <message>
+        <source>Upload failed. File name or path is too long. Please rename or save to another location.</source>
+        <translation type="unfinished">Error al cargar. El nombre de archivo o la ruta de acceso son demasiado largos. Cambie el nombre o guarde el archivo en otra ubicación.</translation>
+    </message>
+    <message>
+        <source>Upload failed. The directory does not exist. Please save the file to another directory.</source>
+        <translation type="unfinished">Error al cargar. El directorio no existe. Guarde el archivo en otro directorio.</translation>
+    </message>
+    <message>
+        <source>Upload failed. The directory has been deleted. Please save the file to another directory.</source>
+        <translation type="unfinished">Error al cargar. El directorio se ha eliminado. Guarde el archivo en otro directorio.</translation>
+    </message>
+    <message>
+        <source>The group has been closed.</source>
+        <translation type="unfinished">El grupo se ha cerrado.</translation>
+    </message>
+    <message>
+        <source>Task canceled. Please click &apos;Continue&apos; to upload the file again.</source>
+        <translation type="unfinished">Tarea cancelada. Haga clic en &apos;Continuar&apos; para volver a cargar el archivo.</translation>
+    </message>
+    <message>
+        <source>Upload failed. Uploading files larger than 30M is currently not supported.</source>
+        <translation type="unfinished">Error al cargar. Actualmente no es compatible cargar archivos de más de 30 M.</translation>
+    </message>
+    <message>
+        <source>Upload failed. Please click &apos;Continue&apos; to upload the file again.</source>
+        <translation type="unfinished">Error al cargar. Haga clic en &apos;Continuar&apos; para volver a cargar el archivo.</translation>
+    </message>
+    <message>
+        <source>Upload failed. You are no longer a member of the group.</source>
+        <translation type="unfinished">Error al cargar. Ya no es miembro del grupo.</translation>
+    </message>
+    <message>
+        <source>Upload failed. The number of files in the group has reached its maximum limit.</source>
+        <translation type="unfinished">Error al cargar. El número de archivos del grupo ha alcanzado su límite máximo.</translation>
+    </message>
+    <message>
+        <source>Upload failed. This group no longer exists.</source>
+        <translation type="unfinished">Error al cargar. Este grupo ya no existe.</translation>
+    </message>
+    <message>
+        <source>Upload failed. The number of your share links has reached its maximum limit.</source>
+        <translation type="unfinished">Error al cargar. El número de sus vínculos compartidos ha alcanzado su límite máximo.</translation>
+    </message>
+    <message>
+        <source>Download failed. The file properties are incomplete.</source>
+        <translation type="unfinished">Error al descargar. Las propiedades del archivo están incompletas.</translation>
+    </message>
+    <message>
+        <source>Download canceled</source>
+        <translation type="unfinished">Descarga cancelada</translation>
+    </message>
+    <message>
+        <source>Download failed. Downloading files larger than 30M is currently not supported.</source>
+        <translation type="unfinished">Error al descargar. Actualmente no es compatible descargar archivos de más de 30 M.</translation>
+    </message>
+    <message>
+        <source>CancelAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ClearAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>RetryAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>StopAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transdetail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dear WPS super member, we are uploading file for you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade members can have %1 cloud space, maximum upload %2 file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Guide Doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We are uploading file for you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cache disk %1 has full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 not exists</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>batchuploaddlg</name>
@@ -1202,6 +1640,797 @@ Fecha y hora de actualización: %1</translation>
     <message>
         <source>TextLabel</source>
         <translation>TextLabel</translation>
+    </message>
+</context>
+<context>
+    <name>BubbleTextButton</name>
+    <message>
+        <source>more information</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KAutoSyncLimitBubble</name>
+    <message>
+        <source>Upgrade SVIP, get %1 privileges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intelligent update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intelligent updates can update the required documents according to the use scenarios.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade to SVIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Cloud File</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBatchDownloadLimitBubble</name>
+    <message>
+        <source>Upgrade VIP, get %1 privileges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>batch download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Batch download is VIP privilege, please upgrade to VIP.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current user level, you can batch download %1 files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade VIP, the count of batch download can upgrade to %1 at most</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel download</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KClearCacheTipDialog</name>
+    <message>
+        <source>Operation Tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This operation will delete downloaded WPS cloud files, them will be download when you open them.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear finished.
+Free Space: about %1 MB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudDiskGuideDlg</name>
+    <message>
+        <source>go and see</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Cloud File.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create shortcut of WPS CloudFile failed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudDiskGuideWidget</name>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">TextLabel</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">Aceptar</translation>
+    </message>
+    <message>
+        <source>View automatic uploading documents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create desktop shortcut</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recently used documents are automatically synchronized to any device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place the WPS CloudFile into desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roam file to cloud had been turned on</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudSettingExtesionWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop Backup Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop documents and pictures are automatically backed up to cloud documents and can be accessed at other terminals</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set up the desktop backup blocked file:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about %1 MB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculating cache size...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudSettingFunctionWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>smartUpdate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Super membership available. After switching on, enter the cloud document folder, the file is automatically updated, no manual operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show WPS Cloud Files in My Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Cloud Files Entry in &apos;My Computer&apos;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click extension menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &apos;upload to WPS Cloud document&apos; menu item on the right menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add &apos;WPS Desktop&apos; menu item on the right menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudSettingRestWidget</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Cache</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cleaning up &apos;downloaded documents&apos; frees up the disk space occupied by the document.Re-use needs to be redownloaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transfer Bubble:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Always,bubble when transfer is complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sometimes,bubble when transfer is failed(Recommend)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never bubble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculating cache size...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about %1 MB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudSpaceWidgetAction</name>
+    <message>
+        <source>Cloudspace</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dilatation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCommonGuideDlgMgr</name>
+    <message>
+        <source>WPS Cloud File.lnk</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCustomCacheTipDialog</name>
+    <message>
+        <source>Operation Tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Space is not enough, please select another disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New path can not be old path&apos;s sub folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New path already has %1, please select another</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No pemission in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Calculating space size...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Move files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting old files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cache dir transfer finished.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDefaultCloudSpaceWidgetAction</name>
+    <message>
+        <source>Login for more services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished">Iniciar sesión</translation>
+    </message>
+</context>
+<context>
+    <name>KDesktopBackup</name>
+    <message>
+        <source>Caption Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop backup project</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 people join this plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join to backup your desktop files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDesktopBackupFailWidget</name>
+    <message>
+        <source>Backup fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>click to show</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDesktopBackupFinishWidget</name>
+    <message>
+        <source>Backup success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>click to show</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDesktopBackupWebView</name>
+    <message>
+        <source>Desktop Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDesktopDocGuide</name>
+    <message>
+        <source>WPS Cloud Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not remind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS copy safety</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>One touch backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>desktop files item</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are %1 files in your desktop, copy files to avoid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>loss or damage accidently</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>give up copying</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>desktop files list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDesktopFileMonMgr</name>
+    <message>
+        <source>Space full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exceed file size limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDocHistoryDlg</name>
+    <message>
+        <source>Docment History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document History</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">TextLabel</translation>
+    </message>
+    <message>
+        <source>Creator:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDocHistoryListWidget</name>
+    <message>
+        <source>loading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Load error,please &lt;a href=&quot;silver&quot;&gt;retry&lt;/a&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDocHistoryWebView</name>
+    <message>
+        <source>Save File</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileLimitBubble_CloudDisk</name>
+    <message>
+        <source>WPS Cloud File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgrade vip for upload exceeding file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upgrade super vip for upload exceeding file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>upload file failed for exceeding %1M</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 file failed for exceeding %2M</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KHistoryDocItemWidget</name>
+    <message>
+        <source>TextLabel</source>
+        <translation type="obsolete">TextLabel</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="obsolete">Abrir</translation>
+    </message>
+    <message>
+        <source>(current version)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(the %1 version)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KHistorySaveAsTask</name>
+    <message>
+        <source>%1 history version save as failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMsgTrayListWidget</name>
+    <message>
+        <source>WPS Message</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show All</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KQingExitTip</name>
+    <message>
+        <source>WPS Cloud is working. Please exit at tray and continue.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue</source>
+        <translation type="unfinished">Continuar</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Operation tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSpaceFullBubble</name>
+    <message>
+        <source>Cloud space %1 has been full</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Cloud File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SVIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extend Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSpaceFullEarlyWarningBubble</name>
+    <message>
+        <source>Cloud space has been less than %1, suggest to upgrade.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>VIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SVIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade SVIP, cloud space can upgrade to %1 at most</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Later</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KTransDetailBubble</name>
+    <message>
+        <source>Uploading</source>
+        <translation type="unfinished">Cargando</translation>
+    </message>
+    <message>
+        <source>Uploaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to Upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finished to upload, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file loading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file loaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>transferring file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OpenDetail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Acceleration</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading</source>
+        <translation type="unfinished">Descargando</translation>
+    </message>
+    <message>
+        <source>Finished to download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Finished to download, </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloaded</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fils upload failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fils download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUploadFileGuideDlg</name>
+    <message>
+        <source>Account had been logouted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account had been logouted, uploading has been canceled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>selected files have been in cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUploadFileGuideWidget</name>
+    <message>
+        <source>Save to cloud, multiterminal synchronization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Documents are safer and more convenient</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload files</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWpsCloudFileSettingsDialog</name>
+    <message>
+        <source>OK</source>
+        <translation type="obsolete">Aceptar</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Cancelar</translation>
+    </message>
+    <message>
+        <source>After switching on, enter the cloud document folder, the file is automatically downloaded, no manual operation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KWpsCloudFileSettingsDialog_new</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Cloud File Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extesion</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rest</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

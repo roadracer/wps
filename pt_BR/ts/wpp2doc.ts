@@ -236,7 +236,7 @@ Por exemplo, 1,3,5-9.</translation>
     </message>
     <message>
         <source>No Select Slide</source>
-        <translation type="unfinished"></translation>
+        <translation>Não Selecionar Slide</translation>
     </message>
 </context>
 </TS>

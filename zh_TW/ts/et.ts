@@ -202,7 +202,7 @@
     </message>
     <message>
         <source>O&amp;DBC DSN</source>
-        <translation type="unfinished"></translation>
+        <translation>O&amp;DBC DSN</translation>
     </message>
 </context>
 <context>
@@ -404,11 +404,11 @@
     <name>GrpboxCondition</name>
     <message>
         <source>Cell value is</source>
-        <translation>儲存格值</translation>
+        <translation type="obsolete">儲存格值</translation>
     </message>
     <message>
         <source>Formula is</source>
-        <translation>公式</translation>
+        <translation type="obsolete">公式</translation>
     </message>
     <message>
         <source>Grpbox Condition</source>
@@ -420,52 +420,52 @@
     </message>
     <message>
         <source>and</source>
-        <translation>且</translation>
+        <translation type="obsolete">且</translation>
     </message>
     <message>
         <source>between</source>
-        <translation>介於</translation>
+        <translation type="obsolete">介於</translation>
     </message>
     <message>
         <source>equal to</source>
-        <translation>等於</translation>
+        <translation type="obsolete">等於</translation>
     </message>
     <message>
         <source>greater than</source>
-        <translation>大於</translation>
+        <translation type="obsolete">大於</translation>
     </message>
     <message>
         <source>greater than or equal to</source>
-        <translation>大於或等於</translation>
+        <translation type="obsolete">大於或等於</translation>
     </message>
     <message>
         <source>less than</source>
-        <translation>小於</translation>
+        <translation type="obsolete">小於</translation>
     </message>
     <message>
         <source>less than or equal to</source>
-        <translation>小於或等於</translation>
+        <translation type="obsolete">小於或等於</translation>
     </message>
     <message>
         <source>not between</source>
-        <translation>不介於</translation>
+        <translation type="obsolete">不介於</translation>
     </message>
     <message>
         <source>not equal to</source>
-        <translation>不等於</translation>
+        <translation type="obsolete">不等於</translation>
     </message>
     <message>
         <source>Preview of format to use when
 condition is true:</source>
-        <translation>當以上條件為真時，設定儲存格格式為:</translation>
+        <translation type="obsolete">當以上條件為真時，設定儲存格格式為:</translation>
     </message>
     <message>
         <source>Infotip</source>
-        <translation>文字標籤</translation>
+        <translation type="obsolete">文字標籤</translation>
     </message>
     <message>
         <source>The Conditional formatting contains number format, and the settings would be lost opened by the earlier version of Excel or WPS Spreadsheets.</source>
-        <translation>設定格式化的條件中包含了數字格式，用舊版的 WPS Spreadsheets或 Excel開啟可能會丟失這些設定。</translation>
+        <translation type="obsolete">設定格式化的條件中包含了數字格式，用舊版的 WPS Spreadsheets或 Excel開啟可能會丟失這些設定。</translation>
     </message>
     <message>
         <source>Cell Value IS</source>
@@ -747,7 +747,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -863,7 +863,7 @@ condition is true: </source>
     </message>
     <message>
         <source>OK</source>
-        <translation>確定</translation>
+        <translation type="obsolete">確定</translation>
     </message>
     <message>
         <source>Or</source>
@@ -871,7 +871,7 @@ condition is true: </source>
     </message>
     <message>
         <source>Search</source>
-        <translation>搜尋</translation>
+        <translation type="obsolete">搜尋</translation>
     </message>
     <message>
         <source>Sort Ascending</source>
@@ -983,11 +983,11 @@ condition is true: </source>
     </message>
     <message>
         <source>Ascending(S)</source>
-        <translation>遞增排序(&amp;S)</translation>
+        <translation type="obsolete">遞增排序(&amp;S)</translation>
     </message>
     <message>
         <source>Descending(O)</source>
-        <translation>遞減排序(&amp;O)</translation>
+        <translation type="obsolete">遞減排序(&amp;O)</translation>
     </message>
     <message>
         <source>Filter by Value</source>
@@ -1132,6 +1132,30 @@ condition is true: </source>
     <message>
         <source>Descending (&amp;O)</source>
         <translation type="obsolete">遞減排序</translation>
+    </message>
+    <message>
+        <source>Sort by cell color and font color</source>
+        <translation>依儲存格及字型色彩排序</translation>
+    </message>
+    <message>
+        <source>Export List</source>
+        <translation>匯出項目個數</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>項目個數</translation>
+    </message>
+    <message>
+        <source>analysis</source>
+        <translation>分析</translation>
+    </message>
+    <message>
+        <source>Unique Items</source>
+        <translation>篩選唯一項目</translation>
+    </message>
+    <message>
+        <source>Duplicate Items</source>
+        <translation>篩選重複項目</translation>
     </message>
 </context>
 <context>
@@ -1311,11 +1335,11 @@ condition is true: </source>
     <name>KxAfTreeViewHeaderWidget</name>
     <message>
         <source>Multiple</source>
-        <translation>多重</translation>
+        <translation type="obsolete">多重</translation>
     </message>
     <message>
         <source>Single</source>
-        <translation>單一</translation>
+        <translation type="obsolete">單一</translation>
     </message>
 </context>
 <context>
@@ -1334,6 +1358,14 @@ condition is true: </source>
     <message>
         <source>Save As</source>
         <translation>另存新檔</translation>
+    </message>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation>無法載入公普加密模組。</translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation>您選取的格式與此檔案的原始格式不一致。要儲存為新格式嗎？</translation>
     </message>
 </context>
 <context>
@@ -2232,6 +2264,10 @@ condition is true: </source>
         <source>Scatter with Straight Lines</source>
         <translation>帶有直線的 XY 散佈圖</translation>
     </message>
+    <message>
+        <source>3-D Bubble</source>
+        <translation>三維泡泡圖</translation>
+    </message>
 </context>
 <context>
     <name>KxChartTypeItem</name>
@@ -2660,70 +2696,70 @@ Use it when:
     <name>KxConditionFormatDlg</name>
     <message>
         <source>&amp;Format...</source>
-        <translation>格式(&amp;F)...</translation>
+        <translation type="obsolete">格式(&amp;F)...</translation>
     </message>
     <message>
         <source>A required minimum or maximum value is missing.</source>
-        <translation>所需的最小值或最大值丟失。</translation>
+        <translation type="obsolete">所需的最小值或最大值丟失。</translation>
     </message>
     <message>
         <source>F&amp;ormat...</source>
-        <translation>格式(&amp;O)...</translation>
+        <translation type="obsolete">格式(&amp;O)...</translation>
     </message>
     <message>
         <source>Fo&amp;rmat...</source>
-        <translation>格式(&amp;R)...</translation>
+        <translation type="obsolete">格式(&amp;R)...</translation>
     </message>
     <message>
         <source>You must specify criteria for all conditional formats.</source>
-        <translation>所有設定格式化的條件都必須指定規則。</translation>
+        <translation type="obsolete">所有設定格式化的條件都必須指定規則。</translation>
     </message>
 </context>
 <context>
     <name>KxConditionHighLightDlg</name>
     <message>
         <source>Numerial_BetweenSuffix</source>
-        <translation>之間</translation>
+        <translation type="obsolete">之間</translation>
     </message>
     <message>
         <source>Equal to</source>
-        <translation>等於</translation>
+        <translation type="obsolete">等於</translation>
     </message>
     <message>
         <source>Not equal to</source>
-        <translation>不等於</translation>
+        <translation type="obsolete">不等於</translation>
     </message>
     <message>
         <source>Greater than</source>
-        <translation>大於</translation>
+        <translation type="obsolete">大於</translation>
     </message>
     <message>
         <source>Less than</source>
-        <translation>小於</translation>
+        <translation type="obsolete">小於</translation>
     </message>
     <message>
         <source>and</source>
-        <translation>且</translation>
+        <translation type="obsolete">且</translation>
     </message>
     <message>
         <source>Between</source>
-        <translation>介於</translation>
+        <translation type="obsolete">介於</translation>
     </message>
     <message>
         <source>Not between</source>
-        <translation>未介於</translation>
+        <translation type="obsolete">未介於</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>最大的</translation>
+        <translation type="obsolete">最大的</translation>
     </message>
     <message>
         <source>Items</source>
-        <translation>項目</translation>
+        <translation type="obsolete">項目</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>最小的</translation>
+        <translation type="obsolete">最小的</translation>
     </message>
     <message>
         <source>% Items</source>
@@ -2731,19 +2767,19 @@ Use it when:
     </message>
     <message>
         <source>Average</source>
-        <translation>平均值</translation>
+        <translation type="obsolete">平均值</translation>
     </message>
     <message>
         <source>Above</source>
-        <translation>高於</translation>
+        <translation type="obsolete">高於</translation>
     </message>
     <message>
         <source>Below</source>
-        <translation>低於</translation>
+        <translation type="obsolete">低於</translation>
     </message>
     <message>
         <source>Does not contain</source>
-        <translation>不包含</translation>
+        <translation type="obsolete">不包含</translation>
     </message>
     <message>
         <source>Begin with</source>
@@ -2755,51 +2791,51 @@ Use it when:
     </message>
     <message>
         <source>A Date Occurring</source>
-        <translation>發生的日期</translation>
+        <translation type="obsolete">發生的日期</translation>
     </message>
     <message>
         <source>Yesterday</source>
-        <translation>昨天</translation>
+        <translation type="obsolete">昨天</translation>
     </message>
     <message>
         <source>Today</source>
-        <translation>今天</translation>
+        <translation type="obsolete">今天</translation>
     </message>
     <message>
         <source>Tomorrow</source>
-        <translation>明天</translation>
+        <translation type="obsolete">明天</translation>
     </message>
     <message>
         <source>In the last 7 days</source>
-        <translation>過去 7 日內</translation>
+        <translation type="obsolete">過去 7 日內</translation>
     </message>
     <message>
         <source>Last week</source>
-        <translation>上週</translation>
+        <translation type="obsolete">上週</translation>
     </message>
     <message>
         <source>This week</source>
-        <translation>本週</translation>
+        <translation type="obsolete">本週</translation>
     </message>
     <message>
         <source>Next week</source>
-        <translation>下週</translation>
+        <translation type="obsolete">下週</translation>
     </message>
     <message>
         <source>Last month</source>
-        <translation>上個月</translation>
+        <translation type="obsolete">上個月</translation>
     </message>
     <message>
         <source>This month</source>
-        <translation>本月</translation>
+        <translation type="obsolete">本月</translation>
     </message>
     <message>
         <source>Next month</source>
-        <translation>下個月</translation>
+        <translation type="obsolete">下個月</translation>
     </message>
     <message>
         <source>Weekend</source>
-        <translation>週末</translation>
+        <translation type="obsolete">週末</translation>
     </message>
     <message>
         <source>Highlight-Special Value</source>
@@ -2807,51 +2843,51 @@ Use it when:
     </message>
     <message>
         <source>Empty Cell</source>
-        <translation>空的儲存格</translation>
+        <translation type="obsolete">空的儲存格</translation>
     </message>
     <message>
         <source>Error value </source>
-        <translation>錯誤值</translation>
+        <translation type="obsolete">錯誤值</translation>
     </message>
     <message>
         <source>Lack input value</source>
-        <translation>缺少輸入值</translation>
+        <translation type="obsolete">缺少輸入值</translation>
     </message>
     <message>
         <source>The required range value is insufficient</source>
-        <translation>必要的範圍值不足</translation>
+        <translation type="obsolete">必要的範圍值不足</translation>
     </message>
     <message>
         <source>Highlight - Value</source>
-        <translation>醒目提示 - 數值</translation>
+        <translation type="obsolete">醒目提示 - 數值</translation>
     </message>
     <message>
         <source>Greater than or equal to</source>
-        <translation>大於等於</translation>
+        <translation type="obsolete">大於等於</translation>
     </message>
     <message>
         <source>Less than or equal to</source>
-        <translation>小於等於</translation>
+        <translation type="obsolete">小於等於</translation>
     </message>
     <message>
         <source>Highlight - Text</source>
-        <translation>醒目提示 - 文字</translation>
+        <translation type="obsolete">醒目提示 - 文字</translation>
     </message>
     <message>
         <source>Contains</source>
-        <translation>包含</translation>
+        <translation type="obsolete">包含</translation>
     </message>
     <message>
         <source>Begins with</source>
-        <translation>開始是</translation>
+        <translation type="obsolete">開始是</translation>
     </message>
     <message>
         <source>Ends with</source>
-        <translation>結尾是</translation>
+        <translation type="obsolete">結尾是</translation>
     </message>
     <message>
         <source>Highlight - Date</source>
-        <translation>醒目提示 - 日期</translation>
+        <translation type="obsolete">醒目提示 - 日期</translation>
     </message>
     <message>
         <source>Highlight-Value</source>
@@ -2883,22 +2919,22 @@ Use it when:
     </message>
     <message>
         <source>Highlight - Special Value</source>
-        <translation>醒目提示 - 特殊值</translation>
+        <translation type="obsolete">醒目提示 - 特殊值</translation>
     </message>
     <message>
         <source>% Max Items</source>
-        <translation>%個項</translation>
+        <translation type="obsolete">%個項</translation>
     </message>
     <message>
         <source>% Min Items</source>
-        <translation>%個項</translation>
+        <translation type="obsolete">%個項</translation>
     </message>
 </context>
 <context>
     <name>KxConsolidateDlg</name>
     <message>
         <source> - Reference location:</source>
-        <translation> - 參照位址:</translation>
+        <translation> - 參照到:</translation>
     </message>
     <message>
         <source>Average</source>
@@ -3047,35 +3083,35 @@ Use it when:
     <name>KxConvertToRangeDlg</name>
     <message>
         <source>SpreadSheets</source>
-        <translation type="unfinished">WPS 表格</translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>Do you want to convert the table to a normal range?</source>
-        <translation type="unfinished"></translation>
+        <translation>您要將表格轉換為一般範圍嗎?</translation>
     </message>
     <message>
         <source>This will permanently remove the query definition from the select sheet and convert the table to a normal range.Continue?</source>
         <comment>TX_TableConver2Range_DelQuery</comment>
-        <translation type="unfinished"></translation>
+        <translation>這樣會從工作表永久移除查詢定義，並將表格轉換為一般範圍。您要繼續嗎?</translation>
     </message>
 </context>
 <context>
     <name>KxCreatePivotTableDlg</name>
     <message>
         <source>Data fields have been retrieved.</source>
-        <translation>資料已傳回。</translation>
+        <translation type="obsolete">資料已傳回。</translation>
     </message>
     <message>
         <source>Modify PivotTable</source>
-        <translation>修改樞紐分析表</translation>
+        <translation type="obsolete">修改樞紐分析表</translation>
     </message>
     <message>
         <source>No data fields have been retrieved.</source>
-        <translation>找不到符合準則的資料。</translation>
+        <translation type="obsolete">找不到符合準則的資料。</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation>參照無效。</translation>
+        <translation type="obsolete">參照無效。</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check whether the data which you want to analyize meet the following conditions:
@@ -3093,23 +3129,23 @@ Use it when:
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because current workbook is in protection. Please select an existing sheet or unprotect this workbook.</source>
-        <translation>不能在新工作表上建立樞紐分析表，因為當前活頁簿已被保護。請您選擇一個已經存在的工作表或取消活頁簿保護。</translation>
+        <translation type="obsolete">不能在新工作表上建立樞紐分析表，因為當前活頁簿已被保護。請您選擇一個已經存在的工作表或取消活頁簿保護。</translation>
     </message>
     <message>
         <source>The position you chose to place the PivotTable is not valid. Please make sure it is a valid reference range and not in a hidden sheet.</source>
-        <translation>您要放置樞紐分析表的位置不正確。請確認該位置是一個合法的參照範圍，並且不是隱藏工作表上的範圍。</translation>
+        <translation type="obsolete">您要放置樞紐分析表的位置不正確。請確認該位置是一個合法的參照範圍，並且不是隱藏工作表上的範圍。</translation>
     </message>
     <message>
         <source>You cannot modify the PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+        <translation type="obsolete">您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
     </message>
     <message>
         <source>You cannot create a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
-        <translation>您不能使用當前資料來建立樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+        <translation type="obsolete">您不能使用當前資料來建立樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
     </message>
     <message>
         <source>The type of connection selected cannot be used to create a PivotTable.</source>
-        <translation>選取的連線類型無法用來建立樞紐分析表。</translation>
+        <translation type="obsolete">選取的連線類型無法用來建立樞紐分析表。</translation>
     </message>
     <message>
         <source>PivotTable cannot be created on a new sheet, because this book is in protection.Please select an exsiting sheet or unprotect this book.</source>
@@ -3132,33 +3168,95 @@ Use it when:
 1.Make sure that the reference exists. If it is a name, it must be a valid range;
 2.Make sure that the reference is a single range, and it must contain two rows at least;
 3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
-        <translation>您選取的樞紐分析表的資料來源不正確。請檢查您要分析的資料，是否滿足以下幾個條件:
+        <translation type="obsolete">您選取的樞紐分析表的資料來源不正確。請檢查您要分析的資料，是否滿足以下幾個條件:
 1.請確認參照範圍存在。如果是名稱，請確認該名稱參照的是一個合法的範圍。
 2.確認參照範圍是單一的範圍，並且至少有兩行。
 3.確認參照範圍的第一行，不存在空白儲存格、不包含錯誤值，而且每個儲存格內的字元數不超過 255 個。</translation>
+    </message>
+    <message>
+        <source>You cannot create or a modify PivotTable with these data. Please check whether the data which you want to analyze meet the following conditions:
+1.Make sure that the reference exists. If it is a name, it must be a valid range;
+2.Make sure that the reference is a single range, and it must contain two rows at least;
+3.Make sure that the first row of reference range not contain any empty cells, no error value, and each cell contains not more than 255 characters.</source>
+        <translation type="obsolete">您選取的樞紐分析表的資料來源不正確。請檢查您要分析的資料，是否滿足以下幾個條件:
+1.請確認參照範圍存在。如果是名稱，請確認該名稱參照的是一個合法的範圍。
+2.確認參照範圍是單一的範圍，並且至少有兩行。
+3.確認參照範圍的第一行，不存在空白儲存格、不包含錯誤值，而且每個儲存格內的字元數不超過 255 個。</translation>
+    </message>
+    <message>
+        <source>You cannot create or modify a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
+        <translation type="obsolete">您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
     </message>
 </context>
 <context>
     <name>KxCreateTableDlg</name>
     <message>
         <source>Where is the data for your table?</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">請問表格的資料來源？</translation>
     </message>
     <message>
         <source>My table has headers</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">有標題的表格(&amp;M)</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>參照無效。</translation>
     </message>
     <message>
         <source>Format As Table</source>
-        <translation type="unfinished"></translation>
+        <translation>格式化​​為表格</translation>
     </message>
     <message>
         <source>Create Table</source>
-        <translation type="unfinished"></translation>
+        <translation>建立表格</translation>
+    </message>
+    <message>
+        <source>&amp;Where is the data for your table?</source>
+        <translation>請問表格的資料來源(&amp;W)?</translation>
+    </message>
+    <message>
+        <source>&amp;My table has headers</source>
+        <translation>有標題的表格(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Filter the table</source>
+        <translation>篩選按鈕(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Only Format As Table</source>
+        <translation>僅格式化​​為表格(&amp;O)</translation>
+    </message>
+    <message>
+        <source>The number of title rows</source>
+        <translation>標題列的數量</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>1</source>
+        <translation>1</translation>
+    </message>
+    <message>
+        <source>2</source>
+        <translation>2</translation>
+    </message>
+    <message>
+        <source>3</source>
+        <translation>3</translation>
+    </message>
+    <message>
+        <source>4</source>
+        <translation>4</translation>
+    </message>
+    <message>
+        <source>5</source>
+        <translation>5</translation>
+    </message>
+    <message>
+        <source>&amp;Convert to a table and apply the table style</source>
+        <translation>轉換成表格，并套用表格樣式(&amp;C)</translation>
     </message>
 </context>
 <context>
@@ -3311,7 +3409,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>An error occurred when deleted.</source>
-        <translation type="obsolete">刪除時發生錯誤。</translation>
+        <translation>刪除時發生錯誤。</translation>
     </message>
     <message>
         <source>Error occurred when deleting the items!</source>
@@ -3327,7 +3425,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>An error occurred when delete.</source>
-        <translation>刪除時發生錯誤。</translation>
+        <translation type="obsolete">刪除時發生錯誤。</translation>
     </message>
 </context>
 <context>
@@ -3508,6 +3606,18 @@ To keep existing picture, click Cancel button.</source>
         <source>Description</source>
         <translation>描述</translation>
     </message>
+    <message>
+        <source>&amp;Create</source>
+        <translation>建立(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <translation>編輯(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;MacroIn</source>
+        <translation>巨集存放在(&amp;A):</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgCellPasteSpecial</name>
@@ -3589,11 +3699,15 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Validatio&amp;n</source>
-        <translation>驗證(&amp;V)</translation>
+        <translation>驗證(&amp;N)</translation>
     </message>
     <message>
         <source>Comm&amp;ent</source>
         <translation type="obsolete">註解(&amp;C)</translation>
+    </message>
+    <message>
+        <source>All using source t&amp;heme</source>
+        <translation>全部使用來源佈景主題(&amp;H)</translation>
     </message>
 </context>
 <context>
@@ -3615,27 +3729,27 @@ To keep existing picture, click Cancel button.</source>
     <name>KxDlgConditionFormat</name>
     <message>
         <source>&amp;Add&gt;&gt;</source>
-        <translation>新增(&amp;A) &gt;&gt;</translation>
+        <translation type="obsolete">新增(&amp;A) &gt;&gt;</translation>
     </message>
     <message>
         <source>&amp;Delete...</source>
-        <translation>刪除(&amp;D)...</translation>
+        <translation type="obsolete">刪除(&amp;D)...</translation>
     </message>
     <message>
         <source>Condition &amp;1</source>
-        <translation>條件一(&amp;1)</translation>
+        <translation type="obsolete">條件一(&amp;1)</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation>條件二(&amp;2)</translation>
+        <translation type="obsolete">條件二(&amp;2)</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation>條件三(&amp;3)</translation>
+        <translation type="obsolete">條件三(&amp;3)</translation>
     </message>
     <message>
         <source>Conditional Formatting</source>
-        <translation>設定格式化的條件</translation>
+        <translation type="obsolete">設定格式化的條件</translation>
     </message>
 </context>
 <context>
@@ -3662,27 +3776,27 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>123</source>
-        <translation>123</translation>
+        <translation type="obsolete">123</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation>自訂</translation>
+        <translation type="obsolete">自訂</translation>
     </message>
     <message>
         <source>Condition Highlight</source>
-        <translation>條件格式醒目提示</translation>
+        <translation type="obsolete">條件格式醒目提示</translation>
     </message>
     <message>
         <source>Cells subjected to the following conditions</source>
-        <translation>符合以下條件的儲存格</translation>
+        <translation type="obsolete">符合以下條件的儲存格</translation>
     </message>
     <message>
         <source>Keep the cell to its former setting</source>
-        <translation>保留儲存格原始設定</translation>
+        <translation type="obsolete">保留儲存格原始設定</translation>
     </message>
     <message>
         <source>Display the following effect</source>
-        <translation>顯示以下效果</translation>
+        <translation type="obsolete">顯示以下效果</translation>
     </message>
 </context>
 <context>
@@ -3720,9 +3834,7 @@ To keep existing picture, click Cancel button.</source>
     </message>
     <message>
         <source>Caution: If you lose or forget the password, it cannot be recovered. It is advisable to keep a list of passwords and their corresponding workbook and sheet names in a safe place.(Remember that passwords are case-sensitive.)</source>
-        <translation>請注意:如果您遺失或忘記密碼，這個檔案將無法復原。建議
-您將活頁簿及工作表的名稱及其對應的密碼清單保存在一個安全
-的地方。（請記得密碼有區分大小寫）。</translation>
+        <translation>請注意:如果您遺失或忘記密碼，這個檔案將無法復原。建議您將活頁簿及工作表的名稱及其對應的密碼清單保存在一個安全的地方。（請記得密碼有區分大小寫）。</translation>
     </message>
     <message>
         <source>&amp;Reenter password to proceed.</source>
@@ -3867,7 +3979,7 @@ place.(Remember that passwords are case-sensitive.)</source>
     </message>
     <message>
         <source>Create PivotTable</source>
-        <translation>建立樞紐分析表</translation>
+        <translation type="obsolete">建立樞紐分析表</translation>
     </message>
     <message>
         <source>Choose the data that you want to analyze</source>
@@ -3928,6 +4040,30 @@ place.(Remember that passwords are case-sensitive.)</source>
     <message>
         <source>Choose where you want the PivotTable report to be placed</source>
         <translation>請選取放置樞紐分析表的位置</translation>
+    </message>
+    <message>
+        <source>Use &amp;multiple consolidation ranges</source>
+        <translation>多重彙總資料範圍(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Select &amp;Ranges...</source>
+        <translation>選取範圍(&amp;R)...</translation>
+    </message>
+    <message>
+        <source>Create PivotTable And PivotChart</source>
+        <translation>建立樞紐分析表和樞紐分析圖</translation>
+    </message>
+    <message>
+        <source>What kind of report do you want to create?</source>
+        <translation>請問您想要建立何種型式的報表?</translation>
+    </message>
+    <message>
+        <source>Pivot&amp;Table</source>
+        <translation>樞紐分析表(&amp;T)</translation>
+    </message>
+    <message>
+        <source>PivotCha&amp;rt report(with PivotTable report)</source>
+        <translation>樞紐分析圖 (及樞紐分析表)(&amp;R)</translation>
     </message>
 </context>
 <context>
@@ -4117,23 +4253,23 @@ cursor in the edit box and press the Format Picture button.</source>
     <name>KxDlgDeleteCondition</name>
     <message>
         <source>Condition &amp;1</source>
-        <translation>條件一(&amp;1)</translation>
+        <translation type="obsolete">條件一(&amp;1)</translation>
     </message>
     <message>
         <source>Condition &amp;2</source>
-        <translation>條件二(&amp;2)</translation>
+        <translation type="obsolete">條件二(&amp;2)</translation>
     </message>
     <message>
         <source>Condition &amp;3</source>
-        <translation>條件三(&amp;3)</translation>
+        <translation type="obsolete">條件三(&amp;3)</translation>
     </message>
     <message>
         <source>Delete Conditional Format</source>
-        <translation>刪除條件格式</translation>
+        <translation type="obsolete">刪除條件格式</translation>
     </message>
     <message>
         <source>Select the conditions to delete:</source>
-        <translation>選取您要刪除的條件:</translation>
+        <translation type="obsolete">選取您要刪除的條件:</translation>
     </message>
     <message>
         <source>Delete Conditional  Format</source>
@@ -4205,6 +4341,14 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Pre&amp;serveFormatting</source>
         <translation type="obsolete">自動套用格式(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Refresh control</source>
+        <translation>更新控制項</translation>
+    </message>
+    <message>
+        <source>Enable &amp;background refresh</source>
+        <translation>啟用幕後執行更新作業(&amp;B)</translation>
     </message>
 </context>
 <context>
@@ -4281,7 +4425,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Series Creation &amp;Direction:</source>
-        <translation>建立數列的方向:</translation>
+        <translation type="obsolete">建立數列的方向:</translation>
     </message>
     <message>
         <source>Each row of data as a series</source>
@@ -4293,7 +4437,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Legend Entries(&amp;Series)</source>
-        <translation>圖例項目(數列)(&amp;S)</translation>
+        <translation type="obsolete">圖例項目(數列)(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Series</source>
@@ -4301,7 +4445,7 @@ cursor in the edit box and press the Format Picture button.</source>
     </message>
     <message>
         <source>Axis Labels(&amp;Category)</source>
-        <translation>座標軸標籤(分類)(&amp;C)</translation>
+        <translation type="obsolete">座標軸標籤(分類)(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Category</source>
@@ -4338,6 +4482,18 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>Show data in &amp;hidden rows and columns</source>
         <translation>顯示隱藏列和欄中的資料(&amp;H)</translation>
+    </message>
+    <message>
+        <source>S&amp;eries Creation Direction:</source>
+        <translation>建立數列的方向:</translation>
+    </message>
+    <message>
+        <source>Legend Entries(Series)</source>
+        <translation>圖例項目(數列)</translation>
+    </message>
+    <message>
+        <source>Axis Labels(Category)</source>
+        <translation>座標軸標籤(分類)</translation>
     </message>
 </context>
 <context>
@@ -5159,7 +5315,7 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Two colors</source>
-        <translation>&amp;Two colors</translation>
+        <translation>雙色(&amp;T)</translation>
     </message>
     <message>
         <source>Pre&amp;set</source>
@@ -5195,15 +5351,15 @@ printer and your screen.</source>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation>垂直(&amp;V):</translation>
+        <translation>垂直(&amp;V)</translation>
     </message>
     <message>
         <source>Diagonal &amp;up</source>
-        <translation>上斜線</translation>
+        <translation>右斜(&amp;U)</translation>
     </message>
     <message>
         <source>Diagonal &amp;down</source>
-        <translation>下斜線</translation>
+        <translation>左斜(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;From corner</source>
@@ -5256,8 +5412,8 @@ box, then choose the appropriate button.</source>
     <message>
         <source>To insert picture: press the Insert Picture button. To format your picture, place the
 cursor in the edit box and press the Format Picture button.</source>
-        <translation>    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置
-游標於編輯方塊內並按 [設定圖片格式] 按鈕。</translation>
+        <translation>    若要插入圖片:請按 [插入圖片] 按鈕。若要設定圖片格式:請放置游標於編輯
+方塊內並按 [設定圖片格式] 按鈕。</translation>
     </message>
     <message>
         <source>Font</source>
@@ -5306,6 +5462,10 @@ cursor in the edit box and press the Format Picture button.</source>
     <message>
         <source>&amp;Right section:</source>
         <translation>右(&amp;R):</translation>
+    </message>
+    <message>
+        <source>File Path</source>
+        <translation>路徑</translation>
     </message>
 </context>
 <context>
@@ -5685,127 +5845,127 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgNewTableStyle</name>
     <message>
         <source>New Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>新增表格樣式</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">名稱(&amp;N):</translation>
+        <translation>名稱(&amp;N):</translation>
     </message>
     <message>
         <source>Table Element:</source>
-        <translation type="unfinished"></translation>
+        <translation>表格項目(&amp;T):</translation>
     </message>
     <message>
         <source>Whole Table</source>
-        <translation type="unfinished"></translation>
+        <translation>整張表格</translation>
     </message>
     <message>
         <source>First Column Stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>第一欄條紋</translation>
     </message>
     <message>
         <source>Second Column Stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>第二欄條紋</translation>
     </message>
     <message>
         <source>First Row Stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>第一列條紋</translation>
     </message>
     <message>
         <source>Second Row Stripe</source>
-        <translation type="unfinished"></translation>
+        <translation>第二列條紋</translation>
     </message>
     <message>
         <source>Last Column</source>
-        <translation type="unfinished"></translation>
+        <translation>末欄</translation>
     </message>
     <message>
         <source>First Column</source>
-        <translation type="unfinished"></translation>
+        <translation>首欄</translation>
     </message>
     <message>
         <source>Header Row</source>
-        <translation type="unfinished"></translation>
+        <translation>標題列</translation>
     </message>
     <message>
         <source>Total Row</source>
-        <translation type="unfinished"></translation>
+        <translation>合計列</translation>
     </message>
     <message>
         <source>First Header Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>第一個標題儲存格</translation>
     </message>
     <message>
         <source>Last Header Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>最後一個標題儲存格</translation>
     </message>
     <message>
         <source>First Total Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>第一個合計儲存格</translation>
     </message>
     <message>
         <source>Last Total Cell</source>
-        <translation type="unfinished"></translation>
+        <translation>最後一個合計儲存格</translation>
     </message>
     <message>
         <source>&amp;Format</source>
-        <translation type="unfinished">格式(&amp;F)</translation>
+        <translation>格式(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation type="unfinished"></translation>
+        <translation>清除(&amp;C)</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">預覽</translation>
+        <translation>預覽</translation>
     </message>
     <message>
         <source>StripeSize</source>
-        <translation type="unfinished"></translation>
+        <translation>條紋大小</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation type="unfinished">2</translation>
+        <translation>2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation type="unfinished">4</translation>
+        <translation>4</translation>
     </message>
     <message>
         <source>5</source>
-        <translation type="unfinished">5</translation>
+        <translation>5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
     <message>
         <source>7</source>
-        <translation type="unfinished">7</translation>
+        <translation>7</translation>
     </message>
     <message>
         <source>8</source>
-        <translation type="unfinished">8</translation>
+        <translation>8</translation>
     </message>
     <message>
         <source>9</source>
-        <translation type="unfinished">9</translation>
+        <translation>9</translation>
     </message>
     <message>
         <source>Element Formatting:</source>
-        <translation type="unfinished"></translation>
+        <translation>項目格式設定:</translation>
     </message>
     <message>
         <source>Set as default table style for this document</source>
-        <translation type="unfinished"></translation>
+        <translation>設為此文件的預設表格樣式(&amp;S)</translation>
     </message>
 </context>
 <context>
@@ -5935,7 +6095,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Reenter password to modify:</source>
-        <translation>請再次輸入防寫密碼(&amp;R):</translation>
+        <translation type="obsolete">請再次輸入防寫密碼(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -6491,7 +6651,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation type="unfinished">幫助我們改進產品。</translation>
+        <translation type="obsolete">幫助我們改進產品。</translation>
     </message>
     <message>
         <source>Double-click in the space to create a &amp;new document</source>
@@ -6623,7 +6783,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Always create &amp;backup</source>
-        <translation>總是建立備份</translation>
+        <translation>總是建立備份(&amp;B)</translation>
     </message>
     <message>
         <source>Read-only &amp;recommended Option</source>
@@ -6635,23 +6795,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Checkbox</source>
-        <translation type="obsolete">核取方塊</translation>
+        <translation>核取方塊</translation>
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation>訂閱 WPS 熱點</translation>
+        <translation type="obsolete">訂閱 WPS 熱點</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation>當日顯示(&amp;V)</translation>
+        <translation type="obsolete">當日顯示(&amp;V)</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation>一周後顯示(&amp;Y)</translation>
+        <translation type="obsolete">一周後顯示(&amp;Y)</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation>不要再顯示(&amp;A)</translation>
+        <translation type="obsolete">不要再顯示(&amp;A)</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
@@ -6663,7 +6823,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;如何去除其他廣告？了解新的變化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;如何去除其他廣告？了解新的變化&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Feedback</source>
@@ -6671,23 +6831,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="obsolete">加入使用者經歷改進計劃，以幫助改進和完善 WPS Office。</translation>
+        <translation>加入使用者經歷改進計劃，以幫助改進和完善 WPS Office。</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="obsolete">語言</translation>
+        <translation>語言</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
-        <translation type="obsolete">自動下載與更新語言套件</translation>
+        <translation>自動下載與更新語言套件</translation>
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="obsolete">選擇顯示與說明語言</translation>
+        <translation>選擇顯示與說明語言</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="obsolete">選擇...</translation>
+        <translation>選擇...</translation>
     </message>
     <message>
         <source>CheckBox</source>
@@ -6703,11 +6863,359 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Shortcuts</source>
-        <translation type="obsolete">快速鍵</translation>
+        <translation>快速鍵</translation>
     </message>
     <message>
         <source>Custom Shortcuts:</source>
-        <translation type="obsolete">自訂快速鍵:</translation>
+        <translation>自訂快速鍵:</translation>
+    </message>
+    <message>
+        <source>Sh&amp;ortcuts</source>
+        <translation>快速鍵(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translation>功能區選項</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translation>按兩下標籤隱藏功能區(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translation>硬體加密</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translation>備份設定</translation>
+    </message>
+    <message>
+        <source>ch, 0, 0, 720, 1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translation>檢視備份檔案(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Recalculate before save</source>
+        <translation>存檔前自動重算(&amp;W)</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)</source>
+        <translation type="obsolete">WPS 線上安全文件格式(*.xls)</translation>
+    </message>
+    <message>
+        <source>Re&amp;enter password to modify:</source>
+        <translation>請再次輸入修改權限密碼(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Doub&amp;le click tab to Close Documemt</source>
+        <translation>按兩下標籤關閉文件(&amp;L)</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Need Login</source>
+        <translation>請先登入再設定</translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation>登入</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Set auto roaming &amp;mode and save file to cloud</source>
+        <translation>啟用自動漫遊以備份文件至雲端(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;檔案路徑:雲端檔案\我的雲端檔案\自動上傳檔案&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>&amp;Measurement units:</source>
+        <translation>度量單位(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation>英吋</translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation>公釐</translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation>點</translation>
+    </message>
+    <message>
+        <source>External Content</source>
+        <translation>外部內容</translation>
+    </message>
+    <message>
+        <source>Security settings for Data Connections</source>
+        <translation>資料連線的安全性設定</translation>
+    </message>
+    <message>
+        <source>&amp;Enable all Data Connections(not recommended)</source>
+        <translation>啟用所有資料連線 (不建議)(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Prompt User about Data Connections</source>
+        <translation>提示使用者是否使用資料連線(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Disable all Data Connections</source>
+        <translation>停用所有資料連線(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook (*.xlsx)</source>
+        <translation>Microsoft Excel 活頁簿（*.xlsx）</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook (*.xls)</source>
+        <translation>Microsoft Excel 97-2003 活頁簿(*.xls)</translation>
+    </message>
+    <message>
+        <source>The content in this cell does not conform to the &amp;data validation</source>
+        <translation>儲存格中的內容不符合資料驗證(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation>備份中心</translation>
+    </message>
+    <message>
+        <source>Horizon&amp;tal scroll bar</source>
+        <translation>水平捲軸(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Default HomePage(&amp;Y):</source>
+        <translation>預設首頁(&amp;Y):</translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation>我的 WPS</translation>
+    </message>
+    <message>
+        <source>My CloudDocument</source>
+        <translation>雲端檔案</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical scroll bar</source>
+        <translation>垂直捲軸(&amp;V)</translation>
+    </message>
+    <message>
+        <source>AutoFilter context tab</source>
+        <translation type="obsolete">自動篩選索引標籤</translation>
+    </message>
+    <message>
+        <source>Show context tab when has AutoF&amp;ilter</source>
+        <translation type="obsolete">有自動篩選時，顯示關聯式索引標籤(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Select area with mouse. Slow down when close to borders.</source>
+        <translation>滑鼠選取區域，遇到邊界時減速(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Merge cell settings</source>
+        <translation>設定預設合併方式</translation>
+    </message>
+    <message>
+        <source>DEFAULT option for merge single column cells:</source>
+        <translation>合併單欄儲存格時，預設</translation>
+    </message>
+    <message>
+        <source>Ask you</source>
+        <translation>詢問</translation>
+    </message>
+    <message>
+        <source>Normal merge</source>
+        <translation>常規合併</translation>
+    </message>
+    <message>
+        <source>Merge same cells</source>
+        <translation>合併相同儲存格</translation>
+    </message>
+    <message>
+        <source>DEFAULT option for cancel merged single column cells:</source>
+        <translation>取消合併單欄儲存格時，預設</translation>
+    </message>
+    <message>
+        <source>Merge the content</source>
+        <translation>合併內容</translation>
+    </message>
+    <message>
+        <source>Normal cancel merged</source>
+        <translation>常規取消合併</translation>
+    </message>
+    <message>
+        <source>Cancel merged and fill content</source>
+        <translation>取消合併并填滿內容</translation>
+    </message>
+    <message>
+        <source>DEFAULT option for merge multi-column cells:</source>
+        <translation>合併多欄儲存格時，預設</translation>
+    </message>
+    <message>
+        <source>DEFAULT option after merge same cells:</source>
+        <translation>合併選中的相同儲存格之後，</translation>
+    </message>
+    <message>
+        <source>Ask to merge same cells below</source>
+        <translation>提示合併下方相同儲存格</translation>
+    </message>
+    <message>
+        <source>don&apos;t check expand cells below</source>
+        <translation>不繼續檢查</translation>
+    </message>
+    <message>
+        <source>CSV Open</source>
+        <translation>開啟CSV檔</translation>
+    </message>
+    <message>
+        <source>Never show dialog &amp;when open CSV file</source>
+        <translation>開啟CSV檔案時不彈出對話方塊(&amp;W)</translation>
+    </message>
+    <message>
+        <source>C&amp;lear CSV fields</source>
+        <translation>清除CSV欄位清單(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Formulas</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Enable m&amp;ulti-threaded calculation</source>
+        <translation>啟動多執行緒計算(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Number of calculation threads</source>
+        <translation>執行緒數量</translation>
+    </message>
+    <message>
+        <source>Use all p&amp;rocessors on this computer:</source>
+        <translation>使用電腦上的所有處理器(&amp;R):</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>Cus&amp;tom</source>
+        <translation>自訂(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>列印</translation>
+    </message>
+    <message>
+        <source>Extra print setting</source>
+        <translation>附帶印出</translation>
+    </message>
+    <message>
+        <source>Show &amp;plain watermark</source>
+        <translation>明文浮水印(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Password &amp;hint:</source>
+        <translation>密碼提示(&amp;H):</translation>
+    </message>
+    <message>
+        <source>At startup, &amp;open all files in:</source>
+        <translation>啟動時開啟此目錄中的所有檔案(&amp;O):</translation>
+    </message>
+    <message>
+        <source>NewFeatures</source>
+        <translation>新功能</translation>
+    </message>
+    <message>
+        <source>Auto Filter</source>
+        <translation>自動篩選</translation>
+    </message>
+    <message>
+        <source>Show context tab when has Au&amp;toFilter</source>
+        <translation>有自動篩選時，顯示關聯式索引標籤(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Check the area below the filter range</source>
+        <translation>檢查篩選區域的下方區域(&amp;C)</translation>
+    </message>
+    <message>
+        <source>When there are datas matching the rules</source>
+        <translation>若有符合條件的資料，則</translation>
+    </message>
+    <message>
+        <source>Auto expand</source>
+        <translation>自動擴大</translation>
+    </message>
+    <message>
+        <source>Ask whether to expand</source>
+        <translation>詢問我是否擴大</translation>
+    </message>
+    <message>
+        <source>Matching criterion</source>
+        <translation>檢查標準</translation>
+    </message>
+    <message>
+        <source>Similar data</source>
+        <translation>類似的資料</translation>
+    </message>
+    <message>
+        <source>All data</source>
+        <translation>所有資料</translation>
+    </message>
+    <message>
+        <source>Paste settings</source>
+        <translation>貼上設定</translation>
+    </message>
+    <message>
+        <source>DEFAULT option for paste into filter hidden area:</source>
+        <translation>貼上至篩選隱藏區域時，預設</translation>
+    </message>
+    <message>
+        <source>Paste values into visible cells</source>
+        <translation>僅貼上值到可見儲存格</translation>
+    </message>
+    <message>
+        <source>Paste into continuous area</source>
+        <translation>貼上至不間斷區域</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable Live Preview (&amp;P)</source>
+        <translation>啟用實時預覽(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Account encryption</source>
+        <translation>賬戶加密</translation>
+    </message>
+    <message>
+        <source>Use WPS account to encrypt files, simple, convenient, safe and reliable! Colleagues can restrict designated users to use the document</source>
+        <translation>使用WPS賬戶加密檔案，簡單、便捷、安全、可靠，同時可限制其他用戶對文件的使用權限。</translation>
+    </message>
+    <message>
+        <source>Document icon</source>
+        <translation>文件圖示</translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation>文件名稱</translation>
+    </message>
+    <message>
+        <source>Use account encryption</source>
+        <translation>使用賬戶加密</translation>
     </message>
 </context>
 <context>
@@ -6754,7 +7262,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Gridlines</source>
-        <translation>列印格線(&amp;D)</translation>
+        <translation>列印格線(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Landscape</source>
@@ -7016,6 +7524,18 @@ p, li { white-space: pre-wrap; }
         <source>Align with page &amp;margins</source>
         <translation>對齊頁面邊界(&amp;M)</translation>
     </message>
+    <message>
+        <source>Comment:</source>
+        <translation>註解(&amp;M):</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(無)</translation>
+    </message>
+    <message>
+        <source>As displayed on sheet</source>
+        <translation>和工作表上的顯示狀態相同</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPasteName</name>
@@ -7036,83 +7556,83 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgPivotTableFieldFmt</name>
     <message>
         <source>&amp;Display subtotals at top of group</source>
-        <translation>於群組上方顯示小計(&amp;D)</translation>
+        <translation type="obsolete">於群組上方顯示小計(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Insert blank line after each item</source>
-        <translation>每項後面插入空列(&amp;I)</translation>
+        <translation type="obsolete">每項後面插入空列(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;None</source>
-        <translation>無(&amp;N)</translation>
+        <translation type="obsolete">無(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Show items:</source>
-        <translation>顯示項目(&amp;S)</translation>
+        <translation type="obsolete">顯示項目(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Summarize value field by</source>
-        <translation>資料欄位統計方式(&amp;S)</translation>
+        <translation type="obsolete">資料欄位統計方式(&amp;S)</translation>
     </message>
     <message>
         <source>Ad&amp;vanced...</source>
-        <translation>進階(&amp;V)...</translation>
+        <translation type="obsolete">進階(&amp;V)...</translation>
     </message>
     <message>
         <source>Au&amp;tomatic</source>
-        <translation>自動(&amp;T)</translation>
+        <translation type="obsolete">自動(&amp;T)</translation>
     </message>
     <message>
         <source>Base &amp;field:</source>
-        <translation>基本欄位(&amp;F):</translation>
+        <translation type="obsolete">基本欄位(&amp;F):</translation>
     </message>
     <message>
         <source>Base &amp;item:</source>
-        <translation>基本項目(&amp;I):</translation>
+        <translation type="obsolete">基本項目(&amp;I):</translation>
     </message>
     <message>
         <source>C&amp;ustom</source>
-        <translation>自訂(&amp;U)</translation>
+        <translation type="obsolete">自訂(&amp;U)</translation>
     </message>
     <message>
         <source>Display</source>
-        <translation>顯示</translation>
+        <translation type="obsolete">顯示</translation>
     </message>
     <message>
         <source>Insert &amp;page break after each item</source>
-        <translation>每一項之後插入分頁(&amp;P)</translation>
+        <translation type="obsolete">每一項之後插入分頁(&amp;P)</translation>
     </message>
     <message>
         <source>Layout</source>
-        <translation>佈局</translation>
+        <translation type="obsolete">佈局</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation>名稱(&amp;M):</translation>
+        <translation type="obsolete">名稱(&amp;M):</translation>
     </message>
     <message>
         <source>PivotTable Field</source>
-        <translation>樞紐分析表欄位</translation>
+        <translation type="obsolete">樞紐分析表欄位</translation>
     </message>
     <message>
         <source>S&amp;how items with no data</source>
-        <translation>顯示未包含資料的項目(&amp;H)</translation>
+        <translation type="obsolete">顯示未包含資料的項目(&amp;H)</translation>
     </message>
     <message>
         <source>Show items in &amp;outline form</source>
-        <translation>以大綱模式顯示(&amp;O)</translation>
+        <translation type="obsolete">以大綱模式顯示(&amp;O)</translation>
     </message>
     <message>
         <source>Show items in &amp;tabular form</source>
-        <translation>以列表方式顯示(&amp;T)</translation>
+        <translation type="obsolete">以列表方式顯示(&amp;T)</translation>
     </message>
     <message>
         <source>Source field:</source>
-        <translation>來源欄位:</translation>
+        <translation type="obsolete">來源欄位:</translation>
     </message>
     <message>
         <source>Subtotals</source>
-        <translation>小計</translation>
+        <translation type="obsolete">小計</translation>
     </message>
     <message>
         <source>buttonGroup</source>
@@ -7124,31 +7644,31 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Summarize Values By</source>
-        <translation>小計</translation>
+        <translation type="obsolete">小計</translation>
     </message>
     <message>
         <source>Choose the type of calculation that you want to use to summarize data from the selected field</source>
-        <translation>選取要小計的資料欄位的計算類型</translation>
+        <translation type="obsolete">選取要小計的資料欄位的計算類型</translation>
     </message>
     <message>
         <source>Show Values As</source>
-        <translation>顯示</translation>
+        <translation type="obsolete">顯示</translation>
     </message>
     <message>
         <source>Show v&amp;alues as</source>
-        <translation>顯示(&amp;A)</translation>
+        <translation type="obsolete">顯示(&amp;A)</translation>
     </message>
     <message>
         <source>Display options</source>
-        <translation>顯示選項</translation>
+        <translation type="obsolete">顯示選項</translation>
     </message>
     <message>
         <source>Print option</source>
-        <translation>列印選項</translation>
+        <translation type="obsolete">列印選項</translation>
     </message>
     <message>
         <source>Num&amp;ber Format</source>
-        <translation>數字格式(&amp;B)</translation>
+        <translation type="obsolete">數字格式(&amp;B)</translation>
     </message>
     <message>
         <source>Choose the type of calculation that you want to use to summarize</source>
@@ -7180,18 +7700,18 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Repeat Item Labels</source>
-        <translation>重複項目標籤(&amp;R)</translation>
+        <translation type="obsolete">重複項目標籤(&amp;R)</translation>
     </message>
 </context>
 <context>
     <name>KxDlgPivotTableOptions</name>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation>每一欄的欄位(&amp;F):</translation>
+        <translation type="obsolete">每一欄的欄位(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Grand totals for columns</source>
-        <translation>欄總計(&amp;G)</translation>
+        <translation type="obsolete">欄總計(&amp;G)</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
@@ -7199,23 +7719,23 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>&amp;Refresh on open</source>
-        <translation>開啟時更新(&amp;R)</translation>
+        <translation type="obsolete">開啟時更新(&amp;R)</translation>
     </message>
     <message>
         <source>For empty c&amp;ells, show:</source>
-        <translation>若為空值，顯示(&amp;C):</translation>
+        <translation type="obsolete">若為空值，顯示(&amp;C):</translation>
     </message>
     <message>
         <source>For error &amp;values, show:</source>
-        <translation>若為錯誤值，顯示(&amp;V):</translation>
+        <translation type="obsolete">若為錯誤值，顯示(&amp;V):</translation>
     </message>
     <message>
         <source>Grand &amp;totals for rows</source>
-        <translation>列總計(&amp;T)</translation>
+        <translation type="obsolete">列總計(&amp;T)</translation>
     </message>
     <message>
         <source>Page &amp;layout:</source>
-        <translation>版面配置(&amp;L):</translation>
+        <translation type="obsolete">版面配置(&amp;L):</translation>
     </message>
     <message>
         <source>PivotTable Options</source>
@@ -7223,15 +7743,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Subtotal &amp;hidden page items</source>
-        <translation>隱藏頁項目小計(&amp;H)</translation>
+        <translation type="obsolete">隱藏頁項目小計(&amp;H)</translation>
     </message>
     <message>
         <source>Down, then over</source>
-        <translation>由左至右</translation>
+        <translation type="obsolete">由左至右</translation>
     </message>
     <message>
         <source>Over, then down</source>
-        <translation>由上到下</translation>
+        <translation type="obsolete">由上到下</translation>
     </message>
     <message>
         <source>Down, Then Over</source>
@@ -7240,6 +7760,186 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Over, Then Down</source>
         <translation type="obsolete">由上到下</translation>
+    </message>
+    <message>
+        <source>Layout &amp;&amp; Format</source>
+        <translation>版面配置與格式</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>佈局</translation>
+    </message>
+    <message>
+        <source>&amp;Merge and center cells with labels</source>
+        <translation>具有標籤的儲存格跨欄置中(&amp;M)</translation>
+    </message>
+    <message>
+        <source>When in &amp;compact form indent row labels:</source>
+        <translation>壓縮表單時，縮排列標籤(&amp;C):</translation>
+    </message>
+    <message>
+        <source>character(s)</source>
+        <translation>字元</translation>
+    </message>
+    <message>
+        <source>&amp;Dispaly fields in the report filter area:</source>
+        <translation>顯示報表篩選區域中的欄位(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Down, Then over</source>
+        <translation>由左至右</translation>
+    </message>
+    <message>
+        <source>Over, Then down</source>
+        <translation>由上到下</translation>
+    </message>
+    <message>
+        <source>Report filter &amp;fields per column:</source>
+        <translation>每欄的報表篩選欄位數(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>格式</translation>
+    </message>
+    <message>
+        <source>For &amp;error values show:</source>
+        <translation>若為錯誤值，顯示(&amp;E):</translation>
+    </message>
+    <message>
+        <source>For empty cells &amp;show: </source>
+        <translation>若為空白儲存格，顯示(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Autofit column widths on update</source>
+        <translation>更新時自動調整欄寬(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Preserve cell formatting on update</source>
+        <translation>更新時自動套用格式(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Totals &amp;&amp; Filters</source>
+        <translation>總計與篩選</translation>
+    </message>
+    <message>
+        <source>Grand Totals</source>
+        <translation>總計</translation>
+    </message>
+    <message>
+        <source>&amp;Show grand totals for rows</source>
+        <translation>顯示列的總計(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Show &amp;grand totals for columns</source>
+        <translation>顯示欄的總計(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Filters</source>
+        <translation>篩選</translation>
+    </message>
+    <message>
+        <source>Subtotal &amp;filtered page items</source>
+        <translation>篩選的頁面項目小計(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Allow multiple filters per field</source>
+        <translation>允許每個欄位有多個篩選(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Sorting</source>
+        <translation>排序</translation>
+    </message>
+    <message>
+        <source>Use Custom &amp;Lists when sorting</source>
+        <translation>排序時，使用自訂清單(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Display</source>
+        <translation>顯示</translation>
+    </message>
+    <message>
+        <source>&amp;Show expand/collapse buttons</source>
+        <translation>顯示展開/摺疊按鈕(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Show &amp;contextual tooltips</source>
+        <translation>顯示關聯式工具提示(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Show properties in &amp;tooltips</source>
+        <translation>在工具提示顯示內容(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Display field captions and filter drop downs</source>
+        <translation>顯示欄位標題和篩選下拉式清單(&amp;D)</translation>
+    </message>
+    <message>
+        <source>C&amp;lassic PivotTable layout(enables dragging of fields in the grid)</source>
+        <translation>古典樞紐分析表版面配置 (在格線中啟用拖曳欄位)(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Show the &amp;Values row</source>
+        <translation>顯示數值列(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Sho&amp;w items with no data on rows</source>
+        <translation>顯示列中未包含資料的項目(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Show &amp;items with no data on columns</source>
+        <translation>顯示欄中未包含資料的項目(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Displa&amp;y item labels when no fields are in the values area</source>
+        <translation>值區域中沒有欄位時，顯示項目標籤(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>Field List</source>
+        <translation>欄位清單</translation>
+    </message>
+    <message>
+        <source>Sort &amp;A to Z</source>
+        <translation>從 A 到 Z 排序(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Sort in data source orde&amp;r</source>
+        <translation>以資料來源順序排序(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Data</source>
+        <translation>資料</translation>
+    </message>
+    <message>
+        <source>PivotTable Data</source>
+        <translation>樞紐分析表資料</translation>
+    </message>
+    <message>
+        <source>&amp;Save source data with file</source>
+        <translation>以檔案儲存來源資料(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Enable show details</source>
+        <translation>啟用顯示詳細資料(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Refresh data when opening the file</source>
+        <translation>檔案開啟時自動更新(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Retain items deleted from the data source</source>
+        <translation>保留資料來源中被刪除的項目</translation>
+    </message>
+    <message>
+        <source>&amp;Number of items to retain per filed:</source>
+        <translation>每個欄位要保留的項目數(&amp;N):</translation>
+    </message>
+    <message>
+        <source>What-If Analysis</source>
+        <translation>模擬分析</translation>
+    </message>
+    <message>
+        <source>&amp;Enable cell editing in the values area</source>
+        <translation>在值區域啟用儲存格編輯(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -7419,6 +8119,10 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>How to solve problems of the printer?</source>
         <translation>如何解決印表機的問題？</translation>
+    </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation>選項(&amp;O)...</translation>
     </message>
 </context>
 <context>
@@ -7659,6 +8363,18 @@ Only %d unique value can be keep after delete.</source>
         <source>It compares the contents by rows after clicking OK.</source>
         <translation>按一下 [確定] 后，將按列進行內容比較。</translation>
     </message>
+    <message>
+        <source>&amp;Support ID number</source>
+        <translation type="obsolete">储存格中存在身分證號碼(&amp;S)</translation>
+    </message>
+    <message>
+        <source>(Note: The function only supports single range)</source>
+        <translation>（注:請選取一個範圍）</translation>
+    </message>
+    <message>
+        <source>Identify duplicated &amp;strings of more than 15 numbers (bank card, etc.)</source>
+        <translation>精確比對15位以上的長數字（例如身份證、銀行卡）(&amp;S)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgResolveConflicts</name>
@@ -7808,16 +8524,32 @@ Only %d unique value can be keep after delete.</source>
         <source>&amp;Show track changes decription.</source>
         <translation type="obsolete">將所做的修訂在螢幕上標示出來(&amp;D)</translation>
     </message>
+    <message>
+        <source>&amp;Track changes while editing. This also shares your workbook.</source>
+        <translation>編輯時記錄所做的修訂(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Everyone</source>
+        <translation>所有人</translation>
+    </message>
+    <message>
+        <source>Everyone but Me</source>
+        <translation>除了自己外的所有人</translation>
+    </message>
+    <message>
+        <source>&amp;List changes on a new sheet.</source>
+        <translation>將修訂記錄存在另外一個工作表中(&amp;L)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgScreenTip</name>
     <message>
         <source>Hyperlink ScreenTip</source>
-        <translation>工具提示</translation>
+        <translation type="obsolete">工具提示</translation>
     </message>
     <message>
         <source>Screen&amp;Tip text:</source>
-        <translation>工具提示文字:</translation>
+        <translation>工具提示文字(&amp;T):</translation>
     </message>
     <message>
         <source>Set Hyperlink ScreenTip</source>
@@ -8575,6 +9307,14 @@ If this is correct, choose Next. If not, choose the data type that best describe
         <translation>資料剖析精靈判定資料類型為分隔符號。
 若一切設定無誤，請選取 [下一步]，或選取適當的資料類別。</translation>
     </message>
+    <message>
+        <source>&apos;General&apos; converts numeric values to numbers, date values to dates, and all remaining values to text.</source>
+        <translation>「一般」資料格式會使得數值被轉成數字格式，日期值被轉成日期欄格式，其餘資料則被轉成文字格式。</translation>
+    </message>
+    <message>
+        <source>Trailing &amp;minus for negative numbers</source>
+        <translation>負號在右側的負數(&amp;M)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTextToColumnsOptions</name>
@@ -8912,12 +9652,16 @@ protected.</source>
         <source>A query with this name already exists on this worksheet.</source>
         <translation>工作表中存在同名查詢。</translation>
     </message>
+    <message>
+        <source>Pro&amp;mpt for file name on refresh</source>
+        <translation>重新整理時提示檔案名(&amp;M)</translation>
+    </message>
 </context>
 <context>
     <name>KxEditAxisLableDlg</name>
     <message>
         <source>#ERROR</source>
-        <translation>錯誤(&amp;E)</translation>
+        <translation>#錯誤</translation>
     </message>
     <message>
         <source>Select Range</source>
@@ -8970,6 +9714,10 @@ protected.</source>
         <source>Warning: Values not updated</source>
         <translation>提醒訊息: 未更新數值</translation>
     </message>
+    <message>
+        <source>Not allowed to refer a security document</source>
+        <translation>不允許參照安全文件</translation>
+    </message>
 </context>
 <context>
     <name>KxEditDataSeriesDlg</name>
@@ -8983,7 +9731,7 @@ protected.</source>
     </message>
     <message>
         <source>#ERROR!</source>
-        <translation>錯誤</translation>
+        <translation>#錯誤</translation>
     </message>
     <message>
         <source>Select Range</source>
@@ -9106,6 +9854,14 @@ protected.</source>
     <message>
         <source>No fill</source>
         <translation type="obsolete">無填滿</translation>
+    </message>
+    <message>
+        <source>Filter by cell icon:</source>
+        <translation>依儲存格圖示篩選:</translation>
+    </message>
+    <message>
+        <source>No Icon</source>
+        <translation>無圖示</translation>
     </message>
 </context>
 <context>
@@ -9396,6 +10152,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>No Fill</source>
         <translation>無填滿</translation>
     </message>
+    <message>
+        <source>Recent Colors</source>
+        <translation>最近使用的色彩</translation>
+    </message>
 </context>
 <context>
     <name>KxEtFontColorModel</name>
@@ -9489,6 +10249,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>PROPERTY</source>
         <translation>屬性</translation>
     </message>
+    <message>
+        <source>POSITION AND LAYOUT</source>
+        <translation>位置和版面配置</translation>
+    </message>
 </context>
 <context>
     <name>KxEtFormatShapeDlg</name>
@@ -9523,6 +10287,14 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     <message>
         <source>Text Box</source>
         <translation>文字方塊</translation>
+    </message>
+    <message>
+        <source>Protection</source>
+        <translation>保護</translation>
+    </message>
+    <message>
+        <source>Format Comment</source>
+        <translation>註解格式</translation>
     </message>
 </context>
 <context>
@@ -9948,11 +10720,11 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
     </message>
     <message>
         <source>Chart%1 in WPS Writer</source>
-        <translation>WPS Writer 中的表格</translation>
+        <translation type="obsolete">WPS Writer 中的圖表</translation>
     </message>
     <message>
         <source>Chart%1 in WPS Presentation</source>
-        <translation>WPS Presentation 中的表格</translation>
+        <translation type="obsolete">WPS Presentation 中的圖表</translation>
     </message>
 </context>
 <context>
@@ -9962,26 +10734,69 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
 
 Choose a visual
 style for the table</source>
-        <translation type="unfinished"></translation>
+        <translation>更多
+
+選擇表格的視覺樣式。</translation>
+    </message>
+    <message>
+        <source>More
+
+Choose a visual
+style for the pivot table</source>
+        <translation>更多
+
+選擇樞紐分析表的視覺樣式。</translation>
     </message>
 </context>
 <context>
     <name>KxEtTableStyleModel</name>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自訂</translation>
+        <translation>自訂</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">淺</translation>
+        <translation>淺色</translation>
     </message>
     <message>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation>中等深淺</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>深色</translation>
+    </message>
+    <message>
+        <source>First Row</source>
+        <translation>首列</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation>首欄</translation>
+    </message>
+    <message>
+        <source>Last Row</source>
+        <translation>末列</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>末欄</translation>
+    </message>
+    <message>
+        <source>Banded Rows</source>
+        <translation>帶狀列</translation>
+    </message>
+    <message>
+        <source>Banded Columns</source>
+        <translation>帶狀欄</translation>
+    </message>
+    <message>
+        <source>First Row And First Column</source>
+        <translation>首列及首欄</translation>
+    </message>
+    <message>
+        <source>First Row And Last Row</source>
+        <translation>首列及末列</translation>
     </message>
 </context>
 <context>
@@ -10015,15 +10830,15 @@ style for the table</source>
     <name>KxEtTpTableStyle</name>
     <message>
         <source>Table Style:</source>
-        <translation type="unfinished"></translation>
+        <translation>表格樣式:</translation>
     </message>
     <message>
         <source>Table Style Options:</source>
-        <translation type="unfinished"></translation>
+        <translation>表格樣式選項</translation>
     </message>
     <message>
         <source>Clear Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>清除表格樣式</translation>
     </message>
 </context>
 <context>
@@ -10057,7 +10872,7 @@ style for the table</source>
     </message>
     <message>
         <source>This is not a valid integer.</source>
-        <translation>您輸入的內容不是合法的整數值</translation>
+        <translation>您輸入的內容不是合法的整數值。</translation>
     </message>
     <message>
         <source>Invail Unit.</source>
@@ -10103,31 +10918,31 @@ style for the table</source>
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>另存 OFD 檔案為</translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD 檔案(*.ofd)|*.ofd</translation>
     </message>
     <message>
         <source>The specified path does not exist, enter a valid one please.</source>
-        <translation type="unfinished">你指定的路徑不存在，請輸入一個有效的路徑。</translation>
+        <translation>你指定的路徑不存在，請輸入一個有效的路徑。</translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation type="unfinished">您指定的檔案已經存在，確定要覆蓋該檔案嗎?</translation>
+        <translation>您指定的檔案已經存在，確定要覆蓋該檔案嗎?</translation>
     </message>
     <message>
         <source>Confirmation password is not identical.</source>
-        <translation type="unfinished">確認密碼不相同。</translation>
+        <translation>確認密碼不相同。</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation type="unfinished">請輸入權限設定密碼!</translation>
+        <translation>請輸入權限設定密碼!</translation>
     </message>
     <message>
         <source>File open password and permission password must be different, please enter again.</source>
-        <translation type="unfinished">檔案打開密碼與權限設定密碼不同，請重新輸入。</translation>
+        <translation>檔案打開密碼與權限設定密碼不同，請重新輸入。</translation>
     </message>
 </context>
 <context>
@@ -10177,47 +10992,47 @@ style for the table</source>
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在準備匯出 OFD 檔案...</translation>
     </message>
     <message>
         <source>Exporting summary information...</source>
-        <translation type="unfinished">正在匯出摘要資訊...</translation>
+        <translation>正在匯出摘要資訊...</translation>
     </message>
     <message>
         <source>Exporting page </source>
-        <translation type="unfinished">正在處理第 </translation>
+        <translation>正在處理第 </translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"> 頁...</translation>
+        <translation> 頁...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation type="unfinished">正在匯出標籤...</translation>
+        <translation>正在匯出標籤...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completing...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在完成...</translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation type="unfinished"></translation>
+        <translation>開啟 OFD 檔案時發生錯誤!</translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation type="unfinished"></translation>
+        <translation>OFD 轉換器可能有記憶體配置問題，請縮小文件大小或者圖片大小。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets encountered an error while trying exporting to OFD.</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 OFD 檔案的過程中發生錯誤!</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>關閉</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出完成。</translation>
     </message>
 </context>
 <context>
@@ -10294,7 +11109,7 @@ style for the table</source>
     </message>
     <message>
         <source>Check if your search formatting and criteria are defined correctly.</source>
-        <translation>請檢查您的搜尋格式及準則是否定義正確。</translation>
+        <translation type="obsolete">請檢查您的搜尋格式及準則是否定義正確。</translation>
     </message>
     <message>
         <source>Clea&amp;r Find Format</source>
@@ -10334,7 +11149,7 @@ style for the table</source>
     </message>
     <message>
         <source>If you are sure that matching data exists in this workbook, it may be in a protected sheet.</source>
-        <translation>若在此活頁簿中確實存在匹配的資料，則可能所在的工作表是被保護的。</translation>
+        <translation type="obsolete">若在此活頁簿中確實存在匹配的資料，則可能所在的工作表是被保護的。</translation>
     </message>
     <message>
         <source>No cells were found.</source>
@@ -10390,11 +11205,11 @@ style for the table</source>
     </message>
     <message>
         <source>WPS Spreadsheets cannot find any data to replace.</source>
-        <translation>WPS Spreadsheets 找不到任何要取代的資料。</translation>
+        <translation type="obsolete">WPS Spreadsheets 找不到任何要取代的資料。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets cannot replace data on protected sheet.</source>
-        <translation>WPS Spreadsheets 不能取代受保護的工作表中的資料。</translation>
+        <translation type="obsolete">WPS Spreadsheets 不能取代受保護的工作表中的資料。</translation>
     </message>
     <message>
         <source>WPS Spreadsheets has completed its search and has made %1 replacements.</source>
@@ -10483,6 +11298,10 @@ style for the table</source>
     <message>
         <source>Please input the data you&apos;re searching for.</source>
         <translation type="obsolete">請輸入要搜尋的資料。</translation>
+    </message>
+    <message>
+        <source>WPS Spreadsheets cannot find any data to replace.Check if your search formatting and criteria are defined correctly.If you are sure that matching data exists in this workbook, it may be in a protected sheet.WPS Spreadsheets cannot replace data on protected sheet.</source>
+        <translation>WPS Spreadsheets 找不到任何要取代的資料。請檢查您的搜尋格式及準則是否定義正確。若在此活頁簿中確實存在匹配的資料，則可能所在的工作表是被保護的。WPS Spreadsheets 不能取代受保護的工作表中的資料。</translation>
     </message>
 </context>
 <context>
@@ -10618,6 +11437,14 @@ font will be used for printing.</source>
     <message>
         <source>This font style name does not exist.</source>
         <translation type="obsolete">字型樣式名稱不存在。</translation>
+    </message>
+    <message>
+        <source> (title)</source>
+        <translation> (標題)</translation>
+    </message>
+    <message>
+        <source> (text)</source>
+        <translation>（本文）</translation>
     </message>
 </context>
 <context>
@@ -10807,7 +11634,7 @@ font will be used for printing.</source>
     </message>
     <message>
         <source>&amp;Help about this Function</source>
-        <translation>函數說明</translation>
+        <translation>函數說明(H)</translation>
     </message>
     <message>
         <source>No further information.</source>
@@ -11015,6 +11842,10 @@ To keep existing picture, press Cancel.</source>
 若要取代現有的圖片，請按 [確定]。
 若要保留現有圖片，請按 [取消]。</translation>
     </message>
+    <message>
+        <source>Path</source>
+        <translation>路徑</translation>
+    </message>
 </context>
 <context>
     <name>KxHyperlinkEtPage</name>
@@ -11212,79 +12043,79 @@ To keep existing picture, press Cancel.</source>
     <name>KxNameManagerDlg</name>
     <message>
         <source>Workbook</source>
-        <translation type="obsolete">活頁簿</translation>
+        <translation>活頁簿</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="obsolete">名稱</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="obsolete">值</translation>
+        <translation>值</translation>
     </message>
     <message>
         <source>Refers To</source>
-        <translation type="obsolete">參照到</translation>
+        <translation>參照到</translation>
     </message>
     <message>
         <source>Scope</source>
-        <translation type="obsolete">領域</translation>
+        <translation>領域</translation>
     </message>
     <message>
         <source>Comment</source>
-        <translation type="obsolete">註解</translation>
+        <translation>註解</translation>
     </message>
     <message>
         <source>&amp;Clear Filter</source>
-        <translation type="obsolete">清除篩選(&amp;C)</translation>
+        <translation>清除篩選(&amp;C)</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;sheet</source>
-        <translation type="obsolete">工作表範圍的名稱(&amp;S)</translation>
+        <translation>工作表範圍的名稱(&amp;S)</translation>
     </message>
     <message>
         <source>Names Scoped to Work&amp;book</source>
-        <translation type="obsolete">活頁簿範圍的名稱(&amp;B)</translation>
+        <translation>活頁簿範圍的名稱(&amp;B)</translation>
     </message>
     <message>
         <source>Names &amp;with Errors</source>
-        <translation type="obsolete">具有錯誤的名稱(&amp;W)</translation>
+        <translation>具有錯誤的名稱(&amp;W)</translation>
     </message>
     <message>
         <source>Names with&amp;out Errors</source>
-        <translation type="obsolete">不具有錯誤的名稱(&amp;O)</translation>
+        <translation>不具有錯誤的名稱(&amp;O)</translation>
     </message>
     <message>
         <source>Defined &amp;Names</source>
-        <translation type="obsolete">已定義之名稱(&amp;N)</translation>
+        <translation>已定義之名稱(&amp;N)</translation>
     </message>
     <message>
         <source>&amp;Table Names</source>
-        <translation type="obsolete">表格名稱(&amp;T)</translation>
+        <translation>表格名稱(&amp;T)</translation>
     </message>
     <message>
         <source>Edit Name</source>
-        <translation type="obsolete">編輯名稱</translation>
+        <translation>編輯名稱</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the name %1?</source>
-        <translation type="obsolete">是否確定刪除這個名稱 %1?</translation>
+        <translation>是否確定刪除這個名稱 %1?</translation>
     </message>
     <message>
         <source>Are you sure you want to delete the selected names?</source>
-        <translation type="obsolete">是否確定刪除這些已選取的名稱?</translation>
+        <translation>是否確定刪除這些已選取的名稱?</translation>
     </message>
     <message>
         <source>The formula you Enter is Error.</source>
-        <translation type="obsolete">您輸入的公式中包含錯誤。</translation>
+        <translation>您輸入的公式中包含錯誤。</translation>
     </message>
     <message>
         <source>Do you want to save the changes you made to the name reference?</source>
-        <translation type="obsolete">是否要儲存您對名稱參照所做的變更?</translation>
+        <translation>是否要儲存您對名稱參照所做的變更?</translation>
     </message>
     <message>
         <source> - Reference location:</source>
-        <translation type="obsolete"> - 參照位置:</translation>
+        <translation> - 參照到:</translation>
     </message>
 </context>
 <context>
@@ -11345,102 +12176,246 @@ To keep existing picture, press Cancel.</source>
     <name>KxNewTableStyleDlg</name>
     <message>
         <source>New Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>新增表格樣式</translation>
     </message>
     <message>
         <source>Modify Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>修改表格樣式</translation>
     </message>
     <message>
         <source>,</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source> </source>
-        <translation type="unfinished"> </translation>
+        <translation> </translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished">粗體</translation>
+        <translation>粗體</translation>
     </message>
     <message>
         <source>Bold Italic</source>
-        <translation type="unfinished">粗體 斜體</translation>
+        <translation>粗體 斜體</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished">底線</translation>
+        <translation>底線</translation>
     </message>
     <message>
         <source>Double Underline</source>
-        <translation type="unfinished"></translation>
+        <translation>雙底線</translation>
     </message>
     <message>
         <source>StrikeThrough</source>
-        <translation type="unfinished"></translation>
+        <translation>刪除線</translation>
     </message>
     <message>
         <source>No Borders</source>
-        <translation type="unfinished">無框線</translation>
+        <translation>無框線</translation>
     </message>
     <message>
         <source>Borders</source>
-        <translation type="unfinished"></translation>
+        <translation>框線</translation>
     </message>
     <message>
         <source>Left</source>
-        <translation type="unfinished"></translation>
+        <translation>左</translation>
     </message>
     <message>
         <source>Right</source>
-        <translation type="unfinished"></translation>
+        <translation>右</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>上</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>下</translation>
     </message>
     <message>
         <source>InsideVertical</source>
-        <translation type="unfinished"></translation>
+        <translation>垂直內框</translation>
     </message>
     <message>
         <source>InsideHorizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>水平內框</translation>
     </message>
     <message>
         <source>Shaded</source>
-        <translation type="unfinished">底紋</translation>
+        <translation>網底</translation>
     </message>
     <message>
         <source>No Shading</source>
-        <translation type="unfinished">無底紋</translation>
+        <translation>無網底</translation>
     </message>
     <message>
         <source>Enter a table style name.</source>
-        <translation type="unfinished"></translation>
+        <translation>請輸入一個表格樣式名稱。</translation>
     </message>
     <message>
         <source>This style name already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>這個樣式名稱已經存在。</translation>
     </message>
     <message>
         <source>Table Style</source>
-        <translation type="unfinished"></translation>
+        <translation>表格樣式</translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation>斜體</translation>
+    </message>
+    <message>
+        <source>Whole Table</source>
+        <translation>整張表格</translation>
+    </message>
+    <message>
+        <source>First Column Stripe</source>
+        <translation>第一欄條紋</translation>
+    </message>
+    <message>
+        <source>Second Column Stripe</source>
+        <translation>第二欄條紋</translation>
+    </message>
+    <message>
+        <source>First Row Stripe</source>
+        <translation>第一列條紋</translation>
+    </message>
+    <message>
+        <source>Second Row Stripe</source>
+        <translation>第二列條紋</translation>
+    </message>
+    <message>
+        <source>Last Column</source>
+        <translation>末欄</translation>
+    </message>
+    <message>
+        <source>First Column</source>
+        <translation>首欄</translation>
+    </message>
+    <message>
+        <source>Header Row</source>
+        <translation>有標題列</translation>
+    </message>
+    <message>
+        <source>Total Row</source>
+        <translation>合計列</translation>
+    </message>
+    <message>
+        <source>First Header Cell</source>
+        <translation>第一個標題儲存格</translation>
+    </message>
+    <message>
+        <source>Last Header Cell</source>
+        <translation>最後一個標題儲存格</translation>
+    </message>
+    <message>
+        <source>First Total Cell</source>
+        <translation>第一個合計儲存格</translation>
+    </message>
+    <message>
+        <source>Last Total Cell</source>
+        <translation>最後一個合計儲存格</translation>
+    </message>
+    <message>
+        <source>Report Filter Labels</source>
+        <translation>報表篩選標籤</translation>
+    </message>
+    <message>
+        <source>Report Filter Values</source>
+        <translation>報表篩選值</translation>
+    </message>
+    <message>
+        <source>Subtotal Column 1</source>
+        <translation>小計欄 1</translation>
+    </message>
+    <message>
+        <source>Subtotal Column 2</source>
+        <translation>小計欄 2</translation>
+    </message>
+    <message>
+        <source>Subtotal Column 3</source>
+        <translation>小計欄 3</translation>
+    </message>
+    <message>
+        <source>Blank Row</source>
+        <translation>空白的列</translation>
+    </message>
+    <message>
+        <source>Subtotal Row 1</source>
+        <translation>小計列 1</translation>
+    </message>
+    <message>
+        <source>Subtotal Row 2</source>
+        <translation>小計列 2</translation>
+    </message>
+    <message>
+        <source>Subtotal Row 3</source>
+        <translation>小計列 3</translation>
+    </message>
+    <message>
+        <source>Column Subheading 1</source>
+        <translation>欄次標題 1</translation>
+    </message>
+    <message>
+        <source>Column Subheading 2</source>
+        <translation>欄次標題 2</translation>
+    </message>
+    <message>
+        <source>Column Subheading 3</source>
+        <translation>欄次標題 3</translation>
+    </message>
+    <message>
+        <source>Row Subheading 1</source>
+        <translation>列次標題 1</translation>
+    </message>
+    <message>
+        <source>Row Subheading 2</source>
+        <translation>列次標題 2</translation>
+    </message>
+    <message>
+        <source>Row Subheading 3</source>
+        <translation>列次標題 3</translation>
+    </message>
+    <message>
+        <source>Grand Total Column</source>
+        <translation>總計欄</translation>
+    </message>
+    <message>
+        <source>Grand Total Row</source>
+        <translation>總計列</translation>
+    </message>
+    <message>
+        <source>New PivotTable Style</source>
+        <translation>新增樞紐分析表樣式</translation>
+    </message>
+    <message>
+        <source>Modify PivotTable Style</source>
+        <translation>修改樞紐分析表樣式</translation>
+    </message>
+    <message>
+        <source>Set as default table style for this document</source>
+        <translation>設為此文件的預設表格樣式(&amp;S)</translation>
+    </message>
+    <message>
+        <source>PivotTable Style</source>
+        <translation>樞紐分析表樣式</translation>
+    </message>
+    <message>
+        <source>Set as default PivotTable style for this document</source>
+        <translation>設為此文件的預設樞紐分析表樣式(&amp;S)</translation>
     </message>
 </context>
 <context>
     <name>KxNewTableStyleDlg::KxNewTableStyleDlg</name>
     <message>
         <source>Italic</source>
-        <translation type="unfinished">斜體</translation>
+        <translation type="obsolete">斜體</translation>
     </message>
 </context>
 <context>
@@ -11496,6 +12471,62 @@ To keep existing picture, press Cancel.</source>
     <message>
         <source>You can define a custom format for the cell by modifying an item from the list.</source>
         <translation type="obsolete">請鍵入數值格式代碼，您可以選取已有的代碼加以修改。</translation>
+    </message>
+    <message>
+        <source>Western</source>
+        <translation>西曆</translation>
+    </message>
+    <message>
+        <source>Thai Buddhist</source>
+        <translation>泰歷</translation>
+    </message>
+    <message>
+        <source>Japanese Year</source>
+        <translation>日本天皇曆</translation>
+    </message>
+    <message>
+        <source>Chinese(Simple)</source>
+        <translation>中文(中國)</translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation>中文(中國台灣)</translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation>中文(中國香港)</translation>
+    </message>
+    <message>
+        <source>English(United States)</source>
+        <translation>英語(美國)</translation>
+    </message>
+    <message>
+        <source>English(United Kingdom)</source>
+        <translation>英語(英國)</translation>
+    </message>
+    <message>
+        <source>English(Australia)</source>
+        <translation>英語(澳大利亞)</translation>
+    </message>
+    <message>
+        <source>English(New Zealand)</source>
+        <translation>英語(新西蘭)</translation>
+    </message>
+    <message>
+        <source>English(Canada)</source>
+        <translation>英語(加拿大)</translation>
+    </message>
+    <message>
+        <source>Vietnamese(Vietnam)</source>
+        <translation>越南語</translation>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation>泰語</translation>
+    </message>
+    <message>
+        <source>Japanese(Japan)</source>
+        <translation>日本語(日本)</translation>
     </message>
 </context>
 <context>
@@ -11799,6 +12830,50 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation type="obsolete">您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translation>快速存取工具列</translation>
+    </message>
+    <message>
+        <source>Customize Ribbon</source>
+        <translation>自訂功能區</translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation type="obsolete">通知</translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation type="obsolete">英吋</translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="obsolete">公釐</translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="obsolete">點</translation>
+    </message>
+    <message>
+        <source>Trust Center</source>
+        <translation>信任中心</translation>
+    </message>
+    <message>
+        <source>Celar failed.</source>
+        <translation>無法清除。</translation>
+    </message>
+    <message>
+        <source>Clear successfully!</source>
+        <translation>成功清除。</translation>
+    </message>
+    <message>
+        <source>Advanced authorization</source>
+        <translation>進階授權</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -11946,6 +13021,26 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <source>custom</source>
         <translation type="obsolete">自訂大小</translation>
     </message>
+    <message>
+        <source>Unit: %1</source>
+        <translation>單位: %1</translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation>英吋</translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation>公釐</translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation>點</translation>
+    </message>
 </context>
 <context>
     <name>KxPatternsWidget</name>
@@ -12034,80 +13129,80 @@ file,then %2switch%3the file to ET shared workbook.</source>
     <name>KxPivotTableAdvOptionsDlg</name>
     <message>
         <source>&amp;Ascending</source>
-        <translation>遞增(&amp;A)</translation>
+        <translation type="obsolete">遞增(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Descending</source>
-        <translation>遞減(&amp;D)</translation>
+        <translation type="obsolete">遞減(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Using field:</source>
-        <translation>使用欄位(&amp;U):</translation>
+        <translation type="obsolete">使用欄位(&amp;U):</translation>
     </message>
     <message>
         <source>AutoSort options</source>
-        <translation>自動排序選項</translation>
+        <translation type="obsolete">自動排序選項</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation>最小</translation>
+        <translation type="obsolete">最小</translation>
     </message>
     <message>
         <source>Di&amp;sable pivoting of this field (recommended)</source>
-        <translation>不要對這個欄位做樞紐分析(建議使用)(&amp;S)</translation>
+        <translation type="obsolete">不要對這個欄位做樞紐分析(建議使用)(&amp;S)</translation>
     </message>
     <message>
         <source>O&amp;ff</source>
-        <translation>關閉(&amp;F)</translation>
+        <translation type="obsolete">關閉(&amp;F)</translation>
     </message>
     <message>
         <source>O&amp;n</source>
-        <translation>打開(&amp;N)</translation>
+        <translation type="obsolete">打開(&amp;N)</translation>
     </message>
     <message>
         <source>Page Field Options</source>
-        <translation>頁欄位查詢</translation>
+        <translation type="obsolete">頁欄位查詢</translation>
     </message>
     <message>
         <source>Page field options</source>
-        <translation>頁欄位查詢</translation>
+        <translation type="obsolete">頁欄位查詢</translation>
     </message>
     <message>
         <source>PivotTable Field Advanced Options</source>
-        <translation>進階樞紐分析表選項</translation>
+        <translation type="obsolete">進階樞紐分析表選項</translation>
     </message>
     <message>
         <source>S&amp;how:</source>
-        <translation>顯示(&amp;H):</translation>
+        <translation type="obsolete">顯示(&amp;H):</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation>最大</translation>
+        <translation type="obsolete">最大</translation>
     </message>
     <message>
         <source>Top 10 AutoShow</source>
-        <translation>自動顯示前 10 項</translation>
+        <translation type="obsolete">自動顯示前 10 項</translation>
     </message>
     <message>
         <source>Usin&amp;g field:</source>
-        <translation>使用欄位(&amp;G):</translation>
+        <translation type="obsolete">使用欄位(&amp;G):</translation>
     </message>
     <message>
         <source>AutoSort</source>
-        <translation>自動排序</translation>
+        <translation type="obsolete">自動排序</translation>
     </message>
     <message>
         <source>D&amp;efault(Change item order manually)</source>
-        <translation>預設(可以手動變更欄位項目的順序)(&amp;E)</translation>
+        <translation type="obsolete">預設(可以手動變更欄位項目的順序)(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Retrieve external data for all page field items(faster performance)</source>
-        <translation>先取得所有分頁欄位項目的外部資料 (執行效能較快)(&amp;R)</translation>
+        <translation type="obsolete">先取得所有分頁欄位項目的外部資料 (執行效能較快)(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Query external data source as you select each
  page field item (requires less memory)</source>
-        <translation>只查詢選取分頁欄位項目的外部資料來源 (需要的記憶體較少)(&amp;Q)</translation>
+        <translation type="obsolete">只查詢選取分頁欄位項目的外部資料來源 (需要的記憶體較少)(&amp;Q)</translation>
     </message>
     <message>
         <source>&amp;Query external data source as you select each
@@ -12136,67 +13231,67 @@ file,then %2switch%3the file to ET shared workbook.</source>
     <name>KxPivotTableFieldFmtDlg</name>
     <message>
         <source>Average</source>
-        <translation>平均值</translation>
+        <translation type="obsolete">平均值</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation>項目個數</translation>
+        <translation type="obsolete">項目個數</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation>最大值</translation>
+        <translation type="obsolete">最大值</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation>最小值</translation>
+        <translation type="obsolete">最小值</translation>
     </message>
     <message>
         <source>PivotTable field name already exists.</source>
-        <translation>這個欄位名稱已存在。</translation>
+        <translation type="obsolete">這個欄位名稱已存在。</translation>
     </message>
     <message>
         <source>Product</source>
-        <translation>乘積</translation>
+        <translation type="obsolete">乘積</translation>
     </message>
     <message>
         <source>Show all</source>
-        <translation>(全部顯示)</translation>
+        <translation type="obsolete">(全部顯示)</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation>標準差</translation>
+        <translation type="obsolete">標準差</translation>
     </message>
     <message>
         <source>StdDevp</source>
-        <translation>母體標準差</translation>
+        <translation type="obsolete">母體標準差</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation>加總</translation>
+        <translation type="obsolete">加總</translation>
     </message>
     <message>
         <source>The PivotTable field name is not valid. 
 To create a PivotTable report, you must use data that is organized as a list with labeled columns. 
 If you are changing the name of a PivotTable field, you must type a new name for the field.</source>
-        <translation>樞紐分析表欄位名稱無效。 
+        <translation type="obsolete">樞紐分析表欄位名稱無效。 
 若要建立樞紐分析表，必須要使用包含有欄位名稱的清單資料。 
 如果您要變更樞紐分析表欄位的名稱，您必須鍵入新的欄位名稱。</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation>變異值</translation>
+        <translation type="obsolete">變異值</translation>
     </message>
     <message>
         <source>Varp</source>
-        <translation>母體變異值</translation>
+        <translation type="obsolete">母體變異值</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation>數字項個數</translation>
+        <translation type="obsolete">數字項個數</translation>
     </message>
     <message>
         <source>At least one item must be showing. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation>最少要顯示一個項目。如果您不想要顯示這個欄位，請取消目前的操作，然後將欄位拖曳出表外。</translation>
+        <translation type="obsolete">最少要顯示一個項目。如果您不想要顯示這個欄位，請取消目前的操作，然後將欄位拖曳出表外。</translation>
     </message>
     <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
@@ -12211,11 +13306,11 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPivotTableOptionsDlg</name>
     <message>
         <source>&amp;Fields per column:</source>
-        <translation>每一欄的欄位(&amp;F):</translation>
+        <translation type="obsolete">每一欄的欄位(&amp;F):</translation>
     </message>
     <message>
         <source>&amp;Fields per row:</source>
-        <translation>每一列的欄位(&amp;F):</translation>
+        <translation type="obsolete">每一列的欄位(&amp;F):</translation>
     </message>
     <message>
         <source>A PivotTable report with that name already exists on the destination sheet.</source>
@@ -12224,6 +13319,45 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>PivotTable name is not valid.</source>
         <translation>樞紐分析表的名稱無效。</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>The number must be between -1 and 1048576. Try again by entering a number in this range.</source>
+        <translation>這個數字必須在 -1 與 1048576 之間，請重新輸入屬於上述範圍的數字。</translation>
+    </message>
+    <message>
+        <source>The number must be between 0 and 127. Try again by entering a number in this range.</source>
+        <translation>這個數字必須在 0 與 127 之間，請重新輸入。</translation>
+    </message>
+    <message>
+        <source>The number must be between 0 and 255. Try again by entering a number in this range.</source>
+        <translation>這個數字必須在 0 與 255 之間，請重新輸入。</translation>
+    </message>
+    <message>
+        <source>You applied more than one filter on one or more fields on a PivotTable.
+
+If you Let this Field check box Empty, and then click OK, all filters applied to these fields are deleted</source>
+        <translation>您在樞紐分析表的一個或多個欄位中使用了一個以上的篩選。
+清空[欄位]中的文字，并點擊[確定]，所有被使用於這些欄位的篩選將會被刪除。</translation>
+    </message>
+    <message>
+        <source>Report filter &amp;fields per column:</source>
+        <translation>每欄的報表篩選欄位數(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Report filter &amp;fields per row:</source>
+        <translation>每列的報表篩選欄位數(&amp;F):</translation>
     </message>
 </context>
 <context>
@@ -12259,6 +13393,10 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <message>
         <source>The printer &quot;%1&quot; returned an error!</source>
         <translation type="obsolete">印表機「%1」發生錯誤!</translation>
+    </message>
+    <message>
+        <source>Duple&amp;x print</source>
+        <translation>雙面列印(&amp;X)</translation>
     </message>
 </context>
 <context>
@@ -12301,35 +13439,35 @@ If you are changing the name of a PivotTable field, you must type a new name for
     <name>KxPublishTableDlg</name>
     <message>
         <source>Export Table to SharePoint List</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出表格至 SharePoint 清單</translation>
     </message>
     <message>
         <source>Where do you want to publish your table?</source>
-        <translation type="unfinished"></translation>
+        <translation>您要發佈表格到哪裡?</translation>
     </message>
     <message>
         <source>&amp;Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>網址(&amp;A):</translation>
     </message>
     <message>
         <source>http://</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Creat a read-only connection to the new SharePoint list</source>
-        <translation type="unfinished"></translation>
+        <translation>建立唯讀連線至新 SharePoint 清單(&amp;C)</translation>
     </message>
     <message>
         <source>Provide a name and description for your table.</source>
-        <translation type="unfinished"></translation>
+        <translation>提供表格的名稱和說明。</translation>
     </message>
     <message>
         <source>Na&amp;me:</source>
-        <translation type="unfinished">名稱(&amp;M):</translation>
+        <translation>名稱(&amp;M):</translation>
     </message>
     <message>
         <source>&amp;Description:</source>
-        <translation type="unfinished">描述(&amp;D):</translation>
+        <translation>描述(&amp;D):</translation>
     </message>
 </context>
 <context>
@@ -12440,7 +13578,7 @@ Only %2 unique value can be keep after delete.</source>
 automatically, and only one row can be kept.
 
 (Note: The function only supports single range)</source>
-        <translation>按一下 [確定] 后，將按列進行內容比較；內容完全相同的重複列，將被自動刪除，只保留一列。
+        <translation type="obsolete">按一下 [確定] 后，將按列進行內容比較；內容完全相同的重複列，將被自動刪除，只保留一列。
 
 （注:請選取一個範圍）</translation>
     </message>
@@ -12453,7 +13591,7 @@ automatically, and only one row can be kept.
 the cells will be set in orange background.
 
 (Note: The function only supports single range)</source>
-        <translation>以下範圍如果存在重複的儲存格（值），這些儲存值將被標記為 [橙色] 背景。
+        <translation type="obsolete">以下範圍如果存在重複的儲存格（值），這些儲存值將被標記為 [橙色] 背景。
 
 （注:請選取一個範圍）</translation>
     </message>
@@ -12501,30 +13639,50 @@ the exact same contents will be deleted automatically, only keep one row.
 system will remind you to check the correctness of the contents.
 
 (Note: The function only supports single range)</source>
-        <translation>在以下範圍輸入內容時，如果出現重複值，則提示查看輸入內容的正確性。
+        <translation type="obsolete">在以下範圍輸入內容時，如果出現重複值，則提示查看輸入內容的正確性。
 
 （注:請選取一個範圍）</translation>
+    </message>
+    <message>
+        <source>If there are repeated contents in cells in the following range, 
+the cells will be set in orange background.</source>
+        <translation>以下範圍如果存在重複的儲存格（值），這些儲存值將被標記為 [橙色] 背景。</translation>
+    </message>
+    <message>
+        <source>When duplicate content is entered in the following range, the system
+will remind you to check the correctness of the contents.</source>
+        <translation>在以下範圍輸入內容時，如果出現重複值，則提示查看輸入內容的正確性。</translation>
+    </message>
+    <message>
+        <source>After clicking OK, the duplicated rows will be deleted automatically, 
+and only one row can be kept.</source>
+        <translation>按一下 [確定] 后，將按列進行內容比較；內容完全相同的重複列，將被自動刪除，只保留一列。</translation>
     </message>
 </context>
 <context>
     <name>KxResizeTableDlg</name>
     <message>
         <source>Table Resize</source>
-        <translation type="unfinished"></translation>
+        <translation>調整表格大小</translation>
     </message>
     <message>
         <source>Select the new data range for your table:</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">選取表格的新資料範圍:</translation>
     </message>
     <message>
         <source>Note: The headers must remain in the same row,
       and the resulting table tange must overlap 
       the original table range.</source>
-        <translation type="unfinished"></translation>
+        <translation>備註:標題必須保持在同一列，而且結果表格範圍必
+      須與原始表格範圍重疊。</translation>
     </message>
     <message>
         <source>Reference is not valid.</source>
-        <translation type="unfinished"></translation>
+        <translation>參照無效。</translation>
+    </message>
+    <message>
+        <source>&amp;Select the new data range for your table:</source>
+        <translation>選取表格的新資料範圍(&amp;S):</translation>
     </message>
 </context>
 <context>
@@ -13011,6 +14169,10 @@ system will remind you to check the correctness of the contents.
         <source>Row</source>
         <translation>欄</translation>
     </message>
+    <message>
+        <source>Cell Icon</source>
+        <translation>儲存格圖示</translation>
+    </message>
 </context>
 <context>
     <name>KxSortKeyWidget</name>
@@ -13128,309 +14290,309 @@ system will remind you to check the correctness of the contents.
     <name>KxTableColorStyle</name>
     <message>
         <source>Black</source>
-        <translation type="unfinished">黑色</translation>
+        <translation>黑色</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished">白色</translation>
+        <translation>白色</translation>
     </message>
     <message>
         <source>Red</source>
-        <translation type="unfinished">紅色</translation>
+        <translation>紅色</translation>
     </message>
     <message>
         <source>Bright Green</source>
-        <translation type="unfinished">亮綠色</translation>
+        <translation>亮綠色</translation>
     </message>
     <message>
         <source>Blue</source>
-        <translation type="unfinished">藍色</translation>
+        <translation>藍色</translation>
     </message>
     <message>
         <source>Yellow</source>
-        <translation type="unfinished">黃色</translation>
+        <translation>黃色</translation>
     </message>
     <message>
         <source>Pink</source>
-        <translation type="unfinished">粉紅</translation>
+        <translation>粉紅</translation>
     </message>
     <message>
         <source>Turquoise</source>
-        <translation type="unfinished">青綠</translation>
+        <translation>青綠</translation>
     </message>
     <message>
         <source>Dark Red</source>
-        <translation type="unfinished">深紅</translation>
+        <translation>深紅</translation>
     </message>
     <message>
         <source>Green</source>
-        <translation type="unfinished">綠色</translation>
+        <translation>綠色</translation>
     </message>
     <message>
         <source>Dark Blue</source>
-        <translation type="unfinished">深藍</translation>
+        <translation>深藍</translation>
     </message>
     <message>
         <source>Dark Yellow</source>
-        <translation type="unfinished">深黃</translation>
+        <translation>深黃</translation>
     </message>
     <message>
         <source>Violet</source>
-        <translation type="unfinished">紫蘿蘭色</translation>
+        <translation>紫蘿蘭色</translation>
     </message>
     <message>
         <source>Teal</source>
-        <translation type="unfinished">青色</translation>
+        <translation>青色</translation>
     </message>
     <message>
         <source>Gray-25%</source>
-        <translation type="unfinished">25% 灰色</translation>
+        <translation>25% 灰度值</translation>
     </message>
     <message>
         <source>Gray-50%</source>
-        <translation type="unfinished">50% 灰色</translation>
+        <translation>50% 灰度值</translation>
     </message>
     <message>
         <source>Periwinkle</source>
-        <translation type="unfinished">藍紫</translation>
+        <translation>藍紫</translation>
     </message>
     <message>
         <source>Plum</source>
-        <translation type="unfinished">梅紅</translation>
+        <translation>梅紅</translation>
     </message>
     <message>
         <source>vIvory</source>
-        <translation type="unfinished">象牙色</translation>
+        <translation>象牙色</translation>
     </message>
     <message>
         <source>Light Turquoise</source>
-        <translation type="unfinished">淺青綠</translation>
+        <translation>淺青綠</translation>
     </message>
     <message>
         <source>Dark Purple</source>
-        <translation type="unfinished">深紫</translation>
+        <translation>深紫</translation>
     </message>
     <message>
         <source>Coral</source>
-        <translation type="unfinished">珊瑚紅</translation>
+        <translation>珊瑚紅</translation>
     </message>
     <message>
         <source>OceanBlue</source>
-        <translation type="unfinished">海藍</translation>
+        <translation>海藍</translation>
     </message>
     <message>
         <source>IceBlue</source>
-        <translation type="unfinished">冰藍</translation>
+        <translation>冰藍</translation>
     </message>
     <message>
         <source>Sky Blue</source>
-        <translation type="unfinished">天藍</translation>
+        <translation>天藍</translation>
     </message>
     <message>
         <source>Light Green</source>
-        <translation type="unfinished">淺綠</translation>
+        <translation>淺綠</translation>
     </message>
     <message>
         <source>Light Yellow</source>
-        <translation type="unfinished">淺黃</translation>
+        <translation>淺黃</translation>
     </message>
     <message>
         <source>Pale Blue</source>
-        <translation type="unfinished">淡藍</translation>
+        <translation>淡藍</translation>
     </message>
     <message>
         <source>Rose</source>
-        <translation type="unfinished">玫瑰紅</translation>
+        <translation>玫瑰紅</translation>
     </message>
     <message>
         <source>Lavender</source>
-        <translation type="unfinished">淺紫</translation>
+        <translation>淺紫</translation>
     </message>
     <message>
         <source>Tan</source>
-        <translation type="unfinished">深黃褐</translation>
+        <translation>深黃褐</translation>
     </message>
     <message>
         <source>Light Blue</source>
-        <translation type="unfinished">淺藍</translation>
+        <translation>淺藍</translation>
     </message>
     <message>
         <source>Aqua</source>
-        <translation type="unfinished">青色</translation>
+        <translation>青色</translation>
     </message>
     <message>
         <source>Lime</source>
-        <translation type="unfinished">酸橙色</translation>
+        <translation>酸橙色</translation>
     </message>
     <message>
         <source>Gold</source>
-        <translation type="unfinished">金色</translation>
+        <translation>金色</translation>
     </message>
     <message>
         <source>Light Orange</source>
-        <translation type="unfinished">淺橙色</translation>
+        <translation>淺橙色</translation>
     </message>
     <message>
         <source>Orange</source>
-        <translation type="unfinished">橙色</translation>
+        <translation>橙色</translation>
     </message>
     <message>
         <source>Blue-Gray</source>
-        <translation type="unfinished">藍灰色</translation>
+        <translation>藍灰色</translation>
     </message>
     <message>
         <source>Gray-40%</source>
-        <translation type="unfinished">40% 灰色</translation>
+        <translation>40% 灰度值</translation>
     </message>
     <message>
         <source>Dark Teal</source>
-        <translation type="unfinished">深青</translation>
+        <translation>深青</translation>
     </message>
     <message>
         <source>Sea Green</source>
-        <translation type="unfinished">海綠</translation>
+        <translation>海綠</translation>
     </message>
     <message>
         <source>Dark Green</source>
-        <translation type="unfinished">深綠</translation>
+        <translation>深綠</translation>
     </message>
     <message>
         <source>Olive Green</source>
-        <translation type="unfinished">橄欖綠</translation>
+        <translation>橄欖綠</translation>
     </message>
     <message>
         <source>Brown</source>
-        <translation type="unfinished">褐色</translation>
+        <translation>褐色</translation>
     </message>
     <message>
         <source>Indigo</source>
-        <translation type="unfinished">靛藍</translation>
+        <translation>靛藍</translation>
     </message>
     <message>
         <source>Gray-80%</source>
-        <translation type="unfinished">80% 灰色</translation>
+        <translation>80% 灰度值</translation>
     </message>
     <message>
         <source>Gray-5%</source>
-        <translation type="unfinished">5% 灰色</translation>
+        <translation>5% 灰度值</translation>
     </message>
     <message>
         <source>Gray-10%</source>
-        <translation type="unfinished">10% 灰色</translation>
+        <translation>10% 灰度值</translation>
     </message>
     <message>
         <source>Gray-12.5%</source>
-        <translation type="unfinished">12.5% 灰色</translation>
+        <translation>12.5% 灰度值</translation>
     </message>
     <message>
         <source>Gray-15%</source>
-        <translation type="unfinished">15% 灰色</translation>
+        <translation>15% 灰度值</translation>
     </message>
     <message>
         <source>Gray-20%</source>
-        <translation type="unfinished">20% 灰色</translation>
+        <translation>20% 灰度值</translation>
     </message>
     <message>
         <source>Gray-30%</source>
-        <translation type="unfinished">30% 灰色</translation>
+        <translation>30% 灰度值</translation>
     </message>
     <message>
         <source>Gray-35%</source>
-        <translation type="unfinished">35% 灰色</translation>
+        <translation>35% 灰度值</translation>
     </message>
     <message>
         <source>Gray-37.5%</source>
-        <translation type="unfinished">37.5% 灰色</translation>
+        <translation>37.5% 灰度值</translation>
     </message>
     <message>
         <source>Gray-45%</source>
-        <translation type="unfinished">45% 灰色</translation>
+        <translation>45% 灰度值</translation>
     </message>
     <message>
         <source>Gray-55%</source>
-        <translation type="unfinished">55% 灰色</translation>
+        <translation>55% 灰度值</translation>
     </message>
     <message>
         <source>Gray-60%</source>
-        <translation type="unfinished">60% 灰色</translation>
+        <translation>60% 灰度值</translation>
     </message>
     <message>
         <source>Gray-62.5%</source>
-        <translation type="unfinished">62.5% 灰色</translation>
+        <translation>62.5% 灰度值</translation>
     </message>
     <message>
         <source>Gray-65%</source>
-        <translation type="unfinished">65% 灰色</translation>
+        <translation>65% 灰度值</translation>
     </message>
     <message>
         <source>Gray-70%</source>
-        <translation type="unfinished">70% 灰色</translation>
+        <translation>70% 灰度值</translation>
     </message>
     <message>
         <source>Gray-75%</source>
-        <translation type="unfinished">75% 灰色</translation>
+        <translation>75% 灰度值</translation>
     </message>
     <message>
         <source>Gray-85%</source>
-        <translation type="unfinished">85% 灰色</translation>
+        <translation>85% 灰度值</translation>
     </message>
     <message>
         <source>Gray-87.5%</source>
-        <translation type="unfinished">87.5% 灰色</translation>
+        <translation>87.5% 灰度值</translation>
     </message>
     <message>
         <source>Gray-90%</source>
-        <translation type="unfinished">90% 灰色</translation>
+        <translation>90% 灰度值</translation>
     </message>
     <message>
         <source>Gray-95%</source>
-        <translation type="unfinished">95% 灰色</translation>
+        <translation>95% 灰度值</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleApplyClearFmtTriggerCommand</name>
     <message>
         <source>Apply and Clear Formatting</source>
-        <translation type="unfinished"></translation>
+        <translation>套用並清除格式設定</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleApplyMaintainFmtTriggerCommand</name>
     <message>
         <source>Apply (and Maintain Formatting)</source>
-        <translation type="unfinished"></translation>
+        <translation>套用(並保留格式設定)</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleDeleteTriggerCommand</name>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">刪除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Do you want to delete style %1</source>
-        <translation type="unfinished"></translation>
+        <translation>您要刪除樣式 %1 嗎？</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleDuplicateTriggerCommand</name>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>重複</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleModifyTriggerCommand</name>
     <message>
         <source>Modify</source>
-        <translation type="unfinished">修改</translation>
+        <translation>修改</translation>
     </message>
 </context>
 <context>
     <name>KxTableStyleSetDefaultTriggerCommand</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"></translation>
+        <translation>設成預設值</translation>
     </message>
 </context>
 <context>
@@ -13496,90 +14658,90 @@ system will remind you to check the correctness of the contents.
     <name>KxTotalsList</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">無</translation>
+        <translation>無</translation>
     </message>
     <message>
         <source>Average</source>
-        <translation type="unfinished">平均值</translation>
+        <translation>平均值</translation>
     </message>
     <message>
         <source>Count</source>
-        <translation type="unfinished">項目個數</translation>
+        <translation>項目個數</translation>
     </message>
     <message>
         <source>Count Numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>計數</translation>
     </message>
     <message>
         <source>Max</source>
-        <translation type="unfinished">最大值</translation>
+        <translation>最大值</translation>
     </message>
     <message>
         <source>Min</source>
-        <translation type="unfinished">最小值</translation>
+        <translation>最小值</translation>
     </message>
     <message>
         <source>Sum</source>
-        <translation type="unfinished">加總</translation>
+        <translation>加總</translation>
     </message>
     <message>
         <source>StdDev</source>
-        <translation type="unfinished">標準差</translation>
+        <translation>標準差</translation>
     </message>
     <message>
         <source>Var</source>
-        <translation type="unfinished">變異值</translation>
+        <translation>變異值</translation>
     </message>
     <message>
         <source>More Functions...</source>
-        <translation type="unfinished"></translation>
+        <translation>其他函數...</translation>
     </message>
 </context>
 <context>
     <name>KxTpEtPivotTable</name>
     <message>
         <source>&amp;Clear Area</source>
-        <translation>清除範圍(&amp;C)</translation>
+        <translation type="obsolete">清除範圍(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Field Settings...</source>
-        <translation>欄位設定(&amp;F)</translation>
+        <translation type="obsolete">欄位設定(&amp;F)</translation>
     </message>
     <message>
         <source>&amp;Move</source>
-        <translation>移動(&amp;M)</translation>
+        <translation type="obsolete">移動(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Remove Field</source>
-        <translation>移除欄位(&amp;R)</translation>
+        <translation type="obsolete">移除欄位(&amp;R)</translation>
     </message>
     <message>
         <source>&amp;Subtotal</source>
-        <translation>小計(&amp;S)</translation>
+        <translation type="obsolete">小計(&amp;S)</translation>
     </message>
     <message>
         <source>(All)</source>
-        <translation>(全部)</translation>
+        <translation type="obsolete">(全部)</translation>
     </message>
     <message>
         <source>(Show all)</source>
-        <translation>(全部顯示)</translation>
+        <translation type="obsolete">(全部顯示)</translation>
     </message>
     <message>
         <source>Add to &amp;Column Area</source>
-        <translation>新增至欄範圍(&amp;C)</translation>
+        <translation type="obsolete">新增至欄範圍(&amp;C)</translation>
     </message>
     <message>
         <source>Add to &amp;Data Area</source>
-        <translation>新增至資料範圍(&amp;D)</translation>
+        <translation type="obsolete">新增至資料範圍(&amp;D)</translation>
     </message>
     <message>
         <source>Add to &amp;Page Area</source>
-        <translation>新增至頁範圍(&amp;P)</translation>
+        <translation type="obsolete">新增至頁範圍(&amp;P)</translation>
     </message>
     <message>
         <source>Add to &amp;Row Area</source>
-        <translation>新增至列範圍(&amp;R)</translation>
+        <translation type="obsolete">新增至列範圍(&amp;R)</translation>
     </message>
     <message>
         <source>At least one item must be shown. If you don&apos;t want to show the field at all cancel the current operation,and then drag the field out of the report.</source>
@@ -13596,7 +14758,7 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Immediate apply</source>
-        <translation>立即套用</translation>
+        <translation type="obsolete">立即套用</translation>
     </message>
     <message>
         <source>Move &amp;Down</source>
@@ -13608,11 +14770,11 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Move to &amp;Column Area</source>
-        <translation>移動至欄範圍(&amp;C)</translation>
+        <translation type="obsolete">移動至欄範圍(&amp;C)</translation>
     </message>
     <message>
         <source>Move to &amp;Data Area</source>
-        <translation>移動至資料範圍(&amp;D)</translation>
+        <translation type="obsolete">移動至資料範圍(&amp;D)</translation>
     </message>
     <message>
         <source>Move to &amp;End</source>
@@ -13620,11 +14782,11 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Move to &amp;Page Area</source>
-        <translation>移動至頁範圍(&amp;P)</translation>
+        <translation type="obsolete">移動至頁範圍(&amp;P)</translation>
     </message>
     <message>
         <source>Move to &amp;Row Area</source>
-        <translation>移動至列範圍(&amp;R)</translation>
+        <translation type="obsolete">移動至列範圍(&amp;R)</translation>
     </message>
     <message>
         <source>Move to Be&amp;ginning</source>
@@ -13632,11 +14794,11 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Ord&amp;er</source>
-        <translation>順序(&amp;E)</translation>
+        <translation type="obsolete">順序(&amp;E)</translation>
     </message>
     <message>
         <source>PivotTable &amp;Options...</source>
-        <translation>樞紐分析表選項(&amp;O)</translation>
+        <translation type="obsolete">樞紐分析表選項(&amp;O)</translation>
     </message>
     <message>
         <source>Sor&amp;t and top 10...</source>
@@ -13644,12 +14806,12 @@ system will remind you to check the correctness of the contents.
     </message>
     <message>
         <source>Sor&amp;t and Top 10...</source>
-        <translation>排序並列出前10項(&amp;T)</translation>
+        <translation type="obsolete">排序並列出前10項(&amp;T)</translation>
     </message>
     <message>
         <source>At least one item must be showing. 
 If you don&apos;t want to show the field at all, cancel the current operation, and then drag the field out of the report.</source>
-        <translation>最少要顯示一個項目。如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
+        <translation type="obsolete">最少要顯示一個項目。如果您不想要顯示這個欄位,請取消目前的操作,然後將欄位拖曳出表外。</translation>
     </message>
     <message>
         <source>At least one item must be shown. If you do not want to show the field at all, cancel the current operation and drag the field out of the report.</source>
@@ -13674,6 +14836,126 @@ If you don&apos;t want to show the field at all, cancel the current operation, a
     <message>
         <source>Drag items to the PivotTable areas</source>
         <translation type="obsolete">拖曳項目到樞紐分析表範圍</translation>
+    </message>
+    <message>
+        <source>Add to Report Filter</source>
+        <translation>新增至報表篩選</translation>
+    </message>
+    <message>
+        <source>Add to Row Labels</source>
+        <translation>新增至列標籤</translation>
+    </message>
+    <message>
+        <source>Add to Column Labels</source>
+        <translation>新增至欄標籤</translation>
+    </message>
+    <message>
+        <source>Add to Values</source>
+        <translation>新增至值</translation>
+    </message>
+    <message>
+        <source>Move to Report Filter</source>
+        <translation>移到報表篩選</translation>
+    </message>
+    <message>
+        <source>Move to Row Labels</source>
+        <translation>移到列標籤</translation>
+    </message>
+    <message>
+        <source>Move to Column Labels</source>
+        <translation>移到欄標籤</translation>
+    </message>
+    <message>
+        <source>Move to Values</source>
+        <translation>移到值</translation>
+    </message>
+    <message>
+        <source>Remove Field</source>
+        <translation>移除欄位</translation>
+    </message>
+    <message>
+        <source>Field Settings</source>
+        <translation>欄位設定</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <translation>值欄位設定</translation>
+    </message>
+    <message>
+        <source>Hide Report Filter Buttons On Chart</source>
+        <translation>在圖表上隱藏報表篩選按鈕</translation>
+    </message>
+    <message>
+        <source>Hide All Field Buttons On Chart</source>
+        <translation>在圖表上隱藏所有欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>Show Report Filter Buttons On Chart</source>
+        <translation>在圖表上顯示報表篩選按鈕</translation>
+    </message>
+    <message>
+        <source>Hide Legend Field Buttons On Chart</source>
+        <translation>在圖表上隱藏圖例欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Show Legend Field Buttons On Chart</source>
+        <translation>在圖表上顯示圖例欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Hide Axis Field Buttons On Chart</source>
+        <translation>在圖表上隱藏座標軸欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Show Axis Field Buttons On Chart</source>
+        <translation>在圖表上顯示座標軸欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Hide Value Field Buttons On Chart</source>
+        <translation>在圖表上隱藏值欄位按鈕</translation>
+    </message>
+    <message>
+        <source>Show Value Field Buttons On Chart</source>
+        <translation>在圖表上顯示值欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>Show All Field Buttons On Chart</source>
+        <translation>在圖表上顯示所有欄位按鈕​​</translation>
+    </message>
+    <message>
+        <source>FILTERS</source>
+        <translation>篩選器</translation>
+    </message>
+    <message>
+        <source>COLS</source>
+        <translation>欄</translation>
+    </message>
+    <message>
+        <source>ROWS</source>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>VALUES</source>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Add to Axis Fields (Categories)</source>
+        <translation>新增至座標軸欄位 (類別)</translation>
+    </message>
+    <message>
+        <source>Add to Legend Fields (Series)</source>
+        <translation>新增至圖例欄位 (數列)</translation>
+    </message>
+    <message>
+        <source>LEGEND (SERIES)</source>
+        <translation>圖例 (數列)</translation>
+    </message>
+    <message>
+        <source>AXIS (CATEGORIES)</source>
+        <translation>座標軸 (類別)</translation>
+    </message>
+    <message>
+        <source>Drag fields onto PivotChart area</source>
+        <translation>拖曳欄位至樞紐分析圖區域</translation>
     </message>
 </context>
 <context>
@@ -14462,6 +15744,18 @@ t</source>
     <message>
         <source>&amp;Use 1000 Separator ( , )</source>
         <translation type="obsolete">使用千分位( , )符號(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Locale Setting(Country/Area):</source>
+        <translation>區域設置(國家/地區)(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Calendar type:</source>
+        <translation>行事曆類型(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Input dates according the selected calendar</source>
+        <translation>根據選擇的行事曆輸入日期(&amp;I)</translation>
     </message>
 </context>
 <context>
@@ -15552,6 +16846,79 @@ and cannot generate reports.</source>
         <source>No macro is currently recording. Click to begin recording a new macro.</source>
         <translation>目前沒有錄製任何巨集。請按一下以開始錄製新的巨集。</translation>
     </message>
+    <message>
+        <source>Microsoft Excel Security Workbook(*.xls)|*.xls</source>
+        <translation>Microsoft Excel 安全文件(*.xls)|*.xls</translation>
+    </message>
+    <message>
+        <source>Drag items of the %1 field to display them in any order</source>
+        <translation>拖曳 %1 欄位的項目以任何順序顯示</translation>
+    </message>
+    <message>
+        <source>The sort reference is not valid. Make sure that it&apos;s within the data you want to sort, and the first Sort By box isn&apos;t the same or blank.</source>
+        <translation>排序鍵值無效。請確定它是在您所要排序的資料之內，而且第一個排序鍵不是空白。</translation>
+    </message>
+    <message>
+        <source>Sort %1 in %2 order</source>
+        <translation>以[%2]的順序來排序[%1]</translation>
+    </message>
+    <message>
+        <source>Sort %1 by %2 in %3 order</source>
+        <translation>依據[%2]以[%3]的順序來排序[%1]</translation>
+    </message>
+    <message>
+        <source>Sort %1 for %2 by %3 in %4 order</source>
+        <translation>依據[%3]以[%4]的順序來排序[%2]的[%1]</translation>
+    </message>
+    <message>
+        <source> using values in this %1:
+%2</source>
+        <translation>使用%1:%2中的值</translation>
+    </message>
+    <message>
+        <source>Total %1</source>
+        <translation>總計 %1</translation>
+    </message>
+    <message>
+        <source>Grand Total</source>
+        <translation>總計</translation>
+    </message>
+    <message>
+        <source>...</source>
+        <translation> 頁...</translation>
+    </message>
+    <message>
+        <source>ascending</source>
+        <translation>遞增</translation>
+    </message>
+    <message>
+        <source>descending</source>
+        <translation>遞減</translation>
+    </message>
+    <message>
+        <source>column</source>
+        <translation>欄</translation>
+    </message>
+    <message>
+        <source>row</source>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>數值</translation>
+    </message>
+    <message>
+        <source>Date/Time</source>
+        <translation>日期/時間</translation>
+    </message>
 </context>
 <context>
     <name>ReadOnlyFile</name>
@@ -16197,11 +17564,11 @@ p, li { white-space: pre-wrap; }
     <name>etContentTextbox</name>
     <message>
         <source>&amp;Vertical alignment</source>
-        <translation>垂直對齊方式(&amp;V)：</translation>
+        <translation type="obsolete">垂直對齊方式(&amp;V)：</translation>
     </message>
     <message>
         <source>Te&amp;xt direction</source>
-        <translation>文字方向(&amp;X):</translation>
+        <translation type="obsolete">文字方向(&amp;X):</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -16245,15 +17612,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Auto Fit</source>
-        <translation>依照文字調整圖案的大小(&amp;F)</translation>
+        <translation type="obsolete">依照文字調整圖案的大小(&amp;F)</translation>
     </message>
     <message>
         <source>Overflow</source>
-        <translation>允許文字溢出圖形之外(&amp;O)</translation>
+        <translation type="obsolete">允許文字溢出圖形之外(&amp;O)</translation>
     </message>
     <message>
         <source>Text margin</source>
-        <translation>文字邊界</translation>
+        <translation type="obsolete">文字邊界</translation>
     </message>
     <message>
         <source>Borderless</source>
@@ -16311,24 +17678,44 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Columns...</source>
         <translation>欄(&amp;C)...</translation>
     </message>
+    <message>
+        <source>&amp;Vertical alignment:</source>
+        <translation>垂直對齊方式(&amp;V)：</translation>
+    </message>
+    <message>
+        <source>Te&amp;xt direction:</source>
+        <translation>文字方向(&amp;X):</translation>
+    </message>
+    <message>
+        <source>T&amp;ext margin:</source>
+        <translation>文字邊界(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Auto &amp;Fit</source>
+        <translation>依照文字調整圖案的大小(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Overflow</source>
+        <translation>允許文字溢出圖形之外(&amp;O)</translation>
+    </message>
 </context>
 <context>
     <name>etTableStyle</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>表單</translation>
     </message>
     <message>
         <source>&lt;b&gt;Table Style:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;表格樣式:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;Table Style Options:&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;b&gt;表格樣式選項:&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -16444,115 +17831,115 @@ p, li { white-space: pre-wrap; }
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 OFD 檔案</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>一般</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation type="unfinished">儲存至(&amp;T)</translation>
+        <translation>儲存至(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation type="unfinished">瀏覽(&amp;B)...</translation>
+        <translation>瀏覽(&amp;B)...</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation type="unfinished">輸出範圍</translation>
+        <translation>輸出範圍</translation>
     </message>
     <message>
         <source>Active &amp;Sheet</source>
-        <translation type="unfinished">選定工作表(&amp;S)</translation>
+        <translation>選定工作表(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Entire Workbook</source>
-        <translation type="unfinished"></translation>
+        <translation>整本活頁簿(&amp;W)</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation type="unfinished">輸出選項</translation>
+        <translation>輸出選項</translation>
     </message>
     <message>
         <source>Summary &amp;information</source>
-        <translation type="unfinished">檔案資訊(&amp;I)</translation>
+        <translation>檔案資訊(&amp;I)</translation>
     </message>
     <message>
         <source>Hyper&amp;link</source>
-        <translation type="unfinished">超連結(&amp;L)</translation>
+        <translation>超連結(&amp;L)</translation>
     </message>
     <message>
         <source>New &amp;Comment</source>
-        <translation type="unfinished">註解(&amp;C)</translation>
+        <translation>註解(&amp;C)</translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation type="unfinished">權限設定</translation>
+        <translation>權限設定</translation>
     </message>
     <message>
         <source>Password to protect permission settings</source>
-        <translation type="unfinished">權限設定密碼(&amp;R)(使以下權限設定生效)</translation>
+        <translation>權限設定密碼(&amp;R)(使以下權限設定生效)</translation>
     </message>
     <message>
         <source>Pass&amp;word:</source>
-        <translation type="unfinished">密碼(&amp;W):</translation>
+        <translation>密碼(&amp;W):</translation>
     </message>
     <message>
         <source>C&amp;onfirm:</source>
-        <translation type="unfinished">確認(&amp;O):</translation>
+        <translation>確認(&amp;O):</translation>
     </message>
     <message>
         <source>Note: only setting password can the following settings effect and avoid being changed by others.</source>
-        <translation type="unfinished">注意:只有設定以上密碼，以下的權限內容設定才會生效，并能防止這些設定被他人更改。</translation>
+        <translation>注意:只有設定以上密碼，以下的權限內容設定才會生效，并能防止這些設定被他人更改。</translation>
     </message>
     <message>
         <source>Permit to modi&amp;fy</source>
-        <translation type="unfinished">允許變更(&amp;F)</translation>
+        <translation>允許變更(&amp;F)</translation>
     </message>
     <message>
         <source>Permit to cop&amp;y</source>
-        <translation type="unfinished">允許複製(&amp;Y)</translation>
+        <translation>允許複製(&amp;Y)</translation>
     </message>
     <message>
         <source>Permit to &amp;add comments</source>
-        <translation type="unfinished">允許添加註解(&amp;A)</translation>
+        <translation>允許添加註解(&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Printing permission:</source>
-        <translation type="unfinished">列印權限(&amp;P):</translation>
+        <translation>列印權限(&amp;P):</translation>
     </message>
     <message>
         <source>Printing Permission</source>
-        <translation type="unfinished">列印權限</translation>
+        <translation>列印權限</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation type="unfinished">不受限列印</translation>
+        <translation>不受限列印</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation type="unfinished">不允許列印</translation>
+        <translation>不允許列印</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation type="unfinished">低品質列印</translation>
+        <translation>低品質列印</translation>
     </message>
     <message>
         <source>File password:</source>
-        <translation type="unfinished">開啟密碼:</translation>
+        <translation>開啟密碼:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation type="unfinished">密碼(&amp;D):</translation>
+        <translation>密碼(&amp;D):</translation>
     </message>
     <message>
         <source>Confir&amp;m:</source>
-        <translation type="unfinished">確認(&amp;M):</translation>
+        <translation>確認(&amp;M):</translation>
     </message>
     <message>
         <source>Close w&amp;hen export completes</source>
-        <translation type="unfinished">輸出成功后自動關閉(&amp;H)</translation>
+        <translation>輸出成功后自動關閉(&amp;H)</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -16560,30 +17947,38 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Suwell&amp;K</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>&amp;Foxit</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
+    </message>
+    <message>
+        <source>OFD Service Provider</source>
+        <translation>OFD 服務提供者</translation>
+    </message>
+    <message>
+        <source>E&amp;mbedFont</source>
+        <translation>內嵌字型(&amp;M)</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation type="unfinished"></translation>
+        <translation>匯出 OFD 檔案</translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation type="unfinished"></translation>
+        <translation>正在準備匯出 OFD 檔案...</translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation type="unfinished">開啟檔案(&amp;O)</translation>
+        <translation>開啟檔案(&amp;O)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -16809,7 +18204,7 @@ Document</source>
     </message>
     <message>
         <source>ScreenTi&amp;p...</source>
-        <translation>工具提示文字:</translation>
+        <translation>工具提示文字(&amp;P)...</translation>
     </message>
     <message>
         <source>Up One Folder</source>
@@ -16849,7 +18244,7 @@ or Web Page</source>
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">同義字</translation>
+        <translation>同義字</translation>
     </message>
     <message>
         <source>Current word:</source>
@@ -16866,6 +18261,26 @@ or Web Page</source>
     <message>
         <source>Cancel</source>
         <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation>目前的文字(&amp;C):</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation>語言(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation>替代(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Replace</source>
+        <translation>取代(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation>取消(&amp;N)</translation>
     </message>
 </context>
 <context>
@@ -17136,7 +18551,7 @@ or Web Page</source>
     </message>
     <message>
         <source>&amp;Move but do not re&amp;size cells</source>
-        <translation>大小固定，位置隨儲存格而變(&amp;M)</translation>
+        <translation type="obsolete">大小固定，位置隨儲存格而變(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Print object</source>
@@ -17169,6 +18584,10 @@ or Web Page</source>
     <message>
         <source>Object Positioning</source>
         <translation type="obsolete">物件位置</translation>
+    </message>
+    <message>
+        <source>&amp;Move but do not resize cells</source>
+        <translation>大小固定，位置隨儲存格而變(&amp;M)</translation>
     </message>
 </context>
 <context>
@@ -17340,6 +18759,5799 @@ Do you want to change to Manual?</source>
         <translation>您打開的檔案，正在將程式從 [自動重算] 改成 [手動重算]，這將會導致該檔案及其他檔案在編輯過程中無法及時得到正確的計算結果。
 
 請您確認:是否要改成 [手動重算] ?</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFilterItemDelegate</name>
+    <message>
+        <source>Total %1 Items %2 Records</source>
+        <translation>共 %1項 %2條</translation>
+    </message>
+    <message>
+        <source>Total %1 Items</source>
+        <translation>共%1項</translation>
+    </message>
+</context>
+<context>
+    <name>KEtIconCombobox</name>
+    <message>
+        <source>No Cell Icon</source>
+        <translation>無儲存格圖示</translation>
+    </message>
+</context>
+<context>
+    <name>KEtIconCombobox2</name>
+    <message>
+        <source>Custom</source>
+        <translation>自訂</translation>
+    </message>
+</context>
+<context>
+    <name>KEtIconCombobox3</name>
+    <message>
+        <source>No Cell Icon</source>
+        <translation>無儲存格圖示</translation>
+    </message>
+</context>
+<context>
+    <name>KFilterTreeView</name>
+    <message>
+        <source>Select all</source>
+        <translation>全選</translation>
+    </message>
+    <message>
+        <source>Select invert</source>
+        <translation>反向選擇</translation>
+    </message>
+</context>
+<context>
+    <name>KMergeSheetModel</name>
+    <message>
+        <source>Select all</source>
+        <translation>全選</translation>
+    </message>
+</context>
+<context>
+    <name>KMergeSheetTreeItemDelegate</name>
+    <message>
+        <source>(Current file)</source>
+        <translation>(目前檔案)</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation>(已選取</translation>
+    </message>
+    <message>
+        <source>sheet(s) Selected)</source>
+        <translation>個工作表)</translation>
+    </message>
+</context>
+<context>
+    <name>KMergeSheetTreeView</name>
+    <message>
+        <source>Please add workbook</source>
+        <translation>請新增活頁簿</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Select same-name sheets</source>
+        <translation>選取同名表格</translation>
+    </message>
+    <message>
+        <source>Unselect same-name sheets</source>
+        <translation>取消同名表格</translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation>檔案名稱:</translation>
+    </message>
+    <message>
+        <source>File Path:</source>
+        <translation>檔案路徑:</translation>
+    </message>
+</context>
+<context>
+    <name>KOptionColorShowWidget</name>
+    <message>
+        <source>Choose the cell color as a sort on:</source>
+        <translation>選取排序依據的儲存格色彩:</translation>
+    </message>
+    <message>
+        <source>Choose the font color as a sort on:</source>
+        <translation>選取排序依據的字型色彩:</translation>
+    </message>
+    <message>
+        <source>No Fill</source>
+        <translation>無填滿</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Choose the cell icon as a sort on:</source>
+        <translation>選取排序依據的儲存格圖示:</translation>
+    </message>
+    <message>
+        <source>No Icon</source>
+        <translation>無儲存格圖示</translation>
+    </message>
+</context>
+<context>
+    <name>KOptionColorSortDialog</name>
+    <message>
+        <source>Other Cell Colors</source>
+        <translation>其他儲存格色彩</translation>
+    </message>
+    <message>
+        <source>Other Font Colors</source>
+        <translation>其他字型色彩</translation>
+    </message>
+    <message>
+        <source>Other Cell Icons</source>
+        <translation>可用的儲存格圖示</translation>
+    </message>
+</context>
+<context>
+    <name>KPivotTableFilterHelper</name>
+    <message>
+        <source>Select all</source>
+        <translation>全選</translation>
+    </message>
+    <message>
+        <source>Add current selection to filter</source>
+        <translation>將目前選取內容添加至篩選器</translation>
+    </message>
+</context>
+<context>
+    <name>KPivotTablePageAxsiWidget</name>
+    <message>
+        <source>Select Multiple Items</source>
+        <translation>選取多個項目</translation>
+    </message>
+</context>
+<context>
+    <name>KPivotTableValuesWidget</name>
+    <message>
+        <source>Ascending</source>
+        <translation>遞增</translation>
+    </message>
+    <message>
+        <source>Descending</source>
+        <translation>遞減</translation>
+    </message>
+    <message>
+        <source>Other Sort Item</source>
+        <translation>其他排序選項</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>清空條件</translation>
+    </message>
+    <message>
+        <source>Select Field:</source>
+        <translation>選取欄位:</translation>
+    </message>
+    <message>
+        <source>Label Filter</source>
+        <translation>標籤篩選</translation>
+    </message>
+    <message>
+        <source>Filter Clear</source>
+        <translation>清除篩選</translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>Not Equal</source>
+        <translation>不等於</translation>
+    </message>
+    <message>
+        <source>Begins With</source>
+        <translation>開始於</translation>
+    </message>
+    <message>
+        <source>Not Begins With</source>
+        <translation>不開始於</translation>
+    </message>
+    <message>
+        <source>Ends With</source>
+        <translation>結束於</translation>
+    </message>
+    <message>
+        <source>Not Ends With</source>
+        <translation>不結束於</translation>
+    </message>
+    <message>
+        <source>Contains</source>
+        <translation>包含</translation>
+    </message>
+    <message>
+        <source>Not Contains</source>
+        <translation>不包含</translation>
+    </message>
+    <message>
+        <source>Greater</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>Greater Equal</source>
+        <translation>大於等於</translation>
+    </message>
+    <message>
+        <source>Less</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>Less Equal</source>
+        <translation>小於等於</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>Not Between</source>
+        <translation>不介於</translation>
+    </message>
+    <message>
+        <source>Value Filter</source>
+        <translation>值篩選</translation>
+    </message>
+    <message>
+        <source>Top 10</source>
+        <translation>前 10 項</translation>
+    </message>
+    <message>
+        <source>Date Filter</source>
+        <translation>日期篩選</translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation>之前</translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation>之後</translation>
+    </message>
+    <message>
+        <source>Betweenness</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>明天</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>今天</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>昨天</translation>
+    </message>
+    <message>
+        <source>Next Week</source>
+        <translation>下周</translation>
+    </message>
+    <message>
+        <source>This Week</source>
+        <translation>本周</translation>
+    </message>
+    <message>
+        <source>Last Week</source>
+        <translation>上周</translation>
+    </message>
+    <message>
+        <source>Next Month</source>
+        <translation>下個月</translation>
+    </message>
+    <message>
+        <source>This Month</source>
+        <translation>這個月</translation>
+    </message>
+    <message>
+        <source>Last Month</source>
+        <translation>上月</translation>
+    </message>
+    <message>
+        <source>Next Quarter</source>
+        <translation>下一季</translation>
+    </message>
+    <message>
+        <source>This Quarter</source>
+        <translation>這一季</translation>
+    </message>
+    <message>
+        <source>Last Quarter</source>
+        <translation>上一季</translation>
+    </message>
+    <message>
+        <source>Next Year</source>
+        <translation>明年</translation>
+    </message>
+    <message>
+        <source>This Year</source>
+        <translation>今年</translation>
+    </message>
+    <message>
+        <source>Last Year</source>
+        <translation>去年</translation>
+    </message>
+    <message>
+        <source>Year To Date</source>
+        <translation>年初至今</translation>
+    </message>
+    <message>
+        <source>All Date</source>
+        <translation>週期中的所有日期</translation>
+    </message>
+    <message>
+        <source>First Quarter</source>
+        <translation>第一季</translation>
+    </message>
+    <message>
+        <source>Second Quarter</source>
+        <translation>第二季</translation>
+    </message>
+    <message>
+        <source>Third Quarter</source>
+        <translation>第三季</translation>
+    </message>
+    <message>
+        <source>Fourth Quarter</source>
+        <translation>第四季</translation>
+    </message>
+    <message>
+        <source>January</source>
+        <translation>一月</translation>
+    </message>
+    <message>
+        <source>February</source>
+        <translation>二月</translation>
+    </message>
+    <message>
+        <source>March</source>
+        <translation>三月</translation>
+    </message>
+    <message>
+        <source>Apirl</source>
+        <translation>四月</translation>
+    </message>
+    <message>
+        <source>May</source>
+        <translation>五月</translation>
+    </message>
+    <message>
+        <source>June</source>
+        <translation>六月</translation>
+    </message>
+    <message>
+        <source>July</source>
+        <translation>七月</translation>
+    </message>
+    <message>
+        <source>August</source>
+        <translation>八月</translation>
+    </message>
+    <message>
+        <source>September</source>
+        <translation>九月</translation>
+    </message>
+    <message>
+        <source>October</source>
+        <translation>十月</translation>
+    </message>
+    <message>
+        <source>November</source>
+        <translation>十一月</translation>
+    </message>
+    <message>
+        <source>December</source>
+        <translation>十二月</translation>
+    </message>
+    <message>
+        <source>Custom Filter</source>
+        <translation>自訂篩選</translation>
+    </message>
+</context>
+<context>
+    <name>KPivotTableWidgetBase</name>
+    <message>
+        <source>Search</source>
+        <translation>搜尋</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Not show all item</source>
+        <translation>沒有顯示所有項目</translation>
+    </message>
+    <message>
+        <source>No items match your search.</source>
+        <translation>沒有符合搜尋的項目</translation>
+    </message>
+</context>
+<context>
+    <name>KVauesWidgetBase</name>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Search</source>
+        <translation>搜尋</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddCustomViewDlg</name>
+    <message>
+        <source>Add View</source>
+        <translation>新增檢視</translation>
+    </message>
+    <message>
+        <source>Please input a valid name.</source>
+        <translation>請輸入一個合法的名稱。</translation>
+    </message>
+    <message>
+        <source>View &apos;%1&apos; already exists. Do you wish to delete it and continue?</source>
+        <translation>檢視[%1]已存在。要刪除它然後繼續嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddWatchDlg</name>
+    <message>
+        <source>Add Watch</source>
+        <translation>新增監看式</translation>
+    </message>
+    <message>
+        <source>Select the cells that you would like to watch the value of:</source>
+        <translation>選取您要監看包含下述值的儲存格:</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>新增(&amp;A)</translation>
+    </message>
+</context>
+<context>
+    <name>KxAdvancedNumFmtSetting</name>
+    <message>
+        <source>Advanced Text Import Settings</source>
+        <translation>進階文字匯入設定</translation>
+    </message>
+    <message>
+        <source>Settings used to recognize numeric data</source>
+        <translation>數字資料辨認設定</translation>
+    </message>
+    <message>
+        <source>Note:Numbers will be displayed using the numeric settings specified in the Regional Settings control panel.</source>
+        <translation>注意: 數字格式將參照控制台的 [地區選項]。</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <translation>重設(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Trailing &amp;minus for negative numbers</source>
+        <translation>負號在右側的負數(&amp;M)</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAddChartButton</name>
+    <message>
+        <source>Add Chart</source>
+        <translation>新增統計圖表</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAdvModeButton</name>
+    <message>
+        <source>Advance Mode</source>
+        <translation>進階模式</translation>
+    </message>
+    <message>
+        <source>You have disabled advanced mode features of invert selection, 		item count, export list and count, filter duplicates, etc.</source>
+        <translation>您已關閉反向選擇、項目個數、匯出清單及項目個數、篩選重複項等高級模式功能。</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAdvModeGuideDialogV2</name>
+    <message>
+        <source>I see</source>
+        <translation>知道了</translation>
+    </message>
+    <message>
+        <source>Free Trail</source>
+        <translation>免費試用</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAdvModeMenuBar</name>
+    <message>
+        <source>If &quot;Display Item Count&quot; is off, sorting by item count will be impossible. Continue?</source>
+        <translation>若關閉[顯示項目個數]，將無法使用[按項目個數排序]功能。
+要繼續嗎？</translation>
+    </message>
+    <message>
+        <source>Cannot use this feature because &quot;Display Item Count&quot; has been disabled. Enable &quot;Display Item Count&quot; and continue?</source>
+        <translation>無法使用此功能，因為[顯示項目個數]被關閉了。
+要啟動[顯示項目個數]并繼續嗎？</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>項目個數</translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation>匯出</translation>
+    </message>
+    <message>
+        <source>Options</source>
+        <translation>選項</translation>
+    </message>
+    <message>
+        <source>Export List</source>
+        <translation>匯出清單及項目個數</translation>
+    </message>
+    <message>
+        <source>Display Filter Counter</source>
+        <translation>顯示項目個數</translation>
+    </message>
+    <message>
+        <source>Display Total Item Count</source>
+        <translation>顯示項目總個數</translation>
+    </message>
+    <message>
+        <source>Display Filter Conditions</source>
+        <translation>顯示篩選條件</translation>
+    </message>
+    <message>
+        <source>Filter Merge Cells</source>
+        <translation>允許篩選合併儲存格</translation>
+    </message>
+    <message>
+        <source>Sort Count Descent</source>
+        <translation>按項目個數遞減排序</translation>
+    </message>
+    <message>
+        <source>Sort Label Ascent</source>
+        <translation>按名稱遞增排序</translation>
+    </message>
+    <message>
+        <source>RENEW</source>
+        <translation>續訂VIP</translation>
+    </message>
+    <message>
+        <source>VIP</source>
+        <translation>成為 VIP</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAdvModeTrialBar</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>This mode is for VIP only. Please sign in first.</source>
+        <translation>高級模式為 VIP 專享。登入以檢視使用權限</translation>
+    </message>
+    <message>
+        <source>This mode is for VIP only. Enable it by becoming a VIP.</source>
+        <translation>高級模式為 VIP 專享，成為 VIP 即可使用</translation>
+    </message>
+    <message>
+        <source>VIP advanced mode trial has expired. Become a VIP to renew.</source>
+        <translation>高級模式試用已過期，成為 VIP 可繼續使用</translation>
+    </message>
+    <message>
+        <source>VIP</source>
+        <translation>成為 VIP</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation>登入</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAnalysisPaneChart</name>
+    <message>
+        <source>Settings</source>
+        <translation>設定</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>刪除</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAnalysisPaneChartEditDialog</name>
+    <message>
+        <source>Filter Chart (%1)</source>
+        <translation>篩選統計圖表 (%1)</translation>
+    </message>
+    <message>
+        <source>Add Filter Chart</source>
+        <translation>新增篩選統計圖表</translation>
+    </message>
+    <message>
+        <source>(None)</source>
+        <translation>(無)</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfAnalysisPaneTitle</name>
+    <message>
+        <source>AutoFilter Analysis</source>
+        <translation>篩選分析</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfExpandTrialBar</name>
+    <message>
+        <source>Do</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Undo</source>
+        <translation>復原</translation>
+    </message>
+    <message>
+        <source>The data after row %1 have been included and will be filtered together.</source>
+        <translation>已將%1列之後的資料一起篩選。</translation>
+    </message>
+    <message>
+        <source>Whether to filter the data after row %1 together?</source>
+        <translation>要將%1列之後的資料一起篩選嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxAfTipWidget</name>
+    <message>
+        <source>RENEW</source>
+        <translation>續訂VIP</translation>
+    </message>
+    <message>
+        <source>VIP</source>
+        <translation>成為 VIP</translation>
+    </message>
+    <message>
+        <source>Trial ending in %1 hours</source>
+        <translation>剩餘使用時長 %1 小時</translation>
+    </message>
+    <message>
+        <source>VIP enjoy %1 major features of Advanced Mode</source>
+        <translation>WPS VIP 享有高級模式的 %1 大功能</translation>
+    </message>
+</context>
+<context>
+    <name>KxAnalysisPaneFilterAdder</name>
+    <message>
+        <source>Add Filter(Column)</source>
+        <translation>新增篩選 (欄)</translation>
+    </message>
+</context>
+<context>
+    <name>KxApfModel</name>
+    <message>
+        <source>Select all</source>
+        <translation>全選</translation>
+    </message>
+</context>
+<context>
+    <name>KxApfTitle</name>
+    <message>
+        <source>(filtered)</source>
+        <translation>(已篩選)</translation>
+    </message>
+</context>
+<context>
+    <name>KxAssignMacroDlg</name>
+    <message>
+        <source>All Open Workbooks</source>
+        <translation>所有開啟的活頁簿</translation>
+    </message>
+    <message>
+        <source>This Workbook</source>
+        <translation>現用活頁簿</translation>
+    </message>
+    <message>
+        <source>module1</source>
+        <translation type="obsolete">模組1</translation>
+    </message>
+    <message>
+        <source>Change</source>
+        <translation>變更</translation>
+    </message>
+</context>
+<context>
+    <name>KxAutofilterColorSortCommand</name>
+    <message>
+        <source>Custom Sort...</source>
+        <translation>自訂排序...</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupRoamingSettingTipWidget</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation>自動漫遊是什麼？</translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation>之後，當您在其他裝置登入時，也可以檢視和編輯該文件。</translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation>並且，系統會自動同步本機和雲端的修改。</translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation>啟用[自動漫遊]之後，系統將會自動將開啟過的本機文件儲存一份至雲端。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFCol1Widget</name>
+    <message>
+        <source>Yesterday</source>
+        <translation>昨天</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>今天</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>明天</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>過去 7 日內</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>上週</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>本週</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>下週</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>上個月</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>本月</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>下個月</translation>
+    </message>
+    <message>
+        <source>Graded Color Scale</source>
+        <translation>分級的色階</translation>
+    </message>
+    <message>
+        <source>Data Bar</source>
+        <translation>資料橫條</translation>
+    </message>
+    <message>
+        <source>Icon Set</source>
+        <translation>圖示集</translation>
+    </message>
+    <message>
+        <source>Cell contains a blank value</source>
+        <translation>包含空白值的儲存格</translation>
+    </message>
+    <message>
+        <source>Cell does not contain a blank value</source>
+        <translation>不包含空白值的儲存格</translation>
+    </message>
+    <message>
+        <source>Cell contains an error</source>
+        <translation>包含錯誤的儲存格</translation>
+    </message>
+    <message>
+        <source>Cell does not contain an error</source>
+        <translation>不包含錯誤的儲存格</translation>
+    </message>
+    <message>
+        <source>Duplicate Values</source>
+        <translation>重複的值</translation>
+    </message>
+    <message>
+        <source>Unique Values</source>
+        <translation>唯一值</translation>
+    </message>
+    <message>
+        <source>Formula:</source>
+        <translation>公式:</translation>
+    </message>
+    <message>
+        <source>between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>not between</source>
+        <translation>不介於</translation>
+    </message>
+    <message>
+        <source>=</source>
+        <translation>=</translation>
+    </message>
+    <message>
+        <source>&lt;&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translation>&gt;=</translation>
+    </message>
+    <message>
+        <source>&lt;=</source>
+        <translation>&lt;=</translation>
+    </message>
+    <message>
+        <source>Cell Value </source>
+        <translation>儲存格值</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+    <message>
+        <source>Above Average</source>
+        <translation>高於平均</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation>低於平均</translation>
+    </message>
+    <message>
+        <source>Equal to or above Average</source>
+        <translation>等於或高於平均</translation>
+    </message>
+    <message>
+        <source>Equal to or below Average</source>
+        <translation>等於或低於平均</translation>
+    </message>
+    <message>
+        <source>1 std dev above Average</source>
+        <translation>高於平均 1 個標準差</translation>
+    </message>
+    <message>
+        <source>1 std dev below Average</source>
+        <translation>低於平均 1 個標準差</translation>
+    </message>
+    <message>
+        <source>2 std dev above Average</source>
+        <translation>高於平均 2 個標準差</translation>
+    </message>
+    <message>
+        <source>2 std dev below Average</source>
+        <translation>低於平均 2 個標準差</translation>
+    </message>
+    <message>
+        <source>3 std dev above Average</source>
+        <translation>高於平均 3 個標準差</translation>
+    </message>
+    <message>
+        <source>3 std dev below Average</source>
+        <translation>低於平均 3 個標準差</translation>
+    </message>
+    <message>
+        <source>Bottom %1%</source>
+        <translation>最後 %1% 項</translation>
+    </message>
+    <message>
+        <source>Top %1%</source>
+        <translation>前 %1% 項</translation>
+    </message>
+    <message>
+        <source>Bottom %1</source>
+        <translation>最後 %1 項</translation>
+    </message>
+    <message>
+        <source>Top %1</source>
+        <translation>前 %1 項</translation>
+    </message>
+    <message>
+        <source>contains</source>
+        <translation>包含</translation>
+    </message>
+    <message>
+        <source>does not contain</source>
+        <translation>不包含</translation>
+    </message>
+    <message>
+        <source>begins with</source>
+        <translation>開始於</translation>
+    </message>
+    <message>
+        <source>ends with</source>
+        <translation>結束於</translation>
+    </message>
+    <message>
+        <source>&apos;</source>
+        <translation>&apos;</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFColorScalePage</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Minimum</source>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>Midpoint</source>
+        <translation>中間點</translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>&amp;Type:</source>
+        <translation>類型(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Lowest Value</source>
+        <translation>最低值</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>數值</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Percentile</source>
+        <translation>百分位數</translation>
+    </message>
+    <message>
+        <source>Highest Value</source>
+        <translation>最高值</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation>數值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>&amp;Color:</source>
+        <translation>色彩(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation>預覽:</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFDatabarPage</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Minimum</source>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>&amp;Type:</source>
+        <translation>類型(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Lowest Value</source>
+        <translation>最低值</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>數值</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Percentile</source>
+        <translation>百分位數</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Highest Value</source>
+        <translation>最高值</translation>
+    </message>
+    <message>
+        <source>&amp;Value:</source>
+        <translation>數值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Bar Appearance:</source>
+        <translation>橫條外觀:</translation>
+    </message>
+    <message>
+        <source>&amp;Fill</source>
+        <translation>填滿(&amp;F):</translation>
+    </message>
+    <message>
+        <source>&amp;Color</source>
+        <translation>色彩(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Bo&amp;rder</source>
+        <translation>框線(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Co&amp;lor</source>
+        <translation>色彩(&amp;L):</translation>
+    </message>
+    <message>
+        <source>Solid Fill</source>
+        <translation>實心填滿</translation>
+    </message>
+    <message>
+        <source>Gradient Fill</source>
+        <translation>漸層填滿</translation>
+    </message>
+    <message>
+        <source>No Border</source>
+        <translation>無框線</translation>
+    </message>
+    <message>
+        <source>Solid Border</source>
+        <translation>實心框線</translation>
+    </message>
+    <message>
+        <source>&amp;Negative Value and Axis...</source>
+        <translation>負值和座標軸(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>Bar &amp;Direction:</source>
+        <translation>橫條圖方向(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translation>根據內容</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation>由左至右</translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation>由右至左</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation>預覽:</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFIconSetPage</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>I&amp;con Style:</source>
+        <translation>圖示樣式: (&amp;C)</translation>
+    </message>
+    <message>
+        <source>Show &amp;Icon only</source>
+        <translation>只顯示圖示(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Display each icon according to these rules:</source>
+        <translation>根據下列規則顯示每一個圖示:</translation>
+    </message>
+    <message>
+        <source>When value is</source>
+        <translation>當值是</translation>
+    </message>
+    <message>
+        <source>&gt;=</source>
+        <translation>&gt;=</translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>數值</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Percentile</source>
+        <translation>百分位數</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation>文字標籤</translation>
+    </message>
+    <message>
+        <source>&amp;Icon</source>
+        <translation>圖示(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Value</source>
+        <translation>值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>&amp;Type</source>
+        <translation>類型(&amp;T):</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFNetativeValueAxisSettings</name>
+    <message>
+        <source>Negative Value and Axis Settings</source>
+        <translation>負值和座標軸設定</translation>
+    </message>
+    <message>
+        <source>Negative bar fill color</source>
+        <translation>負值橫條填滿色彩</translation>
+    </message>
+    <message>
+        <source>&amp;Fill color:</source>
+        <translation>填滿色彩(&amp;F):</translation>
+    </message>
+    <message>
+        <source>&amp;Apply same fill color as positive bar</source>
+        <translation>將相同填滿色彩套用為正值橫條(&amp;A):</translation>
+    </message>
+    <message>
+        <source>Negative bar border color</source>
+        <translation>負值橫條框線色彩</translation>
+    </message>
+    <message>
+        <source>&amp;Border color:</source>
+        <translation>框線色彩(&amp;B):</translation>
+    </message>
+    <message>
+        <source>&amp;Apply same border color as positive bar</source>
+        <translation>將相同框線色彩套用為正值橫條(&amp;P):</translation>
+    </message>
+    <message>
+        <source>Axis setttings</source>
+        <translation>坐標軸設定</translation>
+    </message>
+    <message>
+        <source>Select axis position in cell to change the appearance of bars for negative values</source>
+        <translation>在儲存格中選取座標軸位置，以變更負值的橫條外觀</translation>
+    </message>
+    <message>
+        <source>A&amp;utomatic(display at variable position based on negative vcalues)</source>
+        <translation>自動 (根據負值顯示變數位置)(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Cell &amp;midpoint</source>
+        <translation>儲存格中間點(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Non&amp;e(show negative values bars in same directions as positive)</source>
+        <translation>無 (將負值橫條顯示為與正值橫條同方向)(&amp;E)</translation>
+    </message>
+    <message>
+        <source>A&amp;xis color:</source>
+        <translation>座標軸色彩(&amp;X):</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFNewFormattingRuleDlg</name>
+    <message>
+        <source>Edit Formatting Rule</source>
+        <translation>編輯格式化規則</translation>
+    </message>
+    <message>
+        <source>Midpoint</source>
+        <translation>中間點</translation>
+    </message>
+    <message>
+        <source>between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>not between</source>
+        <translation>不介於</translation>
+    </message>
+    <message>
+        <source>equal to</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>not equal to</source>
+        <translation>不等於</translation>
+    </message>
+    <message>
+        <source>greater than</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>less than</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>greater than or equal to</source>
+        <translation>大於或等於</translation>
+    </message>
+    <message>
+        <source>less than or equal to</source>
+        <translation>小於或等於</translation>
+    </message>
+    <message>
+        <source>containing</source>
+        <translation>包含</translation>
+    </message>
+    <message>
+        <source>not containing</source>
+        <translation>不包含</translation>
+    </message>
+    <message>
+        <source>beginning with</source>
+        <translation>開頭以</translation>
+    </message>
+    <message>
+        <source>ending with</source>
+        <translation>結束以</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>昨天</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>今天</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>明天</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>過去 7 日內</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>上週</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>本週</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>下週</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>上個月</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>本月</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>下個月</translation>
+    </message>
+    <message>
+        <source>(Lowest Value)</source>
+        <translation>(最低值)</translation>
+    </message>
+    <message>
+        <source>(Automatic)</source>
+        <translation>(自動)</translation>
+    </message>
+    <message>
+        <source>(Highest Value)</source>
+        <translation>(最高值)</translation>
+    </message>
+    <message>
+        <source>when</source>
+        <translation>當</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat only cells with:</source>
+        <translation>只格式化下列的儲存格(&amp;O):</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat values that rank in the:</source>
+        <translation>格式化下列範圍的值(&amp;O):</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat values that are:</source>
+        <translation>格式化下列的值(&amp;O):</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat all:</source>
+        <translation>格式化全部(&amp;O):</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFNewPage</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format all cells based on their values:</source>
+        <translation>根據其值格式化所有儲存格:</translation>
+    </message>
+    <message>
+        <source>F&amp;ormat Style:</source>
+        <translation>格式樣式(&amp;O):</translation>
+    </message>
+    <message>
+        <source>2-Color Scale</source>
+        <translation>雙色色階</translation>
+    </message>
+    <message>
+        <source>3-Color Scale</source>
+        <translation>三色色階</translation>
+    </message>
+    <message>
+        <source>Data Bar</source>
+        <translation>資料橫條</translation>
+    </message>
+    <message>
+        <source>Icon Sets</source>
+        <translation>圖示集</translation>
+    </message>
+    <message>
+        <source>Reverse Icon Or&amp;der</source>
+        <translation>反轉圖示順序(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Show &amp;Bar Only</source>
+        <translation>僅顯示資料橫條(&amp;B)</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFRulesManagerDlg</name>
+    <message>
+        <source>Current Selection</source>
+        <translation>目前的選取</translation>
+    </message>
+    <message>
+        <source>This Worksheet</source>
+        <translation>這個工作表</translation>
+    </message>
+    <message>
+        <source>This Table</source>
+        <translation>這個表格</translation>
+    </message>
+    <message>
+        <source>Sheet: </source>
+        <translation>工作表: </translation>
+    </message>
+    <message>
+        <source>Table: </source>
+        <translation>表格: </translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage1</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Cell Value</source>
+        <translation>儲存格值</translation>
+    </message>
+    <message>
+        <source>Specific Text</source>
+        <translation>特定文字</translation>
+    </message>
+    <message>
+        <source>Dates Occurring</source>
+        <translation>發生日期</translation>
+    </message>
+    <message>
+        <source>Blanks</source>
+        <translation>空格</translation>
+    </message>
+    <message>
+        <source>No Blanks</source>
+        <translation>無空白</translation>
+    </message>
+    <message>
+        <source>Errors</source>
+        <translation>錯誤值</translation>
+    </message>
+    <message>
+        <source>No Errors</source>
+        <translation>無錯誤</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage2</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>前</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>後</translation>
+    </message>
+    <message>
+        <source>% of the selected ran&amp;ge</source>
+        <translation>% 的選取範圍(&amp;G)</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage3</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>above</source>
+        <translation>高於</translation>
+    </message>
+    <message>
+        <source>below</source>
+        <translation>低於</translation>
+    </message>
+    <message>
+        <source>equal or above</source>
+        <translation>等於或高於</translation>
+    </message>
+    <message>
+        <source>equal or below</source>
+        <translation>等於或低於</translation>
+    </message>
+    <message>
+        <source>1 std dev above</source>
+        <translation>高 1 個標準差於</translation>
+    </message>
+    <message>
+        <source>1 std dev below</source>
+        <translation>低 1 個標準差於</translation>
+    </message>
+    <message>
+        <source>2 std dev above</source>
+        <translation>高 2 個標準差於</translation>
+    </message>
+    <message>
+        <source>2 std dev below</source>
+        <translation>低 2 個標準差於</translation>
+    </message>
+    <message>
+        <source>3 std dev above</source>
+        <translation>高 3 個標準差於</translation>
+    </message>
+    <message>
+        <source>3 std dev below</source>
+        <translation>低 3 個標準差於</translation>
+    </message>
+    <message>
+        <source>the average for the selected range</source>
+        <translation>選取範圍平均的值</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage4</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>duplicate</source>
+        <translation>重複的</translation>
+    </message>
+    <message>
+        <source>unique</source>
+        <translation>唯一的</translation>
+    </message>
+    <message>
+        <source>values in the selected range</source>
+        <translation>選取範圍值</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradPage5</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTradionalPage</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Format &amp;only cells with:</source>
+        <translation>只格式化下列的儲存格(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Preview:</source>
+        <translation>預覽:</translation>
+    </message>
+    <message>
+        <source>&amp;Format...</source>
+        <translation>格式(&amp;F)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage1</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translation>顯示為</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translation>淺紅色填滿與深紅色文字</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translation>黃色填滿與深黃色文字</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translation>綠色填滿與深綠色文字</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translation>淺紅色填滿</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translation>紅色文字</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translation>紅色框線</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translation>自訂格式...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage2</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translation>顯示為</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translation>淺紅色填滿與深紅色文字</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translation>黃色填滿與深黃色文字</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translation>綠色填滿與深綠色文字</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translation>淺紅色填滿</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translation>紅色文字</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translation>紅色框線</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translation>自訂格式...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage3</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translation>顯示為</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translation>淺紅色填滿與深紅色文字</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translation>黃色填滿與深黃色文字</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translation>綠色填滿與深綠色文字</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translation>淺紅色填滿</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translation>紅色文字</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translation>紅色框線</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translation>自訂格式...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage4</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>with</source>
+        <translation>顯示為</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translation>淺紅色填滿與深紅色文字</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translation>黃色填滿與深黃色文字</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translation>綠色填滿與深綠色文字</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translation>淺紅色填滿</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translation>紅色文字</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translation>紅色框線</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translation>自訂格式...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalPage5</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>for the selected range with</source>
+        <translation>用於具有下列的選取範圍</translation>
+    </message>
+    <message>
+        <source>Light Red Fill with Dark Red Text</source>
+        <translation>淺紅色填滿與深紅色文字</translation>
+    </message>
+    <message>
+        <source>Yellow Fill with Dark Yellow Text</source>
+        <translation>黃色填滿與深黃色文字</translation>
+    </message>
+    <message>
+        <source>Green Fill with Dark Green Text</source>
+        <translation>綠色填滿與深綠色文字</translation>
+    </message>
+    <message>
+        <source>Light Red Fill</source>
+        <translation>淺紅色填滿</translation>
+    </message>
+    <message>
+        <source>Red Text</source>
+        <translation>紅色文字</translation>
+    </message>
+    <message>
+        <source>Red Border</source>
+        <translation>紅色框線</translation>
+    </message>
+    <message>
+        <source>Custom Format...</source>
+        <translation>自訂格式...</translation>
+    </message>
+</context>
+<context>
+    <name>KxCFTraditionalRuleDlg</name>
+    <message>
+        <source>Greater Than</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>Format cells that are LESS THAN:</source>
+        <translation>格式化小於下列的儲存格:</translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>Format cells that are BETWEEN:</source>
+        <translation>格式化介於下列範圍之間的儲存格:</translation>
+    </message>
+    <message>
+        <source>Equal To</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>Format cells that are EQUAL TO:</source>
+        <translation>格式化等於下列的儲存格:</translation>
+    </message>
+    <message>
+        <source>Text That Contains</source>
+        <translation>包含下列的文字</translation>
+    </message>
+    <message>
+        <source>Format cells that contain the text:</source>
+        <translation>格式化包含下列文字的儲存格:</translation>
+    </message>
+    <message>
+        <source>A Data Occurring</source>
+        <translation>發生的日期</translation>
+    </message>
+    <message>
+        <source>Format cells that contain a date occurring:</source>
+        <translation>格式化包含發生日期的儲存格:</translation>
+    </message>
+    <message>
+        <source>Yesterday</source>
+        <translation>昨天</translation>
+    </message>
+    <message>
+        <source>Today</source>
+        <translation>今天</translation>
+    </message>
+    <message>
+        <source>Tomorrow</source>
+        <translation>明天</translation>
+    </message>
+    <message>
+        <source>In the last 7 days</source>
+        <translation>過去 7 日內</translation>
+    </message>
+    <message>
+        <source>Last week</source>
+        <translation>上週</translation>
+    </message>
+    <message>
+        <source>This week</source>
+        <translation>本週</translation>
+    </message>
+    <message>
+        <source>Next week</source>
+        <translation>下週</translation>
+    </message>
+    <message>
+        <source>Last month</source>
+        <translation>上個月</translation>
+    </message>
+    <message>
+        <source>This month</source>
+        <translation>本月</translation>
+    </message>
+    <message>
+        <source>Next month</source>
+        <translation>下個月</translation>
+    </message>
+    <message>
+        <source>Duplicate Values</source>
+        <translation>重複的值</translation>
+    </message>
+    <message>
+        <source>Format cells that contain:</source>
+        <translation>格式化包含下列的儲存格:</translation>
+    </message>
+    <message>
+        <source>values with</source>
+        <translation>具有下列的值</translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation>重複</translation>
+    </message>
+    <message>
+        <source>Unique</source>
+        <translation>唯一</translation>
+    </message>
+    <message>
+        <source>Top 10 Items</source>
+        <translation>前 10 個項目</translation>
+    </message>
+    <message>
+        <source>Format cells that rank in the TOP:</source>
+        <translation>格式化排在最前面的儲存格:</translation>
+    </message>
+    <message>
+        <source>Top 10%</source>
+        <translation>前面 10%</translation>
+    </message>
+    <message>
+        <source>% with</source>
+        <translation>% 具有</translation>
+    </message>
+    <message>
+        <source>Bottom 10 Items</source>
+        <translation>最後 10 個項目</translation>
+    </message>
+    <message>
+        <source>Format cells that rank in the BOTTOM:</source>
+        <translation>格式化排在最後面的儲存格:</translation>
+    </message>
+    <message>
+        <source>Bottom 10%</source>
+        <translation>後面 10%</translation>
+    </message>
+    <message>
+        <source>Above Average</source>
+        <translation>高於平均</translation>
+    </message>
+    <message>
+        <source>Format cells that are ABOVE AVERAGE:</source>
+        <translation>格式化高於平均的儲存格:</translation>
+    </message>
+    <message>
+        <source>Below Average</source>
+        <translation>低於平均</translation>
+    </message>
+    <message>
+        <source>Format cells that are BELOW AVERAGE:</source>
+        <translation>格式化低於平均的儲存格:</translation>
+    </message>
+</context>
+<context>
+    <name>KxChangePivotSourceDlg</name>
+    <message>
+        <source>Data fields have been retrieved.</source>
+        <translation>資料已傳回。</translation>
+    </message>
+</context>
+<context>
+    <name>KxConditionFormattingRulesManagerDlg</name>
+    <message>
+        <source>Conditional Formatting Rules Manager</source>
+        <translation>設定格式化的條件規則管理員</translation>
+    </message>
+    <message>
+        <source>&amp;Show formatting rules for:</source>
+        <translation>顯示格式化規則(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;New Rule...</source>
+        <translation>新增規則(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Rule...</source>
+        <translation>編輯規則(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete Rule</source>
+        <translation>刪除規則(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Rule (applied in order shown)</source>
+        <translation>規則 (依照顯示的順序套用)</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>格式</translation>
+    </message>
+    <message>
+        <source>Applies to</source>
+        <translation>套用到</translation>
+    </message>
+    <message>
+        <source>Stop If True</source>
+        <translation>如果 True 則停止</translation>
+    </message>
+</context>
+<context>
+    <name>KxConnectionsDlg</name>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>描述</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>類型</translation>
+    </message>
+    <message>
+        <source>Connection file</source>
+        <translation>連線檔案</translation>
+    </message>
+    <message>
+        <source>Connection string</source>
+        <translation>連線字串</translation>
+    </message>
+    <message>
+        <source>Command text</source>
+        <translation>命令文字</translation>
+    </message>
+    <message>
+        <source>Last Refreshed</source>
+        <translation>上次重新整理時間</translation>
+    </message>
+    <message>
+        <source>R&amp;efresh</source>
+        <translation>重新整理(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Refresh &amp;All</source>
+        <translation>全部重新整理(&amp;A)</translation>
+    </message>
+    <message>
+        <source>OLEDB Connection</source>
+        <translation type="obsolete">OLEDB 連線</translation>
+    </message>
+    <message>
+        <source>ODBC Connection</source>
+        <translation type="obsolete">ODBC 連線</translation>
+    </message>
+    <message>
+        <source>Text File</source>
+        <translation type="obsolete">文字檔</translation>
+    </message>
+    <message>
+        <source>The connection is not used in this workbook.</source>
+        <translation>連線並未用於此活頁簿中。</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>內容</translation>
+    </message>
+    <message>
+        <source>Location</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>Worksheet</source>
+        <translation>工作表</translation>
+    </message>
+    <message>
+        <source>Click here to see where the selected connections are used</source>
+        <translation>按一下這裡查看已使用選取連線的地方</translation>
+    </message>
+</context>
+<context>
+    <name>KxConnectionsDlgUI</name>
+    <message>
+        <source>Workbook Connections</source>
+        <translation>活頁簿連線</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>描述</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>類型</translation>
+    </message>
+    <message>
+        <source>Connection file</source>
+        <translation>連線檔案</translation>
+    </message>
+    <message>
+        <source>Connection string</source>
+        <translation>連線字串</translation>
+    </message>
+    <message>
+        <source>Command text</source>
+        <translation>命令文字</translation>
+    </message>
+    <message>
+        <source>Last Refreshed</source>
+        <translation>上次重新整理時間</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation>新增(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>Re&amp;move</source>
+        <translation>移除(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Property...</source>
+        <translation>內容(&amp;P)...</translation>
+    </message>
+    <message>
+        <source>&amp;Refresh</source>
+        <translation>重新整理(&amp;R)</translation>
+    </message>
+    <message>
+        <source>M&amp;anage Set...</source>
+        <translation>管理集合(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>Locations where connections are used in this workbook</source>
+        <translation>此活頁簿中使用連線的位置</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>關閉(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxCreatePivotTableAndChartDlg</name>
+    <message>
+        <source>No data fields have been retrieved.</source>
+        <translation>找不到符合準則的資料。</translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation>目標儲存格參照無效。</translation>
+    </message>
+    <message>
+        <source>You cannot create or modify a PivotTable with these data. Please check the reference range is valid and the specified worksheet exists.</source>
+        <translation>您不能使用當前資料來修改已有的樞紐分析表。請檢查參照範圍是否有效，指定工作表是否存在。</translation>
+    </message>
+    <message>
+        <source>Data fields have been retrieved.</source>
+        <translation>資料已傳回。</translation>
+    </message>
+    <message>
+        <source>The type of connection selected cannot be used to create a PivotTable.</source>
+        <translation>選取的連線類型無法用來建立樞紐分析表。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomErrorBarsDlg</name>
+    <message>
+        <source>The reference is not valid. Reference for titles, values, sizes, or data labels must be a single cell, row, or column.</source>
+        <translation>參照無效。對標題、數值、大小或者資料標籤的參照必須是指到單一儲存格、列或欄。</translation>
+    </message>
+    <message>
+        <source>The formula you typed contents an error.Try one of the following:
+
+• Make sure you&apos;ve included all parentheses and required argument.
+• To get assistance with using a function, click insert Function on the Formulas tab (in the Function Library group).
+• If you include a reference to another sheet or workbook,verify that the reference is correct.
+• If you&apos;re not trying to enter a formula, don&apos;t use an equal sign (=) or minus sign (-), or precede it with a single quotation mark (&apos;).</source>
+        <translation>您鍵入的公式包含錯誤。請嘗試下列其中一個方法: 
+• 確定已包括所有括弧與必要的引數。
+• 在使用函數時如需協助，請按一下 [公式] 索引標籤 (位於 [函數程式庫] 群組) 上的 [插入函數]。
+• 如果您納入其他工作表或活頁簿的參照，請確認參照是正確的。
+• 如果您不是要輸入公式，請不要使用等號 (=) 或減號 (-)，否則請以一個單引號 (&apos;) 開頭。</translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomViewsDlg</name>
+    <message>
+        <source>Custom Views</source>
+        <translation>檢視管理</translation>
+    </message>
+    <message>
+        <source>Some view settings could not be applied.</source>
+        <translation>一些檢視設定不能使用。</translation>
+    </message>
+    <message>
+        <source>Do you wish to delete the view &apos;%1&apos;?</source>
+        <translation>要刪除檢視[%1]嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddCustomView</name>
+    <message>
+        <source>Add View</source>
+        <translation>新增檢視</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Include in view</source>
+        <translation>檢視包含</translation>
+    </message>
+    <message>
+        <source>&amp;Print settings</source>
+        <translation>列印設定(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Hidden &amp;rows, columns and filter settings</source>
+        <translation>隱藏列、欄及篩選設定(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAfAnalysisChartEdit</name>
+    <message>
+        <source>Category:</source>
+        <translation>類別:</translation>
+    </message>
+    <message>
+        <source>(*Here the general selection of text fields, date fields as a classification;for example: department, sales date and so on)</source>
+        <translation>(*這裡一般選取文字欄位、日期欄位作為類別；例：部門、銷售日期，等)</translation>
+    </message>
+    <message>
+        <source>Subtotal:</source>
+        <translation>小計:</translation>
+    </message>
+    <message>
+        <source>(*Here you can choose to sum the number of fields, the average, etc .; you can also choose to count the text field.)</source>
+        <translation>(*這裡可以選取對數字欄位進行加總、平均，等；也可以選擇對文字欄位進行計數)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCustomErrorBars</name>
+    <message>
+        <source>Custom Error Bars</source>
+        <translation>自訂誤差線</translation>
+    </message>
+    <message>
+        <source>&amp;Positive Error Value</source>
+        <translation>正錯誤值(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Negative Error Value</source>
+        <translation>負錯誤值(&amp;N)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCustomViews</name>
+    <message>
+        <source>Custom Views</source>
+        <translation>檢視管理</translation>
+    </message>
+    <message>
+        <source>Vie&amp;ws</source>
+        <translation>檢視(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Show</source>
+        <translation>顯示(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Close</source>
+        <translation>關閉(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>新增(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgDataLabelsSelectValueCells</name>
+    <message>
+        <source>Data Label Range</source>
+        <translation>資料標籤範圍</translation>
+    </message>
+    <message>
+        <source>Select Data Label Range</source>
+        <translation>選取資料標籤範圍</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditConnectionProperties</name>
+    <message>
+        <source>Connection Properties</source>
+        <translation>連線內容</translation>
+    </message>
+    <message>
+        <source>&amp;Description:</source>
+        <translation>描述(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Connection &amp;name:</source>
+        <translation>連線名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Browse...</source>
+        <translation>瀏覽(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>Connection &amp;file:</source>
+        <translation>連線檔案(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Connection type:</source>
+        <translation>連線類型:</translation>
+    </message>
+    <message>
+        <source>&amp;Connection:</source>
+        <translation>連線(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Command &amp;type:</source>
+        <translation>命令類型(&amp;T):</translation>
+    </message>
+    <message>
+        <source>SQL</source>
+        <translation>SQL</translation>
+    </message>
+    <message>
+        <source>Table</source>
+        <translation>表格</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>List</source>
+        <translation>清單</translation>
+    </message>
+    <message>
+        <source>Command t&amp;ext:</source>
+        <translation>命令文字(&amp;E):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgInsertFieldItem</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>For&amp;mula:</source>
+        <translation>公式(&amp;M):</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>新增(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Modify</source>
+        <translation>修改(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Fields:</source>
+        <translation>欄位(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Insert Fi&amp;eld</source>
+        <translation>插入欄位(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Item:</source>
+        <translation>項目(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Insert I&amp;tem</source>
+        <translation>插入項目(&amp;T)</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgInsertSlicer</name>
+    <message>
+        <source>Insert Slicers</source>
+        <translation>插入交叉分析篩選器</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgMoveSlicer</name>
+    <message>
+        <source>Move Slicer</source>
+        <translation>移動交叉分析篩選器</translation>
+    </message>
+    <message>
+        <source>Choose where you want the Slicer to be placed:</source>
+        <translation>請選擇放置交叉分析篩選器的位置</translation>
+    </message>
+    <message>
+        <source>New &amp;Sheet</source>
+        <translation>新工作表</translation>
+    </message>
+    <message>
+        <source>&amp;Object In:</source>
+        <translation>工作表中的物件</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgNameManager</name>
+    <message>
+        <source>Name Manager</source>
+        <translation>名稱管理員</translation>
+    </message>
+    <message>
+        <source>&amp;New..</source>
+        <translation>新增(&amp;N)...</translation>
+    </message>
+    <message>
+        <source>&amp;Edit...</source>
+        <translation>編輯(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Filter</source>
+        <translation>篩選(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Refers to:</source>
+        <translation>參照到(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgNewName</name>
+    <message>
+        <source>New Name</source>
+        <translation>新名稱</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Scope:</source>
+        <translation>領域(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation>活頁簿</translation>
+    </message>
+    <message>
+        <source>&amp;Refers to:</source>
+        <translation>參照到(&amp;R):</translation>
+    </message>
+    <message>
+        <source>C&amp;omment:</source>
+        <translation>註解(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Macro</source>
+        <translation>巨集</translation>
+    </message>
+    <message>
+        <source>&amp;Function</source>
+        <translation>函數(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Command</source>
+        <translation>命令(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Key:Ctrl+</source>
+        <translation>快速鍵(&amp;K): Ctrl+</translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation>無(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Ca&amp;tegory:</source>
+        <translation>類別(&amp;T):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPTFilterConnection</name>
+    <message>
+        <source>Filter Connections</source>
+        <translation>篩選連線</translation>
+    </message>
+    <message>
+        <source>Select filters to connect to this PivotTable</source>
+        <translation>選取要連接到此樞紐分析表的篩選</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPasteToFilterHidden</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>The paste area exists filter hidden cells.</source>
+        <translation>貼上區域有篩選隱藏儲存格。</translation>
+    </message>
+    <message>
+        <source>Please choose the paste mode:</source>
+        <translation>請選取貼上方式:</translation>
+    </message>
+    <message>
+        <source>Only paste values  into the visible cells（Recommended)</source>
+        <translation>僅貼上值到可見儲存格(推薦)</translation>
+    </message>
+    <message>
+        <source>Paste into the continuous area, including the hidden cells</source>
+        <translation>貼上至不間斷的區域，也包含隱藏單元格</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotChartPreview</name>
+    <message>
+        <source>Choose Category Fields:</source>
+        <translation>選擇類別欄位:</translation>
+    </message>
+    <message>
+        <source>Choose Summary Fields:</source>
+        <translation>選擇彙總欄位:</translation>
+    </message>
+    <message>
+        <source>Choose Chart Type:</source>
+        <translation>選擇圖表類型:</translation>
+    </message>
+    <message>
+        <source>Report Chart Preview:</source>
+        <translation>彙總圖表預覽:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotConsolidate</name>
+    <message>
+        <source>Dialog</source>
+        <translation>樞紐分析表和樞紐分析圖精靈</translation>
+    </message>
+    <message>
+        <source>You can create a PivotTable report that uses ranges from one or more worksheets, and that has no page fields or up to four page fields.</source>
+        <translation>您要建立樞紐分析表的資料可以由一或多個工作表中的資料彙總而成，也可以最多有四個分頁欄位，或完全不用分頁欄位。</translation>
+    </message>
+    <message>
+        <source>How many page fields you want?</source>
+        <translation>您要幾個分頁欄位?</translation>
+    </message>
+    <message>
+        <source>Create a single page field for me</source>
+        <translation>請幫我建立一個分頁欄位(&amp;C)</translation>
+    </message>
+    <message>
+        <source>I will create the page fields</source>
+        <translation>我會自行建立分頁欄位(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Where are the worksheet ranges that you want to consolidate?</source>
+        <translation>您要彙總哪些工作表上的資料範圍?</translation>
+    </message>
+    <message>
+        <source>&amp;Range:</source>
+        <translation>範圍(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation>新增(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation>删除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Bro&amp;wse...</source>
+        <translation>瀏覽(&amp;W)...</translation>
+    </message>
+    <message>
+        <source>A&amp;ll ranges:</source>
+        <translation>所有範圍(&amp;L):</translation>
+    </message>
+    <message>
+        <source>How many page fields do you want?</source>
+        <translation>您要幾個分頁欄位?</translation>
+    </message>
+    <message>
+        <source>&amp;0</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;1</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;3</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;4</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>What item labels do you want each page field to use to identify the selected data range?</source>
+        <translation>分頁欄位的標籤是什麼?</translation>
+    </message>
+    <message>
+        <source>Field thr&amp;ee:</source>
+        <translation>第三欄(&amp;E):</translation>
+    </message>
+    <message>
+        <source>Field &amp;one:</source>
+        <translation>第一欄(&amp;O):</translation>
+    </message>
+    <message>
+        <source>Field &amp;two:</source>
+        <translation>第二欄(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Field fo&amp;ur:</source>
+        <translation>第四欄(&amp;U):</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>&lt; &amp;Back</source>
+        <translation>&lt;上一步(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Next &gt;</source>
+        <translation>下一步(&amp;N)&gt;</translation>
+    </message>
+    <message>
+        <source>&amp;Finish</source>
+        <translation>完成(&amp;F)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotDateFilter</name>
+    <message>
+        <source>Date Filter</source>
+        <translation>日期篩選</translation>
+    </message>
+    <message>
+        <source>Show items for which the date</source>
+        <translation>顯示符合下列日期的項目:</translation>
+    </message>
+    <message>
+        <source>equals</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>does not equal</source>
+        <translation>不等於</translation>
+    </message>
+    <message>
+        <source>is before</source>
+        <translation>之前</translation>
+    </message>
+    <message>
+        <source>is before or equal to</source>
+        <translation>之前或等於</translation>
+    </message>
+    <message>
+        <source>is after</source>
+        <translation>之後</translation>
+    </message>
+    <message>
+        <source>is after or equal to</source>
+        <translation>之後或等於</translation>
+    </message>
+    <message>
+        <source>is between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>is not between</source>
+        <translation>不介於</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+    <message>
+        <source>Whole Days</source>
+        <translation>整天</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotGroup</name>
+    <message>
+        <source>Grouping</source>
+        <translation>群組</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>&amp;Starting at:</source>
+        <translation>開始點(&amp;S):</translation>
+    </message>
+    <message>
+        <source>&amp;Ending at:</source>
+        <translation>結束點(&amp;E):</translation>
+    </message>
+    <message>
+        <source>&amp;By:</source>
+        <translation>間距值(&amp;B):</translation>
+    </message>
+    <message>
+        <source>&amp;By</source>
+        <translation>間距值(&amp;B):</translation>
+    </message>
+    <message>
+        <source>&amp;Number of days</source>
+        <translation>天數(&amp;N):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotLabelFilter</name>
+    <message>
+        <source>Label Filter</source>
+        <translation>標籤篩選</translation>
+    </message>
+    <message>
+        <source>Show items for which the label</source>
+        <translation>顯示標籤的項目:</translation>
+    </message>
+    <message>
+        <source>equals</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>does not equal</source>
+        <translation>不等於</translation>
+    </message>
+    <message>
+        <source>is greater than</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>is greater than or equal to</source>
+        <translation>大於或等於</translation>
+    </message>
+    <message>
+        <source>is less than</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>is less than or equal to</source>
+        <translation>小於或等於</translation>
+    </message>
+    <message>
+        <source>begins with</source>
+        <translation>開始於</translation>
+    </message>
+    <message>
+        <source>does not begin with</source>
+        <translation>不開始於</translation>
+    </message>
+    <message>
+        <source>ends with</source>
+        <translation>結束於</translation>
+    </message>
+    <message>
+        <source>does not end with</source>
+        <translation>不結束於</translation>
+    </message>
+    <message>
+        <source>contains</source>
+        <translation>包含</translation>
+    </message>
+    <message>
+        <source>does not contain</source>
+        <translation>不包含</translation>
+    </message>
+    <message>
+        <source>is between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>is not between</source>
+        <translation>不介於</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+    <message>
+        <source>Use ? represent a single character
+Use * represent any number of character</source>
+        <translation>可使用 ? 代表任何單一字元
+可使用 * 代表任何多個字元</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotSort</name>
+    <message>
+        <source>Sort</source>
+        <translation>排序</translation>
+    </message>
+    <message>
+        <source>Sort options</source>
+        <translation>排序選項</translation>
+    </message>
+    <message>
+        <source>&amp;Manual (you can drag items to rearrange them)</source>
+        <translation>手動(您可以拖曳項目重新排列)(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Ascending (A to Z) by:</source>
+        <translation>遞增 (A 到 Z) 方式(&amp;A):</translation>
+    </message>
+    <message>
+        <source>&amp;Descending (Z to A) by:</source>
+        <translation>遞減 (Z 到 A) 方式(&amp;D):</translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation>摘要</translation>
+    </message>
+    <message>
+        <source>Mo&amp;re Options...</source>
+        <translation>其他選項(&amp;R)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotSortOption</name>
+    <message>
+        <source>More Sort Options</source>
+        <translation>更多排序選項</translation>
+    </message>
+    <message>
+        <source>&amp;AutoSort</source>
+        <translation>自動排序(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Sort automatically every time the report is updated</source>
+        <translation>每一次更新報表時自動排序(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;First key sort order</source>
+        <translation>自訂排序順序(&amp;F)</translation>
+    </message>
+    <message>
+        <source>No Calculation</source>
+        <translation>無計算</translation>
+    </message>
+    <message>
+        <source>Sort by</source>
+        <translation>排序依據</translation>
+    </message>
+    <message>
+        <source>&amp;Grand Total</source>
+        <translation>總計(&amp;G)</translation>
+    </message>
+    <message>
+        <source>&amp;Values in selected column:</source>
+        <translation>所選取欄中的值(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Method</source>
+        <translation>方法</translation>
+    </message>
+    <message>
+        <source>S&amp;yllabary Ordering</source>
+        <translation>依筆劃排序(&amp;Y)</translation>
+    </message>
+    <message>
+        <source>St&amp;roke Ordering</source>
+        <translation>依注音排序(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation>摘要</translation>
+    </message>
+    <message>
+        <source>Summary
+Summary
+Summary</source>
+        <translation>摘要
+摘要
+摘要</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotSortValue</name>
+    <message>
+        <source>Sort By Value</source>
+        <translation>依據值排序</translation>
+    </message>
+    <message>
+        <source>Sort &amp;options</source>
+        <translation>排序選項(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Smallest to Largest</source>
+        <translation>最小到最大(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Largest to Smallest</source>
+        <translation>最大到最小(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Sort &amp;direction</source>
+        <translation>排序方向(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Top to Bottom</source>
+        <translation>由上到下(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Left to &amp;Right</source>
+        <translation>從左至右(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Summary</source>
+        <translation>摘要</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotTableFieldSettings</name>
+    <message>
+        <source>Field Settings</source>
+        <translation>欄位設定</translation>
+    </message>
+    <message>
+        <source>Source name:</source>
+        <translation>來源名稱:</translation>
+    </message>
+    <message>
+        <source>Custom na&amp;me:</source>
+        <translation>自訂名稱(&amp;M):</translation>
+    </message>
+    <message>
+        <source>Summarize Values By</source>
+        <translation>摘要值方式</translation>
+    </message>
+    <message>
+        <source>&amp;Summarize value field by</source>
+        <translation>資料欄位統計方式(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Choose the type of calculation that you want to use to summarize data from the selected field</source>
+        <translation>選取要小計的資料欄位的計算類型</translation>
+    </message>
+    <message>
+        <source>Subtotals &amp;&amp; Filters</source>
+        <translation>小計與篩選</translation>
+    </message>
+    <message>
+        <source>Subtotals</source>
+        <translation>小計</translation>
+    </message>
+    <message>
+        <source>&amp;Automatic</source>
+        <translation>自動(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Non&amp;e</source>
+        <translation>無(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Custom</source>
+        <translation>自訂(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Select one or more functions:</source>
+        <translation>選取一或多個函數:</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation>篩選</translation>
+    </message>
+    <message>
+        <source>&amp;Include new items in manual filter</source>
+        <translation>在手動篩選中包括新項目(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Show Values As</source>
+        <translation>值的顯示方式</translation>
+    </message>
+    <message>
+        <source>Show v&amp;alues as</source>
+        <translation>值的顯示方式(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Base &amp;field:</source>
+        <translation>基本欄位(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Base &amp;item:</source>
+        <translation>基本項目(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Layout &amp;&amp; Print</source>
+        <translation>版面配置與列印</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>佈局</translation>
+    </message>
+    <message>
+        <source>&amp;Show items in outline form</source>
+        <translation>以大綱模式顯示(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Display labels from the next field in the same column(compact form)</source>
+        <translation>在相同欄中顯示下一個欄位的標籤 (壓縮表單)(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Display sub&amp;totals at top of each group</source>
+        <translation>在每一個群組的上方顯示小計(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Show &amp;items in tabular form</source>
+        <translation>以列表方式顯示(&amp;L)</translation>
+    </message>
+    <message>
+        <source>&amp;Repeat Item Labels</source>
+        <translation>重複項目標籤(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Insert &amp;blank line after each item</source>
+        <translation>在每一項前插入空白行(&amp;B)</translation>
+    </message>
+    <message>
+        <source>Sho&amp;w items with no data</source>
+        <translation>顯示未包含資料的項目(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation>列印</translation>
+    </message>
+    <message>
+        <source>Insert &amp;page break after each item</source>
+        <translation>每一項之後插入分頁(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Number Format</source>
+        <translation>數字格式(&amp;N)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotTablePreview</name>
+    <message>
+        <source>Choose Category Fields:</source>
+        <translation>選擇類別欄位:</translation>
+    </message>
+    <message>
+        <source>Choose Summary Fields:</source>
+        <translation>選擇彙總欄位:</translation>
+    </message>
+    <message>
+        <source>Report Layout:</source>
+        <translation>彙總表版面配置:</translation>
+    </message>
+    <message>
+        <source>Tabular</source>
+        <translation>表格式</translation>
+    </message>
+    <message>
+        <source>Outline</source>
+        <translation>大綱</translation>
+    </message>
+    <message>
+        <source>Compact</source>
+        <translation>壓縮</translation>
+    </message>
+    <message>
+        <source>Subtotals:</source>
+        <translation>小計:</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>顯示</translation>
+    </message>
+    <message>
+        <source>Hide</source>
+        <translation>隐藏</translation>
+    </message>
+    <message>
+        <source>Grand:</source>
+        <translation>顯示總計:</translation>
+    </message>
+    <message>
+        <source>Row Grand</source>
+        <translation>列總計</translation>
+    </message>
+    <message>
+        <source>Column Grand</source>
+        <translation>欄總計</translation>
+    </message>
+    <message>
+        <source>Collapse Button:</source>
+        <translation>顯示摺疊按鈕:</translation>
+    </message>
+    <message>
+        <source>Value Field Orientation:</source>
+        <translation>彙總欄位排列方式​​:</translation>
+    </message>
+    <message>
+        <source>Horizontal</source>
+        <translation>水平</translation>
+    </message>
+    <message>
+        <source>Vertical</source>
+        <translation>垂直</translation>
+    </message>
+    <message>
+        <source>Date Field Group:</source>
+        <translation>日期欄位群組依據:</translation>
+    </message>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+    <message>
+        <source>Day</source>
+        <translation>日</translation>
+    </message>
+    <message>
+        <source>Year</source>
+        <translation>年</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotTop10Filter</name>
+    <message>
+        <source>Top 10 Filter</source>
+        <translation>前 10 項篩選</translation>
+    </message>
+    <message>
+        <source>Show</source>
+        <translation>顯示</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <translation>最前</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <translation>最後</translation>
+    </message>
+    <message>
+        <source>Items</source>
+        <translation>項</translation>
+    </message>
+    <message>
+        <source>Percent</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>加總</translation>
+    </message>
+    <message>
+        <source>by</source>
+        <translation>藉由</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPivotValueFilter</name>
+    <message>
+        <source>Value Filter</source>
+        <translation>值篩選</translation>
+    </message>
+    <message>
+        <source>Show items for which</source>
+        <translation>顯示符合下列條件的項目:</translation>
+    </message>
+    <message>
+        <source>equals</source>
+        <translation>等於</translation>
+    </message>
+    <message>
+        <source>does not equal</source>
+        <translation>不等於</translation>
+    </message>
+    <message>
+        <source>is greater than</source>
+        <translation>大於</translation>
+    </message>
+    <message>
+        <source>is greater than or equal</source>
+        <translation>大於或等於</translation>
+    </message>
+    <message>
+        <source>is less than</source>
+        <translation>小於</translation>
+    </message>
+    <message>
+        <source>is less than or equal</source>
+        <translation>小於或等於</translation>
+    </message>
+    <message>
+        <source>is between</source>
+        <translation>介於</translation>
+    </message>
+    <message>
+        <source>is not between</source>
+        <translation>不介於</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>且</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemaindRepeat</name>
+    <message>
+        <source>compare</source>
+        <translation>比較</translation>
+    </message>
+    <message>
+        <source>Table range(&amp;L):</source>
+        <translation>表格範圍(&amp;L):</translation>
+    </message>
+    <message>
+        <source>Compare by(&amp;C):</source>
+        <translation>比較方式(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Compare by row</source>
+        <translation>整列比較</translation>
+    </message>
+    <message>
+        <source>Highlight color(&amp;D):</source>
+        <translation>指定色彩(&amp;D):</translation>
+    </message>
+    <message>
+        <source>My data has headers(&amp;T)</source>
+        <translation>我的資料有標題(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Fetch data to:</source>
+        <translation>擷取至:</translation>
+    </message>
+    <message>
+        <source>A new workbook</source>
+        <translation>新的工作表</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemaindRepeatMulti</name>
+    <message>
+        <source>compare</source>
+        <translation>比較</translation>
+    </message>
+    <message>
+        <source>Range 1(&amp;L):</source>
+        <translation>範圍1(&amp;L):</translation>
+    </message>
+    <message>
+        <source>Range 2(&amp;S):</source>
+        <translation>範圍2(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Highlight color(&amp;D):</source>
+        <translation>指定色彩(&amp;D):</translation>
+    </message>
+    <message>
+        <source>My data has headers(&amp;T)</source>
+        <translation>我的資料有標題(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Fetch data to:</source>
+        <translation>擷取至:</translation>
+    </message>
+    <message>
+        <source>A new workbook</source>
+        <translation>新的工作表</translation>
+    </message>
+    <message>
+        <source>Unique values in range 1(&amp;R)</source>
+        <translation>範圍1唯一值(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Fetch data:</source>
+        <translation>擷取資料:</translation>
+    </message>
+    <message>
+        <source>Unique values in range 2(&amp;D)</source>
+        <translation>範圍2唯一值(&amp;D)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgShowDetail</name>
+    <message>
+        <source>Show Detail</source>
+        <translation>顯示詳細資料</translation>
+    </message>
+    <message>
+        <source>Choose the field containing the detail you want to show:</source>
+        <translation>請選擇包含您想要顯示詳細資料的欄位</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgShowPages</name>
+    <message>
+        <source>Show Report Filter Pages</source>
+        <translation>顯示報表篩選頁面</translation>
+    </message>
+    <message>
+        <source>&amp;Show all report filter pages of:</source>
+        <translation>顯示所有報表篩選頁面(&amp;S):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSlicerReportConnection</name>
+    <message>
+        <source>Report Connections</source>
+        <translation>報表連線</translation>
+    </message>
+    <message>
+        <source>Select PivotTable reports to connecct to this filter</source>
+        <translation>選取要連接到此篩選的樞紐分析表</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSlicerSetting</name>
+    <message>
+        <source>Slicer Settings</source>
+        <translation>交叉分析篩選器設定</translation>
+    </message>
+    <message>
+        <source>Source Name:</source>
+        <translation>來源名稱:</translation>
+    </message>
+    <message>
+        <source>source</source>
+        <translation>來源</translation>
+    </message>
+    <message>
+        <source>Name to use in formulas:</source>
+        <translation>要在公式中使用的名稱:</translation>
+    </message>
+    <message>
+        <source>CacheName</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>&amp;Name:</source>
+        <translation>名稱(&amp;N):</translation>
+    </message>
+    <message>
+        <source>Header</source>
+        <translation>頁首</translation>
+    </message>
+    <message>
+        <source>&amp;Display header</source>
+        <translation>顯示頁首(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Caption:</source>
+        <translation>標題(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Item Sorting and Filtering</source>
+        <translation>項目排序和篩選</translation>
+    </message>
+    <message>
+        <source>&amp;Ascending (Smallest to Largest)</source>
+        <translation>遞增 (最小到最大)(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Descendin&amp;g (Largest to Smallest)</source>
+        <translation>遞減 (最大到最小)(&amp;G)</translation>
+    </message>
+    <message>
+        <source>Use Custo&amp;m Lists when sorting</source>
+        <translation>排序時，使用自訂清單(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Hide items with no data</source>
+        <translation>隱藏沒有資料的項目(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Visually indicate items with no data</source>
+        <translation>以視覺效果標示沒有資料的項目(&amp;V)</translation>
+    </message>
+    <message>
+        <source>Show &amp;items with no data last</source>
+        <translation>最後顯示沒有資料的項目(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Sh&amp;ow items deleted from the data source</source>
+        <translation>顯示資料來源中被刪除的項目(&amp;O)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSolveOrder</name>
+    <message>
+        <source>Calculated Item Solve Order</source>
+        <translation>計算項目的求解順序</translation>
+    </message>
+    <message>
+        <source>&amp;Solve Order:</source>
+        <translation>求解順序(&amp;S):</translation>
+    </message>
+    <message>
+        <source>If the value in a PivotTable cell is affected by two or more calculated items, the value is determined by last formula in the solve order.</source>
+        <translation>如果樞紐分析表中儲存格的值受到兩個或更多的計算項目所影響，這個值將是由求解順序中最後一個公式來決定。</translation>
+    </message>
+    <message>
+        <source>Move &amp;Up</source>
+        <translation>上移(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Move &amp;Down</source>
+        <translation>下移(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Dele&amp;te</source>
+        <translation>刪除(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSplitProgress</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>Spliting sheet...</source>
+        <translation>正在分割表格...</translation>
+    </message>
+    <message>
+        <source>0/0</source>
+        <translation>0/0</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgSplitSheet</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>select which col of content to split sheet by:</source>
+        <translation type="obsolete">指定以哪欄內容為依據分割表格:</translation>
+    </message>
+    <message>
+        <source>save results to:</source>
+        <translation type="obsolete">分割結果儲存至:</translation>
+    </message>
+    <message>
+        <source>different book,save path:</source>
+        <translation type="obsolete">新的檔案，儲存路徑:</translation>
+    </message>
+    <message>
+        <source>different sheet</source>
+        <translation type="obsolete">新的工作表</translation>
+    </message>
+    <message>
+        <source>Export by specified content:</source>
+        <translation>按指定內容分類匯出:</translation>
+    </message>
+    <message>
+        <source>Export to:</source>
+        <translation>匯出至:</translation>
+    </message>
+    <message>
+        <source>different new book,save path:</source>
+        <translation>新的檔案，儲存路徑:</translation>
+    </message>
+    <message>
+        <source>different new sheet</source>
+        <translation>新的工作表</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgValueShowAs</name>
+    <message>
+        <source>Show Values As</source>
+        <translation>值的顯示方式</translation>
+    </message>
+    <message>
+        <source>Calculation:</source>
+        <translation>計算:</translation>
+    </message>
+    <message>
+        <source>Base &amp;Field:</source>
+        <translation>基本欄位(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Base &amp;Item:</source>
+        <translation>基本項目(&amp;I):</translation>
+    </message>
+</context>
+<context>
+    <name>KxDuplicateBaseDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxEditConnectionPropertiesDlg</name>
+    <message>
+        <source>Office Data Connection</source>
+        <translation type="obsolete">Office 資料連線</translation>
+    </message>
+    <message>
+        <source>Microsoft Access Database</source>
+        <translation type="obsolete">Microsoft Access 資料庫</translation>
+    </message>
+    <message>
+        <source>Excel File</source>
+        <translation type="obsolete">Excel 檔案</translation>
+    </message>
+    <message>
+        <source>Web Query</source>
+        <translation type="obsolete">Web 查詢</translation>
+    </message>
+    <message>
+        <source>Text Connection</source>
+        <translation type="obsolete">文字檔</translation>
+    </message>
+    <message>
+        <source>XML File</source>
+        <translation type="obsolete">XML 檔案</translation>
+    </message>
+    <message>
+        <source>Connection or Command Text is empty.</source>
+        <translation>連線字串或命令文字是空的。</translation>
+    </message>
+    <message>
+        <source>Connection string or SQL has errors. WPS Spreadsheets can not import the data.</source>
+        <translation>連接字元串或者 SQL 有誤，WPS Spreadsheets 無法匯入資料。</translation>
+    </message>
+    <message>
+        <source>Unsupported connection type.</source>
+        <translation>不支援的連線類型。</translation>
+    </message>
+    <message>
+        <source>You Cannot choose a connection that is incompatible with the existing connection.</source>
+        <translation>您無法選擇與現有連線不相容的連線。</translation>
+    </message>
+    <message>
+        <source>Connection name cannot be empty or blank.</source>
+        <translation>連線名稱不可以是空的或空白。</translation>
+    </message>
+    <message>
+        <source>The connection in this workbook will no longer be identical to the connection defined in the external file located at &apos;%1&apos;.
+The link to that external file will also be removed.
+Do you want to proceed with changes to the connection in this workbook?</source>
+        <translation>這個活頁簿中的連線與在 &apos;%1&apos; 的外部檔案中定義的連線將不再相同。
+連接到外部檔案的連結也會被移除。
+是否繼續對活頁簿的連線進行變更?</translation>
+    </message>
+    <message>
+        <source>This connection name is already in use. Try a different name.</source>
+        <translation>這個連線名稱已經使用。請嘗試不同的名稱。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDlg</name>
+    <message>
+        <source>The name cannot be empty! Please enter again.</source>
+        <translation>無法新增：欄名為空。</translation>
+    </message>
+    <message>
+        <source>The name is repeated! Please enter again.</source>
+        <translation>名稱重複，請重新輸入。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEnableDataConnectionsDlg</name>
+    <message>
+        <source>SpreadSheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>The operation connects to an external data source.
+
+External data sources are used to import data into Excel,but
+connections to external data sources can be used by queries to
+access confidential information available to other users,or to
+perform other harmful actions.If you trust the source of this
+file,click OK.</source>
+        <translation>此作業會連線至外部資料來源。
+
+外部資料來源是用以匯入資料到 WPS Spreadsheets，但連線至外部
+資料來源可能會被查詢用於存取其他使用者可獲取的機密資訊，或是
+執行其他具破壞性的動作。 如果您信任此檔案的來源，請按 [確定]。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxErrorDlg</name>
+    <message>
+        <source>Continue</source>
+        <translation>繼續</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAfColorSortModel</name>
+    <message>
+        <source>Sort By Cell Color</source>
+        <translation>依儲存格色彩排序</translation>
+    </message>
+    <message>
+        <source>No Cell Color</source>
+        <translation>無儲存格色彩</translation>
+    </message>
+    <message>
+        <source>More Cell Color</source>
+        <translation>其他儲存格色彩...</translation>
+    </message>
+    <message>
+        <source>Sort By Font Color</source>
+        <translation>依字型色彩排序</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation>自動</translation>
+    </message>
+    <message>
+        <source>More Font Color</source>
+        <translation>其他字型色彩...</translation>
+    </message>
+    <message>
+        <source>Sort By Cell Icon</source>
+        <translation>依儲存格圖示排序</translation>
+    </message>
+    <message>
+        <source>No Cell Icon</source>
+        <translation>無儲存格圖示</translation>
+    </message>
+    <message>
+        <source>More Cell Icon</source>
+        <translation>其他儲存格圖示...</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAfHighlightSimilarDialog</name>
+    <message>
+        <source>Highlight the rows that contained records are similar to this row</source>
+        <translation>醒目提示包含與此列相似記錄的其他列。</translation>
+    </message>
+    <message>
+        <source>Please select one or more fields to compare:</source>
+        <translation>請選取一個或多個要比較的欄:</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAfIconButton</name>
+    <message>
+        <source>None</source>
+        <translation>無</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAfLockTitleWidget</name>
+    <message>
+        <source>Specify the always displayed header area:</source>
+        <translation>指定始終顯示的標題列區域:</translation>
+    </message>
+    <message>
+        <source>Rows from 1 to</source>
+        <translation>頂端 1 至 </translation>
+    </message>
+    <message>
+        <source>, always displayed.</source>
+        <translation>欄，始終顯示。</translation>
+    </message>
+    <message>
+        <source>Columns from %1 to</source>
+        <translation>左側 %1 至 </translation>
+    </message>
+    <message>
+        <source>, always displayed;</source>
+        <translation>列，始終顯示；</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAutoFilterFavoriteDlg</name>
+    <message>
+        <source>Edit</source>
+        <translation>編輯</translation>
+    </message>
+    <message>
+        <source>AutoFilter Favorites</source>
+        <translation>我的最愛篩選條件</translation>
+    </message>
+    <message>
+        <source>Apply</source>
+        <translation>套用</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>重新命名</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>刪除</translation>
+    </message>
+    <message>
+        <source>Back</source>
+        <translation>返回</translation>
+    </message>
+    <message>
+        <source>The AutoFilter is already exist.</source>
+        <translation>篩選條件已經存在。</translation>
+    </message>
+    <message>
+        <source>No AutoFilter is found, please set AutoFilter and try again.</source>
+        <translation>沒有找到篩選條件。
+請設定篩選條件後，再新增至最愛。</translation>
+    </message>
+    <message>
+        <source>There are repeated column names.</source>
+        <translation>無法新增：欄名重複。</translation>
+    </message>
+    <message>
+        <source>The AutoFilter has too much data. It can be time-consuming. Please confirm it.</source>
+        <translation>待新增的篩選條件太多，可能會需要一點時間。
+是否繼續？</translation>
+    </message>
+    <message>
+        <source>The number of favorites exceeds the limit.</source>
+        <translation>無法新增：最愛的數量已達上限。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtCondFmtItem</name>
+    <message>
+        <source>Blue Data Bar</source>
+        <translation>藍色資料橫條</translation>
+    </message>
+    <message>
+        <source>Green Data Bar</source>
+        <translation>綠色資料橫條</translation>
+    </message>
+    <message>
+        <source>Red Data Bar</source>
+        <translation>紅色資料橫條</translation>
+    </message>
+    <message>
+        <source>Orange Data bar</source>
+        <translation>橘色資料橫條</translation>
+    </message>
+    <message>
+        <source>Light Blue Data Bar</source>
+        <translation>淺藍色資料橫條</translation>
+    </message>
+    <message>
+        <source>Purple Data Bar</source>
+        <translation>紫色資料橫條</translation>
+    </message>
+    <message>
+        <source>Add a colored data bar to represent the value in a cell. The higher the value, the longer the bar.</source>
+        <translation>新增彩色資料橫條來代表在儲存格中的值。值越大，資料橫條就越長。</translation>
+    </message>
+    <message>
+        <source>Green-Yellow-Red Color Scale</source>
+        <translation>綠 - 黃 - 紅色階</translation>
+    </message>
+    <message>
+        <source>Red-Yellow-Green Color Scale</source>
+        <translation>紅 - 黃 - 綠色階</translation>
+    </message>
+    <message>
+        <source>Green-White-Red Color Scale</source>
+        <translation>綠 - 白 - 紅色階</translation>
+    </message>
+    <message>
+        <source>Red-White-Green Color Scale</source>
+        <translation>紅 - 白 - 綠色階</translation>
+    </message>
+    <message>
+        <source>Blue-White-Red Color Scale</source>
+        <translation>藍 - 白 - 紅色階</translation>
+    </message>
+    <message>
+        <source>Red-White-Blue Color Scale</source>
+        <translation>紅 - 白 - 藍色階</translation>
+    </message>
+    <message>
+        <source>White-Red Color Scale</source>
+        <translation>白 - 紅色階</translation>
+    </message>
+    <message>
+        <source>Red-White Color Scale</source>
+        <translation>紅 - 白色階</translation>
+    </message>
+    <message>
+        <source>Green-White Color Scale</source>
+        <translation>綠 - 白色階</translation>
+    </message>
+    <message>
+        <source>White-Green Color Scale</source>
+        <translation>白 - 綠色階</translation>
+    </message>
+    <message>
+        <source>Green-Yellow Color Scale</source>
+        <translation>綠 - 黃色階</translation>
+    </message>
+    <message>
+        <source>Yellow-Green Color Scale</source>
+        <translation>黃 - 綠色階</translation>
+    </message>
+    <message>
+        <source>Apply a color gradient to a range of cells. The color indicates where each cell value falls within that range.</source>
+        <translation>在儲存格範圍中套用色彩漸層。色彩可指出各儲存格值落在該範圍中的位置。</translation>
+    </message>
+    <message>
+        <source>3 Arrows (Colored)</source>
+        <translation>三箭號 (彩色)</translation>
+    </message>
+    <message>
+        <source>3 Arrow (Gray)</source>
+        <translation>三箭號 (灰)</translation>
+    </message>
+    <message>
+        <source>3 Triangles</source>
+        <translation>3種三角形</translation>
+    </message>
+    <message>
+        <source>4 Arrows (Gray)</source>
+        <translation>四箭號 (灰)</translation>
+    </message>
+    <message>
+        <source>4 Arrows (Colored)</source>
+        <translation>四箭號 (彩色)</translation>
+    </message>
+    <message>
+        <source>5 Arrows (Gray)</source>
+        <translation>五箭號 (灰)</translation>
+    </message>
+    <message>
+        <source>5 Arrows (Colored)</source>
+        <translation>五箭號 (彩色)</translation>
+    </message>
+    <message>
+        <source>3 Traffic Lights (Unrimmed)</source>
+        <translation>三交通號誌 (無框)</translation>
+    </message>
+    <message>
+        <source>3 Traffic Lights (Rimmed)</source>
+        <translation>三交通號誌 (方框)</translation>
+    </message>
+    <message>
+        <source>3 Signs</source>
+        <translation>三記號</translation>
+    </message>
+    <message>
+        <source>4 Traffic Lights</source>
+        <translation>四交通號誌</translation>
+    </message>
+    <message>
+        <source>Red To Black</source>
+        <translation>紅色到黑色</translation>
+    </message>
+    <message>
+        <source>3 Symbols (Circled)</source>
+        <translation>三符號 (圓框)</translation>
+    </message>
+    <message>
+        <source>3 Symbols (Uncircled)</source>
+        <translation>三符號 (無框)</translation>
+    </message>
+    <message>
+        <source>3 Flags</source>
+        <translation>三旗幟</translation>
+    </message>
+    <message>
+        <source>3 Stars</source>
+        <translation>3種星</translation>
+    </message>
+    <message>
+        <source>4 Ratings</source>
+        <translation>四分類</translation>
+    </message>
+    <message>
+        <source>5 Quarters</source>
+        <translation>五刻鐘</translation>
+    </message>
+    <message>
+        <source>5 Ratings</source>
+        <translation>五分類</translation>
+    </message>
+    <message>
+        <source>5 Boxes</source>
+        <translation>5種方塊</translation>
+    </message>
+    <message>
+        <source>Choose a set of a icons to represent the values in the selected cells.</source>
+        <translation>選擇一組圖示來代表所選取儲存格中的值。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtCondFmtModel</name>
+    <message>
+        <source>Gradient Fill</source>
+        <translation>漸層填滿</translation>
+    </message>
+    <message>
+        <source>Solid Fill</source>
+        <translation>實心填滿</translation>
+    </message>
+    <message>
+        <source>Directional</source>
+        <translation>方向性</translation>
+    </message>
+    <message>
+        <source>Shapes</source>
+        <translation>圖形</translation>
+    </message>
+    <message>
+        <source>Indicators</source>
+        <translation>指標</translation>
+    </message>
+    <message>
+        <source>Ratings</source>
+        <translation>評等</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDialog</name>
+    <message>
+        <source>WPS Spreadsheets</source>
+        <translation>WPS Spreadsheets</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgDocSlim</name>
+    <message>
+        <source>File Slimming</source>
+        <translation>檔案瘦身</translation>
+    </message>
+    <message>
+        <source>The current file:</source>
+        <translation>目前檔案:</translation>
+    </message>
+    <message>
+        <source>filename</source>
+        <translation>檔案名稱</translation>
+    </message>
+    <message>
+        <source>size:</source>
+        <translation>大小:</translation>
+    </message>
+    <message>
+        <source>0 k</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&quot;File slimming&quot; finished! Successfully reduced</source>
+        <translation>瘦身完成！成功減小</translation>
+    </message>
+    <message>
+        <source>10,257KB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>File size:</source>
+        <translation>檔案大小:</translation>
+    </message>
+    <message>
+        <source> 0 k</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>When your document contains hidden data or format, will cause the file size is too large,&quot;file slimming&quot; feature can help you reduce the file size.</source>
+        <translation>檔案中包含隱藏的資料或格式會增加檔案大小。[檔案瘦身]功能可幫您減小檔案大小。</translation>
+    </message>
+    <message>
+        <source>Need slimming content:</source>
+        <translation>瘦身內容:</translation>
+    </message>
+    <message>
+        <source>0</source>
+        <translation>0</translation>
+    </message>
+    <message>
+        <source>Empty cells</source>
+        <translation>空白儲存格</translation>
+    </message>
+    <message>
+        <source>Hidden shapes, text boxes, and so on</source>
+        <translation>隱藏的圖案、文字方塊等</translation>
+    </message>
+    <message>
+        <source>Duplicate styles</source>
+        <translation>重複樣式</translation>
+    </message>
+    <message>
+        <source>No need slimming</source>
+        <translation>沒有可瘦身的內容</translation>
+    </message>
+    <message>
+        <source>Select another file</source>
+        <translation>選取另一檔案</translation>
+    </message>
+    <message>
+        <source>&quot;File slimming&quot; may cause data loss,backup the original file can preserve the original data, it is recommended to keep this option is checked</source>
+        <translation>檔案瘦身可能會造成資料遺失，備份原始檔案可保留原始資料，建議核取此選項</translation>
+    </message>
+    <message>
+        <source>Backup the original files</source>
+        <translation>備份原始檔案</translation>
+    </message>
+    <message>
+        <source>Change the path</source>
+        <translation>變更路徑</translation>
+    </message>
+    <message>
+        <source>No backup files!</source>
+        <translation>暫無備份檔案。</translation>
+    </message>
+    <message>
+        <source>Original file has finished backing up</source>
+        <translation>原始檔案備份完成</translation>
+    </message>
+    <message>
+        <source>Open the backup file location</source>
+        <translation>開啟備份檔案位置</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgDocSlimMsg</name>
+    <message>
+        <source>Prompt Information</source>
+        <translation>提示資訊</translation>
+    </message>
+    <message>
+        <source>Prompt information</source>
+        <translation>提示資訊</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgFlieListOfOpen</name>
+    <message>
+        <source>Select the file you want to slim down</source>
+        <translation>選取需要瘦身的檔案</translation>
+    </message>
+    <message>
+        <source>File List of already open:</source>
+        <translation>已開啟的檔案清單:</translation>
+    </message>
+    <message>
+        <source>Open another file</source>
+        <translation>開啟另一檔案</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDlgUnhideWindow</name>
+    <message>
+        <source>Unhide</source>
+        <translation>取消隱藏</translation>
+    </message>
+    <message>
+        <source>&amp;Unhide workbook:</source>
+        <translation>取消隱藏活頁簿(&amp;U):</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDocSlimDlg</name>
+    <message>
+        <source>%1 Select another file %2</source>
+        <translation>%1 選取另一檔案 %2</translation>
+    </message>
+    <message>
+        <source>Select Folder:</source>
+        <translation>選取資料夾</translation>
+    </message>
+    <message>
+        <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
+        <translation>您沒有權限將備份文件保存在 &quot;%1&quot; 中。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>No neeed slimming</source>
+        <translation>沒有可瘦身的內容</translation>
+    </message>
+    <message>
+        <source>%1 Blocks</source>
+        <translation>%1 塊</translation>
+    </message>
+    <message>
+        <source>Start</source>
+        <translation>開始瘦身</translation>
+    </message>
+    <message>
+        <source>Slimming...</source>
+        <translation>正在瘦身...</translation>
+    </message>
+    <message>
+        <source>Finished</source>
+        <translation>瘦身完成</translation>
+    </message>
+    <message>
+        <source>%1 KB</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Backup source file failed. Do you want to continue slimming?</source>
+        <translation>無法備份檔案。要繼續檔案瘦身嗎？</translation>
+    </message>
+    <message>
+        <source>Yes</source>
+        <translation>是</translation>
+    </message>
+    <message>
+        <source>No</source>
+        <translation>否</translation>
+    </message>
+    <message>
+        <source>This file has been modified, please confirm that you want to save.</source>
+        <translation>檔案已修改，請確認是否儲存。</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>儲存</translation>
+    </message>
+    <message>
+        <source>Do not save, directly to slim</source>
+        <translation>不儲存，直接瘦身</translation>
+    </message>
+    <message>
+        <source>Failed to save the source files. Do you want to continue slimming?</source>
+        <translation>無法儲存原始檔案。是否繼續此檔案的瘦身？</translation>
+    </message>
+    <message>
+        <source>Fail to open file!</source>
+        <translation>無法開啟檔案！</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt;便捷功能&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 匯出為 PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- 列印/預覽列印&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFavoriteListModel</name>
+    <message>
+        <source>(Show all data)</source>
+        <translation>(顯示全部資料)</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFeedbackDlg</name>
+    <message>
+        <source>Problem Feedback</source>
+        <translation>意見反應</translation>
+    </message>
+    <message>
+        <source>Hi, I am Xiao e. This feature may have some deviations from your expectations at present. We are looking forward to gathering your feelings and suggestions. It will be helpful for us to improve our features and products. 
+(Our QQ group number : 314380681)</source>
+        <translation>Hi，我是小e。目前這個功能可能和您的預期還有一些出入，您可以與我們分享你的意見和建議，幫助我們改進、完善產品。
+(我們的QQ交流群:314380618)</translation>
+    </message>
+    <message>
+        <source>Please enter your valuable suggestions...</source>
+        <translation>請與我們分享您的寶貴意見...</translation>
+    </message>
+    <message>
+        <source>Please enter your QQ</source>
+        <translation>您的QQ是</translation>
+    </message>
+    <message>
+        <source>submit</source>
+        <translation>提交</translation>
+    </message>
+    <message>
+        <source>In submitting, please wait...</source>
+        <translation>正在提交，請稍候...</translation>
+    </message>
+    <message>
+        <source>Your feedback was submitted. Thanks for your support!</source>
+        <translation>您的意見反應已提交，謝謝您的支持！</translation>
+    </message>
+    <message>
+        <source>Fail to submitting, please submit again!</source>
+        <translation>提交失敗，請重試。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFieldListModel</name>
+    <message>
+        <source>Count</source>
+        <translation>項目個數</translation>
+    </message>
+    <message>
+        <source>Row Title</source>
+        <translation>列標題</translation>
+    </message>
+    <message>
+        <source>Column Title</source>
+        <translation>欄標題</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation>數列</translation>
+    </message>
+    <message>
+        <source>Date Axis</source>
+        <translation>日期座標軸</translation>
+    </message>
+    <message>
+        <source>Category Axis</source>
+        <translation>類別軸</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>加總</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFileListOfOpenDlg</name>
+    <message>
+        <source>%1 Select another file %2</source>
+        <translation>%1 開啟另一檔案 %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFontThemeModel</name>
+    <message>
+        <source>Recent Colors</source>
+        <translation>最近使用的色彩</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtHeightSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtMergeCellsMsgDlg</name>
+    <message>
+        <source>Remember this option</source>
+        <translation>記住此作業</translation>
+    </message>
+    <message>
+        <source>Don&apos;t check near area</source>
+        <translation>不再檢查相鄰區域及提示</translation>
+    </message>
+    <message>
+        <source>The selection contains a variety of content, please select the merge method you want.</source>
+        <translation>選取區域包含不同的內容，請選取您期望的合併方式。</translation>
+    </message>
+    <message>
+        <source>There is other cells under the selection.
+
+Need expand the cells under the selection and batch merge the same cells?</source>
+        <translation>所選區域的下方仍存在其他儲存格。
+
+要擴展所選區域至這些儲存格，批量合併相同儲存格嗎？</translation>
+    </message>
+    <message>
+        <source>Please select the cancel merged cells method.</source>
+        <translation>請選擇您期望的取消合併的方式。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtNumberCombobox</name>
+    <message>
+        <source>General</source>
+        <translation>通用格式</translation>
+    </message>
+    <message>
+        <source>Number</source>
+        <translation>數值</translation>
+    </message>
+    <message>
+        <source>Currency</source>
+        <translation>貨幣</translation>
+    </message>
+    <message>
+        <source>Accounting</source>
+        <translation>會計專用</translation>
+    </message>
+    <message>
+        <source>Short Date</source>
+        <translation>簡短日期</translation>
+    </message>
+    <message>
+        <source>Long Date</source>
+        <translation>詳細日期</translation>
+    </message>
+    <message>
+        <source>Time</source>
+        <translation>時間</translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>分數</translation>
+    </message>
+    <message>
+        <source>Scientific</source>
+        <translation>科學記號</translation>
+    </message>
+    <message>
+        <source>Text</source>
+        <translation>文字</translation>
+    </message>
+    <message>
+        <source>&amp;More Number Formats...</source>
+        <translation>其他數值格式(&amp;M)...</translation>
+    </message>
+    <message>
+        <source>No specific format</source>
+        <translation>無特定的格式</translation>
+    </message>
+    <message>
+        <source>Date</source>
+        <translation>日期</translation>
+    </message>
+    <message>
+        <source>Special</source>
+        <translation>特殊</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation>自訂</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtPasteGalleryModel</name>
+    <message>
+        <source>Paste</source>
+        <translation>貼上</translation>
+    </message>
+    <message>
+        <source>Paste Values</source>
+        <translation>貼上值</translation>
+    </message>
+    <message>
+        <source>Other Paste Options</source>
+        <translation>其他貼上選項</translation>
+    </message>
+    <message>
+        <source>Paste Options:</source>
+        <translation>貼上選項:</translation>
+    </message>
+    <message>
+        <source>Formulas</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Formulas &amp; Number Formatting</source>
+        <translation>公式與數字格式</translation>
+    </message>
+    <message>
+        <source>Keep Source Formatting</source>
+        <translation>保留來源格式設定</translation>
+    </message>
+    <message>
+        <source>No Borders</source>
+        <translation>無框線</translation>
+    </message>
+    <message>
+        <source>Keep Source Column Widths</source>
+        <translation>保持原始欄寬</translation>
+    </message>
+    <message>
+        <source>Transpose</source>
+        <translation>轉置</translation>
+    </message>
+    <message>
+        <source>Values</source>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Values &amp; Number Formatting</source>
+        <translation>值與數字格式</translation>
+    </message>
+    <message>
+        <source>Values &amp; Source Formatting</source>
+        <translation>​​值與原始​​格式設定</translation>
+    </message>
+    <message>
+        <source>Formatting</source>
+        <translation>格式設定</translation>
+    </message>
+    <message>
+        <source>Match Destination Formatting</source>
+        <translation>符合目的格式設定</translation>
+    </message>
+    <message>
+        <source>Keep Text Only</source>
+        <translation>只保留文字</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtPrinterCollateCommand</name>
+    <message>
+        <source>Order:</source>
+        <translation>列印順序:</translation>
+    </message>
+    <message>
+        <source>Collate</source>
+        <translation>自動分頁</translation>
+    </message>
+    <message>
+        <source>Uncollate</source>
+        <translation>不自動分頁</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtPrinterNameCommand</name>
+    <message>
+        <source>Printer Name:</source>
+        <translation>印表機:</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtPrinterPaperSizeCommand</name>
+    <message>
+        <source>Paper Sizes:</source>
+        <translation>紙張大小:</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtPrinterSideCommand</name>
+    <message>
+        <source>Side:</source>
+        <translation>雙面打印:</translation>
+    </message>
+    <message>
+        <source>Print one sided</source>
+        <translation>單面列印</translation>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation>手動雙面列印</translation>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation>在長邊緣翻轉</translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation>在短邊緣翻轉</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSlicerHeightEditCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtSlicerWidthEditCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtValidationTip</name>
+    <message>
+        <source>&lt;u&gt;Add To List&lt;/u&gt;</source>
+        <translation>&lt;u&gt;加到清單&lt;/u&gt;</translation>
+    </message>
+    <message>
+        <source>Error Input</source>
+        <translation>錯誤提醒</translation>
+    </message>
+    <message>
+        <source>You input the content does not conform to the constraints</source>
+        <translation>您輸入的內容不符合限制條件。</translation>
+    </message>
+    <message>
+        <source>Press [Enter] again to confirm</source>
+        <translation>再按一次 [Enter] 以確認輸入。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtWidthSpinboxCommand</name>
+    <message>
+        <source>cm</source>
+        <translation type="obsolete">公分</translation>
+    </message>
+</context>
+<context>
+    <name>KxExistingConnectionsDlg</name>
+    <message>
+        <source>&amp;Edit connection property...</source>
+        <translation>編輯連線內容(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>All Connections</source>
+        <translation>所有連線</translation>
+    </message>
+    <message>
+        <source>Connections in this Workbook</source>
+        <translation>活頁簿中的連線</translation>
+    </message>
+    <message>
+        <source>Connection Files on this computer</source>
+        <translation>這部電腦上的連線檔案</translation>
+    </message>
+    <message>
+        <source>All Tables</source>
+        <translation>所有資料表</translation>
+    </message>
+    <message>
+        <source>Workbook Tables</source>
+        <translation>活頁簿表格</translation>
+    </message>
+    <message>
+        <source>  &lt;No connections found&gt;</source>
+        <translation> &lt;找不到連線&gt;</translation>
+    </message>
+    <message>
+        <source>  &lt;No tables found&gt;</source>
+        <translation> &lt;找不到表格&gt;</translation>
+    </message>
+    <message>
+        <source>Data Source:&lt;file://</source>
+        <translation>建立來源:&lt;file://</translation>
+    </message>
+    <message>
+        <source>&gt;</source>
+        <translation>&gt;</translation>
+    </message>
+    <message>
+        <source>Select to navigate up one level</source>
+        <translation>選取瀏覽上一層</translation>
+    </message>
+    <message>
+        <source>Shortcut</source>
+        <translation>捷徑</translation>
+    </message>
+    <message>
+        <source>subFolder</source>
+        <translation>子資料夾</translation>
+    </message>
+    <message>
+        <source>(This Workbook)</source>
+        <translation>(此活頁簿)</translation>
+    </message>
+    <message>
+        <source>[empty]</source>
+        <translation>[空白]</translation>
+    </message>
+</context>
+<context>
+    <name>KxExistingConnectionsDlgUI</name>
+    <message>
+        <source>Existing Connections</source>
+        <translation>現有連線</translation>
+    </message>
+    <message>
+        <source>Select a &amp;Connection</source>
+        <translation type="obsolete">選取連線(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Show:</source>
+        <translation>顯示(&amp;S):</translation>
+    </message>
+    <message>
+        <source>All Connections</source>
+        <translation>所有連線</translation>
+    </message>
+    <message>
+        <source>Connection Files on this computer</source>
+        <translation>這部電腦上的連線檔案</translation>
+    </message>
+    <message>
+        <source>Select a Connection or Table</source>
+        <translation type="obsolete">選取連線或表格</translation>
+    </message>
+    <message>
+        <source>&amp;Connections</source>
+        <translation>連線(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Connections in this Workbook</source>
+        <translation>活頁簿中的連線</translation>
+    </message>
+    <message>
+        <source>&amp;Tables</source>
+        <translation>表格(&amp;T)</translation>
+    </message>
+    <message>
+        <source>All Tables</source>
+        <translation>所有資料表</translation>
+    </message>
+    <message>
+        <source>Workbook Tables</source>
+        <translation>活頁簿表格</translation>
+    </message>
+    <message>
+        <source>&amp;Browse for More...</source>
+        <translation>瀏覽更多(&amp;B)...</translation>
+    </message>
+    <message>
+        <source>&amp;Open</source>
+        <translation>開啟(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Select a &amp;Connection:</source>
+        <translation>選取連線(&amp;C):</translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertDropDownListDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation>插入下拉式清單</translation>
+    </message>
+    <message>
+        <source>Add choices drop down manually</source>
+        <translation>手動加入下拉式選項</translation>
+    </message>
+    <message>
+        <source>Select choices drop down from cells</source>
+        <translation>從儲存格選取下拉式選項</translation>
+    </message>
+    <message>
+        <source>A&amp;pply these changes to cells with the same formatting</source>
+        <translation>將所做的改變套用至所有具有相同設定的儲存格(&amp;P)</translation>
+    </message>
+    <message>
+        <source>ClearAll</source>
+        <translation>全部清除</translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertFieldItemDlg</name>
+    <message>
+        <source>Insert Calculated Item In &quot;%1&quot;</source>
+        <translation>將欲計算的項目加入到 &quot;%1&quot;</translation>
+    </message>
+    <message>
+        <source>Insert Calculated Field</source>
+        <translation>插入計算欄位</translation>
+    </message>
+    <message>
+        <source>The name of the selected item exceeds 255 characters. To be able to use this item in a calculation, please change the name to be 255 characters or less.</source>
+        <translation>選取項目的名稱超過 255 個字元。若要在計算中使用此項目，請將其名稱變更為 255 個字元以下。</translation>
+    </message>
+    <message>
+        <source>Field%1</source>
+        <translation>欄位 %1</translation>
+    </message>
+    <message>
+        <source>Calculated item or field could not be created because another item or field of the same name exists.</source>
+        <translation>這個計算項目或欄位已存在，無法重複建立同樣名稱的計算項目或是欄位。</translation>
+    </message>
+</context>
+<context>
+    <name>KxMarginsWidget</name>
+    <message>
+        <source>(Unit: %1)</source>
+        <translation>(單位: %1)</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeFrameEmbedInMenuItem</name>
+    <message>
+        <source>:</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeProgressDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>Merge Sheet</source>
+        <translation>合併表格</translation>
+    </message>
+    <message>
+        <source>Merging sheet</source>
+        <translation>正在合併</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>停止</translation>
+    </message>
+    <message>
+        <source>Merging is done.(%1/%2)</source>
+        <translation>合併完成（%1/%2）</translation>
+    </message>
+    <message>
+        <source>Merging tables(%1/%2)</source>
+        <translation>正在合併表格（%1/%2）</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeSheetDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation>合併表格</translation>
+    </message>
+    <message>
+        <source>Specify which workbooks/sheets to merge:</source>
+        <translation>請指定需要合併的活頁簿及工作表:</translation>
+    </message>
+    <message>
+        <source>&amp;Add workbook</source>
+        <translation>新增活頁簿(&amp;A)</translation>
+    </message>
+    <message>
+        <source>The merging will keep all the original content, formulas and formats.</source>
+        <translation>說明:合併之後，保留所有儲存格的內容、公式和格式。</translation>
+    </message>
+    <message>
+        <source>Start merging</source>
+        <translation>開始合併</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>Merge workbooks</source>
+        <translation>合併成一個活頁簿</translation>
+    </message>
+    <message>
+        <source>Merge worksheets</source>
+        <translation>合併成一個工作表</translation>
+    </message>
+    <message>
+        <source>Merge same-name sheets in workbooks</source>
+        <translation>合併同名工作表</translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation>選項(O)</translation>
+    </message>
+    <message>
+        <source>Title Rows</source>
+        <translation>表格標題的列數</translation>
+    </message>
+    <message>
+        <source>Use original &amp;sheet names</source>
+        <translation>工作表名稱不變(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Sheet names + original &amp;file names</source>
+        <translation>工作表名稱，後面加上檔名(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Original fil&amp;e names + sheet names</source>
+        <translation>工作表名稱，前面加上檔名(&amp;E)</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeWithLineEditCommand</name>
+    <message>
+        <source>(Note:Keep one title)</source>
+        <translation>(注意:僅保留1份標題)</translation>
+    </message>
+</context>
+<context>
+    <name>KxMultiRemindRepeatDlg</name>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation>標記重複值</translation>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation>標記唯一值</translation>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation>擷取重複值</translation>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation>擷取唯一值</translation>
+    </message>
+    <message>
+        <source>Please select the content you want to extract.</source>
+        <translation>請選取要擷取的內容。</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewFormattingRule</name>
+    <message>
+        <source>New Formatting Rule</source>
+        <translation>新增格式化規則</translation>
+    </message>
+    <message>
+        <source>&amp;Select a Rule Type:</source>
+        <translation>選取規則類型(&amp;S):</translation>
+    </message>
+    <message>
+        <source>Format all cells based on their values</source>
+        <translation>根據其值格式化所有儲存格</translation>
+    </message>
+    <message>
+        <source>Format only cells that contain</source>
+        <translation>只格式化包含下列的儲存格</translation>
+    </message>
+    <message>
+        <source>Format only top or bottom ranked values</source>
+        <translation>只格式化排在最前面或最後面的值</translation>
+    </message>
+    <message>
+        <source>Format only values that are above or below average</source>
+        <translation>只格式化高於或低於平均的值</translation>
+    </message>
+    <message>
+        <source>Format only unique or duplicate value</source>
+        <translation>只格式化唯一或重複的值</translation>
+    </message>
+    <message>
+        <source>Use a formula to determine which cells to format</source>
+        <translation>使用公式決定要格式化哪些儲存格</translation>
+    </message>
+    <message>
+        <source>&amp;Edit the Rule Description:</source>
+        <translation>編輯規則說明(&amp;E):</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxNewNameDlg</name>
+    <message>
+        <source>The name is invalid or the formula contains an error.</source>
+        <translation>名稱包含無效字元或輸入的公式有誤。</translation>
+    </message>
+    <message>
+        <source>The name entered already exists. Enter a unique name.</source>
+        <translation>輸入的名稱已經存在。請輸入唯一的名稱。</translation>
+    </message>
+    <message>
+        <source>The Comment cannot be longer than 255 characters.</source>
+        <translation>註解不能超過 255 個字元。</translation>
+    </message>
+    <message>
+        <source>the formula contains an error.</source>
+        <translation>您輸入的公式中包含錯誤。</translation>
+    </message>
+    <message>
+        <source> - Reference location:</source>
+        <translation> - 參照到:</translation>
+    </message>
+</context>
+<context>
+    <name>KxOrientationDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation>尋找</translation>
+    </message>
+    <message>
+        <source>locate:</source>
+        <translation>尋找:</translation>
+    </message>
+    <message>
+        <source>referenceLocation:</source>
+        <translation>參考位置:</translation>
+    </message>
+    <message>
+        <source>ok</source>
+        <translation>確定</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxPTFilterConnectionDlg</name>
+    <message>
+        <source>Caption</source>
+        <translation>標題</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Sheet</source>
+        <translation>工作表</translation>
+    </message>
+</context>
+<context>
+    <name>KxPasteToFilterHiddenDlg</name>
+    <message>
+        <source>Remember this selection</source>
+        <translation>記住此次選擇</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotChartPreviewDlg</name>
+    <message>
+        <source>You cannot create a PivotChart with there data, Please check the reference range is valid.</source>
+        <translation>無法建立彙總圖表。
+可能因為一些欄沒有標題。請加上標題后再試。</translation>
+    </message>
+    <message>
+        <source>Series</source>
+        <translation type="obsolete">數列</translation>
+    </message>
+    <message>
+        <source>Category Axis</source>
+        <translation type="obsolete">類別軸</translation>
+    </message>
+    <message>
+        <source>Move to Summary List</source>
+        <translation>移動至彙總欄位</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>加總</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>項目個數</translation>
+    </message>
+    <message>
+        <source>Move to Category List</source>
+        <translation>移動至類別欄位</translation>
+    </message>
+    <message>
+        <source>Cannot generate PivotChart, the field selected have too much items.</source>
+        <translation>無法產生統計圖: 所選欄位包含太多項目。</translation>
+    </message>
+    <message>
+        <source>Cannot generate a preview, the field selected have too much items.</source>
+        <translation>無法產生預覽圖: 所選欄位包含太多項目。</translation>
+    </message>
+    <message>
+        <source>Column Chart</source>
+        <translation>直條圖</translation>
+    </message>
+    <message>
+        <source>Column Stack Chart</source>
+        <translation>堆疊直條圖</translation>
+    </message>
+    <message>
+        <source>Bar Chart</source>
+        <translation>橫條圖</translation>
+    </message>
+    <message>
+        <source>Line Chart</source>
+        <translation>折線圖</translation>
+    </message>
+    <message>
+        <source>Pie Chart</source>
+        <translation>圓形圖</translation>
+    </message>
+    <message>
+        <source>(Please select item in category field and summary field)</source>
+        <translation>(請選取類別欄位及彙總欄位)</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotConsolidateDlg</name>
+    <message>
+        <source>PivotTable Wizard - %1 of %2</source>
+        <translation>樞紐分析表精靈 - %2 步驟之 %1</translation>
+    </message>
+    <message>
+        <source>You have not specified any source ranges for your PivotTable report. Type or select at least one range in the Ranges box before choosing Next or Finish.</source>
+        <translation>您尚未指定樞紐分析表的來源範圍。請在 [範圍] 方塊內至少鍵入或選取一個範圍後，再按 [下一步] 或 [完成]。</translation>
+    </message>
+    <message>
+        <source>Reference is not valid.</source>
+        <translation>參考無效。</translation>
+    </message>
+    <message>
+        <source>Item%1</source>
+        <translation>項目 %1</translation>
+    </message>
+    <message>
+        <source>Cannot add duplicate source reference.</source>
+        <translation>無法加上重複的來源參照。</translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation>瀏覽</translation>
+    </message>
+    <message>
+        <source>Consolidation references is not valid.</source>
+        <translation>合併彙算參照無效。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotDateFilterDlg</name>
+    <message>
+        <source>DateFilter(</source>
+        <translation>日期篩選(</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Invalid date value. Please try again</source>
+        <translation>無效的日期值。請重試。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotGroupDlg</name>
+    <message>
+        <source>Seconds</source>
+        <translation>秒</translation>
+    </message>
+    <message>
+        <source>Minutes</source>
+        <translation>分</translation>
+    </message>
+    <message>
+        <source>Hours</source>
+        <translation>時</translation>
+    </message>
+    <message>
+        <source>Days</source>
+        <translation>日</translation>
+    </message>
+    <message>
+        <source>Months</source>
+        <translation>月</translation>
+    </message>
+    <message>
+        <source>Quarters</source>
+        <translation>季</translation>
+    </message>
+    <message>
+        <source>Years</source>
+        <translation>年</translation>
+    </message>
+    <message>
+        <source>Your entry cannot be used. An integer or decimal number may be required.</source>
+        <translation>您所輸入的不是有效數字，無法在此使用。您必須輸入一個整數或是小數。</translation>
+    </message>
+    <message>
+        <source>The end number must be greater than the start number.</source>
+        <translation>結束數字必須大於開始數字。</translation>
+    </message>
+    <message>
+        <source>Number must be greater than zero.</source>
+        <translation>數值需大於零。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotLabelFilterDlg</name>
+    <message>
+        <source>LableFilter(</source>
+        <translation>標籤篩選(</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotSortDlg</name>
+    <message>
+        <source>Sort (%1)</source>
+        <translation>排序 (%1)</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotSortOptionDlg</name>
+    <message>
+        <source>More Sort Options (%1)</source>
+        <translation>更多排序選項 (%1)</translation>
+    </message>
+    <message>
+        <source>&amp;Values in selected %1:</source>
+        <translation>所選取%1中的值(&amp;V):</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotTableFieldSettingDlg</name>
+    <message>
+        <source>Sum</source>
+        <translation>加總</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>項目個數</translation>
+    </message>
+    <message>
+        <source>Average</source>
+        <translation>平均值</translation>
+    </message>
+    <message>
+        <source>Max</source>
+        <translation>最大值</translation>
+    </message>
+    <message>
+        <source>Min</source>
+        <translation>最小值</translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <translation>乘積</translation>
+    </message>
+    <message>
+        <source>Count Numbers</source>
+        <translation>數值計數</translation>
+    </message>
+    <message>
+        <source>StdDev</source>
+        <translation>標準差</translation>
+    </message>
+    <message>
+        <source>StdDevp</source>
+        <translation>母體標準差</translation>
+    </message>
+    <message>
+        <source>Var</source>
+        <translation>變異值</translation>
+    </message>
+    <message>
+        <source>Varp</source>
+        <translation>母體變異值</translation>
+    </message>
+    <message>
+        <source>No Calculation</source>
+        <translation>無計算</translation>
+    </message>
+    <message>
+        <source>% of Grand Total</source>
+        <translation>總計百分比</translation>
+    </message>
+    <message>
+        <source>% of Column Total</source>
+        <translation>欄總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Row Total</source>
+        <translation>列總和百分</translation>
+    </message>
+    <message>
+        <source>% Of</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Row Total</source>
+        <translation>父項列總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Column Total</source>
+        <translation>父項欄總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Total</source>
+        <translation>父項總和百分比</translation>
+    </message>
+    <message>
+        <source>Difference From</source>
+        <translation>差異</translation>
+    </message>
+    <message>
+        <source>% Difference From</source>
+        <translation>差異百分比</translation>
+    </message>
+    <message>
+        <source>Running Total In</source>
+        <translation>計算加總至</translation>
+    </message>
+    <message>
+        <source>% Running Total In</source>
+        <translation>計算加總至百分比</translation>
+    </message>
+    <message>
+        <source>Rank Smallest to Largest</source>
+        <translation>最小到最大排列</translation>
+    </message>
+    <message>
+        <source>Rank Largest to Smallest</source>
+        <translation>最大到最小排列</translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>Value Field Settings</source>
+        <translation>值欄位設定</translation>
+    </message>
+    <message>
+        <source>PivotTable field name already exists.</source>
+        <translation>這個欄位名稱已存在。</translation>
+    </message>
+    <message>
+        <source>Cannot enter a null value as an item or field name in a PivotTable report.</source>
+        <translation>在樞紐分析表中項目或欄位名稱不能輸入空值。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotTablePreviewDlg</name>
+    <message>
+        <source>You cannot create a PivotTable with there data, Please check the reference range is valid.</source>
+        <translation>無法建立彙總表。
+可能因為一些欄沒有標題。請加上標題后再試。</translation>
+    </message>
+    <message>
+        <source>Report Table Preview:</source>
+        <translation>彙總表預覽:</translation>
+    </message>
+    <message>
+        <source>Finish</source>
+        <translation type="obsolete">完成</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>版面配置</translation>
+    </message>
+    <message>
+        <source>Row Title</source>
+        <translation>作為 列標題</translation>
+    </message>
+    <message>
+        <source>Column Title</source>
+        <translation>作為 欄標題</translation>
+    </message>
+    <message>
+        <source>Move to Summary List</source>
+        <translation>移動至彙總欄位</translation>
+    </message>
+    <message>
+        <source>Sum</source>
+        <translation>加總</translation>
+    </message>
+    <message>
+        <source>Count</source>
+        <translation>項目個數</translation>
+    </message>
+    <message>
+        <source>Move to Category List</source>
+        <translation>移動至類別欄位</translation>
+    </message>
+    <message>
+        <source>Cannot generate PivotTable, the field selected have too much items.</source>
+        <translation>無法產生統計表: 所選欄位包含太多項目。</translation>
+    </message>
+    <message>
+        <source>Cannot generate a preview, the field selected have too much items.</source>
+        <translation>無法產生預覽圖: 所選欄位包含太多項目。</translation>
+    </message>
+    <message>
+        <source>Fields</source>
+        <translation>欄位選擇</translation>
+    </message>
+    <message>
+        <source>(Please select item in category field and summary field)</source>
+        <translation>(請選取類別欄位及彙總欄位)</translation>
+    </message>
+    <message>
+        <source>Report Table Preview: (Too much data, only show part of them)</source>
+        <translation>彙總表預覽:(資料較多，僅顯示一部分)</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotTop10FilterDlg</name>
+    <message>
+        <source>Top 10 Items(</source>
+        <translation>前 10 個項目(</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You must enter an integer between 1 and 2147483647. Please enter an integer in this range and try again</source>
+        <translation>請輸入介於 1 和 2147483647 之間的整數。請重新輸入屬於上述範圍的整數。</translation>
+    </message>
+    <message>
+        <source>You must enter a number between 1 and 100. Please enter a number in this range and try again</source>
+        <translation>請輸入介於 1 和 100 之間的數字。請重新輸入屬於上述範圍的數字。</translation>
+    </message>
+    <message>
+        <source>You must enter a number between 0 and 1.7977E + 308. Please enter a number in this range and try again</source>
+        <translation>請輸入介於 1 和 1.7977E + 308 之間的數字。請重新輸入屬於上述範圍的數字。</translation>
+    </message>
+</context>
+<context>
+    <name>KxPivotValueFilterDlg</name>
+    <message>
+        <source>ValueFilter(</source>
+        <translation>值篩選(</translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>You must enter a number between -1.7977E+308 and 1.7977E+308. Please enter a number in this range and try again.</source>
+        <translation>請輸入介於 -1.7977E+308 和 1.7977E + 308 之間的數字。請重新輸入屬於上述範圍的數字。</translation>
+    </message>
+    <message>
+        <source>The end number must be greater than the start number.</source>
+        <translation>結束數字必須大於開始數字。</translation>
+    </message>
+</context>
+<context>
+    <name>KxRemindRepeatDlg</name>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation>標記重複值</translation>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation>標記唯一值</translation>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation>擷取重複值</translation>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation>擷取唯一值</translation>
+    </message>
+    <message>
+        <source>Please select a column to compare by row!</source>
+        <translation>請選擇要整列對比的欄。</translation>
+    </message>
+    <message>
+        <source>Please select a column to compare by row</source>
+        <translation>請選擇要整列對比的欄。</translation>
+    </message>
+</context>
+<context>
+    <name>KxSelectDBAndTableDlgUI</name>
+    <message>
+        <source>Select Table</source>
+        <translation>選取表格</translation>
+    </message>
+    <message>
+        <source>Select Database:</source>
+        <translation>選取資料庫:</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>描述</translation>
+    </message>
+    <message>
+        <source>Modify Time</source>
+        <translation>修改時間</translation>
+    </message>
+    <message>
+        <source>Create Time</source>
+        <translation>建立時間</translation>
+    </message>
+    <message>
+        <source>Type</source>
+        <translation>類型</translation>
+    </message>
+</context>
+<context>
+    <name>KxSlicerReportConnectionDlg</name>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Sheet</source>
+        <translation>工作表</translation>
+    </message>
+</context>
+<context>
+    <name>KxSlicerSettingDlg</name>
+    <message>
+        <source>Filter control name is not valid.</source>
+        <translation>篩選控制項名稱無效。</translation>
+    </message>
+    <message>
+        <source>Filter control name already in use. Enter a unique name.</source>
+        <translation>這個篩選控制項名稱已經使用。請輸入唯一的名稱。</translation>
+    </message>
+</context>
+<context>
+    <name>KxSplitProgressDlg</name>
+    <message>
+        <source>Split Finished!</source>
+        <translation>分割完成！</translation>
+    </message>
+</context>
+<context>
+    <name>KxSplitSheetDlg</name>
+    <message>
+        <source>Split By Year</source>
+        <translation>按年分割</translation>
+    </message>
+    <message>
+        <source>Split By Month</source>
+        <translation>按月分割</translation>
+    </message>
+    <message>
+        <source>Split By Day</source>
+        <translation>按日分割</translation>
+    </message>
+    <message>
+        <source>Have no Filter Datas to split</source>
+        <translation>找不到可以分割的資料。</translation>
+    </message>
+    <message>
+        <source>Please enter a valid path</source>
+        <translation>請輸入一個合法的路徑。</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Open Directory</source>
+        <translation>開啟資料夾</translation>
+    </message>
+    <message>
+        <source>Preview: (Only show part of data)</source>
+        <translation>預覽: (僅顯示一部分資料)</translation>
+    </message>
+</context>
+<context>
+    <name>KxTextOpenNumFmtDlg</name>
+    <message>
+        <source>open text file</source>
+        <translation>開啟文字檔</translation>
+    </message>
+    <message>
+        <source>WPS Spreedsheets</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Please select data type for each column:</source>
+        <translation>請指定每欄資料的類型:</translation>
+    </message>
+    <message>
+        <source>note: The preview below only part of all data</source>
+        <translation>注意:下方僅提供部分資料的預覽</translation>
+    </message>
+    <message>
+        <source>&amp;Do not show this dialog again.</source>
+        <translation>不再顯示此對話方塊(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Open file</source>
+        <translation>開啟檔案(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation>取消(&amp;C)</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpETFieldListWidget</name>
+    <message>
+        <source>A field in the source data contains more unique items 			than a PivotTable can use, and WPS Table can not create a PivotTable.</source>
+        <translation>來源資料中有一個欄位擁有的的唯一項目多於可用於樞紐分析表的項目。WPS Spreadsheets 可能無法建立樞紐分析表。</translation>
+    </message>
+</context>
+<context>
+    <name>KxTpETListWidget</name>
+    <message>
+        <source>FILTERS</source>
+        <translation>篩選器</translation>
+    </message>
+    <message>
+        <source>ROWS</source>
+        <translation>列</translation>
+    </message>
+    <message>
+        <source>COLUMNS</source>
+        <translation>欄</translation>
+    </message>
+    <message>
+        <source>VALUES</source>
+        <translation>值</translation>
+    </message>
+</context>
+<context>
+    <name>KxTraditionalRuleDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation>對話方塊</translation>
+    </message>
+    <message>
+        <source>Format cells that are GREATER THAN:</source>
+        <translation>格式化大於下列的儲存格:</translation>
+    </message>
+</context>
+<context>
+    <name>KxValueShowAsDlg</name>
+    <message>
+        <source>Calculation:</source>
+        <translation>計算:</translation>
+    </message>
+    <message>
+        <source>Difference From</source>
+        <translation>差異</translation>
+    </message>
+    <message>
+        <source>Index</source>
+        <translation>索引</translation>
+    </message>
+    <message>
+        <source>% Difference From</source>
+        <translation>差異百分比</translation>
+    </message>
+    <message>
+        <source>% Of</source>
+        <translation>百分比</translation>
+    </message>
+    <message>
+        <source>% of Column Total</source>
+        <translation>欄總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Row Total</source>
+        <translation>列總和百分</translation>
+    </message>
+    <message>
+        <source>% of Grand Total</source>
+        <translation>總計百分比</translation>
+    </message>
+    <message>
+        <source>Running Total In</source>
+        <translation>計算加總至</translation>
+    </message>
+    <message>
+        <source>% of Parent Row Total</source>
+        <translation>父項列總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Column Total</source>
+        <translation>父項欄總和百分比</translation>
+    </message>
+    <message>
+        <source>% of Parent Total</source>
+        <translation>父項總和百分比</translation>
+    </message>
+    <message>
+        <source>% Running Total In</source>
+        <translation>計算加總至百分比</translation>
+    </message>
+    <message>
+        <source>Rank Smallest to Largest</source>
+        <translation>最小到最大排列</translation>
+    </message>
+    <message>
+        <source>Rank Largest to Smallest</source>
+        <translation>最大到最小排列</translation>
+    </message>
+</context>
+<context>
+    <name>KxWatchWindowDlg</name>
+    <message>
+        <source>Watch Window</source>
+        <translation>監看式視窗</translation>
+    </message>
+    <message>
+        <source>Add Watch...</source>
+        <translation>新增監看式...</translation>
+    </message>
+    <message>
+        <source>Delete Watch</source>
+        <translation>刪除監看式</translation>
+    </message>
+</context>
+<context>
+    <name>KxWatchWindowModel</name>
+    <message>
+        <source>Book</source>
+        <translation>活頁簿</translation>
+    </message>
+    <message>
+        <source>Sheet</source>
+        <translation>工作表</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名稱</translation>
+    </message>
+    <message>
+        <source>Cell</source>
+        <translation>儲存格</translation>
+    </message>
+    <message>
+        <source>Value</source>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>Formula</source>
+        <translation>公式</translation>
+    </message>
+</context>
+<context>
+    <name>SaveFileDialog</name>
+    <message>
+        <source>Save</source>
+        <translation>儲存</translation>
+    </message>
+</context>
+<context>
+    <name>etContentSlicer</name>
+    <message>
+        <source>Position</source>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>&amp;Horizontal:</source>
+        <translation>水平(&amp;H):</translation>
+    </message>
+    <message>
+        <source>Enter 0 to 5963.92 cm of value</source>
+        <translation>輸入 0公分 至 5963.92公分之間的值</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>公分</translation>
+    </message>
+    <message>
+        <source>&amp;Vertical:</source>
+        <translation>垂直(&amp;V):</translation>
+    </message>
+    <message>
+        <source>Disab&amp;le resizing and moving</source>
+        <translation>停用調整大小和移動(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Layout</source>
+        <translation>配置</translation>
+    </message>
+    <message>
+        <source>Number of C&amp;olumns:</source>
+        <translation>欄數(&amp;C):</translation>
+    </message>
+    <message>
+        <source>Enter 1 to 20000 of value</source>
+        <translation>輸入 1 至 20000 之間的值</translation>
+    </message>
+    <message>
+        <source>&amp;Button Height:</source>
+        <translation>按鈕高度(&amp;B):</translation>
+    </message>
+    <message>
+        <source>Button &amp;width:</source>
+        <translation>按鈕寬度(&amp;W):</translation>
+    </message>
+</context>
+<context>
+    <name>feedback::KxFeedbackLabel</name>
+    <message>
+        <source>feedback</source>
+        <translation>意見反應</translation>
+    </message>
+</context>
+<context>
+    <name>kxAfRangeExpandOptionsDlg</name>
+    <message>
+        <source>Do you want to change the rule about filter range checking?</source>
+        <translation>您要變更篩選範圍檢查規則？</translation>
+    </message>
+    <message>
+        <source>Shut up filter range checking</source>
+        <translation>關閉篩選範圍檢查</translation>
+    </message>
+    <message>
+        <source>Check filter range and do expand</source>
+        <translation>檢查篩選範圍之後自動調整</translation>
+    </message>
+    <message>
+        <source>Check filter range and show tips</source>
+        <translation>執行篩選範圍檢查，并提示</translation>
+    </message>
+    <message>
+        <source>Look up the options setting</source>
+        <translation>檢視選項設定</translation>
+    </message>
+</context>
+<context>
+    <name>kxWidgetProtect</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Protection</source>
+        <translation>保護</translation>
+    </message>
+    <message>
+        <source>&amp;Locked</source>
+        <translation>鎖定(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Lock &amp;text</source>
+        <translation>鎖定文字(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
+        <translation>只有當工作表受到保護時，鎖定物件才會生效。若要保護工作表，請在 [工具] 索引標籤選擇 [保護]，再選 [保護工作表]。您可選擇是否要加密碼保護。</translation>
     </message>
 </context>
 </TS>

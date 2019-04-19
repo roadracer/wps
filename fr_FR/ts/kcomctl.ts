@@ -15,16 +15,20 @@
         <source>Trial Version</source>
         <translation>Version d&apos;évaluation</translation>
     </message>
+    <message>
+        <source>OnlyRead Mode</source>
+        <translation>Mode de lecture seule</translation>
+    </message>
 </context>
 <context>
     <name>KBevelModel</name>
     <message>
         <source>No Bevel</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune biseau</translation>
     </message>
     <message>
         <source>Bevel</source>
-        <translation type="unfinished"></translation>
+        <translation>Biseau</translation>
     </message>
 </context>
 <context>
@@ -38,26 +42,26 @@
     <name>KCameraModel</name>
     <message>
         <source>No Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune rotation</translation>
     </message>
     <message>
         <source>Parallel</source>
-        <translation type="unfinished"></translation>
+        <translation>Parallèle</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspective</translation>
     </message>
     <message>
         <source>Oblique</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblique</translation>
     </message>
 </context>
 <context>
     <name>KColorCombobox</name>
     <message>
         <source>&amp;Fill effects...</source>
-        <translation type="unfinished"></translation>
+        <translation>E&amp;ffets de remplissage...</translation>
     </message>
     <message>
         <source>&amp;Patterned Lines...</source>
@@ -69,27 +73,27 @@
     </message>
     <message>
         <source>&amp;More Color...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Autres couleurs...</translation>
     </message>
     <message>
         <source>Snapper Color(&amp;E)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pipette</translation>
     </message>
     <message>
         <source>Recent Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleurs utilisées récemment</translation>
     </message>
     <message>
         <source>Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleurs du thème</translation>
     </message>
     <message>
         <source>Standard Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleurs standard</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation type="obsolete">Aucune couleur</translation>
+        <translation>Aucune couleur</translation>
     </message>
     <message>
         <source>&amp;No Color</source>
@@ -298,15 +302,15 @@
     <name>KDocTabbarEx</name>
     <message>
         <source>Customize Quick Access</source>
-        <translation>Personnaliser l&apos;accès rapide</translation>
+        <translation type="obsolete">Personnaliser l&apos;accès rapide</translation>
     </message>
     <message>
         <source>Add to</source>
-        <translation>Ajouter à</translation>
+        <translation type="obsolete">Ajouter à</translation>
     </message>
     <message>
         <source>&amp;Hide Quick Access Toolbar</source>
-        <translation>&amp;Masquer la barre d&apos;outils Accès rapide</translation>
+        <translation type="obsolete">&amp;Masquer la barre d&apos;outils Accès rapide</translation>
     </message>
 </context>
 <context>
@@ -342,217 +346,221 @@
     <name>KFormatDoubleSpinBoxLineEdit</name>
     <message>
         <source>The Entry Must Be Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;entrée doit être un nombre positif</translation>
     </message>
     <message>
         <source>The Entry Cannot Contain Any Non-Digit Character</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;entrée ne peut pas contenir de caractères non numériques</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette entrée doit être inférieure ou égale à %1</translation>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>L’entrée doit être supérieure ou égale à %1</translation>
     </message>
 </context>
 <context>
     <name>KFormatScrollBar</name>
     <message>
         <source>Scroll here</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilement ici</translation>
     </message>
     <message>
         <source>Left edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Côté gauche</translation>
     </message>
     <message>
         <source>Top</source>
-        <translation type="unfinished"></translation>
+        <translation>Haut</translation>
     </message>
     <message>
         <source>Right edge</source>
-        <translation type="unfinished"></translation>
+        <translation>Côté droit</translation>
     </message>
     <message>
         <source>Bottom</source>
-        <translation type="unfinished"></translation>
+        <translation>Bas</translation>
     </message>
     <message>
         <source>Page left</source>
-        <translation type="unfinished"></translation>
+        <translation>Page vers la gauche</translation>
     </message>
     <message>
         <source>Page up</source>
-        <translation type="unfinished"></translation>
+        <translation>Page précédente</translation>
     </message>
     <message>
         <source>Page right</source>
-        <translation type="unfinished"></translation>
+        <translation>Page vers la droite</translation>
     </message>
     <message>
         <source>Page down</source>
-        <translation type="unfinished"></translation>
+        <translation>Page suivante</translation>
     </message>
     <message>
         <source>Scroll left</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilement vers la gauche</translation>
     </message>
     <message>
         <source>Scroll up</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilement vers la haut</translation>
     </message>
     <message>
         <source>Scroll right</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilement vers la droite</translation>
     </message>
     <message>
         <source>Scroll down</source>
-        <translation type="unfinished"></translation>
+        <translation>Défilement vers le bas</translation>
     </message>
 </context>
 <context>
     <name>KFormatSpinBoxLineEdit</name>
     <message>
         <source>The Entry Must Be Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;entrée doit être un nombre positif</translation>
     </message>
     <message>
         <source>The Entry Cannot Contain Any Non-Digit Character</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;entrée ne peut pas contenir de caractères non numériques</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette entrée doit être inférieure ou égale à %1</translation>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>L’entrée doit être supérieure ou égale à %1</translation>
     </message>
 </context>
 <context>
     <name>KFormatStylesTitle</name>
     <message>
         <source>Shape Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Styles de forme</translation>
     </message>
     <message>
         <source>Line Styles</source>
-        <translation type="unfinished"></translation>
+        <translation>Styles des courbes</translation>
     </message>
     <message>
         <source>Picture Filters</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtres des images</translation>
     </message>
 </context>
 <context>
     <name>KFormatStylesWidget</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Style</translation>
+    </message>
+    <message>
+        <source>Multiple Style</source>
+        <translation>Styles multiples</translation>
     </message>
 </context>
 <context>
     <name>KGalleryAbstractModel</name>
     <message>
         <source>No Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune valeurs prédéfinies</translation>
     </message>
     <message>
         <source>Presets</source>
-        <translation type="unfinished"></translation>
+        <translation>Valeurs prédéfinies</translation>
     </message>
     <message>
         <source>No Reflection</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune réflexion</translation>
     </message>
     <message>
         <source>Reflection Variations</source>
-        <translation type="unfinished"></translation>
+        <translation>Variations de réflexion</translation>
     </message>
     <message>
         <source>No Soft Edges</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune bordures adoucies</translation>
     </message>
     <message>
         <source>1 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>1 Point</translation>
     </message>
     <message>
         <source>2.5 Point</source>
-        <translation type="unfinished"></translation>
+        <translation>2,5 Point</translation>
     </message>
     <message>
         <source>5 Point</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>10 Point</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>25 Point</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>50 Point</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>No Transform</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune transformation</translation>
     </message>
     <message>
         <source>Follow Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Suivre le chemin d&apos;accès</translation>
     </message>
     <message>
         <source>Warp</source>
-        <translation type="unfinished"></translation>
+        <translation>Déformation</translation>
     </message>
     <message>
         <source>No Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune lumière</translation>
     </message>
     <message>
         <source>Glow Variations</source>
-        <translation type="unfinished"></translation>
+        <translation>Variations de lumière</translation>
     </message>
     <message>
         <source>No Shadow</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune ombre</translation>
     </message>
     <message>
         <source>Outer</source>
-        <translation type="unfinished"></translation>
+        <translation>Externe</translation>
     </message>
     <message>
         <source>Inner</source>
-        <translation type="unfinished"></translation>
+        <translation>Interne</translation>
     </message>
     <message>
         <source>Perspective</source>
-        <translation type="unfinished"></translation>
+        <translation>Perspective</translation>
     </message>
 </context>
 <context>
     <name>KLightingModel</name>
     <message>
         <source>Neutral</source>
-        <translation type="unfinished"></translation>
+        <translation>Neutre</translation>
     </message>
     <message>
         <source>Warm Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Chaleureux</translation>
     </message>
     <message>
         <source>Cool</source>
-        <translation type="unfinished"></translation>
+        <translation>Rafraîchissant</translation>
     </message>
     <message>
         <source>Special</source>
-        <translation type="unfinished"></translation>
+        <translation>Spécial</translation>
     </message>
 </context>
 <context>
@@ -617,15 +625,15 @@
     <name>KMaterialModel</name>
     <message>
         <source>Standard</source>
-        <translation type="unfinished"></translation>
+        <translation>Standard</translation>
     </message>
     <message>
         <source>Special Effect</source>
-        <translation type="unfinished"></translation>
+        <translation>Effet spécial</translation>
     </message>
     <message>
         <source>Translucent</source>
-        <translation type="unfinished"></translation>
+        <translation>Transparent</translation>
     </message>
 </context>
 <context>
@@ -672,23 +680,23 @@
     <name>KNoTabPageWidget</name>
     <message>
         <source>Last time encounter abnormal shutdown!</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office a rencontré une exception et a redémarré.</translation>
     </message>
     <message>
         <source>WPS will recover files for you, you can uncheck the files that don&apos;t need to be recovered</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Office va récupérer des fichiers pour vous. Désélectionner les fichiers qui ne doivent être récupérés.</translation>
     </message>
     <message>
         <source>FileName</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de fichier</translation>
     </message>
     <message>
         <source>Send error file to help WPS solve such issues</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer le fichier d&apos;erreur pour aider WPS Office résoudre ces questions</translation>
     </message>
     <message>
         <source>Recover</source>
-        <translation type="unfinished"></translation>
+        <translation>Récupérer</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -696,7 +704,11 @@
     </message>
     <message>
         <source>Modified time: </source>
-        <translation type="unfinished"></translation>
+        <translation>Heure de la modification: </translation>
+    </message>
+    <message>
+        <source>Super Recover</source>
+        <translation>Super récupération</translation>
     </message>
 </context>
 <context>
@@ -889,11 +901,11 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KShapeLineGalleryItem</name>
     <message>
         <source>No Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune ligne</translation>
     </message>
     <message>
         <source>Preset Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Ligne prédéfinie</translation>
     </message>
 </context>
 <context>
@@ -907,19 +919,23 @@ Enregistrement non valide. Ce fichier a peut-être été renommé, supprimé ou 
     <name>KTextureModel</name>
     <message>
         <source>Picture Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Source de photo</translation>
     </message>
     <message>
         <source>From &amp;Picture</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">De &amp;Image</translation>
     </message>
     <message>
         <source>From &amp;Online Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>De Image en &amp;ligne</translation>
     </message>
     <message>
         <source>Preset Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Texture prédéfinie</translation>
+    </message>
+    <message>
+        <source>From &amp;Picture...</source>
+        <translation>À partir de l&apos;ima&amp;ge...</translation>
     </message>
 </context>
 <context>
@@ -1086,27 +1102,27 @@ Réinstallez WPS Office.</translation>
     <name>KxPrstFillModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune remplissage</translation>
     </message>
     <message>
         <source>Theme Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Couleurs du thème</translation>
     </message>
     <message>
         <source>Gradient Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Dégradé</translation>
     </message>
     <message>
         <source>Gradient</source>
-        <translation type="unfinished"></translation>
+        <translation>Dégradé</translation>
     </message>
     <message>
         <source>Pattern Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Motif de remplissage</translation>
     </message>
     <message>
         <source>texture Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Remplissage avec texture</translation>
     </message>
 </context>
 <context>
@@ -1124,11 +1140,11 @@ Réinstallez WPS Office.</translation>
     <name>QApplication</name>
     <message>
         <source>No Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune lumière</translation>
     </message>
     <message>
         <source>Glow</source>
-        <translation type="unfinished"></translation>
+        <translation>Lumière</translation>
     </message>
 </context>
 <context>
@@ -1150,7 +1166,7 @@ Réinstallez WPS Office.</translation>
     </message>
     <message>
         <source>Document List</source>
-        <translation>Liste de documents</translation>
+        <translation type="obsolete">Liste de documents</translation>
     </message>
 </context>
 <context>
@@ -1234,28 +1250,32 @@ Réinstallez WPS Office.</translation>
         <source>Delete from List</source>
         <translation>Supprimer de la liste</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automatique</translation>
+    </message>
 </context>
 <context>
     <name>gradientStopsPanel</name>
     <message>
         <source>Add Gradient Aperture</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un point de dégradé</translation>
     </message>
     <message>
         <source>Delete Gradient Aperture</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer le point de dégradé</translation>
     </message>
     <message>
         <source>&amp;Color</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Couleur</translation>
     </message>
     <message>
         <source>P&amp;osition</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Position</translation>
     </message>
     <message>
         <source>Enter  0% to 100% of the Value</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez une valeur comprise entre 0% et 100%.</translation>
     </message>
     <message>
         <source>%</source>
@@ -1263,14 +1283,210 @@ Réinstallez WPS Office.</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Transparence</translation>
     </message>
     <message>
         <source>&amp;Brightness</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Luminosité</translation>
     </message>
     <message>
         <source>Enter -100% to 100% of the Value</source>
+        <translation>Entrez une valeur comprise entre -100% et 100%.</translation>
+    </message>
+</context>
+<context>
+    <name>KAutoFindContentsTooltipsWidget</name>
+    <message>
+        <source>Smart Table of Contents</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto-recognize text structure and generate a table of contents without setting heading styles.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Now Free</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupTips</name>
+    <message>
+        <source>This file is large, the backup will take some time</source>
+        <translation>Étant donné que ce fichier est volumineux, la sauvegarde peut prendre du temps.</translation>
+    </message>
+    <message>
+        <source>Press ESC to cancel backup or</source>
+        <translation>Appuyez sur ESC pour annuler ou</translation>
+    </message>
+    <message>
+        <source> setting backup options</source>
+        <translation>définissez des intervalles de sauvegarde automatiques.</translation>
+    </message>
+</context>
+<context>
+    <name>KLinkMessageBox</name>
+    <message>
+        <source>Find document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMRUCommand</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may have been renamed, deleted or moved.</source>
+        <translation type="obsolete">Impossible d&apos;ouvrir &quot;%1&quot;.
+Ce fichier a peut-être été renommé, supprimé ou déplacé.</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlg</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOrganizerDescription</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">Annuler</translation>
+    </message>
+</context>
+<context>
+    <name>KProxyTabbarQAndAButton</name>
+    <message>
+        <source>Find commands or Search template</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatArrowButton</name>
+    <message>
+        <source>More commands</source>
+        <translation>Autres commandes</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCommandWidget</name>
+    <message>
+        <source>&amp;Remove from Quick Access Toolbar</source>
+        <translation>&amp;Supprimer de la barre d&apos;outils Accès rapide</translation>
+    </message>
+    <message>
+        <source>&amp;Customize Quick Access Toolbar</source>
+        <translation type="obsolete">&amp;Personnaliser la barre d&apos;outils Accès rapide</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomButton</name>
+    <message>
+        <source>custom quick access toolbar</source>
+        <translation>Personnaliser la barre d&apos;outils Accès rapide</translation>
+    </message>
+</context>
+<context>
+    <name>KRbQatCustomMenu</name>
+    <message>
+        <source>Customize Quick Access</source>
+        <translation>Personnaliser l&apos;accès rapide</translation>
+    </message>
+    <message>
+        <source>Synchronization failed</source>
+        <translation type="obsolete">Échec de la synchronisation</translation>
+    </message>
+    <message>
+        <source>&amp;More Commands...</source>
+        <translation>Autres commandes...</translation>
+    </message>
+    <message>
+        <source>Put on top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Put below ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Float</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbQuickAccessToolbar</name>
+    <message>
+        <source>&amp;Quick Customization</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateButton</name>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Connexion</translation>
+    </message>
+</context>
+<context>
+    <name>KRbSyncStateHint</name>
+    <message>
+        <source>Custom toolbar needs to login.</source>
+        <translation type="obsolete">Cette action est seulement efficace localement. Connectez-vous pour une synchronisation avec d&apos;autres appareils.</translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="obsolete">Connexion</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="obsolete">Fermer</translation>
+    </message>
+</context>
+<context>
+    <name>KRbTabFileButton</name>
+    <message>
+        <source>Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQtKeySequenceEdit</name>
+    <message>
+        <source>%1, ...</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>PopupScrollContext</name>
+    <message>
+        <source>InsertCellsInPopup</source>
+        <translation>InsertCellsInPopup</translation>
+    </message>
+</context>
+<context>
+    <name>kxServiceExpireTipCommand</name>
+    <message>
+        <source>Service Expiring Soon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -29,7 +29,7 @@
     </message>
     <message>
         <source>Buy Now &gt;&gt;</source>
-        <translation>Купить&gt;&gt;</translation>
+        <translation type="obsolete">Купить&gt;&gt;</translation>
     </message>
     <message>
         <source>You hava Authorized %1 days remaining. &lt;br/&gt;After the probation period, you will not be able to normal use of the product. &lt;br/&gt; In order to not be affected, please buy the WPS Office.</source>
@@ -41,7 +41,11 @@
     </message>
     <message>
         <source>Renew Now &gt;&gt;</source>
-        <translation>Продлить&gt;&gt;</translation>
+        <translation type="obsolete">Продлить&gt;&gt;</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -109,6 +113,14 @@
         <source>Saving the serial number is failed. Please check whether you have the administrator permission or not.</source>
         <translation type="obsolete">Не удалось сохранить серийный номер. Проверьте, есть ли у вас права администратора.</translation>
     </message>
+    <message>
+        <source>* Unit:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please Choose</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KUserCenterMenuCommand</name>
@@ -121,7 +133,7 @@
     <name>KXaCommonAuthManager</name>
     <message>
         <source>Premium</source>
-        <translation>Премиум</translation>
+        <translation>Исключительный</translation>
     </message>
     <message>
         <source>Trial</source>
@@ -167,7 +179,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Buy/renew Now</source>
-        <translation>Приобрести/возобновить сейчас</translation>
+        <translation type="obsolete">Приобрести/возобновить сейчас</translation>
+    </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -212,35 +232,35 @@ p, li { white-space: pre-wrap; }
     <name>KxDlgQingRestrict</name>
     <message>
         <source>WPS Office Disable Features</source>
-        <translation type="unfinished">Отключенные функции WPS Office</translation>
+        <translation type="obsolete">Отключенные функции WPS Office</translation>
     </message>
     <message>
         <source>WPS Office Limited Features</source>
-        <translation type="unfinished">Функции WPS Office с ограниченными возможностями</translation>
+        <translation type="obsolete">Функции WPS Office с ограниченными возможностями</translation>
     </message>
     <message>
         <source>The feature is not available in free version</source>
-        <translation type="unfinished">Функция недоступна в бесплатной версии</translation>
+        <translation type="obsolete">Функция недоступна в бесплатной версии</translation>
     </message>
     <message>
         <source>If you are a paid subscriber, you can use this feature in either way:</source>
-        <translation type="unfinished">Если вы оформили платную подписку, вы можете использовать эту функцию в любом случае:</translation>
+        <translation type="obsolete">Если вы оформили платную подписку, вы можете использовать эту функцию в любом случае:</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished">Вход</translation>
+        <translation type="obsolete">Вход</translation>
     </message>
     <message>
         <source>If you have purchased a subscription for individuals, sign in to use WPS Office.</source>
-        <translation type="unfinished">Если вы приобрели подписку для отдельных пользователей, для использования WPS Office выполните вход.</translation>
+        <translation type="obsolete">Если вы приобрели подписку для отдельных пользователей, для использования WPS Office выполните вход.</translation>
     </message>
     <message>
         <source>Enter your activation code</source>
-        <translation type="unfinished">Введите код активации</translation>
+        <translation type="obsolete">Введите код активации</translation>
     </message>
     <message>
         <source>If you already have an activation code, use it to activate WPS Office.</source>
-        <translation type="unfinished">Если у вас есть код активации, используйте его для активации WPS Office.</translation>
+        <translation type="obsolete">Если у вас есть код активации, используйте его для активации WPS Office.</translation>
     </message>
 </context>
 <context>
@@ -335,6 +355,10 @@ p, li { white-space: pre-wrap; }
         <source>Buy Now</source>
         <translation>Купить</translation>
     </message>
+    <message>
+        <source>Contact Email:gch@wps.cn</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgTrialReminder</name>
@@ -404,6 +428,10 @@ p, li { white-space: pre-wrap; }
         <source>&amp;Download</source>
         <translation>&amp;Загрузка</translation>
     </message>
+    <message>
+        <source>Never show again</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgVbaReminder</name>
@@ -421,11 +449,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation type="obsolete">ОК</translation>
     </message>
     <message>
         <source>LEARN MORE</source>
-        <translation type="obsolete">ПОДРОБНЕЕ</translation>
+        <translation>ПОДРОБНЕЕ</translation>
     </message>
     <message>
         <source>Learn More</source>
@@ -474,6 +502,14 @@ p, li { white-space: pre-wrap; }
         <source>If you already have an activation code, use it to activate WPS Office.</source>
         <translation type="obsolete">Если у вас уже есть код активации, используйте его, чтобы активировать WPS Office.</translation>
     </message>
+    <message>
+        <source>Enter Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activate WPS Office with existing Serial Number.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWelcomePage</name>
@@ -483,11 +519,11 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Get Started</source>
-        <translation type="unfinished">приступая к работе</translation>
+        <translation type="obsolete">приступая к работе</translation>
     </message>
     <message>
         <source>Personal Edition(Free)</source>
-        <translation type="obsolete">Персональное Издание(Бесплатное)</translation>
+        <translation>Персональное Издание(Бесплатное)</translation>
     </message>
     <message>
         <source>Includes 30-Day FREE Trial of WPS Office Business Edition. %1Get started &gt;&gt;%2.</source>
@@ -495,19 +531,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Did you purchase WPS Office?</source>
-        <translation type="obsolete">Вы приобрели WPS Office?</translation>
+        <translation>Вы приобрели WPS Office?</translation>
     </message>
     <message>
         <source>Click here to %1Login%2 or %3Enter activation code%4.</source>
-        <translation type="obsolete">Щелкните, чтобы %1войти%2 или %3ввести код активации%4.</translation>
+        <translation>Щелкните, чтобы %1войти%2 или %3ввести код активации%4.</translation>
     </message>
     <message>
         <source>Need Help?</source>
-        <translation type="obsolete">Требуется помощь?</translation>
+        <translation>Требуется помощь?</translation>
     </message>
     <message>
         <source>Includes %1-Day FREE Trial of WPS Office Business Edition. %2Get started &gt;&gt;%3.</source>
-        <translation type="obsolete">Предусматривает %1-дневный БЕСПЛАТНЫЙ пробный период версии WPS Office Business Edition. %2Начать &gt;&gt;%3.</translation>
+        <translation>Предусматривает %1-дневный БЕСПЛАТНЫЙ пробный период версии WPS Office Business Edition. %2Начать &gt;&gt;%3.</translation>
     </message>
 </context>
 <context>
@@ -518,7 +554,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as docx format</source>
-        <translation>Сохранить в формате .docx</translation>
+        <translation type="obsolete">Сохранить в формате .docx</translation>
     </message>
     <message>
         <source>Enable/Disable Online Template</source>
@@ -594,7 +630,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Save as xlsx/xlsm format</source>
-        <translation>Сохранить в формате .xlsx/.xlsm</translation>
+        <translation type="obsolete">Сохранить в формате .xlsx/.xlsm</translation>
     </message>
     <message>
         <source>PivotTable</source>
@@ -651,6 +687,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Find the optimal value of a target cell by changing values in cells used to calculate the target cell.</source>
         <translation type="obsolete">Найти оптимальное значение целевой ячейки, изменяя значения ячеек, которые используются для расчета значения целевой ячейки.</translation>
+    </message>
+    <message>
+        <source>Print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export to PDF</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -818,11 +862,35 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activation code expires on: %1</source>
-        <translation type="obsolete">Код активации действителен до: %1</translation>
+        <translation>Код активации действителен до: %1</translation>
     </message>
     <message>
         <source>LIFETIME LICENSE</source>
-        <translation type="obsolete">Лицензия за все время</translation>
+        <translation>Лицензия за все время</translation>
+    </message>
+    <message>
+        <source>Please check your network connection or %1configure proxy%2 and try again.</source>
+        <translation>Проверьте сетевое подключение или %1настройте прокси-сервер%2 и повторите попытку.</translation>
+    </message>
+    <message>
+        <source>The serial number is not support this platform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Serial Number</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;u&gt;Use other SN or Activation codes&lt;/u&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Activation/SN code expires on: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add SN Succeed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -928,12 +996,28 @@ After expiration, some features will not work properly. Please renew now. </sour
         <source>To enjoy the premium features like VBA, you could upgrade to WPS Office Business Edition. Click here to visit the purchase page for more information.</source>
         <translation type="obsolete">Чтобы воспользоваться платными функциями, такими как VBA, обновите программу до версии WPS Office Business Edition. Нажмите здесь для перехода на страницу покупки и получения дополнительной информации.</translation>
     </message>
+    <message>
+        <source>Buy</source>
+        <translation>Купить</translation>
+    </message>
+    <message>
+        <source>Activate</source>
+        <translation>Активировать</translation>
+    </message>
+    <message>
+        <source>Purchase License</source>
+        <translation>Приобрести лицензию</translation>
+    </message>
+    <message>
+        <source>You can purchase a license to remove advertisements and enjoy extra services.</source>
+        <translation>Вы можете приобрести лицензию чтобы убрать рекламу и наслаждаться дополнительными услугами.</translation>
+    </message>
 </context>
 <context>
     <name>KxQingRestrictDlg</name>
     <message>
         <source>Buy/Renew Now</source>
-        <translation type="unfinished">Приобрести/возобновить сейчас</translation>
+        <translation type="obsolete">Приобрести/возобновить сейчас</translation>
     </message>
 </context>
 <context>
@@ -988,7 +1072,7 @@ After expiration, some features will not work properly. Please renew now. </sour
     </message>
     <message>
         <source>Login/Register</source>
-        <translation type="unfinished">Вход/Регистрация</translation>
+        <translation type="obsolete">Вход/Регистрация</translation>
     </message>
     <message>
         <source>Buy/Enter Activation Code</source>
@@ -1101,6 +1185,46 @@ After expiration, some features will not work properly. Please renew now. </sour
     <message>
         <source>Form</source>
         <translation type="obsolete">Форма</translation>
+    </message>
+</context>
+<context>
+    <name>KUserCenterMenuButton</name>
+    <message>
+        <source>abnormal network status, turn to be offline status</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPromeExpireReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview Mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxVbaDownloadGuiderDlg</name>
+    <message>
+        <source>tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To enable the macros, you need to install the VBA support library. Click the button to download VBA. If VBA is already installed, restart WPS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>download</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

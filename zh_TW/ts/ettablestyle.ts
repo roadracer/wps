@@ -54,11 +54,11 @@
     </message>
     <message>
         <source>Last Column</source>
-        <translation>最後一欄</translation>
+        <translation>末欄</translation>
     </message>
     <message>
         <source>Last Row</source>
-        <translation>最後一列</translation>
+        <translation>末列</translation>
     </message>
     <message>
         <source>Light Style</source>

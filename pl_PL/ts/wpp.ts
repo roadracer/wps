@@ -104,7 +104,7 @@
     <name>DesignLayoutPanel</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Zastosuj we &amp;wzorcu</translation>
+        <translation>&amp;Zastosuj we wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Apply to &amp;Selected Slides</source>
-        <translation>&amp;Zastosuj do wybranych slajdów</translation>
+        <translation>Zastosuj do w&amp;ybranych slajdów</translation>
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation>Zamień &amp;wszystkie</translation>
+        <translation>Zamień &amp;wszystko</translation>
     </message>
     <message>
         <source>Replace &amp;Selected Designs</source>
@@ -124,7 +124,7 @@
     </message>
     <message>
         <source>Show &amp;Large Previews</source>
-        <translation>Pokaż &amp;duże podglądy</translation>
+        <translation>&amp;Pokaż duże podglądy</translation>
     </message>
     <message>
         <source>Add &amp;Design</source>
@@ -132,7 +132,7 @@
     </message>
     <message>
         <source>Add Design</source>
-        <translation>Dodaj projekt</translation>
+        <translation type="unfinished">Dodaj projekt</translation>
     </message>
 </context>
 <context>
@@ -198,7 +198,7 @@
     </message>
     <message>
         <source>Replace &amp;All</source>
-        <translation>Zamień &amp;wszystkie</translation>
+        <translation>Zamień &amp;wszystko</translation>
     </message>
     <message>
         <source>Re&amp;place with:</source>
@@ -213,11 +213,11 @@
     <name>DlgKxCustomShows</name>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translation>N&amp;iestandardowy pokaz slajdów:</translation>
     </message>
     <message>
         <source>&amp;New...</source>
@@ -256,7 +256,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>Slides in &amp;presentation:</source>
@@ -302,18 +302,22 @@
     <name>DlgKxSetupShow</name>
     <message>
         <source>Show type</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Typ pokazu</translation>
     </message>
     <message>
         <source>&amp;Presented by a speaker(Full screen)</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Prezentowany przez prelegenta (pełny ekran)</translation>
     </message>
     <message>
         <source>Browsed at a &amp;kiosk(Full screen)</source>
-        <translation>Przeglądany jako &amp;kiosk (pełny ekran)</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Prz&amp;eglądany jako kiosk (pełny ekran)</translation>
     </message>
     <message>
         <source>&amp;Browsed by an individual(window)</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pr&amp;zeglądany indywidualnie (okno)</translation>
     </message>
     <message>
@@ -326,71 +330,88 @@
     </message>
     <message>
         <source>&amp;Loop continuously until &apos;Esc&apos;</source>
-        <translation>W pętli &amp;ciągłej do naciśnięcia klawisza &apos;Esc&apos;</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>W pętli &amp;ciągłej do naciśnięcia klawisza Esc</translation>
     </message>
     <message>
         <source>P&amp;en color:</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Kolor pióra:</translation>
     </message>
     <message>
         <source>&amp;Show Without Animation</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pok&amp;aż bez animacji</translation>
     </message>
     <message>
         <source>Show Without &amp;Narration</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaż &amp;bez narracji</translation>
     </message>
     <message>
         <source>Show slides</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Slajdy pokazu</translation>
     </message>
     <message>
         <source>&amp;All</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Wszystkie</translation>
     </message>
     <message>
         <source>&amp;From:</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Od:</translation>
     </message>
     <message>
         <source>&amp;to:</source>
-        <translation>&amp;do:</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Do:</translation>
     </message>
     <message>
         <source>&amp;Custom show:</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaz &amp;niestandardowy:</translation>
     </message>
     <message>
         <source>Advance slides</source>
-        <translation>Przełącz slajd</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przełączanie slajdów</translation>
     </message>
     <message>
         <source>&amp;Manually</source>
-        <translation>&amp;Ręcznie</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ręczn&amp;ie</translation>
     </message>
     <message>
         <source>&amp;Using timings, if present</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Zgodnie z c&amp;hronometrażem prezentacji</translation>
     </message>
     <message>
         <source>Multiple monitors</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wiele monitorów</translation>
     </message>
     <message>
         <source>Display slide show &amp;on:</source>
-        <translation>Wyświetl pokaz slajdów &amp;na:</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Monitor pokazu slajdów:</translation>
     </message>
     <message>
         <source>Sho&amp;w presenter view</source>
-        <translation>Pok&amp;aż widok prezentera</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Użyj widoku prezentera</translation>
     </message>
     <message>
         <source>Set Up Show</source>
-        <translation>Przygotuj pokaz</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przygotowywanie pokazu</translation>
     </message>
     <message>
         <source>Double-&amp;Screen Extend Mode Wizard</source>
-        <translation>Kreator trybu rozszerzonego podwójny &amp;ekran</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów - tak jest ok</translatorcomment>
+        <translation>Kreator trybu rozszerzonego podwójnego &amp;ekranu</translation>
     </message>
 </context>
 <context>
@@ -444,7 +465,10 @@
     </message>
     <message>
         <source>UnLocked</source>
-        <translation type="obsolete">Odblokowany</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Odblokowane</lengthvariant>
+            <lengthvariant>Odblokowana</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>&amp;Font:</source>
@@ -488,6 +512,7 @@
     </message>
     <message>
         <source>On clic&amp;k</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy &amp;kliknięciu</translation>
     </message>
     <message>
@@ -540,6 +565,7 @@
     </message>
     <message>
         <source>On Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy kliknięciu</translation>
     </message>
     <message>
@@ -584,6 +610,7 @@
     </message>
     <message>
         <source>Start Effects on &amp;Click of:</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Uruchom efekty po &amp;kliknięciu:</translation>
     </message>
     <message>
@@ -776,7 +803,8 @@
     <message id="0">
         <source>Fit slide to current window</source>
         <oldsource>Slide Zoom Fit</oldsource>
-        <translation>Dopasuj slajd do obecnego slajdu</translation>
+        <translatorcomment>Presentation - Główne okno - podpowiedź po najechaniu myszką na ikonkę w prawym dolnym rogu - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Dopasuj slajd do bieżącego okna</translation>
     </message>
 </context>
 <context>
@@ -784,6 +812,14 @@
     <message>
         <source>WPS Presentation</source>
         <translation>WPS Presentation</translation>
+    </message>
+    <message>
+        <source>GongPu password encryption module load failed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document format you selected is not consistent with the original format of this document, so do you decide to save the document in a new mode?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -794,7 +830,10 @@
     </message>
     <message>
         <source>bgMagic tooltip</source>
-        <translation type="obsolete">bgMagic tooltip</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>bgEtykietka narzędzia Magic</lengthvariant>
+            <lengthvariant>bgMagic tooltip</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Thousands of templates to create snazzy and distinctive  presentations</source>
@@ -817,7 +856,7 @@
     </message>
     <message>
         <source>Custom Slide Shows</source>
-        <translation>Niestandardowe pokazy slajdów</translation>
+        <translation>Niestandardowy pokaz slajdów</translation>
     </message>
     <message>
         <source>Slide %1</source>
@@ -906,43 +945,43 @@
     </message>
     <message>
         <source>Dark1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny 1</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished">Jasny</translation>
+        <translation>Jasny</translation>
     </message>
     <message>
         <source>Dark2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciemny 2</translation>
     </message>
     <message>
         <source>Light2</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasny 2</translation>
     </message>
     <message>
         <source>Accent1</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 1</translation>
     </message>
     <message>
         <source>Accent2</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 2</translation>
     </message>
     <message>
         <source>Accent3</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 3</translation>
     </message>
     <message>
         <source>Accent4</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 4</translation>
     </message>
     <message>
         <source>Accent5</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 5</translation>
     </message>
     <message>
         <source>Accent6</source>
-        <translation type="unfinished"></translation>
+        <translation>Akcent 6</translation>
     </message>
 </context>
 <context>
@@ -1042,7 +1081,11 @@
     </message>
     <message>
         <source>Magic Backgroud</source>
-        <translation type="obsolete">Tło magic</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Magiczne tło</lengthvariant>
+            <lengthvariant>Tło Magia</lengthvariant>
+            <lengthvariant>Tło Magic</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Template Background</source>
@@ -1206,7 +1249,7 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>The following features in this presentation are not supported by earlier versions of WPS Presentation.These features may be lost or degraded when you save this presentation in an earlier file format.Click Continue to save the presentation anyway. To retain all of your features click Cancel and save in one of the new file formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Poniższe funkcje w tej prezentacji nie są obsługiwane przez wcześniejsze wersje programu WPS Presentation. Te funkcje mogą zostać utracone lub ograniczone w przypadku zapisania tej prezentacji we wcześniejszym formacie pliku. Kliknij przycisk Kontynuuj, aby mimo to zapisać prezentację. Aby zachować wszystkie funkcje, kliknij przycisk Anuluj, a następnie zapisz prezentację w jednym z nowych formatów plików.</translation>
     </message>
     <message>
         <source>Summary:</source>
@@ -1267,7 +1310,10 @@ the presentation file directly.You can put it with the presentation file in the 
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="obsolete">Etykieta tekstowa</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Etykieta tekstu</lengthvariant>
+            <lengthvariant>Etykieta tekstowa</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>Application documents online font, if your document needs circulated others, 
@@ -1387,51 +1433,62 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgGridAndGuids</name>
     <message>
         <source>Grid and Guides</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Siatka i prowadnice</translation>
     </message>
     <message>
         <source>Snap to</source>
-        <translation>Przyciągaj do</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przyciąganie do</translation>
     </message>
     <message>
         <source>Snap objects to &amp;grid         </source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Przyciągaj obiekty do &amp;siatki</translation>
     </message>
     <message>
         <source>&amp;Snap objects to other objects</source>
-        <translation>&amp;Przyciągaj obiekty do innych obiektów</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation type="obsolete">&amp;Przyciągaj obiekty do innych obiektów</translation>
     </message>
     <message>
         <source>Grid settings</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ustawienia siatki</translation>
     </message>
     <message>
         <source>S&amp;pacing:</source>
-        <translation>O&amp;dstępy:</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Odstępy:</translation>
     </message>
     <message>
         <source>8 grid per cm</source>
-        <translation>8 siatek na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>8 linii na cm</translation>
     </message>
     <message>
         <source>6 grid per cm</source>
-        <translation>6 siatek na cm</translation>
+        <translation>6 linii na cm</translation>
     </message>
     <message>
         <source>5 grid per cm</source>
-        <translation>5 siatek na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>5 linii na cm</translation>
     </message>
     <message>
         <source>4 grid per cm</source>
-        <translation>4 siatki na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>4 linie na cm</translation>
     </message>
     <message>
         <source>3 grid per cm</source>
-        <translation>3 siatki na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>3 linie na cm</translation>
     </message>
     <message>
         <source>2 grid per cm</source>
-        <translation>2 siatki na cm</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>2 linie na cm</translation>
     </message>
     <message>
         <source>1 cm</source>
@@ -1459,27 +1516,38 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Display grid on screen</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Wyświetl siatkę na ekranie</translation>
     </message>
     <message>
         <source>Guide settings</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ustawienia prowadnicy</translation>
     </message>
     <message>
         <source>D&amp;isplay drawing guides on screen</source>
-        <translation>W&amp;yświetl prowadnice rysowania na ekranie</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyświ&amp;etl prowadnice rysowania na ekranie</translation>
     </message>
     <message>
         <source>&amp;Objects follow with guides       </source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Zastosuj &amp;obiekty zgodnie z prowadnicami</translation>
     </message>
     <message>
         <source>Set as Default(&amp;C)</source>
-        <translation>Ustaw jako domyślny (&amp;C)</translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Ustaw jako domyślny</translation>
     </message>
     <message>
         <source>Enter 0.1 cm to 5.079 cm of value</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wprowadź wartość od 0,1 cm do 5,079 cm</translation>
+    </message>
+    <message>
+        <source>&amp;Display smart guides on screen</source>
+        <translatorcomment>Presentation-&gt;Widok-&gt;Siatka i prowadnice - opcje w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyświetl&amp;aj inteligentne prowadnice, gdy kształty są wyrównane</translation>
     </message>
 </context>
 <context>
@@ -1569,6 +1637,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Automatically</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>&amp;Automatycznie</translation>
     </message>
     <message>
@@ -1577,6 +1646,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>When &amp;Clicked</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Po &amp;kliknięciu</translation>
     </message>
 </context>
@@ -1692,10 +1762,12 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>View</source>
-        <translation>Widok</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Show</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Wyświetlanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Pokaż</translation>
     </message>
     <message>
@@ -1736,7 +1808,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>General and Save</source>
-        <translation>Ogólne i zapisz</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ogólne i Zapisywanie</translation>
     </message>
     <message>
         <source>Gerneral options</source>
@@ -1748,6 +1821,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Recovery options</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Opcje odzyskiwania</translation>
     </message>
     <message>
@@ -1792,63 +1866,78 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Print</source>
-        <translation>Drukuj</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Drukowanie</translation>
     </message>
     <message>
         <source>Default print setting for this document</source>
-        <translation>Domyślne ustawienia drukowania dla tego dokumentu</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Domyślne ustawienia drukowania tego dokumentu</translation>
     </message>
     <message>
         <source>Use the most &amp;recently print settings</source>
-        <translation>Użyj &amp;ostatnio używanych ustawień wydruku</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Użyj ostatnio używanych ustawień drukowania</translation>
     </message>
     <message>
         <source>Use the following &amp;print settings:</source>
-        <translation>Użyj następujących ustawień &amp;drukowania:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Użyj n&amp;astępujących ustawień drukowania:</translation>
     </message>
     <message>
         <source>Print &amp;what:</source>
-        <translation>Drukuj &amp;treść:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Drukuj:</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation>Slajdy</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Slajdy na całych stronach</translation>
     </message>
     <message>
         <source>Handouts(2 slides per page)</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Materiały informacyjne (2 slajdy na stronę)</translation>
     </message>
     <message>
         <source>Handouts(3 slides per page)</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Materiały informacyjne (3 slajdy na stronę)</translation>
     </message>
     <message>
         <source>Handouts(6 slides per page)</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Materiały informacyjne (6 slajdów na stronę)</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation>Strony notatek</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Notatki</translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation>Widok konspektu</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Konspekt</translation>
     </message>
     <message>
         <source>Color</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kolor</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation>Obra&amp;mowania slajdów</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>O&amp;bramowania wokół slajdów</translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation>Drukuj &amp;ukryte slajdy</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Drukuj ukryte &amp;slajdy</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation>Edytuj</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Edycja</translation>
     </message>
     <message>
         <source>Apply when typing</source>
@@ -1872,6 +1961,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Security</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Zabezpieczenia</translation>
     </message>
     <message>
@@ -1920,7 +2010,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Show menu on right mouse click(&amp;P)</source>
-        <translation>Pokaż menu przy kliknięciu prawym przyciskiem myszy (&amp;P)</translation>
+        <translation>&amp;Pokaż menu przy kliknięciu prawym przyciskiem myszy</translation>
     </message>
     <message>
         <source>&amp;entries</source>
@@ -1932,7 +2022,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;minutes</source>
-        <translation>&amp;minuty</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;minut</translation>
     </message>
     <message>
         <source>Initia&amp;ls:</source>
@@ -1944,22 +2035,26 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Start with</source>
-        <translation>Rozpocznij od</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Rozpoczynanie</translation>
     </message>
     <message>
         <source>Start with:</source>
-        <translation>Rozpocznij od:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ogólne i Zapisywanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Rozpocznij z:</translation>
     </message>
     <message>
         <source>Online Templates(&amp;G)</source>
-        <translation>Szablony online (&amp;G)</translation>
+        <translation>Szablony &amp;online</translation>
     </message>
     <message>
         <source>&amp;Color/Grayscale:</source>
-        <translation>&amp;Kolor/Skala odcieni szarości:</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Kolory/skala odcieni szarości:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Wyłącznie czarno-białe</translation>
     </message>
     <message>
@@ -1984,7 +2079,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Help us to improve WPS Office</source>
-        <translation>Pomóż nam ulepszyć WPS Office</translation>
+        <translation type="obsolete">Pomóż nam ulepszyć WPS Office</translation>
     </message>
     <message>
         <source>Preserve &amp;fidelity when sharing this document:</source>
@@ -2036,7 +2131,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Show Mini Toolbar on selection (&amp;D)</source>
-        <translation>Pokaż minipasek narzędzi przy zaznaczaniu (&amp;M)</translation>
+        <translation>Pokaż &amp;minipasek narzędzi przy zaznaczaniu</translation>
     </message>
     <message>
         <source>Show Mini Toolbar on rig&amp;ht click</source>
@@ -2044,47 +2139,210 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Subscribe WPS Minisite</source>
-        <translation>Subskrybuj Mini-stronę WPS</translation>
+        <translation type="obsolete">Subskrybuj Mini-stronę WPS</translation>
     </message>
     <message>
         <source>Show E&amp;veryday</source>
-        <translation>Pokaż c&amp;odziennie</translation>
+        <translation type="obsolete">Pokaż c&amp;odziennie</translation>
     </message>
     <message>
         <source>Show After One Week (&amp;Y)</source>
-        <translation>Pokaż po jednym tygodniu (&amp;T)</translation>
+        <translation type="obsolete">Pokaż po jednym &amp;tygodniu</translation>
     </message>
     <message>
         <source>Never Show &amp;Again</source>
-        <translation>Nigdy nie pokazuj &amp;ponownie</translation>
+        <translation type="obsolete">Nigdy nie pokazuj &amp;ponownie</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Too much advertisement? Check for new changes&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Zbyt dużo reklam? Sprawdź nowe zmiany&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation type="obsolete">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;#&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot; color:#3296fa;&quot;&gt;Zbyt dużo reklam? Sprawdź nowe zmiany&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Feedback</source>
-        <translation>Opinia</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Opinie</translation>
     </message>
     <message>
         <source>Join the user experience improvement plan and help us to perfect WPS Office.</source>
-        <translation type="obsolete">Dołącz do programu poprawy jakości obsługi klienta i Pomóż nam udoskonalić WPS Office.</translation>
+        <translation>Dołącz do programu poprawy jakości obsługi klienta i pomóż nam udoskonalić pakiet WPS Office.</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="obsolete">Język</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Język</translation>
     </message>
     <message>
         <source>Automatically download and update language packages</source>
-        <translation type="obsolete">Automatycznie pobierz i aktualizuj pakiety językowe</translation>
+        <translation>Automatycznie pobierz i aktualizuj pakiety językowe</translation>
     </message>
     <message>
         <source>Choose Display and Help Languages</source>
-        <translation type="obsolete">Wybieranie języków wyświetlania i Pomocy</translation>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Język - tak jest ok jak</translatorcomment>
+        <translation>Wybieranie języków wyświetlania i Pomocy</translation>
     </message>
     <message>
         <source>Choose...</source>
-        <translation type="obsolete">Wybierz...</translation>
+        <translation>Wybierz...</translation>
+    </message>
+    <message>
+        <source>Shortcuts</source>
+        <translation>Skróty</translation>
+    </message>
+    <message>
+        <source>Custom Shortcuts:</source>
+        <translation>Skróty niestandardowe:</translation>
+    </message>
+    <message>
+        <source>&amp;Shortcuts</source>
+        <translation>&amp;Skróty</translation>
+    </message>
+    <message>
+        <source>Ribbon options</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Opcje Wstążki</translation>
+    </message>
+    <message>
+        <source>Double click t&amp;ab to hide ribbon</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Widok - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Kliknij dwukrotnie k&amp;artę, aby ukryć Wstążkę</translation>
+    </message>
+    <message>
+        <source>Hardware encryption</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Szyfrowanie sprzętowe</translation>
+    </message>
+    <message>
+        <source>Backup Setting</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Ustawienia kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>&amp;Open backup file</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Ustawienia kopii zapasowej - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Otwórz plik kopii zapasowej</translation>
+    </message>
+    <message>
+        <source>Print scale to &amp;fit paper</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje-&gt;Drukowanie - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Skaluj do rozmiaru papieru</translation>
+    </message>
+    <message>
+        <source>PowerPoint Presentation 97-2003</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Prezentacja programu PowerPoint 97–2003</translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Format dokumentu z zabezpieczeniami WPS Online</translation>
+    </message>
+    <message>
+        <source>&amp;Measurement units:</source>
+        <translation type="unfinished">Jednostki &amp;miary:</translation>
+    </message>
+    <message>
+        <source>Inches</source>
+        <translation type="unfinished">Cale</translation>
+    </message>
+    <message>
+        <source>Centimeters</source>
+        <translation type="unfinished">Centymetry</translation>
+    </message>
+    <message>
+        <source>Millimeters</source>
+        <translation type="unfinished">Milimetry</translation>
+    </message>
+    <message>
+        <source>Points</source>
+        <translation type="unfinished">Punkty</translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Need Login</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login Now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set auto roaming &amp;mode and save file to cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;File Path: CloudFile\MyDocument\AutoUpload&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>D&amp;ouble click tab to Close Documemt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Backup Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default HomePage(&amp;Y):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My CloudDocument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Password &amp;hint:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extra print setting</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show &amp;plain watermark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disable &amp;hardware graphics acceleration, effecitve after restart</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable &amp;live preview</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS account to encrypt files, simple, convenient, safe and reliable! Colleagues can restrict designated users to use the document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use account encryption</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2166,7 +2424,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>cm</source>
-        <translation>cm</translation>
+        <translation type="obsolete">cm</translation>
     </message>
     <message>
         <source>&amp;Height:</source>
@@ -2218,7 +2476,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Fullscreen(4:3)</source>
-        <translation>Pełny ekran (4:3)</translation>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pokaz na ekranie (4:3)</translation>
     </message>
     <message>
         <source>Overhead</source>
@@ -2226,11 +2485,13 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Fullscreen(16:9)</source>
-        <translation>Pełny ekran (16:9)</translation>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pokaz na ekranie (16:9)</translation>
     </message>
     <message>
         <source>Fullscreen(16:10)</source>
-        <translation>Pełny ekran (16:10)</translation>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Pokaz na ekranie (16:10)</translation>
     </message>
     <message>
         <source>Widescreen</source>
@@ -2238,7 +2499,16 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Enter 2.54 to 142.22 cm of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 2,54 do 142,22 cm</translation>
+    </message>
+    <message>
+        <source>Enter 0.26 to 55.87 cm of value</source>
+        <translation>Wprowadź wartość od 0,26 do 55,87 cm</translation>
+    </message>
+    <message>
+        <source>Phonescreen(9:16)</source>
+        <translatorcomment>Presentation-&gt;Projekt-&gt;Rozmiar slajdu-&gt;Rozmiar niestandardowy - rozwijane menu Rozmiar slajdów - tak jest ok</translatorcomment>
+        <translation type="obsolete">Telefoniczny (9:16)</translation>
     </message>
 </context>
 <context>
@@ -2518,30 +2788,27 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgTrimMedia</name>
     <message>
         <source>Trim Media</source>
-        <translation type="unfinished"></translation>
+        <translation>Przycinanie multimediów</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished" variants="yes">
-            <lengthvariant>Etykieta tekstu</lengthvariant>
-            <lengthvariant>Etykieta tekstowa</lengthvariant>
-        </translation>
+        <translation>Etykieta tekstowa</translation>
     </message>
     <message>
         <source>&amp;Start Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas &amp;rozpoczęcia</translation>
     </message>
     <message>
         <source>&amp;End Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas &amp;zakończenia</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2622,23 +2889,28 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppActionSettings</name>
     <message>
         <source>Action Settings</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Ustawienia akcji</translation>
     </message>
     <message>
         <source>Mouse Click</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa zakładki okna dialogowego Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Kliknięcie myszą</translation>
     </message>
     <message>
         <source>Action on click</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Akcja przy kliknięciu</translation>
     </message>
     <message>
         <source>&amp;None</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>&amp;Brak</translation>
     </message>
     <message>
         <source>&amp;Hyperlink to:</source>
-        <translation>&amp;Hiperłącze z:</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>&amp;Hiperłącze do:</translation>
     </message>
     <message>
         <source>Next slide</source>
@@ -2666,7 +2938,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Custom show ...</source>
-        <translation>Pokaz niestandardowy ...</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Pokaz niestandardowy...</translation>
     </message>
     <message>
         <source>Slide...</source>
@@ -2678,7 +2951,8 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>&amp;Run program</source>
-        <translation>&amp;Uruchom program</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Uruchom program:</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
@@ -2690,23 +2964,28 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Object &amp;action</source>
-        <translation>&amp;Akcja obiektu</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Akcja &amp;obiektu:</translation>
     </message>
     <message>
         <source>&amp;Play sound:</source>
-        <translation>&amp;Odtwórz dźwięk:</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Odt&amp;wórz dźwięk:</translation>
     </message>
     <message>
         <source>Mouse Over</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa zakładki okna dialogowego Ustawienia akcji - tak jest ok</translatorcomment>
         <translation>Wskazanie myszą</translation>
     </message>
     <message>
         <source>Action on mouse over</source>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji-&gt;niestandardowy, nazwa opcji w oknie dialogowym Ustawienia akcji - tak jest ok</translatorcomment>
         <translation>Akcja przy wskazaniu myszą</translation>
     </message>
     <message>
         <source>Other WPS Presentation file...</source>
-        <translation>Inne pliki WPS Presentation...</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Inna prezentacja programu WPS Presentation...</translation>
     </message>
 </context>
 <context>
@@ -2752,38 +3031,46 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxDlgWppExtendModeGuide</name>
     <message>
         <source>Double-Screen Extended Mode Wizard</source>
-        <translation>Kreator trybu rozszerzonego podwójny ekran</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - nazwa okna dialogowego - tak jest ok</translatorcomment>
+        <translation>Kreator trybu rozszerzonego podwójnego ekranu</translation>
     </message>
     <message>
         <source>&amp;Setting</source>
-        <translation>&amp;Ustawienie</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>&amp;Ustawienia</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>&amp;Anuluj</translation>
     </message>
     <message>
         <source>   Use extend mode to show the speaker view and playing view on different monitors. The audience can only see the process of slide shows and the operation of drawing marks. The speaker can run other programs or perform other operations without the audience&apos;s noticing</source>
-        <translation>   Użyj trybu rozszerz, aby pokazać widok prelegenta i odtwarzania na różnych monitorach. Publiczność może zobaczyć tylko proces pokazu slajdów i operacji rysowania znaków. Prezenter może uruchamiać inne programy lub wykonywać inne operacje niezauważalnie dla publiczności</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>   Użyj trybu rozszerzonego, aby pokazać widok prelegenta i odtwarzania na różnych monitorach. Publiczność może zobaczyć tylko proces pokazu slajdów i operacji rysowania znaków. Prezenter może uruchamiać inne programy lub wykonywać inne operacje niezauważalnie dla publiczności</translation>
     </message>
     <message>
         <source>   This wizard will help you to understand the various settings of the double-screen extended mode. Please use the following links to view the help files:</source>
-        <translation>   Ten kreator pomoże Ci zrozumieć różne ustawienia trybu rozszerzonego podwójny ekran. Proszę korzystać z poniższych łączy, aby wyświetlić pliki pomocy:</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>   Ten kreator pomoże Ci zrozumieć różne ustawienia trybu rozszerzonego podwójnego ekranu. Użyj poniższych łączy, aby wyświetlić pliki pomocy:</translation>
     </message>
 </context>
 <context>
     <name>KxDlgWppLinkToCustomShows</name>
     <message>
         <source>Link To Custom Show</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Łącze do pokazu niestandardowego</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translatorcomment>tak jest ok, jak w PowerPoint</translatorcomment>
+        <translation>&amp;Pokazy niestandardowe:</translation>
     </message>
     <message>
         <source>&amp;Show and return</source>
-        <translation>&amp;Pokaż i powróć</translation>
+        <translatorcomment>tak jest ok, jak w PowerPoint</translatorcomment>
+        <translation>P&amp;okaż i powróć</translation>
     </message>
 </context>
 <context>
@@ -2907,36 +3194,40 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
         <source>How to solve problems of the printer?</source>
         <translation>Jak rozwiązać problemy z drukarką?</translation>
     </message>
+    <message>
+        <source>&amp;Options...</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgWppScaleSlideMode</name>
     <message>
         <source>Scale Slide Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb skalowania slajdu</translation>
     </message>
     <message>
         <source>You are scaling to a new slide size. Would you like to maximize the size of your content, or scale it down to ensure it will fit on the new slide ?</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeprowadzasz skalowanie do nowego rozmiaru slajdu. Czy chcesz zmaksymalizować rozmiar zawartości, czy przeskalować ją w celu zmniejszenia, tak aby zmieściła się na nowym slajdzie?</translation>
     </message>
     <message>
         <source>Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalizuj</translation>
     </message>
     <message>
         <source>Ensure Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>Dopasuj</translation>
     </message>
     <message>
         <source>&amp;Maximize</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Maksymalizuj</translation>
     </message>
     <message>
         <source>&amp;Ensure Fit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Dopasuj</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">&amp;Anuluj</translation>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -2970,83 +3261,83 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxExportOFDDlg</name>
     <message>
         <source>Save OFD File</source>
-        <translation>Zapisz plik OFD</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OFD File(*.ofd)|*.ofd||</source>
-        <translation>Plik OFD (*.ofd)|*.ofd||</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Materiały informacyjne</translation>
+        <translation type="unfinished">Materiały informacyjne</translation>
     </message>
     <message>
         <source>Notes</source>
-        <translation>Notatki</translation>
+        <translation type="unfinished">Notatki</translation>
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
+        <translation type="unfinished">Wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
-        <translation>Potwierdzenie hasła jest niezgodne.</translation>
+        <translation type="unfinished">Potwierdzenie hasła jest niezgodne.</translation>
     </message>
     <message>
         <source>Input permission password.</source>
-        <translation>Wprowadź hasło uprawnienia.</translation>
+        <translation type="unfinished">Wprowadź hasło uprawnienia.</translation>
     </message>
     <message>
         <source>Permission password and document open password must be different.</source>
-        <translation>Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
+        <translation type="unfinished">Hasło uprawnień i hasło otwarcia dokumentu muszą być różne.</translation>
     </message>
     <message>
         <source>Invalid input.        </source>
-        <translation>Nieprawidłowe dane wejściowe. </translation>
+        <translation type="unfinished">Nieprawidłowe dane wejściowe. </translation>
     </message>
     <message>
         <source>The file you specified already exists. Do you want to replace it and continue?</source>
-        <translation>Określony plik już istnieje. Czy chcesz go zastąpić i kontynuować?</translation>
+        <translation type="unfinished">Określony plik już istnieje. Czy chcesz go zastąpić i kontynuować?</translation>
     </message>
     <message>
         <source>The file name is the same as an existing directory.</source>
-        <translation>Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
+        <translation type="unfinished">Nazwa pliku jest taka sama jak istniejącego katalogu.</translation>
     </message>
     <message>
         <source>The directory you specified does not exist.</source>
-        <translation>Określony katalog nie istnieje.</translation>
+        <translation type="unfinished">Określony katalog nie istnieje.</translation>
     </message>
     <message>
         <source>You do not have permission to write files into this directory.</source>
-        <translation>Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
+        <translation type="unfinished">Nie masz uprawnień do zapisu plików w tym katalogu.</translation>
     </message>
     <message>
         <source>The slide you selected to export does not exist. Please select another one.</source>
-        <translation>Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</translation>
+        <translation type="unfinished">Slajd wybrany do eksportowania nie istnieje. Proszę wybrać inny.</translation>
     </message>
     <message>
         <source>All slides in this custom show are hidden.</source>
-        <translation>Wszystkie slajdy w tym pokazie niestandardowym są ukryte.</translation>
+        <translation type="unfinished">Wszystkie slajdy w tym pokazie niestandardowym są ukryte.</translation>
     </message>
     <message>
         <source>All slides in this range are hidden.</source>
-        <translation>Wszystkie slajdy w tym zakresie są ukryte.</translation>
+        <translation type="unfinished">Wszystkie slajdy w tym zakresie są ukryte.</translation>
     </message>
     <message>
         <source>The selected slides are hidden.</source>
-        <translation>Wybrane slajdy są ukryte.</translation>
+        <translation type="unfinished">Wybrane slajdy są ukryte.</translation>
     </message>
     <message>
         <source>Current slide has marked as hidden.</source>
-        <translation>Bieżący slajd został oznaczony jako ukryty.</translation>
+        <translation type="unfinished">Bieżący slajd został oznaczony jako ukryty.</translation>
     </message>
     <message>
         <source>All slides in current presentation are hidden.</source>
-        <translation>Wszystkie slajdy w bieżącej prezentacji są ukryte.</translation>
+        <translation type="unfinished">Wszystkie slajdy w bieżącej prezentacji są ukryte.</translation>
     </message>
     <message>
         <source>Either ensure that the slides are no longer hidden, ot choose to export hidden slides.</source>
-        <translation>Wszystkie slajdy w tym zakresie są oznaczone jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</translation>
+        <translation type="unfinished">Wszystkie slajdy w tym zakresie są oznaczone jako ukryte. Albo spraw, aby slajdy przestały być ukryte, albo wybierz eksportowanie ukrytych slajdów.</translation>
     </message>
 </context>
 <context>
@@ -3085,7 +3376,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Please input the password of permission settings!</source>
-        <translation>Proszę wprowadź hasło ustawienia uprawnień!</translation>
+        <translation>Wprowadź hasło ustawienia uprawnień!</translation>
     </message>
     <message>
         <source>Confirmation password does not match.</source>
@@ -3136,47 +3427,47 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxExportToOFDProgressDlg</name>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>User canceled operation.</source>
-        <translation>Użytkownik anulował operację.</translation>
+        <translation type="unfinished">Użytkownik anulował operację.</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation>Zamknij</translation>
+        <translation type="unfinished">Zamknij</translation>
     </message>
     <message>
         <source>Exporting document information...</source>
-        <translation>Eksportowanie informacji o dukumencie...</translation>
+        <translation type="unfinished">Eksportowanie informacji o dukumencie...</translation>
     </message>
     <message>
         <source>Exporting No.</source>
-        <translation>Eksportowanie nr</translation>
+        <translation type="unfinished">Eksportowanie nr</translation>
     </message>
     <message>
         <source> Page...</source>
-        <translation> Strona...</translation>
+        <translation type="unfinished"> Strona...</translation>
     </message>
     <message>
         <source>Exporting labels...</source>
-        <translation>Eksportowanie etykiet...</translation>
+        <translation type="unfinished">Eksportowanie etykiet...</translation>
     </message>
     <message>
         <source>Exporting OFD file is completed.</source>
-        <translation>Eksportowanie pliku OFD jest zakończone.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>OFD Converter encountered a memory allocation problem. Please reduce document size or image size.</source>
-        <translation>Konwerter OFD napotkał problem alokacji pamięci. Należy zmniejszyć rozmiar dokumentu lub rozmiar obrazu.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WPS Presentation encountered an error while trying exporting to OFD!</source>
-        <translation>Program WPS Presentation napotkał błąd podczas próby eksportowania do formatu OFD!</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Encountered an error when opening OFD file!</source>
-        <translation>Wystąpił błąd podczas otwierania pliku OFD!</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3250,7 +3541,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>WPS Presentation has finished searching the document. The search item was not found.</source>
-        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu. Poszukiwany element nie został znaleziony.</translation>
+        <translation>Program WPS Presentation zakończył przeszukiwanie dokumentu. Szukany element nie został znaleziony.</translation>
     </message>
     <message>
         <source>WPS Presentation has finished searching the document and made %1 replacements.</source>
@@ -3284,29 +3575,29 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxFormatOption_Background</name>
     <message>
         <source>BACKGROUND OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE TŁA</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty</name>
     <message>
         <source>TRANSFORM</source>
-        <translation type="unfinished"></translation>
+        <translation>PRZEKSZTAŁCENIE</translation>
     </message>
     <message>
         <source>POSITION</source>
-        <translation type="unfinished"></translation>
+        <translation>POŁOŻENIE</translation>
     </message>
 </context>
 <context>
     <name>KxFormatProperty_Background</name>
     <message>
         <source>FILL</source>
-        <translation type="unfinished"></translation>
+        <translation>WYPEŁNIENIE</translation>
     </message>
     <message>
         <source>Fill</source>
-        <translation type="unfinished">Wypełnienie</translation>
+        <translation>Wypełnienie</translation>
     </message>
 </context>
 <context>
@@ -3353,58 +3644,58 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Select Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz obraz</translation>
     </message>
     <message>
         <source>All Pictures</source>
-        <translation type="unfinished">Wszystkie obrazy</translation>
+        <translation>Wszystkie obrazy</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozszerzony Metaplik Windows</translation>
     </message>
     <message>
         <source>Windows Metafile</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaplik Windows</translation>
     </message>
     <message>
         <source>JPEG File InterChange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany plików JPEG</translation>
     </message>
     <message>
         <source>Portable Network Graphics</source>
-        <translation type="unfinished"></translation>
+        <translation>Przenośna grafika sieciowa PNG</translation>
     </message>
     <message>
         <source>Windows Bitmap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa bitowa Windows</translation>
     </message>
     <message>
         <source>Graphics Interchange Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format wymiany grafiki GIF</translation>
     </message>
     <message>
         <source>Tag Image File Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Znacznikowy format pliku obrazu TIF</translation>
     </message>
 </context>
 <context>
     <name>KxHexSpinBox</name>
     <message>
         <source>The Entry Must Be Positive</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być dodatni</translation>
     </message>
     <message>
         <source>The Entry Cannot Contain Any Non-Digit Character</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis nie może zawierać znaków innych niż znaki numeryczne</translation>
     </message>
     <message>
         <source>The Entry Must Be More Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być większy niż lub równy %1</translation>
     </message>
     <message>
         <source>The Entry Must Be Less Than Or Equal To %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpis musi być mniejszy niż lub równy %1</translation>
     </message>
 </context>
 <context>
@@ -3471,7 +3762,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxKsoTableStyleItem</name>
     <message>
         <source>Set As Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw jako domyślną</translation>
     </message>
 </context>
 <context>
@@ -3536,7 +3827,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <name>KxNoneItem</name>
     <message>
         <source>None</source>
-        <translation type="unfinished">Brak</translation>
+        <translation>Brak</translation>
     </message>
 </context>
 <context>
@@ -3547,7 +3838,7 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>Please select one &amp;folder:</source>
-        <translation>Proszę wybrać jeden &amp;folder:</translation>
+        <translation>Wybierz jeden &amp;folder:</translation>
     </message>
     <message>
         <source>The path or name of &quot;%1&quot; is invalid. Please check that the path and file name are correct.</source>
@@ -3562,7 +3853,10 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     </message>
     <message>
         <source>You don&apos;t have permission to write backup files in &quot;%1&quot;.</source>
-        <translation type="obsolete">Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
+        <translation type="obsolete" variants="yes">
+            <lengthvariant>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</lengthvariant>
+            <lengthvariant>Nie masz uprawnień do zapisu plików kopii zapasowej w &quot;%1&quot;.</lengthvariant>
+        </translation>
     </message>
     <message>
         <source>The directory &quot;%1&quot; is not valid.</source>
@@ -3583,6 +3877,27 @@ zaleca się, aby zapisać te czcionki w dokumencie. Zapisać czcionki chmury w d
     <message>
         <source>You don&apos;t have permission to save backup files to &quot;%1&quot;.</source>
         <translation>Nie masz uprawnień do zapisu kopii zapasowej plików w &quot;%1&quot;.</translation>
+    </message>
+    <message>
+        <source>Quick Access Toolbar</source>
+        <translatorcomment>Presentation-&gt;Główny przycisk programu-&gt;Opcje - tak jest ok jak w MSO</translatorcomment>
+        <translation>Pasek narzędzi Szybki dostęp</translation>
+    </message>
+    <message>
+        <source>Customize Ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Notification</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trust Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced authorization</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3698,7 +4013,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nazwa:</translation>
+        <translation>&amp;Nazwa:</translation>
     </message>
 </context>
 <context>
@@ -3874,7 +4189,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply a design template</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj szablon projektu</translation>
     </message>
 </context>
 <context>
@@ -3904,7 +4219,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Apply a design template</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj szablon projektu</translation>
     </message>
 </context>
 <context>
@@ -3971,11 +4286,11 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Slide Transition</source>
-        <translation>Przejście slajdu</translation>
+        <translation type="unfinished">Przejście slajdu</translation>
     </message>
     <message>
         <source>Apply to selected slides</source>
-        <translation type="unfinished">Zastosuj do wybranych slajdów</translation>
+        <translation>Zastosuj do wybranych slajdów</translation>
     </message>
 </context>
 <context>
@@ -4008,15 +4323,26 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxTrimMediaDlg</name>
     <message>
         <source>Trim Movie</source>
-        <translation>Przytnij film</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Film-&gt;Prawy przycisk myszki-&gt;Przytnij film - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przycinanie wideo</translation>
     </message>
     <message>
         <source>Trim Sound</source>
-        <translation>Przytnij dźwięk</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Dzwięk-&gt;Prawy przycisk myszki-&gt;Przytnij dzwięk - nazwa okna dialogowego - tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Przycinanie dźwięku</translation>
     </message>
     <message>
         <source>Duration : </source>
+        <translatorcomment>Presentation-&gt;Wstaw Dzwięk/Wideo-&gt;Prawy przycisk myszki-&gt;Przytnij dzwięk/wideo - informacja w oknie dialogowym - tak jest ok jak w PowerPoint</translatorcomment>
         <translation>Czas trwania: </translation>
+    </message>
+    <message>
+        <source>Trim time less than fade time.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Presentation</source>
+        <translation type="unfinished">WPS Presentation</translation>
     </message>
 </context>
 <context>
@@ -4062,7 +4388,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation>Wyśrodkuj</translation>
+        <translation>Do środka</translation>
     </message>
     <message>
         <source>F&amp;rom:</source>
@@ -4093,10 +4419,12 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Hyperlink to Other File</source>
-        <translation>Hiperłącze do innych plików</translation>
+        <translatorcomment>nazwa okna dialogowego, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Hiperłącze do innego pliku</translation>
     </message>
     <message>
         <source>Hyperlink To URL</source>
+        <translatorcomment>nazwa okna dialogowego</translatorcomment>
         <translation>Hiperłącze do adresu URL</translation>
     </message>
     <message>
@@ -4105,15 +4433,17 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Please Choose a Program to Launch</source>
-        <translation>Proszę wybrać program do uruchomienia</translation>
+        <translatorcomment>Presentation-&gt;Wstaw-&gt;Kształty-&gt;Przyciski akcji - niestandardowy-&gt;Uruchom program-&gt;Przeglądaj, nazwa okna dialogowego, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Wybieranie programu do uruchomienia</translation>
     </message>
     <message>
         <source>Hyperlink to Other WPS Presentation Files</source>
-        <translation>Hiperłącze do innych plików WPS Presentation</translation>
+        <translatorcomment>nazwa okna dialogowego, tak jest ok jak w PowerPoint</translatorcomment>
+        <translation>Hiperłącze do innej prezentacji programu WPS Presentation</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="obsolete">Otwórz</translation>
+        <translation>Otwórz</translation>
     </message>
 </context>
 <context>
@@ -4143,50 +4473,51 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppBorderStyleItem</name>
     <message>
         <source>No Border</source>
-        <translation>Bez obramowania</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak krawędzi</translation>
     </message>
 </context>
 <context>
     <name>KxWppBorderWidthItem</name>
     <message>
         <source>2.25</source>
-        <translation type="unfinished">2.25</translation>
+        <translation>2,25</translation>
     </message>
     <message>
         <source>pt</source>
-        <translation type="unfinished">pkt</translation>
+        <translation>pkt</translation>
     </message>
     <message>
         <source>0.25</source>
-        <translation type="unfinished">0.25</translation>
+        <translation>0,25</translation>
     </message>
     <message>
         <source>0.5</source>
-        <translation type="unfinished">0.5</translation>
+        <translation>0,5</translation>
     </message>
     <message>
         <source>0.75</source>
-        <translation type="unfinished">0.75</translation>
+        <translation>0,75</translation>
     </message>
     <message>
         <source>1</source>
-        <translation type="unfinished">1</translation>
+        <translation>1</translation>
     </message>
     <message>
         <source>1.5</source>
-        <translation type="unfinished">1.5</translation>
+        <translation>1,5</translation>
     </message>
     <message>
         <source>3</source>
-        <translation type="unfinished">3</translation>
+        <translation>3</translation>
     </message>
     <message>
         <source>4.5</source>
-        <translation type="unfinished">4.5</translation>
+        <translation>4,5</translation>
     </message>
     <message>
         <source>6</source>
-        <translation type="unfinished">6</translation>
+        <translation>6</translation>
     </message>
 </context>
 <context>
@@ -4227,82 +4558,83 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;Entrance</source>
-        <translation>&amp;Wejście</translation>
+        <translation type="obsolete">&amp;Wejście</translation>
     </message>
     <message>
         <source>&amp;More Effects ...</source>
-        <translation>&amp;Więcej efektów ...</translation>
+        <translation type="obsolete">&amp;Więcej efektów ...</translation>
     </message>
     <message>
         <source>E&amp;xit</source>
-        <translation>Za&amp;kończ</translation>
+        <translation type="obsolete">Za&amp;kończ</translation>
     </message>
     <message>
         <source>E&amp;mphasis</source>
-        <translation>W&amp;yróżnienie</translation>
+        <translation type="obsolete">W&amp;yróżnienie</translation>
     </message>
     <message>
         <source>Motion &amp;Paths</source>
-        <translation>Ś&amp;cieżki ruchu</translation>
+        <translation type="obsolete">Ś&amp;cieżki ruchu</translation>
     </message>
     <message>
         <source>&amp;Convert Object to Path</source>
-        <translation>&amp;Konwertuj obiekt do ścieżki</translation>
+        <translation type="obsolete">&amp;Konwertuj obiekt do ścieżki</translation>
     </message>
     <message>
         <source>&amp;Draw Custom Path</source>
-        <translation>&amp;Rysuj ścieżkę niestandardową</translation>
+        <translation type="obsolete">&amp;Rysuj ścieżkę niestandardową</translation>
     </message>
     <message>
         <source>&amp;Line</source>
-        <translation>&amp;Linia</translation>
+        <translation type="obsolete">&amp;Linia</translation>
     </message>
     <message>
         <source>&amp;Curve</source>
-        <translation>&amp;Krzywa</translation>
+        <translation type="obsolete">&amp;Krzywa</translation>
     </message>
     <message>
         <source>&amp;Freeform</source>
-        <translation>&amp;Dowolny kształt</translation>
+        <translation type="obsolete">&amp;Dowolny kształt</translation>
     </message>
     <message>
         <source>&amp;Scribble</source>
-        <translation>&amp;Bazgroły</translation>
+        <translation type="obsolete">&amp;Bazgroły</translation>
     </message>
     <message>
         <source>&amp;More Motion Paths ...</source>
-        <translation>&amp;Więcej ścieżek ruchu...</translation>
+        <translation type="obsolete">&amp;Więcej ścieżek ruchu...</translation>
     </message>
     <message>
         <source>Movie &amp;Actions</source>
-        <translation>&amp;Akcje filmu</translation>
+        <translation type="obsolete">&amp;Akcje filmu</translation>
     </message>
     <message>
         <source>&amp;Play</source>
-        <translation>&amp;Odtwórz</translation>
+        <translation type="obsolete">&amp;Odtwórz</translation>
     </message>
     <message>
         <source>Pau&amp;se</source>
-        <translation>W&amp;strzymaj</translation>
+        <translation type="obsolete">W&amp;strzymaj</translation>
     </message>
     <message>
         <source>S&amp;top</source>
-        <translation>Za&amp;trzymaj</translation>
+        <translation type="obsolete">Za&amp;trzymaj</translation>
     </message>
     <message>
         <source>Object Oper&amp;ate</source>
-        <translation>Dzi&amp;ałanie obiektu</translation>
+        <translation type="obsolete">Dzi&amp;ałanie obiektu</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>&amp;Edytuj</translation>
+        <translation type="obsolete">&amp;Edytuj</translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation>&amp;Otwórz</translation>
+        <translation type="obsolete">&amp;Otwórz</translation>
     </message>
     <message>
         <source>Start On &amp;Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Rozpocznij po &amp;kliknięciu</translation>
     </message>
     <message>
@@ -4335,7 +4667,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>&amp;View Slide Master</source>
-        <translation>&amp;Wyświetl wzorzec slajdów</translation>
+        <translation type="obsolete">&amp;Wyświetl wzorzec slajdów</translation>
     </message>
     <message>
         <source>&amp;Unlocked</source>
@@ -4355,22 +4687,34 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>Zoom &amp;In</source>
-        <translation>Pow&amp;iększanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Pow&amp;iększ</translation>
     </message>
     <message>
         <source>Zoom &amp;Out</source>
-        <translation>P&amp;omniejszanie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>P&amp;omniejsz</translation>
     </message>
     <message>
         <source>&amp;Hide Advanced Timeline</source>
         <translation>&amp;Ukryj zaawansowaną oś czasu</translation>
+    </message>
+    <message>
+        <source>View Slide &amp;Master</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>&amp;Wyświetl wzorzec slajdów</translation>
+    </message>
+    <message>
+        <source>View Slide &amp;Layout</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&amp;Wyświetl układ slajdów</translation>
     </message>
 </context>
 <context>
     <name>KxWppDesignItem</name>
     <message>
         <source>Apply to &amp;Master</source>
-        <translation>Zastosuj we &amp;wzorcu</translation>
+        <translation>&amp;Zastosuj we wzorcu</translation>
     </message>
     <message>
         <source>Apply to &amp;All Slides</source>
@@ -4397,18 +4741,22 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppExtendModeGuideDlg</name>
     <message>
         <source>Set up monitors</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>Ustaw monitory</translation>
     </message>
     <message>
         <source>Set screen resolution and color quality</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>Ustaw rozdzielczość ekranu i jakość kolorów</translation>
     </message>
     <message>
         <source>Use the current monitor as the primary monitor</source>
-        <translation>Użyj bieżącego monitora jako monitor główny</translation>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
+        <translation>Użyj bieżącego monitora jako monitora głównego</translation>
     </message>
     <message>
         <source>Extend Windows desktop to the selected monitor</source>
+        <translatorcomment>Presentation-&gt;Pokaz slajdów-&gt;Przygotuj pokaz slajdów-&gt;Kreator trybu rozszerzonego podwójnego ekranu - tak jest ok</translatorcomment>
         <translation>Rozszerz pulpit systemu Windows do wybranego monitora</translation>
     </message>
 </context>
@@ -4420,21 +4768,29 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     </message>
     <message>
         <source>No Color</source>
-        <translation>Bez koloru</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak koloru</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontColorModel</name>
     <message>
         <source>No Fill</source>
-        <translation type="unfinished">Bez wypełnienia</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak wypełnienia</translation>
+    </message>
+    <message>
+        <source>Recent Colors</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Ostatnio używane kolory</translation>
     </message>
 </context>
 <context>
     <name>KxWppFontOutlineColorModel</name>
     <message>
         <source>No Outline</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Brak konturu</translation>
     </message>
 </context>
 <context>
@@ -4448,46 +4804,46 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppFormatGroupContent_Fill</name>
     <message>
         <source>Slide background fill</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Wypełnienie tłem slajdu</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Chart</name>
     <message>
         <source>CHART OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE WYKRESU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_ChartText</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE TEKSTU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Shape</name>
     <message>
         <source>SHAPE OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE KSZTAŁTU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatOption_Text</name>
     <message>
         <source>TEXT OPTIONS</source>
-        <translation type="unfinished"></translation>
+        <translation>OPCJE TEKSTU</translation>
     </message>
 </context>
 <context>
     <name>KxWppFormatProperty_FillAndLine</name>
     <message>
         <source>TEXT FILL</source>
-        <translation type="unfinished"></translation>
+        <translation>WYPEŁNIENIE TEKSTU</translation>
     </message>
     <message>
         <source>FILL</source>
-        <translation type="unfinished"></translation>
+        <translation>WYPEŁNIENIE</translation>
     </message>
 </context>
 <context>
@@ -4505,30 +4861,36 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppLineColorModel</name>
     <message>
         <source>No Line</source>
-        <translation>Bez linii</translation>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Brak linii</translation>
     </message>
 </context>
 <context>
     <name>KxWppMediaBarWidget</name>
     <message>
         <source>Move forward 0.25 seconds</source>
-        <translation type="unfinished">Przejdź do przodu o 0,25 sekundy</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przejdź do przodu o 0,25 s</translation>
     </message>
     <message>
         <source>Move back 0.25 seconds</source>
-        <translation type="unfinished">Przejdź do tyłu o 0,25 sekundy</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Przejdź do tyłu o 0,25 s</translation>
     </message>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished">Odtwórz/Wstrzymaj</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Odtwórz/Wstrzymaj</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">Głośność</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Głośność</translation>
     </message>
     <message>
         <source>Setting</source>
-        <translation type="unfinished">Ustawienie</translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation type="obsolete">Ustawienia</translation>
     </message>
 </context>
 <context>
@@ -4582,78 +4944,80 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppPermissionInformationDlg</name>
     <message>
         <source>My Permission</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Uprawnienia</translation>
     </message>
     <message>
         <source>You are currently authenticated to view this document as:	</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownik został uwierzytelniony do wyświetlania tego dokumentu jako:	</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Change user...</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmień użytkownika...</translation>
     </message>
     <message>
         <source>You have the following permissions:</source>
-        <translation type="unfinished"></translation>
+        <translation>Masz następujące uprawnienia:</translation>
     </message>
     <message>
         <source>View</source>
-        <translation type="unfinished">Widok</translation>
+        <translation>Wyświetlanie</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished">Edytuj</translation>
+        <translation>Edytowanie</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Kopiowanie</translation>
     </message>
     <message>
         <source>Print</source>
-        <translation type="unfinished">Drukuj</translation>
+        <translation>Drukowanie</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisywanie</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished"></translation>
+        <translation>Eksportowanie</translation>
     </message>
     <message>
         <source>Access the document programmatically</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzyskaj programowy dostęp do dokumentu</translation>
     </message>
     <message>
         <source>Full Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Pełna kontrola</translation>
     </message>
     <message>
         <source>Permission expires on:</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation>Uprawnienie wygaśnie:</translation>
     </message>
     <message>
         <source>(N/A)</source>
-        <translation type="unfinished"></translation>
+        <translation>(N/D)</translation>
     </message>
     <message>
         <source>Request additional permissions…</source>
-        <translation type="unfinished"></translation>
+        <translation>Zażądaj dodatkowych uprawnień...</translation>
     </message>
 </context>
 <context>
     <name>KxWppPlayerMediaBar</name>
     <message>
         <source>Play/Pause</source>
-        <translation type="unfinished">Odtwórz/Wstrzymaj</translation>
+        <translation>Odtwórz/Wstrzymaj</translation>
     </message>
     <message>
         <source>Volume</source>
-        <translation type="unfinished">Głośność</translation>
+        <translation>Głośność</translation>
     </message>
 </context>
 <context>
@@ -4707,7 +5071,7 @@ folderu Zip, aby odtworzyć ten plik na innym komputerze.</translation>
     <name>KxWppPrstFillModel</name>
     <message>
         <source>Background Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie tła</translation>
     </message>
 </context>
 <context>
@@ -4761,39 +5125,40 @@ Czy na pewno zamknąć?</translation>
     <name>KxWppTpFormatting</name>
     <message>
         <source>Format Shape</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj kształt</translation>
     </message>
     <message>
         <source>Format Picture</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj obraz</translation>
     </message>
     <message>
         <source>Format Media</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>lub Formatuj nośnik</translatorcomment>
+        <translation>Formatuj multimedia</translation>
     </message>
     <message>
         <source>Format OleObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj obiekt OLE</translation>
     </message>
     <message>
         <source>Format ControlObject</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj sterowanie obiektu</translation>
     </message>
     <message>
         <source>Format Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj tło</translation>
     </message>
     <message>
         <source>Format Ink</source>
-        <translation type="unfinished"></translation>
+        <translation>Formatuj pismo odręczne</translation>
     </message>
     <message>
         <source>Apply to all</source>
-        <translation type="unfinished"></translation>
+        <translation>Zastosuj do wszystkich</translation>
     </message>
     <message>
         <source>Reset Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Resetuj tło</translation>
     </message>
 </context>
 <context>
@@ -4832,6 +5197,14 @@ Czy na pewno zamknąć?</translation>
     <message>
         <source>Comment</source>
         <translation>Komentarz</translation>
+    </message>
+    <message>
+        <source>Increase Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Font</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5328,6 +5701,15 @@ Czy na pewno zamknąć?</translation>
         <source>按文本和线条配色方案</source>
         <translation type="obsolete">Zastosuj schemat kolorów tekstu i linii</translation>
     </message>
+    <message>
+        <source>MasterLayout</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Układ wzorca</translation>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -5380,6 +5762,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>On Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
         <translation>Przy kliknięciu</translation>
     </message>
     <message>
@@ -5416,10 +5799,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Very Fast</source>
-        <translation variants="yes">
-            <lengthvariant>Bardzo szybko</lengthvariant>
-            <lengthvariant>Bardzo szybka</lengthvariant>
-        </translation>
+        <translation>Bardzo szybko</translation>
     </message>
     <message>
         <source>Play</source>
@@ -5441,214 +5821,215 @@ Czy na pewno zamknąć?</translation>
         <source>Re-order</source>
         <translation>Zmień kolejność</translation>
     </message>
+    <message>
+        <source>OneKeyAnimation</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>dialogstestClass</name>
     <message>
         <source>Dialogstest</source>
-        <translation variants="yes">
-            <lengthvariant>Dialogitest</lengthvariant>
-            <lengthvariant>Dialogstest</lengthvariant>
-        </translation>
+        <translation>Dialogstest</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToOFD</name>
     <message>
         <source>Export OFD File</source>
-        <translation>Eksportuj plik OFD</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translation type="unfinished">Ogólne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
-        <translation>Zapisz &amp;do</translation>
+        <translation type="unfinished">Zapisz &amp;do</translation>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation>&amp;Przeglądaj...</translation>
+        <translation type="unfinished">&amp;Przeglądaj...</translation>
     </message>
     <message>
         <source>Export range</source>
-        <translation>Zakres eksportowania</translation>
+        <translation type="unfinished">Zakres eksportowania</translation>
     </message>
     <message>
         <source>A&amp;ll</source>
-        <translation>W&amp;szystkie</translation>
+        <translation type="unfinished">W&amp;szystkie</translation>
     </message>
     <message>
         <source>&amp;Current slide</source>
-        <translation>&amp;Bieżący slajd</translation>
+        <translation type="unfinished">&amp;Bieżący slajd</translation>
     </message>
     <message>
         <source>&amp;Selection</source>
-        <translation>&amp;Zaznaczenie</translation>
+        <translation type="unfinished">&amp;Zaznaczenie</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Sl&amp;ides:</source>
-        <translation>&amp;Slajdy:</translation>
+        <translation type="unfinished">&amp;Slajdy:</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
-        <translation>Wprowadź numery lub zakresy slajdów. Na przykład: 1,3,5-12</translation>
+        <translation type="unfinished">Wprowadź numery lub zakresy slajdów. Na przykład: 1,3,5-12</translation>
     </message>
     <message>
         <source>Export options</source>
-        <translation>Opcje eksportowania</translation>
+        <translation type="unfinished">Opcje eksportowania</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation>&amp;Eksportuj:</translation>
+        <translation type="unfinished">&amp;Eksportuj:</translation>
     </message>
     <message>
         <source>Slides</source>
-        <translation>Slajdy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Handouts</source>
-        <translation>Materiały informacyjne</translation>
+        <translation type="unfinished">Materiały informacyjne</translation>
     </message>
     <message>
         <source>Notes pages</source>
-        <translation>Strony notatek</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline view</source>
-        <translation>Widok konspektu</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation>Kolor/&amp;Skala odcieni szarości:</translation>
+        <translation type="unfinished">Kolor/&amp;Skala odcieni szarości:</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Kolor</translation>
+        <translation type="unfinished">Kolor</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation>Wyłącznie czarno-białe</translation>
+        <translation type="unfinished">Wyłącznie czarno-białe</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
-        <translation>Slajdów &amp;na stronę:</translation>
+        <translation type="unfinished">Slajdów &amp;na stronę:</translation>
     </message>
     <message>
         <source>1</source>
-        <translation>1</translation>
+        <translation type="unfinished">1</translation>
     </message>
     <message>
         <source>2</source>
-        <translation>2</translation>
+        <translation type="unfinished">2</translation>
     </message>
     <message>
         <source>3</source>
-        <translation>3</translation>
+        <translation type="unfinished">3</translation>
     </message>
     <message>
         <source>4</source>
-        <translation>4</translation>
+        <translation type="unfinished">4</translation>
     </message>
     <message>
         <source>6</source>
-        <translation>6</translation>
+        <translation type="unfinished">6</translation>
     </message>
     <message>
         <source>9</source>
-        <translation>9</translation>
+        <translation type="unfinished">9</translation>
     </message>
     <message>
         <source>Order:</source>
-        <translation>Kolejność:</translation>
+        <translation type="unfinished">Kolejność:</translation>
     </message>
     <message>
         <source>Hori&amp;zontal</source>
-        <translation>Po&amp;ziomo</translation>
+        <translation type="unfinished">Po&amp;ziomo</translation>
     </message>
     <message>
         <source>&amp;Vertical</source>
-        <translation>&amp;Pionowo</translation>
+        <translation type="unfinished">&amp;Pionowo</translation>
     </message>
     <message>
         <source>ICON</source>
-        <translation>IKONA</translation>
+        <translation type="unfinished">IKONA</translation>
     </message>
     <message>
         <source>Fra&amp;me slides</source>
-        <translation>Obra&amp;mowania slajdów</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Print &amp;hidden slides</source>
-        <translation>Drukuj &amp;ukryte slajdy</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Permission Settings</source>
-        <translation>Ustawienia uprawnień</translation>
+        <translation type="unfinished">Ustawienia uprawnień</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
-        <translation>Hasł&amp;o ochrony ustawień uprawnień</translation>
+        <translation type="unfinished">Hasł&amp;o ochrony ustawień uprawnień</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
-        <translation>&amp;Hasło:</translation>
+        <translation type="unfinished">&amp;Hasło:</translation>
     </message>
     <message>
         <source>Con&amp;firm:</source>
-        <translation>&amp;Potwierdź:</translation>
+        <translation type="unfinished">&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation type="unfinished">Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Permit to modify</source>
-        <translation>Zezwalaj na modyfikowanie</translation>
+        <translation type="unfinished">Zezwalaj na modyfikowanie</translation>
     </message>
     <message>
         <source>Permit to copy</source>
-        <translation>Zezwalaj na kopiowanie</translation>
+        <translation type="unfinished">Zezwalaj na kopiowanie</translation>
     </message>
     <message>
         <source>Permit to add comments</source>
-        <translation>Zezwalaj na dodawanie komentarzy</translation>
+        <translation type="unfinished">Zezwalaj na dodawanie komentarzy</translation>
     </message>
     <message>
         <source>Printing permission:</source>
-        <translation>Uprawnienia drukowania:</translation>
+        <translation type="unfinished">Uprawnienia drukowania:</translation>
     </message>
     <message>
         <source>Printing not allowed</source>
-        <translation>Drukowanie niedozwolone</translation>
+        <translation type="unfinished">Drukowanie niedozwolone</translation>
     </message>
     <message>
         <source>Low-quality printing</source>
-        <translation>Niska jakość druku</translation>
+        <translation type="unfinished">Niska jakość druku</translation>
     </message>
     <message>
         <source>Free printing</source>
-        <translation>Drukowanie bez ograniczeń</translation>
+        <translation type="unfinished">Drukowanie bez ograniczeń</translation>
     </message>
     <message>
         <source>File open password:</source>
-        <translation>Hasło otwarcia pliku:</translation>
+        <translation type="unfinished">Hasło otwarcia pliku:</translation>
     </message>
     <message>
         <source>Passwor&amp;d:</source>
-        <translation>Hasł&amp;o:</translation>
+        <translation type="unfinished">Hasł&amp;o:</translation>
     </message>
     <message>
         <source>Confi&amp;rm:</source>
-        <translation>&amp;Potwierdź:</translation>
+        <translation type="unfinished">&amp;Potwierdź:</translation>
     </message>
     <message>
         <source>Close when e&amp;xport completes</source>
-        <translation>Zamknij po zakończeniu e&amp;ksportowania</translation>
+        <translation type="unfinished">Zamknij po zakończeniu e&amp;ksportowania</translation>
     </message>
     <message>
         <source>Select OFD Service Provider</source>
@@ -5662,31 +6043,40 @@ Czy na pewno zamknąć?</translation>
         <source>&amp;Foxit</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>OFD Service Provider</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>E&amp;mbedFont</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kdlgExportToOFDProgress</name>
     <message>
         <source>Export to OFD File</source>
-        <translation>Eksportuj do pliku OFD</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Preparing for exporting OFD file...</source>
-        <translation>Przygotowywanie do eksportowania pliku OFD...</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&amp;Open File</source>
-        <translation>&amp;Otwórz plik</translation>
+        <translation type="unfinished">&amp;Otwórz plik</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation type="unfinished">Anuluj</translation>
     </message>
 </context>
 <context>
     <name>kdlgExportToPDF</name>
     <message>
         <source>Normal</source>
-        <translation>Normalne</translation>
+        <translatorcomment>Nazwa zakładki w oknie dialogowym &quot;Eksportuj do pliku PDF w programach Spreadsheet i Presentation. Nazwa &quot;Normal&quot; jest tutaj nieporawnie użyta przez producenta.</translatorcomment>
+        <translation>Ogólne</translation>
     </message>
     <message>
         <source>Save &amp;to</source>
@@ -5710,7 +6100,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Export &amp;what:</source>
-        <translation>&amp;Eksportuj:</translation>
+        <translation type="obsolete">&amp;Eksportuj:</translation>
     </message>
     <message>
         <source>Slides</source>
@@ -5722,7 +6112,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation>Kolor</translation>
+        <translation type="obsolete">Kolor</translation>
     </message>
     <message>
         <source>Slides p&amp;er page:</source>
@@ -5826,7 +6216,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>C&amp;ustom slide shows:</source>
-        <translation>N&amp;iestandardowe pokazy slajdów:</translation>
+        <translation>N&amp;iestandardowy pokaz slajdów:</translation>
     </message>
     <message>
         <source>Enter slide numbers or ranges. For example, 1,3,5-12</source>
@@ -5846,11 +6236,11 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Color/&amp;Grayscale:</source>
-        <translation>Kolor/&amp;Skala odcieni szarości:</translation>
+        <translation type="obsolete">Kolor/&amp;Skala odcieni szarości:</translation>
     </message>
     <message>
         <source>Pure black and white</source>
-        <translation>Wyłącznie czarno-białe</translation>
+        <translation type="obsolete">Wyłącznie czarno-białe</translation>
     </message>
     <message>
         <source>Passw&amp;ord to protect permission settings</source>
@@ -5858,7 +6248,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>Note：only setting password can the below settings effect and avoid being changed by others.</source>
-        <translation type="obsolete">Uwaga: tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+        <translation type="obsolete">Uwaga: Tylko ustawienie hasła może dokonać poniższych ustawień i uniknąć zmieniania przez innych użytkowników.</translation>
     </message>
     <message>
         <source>Printing permission:</source>
@@ -5883,6 +6273,11 @@ Czy na pewno zamknąć?</translation>
     <message>
         <source>Note: only setting password can the below settings effect and avoid being changed by others.</source>
         <translation>Uwaga: Tylko ustawienie hasła pozwala dokonać poniższych ustawień efektu oraz uniknąć ich zmieniania przez innych użytkowników.</translation>
+    </message>
+    <message>
+        <source>Export What:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation>Eksportuj:</translation>
     </message>
 </context>
 <context>
@@ -5924,6 +6319,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cmbBorderColor</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>cmbBorderColor</translation>
     </message>
     <message>
@@ -5932,6 +6328,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cmbBorderWidth</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>cmbBorderWidth</translation>
     </message>
     <message>
@@ -5940,14 +6337,17 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>btnBorderUp</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderUp</translation>
     </message>
     <message>
         <source>btnBorderMidHor</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderMidHor</translation>
     </message>
     <message>
         <source>btnBorderUnder</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderUnder</translation>
     </message>
     <message>
@@ -5956,22 +6356,27 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>btnBorderSlash</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderSlash</translation>
     </message>
     <message>
         <source>btnBorderLeft</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderLeft</translation>
     </message>
     <message>
         <source>btnBorderMidVer</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderMidVer</translation>
     </message>
     <message>
         <source>btnBorderRight</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderRight</translation>
     </message>
     <message>
         <source>btnBorderBackSlash</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>btnBorderBackSlash</translation>
     </message>
     <message>
@@ -6008,6 +6413,7 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cbTextAlign</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>cbTextAlign</translation>
     </message>
     <message>
@@ -6044,7 +6450,8 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>cbOrientation</source>
-        <translation>cbOrientation</translation>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
+        <translation>Orientacja</translation>
     </message>
     <message>
         <source>Rotat&amp;e text within cell by 90 degrees</source>
@@ -6068,23 +6475,23 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>&amp;Fill</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Wypełnienie</translation>
     </message>
     <message>
         <source>Solid fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie pełne</translation>
     </message>
     <message>
         <source>Gradient fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie gradientowe</translation>
     </message>
     <message>
         <source>Picture or texture fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie obrazem lub teksturą</translation>
     </message>
     <message>
         <source>Pattern fill</source>
-        <translation type="unfinished"></translation>
+        <translation>Wypełnienie deseniem</translation>
     </message>
     <message>
         <source>&amp;Color</source>
@@ -6092,86 +6499,86 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>&amp;Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Przezroczystość</translation>
     </message>
     <message>
         <source>Enter 0%  to 100% of value</source>
-        <translation>Wpisz wartość od 0 do 100%</translation>
+        <translation>Wprowadź wartość od 0% do 100%</translation>
     </message>
     <message>
         <source>%</source>
-        <translation type="unfinished">%</translation>
+        <translation>%</translation>
     </message>
     <message>
         <source>&amp;Style</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Styl</translation>
     </message>
     <message>
         <source>Gradient Linear</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient liniowy</translation>
     </message>
     <message>
         <source>Gradient Radial</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient promieniowy</translation>
     </message>
     <message>
         <source>Gradient Rect</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient prostokątny</translation>
     </message>
     <message>
         <source>Gradient Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradient ścieżki</translation>
     </message>
     <message>
         <source>&amp;Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ką&amp;t</translation>
     </message>
     <message>
         <source>Enter 0  to 359 Degrees of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od 0 do 359 stopni</translation>
     </message>
     <message>
         <source>°</source>
-        <translation type="unfinished"></translation>
+        <translation>°</translation>
     </message>
     <message>
         <source>Gra&amp;dient stops</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopnie &amp;gradientu</translation>
     </message>
     <message>
         <source>Source From File</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło danych z pliku</translation>
     </message>
     <message>
         <source>&amp;File...</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Plik...</translation>
     </message>
     <message>
         <source>Source From &amp;Texture</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło danych z &amp;tekstury</translation>
     </message>
     <message>
         <source>&amp;Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Deseń</translation>
     </message>
     <message>
         <source>Fore&amp;ground</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Pierwszy plan</translation>
     </message>
     <message>
         <source>&amp;Background</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Tło</translation>
     </message>
     <message>
         <source>Enter 0cm to 55.88cm of the Value</source>
-        <translation>Wpisz wartość od 0 do 55.88cm</translation>
+        <translation>Wprowadź wartość od 0cm do 55,88cm</translation>
     </message>
 </context>
 <context>
     <name>kxDlgThesaurus</name>
     <message>
         <source>Thesaurus</source>
-        <translation type="obsolete">Tezaurus</translation>
+        <translation>Tezaurus</translation>
     </message>
     <message>
         <source>Current word:</source>
@@ -6191,7 +6598,23 @@ Czy na pewno zamknąć?</translation>
     </message>
     <message>
         <source>&amp;Replace</source>
-        <translation type="obsolete">&amp;Zamień</translation>
+        <translation>&amp;Zamień</translation>
+    </message>
+    <message>
+        <source>&amp;Current word:</source>
+        <translation>&amp;Bieżący wyraz:</translation>
+    </message>
+    <message>
+        <source>&amp;Language</source>
+        <translation>&amp;Język</translation>
+    </message>
+    <message>
+        <source>&amp;Alternatives:</source>
+        <translation>&amp;Alternatywy:</translation>
+    </message>
+    <message>
+        <source>Ca&amp;ncel</source>
+        <translation>&amp;Anuluj</translation>
     </message>
 </context>
 <context>
@@ -6236,35 +6659,597 @@ Czy na pewno zamknąć?</translation>
     <name>wppContentPosition</name>
     <message>
         <source>&amp;Horizontal position</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie w &amp;poziomie</translation>
     </message>
     <message>
         <source>Enter -5963.92  to 5963.92 cm of value</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź wartość od -5963,92 do 5963,92cm</translation>
     </message>
     <message>
         <source>cm</source>
-        <translation type="unfinished">cm</translation>
+        <translation>cm</translation>
     </message>
     <message>
         <source>&amp;From</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Od</translation>
     </message>
     <message>
         <source>Top Left Corner</source>
-        <translation type="unfinished"></translation>
+        <translation>Lewy górny róg</translation>
     </message>
     <message>
         <source>Center</source>
-        <translation type="unfinished">Wyśrodkuj</translation>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Środek</translation>
     </message>
     <message>
         <source>&amp;Vertical position</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie w p&amp;ionie</translation>
     </message>
     <message>
         <source>F&amp;rom</source>
+        <translation>O&amp;d</translation>
+    </message>
+</context>
+<context>
+    <name>KAnimGalleryView</name>
+    <message>
+        <source>Cancel Fixed</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 animations have been fixed. Please cancel some unnecessary animations and do it again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fixed to Recent used</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAddInsDlg</name>
+    <message>
+        <source>Sorry, you can not load the %1 add-in for some reason.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished">Wszystkie pliki</translation>
+    </message>
+</context>
+<context>
+    <name>KxBackupRoamingSettingTipWidget</name>
+    <message>
+        <source>What is Auto Roaming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>you also reference this document when login on another deviec</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>we update your modification on time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open roaming file, and local file would be saved on cloud.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxCustomDictionaryDlg</name>
+    <message>
+        <source>Full path: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The number of custom dictionaries has reached the upper limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary file(*.dic)|*.dic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary File(*.dic)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.*)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;. The file has already existed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred when adding &quot;%1&quot;, please check the file format.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The last dictionary cannot be deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removing the custom dictionary may affect the custom dictionary used by other WPS Office programs. Do you want to continue?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddIns</name>
+    <message>
+        <source>Add-Ins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;UnInstall</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>Add-Ins available(&amp;V):</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCustomDictionary</name>
+    <message>
+        <source>Custom Dictionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dictionary &amp;list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Modify...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Default(&amp;C)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;New...</source>
+        <translation type="unfinished">&amp;Nowy...</translation>
+    </message>
+    <message>
+        <source>&amp;Add...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zamknij</translation>
+    </message>
+    <message>
+        <source>Full Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEditDictionary</name>
+    <message>
+        <source>编辑字典</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Word:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Di&amp;ctionary</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <translation type="unfinished">&amp;Usuń</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Zamknij</translation>
+    </message>
+</context>
+<context>
+    <name>KxEditDictionaryDlg</name>
+    <message>
+        <source>The word contains unallowable characters. We cannot handle it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertOnlineVideoDlg</name>
+    <message>
+        <source>Insert Online Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>paste the URL...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">Podgląd</translation>
+    </message>
+    <message>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We only play the online video... copyright</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Disclaimer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty url!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Invalid url!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxInsertPicturesToMultiSlide</name>
+    <message>
+        <source>Insert Picture To Multiple Slides</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Wstaw obraz do wielu slajdów</translation>
+    </message>
+    <message>
+        <source>Unidentifiable picture format.</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Niezidentyfikowany format obrazu.</translation>
+    </message>
+    <message>
+        <source>The picture you inserted is too large. Please compress it to save the disk space.
+Note that compressing pictures may reduce the quality of your pictures. Do you want to compress it(them)?</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>Obraz, który wstawiłeś jest zbyt duży. Skompresuj go, aby zaoszczędzić miejsce na dysku.
+Zauważ, że kompresowanie obrazów może obniżyć ich jakość. Czy chcesz dokonać kompresji?</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
+        <translation>Wszystkie obrazy (*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+    </message>
+    <message>
+        <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
+        <comment>DgUil_EnhancedMetaFiles</comment>
+        <translation>Rozszerzony Metaplik Windows (*.emf)|*.emf</translation>
+    </message>
+    <message>
+        <source>Windows Metafile(*.wmf)|*.wmf</source>
+        <translation>Metaplik Windows (*.wmf)|*.wmf</translation>
+    </message>
+    <message>
+        <source>JPEG File InterChange Format(*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</source>
+        <translation>Format wymiany plików JPEG (*.jpg;*.jpeg;*.jpe)|*.jpg;*.jpeg;*.jpe</translation>
+    </message>
+    <message>
+        <source>Portable Network Graphics(*.png)|*.png</source>
+        <translation>Przenośna grafika sieciowa PNG (*.png)|*.png</translation>
+    </message>
+    <message>
+        <source>Windows Bitmap(*.bmp)|*.bmp</source>
+        <translation>Mapa bitowa Windows (*.bmp)|*.bmp</translation>
+    </message>
+    <message>
+        <source>Graphics Interchange Format(*.gif)|*.gif</source>
+        <translation>Format wymiany grafiki GIF (*.gif)|*.gif</translation>
+    </message>
+    <message>
+        <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
+        <translation>Znacznikowy format pliku obrazu TIF (*.tif;*.tiff)|*.tif;*.tiff</translation>
+    </message>
+</context>
+<context>
+    <name>KxLoadFlashPluginWidget</name>
+    <message>
+        <source>You need install flash plug,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to install</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Anuluj</translation>
+    </message>
+    <message>
+        <source>Download and Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMediaFadeInSpinBoxCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMediaFadeOutSpinBoxCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPreviewLoadFlashPluginWidget</name>
+    <message>
+        <source>Download and Install</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAnimGalleryModel</name>
+    <message>
+        <source>Draw Custom Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Entrance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasis</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Motion Paths</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curve</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Freeform</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scribble</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert Object to Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recently Used</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAudioPlayAcrossPageLineEdit</name>
+    <message>
+        <source>EndPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppDocTab</name>
+    <message>
+        <source>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Convenient Functions&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Create link for sharing&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Export as PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Print/Print preview&lt;/p&gt;</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation>&lt;p style=&apos;font:bold;margin:2px&apos;&gt; Wygodne funkcje&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Utwórz łącze do udostępniania&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Eksportuj jako PDF&lt;/p&gt;&lt;p style=&apos;font:normal;margin:2px&apos;&gt;- Drukuj/Podgląd wydruku&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppFormatProperty_Effects</name>
+    <message>
+        <source>SHADOW</source>
+        <translatorcomment>opcje efektów w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>CIEŃ</translation>
+    </message>
+    <message>
+        <source>REFLECTION</source>
+        <translatorcomment>opcje efektów w oknie zadań - tak jest ok jak w MSO</translatorcomment>
+        <translation>ODBICIE</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaInfoTipPopup</name>
+    <message>
+        <source>Total Playing Time:</source>
+        <translation type="unfinished">Całkowity czas odtwarzania:</translation>
+    </message>
+    <message>
+        <source>File:</source>
+        <translation type="unfinished">Plik:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaPlayCommand</name>
+    <message>
+        <source>media play</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause</source>
+        <translation type="unfinished">Wstrzymaj</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translation type="unfinished">Odtwórz</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppMediaStartModeCommand</name>
+    <message>
+        <source>Automatically</source>
+        <translation type="unfinished">Automatycznie</translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translation type="unfinished">Przy kliknięciu</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppOnlineMeidiaWebView</name>
+    <message>
+        <source>The Page is Loading, please waiting...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPlayerCaptureCtrl</name>
+    <message>
+        <source>Preparing for Video Capture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to setup Supporter of Video Capture.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrinterCollateCommand</name>
+    <message>
+        <source>Collate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnCollate</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppPrinterDuplexCommand</name>
+    <message>
+        <source>Print one sided</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manual duplex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip on long edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip on short edge</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppSlideSmartWidget</name>
+    <message>
+        <source>Copy As Source Format, Switch To Current</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy As Current Format ,Switch To Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy As Source Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy As Current Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVideoPlayCommand</name>
+    <message>
+        <source>Pause</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation type="obsolete">Wstrzymaj</translation>
+    </message>
+    <message>
+        <source>Play</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation type="obsolete">Odtwórz</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppVideoStartModeCommand</name>
+    <message>
+        <source>Automatically</source>
+        <translatorcomment>tak jest ok</translatorcomment>
+        <translation type="obsolete">Automatycznie</translation>
+    </message>
+    <message>
+        <source>On Click</source>
+        <translatorcomment>tak jest ok jak w MSO</translatorcomment>
+        <translation type="obsolete">Przy kliknięciu</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppWebPreviewWinChangeThemeWidget</name>
+    <message>
+        <source>Select animation style:</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation type="obsolete">Wybierz styl animacji:</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppWebPreviewWinDisplayWidget</name>
+    <message>
+        <source>To display the flow, the generated link contains only the first 50 slides.</source>
+        <translatorcomment>ok</translatorcomment>
+        <translation type="obsolete">Aby wyświetlić przepływ, wygenerowane łącze zawiera tylko pierwszych 50 slajdów.</translation>
     </message>
 </context>
 </TS>

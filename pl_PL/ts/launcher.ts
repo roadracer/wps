@@ -6,10 +6,12 @@
     <name>KLauncherWidgetClass</name>
     <message>
         <source>KLauncherWidget</source>
+        <translatorcomment>nie wymaga tłumaczenia</translatorcomment>
         <translation>KLauncherWidget</translation>
     </message>
     <message>
         <source>Welcome to WPS Office</source>
+        <translatorcomment>tak jest ok</translatorcomment>
         <translation>Witamy w WPS Office</translation>
     </message>
     <message>
@@ -34,16 +36,16 @@
     <message>
         <source>Usage: %1 
 </source>
-        <translation>Użycie: %1 </translation>
+        <translation type="obsolete">Użycie: %1 </translation>
     </message>
     <message>
         <source>    or %1 &lt;wps|wpp|et&gt; [document_path]
 </source>
-        <translation>    lub %1 &lt;wps|wpp|et&gt; [dokument_ściażka]</translation>
+        <translation type="obsolete">    lub %1 &lt;wps|wpp|et&gt; [dokument_ściażka]</translation>
     </message>
     <message>
         <source>:/qm/%1.qm</source>
-        <translation>:/qm/%1.qm</translation>
+        <translation type="obsolete">:/qm/%1.qm</translation>
     </message>
 </context>
 </TS>

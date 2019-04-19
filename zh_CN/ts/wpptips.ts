@@ -118,13 +118,19 @@
     </message>
     <message id="BackgroundMusic.title">
         <source>Insert Background Music</source>
-        <extracomment>BackgroundMusic.title</extracomment>
-        <translation>插入背景音乐</translation>
+        <oldsource>Set background music</oldsource>
+        <extracomment>BackgroundMusic.title
+----------
+BackgroundMusic.title</extracomment>
+        <translation>设为背景音乐</translation>
     </message>
     <message id="BackgroundMusic.content">
         <source>Insert an audio file from local folder. The slide show will automatically play the audio, which will be looped until the end of the slide show.</source>
-        <extracomment>BackgroundMusic.content</extracomment>
-        <translation>插入本地文件夹中的音频文件，在放映幻灯片时自动播放，当切换到下一张幻灯片时不会中断播放，一直循环播放到幻灯片结束放映。</translation>
+        <oldsource>Set the audio play automatically when the slide show , when switching to the next slide without interrupting playback, looping agreement to end the slide show.</oldsource>
+        <extracomment>BackgroundMusic.content
+----------
+BackgroundMusic.content</extracomment>
+        <translation>设置音频在放映幻灯片时自动播放，当切换到下一张幻灯片时不会中断播放，一直循环播放到幻灯片放映结束。</translation>
     </message>
     <message id="BordersFill.title">
         <source>Borders</source>
@@ -299,12 +305,12 @@ Click the arrow to select different bullet styles.</source>
     <message id="DeleteComment.title">
         <source>Delete Comment</source>
         <extracomment>DeleteComment.title</extracomment>
-        <translation>删除标记</translation>
+        <translation>删除批注</translation>
     </message>
     <message id="DeleteComment.content">
         <source>Delete the comment.</source>
         <extracomment>DeleteComment.content</extracomment>
-        <translation>删除标记</translation>
+        <translation>删除批注</translation>
     </message>
     <message id="DeleteMaster.title">
         <source>Delete Master</source>
@@ -329,7 +335,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DetailedSettings_DrawingTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_DrawingTools.title</extracomment>
-        <translation></translation>
+        <translation>详细设置</translation>
     </message>
     <message id="DetailedSettings_DrawingTools.content">
         <source>Change the settings of shape formatting.</source>
@@ -339,17 +345,17 @@ Click the arrow to select different bullet styles.</source>
     <message id="DetailedSettings_Home.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_Home.title</extracomment>
-        <translation></translation>
+        <translation>详细设置</translation>
     </message>
     <message id="DetailedSettings_Home.content">
         <source>Change the settings of font.</source>
         <extracomment>DetailedSettings_Home.content</extracomment>
-        <translation></translation>
+        <translation>改变字体设置。</translation>
     </message>
     <message id="DetailedSettings_PictureTools.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_PictureTools.title</extracomment>
-        <translation></translation>
+        <translation>详细设置</translation>
     </message>
     <message id="DetailedSettings_PictureTools.content">
         <source>Change the settings of picture formatting.</source>
@@ -359,7 +365,7 @@ Click the arrow to select different bullet styles.</source>
     <message id="DetailedSettings_WordArt.title">
         <source>Settings</source>
         <extracomment>DetailedSettings_WordArt.title</extracomment>
-        <translation></translation>
+        <translation>详细设置</translation>
     </message>
     <message id="DetailedSettings_WordArt.content">
         <source>Change the settings of WordArt formatting.</source>
@@ -506,15 +512,13 @@ Click the arrow to select a different alignment.</oldsource>
     </message>
     <message id="ExportWeiboImageCmd.title">
         <source>Export to Image</source>
-        <oldsource>ExportWeiboImageCmd Title</oldsource>
         <extracomment>ExportWeiboImageCmd.title</extracomment>
         <translation>输出为图片</translation>
     </message>
     <message id="ExportWeiboImageCmd.content">
         <source>Export the document to an image.</source>
-        <oldsource>ExportWeiboImageCmd Content</oldsource>
         <extracomment>ExportWeiboImageCmd.content</extracomment>
-        <translation>将文档输出在一张图片中。</translation>
+        <translation>将文档输出为图片格式。</translation>
     </message>
     <message id="Find.title">
         <source>Find</source>
@@ -795,7 +799,7 @@ When WPS Spreadsheets closed, the chart in document can display normally. Double
         <source>Insert the music, video, animation and other media files into presentation to enhance expression for presentation.</source>
         <oldsource>Insert the music, video, animation and other media files into presentation to enhanc expression for presentation.</oldsource>
         <extracomment>InsertMedia.content</extracomment>
-        <translation>往演示文稿中插入音乐、影片、动画等媒体文件，增强演示文稿的表现力。</translation>
+        <translation>往演示文稿中插入音乐、视频、动画等媒体文件，增强演示文稿的表现力。</translation>
     </message>
     <message id="InsertObject.title">
         <source>Insert Object</source>
@@ -920,7 +924,7 @@ When WPS Spreadsheets closed, the chart in document can display normally. Double
     <message id="Media.title">
         <source>Insert Movie</source>
         <extracomment>Media.title</extracomment>
-        <translation>插入影片</translation>
+        <translation>插入视频</translation>
     </message>
     <message id="Media.content">
         <source>Insert a movie from local folder</source>
@@ -1090,7 +1094,7 @@ Click the arrow to select different numbering formats.</source>
     <message id="Paragraph1.title">
         <source>Alignment</source>
         <extracomment>Paragraph1.title</extracomment>
-        <translation>对齐方式</translation>
+        <translation>对齐</translation>
     </message>
     <message id="Paragraph1.content">
         <source>Click the arrow to select a different alignment.</source>
@@ -1697,7 +1701,6 @@ Click the arrow to select detailed settings for the outline.</source>
     </message>
     <message id="SlideTransition.content">
         <source>Show the Slide Transition task window to set up transition effects to the selected slides or the entire presentation.</source>
-        <oldsource>Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.</oldsource>
         <extracomment>SlideTransition.content</extracomment>
         <translation>弹出“幻灯片切换”任务窗格，对当前幻灯片或整个演示文稿设置切换效果。</translation>
     </message>
@@ -1714,7 +1717,7 @@ Click the arrow to select detailed settings for the outline.</source>
     <message id="Sound.title">
         <source>Insert Sound</source>
         <extracomment>Sound.title</extracomment>
-        <translation>插入声音</translation>
+        <translation>插入音频</translation>
     </message>
     <message id="Sound.content">
         <source>Insert a sound clip or music from local folder.</source>
@@ -1905,9 +1908,9 @@ Click the arrow to select a different text color.</source>
         <translation>朗读</translation>
     </message>
     <message id="TextSpeech.content">
-        <source>Turn the text into speech. You enjoy a 2-day trial of this function.</source>
+        <source>Turn the text into speech. You have a free trial of this feature everyday.</source>
         <extracomment>TextSpeech.content</extracomment>
-        <translation>将文本用人声朗读出来，用户可免费试用2天。</translation>
+        <translation>将文本用人声朗读出来，每天均可免费体验。</translation>
     </message>
     <message id="TextSpeech2.title">
         <source>Reading</source>
@@ -1942,13 +1945,13 @@ Click the arrow to select a different text color.</source>
     <message id="TransitionEffect.title">
         <source>Transition Effects</source>
         <extracomment>TransitionEffect.title</extracomment>
-        <translation>切换效果</translation>
+        <translation>幻灯片切换</translation>
     </message>
     <message id="TransitionEffect.content">
         <source>Show the Slide Transition task window to set up transition effects to the selected slides or the entire presentation.</source>
         <oldsource>Show the Slide Transition task window to set up transition effects to the selected slides or entire presentation.</oldsource>
         <extracomment>TransitionEffect.content</extracomment>
-        <translation>弹出“幻灯片切换”任务窗格，对当前幻灯或整个演示文稿设置切换效果。</translation>
+        <translation>弹出“幻灯片切换”任务窗格，对当前幻灯片或整个演示文稿设置切换效果。</translation>
     </message>
     <message id="Underline.title">
         <source>Underline</source>
@@ -2227,12 +2230,12 @@ Click the arrow to select a different text color.</source>
     <message id="WpsAssistOnlineTemplate.title">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.title</extracomment>
-        <translation>更换模板</translation>
+        <translation>更换设计方案</translation>
     </message>
     <message id="WpsAssistOnlineTemplate.content">
         <source></source>
         <extracomment>WpsAssistOnlineTemplate.content</extracomment>
-        <translation>成千上万的时尚模板帮您打造不一样的演示稿。</translation>
+        <translation>专业的设计方案帮您打造不一样的演示稿。</translation>
     </message>
     <message id="WpsAssistMagic.title">
         <source></source>
@@ -2257,12 +2260,12 @@ Click the arrow to select a different text color.</source>
     <message id="InvolvedTemplate.title">
         <source></source>
         <extracomment>InvolvedTemplate.title</extracomment>
-        <translation>本文模版</translation>
+        <translation>本文模板</translation>
     </message>
     <message id="InvolvedTemplate.content">
         <source></source>
         <extracomment>InvolvedTemplate.content</extracomment>
-        <translation>应用本文模版。</translation>
+        <translation>应用本文模板。</translation>
     </message>
     <message id="wpp2doc.title">
         <source></source>
@@ -2437,6 +2440,698 @@ Click the arrow to select a different text color.</source>
         <source>Include a separate box with the slide text on the notes page.</source>
         <extracomment>BodyContent.content</extracomment>
         <translation>在备注页上包含幻灯片文本的单独方框。</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_WPP_TextTools.title</extracomment>
+        <translation>详细设置</translation>
+    </message>
+    <message id="CreativeCrop.title">
+        <source>Creative Crop</source>
+        <extracomment>CreativeCrop.title</extracomment>
+        <translation>创意裁剪</translation>
+    </message>
+    <message id="CreativeCrop.content">
+        <source>Creative one-button application of image cutting effect to make your picture more &quot;design sense&quot;.</source>
+        <extracomment>CreativeCrop.content</extracomment>
+        <translation>创意十足的图片裁剪效果一键应用，让你的图片更有“设计感”。
+
+轻松修改裁剪创意，让你的PPT与众不同。</translation>
+    </message>
+    <message id="Thesaurus.title">
+        <source>Thesaurus</source>
+        <extracomment>Thesaurus.title</extracomment>
+        <translation>同义词库</translation>
+    </message>
+    <message id="Thesaurus.content">
+        <source>Open Thesaurus.</source>
+        <extracomment>Thesaurus.content</extracomment>
+        <translation>不知道说什么好？让我们为您建议另外一种表达意思的方式。</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.content">
+        <source>Change the settings of Table formatting.</source>
+        <extracomment>DetailedSettings_TableTool.content</extracomment>
+        <translation>更改表格格式的设置。</translation>
+    </message>
+    <message id="DetailedSettings_WPP_TextTools.content">
+        <source>Change the settings of Text formatting.</source>
+        <extracomment>DetailedSettings_WPP_TextTools.content</extracomment>
+        <translation>更改文本格式的设定。</translation>
+    </message>
+    <message id="H5LinkManager.title">
+        <source>Manage shared link</source>
+        <translation>管理已发送的链接</translation>
+    </message>
+    <message id="H5LinkManager.content">
+        <source>Click to manage, delete or send links.</source>
+        <translation>点击此处可对已发送的链接进行管理、删除、再发送。</translation>
+    </message>
+    <message id="WebPreview.title">
+        <source>Create link and share</source>
+        <translation>生成网页分享</translation>
+    </message>
+    <message id="WebPreview.content">
+        <source>Create a link and QRCode, share it to Wechat, QQ, Weibo, Qzone.</source>
+        <translation>将文档生成一个网页链接和二维码，可分享至微信、QQ、微博、QQ空间。</translation>
+    </message>
+    <message id="Section.title">
+        <source>Section</source>
+        <extracomment>Section.title</extracomment>
+        <translation>节</translation>
+    </message>
+    <message id="Section.content">
+        <source>Organize your slides into Sections.</source>
+        <extracomment>Section.content</extracomment>
+        <translation>节中组织幻灯片。</translation>
+    </message>
+    <message id="DetailedSettings_TableTool.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettings_TableTool.title</extracomment>
+        <translation>详细设置</translation>
+    </message>
+    <message id="DocumentFix.title">
+        <source>Document Fix.</source>
+        <extracomment>DocumentFix.title</extracomment>
+        <translation>文档修复</translation>
+    </message>
+    <message id="DocumentFix.content">
+        <source>Quickly fix documents that are garbled or cannot be opened for other reasons.</source>
+        <extracomment>DocumentFix.content</extracomment>
+        <translation>快速修复乱码、无法打开等疑难杂症文档。</translation>
+    </message>
+    <message id="PictureToText.title">
+        <source>Convert Picture to Text</source>
+        <extracomment>PictureToText.title</extracomment>
+        <translation>图片转文字</translation>
+    </message>
+    <message id="PictureToText.content">
+        <source>Convert Picture to Text format.</source>
+        <extracomment>&quot;PictureToText.content&quot;</extracomment>
+        <translation>将图片中的文字转为文本格式。</translation>
+    </message>
+    <message id="MediaVol.title">
+        <source>Volumn</source>
+        <oldsource>volumn</oldsource>
+        <extracomment>MediaVol.title</extracomment>
+        <translation>音量</translation>
+    </message>
+    <message id="MediaVol.content">
+        <source>media volumn.</source>
+        <extracomment>MediaVol.content</extracomment>
+        <translation>调节声音的大小。</translation>
+    </message>
+    <message id="MediaPlay.title">
+        <source>Play</source>
+        <extracomment>MediaPlay.title</extracomment>
+        <translation type="obsolete">播放</translation>
+    </message>
+    <message id="MediaPlay.content">
+        <source>Play Video</source>
+        <extracomment>MediaPlay.content</extracomment>
+        <translation type="obsolete">预览带有您设置效果的视频。</translation>
+    </message>
+    <message id="MediaPause.title">
+        <source>Pause</source>
+        <extracomment>MediaPause.title</extracomment>
+        <translation type="obsolete">暂停</translation>
+    </message>
+    <message id="MediaPause.content">
+        <source>Pause Video</source>
+        <extracomment>MediaPause.content</extracomment>
+        <translation type="obsolete">预览带有您所做的所有格式更改的音频或视频剪辑。</translation>
+    </message>
+    <message id="MediaTrim.title">
+        <source>Trim Media</source>
+        <oldsource>Rrim Media</oldsource>
+        <extracomment>MediaTrim.title</extracomment>
+        <translation type="obsolete">裁剪视频</translation>
+    </message>
+    <message id="MediaTrim.content">
+        <source>Trim media with begin and start</source>
+        <oldsource>trim media with begin and start</oldsource>
+        <extracomment>MediaTrim.content</extracomment>
+        <translation type="obsolete">通过指定的开始时间和结束时间来裁剪视频。</translation>
+    </message>
+    <message id="MediaBegin.title">
+        <source>Media Begin</source>
+        <oldsource>media begin</oldsource>
+        <extracomment>MediaBegin.title</extracomment>
+        <translation type="obsolete">开始</translation>
+    </message>
+    <message id="MediaBegin.content">
+        <source>Auto start or when click</source>
+        <oldsource>auto start or when click</oldsource>
+        <extracomment>MediaBegin.content</extracomment>
+        <translation type="obsolete">设定视频自动播放还是单击播放。</translation>
+    </message>
+    <message id="FullScreenPlay.title">
+        <source>Play Full Screen</source>
+        <oldsource>fullscene play</oldsource>
+        <extracomment>FullScreenPlay.title</extracomment>
+        <translation>全屏播放</translation>
+    </message>
+    <message id="FullScreenPlay.content">
+        <source>full screen play.</source>
+        <extracomment>FullScreenPlay.content</extracomment>
+        <translation>全屏播放视频。</translation>
+    </message>
+    <message id="HideMedia.title">
+        <source>Hide While Not Playing</source>
+        <oldsource>Hide Media</oldsource>
+        <extracomment>HideMedia.title</extracomment>
+        <translation type="obsolete">未播放时隐藏</translation>
+    </message>
+    <message id="HideMedia.content">
+        <source>Hide the video clip when it is not playing</source>
+        <oldsource>Hide when stop</oldsource>
+        <extracomment>HideMedia.content</extracomment>
+        <translation type="obsolete">视频未播放时隐藏视频。</translation>
+    </message>
+    <message id="LoopMedia.title">
+        <source>Loop Media</source>
+        <oldsource>loop media</oldsource>
+        <extracomment>LoopMedia.title</extracomment>
+        <translation type="obsolete">循环播放</translation>
+    </message>
+    <message id="LoopMedia.content">
+        <source>Loop play media</source>
+        <oldsource>loop play media</oldsource>
+        <extracomment>LoopMedia.content</extracomment>
+        <translation type="obsolete">重复播放视频，直到停止。</translation>
+    </message>
+    <message id="RewindMedia.title">
+        <source>Rewind Media</source>
+        <oldsource>rewind media</oldsource>
+        <extracomment>RewindMedia.title</extracomment>
+        <translation type="obsolete">播放完返回开头</translation>
+    </message>
+    <message id="RewindMedia.content">
+        <source>Rewind while stop</source>
+        <oldsource>Rewin while stop</oldsource>
+        <extracomment>RewindMedia.content</extracomment>
+        <translation type="obsolete">视频播放完后自动返回视频开头。</translation>
+    </message>
+    <message id="ResetSize.title">
+        <source>ResetSize</source>
+        <extracomment>ResetSize.title</extracomment>
+        <translation>重设大小</translation>
+    </message>
+    <message id="ResetSize.content">
+        <source>ResetSize</source>
+        <oldsource>Reset all changes to the size of the selected picture.</oldsource>
+        <extracomment>ResetSize.content</extracomment>
+        <translation>取消对选中图片所做的所有大小更改。</translation>
+    </message>
+    <message id="LockAspectRatio.title">
+        <source>LockAspectRatio</source>
+        <extracomment>LockAspectRatio.title</extracomment>
+        <translation>锁定纵横比</translation>
+    </message>
+    <message id="LockAspectRatio.content">
+        <source>LockAspectRatio</source>
+        <oldsource>Lock aspect ratio when adjusting picture.</oldsource>
+        <extracomment>LockAspectRatio.content</extracomment>
+        <translation>调整图片大小时锁定高度和宽度的比例。</translation>
+    </message>
+    <message id="TableEffects.title">
+        <source>TableEffects</source>
+        <extracomment>TableEffects.title</extracomment>
+        <translation>表格效果</translation>
+    </message>
+    <message id="TableEffects.content">
+        <source>Add visual effects to the table, such as a shadow or reflection.</source>
+        <extracomment>TableEffects.content</extracomment>
+        <translation>为表格添加外观效果，如阴影或倒影。</translation>
+    </message>
+    <message id="TableFontEffects.title">
+        <source>TableFontEffects</source>
+        <extracomment>TableFontEffects.title</extracomment>
+        <translation>文字效果</translation>
+    </message>
+    <message id="TableFontEffects.content">
+        <source>Add a visual effect such as shadow, glow or reflection to your text.</source>
+        <extracomment>TableFontEffects.content</extracomment>
+        <translation>为文字添加外观效果，如阴影、发光或倒影。</translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation>表格行高</translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation>设置所选单元格的高度</translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation>表格列宽</translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation>设置所选单元格的宽度</translation>
+    </message>
+    <message id="VideoPlay.title">
+        <source>Play</source>
+        <extracomment>VideoPlay.title</extracomment>
+        <translation>播放</translation>
+    </message>
+    <message id="VideoPlay.content">
+        <source>Play Video.</source>
+        <extracomment>VideoPlay.content</extracomment>
+        <translation>预览视频效果。</translation>
+    </message>
+    <message id="VideoPause.title">
+        <source>Pause</source>
+        <extracomment>VideoPause.title</extracomment>
+        <translation>暂停</translation>
+    </message>
+    <message id="VideoPause.content">
+        <source>Pause Video.</source>
+        <extracomment>VideoPause.content</extracomment>
+        <translation>暂停预览视频效果。</translation>
+    </message>
+    <message id="VideoTrim.title">
+        <source>trim video</source>
+        <extracomment>VideoTrim.title</extracomment>
+        <translation>裁剪视频</translation>
+    </message>
+    <message id="VideoTrim.content">
+        <source>trim video with begin and end.</source>
+        <extracomment>VideoTrim.content</extracomment>
+        <translation>通过指定的开始时间和结束时间来裁剪视频。</translation>
+    </message>
+    <message id="VideoBegin.title">
+        <source>video begin</source>
+        <extracomment>VideoBegin.title</extracomment>
+        <translation>开始</translation>
+    </message>
+    <message id="VideoBegin.content">
+        <source>auto start or when click.</source>
+        <extracomment>VideoBegin.content</extracomment>
+        <translation>设定视频自动播放还是单击播放。</translation>
+    </message>
+    <message id="HideVideo.title">
+        <source>hide video</source>
+        <extracomment>HideVideo.title</extracomment>
+        <translation>未播放时隐藏</translation>
+    </message>
+    <message id="HideVideo.content">
+        <source>hide when stop.</source>
+        <extracomment>HideVideo.content</extracomment>
+        <translation>视频未播放时隐藏视频。</translation>
+    </message>
+    <message id="LoopVideo.title">
+        <source>loop video</source>
+        <extracomment>LoopVideo.title</extracomment>
+        <translation>循环播放</translation>
+    </message>
+    <message id="LoopVideo.content">
+        <source>loop play video.</source>
+        <extracomment>LoopVideo.content</extracomment>
+        <translation>重复播放视频，直到停止。</translation>
+    </message>
+    <message id="RewindVideo.title">
+        <source>rewind video</source>
+        <extracomment>RewindVideo.title</extracomment>
+        <translation>播放完返回开头</translation>
+    </message>
+    <message id="RewindVideo.content">
+        <source>rewind while stop.</source>
+        <extracomment>RewindVideo.content</extracomment>
+        <translation>视频播放完后自动返回视频开头。</translation>
+    </message>
+    <message id="AudioPlay.title">
+        <source>Play</source>
+        <extracomment>AudioPlay.title</extracomment>
+        <translation>播放</translation>
+    </message>
+    <message id="AudioPlay.content">
+        <source>Play audio.</source>
+        <extracomment>AudioPlay.content</extracomment>
+        <translation>预览音频效果。</translation>
+    </message>
+    <message id="AudioPause.title">
+        <source>Pause</source>
+        <extracomment>AudioPause.title</extracomment>
+        <translation>暂停</translation>
+    </message>
+    <message id="AudioPause.content">
+        <source>Pause audio.</source>
+        <extracomment>AudioPause.content</extracomment>
+        <translation>暂停预览音频效果。</translation>
+    </message>
+    <message id="AudioTrim.title">
+        <source>Trim audio</source>
+        <extracomment>AudioTrim.title</extracomment>
+        <translation>裁剪音频</translation>
+    </message>
+    <message id="AudioTrim.content">
+        <source>Trim audio with begin and end.</source>
+        <extracomment>AudioTrim.content</extracomment>
+        <translation>通过指定的开始时间和结束时间来裁剪音频。</translation>
+    </message>
+    <message id="AudioBegin.title">
+        <source>Audio begin</source>
+        <extracomment>AudioBegin.title</extracomment>
+        <translation>开始</translation>
+    </message>
+    <message id="AudioBegin.content">
+        <source>Auto start or when click.</source>
+        <extracomment>AudioBegin.content</extracomment>
+        <translation>设定音频自动播放还是单击播放。</translation>
+    </message>
+    <message id="HideAudio.title">
+        <source>Hide audio</source>
+        <extracomment>HideAudio.title</extracomment>
+        <translation>播放时隐藏</translation>
+    </message>
+    <message id="HideAudio.content">
+        <source>Hide when stop.</source>
+        <extracomment>HideAudio.content</extracomment>
+        <translation>播放幻灯片时隐藏音频图标。</translation>
+    </message>
+    <message id="LoopAudio.title">
+        <source>Loop audio</source>
+        <extracomment>LoopAudio.title</extracomment>
+        <translation>循环播放，直至停止</translation>
+    </message>
+    <message id="LoopAudio.content">
+        <source>Loop play audio.</source>
+        <extracomment>LoopAudio.content</extracomment>
+        <translation>重复播放音频，直到停止。</translation>
+    </message>
+    <message id="RewindAudio.title">
+        <source>rewind audio</source>
+        <extracomment>RewindAudio.title</extracomment>
+        <translation>播放完返回开头</translation>
+    </message>
+    <message id="RewindAudio.content">
+        <source>rewind while stop.</source>
+        <extracomment>RewindAudio.content</extracomment>
+        <translation>音频播放完后自动返回音频开头。</translation>
+    </message>
+    <message id="AudioFadeIn.title">
+        <source>Fade in</source>
+        <extracomment>AudioFadeIn.title</extracomment>
+        <translation>淡入</translation>
+    </message>
+    <message id="AudioFadeIn.content">
+        <source>Use the audio fade effect at the beginning of a few seconds.</source>
+        <extracomment>AudioFadeIn.content</extracomment>
+        <translation>在音频开始的几秒内使用淡入效果。</translation>
+    </message>
+    <message id="AudioFadeOut.title">
+        <source>Fade out</source>
+        <extracomment>AudioFadeOut.title</extracomment>
+        <translation>淡出</translation>
+    </message>
+    <message id="AudioFadeOut.content">
+        <source>Use the audio fade effect at the end of a few seconds.</source>
+        <extracomment>AudioFadeOut.content</extracomment>
+        <translation>在音频结束的几秒内使用淡出效果。</translation>
+    </message>
+    <message id="AudioCurPage.title">
+        <source>Play this page</source>
+        <extracomment>AudioCurPage.title</extracomment>
+        <translation>当前页播放</translation>
+    </message>
+    <message id="AudioCurPage.content">
+        <source>Play audio on this page.</source>
+        <extracomment>AudioCurPage.content</extracomment>
+        <translation>插入的音频只应用于当前的这一张幻灯片。</translation>
+    </message>
+    <message id="AudioAcrossPage.title">
+        <source>Play across page</source>
+        <extracomment>AudioAcrossPage.title</extracomment>
+        <translation>跨页播放</translation>
+    </message>
+    <message id="AudioAcrossPage.content">
+        <source>Setting audio play from this page until specified page.</source>
+        <extracomment>AudioAcrossPage.content</extracomment>
+        <translation>设置音频从当前页幻灯片播放直至指定页码停止。</translation>
+    </message>
+    <message id="onlineMedia.title">
+        <source>Insert Movie</source>
+        <extracomment>onlineMedia.title</extracomment>
+        <translation>插入视频</translation>
+    </message>
+    <message id="onlineMedia.content">
+        <source>Insert a movie from local folder or internet</source>
+        <extracomment>onlineMedia.content</extracomment>
+        <translation>插入本地或网络上的视频文件。</translation>
+    </message>
+    <message id="ChangeDiagramNum.title">
+        <source>Change Num</source>
+        <extracomment>ChangeDiagramNum.title</extracomment>
+        <translation>更改个数</translation>
+    </message>
+    <message id="ChangeDiagramNum.content">
+        <source>Change the number of items</source>
+        <extracomment>ChangeDiagramNum.content</extracomment>
+        <translation>更改项目数量</translation>
+    </message>
+    <message id="ChangeDiagramStyle.title">
+        <source>Change Style</source>
+        <extracomment>ChangeDiagramStyle.title</extracomment>
+        <translation>更改图示</translation>
+    </message>
+    <message id="ChangeDiagramStyle.content">
+        <source>Select a different style</source>
+        <extracomment>ChangeDiagramStyle.content</extracomment>
+        <translation>选择不同样式的图示</translation>
+    </message>
+    <message id="ChangeDiagramColor.title">
+        <source>Change Color</source>
+        <extracomment>ChangeDiagramColor.title</extracomment>
+        <translation>更改配色</translation>
+    </message>
+    <message id="ChangeDiagramColor.content">
+        <source>Choose a variety of color schemes</source>
+        <extracomment>ChangeDiagramColor.content</extracomment>
+        <translation>挑选多种配色方案</translation>
+    </message>
+    <message id="InsertGeogebra.title">
+        <source>Insert Geometry</source>
+        <extracomment>InsertGeogebra.title</extracomment>
+        <translation>插入几何图</translation>
+    </message>
+    <message id="InsertGeogebra.content">
+        <source>A drawing tool with algebra, calculus, statistics, 3D math functions.</source>
+        <oldsource>IA drawing tool with algebra, calculus, statistics, 3D math functions.</oldsource>
+        <extracomment>InsertGeogebra.content</extracomment>
+        <translation>一款汇集代数、微积分、统计学、3D数学功能的绘图工具。</translation>
+    </message>
+    <message id="PlayerCapture.title">
+        <source>Capture SlideShow</source>
+        <extracomment>PlayerCapture.title</extracomment>
+        <translation>演讲实录</translation>
+    </message>
+    <message id="PlayerCapture.content">
+        <source>Capture SlideShow of the document and save to a video.</source>
+        <extracomment>PlayerCapture.content</extracomment>
+        <translation>简单好用！自制课件更加高效。
+一键开启，录制全程演讲，同步录音，给您最完美的录制效果。</translation>
+    </message>
+    <message id="WppSharePlay.title">
+        <source>Share Play</source>
+        <extracomment>WppSharePlay.title</extracomment>
+        <translation>会议</translation>
+    </message>
+    <message id="WppSharePlay.content">
+        <source>Through the access code, quickly invite people to watch PPT live simultaneously.</source>
+        <extracomment>WppSharePlay.content</extracomment>
+        <translation>通过接入码，快速邀请多人加入会议，同步观看PPT放映。</translation>
+    </message>
+    <message id="WppSharePlay2.title">
+        <source>Share Play</source>
+        <extracomment>WppSharePlay2.title</extracomment>
+        <translation>会议</translation>
+    </message>
+    <message id="WppSharePlay2.content">
+        <source>Click here to initiate a shared play or enter an access code to enter a shared play.</source>
+        <extracomment>WppSharePlay2.content</extracomment>
+        <translation>单击此处可发起或加入会议。</translation>
+    </message>
+    <message id="InsertSmartArt.title">
+        <source>Insert a SmartArt Graphic</source>
+        <extracomment>InsertSmartArt.title</extracomment>
+        <translation>插入智能图形</translation>
+    </message>
+    <message id="InsertSmartArt.content">
+        <source>Insert a SmartArt graphic to visually communicate information.
+
+SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
+        <extracomment>InsertSmartArt.content</extracomment>
+        <translation>插入智能图形，以直观的方式交流信息。
+
+ 智能图形包括图形列表、流程图以及更为复杂的图形，例如维恩图和组织结构图。</translation>
+    </message>
+    <message id="NoteViewVisible.content">
+        <source>Show/Hide Slide Note</source>
+        <extracomment>NoteViewVisible.content</extracomment>
+        <translation type="unfinished">隐藏或显示备注面板</translation>
+    </message>
+    <message id="DeleteNotes.content">
+        <source>Click to delete notes.</source>
+        <extracomment>DeleteNotes.content</extracomment>
+        <translation type="unfinished">点击按钮可选择删除备注或删除所有备注。</translation>
+    </message>
+    <message id="PrinterName.title">
+        <source>The name of printer</source>
+        <extracomment>PrinterName.title</extracomment>
+        <translation>打印机</translation>
+    </message>
+    <message id="PrinterName.content">
+        <source>choose a printer to print.</source>
+        <extracomment>PrinterName.content</extracomment>
+        <translation type="unfinished">选择用哪台打印机打印。</translation>
+    </message>
+    <message id="PaperSize.title">
+        <source>The size of paper</source>
+        <extracomment>PaperSize.title</extracomment>
+        <translation>纸张类型</translation>
+    </message>
+    <message id="PaperSize.content">
+        <source>choose paper size for presentation. such as A4 A3 and so on.</source>
+        <extracomment>PaperSize.content</extracomment>
+        <translation type="unfinished">指定演示文稿的纸张类型，例如A4，A3等。</translation>
+    </message>
+    <message id="PrintCopies.title">
+        <source>The copies of printer</source>
+        <extracomment>PrintCopies.title</extracomment>
+        <translation>份数</translation>
+    </message>
+    <message id="PrintCopies.content">
+        <source>assign copies to print.</source>
+        <extracomment>PrintCopies.content</extracomment>
+        <translation type="unfinished">指定打印的份数。</translation>
+    </message>
+    <message id="PrintCollate.title">
+        <source>The Collate of printer</source>
+        <extracomment>PrintCollate.title</extracomment>
+        <translation>顺序</translation>
+    </message>
+    <message id="PrintCollate.content">
+        <source>Determines whether a complete copy of the specified presentation is printed before the first page of the next copy is printed, or not.</source>
+        <extracomment>PrintCollate.content</extracomment>
+        <translation type="unfinished">指定打印的顺序，是逐份打印（如123123）、还是逐页打印（如112233）。</translation>
+    </message>
+    <message id="PrintDuplex.title">
+        <source>The Duplex of printer</source>
+        <extracomment>PrintDuplex.title</extracomment>
+        <translation>方式</translation>
+    </message>
+    <message id="PrintDuplex.content">
+        <source>Determines whether duplex print or nonDuplex print.</source>
+        <extracomment>PrintDuplex.content</extracomment>
+        <translation type="unfinished">指定打印的方式，是单面打印、还是双面打印。</translation>
+    </message>
+    <message id="MorePrintSettings.title">
+        <source>More setting of printer</source>
+        <extracomment>MorePrintSettings.title</extracomment>
+        <translation>更多设置</translation>
+    </message>
+    <message id="MorePrintSettings.content">
+        <source>could config more detail for printing, such as choose printer, the copies, duplex printed, the zoom and so on.</source>
+        <extracomment>MorePrintSettings.content</extracomment>
+        <translation>可对打印做详细设置，如 选择打印机、打印页数、双面打印、缩放并打等。</translation>
+    </message>
+    <message id="L2RTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation>从左向右文字方向</translation>
+    </message>
+    <message id="L2RTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation>将文本设置为从左到右读取。</translation>
+    </message>
+    <message id="R2LTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation>从右向左文字方向</translation>
+    </message>
+    <message id="R2LTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <translation>将文本设置为从右到左阅读。</translation>
+    </message>
+    <message id="DocTranslate.title">
+        <source>Full text translation</source>
+        <extracomment>DocTranslate.title</extracomment>
+        <translation>全文翻译</translation>
+    </message>
+    <message id="DocTranslate.content">
+        <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
+        <extracomment>DocTranslate.content</extracomment>
+        <translation>精准，快速地将文档翻译成不同语言，同时保留文档原有的版式</translation>
+    </message>
+    <message id="MergeShapes.title">
+        <source>Merge Shapes</source>
+        <extracomment>MergeShapes.title</extracomment>
+        <translation>合并形状</translation>
+    </message>
+    <message id="MergeShapes.content">
+        <source>Merge the selected shapes into one or more new geometric shapes.</source>
+        <extracomment>MergeShapes.content</extracomment>
+        <translation>将所选形状合并到一个或多个新的几何形状。</translation>
+    </message>
+    <message id="GraphicEffects.title">
+        <source>Graphic Effects</source>
+        <extracomment>GraphicEffects.title</extracomment>
+        <translation>图形效果</translation>
+    </message>
+    <message id="GraphicEffects.content">
+        <source>Apply a shadow effect and 3-D effect to the selected graphic.</source>
+        <extracomment>GraphicEffects.content</extracomment>
+        <translation>对当前幻灯片中所选图形设置阴影效果和三维效果。</translation>
+    </message>
+    <message id="GraphicFill.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFill.title</extracomment>
+        <translation>图形填充</translation>
+    </message>
+    <message id="GraphicFill.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFill.content</extracomment>
+        <translation>使用颜色填充所选图形。
+
+单击箭头选择不同的方式进行填充。</translation>
+    </message>
+    <message id="GraphicFill2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFill2.title</extracomment>
+        <translation>图形填充</translation>
+    </message>
+    <message id="GraphicFill2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFill2.content</extracomment>
+        <translation>单击箭头选择不同的方式进行填充。</translation>
+    </message>
+    <message id="GraphicLine.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLine.title</extracomment>
+        <translation>图形轮廓</translation>
+    </message>
+    <message id="GraphicLine.content">
+        <source>Set the color, width and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLine.content</extracomment>
+        <translation>对所选图形设置轮廓的颜色、粗细和线型。
+
+单击箭头选择图形轮廓的详细设置。</translation>
+    </message>
+    <message id="GraphicLine2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLine2.title</extracomment>
+        <translation>图形轮廓</translation>
+    </message>
+    <message id="GraphicLine2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLine2.content</extracomment>
+        <translation>单击箭头选择图形轮廓的详细设置。</translation>
     </message>
 </context>
 </TS>
