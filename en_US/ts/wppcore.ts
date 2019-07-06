@@ -2647,7 +2647,7 @@ Please make sure the file is not locked by another user, or the target disk is n
     <message>
         <source>SmartArt Placeholder</source>
         <comment>WP_PH_SPNAME_SMARTART_PLACEHOLDER</comment>
-        <translation></translation>
+        <translation>WPSArt Placeholder</translation>
     </message>
     <message>
         <source>Media Placeholder</source>
@@ -3065,12 +3065,14 @@ To continue saving as a macro-free workbook, click Yes.
 
 When converting to SmartArt graphics, any cell references previously applied to the diagrams will be removed. When converting to shapes, any animation previously applied to the diagrams will be removed.</source>
         <comment>WP_CONVERTDIAGRAMCONTENT</comment>
-        <translation></translation>
+        <translation>To continue saving as a WPS Presentation, you must convert all diagrams either to WPSArt graphics or to shapes.
+
+When converting to WPSArt graphics, any cell references previously applied to the diagrams will be removed. When converting to shapes, any animation previously applied to the diagrams will be removed.</translation>
     </message>
     <message>
         <source>Convert to SmartArt Graphic</source>
         <comment>WP_CONVERTDIAGRAMBUTTONTIP1</comment>
-        <translation></translation>
+        <translation>Convert to WPSArt Graphic</translation>
     </message>
     <message>
         <source>Convert to Shapes</source>
@@ -3201,7 +3203,7 @@ When converting to SmartArt graphics, any cell references previously applied to 
     <message>
         <source>Click icon to add smartArt</source>
         <comment>WpPLACEHOLDER_ADD_ORGCHART</comment>
-        <translation></translation>
+        <translation>Click icon to add WPSArt</translation>
     </message>
     <message>
         <source>Picture</source>
@@ -7816,6 +7818,21 @@ This backup will be saved to(%s)</source>
         <source>Normal Files</source>
         <comment>WpDescAllWPSOffice</comment>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/WPS Video/WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>/WPS Image/WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation></translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation></translation>
     </message>
 </context>
 </TS>

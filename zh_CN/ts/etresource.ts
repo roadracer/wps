@@ -3883,7 +3883,7 @@ Window</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>分享文档</translation>
+        <translation>分享</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -3971,7 +3971,7 @@ Window</source>
     </message>
     <message>
         <source>My Picture</source>
-        <translation>我的图片</translation>
+        <translation type="obsolete">我的图片</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
@@ -4188,6 +4188,18 @@ Window</source>
     <message>
         <source>document authentication</source>
         <translation>文档认证</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4744,11 +4756,11 @@ Center</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>My Picture</source>
-        <translation>我的图片</translation>
+        <translation type="obsolete">我的图片</translation>
     </message>
     <message>
         <source>Outside Borders</source>
@@ -4828,7 +4840,7 @@ Center</source>
     </message>
     <message>
         <source>ScreenSaverQuickEntry</source>
-        <translation>启动WPS画报</translation>
+        <translation type="obsolete">启动WPS画报</translation>
     </message>
     <message>
         <source>Security</source>
@@ -4958,6 +4970,18 @@ On/Off</source>
     <message>
         <source>message Center</source>
         <translation>消息中心</translation>
+    </message>
+    <message>
+        <source>About WPS Spreadsheets</source>
+        <translation type="obsolete">关于 WPS 表格</translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation type="obsolete">输入序列号</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="obsolete">WPS官方网站</translation>
     </message>
 </context>
 <context>
@@ -6032,7 +6056,7 @@ Columns</source>
     </message>
     <message>
         <source>FlashFill</source>
-        <translation>智能填充</translation>
+        <translation type="obsolete">智能填充</translation>
     </message>
     <message>
         <source>vip</source>
@@ -6089,6 +6113,10 @@ with same name in workbooks</source>
     <message>
         <source>Summary Direction</source>
         <translation>汇总方向</translation>
+    </message>
+    <message>
+        <source>Import Text</source>
+        <translation>导入文本</translation>
     </message>
 </context>
 <context>
@@ -6250,6 +6278,10 @@ Editor</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">VB 编辑器</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
     </message>
 </context>
 <context>
@@ -8984,7 +9016,7 @@ Columns</source>
     </message>
     <message>
         <source>FlashFill</source>
-        <translation>智能填充</translation>
+        <translation type="obsolete">智能填充</translation>
     </message>
     <message>
         <source>Formatting</source>
@@ -10317,6 +10349,18 @@ On/Off</source>
     <message>
         <source>Width: </source>
         <translation>宽度:</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Picture to Text</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13773,7 +13817,7 @@ Shape</source>
     </message>
     <message>
         <source>ScreenSaverQuickEntry</source>
-        <translation>启动WPS画报</translation>
+        <translation type="obsolete">启动WPS画报</translation>
     </message>
     <message>
         <source>Send By E-mail</source>
@@ -13818,6 +13862,26 @@ Shape</source>
     <message>
         <source>Xie De</source>
         <translation type="obsolete">写得</translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14635,7 +14699,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="obsolete">激活产品</translation>
+        <translation>激活产品</translation>
     </message>
     <message>
         <source>Entire Table Column</source>
@@ -14731,7 +14795,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="obsolete">WPS 客服邮箱</translation>
+        <translation type="unfinished">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -15627,7 +15691,7 @@ Center</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>产品管理中心</translation>
+        <translation>输入序列号</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -15655,7 +15719,7 @@ Center</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="obsolete">购买序列号</translation>
+        <translation type="unfinished">购买序列号</translation>
     </message>
     <message>
         <source>Reading Layout</source>
@@ -16276,7 +16340,7 @@ Center</source>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>WPS Office 主页</translation>
+        <translation>WPS官方网站</translation>
     </message>
     <message>
         <source>WPS Office Microblog</source>
@@ -16981,6 +17045,10 @@ Options</source>
     <message>
         <source>Watermark</source>
         <translation type="obsolete">水印保护</translation>
+    </message>
+    <message>
+        <source>User Manual</source>
+        <translation>帮助</translation>
     </message>
 </context>
 <context>
@@ -17739,6 +17807,10 @@ OLE DB查询</translation>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Visual Basic 编辑器</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
     </message>
 </context>
 <context>
@@ -28851,7 +28923,7 @@ PivotTable</source>
     </message>
     <message>
         <source>cloud Encryption</source>
-        <translation>云加密</translation>
+        <translation type="obsolete">云加密</translation>
     </message>
     <message>
         <source>document authentication</source>

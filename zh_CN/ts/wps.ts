@@ -8091,6 +8091,26 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
         <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
         <translation>按Word 6.x/95/97的方式安排脚注(&amp;O)</translation>
     </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation>允许中键执行粘贴操作</translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation>公文域标记(&amp;Z):</translation>
+    </message>
+    <message>
+        <source>Show Document Fields</source>
+        <translation>显示公文域</translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation>显示公文域(无底纹)</translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation>高质量打印</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -20058,7 +20078,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>The Key word is aready exit!</source>
-        <translation type="unfinished">已存在相同的涉密关键词!</translation>
+        <translation type="unfinished">已存在相同的密级关键词!</translation>
     </message>
 </context>
 <context>
@@ -20077,7 +20097,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>The Key word is aready exit!</source>
-        <translation>已存在相同的涉密关键词!</translation>
+        <translation>已存在相同的密级关键词!</translation>
     </message>
 </context>
 <context>
@@ -20230,7 +20250,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>The Key word is aready exit!</source>
-        <translation type="obsolete">已存在相同的涉密关键词!</translation>
+        <translation type="obsolete">已存在相同的密级关键词!</translation>
     </message>
     <message>
         <source>UnChecked</source>
@@ -20686,14 +20706,14 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Add secret keywords</source>
-        <translation>新增涉密关键词</translation>
+        <translation>新增密级关键词</translation>
     </message>
 </context>
 <context>
     <name>KxDlgAddKeyWord2</name>
     <message>
         <source>Add secret keywords</source>
-        <translation>新增涉密关键词</translation>
+        <translation>新增密级关键词</translation>
     </message>
     <message>
         <source>keyword:</source>
@@ -20817,7 +20837,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxDlgCheckingTips</name>
     <message>
         <source>clkw checking tips</source>
-        <translation>涉密关键词检查</translation>
+        <translation>密级关键词检查</translation>
     </message>
     <message>
         <source>checking now,plz wait...</source>
@@ -20832,7 +20852,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxDlgCheckingTips2</name>
     <message>
         <source>clkw checking tips</source>
-        <translation>涉密关键词检查</translation>
+        <translation>密级关键词检查</translation>
     </message>
     <message>
         <source>checking now,plz wait...</source>
@@ -20937,7 +20957,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>No Find Keyword in document, this document is not confidentiality level document!</source>
-        <translation>检测完成，未发现涉密关键词。</translation>
+        <translation>检测完成，未发现密级关键词。</translation>
     </message>
     <message>
         <source>select all</source>
@@ -22288,7 +22308,7 @@ represent the recipient&apos;s information content</source>
     </message>
     <message>
         <source>This document has no confidential keywords</source>
-        <translation>本文档未发现涉密关键词</translation>
+        <translation>本文档未发现密级关键词</translation>
     </message>
 </context>
 <context>
@@ -22929,6 +22949,55 @@ represent the recipient&apos;s information content</source>
     <message>
         <source>B&amp;ookmark...</source>
         <translation>书签(&amp;O)...</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFitText</name>
+    <message>
+        <source>Fit  Text</source>
+        <translation>调整宽度</translation>
+    </message>
+    <message>
+        <source>Current text width:</source>
+        <translation>当前文字宽度:</translation>
+    </message>
+    <message>
+        <source>New &amp;text width:</source>
+        <translation>新文字宽度(&amp;T):</translation>
+    </message>
+    <message>
+        <source>pt, 1, 0, 1584, 0.5</source>
+        <translation type="unfinished">pt, 1, 0, 1584, 0.5</translation>
+    </message>
+    <message>
+        <source>ch, 1, 0, 316.8, 0.5</source>
+        <translation type="unfinished">ch, 1, 0, 316.8, 0.5</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">删除(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxFitTextDlg</name>
+    <message>
+        <source>Cannot fit text to specified length.</source>
+        <translation>无法将文字适应到指定的区域，请增大该区域的尺寸。</translation>
+    </message>
+    <message>
+        <source>(%1 %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation>产品未激活</translation>
     </message>
 </context>
 </TS>

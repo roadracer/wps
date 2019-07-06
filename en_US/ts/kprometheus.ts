@@ -364,19 +364,19 @@ you can view backup and restore files through the backup center.</source>
     </message>
     <message>
         <source>WPS wps</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Writer</translation>
     </message>
     <message>
         <source>WPS et</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Spreadsheets</translation>
     </message>
     <message>
         <source>WPS wpp</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS Presentation</translation>
     </message>
     <message>
         <source>WPS pdf</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS PDF</translation>
     </message>
 </context>
 <context>
@@ -407,7 +407,7 @@ you can view backup and restore files through the backup center.</source>
     </message>
     <message>
         <source>Kingsoft PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>WPS PDF</translation>
     </message>
 </context>
 <context>

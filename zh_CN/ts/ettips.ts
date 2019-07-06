@@ -3605,5 +3605,15 @@ Click the arrow to select detailed settings for the outline.</source>
         <extracomment>InteractiveChart.content</extracomment>
         <translation>制作酷炫的动态交互式图表，提升图表演示表现力。</translation>
     </message>
+    <message id="ImportTxt.title">
+        <source>Get External Data From Text</source>
+        <extracomment>ImportTxt.title</extracomment>
+        <translation>从文本获取数据</translation>
+    </message>
+    <message id="ImportTxt.content">
+        <source>Import data from a text file.</source>
+        <extracomment>ImportTxt.content</extracomment>
+        <translation>从文本文件导入数据。</translation>
+    </message>
 </context>
 </TS>

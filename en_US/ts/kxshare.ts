@@ -3092,7 +3092,7 @@ Average</source>
     </message>
     <message>
         <source>About Kingsoft PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>About WPS PDF</translation>
     </message>
     <message>
         <source>Copyright:</source>
@@ -8719,6 +8719,11 @@ but the included system package is reserved.</source>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
         <translation></translation>
     </message>
 </context>
@@ -16854,21 +16859,21 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Insert Smartart Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>Select WPSArt</translation>
     </message>
 </context>
 <context>
     <name>KxSmartArtInsertDlgWidget_OldTemp</name>
     <message>
         <source>Choose A SmartArt Graphic</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose A WPSArt Graphic</translation>
     </message>
 </context>
 <context>
     <name>KxSmartArtInsertPreviewWidget</name>
     <message>
         <source>Choose A SmartArt Graphic</source>
-        <translation></translation>
+        <translation>Choose A WPSArt Graphic</translation>
     </message>
     <message>
         <source>&amp;OK</source>
@@ -17369,11 +17374,11 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>To edit this diagram, you must convert it to a SmartArt graphic or Shapes.</source>
-        <translation></translation>
+        <translation>To edit this diagram, you must convert it to a WPSArt graphic or Shapes.</translation>
     </message>
     <message>
         <source>Convert to SmartArt graphic</source>
-        <translation></translation>
+        <translation>Convert to WPSArt graphic</translation>
     </message>
     <message>
         <source>G</source>
@@ -17381,7 +17386,7 @@ This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>SmartArt graphics can be displayed in previous versions, but not edited, in versions prior to WPS 2016. Any cell references previously applied to this diagram will be removed.</source>
-        <translation>SmartArt graphics can be displayed, but not edited, in versions prior to WPS Office 2016. Any cell references previously applied to this diagram will be removed.</translation>
+        <translation>WPSArt graphics can be displayed, but not edited, in versions prior to WPS Office 2016. Any cell references previously applied to this diagram will be removed.</translation>
     </message>
     <message>
         <source>Convert to Shapes</source>

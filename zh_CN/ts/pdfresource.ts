@@ -414,11 +414,11 @@ Rotation</source>
     </message>
     <message>
         <source>PDF2Word</source>
-        <translation>PDF转Word</translation>
+        <translation type="obsolete">PDF转Word</translation>
     </message>
     <message>
         <source>PDF2Ppt</source>
-        <translation>PDF转PPT</translation>
+        <translation type="obsolete">PDF转PPT</translation>
     </message>
     <message>
         <source>More Colors</source>
@@ -478,15 +478,15 @@ Rotation</source>
     </message>
     <message>
         <source>PDFToExcel</source>
-        <translation>转为Excel</translation>
+        <translation type="obsolete">转为Excel</translation>
     </message>
     <message>
         <source>PDFToPPT</source>
-        <translation>转为PPT</translation>
+        <translation type="obsolete">转为PPT</translation>
     </message>
     <message>
         <source>Exit This Time</source>
-        <translation>本次退出</translation>
+        <translation type="obsolete">本次退出</translation>
     </message>
     <message>
         <source>PageActualSize</source>
@@ -695,7 +695,7 @@ Rotation</source>
     </message>
     <message>
         <source>Translate</source>
-        <translation>翻译</translation>
+        <translation type="obsolete">翻译</translation>
     </message>
     <message>
         <source>UnDo</source>
@@ -759,11 +759,11 @@ Rotation</source>
     </message>
     <message>
         <source>anticlockwise</source>
-        <translation>逆时针</translation>
+        <translation type="obsolete">逆时针</translation>
     </message>
     <message>
         <source>clockwise</source>
-        <translation>顺时针</translation>
+        <translation type="obsolete">顺时针</translation>
     </message>
     <message>
         <source>clockwise doc</source>
@@ -789,6 +789,30 @@ Rotation</source>
         <source>DeleteEraserMenu</source>
         <translation>删除涂改液</translation>
     </message>
+    <message>
+        <source>Full Screen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Tab Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PdfEraserMenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>翻译</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>common.mainwindow.commands.Help</name>
@@ -805,6 +829,10 @@ Rotation</source>
     </message>
     <message>
         <source>TextBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tool</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -868,7 +896,7 @@ Rotation</source>
     </message>
     <message>
         <source>Photo2PDF</source>
-        <translation>图片转PDF</translation>
+        <translation>从图片新建</translation>
     </message>
     <message>
         <source>Print</source>
@@ -888,11 +916,35 @@ Rotation</source>
     </message>
     <message>
         <source>SaveAsPDFCompress</source>
-        <translation>另存为压缩文档</translation>
+        <translation type="obsolete">另存为压缩文档</translation>
     </message>
     <message>
         <source>Creat PDF File</source>
         <translation>新建PDF</translation>
+    </message>
+    <message>
+        <source>Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TXT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The export of PDF is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -938,7 +990,7 @@ Rotation</source>
     </message>
     <message>
         <source>PDF2Word</source>
-        <translation>将文档转为word</translation>
+        <translation type="obsolete">将文档转为word</translation>
     </message>
     <message>
         <source>PDFTest</source>
@@ -1008,6 +1060,10 @@ Rotation</source>
         <source>Zoom%</source>
         <translation>放大</translation>
     </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_pagemanager</name>
@@ -1053,6 +1109,10 @@ Rotation</source>
         <source>Tool</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Zoom%</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_tools</name>
@@ -1063,6 +1123,26 @@ Rotation</source>
     <message>
         <source>Translate selected</source>
         <translation>划词翻译</translation>
+    </message>
+    <message>
+        <source>Docmgr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1099,7 +1179,7 @@ All</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>全屏</translation>
+        <translation type="unfinished">全屏</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -1217,6 +1297,10 @@ Side by Side</source>
         <source>PDFPagesOper</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PDF2Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
@@ -1276,6 +1360,14 @@ Side by Side</source>
         <source>Translation</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Translate selected text2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>pdfongmani.mainwindow</name>
@@ -1289,14 +1381,14 @@ Side by Side</source>
     </message>
     <message>
         <source>accout info</source>
-        <translation>账号信息</translation>
+        <translation type="obsolete">账号信息</translation>
     </message>
 </context>
 <context>
     <name>pdfongmani.mainwindow.commands</name>
     <message>
         <source>Account Upgrade</source>
-        <translation type="unfinished">账号升级</translation>
+        <translation>账号升级</translation>
     </message>
     <message>
         <source>Annotation</source>
@@ -1312,7 +1404,7 @@ Side by Side</source>
     </message>
     <message>
         <source>Cloud Space</source>
-        <translation type="unfinished">云空间</translation>
+        <translation>云空间</translation>
     </message>
     <message>
         <source>Compress</source>
@@ -1320,11 +1412,11 @@ Side by Side</source>
     </message>
     <message>
         <source>Convenient Sharing</source>
-        <translation type="unfinished">便捷分享</translation>
+        <translation>便捷分享</translation>
     </message>
     <message>
         <source>File Roaming</source>
-        <translation type="unfinished">云端备份</translation>
+        <translation>云端备份</translation>
     </message>
     <message>
         <source>Font</source>
@@ -1368,19 +1460,19 @@ Side by Side</source>
     </message>
     <message>
         <source>Cloud Service</source>
-        <translation>云服务</translation>
+        <translation type="obsolete">云服务</translation>
     </message>
     <message>
         <source>Combine Characters</source>
-        <translation>合并字符</translation>
+        <translation type="obsolete">合并字符</translation>
     </message>
     <message>
         <source>Compatibility Mode</source>
-        <translation>兼容模式</translation>
+        <translation type="obsolete">兼容模式</translation>
     </message>
     <message>
         <source>Quick Retrieve</source>
-        <translation>一键找回</translation>
+        <translation type="unfinished">一键找回</translation>
     </message>
     <message>
         <source>Options</source>
@@ -1529,6 +1621,50 @@ Side by Side</source>
     <message>
         <source>TranslationAll</source>
         <translation>全文翻译</translation>
+    </message>
+    <message>
+        <source>About Kingsoft PDF</source>
+        <translation type="obsolete">关于金山PDF</translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation type="obsolete">输入序列号</translation>
+    </message>
+    <message>
+        <source>Ribbon center alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="obsolete">WPS官方网站</translation>
     </message>
 </context>
 <context>
@@ -1804,7 +1940,7 @@ Add-Ins</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation type="unfinished"></translation>
+        <translation>输入序列号</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -1982,6 +2118,14 @@ Add-Ins</source>
         <source>Zoom Slider</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Settings</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation>WPS官方网站</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -2004,6 +2148,19 @@ Add-Ins</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>pdfongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

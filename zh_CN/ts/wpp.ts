@@ -3136,6 +3136,14 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
         <source>F&amp;ont Substitution...</source>
         <translation>字体替换(&amp;O)...</translation>
     </message>
+    <message>
+        <source>Printing options</source>
+        <translation>打印选项</translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation>高质量打印</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPackge</name>
@@ -10412,6 +10420,13 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>To display the flow, the generated link contains only the first 50 slides.</source>
         <translation type="obsolete">创建的分享链接只能显示前50页幻灯片</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation>产品未激活</translation>
     </message>
 </context>
 </TS>

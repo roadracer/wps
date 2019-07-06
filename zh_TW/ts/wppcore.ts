@@ -8202,5 +8202,20 @@ This backup will be saved to(%s)</source>
         <comment>WpCheckInSharepoint</comment>
         <translation>在您簽入之前，其他使用者看不到您的變更。要現在簽入嗎？</translation>
     </message>
+    <message>
+        <source>/WPS Video/WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>/WPS 視訊/WPS 視訊</translation>
+    </message>
+    <message>
+        <source>/WPS Image/WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>/WPS 圖像/WPS 圖像</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation>/WPS 演講實錄/WPS 演講實錄</translation>
+    </message>
 </context>
 </TS>

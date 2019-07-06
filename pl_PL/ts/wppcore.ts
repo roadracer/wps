@@ -8119,5 +8119,20 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
         <source>Custom paper</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>/WPS Video/WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>/WPS Video/WPS Video</translation>
+    </message>
+    <message>
+        <source>/WPS Image/WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>/WPS Image/WPS Image</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

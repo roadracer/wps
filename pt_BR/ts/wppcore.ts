@@ -6251,7 +6251,7 @@ Na conversão em gráficos SmartArt, as referências de células anteriormente a
 Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?</source>
         <comment>wpp_sReplacedSomeChar</comment>
         <translation>O nome da pasta não pode conter os caracteres a seguir:
-            \ /: * ? |
+            \ /: * ? |
         
         você quer mudar o nome da pasta de &apos;%s &apos;em &apos;%s &apos;?</translation>
     </message>
@@ -6907,7 +6907,7 @@ Layout</source>
  Do you want to save your changes to another file?</source>
         <comment>WpREADONLYSAVEAS</comment>
         <translation>&apos;%s &apos;é somente leitura .
-         Você quer salvar as alterações para outro arquivo ?</translation>
+         Você quer salvar as alterações para outro arquivo ?</translation>
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif</source>
@@ -8013,6 +8013,21 @@ Este backup será salvo em (%s)</translation>
     </message>
     <message>
         <source>Custom paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>/WPS Video/WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>/WPS Video/WPS Video</translation>
+    </message>
+    <message>
+        <source>/WPS Image/WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>/WPS Image/WPS Image</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

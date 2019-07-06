@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.0" language="zh_CN">
+<defaultcodec>UTF-8</defaultcodec>
+<context>
+    <name>jside</name>
+    <message>
+        <source>Insert</source>
+        <comment>TxJDE_INSERT</comment>
+        <translatorcomment>插入</translatorcomment>
+        <translation>插入</translation>
+    </message>
+    <message>
+        <source>LookCode</source>
+        <comment>TxJDE_LOOKCODE</comment>
+        <translatorcomment>查看代码</translatorcomment>
+        <translation>查看代码</translation>
+    </message>
+    <message>
+        <source>LookForm</source>
+        <comment>TxJDE_LOOKFORM</comment>
+        <translatorcomment>查看窗体</translatorcomment>
+        <translation>查看窗体</translation>
+    </message>
+    <message>
+        <source>ShowFolder</source>
+        <comment>TxJDE_SHOWFOLDER</comment>
+        <translatorcomment>显示层级</translatorcomment>
+        <translation>显示层级</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <comment>TxJDE_WpsJSEditor</comment>
+        <translatorcomment>WPS 宏编辑器</translatorcomment>
+        <translation>WPS 宏编辑器</translation>
+    </message>
+    <message>
+        <source>Command Window</source>
+        <comment>TxJDE_CommandWindow</comment>
+        <translatorcomment>立即窗口</translatorcomment>
+        <translation>立即窗口</translation>
+    </message>
+    <message>
+        <source>Project</source>
+        <comment>TxJDE_Project</comment>
+        <translatorcomment>工程</translatorcomment>
+        <translation>工程</translation>
+    </message>
+    <message>
+        <source>Stack</source>
+        <comment>TxJDE_Stack</comment>
+        <translatorcomment>调用堆栈</translatorcomment>
+        <translation>调用堆栈</translation>
+    </message>
+    <message>
+        <source>CodeModule%1</source>
+        <comment>TxJDE_CodeModule</comment>
+        <translatorcomment>代码模块%1</translatorcomment>
+        <translation>代码模块%1</translation>
+    </message>
+    <message>
+        <source>UserForm%1</source>
+        <comment>TxJDE_DialogModule</comment>
+        <translatorcomment>窗体模块%1</translatorcomment>
+        <translation>窗体模块%1</translation>
+    </message>
+    <message>
+        <source>Sources</source>
+        <comment>TxJDE_Sources</comment>
+        <translatorcomment>代码</translatorcomment>
+        <translation>代码</translation>
+    </message>
+    <message>
+        <source>Forms</source>
+        <comment>TxJDE_Forms</comment>
+        <translatorcomment>窗体</translatorcomment>
+        <translation>窗体</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <comment>TxJDE_RENAME</comment>
+        <translatorcomment>重命名</translatorcomment>
+        <translation>重命名</translation>
+    </message>
+    <message>
+        <source>Toggle Folders</source>
+        <comment>TxJDE_RENAME</comment>
+        <translatorcomment>切换文件夹</translatorcomment>
+        <translation>切换文件夹</translation>
+    </message>
+    <message>
+        <source>%1 Property(&amp;E)...</source>
+        <comment>TxJDE_PROJECTPROPERTY</comment>
+        <translatorcomment>%1 属性(&amp;E)...</translatorcomment>
+        <translation>%1 属性(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Save</source>
+        <comment>TxJDE_FILE_SSAVE</comment>
+        <translatorcomment>保存(&amp;S)</translatorcomment>
+        <translation>保存(&amp;S)</translation>
+    </message>
+	<message>
+        <source>Save Tip</source>
+        <comment>TxJDE_FILE_SSAVE_TIP</comment>
+        <translatorcomment>保存</translatorcomment>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>&amp;Import File...</source>
+        <comment>TxJDE_FILE_IMPORTFILE</comment>
+        <translatorcomment>导入文件(&amp;I)...</translatorcomment>
+        <translation>导入文件(&amp;I)...</translation>
+    </message>
+    <message>
+        <source>Import File Tip</source>
+        <comment>TxJDE_FILE_IMPORTFILE_TIP</comment>
+        <translatorcomment>导入文件</translatorcomment>
+        <translation>导入文件</translation>
+    </message>
+    <message>
+        <source>&amp;Export File...</source>
+        <comment>TxJDE_FILE_EXPORTFILE</comment>
+        <translatorcomment>导出文件(&amp;E)...</translatorcomment>
+        <translation>导出文件(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <comment>TxJDE_FILE_REMOVE</comment>
+        <translatorcomment>移除(&amp;R)</translatorcomment>
+        <translation>移除(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Print</source>
+        <comment>TxJDE_FILE_PRINT</comment>
+        <translatorcomment>打印(&amp;P)...</translatorcomment>
+        <translation>打印(&amp;P)...</translation>
+    </message>
+    <message>
+        <source>&amp;Close and Return to %1</source>
+        <comment>TxJDE_FILE_CLOSERETURN</comment>
+        <translatorcomment>关闭并返回到 %1(&amp;C)</translatorcomment>
+        <translation>关闭并返回到 %1(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Undo</source>
+        <comment>TxJDE_EDIT_UNDO</comment>
+        <translatorcomment>撤消(&amp;U)</translatorcomment>
+        <translation>撤消(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Can&apos;t Undo</source>
+        <comment>TxJDE_EDIT_CANTUNDO</comment>
+        <translatorcomment>无法撤消</translatorcomment>
+        <translation>无法撤消</translation>
+    </message>
+    <message>
+        <source>&amp;Redo</source>
+        <comment>TxJDE_EDIT_REDO</comment>
+        <translatorcomment>恢复(R)</translatorcomment>
+        <translation>恢复(R)</translation>
+    </message>
+    <message>
+        <source>Can&apos;t Redo</source>
+        <comment>TxJDE_EDIT_CANTREDO</comment>
+        <translatorcomment>无法恢复</translatorcomment>
+        <translation>无法恢复</translation>
+    </message>
+    <message>
+        <source>Cu&amp;t</source>
+        <comment>TxJDE_EDIT_CUT</comment>
+        <translatorcomment>剪切(&amp;T)</translatorcomment>
+        <translation>剪切(&amp;T)</translation>
+    </message>
+	<message>
+        <source>Cut Tip</source>
+        <comment>TxJDE_EDIT_CUT_TIP</comment>
+        <translatorcomment>剪切</translatorcomment>
+        <translation>剪切</translation>
+    </message>
+    <message>
+        <source>&amp;Copy</source>
+        <comment>TxJDE_EDIT_COPY</comment>
+        <translatorcomment>复制(&amp;C)</translatorcomment>
+        <translation>复制(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Copy Tip</source>
+        <comment>TxJDE_EDIT_COPY_TIP</comment>
+        <translatorcomment>复制</translatorcomment>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>&amp;Paste</source>
+        <comment>TxJDE_EDIT_PASTE</comment>
+        <translatorcomment>粘贴(&amp;P)</translatorcomment>
+        <translation>粘贴(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Paste Tip</source>
+        <comment>TxJDE_EDIT_PASTE_TIP</comment>
+        <translatorcomment>粘贴</translatorcomment>
+        <translation>粘贴</translation>
+    </message>
+    <message>
+        <source>C&amp;lear</source>
+        <comment>TxJDE_EDIT_CLEAR</comment>
+        <translatorcomment>清除(&amp;L)</translatorcomment>
+        <translation>清除(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Select &amp;All</source>
+        <comment>TxJDE_EDIT_SELECTALL</comment>
+        <translatorcomment>全选(&amp;A)</translatorcomment>
+        <translation>全选(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Find...</source>
+        <comment>TxJDE_EDIT_FIND</comment>
+        <translatorcomment>查找(&amp;F)...</translatorcomment>
+        <translation>查找(&amp;F)...</translation>
+    </message>
+    <message>
+        <source>Find &amp;Next</source>
+        <comment>TxJDE_EDIT_FINDNEXT</comment>
+        <translatorcomment>查找下一个(&amp;N)</translatorcomment>
+        <translation>查找下一个(&amp;N)</translation>
+    </message>
+    <message>
+        <source>R&amp;eplace...</source>
+        <comment>TxJDE_EDIT_REPLACE</comment>
+        <translatorcomment>替换(&amp;E)...</translatorcomment>
+        <translation>替换(&amp;E)...</translation>
+    </message>
+    <message>
+        <source>&amp;Indent</source>
+        <comment>TxJDE_EDIT_INDENT</comment>
+        <translatorcomment>缩进(&amp;I)</translatorcomment>
+        <translation>缩进(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Outdent</source>
+        <comment>TxJDE_EDIT_OUTDENT</comment>
+        <translatorcomment>凸出(&amp;O)</translatorcomment>
+        <translation>凸出(&amp;O)</translation>
+    </message>
+    <message>
+        <source>List Properties/Met&amp;hods</source>
+        <comment>TxJDE_EDIT_LISTPROPERTIES</comment>
+        <translatorcomment>属性方法列表(&amp;H)</translatorcomment>
+        <translation>属性方法列表(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Li&amp;st Constants</source>
+        <comment>TxJDE_EDIT_LISTCONTANTS</comment>
+        <translatorcomment>常数列表(&amp;S)</translatorcomment>
+        <translation>常数列表(&amp;S)</translation>
+    </message>
+    <message>
+        <source>&amp;Quick Info</source>
+        <comment>TxJDE_EDIT_QUICKINFO</comment>
+        <translatorcomment>快速信息(&amp;Q)</translatorcomment>
+        <translation>快速信息(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>Para&amp;meter Info</source>
+        <comment>TxJDE_EDIT_PARAMETERINFO</comment>
+        <translatorcomment>参数信息(&amp;M)</translatorcomment>
+        <translation>参数信息(&amp;M)</translation>
+    </message>
+    <message>
+        <source>Complete &amp;Word</source>
+        <comment>TxJDE_EDIT_COMPLETEWORD</comment>
+        <translatorcomment>自动完成关键字(&amp;W)</translatorcomment>
+        <translation>自动完成关键字(&amp;W)</translation>
+    </message>
+    <message>
+        <source>&amp;Bookmarks</source>
+        <comment>TxJDE_EDIT_TOGGLEBOOKMARK</comment>
+        <translatorcomment>书签(&amp;B)</translatorcomment>
+        <translation>书签(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Toggle Bookmark</source>
+        <comment>TxJDE_EDIT_TOGGLEBOOKMARK</comment>
+        <translatorcomment>切换书签(&amp;T)</translatorcomment>
+        <translation>切换书签(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Next Bookmark</source>
+        <comment>TxJDE_EDIT_NEXTBOOKMARK</comment>
+        <translatorcomment>下一书签(&amp;N)</translatorcomment>
+        <translation>下一书签(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Previous Bookmark</source>
+        <comment>TxJDE_EDIT_PREVIOUSBOOKMARK</comment>
+        <translatorcomment>上一书签(&amp;P)</translatorcomment>
+        <translation>上一书签(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;Clear All Bookmarks</source>
+        <comment>TxJDE_EDIT_CLEARALLBOOKMARKS</comment>
+        <translatorcomment>清除所有书签(&amp;C)</translatorcomment>
+        <translation>清除所有书签(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Code</source>
+        <comment>TxJDE_VIEW_CODE</comment>
+        <translatorcomment>代码窗口(&amp;C)</translatorcomment>
+        <translation>代码窗口(&amp;C)</translation>
+    </message>
+    <message>
+        <source>O&amp;bject</source>
+        <comment>TxJDE_VIEW_FIND</comment>
+        <translatorcomment>对象窗口(&amp;B)</translatorcomment>
+        <translation>对象窗口(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&amp;Definition</source>
+        <comment>TxJDE_VIEW_DEFINITION</comment>
+        <translatorcomment>定义(&amp;D)</translatorcomment>
+        <translation>定义(&amp;D)</translation>
+    </message>
+    <message>
+        <source>Last Positio&amp;n</source>
+        <comment>TxJDE_VIEW_LASTPOSITION</comment>
+        <translatorcomment>最后位置(&amp;N)</translatorcomment>
+        <translation>最后位置(&amp;N)</translation>
+    </message>
+    <message>
+        <source>&amp;Object Browser</source>
+        <comment>TxJDE_VIEW_OBJECTBROWSER</comment>
+        <translatorcomment>对象浏览器(&amp;O)</translatorcomment>
+        <translation>对象浏览器(&amp;O)</translation>
+    </message>
+    <message>
+        <source>&amp;Inmmediate Window</source>
+        <comment>TxJDE_VIEW_INMMEDIATEWINDOW</comment>
+        <translatorcomment>立即窗口(&amp;U)</translatorcomment>
+        <translation>立即窗口(&amp;U)</translation>
+    </message>
+    <message>
+        <source>Local&amp;s Window</source>
+        <comment>TxJDE_VIEW_LOCALSWINDOW</comment>
+        <translatorcomment>本地窗口(&amp;S)</translatorcomment>
+        <translation>本地窗口(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Watc&amp;h Window</source>
+        <comment>TxJDE_VIEW_WATCHWINDOW</comment>
+        <translatorcomment>监视窗口(&amp;H)</translatorcomment>
+        <translation>监视窗口(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Call Stac&amp;k...</source>
+        <comment>TxJDE_VIEW_CALLSTACK</comment>
+        <translatorcomment>调用堆栈(&amp;K)</translatorcomment>
+        <translation>调用堆栈(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Project Explorer</source>
+        <comment>TxJDE_VIEW_PROJECTEXPLORER</comment>
+        <translatorcomment>工程资源管理器(&amp;P)</translatorcomment>
+        <translation>工程资源管理器(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Properties &amp;Window</source>
+        <comment>TxJDE_VIEW_PROPERTIESWINDOW</comment>
+        <translatorcomment>属性窗口(&amp;W)</translatorcomment>
+        <translation>属性窗口(&amp;W)</translation>
+    </message>
+    <message>
+        <source>Tool Bo&amp;x</source>
+        <comment>TxJDE_VIEW_TOOLBOX</comment>
+        <translatorcomment>工具箱(&amp;X)</translatorcomment>
+        <translation>工具箱(&amp;X)</translation>
+    </message>
+    <message>
+        <source>T&amp;ab Order</source>
+        <comment>TxJDE_VIEW_TABORDER</comment>
+        <translatorcomment>Tab 键顺序(&amp;A)</translatorcomment>
+        <translation>Tab 键顺序(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Toolbars</source>
+        <comment>TxJDE_VIEW_TOOLBARS</comment>
+        <translatorcomment>工具栏(&amp;T)</translatorcomment>
+        <translation>工具栏(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <comment>TxJDE_VIEW_TOOLBARSDEBUG</comment>
+        <translatorcomment>调试</translatorcomment>
+        <translation>调试</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <comment>TxJDE_VIEW_TOOLBARSEDIT</comment>
+        <translatorcomment>编辑</translatorcomment>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <comment>TxJDE_VIEW_TOOLBARSTANDARD</comment>
+        <translatorcomment>标准</translatorcomment>
+        <translation>标准</translation>
+    </message>
+    <message>
+        <source>UserForm</source>
+        <comment>TxJDE_VIEW_TOOLBARSUSERFORM</comment>
+        <translatorcomment>用户窗体</translatorcomment>
+        <translation>用户窗体</translation>
+    </message>
+    <message>
+        <source>&amp;Customize...</source>
+        <comment>TxJDE_VIEW_TOOLBARSCUSTOMIZE</comment>
+        <translatorcomment>自定义(&amp;C)...</translatorcomment>
+        <translation>自定义(&amp;C)...</translation>
+    </message>
+    <message>
+        <source>&amp;Procedure</source>
+        <comment>TxJDE_INSERT_PROCEDURE</comment>
+        <translatorcomment>过程(&amp;P)</translatorcomment>
+        <translation>过程(&amp;P)</translation>
+    </message>
+    <message>
+        <source>&amp;UserForm</source>
+        <comment>TxJDE_INSERT_USERFORM</comment>
+        <translatorcomment>用户窗体(&amp;U)</translatorcomment>
+        <translation>用户窗体(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Module</source>
+        <comment>TxJDE_INSERT_MODULE</comment>
+        <translatorcomment>模块(&amp;M)</translatorcomment>
+        <translation>模块(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;Class Module</source>
+        <comment>TxJDE_INSERT_CLASSMODULE</comment>
+        <translatorcomment>类模块(&amp;C)</translatorcomment>
+        <translation>类模块(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Fi&amp;le...</source>
+        <comment>TxJDE_INSERT_FILE</comment>
+        <translatorcomment>文件(&amp;L)</translatorcomment>
+        <translation>文件(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Compi&amp;le</source>
+        <comment>TxJDE_DEBUG_COMPILE</comment>
+        <translatorcomment>编译(&amp;L)</translatorcomment>
+        <translation>编译(&amp;L)</translation>
+    </message>
+    <message>
+        <source>Compile Tip</source>
+        <comment>TxJDE_DEBUG_COMPILE_TIP</comment>
+        <translatorcomment>编译</translatorcomment>
+        <translation>编译</translation>
+    </message>
+    <message>
+        <source>Step &amp;Into</source>
+        <comment>TxJDE_DEBUG_STEPINTO</comment>
+        <translatorcomment>逐语句(&amp;I)</translatorcomment>
+        <translation>逐语句(&amp;I)</translation>
+    </message>
+    <message>
+        <source>Step &amp;Over</source>
+        <comment>TxJDE_DEBUG_STEPOVER</comment>
+        <translatorcomment>逐过程(&amp;O)</translatorcomment>
+        <translation>逐过程(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Step O&amp;ut</source>
+        <comment>TxJDE_DEBUG_STEPOUT</comment>
+        <translatorcomment>跳出(&amp;U)</translatorcomment>
+        <translation>跳出(&amp;U)</translation>
+    </message>
+    <message>
+        <source>&amp;Run To Cursor</source>
+        <comment>TxJDE_DEBUG_RUNTOCURSOR</comment>
+        <translatorcomment>运行到光标处(&amp;R)</translatorcomment>
+        <translation>运行到光标处(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Add Watch...</source>
+        <comment>TxJDE_DEBUG_ADDWATCH</comment>
+        <translatorcomment>添加监视(&amp;A)</translatorcomment>
+        <translation>添加监视(&amp;A)</translation>
+    </message>
+    <message>
+        <source>&amp;Edit Watch...</source>
+        <comment>TxJDE_DEBUG_EDITWATCH</comment>
+        <translatorcomment>编辑监视(&amp;E)</translatorcomment>
+        <translation>编辑监视(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Quick Watch...</source>
+        <comment>TxJDE_DEBUG_QUICKWATCH</comment>
+        <translatorcomment>快速监视(&amp;Q)</translatorcomment>
+        <translation>快速监视(&amp;Q)</translation>
+    </message>
+    <message>
+        <source>&amp;Toggle Breakpoint</source>
+        <comment>TxJDE_DEBUG_TOGGLEBREAKPOINT</comment>
+        <translatorcomment>切换断点(&amp;T)</translatorcomment>
+        <translation>切换断点(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Clear All Breakpoints</source>
+        <comment>TxJDE_DEBUG_CLEARALLBREAKPOINTS</comment>
+        <translatorcomment>清除所有断点(&amp;C)</translatorcomment>
+        <translation>清除所有断点(&amp;C)</translation>
+    </message>
+    <message>
+        <source>Set &amp;Next Statement</source>
+        <comment>TxJDE_DEBUG_SETNEXTSTATEMENT</comment>
+        <translatorcomment>设置下一条语句(&amp;N)</translatorcomment>
+        <translation>设置下一条语句(&amp;N)</translation>
+    </message>
+    <message>
+        <source>Show Ne&amp;xt Statement</source>
+        <comment>TxJDE_DEBUG_SHOWNEXTSTATEMENT</comment>
+        <translatorcomment>显示下一条语句(&amp;X)</translatorcomment>
+        <translation>显示下一条语句(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Run Macro</source>
+        <comment>TxJDE_RUN_RUNMACRO</comment>
+        <translatorcomment>运行宏</translatorcomment>
+        <translation>运行宏</translation>
+    </message>
+    <message>
+        <source>Run Macro Tip</source>
+        <comment>TxJDE_RUN_RUNMACRO_TIP</comment>
+        <translatorcomment>运行宏</translatorcomment>
+        <translation>运行宏</translation>
+    </message>
+    <message>
+        <source>Brea&amp;k</source>
+        <comment>TxJDE_RUN_BREAK</comment>
+        <translatorcomment>中断(&amp;K)</translatorcomment>
+        <translation>中断(&amp;K)</translation>
+    </message>
+    <message>
+        <source>&amp;Reset</source>
+        <comment>TxJDE_RUN_RESET</comment>
+        <translatorcomment>重新设置(&amp;R)</translatorcomment>
+        <translation>重新设置(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Reset</source>
+        <comment>TxJDE_RUN_RESET_TIP</comment>
+        <translatorcomment>重新设置</translatorcomment>
+        <translation>重新设置</translation>
+    </message>
+    <message>
+        <source>Design &amp;Mode</source>
+        <comment>TxJDE_RUN_DESIGNMODE</comment>
+        <translatorcomment>设计模式(&amp;M)</translatorcomment>
+        <translation>设计模式(&amp;M)</translation>
+    </message>
+    <message>
+        <source>&amp;About...</source>
+        <comment>TxJDE_HELP_ABOUT</comment>
+        <translatorcomment>关于(&amp;A)...</translatorcomment>
+        <translation>关于(&amp;A)...</translation>
+    </message>
+    <message>
+        <source>&amp;Help</source>
+        <comment>TxJDE_HELP_HELP</comment>
+        <translatorcomment>帮助(&amp;H)</translatorcomment>
+        <translation>帮助(&amp;H)</translation>
+    </message>
+    <message>
+        <source>Controls</source>
+        <comment>TxJDE_TIP_CONTROLS</comment>
+        <translatorcomment>控件</translatorcomment>
+        <translation>控件</translation>
+    </message>
+    <message>
+        <source>CommandButton</source>
+        <comment>TxJDE_TIP_COMMANDBUTTON</comment>
+        <translatorcomment>命令按钮</translatorcomment>
+        <translation>命令按钮</translation>
+    </message>
+    <message>
+        <source>Frame</source>
+        <comment>TxJDE_TIP_FRAME</comment>
+        <translatorcomment>框架</translatorcomment>
+        <translation>框架</translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <comment>TxJDE_TIP_CHECKBOX</comment>
+        <translatorcomment>复选框</translatorcomment>
+        <translation>复选框</translation>
+    </message>
+    <message>
+        <source>Label</source>
+        <comment>TxJDE_TIP_LABEL</comment>
+        <translatorcomment>标签</translatorcomment>
+        <translation>标签</translation>
+    </message>
+    <message>
+        <source>SpinButton</source>
+        <comment>TxJDE_TIP_SPINBUTTON</comment>
+        <translatorcomment>旋转按钮</translatorcomment>
+        <translation>旋转按钮</translation>
+    </message>
+    <message>
+        <source>TextEdit</source>
+        <comment>TxJDE_TIP_TEXTEDIT</comment>
+        <translatorcomment>文本框</translatorcomment>
+        <translation>文本框</translation>
+    </message>
+    <message>
+        <source>ScrollBar</source>
+        <comment>TxJDE_TIP_SCROLLBAR</comment>
+        <translatorcomment>滚动条</translatorcomment>
+        <translation>滚动条</translation>
+    </message>
+    <message>
+        <source>ComboBox</source>
+        <comment>TxJDE_TIP_COMBOBOX</comment>
+        <translatorcomment>复合框</translatorcomment>
+        <translation>复合框</translation>
+    </message>
+    <message>
+        <source>ListBox</source>
+        <comment>TxJDE_TIP_LISTBOX</comment>
+        <translatorcomment>列表框</translatorcomment>
+        <translation>列表框</translation>
+    </message>
+    <message>
+        <source>FunctionScroll</source>
+        <comment>TxJDE_FUNCTION_SCROLL</comment>
+        <translatorcomment>滚动</translatorcomment>
+        <translation>滚动</translation>
+    </message>
+    <message>
+        <source>FunctionBehavior</source>
+        <comment>TxJDE_FUNCTION_BEHAVIOR</comment>
+        <translatorcomment>行为</translatorcomment>
+        <translation>行为</translation>
+    </message>
+    <message>
+        <source>FunctionPicture</source>
+        <comment>TxJDE_FUNCTION_PICTURE</comment>
+        <translatorcomment>图片</translatorcomment>
+        <translation>图片</translation>
+    </message>
+    <message>
+        <source>FunctionUI</source>
+        <comment>TxJDE_FUNCTION_UI</comment>
+        <translatorcomment>界面</translatorcomment>
+        <translation>界面</translation>
+    </message>
+    <message>
+        <source>FunctionPosition</source>
+        <comment>TxJDE_FUNCTION_POSITION</comment>
+        <translatorcomment>位置</translatorcomment>
+        <translation>位置</translation>
+    </message>
+    <message>
+        <source>FunctionOther</source>
+        <comment>TxJDE_FUNCTION_OTHER</comment>
+        <translatorcomment>杂项</translatorcomment>
+        <translation>杂项</translation>
+    </message>
+    <message>
+        <source>FunctionFont</source>
+        <comment>TxJDE_FUNCTION_FONT</comment>
+        <translatorcomment>字体</translatorcomment>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>FunctionData</source>
+        <comment>TxJDE_FUNCTION_DATA</comment>
+        <translatorcomment>数据</translatorcomment>
+        <translation>数据</translation>
+    </message>
+    <message>
+        <source>HeaderItem</source>
+        <comment>TxJDE_HEADER_ITEM</comment>
+        <translatorcomment>项</translatorcomment>
+        <translation>属性项</translation>
+    </message>
+    <message>
+        <source>HeaderValue</source>
+        <comment>TxJDE_HEADER_VALUE</comment>
+        <translatorcomment>值</translatorcomment>
+        <translation>值</translation>
+    </message>
+    <message>
+        <source>OrderAlpha</source>
+        <comment>TxJDE_ORDER_ALPHA</comment>
+        <translatorcomment>按字母序</translatorcomment>
+        <translation>按字母序</translation>
+    </message>
+    <message>
+        <source>OrderCategory</source>
+        <comment>TxJDE_ORDER_CATEGORY</comment>
+        <translatorcomment>按分类序</translatorcomment>
+        <translation>按分类序</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <comment>TxJDE_STACK_NAME</comment>
+        <translatorcomment>名称</translatorcomment>
+        <translation>名称</translation>
+    </message>
+    <message>
+        <source>%1.%2.%3 Line %4</source>
+        <comment>TxJDE_STACKITEM_JSCODE</comment>
+        <translatorcomment>%1.%2.%3 行 %4</translatorcomment>
+        <translation>%1.%2.%3 行 %4</translation>
+    </message>
+    <message>
+        <source>Ready</source>
+        <comment>TxJDE_STATUSBAR_READY</comment>
+        <translatorcomment>就绪</translatorcomment>
+        <translation>就绪</translation>
+    </message>
+    <message>
+        <source>ToolBoxTitle</source>
+        <comment>TxJDE_TOOLBOX_TITLE</comment>
+        <translatorcomment>工具箱标题</translatorcomment>
+        <translation>工具箱</translation>
+    </message>
+    <message>
+        <source>PropertyEditorTitle</source>
+        <comment>TxJDE_PROPERTYEDITOR_TITLE</comment>
+        <translatorcomment>属性编辑器标题</translatorcomment>
+        <translation>属性编辑器</translation>
+    </message>
+    <message>
+        <source>&amp;File</source>
+        <comment>TxJDE_File</comment>
+        <translatorcomment>文件(&amp;F)</translatorcomment>
+        <translation>文件(&amp;F)</translation>
+    </message>
+    <message>
+        <source>&amp;Edit</source>
+        <comment>TxJDE_Edit</comment>
+        <translatorcomment>编辑(&amp;E)</translatorcomment>
+        <translation>编辑(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;View</source>
+        <comment>TxJDE_View</comment>
+        <translatorcomment>视图(&amp;V)</translatorcomment>
+        <translation>视图(&amp;V)</translation>
+    </message>
+    <message>
+        <source>&amp;Insert</source>
+        <comment>TxJDE_Insert</comment>
+        <translatorcomment>插入(&amp;I)</translatorcomment>
+        <translation>插入(&amp;I)</translation>
+    </message>
+    <message>
+        <source>&amp;Debug</source>
+        <comment>TxJDE_Debug</comment>
+        <translatorcomment>调试(&amp;D)</translatorcomment>
+        <translation>调试(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;Run</source>
+        <comment>TxJDE_Run</comment>
+        <translatorcomment>运行(&amp;R)</translatorcomment>
+        <translation>运行(&amp;R)</translation>
+    </message>
+    <message>
+        <source>&amp;Help</source>
+        <comment>TxJDE_Help</comment>
+        <translation>帮助(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Option</source>
+        <comment>TxJDE_SETTING_OPTION</comment>
+        <translatorcomment>选项</translatorcomment>
+        <translation>选项(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Shortcut</source>
+        <comment>TxJDE_SHORTCUT</comment>
+        <translation>快捷键</translation>
+    </message>
+    <message>
+        <source>Shortcut Description</source>
+        <comment>TxJDE_SHORTCUT_DESCTIPTION</comment>
+        <translation>快捷键描述</translation>
+    </message>
+    <message>
+        <source>Keyboard Shortcut</source>
+        <comment>TxJDE_KEYBOARD_SHORTCUT</comment>
+        <translation>键盘快捷键</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <comment>TxJDE_SHORTCUT_CLOSE</comment>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>KxJdeOptionDialog</source>
+        <comment>TxJDE_OPTION_DIALOG</comment>
+        <translation>JS选项</translation>
+    </message>
+    <message>
+        <source>OptionButton</source>
+        <comment>TxJDE_TIP_OPTIONBUTTON</comment>
+        <translatorcomment>选项按钮</translatorcomment>
+        <translation>选项按钮</translation>
+    </message>
+    <message>
+        <source>ToggleButton</source>
+        <comment>TxJDE_TIP_TOGGLEBUTTON</comment>
+        <translatorcomment>切换按钮</translatorcomment>
+        <translation>切换按钮</translation>
+    </message>
+    <message>
+        <source>Line %1 Column %2</source>
+        <comment>TxJDE_COMPILE_ERRORLINE</comment>
+        <translation>第%1行 第%2列</translation>
+    </message>
+    <message>
+        <source>The project is running, please exit first.</source>
+        <comment>TxJDE_PROJECT_EXITRUNNING</comment>
+        <translation>当前项目正在运行，请退出运行后重试。</translation>
+    </message>
+    <message>
+        <source>Font Color</source>
+        <comment>TxJDE_FONT_COLOR</comment>
+        <translation>字体和颜色</translation>
+    </message>
+    <message>
+        <source>Display Setting</source>
+        <comment>TxJDE_FONT_DISPLAY_SETTING</comment>
+        <translation>显示其设置</translation>
+    </message>
+    <message>
+        <source>Text Editor</source>
+        <comment>TxJDE_FONT_TEXT_EDITOR</comment>
+        <translation>文本编辑器</translation>
+    </message>
+    <message>
+        <source>Use Default</source>
+        <comment>TxJDE_FONT_USE_DEFAULT</comment>
+        <translation>使用默认值</translation>
+    </message>
+    <message>
+        <source>Font Family</source>
+        <comment>TxJDE_FONT_FONT_FAMILY</comment>
+        <translation>字体</translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <comment>TxJDE_FONT_FONT_SIZE</comment>
+        <translation>大小</translation>
+    </message>
+    <message>
+        <source>Display Item</source>
+        <comment>TxJDE_FONT_DISPLAY_ITEM</comment>
+        <translation>显示项</translation>
+    </message>
+    <message>
+        <source>Keyworkd</source>
+        <comment>TxJDE_FONT_KEYWORKD</comment>
+        <translation>关键字</translation>
+    </message>
+    <message>
+        <source>Other</source>
+        <comment>TxJDE_FONT_OTHER</comment>
+        <translation>其它</translation>
+    </message>
+    <message>
+        <source>Item Foreground</source>
+        <comment>TxJDE_FONT_ITEM_FOREGROUND</comment>
+        <translation>项前景</translation>
+    </message>
+    <message>
+        <source>Item Background</source>
+        <comment>TxJDE_FONT_ITEM_BACKGROUND</comment>
+        <translation>项背景</translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <comment>TxJDE_FONT_CUSTOM</comment>
+        <translation>自定义</translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <comment>TxJDE_FONT_BOLD</comment>
+        <translation>粗体</translation>
+    </message>
+    <message>
+        <source>Sample</source>
+        <comment>TxJDE_FONT_SAMPLE</comment>
+        <translation>示例</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <comment>TxJDE_FONT_COLOR_AUTO</comment>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>Default</source>
+        <comment>TXJDE_FONT_COLOR_DEFAULT</comment>
+        <translation>默认</translation>
+    </message>
+    <message>
+        <source>Black</source>
+        <comment>TXJDE_FONT_COLOR_BLACK</comment>
+        <translation>黑色</translation>
+    </message>
+    <message>
+        <source>white</source>
+        <comment>TXJDE_FONT_COLOR_WHITE</comment>
+        <translation>白色</translation>
+    </message>
+    <message>
+        <source>darkGray</source>
+        <comment>TXJDE_FONT_COLOR_DARKGRAY</comment>
+        <translation>灰色</translation>
+    </message>
+    <message>
+        <source>lightGray</source>
+        <comment>TXJDE_FONT_COLOR_LIGHTGRAY</comment>
+        <translation>银色</translation>
+    </message>
+    <message>
+        <source>red</source>
+        <comment>TXJDE_FONT_COLOR_RED</comment>
+        <translation>红色</translation>
+    </message>
+    <message>
+        <source>green</source>
+        <comment>TXJDE_FONT_COLOR_GREEN</comment>
+        <translation>浅绿色</translation>
+    </message>
+    <message>
+        <source>blue</source>
+        <comment>TXJDE_FONT_COLOR_BLUE</comment>
+        <translation>蓝色</translation>
+    </message>
+    <message>
+        <source>cyan</source>
+        <comment>TXJDE_FONT_COLOR_CYAN</comment>
+        <translation>青色</translation>
+    </message>
+    <message>
+        <source>magenta</source>
+        <comment>TXJDE_FONT_COLOR_MAGENTA</comment>
+        <translation>洋红色</translation>
+    </message>
+    <message>
+        <source>yellow</source>
+        <comment>TXJDE_FONT_COLOR_YELLOW</comment>
+        <translation>黄色</translation>
+    </message>
+    <message>
+        <source>darkRed</source>
+        <comment>TXJDE_FONT_COLOR_DARKRED</comment>
+        <translation>褐紫红色</translation>
+    </message>
+    <message>
+        <source>darkGreen</source>
+        <comment>TXJDE_FONT_COLOR_DARKGREEN</comment>
+        <translation>绿色</translation>
+    </message>
+    <message>
+        <source>darkBlue</source>
+        <comment>TXJDE_FONT_COLOR_DARKBLUE</comment>
+        <translation>海军蓝</translation>
+    </message>
+    <message>
+        <source>darkCyan</source>
+        <comment>TXJDE_FONT_COLOR_DARKCYAN</comment>
+        <translation>青色</translation>
+    </message>
+    <message>
+        <source>darkMagenta</source>
+        <comment>TXJDE_FONT_COLOR_DARKMAGENTA</comment>
+        <translation>紫色</translation>
+    </message>
+    <message>
+        <source>darkYellow</source>
+        <comment>TXJDE_FONT_COLOR_DARKYELLOW</comment>
+        <translation>橄榄色</translation>
+    </message>
+    <message>
+        <source>[&lt;No JavaScript Code&gt;]</source>
+        <comment>TxJDE_STACKITEM_NOJSCODE</comment>
+        <translatorcomment>[&lt;非 JavaScript 代码&gt;]</translatorcomment>
+        <translation>[&lt;非 JavaScript 代码&gt;]</translation>
+    </message>
+    <message>
+        <source>[&lt;Unresolved Code&gt;]</source>
+        <comment>TxJDE_STACKITEM_UNRESOLVED</comment>
+        <translatorcomment>[&lt;未解析的代码&gt;]</translatorcomment>
+        <translation>[&lt;未解析的代码&gt;]</translation>
+    </message>
+    <message>
+        <source>About WPS JavaScript Editor</source>
+        <comment>TxJDE_ABOUT_TITLE</comment>
+        <translation>关于WPS 宏编辑器</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <comment>TxJDE_ABOUT_CONTENT_TITLE</comment>
+        <translation>WPS 宏编辑器</translation>
+    </message>
+    <message>
+        <source>This computer program is copyrighted by Zhuhai Kingsoft Office Software Co. LTD, Wuhan Kingsoft Office Software Co. LTDBeijing Kingsoft Office Software Co. LTD. All rights reserved.</source>
+        <comment>TxJDE_ABOUT_COPYRIGHT</comment>
+        <translation>版权所有© 珠海金山办公软件有限公司、武汉金山办公软件有限公司、北京金山办公软件有限公司。保留所有权利。</translation>
+    </message>
+    <message>
+        <source>Version:</source>
+        <comment>TxJDE_ABOUT_VERSION</comment>
+        <translation>版本：</translation>
+    </message>
+    <message>
+        <source>Insert Breakpoint</source>
+        <comment>TxJDE_DEBUG_INSERTBREAKPOINT</comment>
+        <translation>插入断点</translation>
+    </message>
+    <message>
+        <source>&amp;Clear Breakpoint</source>
+        <comment>TxJDE_DEBUG_CLEARBREAKPOINT</comment>
+        <translation>清除断点</translation>
+    </message>
+    <message>
+        <source>Invalid Breakpoint</source>
+        <comment>TxJDE_DEBUG_INVALIDBREAKPOINT</comment>
+        <translation>断点无效</translation>
+    </message>
+    <message>
+        <source>&amp;Delete</source>
+        <comment>TxJDE_DELETE</comment>
+        <translatorcomment>删除</translatorcomment>
+        <translation>删除(&amp;D)</translation>
+    </message>
+    <message>
+        <source>&amp;AllSelect</source>
+        <comment>TxJDE_AllSELECT</comment>
+        <translatorcomment>全选</translatorcomment>
+        <translation>全选(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Prope&amp;Rty</source>
+        <comment>TxJDE_PROP</comment>
+        <translatorcomment>属性</translatorcomment>
+        <translation>属性(&amp;R)</translation>
+    </message>
+    <message>
+        <source>Arrow</source>
+        <comment>TxJDE_TIP_ARROW</comment>
+        <translatorcomment>选定对象</translatorcomment>
+        <translation>选定对象</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <comment>TxJDE_FILE_TOOLBAR</comment>
+        <translatorcomment>文件</translatorcomment>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <comment>TxJDE_EDIT_TOOLBAR</comment>
+        <translatorcomment>编辑</translatorcomment>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Debug</source>
+        <comment>TxJDE_DEBUG_TOOLBAR</comment>
+        <translatorcomment>调试</translatorcomment>
+        <translation>调试</translation>
+    </message>
+    <message>
+        <source>Run</source>
+        <comment>TxJDE_RUN_TOOLBAR</comment>
+        <translatorcomment>运行</translatorcomment>
+        <translation>运行</translation>
+    </message>
+    <message>
+        <source>set not support error</source>
+        <comment>TxJDE_API_ERROR_SET_NOTSUPPORT</comment>
+        <translatorcomment>不支持</translatorcomment>
+        <translation>不支持</translation>
+    </message>
+<message>
+        <source>set readonly error</source>
+        <comment>TxJDE_API_ERROR_SET_READONLY</comment>
+        <translatorcomment>只读</translatorcomment>
+        <translation>只读</translation>
+    </message>
+<message>
+        <source>param error</source>
+        <comment>TxJDE_API_ERROR_CHECK_PARAM</comment>
+        <translatorcomment>参数错误</translatorcomment>
+        <translation>参数错误</translation>
+    </message>
+<message>
+        <source>Object error</source>
+        <comment>TxJDE_API_ERROR_GET_DynOBJECT</comment>
+        <translatorcomment>对象错误</translatorcomment>
+        <translation>对象错误</translation>
+    </message>
+<message>
+        <source>attribute name not valid%1</source>
+        <comment>TxJDE_API_ERROR_Name_NOVALID</comment>
+        <translatorcomment>不是一个合法的对象名称</translatorcomment>
+        <translation>不是一个合法的对象名称:%1</translation>
+    </message>
+<message>
+        <source>attribute name confilct</source>
+        <comment>TxJDE_API_ERROR_NAME_CONFLICT</comment>
+        <translatorcomment>无法设置Name属性。不确定的名称</translatorcomment>
+        <translation>无法设置Name属性。不确定的名称</translation>
+    </message>
+<message>
+    <source>property value invalid %1</source>
+    <comment>TxJDE_API_PROPERTY_VALUE_INVALID</comment>
+    <translatorcomment>无法设置%1属性。无效的属性值</translatorcomment>
+    <translation>无法设置%1属性。无效的属性值</translation>
+</message>
+<message>
+    <source>property no support multi-selection</source>
+    <comment>TxJDE_API_PROPERTY_MULTI_NOTSUPPORT</comment>
+    <translatorcomment>多选不支持</translatorcomment>
+    <translation>多选不支持</translation>
+</message>
+</context>
+</TS>

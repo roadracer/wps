@@ -2769,6 +2769,11 @@ Do you want to replace it?</source>
         <comment>_TxTemplate_MediumFull</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fit text</source>
+        <comment>TxRevision_Chp_FitText</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>

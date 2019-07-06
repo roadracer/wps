@@ -1512,7 +1512,7 @@
     </message>
     <message>
         <source>Close Full Screen</source>
-        <translation type="obsolete">關閉全螢幕</translation>
+        <translation type="unfinished">關閉全螢幕</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -5623,6 +5623,10 @@ On</source>
         <source>User Feedback</source>
         <translation>使用者意見反應</translation>
     </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_file.Help</name>
@@ -6551,6 +6555,10 @@ Style</source>
         <source>Thai Distributed</source>
         <translation>泰文式分散對齊</translation>
     </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_home.Num</name>
@@ -7109,6 +7117,10 @@ Break</source>
     <message>
         <source>addAutotext</source>
         <translation>儲存選取項目至自動圖文集庫</translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8923,7 +8935,7 @@ Picture</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="obsolete">插入線上圖片</translation>
+        <translation type="unfinished">插入線上圖片</translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -9031,7 +9043,7 @@ Picture</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="obsolete">線上圖片</translation>
+        <translation type="unfinished">線上圖片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -9410,6 +9422,10 @@ On/Off</source>
         <source>Reset Size</source>
         <translation>重設大小</translation>
     </message>
+    <message>
+        <source>My Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_picturetools.Picture</name>
@@ -9646,7 +9662,7 @@ On/Off</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>插入線上圖片</translation>
+        <translation type="obsolete">插入線上圖片</translation>
     </message>
     <message>
         <source>Less Brightness</source>
@@ -9967,6 +9983,18 @@ On/Off</source>
     <message>
         <source>Property</source>
         <translation>屬性</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13801,7 +13829,7 @@ Shape</source>
     </message>
     <message>
         <source>Link Preview</source>
-        <translation>共享</translation>
+        <translation type="obsolete">共享</translation>
     </message>
     <message>
         <source>My WPS</source>
@@ -14205,6 +14233,42 @@ Shape</source>
     <message>
         <source>Xie De Menu</source>
         <translation>建立多彩版式文件</translation>
+    </message>
+    <message>
+        <source>ComposeAssist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17211,7 +17275,7 @@ Painter</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>涉密關鍵字</translation>
+        <translation>密級關鍵字</translation>
     </message>
     <message>
         <source>Decrease Indent</source>
@@ -17488,6 +17552,30 @@ Painter</source>
     <message>
         <source>addAutotext</source>
         <translation>儲存選取項目至自動圖文集庫</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore Once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Chinese Spelling Check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>User Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -35482,7 +35570,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Text Tools</source>
-        <translation type="obsolete">文字工具</translation>
+        <translation type="unfinished">文字工具</translation>
     </message>
     <message>
         <source>User Feedback</source>
@@ -37523,7 +37611,7 @@ Navigation</source>
     </message>
     <message>
         <source>TpConfidentialityLevelKeyWord</source>
-        <translation>涉密關鍵字檢查</translation>
+        <translation>密級關鍵字檢查</translation>
     </message>
     <message>
         <source>Track Changes Context Menu</source>
@@ -37572,6 +37660,46 @@ Navigation</source>
     <message>
         <source>Xie De Menu</source>
         <translation>建立文件并通過QQ或WeChat共享</translation>
+    </message>
+    <message>
+        <source>Compose View</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DocTranslate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No authentication status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Picture Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Paste Previous Content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -38183,7 +38311,7 @@ Comment</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>線上圖片</translation>
+        <translation type="obsolete">線上圖片</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -38235,7 +38363,7 @@ Comment</source>
     </message>
     <message>
         <source>Ribbon center alignment</source>
-        <translation>功能區按鈕置中排列</translation>
+        <translation type="obsolete">功能區按鈕置中排列</translation>
     </message>
     <message>
         <source>ScreenSaver</source>
@@ -38333,6 +38461,26 @@ Changes</source>
     <message>
         <source>tableContents Navigation</source>
         <translation>目錄</translation>
+    </message>
+    <message>
+        <source>ComposeAssist</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Tool</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon Center Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Special Apps</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -38920,7 +39068,7 @@ Changes</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>涉密關鍵字</translation>
+        <translation>密級關鍵字</translation>
     </message>
     <message>
         <source>Document Security</source>
@@ -38973,6 +39121,50 @@ Changes</source>
     <message>
         <source>Watermark</source>
         <translation type="obsolete">浮水印保護</translation>
+    </message>
+    <message>
+        <source>Data Recovery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document Encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Restrict Editing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Roaming File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Data Recovery Master</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>document authentication</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>document authorization</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>document security</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>document set</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -40319,6 +40511,480 @@ Changes</source>
     <message>
         <source>With The Circle Number.</source>
         <translation type="obsolete">圓框編號</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_graphictool</name>
+    <message>
+        <source>0.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>0.75 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.25 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D
+On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D On</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3-D Rotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>4.5 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>6 pt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Middle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Text Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrange</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Behind Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bold</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring Forward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring in Front of Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bring to Front</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop By Scale</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Crop By Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dash Style</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Horizontally</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distribute Vertically</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Distributed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Emphasis Mark</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Horizontal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Flip Vertical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Font Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format Painter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Free Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Glow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Graphic Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gridlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grow Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Front of Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In Line with Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Italic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Justify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Line Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Dash Dot Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Fill Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Font Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Line Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Underline Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More Underlines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reflection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relative to Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Left 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate Right 90°</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Round Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selection Pane</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Backward</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Behind Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send To Back</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shadow
+On/Off</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Shrink Font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Snapper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Soft Edges</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Solid</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Dot</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Strikethrough</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Wrapping</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Through</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top and Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underline Color</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ungroup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weight</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wrap Text</source>
+        <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

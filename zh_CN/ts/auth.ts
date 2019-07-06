@@ -1229,4 +1229,23 @@ After expiration, some features will not work properly. Please renew now. </sour
         <translation>立即下载</translation>
     </message>
 </context>
+<context>
+    <name>KxAuthorizeExpireReminderDlg</name>
+    <message>
+        <source>preview mode</source>
+        <translation>预览模式</translation>
+    </message>
+    <message>
+        <source>Sorry, your authorization has expired. A few but not all features of this software will remain available to you. Please contact your company&apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.</source>
+        <translation>非常抱歉的通知您，本软件的授权已过期，现转为功能受限，请尽快联系贵单位IT管理员获取新的软件授权，如有疑问请拨打WPS客服热线400-677-5005。</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Sorry, The software license has expired. Please contact your company&amp;apos;s IT department for new authorization code. For further information, contact WPS Customer Service 400-677-5005.</source>
+        <translation>非常抱歉的通知您，本软件的授权已过期，请尽快联系贵单位IT管理员获取新的软件授权，如有疑问请拨打WPS客服热线400-677-5005。</translation>
+    </message>
+</context>
 </TS>

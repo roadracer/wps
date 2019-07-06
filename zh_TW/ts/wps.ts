@@ -8128,6 +8128,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
         <translation>以Word 6.x/95/97的方式配置註腳(&amp;O)</translation>
     </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation>允許中鍵執行粘貼操作</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -20055,7 +20059,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxConfidentialityLevelKeyWordDlgV2</name>
     <message>
         <source>No Find Keyword in document, this document is not confidentiality level document!</source>
-        <translation>偵測完毕，找不到涉密關鍵字。</translation>
+        <translation>偵測完毕，找不到密級關鍵字。</translation>
     </message>
 </context>
 <context>
@@ -20619,7 +20623,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxDlgCheckingTips</name>
     <message>
         <source>clkw checking tips</source>
-        <translation>涉密關鍵字檢查</translation>
+        <translation>密級關鍵字檢查</translation>
     </message>
     <message>
         <source>checking now,plz wait...</source>
@@ -20634,7 +20638,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxDlgCheckingTips2</name>
     <message>
         <source>clkw checking tips</source>
-        <translation>涉密關鍵字檢查</translation>
+        <translation>密級關鍵字檢查</translation>
     </message>
     <message>
         <source>checking now,plz wait...</source>
@@ -20731,7 +20735,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>No Find Keyword in document, this document is not confidentiality level document!</source>
-        <translation>偵測完毕，找不到涉密關鍵字。</translation>
+        <translation>偵測完毕，找不到密級關鍵字。</translation>
     </message>
 </context>
 <context>
@@ -21997,7 +22001,7 @@ represent the recipient&apos;s information content</source>
     </message>
     <message>
         <source>This document has no confidential keywords</source>
-        <translation>未在本文件發現涉密關鍵字</translation>
+        <translation>未在本文件發現密級關鍵字</translation>
     </message>
 </context>
 <context>
@@ -22015,7 +22019,7 @@ represent the recipient&apos;s information content</source>
     <name>KxWidgetTpConfidentialityLevelKeyWord</name>
     <message>
         <source>keyword checking</source>
-        <translation>涉密關鍵字檢查</translation>
+        <translation>密級關鍵字檢查</translation>
     </message>
     <message>
         <source>check</source>
@@ -22635,6 +22639,48 @@ represent the recipient&apos;s information content</source>
     <message>
         <source> Section</source>
         <translation>章節 </translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFitText</name>
+    <message>
+        <source>Fit  Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 1, 0, 1584, 0.5</source>
+        <translation type="unfinished">pt, 1, 0, 1584, 0.5</translation>
+    </message>
+    <message>
+        <source>ch, 1, 0, 316.8, 0.5</source>
+        <translation type="unfinished">ch, 1, 0, 316.8, 0.5</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">移除(&amp;R)</translation>
+    </message>
+</context>
+<context>
+    <name>KxFitTextDlg</name>
+    <message>
+        <source>Cannot fit text to specified length.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(%1 %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

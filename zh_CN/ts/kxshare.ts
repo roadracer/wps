@@ -3757,6 +3757,14 @@ Wuhan Kingsoft Office Software Co., Ltd.</source>
 珠海金山办公软件有限公司
 武汉金山办公软件有限公司</translation>
     </message>
+    <message>
+        <source>product is not activated</source>
+        <translation>产品未激活</translation>
+    </message>
+    <message>
+        <source>Product inactivation</source>
+        <translation>产品已激活</translation>
+    </message>
 </context>
 <context>
     <name>KxAddRestrictUserDlg</name>
@@ -6532,6 +6540,46 @@ installed, or you are sure all documents you open are safe.</source>
     <message>
         <source>Properties</source>
         <translation>属性</translation>
+    </message>
+    <message>
+        <source>PageSetup</source>
+        <translation>页边距</translation>
+    </message>
+    <message>
+        <source>&amp;Right:</source>
+        <translation>右(&amp;R):</translation>
+    </message>
+    <message>
+        <source>&amp;Top:</source>
+        <translation>上(&amp;T):</translation>
+    </message>
+    <message>
+        <source>&amp;Left:</source>
+        <translation>左(&amp;L):</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom:</source>
+        <translation>下(&amp;B):</translation>
+    </message>
+    <message>
+        <source>&amp;Portrait</source>
+        <translation>纵向(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Orientation</source>
+        <translation>方向</translation>
+    </message>
+    <message>
+        <source>Land&amp;scape</source>
+        <translation>横向(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Margins</source>
+        <translation>页边距</translation>
+    </message>
+    <message>
+        <source>cm</source>
+        <translation>厘米</translation>
     </message>
 </context>
 <context>
@@ -10932,6 +10980,12 @@ Do you want to override it?</source>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
         <translation>对话框打开时命令无法执行。单击“确定”，然后关闭对话框再试。</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>无法打开 “%1”。
+此文件可能被重命名、删除或移动了位置。</translation>
     </message>
 </context>
 <context>
@@ -19248,7 +19302,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>some keywords</source>
-        <translation>处涉密</translation>
+        <translation>处</translation>
     </message>
     <message>
         <source>check key word</source>
@@ -19260,7 +19314,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>find some keywords</source>
-        <translation>文件已进行涉密检查，检查结果：共</translation>
+        <translation>文件已进行密级检查，检查结果：共</translation>
     </message>
     <message>
         <source>send report</source>

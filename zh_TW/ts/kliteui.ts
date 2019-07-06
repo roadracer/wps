@@ -326,6 +326,18 @@
         <source>WPS Online Security Document Format</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Mobile Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last open path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original file path</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFileDlgAssitantTool</name>
@@ -472,6 +484,67 @@
     <message>
         <source>Recommended save as specify format</source>
         <translation>建議另存新檔為%1格式。</translation>
+    </message>
+</context>
+<context>
+    <name>KCefLoadingProgressDlgBase</name>
+    <message>
+        <source>Error occurred on browser plug-in download, it is recommended to detect the network after reloading</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Browser plugin failed to load</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading browser plugin......</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This feature requires built-in browser support,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please wait a few minutes for us to complete the loading of the browser plugin.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLiteMessageContentDlg</name>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">關閉</translation>
+    </message>
+</context>
+<context>
+    <name>KNotFoundFileDlgBase</name>
+    <message>
+        <source>%1open file path%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

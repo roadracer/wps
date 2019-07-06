@@ -3068,6 +3068,11 @@ Do you want to replace it?</source>
         <comment>_TxTemplate_MediumFull</comment>
         <translation>%s載入失敗。磁碟已滿，請清理不必要的檔案（如暫存檔）之後再試。</translation>
     </message>
+    <message>
+        <source>Fit text</source>
+        <comment>TxRevision_Chp_FitText</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>

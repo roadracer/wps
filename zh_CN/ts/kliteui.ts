@@ -647,4 +647,85 @@
         <translation>建议另存为%1格式。</translation>
     </message>
 </context>
+<context>
+    <name>KCefLoadingProgressDlgBase</name>
+    <message>
+        <source>This feature requires built-in browser support, Please wait a few minutes for us to complete the loading of the browser plugin.</source>
+        <translation type="obsolete">本功能需要内置浏览器插件支持，
+请等待几分钟以便我们完成浏览器插件的加载。</translation>
+    </message>
+    <message>
+        <source>Error occurred on browser plug-in download, it is recommended to detect the network after reloading</source>
+        <translation>浏览器插件下载出现问题，建议检测网络后重新加载</translation>
+    </message>
+    <message>
+        <source>Reload</source>
+        <translation>重新加载</translation>
+    </message>
+    <message>
+        <source>Browser plugin failed to load</source>
+        <translation>浏览器插件加载失败</translation>
+    </message>
+    <message>
+        <source>Loading browser plugin......</source>
+        <translation>浏览器插件正在加载中......</translation>
+    </message>
+    <message>
+        <source>This feature requires built-in browser support,</source>
+        <translation>本功能需要内置浏览器插件支持，</translation>
+    </message>
+    <message>
+        <source>Please wait a few minutes for us to complete the loading of the browser plugin.</source>
+        <translation>请等待几分钟以便我们完成浏览器插件的加载。</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation>如有疑问请拨打WPS客服热线400-677-5005或扫描左边客服二维码</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteTrialReminderCommentWidget</name>
+    <message>
+        <source>some features of this software is limited.Please contact your IT manager to get the latest authorization soon.</source>
+        <translation>过期, 本软件已经转为功能受限。请尽快联系贵单位IT管理员获取新的软件授权码。</translation>
+    </message>
+    <message>
+        <source>Please contact your IT administrator for new software authorization as soon as possible.</source>
+        <translation>过期, 请尽快联系贵单位IT管理员获取新的软件授权码。</translation>
+    </message>
+    <message>
+        <source>We are so sorry to tell you:</source>
+        <translation>非常抱歉的通知您:</translation>
+    </message>
+    <message>
+        <source>The authorize of this software were expired on </source>
+        <translation>本软件的授权已于</translation>
+    </message>
+</context>
+<context>
+    <name>KLiteTrialReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation>授权已到期</translation>
+    </message>
+    <message>
+        <source>You can try the WPS Office for %1 days</source>
+        <translation>您可以试用%1天</translation>
+    </message>
+    <message>
+        <source>preview mode</source>
+        <translation>预览模式</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Start Trial</source>
+        <translation>试用看看</translation>
+    </message>
+</context>
 </TS>

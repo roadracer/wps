@@ -3426,7 +3426,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>自定义比例</source>
-        <translation type="obsolete">自定义比例</translation>
+        <translation type="unfinished">自定义比例</translation>
     </message>
     <message>
         <source>%</source>
@@ -3438,11 +3438,11 @@ Please modify and try again</source>
     </message>
     <message>
         <source>每张页数:</source>
-        <translation type="obsolete">每张页数</translation>
+        <translation type="unfinished">每张页数</translation>
     </message>
     <message>
         <source>页面顺序:</source>
-        <translation type="obsolete">页面顺序</translation>
+        <translation type="unfinished">页面顺序</translation>
     </message>
     <message>
         <source>2</source>
@@ -3462,23 +3462,23 @@ Please modify and try again</source>
     </message>
     <message>
         <source>海报</source>
-        <translation type="obsolete">海报</translation>
+        <translation type="unfinished">海报</translation>
     </message>
     <message>
         <source>平铺百分比:</source>
-        <translation type="obsolete">平铺百分比</translation>
+        <translation type="unfinished">平铺百分比</translation>
     </message>
     <message>
         <source>重叠:</source>
-        <translation type="obsolete">重叠:</translation>
+        <translation type="unfinished">重叠:</translation>
     </message>
     <message>
         <source>剪贴标记</source>
-        <translation type="obsolete">剪贴标记</translation>
+        <translation type="unfinished">剪贴标记</translation>
     </message>
     <message>
         <source>标签</source>
-        <translation type="obsolete">标签</translation>
+        <translation type="unfinished">标签</translation>
     </message>
     <message>
         <source>小册子</source>
@@ -3518,7 +3518,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>双面打印：</source>
-        <translation type="obsolete">双面打印：</translation>
+        <translation type="unfinished">双面打印：</translation>
     </message>
     <message>
         <source>自动居中</source>
@@ -3570,7 +3570,7 @@ Please modify and try again</source>
     </message>
     <message>
         <source>属性</source>
-        <translation type="obsolete">属性</translation>
+        <translation type="unfinished">属性</translation>
     </message>
     <message>
         <source>奇偶页面：</source>
@@ -3634,11 +3634,11 @@ Please modify and try again</source>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">...</translation>
     </message>
     <message>
         <source>/</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">/</translation>
     </message>
     <message>
         <source>1000</source>
@@ -3667,35 +3667,35 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>颜色：</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">颜色：</translation>
     </message>
     <message>
         <source>自定义比例：</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">自定义比例：</translation>
     </message>
     <message>
         <source>每张页数：</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">每张页数：</translation>
     </message>
     <message>
         <source>*</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">*</translation>
     </message>
     <message>
         <source>页面顺序：</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">页面顺序：</translation>
     </message>
     <message>
         <source>页面设置</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">页面设置</translation>
     </message>
     <message>
         <source>双面打印</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">双面打印</translation>
     </message>
     <message>
         <source>打印颜色</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">打印颜色</translation>
     </message>
     <message>
         <source>All</source>
@@ -3744,6 +3744,14 @@ p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Microsoft YaHei&apos;; font-weight:400; font-style:normal;&quot;&gt;
 &lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;eg:1-5,7,9-10&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>小册子子集：</source>
+        <translation type="unfinished">小册子子集：</translation>
+    </message>
+    <message>
+        <source>装订：</source>
+        <translation type="unfinished">装订：</translation>
     </message>
 </context>
 <context>
@@ -3827,6 +3835,17 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>PDF Compress</source>
         <translation>PDF压缩</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgPrinterProperties</name>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">确定</translation>
     </message>
 </context>
 </TS>

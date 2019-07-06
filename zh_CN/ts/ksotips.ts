@@ -1697,5 +1697,15 @@ InsertQRCode.content</extracomment>
         <extracomment>DocerMall.content</extracomment>
         <translation>在新标签页中打开稻壳商城</translation>
     </message>
+    <message id="JavascriptEditor.title">
+        <source>WPS JavaScript Editor</source>
+        <extracomment>JavascriptEditor.title</extracomment>
+        <translation>WPS 宏编辑器</translation>
+    </message>
+    <message id="JavascriptEditor.content">
+        <source>Launch WPS JavaScript Editor, and edit Macros.</source>
+        <extracomment>JavascriptEditor.content</extracomment>
+        <translation>打开WPS 宏编辑器，编辑宏代码</translation>
+    </message>
 </context>
 </TS>

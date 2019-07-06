@@ -27,6 +27,14 @@
         <source>OK</source>
         <translation>确定</translation>
     </message>
+    <message>
+        <source>Reboot or Logoff to see changes</source>
+        <translation>重启或注销系统使设置生效</translation>
+    </message>
+    <message>
+        <source>The settings you have changed require a system reboot or logoff to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
+        <translation>此设置需要重启或注销系统后才能生效。点击确定关闭本窗口，点击取消则会撤销此变更。</translation>
+    </message>
 </context>
 <context>
     <name>KSwitchToClassicInterfaceDlg</name>
@@ -57,6 +65,10 @@
     <message>
         <source>Start WPS</source>
         <translation>启动WPS</translation>
+    </message>
+    <message>
+        <source>This operation request a system reboot or logoff, Please close all the file in advance in case data lose</source>
+        <translation type="unfinished">此操作需要重启或注销系统后生效，请提前关闭所有文件以免造成数据丢失。</translation>
     </message>
 </context>
 <context>

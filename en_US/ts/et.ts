@@ -11336,6 +11336,14 @@ file,then click Switch to Kingsoft Spreadsheets Shared Workbook.</translation>
         <source>Advanced authorization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Paste settings</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -21858,6 +21866,102 @@ Some columns may not have title. Add titles and try again.</translation>
     <message>
         <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
         <translation>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home tab, and then choose Protect Sheet. A password is optional.</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeFrameEmbedInMenuItem</name>
+    <message>
+        <source>:</source>
+        <translation>:</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeProgressDlg</name>
+    <message>
+        <source>Merge Sheet</source>
+        <translation>Merge Sheet</translation>
+    </message>
+    <message>
+        <source>Merging sheet</source>
+        <translation>Merging sheet</translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation>Stop</translation>
+    </message>
+    <message>
+        <source>Merging is done.(%1/%2)</source>
+        <translation>Merging is done.(%1/%2)</translation>
+    </message>
+    <message>
+        <source>Merging tables(%1/%2)</source>
+        <translation>Merging tables(%1/%2)</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeSheetDlg</name>
+    <message>
+        <source>Merge Tables</source>
+        <translation>Merge Tables</translation>
+    </message>
+    <message>
+        <source>Specify which workbooks/sheets to merge:</source>
+        <translation>Specify which workbooks/sheets to merge:</translation>
+    </message>
+    <message>
+        <source>&amp;Add file</source>
+        <translation>Add file(&amp;A)</translation>
+    </message>
+    <message>
+        <source>The merging will keep all the original content, formulas and formats.</source>
+        <translation>The merging will keep all the original content, formulas and formats.</translation>
+    </message>
+    <message>
+        <source>Start merging</source>
+        <translation>Start merging</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>Cancel</translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation>Options(O)</translation>
+    </message>
+    <message>
+        <source>Title Rows</source>
+        <translation>Title Rows</translation>
+    </message>
+    <message>
+        <source>Use original &amp;sheet names</source>
+        <translation>Use original sheet names(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Sheet names + original &amp;file names</source>
+        <translation>Sheet names + original file names(&amp;F)</translation>
+    </message>
+    <message>
+        <source>Original fil&amp;e names + sheet names</source>
+        <translation>Original file names + sheet names(&amp;E)</translation>
+    </message>
+    <message>
+        <source>Merge workbooks</source>
+        <translation>Merge workbooks</translation>
+    </message>
+    <message>
+        <source>Merge worksheets</source>
+        <translation>Merge worksheets</translation>
+    </message>
+    <message>
+        <source>Merge same-name sheets in workbooks</source>
+        <translation>Merge same-name sheets in workbooks</translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeWithLineEditCommand</name>
+    <message>
+        <source>(Note:Keep one title)</source>
+        <translation>(Note:Keep one title)</translation>
     </message>
 </context>
 </TS>

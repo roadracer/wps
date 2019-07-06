@@ -12874,6 +12874,14 @@ file,then %2switch%3the file to ET shared workbook.</source>
         <source>Advanced authorization</source>
         <translation>進階授權</translation>
     </message>
+    <message>
+        <source>Paste settings</source>
+        <translation>粘貼設置</translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation>允許中鍵執行粘貼操作</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>

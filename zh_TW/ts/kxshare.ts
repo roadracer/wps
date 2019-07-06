@@ -10034,6 +10034,12 @@ but the included system package is reserved.</source>
         <source>Modal dialog! Can&apos;t process files!</source>
         <translation type="obsolete">因為尚有開啟的對話方塊，因此無法執行此指令。請按一下 [確定]，關閉開啟的對話方塊後再繼續。</translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation>無法開啟文件 &quot;%1&quot;。
+它可能已經重新命名、刪除或移動了。 </translation>
+    </message>
 </context>
 <context>
     <name>KxSwitchSkinModel</name>
@@ -17244,11 +17250,11 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>find some keywords</source>
-        <translation>已對文件執行涉密檢查，檢查結果:共</translation>
+        <translation>已對文件執行密級檢查，檢查結果:共</translation>
     </message>
     <message>
         <source>some keywords</source>
-        <translation>項涉密</translation>
+        <translation>項</translation>
     </message>
     <message>
         <source>check key word</source>

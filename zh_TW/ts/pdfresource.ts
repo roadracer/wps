@@ -699,6 +699,54 @@
         <source>pdfconvertword</source>
         <translation>將文件匯出為Word</translation>
     </message>
+    <message>
+        <source>Convert2Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteEraserMenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteImage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Tab Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PdfEraserMenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>addimage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>翻译</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>common.mainwindow.commands.Help</name>
@@ -716,6 +764,10 @@
     <message>
         <source>TextBox</source>
         <translation>文字方塊</translation>
+    </message>
+    <message>
+        <source>Tool</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -795,6 +847,34 @@
     <message>
         <source>SaveAs</source>
         <translation>另存新檔</translation>
+    </message>
+    <message>
+        <source>Creat PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TXT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The export of PDF is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -906,6 +986,10 @@
         <source>Zoom%</source>
         <translation>放大</translation>
     </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_pagemanager</name>
@@ -951,11 +1035,39 @@
         <source>Tool</source>
         <translation>工具</translation>
     </message>
+    <message>
+        <source>Zoom%</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_tools</name>
     <message>
         <source>Menu Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docmgr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -964,7 +1076,7 @@
     <message>
         <source>Arrange
 All</source>
-        <translation>重排視窗</translation>
+        <translation type="unfinished">重排視窗</translation>
     </message>
     <message>
         <source>Cancel Splitting</source>
@@ -993,7 +1105,7 @@ All</source>
     <message>
         <source>Full 
 Screen</source>
-        <translation>全螢幕</translation>
+        <translation type="unfinished">全螢幕</translation>
     </message>
     <message>
         <source>Horizontal</source>
@@ -1010,7 +1122,7 @@ Screen</source>
     <message>
         <source>New
 Window</source>
-        <translation>開新視窗</translation>
+        <translation type="unfinished">開新視窗</translation>
     </message>
     <message>
         <source>Night Mode</source>
@@ -1019,7 +1131,7 @@ Window</source>
     <message>
         <source>Page
 Navigation</source>
-        <translation>頁面導覽</translation>
+        <translation type="unfinished">頁面導覽</translation>
     </message>
     <message>
         <source>Place on Left</source>
@@ -1032,7 +1144,7 @@ Navigation</source>
     <message>
         <source>Print 
 Layout</source>
-        <translation>列印版面配置</translation>
+        <translation type="unfinished">列印版面配置</translation>
     </message>
     <message>
         <source>Reset Window Position</source>
@@ -1069,7 +1181,7 @@ Layout</source>
     <message>
         <source>Switch
 Window</source>
-        <translation>切換視窗</translation>
+        <translation type="unfinished">切換視窗</translation>
     </message>
     <message>
         <source>Synchronous Scrolling</source>
@@ -1086,7 +1198,7 @@ Window</source>
     <message>
         <source>View
 Side by Side</source>
-        <translation>並排檢視</translation>
+        <translation type="unfinished">並排檢視</translation>
     </message>
     <message>
         <source>Window</source>
@@ -1109,6 +1221,10 @@ Side by Side</source>
     </message>
     <message>
         <source>PDFPagesOper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2Photo</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1161,6 +1277,22 @@ Side by Side</source>
     <message>
         <source>Translation</source>
         <translation>翻譯</translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveAsCompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected text2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1372,6 +1504,42 @@ Side by Side</source>
         <source>upgrade VIP</source>
         <translation>VIP升級</translation>
     </message>
+    <message>
+        <source>Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon Center Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveAsCompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu</name>
@@ -1394,7 +1562,7 @@ Side by Side</source>
     <message>
         <source>COM 
 Add-Ins</source>
-        <translation>COM 增益集</translation>
+        <translation type="unfinished">COM 增益集</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1804,6 +1972,34 @@ Add-Ins</source>
         <source>Zoom Slider</source>
         <translation>縮放滑塊</translation>
     </message>
+    <message>
+        <source>EditImage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EditImageLayer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image2Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image2top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -1827,6 +2023,19 @@ Add-Ins</source>
     <message>
         <source>Switch Language</source>
         <translation>變更語言</translation>
+    </message>
+</context>
+<context>
+    <name>pdfongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

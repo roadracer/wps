@@ -1606,5 +1606,15 @@ The types of relationship diagram includes: OrgChart, Quadrant, Side-by-Side, pr
         <extracomment>DocerMall.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="JavascriptEditor.title">
+        <source>WPS JavaScript Editor</source>
+        <extracomment>JavascriptEditor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="JavascriptEditor.content">
+        <source>Launch WPS JavaScript Editor, and edit Macros.</source>
+        <extracomment>JavascriptEditor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

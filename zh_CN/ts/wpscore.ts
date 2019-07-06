@@ -3097,6 +3097,11 @@ Do you want to replace it?</source>
         <comment>_TxTemplate_MediumFull</comment>
         <translation>%s加载失败，磁盘已满，请清理磁盘中不必要的文件（如临时文件）之后再试。</translation>
     </message>
+    <message>
+        <source>Fit text</source>
+        <comment>TxRevision_Chp_FitText</comment>
+        <translation>适应文字</translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>

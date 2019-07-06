@@ -1364,7 +1364,7 @@
     </message>
     <message>
         <source>Close Full Screen</source>
-        <translation type="obsolete">关闭全屏显示</translation>
+        <translation type="unfinished">关闭全屏显示</translation>
     </message>
     <message>
         <source>Click to adjust Zoom level</source>
@@ -3570,6 +3570,10 @@ Editor</source>
         <source>Rich Text Content Control</source>
         <translation>格式文本内容控件</translation>
     </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -5475,7 +5479,7 @@ Header and Footer</source>
     </message>
     <message>
         <source>My Picture</source>
-        <translation>我的图片</translation>
+        <translation type="obsolete">我的图片</translation>
     </message>
     <message>
         <source>Insert Page Number</source>
@@ -7071,7 +7075,7 @@ bol</source>
     </message>
     <message>
         <source>My Picture</source>
-        <translation>我的图片</translation>
+        <translation type="obsolete">我的图片</translation>
     </message>
     <message>
         <source>Page X</source>
@@ -8390,7 +8394,7 @@ Picture</source>
     </message>
     <message>
         <source>Insert Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Insert Picture</source>
@@ -8490,7 +8494,7 @@ Picture</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation type="obsolete">在线图片</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Outline</source>
@@ -9168,7 +9172,7 @@ On/Off</source>
     </message>
     <message>
         <source>Insert online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>InsertPicture</source>
@@ -9561,6 +9565,14 @@ On/Off</source>
     <message>
         <source>Property</source>
         <translation>属性</translation>
+    </message>
+    <message>
+        <source>Insert Online Picture</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13917,6 +13929,26 @@ Shape</source>
         <source>Xie De Menu</source>
         <translation>新建多彩版式文章</translation>
     </message>
+    <message>
+        <source>GroupSending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu</name>
@@ -14834,7 +14866,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="obsolete">激活产品</translation>
+        <translation>激活产品</translation>
     </message>
     <message>
         <source>Equal Height</source>
@@ -14922,7 +14954,7 @@ Diagonal Line in Cell</source>
     </message>
     <message>
         <source>Feedback by Email</source>
-        <translation type="obsolete">WPS 客服邮箱</translation>
+        <translation type="unfinished">WPS 客服邮箱</translation>
     </message>
     <message>
         <source>Feedback via E-mail</source>
@@ -15928,7 +15960,7 @@ Painter</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>产品管理中心</translation>
+        <translation>输入序列号</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -15940,7 +15972,7 @@ Painter</source>
     </message>
     <message>
         <source>Purchase Serial Number</source>
-        <translation type="obsolete">购买序列号</translation>
+        <translation type="unfinished">购买序列号</translation>
     </message>
     <message>
         <source>Recharge</source>
@@ -16592,7 +16624,7 @@ Painter</source>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>WPS Office 主页</translation>
+        <translation>WPS官方网站</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -16800,7 +16832,7 @@ Painter</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>涉密关键词</translation>
+        <translation>密级关键词</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -17137,6 +17169,10 @@ Painter</source>
     <message>
         <source>addAutotext</source>
         <translation>将所选内容保存到自动图文集库</translation>
+    </message>
+    <message>
+        <source>User Manual</source>
+        <translation>帮助</translation>
     </message>
 </context>
 <context>
@@ -17865,6 +17901,10 @@ Diagonal Line in Cell</source>
     <message>
         <source>XmlStructure</source>
         <translation>结构</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
     </message>
 </context>
 <context>
@@ -31897,7 +31937,7 @@ You can also center them or distribute them evenly across the page.</source>
     </message>
     <message>
         <source>Curve Segment</source>
-        <translation type="obsolete">曲线段</translation>
+        <translation type="unfinished">曲线段</translation>
     </message>
     <message>
         <source>Custom Status Bar</source>
@@ -33000,7 +33040,7 @@ Directly</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>分享文档</translation>
+        <translation>分享</translation>
     </message>
     <message>
         <source>Export Army Dictionary</source>
@@ -33101,7 +33141,7 @@ Screen</source>
     </message>
     <message>
         <source>My Picture</source>
-        <translation>我的图片</translation>
+        <translation type="obsolete">我的图片</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
@@ -33343,7 +33383,7 @@ Layout</source>
     <message>
         <source>Show Document
 Map</source>
-        <translation type="unfinished">文档结构图</translation>
+        <translation type="obsolete">文档结构图</translation>
     </message>
     <message>
         <source>Show First Line Only</source>
@@ -33436,7 +33476,7 @@ Navigation</source>
     </message>
     <message>
         <source>TpConfidentialityLevelKeyWord</source>
-        <translation>涉密关键词检查</translation>
+        <translation>密级关键词检查</translation>
     </message>
     <message>
         <source>Track Changes Context Menu</source>
@@ -33489,6 +33529,30 @@ Navigation</source>
     <message>
         <source>document authentication</source>
         <translation>文档认证</translation>
+    </message>
+    <message>
+        <source>DocTranslate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fit Text</source>
+        <translation>调整宽度</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
+    </message>
+    <message>
+        <source>NavigationPane DocMapView Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -33969,7 +34033,7 @@ Navigation</source>
     </message>
     <message>
         <source>DocTranslate</source>
-        <translation>全文翻译</translation>
+        <translation type="obsolete">全文翻译</translation>
     </message>
     <message>
         <source>Docer Entrance</source>
@@ -34088,7 +34152,7 @@ Comment</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Organization Chart</source>
@@ -34283,6 +34347,18 @@ Changes</source>
     <message>
         <source>tableContents Navigation</source>
         <translation>目录</translation>
+    </message>
+    <message>
+        <source>About WPS Writer</source>
+        <translation type="obsolete">关于 WPS 文字</translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation type="obsolete">输入序列号</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="obsolete">WPS官方网站</translation>
     </message>
 </context>
 <context>
@@ -35444,7 +35520,7 @@ On/Off</source>
     </message>
     <message>
         <source>Confidentiality Level KeyWord</source>
-        <translation>涉密关键词</translation>
+        <translation>密级关键词</translation>
     </message>
     <message>
         <source>Data Recovery</source>
@@ -35528,7 +35604,7 @@ On/Off</source>
     </message>
     <message>
         <source>cloud Encryption</source>
-        <translation>云加密</translation>
+        <translation type="obsolete">云加密</translation>
     </message>
     <message>
         <source>document authentication</source>

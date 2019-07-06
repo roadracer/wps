@@ -8211,5 +8211,20 @@ This backup will be saved to(%s)</source>
         <comment>WpCheckInSharepoint</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>/WPS Image/WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>/WPS 画像/WPS 画像</translation>
+    </message>
+    <message>
+        <source>/WPS Video/WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>/WPS ビデオ/WPS ビデオ</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation>/WPS 講演記録/WPS 講演記録</translation>
+    </message>
 </context>
 </TS>

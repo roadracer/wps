@@ -3173,6 +3173,10 @@ Editor</source>
         <source>Visual Basic Editor</source>
         <translation type="obsolete">VB 编辑器</translation>
     </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtool</name>
@@ -3864,7 +3868,7 @@ On</source>
     </message>
     <message>
         <source>Hollow</source>
-        <translation>镂空</translation>
+        <translation type="obsolete">镂空</translation>
     </message>
     <message>
         <source>Combine</source>
@@ -5600,7 +5604,7 @@ Slide</source>
     </message>
     <message>
         <source>Online Picture</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>Outline</source>
@@ -5950,7 +5954,7 @@ Effects</source>
     </message>
     <message>
         <source>Left-to-Right</source>
-        <translation>从左向右</translation>
+        <translation type="obsolete">从左向右</translation>
     </message>
     <message>
         <source>Local Layout</source>
@@ -5990,7 +5994,7 @@ Effects</source>
     </message>
     <message>
         <source>Right-to-Left</source>
-        <translation>从右向左</translation>
+        <translation type="obsolete">从右向左</translation>
     </message>
     <message>
         <source>Section</source>
@@ -7540,6 +7544,14 @@ On/Off</source>
     <message>
         <source>Reset Size</source>
         <translation>重设大小</translation>
+    </message>
+    <message>
+        <source>Insert Online Pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online Pictures</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11097,7 +11109,7 @@ Shape</source>
     </message>
     <message>
         <source>ScreenSaverQuickEntry</source>
-        <translation>启动WPS画报</translation>
+        <translation type="obsolete">启动WPS画报</translation>
     </message>
     <message>
         <source>Send By E-mail</source>
@@ -11146,6 +11158,22 @@ Shape</source>
     <message>
         <source>Xie De</source>
         <translation>云报告</translation>
+    </message>
+    <message>
+        <source>GroupSending</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11256,7 +11284,7 @@ Shape</source>
     </message>
     <message>
         <source>Activate WPS Office</source>
-        <translation>激活 WPS Office</translation>
+        <translation type="obsolete">激活 WPS Office</translation>
     </message>
     <message>
         <source>Add Axis</source>
@@ -12898,7 +12926,7 @@ Master</source>
     </message>
     <message>
         <source>Product Management Center</source>
-        <translation>产品管理中心</translation>
+        <translation>输入序列号</translation>
     </message>
     <message>
         <source>Properties</source>
@@ -13266,7 +13294,7 @@ Master</source>
     </message>
     <message>
         <source>Study Online</source>
-        <translation>WPS 学习社区</translation>
+        <translation type="obsolete">WPS 学习社区</translation>
     </message>
     <message>
         <source>Style</source>
@@ -13378,7 +13406,7 @@ Master</source>
     </message>
     <message>
         <source>User Feedback</source>
-        <translation>用户反馈</translation>
+        <translation type="obsolete">用户反馈</translation>
     </message>
     <message>
         <source>Vertical</source>
@@ -13430,7 +13458,7 @@ Master</source>
     </message>
     <message>
         <source>WPS Office Homepage</source>
-        <translation>WPS Office 主页</translation>
+        <translation>WPS官方网站</translation>
     </message>
     <message>
         <source>WPS Office New features</source>
@@ -13764,6 +13792,10 @@ Master</source>
         <source>Web Preview</source>
         <translation>生成网页分享</translation>
     </message>
+    <message>
+        <source>User Manual</source>
+        <translation>帮助</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.Fill</name>
@@ -13980,11 +14012,11 @@ Master</source>
     </message>
     <message>
         <source>Transform</source>
-        <translation>切换</translation>
+        <translation type="obsolete">切换</translation>
     </message>
     <message>
         <source>Transition Effects</source>
-        <translation>幻灯片切换</translation>
+        <translation type="obsolete">幻灯片切换</translation>
     </message>
     <message>
         <source>CustomAnimations</source>
@@ -13993,6 +14025,23 @@ Master</source>
     <message>
         <source>EffectOptions</source>
         <translation>效果选项</translation>
+    </message>
+    <message>
+        <source>Anima</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transition
+Effects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TransitionEffects</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14636,6 +14685,10 @@ AddIns</source>
     <message>
         <source>Visual Basic Editor</source>
         <translation>Visual Basic 编辑器</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
     </message>
 </context>
 <context>
@@ -18167,7 +18220,7 @@ Subordinate</source>
     </message>
     <message>
         <source>Creative Crop</source>
-        <translation>创意裁剪</translation>
+        <translation type="obsolete">创意裁剪</translation>
     </message>
     <message>
         <source>Reset Size</source>
@@ -25563,7 +25616,7 @@ Slide</source>
     </message>
     <message>
         <source>Animation Effect</source>
-        <translation type="obsolete">动画效果</translation>
+        <translation type="unfinished">动画效果</translation>
     </message>
     <message>
         <source>Auto Backup Menu</source>
@@ -25587,7 +25640,7 @@ Slide</source>
     </message>
     <message>
         <source>Change Background Image</source>
-        <translation type="obsolete">更换图片</translation>
+        <translation type="unfinished">更换图片</translation>
     </message>
     <message>
         <source>Change Color</source>
@@ -25595,7 +25648,7 @@ Slide</source>
     </message>
     <message>
         <source>Change Color Theme</source>
-        <translation type="obsolete">颜色主题</translation>
+        <translation type="unfinished">颜色主题</translation>
     </message>
     <message>
         <source>Change Layout</source>
@@ -25603,7 +25656,7 @@ Slide</source>
     </message>
     <message>
         <source>Change Node Num</source>
-        <translation type="obsolete">节点个数</translation>
+        <translation type="unfinished">节点个数</translation>
     </message>
     <message>
         <source>Change Num</source>
@@ -25623,7 +25676,7 @@ Slide</source>
     </message>
     <message>
         <source>Change Timeline Color</source>
-        <translation type="obsolete">更改颜色</translation>
+        <translation type="unfinished">更改颜色</translation>
     </message>
     <message>
         <source>Cloud Page</source>
@@ -25667,7 +25720,7 @@ Slide</source>
     </message>
     <message>
         <source>File Share</source>
-        <translation>分享文档</translation>
+        <translation>分享</translation>
     </message>
     <message>
         <source>Export as Image</source>
@@ -25691,7 +25744,7 @@ Slide</source>
     </message>
     <message>
         <source>Focus Node</source>
-        <translation type="obsolete">强调节点</translation>
+        <translation type="unfinished">强调节点</translation>
     </message>
     <message>
         <source>From Current 
@@ -25748,7 +25801,7 @@ Slide To Play</source>
     </message>
     <message>
         <source>My Picture</source>
-        <translation>我的图片</translation>
+        <translation type="obsolete">我的图片</translation>
     </message>
     <message>
         <source>Insert Pictures From Phone</source>
@@ -25780,7 +25833,7 @@ Slide To Play</source>
     </message>
     <message>
         <source>Keep Source Formattin</source>
-        <translation type="obsolete">保留原主题</translation>
+        <translation type="unfinished">保留原主题</translation>
     </message>
     <message>
         <source>Left-to-Right</source>
@@ -25978,7 +26031,7 @@ Slide To Play</source>
     </message>
     <message>
         <source>Use Destination Theme</source>
-        <translation type="obsolete">使用当前主题</translation>
+        <translation type="unfinished">使用当前主题</translation>
     </message>
     <message>
         <source>WPS Presentation File</source>
@@ -26003,6 +26056,18 @@ Slide To Play</source>
     <message>
         <source>Creative Crop</source>
         <translation>创意裁剪</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation>WPS 宏编辑器</translation>
+    </message>
+    <message>
+        <source>Online Fonts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online WordArt</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -26575,7 +26640,7 @@ Slide To Play</source>
     </message>
     <message>
         <source>Online Pictures</source>
-        <translation>在线图片</translation>
+        <translation type="obsolete">在线图片</translation>
     </message>
     <message>
         <source>PDF Merge</source>
@@ -26627,7 +26692,7 @@ Slide To Play</source>
     </message>
     <message>
         <source>ScreenSaverQuickEntry</source>
-        <translation>启动WPS画报</translation>
+        <translation type="obsolete">启动WPS画报</translation>
     </message>
     <message>
         <source>Security</source>
@@ -26728,6 +26793,18 @@ Slide To Play</source>
     <message>
         <source>message Center</source>
         <translation>消息中心</translation>
+    </message>
+    <message>
+        <source>About WPS Presentation</source>
+        <translation type="obsolete">关于 WPS 演示</translation>
+    </message>
+    <message>
+        <source>Product Management Center</source>
+        <translation type="obsolete">输入序列号</translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="obsolete">WPS官方网站</translation>
     </message>
 </context>
 <context>
@@ -27747,7 +27824,7 @@ Slide To Play</source>
     </message>
     <message>
         <source>cloud Encryption</source>
-        <translation>云加密</translation>
+        <translation type="obsolete">云加密</translation>
     </message>
     <message>
         <source>document authentication</source>

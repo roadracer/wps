@@ -7772,6 +7772,18 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
         <translation>注意：密码区分大小写。编辑权限密码不能超过15个字符。
 请妥善保管密码，一旦丢失或遗忘，则无法恢复。</translation>
     </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation>允许中键执行粘贴操作</translation>
+    </message>
+    <message>
+        <source>Printing options</source>
+        <translation>打印选项</translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation>高质量打印</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageSetup</name>
@@ -26575,6 +26587,13 @@ Please unfreeze pane.</source>
     <message>
         <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
         <translation>只有当工作表被保护时，锁定对象才有效。如果要保护工作表，请选择“工具”菜单中的“保护”命令，然后选择“保护工作表”。可以选择是否加密码保护。</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation>产品未激活</translation>
     </message>
 </context>
 </TS>

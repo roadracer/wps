@@ -20412,4 +20412,46 @@ represent the recipient&apos;s information content</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
+<context>
+    <name>KxDlgFitText</name>
+    <message>
+        <source>Fit  Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 1, 0, 1584, 0.5</source>
+        <translation type="unfinished">pt, 2, 0,05, 1584, 1 {1, 0, 1584, 0.5?}</translation>
+    </message>
+    <message>
+        <source>ch, 1, 0, 316.8, 0.5</source>
+        <translation type="unfinished">ca, 2, 0, 150,86, 0,5 {1, 0, 316.8, 0.5?}</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">Supprimer</translation>
+    </message>
+</context>
+<context>
+    <name>KxFitTextDlg</name>
+    <message>
+        <source>Cannot fit text to specified length.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(%1 %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2</source>
+        <translation type="unfinished">%1 %2</translation>
+    </message>
+</context>
 </TS>

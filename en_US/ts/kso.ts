@@ -9063,7 +9063,7 @@ This position may not be safe.</source>
     <message>
         <source>Kingsoft PDF</source>
         <comment>_kso_pdfProductName</comment>
-        <translation type="unfinished"></translation>
+        <translation>WPS PDF</translation>
     </message>
     <message>
         <source>This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1; TH Sarabun PSK, and gets its free authorization according to the SIL OPEN FONT LICENSE Version 1.1; TH Sarabun New, free authorization according to GPL 2.0.</source>
@@ -9123,7 +9123,14 @@ This position may not be safe.</source>
     <message>
         <source>Pdf Thanks To</source>
         <comment>_kso_pdfThanksTo</comment>
-        <translation type="unfinished"></translation>
+        <translation>This software includes:
+The FreeType Project is free of charge according to its authorized terms of the FreeType License;
+JBig2	According to its free commercial license, using its binary image codec open source code;
+Lcms	According to its free commercial license, uing color conversion library to open source code;
+LibJPEG	According to its free commercial license, using its JPEG image codec open source code;
+OpenJPEG	According to its free commercial license, using its JPEG 2000 codec to open the source code;
+PDFium	According to its free commercial license, using its PDF reading engine open source code;
+Zlib	According to its free commercial license, using its deflate compression and decompression algorithm library.</translation>
     </message>
 </context>
 <context>

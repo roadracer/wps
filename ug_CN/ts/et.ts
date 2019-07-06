@@ -10025,6 +10025,14 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <source>You don&apos;t have permission to write backup files to &quot;%1&quot;.</source>
         <translation>您没有权限将备份文件保存在 &quot;%1&quot; 中。</translation>
     </message>
+    <message>
+        <source>Paste settings</source>
+        <translation>粘贴设置</translation>
+    </message>
+    <message>
+        <source>Enable middle button &amp;paste</source>
+        <translation>允许中键执行粘贴操作</translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>

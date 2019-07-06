@@ -3792,14 +3792,16 @@ This creates a document with clean look.</source>
     <message id="InsertSmartArt.title">
         <source>Insert a SmartArt Graphic</source>
         <extracomment>InsertSmartArt.title</extracomment>
-        <translation></translation>
+        <translation>Insert a WPSArt Graphic</translation>
     </message>
     <message id="InsertSmartArt.content">
         <source>Insert a SmartArt graphic to visually communicate information.
 
 SmartArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</source>
         <extracomment>InsertSmartArt.content</extracomment>
-        <translation></translation>
+        <translation>Insert a WPSArt graphic to visually communicate information.
+
+WPSArt graphics range from graphical lists and process diagrams to more complex graphics, such as Venn diagrams and organization charts.</translation>
     </message>
     <message id="Sort.title">
         <source>Sort</source>

@@ -6698,6 +6698,10 @@ The Advanced button allows you to choose from different encryption types.</trans
         <source>Do not print</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -19364,6 +19368,33 @@ represent the receiver</translation>
     </message>
     <message>
         <source> Section</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFitText</name>
+    <message>
+        <source>Fit  Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 1, 0, 1584, 0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch, 1, 0, 316.8, 0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

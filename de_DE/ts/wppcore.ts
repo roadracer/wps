@@ -8563,6 +8563,21 @@ Diese Sicherung wird unter (%s) gespeichert.</translation>
         <source>Custom paper</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>/WPS Video/WPS Video</source>
+        <comment>WpVideoSaveRelativePath</comment>
+        <translation>/WPS-Video/WPS-Video</translation>
+    </message>
+    <message>
+        <source>/WPS Image/WPS Image</source>
+        <comment>WpImageSaveRelativePath</comment>
+        <translation>/WPS-Bild/WPS-Bild</translation>
+    </message>
+    <message>
+        <source>/WPS Capture/WPS Capture</source>
+        <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wppcore</name>

@@ -699,6 +699,54 @@
         <source>pdfconvertword</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Convert2Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteEraserMenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DeleteImage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Tab Page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PdfEraserMenu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>addimage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>翻译</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>common.mainwindow.commands.Help</name>
@@ -715,6 +763,10 @@
     </message>
     <message>
         <source>TextBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tool</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -794,6 +846,34 @@
     </message>
     <message>
         <source>SaveAs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creat PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TXT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The export of PDF is</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Word</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -906,6 +986,10 @@
         <source>Zoom%</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Document Views</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_pagemanager</name>
@@ -951,11 +1035,39 @@
         <source>Tool</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Zoom%</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_tools</name>
     <message>
         <source>Menu Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Docmgr</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Process</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFPagesOper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1111,6 +1223,10 @@ Side by Side</source>
         <source>PDFPagesOper</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PDF2Photo</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.proxycommands</name>
@@ -1160,6 +1276,22 @@ Side by Side</source>
     </message>
     <message>
         <source>Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveAsCompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate selected text2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1338,6 +1470,74 @@ Side by Side</source>
     </message>
     <message>
         <source>upgrade VIP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Buy Subscription</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Menu Tools</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minisite</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My Subscription</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2Excel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF2PPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Protect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ribbon Center Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SaveAsCompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslationAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>accout secure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>enterprise Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>member Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>message Center</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1772,6 +1972,34 @@ Add-Ins</source>
         <source>Zoom Slider</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>EditImage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EditImageLayer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image2Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image2top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office Homepage</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>
@@ -1794,6 +2022,19 @@ Add-Ins</source>
     <name>popupmenu.KxSwitchLangCommand</name>
     <message>
         <source>Switch Language</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>pdfongmani.mainwindow.commands.KSwitchFaceDlgCommand</name>
+    <message>
+        <source>Switch UI</source>
+        <comment>Personal Version</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Switch UI</source>
+        <comment>Professional Version</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
