@@ -524,5 +524,15 @@
         <extracomment>ClockwiseDoc.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="AddImage.title">
+        <source>AddImage</source>
+        <extracomment>AddImage.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="AddImage.content">
+        <source>AddImage</source>
+        <extracomment>AddImage.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

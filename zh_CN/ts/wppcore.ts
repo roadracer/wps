@@ -7058,6 +7058,11 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sMasterSliderNumber</comment>
         <translation>幻灯片编号</translation>
     </message>
+    <message>
+        <source>In the %s Show</source>
+        <comment>wpp_sOleObjectInShow</comment>
+        <translation>在 %s 中的 演示文稿</translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>

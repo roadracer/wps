@@ -95,6 +95,26 @@ Please download and update in time so as not to affect your work.</source>
         <source>No</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Migrate backup files of wps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>It is detected that you have changed the local backup directory in the WPS backupcenter. You can also use WPS when you backup data migration. However, when the file is larger or more, it may affect performance and last longer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migrate backup files immediately</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migrate backup files next time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Don&apos;t Migrate backup files and keep it</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KGuiderFinishedWidget</name>
@@ -115,6 +135,15 @@ you can view backup and restore files through the backup center.</source>
         <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Backup data migration completed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Old backup files has been successfully migrated to the new storage directory,
+and you can view the backup files and recovery them through BackupCenter.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KMoveBackupFileWidget</name>
@@ -124,6 +153,14 @@ you can view backup and restore files through the backup center.</source>
     </message>
     <message>
         <source>You can use WPS 2019 without waiting for this process to end</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Migrating backup data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can use WPS without waiting for the migration to end</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -303,6 +340,10 @@ you can view backup and restore files through the backup center.</source>
         <source>online</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Unlogin</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPromeMinButton</name>
@@ -353,6 +394,14 @@ you can view backup and restore files through the backup center.</source>
     </message>
     <message>
         <source>classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2019white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2019dark (default)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -551,6 +600,10 @@ Swiftly create a blank tab of the same type with Ctrl+N</source>
         <source>Not saved</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPromeTabMenu</name>
@@ -715,6 +768,10 @@ If this error occurs repeatedly, please send us an error report.</source>
         <source>Reloading file...</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Rename</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KPrometheusOpenSelectorDlg</name>
@@ -756,6 +813,141 @@ Exit login panel will lead to exiting WPS 2019.</source>
     </message>
     <message>
         <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNewToCloudContentWidget</name>
+    <message>
+        <source>has successfully save to cloud disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>don&apos;t prompt again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I have question</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeBackupManager</name>
+    <message>
+        <source>Find templates, check documents, find application and enjoy privileges, all in your office start page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeIconThemeMgr</name>
+    <message>
+        <source>2019default</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeNewFileToCloudGuideDlg</name>
+    <message>
+        <source>file safe protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>for provide prefect file service, file will be saved in cloud disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in addition:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1 you can any version in edit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2 you can edit on other computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>if you prefer to use save method before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>option</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>close the file safe protection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I know</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeNotFoundFileDlg</name>
+    <message>
+        <source>The folder &quot;%1&quot; couldn&apos;t be found. It might have been deleted, moved, or renamed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Office</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KPromeRoamingModeNoticeDlg</name>
+    <message>
+        <source>Return</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS NetDisk, open your cloud files quickly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Backup, sync cloud files around devices,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud Backup is Turned on By Default. Document Data would be encrypted and sent to the cloud; You could access these documents with PC or Mobile. This Function can be switched off at &quot;Settings&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View &quot;Cloud Backup&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>View </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> and </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Online-Service Agreements</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

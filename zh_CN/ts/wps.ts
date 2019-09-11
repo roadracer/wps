@@ -6602,7 +6602,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>最近文档管理列出文件(&amp;R):</translation>
+        <translation type="obsolete">最近文档管理列出文件(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -6646,7 +6646,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>个(&amp;E)</translation>
+        <translation type="obsolete">个(&amp;E)</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -7434,7 +7434,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation>ch, 0, 0, 100, 1</translation>
+        <translation type="obsolete">ch, 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>ch, 0, 0, 120</source>
@@ -7679,7 +7679,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>最近使用的文档</translation>
+        <translation type="obsolete">最近使用的文档</translation>
     </message>
     <message>
         <source>Reminder for embedding &amp;cloud fonts in the file</source>
@@ -8051,15 +8051,15 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>File Safe Protection</source>
-        <translation>文件安全保护</translation>
+        <translation type="obsolete">文件安全保护</translation>
     </message>
     <message>
         <source>New file on WPS，the file save on WPS cloud disk default</source>
-        <translation>在WPS中新建文档，文档默认保存在“WPS网盘”</translation>
+        <translation type="obsolete">在WPS中新建文档，文档默认保存在“WPS网盘”</translation>
     </message>
     <message>
         <source>Open Location</source>
-        <translation>打开位置</translation>
+        <translation type="obsolete">打开位置</translation>
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
@@ -9245,6 +9245,10 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     <message>
         <source>Add receiver(&amp;R)</source>
         <translation>隐写水印(&amp;R)</translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation>页面设置(&amp;U)...</translation>
     </message>
 </context>
 <context>
@@ -17356,11 +17360,11 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Clear Filter</source>
-        <translation>清除筛选</translation>
+        <translation type="obsolete">清除筛选</translation>
     </message>
     <message>
         <source>Select This</source>
-        <translation>仅选此项</translation>
+        <translation type="obsolete">仅选此项</translation>
     </message>
     <message>
         <source>Add Section Break</source>
@@ -20424,7 +20428,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>Creates a Quick style out of the currently selected text</source>
-        <translation>根据当前所选文字创建&quot;快速样式&quot;样式</translation>
+        <translation type="obsolete">根据当前所选文字创建&quot;快速样式&quot;样式</translation>
     </message>
     <message>
         <source>Inserts an empty textbox or encloses the selected item in a textbox</source>
@@ -21311,47 +21315,47 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxDlgScanner</name>
     <message>
         <source>Scanner</source>
-        <translation>扫描仪</translation>
+        <translation type="obsolete">扫描仪</translation>
     </message>
     <message>
         <source>The Scanner Automatically Adapt</source>
-        <translation>扫描仪自适应</translation>
+        <translation type="obsolete">扫描仪自适应</translation>
     </message>
     <message>
         <source>Scanner Setup</source>
-        <translation>扫描仪设置</translation>
+        <translation type="obsolete">扫描仪设置</translation>
     </message>
     <message>
         <source>Select Scanner:</source>
-        <translation>选择扫描仪：</translation>
+        <translation type="obsolete">选择扫描仪：</translation>
     </message>
     <message>
         <source>Scan Mode:</source>
-        <translation>扫描模式：</translation>
+        <translation type="obsolete">扫描模式：</translation>
     </message>
     <message>
         <source>Scan Dpi:</source>
-        <translation>扫描Dpi:</translation>
+        <translation type="obsolete">扫描Dpi:</translation>
     </message>
     <message>
         <source>Scan Color:</source>
-        <translation>扫描颜色：</translation>
+        <translation type="obsolete">扫描颜色：</translation>
     </message>
     <message>
         <source>Scan Area:</source>
-        <translation>扫描区域：</translation>
+        <translation type="obsolete">扫描区域：</translation>
     </message>
     <message>
         <source>Image Size:</source>
-        <translation>图片大小：</translation>
+        <translation type="obsolete">图片大小：</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Scan</source>
-        <translation>扫描</translation>
+        <translation type="obsolete">扫描</translation>
     </message>
 </context>
 <context>
@@ -21543,7 +21547,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>sy_selfdefine</source>
-        <translation type="unfinished">自定义水印</translation>
+        <translation type="obsolete">自定义水印</translation>
     </message>
     <message>
         <source>self_sy_info</source>
@@ -22948,7 +22952,7 @@ represent the recipient&apos;s information content</source>
     <name>kxDlgHyperlink</name>
     <message>
         <source>B&amp;ookmark...</source>
-        <translation>书签(&amp;O)...</translation>
+        <translation type="obsolete">书签(&amp;O)...</translation>
     </message>
 </context>
 <context>
@@ -22998,6 +23002,290 @@ represent the recipient&apos;s information content</source>
     <message>
         <source>Authorized Expiration</source>
         <translation>产品未激活</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationAlignmentAndSpacing</name>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation>%1的对齐方式和间距</translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation>%1的对齐方式</translation>
+    </message>
+    <message>
+        <source>&amp;Top</source>
+        <translation>顶端对齐(&amp;T)</translation>
+    </message>
+    <message>
+        <source>&amp;Center</source>
+        <translation>居中(&amp;C)</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom</source>
+        <translation>底端对齐(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-style:italic; color:#ff0000;&quot;&gt;A &lt;/span&gt;&lt;span style=&quot; font-size:11pt; color:#ff0000;&quot;&gt;=&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-style:italic; color:#ff0000;&quot;&gt;A &lt;/span&gt;&lt;span style=&quot; font-size:11pt; color:#ff0000;&quot;&gt;=&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+    </message>
+    <message>
+        <source>Row Spacing</source>
+        <translation>行间距</translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation>单倍行距</translation>
+    </message>
+    <message>
+        <source>1.5 Lines</source>
+        <translation>1.5 倍行距</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation>2 倍行距</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation>固定值</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation>多倍行距</translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation>multiple, 2, 0.06, 132, 0.5</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 6</source>
+        <translation>pt, 2, 0, 1584, 6</translation>
+    </message>
+    <message>
+        <source>Minimum distan&amp;nce between column edges:</source>
+        <translation>最小列边界间距(&amp;N):</translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation>最小基线间距(&amp;M):</translation>
+    </message>
+    <message>
+        <source>Column Spacing</source>
+        <translation>列间距</translation>
+    </message>
+    <message>
+        <source>Minimum &amp;distance between columns:</source>
+        <translation>最小列间距(&amp;D):</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation>公式选项</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>常规</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation>公式区的默认字体(&amp;F):</translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation>Cambria Math</translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation>自动将表达式转换到专业格式</translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation>减小显示公式中的嵌套分数的尺寸(&amp;Z)</translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished">复制公式时:</translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation>MathML 被复制到剪贴板上时转换为纯文本(&amp;P)</translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation>线性格式被复制到剪贴板上时转换为纯文本(&amp;N)</translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>断开包含二元和关系运算符的行时(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation>之前</translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation>之后</translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation>重复</translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation>将减法运算符复制为:</translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation>--</translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation>+-</translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation>-+</translation>
+    </message>
+    <message>
+        <source>Display Math</source>
+        <translation>显示公式</translation>
+    </message>
+    <message>
+        <source>When building up integrals,</source>
+        <translation type="unfinished">构建积分时:</translation>
+    </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation>将积分极限值置于侧边(&amp;S)</translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation>将积分极限值居中置于上方和下方(&amp;W)</translation>
+    </message>
+    <message>
+        <source>When building up other n-ary operators,</source>
+        <translation type="unfinished">构建其他 n 元运算符时:</translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation>将 N 元极限值置于侧边(&amp;T)</translation>
+    </message>
+    <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation>将 N 元极限值置于正上方和正下方(&amp;V)</translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation>对独占一行的公式使用以下设置(&amp;U)。</translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin:</source>
+        <translation>左边距(&amp;L):</translation>
+    </message>
+    <message>
+        <source>in, 2, 0, 22, 0.1</source>
+        <translation>in, 2, 0, 22, 0.1</translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght Margin:</source>
+        <translation>右边距(&amp;G):</translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation>在段落边距的基础上增加公式边距。</translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation>对齐方式(&amp;J):</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>整体居中</translation>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation>对于换行到新行上的公式:</translation>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation>换行后的缩进量(&amp;I):</translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation>换行后右对齐(&amp;H)</translation>
+    </message>
+    <message>
+        <source>&amp;Defauls ...</source>
+        <translation>默认值(&amp;D)...</translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxEquationAlignmentAndSpacingDlg</name>
+    <message>
+        <source>Matrix</source>
+        <translation>矩阵</translation>
+    </message>
+    <message>
+        <source>Equation Array</source>
+        <translation>公式数组</translation>
+    </message>
+    <message>
+        <source>Array</source>
+        <translation>数组</translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsEquationOptionsDlg</name>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation>此更改将影响基于 NORMAL 模板的所有新文档。</translation>
+    </message>
+    <message>
+        <source>Template is missing.</source>
+        <translation>找不到模板文件。</translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation>遇到错误，改动失败。</translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

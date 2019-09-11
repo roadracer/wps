@@ -694,7 +694,7 @@
     </message>
     <message>
         <source>Third company</source>
-        <translation>Third-party Enterprise</translation>
+        <translation type="obsolete">Third-party Enterprise</translation>
     </message>
     <message>
         <source>More</source>
@@ -823,6 +823,10 @@
     <message>
         <source>Please login to launch WPS</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QQ login</source>
+        <translation type="unfinished">QQ account</translation>
     </message>
 </context>
 <context>
@@ -1021,6 +1025,22 @@
     </message>
     <message>
         <source>Login via School Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login WPS to Enjoy Privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wechat Binding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login via Dingding</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dingding login</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1466,6 +1486,10 @@ We suggest you sign in to use WPS Office.</translation>
         <source>QrCode login</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Dingding login</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>PreditionAvatar</name>
@@ -1658,6 +1682,113 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>MenuCount:</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>KNewGuideDialog</name>
+    <message>
+        <source>User Guide</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNewGuideJsApi</name>
+    <message>
+        <source>Switch window manage mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePane</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>personal logo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>personal tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished">Sign in</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to become paid member?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to buy enterprise edition?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enjoy the Office Privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I am personal user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login and use, synchronize data between computer and mobile,
+Easy mobile office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Large mount of templates, fonts, pictures resource for choice,
+makes documents beautiful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks for your trust and support to WPS,
+we will make continuous improvements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I am vip/commercial user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High quality of VIP services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Many value-added services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legal Commercial License.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUpgradeVipAssistDialog</name>
+    <message>
+        <source>Upgrade to VIP</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

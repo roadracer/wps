@@ -6364,6 +6364,11 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sMasterSliderNumber</comment>
         <translation>Номер слайда</translation>
     </message>
+    <message>
+        <source>In the %s Show</source>
+        <comment>wpp_sOleObjectInShow</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -8057,6 +8062,11 @@ This backup will be saved to(%s)</source>
     <message>
         <source>/WPS Capture/WPS Capture</source>
         <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in the, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>WpCheckInSharepoint</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

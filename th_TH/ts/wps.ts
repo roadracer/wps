@@ -670,6 +670,18 @@
         <source>we update your modification on time</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxBookmarksDlg</name>
@@ -1564,6 +1576,82 @@
         <source>Always use balloons</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Description</source>
+        <translation type="unfinished">คำอธิบาย</translation>
+    </message>
+    <message>
+        <source>Saves a copy of the document in a separate file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removes borders from the selected paragraphs, table cells, and pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creates a Quick Style style out of the currently selected text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletes all comments in document, ignoring filter settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deletes the selected columns from the table</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copies the selection and puts it on the Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cuts the selection and puts in on the Clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes the font of the selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes the page setup of the selected sections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Marks the text you want to include in the index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert ink comment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Opens a summary pane for viewing and editing document revisions (toggle)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Displays a document&apos;s outline</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scales the editing view to see the two pages in page layout view</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected columns</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Evenly distributes selected rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Toggles table gridlines on and off in Ribbon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Changes the height and width of the rows and columns in a table</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCustomizeBulletedlistDlg</name>
@@ -1619,6 +1707,18 @@
     <message>
         <source>Cancel</source>
         <translation type="unfinished">ยกเลิก</translation>
+    </message>
+    <message>
+        <source>Add secret keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>keyword:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>confidential level:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2166,6 +2266,10 @@ use buttons to apply borders</source>
     </message>
     <message>
         <source>Cell &amp;Fit Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fit Text</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5929,7 +6033,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>&amp;รายการ</translation>
+        <translation type="obsolete">&amp;รายการ</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -6093,7 +6197,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Do not show</source>
-        <translation>ไม่แสดง</translation>
+        <translation type="obsolete">ไม่แสดง</translation>
     </message>
     <message>
         <source>Document Tabs</source>
@@ -6473,15 +6577,15 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Show au&amp;thor:</source>
-        <translation>แสดงผู้&amp;สร้าง:</translation>
+        <translation type="obsolete">แสดงผู้&amp;สร้าง:</translation>
     </message>
     <message>
         <source>Show full name</source>
-        <translation>แสดงชื่อเต็ม</translation>
+        <translation type="obsolete">แสดงชื่อเต็ม</translation>
     </message>
     <message>
         <source>Show initials</source>
-        <translation>แสดงตัวย่อ</translation>
+        <translation type="obsolete">แสดงตัวย่อ</translation>
     </message>
     <message>
         <source>Show pas&amp;te options buttons</source>
@@ -6577,7 +6681,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation>ch, 0, 0, 100, 1</translation>
+        <translation type="obsolete">ch, 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>pt, 0, 0, 898.75, 1</source>
@@ -6742,7 +6846,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>&amp;รายการไฟล์ที่ถูกใช้งานล่าสุด:</translation>
+        <translation type="obsolete">&amp;รายการไฟล์ที่ถูกใช้งานล่าสุด:</translation>
     </message>
     <message>
         <source>AutoNumber</source>
@@ -6750,7 +6854,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>เอกสารที่ล่าสุด</translation>
+        <translation type="obsolete">เอกสารที่ล่าสุด</translation>
     </message>
     <message>
         <source>Create &amp;backup files on first save</source>
@@ -7116,6 +7220,63 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Navigation &amp;Pane:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Document Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ont Substitution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lay &amp;out footnotes the way Word 6.x/95/97 does</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>comments and revisions au&amp;thor:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print full name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Print initials</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do not print</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open &amp;chinese spelling check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8126,6 +8287,14 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green Pri&amp;nt:</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12072,6 +12241,10 @@ Cancel:	Return to the dialog.</source>
         <source>Document ma&amp;p:</source>
         <translation>แ&amp;ผนที่เอกสาร:</translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOutlineNumberDlg</name>
@@ -12478,6 +12651,38 @@ This change will affect all new documents based on the %1 template.</source>
     </message>
     <message>
         <source>Add receiver(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default Current Page Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 2 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1.5 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13441,7 +13646,7 @@ to a Word XML document.</source>
     </message>
     <message>
         <source>Include &amp;footnotes and endnotes</source>
-        <translation>รวม&amp;เชิงอรรถและอ้างอิงท้ายเรื่อง</translation>
+        <translation type="obsolete">รวม&amp;เชิงอรรถและอ้างอิงท้ายเรื่อง</translation>
     </message>
     <message>
         <source>Non-Asian words</source>
@@ -13474,6 +13679,10 @@ to a Word XML document.</source>
     <message>
         <source>Characters (with spaces)</source>
         <translation>อักขระ (รวมช่องว่าง)</translation>
+    </message>
+    <message>
+        <source>Include textboxs,&amp;footnotes and endnotes</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13546,6 +13755,11 @@ to a Word XML document.</source>
     <message>
         <source>The inserted picture is displayed incompletely. Do you want to adjust the line spacing automatically according to the picture&apos;s size?</source>
         <translation>รูปภาพที่แทรกถูกแสดงอย่างไม่สมบูรณ์ คุณต้องการปรับระยะห่างบรรทัดโดยอัตโนมัติตามขนาดรูปภาพหรือไม่?</translation>
+    </message>
+    <message>
+        <source>WPS Writer cannot save Normal.dotm.
+Click OK to give up saving and close this program. If you don&apos;t want to close it, click Cancel.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15773,6 +15987,10 @@ This change will affect all new documents based on the %1 template.</source>
         <source>Reviewer: </source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Review Time: </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWpsReviewersComboBox</name>
@@ -17182,6 +17400,14 @@ schema ที่ตรงกับ namespace ที่กำหนดไว้�
         <source>Done Comment</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Click to turn on Proofread</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Click to turn off Proofread</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SelectedFormatPanel</name>
@@ -17853,6 +18079,692 @@ schema ที่ตรงกับ namespace ที่กำหนดไว้�
     <message>
         <source>Appl&amp;y to:</source>
         <translation>ปรับใช้&amp;กับ:</translation>
+    </message>
+</context>
+<context>
+    <name>KxAddKeyWordDlg2</name>
+    <message>
+        <source>please enter keyword!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Key word length must be 1 to 40 char!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is not a valid special character for the key word!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Key word is aready exit!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxAdjustNumberingIndentDlg</name>
+    <message>
+        <source>Bulleted position(&amp;P):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ch</source>
+        <translation type="unfinished">ch</translation>
+    </message>
+</context>
+<context>
+    <name>KxBookmarkSelectionDlg</name>
+    <message>
+        <source>Bookmarks</source>
+        <translation type="unfinished">บุ๊กมาร์ก</translation>
+    </message>
+</context>
+<context>
+    <name>KxConfidentialityLevelKeyWordDlgV2</name>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAddKeyWord2</name>
+    <message>
+        <source>Add secret keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>keyword:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>confidential level:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">ตกลง</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">ยกเลิก</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgAdjustNumberingIndent</name>
+    <message>
+        <source>Adjust List Indent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Number position(&amp;P):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text position(&amp;T):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After numbering(&amp;W):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tab character</source>
+        <translation type="unfinished">อักขระแท็บ</translation>
+    </message>
+    <message>
+        <source>Space</source>
+        <translation type="unfinished">ช่องว่าง</translation>
+    </message>
+    <message>
+        <source>Nothing</source>
+        <translation type="unfinished">ไม่มีอะไร</translation>
+    </message>
+    <message>
+        <source>Tabel char position(&amp;B):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation type="unfinished">แสดงตัวอย่าง</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgBookmarkSelection</name>
+    <message>
+        <source>Select Place in Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select an existing p&amp;lace in the document:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips</name>
+    <message>
+        <source>clkw checking tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgCheckingTips2</name>
+    <message>
+        <source>clkw checking tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>checking now,plz wait...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWordV2</name>
+    <message>
+        <source>Management keyword</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>select all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>add</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgConfidentialityLevelKeyWordV3</name>
+    <message>
+        <source>Management keyword</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The thesaurus is empty, please add keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>select all</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse selection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>delete keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Find Keyword in document, this document is not confidentiality level document!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationAlignmentAndSpacing</name>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Center</source>
+        <translation type="unfinished">&amp;กึ่งกลาง</translation>
+    </message>
+    <message>
+        <source>&amp;Bottom</source>
+        <translation type="unfinished">&amp;ด้านล่าง</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-style:italic; color:#ff0000;&quot;&gt;A &lt;/span&gt;&lt;span style=&quot; font-size:11pt; color:#ff0000;&quot;&gt;=&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished">หนึ่งเท่า</translation>
+    </message>
+    <message>
+        <source>1.5 Lines</source>
+        <translation type="unfinished">1.5 บรรทัด</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished">สองเท่า</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation type="unfinished">พอดี</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="unfinished">หลายบรรทัด</translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 6</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 6</translation>
+    </message>
+    <message>
+        <source>Minimum distan&amp;nce between column edges:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum &amp;distance between columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">ตกลง</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">ยกเลิก</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">ทั่วไป</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When building up integrals,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When building up other n-ary operators,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in, 2, 0, 22, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght Margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">ซ้าย</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished">กึ่งกลาง</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">ขวา</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Defauls ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">ตกลง</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">ยกเลิก</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgFitText</name>
+    <message>
+        <source>Fit  Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 1, 0, 1584, 0.5</source>
+        <translation type="unfinished">pt, 1, 0, 1584, 0.5</translation>
+    </message>
+    <message>
+        <source>ch, 1, 0, 316.8, 0.5</source>
+        <translation type="unfinished">ch, 1, 0, 316.8, 0.5</translation>
+    </message>
+    <message>
+        <source>&amp;Remove</source>
+        <translation type="unfinished">&amp;เอาออก</translation>
+    </message>
+</context>
+<context>
+    <name>KxEquationAlignmentAndSpacingDlg</name>
+    <message>
+        <source>Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Array</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFitTextDlg</name>
+    <message>
+        <source>Cannot fit text to specified length.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(%1 %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFontSubstitutionDlg</name>
+    <message>
+        <source>Font substitutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert &amp;Permanently...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Missing document font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing document font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Substituted font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtituted font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No font substitution is necessary. All fonts used in this document are available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot; will be displayed and printed using &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxTpWpsConfidentialityLevelKeyWordWidget</name>
+    <message>
+        <source>No data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>This document has no confidential keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>total check result:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>total</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>,But did not complete the full text check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;expandAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;collapseAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>date already deleted!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWidgetTpConfidentialityLevelKeyWord</name>
+    <message>
+        <source>keyword checking</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>operate keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>total result</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No data</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsEquationOptionsDlg</name>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewByTimeWidget</name>
+    <message>
+        <source>to</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterDelegate</name>
+    <message>
+        <source>Clear Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterListView</name>
+    <message>
+        <source>Clear Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersFilterModel</name>
+    <message>
+        <source>All Reviewers(&amp;A)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Reviewers</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select This</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Filter</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsReviewersWithSelectThisComboBox</name>
+    <message>
+        <source>All Reviewers</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

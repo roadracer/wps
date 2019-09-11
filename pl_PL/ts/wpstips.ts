@@ -4152,12 +4152,16 @@ Automatic table of contents includes text formatted with Heading styles.</source
     </message>
     <message id="DocTranslate.title">
         <source>Full text translation</source>
-        <extracomment>DocTranslate.title</extracomment>
+        <extracomment>DocTranslate.title
+----------
+DocTranslate.title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="DocTranslate.content">
         <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
-        <extracomment>DocTranslate.content</extracomment>
+        <extracomment>DocTranslate.content
+----------
+DocTranslate.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="AddSection.title">
@@ -4282,6 +4286,90 @@ Automatic table of contents includes text formatted with Heading styles.</source
     </message>
     <message id="RTLTextDirection.content">
         <source>Set the text to read from right to left.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation type="unfinished">Ustawienia</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor2.content</extracomment>
+        <translation type="unfinished">Kliknij strzałkę, aby wybrać inne efekty wypełnienia.</translation>
+    </message>
+    <message id="Handwriting.title">
+        <source>Handwriting</source>
+        <extracomment>Handwriting.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Handwriting.content">
+        <source>Add a handwriting to the document.</source>
+        <extracomment>Handwriting.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor.content">
+        <source>Set the color, width, and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor2.content</extracomment>
+        <translation type="unfinished">Kliknij strzałkę, aby wybrać ustawienia szczegółowe dla konturu.</translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>

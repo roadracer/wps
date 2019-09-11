@@ -203,7 +203,7 @@ Please do this separately.</translation>
     <message>
         <source>Kingsoft PDF</source>
         <comment>_TxFileAsso_AppName</comment>
-        <translation>WPS PDF</translation>
+        <translation type="obsolete">WPS PDF</translation>
     </message>
 </context>
 </TS>

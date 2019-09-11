@@ -1815,7 +1815,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>Lista de archivo usado &amp;recientemente:</translation>
+        <translation type="obsolete">Lista de archivo usado &amp;recientemente:</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -2089,7 +2089,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>&amp;entradas</translation>
+        <translation type="obsolete">&amp;entradas</translation>
     </message>
     <message>
         <source>&amp;minutes</source>
@@ -2101,7 +2101,7 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation>Atención: Guarde su contraseña apropiadamente por favor. No se va a restaurar el archivo si pierde u olvide la contraseña. (Recuerda que las contraseñas distinguen mayúsculas de minúsculas.)</translation>
+        <translation type="obsolete">Atención: Guarde su contraseña apropiadamente por favor. No se va a restaurar el archivo si pierde u olvide la contraseña. (Recuerda que las contraseñas distinguen mayúsculas de minúsculas.)</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2365,6 +2365,39 @@ The Advanced button allows you to choose from different encryption types.</trans
     </message>
     <message>
         <source>Use account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ont Substitution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max U&amp;ndo/Redo:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steps(Need restart program)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4063,6 +4096,14 @@ The Advanced button allows you to choose from different encryption types.</trans
         <source>Advanced authorization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Undo/Redo steps must be between %1 and %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
@@ -4454,7 +4495,7 @@ carpeta especificada, para reproducir este archivo en otro ordenador.</translati
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>Combinaciones de animación</translation>
+        <translation type="obsolete">Combinaciones de animación</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -4576,6 +4617,10 @@ carpeta especificada, para reproducir este archivo en otro ordenador.</translati
     <message>
         <source>Play</source>
         <translation>Reproducir</translation>
+    </message>
+    <message>
+        <source>Effect Options:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5433,23 +5478,23 @@ Sure to close?</source>
     <name>KxWppTransModel</name>
     <message>
         <source>Fade and Dissolve</source>
-        <translation>Difuminar y Disolver</translation>
+        <translation type="obsolete">Difuminar y Disolver</translation>
     </message>
     <message>
         <source>None</source>
-        <translation>Ninguno</translation>
+        <translation type="obsolete">Ninguno</translation>
     </message>
     <message>
         <source>Push and Cover</source>
-        <translation>Empujar y cubrir</translation>
+        <translation type="obsolete">Empujar y cubrir</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>Al azar</translation>
+        <translation type="obsolete">Al azar</translation>
     </message>
     <message>
         <source>Stripe and Cross</source>
-        <translation>En franjas y cruz</translation>
+        <translation type="obsolete">En franjas y cruz</translation>
     </message>
     <message>
         <source>Transition Group 01</source>
@@ -5477,7 +5522,7 @@ Sure to close?</source>
     </message>
     <message>
         <source>Wipe</source>
-        <translation>Barrido</translation>
+        <translation type="obsolete">Barrido</translation>
     </message>
 </context>
 <context>
@@ -6095,6 +6140,58 @@ Sure to close?</source>
     </message>
     <message>
         <source>Thai(Thailand)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reveral</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wipe</source>
+        <translation type="unfinished">Barrido</translation>
+    </message>
+    <message>
+        <source>Shape</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wheel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blinds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uncover</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Split</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Random Bars</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckerBoard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Push</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <translation type="unfinished">Portada</translation>
+    </message>
+    <message>
+        <source>Through Black</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7206,6 +7303,18 @@ Sure to close?</source>
         <source>open roaming file, and local file would be saved on cloud.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxCustomDictionaryDlg</name>
@@ -7415,7 +7524,7 @@ Tenga en cuenta que al comprimir imágenes se puede reducir la calidad de las mi
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation>Todas las imágenes(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">Todas las imágenes(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -7445,6 +7554,10 @@ Tenga en cuenta que al comprimir imágenes se puede reducir la calidad de las mi
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
         <translation>Formato TIFF(*.tif;*.tiff)|*.tif;*.tiff</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7715,6 +7828,154 @@ Tenga en cuenta que al comprimir imágenes se puede reducir la calidad de las mi
     <message>
         <source>To display the flow, the generated link contains only the first 50 slides.</source>
         <translation type="obsolete">La opción de compartir vínculo solo aparece en las primeras 50 páginas de una presentación.</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">General</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontSubstitutionDlg</name>
+    <message>
+        <source>Font substitutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert &amp;Permanently...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Missing document font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing document font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Substituted font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtituted font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No font substitution is necessary. All fonts used in this document are available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot; will be displayed and printed using &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAnimModel</name>
+    <message>
+        <source>MixEffect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NoneEffect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Custom</source>
+        <translation type="unfinished">Personalizar</translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

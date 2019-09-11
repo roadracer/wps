@@ -2420,7 +2420,7 @@ be recovered.</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>最近文档管理列出文件(&amp;R):</translation>
+        <translation type="obsolete">最近文档管理列出文件(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -2736,7 +2736,7 @@ be recovered.</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>个(&amp;E)</translation>
+        <translation type="obsolete">个(&amp;E)</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -3100,15 +3100,15 @@ be recovered.</source>
     </message>
     <message>
         <source>File Safe Proctection</source>
-        <translation>文件安全保护</translation>
+        <translation type="obsolete">文件安全保护</translation>
     </message>
     <message>
         <source>New file on WPS，the file save on WPS cloud disk default</source>
-        <translation>在WPS中新建文档，文档默认保存在“WPS网盘”</translation>
+        <translation type="obsolete">在WPS中新建文档，文档默认保存在“WPS网盘”</translation>
     </message>
     <message>
         <source>Open Location</source>
-        <translation>打开位置</translation>
+        <translation type="obsolete">打开位置</translation>
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
@@ -3126,7 +3126,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     </message>
     <message>
         <source>Max Undo/Redo:</source>
-        <translation>撤销恢复操作步数(N): </translation>
+        <translation type="obsolete">撤销恢复操作步数(N): </translation>
     </message>
     <message>
         <source>Max U&amp;ndo/Redo:</source>
@@ -5820,7 +5820,7 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>动画方案</translation>
+        <translation type="obsolete">动画方案</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -7436,27 +7436,27 @@ Sure to close?</source>
     </message>
     <message>
         <source>None</source>
-        <translation>无切换效果</translation>
+        <translation type="obsolete">无切换效果</translation>
     </message>
     <message>
         <source>Fade and Dissolve</source>
-        <translation>淡出和溶解</translation>
+        <translation type="obsolete">淡出和溶解</translation>
     </message>
     <message>
         <source>Wipe</source>
-        <translation>擦除</translation>
+        <translation type="obsolete">擦除</translation>
     </message>
     <message>
         <source>Push and Cover</source>
-        <translation>推进和覆盖</translation>
+        <translation type="obsolete">推进和覆盖</translation>
     </message>
     <message>
         <source>Stripe and Cross</source>
-        <translation>条纹和横纹</translation>
+        <translation type="obsolete">条纹和横纹</translation>
     </message>
     <message>
         <source>Random</source>
-        <translation>随机</translation>
+        <translation type="obsolete">随机</translation>
     </message>
 </context>
 <context>
@@ -10427,6 +10427,85 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Authorized Expiration</source>
         <translation>产品未激活</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation>公式选项</translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation>常规</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation>断开包含二元和关系运算符的行(&amp;R):</translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation>之前</translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation>之后</translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation>将减法运算符复制为:</translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
     </message>
 </context>
 </TS>

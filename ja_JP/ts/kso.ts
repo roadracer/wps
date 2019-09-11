@@ -1993,7 +1993,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</source>
         <comment>DgAllPicture</comment>
-        <translation>すべての図(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff; *wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</translation>
+        <translation type="obsolete">すべての図(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff; *wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp</translation>
     </message>
     <message>
         <source>Aspect Ratio</source>
@@ -2058,12 +2058,292 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</source>
         <comment>DgAllPictureAddCgm</comment>
-        <translation>すべての画像(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</translation>
+        <translation type="obsolete">すべての画像(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*wdp;*.cgm</translation>
     </message>
     <message>
         <source>Computer Graphics Metafile(*.cgm)|*.cgm</source>
         <comment>DgUil_ComputerMetaFiles</comment>
         <translation>Computer Graphics メタファイル(*.cgm)|*.cgm</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg</source>
+        <comment>DgAllPicture</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.svg;*.cgm</source>
+        <comment>DgAllPictureAddCgm</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp</source>
+        <comment>DgAllPictureNoSvg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.wdp;*.cgm</source>
+        <comment>DgAllPictureAddCgmNoSvg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics(*.svg)|*.svg</source>
+        <comment>DgUil_SVGFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Sound</source>
+        <comment>DgUil_DlgSoundTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Movie</source>
+        <comment>DgUil_DlgMovieTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UniteShapes</source>
+        <comment>DgUil_KSO_Cmd_UniteShapes</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IntersectShapes </source>
+        <comment>DgUil_KSO_Cmd_IntersectShapes</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>SubtractShapes</source>
+        <comment>DgUil_KSO_Cmd_SubtractShapes</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FragmentShapes</source>
+        <comment>DgUil_KSO_Cmd_FragmentShapes</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>HollowShapes</source>
+        <comment>DgUil_KSO_Cmd_HollowShapes</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unidentifiable sound format.</source>
+        <comment>DgUil_KSO_Invalid_Sound</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unidentifiable movie format.</source>
+        <comment>DgUil_KSO_Invalid_Movie</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unidentifiable format.</source>
+        <comment>DgUil_KSO_Invalid_File</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie Files (*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv)</source>
+        <comment>DgDesc_MovieFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wmx;*.wmd;*.avi;*.mov;*.mp4;*.mp4v;*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod;*.m2ts;*.m2t;*.ts;*.tts;*.wmv;*.flv</source>
+        <comment>DgExts_MovieFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media File(asf) (*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz)</source>
+        <comment>DgDesc_WindowsMediaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.asf;*.asx;*.dvr-ms;*.wm;*.wmx;*.wmz</source>
+        <comment>DgExts_WindowsMediaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Video File(avi) (*.avi)</source>
+        <comment>DgDesc_WindowsVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.avi</source>
+        <comment>DgExts_WindowsVideofile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QuickTime Movie File (*.mov)</source>
+        <comment>DgDesc_QuickTimeMovieFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mov</source>
+        <comment>DgExts_QuickTimeMoviefile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4 Video(*.mp4;*.mp4v)</source>
+        <comment>DgDesc_MP4VideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mp4;*.mp4v</source>
+        <comment>DgExts_MP4Videofile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie File(mpeg) (*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod)</source>
+        <comment>DgDesc_MovieFileMpeg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mpeg;*.mpg;*.m1v;*.mpe;*.m2v;*.mod</source>
+        <comment>DgExts_MovieFileMpeg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MPEG-2 TS Video File (*.m2ts;*.m2t;*.ts;*.tts)</source>
+        <comment>DgDesc_MPEG2TSVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.m2ts;*.m2t;*.ts;*.tts</source>
+        <comment>DgExts_MPEG2TSVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Video File(wmv) (*.wmv;*.wvx)</source>
+        <comment>DgDesc_WindowsMediaVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wmv;*.wvx</source>
+        <comment>DgExts_WindowsMediaVideofile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Adobe Falsh Media (*.flv;*.f4v)</source>
+        <comment>DgDesc_AdobeFalshMediaFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.flv;*.f4v</source>
+        <comment>DgExts_AdobeFalshMediafile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DVD Video File(*.vob)</source>
+        <comment>DgDesc_DVDVideoFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.vob</source>
+        <comment>DgExts_DVDVideofile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Movie</source>
+        <comment>DgDesc_InsertMovie</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles_Linux</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles_Linux</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADTS Audio File (*.adts;*.adt;*aac)</source>
+        <comment>DgDesc_ADTSAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.adts;*.adt;*aac</source>
+        <comment>DgExts_ADTSAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AIFF Audio File(aiff) (*.aif;*.aifc;*.aiff)</source>
+        <comment>DgDesc_AIFFAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff</source>
+        <comment>DgExts_AIFFAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>AU Audio File(au) (*.au;*.snd)</source>
+        <comment>DgDesc_AUAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.au;*.snd</source>
+        <comment>DgExts_AUAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP3 Audio File(mp3) (*.mp3;*.mp2;*.m3u)</source>
+        <comment>DgDesc_Mp3AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mp3;*.mp2;*.m3u</source>
+        <comment>DgExts_Mp3AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MP4 Audio (*.m4a)</source>
+        <comment>DgDesc_Mp4AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.m4a</source>
+        <comment>DgExts_Mp4AudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MIDI File(midi) (*.mid;*.midi;*.rmi)</source>
+        <comment>DgDesc_MIDIFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.mid;*.midi;*.rmi</source>
+        <comment>DgExts_MIDIFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Audio File(wav) (*.wav)</source>
+        <comment>DgDesc_WindowsAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wav</source>
+        <comment>DgExts_WindowsAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Windows Media Audio File(wma) (*.wma;*.wax)</source>
+        <comment>DgDesc_WindowsMediaAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wma;*.wax</source>
+        <comment>DgExts_WindowsMediaAudioFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound Files (*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax)</source>
+        <comment>DgDesc_SoundFiles</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.aif;*.aifc;*.aiff;*.au;*.snd;*.mid;*.midi;*.rmi;*.mp3;*.mp2;*.m3u;*.m4a;*.wav;*.wma;*.wax</source>
+        <comment>DgExts_SoundFiles</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7926,6 +8206,21 @@ Line-type: %3</source>
         <comment>DRAWING2_SMARTDIAGRAM_CHANGENUM_MESSAGE</comment>
         <translation>ダイアグラム番号を変更しますか？</translation>
     </message>
+    <message>
+        <source>Edit Object</source>
+        <comment>DRAWINGSTR_EDIT_OBJECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DarkColor_1_OutLine,Color Fill-</source>
+        <comment>wpp_sTooltipShapeStyleDarkColor_1_OutLineFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transparent_Fill</source>
+        <comment>wpp_sTooltipShapeStyleTransparentFill</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_filter</name>
@@ -10116,6 +10411,16 @@ This position may not be safe.</source>
         <comment>_kso_TX_DESC_ET_APP_NAME</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>This software can only be used by an individual user for personal purpose, and cannot be used in and for the commercial purposes such as the production, business and others. ||This software includes: The FreeType Project, and gets its free authorization according to the authorization clauses of The FreeType License; Chinese Word Segment, Chinese Phonetic Annotations, and the technology for Conversion between simplified Chinese and traditional Chinese provided by Information Retrieval Center, Harbin Institute of Technology; Hunspell Spell Checker, source code in Hunspell is applicable for source code in Open Source License Agreement of MPL 1.1/GPL 2.0/LGPL 2.1.</source>
+        <comment>_kso_ksoThanksTo_Linux_Comunity</comment>
+        <translation type="unfinished">本製品には「The FreeType Project」が含まれています。その中の「The FreeType License」によって、無料なライセンスを得ています。ハルビン工業大学情報研究センターから中国語の単語分割、スペルチェック、ルビと中国語の簡体字と繁体字の切替などの技術が提供されています。本製品は「Hunspellスペルチェックライブラリ」が含まれています。HunspellソースコードはMPL 1.1/GPL 2.0/LGPL 2.1等のオープンソースプロトコルに基づいたオーブンソースコードです。</translation>
+    </message>
+    <message>
+        <source>Cover</source>
+        <comment>_kso_Tx_COVER</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>kso_numfmtapi</name>
@@ -10431,7 +10736,7 @@ Do you want to continue?</source>
         <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
 If the problem still exists, you can print a test page by right-clicking the printer icon in Windows and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
         <comment>_ksoErr_Print_InvalidPrinter</comment>
-        <translation>WPS Officeは印刷操作が行えません。プリンタが開かれているかオンラインで接続しているかを調べてみてください。
+        <translation type="obsolete">WPS Officeは印刷操作が行えません。プリンタが開かれているかオンラインで接続しているかを調べてみてください。
 故障が解決されていない場合は、 Windows のプリンタプロパティでテストページを印刷することにより、プリンタが正しくインストールされているかを調べることができます。</translation>
     </message>
     <message>
@@ -10469,6 +10774,12 @@ Continue printing?</source>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <comment>TxPrintPreview_CopiesInvalid</comment>
         <translation>数値は 1 から 32767 の範囲でなければなりません。この数値の範囲で入力し、もう一度行ってください。</translation>
+    </message>
+    <message>
+        <source>WPS Office cannot print. Please check whether the printer is turned on or connected.
+If the problem still exists, you can print a test page by right-clicking the printer icon in system and then choosing Properties from the shortcut menu to check whether your printer has been installed correctly.</source>
+        <comment>_ksoErr_Print_InvalidPrinter</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15023,6 +15334,3979 @@ please consult the IT department of your company, or call WPS customer service: 
     <message>
         <source>Use to show a series of pictures. Can contain up to eight Level 1 pictures. Unused text and pictures do not appear, but remain available if you switch layouts. Works best with small amounts of text.</source>
         <comment>_kso_SmartArtBubblepicturelistDescription</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>kso_omath</name>
+    <message>
+        <source>Built-In</source>
+        <comment>OMATH_COMMON_TITLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Area of Circle</source>
+        <comment>OMATH_COMMON_AREA_OF_CIRCLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surface area of a circle with radius r</source>
+        <comment>OMATH_COMMON_AREA_OF_CIRCLE_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binomial Theorem</source>
+        <comment>OMATH_COMMON_BINOMIAL_THEOREM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expansion of the sum (x + a) to the power of n</source>
+        <comment>OMATH_COMMON_BINOMIAL_THEOREM_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expansion of a Sum</source>
+        <comment>OMATH_COMMON_EXPANSION_OF_A_SUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expansion of the sum (1+x) to the power of n</source>
+        <comment>OMATH_COMMON_EXPANSION_OF_A_SUM_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fourier Series</source>
+        <comment>OMATH_COMMON_FOURIER_SERIES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fourier series for a function of period 2L</source>
+        <comment>OMATH_COMMON_FOURIER_SERIES_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pythagorean Theorem</source>
+        <comment>OMATH_COMMON_PYTHAGOREAN_THEOREM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Relationship between the sides of a right triangle with legs a and b, and hypotenuse c</source>
+        <comment>OMATH_COMMON_PYTHAGOREAN_THEOREM_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quadratic Formula</source>
+        <comment>OMATH_COMMON_QUADRATIC_FORMULA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Root of the equation ax^2 + bx + c = 0</source>
+        <comment>OMATH_COMMON_QUADRATIC_FORMULA_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Taylor Expansion</source>
+        <comment>OMATH_COMMON_TAYLOR_EXPANSION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Taylor expansion of e to the power of x</source>
+        <comment>OMATH_COMMON_TAYLOR_EXPANSION_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trig Identity 1</source>
+        <comment>OMATH_COMMON_TRIG_IDENTITY_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expresses the sum/difference of the sines of two numbers as a product</source>
+        <comment>OMATH_COMMON_TRIG_IDENTITY_1_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trig Identity 2</source>
+        <comment>OMATH_COMMON_TRIG_IDENTITY_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expresses the sum of the cosines of two numbers as a product</source>
+        <comment>OMATH_COMMON_TRIG_IDENTITY_2_DETAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <comment>OMATH_FRACTION_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stacked Fraction</source>
+        <comment>OMATH_FRACTION_STACKED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skewed Fraction</source>
+        <comment>OMATH_FRACTION_SKEWED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear Fraction</source>
+        <comment>OMATH_FRACTION_LINEAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Small Fraction</source>
+        <comment>OMATH_FRACTION_SMALL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Fraction</source>
+        <comment>OMATH_FRACTION_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differential</source>
+        <comment>OMATH_FRACTION_DIFFERENTIAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pi Over 2</source>
+        <comment>OMATH_FRACTION_PI_OVER_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscripts and Superscripts</source>
+        <comment>OMATH_SCRIPT_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superscript</source>
+        <comment>OMATH_SCRIPT_SUPERSCRIPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript</source>
+        <comment>OMATH_SCRIPT_SUBSCRIPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subscript-Superscript</source>
+        <comment>OMATH_SCRIPT_SUBSCRIPT_SUPERSCRIPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Subscript-Superscript</source>
+        <comment>OMATH_SCRIPT_LEFT_SUBSCRIPT_SUPSCRIPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Subscripts and Superscripts</source>
+        <comment>OMATH_SCRIPT_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <comment>OMATH_SCRIPT_SCRIPT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radicals</source>
+        <comment>OMATH_RADICAL_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Root</source>
+        <comment>OMATH_RADICAL_SQUARE_ROOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radical With Degree</source>
+        <comment>OMATH_RADICAL_WITH_DEGREE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Root With Degree</source>
+        <comment>OMATH_RADICAL_SQUARE_ROOT_WITH_DEGREE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cubic Root</source>
+        <comment>OMATH_RADICAL_CUBIC_ROOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Radicals</source>
+        <comment>OMATH_RADICAL_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <comment>OMATH_RADICAL_RADICAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integrals</source>
+        <comment>OMATH_INTEGRAL_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integral</source>
+        <comment>OMATH_INTEGRAL_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Integral</source>
+        <comment>OMATH_INTEGRAL_DOUBLE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triple Integral</source>
+        <comment>OMATH_INTEGRAL_TRIPLE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contour Integrals</source>
+        <comment>OMATH_INTEGRAL_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contour Integral</source>
+        <comment>OMATH_INTEGRAL_CONTOUR_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surface Integral</source>
+        <comment>OMATH_INTEGRAL_SURFACE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume Integral</source>
+        <comment>OMATH_INTEGRAL_VOLUME_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differentials</source>
+        <comment>OMATH_INTEGRAL_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differential x</source>
+        <comment>OMATH_INTEGRAL_DIFFERENTIAL_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differential y</source>
+        <comment>OMATH_INTEGRAL_DIFFERENTIAL_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Differential theta</source>
+        <comment>OMATH_INTEGRAL_DIFFERENTIAL_THETA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summations</source>
+        <comment>OMATH_LARGE_OPERATOR_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summation</source>
+        <comment>OMATH_LARGE_OPERATOR_SUMMATION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Products and Co-Products</source>
+        <comment>OMATH_LARGE_OPERATOR_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product</source>
+        <comment>OMATH_LARGE_OPERATOR_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Co-Product</source>
+        <comment>OMATH_LARGE_OPERATOR_CO_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unions and Intersections</source>
+        <comment>OMATH_LARGE_OPERATOR_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Union</source>
+        <comment>OMATH_LARGE_OPERATOR_UNION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersection</source>
+        <comment>OMATH_LARGE_OPERATOR_INTERSECTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Other Large Operators</source>
+        <comment>OMATH_LARGE_OPERATOR_TITLE_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vee</source>
+        <comment>OMATH_LARGE_OPERATOR_VEE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wedge</source>
+        <comment>OMATH_LARGE_OPERATOR_WEDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Large Operators</source>
+        <comment>OMATH_LARGE_OPERATOR_TITLE_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brackets</source>
+        <comment>OMATH_DELIMITER_TITLE_1</comment>
+        <translation type="unfinished">カッコ</translation>
+    </message>
+    <message>
+        <source>Brackets</source>
+        <comment>OMATH_DELIMITER_BRACKETS</comment>
+        <translation type="unfinished">カッコ</translation>
+    </message>
+    <message>
+        <source>Brackets with Separators</source>
+        <comment>OMATH_DELIMITER_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Brackets with Separators</source>
+        <comment>OMATH_DELIMITER_BRACKETS_WITH_SEPARATORS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Brackets</source>
+        <comment>OMATH_DELIMITER_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Bracket</source>
+        <comment>OMATH_DELIMITER_SINGLE_BRACKET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cases and Stacks</source>
+        <comment>OMATH_DELIMITER_TITLE_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cases (Two Conditions)</source>
+        <comment>OMATH_DELIMITER_CASES_TWO_CONDITIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cases (Three Conditions)</source>
+        <comment>OMATH_DELIMITER_CASES_THREE_CONDITIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stack Object</source>
+        <comment>OMATH_DELIMITER_STACK_OBJECT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Brackets</source>
+        <comment>OMATH_DELIMITER_TITLE_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cases Example</source>
+        <comment>OMATH_DELIMITER_CASES_EXAMPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Binomial Coefficient</source>
+        <comment>OMATH_DELIMITER_BINOMIAL_COEFFICIENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Trigonometric Functions</source>
+        <comment>OMATH_FUNCTION_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sine Function</source>
+        <comment>OMATH_FUNCTION_SINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cosine Function</source>
+        <comment>OMATH_FUNCTION_COSINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tangent Function</source>
+        <comment>OMATH_FUNCTION_TANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cosecant Function</source>
+        <comment>OMATH_FUNCTION_COSECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secant Function</source>
+        <comment>OMATH_FUNCTION_SECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cotangent Function</source>
+        <comment>OMATH_FUNCTION_COTANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Functions</source>
+        <comment>OMATH_FUNCTION_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Sine Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_SINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Cosine Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_COSINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Tangent Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_TANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Cosecant Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_COSECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Secant Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_SECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Cotangent Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_COTANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Functions</source>
+        <comment>OMATH_FUNCTION_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Sine Function</source>
+        <comment>OMATH_FUNCTION_HYPERBOLIC_SINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Cosine Function</source>
+        <comment>OMATH_FUNCTION_HPERBOLIC_COSINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Tangent Function</source>
+        <comment>OMATH_FUNCTION_HYPERBOLIC_TANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Cosecant Function</source>
+        <comment>OMATH_FUNCTION_HYPERBOLIC_COSECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Secant Function</source>
+        <comment>OMATH_FUNCTION_HYPERBOLIC_SECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hyperbolic Cotangent Function</source>
+        <comment>OMATH_FUNCTION_HYPERBOLIC_COTANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Functions</source>
+        <comment>OMATH_FUNCTION_TITLE_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Sine Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_HYPERBOLIC_SINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Cosine Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_HYPERBOLIC_COSINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Tangent Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_HYPERBOLIC_TANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Cosecant Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_HYPERBOLIC_COSECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Secant Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_HYPERBOLIC_SECANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverse Hyperbolic Cotangent Function</source>
+        <comment>OMATH_FUNCTION_INVERSE_HYPERBOLIC_COTANGENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Functions</source>
+        <comment>OMATH_FUNCTION_TITLE_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sin theta</source>
+        <comment>OMATH_FUNCTION_SINE_THETA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cos 2x</source>
+        <comment>OMATH_FUNCTION_COS_2X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tangent formula</source>
+        <comment>OMATH_FUNCTION_TANGENT_FORMULA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Accents</source>
+        <comment>OMATH_ACCENT_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot</source>
+        <comment>OMATH_ACCENT_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Dot</source>
+        <comment>OMATH_ACCENT_DOUBLE_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triple Dot</source>
+        <comment>OMATH_ACCENT_TRIPLE_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hat</source>
+        <comment>OMATH_ACCENT_HAT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Check</source>
+        <comment>OMATH_ACCENT_CHECK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Acute</source>
+        <comment>OMATH_ACCENT_ACUTE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grave</source>
+        <comment>OMATH_ACCENT_GRAVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Breve</source>
+        <comment>OMATH_ACCENT_BREVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tilde</source>
+        <comment>OMATH_ACCENT_TILDE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bar</source>
+        <comment>OMATH_ACCENT_BAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Overbar</source>
+        <comment>OMATH_ACCENT_DOUBLE_OVERBAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overbrace</source>
+        <comment>OMATH_ACCENT_OVERBRACE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underbrace</source>
+        <comment>OMATH_ACCENT_UNDERBRACE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grouping Character Above</source>
+        <comment>OMATH_ACCENT_GROUPING_CHARACTER_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Grouping Character Below</source>
+        <comment>OMATH_ACCENT_GROUPING_CHARACTER_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leftwards Arrow Above</source>
+        <comment>OMATH_ACCENT_LEFTWARDS_ARROW_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rightwards Arrow Above</source>
+        <comment>OMATH_ACCENT_RIGHTWARDS_ARROW_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-Left Arrow Above</source>
+        <comment>OMATH_ACCENT_RIGHT_LEFT_ARROW_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leftwards Harpoon Above</source>
+        <comment>OMATH_ACCENT_LEFTWARDS_HARPOON_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rightwards Harpoon Above</source>
+        <comment>OMATH_ACCENT_RIGHTWARDS_HARPOON_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boxed Formulas</source>
+        <comment>OMATH_ACCENT_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boxed Formula (With Placeholder)</source>
+        <comment>OMATH_ACCENT_BOXED_FORMULA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Boxed Formula (Example)</source>
+        <comment>OMATH_ACCENT_BOXED_FORMULA_EXAMPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overbars and Underbars</source>
+        <comment>OMATH_ACCENT_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Overbar</source>
+        <comment>OMATH_ACCENT_OVERBAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Underbar</source>
+        <comment>OMATH_ACCENT_UNDERBAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Accent Objects</source>
+        <comment>OMATH_ACCENT_TITLE_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vector A</source>
+        <comment>OMATH_ACCENT_VECTOR_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ABC With Overbar</source>
+        <comment>OMATH_ACCENT_ABC_WITH_OVERBAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>x XOR y With Overbar</source>
+        <comment>OMATH_ACCENT_X_XOR_Y_WITH_OVERBAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Functions</source>
+        <comment>OMATH_LIM_AND_LOG_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logarithm</source>
+        <comment>OMATH_LIM_AND_LOG_LOGARITHM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit</source>
+        <comment>OMATH_LIM_AND_LOG_LIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum</source>
+        <comment>OMATH_LIM_AND_LOG_MINIMUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum</source>
+        <comment>OMATH_LIM_AND_LOG_MAXIMUM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Natural Logarithm</source>
+        <comment>OMATH_LIM_AND_LOG_NATURAL_LOGARITHM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Functions</source>
+        <comment>OMATH_LIM_AND_LOG_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit Example</source>
+        <comment>OMATH_LIM_AND_LOG_LIMIT_EXAMPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Maximum Example</source>
+        <comment>OMATH_LIM_AND_LOG_MAXIMUM_EXAMPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Operators</source>
+        <comment>OMATH_OPERATOR_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Colon Equal</source>
+        <comment>OMATH_OPERATOR_COLON_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal Equal</source>
+        <comment>OMATH_OPERATOR_EQUAL_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus Equal</source>
+        <comment>OMATH_OPERATOR_PLUS_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minus Equal</source>
+        <comment>OMATH_OPERATOR_MINUS_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal To By Definition</source>
+        <comment>OMATH_OPERATOR_EQUAL_TO_BY_DEFINITION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Measured By</source>
+        <comment>OMATH_OPERATOR_MEASURED_BY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delta Equal To</source>
+        <comment>OMATH_OPERATOR_DELTA_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operator Structures</source>
+        <comment>OMATH_OPERATOR_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leftwards Arrow Above</source>
+        <comment>OMATH_OPERATOR_LEFTWARDS_ARROW_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rightwards Arrow Above</source>
+        <comment>OMATH_OPERATOR_RIGHTWARDS_ARROW_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Leftwards Arrow Below</source>
+        <comment>OMATH_OPERATOR_LEFTWARDS_ARROW_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rightwards Arrow Below</source>
+        <comment>OMATH_OPERATOR_RIGHTWARDS_ARROW_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-Left Arrow Above</source>
+        <comment>OMATH_OPERATOR_RIGHT_LEFT_ARROW_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-Left Arrow Below</source>
+        <comment>OMATH_OPERATOR_RIGHT_LEFT_ARROW_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Operator Structures</source>
+        <comment>OMATH_OPERATOR_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Yields</source>
+        <comment>OMATH_OPERATOR_YIELDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delta Yields</source>
+        <comment>OMATH_OPERATOR_DELTA_YIELDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty Matrices</source>
+        <comment>OMATH_MATRIX_TITLE_1</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1x2 Empty Matrix</source>
+        <comment>OMATH_MATRIX_1X2_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2x1 Empty Matrix</source>
+        <comment>OMATH_MATRIX_2X1_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1x3 Empty Matrix</source>
+        <comment>OMATH_MATRIX_1X3_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3x1 Empty Matrix</source>
+        <comment>OMATH_MATRIX_3X1_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2x2 Empty Matrix</source>
+        <comment>OMATH_MATRIX_2X2_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2x3 Empty Matrix</source>
+        <comment>OMATH_MATRIX_2X3_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3x2 Empty Matrix</source>
+        <comment>OMATH_MATRIX_3X2_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3x3 Empty Matrix</source>
+        <comment>OMATH_MATRIX_3X3_EMPTY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dots</source>
+        <comment>OMATH_MATRIX_TITLE_2</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Midline Dots</source>
+        <comment>OMATH_MATRIX_MIDLINE_DOTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Baseline Dots</source>
+        <comment>OMATH_MATRIX_BASELINE_DOTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Dots</source>
+        <comment>OMATH_MATRIX_VERTICAL_DOTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Dots</source>
+        <comment>OMATH_MATRIX_DIAGONAL_DOTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identity Matrices</source>
+        <comment>OMATH_MATRIX_TITLE_3</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2x2 Identity Matrix</source>
+        <comment>OMATH_MATRIX_2X2_IDENTITY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>3x3 Identity Matrix</source>
+        <comment>OMATH_MATRIX_3X3_IDENTITY_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrices with Brackets</source>
+        <comment>OMATH_MATRIX_TITLE_4</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty Matrix with Brackets</source>
+        <comment>OMATH_MATRIX_EMPTY_MATRIX_WITH_BRACKETS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sparse Matrices</source>
+        <comment>OMATH_MATRIX_TITLE_5</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sparse Matrix</source>
+        <comment>OMATH_MATRIX_SPARSE_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Math</source>
+        <comment>OMATH_SYMBOL_CATEGORY_BASIC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greek Letters</source>
+        <comment>OMATH_SYMBOL_CATEGORY_GREEK_LETTERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Letter-Like Symbols</source>
+        <comment>OMATH_SYMBOL_CATEGORY_LETTER_LIKE_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operator</source>
+        <comment>OMATH_SYMBOL_CATEGORY_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrows</source>
+        <comment>OMATH_SYMBOL_CATEGORY_ARROWS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Negated Relations</source>
+        <comment>OMATH_SYMBOL_CATEGORY_NEGATED_RELATIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scripts</source>
+        <comment>OMATH_SYMBOL_CATEGORY_SCRIPTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <comment>OMATH_SYMBOL_CATEGORY_GEOMETRY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic Math</source>
+        <comment>OMATH_SYMBOL_CBM_BASIC_MATH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Infinty ( \infty )</source>
+        <comment>OMATH_SYMBOL_CBM_INFINTY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approximately</source>
+        <comment>OMATH_SYMBOL_CBM_APPROXIMATELY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Factorial</source>
+        <comment>OMATH_SYMBOL_CBM_FACTORIAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radical Sign ( \sqrt )</source>
+        <comment>OMATH_SYMBOL_CBM_RADICAL_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cube Root ( \cbrt )</source>
+        <comment>OMATH_SYMBOL_CBM_CUBE_ROOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fourth Root ( \qdrt )</source>
+        <comment>OMATH_SYMBOL_CBM_FOURTH_ROOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty Set ( \emptyset )</source>
+        <comment>OMATH_SYMBOL_CBM_EMPTY_SET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Percentage</source>
+        <comment>OMATH_SYMBOL_CBM_PERCENTAGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Degrees ( \degree )</source>
+        <comment>OMATH_SYMBOL_CBM_DEGREES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Degrees Fahrenheit ( \degf )</source>
+        <comment>OMATH_SYMBOL_CBM_DEGREES_FAHRENHEIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Degrees Celsius ( \degc )</source>
+        <comment>OMATH_SYMBOL_CBM_DEGREES_CELSIUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increment ( \inc )</source>
+        <comment>OMATH_SYMBOL_CBM_INCREMENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nabla ( \nabla )</source>
+        <comment>OMATH_SYMBOL_CBM_NABLA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Sign ( \neg )</source>
+        <comment>OMATH_SYMBOL_CBM_NOT_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vertical Ellipsis ( \vdots )</source>
+        <comment>OMATH_SYMBOL_CBM_VERTICAL_ELLIPSIS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Midline Horizontal Ellipsis ( \cdots )</source>
+        <comment>OMATH_SYMBOL_CBM_MIDLINE_HORIZONTAL_ELLIPSIS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Right Diagonal Ellipsis ( \rddots )</source>
+        <comment>OMATH_SYMBOL_CBM_UP_RIGHT_DIAGONAL_ELLIPSIS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Right Diagonal Ellipsis ( \ddots )</source>
+        <comment>OMATH_SYMBOL_CBM_DOWN_RIGHT_DIAGONAL_ELLIPSIS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lowercase</source>
+        <comment>OMATH_SYMBOL_CGL_LOWERCASE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha ( \alpha )</source>
+        <comment>OMATH_SYMBOL_CGL_ALPHA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beta ( \beta )</source>
+        <comment>OMATH_SYMBOL_CGL_BETA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gamma ( \gamma )</source>
+        <comment>OMATH_SYMBOL_CGL_GAMMA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delta ( \delta )</source>
+        <comment>OMATH_SYMBOL_CGL_DELTA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Epsilon ( \varepsilon )</source>
+        <comment>OMATH_SYMBOL_CGL_EPSILON_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Epsilon ( \epsilon )</source>
+        <comment>OMATH_SYMBOL_CGL_EPSILON_VARIANT_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zeta ( \zeta )</source>
+        <comment>OMATH_SYMBOL_CGL_ZETA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eta ( \eta )</source>
+        <comment>OMATH_SYMBOL_CGL_ETA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theta ( \theta )</source>
+        <comment>OMATH_SYMBOL_CGL_THETA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theta Variant ( \vartheta )</source>
+        <comment>OMATH_SYMBOL_CGL_THETA_VARIANT_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iota ( \iota )</source>
+        <comment>OMATH_SYMBOL_CGL_IOTA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kappa ( \kappa )</source>
+        <comment>OMATH_SYMBOL_CGL_KAPPA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lambda ( \lambda )</source>
+        <comment>OMATH_SYMBOL_CGL_LAMBDA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mu ( \mu )</source>
+        <comment>OMATH_SYMBOL_CGL_MU_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nu ( \nu )</source>
+        <comment>OMATH_SYMBOL_CGL_NU_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xi ( \xi )</source>
+        <comment>OMATH_SYMBOL_CGL_XI_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Omicron ( \o )</source>
+        <comment>OMATH_SYMBOL_CGL_OMICRON_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pi ( \pi )</source>
+        <comment>OMATH_SYMBOL_CGL_PI_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pi Variant ( \varpi )</source>
+        <comment>OMATH_SYMBOL_CGL_PI_VARIANT_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rho ( \rho )</source>
+        <comment>OMATH_SYMBOL_CGL_RHO_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rho Variant ( \varrho )</source>
+        <comment>OMATH_SYMBOL_CGL_RHO_VARIANT_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sigma ( \sigma )</source>
+        <comment>OMATH_SYMBOL_CGL_SIGMA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sigma Variant ( \varsigma )</source>
+        <comment>OMATH_SYMBOL_CGL_SIGMA_VARIANT_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tau ( \tau )</source>
+        <comment>OMATH_SYMBOL_CGL_TAU_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upsilon ( \upsilon )</source>
+        <comment>OMATH_SYMBOL_CGL_UPSILON_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phi ( \varphi )</source>
+        <comment>OMATH_SYMBOL_CGL_PHI_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phi Variant ( \phi )</source>
+        <comment>OMATH_SYMBOL_CGL_PHI_VARIANT_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chi ( \chi )</source>
+        <comment>OMATH_SYMBOL_CGL_CHI_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi ( \psi )</source>
+        <comment>OMATH_SYMBOL_CGL_PSI_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Omega ( \omega )</source>
+        <comment>OMATH_SYMBOL_CGL_OMEGA_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uppercase</source>
+        <comment>OMATH_SYMBOL_CGL_UPPERCASE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alpha ( \Alpha )</source>
+        <comment>OMATH_SYMBOL_CGL_ALPHA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beta ( \Beta )</source>
+        <comment>OMATH_SYMBOL_CGL_BETA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gamma ( \G \Gamma )</source>
+        <comment>OMATH_SYMBOL_CGL_GAMMA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delta ( \Delta )</source>
+        <comment>OMATH_SYMBOL_CGL_DELTA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Epsilon ( \Epsilon )</source>
+        <comment>OMATH_SYMBOL_CGL_EPSILON_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zeta ( \Zeta )</source>
+        <comment>OMATH_SYMBOL_CGL_ZETA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eta ( \Eta )</source>
+        <comment>OMATH_SYMBOL_CGL_ETA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Theta ( \Theta )</source>
+        <comment>OMATH_SYMBOL_CGL_THETA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Iota ( \Iota )</source>
+        <comment>OMATH_SYMBOL_CGL_IOTA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kappa ( \Kappa )</source>
+        <comment>OMATH_SYMBOL_CGL_KAPPA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Lambda ( \Lambda )</source>
+        <comment>OMATH_SYMBOL_CGL_LAMBDA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mu ( \Mu )</source>
+        <comment>OMATH_SYMBOL_CGL_MU_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Nu ( \Nu )</source>
+        <comment>OMATH_SYMBOL_CGL_NU_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xi ( \Xi )</source>
+        <comment>OMATH_SYMBOL_CGL_XI_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Omicron ( \O )</source>
+        <comment>OMATH_SYMBOL_CGL_OMICRON_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pi ( \Pi )</source>
+        <comment>OMATH_SYMBOL_CGL_PI_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rho ( \Rho )</source>
+        <comment>OMATH_SYMBOL_CGL_RHO_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sigma ( \Sigma )</source>
+        <comment>OMATH_SYMBOL_CGL_SIGMA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tau ( \Tau )</source>
+        <comment>OMATH_SYMBOL_CGL_TAU_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upsilon ( \Upsilon )</source>
+        <comment>OMATH_SYMBOL_CGL_UPSILON_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Phi ( \Phi )</source>
+        <comment>OMATH_SYMBOL_CGL_PHI_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chi ( \Chi )</source>
+        <comment>OMATH_SYMBOL_CGL_CHI_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Psi ( \Psi )</source>
+        <comment>OMATH_SYMBOL_CGL_PSI_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Omega ( \Omega )</source>
+        <comment>OMATH_SYMBOL_CGL_OMEGA_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Letter-Like Symbols</source>
+        <comment>OMATH_SYMBOL_CLLS_LETTER_LIKE_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For All ( \forall )</source>
+        <comment>OMATH_SYMBOL_CLLS_FORALL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Complement</source>
+        <comment>OMATH_SYMBOL_CLLS_COMPLEMENT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Partial Differential ( \partial )</source>
+        <comment>OMATH_SYMBOL_CLLS_PARTIAL_DIFFERENTIAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latin Small Letter Eth</source>
+        <comment>OMATH_SYMBOL_CLLS_LATIN_SMALL_LETTER_ETH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Euler Constant</source>
+        <comment>OMATH_SYMBOL_CLLS_EULER_CONSTANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greek Letter Digamma</source>
+        <comment>OMATH_SYMBOL_CLLS_GREEK_LETTER_DIGAMMA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turned Capital F</source>
+        <comment>OMATH_SYMBOL_CLLS_TURNED_CAPITAL_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Small G ( \scriptg )</source>
+        <comment>OMATH_SYMBOL_CLLS_SCRIPT_SMALL_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hilbert Space ( \frakturH )</source>
+        <comment>OMATH_SYMBOL_CLLS_HILBERT_SPACE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Planck Constant</source>
+        <comment>OMATH_SYMBOL_CLLS_PLANCK_CONSTANT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Planck Constant Over Two Pi ( \hbar )</source>
+        <comment>OMATH_SYMBOL_CLLS_PLANCK_CONSTANT_OVER_TWO_PI</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Turned Greek Small Letter Itoa</source>
+        <comment>OMATH_SYMBOL_CLLS_TURNED_GREEK_SMALL_LETTER_IOTA</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latin Small Letter Dotless I</source>
+        <comment>OMATH_SYMBOL_CLLS_LATIN_SMALL_LETTER_DOTLESS_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Imaginary Part ( \frakturI \Im )</source>
+        <comment>OMATH_SYMBOL_CLLS_IMAGINARY_PART</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latin Small Letter</source>
+        <comment>OMATH_SYMBOL_CLLS_LATIN_SMALL_LETTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greek Kappa Symbol</source>
+        <comment>OMATH_SYMBOL_CLLS_GREEK_KAPPA_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Laplace Transform ( \scriptL )</source>
+        <comment>OMATH_SYMBOL_CLLS_LAPLACE_TRANSFORM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Small L ( \scriptl \ell )</source>
+        <comment>OMATH_SYMBOL_CLLS_SCRIPT_SMALL_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Natural Number ( \doubleN )</source>
+        <comment>OMATH_SYMBOL_CLLS_NATURAL_NUMBER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Weierstrass Elliptic Function ( \wp )</source>
+        <comment>OMATH_SYMBOL_CLLS_WEIERSTRASS_ELLIPTIC_FUNCTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Set of Rational Numbers ( \doubleQ )</source>
+        <comment>OMATH_SYMBOL_CLLS_THE_SET_OF_RATIONAL_NUMBERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Riemann Integral ( \scriptR )</source>
+        <comment>OMATH_SYMBOL_CLLS_RIEMANN_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Real Part ( \frakturR \Re )</source>
+        <comment>OMATH_SYMBOL_CLLS_REAL_PART</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Set of Real Numbers ( \doubleR )</source>
+        <comment>OMATH_SYMBOL_CLLS_THE_SET_OF_REAL_NUMBERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Set of Integers ( \doubleZ )</source>
+        <comment>OMATH_SYMBOL_CLLS_THE_SET_OF_INTEGERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Inverted Ohm Sign</source>
+        <comment>OMATH_SYMBOL_CLLS_INVERTED_OHM_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Angstrom Sign</source>
+        <comment>OMATH_SYMBOL_CLLS_ANGSTROM_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bernoulli Function ( \scriptB )</source>
+        <comment>OMATH_SYMBOL_CLLS_BERNNOULLI_FUNCTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Estimated Symbol</source>
+        <comment>OMATH_SYMBOL_CLLS_ESTIMATED_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Electromotive Force ( \scriptE )</source>
+        <comment>OMATH_SYMBOL_CLLS_ELECTROMOTIVE_FORCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There Exists ( \exists )</source>
+        <comment>OMATH_SYMBOL_CLLS_THERE_EXISTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There Does Not Exist</source>
+        <comment>OMATH_SYMBOL_CLLS_THERE_DOES_NOT_EXIST</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fourier Transform ( \scriptF )</source>
+        <comment>OMATH_SYMBOL_CLLS_FOURIER_TRANSFORM</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>M-Matrix ( \scriptM )</source>
+        <comment>OMATH_SYMBOL_CLLS_M_MATRIX</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Order (Of Inferior Order To) ( \scripto )</source>
+        <comment>OMATH_SYMBOL_CLLS_ORDER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alef ( \aleph )</source>
+        <comment>OMATH_SYMBOL_CLLS_ALEF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bet ( \beth \bet )</source>
+        <comment>OMATH_SYMBOL_CLLS_BET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gimel Symbol (Third Transfinite Cardinal) ( \gimel )</source>
+        <comment>OMATH_SYMBOL_CLLS_GIMEL_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dalet Symbol (Fourth Transfinite Cardinal) ( \dalet \daleth )</source>
+        <comment>OMATH_SYMBOL_CLLS_DALET_SYMBOL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Binary Operators</source>
+        <comment>OMATH_SYMBOL_CO_COMMON_BINARY_OPERATORS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus</source>
+        <comment>OMATH_SYMBOL_CO_PLUS</comment>
+        <translation type="unfinished">加算記号</translation>
+    </message>
+    <message>
+        <source>Minus</source>
+        <comment>OMATH_SYMBOL_CO_MINUS</comment>
+        <translation type="unfinished">減算記号</translation>
+    </message>
+    <message>
+        <source>Division Sign ( \div )</source>
+        <comment>OMATH_SYMBOL_CO_DIVISION_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiplication Sign ( \times )</source>
+        <comment>OMATH_SYMBOL_CO_MULTIPLICATION_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Plus Minus ( +- \pm )</source>
+        <comment>OMATH_SYMBOL_CO_PLUS_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minus Plus ( \mp -+ )</source>
+        <comment>OMATH_SYMBOL_CO_MINUS_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proportional To ( \propto )</source>
+        <comment>OMATH_SYMBOL_CO_PROPORTIONAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Division Slash ( \ldiv \ldivide )</source>
+        <comment>OMATH_SYMBOL_CO_DIVISIO_SLASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asterisk Operator ( \ast )</source>
+        <comment>OMATH_SYMBOL_CO_ASTERISK_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Composite Function ( \circ )</source>
+        <comment>OMATH_SYMBOL_CO_COMPOSITE_FUNCTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bullet Operator ( \bullet )</source>
+        <comment>OMATH_SYMBOL_CO_BULLET_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot Operator ( \cdot )</source>
+        <comment>OMATH_SYMBOL_CO_DOT_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intersection ( \cap )</source>
+        <comment>OMATH_SYMBOL_CO_INTERSECTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Union ( \cup )</source>
+        <comment>OMATH_SYMBOL_CO_UNION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiset Union ( \uplus )</source>
+        <comment>OMATH_SYMBOL_CO_MULTISET_UNION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Cap ( \sqcap )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARE_CAP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Cup ( \sqcup )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARE_CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical And ( \wedge )</source>
+        <comment>OMATH_SYMBOL_CO_LOGICAL_AND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Logical Or ( \vee )</source>
+        <comment>OMATH_SYMBOL_CO_LOGICAL_OR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common Relational Operators</source>
+        <comment>OMATH_SYMBOL_CO_COMMON_RELATIONAL_OPERATORS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal</source>
+        <comment>OMATH_SYMBOL_CO_EQUAL</comment>
+        <translation type="unfinished">等号</translation>
+    </message>
+    <message>
+        <source>Not Equal To ( \neq \ne )</source>
+        <comment>OMATH_SYMBOL_CO_NOT_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than or Equal To ( \le &lt;= \leq )</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than or Equal To ( \geq &gt;= \ge )</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Less Than</source>
+        <comment>OMATH_SYMBOL_CO_NOT_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neither Less Than nor Equal To</source>
+        <comment>OMATH_SYMBOL_CO_NEITHER_LESS_THAN_NOR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Greater Than</source>
+        <comment>OMATH_SYMBOL_CO_NOT_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neither Greater Than nor Equal To</source>
+        <comment>OMATH_SYMBOL_CO_NEITHER_GREATER_THAN_NOR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identical To ( \equiv )</source>
+        <comment>OMATH_SYMBOL_CO_IDENTICAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Similar To ( \sim )</source>
+        <comment>OMATH_SYMBOL_CO_SIMILAR_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asymptotically Equal To ( \simeq )</source>
+        <comment>OMATH_SYMBOL_CO_ASYMPTOTICALLY_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Almost Equal To (Asymptotic To) ( \approx )</source>
+        <comment>OMATH_SYMBOL_CO_ALMOST_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approximately Equal To ( \cong ~= )</source>
+        <comment>OMATH_SYMBOL_CO_APPROXIMATELY_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Identical To</source>
+        <comment>OMATH_SYMBOL_CO_NOT_IDENTICAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Asymptotically Equal To</source>
+        <comment>OMATH_SYMBOL_CO_NOT_ASYMPTOTICALLY_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Almost Equal To</source>
+        <comment>OMATH_SYMBOL_CO_NOT_ALMOST_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neither Approximately nor Actually Equal To</source>
+        <comment>OMATH_SYMBOL_CO_NEITHER_APPROXIMATELY_NOR_ACTUALLY_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Much Less Than ( \ll &lt;&lt; )</source>
+        <comment>OMATH_SYMBOL_CO_MUCH_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Much Greater Than ( \gg &gt;&gt; )</source>
+        <comment>OMATH_SYMBOL_CO_MUCH_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Element Of ( \in )</source>
+        <comment>OMATH_SYMBOL_CO_ELEMENT_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains as Member ( \ni )</source>
+        <comment>OMATH_SYMBOL_CO_CONTAINS_AS_MEMBER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not an Element Of ( \notin \notelement )</source>
+        <comment>OMATH_SYMBOL_CO_NOT_AN_ELEMENT_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subset Of ( \subset )</source>
+        <comment>OMATH_SYMBOL_CO_SUBSET_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superset Of ( \superset )</source>
+        <comment>OMATH_SYMBOL_CO_SUPERSET_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subset of or Equal To ( \subseteq )</source>
+        <comment>OMATH_SYMBOL_CO_SUBSET_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superset of or Equal To ( \superseteq )</source>
+        <comment>OMATH_SYMBOL_CO_SUPERSET_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Precedes ( \prec )</source>
+        <comment>OMATH_SYMBOL_CO_PRECEDES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Succeeds ( \succ )</source>
+        <comment>OMATH_SYMBOL_CO_SUCCEEDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Precedes or Equal To ( \preceq )</source>
+        <comment>OMATH_SYMBOL_CO_PRECEDES_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Succeeds or Equal To ( \succeq )</source>
+        <comment>OMATH_SYMBOL_CO_SUCCEEDS_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Image Of</source>
+        <comment>OMATH_SYMBOL_CO_SQUARE_IMAGE_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Original Of</source>
+        <comment>OMATH_SYMBOL_CO_SQUARE_ORIGINAL_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Image Of or Equal To ( \sqsubseteq )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARE_IMAGE_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Square Original Of or Equal To ( \sqsuperseteq )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARE_ORIGINAL_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Parallel To ( \parallel )</source>
+        <comment>OMATH_SYMBOL_CO_PARALLEL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Perpendicular To (Orthogonal To) ( \prep \bot )</source>
+        <comment>OMATH_SYMBOL_CO_PERPENDICULAR_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proves (Implies, Yields) ( \vdash )</source>
+        <comment>OMATH_SYMBOL_CO_PROVES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Yield ( \dashv )</source>
+        <comment>OMATH_SYMBOL_CO_DOES_NOT_YIELD</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Join ( \bowtie )</source>
+        <comment>OMATH_SYMBOL_CO_JOIN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equivalent To ( \asymp )</source>
+        <comment>OMATH_SYMBOL_CO_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Basic N-ary Operators</source>
+        <comment>OMATH_SYMBOL_CO_BASIC_N_ARY_OPERATORS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Summation Sign ( \sum )</source>
+        <comment>OMATH_SYMBOL_CO_SUMMATION_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integral ( \int )</source>
+        <comment>OMATH_SYMBOL_CO_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Integral ( \iint )</source>
+        <comment>OMATH_SYMBOL_CO_DOUOBLE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triple Integral ( \iiint )</source>
+        <comment>OMATH_SYMBOL_CO_TRIPLE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contour Integral ( \oint )</source>
+        <comment>OMATH_SYMBOL_CO_CONTOUR_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Surface Integral ( \oiint )</source>
+        <comment>OMATH_SYMBOL_CO_SURFACE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Volume Integral ( \oiiint )</source>
+        <comment>OMATH_SYMBOL_CO_VOLUME_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise Integral</source>
+        <comment>OMATH_SYMBOL_CO_CLOCKWISE_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise Contour Integral ( \coint )</source>
+        <comment>OMATH_SYMBOL_CO_CLOCKWISE_CONTOUR_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counterclockwise Contour Integral ( \aoint )</source>
+        <comment>OMATH_SYMBOL_CO_COUNTERCLOCKWISE_CONTOUR_INTEGRAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product Sign ( \prod )</source>
+        <comment>OMATH_SYMBOL_CO_PRODUCT_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Coproduct Sign ( \coprod \amalg )</source>
+        <comment>OMATH_SYMBOL_CO_COPRODUCT_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Intersection ( \bigcap )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_INTERSECTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Union ( \bigcup )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_UNION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Logical And ( \bigwedge )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_LOGICAL_AND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Logical Or ( \bigvee )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_LOGICAL_OR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Circled Dot Operator ( \bigodot )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_CIRCLED_DOT_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Circled Times Operator ( \bigotimes )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_CIRCLED_TIMES_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Circled Plus Operator ( \bigoplus )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_CIRCLED_PLUS_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Union Operator with Plus ( \biguplus )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_UNION_OPERATOR_WITH_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Union Operator with Dot</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_UNION_OPERATOR_WITH_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced Binary Operators</source>
+        <comment>OMATH_SYMBOL_CO_ADVANCED_BIANAY_OPERATORS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot Plus</source>
+        <comment>OMATH_SYMBOL_CO_DOT_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dot Minus (Symmetric Difference)</source>
+        <comment>OMATH_SYMBOL_CO_DOT_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Set Minus ( \setminus )</source>
+        <comment>OMATH_SYMBOL_CO_SET_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Intersection</source>
+        <comment>OMATH_SYMBOL_CO_DOUBLE_INTERSECTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Union</source>
+        <comment>OMATH_SYMBOL_CO_DOUBLE_UNION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Squared Minus ( \boxminus )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARED_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Squared Times</source>
+        <comment>OMATH_SYMBOL_CO_SQUARED_TIMES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Squared Dot Operator ( \boxdot )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARED_DOT_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Squared Plus ( \boxplus )</source>
+        <comment>OMATH_SYMBOL_CO_SQUARED_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Division Times</source>
+        <comment>OMATH_SYMBOL_CO_DIVISION_TIMES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Normal Factor Semidirect Product</source>
+        <comment>OMATH_SYMBOL_CO_LEFT_NORMAL_FACTOR_SEMIDIRECT_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Normal Factor Semidirect Product</source>
+        <comment>OMATH_SYMBOL_CO_RIGHT_NORMAL_FACTOR_SEMIDIRECT_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Semidirect Product</source>
+        <comment>OMATH_SYMBOL_CO_LEFT_SEMIDIRECT_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Semidirect Product</source>
+        <comment>OMATH_SYMBOL_CO_RIGHT_SEMIDIRECT_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curly Logical And</source>
+        <comment>OMATH_SYMBOL_CO_CURLY_LOGICAL_AND</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Curly Logical Or</source>
+        <comment>OMATH_SYMBOL_CO_CURLY_LOGICAL_OR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Dash</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_DASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Intercalate</source>
+        <comment>OMATH_SYMBOL_CO_INTERCALATE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Plus ( \oplus )</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_PLUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Minus ( \ominus )</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_MINUS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Times ( \otimes )</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_TIMES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Division Slash</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_DIVISION_SLASH</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Dot Operator ( \odot )</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_DOT_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Asterisk Operator</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_ASTERISK_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Circled Ring Operator</source>
+        <comment>OMATH_SYMBOL_CO_CIRCLED_RING_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dagger</source>
+        <comment>OMATH_SYMBOL_CO_DAGGER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Dagger</source>
+        <comment>OMATH_SYMBOL_CO_DOUBLE_DAGGER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Star Operator ( \star )</source>
+        <comment>OMATH_SYMBOL_CO_STAR_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diamon Operator ( \diamond )</source>
+        <comment>OMATH_SYMBOL_CO_DIAMON_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wreath Product ( \wr )</source>
+        <comment>OMATH_SYMBOL_CO_WREATH_PRODUCT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>White Up-Pointing Triangle</source>
+        <comment>OMATH_SYMBOL_CO_WHITE_UP_POINTING_TRIANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Square Intersection Operator</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_SQUARE_INTERSECTION_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>N-ary Square Union Operator ( \bigsqcup )</source>
+        <comment>OMATH_SYMBOL_CO_N_ARY_SQUARE_UNION_OPERATOR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Advanced Relational Operators</source>
+        <comment>OMATH_SYMBOL_CO_ADVANCED_RELATIONAL_OPERATORS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Therefore ( \therefore )</source>
+        <comment>OMATH_SYMBOL_CO_THEREFORE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Because ( \because )</source>
+        <comment>OMATH_SYMBOL_CO_BECAUSE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Very Much Less Than</source>
+        <comment>OMATH_SYMBOL_CO_VERY_MUCH_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Very Much Greater Than</source>
+        <comment>OMATH_SYMBOL_CO_VERY_MUCH_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than Over Equal To</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN_OVER_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than Over Equal To</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN_OVER_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than or Equivalent To</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN_OR_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than or Equivalent To</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN_OR_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than with Dot</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN_WITH_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than with Dot</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN_WITH_DOT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than or Greater Than</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN_OR_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than, Equal to or Greater Than</source>
+        <comment>OMATH_SYMBOL_CO_LESS_THAN_EQUAL_TO_OR_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than or Less Than</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN_OR_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than, Equal to or Less Than</source>
+        <comment>OMATH_SYMBOL_CO_GREATER_THAN_EQUAL_TO_OR_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometrically Equal To</source>
+        <comment>OMATH_SYMBOL_CO_GEOMETRICALLY_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approximately Equal to or The Image Of</source>
+        <comment>OMATH_SYMBOL_CO_APPROXIMATELY_EQUAL_TO_OR_THE_IMAGE_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image of or Approximately Equal To</source>
+        <comment>OMATH_SYMBOL_CO_IMAGE_OF_OR_APPROXIMATELY_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reversed Tilde</source>
+        <comment>OMATH_SYMBOL_CO_REVERSED_TILDE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Almost Equal or Equal To</source>
+        <comment>OMATH_SYMBOL_CO_ALMOST_EQUAL_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reversed Tilde Equals</source>
+        <comment>OMATH_SYMBOL_CO_REVERSED_TILDE_EQUALS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to or Precedes</source>
+        <comment>OMATH_SYMBOL_CO_EQUAL_TO_OR_PRECEDES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to or Succeeds</source>
+        <comment>OMATH_SYMBOL_CO_EQUAL_TO_OR_SUCCEEDS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Precedes or Equivalent To</source>
+        <comment>OMATH_SYMBOL_CO_PRECEDES_OR_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Succeeds or Equivalent To</source>
+        <comment>OMATH_SYMBOL_CO_SUCCEEDS_OR_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to or Less Than</source>
+        <comment>OMATH_SYMBOL_CO_EQUAL_TO_OR_LESS_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equal to or Greater Than</source>
+        <comment>OMATH_SYMBOL_CO_EQUAL_TO_OR_GREATER_THAN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Subgroup Of</source>
+        <comment>OMATH_SYMBOL_CO_NORMAL_SUBGROUP_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains as Normal Subgroup</source>
+        <comment>OMATH_SYMBOL_CO_CONTAINS_AS_NORMAL_SUBGROUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Subgroup of or Equal To</source>
+        <comment>OMATH_SYMBOL_CO_NORMAL_SUBGROUP_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contains as Normal Subgroup or Equal To</source>
+        <comment>OMATH_SYMBOL_CO_CONTAINS_AS_NORMAL_SUBGROUP_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>True ( \models )</source>
+        <comment>OMATH_SYMBOL_CO_TRUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Subset</source>
+        <comment>OMATH_SYMBOL_CO_DOUBLE_SUBSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double Superset</source>
+        <comment>OMATH_SYMBOL_CO_DOUBLE_SUPERSET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forces</source>
+        <comment>OMATH_SYMBOL_CO_FORCES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Triple Vertical Bar Right Turnstile</source>
+        <comment>OMATH_SYMBOL_CO_TRIPLE_VERTICAL_BAR_RIGHT_TURNSTILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ring in Equal To</source>
+        <comment>OMATH_SYMBOL_CO_RING_IN_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ring Equal To</source>
+        <comment>OMATH_SYMBOL_CO_RING_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delta Equal To ( \Deltaeq )</source>
+        <comment>OMATH_SYMBOL_CO_DELTA_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Difference between</source>
+        <comment>OMATH_SYMBOL_CO_DIFFERENCE_BETWEEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometrically Equivalent To</source>
+        <comment>OMATH_SYMBOL_CO_GEOMETRICALLY_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Between</source>
+        <comment>OMATH_SYMBOL_CO_BETWEEN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pitchfork</source>
+        <comment>OMATH_SYMBOL_CO_PITCHFORK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Approaches The Limit ( \doteq )</source>
+        <comment>OMATH_SYMBOL_CO_APPROACHES_THE_LIMIT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrows</source>
+        <comment>OMATH_SYMBOL_CA_ARROWS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow ( \leftarrow \gets )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow ( -&gt; \to \rightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Arrow ( \uparrow )</source>
+        <comment>OMATH_SYMBOL_CA_UP_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Arrow ( \downarrow )</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow ( \leftrightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up-Down Arrow ( \updownarrow )</source>
+        <comment>OMATH_SYMBOL_CA_UP_DOWN_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Double Arrow ( \Leftarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Double Arrow ( \Rightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Double Arrow ( \Uparrow )</source>
+        <comment>OMATH_SYMBOL_CA_UP_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Double Arrow ( \Downarrow )</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Right Double Arrow ( \Leftrightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_RIGHT_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up-Down Double Arrow ( \Updownarrow )</source>
+        <comment>OMATH_SYMBOL_CA_UP_DOWN_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Left Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LONG_LEFT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Right Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LONG_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Left-Right Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LONG_LEFT_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Left Double Arrow ( \Longleftarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LONG_LEFT_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Right Double Arrow ( \Longrightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LONG_RIGHT_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Left-Right Double Arrow ( \Longleftrightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LONG_LEFT_RIGHT_DOUBLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Upward Right Arrow ( \nearrow )</source>
+        <comment>OMATH_SYMBOL_CA_DIAGONAL_UPWARD_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Upward Left Arrow ( \nwarrow )</source>
+        <comment>OMATH_SYMBOL_CA_DIAGONAL_UPWARD_LEFT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Downward Right Arrow ( \searrow )</source>
+        <comment>OMATH_SYMBOL_CA_DIAGONAL_DOWNWARD_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagonal Downward Left Arrow ( \swarrow )</source>
+        <comment>OMATH_SYMBOL_CA_DIAGONAL_DOWNWARD_LEFT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow with Stroke</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW_WITH_STROKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow with Stroke</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW_WITH_STROKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Right Arrow with Stroke</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_RIGHT_ARROW_WITH_STROKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Double Arrow with Stroke</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_DOUBLE_ARROW_WITH_STROKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Double Arrow with Stroke</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_DOUBLE_ARROW_WITH_STROKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Right Double Arrow with Stroke</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_RIGHT_DOUBLE_ARROW_WITH_STROKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Dashed Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_DASHED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Dashed Arrow</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_DASHED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow From Bar</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW_FROM_BAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow From Bar ( \mapsto )</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW_FROM_BAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Left Arrow From Bar</source>
+        <comment>OMATH_SYMBOL_CA_LONG_LEFT_ARROW_FROM_BAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Long Right Arrow From Bar</source>
+        <comment>OMATH_SYMBOL_CA_LONG_RIGHT_ARROW_FROM_BAR</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow with Hook ( \hookleftarrow )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW_WITH_HOOK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow with Hook ( \hookrightarrow )</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW_WITH_HOOK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Harpoon with Barb Up ( \leftharpoonup )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_HARPOONWITH_BARB_UP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Harpoon with Barb Down ( \leftharpoondown )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_HARPOONWITH_BARB_DOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Harpoon with Barb Up ( \rightharpoonup )</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_HARPOON_WITH_BARB_UP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Harpoon with Barb Down ( \rightharpoondown )</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_HARPOON_WITH_BARB_DOWN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Harpoon with Barb Left</source>
+        <comment>OMATH_SYMBOL_CA_UP_HARPOON_WITH_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Harpoon with Barb Right</source>
+        <comment>OMATH_SYMBOL_CA_UP_HARPOON_WITH_RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Harpoon with Barb Left</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_HARPOON_WITH_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Harpoon with Barb Right</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_HARPOON_WITH_RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Harpoon Over Right Harpoon ( \lrhar )</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_HARPOON_OVER_RIGHT_HARPOON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Harpoon Over Left Harpoon</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_HARPOON_OVER_LEFT_HARPOON</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Paired Arrows</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_PAIRED_ARROWS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Paired Arrows</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_PAIRED_ARROWS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Paired Arrows</source>
+        <comment>OMATH_SYMBOL_CA_UP_PAIRED_ARROWS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Paired Arrows</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_PAIRED_ARROWS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow Over Right Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW_OVER_RIGHT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow Over Left Arrow</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW_OVER_LEFT_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow with Loop</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW_WITH_LOOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow with Loop</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW_WITH_LOOP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Arrow with Tail</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_ARROW_WITH_TAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Arrow with Tail</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_ARROW_WITH_TAIL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Arrow with Tip Left</source>
+        <comment>OMATH_SYMBOL_CA_UP_ARROW_WITH_TIP_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Up Arrow with Tip Right</source>
+        <comment>OMATH_SYMBOL_CA_UP_ARROW_WITH_TIP_RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Arrow with Tip Left</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_ARROW_WITH_TIP_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Down Arrow with Tip Right</source>
+        <comment>OMATH_SYMBOL_CA_DOWN_ARROW_WITH_TIP_RIGHT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Triple Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_TRIPLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Triple Arrow</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_TRIPLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Two-Headed Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_TWO_HEADED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Two-Headed Arrow</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_TWO_HEADED_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counterclockwise Top Semicircle Arrow</source>
+        <comment>OMATH_SYMBOL_CA_COUNTERCLOCKWISE_TOP_SEMICIRCLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise Top Semicircle Arrow</source>
+        <comment>OMATH_SYMBOL_CA_CLOCKWISE_TOP_SEMICIRCLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counterclockwise Open Semicircle Arrow</source>
+        <comment>OMATH_SYMBOL_CA_COUNTERCLOCKWISE_OPEN_SEMICIRCLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clockwise Open Semicircle Arrow</source>
+        <comment>OMATH_SYMBOL_CA_CLOCKWISE_OPEN_SEMICIRCLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multimap</source>
+        <comment>OMATH_SYMBOL_CA_MULTIMAP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-Right Wave Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_RIGHT_WAVE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Wave Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_WAVE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Wave Arrow</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_WAVE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Squiggle Arrow</source>
+        <comment>OMATH_SYMBOL_CA_LEFT_SQUIGGLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Squiggle Arrow</source>
+        <comment>OMATH_SYMBOL_CA_RIGHT_SQUIGGLE_ARROW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Negated Relations</source>
+        <comment>OMATH_SYMBOL_CNR_NEGATED_RELATIONS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Tilde</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_TILDE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Equivalent To</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than but Not Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_LESS_THAN_BUT_NOT_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than bug Not Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_GREATER_THAN_BUG_NOT_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Precede</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_PRECEDE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Succeed</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_SUCCEED</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Precede or Equal</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_PRECEDE_OR_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Succeed or Equal</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_SUCCEED_OR_EQUAL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Contain as Member ( \notcontain )</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_CONTAIN_AS_MEMBER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not a Subset Of</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_A_SUBSET_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not a Superset Of</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_A_SUPERSET_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neither a Subset of nor Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_NEITHER_A_SUBSET_OF_NOR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Neight a Superset of nor Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_NEITHER_A_SUPERSET_OF_NOR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subset Of with Not Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_SUBSET_OF_WITH_NOR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Superset Of with Not Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_SUPERSET_OF_WITH_NOT_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Square Image Of or Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_SQUARE_IMAGE_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Square Original Of of Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_SQUARE_ORIGINAL_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Less Than bug Not Equivalent To</source>
+        <comment>OMATH_SYMBOL_CNR_LESS_THAN_BUT_NOT_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Greater Than but Not Equivalent To</source>
+        <comment>OMATH_SYMBOL_CNR_GREATER_THAN_BUT_NOT_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Precedes but Not Equivalent To</source>
+        <comment>OMATH_SYMBOL_CNR_PRECEDES_BUT_NOT_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Succeeds but Not Equivalent To</source>
+        <comment>OMATH_SYMBOL_CNR_SUCCEEDS_BUT_NOT_EQUIVALENT_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Normal Subgroup Of</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_NORMAL_SUBGROUP_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Contain as Normal Subgroup Of</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_CONTAIN_AS_NORMAL_SUBGROUP_OF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Normal Subgroup Of or Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_NORMAL_SUBGROUP_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Contain as Normal Subgroup Of or Equal To</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_CONTAIN_AS_NORMAL_SUBGROUP_OF_OR_EQUAL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Divide</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_DIVIDE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not Parallel To</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_PARALLEL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Prove</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_PROVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Not True</source>
+        <comment>OMATH_SYMBOL_CNR_NOT_TRUE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Does Not Force</source>
+        <comment>OMATH_SYMBOL_CNR_DOES_NOT_FORCE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Negated Double Vertical Bar Double Right Turnstile</source>
+        <comment>OMATH_SYMBOL_CNR_NEGATED_DOUBLE_VERTICAL_BAR_DOUBLE_RIGHT_TURNSTILE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scrips</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPTS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital A ( \scriptA )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital B ( \scriptB )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_B</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital C ( \scriptC )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital D ( \scriptD )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_D</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital E ( \scriptE )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_E</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital F ( \scriptF )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital G ( \scriptG )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital H ( \scriptH )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital I ( \scriptI )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital J ( \scriptJ )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_J</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital K ( \scriptK )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_K</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital L ( \scriptL )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital M ( \scriptM )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_M</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital N ( \scriptN )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_N</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital O ( \scriptO )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_O</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital P ( \scriptP )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_P</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital Q ( \scriptQ )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_Q</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital R ( \scriptR )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_R</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital S ( \scriptS )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_S</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital T ( \scriptT )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_T</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital U ( \scriptU )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital V ( \scriptV )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_V</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital W ( \scriptW )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_W</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital X ( \scriptX )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital Y ( \scriptY )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Capital Z ( \scriptZ )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_CAPITAL_Z</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase A ( \scripta )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase B ( \scriptb )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_B</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase C ( \scriptc )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase D ( \scriptd )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_D</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase E ( \scripte )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_E</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase F ( \scriptf )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase G ( \scriptg )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase H ( \scripth )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase I ( \scripti )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase J ( \scriptj )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_J</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase K ( \scriptk )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_K</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase L ( \scriptl )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase M ( \scriptm )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_M</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase N ( \scriptn )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_N</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase O ( \scripto )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_O</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase P ( \scriptp )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_P</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase Q ( \scriptq )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_Q</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase R ( \scriptr )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_R</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase S ( \scripts )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_S</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase T ( \scriptt )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_T</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase U ( \scriptu )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase V ( \scriptv )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_V</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase W ( \scriptw )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_W</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase X ( \scriptx )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase Y ( \scripty )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script Lowercase Z ( \scriptz )</source>
+        <comment>OMATH_SYMBOL_CS_SCRIPT_LOWERCASE_Z</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Frakturs</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTURS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital A ( \frakturA )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital B ( \frakturB )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_B</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital C ( \frakturC )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital D ( \frakturD )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_D</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital E ( \frakturE )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_E</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital F ( \frakturF )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital G ( \frakturG )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital H ( \frakturH )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital I ( \frakturI )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital J ( \frakturJ )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_J</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital K ( \frakturK )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_K</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital L ( \frakturL )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital M ( \frakturM )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_M</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital N ( \frakturN )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_N</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital O ( \frakturO )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_O</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital P ( \frakturP )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_P</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital Q ( \frakturQ )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_Q</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital R ( \frakturR )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_R</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital S ( \frakturS )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_S</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital T ( \frakturT )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_T</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital U ( \frakturU )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital V ( \frakturV )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_V</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital W ( \frakturW )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_W</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital X ( \frakturX )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital Y ( \frakturY )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Capital Z ( \frakturZ )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_CAPITAL_Z</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase A ( \fraktura )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase B ( \frakturb )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_B</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase C ( \frakturc )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase D ( \frakturd )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_D</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase E ( \frakture )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_E</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase F ( \frakturf )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase G ( \frakturg )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase H ( \frakturh )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase I ( \frakturi )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase J ( \frakturj )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_J</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase K ( \frakturk )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_K</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase L ( \frakturl )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase M ( \frakturm )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_M</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase N ( \frakturn )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_N</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase O ( \frakturo )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_O</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase P ( \frakturp )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_P</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase Q ( \frakturq )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_Q</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase R ( \frakturr )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_R</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase S ( \frakturs )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_S</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase T ( \frakturt )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_T</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase U ( \frakturu )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase V ( \frakturv )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_V</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase W ( \frakturw )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_W</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase X ( \frakturx )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase Y ( \fraktury )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraktur Lowercase Z ( \frakturz )</source>
+        <comment>OMATH_SYMBOL_CS_FRAKTUR_LOWERCASE_Z</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital A ( \doubleA )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital B ( \doubleB )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_B</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital C ( \doubleC )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital D ( \doubleD )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_D</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital E ( \doubleE )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_E</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital F ( \doubleF )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital G ( \doubleG )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital H ( \doubleH )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital I ( \doubleI )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital J ( \doubleJ )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_J</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital K ( \doubleK )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_K</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital L ( \doubleL )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital M ( \doubleM )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_M</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital N ( \doubleN )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_N</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital O ( \doubleO )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_O</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital P ( \doubleP )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_P</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital Q ( \doubleQ )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_Q</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital R ( \doubleR )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_R</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital S ( \doubleS )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_S</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital T ( \doubleT )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_T</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital U ( \doubleU )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital V ( \doubleV )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_V</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital W ( \doubleW )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_W</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital X ( \doubleX )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital Y ( \doubleY )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Capital Z ( \doubleZ )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_CAPITAL_Z</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase A ( \doublea )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_A</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase B ( \doubleb )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_B</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase C ( \doublec )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_C</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase D ( \doubled )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_D</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase E ( \doublee )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_E</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase F ( \doublef )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_F</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase G ( \doubleg )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_G</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase H ( \doubleh )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_H</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase I ( \doublei )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_I</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase J ( \doublej )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_J</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase K ( \doublek )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_K</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase L ( \doublel )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_L</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase M ( \doublem )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_M</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase N ( \doublen )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_N</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase O ( \doubleo )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_O</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase P ( \doublep )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_P</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase Q ( \doubleq )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_Q</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase R ( \doubler )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_R</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase S ( \doubles )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_S</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase T ( \doublet )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_T</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase U ( \doubleu )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_U</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase V ( \doublev )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_V</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase W ( \doublew )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_W</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase X ( \doublex )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_X</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase Y ( \doubley )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_Y</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double-Struck Lowercase Z ( \doublez )</source>
+        <comment>OMATH_SYMBOL_CS_DOUBLE_STRUCK_LOWERCASE_Z</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Geometry</source>
+        <comment>OMATH_SYMBOL_CG_GEOMETRY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Angle</source>
+        <comment>OMATH_SYMBOL_CG_RIGHT_ANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Angle ( \angle )</source>
+        <comment>OMATH_SYMBOL_CG_ANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Measured Angle</source>
+        <comment>OMATH_SYMBOL_CG_MESUARED_ANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Spherical Angle</source>
+        <comment>OMATH_SYMBOL_CG_SPHERICAL_ANGLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Angle with Arc</source>
+        <comment>OMATH_SYMBOL_CG_RIGHT_ANGLE_WITH_ARC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Triangle</source>
+        <comment>OMATH_SYMBOL_CG_RIGHT_TRIANGLE</comment>
+        <translation type="unfinished">直角三角形</translation>
+    </message>
+    <message>
+        <source>Equal and Parallel To</source>
+        <comment>OMATH_SYMBOL_CG_EQUAL_AND_PARALLEL_TO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ratio ( \ratio )</source>
+        <comment>OMATH_SYMBOL_CG_RATIO</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Proportion ( :: )</source>
+        <comment>OMATH_SYMBOL_CG_PROPORTION</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>End of Proof (Q.E.D.)</source>
+        <comment>OMATH_SYMBOL_CG_END_OF_PROOF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Bar below Base</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_BAR_POS_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Bar above Base</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_BAR_POS_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Top Edge</source>
+        <comment>OMATH_POPUP_CMD_SHOW_TOP_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Top Edge</source>
+        <comment>OMATH_POPUP_CMD_HIDE_TOP_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Bottom Edge</source>
+        <comment>OMATH_POPUP_CMD_SHOW_BOTTOM_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Bottom Edge</source>
+        <comment>OMATH_POPUP_CMD_HIDE_BOTTOM_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Left Edge</source>
+        <comment>OMATH_POPUP_CMD_SHOW_LEFT_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Left Edge</source>
+        <comment>OMATH_POPUP_CMD_HIDE_LEFT_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Right Edge</source>
+        <comment>OMATH_POPUP_CMD_SHOW_RIGHT_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Right Edge</source>
+        <comment>OMATH_POPUP_CMD_HIDE_RIGHT_EDGE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Horizontal Strike</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_HSTRIKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Horizontal Strike</source>
+        <comment>OMATH_POPUP_CMD_ADD_HSTRIKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Vertical Strike</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_VSTRIKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Vertical Strike</source>
+        <comment>OMATH_POPUP_CMD_ADD_VSTRIKE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Diagonal Strike from Top Left</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_DIAG_STRIKE_TOP_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Diagonal Strike from Top Left</source>
+        <comment>OMATH_POPUP_CMD_ADD_DIAG_STRIKE_TOP_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Diagonal Strike from Bottom Left</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_DIAG_STRIKE_BOTTOM_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Diagonal Strike from Bottom Left</source>
+        <comment>OMATH_POPUP_CMD_ADD_DIAG_STRIKE_BOTTOM_LEFT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Opening Bracket</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_OPENING_BRACKET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Opening Bracket</source>
+        <comment>OMATH_POPUP_CMD_ADD_OPENING_BRACKET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Closing Bracket</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_CLOSING_BRACKET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Closing Bracket</source>
+        <comment>OMATH_POPUP_CMD_ADD_CLOSING_BRACKET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Enclosing Characters</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_ENCLOSING_CHARS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Enclosing Characters and Separators</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_ENCLOSING_CHARS_AND_SEPS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Limit above Base</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_LIMIT_POS_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Limit below Base</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_LIMIT_POS_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Character above Text</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_GROUP_CHAR_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Character below Text</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_GROUP_CHAR_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Character below Text</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_GROUP_CHAR_POS_BELOW</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Character above Text</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_GROUP_CHAR_POS_ABOVE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Scripts before Base</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_SCRIPTS_POS_BEFORE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place Scripts after Base</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_SCRIPTS_POS_AFTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Placehoders</source>
+        <comment>OMATH_POPUP_CMD_HIDE_PLACEHOLDERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Placehoders</source>
+        <comment>OMATH_POPUP_CMD_SHOW_PLACEHOLDERS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Manual Break</source>
+        <comment>OMATH_POPUP_CMD_INSERT_MANUAL_BREAK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Manual Break</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_MANUAL_BREAK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align at this Character</source>
+        <comment>OMATH_POPUP_CMD_ALIGN_AT_THIS_CHARACTER</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Alignment Point</source>
+        <comment>OMATH_POPUP_CMD_REMOVE_ALIGNMENT_POINT</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <comment>OMATH_POPUP_CMD_ALIGN_AT_EQUAL_SIGN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to Inline</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_TO_INLINE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to Display</source>
+        <comment>OMATH_POPUP_CMD_CHANGE_TO_DISPLAY</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Type equation here.</source>
+        <comment>OMATH_NEW_EQUATION_TEXT</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

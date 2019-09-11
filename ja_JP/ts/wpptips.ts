@@ -3065,5 +3065,79 @@ SmartArt graphics range from graphical lists and process diagrams to more comple
         <extracomment>DocTranslate.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicEffects.title">
+        <source>Graphic Effects</source>
+        <extracomment>GraphicEffects.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicEffects.content">
+        <source>Apply a shadow effect and 3-D effect to the selected graphic.</source>
+        <extracomment>GraphicEffects.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFill.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFill.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFill2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFill2.content</extracomment>
+        <translation type="unfinished">図形の塗りつぶしをします</translation>
+    </message>
+    <message id="GraphicLine.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLine.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLine.content">
+        <source>Set the color, width and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLine.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLine2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLine2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLine2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLine2.content</extracomment>
+        <translation type="unfinished">図形の外枠を設定します</translation>
+    </message>
+    <message id="MergeShapes.title">
+        <source>Merge Shapes</source>
+        <extracomment>MergeShapes.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MergeShapes.content">
+        <source>Merge the selected shapes into one or more new geometric shapes.</source>
+        <extracomment>MergeShapes.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

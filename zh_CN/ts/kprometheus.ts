@@ -13,62 +13,62 @@
     <name>KProcessExistsAlertDlg</name>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>Restart WPS to see changes</source>
-        <translation>重启WPS使设置生效</translation>
+        <translation type="obsolete">重启WPS使设置生效</translation>
     </message>
     <message>
         <source>The settings you have changed require restarting WPS to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
-        <translation>此设置需要重启WPS才能生效。点击确定关闭本窗口，点击取消则会撤销此变更。</translation>
+        <translation type="obsolete">此设置需要重启WPS才能生效。点击确定关闭本窗口，点击取消则会撤销此变更。</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
     <message>
         <source>Reboot or Logoff to see changes</source>
-        <translation>重启或注销系统使设置生效</translation>
+        <translation type="obsolete">重启或注销系统使设置生效</translation>
     </message>
     <message>
         <source>The settings you have changed require a system reboot or logoff to take effect. Click OK to apply changes and close this window, or click Cancel to undo the changes.</source>
-        <translation>此设置需要重启或注销系统后才能生效。点击确定关闭本窗口，点击取消则会撤销此变更。</translation>
+        <translation type="obsolete">此设置需要重启或注销系统后才能生效。点击确定关闭本窗口，点击取消则会撤销此变更。</translation>
     </message>
 </context>
 <context>
     <name>KSwitchToClassicInterfaceDlg</name>
     <message>
         <source>Switch to Classic Interface</source>
-        <translation>切换经典界面模式</translation>
+        <translation type="obsolete">切换经典界面模式</translation>
     </message>
     <message>
         <source>In Classic interface, files opened by Writer, Spreadsheet, and Presentation will be shown in different windows rather than sharing one window. And Working Area feature is not supported.</source>
-        <translation>经典界面为多组件模式，即按文件类型分窗口组织文档标签，不支持工作区特性。</translation>
+        <translation type="obsolete">经典界面为多组件模式，即按文件类型分窗口组织文档标签，不支持工作区特性。</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
     <message>
         <source>This operation request restart WPS, Please close all the file in advance in case data lose</source>
-        <translation type="unfinished">此操作需要重启WPS，请提前关闭所有文件以免造成数据丢失。</translation>
+        <translation type="obsolete">此操作需要重启WPS，请提前关闭所有文件以免造成数据丢失。</translation>
     </message>
     <message>
         <source>Switching to Classic Interface</source>
-        <translation>正在切换经典界面多组件模式</translation>
+        <translation type="obsolete">正在切换经典界面多组件模式</translation>
     </message>
     <message>
         <source>Classic Interface</source>
-        <translation>经典界面</translation>
+        <translation type="obsolete">经典界面</translation>
     </message>
     <message>
         <source>Start WPS</source>
-        <translation>启动WPS</translation>
+        <translation type="obsolete">启动WPS</translation>
     </message>
     <message>
         <source>This operation request a system reboot or logoff, Please close all the file in advance in case data lose</source>
-        <translation type="unfinished">此操作需要重启或注销系统后生效，请提前关闭所有文件以免造成数据丢失。</translation>
+        <translation type="obsolete">此操作需要重启或注销系统后生效，请提前关闭所有文件以免造成数据丢失。</translation>
     </message>
 </context>
 <context>

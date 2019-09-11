@@ -3655,6 +3655,177 @@ Check that the cell references, range names, defined names and links to other wo
         <comment>TX_CHECKINT_SHAREPOINT</comment>
         <translation>Without checking in, your changes cannot be seen by other users. Check in now?</translation>
     </message>
+    <message>
+        <source>There are some empty string</source>
+        <comment>TX_ERRORCHECK_ERR_StringEmptyCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are some empty string before and after this content</source>
+        <comment>TX_ERRORCHECK_ERRDESC_StringEmptyCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> There are some empty string before and after this content, which may cause calculation errors!</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_EmptyStringCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear empty strings before and after</source>
+        <comment>TX_ERRORCHECK_REPAIR_EmptyStringCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <comment>TX_FLASHFILL_RANGE_INVALID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the selected area, there is no cell to be filled, and smart fill fails.</source>
+        <comment>TX_FLASHFILL_NO_EMPTY_CELLS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smart fill cannot be performed without a sample. 
+Try entering some sample data before performing Smart Fill.</source>
+        <comment>TX_FLASHFILL_NO_EXAMPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s).</source>
+        <comment>TX_MERGESHEET_REPORT_Result_Succeed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s), with %d failed.</source>
+        <comment>TX_MERGESHEET_REPORT_Result_Failed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s). Data: %d row(s)</source>
+        <comment>TX_MERGESHEET_REPORT_Merge_Result_Succeed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report: Merged %d workbook(s), with %d failed. Data: %d row(s)</source>
+        <comment>TX_MERGESHEET_REPORT_Merge_Result_Failed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Report</source>
+        <comment>TX_MERGESHEET_REPORT_SheetName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WorkBook</source>
+        <comment>TX_MERGESHEET_REPORT_BOOK</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Worksheet</source>
+        <comment>TX_MERGESHEET_REPORT_Sheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Status</source>
+        <comment>TX_MERGESHEET_REPORT_State</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Location after merging</source>
+        <comment>TX_MERGESHEET_REPORT_Location</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Succeed</source>
+        <comment>TX_MERGESHEET_STATE_Succeed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed</source>
+        <comment>TX_MERGESHEET_STATE_Failed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed:no data</source>
+        <comment>TX_MERGESHEET_STATE_FailedEmpty</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed:the content in the table is less than the specified header lines</source>
+        <comment>TX_MERGESHEET_STATE_FailedRangeLessThanTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Too many rows</source>
+        <comment>TX_MERGESHEET_STATE_RowExceed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Too many columns</source>
+        <comment>TX_MERGESHEET_STATE_ColumnExceed</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: File doesn&apos;t exist</source>
+        <comment>TX_MERGESHEET_STATE_FileNotExist</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Worksheet doesn&apos;t exist</source>
+        <comment>TX_MERGESHEET_STATE_SheetNotExist</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge macro sheet</source>
+        <comment>TX_MERGESHEET_STATE_MacroSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge chart sheet</source>
+        <comment>TX_MERGESHEET_STATE_ChartSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge dialog sheet</source>
+        <comment>TX_MERGESHEET_STATE_DialogSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Cannot merge security files</source>
+        <comment>TX_MERGESHEET_STATE_SecurityDoc</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Unsupported file format</source>
+        <comment>TX_MERGESHEET_STATE_FormatError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merged tables</source>
+        <comment>TX_MERGESHEET_TOTAL_SHEET</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exporting Data</source>
+        <comment>TX_DuplicateItemsMgr_Progress_Export</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlighting Data</source>
+        <comment>TX_DuplicateItemsMgr_Progress_Highlight</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Comparing Data</source>
+        <comment>TX_DuplicateItemsMgr_Progress_Compare</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column</source>
+        <comment>TX_JSIDE_ListBox_ColumnName</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -4249,6 +4420,56 @@ Change the reference to a single cell, or use the reference with a worksheet fun
         <source>(Blank)</source>
         <comment>TX_AutoFilter_Analysis_Blank</comment>
         <translation></translation>
+    </message>
+    <message>
+        <source>The ranges you selected overlap each other. Please reselect.</source>
+        <comment>TX_DuplicateItemsMgr_Invalid_Range</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The selected ranges should not contain merged cells.</source>
+        <comment>TX_DuplicateItemsMgr_MergeCells</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please make sure there are as many columns in both selected ranges.</source>
+        <comment>TX_DuplicateItemsMgr_InvalidColumn</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please make sure that the selected ranges have the same headers.</source>
+        <comment>TX_DuplicateItemsMgr_InvalidTitle</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No duplicate value data found in the selected area.</source>
+        <comment>TX_DuplicateItemsMgr_NotFoundRepeat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No unique value data found in the selected area.</source>
+        <comment>TX_DuplicateItemsMgr_NotFoundUnique</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range %1</source>
+        <comment>TX_DuplicateItemsMgr_RangeName</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The data in the %s that needs to be compared has been protected.</source>
+        <comment>TX_DuplicateItemsMgr_ProtectSheet</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Part of the data extraction was lost because the extracted data was outside the maximum range of the worksheet.</source>
+        <comment>TX_DuplicateItemsMgr_OutOfRange</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There is a lot of data to be processed, which may take a long time. Please be patient.</source>
+        <comment>TX_DuplicateItemsMgr_WaitingTime</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16869,6 +17090,17 @@ Background</source>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <translation></translation>
     </message>
+    <message>
+        <source>We looked at the data next to your selection and didn&apos;t see a pattern for filling values for you.
+To use Flash Fill, enter a couple of examples of the output you&apos;d like to see,kepp the active cell in the column you want fill, and click the Flash Fill button again.</source>
+        <comment>TX_FlashFill_Cannot_Apply</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <comment>TX_FlashFill_InvalidArea</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_undodesc</name>
@@ -17656,6 +17888,16 @@ Background</source>
         <source>Paste</source>
         <comment>TX_Undo_PasteName</comment>
         <translation></translation>
+    </message>
+    <message>
+        <source>Remind Repeat</source>
+        <comment>TX_Undo_RemindRepeat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextDirection</source>
+        <comment>TX_Undo_TextDirection</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19628,6 +19870,35 @@ the category you want, and then choose the other options.</source>
         <source>Print Entire Workbook directly</source>
         <comment>et_sRecentPrint_PrintEntireDirect</comment>
         <translation>Print Entire Workbook Directly</translation>
+    </message>
+    <message>
+        <source>The merging will keep only the values and formats of cells.</source>
+        <comment>et_sMergeSheet_BottomTip</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett)</source>
+        <comment>et_sMergeSheet_SelectFileFilter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx)</source>
+        <comment>et_sMergeSheet_SelectFileFilterEtx</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Some opened files have the same names as the files to be merged. To avoid failure in merging, these opened files will be closed. 
+• Do you want to save your changes to these files? 
+• 
+•</source>
+        <comment>et_sMergeSheet_FileAlreadyOpened</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decoding failed. WPS Spreadsheets cannot add this file.
+(%s)</source>
+        <comment>et_sMergeSheet_DecryptFail</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

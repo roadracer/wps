@@ -1157,6 +1157,10 @@ condition is true: </source>
         <source>Duplicate Items</source>
         <translation>篩選重複項目</translation>
     </message>
+    <message>
+        <source>Set Search</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -5670,6 +5674,10 @@ p, li { white-space: pre-wrap; }
         <source>or select a &amp;category:</source>
         <translation type="obsolete">或選取類別(&amp;C):</translation>
     </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished">函數說明(H)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgInsertWorkSheet</name>
@@ -6611,7 +6619,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
-        <translation>選擇您記得住的密碼。若您忘記密碼，它將無法復原。記住，密碼是有區分大小寫的。</translation>
+        <translation type="obsolete">選擇您記得住的密碼。若您忘記密碼，它將無法復原。記住，密碼是有區分大小寫的。</translation>
     </message>
     <message>
         <source>Security threats</source>
@@ -7216,6 +7224,71 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Use account encryption</source>
         <translation>使用賬戶加密</translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished">允許中鍵執行粘貼操作</translation>
+    </message>
+    <message>
+        <source>Open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty string before and after cell content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter search settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When there are wildcards in conditions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that matches the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When there are spaces in conditions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes all keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes any of the keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the whole string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Auto-recommend setting</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8123,6 +8196,14 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>&amp;Options...</source>
         <translation>選項(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Green Pri&amp;nt:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10676,6 +10757,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>etFillYears</source>
         <translation type="obsolete">以年填滿(&amp;Y)</translation>
     </message>
+    <message>
+        <source>&amp;Flash Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEtStatusZoomOptionGalleryModel</name>
@@ -12876,11 +12961,15 @@ file,then %2switch%3the file to ET shared workbook.</source>
     </message>
     <message>
         <source>Paste settings</source>
-        <translation>粘貼設置</translation>
+        <translation type="obsolete">粘貼設置</translation>
     </message>
     <message>
         <source>Enable middle button paste</source>
-        <translation>允許中鍵執行粘貼操作</translation>
+        <translation type="obsolete">允許中鍵執行粘貼操作</translation>
+    </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13405,6 +13494,38 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     <message>
         <source>Duple&amp;x print</source>
         <translation>雙面列印(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Default Current Page Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 2 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1.5 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15287,6 +15408,26 @@ t</source>
         <source>Center Across Selection</source>
         <translation type="obsolete">跨欄置中</translation>
     </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation type="unfinished">從右至左</translation>
+    </message>
+    <message>
+        <source>&amp;Text Direction:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translation type="unfinished">根據內容</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetAlignment</name>
@@ -16926,6 +17067,10 @@ and cannot generate reports.</source>
     <message>
         <source>Date/Time</source>
         <translation>日期/時間</translation>
+    </message>
+    <message>
+        <source>AllSelect</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19207,7 +19352,11 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Search</source>
-        <translation>搜尋</translation>
+        <translation type="obsolete">搜尋</translation>
+    </message>
+    <message>
+        <source>(Separate keywords with space)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19506,19 +19655,31 @@ Do you want to change to Manual?</source>
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>What is Auto Roaming</source>
-        <translation>自動漫遊是什麼？</translation>
+        <translation type="obsolete">自動漫遊是什麼？</translation>
     </message>
     <message>
         <source>you also reference this document when login on another deviec</source>
-        <translation>之後，當您在其他裝置登入時，也可以檢視和編輯該文件。</translation>
+        <translation type="obsolete">之後，當您在其他裝置登入時，也可以檢視和編輯該文件。</translation>
     </message>
     <message>
         <source>we update your modification on time</source>
-        <translation>並且，系統會自動同步本機和雲端的修改。</translation>
+        <translation type="obsolete">並且，系統會自動同步本機和雲端的修改。</translation>
     </message>
     <message>
         <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>啟用[自動漫遊]之後，系統將會自動將開啟過的本機文件儲存一份至雲端。</translation>
+        <translation type="obsolete">啟用[自動漫遊]之後，系統將會自動將開啟過的本機文件儲存一份至雲端。</translation>
+    </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22805,15 +22966,15 @@ file,click OK.</source>
     </message>
     <message>
         <source>Empty cells</source>
-        <translation>空白儲存格</translation>
+        <translation type="obsolete">空白儲存格</translation>
     </message>
     <message>
         <source>Hidden shapes, text boxes, and so on</source>
-        <translation>隱藏的圖案、文字方塊等</translation>
+        <translation type="obsolete">隱藏的圖案、文字方塊等</translation>
     </message>
     <message>
         <source>Duplicate styles</source>
-        <translation>重複樣式</translation>
+        <translation type="obsolete">重複樣式</translation>
     </message>
     <message>
         <source>No need slimming</source>
@@ -22925,7 +23086,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>%1 Blocks</source>
-        <translation>%1 塊</translation>
+        <translation type="obsolete">%1 塊</translation>
     </message>
     <message>
         <source>Start</source>
@@ -22974,6 +23135,22 @@ file,click OK.</source>
     <message>
         <source>Fail to open file!</source>
         <translation>無法開啟檔案！</translation>
+    </message>
+    <message>
+        <source>Hidden Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate styles</source>
+        <translation type="unfinished">重複樣式</translation>
+    </message>
+    <message>
+        <source>Empty Cells</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23561,7 +23738,7 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     </message>
     <message>
         <source>&amp;Add workbook</source>
-        <translation>新增活頁簿(&amp;A)</translation>
+        <translation type="obsolete">新增活頁簿(&amp;A)</translation>
     </message>
     <message>
         <source>The merging will keep all the original content, formulas and formats.</source>
@@ -23606,6 +23783,10 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     <message>
         <source>Original fil&amp;e names + sheet names</source>
         <translation>工作表名稱，前面加上檔名(&amp;E)</translation>
+    </message>
+    <message>
+        <source>&amp;Add file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -24560,6 +24741,113 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     <message>
         <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
         <translation>只有當工作表受到保護時，鎖定物件才會生效。若要保護工作表，請在 [工具] 索引標籤選擇 [保護]，再選 [保護工作表]。您可選擇是否要加密碼保護。</translation>
+    </message>
+</context>
+<context>
+    <name>KSearchMenuButton</name>
+    <message>
+        <source>Find content that includes the wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that matches the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes all keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes any of the keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the whole string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished">(已選取</translation>
+    </message>
+    <message>
+        <source>eg:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFilterColumDlg</name>
+    <message>
+        <source>input columns to show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;ShowAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;aveOld</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtInsertWithLineEditCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtView</name>
+    <message>
+        <source>The split position of frozen panes is outside of the visible area, which disable the scrolling.
+Please unfreeze pane.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnFreezePanes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtfilterColumnContentPane</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">表單</translation>
+    </message>
+    <message>
+        <source>please input columns to need:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

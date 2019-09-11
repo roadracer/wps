@@ -3852,6 +3852,10 @@ Editor</source>
         <source>Rich Text Content Control</source>
         <translation>RTF 內容控制項</translation>
     </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_drawingtools</name>
@@ -6152,7 +6156,7 @@ Painter</source>
     </message>
     <message>
         <source>Increase Indent</source>
-        <translation>增加縮排</translation>
+        <translation type="obsolete">增加縮排</translation>
     </message>
     <message>
         <source>Inside Border</source>
@@ -7122,6 +7126,22 @@ Break</source>
         <source>My Picture</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Insert New Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_insert_vml</name>
@@ -7443,6 +7463,22 @@ Break</source>
     <message>
         <source>addAutotext</source>
         <translation>儲存選取項目至自動圖文集庫</translation>
+    </message>
+    <message>
+        <source>Insert New Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Media</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -15233,7 +15269,7 @@ MutidiagonalCell</source>
     </message>
     <message>
         <source>Enter Activation Code</source>
-        <translation type="obsolete">輸入啟用代碼</translation>
+        <translation type="unfinished">輸入啟用代碼</translation>
     </message>
     <message>
         <source>Envelopes</source>
@@ -17577,6 +17613,253 @@ Painter</source>
         <source>WPS Data Recovery Master</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Align Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Align at =</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Border Properties</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>OMathMatOrEqArr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Break into Seperate Equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>OMathMat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>OMathMatOrEqArr</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change Limit Locations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to Linear Fraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to Skewed Fraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Change to Stack Fraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Argument</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Column</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Edit Object</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Array Spacing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand to Object Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expand to Page/Column Width</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Degree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Lower Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hide Upper Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Argument After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Argument Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Column After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Column Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Equation After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Equation Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Fraction Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Row After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Insert Row Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>OMathMat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>OMath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Match Brackets to Argument Height</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrix Alignment</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrix Spacing...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Movie</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Accent Character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Fraction Bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Radical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Scripts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>OMathMat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Degree</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Lower Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Upper Limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sound</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch Brackets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>OMathMatOrEqArr</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.InsertBlankPage</name>
@@ -18320,6 +18603,10 @@ AddIns</source>
     <message>
         <source>XmlStructure</source>
         <translation>XML 結構</translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -37701,6 +37988,103 @@ Navigation</source>
         <source>document authentication</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Align Adjustify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center Algin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Multi Equations Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Global Center Algin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left Algin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>OMath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right Algin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS JavaScript Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpscommon.mainwindow.commands.Help</name>
@@ -38480,6 +38864,10 @@ Changes</source>
     </message>
     <message>
         <source>Special Apps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Tool</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -40984,6 +41372,89 @@ On/Off</source>
     <message>
         <source>Wrap Text</source>
         <comment>rainbow</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Accent</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Bracket</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Symbols</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Integral</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Large Operator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Limit and Log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Operator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Structures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Symbols</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

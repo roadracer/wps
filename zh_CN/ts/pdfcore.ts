@@ -7,7 +7,7 @@
     <message>
         <source>Kingsoft PDF cannot open this file(%s)!</source>
         <comment>_TxDocument_OpenPasswordFailure</comment>
-        <translation>无法打开(%s)！</translation>
+        <translation type="obsolete">无法打开(%s)！</translation>
     </message>
     <message>
         <source>because the password is not correct.</source>
@@ -82,7 +82,7 @@
     <message>
         <source>Saving file</source>
         <comment>_PdDocument_GotoPageNumberInfo</comment>
-        <translation>正在保存</translation>
+        <translation type="obsolete">正在保存</translation>
     </message>
     <message>
         <source>Saving file</source>
@@ -183,7 +183,7 @@ Please batches operations</source>
     </message>
     <message>
         <source>Encryption will take effect after the document is saved</source>
-        <translation>加密将在保存文档后生效。</translation>
+        <translation type="obsolete">加密将在保存文档后生效。</translation>
     </message>
     <message>
         <source>The size of the inserted image is too large.</source>
@@ -214,22 +214,22 @@ Please batches operations</source>
     <message>
         <source>Redo</source>
         <comment>TxRedo_pdf</comment>
-        <translation>恢复</translation>
+        <translation type="obsolete">恢复</translation>
     </message>
     <message>
         <source>Can&apos;t Redo</source>
         <comment>TxNotRedo_pdf</comment>
-        <translation>无法恢复</translation>
+        <translation type="obsolete">无法恢复</translation>
     </message>
     <message>
         <source>Undo</source>
         <comment>TxUndo_pdf</comment>
-        <translation>撤销</translation>
+        <translation type="obsolete">撤销</translation>
     </message>
     <message>
         <source>Can&apos;t Undo</source>
         <comment>TxNotUndo_pdf</comment>
-        <translation>无法撤销</translation>
+        <translation type="obsolete">无法撤销</translation>
     </message>
 </context>
 </TS>

@@ -68,19 +68,19 @@
     <name>KPromeTrialReminderDlg</name>
     <message>
         <source>Trial Expired</source>
-        <translation>授權已到期</translation>
+        <translation type="obsolete">授權已到期</translation>
     </message>
     <message>
         <source>You can try the WPS Office for %1 days</source>
-        <translation>您可以試用%1天</translation>
+        <translation type="obsolete">您可以試用%1天</translation>
     </message>
     <message>
         <source>Preview Mode</source>
-        <translation>預覽模式</translation>
+        <translation type="obsolete">預覽模式</translation>
     </message>
     <message>
         <source>Start Trial</source>
-        <translation>試用看看</translation>
+        <translation type="obsolete">試用看看</translation>
     </message>
 </context>
 <context>

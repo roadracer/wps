@@ -6702,6 +6702,35 @@ The Advanced button allows you to choose from different encryption types.</trans
         <source>Enable middle button paste</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Document Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open &amp;chinese spelling check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDlgPageNumbers</name>
@@ -7700,6 +7729,14 @@ The Advanced button allows you to choose from different encryption types.</trans
     <message>
         <source>Add receiver(&amp;R)</source>
         <translation>Add &amp;Receiver</translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green Pri&amp;nt:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11387,6 +11424,10 @@ Cancel:	Return to the dialog.</source>
         <source>Document ma&amp;p:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOutlineNumberDlg</name>
@@ -11721,6 +11762,38 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Print permissions error!</source>
         <translation>Print permissions error.</translation>
+    </message>
+    <message>
+        <source>Default Current Page Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 2 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1.5 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16683,15 +16756,27 @@ schema that matches the namespace already specified; or click Cancel, and remove
     </message>
     <message>
         <source>you also reference this document when login on another deviec</source>
-        <translation>The file can then be viewed and edited when later you sign in with other devices.</translation>
+        <translation type="obsolete">The file can then be viewed and edited when later you sign in with other devices.</translation>
     </message>
     <message>
         <source>we update your modification on time</source>
-        <translation>Meanwhile, system also syncs file changes made both locally and on Cloud.</translation>
+        <translation type="obsolete">Meanwhile, system also syncs file changes made both locally and on Cloud.</translation>
     </message>
     <message>
         <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>With &quot;Auto Roaming&quot; enabled, system will automatically save file to Cloud once it has been opened.</translation>
+        <translation type="obsolete">With &quot;Auto Roaming&quot; enabled, system will automatically save file to Cloud once it has been opened.</translation>
+    </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -17981,7 +18066,7 @@ schema that matches the namespace already specified; or click Cancel, and remove
     </message>
     <message>
         <source>sy_selfdefine</source>
-        <translation>Custom watermark</translation>
+        <translation type="obsolete">Custom watermark</translation>
     </message>
     <message>
         <source>input chinese sy info tips part1</source>
@@ -19395,6 +19480,312 @@ represent the receiver</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>New &amp;text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationAlignmentAndSpacing</name>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-style:italic; color:#ff0000;&quot;&gt;A &lt;/span&gt;&lt;span style=&quot; font-size:11pt; color:#ff0000;&quot;&gt;=&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>1.5 Lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum distan&amp;nce between column edges:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum &amp;distance between columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When building up integrals,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When building up other n-ary operators,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in, 2, 0, 22, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght Margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Defauls ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEquationAlignmentAndSpacingDlg</name>
+    <message>
+        <source>Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Array</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFitTextDlg</name>
+    <message>
+        <source>Cannot fit text to specified length.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(%1 %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsEquationOptionsDlg</name>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

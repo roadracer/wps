@@ -681,7 +681,7 @@
     </message>
     <message>
         <source>&amp;Open WPS Cloud Folder</source>
-        <translation>開啟 WPS 雲端檔案(&amp;O)</translation>
+        <translation type="obsolete">開啟 WPS 雲端檔案(&amp;O)</translation>
     </message>
     <message>
         <source>&amp;Settings</source>
@@ -698,6 +698,14 @@
     <message>
         <source>Send file failed</source>
         <translation>傳送失敗</translation>
+    </message>
+    <message>
+        <source>Open WPS %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start WPS &amp;Desktop</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1815,6 +1823,38 @@ Time for upgrade: %1</source>
         <source>Desktop Backup</source>
         <translation>桌面備份</translation>
     </message>
+    <message>
+        <source>%1.%2.%3.%4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Nse Cloud Root Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to clear recycle bin</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to destroy recycle files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>failed to recover recycle files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cross group move folder is not support</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about %1 GB</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>about %1 MB</source>
+        <translation type="unfinished">約 %1 MB</translation>
+    </message>
 </context>
 <context>
     <name>batchuploaddlg</name>
@@ -2037,7 +2077,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>WPS Cloud File.lnk</source>
-        <translation>WPS 雲端檔案.lnk</translation>
+        <translation type="obsolete">WPS 雲端檔案.lnk</translation>
     </message>
     <message>
         <source>Shortcut of WPS CloudFile has been created, you can find it on desktop</source>
@@ -2046,6 +2086,10 @@ Free Space: about %1 MB</source>
     <message>
         <source>Create shortcut of WPS CloudFile failed!</source>
         <translation>建立捷徑失敗</translation>
+    </message>
+    <message>
+        <source>Place the %1 into desktop</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2083,19 +2127,19 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Desktop Backup Settings</source>
-        <translation>桌面備份</translation>
+        <translation type="obsolete">桌面備份</translation>
     </message>
     <message>
         <source>Desktop documents and pictures are automatically backed up to cloud documents and can be accessed at other terminals</source>
-        <translation>自動備份桌面文件和圖片到WPS雲端檔案。在其他裝置上也能造訪這些檔案</translation>
+        <translation type="obsolete">自動備份桌面文件和圖片到WPS雲端檔案。在其他裝置上也能造訪這些檔案</translation>
     </message>
     <message>
         <source>Set up the desktop backup blocked file:</source>
-        <translation>尚未備份的檔案</translation>
+        <translation type="obsolete">尚未備份的檔案</translation>
     </message>
     <message>
         <source>Look</source>
-        <translation>檢視</translation>
+        <translation type="obsolete">檢視</translation>
     </message>
     <message>
         <source>about %1 MB</source>
@@ -2104,6 +2148,58 @@ Free Space: about %1 MB</source>
     <message>
         <source>Calculating cache size...</source>
         <translation>正在計算檔案大小...</translation>
+    </message>
+    <message>
+        <source>Enable WpsDesk When Startup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically start wps Desktop function after booting into the system</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Common File Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smart backup location files that can be accessed on your phone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop documents and pictures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>size</source>
+        <translation type="unfinished">大小</translation>
+    </message>
+    <message>
+        <source>look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QQ/TIM received files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WeChat received files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-click extension menu</source>
+        <translation type="unfinished">右鍵擴展選單</translation>
+    </message>
+    <message>
+        <source>Add &apos;upload to WPS Cloud document&apos; menu item on the right menu</source>
+        <translation type="unfinished">在右鍵選單中加上[上傳至WPS雲端檔案]選項</translation>
+    </message>
+    <message>
+        <source>Add &apos;share file to WPS Cloud document&apos; menu item on the right menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add share file to WPS cloud doc menu item on the right menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2114,11 +2210,11 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>smartUpdate</source>
-        <translation>智能同步</translation>
+        <translation type="obsolete">智能同步</translation>
     </message>
     <message>
         <source>Super membership available. After switching on, enter the cloud document folder, the file is automatically updated, no manual operation.</source>
-        <translation>超級VIP可用。啟用后，當您進入雲端資料夾，內含檔案將自動更新。</translation>
+        <translation type="obsolete">超級VIP可用。啟用后，當您進入雲端資料夾，內含檔案將自動更新。</translation>
     </message>
     <message>
         <source>Show WPS Cloud Files in My Computer</source>
@@ -2130,15 +2226,75 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>Right-click extension menu</source>
-        <translation>右鍵擴展選單</translation>
+        <translation type="obsolete">右鍵擴展選單</translation>
     </message>
     <message>
         <source>Add &apos;upload to WPS Cloud document&apos; menu item on the right menu</source>
-        <translation>在右鍵選單中加上[上傳至WPS雲端檔案]選項</translation>
+        <translation type="obsolete">在右鍵選單中加上[上傳至WPS雲端檔案]選項</translation>
     </message>
     <message>
         <source>Add &apos;WPS Desktop&apos; menu item on the right menu</source>
-        <translation>在右鍵選單中加上[WPS桌面]選項</translation>
+        <translation type="obsolete">在右鍵選單中加上[WPS桌面]選項</translation>
+    </message>
+    <message>
+        <source>smartSync</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>linkText</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Update Entering Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enter a folder where files are automatically updated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Auto Update Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>custome</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Folder Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show %1 in My Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show %1 Entry in My Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgraded to WPS super member, enjoying synchronous privileges.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically updates the data under the specified folder to the local</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please login in firstly</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Respected WPS super members, you can use all privileges.)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Enable synchronous privileges and use more smoothly)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2193,11 +2349,15 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>about %1 MB</source>
-        <translation>約 %1 MB</translation>
+        <translation type="obsolete">約 %1 MB</translation>
     </message>
     <message>
         <source>size</source>
         <translation>大小</translation>
+    </message>
+    <message>
+        <source>Saving data from a landed file and editing / changing the data in that location directly may result in an unknown exception</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2292,52 +2452,52 @@ Free Space: about %1 MB</source>
     <name>KDesktopBackup</name>
     <message>
         <source>Caption Text</source>
-        <translation>WPS雲端檔案</translation>
+        <translation type="obsolete">WPS雲端檔案</translation>
     </message>
     <message>
         <source>Desktop backup project</source>
-        <translation>桌面安全備份計劃</translation>
+        <translation type="obsolete">桌面安全備份計劃</translation>
     </message>
     <message>
         <source>%1 people join this plan</source>
-        <translation>%1使用者加入了桌面安全備份計劃</translation>
+        <translation type="obsolete">%1使用者加入了桌面安全備份計劃</translation>
     </message>
     <message>
         <source>Join to backup your desktop files</source>
-        <translation>全面保護桌面文件安全，立即加入</translation>
+        <translation type="obsolete">全面保護桌面文件安全，立即加入</translation>
     </message>
     <message>
         <source>WPS backup</source>
-        <translation>安全備份</translation>
+        <translation type="obsolete">安全備份</translation>
     </message>
 </context>
 <context>
     <name>KDesktopBackupFailWidget</name>
     <message>
         <source>Backup fail</source>
-        <translation>備份桌面檔案時遇到問題，</translation>
+        <translation type="obsolete">備份桌面檔案時遇到問題，</translation>
     </message>
     <message>
         <source>click to show</source>
-        <translation>按一下以檢視</translation>
+        <translation type="obsolete">按一下以檢視</translation>
     </message>
 </context>
 <context>
     <name>KDesktopBackupFinishWidget</name>
     <message>
         <source>Backup success</source>
-        <translation>桌面檔案備份完成，</translation>
+        <translation type="obsolete">桌面檔案備份完成，</translation>
     </message>
     <message>
         <source>click to show</source>
-        <translation>按一下以檢視</translation>
+        <translation type="obsolete">按一下以檢視</translation>
     </message>
 </context>
 <context>
     <name>KDesktopBackupWebView</name>
     <message>
         <source>Desktop Backup</source>
-        <translation>桌面備份</translation>
+        <translation type="obsolete">桌面備份</translation>
     </message>
 </context>
 <context>
@@ -2387,11 +2547,11 @@ Free Space: about %1 MB</source>
     <name>KDesktopFileMonMgr</name>
     <message>
         <source>Space full</source>
-        <translation>空間已滿</translation>
+        <translation type="obsolete">空間已滿</translation>
     </message>
     <message>
         <source>Exceed file size limit</source>
-        <translation>檔案大小超過限制</translation>
+        <translation type="obsolete">檔案大小超過限制</translation>
     </message>
 </context>
 <context>
@@ -2773,7 +2933,7 @@ Free Space: about %1 MB</source>
     </message>
     <message>
         <source>After switching on, enter the cloud document folder, the file is automatically downloaded, no manual operation.</source>
-        <translation>啟用后，當您進入雲端資料夾，內含檔案將自動下載。</translation>
+        <translation type="obsolete">啟用后，當您進入雲端資料夾，內含檔案將自動下載。</translation>
     </message>
 </context>
 <context>
@@ -2805,6 +2965,598 @@ Free Space: about %1 MB</source>
     <message>
         <source>Rest</source>
         <translation>其他</translation>
+    </message>
+</context>
+<context>
+    <name>KBackupBubble</name>
+    <message>
+        <source>Caption Text</source>
+        <translation type="unfinished">WPS雲端檔案</translation>
+    </message>
+    <message>
+        <source>Desktop backup project</source>
+        <translation type="unfinished">桌面安全備份計劃</translation>
+    </message>
+    <message>
+        <source>%1 people join this plan</source>
+        <translation type="unfinished">%1使用者加入了桌面安全備份計劃</translation>
+    </message>
+    <message>
+        <source>Join to backup your desktop files</source>
+        <translation type="unfinished">全面保護桌面文件安全，立即加入</translation>
+    </message>
+    <message>
+        <source>WPS backup</source>
+        <translation type="unfinished">安全備份</translation>
+    </message>
+</context>
+<context>
+    <name>KBackupFailBubble</name>
+    <message>
+        <source>Backup fail</source>
+        <translation type="unfinished">備份桌面檔案時遇到問題，</translation>
+    </message>
+    <message>
+        <source>click to show</source>
+        <translation type="unfinished">按一下以檢視</translation>
+    </message>
+    <message>
+        <source>Desktop Backup fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wechat Backup fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent Backup fail</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupFinishBubble</name>
+    <message>
+        <source>Backup success</source>
+        <translation type="unfinished">桌面檔案備份完成，</translation>
+    </message>
+    <message>
+        <source>click to show</source>
+        <translation type="unfinished">按一下以檢視</translation>
+    </message>
+    <message>
+        <source>Desktop Backup success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wechat Backup success</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent Backup success</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KBackupWebView</name>
+    <message>
+        <source>Desktop Backup</source>
+        <translation type="unfinished">桌面備份</translation>
+    </message>
+</context>
+<context>
+    <name>KDocHistoryWebViewBridge</name>
+    <message>
+        <source>%1 recover history version failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFileMonMgr</name>
+    <message>
+        <source>Desktop Backup</source>
+        <translation type="unfinished">桌面備份</translation>
+    </message>
+    <message>
+        <source>Wechat Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent Backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Space full</source>
+        <translation type="unfinished">空間已滿</translation>
+    </message>
+    <message>
+        <source>Exceed file size limit</source>
+        <translation type="unfinished">檔案大小超過限制</translation>
+    </message>
+</context>
+<context>
+    <name>KInfoMsgDlg</name>
+    <message>
+        <source>Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLimitedFreeGuideDlg</name>
+    <message>
+        <source>WPS Net Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KNewFunctionAutoUpdateDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <source>New Function Coming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The function of &apos;auto update&apos; is coming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For super members, we have opened the&quot; automatic update &quot;function:
+Specify a folder. All files in this folder will be
+Download to the computer and keep the latest version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>upgrade to vip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>set right now</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOfficialDocMsgBox</name>
+    <message>
+        <source>This document is shared with you by WPS Web disk,please login and save it to your web-disk to open it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished">登入</translation>
+    </message>
+    <message>
+        <source>Failed to transfer, please reload.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Transfer and open</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS NETDISK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOfficialTemplateDlg</name>
+    <message>
+        <source>WPS Net Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KOfficialTemplateTip</name>
+    <message>
+        <source>WPS Net Disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Close Tipdesc1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Close Tipdesc2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template Ok</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KQingSignOutForClearCacheDlg</name>
+    <message>
+        <source>Sign Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recommend retaining data so that you can use them next time you log on, if you switch account or exit temporarily.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To retain the configs so that you can use them next time you log on</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>To Retain the files that had been downloaded. Please do not check the option if you are on public Computer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Continue Signing Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Signing Out</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before proceeding, please make sure there is no file being uploaded in cloud disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSelAutoUpdateFolderDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <source>Auto Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select a Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloumnName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>is loading .....</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSettingLinkWidget</name>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Setting(effective to current document)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KShareFileDialog</name>
+    <message>
+        <source>KShareFileDialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Share:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share document to your friends by link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Generate Link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloudfile is uploading...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cancel upload</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>goto know more</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send the download link of the document by e-mail to your friends, at most 5 people once:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter or select the mail address, separate multiple address with semicolons;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Contents:(at most 500 words)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Send Mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Note:before share link by e-mail, you need to create the configuration of mail.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KShareFileDialog_New</name>
+    <message>
+        <source>
+password:%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link successed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy link and password successed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(password:%1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>From WPS--share by %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Through WPS to share with you the</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Share My Cloud File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>account had logout!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>file name conflict</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>network error</source>
+        <translation type="unfinished">網路錯誤</translation>
+    </message>
+    <message>
+        <source>Uploading to cloud (%1%)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Get cloud file link timeout, please check network and retry!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Identity timeout, please close and retry!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>goto know more</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Today</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> Yesterday</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1  Last modify time: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>cannot upload 0Bytes file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS super member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can create links to %1 times one day, the current creation for the %2 time, need to upgrade to %3 and can continue</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UpgradeVip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading to cloud (0%)...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loading cloud link ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upload failed,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cloud link useless,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>please upgrade vip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>please retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>please reset</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>link: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KShareFileDlgUi</name>
+    <message>
+        <source>File Share</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished">登入</translation>
+    </message>
+    <message>
+        <source>cloudFile can be edited by people and synchronized in terminals, and more secure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>goto konw more</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>abcdef</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QQ friends</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>wechat friends</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>copy link</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>send e-mail</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KShareFileQRCodeWidget</name>
+    <message>
+        <source>Share to WeChat friends or circle of friends</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>copy QR Code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan the QR code by cell phone, you can share the file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy QRCode Successed!</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KShareFileUpFailedTip</name>
+    <message>
+        <source>Upload failed,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>please retry</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSuperUserTipDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message>
+        <source>title</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The function of automatically updating to Super member</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All files under the selected folder will be downloaded to your computer and kept up to date</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Upgrade To Vip</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUserSecureIdentityDlg</name>
+    <message>
+        <source>User Identity Verifier</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUserSecureLoadingView</name>
+    <message>
+        <source>Loading...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

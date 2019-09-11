@@ -750,15 +750,15 @@ Modo de protección visual o Modo nocturno.</translation>
     </message>
     <message>
         <source>Local(Location)</source>
-        <translation>Configuración regional (ubicación)</translation>
+        <translation type="obsolete">Configuración regional (ubicación)</translation>
     </message>
     <message>
         <source>Chinese(RPC)</source>
-        <translation>Chino (RPC)</translation>
+        <translation type="obsolete">Chino (RPC)</translation>
     </message>
     <message>
         <source>新建项目</source>
-        <translation>Nuevo elemento</translation>
+        <translation type="obsolete">Nuevo elemento</translation>
     </message>
     <message>
         <source>Format Code</source>
@@ -774,6 +774,10 @@ Modo de protección visual o Modo nocturno.</translation>
     </message>
     <message>
         <source>Calendar type:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Locale Setting(Country/Area):</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1504,19 +1508,19 @@ móvil</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; successful</source>
-        <translation>Descargar fuentes en línea &quot;%1&quot; correctamente</translation>
+        <translation type="obsolete">Descargar fuentes en línea &quot;%1&quot; correctamente</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; failed</source>
-        <translation>Error al descargar fuentes en línea &quot;%1&quot;</translation>
+        <translation type="obsolete">Error al descargar fuentes en línea &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
-        <translation>Descargando fuente en Cloud. Haga clic en la lista de fuente para ver más detalles.</translation>
+        <translation type="obsolete">Descargando fuente en Cloud. Haga clic en la lista de fuente para ver más detalles.</translation>
     </message>
     <message>
         <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
-        <translation>Descargando fuente en línea &quot;%1&quot;. Haga clic en la lista de fuentes para ver más detalles. (Reiniciar para que tenga efecto)</translation>
+        <translation type="obsolete">Descargando fuente en línea &quot;%1&quot;. Haga clic en la lista de fuentes para ver más detalles. (Reiniciar para que tenga efecto)</translation>
     </message>
 </context>
 <context>
@@ -1681,7 +1685,7 @@ móvil</translation>
     </message>
     <message>
         <source>2013 Elegant Black</source>
-        <translation>Negro elegante 2013</translation>
+        <translation type="obsolete">Negro elegante 2013</translation>
     </message>
     <message>
         <source>2013 Ongmani Style Interface</source>
@@ -1769,7 +1773,7 @@ móvil</translation>
     </message>
     <message>
         <source>2016 White</source>
-        <translation>2016 Blanco</translation>
+        <translation type="obsolete">2016 Blanco</translation>
     </message>
     <message>
         <source>2016 Skin</source>
@@ -1782,6 +1786,14 @@ móvil</translation>
     <message>
         <source>Skin</source>
         <translation>Máscara</translation>
+    </message>
+    <message>
+        <source>Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>2019</source>
+        <translation type="unfinished">1,0 {2019?}</translation>
     </message>
 </context>
 <context>
@@ -2275,6 +2287,18 @@ móvil</translation>
     </message>
     <message>
         <source>WPS Online Security Document Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.doc)|*.doc</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.ppt)|*.ppt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS Online Security Document Format(*.xls)|*.xls</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3194,7 +3218,7 @@ móvil</translation>
     </message>
     <message>
         <source>Product ID: </source>
-        <translation>ID de producto: </translation>
+        <translation type="obsolete">ID de producto: </translation>
     </message>
     <message>
         <source>aboutet</source>
@@ -3261,6 +3285,25 @@ móvil</translation>
 Zhuhai Kingsoft Office Software Co., Ltd.
 Wuhan Kingsoft Office Software Co., Ltd.
 Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>product is not activated</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Product inactivation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Zhuhai Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Beijing Kingsoft Office Software Co., Ltd.
+Zhuhai Kingsoft Office Software Co., Ltd.
+Wuhan Kingsoft Office Software Co., Ltd.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3390,6 +3433,70 @@ Para seleccionar nombres de la libreta de direcciones, haga clic en el botón Le
     <message>
         <source>Note</source>
         <translation>Nota</translation>
+    </message>
+    <message>
+        <source>WPS/Word Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ET/Excel Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPP/PowerPoint Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single Web Page Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Web Pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pdf Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rtf Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XML Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DBase Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DIF Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Data Sources</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Query Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Access Databases</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Normal Files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6004,6 +6111,34 @@ Haga doble clic o use menú desplegable para abrir el archivo. Eso va a borrar l
         <source>Join the experience improvement plan</source>
         <translation>Únase al plan de mejora de la experiencia del usuario</translation>
     </message>
+    <message>
+        <source>Kingsoft Office Software License Agreement and Privacy Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Have read and agreed to Jinshan Office Software</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>License Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Privacy Agreement</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I &amp;Confirm</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxExternalPushService</name>
@@ -6445,23 +6580,23 @@ El registro es inválido. El archivo puede ser renombrado, eliminado o movido.</
     <name>KxFontsGalleryRecommendTip</name>
     <message>
         <source>See details</source>
-        <translation>Ver detalles</translation>
+        <translation type="obsolete">Ver detalles</translation>
     </message>
     <message>
         <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
-        <translation>El documento usa fuentes de Cloud &quot;%1&quot;. Para su comodidad, descargue la fuente, por favor.</translation>
+        <translation type="obsolete">El documento usa fuentes de Cloud &quot;%1&quot;. Para su comodidad, descargue la fuente, por favor.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>El documento usa fuentes de Cloud &quot;%1&quot; y &quot;%2&quot;. Para su comodidad, descargue estas fuentes, por favor.</translation>
+        <translation type="obsolete">El documento usa fuentes de Cloud &quot;%1&quot; y &quot;%2&quot;. Para su comodidad, descargue estas fuentes, por favor.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>El documento usa fuentes de Cloud &quot;%1&quot;, &quot;%2&quot;, y &quot;%3&quot;. Para su comodidad, descargue estas fuentes, por favor.</translation>
+        <translation type="obsolete">El documento usa fuentes de Cloud &quot;%1&quot;, &quot;%2&quot;, y &quot;%3&quot;. Para su comodidad, descargue estas fuentes, por favor.</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation>El documento usa fuentes de Cloud &quot;%1&quot;, &quot;%2&quot;, y &quot;%3&quot;,etc. Para su comodidad, descargue estas fuentes, por favor. </translation>
+        <translation type="obsolete">El documento usa fuentes de Cloud &quot;%1&quot;, &quot;%2&quot;, y &quot;%3&quot;,etc. Para su comodidad, descargue estas fuentes, por favor. </translation>
     </message>
 </context>
 <context>
@@ -6527,6 +6662,10 @@ El registro es inválido. El archivo puede ser renombrado, eliminado o movido.</
     <message>
         <source>Tag Image File Format</source>
         <translation>Formato de archivo de imagen etiquetado</translation>
+    </message>
+    <message>
+        <source>Scalable Vector Graphics</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6855,7 +6994,7 @@ propiedades</translation>
     <name>KxGalleryRecommendFontItem</name>
     <message>
         <source>(Pay)</source>
-        <translation>(Pagar)</translation>
+        <translation type="obsolete">(Pagar)</translation>
     </message>
 </context>
 <context>
@@ -7403,6 +7542,18 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
         <source>Please log on to use document source trace function.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>this is %1 file, do you want open in %2?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Kingsoft PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxModifyCommandDlg</name>
@@ -7614,11 +7765,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <name>KxOnlineFontController</name>
     <message>
         <source>View Now</source>
-        <translation>Ver ahora</translation>
+        <translation type="obsolete">Ver ahora</translation>
     </message>
     <message>
         <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &apos;Management of Cloud Font&apos; page for details.</source>
-        <translation>La nube ha alcanzado su límite para las fuentes de nube (%1). Vaya a la página &quot;Gestión de fuentes de nube&quot; para obtener detalles.</translation>
+        <translation type="obsolete">La nube ha alcanzado su límite para las fuentes de nube (%1). Vaya a la página &quot;Gestión de fuentes de nube&quot; para obtener detalles.</translation>
     </message>
     <message>
         <source>Cloud has reached its limit for cloud fonts (%1). Please go to the &quot;management of cloud font&quot; page for details. </source>
@@ -7629,37 +7780,37 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <name>KxOnlineFontDownloadReminder</name>
     <message>
         <source>%1 online fonts downloaded,click to see.</source>
-        <translation>Se han descargado %1 fuentes en línea, haga clic para verlas.</translation>
+        <translation type="obsolete">Se han descargado %1 fuentes en línea, haga clic para verlas.</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontRecommendDlg</name>
     <message>
         <source>Tip</source>
-        <translation>Sugerencia</translation>
+        <translation type="obsolete">Sugerencia</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation>Descargar</translation>
+        <translation type="obsolete">Descargar</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation>Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
     <message>
         <source>Complete</source>
-        <translation>Completar</translation>
+        <translation type="obsolete">Completar</translation>
     </message>
     <message>
         <source>You have chosen %1 paid cloud fonts which require a VIP membership to download.</source>
-        <translation>Ha elegido %1 fuentes de nube de pago que requieren que sea miembro VIP para poder descargarlas.</translation>
+        <translation type="obsolete">Ha elegido %1 fuentes de nube de pago que requieren que sea miembro VIP para poder descargarlas.</translation>
     </message>
 </context>
 <context>
     <name>KxOnlineFontTipDlg</name>
     <message>
         <source>Unable to connect to server, please check your network connection.</source>
-        <translation>No se puede conectar a servidor, compruebe su conexión de red.</translation>
+        <translation type="obsolete">No se puede conectar a servidor, compruebe su conexión de red.</translation>
     </message>
     <message>
         <source>Vip %1 has expired, please renew</source>
@@ -7667,7 +7818,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Renew</source>
-        <translation>Renovar</translation>
+        <translation type="obsolete">Renovar</translation>
     </message>
     <message>
         <source>You still not Vip member, upgrade can download all fonts</source>
@@ -7675,11 +7826,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Upgrade</source>
-        <translation>Actualizar</translation>
+        <translation type="obsolete">Actualizar</translation>
     </message>
     <message>
         <source>Tip</source>
-        <translation>Sugerencia</translation>
+        <translation type="obsolete">Sugerencia</translation>
     </message>
     <message>
         <source>Cancle</source>
@@ -7687,11 +7838,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>OK</translation>
+        <translation type="obsolete">OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Cancelar</translation>
+        <translation type="obsolete">Cancelar</translation>
     </message>
     <message>
         <source>%1 membership has expired, please renew.</source>
@@ -7699,7 +7850,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>WPS members can access to more than 300 cloud fonts, updated monthly. </source>
-        <translation>Miembros de WPS pueden acceder a más que 300 fuentes en Cloud, actualizados mensualmente. </translation>
+        <translation type="obsolete">Miembros de WPS pueden acceder a más que 300 fuentes en Cloud, actualizados mensualmente. </translation>
     </message>
     <message>
         <source>Cannot connect to this service. Check your network connection please.</source>
@@ -7730,11 +7881,11 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <name>KxOnlineFonts</name>
     <message>
         <source>Online Fonts</source>
-        <translation>Fuentes en línea</translation>
+        <translation type="obsolete">Fuentes en línea</translation>
     </message>
     <message>
         <source>Show Online Fonts</source>
-        <translation>Mostrar fuentes en línea</translation>
+        <translation type="obsolete">Mostrar fuentes en línea</translation>
     </message>
     <message>
         <source>Fold online fonts</source>
@@ -7750,7 +7901,7 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     </message>
     <message>
         <source>Pause. Click to continue</source>
-        <translation>Pausa. Haga clic para continuar</translation>
+        <translation type="obsolete">Pausa. Haga clic para continuar</translation>
     </message>
     <message>
         <source>Pleas login vip first</source>
@@ -7811,24 +7962,24 @@ If the problem is urgent, call the customer hotline : 400-667-5005.</source>
     <message>
         <source>Sign in to use cloud fonts.
 Click the icon to sign in now.</source>
-        <translation>Iniciar sesión para usar las fuentes de Cloud. 
+        <translation type="obsolete">Iniciar sesión para usar las fuentes de Cloud. 
 Haga clic en el icono a iniciar sesión ahora.</translation>
     </message>
     <message>
         <source>VIP cloud fonts installed</source>
-        <translation>Se ha instalado las fuentes de VIP de Cloud</translation>
+        <translation type="obsolete">Se ha instalado las fuentes de VIP de Cloud</translation>
     </message>
     <message>
         <source>Cloud fonts installed</source>
-        <translation>Se ha instalado las fuentes de Cloud</translation>
+        <translation type="obsolete">Se ha instalado las fuentes de Cloud</translation>
     </message>
     <message>
         <source>Click to install free cloud fonts</source>
-        <translation>Haga clic para instalar fuentes gratis de Cloud</translation>
+        <translation type="obsolete">Haga clic para instalar fuentes gratis de Cloud</translation>
     </message>
     <message>
         <source>Click to shuffle cloud fonts</source>
-        <translation>Haga clic para tener un orden aleatorio de las fuentes de Cloud</translation>
+        <translation type="obsolete">Haga clic para tener un orden aleatorio de las fuentes de Cloud</translation>
     </message>
     <message>
         <source>More Fonts</source>
@@ -7836,7 +7987,7 @@ Haga clic en el icono a iniciar sesión ahora.</translation>
     </message>
     <message>
         <source>(Restart to take effect).</source>
-        <translation>(Reiniciar para surtir efecto).</translation>
+        <translation type="obsolete">(Reiniciar para surtir efecto).</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.
@@ -7850,35 +8001,35 @@ Haga clic aquí para iniciar sesión ahora.</translation>
     </message>
     <message>
         <source>Members can access to free cloud fonts. Click to sign in.</source>
-        <translation>Miembros pueden acceder a fuentes gratis en Cloud. Haga clic a iniciar sesión. </translation>
+        <translation type="obsolete">Miembros pueden acceder a fuentes gratis en Cloud. Haga clic a iniciar sesión. </translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew.</source>
-        <translation>La membresía %1 ha expirado. Renúevela, por favor. </translation>
+        <translation type="obsolete">La membresía %1 ha expirado. Renúevela, por favor. </translation>
     </message>
     <message>
         <source>Downloading, please wait...</source>
-        <translation>Está descargando, espere por favor...</translation>
+        <translation type="obsolete">Está descargando, espere por favor...</translation>
     </message>
     <message>
         <source>Upgrade to use VIP-only fonts.</source>
-        <translation>Actualizar a VIP para disfrutar las fuentes de VIP.</translation>
+        <translation type="obsolete">Actualizar a VIP para disfrutar las fuentes de VIP.</translation>
     </message>
     <message>
         <source>Your %1 membership expires now. Please renew to use cloud fonts.</source>
-        <translation>La membresía %1 ha expirado. Renúevela para usar las fuentes de Cloud. </translation>
+        <translation type="obsolete">La membresía %1 ha expirado. Renúevela para usar las fuentes de Cloud. </translation>
     </message>
     <message>
         <source>All currently available cloud fonts have been installed.  More are coming soon!</source>
-        <translation>Se ha instalado todas las fuentes de Cloud disponibles. Más fuentes vendrán pronto.</translation>
+        <translation type="obsolete">Se ha instalado todas las fuentes de Cloud disponibles. Más fuentes vendrán pronto.</translation>
     </message>
     <message>
         <source>Hide cloud fonts</source>
-        <translation>Doblar fuentes en línea</translation>
+        <translation type="obsolete">Doblar fuentes en línea</translation>
     </message>
     <message>
         <source>Click to keep a cloud font on top</source>
-        <translation>Haga clic para mantener las fuentes de Cloud en la parte superior</translation>
+        <translation type="obsolete">Haga clic para mantener las fuentes de Cloud en la parte superior</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait…</source>
@@ -7928,7 +8079,7 @@ Haga clic aquí para iniciar seción ahora.</translation>
     </message>
     <message>
         <source>Downloading fonts, please wait...</source>
-        <translation>Está descargando, espere por favor...</translation>
+        <translation type="obsolete">Está descargando, espere por favor...</translation>
     </message>
     <message>
         <source>Shuffle</source>
@@ -8175,6 +8326,10 @@ Haga clic aquí para iniciar seción ahora.</translation>
         <source>Tag Image File Format</source>
         <translation>Formato de archivo de imagen etiquetado</translation>
     </message>
+    <message>
+        <source>Scalable Vector Graphics</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPicksolutionDlg</name>
@@ -8351,6 +8506,10 @@ Haga clic aquí para iniciar seción ahora.</translation>
     </message>
     <message>
         <source>Manual duplex</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Fast Print</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9098,11 +9257,17 @@ pero el paquete de sistema que incluye está reservado.</translation>
     <name>KxStartup</name>
     <message>
         <source>Not a valid file.</source>
-        <translation>Archivo no válido.</translation>
+        <translation type="obsolete">Archivo no válido.</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
         <translation>No se puede ejecutar el comando porque un cuadro de diálogo está abierto. Haga clic en OK, y cierre cuadros de diálogo abiertos para continuar.</translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished">No se puede abrir &quot;%1&quot;. 
+El archivo puede ser renombrado, eliminado o movido.</translation>
     </message>
 </context>
 <context>
@@ -9287,7 +9452,7 @@ pero el paquete de sistema que incluye está reservado.</translation>
     </message>
     <message>
         <source>Solution</source>
-        <translation>Solución</translation>
+        <translation type="obsolete">Solución</translation>
     </message>
 </context>
 <context>
@@ -9600,7 +9765,7 @@ pero el paquete de sistema que incluye está reservado.</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>TextLabel</translation>
+        <translation type="obsolete">TextLabel</translation>
     </message>
 </context>
 <context>
@@ -9623,23 +9788,23 @@ pero el paquete de sistema que incluye está reservado.</translation>
     </message>
     <message>
         <source>Tips to prevent document loss:</source>
-        <translation>Consejos para evitar la pérdida de documentos:</translation>
+        <translation type="obsolete">Consejos para evitar la pérdida de documentos:</translation>
     </message>
     <message>
         <source>1. WPS has created backup for each of your documents. You can specify more %1 options %2.</source>
-        <translation>1. WPS ha creado copias de seguridad para cada uno de sus documentos. Puede especificar más %1 opciones %2.</translation>
+        <translation type="obsolete">1. WPS ha creado copias de seguridad para cada uno de sus documentos. Puede especificar más %1 opciones %2.</translation>
     </message>
     <message>
         <source>2. Use WPS %1 Cloud %2 services, your most convenient and secure cloud.</source>
-        <translation>2. Use los servicios de WPS %1 Cloud %2, su nube más cómoda y segura.</translation>
+        <translation type="obsolete">2. Use los servicios de WPS %1 Cloud %2, su nube más cómoda y segura.</translation>
     </message>
     <message>
         <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
-        <translation>3. %1 Kingsoft Data Recovery Master %2 le ayuda a recuperar documentos eliminados de forma accidental.</translation>
+        <translation type="obsolete">3. %1 Kingsoft Data Recovery Master %2 le ayuda a recuperar documentos eliminados de forma accidental.</translation>
     </message>
     <message>
         <source>4. %1 Kingsoft Document Recovery %2 helps you to open garbled documents.</source>
-        <translation>4. %1 La función de recuperación de documentos de Kingsoft %2 le ayuda a abrir documentos cifrados.</translation>
+        <translation type="obsolete">4. %1 La función de recuperación de documentos de Kingsoft %2 le ayuda a abrir documentos cifrados.</translation>
     </message>
     <message>
         <source>1. WPS has created backup for each of your documents. You can also view more services %1 in the backup center %2.</source>
@@ -11023,6 +11188,10 @@ Se recomienda cerrar el programa y reiniciar WPS Office.</translation>
         <source>5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72</source>
         <translation type="unfinished">1,0 {5;5.5;6.5;7.5;8;9;10;10.5;11;12;14;16;18;20;22;26;28;36;48;56;72?}</translation>
     </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished">Automático</translation>
+    </message>
 </context>
 <context>
     <name>SchemeLayoutPanel</name>
@@ -11524,7 +11693,7 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     </message>
     <message>
         <source>Picture From</source>
-        <translation>Insertar de</translation>
+        <translation type="obsolete">Insertar de</translation>
     </message>
     <message>
         <source>Text&amp;ure</source>
@@ -11931,6 +12100,10 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</translation>
     <message>
         <source>A&amp;utomatic line</source>
         <translation>Línea a&amp;utomático</translation>
+    </message>
+    <message>
+        <source>&amp;Rounded corners</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12440,6 +12613,10 @@ documento</translation>
     <message>
         <source>ScreenTi&amp;p...</source>
         <translation>Texto de sugerencia de &amp;pantalla...</translation>
+    </message>
+    <message>
+        <source>B&amp;ookmark...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13020,15 +13197,31 @@ documento</translation>
     <name>updateMessageDlg</name>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>
-        <translation>Se detecta una nueva versión. ¿Desea descargar la actualizada?</translation>
+        <translation type="obsolete">Se detecta una nueva versión. ¿Desea descargar la actualizada?</translation>
     </message>
     <message>
         <source>Ignore it</source>
-        <translation>Ignorarlo</translation>
+        <translation type="obsolete">Ignorarlo</translation>
     </message>
     <message>
         <source>Update</source>
         <translation>Actualizar</translation>
+    </message>
+    <message>
+        <source>Application update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A new version is available. Do you want to update it?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V10.0.0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Update now</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13084,6 +13277,18 @@ documento</translation>
     <message>
         <source>The account encryption document is encrypted using the WPS account. This encryption method is more secure and reliable.
 (The original password will be cleared after the conversion is successful)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Experience WPS account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13217,6 +13422,18 @@ documento</translation>
     <message>
         <source>The account encryption document is encrypted using the WPS account. This encryption method is more secure and reliable.
 (The original password will be cleared after the conversion is successful)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Experience WPS account encryption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(Recommended)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS account encryption is to use the WPS login account to encrypt the document. After encryption, the document needs to be verified by the network to be correct</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13954,6 +14171,10 @@ Después de iniciar sesión, también puede administrar, eliminar y compartir el
     <name>KxColorSnapperWidget</name>
     <message>
         <source>The color snapper failed to initialize.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to initialize the Color snapper,the feature is not supported by current system.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15552,7 +15773,7 @@ Después de iniciar sesión, también puede administrar, eliminar y compartir el
     <name>KxDrTipContentWidget</name>
     <message>
         <source>Sorry! An error occurred just now. Now it has been fixed.</source>
-        <translation type="unfinished">Lo sentimos. El programa encontró un error. Ya ha sido restaurado.</translation>
+        <translation type="obsolete">Lo sentimos. El programa encontró un error. Ya ha sido restaurado.</translation>
     </message>
     <message>
         <source>%1 Can&apos;t find the file you want? Try %2 %3 Kingsoft Data Recovery Master %4</source>
@@ -15560,7 +15781,7 @@ Después de iniciar sesión, también puede administrar, eliminar y compartir el
     </message>
     <message>
         <source>The document which was not saved upon last exit has now been restored.(If you do not need the restored file, close it directly and reopen the original document.)</source>
-        <translation type="unfinished">El documento que no estaba guardado en la última salida está ahora restaurado.(Si no necesita la restauración, lo cierre directamente y abra el documento original de nuevo.)</translation>
+        <translation type="obsolete">El documento que no estaba guardado en la última salida está ahora restaurado.(Si no necesita la restauración, lo cierre directamente y abra el documento original de nuevo.)</translation>
     </message>
     <message>
         <source>%1 Try %3 Document Repair %4 Repair the error encoding. %2</source>
@@ -15620,6 +15841,54 @@ Después de iniciar sesión, también puede administrar, eliminar y compartir el
     </message>
     <message>
         <source>enable macros</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred on wps just now, documents has been restored to the latest version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1To find an earlier version, it is recommended to restore it from the backupcenter%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1To find an earlier version%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>recover from backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The document which was not saved upon last exit has now been restored(If you do not need the restored file, close it directly and reopen the original document).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An error occurred on wps just now, The document was restored to a version with %1. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>view more backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>find some keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>some keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>check key word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can only edit under read-only mode since other users are editing this file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Document have font miss.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16019,6 +16288,54 @@ Después de iniciar sesión, también puede administrar, eliminar y compartir el
         <source>Thai Buddhist</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Chinese(Simple)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese(Taiwan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Chinese(HongKong)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(United States)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(United Kingdom)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(Australia)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(New Zealand)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>English(Canada)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese(Japan)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Vietnamese(Vietnam)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thai(Thailand)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Japanese Year</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxGalleryFontPreviewComboBox</name>
@@ -16361,6 +16678,10 @@ La protección de la contraseña y los permisos de los documentos se invalidará
     </message>
     <message>
         <source>Wrong account(please enter full name account) or offline cache not found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline key has expired, please login online and cache again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -17212,6 +17533,12 @@ La protección de la contraseña y los permisos de los documentos se invalidará
 This file may have been renamed, deleted or moved.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+This file may be renamed, deleted or moved.</source>
+        <translation type="unfinished">No se puede abrir &quot;%1&quot;. 
+El archivo puede ser renombrado, eliminado o movido.</translation>
+    </message>
 </context>
 <context>
     <name>KxReciversModel</name>
@@ -18022,6 +18349,256 @@ y enviar el vínculo a su móvil.</translation>
     <message>
         <source>copy link</source>
         <translation>Copiar vínculo</translation>
+    </message>
+</context>
+<context>
+    <name>CheckInDlg</name>
+    <message>
+        <source>CheckIn</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Version annotation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The check out state will be maintained, after you check in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <source>Check In Type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The type will be Checked in	</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Secondary version (draft)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Main version (publish)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cover current version</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KCloudFileDialog</name>
+    <message>
+        <source>Save as</source>
+        <translation type="unfinished">Guardar como</translation>
+    </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation type="unfinished">Documento Local</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">&amp;Abrir</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation type="unfinished">Espacio Personal</translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation type="unfinished">Mi grupo</translation>
+    </message>
+</context>
+<context>
+    <name>KCloudTreeCtrlWidget</name>
+    <message>
+        <source>WPS Remote</source>
+        <translation type="unfinished">WPS Cloud</translation>
+    </message>
+    <message>
+        <source>Private Space</source>
+        <translation type="unfinished">Espacio Personal</translation>
+    </message>
+    <message>
+        <source>My Circle</source>
+        <translation type="unfinished">Mi grupo</translation>
+    </message>
+    <message>
+        <source>Local Document</source>
+        <translation type="unfinished">Documento Local</translation>
+    </message>
+</context>
+<context>
+    <name>KGraphLoadingDialog</name>
+    <message>
+        <source>Downloading: </source>
+        <translation type="unfinished">Descargando: </translation>
+    </message>
+    <message>
+        <source>Uploading: </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLinuxOleHelper</name>
+    <message>
+        <source>DOC Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DOCX Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XLS Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XLSX Workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPT Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PPTX Presentation</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxScannerDlg</name>
+    <message>
+        <source>Scanner</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner Setup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Scanner Automatically Adapt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan Mode:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan Dpi:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scan Color:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image Size:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A8</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Searching...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation type="unfinished">Más...</translation>
+    </message>
+    <message>
+        <source>Searched</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDialog</name>
+    <message>
+        <source>&amp;OK</source>
+        <translation type="unfinished">&amp;OK</translation>
+    </message>
+    <message>
+        <source>&amp;Cancel</source>
+        <translation type="unfinished">&amp;Cancelar</translation>
+    </message>
+    <message>
+        <source>Insert Smartart Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxSmartArtInsertDlgWidget_OldTemp</name>
+    <message>
+        <source>Choose A SmartArt Graphic</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxUpdateMessageDlg</name>
+    <message>
+        <source>Ignore it</source>
+        <translation type="unfinished">Ignorarlo</translation>
+    </message>
+    <message>
+        <source>Next time</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWebExtensionViewMenu</name>
+    <message>
+        <source>Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation type="unfinished">Eliminar</translation>
+    </message>
+    <message>
+        <source>Pay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Expired date : </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>yyyy-M-d h:m</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renew</source>
+        <translation type="unfinished">Renovar</translation>
     </message>
 </context>
 </TS>

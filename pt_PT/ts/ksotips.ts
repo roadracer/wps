@@ -1618,7 +1618,8 @@ InsertQRCode.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="PPTCustom.content">
-        <source>PPTCustom content</source>
+        <source>PPTCustom content.</source>
+        <oldsource>PPTCustom content</oldsource>
         <extracomment>PPTCustom.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
@@ -1630,6 +1631,214 @@ InsertQRCode.content</extracomment>
     <message id="DocerMall.content">
         <source>DocerMall content</source>
         <extracomment>DocerMall.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicEffects.title">
+        <source>Graphic Effects</source>
+        <extracomment>GraphicEffects.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicEffects.content">
+        <source>Apply a visual effect to to the selected graphic, such as shadow, glow, reflection, or 3-D rotation.</source>
+        <extracomment>GraphicEffects.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertProcesson_Flow.title">
+        <source>InsertProcesson_Flow</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertProcesson_Flow.content">
+        <source>InsertProcesson_Flow content</source>
+        <extracomment>InsertProcesson_Flow.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertProcesson_Mind.title">
+        <source>InsertProcesson_Mind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InsertProcesson_Mind.content">
+        <source>InsertProcesson_Mind content</source>
+        <extracomment>InsertProcesson_Mind.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartGallery_pro.title">
+        <source>Chart Gallery</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ChartGallery_pro.content">
+        <source>Chart Gallery content</source>
+        <extracomment>ChartGallery_pro.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="JavascriptEditor.title">
+        <source>WPS JavaScript Editor</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="JavascriptEditor.content">
+        <source>Launch WPS JavaScript Editor, and edit Macros.</source>
+        <extracomment>JavascriptEditor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationOptions.title">
+        <source>Equation Options</source>
+        <extracomment>EquationOptions.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationOptions.content">
+        <source>Show the Equation Options dialog box to configure advanced options.</source>
+        <extracomment>EquationOptions.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationInsertGallery.title">
+        <source>Insert an Equation</source>
+        <extracomment>EquationInsertGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationInsertGallery.content">
+        <source>Add common mathematical equations to your document, such as the area of a circle or the quadratic formula.
+
+You can also build your own equations using the library of math symbols and structures.</source>
+        <extracomment>EquationInsertGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationProfessional.title">
+        <source>Professional</source>
+        <extracomment>EquationProfessional.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationProfessional.content">
+        <source>Converts selection to 2-dimemsional form for professional display.</source>
+        <extracomment>EquationProfessional.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationLinearFormat.title">
+        <source>Linear</source>
+        <extracomment>EquationLinearFormat.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationLinearFormat.content">
+        <source>Converts selection to a 1-dimensional form for easy editing.</source>
+        <extracomment>EquationLinearFormat.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationNormalText.title">
+        <source>Normal Text</source>
+        <extracomment>EquationNormalText.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationNormalText.content">
+        <source>Use non-math text in a math region.</source>
+        <extracomment>EquationNormalText.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationFractionGallery.title">
+        <source>Fraction</source>
+        <extracomment>EquationFractionGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationFractionGallery.content">
+        <source>Add a fraction to the equation.</source>
+        <extracomment>EquationFractionGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationScriptGallery.title">
+        <source>Script</source>
+        <extracomment>EquationScriptGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationScriptGallery.content">
+        <source>Add a subscript or superscript to the equation.</source>
+        <extracomment>EquationScriptGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationRadicalGallery.title">
+        <source>Radical</source>
+        <extracomment>EquationRadicalGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationRadicalGallery.content">
+        <source>Add a radical to the equation.</source>
+        <extracomment>EquationRadicalGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationIntegralGallery.title">
+        <source>Integral</source>
+        <extracomment>EquationIntegralGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationIntegralGallery.content">
+        <source>Add an integral to the equation.</source>
+        <extracomment>EquationIntegralGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationLargeOperatorGallery.title">
+        <source>Large Operator</source>
+        <extracomment>EquationLargeOperatorGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationLargeOperatorGallery.content">
+        <source>Add a large operator to the equation, such as a summation, product, union, or intersection.</source>
+        <extracomment>EquationLargeOperatorGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationDelimiterGallery.title">
+        <source>Bracket</source>
+        <extracomment>EquationDelimiterGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationDelimiterGallery.content">
+        <source>Add a delimiter to the equation.</source>
+        <extracomment>EquationDelimiterGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationFunctionGallery.title">
+        <source>Function</source>
+        <extracomment>EquationFunctionGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationFunctionGallery.content">
+        <source>Add a trigonometric function to the equation.</source>
+        <extracomment>EquationFunctionGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationAccentGallery.title">
+        <source>Accent</source>
+        <extracomment>EquationAccentGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationAccentGallery.content">
+        <source>Add an accent mark to the equation.</source>
+        <extracomment>EquationAccentGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationLimitGallery.title">
+        <source>Limit and Log</source>
+        <extracomment>EquationLimitGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationLimitGallery.content">
+        <source>Add a limit or log function to the equation.</source>
+        <extracomment>EquationLimitGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationOperatorGallery.title">
+        <source>Operator</source>
+        <extracomment>EquationOperatorGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationOperatorGallery.content">
+        <source>Add an operator to the equation.</source>
+        <extracomment>EquationOperatorGallery.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationMatrixGallery.title">
+        <source>Matrix</source>
+        <extracomment>EquationMatrixGallery.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="EquationMatrixGallery.content">
+        <source>Add a matrix to the equation.</source>
+        <extracomment>EquationMatrixGallery.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
 </context>

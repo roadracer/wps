@@ -1079,6 +1079,10 @@ condition is true:</source>
         <source>Duplicate Items</source>
         <translation>重複する項目</translation>
     </message>
+    <message>
+        <source>Set Search</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxAdcancedFilterDialog</name>
@@ -5367,6 +5371,10 @@ p, li { white-space: pre-wrap; }
         <source>Or select a &amp;category:</source>
         <translation>関数の分類(C):</translation>
     </message>
+    <message>
+        <source>&amp;Help about this Function</source>
+        <translation type="unfinished">関数のヘルプ(H)</translation>
+    </message>
 </context>
 <context>
     <name>KxDlgInsertWorkSheet</name>
@@ -6393,7 +6401,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered. Remember that passwords are case-sensitive.</source>
-        <translation>警告：パスワードを失くしたり忘れると、元に戻すことができません。安全な場所にパスワードとそれに対応する書類名のリストを保持しておくことを推奨します。（なお、パスワードは大文字と小文字を区別します）</translation>
+        <translation type="obsolete">警告：パスワードを失くしたり忘れると、元に戻すことができません。安全な場所にパスワードとそれに対応する書類名のリストを保持しておくことを推奨します。（なお、パスワードは大文字と小文字を区別します）</translation>
     </message>
     <message>
         <source>Security threats</source>
@@ -6943,6 +6951,71 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Empty string before and after cell content</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Filter search settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When there are wildcards in conditions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that matches the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When there are spaces in conditions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes all keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes any of the keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the whole string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Auto-recommend setting</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7759,6 +7832,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>&amp;Options...</source>
         <translation>オプション(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>Green Pri&amp;nt:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10557,6 +10638,10 @@ To Modify a protected cell or chart, first remove protection using the Unprotect
         <source>Fill &amp;Years</source>
         <translation>連続データ(年単位)(&amp;Y)</translation>
     </message>
+    <message>
+        <source>&amp;Flash Fill</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxEtStatusBar</name>
@@ -12733,6 +12818,10 @@ file, then %2switch%3the file to ET shared workbook.</source>
         <source></source>
         <translation>通知</translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPageSetupDlg</name>
@@ -13230,6 +13319,38 @@ If you Let this Field check box Empty, and then click OK, all filters applied to
     <message>
         <source>Duple&amp;x print</source>
         <translation>両面印刷(&amp;X)</translation>
+    </message>
+    <message>
+        <source>Default Current Page Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 2 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1.5 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14990,6 +15111,26 @@ t</source>
         <source>Vertica&amp;l text</source>
         <translation>文字列の縦書き(&amp;L)</translation>
     </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation type="unfinished">右から左へ</translation>
+    </message>
+    <message>
+        <source>&amp;Text Direction:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetAlignment</name>
@@ -16570,6 +16711,10 @@ on iteration #%2.</source>
     <message>
         <source>Date/Time</source>
         <translation>日付/時刻</translation>
+    </message>
+    <message>
+        <source>AllSelect</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18672,7 +18817,11 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Search</source>
-        <translation>検索</translation>
+        <translation type="obsolete">検索</translation>
+    </message>
+    <message>
+        <source>(Separate keywords with space)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18970,19 +19119,31 @@ Do you want to change to Manual?</source>
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>What is Auto Roaming</source>
-        <translation>自動ローミングとは？</translation>
+        <translation type="obsolete">自動ローミングとは？</translation>
     </message>
     <message>
         <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>「自動ローミング」をオンにすると、WPS Officeで開いたローカル上のファイルが自動的にクラウドに保存されます。</translation>
+        <translation type="obsolete">「自動ローミング」をオンにすると、WPS Officeで開いたローカル上のファイルが自動的にクラウドに保存されます。</translation>
     </message>
     <message>
         <source>you also reference this document when login on another deviec</source>
-        <translation>そして、他のデバイスでログインし、そのファイルを閲覧/編集することができます。</translation>
+        <translation type="obsolete">そして、他のデバイスでログインし、そのファイルを閲覧/編集することができます。</translation>
     </message>
     <message>
         <source>we update your modification on time</source>
-        <translation>ローカルとクラウド側の更新が自動的に同期されます。</translation>
+        <translation type="obsolete">ローカルとクラウド側の更新が自動的に同期されます。</translation>
+    </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -22151,15 +22312,15 @@ file,click OK.</source>
     </message>
     <message>
         <source>Empty cells</source>
-        <translation>空白セル</translation>
+        <translation type="obsolete">空白セル</translation>
     </message>
     <message>
         <source>Hidden shapes, text boxes, and so on</source>
-        <translation>非表示の図形、テキストボックスなど</translation>
+        <translation type="obsolete">非表示の図形、テキストボックスなど</translation>
     </message>
     <message>
         <source>Duplicate styles</source>
-        <translation>重複するスタイル</translation>
+        <translation type="obsolete">重複するスタイル</translation>
     </message>
     <message>
         <source>No need slimming</source>
@@ -22271,7 +22432,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>%1 Blocks</source>
-        <translation>%1 ブロック</translation>
+        <translation type="obsolete">%1 ブロック</translation>
     </message>
     <message>
         <source>Start</source>
@@ -22320,6 +22481,22 @@ file,click OK.</source>
     <message>
         <source>Fail to open file!</source>
         <translation>ファイルを開けませんでした。</translation>
+    </message>
+    <message>
+        <source>Hidden Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Shapes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate styles</source>
+        <translation type="unfinished">重複するスタイル</translation>
+    </message>
+    <message>
+        <source>Empty Cells</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -23822,6 +23999,401 @@ Need expand the cells under the selection and batch merge the same cells?</sourc
     <message>
         <source>Locking objects has no effect unless the sheet is protected. To help protect the sheet, choose Format on the Home page tab, and the choose Protect Sheet. A password is optional.</source>
         <translation>シートを保護しなければ、オブジェクトをロックした効果は得られません。シートを保護するには、「校閲」タブの「シートの保護」を選択してください。必要に応じて、パスワードを設定できます。</translation>
+    </message>
+</context>
+<context>
+    <name>KMergeSheetModel</name>
+    <message>
+        <source>Select all</source>
+        <translation type="unfinished">すべて</translation>
+    </message>
+</context>
+<context>
+    <name>KMergeSheetTreeItemDelegate</name>
+    <message>
+        <source>(Current file)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished">(</translation>
+    </message>
+    <message>
+        <source>sheet(s) Selected)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KMergeSheetTreeView</name>
+    <message>
+        <source>Please add workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">削除</translation>
+    </message>
+    <message>
+        <source>Select same-name sheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unselect same-name sheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Name:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File Path:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSearchMenuButton</name>
+    <message>
+        <source>Find content that includes the wildcards</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that matches the conditions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes all keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes any of the keywords</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find content that includes the whole string</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>(</source>
+        <translation type="unfinished">(</translation>
+    </message>
+    <message>
+        <source>eg:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>)</source>
+        <translation type="unfinished">)</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemaindRepeat</name>
+    <message>
+        <source>compare</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Table range(&amp;L):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare by(&amp;C):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Compare by row</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight color(&amp;D):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My data has headers(&amp;T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch data to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A new workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgRemaindRepeatMulti</name>
+    <message>
+        <source>compare</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range 1(&amp;L):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Range 2(&amp;S):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight color(&amp;D):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>My data has headers(&amp;T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch data to:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A new workbook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unique values in range 1(&amp;R)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch data:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unique values in range 2(&amp;D)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxDuplicateBaseDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtFilterColumDlg</name>
+    <message>
+        <source>input columns to show:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;ShowAll</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>S&amp;aveOld</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtInsertWithLineEditCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">自動</translation>
+    </message>
+</context>
+<context>
+    <name>KxEtView</name>
+    <message>
+        <source>The split position of frozen panes is outside of the visible area, which disable the scrolling.
+Please unfreeze pane.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>UnFreezePanes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ignore</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtfilterColumnContentPane</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>please input columns to need:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeFrameEmbedInMenuItem</name>
+    <message>
+        <source>:</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeProgressDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merging sheet</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Stop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merging is done.(%1/%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merging tables(%1/%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeSheetDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge Tables</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Specify which workbooks/sheets to merge:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Add file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The merging will keep all the original content, formulas and formats.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start merging</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge workbooks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge worksheets</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Merge same-name sheets in workbooks</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Options</source>
+        <translation type="unfinished">オプション(&amp;O)</translation>
+    </message>
+    <message>
+        <source>Title Rows</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use original &amp;sheet names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sheet names + original &amp;file names</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Original fil&amp;e names + sheet names</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMergeWithLineEditCommand</name>
+    <message>
+        <source>(Note:Keep one title)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxMultiRemindRepeatDlg</name>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select the content you want to extract.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxRemindRepeatDlg</name>
+    <message>
+        <source>Highlight duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Highlight unique values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch duplicates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetch unique values</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select a column to compare by row!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please select a column to compare by row</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

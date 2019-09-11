@@ -4194,12 +4194,16 @@ Automatic table of contents includes text formatted with Heading styles.</source
     </message>
     <message id="DocTranslate.title">
         <source>Full text translation</source>
-        <extracomment>DocTranslate.title</extracomment>
+        <extracomment>DocTranslate.title
+----------
+DocTranslate.title</extracomment>
         <translation>全文翻译</translation>
     </message>
     <message id="DocTranslate.content">
         <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
-        <extracomment>DocTranslate.content</extracomment>
+        <extracomment>DocTranslate.content
+----------
+DocTranslate.content</extracomment>
         <translation>精准，快速地将文档翻译成不同语言，同时保留文档原有的版式</translation>
     </message>
     <message id="CellFitText.title">
@@ -4380,6 +4384,16 @@ Automatic table of contents includes text formatted with Heading styles.</source
     <message id="RTLTextDirection.content">
         <source>Set the text to read from right to left.</source>
         <translation>将文本设置为从右到左阅读。</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation>详细设置</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

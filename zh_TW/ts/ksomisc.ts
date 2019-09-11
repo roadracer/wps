@@ -1094,7 +1094,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS 表格</translation>
     </message>
     <message>
         <source>&amp;Edit</source>
@@ -1374,7 +1374,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS 簡報</translation>
     </message>
     <message>
         <source>WPS Presentation Document</source>
@@ -1386,7 +1386,7 @@ The button icon, command group and task window position of each scheme are diffe
     </message>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS文字</translation>
     </message>
     <message>
         <source>WPS Writer Document</source>
@@ -1747,15 +1747,15 @@ Please use administrator account to relaunch &quot;Configuration Tools&quot;.</s
     <name>KFileAsso</name>
     <message>
         <source>WPS Writer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS文字</translation>
     </message>
     <message>
         <source>WPS Spreadsheets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS 表格</translation>
     </message>
     <message>
         <source>WPS Presentation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS 簡報</translation>
     </message>
     <message>
         <source>Use WPS Writer to write reports and make up articles.</source>

@@ -3265,6 +3265,11 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
     <message>
         <source>Scanner IO Link Error.</source>
         <comment>_TxErr_ScannerI/OError</comment>
+        <translation type="obsolete">扫描仪加载错误</translation>
+    </message>
+    <message>
+        <source>Scanner IO Link Error.</source>
+        <comment>_TxErr_ScannerIOError</comment>
         <translation>扫描仪加载错误</translation>
     </message>
 </context>
@@ -3872,12 +3877,31 @@ Possible reasons:
     </message>
     <message>
         <source>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
-        <translation>.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</translation>
+        <translation type="obsolete">.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; .et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; .dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</translation>
     </message>
     <message>
         <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
         <comment>_TxDocument_CheckInMsg</comment>
         <translation>在您签入之前，其他用户不能看到您的更改。是否立即签入？</translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <comment>_TxDocument_PastePlaceHolder</comment>
+        <translation>在数学对象中粘贴段落标记或分隔符会丢失。</translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <comment>_TxDocument_PasteShapeObject</comment>
+        <translation>在公式中粘贴图形对象将会丢失。</translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <comment>_TxDocument_PastePageBreaks</comment>
+        <translation>在公式中粘贴分页符将会丢失。</translation>
+    </message>
+    <message>
+        <source>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -2218,7 +2218,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>最近使用檔案的清單(&amp;R):</translation>
+        <translation type="obsolete">最近使用檔案的清單(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -2450,7 +2450,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>個項目(&amp;E)</translation>
+        <translation type="obsolete">個項目(&amp;E)</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -2499,7 +2499,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation>注意: 如果您遺失或忘記密碼，則無法復原。建議您將密碼及其對應文件名稱的清單存放在安全的地方。(切記密碼的大小寫視為相異。)</translation>
+        <translation type="obsolete">注意: 如果您遺失或忘記密碼，則無法復原。建議您將密碼及其對應文件名稱的清單存放在安全的地方。(切記密碼的大小寫視為相異。)</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2856,6 +2856,27 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Steps(Need restart program)</source>
         <translation>次(需重新啟動才可生效)</translation>
+    </message>
+    <message>
+        <source>F&amp;ont Substitution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4715,6 +4736,10 @@ The Advanced button allows you to choose from different encryption types.</sourc
         <source>Max Undo/Redo steps must be between %1 and %2.</source>
         <translation>復原/取消復原步驟必須介於 %1 次和 %2 次之間</translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
@@ -5202,7 +5227,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>動畫方案</translation>
+        <translation type="obsolete">動畫方案</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -8380,19 +8405,31 @@ the currentslide?</source>
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>What is Auto Roaming</source>
-        <translation>自動漫遊是什麼？</translation>
+        <translation type="obsolete">自動漫遊是什麼？</translation>
     </message>
     <message>
         <source>you also reference this document when login on another deviec</source>
-        <translation>之後，當您在其他裝置登入時，也可以檢視和編輯該文件。</translation>
+        <translation type="obsolete">之後，當您在其他裝置登入時，也可以檢視和編輯該文件。</translation>
     </message>
     <message>
         <source>we update your modification on time</source>
-        <translation>並且，系統會自動同步本機和雲端的修改。</translation>
+        <translation type="obsolete">並且，系統會自動同步本機和雲端的修改。</translation>
     </message>
     <message>
         <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>啟用[自動漫遊]之後，系統將會自動將開啟過的本機文件儲存一份至雲端。</translation>
+        <translation type="obsolete">啟用[自動漫遊]之後，系統將會自動將開啟過的本機文件儲存一份至雲端。</translation>
+    </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8603,7 +8640,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation>所有圖片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
+        <translation type="obsolete">所有圖片(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -8633,6 +8670,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
         <translation>TIF 格式檔(*.tif;*.tiff)|*.tif;*.tiff</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8946,6 +8987,139 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>To display the flow, the generated link contains only the first 50 slides.</source>
         <translation type="obsolete">所產生的分享連結僅可顯示前面50張投影片</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">一般</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">確定</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontSubstitutionDlg</name>
+    <message>
+        <source>Font substitutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert &amp;Permanently...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Missing document font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing document font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Substituted font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtituted font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No font substitution is necessary. All fonts used in this document are available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot; will be displayed and printed using &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

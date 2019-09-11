@@ -6426,6 +6426,11 @@ Czy chcesz zmienić nazwę folderu z &quot;%s&quot;  na &quot;%s&quot;?</transla
         <translatorcomment>tak jest ok - wyjaśnione z producentem</translatorcomment>
         <translation>Numer slajdu</translation>
     </message>
+    <message>
+        <source>In the %s Show</source>
+        <comment>wpp_sOleObjectInShow</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>
@@ -8132,6 +8137,11 @@ Ta kopia zapasowa zostanie zapisana do(%s)</translation>
     <message>
         <source>/WPS Capture/WPS Capture</source>
         <comment>WpPlayerCaptureSaveRelativePath</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in the, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>WpCheckInSharepoint</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

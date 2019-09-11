@@ -7756,15 +7756,15 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>File Safe Proctection</source>
-        <translation>文件安全保护</translation>
+        <translation type="obsolete">文件安全保护</translation>
     </message>
     <message>
         <source>New file on WPS，the file save on WPS cloud disk default</source>
-        <translation>在WPS中新建文档，文档默认保存在“WPS网盘”</translation>
+        <translation type="obsolete">在WPS中新建文档，文档默认保存在“WPS网盘”</translation>
     </message>
     <message>
         <source>Open Location</source>
-        <translation>打开位置</translation>
+        <translation type="obsolete">打开位置</translation>
     </message>
     <message>
         <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
@@ -8642,6 +8642,10 @@ Remember that passwords are case-sensitive. The password for editing cannot cont
     <message>
         <source>&amp;Options...</source>
         <translation type="unfinished">选项(&amp;O)...</translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation>页面设置(&amp;U)...</translation>
     </message>
 </context>
 <context>
@@ -16562,6 +16566,26 @@ t</source>
         <source>Center across selection</source>
         <translation>跨列居中</translation>
     </message>
+    <message>
+        <source>&amp;Text Direction:</source>
+        <translation>文字方向(&amp;T):</translation>
+    </message>
+    <message>
+        <source>Context</source>
+        <translation>根据内容</translation>
+    </message>
+    <message>
+        <source>Left-to-Right</source>
+        <translation>总是从左向右</translation>
+    </message>
+    <message>
+        <source>Right-to-Left</source>
+        <translation>总是从右向左</translation>
+    </message>
+    <message>
+        <source>Right-to-left</source>
+        <translation>从右到左</translation>
+    </message>
 </context>
 <context>
     <name>KxWidgetAlignment</name>
@@ -20982,7 +21006,7 @@ Do you want to change to Manual?</source>
     </message>
     <message>
         <source>Search</source>
-        <translation>搜索</translation>
+        <translation type="obsolete">搜索</translation>
     </message>
     <message>
         <source>(Separate keywords with space)</source>
@@ -24586,15 +24610,15 @@ file,click OK.</source>
     </message>
     <message>
         <source>Empty cells</source>
-        <translation>空白单元格</translation>
+        <translation type="obsolete">空白单元格</translation>
     </message>
     <message>
         <source>Hidden shapes, text boxes, and so on</source>
-        <translation>不可见形状、文本框等</translation>
+        <translation type="obsolete">不可见形状、文本框等</translation>
     </message>
     <message>
         <source>Duplicate styles</source>
-        <translation>重复样式</translation>
+        <translation type="obsolete">重复样式</translation>
     </message>
     <message>
         <source>&quot;File slimming&quot; finished! Successfully reduced</source>
@@ -24754,7 +24778,7 @@ file,click OK.</source>
     </message>
     <message>
         <source>%1 Blocks</source>
-        <translation>%1 块</translation>
+        <translation type="obsolete">%1 块</translation>
     </message>
     <message>
         <source>Start</source>
@@ -26594,6 +26618,28 @@ Please unfreeze pane.</source>
     <message>
         <source>Authorized Expiration</source>
         <translation>产品未激活</translation>
+    </message>
+</context>
+<context>
+    <name>KxDuplicateBaseDlg</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxEtInsertWithLineEditCommand</name>
+    <message>
+        <source>Auto</source>
+        <translation type="unfinished">自动</translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

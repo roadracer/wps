@@ -2000,6 +2000,10 @@ Add-Ins</source>
         <source>WPS Office Homepage</source>
         <translation></translation>
     </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>

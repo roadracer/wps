@@ -4035,12 +4035,16 @@ This is expecially useful if you&apos;re trying to organize data in a table.</so
     </message>
     <message id="DocTranslate.title">
         <source>Full text translation</source>
-        <extracomment>DocTranslate.title</extracomment>
+        <extracomment>DocTranslate.title
+----------
+DocTranslate.title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="DocTranslate.content">
         <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
-        <extracomment>DocTranslate.content</extracomment>
+        <extracomment>DocTranslate.content
+----------
+DocTranslate.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="AddSection.title">
@@ -4141,6 +4145,126 @@ Automatic table of contents includes text formatted with Heading styles.</source
     <message id="SectionNavigationPane.content">
         <source>displays or hides chapter navigation in navigation pane..</source>
         <extracomment>SectionNavigationPane.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation type="unfinished">การตั้งค่า</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor2.content</extracomment>
+        <translation type="unfinished">คลิกลูกศรเพื่อเลือกเอฟเฟ็กต์การเติมที่แตกต่างกัน</translation>
+    </message>
+    <message id="Handwriting.title">
+        <source>Handwriting</source>
+        <extracomment>Handwriting.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="Handwriting.content">
+        <source>Add a handwriting to the document.</source>
+        <extracomment>Handwriting.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor.content">
+        <source>Set the color, width, and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor2.content</extracomment>
+        <translation type="unfinished">คลิกลูกศรเพื่อเลือกการตั้งค่าสำหรับเส้นกรอบอย่างละเอียด</translation>
+    </message>
+    <message id="ReviewTip.title">
+        <source></source>
+        <extracomment>ReviewTip.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip.content">
+        <source></source>
+        <extracomment>ReviewTip.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip2.title">
+        <source></source>
+        <extracomment>ReviewTip2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ReviewTip2.content">
+        <source></source>
+        <extracomment>ReviewTip2.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.title">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellHeight.content">
+        <source>CellHeight</source>
+        <extracomment>CellHeight.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.title">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="CellWidth.content">
+        <source>CellWidth</source>
+        <extracomment>CellWidth.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.content">
+        <source>Set the text to read from right to left.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

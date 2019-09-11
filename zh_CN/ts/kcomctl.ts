@@ -528,6 +528,10 @@
         <source>Picture Filters</source>
         <translation>图片滤镜</translation>
     </message>
+    <message>
+        <source>Graphic Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFormatStylesWidget</name>
@@ -1792,19 +1796,19 @@ This file may have been renamed, deleted or moved.</source>
     <name>KNotFoundFileDlg</name>
     <message>
         <source>%1open file path%2</source>
-        <translation>%1打开文件所在文件夹%2</translation>
+        <translation type="obsolete">%1打开文件所在文件夹%2</translation>
     </message>
     <message>
         <source>View Backup</source>
-        <translation>查找备份</translation>
+        <translation type="obsolete">查找备份</translation>
     </message>
     <message>
         <source>Recover File</source>
-        <translation>文件恢复</translation>
+        <translation type="obsolete">文件恢复</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
 </context>
 <context>
@@ -1829,19 +1833,19 @@ This file may have been renamed, deleted or moved.</source>
     <name>KxTabbarQAndAWidget</name>
     <message>
         <source>Find commands or Search template</source>
-        <translation>查找命令、搜索模板</translation>
+        <translation type="obsolete">查找命令、搜索模板</translation>
     </message>
     <message>
         <source>Find Commands</source>
-        <translation>查找命令</translation>
+        <translation type="obsolete">查找命令</translation>
     </message>
     <message>
         <source>Enter function or template keywords here to quickly locate commands, find portals, get templates.</source>
-        <translation>在此输入功能或模板关键字以快速定位命令、查找入口、获取模板。</translation>
+        <translation type="obsolete">在此输入功能或模板关键字以快速定位命令、查找入口、获取模板。</translation>
     </message>
     <message>
         <source>Enter a feature name to find relative commands.</source>
-        <translation>在此输入功能名称以快速定位命令、查找入口。</translation>
+        <translation type="obsolete">在此输入功能名称以快速定位命令、查找入口。</translation>
     </message>
 </context>
 <context>

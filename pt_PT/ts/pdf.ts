@@ -12,6 +12,30 @@
         <source>OpenFile</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ReadTime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FilePosition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileSize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileEmptySize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>IPaint</name>
@@ -193,6 +217,10 @@
     </message>
     <message>
         <source>Unable to open &quot;%1&quot;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open the cloud file before you compress it</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -816,6 +844,23 @@ Deleted pages can not be recovered</source>
         <source>Please select the permissions you want to encrypt.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Is Encrypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IsEncrypting %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input 6-126 byte password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The edit password can not be the same as the open password
+Please modify and try again</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPdfEncryptDlgWidget</name>
@@ -965,6 +1010,10 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>FileNewFeatures</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PdfCommFile</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1197,6 +1246,10 @@ please sign in to use WPS Office.</source>
     </message>
     <message>
         <source>Only insert 1 signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NewSignature</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2213,6 +2266,31 @@ For example, 1,3,5-12.</source>
         <source>Image Data Is Null</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>NewSignature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>add Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview of black and white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPdfSignatureItem</name>
@@ -2509,6 +2587,18 @@ For example, 1,3,5-12.</source>
         <source>PDFToWord</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>PDFToExcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFToPPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit This Time</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>historyFileGuide</name>
@@ -2522,6 +2612,14 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>deleteAllTip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fileViewTip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fileListTip</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2553,6 +2651,14 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>fixedFile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>pdfcompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2814,6 +2920,46 @@ For example, 1,3,5-12.</source>
         <source>Please enter a valid page range</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>小册子</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>小册子子集：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>装订：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current viewPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>DoubleSide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OnlyFront</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OnlyBehind</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>pdfhomepage</name>
@@ -2830,6 +2976,502 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Kingsoft StandAlone PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>AddCommFolderRoot</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSignature</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSignatureDeleteButton</name>
+    <message>
+        <source>Clear Signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSignatureLockButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCommFileLayout</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCompressTipsDialog</name>
+    <message>
+        <source>The Compressed size is %1,decrease %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCompressTipsDialogWidget</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>立刻压缩</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfContextMenuUtils</name>
+    <message>
+        <source>Markdown2PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCopyProCompelDialog</name>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never notify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>words you have copied exceeds the limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF copy is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the copy %1 was successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCopyProCompelDialogWidget</name>
+    <message>
+        <source>Hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy number over limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export2Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCopyProDialogWidget</name>
+    <message>
+        <source>Hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy number over limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export2Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Just Copy %1 words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>words you have copied exceeds the limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageDeleteCommand</name>
+    <message>
+        <source>Delete image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageEnterEditCommand</name>
+    <message>
+        <source>Edit image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageFloatLayerCommand</name>
+    <message>
+        <source>Edit image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageSinkLayerCommand</name>
+    <message>
+        <source>Edit image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfMainWindow</name>
+    <message>
+        <source>Correction fluid login prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Correction member prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfScreenShotNotifyWin</name>
+    <message>
+        <source>提示</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>具体消息内容</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前比例</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>导出图片</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfSignApplyDlg</name>
+    <message>
+        <source>Signature Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signature apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply other page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd and even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Select</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a valid page range</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfThumbnailView</name>
+    <message>
+        <source>Move Page is VIP exclusive privilege.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfView</name>
+    <message>
+        <source>Add image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxScreenShotSticker</name>
+    <message>
+        <source>KxScreenShotSticker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover2Thumb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover2Raw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PDFTipWidget::KxDrTipContentWidget</name>
+    <message>
+        <source>Encrypted document input password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No more tips</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>input password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PRINT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MODIFY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COPYTEXT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EDITANNOT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ASSEMBLE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authority Separator</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The current document is encrypted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to enter password open</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PdfHomePageCommFolder</name>
+    <message>
+        <source>System %1 disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>donot have any sub files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already added this folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add invaild folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>fileListItemRoot</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADFADFASDFASDFASDF.PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACC TIME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C:\XuYang\PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>30.58M</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

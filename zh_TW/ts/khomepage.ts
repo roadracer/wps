@@ -249,4 +249,39 @@ This file may have been renamed, deleted or moved.</source>
         <translation type="obsolete">共享連結</translation>
     </message>
 </context>
+<context>
+    <name>KMainthreadWorker</name>
+    <message>
+        <source>Other PC</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apple Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Android Device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloads</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>QQ FileRecv</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Wechat File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Documents%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

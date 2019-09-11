@@ -461,6 +461,10 @@
         <source>Picture Filters</source>
         <translation>ตัวกรองรูปภาพ</translation>
     </message>
+    <message>
+        <source>Graphic Styles</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KFormatStylesWidget</name>
@@ -850,6 +854,10 @@
     <name>KProxyTabbarQAndAButton</name>
     <message>
         <source>Find commands or Search template</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Find Commands</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1409,6 +1417,32 @@ Please reinstall WPS Office!</translation>
     </message>
     <message>
         <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KDocTab</name>
+    <message>
+        <source>document %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sheet %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>presentation %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1month%2day%3hour%4minute%5second</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageShareButton</name>
+    <message>
+        <source>share the file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

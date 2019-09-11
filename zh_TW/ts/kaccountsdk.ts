@@ -402,7 +402,7 @@
     </message>
     <message>
         <source>-or-</source>
-        <translation>- 或 -</translation>
+        <translation type="obsolete">- 或 -</translation>
     </message>
     <message>
         <source>Auto login</source>
@@ -410,7 +410,7 @@
     </message>
     <message>
         <source>Third company</source>
-        <translation>第三方企業</translation>
+        <translation type="obsolete">第三方企業</translation>
     </message>
     <message>
         <source>More</source>
@@ -555,6 +555,10 @@
     <message>
         <source>Please login to launch WPS</source>
         <translation>請登入賬戶以啟動搶先版</translation>
+    </message>
+    <message>
+        <source>QQ login</source>
+        <translation type="unfinished">QQ登入</translation>
     </message>
 </context>
 <context>
@@ -793,6 +797,10 @@
     </message>
     <message>
         <source>Dingding login</source>
+        <translation type="unfinished">掃碼登入</translation>
+    </message>
+    <message>
+        <source>Wechat Binding</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1771,6 +1779,99 @@ p, li { white-space: pre-wrap; }
     <message>
         <source>Port:</source>
         <translation>通訊埠:</translation>
+    </message>
+</context>
+<context>
+    <name>KStartupGuidePane</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>personal logo</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>personal tip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login</source>
+        <translation type="unfinished">登入</translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to become paid member?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>How to buy enterprise edition?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use WPS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enjoy the Office Privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I am personal user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Login and use, synchronize data between computer and mobile,
+Easy mobile office.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Large mount of templates, fonts, pictures resource for choice,
+makes documents beautiful</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There maybe a little ad, you can close it if you don&apos;t like it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Thanks for your trust and support to WPS,
+we will make continuous improvements</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>I am vip/commercial user</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>High quality of VIP services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Many value-added services</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Legal Commercial License.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KUpgradeVipAssistDialog</name>
+    <message>
+        <source>Upgrade to VIP</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -6497,6 +6497,14 @@ Number</source>
         <source>SmartArt</source>
         <translation>智能图形</translation>
     </message>
+    <message>
+        <source>Insert New Equation</source>
+        <translation>插入新公式</translation>
+    </message>
+    <message>
+        <source>WPS Equation 3.0</source>
+        <translation>WPS 公式 3.0</translation>
+    </message>
 </context>
 <context>
     <name>ongmani.ct_notesmaster</name>
@@ -13795,6 +13803,209 @@ Master</source>
     <message>
         <source>User Manual</source>
         <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Align Scripts</source>
+        <translation>对齐上下标</translation>
+    </message>
+    <message>
+        <source>Bottom</source>
+        <comment>OMath</comment>
+        <translation>下</translation>
+    </message>
+    <message>
+        <source>Break into Seperate Equations</source>
+        <translation>分解为独立公式</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>OMath</comment>
+        <translation>居中</translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <comment>OMathMatOrEqArr</comment>
+        <translation>居中对齐</translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation>整体居中</translation>
+    </message>
+    <message>
+        <source>Change Limit Locations</source>
+        <translation>更改极限符号位置</translation>
+    </message>
+    <message>
+        <source>Change to Linear Fraction</source>
+        <translation>更改为分数(横式)</translation>
+    </message>
+    <message>
+        <source>Change to Skewed Fraction</source>
+        <translation>更改为分数(斜式)</translation>
+    </message>
+    <message>
+        <source>Change to Stack Fraction</source>
+        <translation>更改为分数(竖式)</translation>
+    </message>
+    <message>
+        <source>Decrease Argument Size</source>
+        <translation>减小参数大小</translation>
+    </message>
+    <message>
+        <source>Delete Argument</source>
+        <translation>删除参数</translation>
+    </message>
+    <message>
+        <source>Delete Column</source>
+        <translation>删除列</translation>
+    </message>
+    <message>
+        <source>Delete Equation</source>
+        <translation>删除公式</translation>
+    </message>
+    <message>
+        <source>Delete Row</source>
+        <translation>删除行</translation>
+    </message>
+    <message>
+        <source>Edit Object</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Hide Degree</source>
+        <translation>隐藏根次</translation>
+    </message>
+    <message>
+        <source>Hide Lower Limit</source>
+        <translation>隐藏下限</translation>
+    </message>
+    <message>
+        <source>Hide Upper Limit</source>
+        <translation>隐藏上限</translation>
+    </message>
+    <message>
+        <source>Increase Argument Size</source>
+        <translation>增大参数大小</translation>
+    </message>
+    <message>
+        <source>Insert Argument After</source>
+        <translation>在后面插入参数</translation>
+    </message>
+    <message>
+        <source>Insert Argument Before</source>
+        <translation>在前面插入参数</translation>
+    </message>
+    <message>
+        <source>Insert Column After</source>
+        <translation>在此后插入列</translation>
+    </message>
+    <message>
+        <source>Insert Column Before</source>
+        <translation>在此前插入列</translation>
+    </message>
+    <message>
+        <source>Insert Equation After</source>
+        <translation>在后面插入公式</translation>
+    </message>
+    <message>
+        <source>Insert Equation Before</source>
+        <translation>在前面插入公式</translation>
+    </message>
+    <message>
+        <source>Insert Fraction Bar</source>
+        <translation>插入分数线</translation>
+    </message>
+    <message>
+        <source>Insert Row After</source>
+        <translation>在此后插入行</translation>
+    </message>
+    <message>
+        <source>Insert Row Before</source>
+        <translation>在此前插入行</translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <comment>OMath</comment>
+        <translation>左对齐</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <comment>OMath</comment>
+        <translation>线性</translation>
+    </message>
+    <message>
+        <source>Match Brackets to Argument Height</source>
+        <translation>将括号与参数高度匹配</translation>
+    </message>
+    <message>
+        <source>Math Options</source>
+        <translation>数学选项</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>专业型</translation>
+    </message>
+    <message>
+        <source>Remove Accent Character</source>
+        <translation>删除重音字符</translation>
+    </message>
+    <message>
+        <source>Remove Bar</source>
+        <translation>删除顶/底线</translation>
+    </message>
+    <message>
+        <source>Remove Fraction Bar</source>
+        <translation>删除分数线</translation>
+    </message>
+    <message>
+        <source>Remove Limit</source>
+        <translation>删除限值</translation>
+    </message>
+    <message>
+        <source>Remove Radical</source>
+        <translation>删除根式</translation>
+    </message>
+    <message>
+        <source>Remove Scripts</source>
+        <translation>删除角标</translation>
+    </message>
+    <message>
+        <source>Remove Subscript</source>
+        <translation>删除下标</translation>
+    </message>
+    <message>
+        <source>Remove Superscript</source>
+        <translation>删除上标</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <comment>OMath</comment>
+        <translation>右对齐</translation>
+    </message>
+    <message>
+        <source>Show Degree</source>
+        <translation>显示根次</translation>
+    </message>
+    <message>
+        <source>Show Lower Limit</source>
+        <translation>显示下限</translation>
+    </message>
+    <message>
+        <source>Show Upper Limit</source>
+        <translation>显示上限</translation>
+    </message>
+    <message>
+        <source>Stretch Brackets</source>
+        <translation>拉伸括号</translation>
+    </message>
+    <message>
+        <source>Stretch N-ary character</source>
+        <translation>伸展 N 元字符</translation>
+    </message>
+    <message>
+        <source>Top</source>
+        <comment>OMath</comment>
+        <translation>顶端</translation>
     </message>
 </context>
 <context>
@@ -26069,6 +26280,66 @@ Slide To Play</source>
         <source>Online WordArt</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Equation Accent Popup Menu</source>
+        <translation>重音函数</translation>
+    </message>
+    <message>
+        <source>Equation Array Popup Menu</source>
+        <translation>数组函数</translation>
+    </message>
+    <message>
+        <source>Equation Bar Popup Menu</source>
+        <translation>划线函数</translation>
+    </message>
+    <message>
+        <source>Equation BorderBox Popup Menu</source>
+        <translation>边框函数</translation>
+    </message>
+    <message>
+        <source>Equation Delimiter Popup Menu</source>
+        <translation>括号函数</translation>
+    </message>
+    <message>
+        <source>Equation Fraction Popup Menu</source>
+        <translation>分数函数</translation>
+    </message>
+    <message>
+        <source>Equation Function Popup Menu</source>
+        <translation>函数</translation>
+    </message>
+    <message>
+        <source>Equation Group Popup Menu</source>
+        <translation>组函数</translation>
+    </message>
+    <message>
+        <source>Equation Large Operator Popup Menu</source>
+        <translation>大型运算符函数</translation>
+    </message>
+    <message>
+        <source>Equation Limit Popup Menu</source>
+        <translation>极限函数</translation>
+    </message>
+    <message>
+        <source>Equation Matrix Popup Menu</source>
+        <translation>矩阵函数</translation>
+    </message>
+    <message>
+        <source>Equation Normal Popup Menu</source>
+        <translation>数学公式</translation>
+    </message>
+    <message>
+        <source>Equation Operator Popup Menu</source>
+        <translation>运算符函数</translation>
+    </message>
+    <message>
+        <source>Equation Radical Popup Menu</source>
+        <translation>根式函数</translation>
+    </message>
+    <message>
+        <source>Equation Script Popup Menu</source>
+        <translation>上下标函数</translation>
+    </message>
 </context>
 <context>
     <name>wppcommon.mainwindow.commands.Help</name>
@@ -26805,6 +27076,10 @@ Slide To Play</source>
     <message>
         <source>WPS Office Homepage</source>
         <translation type="obsolete">WPS官方网站</translation>
+    </message>
+    <message>
+        <source>Equation Tool</source>
+        <translation>公式工具</translation>
     </message>
 </context>
 <context>
@@ -28337,6 +28612,89 @@ Slide To Play</source>
     <message>
         <source>Width</source>
         <translation type="obsolete">宽度</translation>
+    </message>
+</context>
+<context>
+    <name>ongmani.ct_equationtools</name>
+    <message>
+        <source>Accent</source>
+        <translation>导数符号</translation>
+    </message>
+    <message>
+        <source>Bracket</source>
+        <translation>括号</translation>
+    </message>
+    <message>
+        <source>Equation</source>
+        <translation>公式</translation>
+    </message>
+    <message>
+        <source>Equation Options</source>
+        <translation>公式选项</translation>
+    </message>
+    <message>
+        <source>Equation Symbols</source>
+        <translation>公式符号</translation>
+    </message>
+    <message>
+        <source>Fraction</source>
+        <translation>分数</translation>
+    </message>
+    <message>
+        <source>Function</source>
+        <translation>函数</translation>
+    </message>
+    <message>
+        <source>Integral</source>
+        <translation>积分</translation>
+    </message>
+    <message>
+        <source>Large Operator</source>
+        <translation>大型运算符</translation>
+    </message>
+    <message>
+        <source>Limit and Log</source>
+        <translation>极限和对数</translation>
+    </message>
+    <message>
+        <source>Linear</source>
+        <translation>线性</translation>
+    </message>
+    <message>
+        <source>Matrix</source>
+        <translation>矩阵</translation>
+    </message>
+    <message>
+        <source>Normal Text</source>
+        <translation>普通文本</translation>
+    </message>
+    <message>
+        <source>Operator</source>
+        <translation>运算符</translation>
+    </message>
+    <message>
+        <source>Professional</source>
+        <translation>专业型</translation>
+    </message>
+    <message>
+        <source>Radical</source>
+        <translation>根式</translation>
+    </message>
+    <message>
+        <source>Script</source>
+        <translation>上下标</translation>
+    </message>
+    <message>
+        <source>Structures</source>
+        <translation>结构</translation>
+    </message>
+    <message>
+        <source>Symbols</source>
+        <translation>符号</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -2835,6 +2835,11 @@ Deseja substitui-lo?</translation>
         <comment>_TxTemplate_MediumFull</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fit text</source>
+        <comment>TxRevision_Chp_FitText</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -2954,6 +2959,31 @@ Utilize o botão &apos;Localizar a Próxima Área Editável&apos; para mostrar c
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <comment>_TxErr_InvalidPHdrText</comment>
         <translation>O WPS Writer não consegue desativar o modo de estruturação porque o texto do marcador de posição num controlo de conteúdo contém itens inválidos. O texto do marcador de posição contém itens como, por exemplo, objetos flutuantes, marcas de revisão ou controlos de conteúdo. Remova estes itens do texto do marcador de posição e tente novamente.</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <comment>_TxErr_ScannerDataInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <comment>_TxErr_ScannerJammedPaper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <comment>_TxErr_ScannerNoPaper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner IO Link Error.</source>
+        <comment>_TxErr_ScannerIOError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <comment>_TxErr_LodeLibraryError</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3390,6 +3420,30 @@ Possible reasons:
 •Make sure this file is recognizable format.
 (%s)</source>
         <comment>_TxDocument_UnSupportFileFormat</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <comment>_TxDocument_PastePlaceHolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <comment>_TxDocument_PasteShapeObject</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <comment>_TxDocument_PastePageBreaks</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>_TxDocument_CheckInMsg</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

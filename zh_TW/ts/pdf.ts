@@ -10,7 +10,31 @@
     </message>
     <message>
         <source>OpenFile</source>
-        <translation>開啟檔案</translation>
+        <translation type="obsolete">開啟檔案</translation>
+    </message>
+    <message>
+        <source>FileName</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ReadTime</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FilePosition</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileSize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>FileEmptySize</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">開啟</translation>
     </message>
 </context>
 <context>
@@ -197,56 +221,60 @@
         <translation>無法開啟 [%1]。
 它可能已被刪除、移走或重新命名。</translation>
     </message>
+    <message>
+        <source>Open the cloud file before you compress it</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxDrTipContentWidget</name>
     <message>
         <source>Encrypted document input password</source>
-        <translation>目前文件被加密，編輯、列印功能被停用，要輸入密碼以開放權限嗎？</translation>
+        <translation type="obsolete">目前文件被加密，編輯、列印功能被停用，要輸入密碼以開放權限嗎？</translation>
     </message>
     <message>
         <source>No more tips</source>
-        <translation>不再提示</translation>
+        <translation type="obsolete">不再提示</translation>
     </message>
     <message>
         <source>input password</source>
-        <translation>開放權限</translation>
+        <translation type="obsolete">開放權限</translation>
     </message>
     <message>
         <source>PRINT</source>
-        <translation>列印</translation>
+        <translation type="obsolete">列印</translation>
     </message>
     <message>
         <source>MODIFY</source>
-        <translation>編輯及擷取頁面</translation>
+        <translation type="obsolete">編輯及擷取頁面</translation>
     </message>
     <message>
         <source>COPYTEXT</source>
-        <translation>複製</translation>
+        <translation type="obsolete">複製</translation>
     </message>
     <message>
         <source>EDITANNOT</source>
-        <translation>註解</translation>
+        <translation type="obsolete">註解</translation>
     </message>
     <message>
         <source>EXTRACT</source>
-        <translation>擷取頁面</translation>
+        <translation type="obsolete">擷取頁面</translation>
     </message>
     <message>
         <source>ASSEMBLE</source>
-        <translation>文件組合</translation>
+        <translation type="obsolete">文件組合</translation>
     </message>
     <message>
         <source>Authority Separator</source>
-        <translation>、</translation>
+        <translation type="obsolete">、</translation>
     </message>
     <message>
         <source>The current document is encrypted</source>
-        <translation>目前文件被加密。</translation>
+        <translation type="obsolete">目前文件被加密。</translation>
     </message>
     <message>
         <source>Do you want to enter password open</source>
-        <translation>功能被停用，要輸入密碼以開放權限嗎？</translation>
+        <translation type="obsolete">功能被停用，要輸入密碼以開放權限嗎？</translation>
     </message>
 </context>
 <context>
@@ -430,68 +458,68 @@
     <name>KxPdfCompressDialog</name>
     <message>
         <source>&quot;is computing size after compress&quot;</source>
-        <translation>&quot;正在計算壓縮後的文件大小&quot;</translation>
+        <translation type="obsolete">&quot;正在計算壓縮後的文件大小&quot;</translation>
     </message>
     <message>
         <source>Compressed</source>
-        <translation>(已壓縮)</translation>
+        <translation type="obsolete">(已壓縮)</translation>
     </message>
     <message>
         <source>PDF Compress is VIP exclusive privilege</source>
-        <translation>[PDF 壓縮]為WPS會員專屬特權</translation>
+        <translation type="obsolete">[PDF 壓縮]為WPS會員專屬特權</translation>
     </message>
     <message>
         <source>Cancle</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
     <message>
         <source>The current size is %1,size after compressed is about %2.</source>
-        <translation>目前文件大小為%1，壓縮之後為%2左右。</translation>
+        <translation type="obsolete">目前文件大小為%1，壓縮之後為%2左右。</translation>
     </message>
     <message>
         <source>The current document is the best, no compression required.</source>
-        <translation>文件已經處於最佳狀態，不需要壓縮。</translation>
+        <translation type="obsolete">文件已經處於最佳狀態，不需要壓縮。</translation>
     </message>
     <message>
         <source>Is Compressing</source>
-        <translation>正在壓縮</translation>
+        <translation type="obsolete">正在壓縮</translation>
     </message>
     <message>
         <source>IsCompressing %1%</source>
-        <translation>正在壓縮 %1%</translation>
+        <translation type="obsolete">正在壓縮 %1%</translation>
     </message>
     <message>
         <source>&quot;%1&quot; 
 has compressed,the size is %2</source>
-        <translation>[%1]
+        <translation type="obsolete">[%1]
 已經完成壓縮，目前大小為%2</translation>
     </message>
     <message>
         <source>Open File</source>
-        <translation>開啟檔案</translation>
+        <translation type="obsolete">開啟檔案</translation>
     </message>
     <message>
         <source>Open Directory</source>
-        <translation>開啟目錄</translation>
+        <translation type="obsolete">開啟目錄</translation>
     </message>
 </context>
 <context>
     <name>KxPdfCompressDialogWidget</name>
     <message>
         <source>Compress</source>
-        <translation>壓縮</translation>
+        <translation type="obsolete">壓縮</translation>
     </message>
     <message>
         <source>PDF Compress</source>
-        <translation>PDF 壓縮</translation>
+        <translation type="obsolete">PDF 壓縮</translation>
     </message>
     <message>
         <source>Export the directory</source>
-        <translation>儲存目錄</translation>
+        <translation type="obsolete">儲存目錄</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
 </context>
 <context>
@@ -816,11 +844,28 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>Please input password.</source>
-        <translation>請輸入密碼。</translation>
+        <translation type="obsolete">請輸入密碼。</translation>
     </message>
     <message>
         <source>Please select the permissions you want to encrypt.</source>
         <translation>選取需要加密的權限</translation>
+    </message>
+    <message>
+        <source>Is Encrypt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>IsEncrypting %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please input 6-126 byte password.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The edit password can not be the same as the open password
+Please modify and try again</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -879,7 +924,7 @@ Deleted pages can not be recovered</source>
     </message>
     <message>
         <source>extract page</source>
-        <translation>擷取頁面</translation>
+        <translation type="obsolete">擷取頁面</translation>
     </message>
     <message>
         <source>OK</source>
@@ -956,7 +1001,7 @@ Deleted pages can not be recovered</source>
     <name>KxPdfHistoryFileTabContent</name>
     <message>
         <source>Clear Invalid File</source>
-        <translation>清除所有無效記錄</translation>
+        <translation type="obsolete">清除所有無效記錄</translation>
     </message>
 </context>
 <context>
@@ -972,6 +1017,10 @@ Deleted pages can not be recovered</source>
     <message>
         <source>FileNewFeatures</source>
         <translation>發現</translation>
+    </message>
+    <message>
+        <source>PdfCommFile</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1205,6 +1254,10 @@ please sign in to use WPS Office.</source>
     <message>
         <source>Only insert 1 signature</source>
         <translation>僅新增一個簽章</translation>
+    </message>
+    <message>
+        <source>NewSignature</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2186,7 +2239,7 @@ For example, 1,3,5-12.</source>
     </message>
     <message>
         <source>Delete Pages</source>
-        <translation>刪除頁面</translation>
+        <translation type="obsolete">刪除頁面</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2220,12 +2273,37 @@ For example, 1,3,5-12.</source>
         <source>Image Data Is Null</source>
         <translation>圖片資料有錯誤</translation>
     </message>
+    <message>
+        <source>NewSignature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>add Image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preview of black and white</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The font &apos;</source>
+        <comment>TxMessage_FontNameNotExisitFirstHalf</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&apos; is not available on your system. Do you want to use this font anyway?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPdfSignatureItem</name>
     <message>
         <source>Delete signature</source>
-        <translation>刪除簽章</translation>
+        <translation type="obsolete">刪除簽章</translation>
     </message>
 </context>
 <context>
@@ -2516,6 +2594,18 @@ For example, 1,3,5-12.</source>
         <source>PDFToWord</source>
         <translation>將PDF匯出為Word</translation>
     </message>
+    <message>
+        <source>PDFToExcel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDFToPPT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Exit This Time</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>historyFileGuide</name>
@@ -2530,6 +2620,14 @@ For example, 1,3,5-12.</source>
     <message>
         <source>deleteAllTip</source>
         <translation>清除本機歷史記錄</translation>
+    </message>
+    <message>
+        <source>fileViewTip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fileListTip</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2561,6 +2659,14 @@ For example, 1,3,5-12.</source>
     <message>
         <source>fixedFile</source>
         <translation>釘選至清單</translation>
+    </message>
+    <message>
+        <source>pdfcompress</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear Invalid File</source>
+        <translation type="unfinished">清除所有無效記錄</translation>
     </message>
 </context>
 <context>
@@ -2821,6 +2927,46 @@ For example, 1,3,5-12.</source>
         <source>Please enter a valid page range</source>
         <translation>請確認列印的有效範圍</translation>
     </message>
+    <message>
+        <source>属性</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>小册子</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>小册子子集：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>装订：</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Current viewPage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished">左</translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished">右</translation>
+    </message>
+    <message>
+        <source>DoubleSide</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OnlyFront</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OnlyBehind</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>pdfhomepage</name>
@@ -2838,6 +2984,503 @@ For example, 1,3,5-12.</source>
     <message>
         <source>Kingsoft StandAlone PDF</source>
         <translation>WPS PDF</translation>
+    </message>
+</context>
+<context>
+    <name>AddCommFolderRoot</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KRbSignature</name>
+    <message>
+        <source>Open</source>
+        <translation type="unfinished">開啟</translation>
+    </message>
+</context>
+<context>
+    <name>KSignatureDeleteButton</name>
+    <message>
+        <source>Clear Signature</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KSignatureLockButton</name>
+    <message>
+        <source>unfixed from list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>fixed to list</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCommFileLayout</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCompressTipsDialog</name>
+    <message>
+        <source>The Compressed size is %1,decrease %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCompressTipsDialogWidget</name>
+    <message>
+        <source>Dialog</source>
+        <translation type="unfinished">對話方塊</translation>
+    </message>
+    <message>
+        <source>立刻压缩</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfContextMenuUtils</name>
+    <message>
+        <source>Markdown2PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Compress</source>
+        <translation type="unfinished">PDF 壓縮</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCopyProCompelDialog</name>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extraction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Never notify</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>words you have copied exceeds the limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF copy is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the copy %1 was successful</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCopyProCompelDialogWidget</name>
+    <message>
+        <source>Hint</source>
+        <translation type="unfinished">提示</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy number over limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export2Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfCopyProDialogWidget</name>
+    <message>
+        <source>Hint</source>
+        <translation type="unfinished">提示</translation>
+    </message>
+    <message>
+        <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy number over limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export2Word</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Just Copy %1 words</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Export</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy text only</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>hint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>words you have copied exceeds the limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageDeleteCommand</name>
+    <message>
+        <source>Delete image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageEnterEditCommand</name>
+    <message>
+        <source>Edit image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageFloatLayerCommand</name>
+    <message>
+        <source>Edit image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfImageSinkLayerCommand</name>
+    <message>
+        <source>Edit image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfMainWindow</name>
+    <message>
+        <source>Correction fluid login prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Correction member prompt</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfScreenShotNotifyWin</name>
+    <message>
+        <source>提示</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>icon</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>具体消息内容</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>当前比例</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>100%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>导出图片</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>取消</source>
+        <translation type="unfinished">取消</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfSignApplyDlg</name>
+    <message>
+        <source>Signature Apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signature apply</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CheckBox</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Apply other page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Odd and even pages</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Embed Document</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All</source>
+        <translation type="unfinished">所有頁面</translation>
+    </message>
+    <message>
+        <source>Page Select</source>
+        <translation type="unfinished">選取頁面</translation>
+    </message>
+    <message>
+        <source>Odd page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Even page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please enter a valid page range</source>
+        <translation type="unfinished">請確認列印的有效範圍</translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfThumbnailView</name>
+    <message>
+        <source>Move Page is VIP exclusive privilege.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxPdfView</name>
+    <message>
+        <source>Add image is VIP exclusive privilege</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancle</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxScreenShotSticker</name>
+    <message>
+        <source>KxScreenShotSticker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TextLabel</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover2Thumb</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recover2Raw</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window Delete</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PDFTipWidget::KxDrTipContentWidget</name>
+    <message>
+        <source>Encrypted document input password</source>
+        <translation type="unfinished">目前文件被加密，編輯、列印功能被停用，要輸入密碼以開放權限嗎？</translation>
+    </message>
+    <message>
+        <source>No more tips</source>
+        <translation type="unfinished">不再提示</translation>
+    </message>
+    <message>
+        <source>input password</source>
+        <translation type="unfinished">開放權限</translation>
+    </message>
+    <message>
+        <source>PRINT</source>
+        <translation type="unfinished">列印</translation>
+    </message>
+    <message>
+        <source>MODIFY</source>
+        <translation type="unfinished">編輯及擷取頁面</translation>
+    </message>
+    <message>
+        <source>COPYTEXT</source>
+        <translation type="unfinished">複製</translation>
+    </message>
+    <message>
+        <source>EDITANNOT</source>
+        <translation type="unfinished">註解</translation>
+    </message>
+    <message>
+        <source>ASSEMBLE</source>
+        <translation type="unfinished">文件組合</translation>
+    </message>
+    <message>
+        <source>Authority Separator</source>
+        <translation type="unfinished">、</translation>
+    </message>
+    <message>
+        <source>The current document is encrypted</source>
+        <translation type="unfinished">目前文件被加密。</translation>
+    </message>
+    <message>
+        <source>Do you want to enter password open</source>
+        <translation type="unfinished">功能被停用，要輸入密碼以開放權限嗎？</translation>
+    </message>
+</context>
+<context>
+    <name>PdfHomePageCommFolder</name>
+    <message>
+        <source>System %1 disk</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Desktop</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>donot have any sub files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You have already added this folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add invaild folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>backup</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unable to open &quot;%1&quot;!</source>
+        <translation type="unfinished">無法開啟 [%1]。
+它可能已被刪除、移走或重新命名。</translation>
+    </message>
+    <message>
+        <source>Open file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Delete folder</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>fileListItemRoot</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ADFADFASDFASDFASDF.PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>ACC TIME</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>C:\XuYang\PDF File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>30.58M</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

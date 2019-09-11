@@ -172,22 +172,22 @@
     <message id="Shape.content">
         <source>Shape</source>
         <extracomment>Shape.content</extracomment>
-        <translation>绘制形状</translation>
+        <translation type="obsolete">绘制形状</translation>
     </message>
     <message id="Shape.title">
         <source>Shape</source>
         <extracomment>Shape.title</extracomment>
-        <translation>形状</translation>
+        <translation type="obsolete">形状</translation>
     </message>
     <message id="ChangeBackGround.content">
         <source>ChangeBackGround</source>
         <extracomment>ChangeBackGround.content</extracomment>
-        <translation>更换页面背景色</translation>
+        <translation type="obsolete">更换页面背景色</translation>
     </message>
     <message id="ChangeBackGround.title">
         <source>ChangeBackGround</source>
         <extracomment>ChangeBackGround.title</extracomment>
-        <translation>背景</translation>
+        <translation type="obsolete">背景</translation>
     </message>
     <message id="ZoomOut.content">
         <source>ZoomOut</source>
@@ -392,42 +392,42 @@
     <message id="PDF2Excel.title">
         <source>PDF2Excel</source>
         <extracomment>PDF2Excel.title</extracomment>
-        <translation>PDF转Excel</translation>
+        <translation type="obsolete">PDF转Excel</translation>
     </message>
     <message id="PDF2Excel.content">
         <source>PDF2Excel</source>
         <extracomment>PDF2Excel.content</extracomment>
-        <translation>将文档转换为Excel文件</translation>
+        <translation type="obsolete">将文档转换为Excel文件</translation>
     </message>
     <message id="PDF2PPT.title">
         <source>PDF2PPT</source>
         <extracomment>PDF2PPT.title</extracomment>
-        <translation>PDF转PPT</translation>
+        <translation type="obsolete">PDF转PPT</translation>
     </message>
     <message id="PDF2PPT.content">
         <source>PDF2PPT</source>
         <extracomment>PDF2PPT.content</extracomment>
-        <translation>将文档转换为PPT文件</translation>
+        <translation type="obsolete">将文档转换为PPT文件</translation>
     </message>
     <message id="Photo2PDF.title">
         <source>Photo to Pdf</source>
         <extracomment>Photo2PDF.title</extracomment>
-        <translation>图片转PDF</translation>
+        <translation type="obsolete">图片转PDF</translation>
     </message>
     <message id="Photo2PDF.content">
         <source>Photo to Pdf Converter.</source>
         <extracomment>Photo2PDF.content</extracomment>
-        <translation>图片格式的文件批量转换成PDF</translation>
+        <translation type="obsolete">图片格式的文件批量转换成PDF</translation>
     </message>
     <message id="PDF2Photo.title">
         <source>PDF2Photo</source>
         <extracomment>PDF2Photo.title</extracomment>
-        <translation>PDF转图片</translation>
+        <translation type="obsolete">PDF转图片</translation>
     </message>
     <message id="PDF2Photo.content">
         <source>PDF2Photo</source>
         <extracomment>PDF2Photo.content</extracomment>
-        <translation>PDF批量转换成图片格式的文件</translation>
+        <translation type="obsolete">PDF批量转换成图片格式的文件</translation>
     </message>
     <message id="ZoomPage.title">
         <source>ZoomPage</source>
@@ -467,7 +467,7 @@
     <message id="PdfSignature.content">
         <source>PdfSignature</source>
         <extracomment>PdfSignature.content</extracomment>
-        <translation>插入签名</translation>
+        <translation type="obsolete">插入签名</translation>
     </message>
     <message id="NoteBorder.content">
         <source>NoteBorder</source>
@@ -492,7 +492,7 @@
     <message id="PdfSignature.title">
         <source>PdfSignature</source>
         <extracomment>PdfSignature.title</extracomment>
-        <translation>签名</translation>
+        <translation type="obsolete">签名</translation>
     </message>
     <message id="NoteBorder.title">
         <source>NoteBorder</source>
@@ -664,12 +664,12 @@
     <message id="InterceptSelectedArea.title">
         <source>InterceptSelectedArea</source>
         <extracomment>InterceptSelectedArea.title</extracomment>
-        <translation>截图和对比</translation>
+        <translation type="obsolete">截图和对比</translation>
     </message>
     <message id="InterceptSelectedArea.content">
         <source>InterceptSelectedArea</source>
         <extracomment>InterceptSelectedArea.content</extracomment>
-        <translation>自由选择你想要截取的区域</translation>
+        <translation type="obsolete">自由选择你想要截取的区域</translation>
     </message>
     <message id="ClockwiseDoc.title">
         <source>ClockwiseDoc</source>
@@ -684,12 +684,12 @@
     <message id="CorrectionFluid.title">
         <source>CorrectionFluid</source>
         <extracomment>CorrectionFluid.title</extracomment>
-        <translation>涂改液</translation>
+        <translation type="obsolete">涂改液</translation>
     </message>
     <message id="CorrectionFluid.content">
         <source>CorrectionFluid</source>
         <extracomment>CorrectionFluid.content</extracomment>
-        <translation>遮盖你不想要的区域</translation>
+        <translation type="obsolete">遮盖你不想要的区域</translation>
     </message>
     <message id="AddImage.title">
         <source>AddImage</source>
@@ -704,52 +704,52 @@
     <message id="PdfImageRotate90.title">
         <source>PdfImageRotate90</source>
         <extracomment>PdfImageRotate90.title</extracomment>
-        <translation>旋转</translation>
+        <translation type="obsolete">旋转</translation>
     </message>
     <message id="PdfImageReverse.title">
         <source>PdfImageReverse</source>
         <extracomment>PdfImageReverse.title</extracomment>
-        <translation>翻转</translation>
+        <translation type="obsolete">翻转</translation>
     </message>
     <message id="PdfImageReplace.title">
         <source>PdfImageReplace</source>
         <extracomment>PdfImageReplace.title</extracomment>
-        <translation>替换</translation>
+        <translation type="obsolete">替换</translation>
     </message>
     <message id="PdfImageOpacity.title">
         <source>PdfImageOpacity</source>
         <extracomment>PdfImageOpacity.title</extracomment>
-        <translation>透明度</translation>
+        <translation type="obsolete">透明度</translation>
     </message>
     <message id="PdfImageExitEdit.title">
         <source>PdfImageExitEdit</source>
         <extracomment>PdfImageExitEdit.title</extracomment>
-        <translation>完成</translation>
+        <translation type="obsolete">完成</translation>
     </message>
     <message id="PdfImageEnterEdit.title">
         <source>PdfImageEnterEdit</source>
         <extracomment>PdfImageEnterEdit.title</extracomment>
-        <translation>编辑图片</translation>
+        <translation type="obsolete">编辑图片</translation>
     </message>
     <message id="CompressTips.title">
         <source>CompressTips</source>
         <extracomment>CompressTips.title</extracomment>
-        <translation>压缩</translation>
+        <translation type="obsolete">压缩</translation>
     </message>
     <message id="CompressTips.content">
         <source>CompressTips</source>
         <extracomment>CompressTips.content</extracomment>
-        <translation>减小PDF文件的体积</translation>
+        <translation type="obsolete">减小PDF文件的体积</translation>
     </message>
     <message id="TranslationAll.title">
         <source>TranslationAll</source>
         <extracomment>TranslationAll.title</extracomment>
-        <translation>全文翻译</translation>
+        <translation type="obsolete">全文翻译</translation>
     </message>
     <message id="TranslationAll.content">
         <source>TranslationAll</source>
         <extracomment>TranslationAll.content</extracomment>
-        <translation>对全文进行翻译</translation>
+        <translation type="obsolete">对全文进行翻译</translation>
     </message>
 </context>
 </TS>

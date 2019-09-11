@@ -4334,6 +4334,52 @@ Check that the cell references, range names, defined names and links to other wo
         <comment>TX_DuplicateItemsMgr_Progress_Compare</comment>
         <translation>正在比對資料</translation>
     </message>
+    <message>
+        <source>There are some empty string</source>
+        <comment>TX_ERRORCHECK_ERR_StringEmptyCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>There are some empty string before and after this content</source>
+        <comment>TX_ERRORCHECK_ERRDESC_StringEmptyCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source> There are some empty string before and after this content, which may cause calculation errors!</source>
+        <comment>TX_ERRORCHECK_ERRDESCEX_EmptyStringCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Clear empty strings before and after</source>
+        <comment>TX_ERRORCHECK_REPAIR_EmptyStringCheck</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <comment>TX_FLASHFILL_RANGE_INVALID</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In the selected area, there is no cell to be filled, and smart fill fails.</source>
+        <comment>TX_FLASHFILL_NO_EMPTY_CELLS</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Smart fill cannot be performed without a sample. 
+Try entering some sample data before performing Smart Fill.</source>
+        <comment>TX_FLASHFILL_NO_EXAMPLE</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed: Unsupported file format</source>
+        <comment>TX_MERGESHEET_STATE_FormatError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>column</source>
+        <comment>TX_JSIDE_ListBox_ColumnName</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -18732,6 +18778,17 @@ Background</source>
         <source>The number must be between 1 and 32767. Try again by entering a number in this range.</source>
         <translation>數字必須在 1 與 32767 之間。請再次輸入屬於上述範圍的數字。</translation>
     </message>
+    <message>
+        <source>We looked at the data next to your selection and didn&apos;t see a pattern for filling values for you.
+To use Flash Fill, enter a couple of examples of the output you&apos;d like to see,kepp the active cell in the column you want fill, and click the Flash Fill button again.</source>
+        <comment>TX_FlashFill_Cannot_Apply</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We didn&apos;t fill in values bacause your selection contains a formula, merged cell, data validation, or locked cell.Remove those features from your selection and click the Flash Fill button again.</source>
+        <comment>TX_FlashFill_InvalidArea</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_undodesc</name>
@@ -19505,6 +19562,11 @@ Background</source>
         <source>Remind Repeat</source>
         <comment>TX_Undo_RemindRepeat</comment>
         <translation>醒目提示重複值</translation>
+    </message>
+    <message>
+        <source>TextDirection</source>
+        <comment>TX_Undo_TextDirection</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -21612,7 +21674,7 @@ the category you want, and then choose the other options.</source>
     <message>
         <source>All Files(*.xls;*.xlsx;*.xlsm)</source>
         <comment>et_sMergeSheet_SelectFileFilter</comment>
-        <translation>所有檔案(*.xls;*.xlsx;*.xlsm)</translation>
+        <translation type="obsolete">所有檔案(*.xls;*.xlsx;*.xlsm)</translation>
     </message>
     <message>
         <source>Some opened files have the same names as the files to be merged. To avoid failure in merging, these opened files will be closed. 
@@ -21631,6 +21693,16 @@ the category you want, and then choose the other options.</source>
         <comment>et_sMergeSheet_DecryptFail</comment>
         <translation>解碼失敗，WPS Spreadsheets無法新增檔案。
 (%s)</translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett)</source>
+        <comment>et_sMergeSheet_SelectFileFilter</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Files(*.xls;*.xlsx;*.xlsm;*.csv;*.et;*.ett;*.etx)</source>
+        <comment>et_sMergeSheet_SelectFileFilterEtx</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

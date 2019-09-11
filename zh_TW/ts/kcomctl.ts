@@ -324,6 +324,22 @@
         <source>File is uploading...</source>
         <translation type="obsolete">文件正在同步</translation>
     </message>
+    <message>
+        <source>document %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sheet %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>presentation %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1month%2day%3hour%4minute%5second</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
@@ -486,6 +502,10 @@
     <message>
         <source>Picture Filters</source>
         <translation>圖片篩選</translation>
+    </message>
+    <message>
+        <source>Graphic Styles</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1497,19 +1517,19 @@ This file may have been renamed, deleted or moved.</source>
     <name>KNotFoundFileDlg</name>
     <message>
         <source>%1open file path%2</source>
-        <translation>%1開啟檔案所在資料夾%2</translation>
+        <translation type="obsolete">%1開啟檔案所在資料夾%2</translation>
     </message>
     <message>
         <source>View Backup</source>
-        <translation>尋找備份</translation>
+        <translation type="obsolete">尋找備份</translation>
     </message>
     <message>
         <source>Recover File</source>
-        <translation>復原檔案</translation>
+        <translation type="obsolete">復原檔案</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation>確定</translation>
+        <translation type="obsolete">確定</translation>
     </message>
 </context>
 <context>
@@ -1524,6 +1544,10 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Find commands or Search template</source>
         <translation>尋找命令、搜尋範本</translation>
+    </message>
+    <message>
+        <source>Find Commands</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1637,6 +1661,13 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Service Expired</source>
         <translation>服務已過期</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageShareButton</name>
+    <message>
+        <source>share the file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -156,6 +156,39 @@ Please batches operations</source>
         <source>Save</source>
         <translation>儲存</translation>
     </message>
+    <message>
+        <source>Whether to save the correction fluid coverage area?</source>
+        <comment>_PdfDocument_normal_savescrawlDlg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Whether to save the correction fluid coverage area of text edit?</source>
+        <comment>_PdfDocument_textedit_savescrawlDlg</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslateAll load Fail</source>
+        <comment>_PdDocument_TranslateAllloadFail</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>TranslateionAll plugin Loading, please try angin.</source>
+        <comment>_PdDocument_TransAllPluginLoading</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The size of the inserted image is too large.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>All Pictures(*.jpg;*.jpeg;*.jpe;*.png;*.bmp)|*.jpg;*.jpeg;*.jpe;*.png;*.bmp</source>
+        <comment>PDFAllPictureType</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>PDF Compress loading failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>pdf_pdfuil</name>

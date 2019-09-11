@@ -2126,6 +2126,10 @@ Add-Ins</source>
         <source>WPS Office Homepage</source>
         <translation>WPS官方网站</translation>
     </message>
+    <message>
+        <source>Enter Activation Code</source>
+        <translation>激活产品</translation>
+    </message>
 </context>
 <context>
     <name>popupmenu.KSwitchFaceDlgCommand</name>

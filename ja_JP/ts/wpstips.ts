@@ -4130,12 +4130,16 @@ Automatic table of contents includes text formatted with Heading styles.</source
     </message>
     <message id="DocTranslate.title">
         <source>Full text translation</source>
-        <extracomment>DocTranslate.title</extracomment>
+        <extracomment>DocTranslate.title
+----------
+DocTranslate.title</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="DocTranslate.content">
         <source>Accurately and quickly translate the document into different languages, while preserving the original layout of the document.</source>
-        <extracomment>DocTranslate.content</extracomment>
+        <extracomment>DocTranslate.content
+----------
+DocTranslate.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
     <message id="AddSection.title">
@@ -4293,6 +4297,62 @@ Automatic table of contents includes text formatted with Heading styles.</source
         <source>Add a handwriting to the document.</source>
         <extracomment>Handwriting.content</extracomment>
         <translation type="unfinished"></translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation type="unfinished">設定</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor2.content</extracomment>
+        <translation type="unfinished">▼をクリックすると、色を指定できます</translation>
+    </message>
+    <message id="GraphicLineColor.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor.content">
+        <source>Set the color, width, and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor2.content</extracomment>
+        <translation type="unfinished">図形の外枠の設定します。
+
+▼をクリックすると、色や太さ、スタイルの指定が可能です。</translation>
     </message>
 </context>
 </TS>

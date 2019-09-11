@@ -320,6 +320,22 @@
         <source>Uploading file...</source>
         <translation type="obsolete">Datei hochladen...</translation>
     </message>
+    <message>
+        <source>document %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sheet %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>presentation %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1month%2day%3hour%4minute%5second</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
@@ -482,6 +498,10 @@
     <message>
         <source>Picture Filters</source>
         <translation>Bildfilter</translation>
+    </message>
+    <message>
+        <source>Graphic Styles</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1445,6 +1465,10 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
         <source>Find commands or Search template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Find Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRbQatArrowButton</name>
@@ -1556,6 +1580,13 @@ Diese Datei wurde möglicherweise umbenannt, gelöscht oder verschoben.</transla
     </message>
     <message>
         <source>Service Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageShareButton</name>
+    <message>
+        <source>share the file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

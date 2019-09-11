@@ -4457,6 +4457,11 @@ Try entering some sample data before performing Smart Fill.</source>
         <comment>TX_DuplicateItemsMgr_Progress_Compare</comment>
         <translation>正在比对数据</translation>
     </message>
+    <message>
+        <source>column</source>
+        <comment>TX_JSIDE_ListBox_ColumnName</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>et_et_appcore</name>
@@ -20130,6 +20135,11 @@ To use Flash Fill, enter a couple of examples of the output you&apos;d like to s
         <source>Remind Repeat</source>
         <comment>TX_Undo_RemindRepeat</comment>
         <translation>高亮重复项</translation>
+    </message>
+    <message>
+        <source>TextDirection</source>
+        <comment>TX_Undo_TextDirection</comment>
+        <translation>文字方向</translation>
     </message>
 </context>
 <context>

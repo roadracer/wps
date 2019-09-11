@@ -3082,5 +3082,79 @@ SmartArt 圖形的範圍包括圖形清單及流程圖，甚至於更複雜的�
         <extracomment>DocTranslate.content</extracomment>
         <translation>精準、快速地將文件翻譯成不同語言，同時保留文件原來的版面配置。</translation>
     </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation type="unfinished">詳細設定</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicEffects.title">
+        <source>Graphic Effects</source>
+        <extracomment>GraphicEffects.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicEffects.content">
+        <source>Apply a shadow effect and 3-D effect to the selected graphic.</source>
+        <extracomment>GraphicEffects.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFill.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFill.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFill2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFill2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFill2.content</extracomment>
+        <translation type="unfinished">按一下箭號可選擇不同的填滿效果。</translation>
+    </message>
+    <message id="GraphicLine.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLine.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLine.content">
+        <source>Set the color, width and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLine.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLine2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLine2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLine2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLine2.content</extracomment>
+        <translation type="unfinished">按一下箭號可選擇圖案外框的詳細設定。</translation>
+    </message>
+    <message id="MergeShapes.title">
+        <source>Merge Shapes</source>
+        <extracomment>MergeShapes.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MergeShapes.content">
+        <source>Merge the selected shapes into one or more new geometric shapes.</source>
+        <extracomment>MergeShapes.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

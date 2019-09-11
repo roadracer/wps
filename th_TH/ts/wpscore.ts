@@ -2789,6 +2789,11 @@ Do you want to replace it?</source>
         <comment>_TxTemplate_MediumFull</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Fit text</source>
+        <comment>TxRevision_Chp_FitText</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_err</name>
@@ -2918,6 +2923,31 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <source>WPS Writer cannot turn off design mode because placeholder text in a content control contains invalid items. Placeholder text cannot contain items such as floating objects, revision marks, or content controls. Remove these items from the placeholder text and try again.</source>
         <comment>_TxErr_InvalidPHdrText</comment>
         <translation>WPS Writer ไม่สามารถปิดโหมดการออกแบบได้เนื่องจากข้อความตัวแทนในตัวควบคุมเนื้อหามีรายการที่ไม่ถูกต้อง ข้อความตัวแทนไม่สามารถมีรายการ เช่น วัตถุลอย, เครื่องหมายการแก้ไข หรือตัวควบคุมเนื้อหาได้ ลบรายการเหล่านี้ออกจากข้อความตัวแทนแล้วลองใหม่อีกครั้ง</translation>
+    </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <comment>_TxErr_ScannerDataInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <comment>_TxErr_ScannerJammedPaper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <comment>_TxErr_ScannerNoPaper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner IO Link Error.</source>
+        <comment>_TxErr_ScannerIOError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <comment>_TxErr_LodeLibraryError</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3333,6 +3363,30 @@ Possible reasons:
     <message>
         <source>Document in %s</source>
         <comment>_TxDocument_OnSetHostNames</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <comment>_TxDocument_PastePlaceHolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <comment>_TxDocument_PasteShapeObject</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <comment>_TxDocument_PastePageBreaks</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
+        <comment>_TxDocument_CheckInMsg</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7712,6 +7766,16 @@ Check</source>
     <message>
         <source>Manually Print on Both Sides</source>
         <comment>TxPrintPreview_ManualDuplex</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxCaption_PasteFormatedText</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Formatted Text</source>
+        <comment>TxHint_PasteFormatedText</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>

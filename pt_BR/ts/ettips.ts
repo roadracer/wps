@@ -3559,5 +3559,129 @@ Data Connections are links to data outside of this workbook which can be updated
         <extracomment>EnableMacro.content</extracomment>
         <translation type="unfinished"></translation>
     </message>
+    <message id="MergeSheet.title">
+        <source>Merge Tables</source>
+        <extracomment>MergeSheet.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="MergeSheet.content">
+        <source>Merge multiple sheets to one sheet.</source>
+        <extracomment>MergeSheet.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InteractiveChart.title">
+        <source>Insert Interactive Chart</source>
+        <extracomment>InteractiveChart.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="InteractiveChart.content">
+        <source>Create cool, dynamic, interactive charts to enhance presentation performance.</source>
+        <extracomment>InteractiveChart.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor.content">
+        <source>Fill the selected graphic with a solid color.
+
+Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.title">
+        <source>Graphic Fill</source>
+        <extracomment>GraphicFillColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicFillColor2.content">
+        <source>Click the arrow to select different fill effects.</source>
+        <extracomment>GraphicFillColor2.content</extracomment>
+        <translation type="unfinished">Clique na seta para selecionar diferentes efeitos de preenchimento .</translation>
+    </message>
+    <message id="GraphicLineColor.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor.content">
+        <source>Set the color, width, and line style for the outline of the selected graphic.
+
+Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.title">
+        <source>Graphic Outline</source>
+        <extracomment>GraphicLineColor2.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="GraphicLineColor2.content">
+        <source>Click the arrow to select detailed settings for the outline.</source>
+        <extracomment>GraphicLineColor2.content</extracomment>
+        <translation type="unfinished">Clique na seta para selecionar configurações detalhadas para o contorno.</translation>
+    </message>
+    <message id="FlashFill.title">
+        <source>Flash Fill</source>
+        <extracomment>FlashFill.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="FlashFill.content">
+        <source>Based on the existing example results, the relationship between the result and the original data is intelligently analyzed, and other cells in the same column are filled accordingly.</source>
+        <extracomment>FlashFill.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DuplicateItemsManager.title">
+        <source>Manage Duplicates</source>
+        <extracomment>DuplicateItemsManager.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="DuplicateItemsManager.content">
+        <source>Compares data in one or two regions (including multiple columns) and identifies or extracts duplicate values and unique values in the data.</source>
+        <extracomment>DuplicateItemsManager.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ImportTxt.title">
+        <source>Get External Data From Text</source>
+        <extracomment>ImportTxt.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ImportTxt.content">
+        <source>Import data from a text file.</source>
+        <extracomment>ImportTxt.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <extracomment>LTRTextDirection.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="LTRTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <extracomment>LTRTextDirection.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <extracomment>RTLTextDirection.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="RTLTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <extracomment>RTLTextDirection.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContextTextDirection.title">
+        <source>Context</source>
+        <extracomment>ContextTextDirection.title</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message id="ContextTextDirection.content">
+        <source>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</source>
+        <extracomment>ContextTextDirection.content</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>

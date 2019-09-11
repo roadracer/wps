@@ -1651,9 +1651,10 @@ InsertQRCode.content</extracomment>
         <translation>PPT定制</translation>
     </message>
     <message id="PPTCustom.content">
-        <source>PPTCustom content</source>
+        <source>PPTCustom content.</source>
+        <oldsource>PPTCustom content</oldsource>
         <extracomment>PPTCustom.content</extracomment>
-        <translation>王牌制作团队，为您量身打造专业级PPT。</translation>
+        <translation type="unfinished">王牌制作团队，为您量身打造专业级PPT。</translation>
     </message>
     <message id="InsertProcesson_Mind.title">
         <source>InsertProcesson_Mind</source>
@@ -1699,13 +1700,175 @@ InsertQRCode.content</extracomment>
     </message>
     <message id="JavascriptEditor.title">
         <source>WPS JavaScript Editor</source>
-        <extracomment>JavascriptEditor.title</extracomment>
         <translation>WPS 宏编辑器</translation>
     </message>
     <message id="JavascriptEditor.content">
         <source>Launch WPS JavaScript Editor, and edit Macros.</source>
         <extracomment>JavascriptEditor.content</extracomment>
         <translation>打开WPS 宏编辑器，编辑宏代码</translation>
+    </message>
+    <message id="EquationOptions.title">
+        <source>Equation Options</source>
+        <extracomment>EquationOptions.title</extracomment>
+        <translation>公式选项</translation>
+    </message>
+    <message id="EquationOptions.content">
+        <source>Show the Equation Options dialog box to configure advanced options.</source>
+        <extracomment>EquationOptions.content</extracomment>
+        <translation>显示&quot;公式选项&quot;对话框, 配置高级选项。</translation>
+    </message>
+    <message id="EquationInsertGallery.title">
+        <source>Insert an Equation</source>
+        <extracomment>EquationInsertGallery.title</extracomment>
+        <translation>插入公式</translation>
+    </message>
+    <message id="EquationInsertGallery.content">
+        <source>Add common mathematical equations to your document, such as the area of a circle or the quadratic formula.
+
+You can also build your own equations using the library of math symbols and structures.</source>
+        <extracomment>EquationInsertGallery.content</extracomment>
+        <translation>向文档添加常见数学公式, 例如圆形的面积或二次公式。
+您也可以使用结构构造自己的公式。</translation>
+    </message>
+    <message id="EquationProfessional.title">
+        <source>Professional</source>
+        <extracomment>EquationProfessional.title</extracomment>
+        <translation>专业型</translation>
+    </message>
+    <message id="EquationProfessional.content">
+        <source>Converts selection to 2-dimemsional form for professional display.</source>
+        <extracomment>EquationProfessional.content</extracomment>
+        <translation>将所选内容转换为二维形式以便进行专业化显示。</translation>
+    </message>
+    <message id="EquationLinearFormat.title">
+        <source>Linear</source>
+        <extracomment>EquationLinearFormat.title</extracomment>
+        <translation>线性</translation>
+    </message>
+    <message id="EquationLinearFormat.content">
+        <source>Converts selection to a 1-dimensional form for easy editing.</source>
+        <extracomment>EquationLinearFormat.content</extracomment>
+        <translation>将所选内容转换为一维形式以便编辑。</translation>
+    </message>
+    <message id="EquationNormalText.title">
+        <source>Normal Text</source>
+        <extracomment>EquationNormalText.title</extracomment>
+        <translation>普通文本</translation>
+    </message>
+    <message id="EquationNormalText.content">
+        <source>Use non-math text in a math region.</source>
+        <extracomment>EquationNormalText.content</extracomment>
+        <translation>在数学区域使用非数学文本。</translation>
+    </message>
+    <message id="EquationFractionGallery.title">
+        <source>Fraction</source>
+        <extracomment>EquationFractionGallery.title</extracomment>
+        <translation>分数</translation>
+    </message>
+    <message id="EquationFractionGallery.content">
+        <source>Add a fraction to the equation.</source>
+        <extracomment>EquationFractionGallery.content</extracomment>
+        <translation>在公式中添加分数。</translation>
+    </message>
+    <message id="EquationScriptGallery.title">
+        <source>Script</source>
+        <extracomment>EquationScriptGallery.title</extracomment>
+        <translation>上下标</translation>
+    </message>
+    <message id="EquationScriptGallery.content">
+        <source>Add a subscript or superscript to the equation.</source>
+        <extracomment>EquationScriptGallery.content</extracomment>
+        <translation>在公式中添加上标和下标。</translation>
+    </message>
+    <message id="EquationRadicalGallery.title">
+        <source>Radical</source>
+        <extracomment>EquationRadicalGallery.title</extracomment>
+        <translation>根式</translation>
+    </message>
+    <message id="EquationRadicalGallery.content">
+        <source>Add a radical to the equation.</source>
+        <extracomment>EquationRadicalGallery.content</extracomment>
+        <translation>在公式中添加根式。</translation>
+    </message>
+    <message id="EquationIntegralGallery.title">
+        <source>Integral</source>
+        <extracomment>EquationIntegralGallery.title</extracomment>
+        <translation>积分</translation>
+    </message>
+    <message id="EquationIntegralGallery.content">
+        <source>Add an integral to the equation.</source>
+        <extracomment>EquationIntegralGallery.content</extracomment>
+        <translation>在公式中添加积分。</translation>
+    </message>
+    <message id="EquationLargeOperatorGallery.title">
+        <source>Large Operator</source>
+        <extracomment>EquationLargeOperatorGallery.title</extracomment>
+        <translation>大型运算符</translation>
+    </message>
+    <message id="EquationLargeOperatorGallery.content">
+        <source>Add a large operator to the equation, such as a summation, product, union, or intersection.</source>
+        <extracomment>EquationLargeOperatorGallery.content</extracomment>
+        <translation>在公式中添加大型运算符, 如求和、乘积、并集或交集。</translation>
+    </message>
+    <message id="EquationDelimiterGallery.title">
+        <source>Bracket</source>
+        <extracomment>EquationDelimiterGallery.title</extracomment>
+        <translation>括号</translation>
+    </message>
+    <message id="EquationDelimiterGallery.content">
+        <source>Add a delimiter to the equation.</source>
+        <extracomment>EquationDelimiterGallery.content</extracomment>
+        <translation>在公式中添加分隔符。</translation>
+    </message>
+    <message id="EquationFunctionGallery.title">
+        <source>Function</source>
+        <extracomment>EquationFunctionGallery.title</extracomment>
+        <translation>函数</translation>
+    </message>
+    <message id="EquationFunctionGallery.content">
+        <source>Add a trigonometric function to the equation.</source>
+        <extracomment>EquationFunctionGallery.content</extracomment>
+        <translation>在公式中添加三角函数。</translation>
+    </message>
+    <message id="EquationAccentGallery.title">
+        <source>Accent</source>
+        <extracomment>EquationAccentGallery.title</extracomment>
+        <translation>导数符号</translation>
+    </message>
+    <message id="EquationAccentGallery.content">
+        <source>Add an accent mark to the equation.</source>
+        <extracomment>EquationAccentGallery.content</extracomment>
+        <translation>在公式中添加导数符号。</translation>
+    </message>
+    <message id="EquationLimitGallery.title">
+        <source>Limit and Log</source>
+        <extracomment>EquationLimitGallery.title</extracomment>
+        <translation>极限和对数</translation>
+    </message>
+    <message id="EquationLimitGallery.content">
+        <source>Add a limit or log function to the equation.</source>
+        <extracomment>EquationLimitGallery.content</extracomment>
+        <translation>在公式中添加极限或对数函数。</translation>
+    </message>
+    <message id="EquationOperatorGallery.title">
+        <source>Operator</source>
+        <extracomment>EquationOperatorGallery.title</extracomment>
+        <translation>运算符</translation>
+    </message>
+    <message id="EquationOperatorGallery.content">
+        <source>Add an operator to the equation.</source>
+        <extracomment>EquationOperatorGallery.content</extracomment>
+        <translation>在公式中添加运算符。</translation>
+    </message>
+    <message id="EquationMatrixGallery.title">
+        <source>Matrix</source>
+        <extracomment>EquationMatrixGallery.title</extracomment>
+        <translation>矩阵</translation>
+    </message>
+    <message id="EquationMatrixGallery.content">
+        <source>Add a matrix to the equation.</source>
+        <extracomment>EquationMatrixGallery.content</extracomment>
+        <translation>在公式中添加矩阵。</translation>
     </message>
 </context>
 </TS>

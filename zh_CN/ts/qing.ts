@@ -1128,7 +1128,7 @@ Time for upgrade: %1</source>
     </message>
     <message>
         <source>Transfering file. Logout will terminate the tansfer. Are you sure to sign out?</source>
-        <translation>当前有文件正在传输，注销后传输将被终止. 确定要注销吗？</translation>
+        <translation type="obsolete">当前有文件正在传输，注销后传输将被终止. 确定要注销吗？</translation>
     </message>
     <message>
         <source>space limit</source>
@@ -1988,6 +1988,10 @@ network error</source>
         <source>WPS Nse Cloud Root Name</source>
         <translation>WPS网盘</translation>
     </message>
+    <message>
+        <source>%1.%2.%3.%4</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>batchuploaddlg</name>
@@ -2590,6 +2594,10 @@ Free Space: about %1 MB</source>
     <message>
         <source>Add share file to WPS cloud doc menu item on the right menu</source>
         <translation>增加&quot;WPS云文档 - 分享文档&quot;菜单项</translation>
+    </message>
+    <message>
+        <source>Add &apos;share file to WPS Cloud document&apos; menu item on the right menu</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3351,7 +3359,7 @@ Download to the computer and keep the latest version.</source>
     </message>
     <message>
         <source>To retain the caching data of WPS Cloud Disk</source>
-        <translation>保留WPS网盘缓存数据</translation>
+        <translation type="obsolete">保留WPS网盘缓存数据</translation>
     </message>
     <message>
         <source>To retain the configs so that you can use them next time you log on</source>
@@ -4036,7 +4044,7 @@ password:%1</source>
     </message>
     <message>
         <source>After switching on, enter the cloud document folder, the file is automatically downloaded, no manual operation.</source>
-        <translation>开启后，进入云文档文件夹，里面的文件自动下载，不需要手动操作。</translation>
+        <translation type="obsolete">开启后，进入云文档文件夹，里面的文件自动下载，不需要手动操作。</translation>
     </message>
     <message>
         <source>Transfer Bubble:</source>

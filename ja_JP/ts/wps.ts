@@ -5968,7 +5968,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>最近使用したファイルの一覧(&amp;R):</translation>
+        <translation type="obsolete">最近使用したファイルの一覧(&amp;R):</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -6012,7 +6012,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>個(&amp;E)</translation>
+        <translation type="obsolete">個(&amp;E)</translation>
     </message>
     <message>
         <source>(None)</source>
@@ -6605,7 +6605,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>Recent Documents</source>
-        <translation>最近使用した文書</translation>
+        <translation type="obsolete">最近使用した文書</translation>
     </message>
     <message>
         <source>Recent documents</source>
@@ -6801,7 +6801,7 @@ Example: +4 will move forward four items:</source>
     </message>
     <message>
         <source>ch, 0, 0, 100, 1</source>
-        <translation>ch, 0, 0, 100, 1</translation>
+        <translation type="obsolete">ch, 0, 0, 100, 1</translation>
     </message>
     <message>
         <source>ch, 0, 0, 120, 1</source>
@@ -7052,7 +7052,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>D&amp;ocument fields</source>
-        <translation>ドキュメントフィールド(&amp;O)</translation>
+        <translation type="obsolete">ドキュメントフィールド(&amp;O)</translation>
     </message>
     <message>
         <source>Compatibility options</source>
@@ -7384,6 +7384,39 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>ScreenSaver Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document fields(&amp;Z):</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Document Fields</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Document Fields Without Background</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Enable middle button paste</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>open &amp;chinese spelling check</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8444,6 +8477,14 @@ The Advanced button allows you to choose from different encryption types.</sourc
     <message>
         <source>Add receiver(&amp;R)</source>
         <translation>受信者を追加(&amp;R)</translation>
+    </message>
+    <message>
+        <source>PageSet&amp;up...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Green Pri&amp;nt:</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12411,6 +12452,10 @@ Cancel:	Return to the dialog.</source>
         <source>Advanced authorization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxOutlineNumberDlg</name>
@@ -12764,6 +12809,38 @@ This change will affect all new documents based on the %1 template.</source>
     <message>
         <source>Print permissions error!</source>
         <translation>印刷権限エラー!</translation>
+    </message>
+    <message>
+        <source>Default Current Page Margins</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Changes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 2 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 12% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1.5 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 18% on paper</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Page Margins are 1 CM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save about 23% on paper</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -18163,19 +18240,31 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>What is Auto Roaming</source>
-        <translation>自動ローミングとは？</translation>
+        <translation type="obsolete">自動ローミングとは？</translation>
     </message>
     <message>
         <source>you also reference this document when login on another deviec</source>
-        <translation>後で、他の端末でログインする、このファイルを閲覧/編集することができます。</translation>
+        <translation type="obsolete">後で、他の端末でログインする、このファイルを閲覧/編集することができます。</translation>
     </message>
     <message>
         <source>we update your modification on time</source>
-        <translation>そして、ローカルとクラウド側の変更を自動的に同期します。</translation>
+        <translation type="obsolete">そして、ローカルとクラウド側の変更を自動的に同期します。</translation>
     </message>
     <message>
         <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>［自動ローミング］をオンにすると、開いたファイルが自動的にクラウドに保存されます。</translation>
+        <translation type="obsolete">［自動ローミング］をオンにすると、開いたファイルが自動的にクラウドに保存されます。</translation>
+    </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -19410,7 +19499,7 @@ remove the schema with the duplicate URI, and then add the schema you specified.
     </message>
     <message>
         <source>sy_selfdefine</source>
-        <translation>透かしのユーザー設定</translation>
+        <translation type="obsolete">透かしのユーザー設定</translation>
     </message>
     <message>
         <source>input chinese sy info tips part1</source>
@@ -20807,6 +20896,10 @@ represent the recipient&apos;s information content</source>
         <source>&amp;Remove</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>New &amp;text width:</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxFitTextDlg</name>
@@ -20820,7 +20913,298 @@ represent the recipient&apos;s information content</source>
     </message>
     <message>
         <source>%1 %2</source>
-        <translation type="unfinished">%1 %2</translation>
+        <translation type="obsolete">%1 %2</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationAlignmentAndSpacing</name>
+    <message>
+        <source>%1 Alignment and Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Alignment of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Top</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Bottom</source>
+        <translation type="unfinished">下揃え(&amp;B)</translation>
+    </message>
+    <message>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:11pt; font-style:italic; color:#ff0000;&quot;&gt;A &lt;/span&gt;&lt;span style=&quot; font-size:11pt; color:#ff0000;&quot;&gt;=&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Row Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Single</source>
+        <translation type="unfinished">1行</translation>
+    </message>
+    <message>
+        <source>1.5 Lines</source>
+        <translation type="unfinished">1.5行</translation>
+    </message>
+    <message>
+        <source>Double</source>
+        <translation type="unfinished">2行</translation>
+    </message>
+    <message>
+        <source>Exactly</source>
+        <translation type="unfinished">固定値</translation>
+    </message>
+    <message>
+        <source>Multiple</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>multiple, 2, 0.06, 132, 0.5</source>
+        <translation type="unfinished">倍数, 2, 0.06, 132, 0.5</translation>
+    </message>
+    <message>
+        <source>pt, 2, 0, 1584, 6</source>
+        <translation type="unfinished">pt, 2, 0, 1584, 6</translation>
+    </message>
+    <message>
+        <source>Minimum distan&amp;nce between column edges:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Minimum distance between baselines:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Column Spacing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minimum &amp;distance between columns:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">標準</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Display Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When building up integrals,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place integral limits to the &amp;side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place integral limits centered above and belo&amp;w</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When building up other n-ary operators,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place n-ary limi&amp;ts to the side</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Place n-ary limits directly abo&amp;ve and below</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Use the following settings for math on its own line.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Left Margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>in, 2, 0, 22, 0.1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ri&amp;ght Margin:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Math margins are added to paragraph margins.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Justification:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Left</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Center</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Right</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Centered as group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>For math that wraps to a new line:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Indent wrapped lines by:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rig&amp;ht align wrapped lines</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Defauls ...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxEquationAlignmentAndSpacingDlg</name>
+    <message>
+        <source>Matrix</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Equation Array</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Array</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWpsEquationOptionsDlg</name>
+    <message>
+        <source>This change will affect all new documents based on the NORMAL template.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Template is missing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save failed.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

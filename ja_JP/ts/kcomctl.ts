@@ -320,6 +320,22 @@
         <source>Uploading file...</source>
         <translation type="obsolete">ファイルのアップロード中です</translation>
     </message>
+    <message>
+        <source>document %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sheet %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>presentation %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1month%2day%3hour%4minute%5second</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KDocTabbarEx</name>
@@ -478,6 +494,10 @@
     <message>
         <source>Shape Styles</source>
         <translation>オブジェクトのスタイル</translation>
+    </message>
+    <message>
+        <source>Graphic Styles</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1524,6 +1544,10 @@ This file may have been renamed, deleted or moved.</source>
         <source>Find commands or Search template</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Find Commands</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KRbQatArrowButton</name>
@@ -1636,6 +1660,13 @@ This file may have been renamed, deleted or moved.</source>
     <message>
         <source>Service Expired</source>
         <translation>サービスが期限切れ</translation>
+    </message>
+</context>
+<context>
+    <name>KFilePageShareButton</name>
+    <message>
+        <source>share the file</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

@@ -142,35 +142,35 @@ Click to view online templates</source>
     <name>KMainthreadWorker</name>
     <message>
         <source>Other PC</source>
-        <translation type="obsolete">其他电脑</translation>
+        <translation type="unfinished">其他电脑</translation>
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="obsolete">桌面</translation>
+        <translation type="unfinished">桌面</translation>
     </message>
     <message>
         <source>Downloads</source>
-        <translation type="obsolete">下载</translation>
+        <translation type="unfinished">下载</translation>
     </message>
     <message>
         <source>QQ FileRecv</source>
-        <translation type="obsolete">QQ收到的文件</translation>
+        <translation type="unfinished">QQ收到的文件</translation>
     </message>
     <message>
         <source>Documents%1</source>
-        <translation type="obsolete">文档%1</translation>
+        <translation type="unfinished">文档%1</translation>
     </message>
     <message>
         <source>Apple Device</source>
-        <translation type="obsolete">苹果设备</translation>
+        <translation type="unfinished">苹果设备</translation>
     </message>
     <message>
         <source>Android Device</source>
-        <translation type="obsolete">安卓设备</translation>
+        <translation type="unfinished">安卓设备</translation>
     </message>
     <message>
         <source>Wechat File</source>
-        <translation type="obsolete">微信收到的文件</translation>
+        <translation type="unfinished">微信收到的文件</translation>
     </message>
 </context>
 <context>

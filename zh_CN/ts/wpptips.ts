@@ -2449,12 +2449,12 @@ Click the arrow to select a different text color.</source>
     <message id="CreativeCrop.title">
         <source>Creative Crop</source>
         <extracomment>CreativeCrop.title</extracomment>
-        <translation>创意裁剪</translation>
+        <translation type="obsolete">创意裁剪</translation>
     </message>
     <message id="CreativeCrop.content">
         <source>Creative one-button application of image cutting effect to make your picture more &quot;design sense&quot;.</source>
         <extracomment>CreativeCrop.content</extracomment>
-        <translation>创意十足的图片裁剪效果一键应用，让你的图片更有“设计感”。
+        <translation type="obsolete">创意十足的图片裁剪效果一键应用，让你的图片更有“设计感”。
 
 轻松修改裁剪创意，让你的PPT与众不同。</translation>
     </message>
@@ -3132,6 +3132,16 @@ Click the arrow to select detailed settings for the outline.</source>
         <source>Click the arrow to select detailed settings for the outline.</source>
         <extracomment>GraphicLine2.content</extracomment>
         <translation>单击箭头选择图形轮廓的详细设置。</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.title">
+        <source>Settings</source>
+        <extracomment>DetailedSettingsList_EquationTools.title</extracomment>
+        <translation>详细设置</translation>
+    </message>
+    <message id="DetailedSettingsList_EquationTools.content">
+        <source>Change the settings of Equations.</source>
+        <extracomment>DetailedSettingsList_EquationTools.content</extracomment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

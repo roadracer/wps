@@ -1976,7 +1976,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>&amp;Recently used file list:</source>
-        <translation>最近使用したファイルの一覧(&amp;U)</translation>
+        <translation type="obsolete">最近使用したファイルの一覧(&amp;U)</translation>
     </message>
     <message>
         <source>&amp;Reenter password:</source>
@@ -2232,7 +2232,7 @@ If necessary, click Cancel</source>
     </message>
     <message>
         <source>&amp;entries</source>
-        <translation>個(&amp;E)</translation>
+        <translation type="obsolete">個(&amp;E)</translation>
     </message>
     <message>
         <source>Enable &amp;timing backup</source>
@@ -2285,7 +2285,7 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>Caution: please keep your password properly. File will never be recovered if you lose or forget the password.(Remember that passwords are case-sensitive.)</source>
-        <translation>注意：パスワードを失くしたり忘れると、元に戻すことができません（パスワードの大文字と小文字は区別されます）</translation>
+        <translation type="obsolete">注意：パスワードを失くしたり忘れると、元に戻すことができません（パスワードの大文字と小文字は区別されます）</translation>
     </message>
     <message>
         <source>Spell Check</source>
@@ -2573,6 +2573,39 @@ The Advanced button allows you to choose from different encryption types.</sourc
     </message>
     <message>
         <source>PushButton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>F&amp;ont Substitution...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Editing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max U&amp;ndo/Redo:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Steps(Need restart program)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open roaming file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Printing options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;High quality printing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Caution: Choose a password you can remember. If you lose or forget the password, it cannot be recovered.  
+Remember that passwords are case-sensitive. The password for editing cannot contain over 15 characters.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4308,6 +4341,14 @@ This wizard will help you to understand the various settings of the double-scree
         <source>Advanced authorization</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>File Path: WPS CloudFile\Cloud BackUp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Undo/Redo steps must be between %1 and %2.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KxPackageBaseCommand</name>
@@ -4715,7 +4756,7 @@ This wizard will help you to understand the various settings of the double-scree
     <name>KxTpSlideDesignWidget</name>
     <message>
         <source>Animation Schemes</source>
-        <translation>アニメーションをまとめて設定</translation>
+        <translation type="obsolete">アニメーションをまとめて設定</translation>
     </message>
     <message>
         <source>Browse...</source>
@@ -7535,19 +7576,31 @@ Sure to close?</source>
     <name>KxBackupRoamingSettingTipWidget</name>
     <message>
         <source>What is Auto Roaming</source>
-        <translation>自動ローミングとは？</translation>
+        <translation type="obsolete">自動ローミングとは？</translation>
     </message>
     <message>
         <source>you also reference this document when login on another deviec</source>
-        <translation>他のデバイスでログインし、そのファイルを閲覧/編集することができます。</translation>
+        <translation type="obsolete">他のデバイスでログインし、そのファイルを閲覧/編集することができます。</translation>
     </message>
     <message>
         <source>we update your modification on time</source>
-        <translation>ローカルとクラウド側の変更は自動的に同期されます。</translation>
+        <translation type="obsolete">ローカルとクラウド側の変更は自動的に同期されます。</translation>
     </message>
     <message>
         <source>open roaming file, and local file would be saved on cloud.</source>
-        <translation>「自動ローミング」をオンにすると、WPS Officeで開いたローカル上のファイルが自動的にクラウドに保存されます。</translation>
+        <translation type="obsolete">「自動ローミング」をオンにすると、WPS Officeで開いたローカル上のファイルが自動的にクラウドに保存されます。</translation>
+    </message>
+    <message>
+        <source>open roaming file, edit document with WPS, login on other device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>with current account, you can read/eidt the document from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>WPS recent files or &amp;lt;CloudFile--AutoUploadFile&amp;gt;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7732,7 +7785,7 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     </message>
     <message>
         <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff</source>
-        <translation>すべての画像(*.emf, *.wmf, *.jpt, *.jpeg, *.jpe, *.png, *.bmp, *.gif, *.tif, *.tiff)|*.emf, *.wmf, *.jpg, *.jpeg, *.jpe, *.png, *.bmp, *.gif, *.tif, *.tiff</translation>
+        <translation type="obsolete">すべての画像(*.emf, *.wmf, *.jpt, *.jpeg, *.jpe, *.png, *.bmp, *.gif, *.tif, *.tiff)|*.emf, *.wmf, *.jpg, *.jpeg, *.jpe, *.png, *.bmp, *.gif, *.tif, *.tiff</translation>
     </message>
     <message>
         <source>Windows Enhanced Metafile(*.emf)|*.emf</source>
@@ -7762,6 +7815,10 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Tag Image File Format(*.tif;*.tiff)|*.tif;*.tiff</source>
         <translation>TIFF 形式(*.tif, *.tiff)|*.tif, *.tiff</translation>
+    </message>
+    <message>
+        <source>All Pictures(*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg)|*.emf;*.wmf;*.jpg;*.jpeg;*.jpe;*.png;*.bmp;*.gif;*.tif;*.tiff;*.svg</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8082,6 +8139,139 @@ Note that compressing pictures may reduce the quality of your pictures. Do you w
     <message>
         <source>Select animation style:</source>
         <translation type="obsolete">アニメーションスタイルの選択:</translation>
+    </message>
+</context>
+<context>
+    <name>KxDlgEquationOptions</name>
+    <message>
+        <source>Equation Options</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>General</source>
+        <translation type="unfinished">標準</translation>
+    </message>
+    <message>
+        <source>Default &amp;font for math regions:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cambria Math</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Automatically convert expressions to professional format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reduce si&amp;ze of nested fractions in display equations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>When copying an equation,</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy MathML to the clipboard as &amp;plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy Li&amp;near Format to the clipboard as plain text</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>B&amp;reak lines with binary and relational operators:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Before</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>After</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Duplicate operators for subtraction as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>--</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>+-</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>-+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished">OK</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished">キャンセル</translation>
+    </message>
+</context>
+<context>
+    <name>KxFontSubstitutionDlg</name>
+    <message>
+        <source>Font substitutions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Convert &amp;Permanently...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Missing document font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Missing document font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&amp;Substituted font:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtituted font</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No font substitution is necessary. All fonts used in this document are available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot; will be displayed and printed using &quot;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&quot;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Do you want to permanently convert all the missing fonts in this document to their substitute fonts?</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KxWppAuthorizedExpirationCommand</name>
+    <message>
+        <source>Authorized Expiration</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>

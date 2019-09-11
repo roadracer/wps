@@ -3213,6 +3213,31 @@ Use the &apos;Find Next Region I Can Edit&apos; button to show each region indiv
         <comment>_TxErr_InvalidPHdrText</comment>
         <translation>WPS Writer 無法關閉設計模式，因為內容控制項的預留位置文字包含無效的項目。預留位置文字不能包含例如浮動物件、修訂標記或內容控制項等項目。請從預留位置文字移除這些項目，然後再試一次。</translation>
     </message>
+    <message>
+        <source>Scanner Data Is Invalid (Includes No Dev At Open).</source>
+        <comment>_TxErr_ScannerDataInvalid</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner Document Feeder Jammed.</source>
+        <comment>_TxErr_ScannerJammedPaper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner No Paper.</source>
+        <comment>_TxErr_ScannerNoPaper</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Scanner IO Link Error.</source>
+        <comment>_TxErr_ScannerIOError</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No SANE library.</source>
+        <comment>_TxErr_LodeLibraryError</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wps_wpscore_persist</name>
@@ -3819,6 +3844,25 @@ Possible reasons:
         <source>Before you check in, Other users can&apos;t see your changes. Whether to check in?</source>
         <comment>_TxDocument_CheckInMsg</comment>
         <translation>在您簽入之前，其他使用者看不到您的變更。要現在簽入嗎？</translation>
+    </message>
+    <message>
+        <source>Pasting paragraph marks or break characters in math objects will be lost.</source>
+        <comment>_TxDocument_PastePlaceHolder</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting drawn objects in math will be lost.</source>
+        <comment>_TxDocument_PasteShapeObject</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pasting page breaks in math will be lost.</source>
+        <comment>_TxDocument_PastePageBreaks</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>*.wps; *.wpt; *.doc; *.dot; *.docx; *.dotx; *.docm; *.dotm; *.et; *.ett; *.xls; *.xlt; *.xlsx; *.xlsm; *.xltx; *.xltm; *.xlsb; *.dps; *.dpt; *.ppt; *.pps; *.pot; *.pptx; *.ppsx; *.potx; *.pdf</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

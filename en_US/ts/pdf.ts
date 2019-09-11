@@ -229,15 +229,15 @@ It may have been renamed, deleted or moved.</translation>
     <name>KxDrTipContentWidget</name>
     <message>
         <source>Encrypted document input password</source>
-        <translation>File has been encrypted. Edit and print are forbidden. Enter password to enable?</translation>
+        <translation type="obsolete">File has been encrypted. Edit and print are forbidden. Enter password to enable?</translation>
     </message>
     <message>
         <source>No more tips</source>
-        <translation>Don&apos;t remind me again</translation>
+        <translation type="obsolete">Don&apos;t remind me again</translation>
     </message>
     <message>
         <source>input password</source>
-        <translation>Enter password</translation>
+        <translation type="obsolete">Enter password</translation>
     </message>
     <message>
         <source>PRINT</source>
@@ -253,7 +253,7 @@ It may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>EDITANNOT</source>
-        <translation>ANNOTATIONS</translation>
+        <translation type="obsolete">ANNOTATIONS</translation>
     </message>
     <message>
         <source>EXTRACT</source>
@@ -265,15 +265,15 @@ It may have been renamed, deleted or moved.</translation>
     </message>
     <message>
         <source>Authority Separator</source>
-        <translation>,</translation>
+        <translation type="obsolete">,</translation>
     </message>
     <message>
         <source>The current document is encrypted</source>
-        <translation>This file has been encrypted.</translation>
+        <translation type="obsolete">This file has been encrypted.</translation>
     </message>
     <message>
         <source>Do you want to enter password open</source>
-        <translation>Feature disabled. Enter password to enable?</translation>
+        <translation type="obsolete">Feature disabled. Enter password to enable?</translation>
     </message>
 </context>
 <context>
@@ -3432,6 +3432,53 @@ It may have been renamed, deleted or moved.</translation>
     <message>
         <source>30.58M</source>
         <translation></translation>
+    </message>
+</context>
+<context>
+    <name>PDFTipWidget::KxDrTipContentWidget</name>
+    <message>
+        <source>Encrypted document input password</source>
+        <translation type="unfinished">File has been encrypted. Edit and print are forbidden. Enter password to enable?</translation>
+    </message>
+    <message>
+        <source>No more tips</source>
+        <translation type="unfinished">Don&apos;t remind me again</translation>
+    </message>
+    <message>
+        <source>input password</source>
+        <translation type="unfinished">Enter password</translation>
+    </message>
+    <message>
+        <source>PRINT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>MODIFY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>COPYTEXT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>EDITANNOT</source>
+        <translation type="unfinished">ANNOTATIONS</translation>
+    </message>
+    <message>
+        <source>ASSEMBLE</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Authority Separator</source>
+        <translation type="unfinished">,</translation>
+    </message>
+    <message>
+        <source>The current document is encrypted</source>
+        <translation type="unfinished">This file has been encrypted.</translation>
+    </message>
+    <message>
+        <source>Do you want to enter password open</source>
+        <translation type="unfinished">Feature disabled. Enter password to enable?</translation>
     </message>
 </context>
 </TS>

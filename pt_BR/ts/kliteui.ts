@@ -547,4 +547,53 @@
         <translation type="unfinished"></translation>
     </message>
 </context>
+<context>
+    <name>KLiteQrCodeWidget</name>
+    <message>
+        <source>If you have any question, please call WPS Customer Service 400-677-5005, or scan the left QR code</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLiteTrialReminderCommentWidget</name>
+    <message>
+        <source>some features of this software is limited.Please contact your IT manager to get the latest authorization soon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Please contact your IT administrator for new software authorization as soon as possible.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We are so sorry to tell you:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authorize of this software were expired on </source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLiteTrialReminderDlg</name>
+    <message>
+        <source>Trial Expired</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can try the WPS Office for %1 days</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>preview mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Start Trial</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
 </TS>

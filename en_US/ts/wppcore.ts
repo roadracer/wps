@@ -6216,6 +6216,11 @@ Do you want to change the folder name from &quot;%s&quot;  into &quot;%s&quot;?<
         <comment>wpp_sMasterSliderNumber</comment>
         <translation></translation>
     </message>
+    <message>
+        <source>In the %s Show</source>
+        <comment>wpp_sOleObjectInShow</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>wpp_wppuil</name>

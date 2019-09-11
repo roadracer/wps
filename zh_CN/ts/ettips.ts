@@ -3615,5 +3615,35 @@ Click the arrow to select detailed settings for the outline.</source>
         <extracomment>ImportTxt.content</extracomment>
         <translation>从文本文件导入数据。</translation>
     </message>
+    <message id="LTRTextDirection.title">
+        <source>Left-to-Right Text Direction</source>
+        <extracomment>LTRTextDirection.title</extracomment>
+        <translation>从左向右文字方向</translation>
+    </message>
+    <message id="LTRTextDirection.content">
+        <source>Set the text to read from left to right.</source>
+        <extracomment>LTRTextDirection.content</extracomment>
+        <translation>将文本设置为从左到右读取。</translation>
+    </message>
+    <message id="RTLTextDirection.title">
+        <source>Right-to-Left Text Direction</source>
+        <extracomment>RTLTextDirection.title</extracomment>
+        <translation>从右向左文字方向</translation>
+    </message>
+    <message id="RTLTextDirection.content">
+        <source>Set the text to read from right to left.</source>
+        <extracomment>RTLTextDirection.content</extracomment>
+        <translation>将文本设置为从右到左阅读。</translation>
+    </message>
+    <message id="ContextTextDirection.title">
+        <source>Context</source>
+        <extracomment>ContextTextDirection.title</extracomment>
+        <translation>上下文</translation>
+    </message>
+    <message id="ContextTextDirection.content">
+        <source>Allow WPS Spreedsheets to choose the paragraph direction based on the lanuage that is being typed.</source>
+        <extracomment>ContextTextDirection.content</extracomment>
+        <translation>允许 WPS 表格 根据键入的语言选择段落方向。</translation>
+    </message>
 </context>
 </TS>

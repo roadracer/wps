@@ -1607,19 +1607,19 @@ Average</source>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; successful</source>
-        <translation>下载云字体 &quot;%1&quot; 成功</translation>
+        <translation type="obsolete">下载云字体 &quot;%1&quot; 成功</translation>
     </message>
     <message>
         <source>Download cloud font &quot;%1&quot; failed</source>
-        <translation>下载云字体 &quot;%1&quot; 失败</translation>
+        <translation type="obsolete">下载云字体 &quot;%1&quot; 失败</translation>
     </message>
     <message>
         <source>Downloading cloud font, click the font list to see more detail.</source>
-        <translation>正在下载云字体，点击字体列表可查看详情</translation>
+        <translation type="obsolete">正在下载云字体，点击字体列表可查看详情</translation>
     </message>
     <message>
         <source>DownLoad cloud font &quot;%1&quot; Successful. (Restart to take effect)</source>
-        <translation>下载云字体 &quot;%1&quot; 成功(重启生效)</translation>
+        <translation type="obsolete">下载云字体 &quot;%1&quot; 成功(重启生效)</translation>
     </message>
 </context>
 <context>
@@ -2181,7 +2181,7 @@ Average</source>
     </message>
     <message>
         <source>My Documents</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我的文档</translation>
     </message>
     <message>
         <source>Computer</source>
@@ -2193,7 +2193,7 @@ Average</source>
     </message>
     <message>
         <source>WPS Remote</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">WPS云文档</translation>
     </message>
     <message>
         <source>Document Roaming</source>
@@ -2201,11 +2201,11 @@ Average</source>
     </message>
     <message>
         <source>Private Space</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我的云文档</translation>
     </message>
     <message>
         <source>My Circle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">我的团队</translation>
     </message>
     <message>
         <source>Quick Disk</source>
@@ -2630,11 +2630,11 @@ Average</source>
     </message>
     <message>
         <source>OK</source>
-        <translation>确定</translation>
+        <translation type="obsolete">确定</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>取消</translation>
+        <translation type="obsolete">取消</translation>
     </message>
 </context>
 <context>
@@ -3735,7 +3735,7 @@ Average</source>
         <source>Beijing Kingsoft Office Software Co., Ltd.
 Zhuhai Kingsoft Office Software Co., Ltd.
 Tianjin KYLIN Information Technology Co., Ltd.</source>
-        <translation>北京金山办公软件股份有限公司
+        <translation type="obsolete">北京金山办公软件股份有限公司
 珠海金山办公软件有限公司
 天津麒麟信息技术有限公司</translation>
     </message>
@@ -3764,6 +3764,16 @@ Wuhan Kingsoft Office Software Co., Ltd.</source>
     <message>
         <source>Product inactivation</source>
         <translation>产品已激活</translation>
+    </message>
+    <message>
+        <source>Zhuhai Kingsoft Office Software Co., Ltd.\nTianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation type="obsolete">珠海金山办公软件有限公司和天津麒麟信息技术有限公司</translation>
+    </message>
+    <message>
+        <source>Zhuhai Kingsoft Office Software Co., Ltd.
+Tianjin KYLIN Information Technology Co., Ltd.</source>
+        <translation>珠海金山办公软件有限公司
+天津麒麟信息技术有限公司</translation>
     </message>
 </context>
 <context>
@@ -7019,6 +7029,34 @@ Double-click or use the popup menu to open the file. This will clear the selecti
         <source>about:blank</source>
         <translation></translation>
     </message>
+    <message>
+        <source>I &amp;Cancel</source>
+        <translation>取消(&amp;D)</translation>
+    </message>
+    <message>
+        <source>I &amp;Confirm</source>
+        <translation>确定(&amp;A)</translation>
+    </message>
+    <message>
+        <source>Kingsoft Office Software License Agreement and Privacy Agreement</source>
+        <translation>金山办公软件许可协议和隐私协议</translation>
+    </message>
+    <message>
+        <source>License Agreement</source>
+        <translation>许可协议</translation>
+    </message>
+    <message>
+        <source>Privacy Agreement</source>
+        <translation>隐私协议</translation>
+    </message>
+    <message>
+        <source>Have read and agreed to Jinshan Office Software</source>
+        <translation>已阅读并同意金山办公软件</translation>
+    </message>
+    <message>
+        <source>and</source>
+        <translation>和</translation>
+    </message>
 </context>
 <context>
     <name>KxExternalPushService</name>
@@ -7467,7 +7505,7 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     <name>KxFontsGalleryRecommendTip</name>
     <message>
         <source>See details</source>
-        <translation>查看详情</translation>
+        <translation type="obsolete">查看详情</translation>
     </message>
     <message>
         <source>The present document use the %1 font, in order to ensure the use experience, suggest that you download the above cloud font.</source>
@@ -7499,19 +7537,19 @@ Invalid record. This file may have been renamed, deleted or moved.</source>
     </message>
     <message>
         <source>This document uses cloud font &quot;%1&quot;. For your convenience, please download this cloud font.</source>
-        <translation>当前文档使用了“%1”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot; and &quot;%2&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”、“%2”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”、“%2”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”、“%2”、“%3”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”、“%2”、“%3”云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
     <message>
         <source>This document uses cloud fonts &quot;%1&quot;, &quot;%2&quot;, and &quot;%3&quot;, etc. For your convenience, please download these cloud fonts.</source>
-        <translation>当前文档使用了“%1”、“%2”、“%3”等云字体，为了保证使用体验，建议您下载上述云字体。</translation>
+        <translation type="obsolete">当前文档使用了“%1”、“%2”、“%3”等云字体，为了保证使用体验，建议您下载上述云字体。</translation>
     </message>
 </context>
 <context>
@@ -8208,7 +8246,7 @@ Properties</source>
     <name>KxGalleryRecommendFontItem</name>
     <message>
         <source>(Pay)</source>
-        <translation>（付费）</translation>
+        <translation type="obsolete">（付费）</translation>
     </message>
 </context>
 <context>
@@ -10975,7 +11013,7 @@ Do you want to override it?</source>
     </message>
     <message>
         <source>Not a valid file.</source>
-        <translation>不是一个有效的文件！</translation>
+        <translation type="obsolete">不是一个有效的文件！</translation>
     </message>
     <message>
         <source>The command cannot be performed because a dialog box is open. Click OK, and then close open dialog boxes to continue.</source>
@@ -11230,7 +11268,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Solution</source>
-        <translation>解决方案</translation>
+        <translation type="obsolete">解决方案</translation>
     </message>
 </context>
 <context>
@@ -11623,7 +11661,7 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation>提示信息</translation>
+        <translation type="obsolete">提示信息</translation>
     </message>
 </context>
 <context>
@@ -11686,27 +11724,27 @@ This file may be renamed, deleted or moved.</source>
     </message>
     <message>
         <source>Tips to prevent document loss:</source>
-        <translation>文档防丢小贴士：</translation>
+        <translation type="obsolete">文档防丢小贴士：</translation>
     </message>
     <message>
         <source>1. WPS has created backup for each of your documents. You can specify more %1 options %2.</source>
-        <translation>1.WPS已为您智能备份每份文档，您还可%1设置%2更多贴心选项。</translation>
+        <translation type="obsolete">1.WPS已为您智能备份每份文档，您还可%1设置%2更多贴心选项。</translation>
     </message>
     <message>
         <source>2. Use WPS %1 Cloud %2 services, your most convenient and secure cloud.</source>
-        <translation>2.使用WPS%1云文档%2服务，云端漫游方便又安全。</translation>
+        <translation type="obsolete">2.使用WPS%1云文档%2服务，云端漫游方便又安全。</translation>
     </message>
     <message>
         <source>3. %1 Kingsoft Data Recovery Master %2 helps you to recover accidentally deleted documents.</source>
-        <translation>3.文档误删不用怕，%1金山数据恢复大师%2轻松帮您找回。</translation>
+        <translation type="obsolete">3.文档误删不用怕，%1金山数据恢复大师%2轻松帮您找回。</translation>
     </message>
     <message>
         <source>4. %1 Kingsoft Document Recovery %2 helps you to open garbled documents.</source>
-        <translation>4.文档乱码打不开，%1金山文档修复%2轻松帮您解决。</translation>
+        <translation type="obsolete">4.文档乱码打不开，%1金山文档修复%2轻松帮您解决。</translation>
     </message>
     <message>
         <source>1. WPS has created backup for each of your documents. You can also view more services %1 in the backup center %2.</source>
-        <translation>1.WPS已为您智能备份每份文档，您还可在%1备份中心%2查看更多服务。</translation>
+        <translation type="obsolete">1.WPS已为您智能备份每份文档，您还可在%1备份中心%2查看更多服务。</translation>
     </message>
 </context>
 <context>
@@ -13362,6 +13400,10 @@ Always take this action.</source>
     <message>
         <source>Enter %1 %2 to %3 %4 of value</source>
         <translation>输入从 %1%2 到 %3%4的值</translation>
+    </message>
+    <message>
+        <source>Automatic</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16002,6 +16044,98 @@ or Web Page</source>
         <source>&amp;Calc</source>
         <translation>计算(&amp;B)</translation>
     </message>
+    <message>
+        <source>Application update</source>
+        <translation type="obsolete">应用更新</translation>
+    </message>
+    <message>
+        <source>A new version is available. Do you want to update it?</source>
+        <translation type="obsolete">发现新版本，是否更新？</translation>
+    </message>
+    <message>
+        <source>Ignore it</source>
+        <translation type="obsolete">忽略此版本</translation>
+    </message>
+    <message>
+        <source>Next time</source>
+        <translation type="obsolete">下次再说</translation>
+    </message>
+    <message>
+        <source>Update now</source>
+        <translation type="obsolete">立即更新</translation>
+    </message>
+    <message>
+        <source>Document id</source>
+        <translation type="unfinished">公文标识</translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation type="unfinished">文种</translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation type="unfinished">份号</translation>
+    </message>
+    <message>
+        <source>Document security level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation type="unfinished">紧急程度</translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation type="unfinished">发文机关标志</translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation type="unfinished">发文字号</translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation type="unfinished">签发人</translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation type="unfinished">主送机关</translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation type="unfinished">附件说明</translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation type="unfinished">发文机关或签发人署名</translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation type="unfinished">成文日期</translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation type="unfinished">附注</translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation type="unfinished">抄送机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation type="unfinished">印发机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation type="unfinished">印发日期</translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation type="unfinished">发布层次</translation>
+    </message>
 </context>
 <context>
     <name>updateMessageDlg</name>
@@ -16019,11 +16153,11 @@ or Web Page</source>
     </message>
     <message>
         <source>A new version is detected. Do you want to download the updated one?</source>
-        <translation>发现新版本，是否前往更新？</translation>
+        <translation type="obsolete">发现新版本，是否前往更新？</translation>
     </message>
     <message>
         <source>Ignore it</source>
-        <translation>忽略此版本</translation>
+        <translation type="obsolete">忽略此版本</translation>
     </message>
     <message>
         <source>Application update</source>
@@ -16040,6 +16174,10 @@ or Web Page</source>
     <message>
         <source>Update now</source>
         <translation>立即更新</translation>
+    </message>
+    <message>
+        <source>V10.0.0.1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -16058,11 +16196,83 @@ or Web Page</source>
     </message>
     <message>
         <source>Select a &amp;WordArt style:</source>
-        <translation>请选择一种“艺术字”样式(&amp;W):</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>WordArt Gallery</source>
-        <translation>艺术字库</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document type</source>
+        <translation type="obsolete">文种</translation>
+    </message>
+    <message>
+        <source>Document no.</source>
+        <translation type="obsolete">份号</translation>
+    </message>
+    <message>
+        <source>Document security level</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document security time</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Document emergency level</source>
+        <translation type="obsolete">紧急程度</translation>
+    </message>
+    <message>
+        <source>Document id</source>
+        <translation type="obsolete">公文标识</translation>
+    </message>
+    <message>
+        <source>Document organization flag</source>
+        <translation type="obsolete">发文机关标志</translation>
+    </message>
+    <message>
+        <source>Document issue no.</source>
+        <translation type="obsolete">发文字号</translation>
+    </message>
+    <message>
+        <source>Document issuer</source>
+        <translation type="obsolete">签发人</translation>
+    </message>
+    <message>
+        <source>Document mainly send organization</source>
+        <translation type="obsolete">主送机关</translation>
+    </message>
+    <message>
+        <source>Document attachment description</source>
+        <translation type="obsolete">附件说明</translation>
+    </message>
+    <message>
+        <source>Document organization or issuer signature</source>
+        <translation type="obsolete">发文机关或签发人署名</translation>
+    </message>
+    <message>
+        <source>Document date</source>
+        <translation type="obsolete">成文日期</translation>
+    </message>
+    <message>
+        <source>Document attachment notes</source>
+        <translation type="obsolete">附注</translation>
+    </message>
+    <message>
+        <source>Document carbon copy organization</source>
+        <translation type="obsolete">抄送机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing organization</source>
+        <translation type="obsolete">印发机关</translation>
+    </message>
+    <message>
+        <source>Document Issuing date</source>
+        <translation type="obsolete">印发日期</translation>
+    </message>
+    <message>
+        <source>Document Issuing level</source>
+        <translation type="obsolete">发布层次</translation>
     </message>
 </context>
 <context>
@@ -16153,6 +16363,10 @@ Eye Protection Mode or Night Mode.</source>
         <source>My Circle</source>
         <translation>我的团队</translation>
     </message>
+    <message>
+        <source>Open Local Document</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>KCloudTreeCtrlWidget</name>
@@ -16162,7 +16376,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>My Documents</source>
-        <translation>我的文档</translation>
+        <translation type="obsolete">我的文档</translation>
     </message>
     <message>
         <source>WPS Remote</source>
@@ -16207,7 +16421,7 @@ Eye Protection Mode or Night Mode.</source>
     </message>
     <message>
         <source>(Opening of read-only mode will no longer convert account-encrypted documents)</source>
-        <translation>(只读模式打开将不再进行账号加密文档的转化)</translation>
+        <translation type="obsolete">(只读模式打开将不再进行账号加密文档的转化)</translation>
     </message>
     <message>
         <source>(Recommended)</source>
@@ -19026,7 +19240,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>WeChat scan, focus on WPS after-sales service, customer service is your solution.</source>
-        <translation>微信扫一扫，关注“WPS售后服务”，专属客服为您解答问题。</translation>
+        <translation type="obsolete">微信扫一扫，关注“WPS售后服务”，专属客服为您解答问题。</translation>
     </message>
     <message>
         <source>WeChat QR Code</source>
@@ -19310,7 +19524,7 @@ you can manage,delete,reshare the link</source>
     </message>
     <message>
         <source>To avoid a problem that has not been discovered, The document was restored to a version with %1. Please send us an error report.</source>
-        <translation>刚才崩溃了，文档恢复到了 %1 的版本。 请发送错误报告给我们。</translation>
+        <translation type="obsolete">刚才崩溃了，文档恢复到了 %1 的版本。 请发送错误报告给我们。</translation>
     </message>
     <message>
         <source>find some keywords</source>
@@ -21289,7 +21503,7 @@ This file may be renamed, deleted or moved.</source>
     <name>KxSmartArtInsertDlgWidget_OldTemp</name>
     <message>
         <source>Choose A SmartArt Graphic</source>
-        <translation type="obsolete">选择智能图形</translation>
+        <translation type="unfinished">选择智能图形</translation>
     </message>
 </context>
 <context>
@@ -22030,7 +22244,158 @@ Click to retry, or try it later~</source>
     </message>
     <message>
         <source>Update now</source>
-        <translation>立即更新</translation>
+        <translation type="obsolete">立即更新</translation>
+    </message>
+</context>
+<context>
+    <name>KxFileNotFoundFileDlg</name>
+    <message>
+        <source>Unable to open &quot;%1&quot;.
+No audio output device or the file does not exist.</source>
+        <translation type="obsolete">无法打开 “%1”。
+无音频输出设备或该文件不存在。</translation>
+    </message>
+</context>
+<context>
+    <name>KxScannerDlg</name>
+    <message>
+        <source>Scanner</source>
+        <translation>扫描仪</translation>
+    </message>
+    <message>
+        <source>The Scanner Automatically Adapt</source>
+        <translation>扫描仪自适应</translation>
+    </message>
+    <message>
+        <source>Scanner Setup</source>
+        <translation>扫描仪设置</translation>
+    </message>
+    <message>
+        <source>Scanner:</source>
+        <translation>扫描仪：</translation>
+    </message>
+    <message>
+        <source>Scan Mode:</source>
+        <translation>扫描模式：</translation>
+    </message>
+    <message>
+        <source>Scan Dpi:</source>
+        <translation>扫描Dpi:</translation>
+    </message>
+    <message>
+        <source>Scan Color:</source>
+        <translation>扫描颜色：</translation>
+    </message>
+    <message>
+        <source>Scan Area:</source>
+        <translation type="obsolete">扫描区域：</translation>
+    </message>
+    <message>
+        <source>Image Size:</source>
+        <translation>图片大小：</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="obsolete">取消</translation>
+    </message>
+    <message>
+        <source>Scan</source>
+        <translation type="obsolete">扫描</translation>
+    </message>
+    <message>
+        <source>Searching...</source>
+        <translation>搜索中...</translation>
+    </message>
+    <message>
+        <source>Searched</source>
+        <translation>搜索完成</translation>
+    </message>
+    <message>
+        <source>More...</source>
+        <translation>更多...</translation>
+    </message>
+    <message>
+        <source>A4</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A5</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A6</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A7</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A8</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KLinuxOleHelper</name>
+    <message>
+        <source>All Files</source>
+        <translation type="obsolete">所有文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel 97-2003 Workbook</source>
+        <translation type="obsolete">Microsoft Excel 97-2003 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Excel Workbook</source>
+        <translation type="obsolete">Microsoft Excel 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word 97-2003 Document</source>
+        <translation type="obsolete">Microsoft Word 97-2003 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft Word Document</source>
+        <translation type="obsolete">Microsoft Word 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint 97-2003 Presentation</source>
+        <translation type="obsolete">Microsoft PowerPoint 97-2003 文件</translation>
+    </message>
+    <message>
+        <source>Microsoft PowerPoint Presentation</source>
+        <translation type="obsolete">Microsoft PowerPoint 文件</translation>
+    </message>
+    <message>
+        <source>XLS Workbook</source>
+        <translation>XLS 工作表</translation>
+    </message>
+    <message>
+        <source>XLSX Workbook</source>
+        <translation>XLSX 工作表</translation>
+    </message>
+    <message>
+        <source>DOC Document</source>
+        <translation>DOC 文档</translation>
+    </message>
+    <message>
+        <source>DOCX Document</source>
+        <translation>DOCX 文档</translation>
+    </message>
+    <message>
+        <source>PPT Presentation</source>
+        <translation>PPT 演示文稿</translation>
+    </message>
+    <message>
+        <source>PPTX Presentation</source>
+        <translation>PPTX 演示文稿</translation>
+    </message>
+    <message>
+        <source>Workbook</source>
+        <translation type="obsolete">工作表</translation>
+    </message>
+    <message>
+        <source>Presentation</source>
+        <translation type="obsolete">演示文稿</translation>
     </message>
 </context>
 </TS>

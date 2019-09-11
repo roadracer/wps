@@ -100,11 +100,11 @@
         <translatorcomment>保存(&amp;S)</translatorcomment>
         <translation>保存(&amp;S)</translation>
     </message>
-	<message>
+    <message>
         <source>Save Tip</source>
         <comment>TxJDE_FILE_SSAVE_TIP</comment>
         <translatorcomment>保存</translatorcomment>
-        <translation>保存</translation>
+        <translation type="obsolete">保存</translation>
     </message>
     <message>
         <source>&amp;Import File...</source>
@@ -172,7 +172,7 @@
         <translatorcomment>剪切(&amp;T)</translatorcomment>
         <translation>剪切(&amp;T)</translation>
     </message>
-	<message>
+    <message>
         <source>Cut Tip</source>
         <comment>TxJDE_EDIT_CUT_TIP</comment>
         <translatorcomment>剪切</translatorcomment>
@@ -1091,47 +1091,57 @@
         <translatorcomment>不支持</translatorcomment>
         <translation>不支持</translation>
     </message>
-<message>
+    <message>
         <source>set readonly error</source>
         <comment>TxJDE_API_ERROR_SET_READONLY</comment>
         <translatorcomment>只读</translatorcomment>
         <translation>只读</translation>
     </message>
-<message>
+    <message>
         <source>param error</source>
         <comment>TxJDE_API_ERROR_CHECK_PARAM</comment>
         <translatorcomment>参数错误</translatorcomment>
         <translation>参数错误</translation>
     </message>
-<message>
+    <message>
         <source>Object error</source>
         <comment>TxJDE_API_ERROR_GET_DynOBJECT</comment>
         <translatorcomment>对象错误</translatorcomment>
         <translation>对象错误</translation>
     </message>
-<message>
+    <message>
         <source>attribute name not valid%1</source>
         <comment>TxJDE_API_ERROR_Name_NOVALID</comment>
         <translatorcomment>不是一个合法的对象名称</translatorcomment>
-        <translation>不是一个合法的对象名称:%1</translation>
+        <translation type="obsolete">不是一个合法的对象名称:%1</translation>
     </message>
-<message>
+    <message>
         <source>attribute name confilct</source>
         <comment>TxJDE_API_ERROR_NAME_CONFLICT</comment>
         <translatorcomment>无法设置Name属性。不确定的名称</translatorcomment>
         <translation>无法设置Name属性。不确定的名称</translation>
     </message>
-<message>
-    <source>property value invalid %1</source>
-    <comment>TxJDE_API_PROPERTY_VALUE_INVALID</comment>
-    <translatorcomment>无法设置%1属性。无效的属性值</translatorcomment>
-    <translation>无法设置%1属性。无效的属性值</translation>
-</message>
-<message>
-    <source>property no support multi-selection</source>
-    <comment>TxJDE_API_PROPERTY_MULTI_NOTSUPPORT</comment>
-    <translatorcomment>多选不支持</translatorcomment>
-    <translation>多选不支持</translation>
-</message>
+    <message>
+        <source>property value invalid %1</source>
+        <comment>TxJDE_API_PROPERTY_VALUE_INVALID</comment>
+        <translatorcomment>无法设置%1属性。无效的属性值</translatorcomment>
+        <translation>无法设置%1属性。无效的属性值</translation>
+    </message>
+    <message>
+        <source>property no support multi-selection</source>
+        <comment>TxJDE_API_PROPERTY_MULTI_NOTSUPPORT</comment>
+        <translatorcomment>多选不支持</translatorcomment>
+        <translation>多选不支持</translation>
+    </message>
+    <message>
+        <source>Save Tip</source>
+        <comment>TxJDE_FILE_SAVE_TIP</comment>
+        <translation type="unfinished">保存</translation>
+    </message>
+    <message>
+        <source>attribute name not valid%1</source>
+        <comment>TxJDE_API_ERROR_NAME_NOVALID</comment>
+        <translation type="unfinished">不是一个合法的对象名称:%1</translation>
+    </message>
 </context>
 </TS>
