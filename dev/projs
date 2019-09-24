@@ -7,23 +7,104 @@
 [qt] wps:               shell2/wps
 [qt] wpp:               shell2/wpp
 [qt] et:                shell2/et
+[qt] pdf:               shell2/pdf
+[qt] kprometheus:       shell2/kprometheus
+[qt] kliteui:           shell2/kliteui
+[qt] auth:              shell2/auth
+[qt] auth2:             shell2/auth2
+[qt] shell2common:      shell2/common
+
+[qt] kde:               office/kde/kde_coreapi
+[qt] security:          office/security
+
+[qt] jside:             api/jsapi/jside;include/api/jsapi
+
+[qt] wpsrecommend:      support/newsetup/src/commonapp/recommendClient
+[qt] ksomisc:           support/ksomisc
+[qt] kwpsinspector:     support/kwpsinspector
+[qt] apilogserver:      support/apilogserver
 
 # shell2 kui files
 [kui] wpsresource:      wps
 [kui] wppresource:      wpp
 [kui] etresource:       et
+[kui] pdfresource:      pdf
 
 # shell2 plugin projects
-[qt] wpstablestyle:     shell2/plugins/wpstablestyle
-[qt] ettablestyle:      shell2/plugins/ettablestyle
-[qt] khomepage:         shell2/plugins/khomepage
-[qt] ktreasurebox:      shell2/plugins/ktreasurebox
-[qt] wpp2doc:           shell2/plugins/wpp2doc
-[qt] wpponlinetemplate: shell2/plugins/wpponlinetemplate
-[qt] officespace:       shell2/plugins/officespace
+[qt] wpstablestyle:        shell2/plugins/wpstablestyle
+[qt] ettablestyle:         shell2/plugins/ettablestyle
+[qt] khomepage:            shell2/plugins/khomepage
+[qt] ktreasurebox:         shell2/plugins/ktreasurebox
+[qt] wpp2doc:              shell2/plugins/wpp2doc
+[qt] wpponlinetemplate:    shell2/plugins/wpponlinetemplate
+[qt] kscreengrab:          shell2/plugins/kscreengrab
+#[qt] wppsaveasvideo:       shell2/plugins/wppsaveasvideo
+[qt] wpppresentationtool:  shell2/plugins/wpppresentationtool
+[qt] wpsspeaker:           shell2/plugins/wpsspeaker
+[qt] launcher:             shell2/plugins/launcher
+[qt] kaccountsdk:          shell2/plugins/kwpslive/kaccountsdk
+[qt] qing:                 shell2/plugins/kwpslive/qing
+[qt] shareplay:            shell2/plugins/shareplay
+
+# ts output to plugins
+[plugins] ktranslation:          shell2/plugins/ktranslation
+[plugins] ksofiledialog:         shell2/plugins/ksofiledialog
+[plugins] officespace:           shell2/plugins/officespace
+[plugins] kfeedback:             shell2/plugins/kfeedback
+[plugins] highresolution:        shell2/plugins/highresolution
+[plugins] pdf2wordapp:           shell2/plugins/kpdf2wordv2/pdf2wordapp
+[plugins] docpermission:         shell2/plugins/docpermission
+[plugins] wpsshowtimeapp:        shell2/plugins/wpsshowtime/wpsshowtimeapp
+[plugins] wpsxiede:              shell2/plugins/wpsxiede
+[plugins] wpsxiedeapp:           shell2/plugins/wpsxiede/wpsxiedeapp
+[plugins] konlinefonts:          shell2/plugins/konlinefonts
+[plugins] konlinemap:            shell2/plugins/konlinemap
+[plugins] kqrcode:               shell2/plugins/kqrcode
+[plugins] kbarcode:              shell2/plugins/kbarcode
+[plugins] konlinepicture:        shell2/plugins/konlinepicture
+[plugins] wpsprocesson:          shell2/plugins/wpsprocesson
+[plugins] wpsprocessonapp:       shell2/plugins/wpsprocesson/wpsprocessonapp
+[plugins] wpscloudform:          shell2/plugins/wpscloudform
+[plugins] wpscloudformapp:       shell2/plugins/wpscloudformapp
+[plugins] wpsclouddocsapp:       shell2/plugins/wpsclouddocsapp
+[plugins] kgeogebra:             shell2/plugins/kgeogebra
+[plugins] kadverttipctrl:        shell2/plugins/kadverttipctrl
+[plugins] kphonepicture:         shell2/plugins/kphonepicture
+[plugins] accountmenuwidget:     shell2/plugins/accountmenuwidget
+[plugins] kbrowser:              shell2/plugins/kbrowser
+[plugins] photo2pdf:             shell2/plugins/photo2pdf
+[plugins] messagecenter:         shell2/plugins/messagecenter
+[plugins] kweibo:                shell2/plugins/kweibo
+[plugins] kbackupcenter:         shell2/plugins/kbackupcenter
+[plugins] kwppshareplay:         shell2/plugins/kwppshareplay
+[plugins] kaiwpp:                shell2/plugins/kaibeautify/kaiwpp
+[plugins] kaiwps:                shell2/plugins/kaibeautify/kaiwps
+[plugins] kwhatsnew:             shell2/plugins/kwhatsnew
+[plugins] khelp:                 shell2/plugins/khelp
+[plugins] kclouddocs:            shell2/plugins/kclouddocs
+[plugins] kpromeshowtime:        shell2/plugins/kpromeshowtime
+[plugins] kwpsnote:              shell2/plugins/kwpsnote
+[plugins] kpromeeducourse:       shell2/plugins/kpromeeducourse
+[plugins] kprometeambition:      shell2/plugins/kprometeambition
+[plugins] kpromewpsmember:       shell2/plugins/kpromewpsmember
+[plugins] kpromeworkarea:        shell2/plugins/kpromeworkarea
+[plugins] kpromedida365:         shell2/plugins/kpromedida365
+[plugins] kpromemodao:           shell2/plugins/kpromemodao
+[plugins] yunstationlauncher:    shell2/plugins/yunstationlauncher
+[plugins] kpromeksrong:          shell2/plugins/kpromeksrong
+[plugins] kwpsdesktop:           shell2/plugins/kwpsdesktop
+[plugins] common:                shell2/plugins/wppsaveasvideo/common
+
+# tips
+[qt] ettips:            shell2/include/tips/ettips.h
+[qt] wpptips:           shell2/include/tips/wpptips.h
+[qt] wpstips:           shell2/include/tips/wpstips.h
+[qt] ksotips:           shell2/include/tips/ksotips.h
+[qt] pdftips:           shell2/include/tips/pdftips.h
 
 # core projects
 [core] kso:             include/kso/l10n/kso
 [core] wpscore:         include/kso/l10n/wps
 [core] wppcore:         include/kso/l10n/wpp
 [core] etcore:          include/kso/l10n/et
+[core] pdfcore:         include/kso/l10n/pdf

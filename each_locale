@@ -2,7 +2,7 @@
 
 set -e
 
-locales=`ls */lang.conf | sed 's#/lang.conf$##'`
+locales=`ls */lang.conf | sed 's#/lang.conf$##' | grep -vx sample | grep -vx "\<en\>"`
 for l in $locales
 do
 	cd $l
