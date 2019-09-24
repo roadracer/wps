@@ -1,96 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TS>
-<TS version="2.0" language="uk_UA">
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TS []>
+<TS version="2.0" language="uk">
 <defaultcodec>UTF-8</defaultcodec>
 <context>
     <name>KScreenGrabDialog</name>
     <message>
         <source>Rect Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Інструмент Rect</translation>
     </message>
     <message>
         <source>Ellipse Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Еліпс</translation>
     </message>
     <message>
         <source>Arrow Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Інструмент зі стрілками</translation>
     </message>
     <message>
         <source>Brush Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Пензлик</translation>
     </message>
     <message>
         <source>Text Tool</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовий інструмент</translation>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>Copy to Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Копіювати до буферу обміну</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти</translation>
     </message>
     <message>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Вийти</translation>
     </message>
     <message>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Reselect Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Перебрати регіон</translation>
     </message>
     <message>
         <source>Hide Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Панель інструментів</translation>
     </message>
     <message>
         <source>%1 * %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 * %2</translation>
     </message>
     <message>
         <source>(%1, %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>(%1, %2)</translation>
     </message>
     <message>
         <source>RGB:(%1, %2, %3)</source>
-        <translation type="unfinished"></translation>
+        <translation>RGB:(%1, %2, %3)</translation>
     </message>
     <message>
         <source>Press Alt
 to Adsorb Line</source>
-        <translation type="unfinished"></translation>
+        <translation>Натисніть Alt
+для лінії адсорбування</translation>
     </message>
     <message>
         <source>Capture%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Захоплення: %1</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Зберегти як</translation>
     </message>
     <message>
         <source>%1;;%2;;%3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1;;%2;;%3</translation>
     </message>
     <message>
         <source>Show Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>Показати панель</translation>
     </message>
 </context>
 <context>
     <name>KScreenGrabHint</name>
     <message>
         <source>Copied to clipboard!</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст скопійовано</translation>
     </message>
 </context>
 </TS>
